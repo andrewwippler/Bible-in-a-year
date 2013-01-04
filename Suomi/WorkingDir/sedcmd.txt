@@ -1,1 +1,1 @@
-sed -i.bak 's/([0-9\.]{0,3})$/<div class="versenum">\1<\/div>/g' 
+sed -i.bak 's/([0-9\.]{0,3})$/<div class="verenuM">&<\/Div>/g' 
