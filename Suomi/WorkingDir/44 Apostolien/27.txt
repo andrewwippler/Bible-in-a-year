@@ -1,90 +1,90 @@
 Apostolien 27	
 	
-1. Mutta sittenkuin paatetty oli, etta meidan piti Italiaan purjehtiman, antoivat he Paavalin muiden vankien kanssa yhden sadanpaamiehen haltuun, joka kutsuttiin Julius, keisarin sotajoukosta.	
+<div class="versenum">1.</div> Mutta sittenkuin paatetty oli, etta meidan piti Italiaan purjehtiman, antoivat he Paavalin muiden vankien kanssa yhden sadanpaamiehen haltuun, joka kutsuttiin Julius, keisarin sotajoukosta.	
 
-2. Kuin me siis astuimme Adramytin haahteen, ja meidan piti purjehtiman Asian ohitse, laskimme me ulos maalta. Ja meidan kanssamme oli Aristarkus, Makedonian mies, Tessalonikasta.	
+<div class="versenum">2.</div> Kuin me siis astuimme Adramytin haahteen, ja meidan piti purjehtiman Asian ohitse, laskimme me ulos maalta. Ja meidan kanssamme oli Aristarkus, Makedonian mies, Tessalonikasta.	
 
-3. Ja me tulimme toisena paivana Sidoniin. Ja Julius meni hyvasti Paavalin kanssa, ja salli hanen menna ystavainsa tyko ja heilta holhottaa.	
+<div class="versenum">3.</div> Ja me tulimme toisena paivana Sidoniin. Ja Julius meni hyvasti Paavalin kanssa, ja salli hanen menna ystavainsa tyko ja heilta holhottaa.	
 
-4. Ja kuin me sielta laskimme ulos, niin me purjehdimme Kyprin ohitse, etta vastatuulet olivat.	
+<div class="versenum">4.</div> Ja kuin me sielta laskimme ulos, niin me purjehdimme Kyprin ohitse, etta vastatuulet olivat.	
 
-5. Ja kuin me olimme purjehtineet yli meren, joka Kilikian ja Pamphilian kohdalla on, ja tulimme Myraan, joka on Lykiassa,	
+<div class="versenum">5.</div> Ja kuin me olimme purjehtineet yli meren, joka Kilikian ja Pamphilian kohdalla on, ja tulimme Myraan, joka on Lykiassa,	
 
-6. Niin loysi sadanpaamies siella yhden Aleksandrialaisen haahden, joka Italiaan purjehti, ja pani meidat siihen.	
+<div class="versenum">6.</div> Niin loysi sadanpaamies siella yhden Aleksandrialaisen haahden, joka Italiaan purjehti, ja pani meidat siihen.	
 
-7. Kuin me monta paivaa hitaasti purjehdimme ja tuskalla Knidon saavutimme, ettemme paasseet tuulelta, niin me purjehdimme Kretan alle, Salmoneen pain.	
+<div class="versenum">7.</div> Kuin me monta paivaa hitaasti purjehdimme ja tuskalla Knidon saavutimme, ettemme paasseet tuulelta, niin me purjehdimme Kretan alle, Salmoneen pain.	
 
-8. Ja kuin me tuskin sen ohitse paasimme, niin me tulimme yhteen paikkaan, joka Kauniiksi satamaksi kutsutaan, jota lasna oli Lasean kaupunki.	
+<div class="versenum">8.</div> Ja kuin me tuskin sen ohitse paasimme, niin me tulimme yhteen paikkaan, joka Kauniiksi satamaksi kutsutaan, jota lasna oli Lasean kaupunki.	
 
-9. Koska paljo aikaa oli kulunut, ja purjehdus oli vaarallinen, ja paaston aika oli jo kulunut, neuvoi Paavali heita,	
+<div class="versenum">9.</div> Koska paljo aikaa oli kulunut, ja purjehdus oli vaarallinen, ja paaston aika oli jo kulunut, neuvoi Paavali heita,	
 
-10. Sanoen: armaat miehet! mina naen, etta purjehdus tulee vaaralliseksi ja vahingolliseksi, ei ainoastaan kalulle ja haahdelle, mutta myos meidan hengellemme.	
+<div class="versenum">10.</div> Sanoen: armaat miehet! mina naen, etta purjehdus tulee vaaralliseksi ja vahingolliseksi, ei ainoastaan kalulle ja haahdelle, mutta myos meidan hengellemme.	
 
-11. Mutta sadanpaamies uskoi enemmin haahdenhaltiaa ja peranpitajaa kuin Paavalin sanoja.	
+<div class="versenum">11.</div> Mutta sadanpaamies uskoi enemmin haahdenhaltiaa ja peranpitajaa kuin Paavalin sanoja.	
 
-12. Ja kuin ei satama ollut sovelias yli talvea olla, niin he enimmitten mielistyivat siihen neuvoon, etta sielta piti laskettaman pois, jos he jollakin muotoa olisivat voineet tulla Phoinikaan talvea pitamaan, joka on Kretan satama, etelalantea ja luodepohjaa pain.	
+<div class="versenum">12.</div> Ja kuin ei satama ollut sovelias yli talvea olla, niin he enimmitten mielistyivat siihen neuvoon, etta sielta piti laskettaman pois, jos he jollakin muotoa olisivat voineet tulla Phoinikaan talvea pitamaan, joka on Kretan satama, etelalantea ja luodepohjaa pain.	
 
-13. Mutta kuin etelatuuli rupesi puhaltamaan, luulivat he aikomisensa kayvan edes, laksivat matkaan ja purjehtivat Kretan ohitse lahempana maata.	
+<div class="versenum">13.</div> Mutta kuin etelatuuli rupesi puhaltamaan, luulivat he aikomisensa kayvan edes, laksivat matkaan ja purjehtivat Kretan ohitse lahempana maata.	
 
-14. Mutta ei kauvan aikaa jalkeen loi sen paalle ankara puuskatuuli, joka itapohjaksi kutsutaan.	
+<div class="versenum">14.</div> Mutta ei kauvan aikaa jalkeen loi sen paalle ankara puuskatuuli, joka itapohjaksi kutsutaan.	
 
-15. Ja kuin haaksi tuli sen valtaan eika voinut tuulta vastaan seisoa, laskimme me sen tuulen haltuun kulkemaan.	
+<div class="versenum">15.</div> Ja kuin haaksi tuli sen valtaan eika voinut tuulta vastaan seisoa, laskimme me sen tuulen haltuun kulkemaan.	
 
-16. Ja kuin me tulimme yhden vahan saaren alle, joka kutsutaan Klauda, saimme me tuskalla venheesen ruveta,	
+<div class="versenum">16.</div> Ja kuin me tulimme yhden vahan saaren alle, joka kutsutaan Klauda, saimme me tuskalla venheesen ruveta,	
 
-17. Jonka me otimme avuksemme ja sidoimme haahteen, peljaten, ettei sen pitanyt kariin sattuman; ja he laskivat alas purheen ja antoivat kulkea.	
+<div class="versenum">17.</div> Jonka me otimme avuksemme ja sidoimme haahteen, peljaten, ettei sen pitanyt kariin sattuman; ja he laskivat alas purheen ja antoivat kulkea.	
 
-18. Mutta koska suuri ilma kavi paalle, heittivat he toisena paivana kalun ulos.	
+<div class="versenum">18.</div> Mutta koska suuri ilma kavi paalle, heittivat he toisena paivana kalun ulos.	
 
-19. Ja kolmantena paivana heitimme me omilla kasillamme ulos haahden kaluja.	
+<div class="versenum">19.</div> Ja kolmantena paivana heitimme me omilla kasillamme ulos haahden kaluja.	
 
-20. Mutta kuin emme monena paivana aurinkoa emmeka tahtia nahneet, eika vahin ilma meidan paallemme kaynyt, niin meidan elamamme toivo oli jo kaikki pois.	
+<div class="versenum">20.</div> Mutta kuin emme monena paivana aurinkoa emmeka tahtia nahneet, eika vahin ilma meidan paallemme kaynyt, niin meidan elamamme toivo oli jo kaikki pois.	
 
-21. Ja koska me kauvan aikaa olimme syomatta, silloin seisoi Paavali heidan keskellansa ja sanoi: miehet, teidan olis tullut minua kuulla ja ei Kretasta laskea ulos, etta me olisimme valttaneet tainkaltaisen tuskan ja vahingon.	
+<div class="versenum">21.</div> Ja koska me kauvan aikaa olimme syomatta, silloin seisoi Paavali heidan keskellansa ja sanoi: miehet, teidan olis tullut minua kuulla ja ei Kretasta laskea ulos, etta me olisimme valttaneet tainkaltaisen tuskan ja vahingon.	
 
-22. Ja nytkin mina neuvon teita, olkaat hyvassa uskalluksesta, ei teista yksikaan huku, vaan ainoastaan haaksi.	
+<div class="versenum">22.</div> Ja nytkin mina neuvon teita, olkaat hyvassa uskalluksesta, ei teista yksikaan huku, vaan ainoastaan haaksi.	
 
-23. Silla minun tykonani seisoi tana yona Jumalan enkeli, jonka oma mina olen, jota mina myos palvelen,	
+<div class="versenum">23.</div> Silla minun tykonani seisoi tana yona Jumalan enkeli, jonka oma mina olen, jota mina myos palvelen,	
 
-24. Ja sanoi: ala pelkaa, Paavali, sina pitaa keisarin eteen asetettaman, ja katso, Jumala on sinulle lahjoittanut ne kaikki, jotka sinun kanssas purjehtivat.	
+<div class="versenum">24.</div> Ja sanoi: ala pelkaa, Paavali, sina pitaa keisarin eteen asetettaman, ja katso, Jumala on sinulle lahjoittanut ne kaikki, jotka sinun kanssas purjehtivat.	
 
-25. Sentahden miehet, olkaat hyvassa uskalluksessa! Silla mina uskon Jumalan paalle, etta se niin tapahtuu, kuin minulle sanottu on.	
+<div class="versenum">25.</div> Sentahden miehet, olkaat hyvassa uskalluksessa! Silla mina uskon Jumalan paalle, etta se niin tapahtuu, kuin minulle sanottu on.	
 
-26. Mutta yhteen luotoon pitaa meidan kulkeman.	
+<div class="versenum">26.</div> Mutta yhteen luotoon pitaa meidan kulkeman.	
 
-27. Kuin neljastoistakymmenes yo joutui, ja me ajeltiin Adrian merella, akkasivat haaksimiehet puoliyon aikaan jonkun maan heita lahestyvan,	
+<div class="versenum">27.</div> Kuin neljastoistakymmenes yo joutui, ja me ajeltiin Adrian merella, akkasivat haaksimiehet puoliyon aikaan jonkun maan heita lahestyvan,	
 
-28. Ja heittivat ulos luotirihman ja loysivat kaksikymmenta kyynaraa syvaksi; kuin he tulivat vahaa edemma, heittivat he taas ulos luotirihman ja loysivat viisitoistakymmenta kyynaraa.	
+<div class="versenum">28.</div> Ja heittivat ulos luotirihman ja loysivat kaksikymmenta kyynaraa syvaksi; kuin he tulivat vahaa edemma, heittivat he taas ulos luotirihman ja loysivat viisitoistakymmenta kyynaraa.	
 
-29. Niin he pelkasivat joutuvansa johonkuhun kariin, ja heittivat ulos nelja ankkuria peralta haahta, ja toivoivat paivan koittavan.	
+<div class="versenum">29.</div> Niin he pelkasivat joutuvansa johonkuhun kariin, ja heittivat ulos nelja ankkuria peralta haahta, ja toivoivat paivan koittavan.	
 
-30. Mutta kuin haaksimiehet pyysivat haahdesta paeta, ja lykkasivat venheen mereen, sanoen etta he tahtoivat ankkuria vieda ulos haahden keulasta,	
+<div class="versenum">30.</div> Mutta kuin haaksimiehet pyysivat haahdesta paeta, ja lykkasivat venheen mereen, sanoen etta he tahtoivat ankkuria vieda ulos haahden keulasta,	
 
-31. Niin Paavali sanoi sadanpaamiehelle ja sotamiehille: ellei namat haahdessa pysy, ette suinkaan henkeanne pelasta.	
+<div class="versenum">31.</div> Niin Paavali sanoi sadanpaamiehelle ja sotamiehille: ellei namat haahdessa pysy, ette suinkaan henkeanne pelasta.	
 
-32. Niin sotamiehet hakkasivat poikki venheen pestin, ja antoivat sen pudota.	
+<div class="versenum">32.</div> Niin sotamiehet hakkasivat poikki venheen pestin, ja antoivat sen pudota.	
 
-33. Ja kuin paiva rupesi valkenemaan, neuvoi Paavali kaikkia heita ruokaa ottamaan, sanoen: tanapana on neljastoistakymmenes paiva, kuin te odottaneet olette, ja syomatta olleet, ja ette mitaan ole tykonne ottaneet:	
+<div class="versenum">33.</div> Ja kuin paiva rupesi valkenemaan, neuvoi Paavali kaikkia heita ruokaa ottamaan, sanoen: tanapana on neljastoistakymmenes paiva, kuin te odottaneet olette, ja syomatta olleet, ja ette mitaan ole tykonne ottaneet:	
 
-34. Sentahden neuvon mina teita ruokaa ottamaan, joka on teille terveydeksi; silla ei yhdenkaan teidan paastanne ole hiuskarva putoova.	
+<div class="versenum">34.</div> Sentahden neuvon mina teita ruokaa ottamaan, joka on teille terveydeksi; silla ei yhdenkaan teidan paastanne ole hiuskarva putoova.	
 
-35. Ja kuin han sen oli sanonut, otti han leivan, ja kiitti Jumalaa kaikkein nahden, mursi, ja rupesi syomaan.	
+<div class="versenum">35.</div> Ja kuin han sen oli sanonut, otti han leivan, ja kiitti Jumalaa kaikkein nahden, mursi, ja rupesi syomaan.	
 
-36. Ja kuin he kaikki itsensa vahvistivat, rupesivat he myos syomaan.	
+<div class="versenum">36.</div> Ja kuin he kaikki itsensa vahvistivat, rupesivat he myos syomaan.	
 
-37. Mutta meita oli haahdessa kaikki yhteen kaksisataa ja kuusikahdeksattakymmenta henkea.	
+<div class="versenum">37.</div> Mutta meita oli haahdessa kaikki yhteen kaksisataa ja kuusikahdeksattakymmenta henkea.	
 
-38. Ja kuin he olivat ravitut, kevensivat he haahden ja heittivat jyvat mereen.	
+<div class="versenum">38.</div> Ja kuin he olivat ravitut, kevensivat he haahden ja heittivat jyvat mereen.	
 
-39. Mutta kuin paiva tuli, niin ei he tunteneet maata, mutta havaitsivat lahden, jossa ranta oli, jonka paalle he mielivat antaa haahden ajaa, jos he olisivat taitaneet.	
+<div class="versenum">39.</div> Mutta kuin paiva tuli, niin ei he tunteneet maata, mutta havaitsivat lahden, jossa ranta oli, jonka paalle he mielivat antaa haahden ajaa, jos he olisivat taitaneet.	
 
-40. Ja kuin he ankkurit olivat ottaneet ylos, laksivat he mereen ja paastivat peralautain siteet, ja asettivat purjeen tuuleen, ja antoivat juosta rantaa kohden.	
+<div class="versenum">40.</div> Ja kuin he ankkurit olivat ottaneet ylos, laksivat he mereen ja paastivat peralautain siteet, ja asettivat purjeen tuuleen, ja antoivat juosta rantaa kohden.	
 
-41. Vaan kuin me tulimme yhden niemen tyko, loukkaantui haaksi, ja sen keula tarttui kiinni ja jai seisomaan, mutta kastari tuli valallensa aaltoin vaesta.	
+<div class="versenum">41.</div> Vaan kuin me tulimme yhden niemen tyko, loukkaantui haaksi, ja sen keula tarttui kiinni ja jai seisomaan, mutta kastari tuli valallensa aaltoin vaesta.	
 
-42. Mutta sotamiesten neuvo oli vankeja tappaa, ettei joku uiden olisi karannut pois.	
+<div class="versenum">42.</div> Mutta sotamiesten neuvo oli vankeja tappaa, ettei joku uiden olisi karannut pois.	
 
-43. Mutta sadanpaamies tahtoi Paavalia vapahtaa, ja esti heidat siita neuvosta, ja kaski niita, jotka uida taisivat, etta he ensin itsensa antaisivat ulos ja maalle paasisivat.	
+<div class="versenum">43.</div> Mutta sadanpaamies tahtoi Paavalia vapahtaa, ja esti heidat siita neuvosta, ja kaski niita, jotka uida taisivat, etta he ensin itsensa antaisivat ulos ja maalle paasisivat.	
 
-44. Mutta muita lautain paalla, muutamia taas haahden kappaleilla (kulkea). Ja niin tapahtui, etta jokainen tuli hengissa maalle.	
+<div class="versenum">44.</div> Mutta muita lautain paalla, muutamia taas haahden kappaleilla (kulkea). Ja niin tapahtui, etta jokainen tuli hengissa maalle.	
 

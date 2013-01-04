@@ -1,48 +1,48 @@
 Joosuan 11	
 	
-1. Ja tapahtui, etta kuin Jobin Hatsorin kuningas sen kuuli, lahetti han Jobabin Madonin kuninkaan tyko, ja Simronin kuninkaan, ja Akasaphin kuninkaan tyko,	
+<div class="versenum">1.</div> Ja tapahtui, etta kuin Jobin Hatsorin kuningas sen kuuli, lahetti han Jobabin Madonin kuninkaan tyko, ja Simronin kuninkaan, ja Akasaphin kuninkaan tyko,	
 
-2. Ja niiden kuningasten tyko, jotka asuivat pohjan puolella vuorella, ja lakeudella, meren puolella Kinerotista, ja laaksoissa, ja Dorin Naphotissa meren puolella,	
+<div class="versenum">2.</div> Ja niiden kuningasten tyko, jotka asuivat pohjan puolella vuorella, ja lakeudella, meren puolella Kinerotista, ja laaksoissa, ja Dorin Naphotissa meren puolella,	
 
-3. Kanaanealaisten tyko idan ja lannen puoleen, Amorilaisten, Hetilaisten, Pheresilaisten ja Jebusilaisten tyko vuorelle, niin hyos Hevilaisten tyko alapuolella Hermonin vuorta Mitspan maakunnassa.	
+<div class="versenum">3.</div> Kanaanealaisten tyko idan ja lannen puoleen, Amorilaisten, Hetilaisten, Pheresilaisten ja Jebusilaisten tyko vuorelle, niin hyos Hevilaisten tyko alapuolella Hermonin vuorta Mitspan maakunnassa.	
 
-4. Ja namat laksivat kaiken sotajoukkonsa kanssa, joka oli sangen suuri kansan paljous, niinkuin santa meren rannalla paljouden tahden, ja sangen monta hevosta ja vaunua.	
+<div class="versenum">4.</div> Ja namat laksivat kaiken sotajoukkonsa kanssa, joka oli sangen suuri kansan paljous, niinkuin santa meren rannalla paljouden tahden, ja sangen monta hevosta ja vaunua.	
 
-5. Kaikki namat kuninkaat kokoontuivat ja he tulivat ja sioittivat heitansa yhteen Meromin vetten tykona, sotimaan Israelia vastaan.	
+<div class="versenum">5.</div> Kaikki namat kuninkaat kokoontuivat ja he tulivat ja sioittivat heitansa yhteen Meromin vetten tykona, sotimaan Israelia vastaan.	
 
-6. Ja Herra sanoi Josualle: ala heita ensinkaan pelkaa, silla huomenna talla ajalla mina annan heidat kaikki lyotyna Israelin kansan eteen; heidan hevosensa pitaa sinun rivinomaksi tekeman ja heidan vaununsa tulella polttaman.	
+<div class="versenum">6.</div> Ja Herra sanoi Josualle: ala heita ensinkaan pelkaa, silla huomenna talla ajalla mina annan heidat kaikki lyotyna Israelin kansan eteen; heidan hevosensa pitaa sinun rivinomaksi tekeman ja heidan vaununsa tulella polttaman.	
 
-7. Ja Josua tuli ja kaikki sotajoukko hanen kanssansa akisti heidan paallensa, Meromin vetten tykona, ja karkasivat heidan paallensa.	
+<div class="versenum">7.</div> Ja Josua tuli ja kaikki sotajoukko hanen kanssansa akisti heidan paallensa, Meromin vetten tykona, ja karkasivat heidan paallensa.	
 
-8. Ja Herra antoi heidat israelin kasiin, ja he loivat heita, ja ajoivat heita takaa isoon Zidoniin asti, ja lampimaan veteen asti, ja Mitspan ketoon asti, itaan pain, ja loivat heita siihenasti, ettei yksikaan heista jaanyt.	
+<div class="versenum">8.</div> Ja Herra antoi heidat israelin kasiin, ja he loivat heita, ja ajoivat heita takaa isoon Zidoniin asti, ja lampimaan veteen asti, ja Mitspan ketoon asti, itaan pain, ja loivat heita siihenasti, ettei yksikaan heista jaanyt.	
 
-9. Niin teki myos Josua heille, niinkuin Herra oli hanelle kaskenyt, ja teki rivinomaksi heidan hevosensa ja poltti heidan vaununsa tulella.	
+<div class="versenum">9.</div> Niin teki myos Josua heille, niinkuin Herra oli hanelle kaskenyt, ja teki rivinomaksi heidan hevosensa ja poltti heidan vaununsa tulella.	
 
-10. Ja Josua palasi silla ajalla ja voitti Hatsorin ja loi hanen kuninkaansa miekalla; silla Hatsor oli ennen kaikkein naiden valtakuntain paakaupunki.	
+<div class="versenum">10.</div> Ja Josua palasi silla ajalla ja voitti Hatsorin ja loi hanen kuninkaansa miekalla; silla Hatsor oli ennen kaikkein naiden valtakuntain paakaupunki.	
 
-11. Ja he loivat kaikki ne sielut, jotka siella olivat, miekan teralla, ja tappoivat, niin ettei yhtakaan jaanyt, jolla henki oli, ja poltti Hatsorin tulella.	
+<div class="versenum">11.</div> Ja he loivat kaikki ne sielut, jotka siella olivat, miekan teralla, ja tappoivat, niin ettei yhtakaan jaanyt, jolla henki oli, ja poltti Hatsorin tulella.	
 
-12. Ja kaikkein niiden kuningasten kaupungit voitti Josua, kaikkein heidan kuningastensa kanssa, ja loi heita miekan teralla, ja tappoi heidat, niinkuin Moses Herran palvelia kaskenyt oli.	
+<div class="versenum">12.</div> Ja kaikkein niiden kuningasten kaupungit voitti Josua, kaikkein heidan kuningastensa kanssa, ja loi heita miekan teralla, ja tappoi heidat, niinkuin Moses Herran palvelia kaskenyt oli.	
 
-13. Mutta Israelin lapset ei polttaneet yhtakaan kaupunkia, jotka seisoivat toyraillansa, paitsi ainoaa Hatsoria, jonka Josua poltti.	
+<div class="versenum">13.</div> Mutta Israelin lapset ei polttaneet yhtakaan kaupunkia, jotka seisoivat toyraillansa, paitsi ainoaa Hatsoria, jonka Josua poltti.	
 
-14. Ja kaiken saaliin ja elaimet, jotka he naista kaupungeista olivat ottaneet, jakoivat Israelin lapset keskenansa. Ainoasti kaikki ihmiset tappoivat he miekan teralla, siihenasti etta he hukuttivat heidat, niin ettei yhtakaan elavaa henkea jaanyt,	
+<div class="versenum">14.</div> Ja kaiken saaliin ja elaimet, jotka he naista kaupungeista olivat ottaneet, jakoivat Israelin lapset keskenansa. Ainoasti kaikki ihmiset tappoivat he miekan teralla, siihenasti etta he hukuttivat heidat, niin ettei yhtakaan elavaa henkea jaanyt,	
 
-15. Niinkuin Herra palveliallensa Mosekselle kaskenyt oli, ja Moses oli Josualle kaskenyt. Ja niin Josua teki, ettei niista yhtakaan tekemata jaanyt, mita Herra Mosekselle kaskenyt oli.	
+<div class="versenum">15.</div> Niinkuin Herra palveliallensa Mosekselle kaskenyt oli, ja Moses oli Josualle kaskenyt. Ja niin Josua teki, ettei niista yhtakaan tekemata jaanyt, mita Herra Mosekselle kaskenyt oli.	
 
-16. Ja Josua otti kaiken taman maakunnan, vuorimaan, ja kaiken Etelamaan, ja kaiken Gosenin maan ja kedot seka myos laaksot, ja Israelin vuoret laaksoinensa,	
+<div class="versenum">16.</div> Ja Josua otti kaiken taman maakunnan, vuorimaan, ja kaiken Etelamaan, ja kaiken Gosenin maan ja kedot seka myos laaksot, ja Israelin vuoret laaksoinensa,	
 
-17. Siita sileasta vuoresta, joka menee ylos Seiriin pain BaalGadiin asti Libanonin laaksossa, Hermonin vuoren alapuolella: kaikki heidan kuninkaansa voitti han, loi ja tappoi heidat.	
+<div class="versenum">17.</div> Siita sileasta vuoresta, joka menee ylos Seiriin pain BaalGadiin asti Libanonin laaksossa, Hermonin vuoren alapuolella: kaikki heidan kuninkaansa voitti han, loi ja tappoi heidat.	
 
-18. Kauvan aikaa soti Josua kaikkein naiden kuningasten kanssa.	
+<div class="versenum">18.</div> Kauvan aikaa soti Josua kaikkein naiden kuningasten kanssa.	
 
-19. Ei ollut yhtakaan kaupunkia, joka rauhalla itsensa antoi Israelin lasten alle, paitsi Hevilaisia, jotka asuivat Gibeonissa; mutta kaikki he ottivat sodalla.	
+<div class="versenum">19.</div> Ei ollut yhtakaan kaupunkia, joka rauhalla itsensa antoi Israelin lasten alle, paitsi Hevilaisia, jotka asuivat Gibeonissa; mutta kaikki he ottivat sodalla.	
 
-20. Ja se tapahtui niin Herralta, etta heidan sydamensa oli niin paatunut, etta he kohtasivat Israelin sodalla, etta han heidat tappais, ja ei yhtakaan armoa heille tapahtuisi, vaan etta han hukuttais heidat, niinkuin Herra Mosekselle kaskenyt oli.	
+<div class="versenum">20.</div> Ja se tapahtui niin Herralta, etta heidan sydamensa oli niin paatunut, etta he kohtasivat Israelin sodalla, etta han heidat tappais, ja ei yhtakaan armoa heille tapahtuisi, vaan etta han hukuttais heidat, niinkuin Herra Mosekselle kaskenyt oli.	
 
-21. Siihen aikaan tuli Josua ja havitti Enakilaiset vuorelta, Hebronista, Debirista, Anabista ja kaikilta Juudan vuorilta ja kaikilta Israelin vuorilta, ja tappoi heidat kaupunkeinensa,	
+<div class="versenum">21.</div> Siihen aikaan tuli Josua ja havitti Enakilaiset vuorelta, Hebronista, Debirista, Anabista ja kaikilta Juudan vuorilta ja kaikilta Israelin vuorilta, ja tappoi heidat kaupunkeinensa,	
 
-22. Ja ei antanut yhtakaan Enakilaista jaada Israelin lasten maalle, paitsi Gasassa, Gatissa ja Asdodissa, joihin he jaivat.	
+<div class="versenum">22.</div> Ja ei antanut yhtakaan Enakilaista jaada Israelin lasten maalle, paitsi Gasassa, Gatissa ja Asdodissa, joihin he jaivat.	
 
-23. Ja niin Josua otti kaiken maakunnan, perati niin kuin Herra Mosekselle oli sanonut, ja antoi Israelille perinnoksi, kullekin sukukunnalle osansa; ja maakunta lakkasi sotimasta.	
+<div class="versenum">23.</div> Ja niin Josua otti kaiken maakunnan, perati niin kuin Herra Mosekselle oli sanonut, ja antoi Israelille perinnoksi, kullekin sukukunnalle osansa; ja maakunta lakkasi sotimasta.	
 

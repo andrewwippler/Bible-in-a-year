@@ -1,58 +1,58 @@
 Psalmien 73	
 	
-1. Asaphin Psalmi. Totta on Jumala hyva Israelille, niille, jotka puhtaat sydamesta ovat.	
+<div class="versenum">1.</div> Asaphin Psalmi. Totta on Jumala hyva Israelille, niille, jotka puhtaat sydamesta ovat.	
 
-2. Mutta mina olisin pian jaloillani horjunut: minun askeleeni olisivat lahes liukastuneet.	
+<div class="versenum">2.</div> Mutta mina olisin pian jaloillani horjunut: minun askeleeni olisivat lahes liukastuneet.	
 
-3. Silla mina narkastyin oykkareista, etta mina nain jumalattomat menestyvan.	
+<div class="versenum">3.</div> Silla mina narkastyin oykkareista, etta mina nain jumalattomat menestyvan.	
 
-4. Silla ei he ole missaan kuoleman hadassa, vaan heidan voimansa pysyy vahvana.	
+<div class="versenum">4.</div> Silla ei he ole missaan kuoleman hadassa, vaan heidan voimansa pysyy vahvana.	
 
-5. Ei he ole vastoinkaymisessa niinkuin muut ihmiset, ja ei heita vaivata niinkuin muita ihmisia.	
+<div class="versenum">5.</div> Ei he ole vastoinkaymisessa niinkuin muut ihmiset, ja ei heita vaivata niinkuin muita ihmisia.	
 
-6. Sentahden on heidan ylpeytensa koria, ja heidan vakivaltansa kaunistaa heita.	
+<div class="versenum">6.</div> Sentahden on heidan ylpeytensa koria, ja heidan vakivaltansa kaunistaa heita.	
 
-7. Heidan silmansa paisuvat lihavuudesta: he tekevat mita ainoastansa heille kelpaa.	
+<div class="versenum">7.</div> Heidan silmansa paisuvat lihavuudesta: he tekevat mita ainoastansa heille kelpaa.	
 
-8. Kaikkia he katsovat ylon, ja sitte pahasti puhuvat: he puhuvat ja laittavat ylpiasti.	
+<div class="versenum">8.</div> Kaikkia he katsovat ylon, ja sitte pahasti puhuvat: he puhuvat ja laittavat ylpiasti.	
 
-9. Mita he puhuvat, sen taytyy olla taivaasta puhuttu: mita he sanovat, sen taytyy maan paalla kelvata.	
+<div class="versenum">9.</div> Mita he puhuvat, sen taytyy olla taivaasta puhuttu: mita he sanovat, sen taytyy maan paalla kelvata.	
 
-10. Sentahden noudattaa heita yhteinen kansa, ja kokoontuvat heidan tykonsa niinkuin vedet,	
+<div class="versenum">10.</div> Sentahden noudattaa heita yhteinen kansa, ja kokoontuvat heidan tykonsa niinkuin vedet,	
 
-11. Ja sanovat: mita Jumalan pitais heita kysyman? mita pitais korkeimman heista lukua pitaman?	
+<div class="versenum">11.</div> Ja sanovat: mita Jumalan pitais heita kysyman? mita pitais korkeimman heista lukua pitaman?	
 
-12. Katso, ne ovat jumalattomat: he ovat onnelliset maailmassa ja rikastuvat.	
+<div class="versenum">12.</div> Katso, ne ovat jumalattomat: he ovat onnelliset maailmassa ja rikastuvat.	
 
-13. Pitaisko siis sen turhaan oleman, etta minun sydameni nuhteetoinna elaa, ja mina pesen viattomuudessa minun kateni?	
+<div class="versenum">13.</div> Pitaisko siis sen turhaan oleman, etta minun sydameni nuhteetoinna elaa, ja mina pesen viattomuudessa minun kateni?	
 
-14. Ja mina ruoskitaan joka paiva, ja minun rangaistukseni on joka aamu kasissa?	
+<div class="versenum">14.</div> Ja mina ruoskitaan joka paiva, ja minun rangaistukseni on joka aamu kasissa?	
 
-15. Mina olisin lahes niin sanonut kuin hekin; mutta katso, niin mina olisin tuominnut kaikki sinun lapses, jotka ikanansa olleet ovat.	
+<div class="versenum">15.</div> Mina olisin lahes niin sanonut kuin hekin; mutta katso, niin mina olisin tuominnut kaikki sinun lapses, jotka ikanansa olleet ovat.	
 
-16. Mina ajattelin sita tutkia; mutta se oli minulle ylen raskas,	
+<div class="versenum">16.</div> Mina ajattelin sita tutkia; mutta se oli minulle ylen raskas,	
 
-17. Siihenasti kuin mina menin Jumalan pyhaan, ja ymmarsin heidan loppunsa.	
+<div class="versenum">17.</div> Siihenasti kuin mina menin Jumalan pyhaan, ja ymmarsin heidan loppunsa.	
 
-18. Tosin sina asetit heita liukkaalle, ja syoksit heita pohjaan.	
+<div class="versenum">18.</div> Tosin sina asetit heita liukkaalle, ja syoksit heita pohjaan.	
 
-19. Kuinka he niin pian hukkuvat: he hukkuvat ja saavat kauhian lopun.	
+<div class="versenum">19.</div> Kuinka he niin pian hukkuvat: he hukkuvat ja saavat kauhian lopun.	
 
-20. Niinkuin uni, koska joku heraa, niinpa sina, Herra teet heidan kuvansa kaupungissa ylonkatsotuksi.	
+<div class="versenum">20.</div> Niinkuin uni, koska joku heraa, niinpa sina, Herra teet heidan kuvansa kaupungissa ylonkatsotuksi.	
 
-21. Vaan kuin se karvasteli minun sydamessani ja pisti minun munaskuitani,	
+<div class="versenum">21.</div> Vaan kuin se karvasteli minun sydamessani ja pisti minun munaskuitani,	
 
-22. Silloin olin mina tyhma ja en mitaan tietanyt: mina olin niinkuin nauta sinun edessas.	
+<div class="versenum">22.</div> Silloin olin mina tyhma ja en mitaan tietanyt: mina olin niinkuin nauta sinun edessas.	
 
-23. Kuitenkin mina pysyn alati sinun tykonas; silla sina pidat minun oikiasta kadestani.	
+<div class="versenum">23.</div> Kuitenkin mina pysyn alati sinun tykonas; silla sina pidat minun oikiasta kadestani.	
 
-24. Sina talutat minua neuvollas, ja korjaat minua viimein kunnialla.	
+<div class="versenum">24.</div> Sina talutat minua neuvollas, ja korjaat minua viimein kunnialla.	
 
-25. Kuin sina ainoastansa minulla olisit, niin en mina ensinkaan sitte taivaasta eli maasta tottelisi.	
+<div class="versenum">25.</div> Kuin sina ainoastansa minulla olisit, niin en mina ensinkaan sitte taivaasta eli maasta tottelisi.	
 
-26. Vaikka viela minun ruumiini ja sieluni vaipuis, niin sina, Jumala, kuitenkin olet aina minun sydameni uskallus ja minun osani.	
+<div class="versenum">26.</div> Vaikka viela minun ruumiini ja sieluni vaipuis, niin sina, Jumala, kuitenkin olet aina minun sydameni uskallus ja minun osani.	
 
-27. Silla katso, jotka sinusta eriavat, ne hukkuvat: sina kadotat kaikki, jotka sinua vastaan huorin tekevat.	
+<div class="versenum">27.</div> Silla katso, jotka sinusta eriavat, ne hukkuvat: sina kadotat kaikki, jotka sinua vastaan huorin tekevat.	
 
-28. Mutta se on minun iloni, etta mina itseni Jumalan tyko pidan, ja panen toivoni Herran, Herran paalle, ilmoittamaan kaikkia sinun toitas.	
+<div class="versenum">28.</div> Mutta se on minun iloni, etta mina itseni Jumalan tyko pidan, ja panen toivoni Herran, Herran paalle, ilmoittamaan kaikkia sinun toitas.	
 

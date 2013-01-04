@@ -1,22 +1,22 @@
 Esterin 7	
 	
-1. Kuin kuningas tuli ja Haman pitoon kuningatar Esterin tyko,	
+<div class="versenum">1.</div> Kuin kuningas tuli ja Haman pitoon kuningatar Esterin tyko,	
 
-2. Sanoi kuningas taas toisena paivana Esterille, sittekuin han oli viinaa juonut: mitas rukoilet, kuningatar Ester, sinulles annettaa, ja mitas anot? ehka se olis puoli kuninkaan valtakuntaa, se pitaa tapahtuman.	
+<div class="versenum">2.</div> Sanoi kuningas taas toisena paivana Esterille, sittekuin han oli viinaa juonut: mitas rukoilet, kuningatar Ester, sinulles annettaa, ja mitas anot? ehka se olis puoli kuninkaan valtakuntaa, se pitaa tapahtuman.	
 
-3. Kuningatar Ester vastasi ja sanoi: o kuningas, jos mina olen loytanyt armon sinun edessas ja jos kuninkaalle kelpaa, niin suokoon minulle henkeni minun rukoukseni tahden, ja kansani minun anomiseni tahden!	
+<div class="versenum">3.</div> Kuningatar Ester vastasi ja sanoi: o kuningas, jos mina olen loytanyt armon sinun edessas ja jos kuninkaalle kelpaa, niin suokoon minulle henkeni minun rukoukseni tahden, ja kansani minun anomiseni tahden!	
 
-4. Silla me olemme myydyt, mina ja minun kansani, teloitettaviksi, surmattaviksi ja hukutettaviksi. Ja jos me olisimme myydyt orjiksi ja piioiksi, niin mina olisin vaiti, eika vihamies sittekaan palkitsisi kuninkaalle sita vahinkoa.	
+<div class="versenum">4.</div> Silla me olemme myydyt, mina ja minun kansani, teloitettaviksi, surmattaviksi ja hukutettaviksi. Ja jos me olisimme myydyt orjiksi ja piioiksi, niin mina olisin vaiti, eika vihamies sittekaan palkitsisi kuninkaalle sita vahinkoa.	
 
-5. Kuningas Ahasverus puhui ja sanoi kuningatar Esterille: kuka se on, eli kussa se on, joka tohtii senkaltaista ajatella tehdaksensa?	
+<div class="versenum">5.</div> Kuningas Ahasverus puhui ja sanoi kuningatar Esterille: kuka se on, eli kussa se on, joka tohtii senkaltaista ajatella tehdaksensa?	
 
-6. Ester sanoi: se vihamies ja vainooja on tama paha Haman; ja Haman peljastyi kuninkaan ja kuningattaren edessa.	
+<div class="versenum">6.</div> Ester sanoi: se vihamies ja vainooja on tama paha Haman; ja Haman peljastyi kuninkaan ja kuningattaren edessa.	
 
-7. Ja kuningas nousi vieraspidosta ja viinan tykoa vihoissansa ja meni salin yrttitarhaan; ja Haman nousi ja rukoili kuningatarta henkensa edesta; silla han naki hanellensa olevan valmistetun onnettomuuden kuninkaalta.	
+<div class="versenum">7.</div> Ja kuningas nousi vieraspidosta ja viinan tykoa vihoissansa ja meni salin yrttitarhaan; ja Haman nousi ja rukoili kuningatarta henkensa edesta; silla han naki hanellensa olevan valmistetun onnettomuuden kuninkaalta.	
 
-8. Ja kuin kuningas tuli jalleen salin yrttitarhasta siihen huoneesen, jossa he olivat viinaa juoneet, nojasi Haman sille vuoteelle, jolla Ester istui. Niin sanoi kuningas: tahtooko han kuningattarelle tehda myos vakivaltaa minun lasnaollessani huoneessa? Kuin se sana tuli kuninkaan suusta ulos, peittivat he Hamanin kasvot.	
+<div class="versenum">8.</div> Ja kuin kuningas tuli jalleen salin yrttitarhasta siihen huoneesen, jossa he olivat viinaa juoneet, nojasi Haman sille vuoteelle, jolla Ester istui. Niin sanoi kuningas: tahtooko han kuningattarelle tehda myos vakivaltaa minun lasnaollessani huoneessa? Kuin se sana tuli kuninkaan suusta ulos, peittivat he Hamanin kasvot.	
 
-9. Ja Harbona, kuninkaan kamaripalvelijoista, sanoi kuninkaalle: katso, Hamanin kartanolla seisoo puu viisikymmenta kyynaraa korkea, jonka han teki Mordekaita varten, joka hyvaa puhui kuninkaan edesta. Niin sanoi kuningas: hirtettakaan han siihen.	
+<div class="versenum">9.</div> Ja Harbona, kuninkaan kamaripalvelijoista, sanoi kuninkaalle: katso, Hamanin kartanolla seisoo puu viisikymmenta kyynaraa korkea, jonka han teki Mordekaita varten, joka hyvaa puhui kuninkaan edesta. Niin sanoi kuningas: hirtettakaan han siihen.	
 
-10. Niin he hirttivat Hamanin siihen puuhun, jonka han teki Mordekaita varten; ja niin asettui kuninkaan viha.	
+<div class="versenum">10.</div> Niin he hirttivat Hamanin siihen puuhun, jonka han teki Mordekaita varten; ja niin asettui kuninkaan viha.	
 

@@ -1,70 +1,70 @@
 Joosuan 22	
 	
-1. Silloin kutsui Josua tykonsa Rubenilaiset, Gadilaiset ja puolen Manassen sukukuntaa:	
+<div class="versenum">1.</div> Silloin kutsui Josua tykonsa Rubenilaiset, Gadilaiset ja puolen Manassen sukukuntaa:	
 
-2. Ja sanoi heille: te piditte kaikki mita Moses Herran palvelia teille kaski, ja olette kuulleet minun aaneni kaikissa mita mina olen teille kaskenyt.	
+<div class="versenum">2.</div> Ja sanoi heille: te piditte kaikki mita Moses Herran palvelia teille kaski, ja olette kuulleet minun aaneni kaikissa mita mina olen teille kaskenyt.	
 
-3. Ette hyljanneet teidan veljianne isoon aikaan tahan paivaan asti, ja te piditte Herran teidan Jumalanne kaskyn.	
+<div class="versenum">3.</div> Ette hyljanneet teidan veljianne isoon aikaan tahan paivaan asti, ja te piditte Herran teidan Jumalanne kaskyn.	
 
-4. Ja nyt on Herra teidan Jumalanne antanut teidan veljillenne levon, niinkuin han sanoi heille; palatkaat siis nyt ja menkaat teidan majoillenne perintomaahanne, jonka Moses Herran palvelia antoi teille tuolla puolella Jordania.	
+<div class="versenum">4.</div> Ja nyt on Herra teidan Jumalanne antanut teidan veljillenne levon, niinkuin han sanoi heille; palatkaat siis nyt ja menkaat teidan majoillenne perintomaahanne, jonka Moses Herran palvelia antoi teille tuolla puolella Jordania.	
 
-5. Ainoastaan ottakaat visusti vaari , etta te teette sen kaskyn ja lain jalkeen, jonka Moses Herran palvelia on teille kaskenyt, etta te rakastatte Herraa teidan Jumalaanne, ja vaellatte kaikissa hanen teissansa, ja pidatte hanen kaskynsa, ja riiputte hanessa kiinni, ja palvelette hanta kaikesta teidan sydamestanne ja kaikesta teidan sielustanne.	
+<div class="versenum">5.</div> Ainoastaan ottakaat visusti vaari , etta te teette sen kaskyn ja lain jalkeen, jonka Moses Herran palvelia on teille kaskenyt, etta te rakastatte Herraa teidan Jumalaanne, ja vaellatte kaikissa hanen teissansa, ja pidatte hanen kaskynsa, ja riiputte hanessa kiinni, ja palvelette hanta kaikesta teidan sydamestanne ja kaikesta teidan sielustanne.	
 
-6. Niin Josua siunasi heita ja antoi heidan menna, ja he menivat majoillensa.	
+<div class="versenum">6.</div> Niin Josua siunasi heita ja antoi heidan menna, ja he menivat majoillensa.	
 
-7. Manassen puolelle sukukunnalle on Moses antanut Basanissa ja toiselle puolelle antoi Josua heidan veljeinsa keskella talla puolella Jordania lanteen pain. Ja kuin Josua antoi heidan kayda majoillensa ja siunasi heita,	
+<div class="versenum">7.</div> Manassen puolelle sukukunnalle on Moses antanut Basanissa ja toiselle puolelle antoi Josua heidan veljeinsa keskella talla puolella Jordania lanteen pain. Ja kuin Josua antoi heidan kayda majoillensa ja siunasi heita,	
 
-8. Puhui han heille, sanoen: te tulette kotia suurella saaliilla teidan majoillenne ja sangen suurella karjalaumalla, hopialla, kullalla, vaskella, raudalla ja aivan paljoilla vaatteilla; niin jakakaat teidan vihamiestenne saalis teidan veljeinne kanssa.	
+<div class="versenum">8.</div> Puhui han heille, sanoen: te tulette kotia suurella saaliilla teidan majoillenne ja sangen suurella karjalaumalla, hopialla, kullalla, vaskella, raudalla ja aivan paljoilla vaatteilla; niin jakakaat teidan vihamiestenne saalis teidan veljeinne kanssa.	
 
-9. Ja niin palasivat Rubenilaiset ja Gadilaiset ja puoli Manassen sukukuntaa, ja menivat pois Israelin lasten tykoa Silosta, joka Kanaanin maalla on, menemaan Gileadin maahan, perintomaahansa, jonka he olivat perineet Herran kaskyn jalkeen Moseksen kautta.	
+<div class="versenum">9.</div> Ja niin palasivat Rubenilaiset ja Gadilaiset ja puoli Manassen sukukuntaa, ja menivat pois Israelin lasten tykoa Silosta, joka Kanaanin maalla on, menemaan Gileadin maahan, perintomaahansa, jonka he olivat perineet Herran kaskyn jalkeen Moseksen kautta.	
 
-10. Ja kuin he tulivat Jordanin rajoille, jotka Kanaanin maassa ovat, rakensivat Rubenilaiset, Gadilaiset ja puoli Manassen sukukuntaa siina lahes Jordania jalon suuren alttarin.	
+<div class="versenum">10.</div> Ja kuin he tulivat Jordanin rajoille, jotka Kanaanin maassa ovat, rakensivat Rubenilaiset, Gadilaiset ja puoli Manassen sukukuntaa siina lahes Jordania jalon suuren alttarin.	
 
-11. Ja kuin Israelin lapset kuulivat sanottavan: katso, Rubenin lapset, Gadin lapset ja puoli Manassen sukukuntaa ovat rakentaneet alttarin Kanaanin maata vastaan, lahes Jordanin rajoja Israelin lasten puolelle;	
+<div class="versenum">11.</div> Ja kuin Israelin lapset kuulivat sanottavan: katso, Rubenin lapset, Gadin lapset ja puoli Manassen sukukuntaa ovat rakentaneet alttarin Kanaanin maata vastaan, lahes Jordanin rajoja Israelin lasten puolelle;	
 
-12. Ja Israelin lapset kuulivat sen, ja koko Israelin lasten joukko kokoontui Silossa, menemaan ylos sotimaan heita vastaan.	
+<div class="versenum">12.</div> Ja Israelin lapset kuulivat sen, ja koko Israelin lasten joukko kokoontui Silossa, menemaan ylos sotimaan heita vastaan.	
 
-13. Ja Israelin lapset lahettivat Rubenilaisten, Gadilaisten ja puolen Manassen sukukunnan tyko Gileadin maahan Pinehaan, papin Eleatsarin pojan,	
+<div class="versenum">13.</div> Ja Israelin lapset lahettivat Rubenilaisten, Gadilaisten ja puolen Manassen sukukunnan tyko Gileadin maahan Pinehaan, papin Eleatsarin pojan,	
 
-14. Ja kymmenen ylimmaista paamiesta hanen kanssansa, yhden paamiehen kustakin isansa huoneesta, kaikista Israelin sukukunnista, joista kukin oli isainsa huonetten paamies Israelin tuhanten ylitse.	
+<div class="versenum">14.</div> Ja kymmenen ylimmaista paamiesta hanen kanssansa, yhden paamiehen kustakin isansa huoneesta, kaikista Israelin sukukunnista, joista kukin oli isainsa huonetten paamies Israelin tuhanten ylitse.	
 
-15. Ja he tulivat Rubenilaisten, Gadilaisten ja puolen Manassen sukukunnan tyko Gileadin maahan ja puhuivat heidan kanssansa, sanoen:	
+<div class="versenum">15.</div> Ja he tulivat Rubenilaisten, Gadilaisten ja puolen Manassen sukukunnan tyko Gileadin maahan ja puhuivat heidan kanssansa, sanoen:	
 
-16. Nain kaikki Herran kansa kaski teille sanoa: mika on se rikos, jolla te olette rikkoneet Israelin Jumalaa vastaan, kaantaaksenne itsenne tanapaivana Herrasta pois, rakentaen itsellenne alttaria, asettaaksenne teitanne tanapaivana Herraa vastaan.	
+<div class="versenum">16.</div> Nain kaikki Herran kansa kaski teille sanoa: mika on se rikos, jolla te olette rikkoneet Israelin Jumalaa vastaan, kaantaaksenne itsenne tanapaivana Herrasta pois, rakentaen itsellenne alttaria, asettaaksenne teitanne tanapaivana Herraa vastaan.	
 
-17. Vahako meilla on Peorin pahuudesta, josta emme puhtaat ole hamaan tahan paivaan asti? josta myos rangaistus tuli Herran kansan paalle.	
+<div class="versenum">17.</div> Vahako meilla on Peorin pahuudesta, josta emme puhtaat ole hamaan tahan paivaan asti? josta myos rangaistus tuli Herran kansan paalle.	
 
-18. Ja te kaannatte itsenne tanapaivana Herrasta pois; niin tapahtuu, etta panette itsenne tanapana Herraa vastaan, niin pitaa huomenna hanen vihansa palaman koko Israelin kansan paalle.	
+<div class="versenum">18.</div> Ja te kaannatte itsenne tanapaivana Herrasta pois; niin tapahtuu, etta panette itsenne tanapana Herraa vastaan, niin pitaa huomenna hanen vihansa palaman koko Israelin kansan paalle.	
 
-19. Jos te luulette, etta teidan perintomaanne on saastainen, niin tulkaat tanne ylitse Herran perintomaahan, jossa Herran maja on, ja ottakaat perinto meidan seassamme ja alkaat asettako teitanne Herraa vastaan ja meita vastaan, rakentaen teillenne alttarin, paitsi Herran meidan Jumalamme alttaria.	
+<div class="versenum">19.</div> Jos te luulette, etta teidan perintomaanne on saastainen, niin tulkaat tanne ylitse Herran perintomaahan, jossa Herran maja on, ja ottakaat perinto meidan seassamme ja alkaat asettako teitanne Herraa vastaan ja meita vastaan, rakentaen teillenne alttarin, paitsi Herran meidan Jumalamme alttaria.	
 
-20. Eiko Akan Seran poika tehnyt raskaasti syntia kirotussa, ja viha tuli koko Israelin ylitse ja ei han yksin hukkunut pahuudessansa.	
+<div class="versenum">20.</div> Eiko Akan Seran poika tehnyt raskaasti syntia kirotussa, ja viha tuli koko Israelin ylitse ja ei han yksin hukkunut pahuudessansa.	
 
-21. Niin vastasivat Rubenin ja Gadin lapset ja puoli Manassen sukukuntaa ja sanoivat Israelin tuhanten paamiehille:	
+<div class="versenum">21.</div> Niin vastasivat Rubenin ja Gadin lapset ja puoli Manassen sukukuntaa ja sanoivat Israelin tuhanten paamiehille:	
 
-22. Herra vakeva Jumala, Herra vakeva Jumala tietaa sen, ja Israel myos mahtaa itse tietaa; jos me olemme langenneet pois ja syntia tehneet Herraa vastaan, niin alkaat auttako han meita tanapaivana.	
+<div class="versenum">22.</div> Herra vakeva Jumala, Herra vakeva Jumala tietaa sen, ja Israel myos mahtaa itse tietaa; jos me olemme langenneet pois ja syntia tehneet Herraa vastaan, niin alkaat auttako han meita tanapaivana.	
 
-23. Ja jos me olemme alttarin rakentaneet, kaantaaksemme meitamme Herrasta pois ja uhrataksemme sen paalla polttouhria ja ruokauhria, taikka tehdaksemme kiitosuhria sen paalla, niin etsikoon sita Herra.	
+<div class="versenum">23.</div> Ja jos me olemme alttarin rakentaneet, kaantaaksemme meitamme Herrasta pois ja uhrataksemme sen paalla polttouhria ja ruokauhria, taikka tehdaksemme kiitosuhria sen paalla, niin etsikoon sita Herra.	
 
-24. Ja jos emme paljo ennemmin ole sita tehneet sen asian pelvon tahden, sanoen: tastalahin mahtaa teidan lapsenne sanoa meidan lapsillemme: mita teidan on tekemista Herran Israelin Jumalan kanssa?	
+<div class="versenum">24.</div> Ja jos emme paljo ennemmin ole sita tehneet sen asian pelvon tahden, sanoen: tastalahin mahtaa teidan lapsenne sanoa meidan lapsillemme: mita teidan on tekemista Herran Israelin Jumalan kanssa?	
 
-25. Herra on pannut Jordanin rajamaaksi meidan ja teidan valillemme, te Rubenin ja Gadin lapset; ei ole teilla yhtaan osaa Herrassa: ja niin teidan lapsenne saattavat pois meidan lapsemme Herraa pelkaamasta.	
+<div class="versenum">25.</div> Herra on pannut Jordanin rajamaaksi meidan ja teidan valillemme, te Rubenin ja Gadin lapset; ei ole teilla yhtaan osaa Herrassa: ja niin teidan lapsenne saattavat pois meidan lapsemme Herraa pelkaamasta.	
 
-26. Sentahden me sanoimme: tehkaamme se meillemme, rakentakaamme alttari, ei uhriksi eli polttouhriksi,	
+<div class="versenum">26.</div> Sentahden me sanoimme: tehkaamme se meillemme, rakentakaamme alttari, ei uhriksi eli polttouhriksi,	
 
-27. Mutta todistukseksi meidan ja teidan vaiheellamme, ja meidan sukumme meidan jalkeemme, tehdaksemme Herran palvelusta hanen edessansa meidan polttouhrillamme, kiitosuhrillamme ja muilla uhreillamme; ja teidan lapsenne ei pida tastalahin sanoman meidan lapsillemme: ei ole teilla yhtaan osaa Herrassa.	
+<div class="versenum">27.</div> Mutta todistukseksi meidan ja teidan vaiheellamme, ja meidan sukumme meidan jalkeemme, tehdaksemme Herran palvelusta hanen edessansa meidan polttouhrillamme, kiitosuhrillamme ja muilla uhreillamme; ja teidan lapsenne ei pida tastalahin sanoman meidan lapsillemme: ei ole teilla yhtaan osaa Herrassa.	
 
-28. Silla me sanoimme: se olkoon, kuin he niin sanovat meille, taikka meidan lapsillemme tastedes, niin me taidamme sanoa: katsokaat vertausta Herran alttariin, jonka meidan vanhempamme tehneet ovat, ei polttouhriksi taikka teurasuhriksi vaan todistukseksi teidan ja meidan vaiheellamme.	
+<div class="versenum">28.</div> Silla me sanoimme: se olkoon, kuin he niin sanovat meille, taikka meidan lapsillemme tastedes, niin me taidamme sanoa: katsokaat vertausta Herran alttariin, jonka meidan vanhempamme tehneet ovat, ei polttouhriksi taikka teurasuhriksi vaan todistukseksi teidan ja meidan vaiheellamme.	
 
-29. Pois se meista, etta me asetamme itsemme Herraa vastaan, ja kaannymme tanapaivana hanesta pois, ja rakennamme alttarin polttouhriksi, ruokauhriksi ja muuksi uhriksi, paitsi Herran meidan Jumalamme alttaria, joka on hanen majansa edessa.	
+<div class="versenum">29.</div> Pois se meista, etta me asetamme itsemme Herraa vastaan, ja kaannymme tanapaivana hanesta pois, ja rakennamme alttarin polttouhriksi, ruokauhriksi ja muuksi uhriksi, paitsi Herran meidan Jumalamme alttaria, joka on hanen majansa edessa.	
 
-30. Kuin Pinehas pappi ja kansan ylimmaiset ja Israelin tuhanten paamiehet, jotka olivat hanen kanssansa, kuulivat namat sanat, jotka Rubenin, Gadin ja Manassen lapset sanoivat, kelpasi se heille sangen hyvin.	
+<div class="versenum">30.</div> Kuin Pinehas pappi ja kansan ylimmaiset ja Israelin tuhanten paamiehet, jotka olivat hanen kanssansa, kuulivat namat sanat, jotka Rubenin, Gadin ja Manassen lapset sanoivat, kelpasi se heille sangen hyvin.	
 
-31. Ja Pinehas papin Eleatsarin poika sanoi Rubenin, Gadin ja Manassen lapsille: tanapana ymmarsimme me Herran olevan meidan kanssamme, ettette syntia tehneet talla rikoksella Herraa vastaan: nyt te vapahditte Israelin lapset Herran kadesta.	
+<div class="versenum">31.</div> Ja Pinehas papin Eleatsarin poika sanoi Rubenin, Gadin ja Manassen lapsille: tanapana ymmarsimme me Herran olevan meidan kanssamme, ettette syntia tehneet talla rikoksella Herraa vastaan: nyt te vapahditte Israelin lapset Herran kadesta.	
 
-32. Niin meni Pinehas papin Eleatsarin poika, ja ylimmaiset Gileadin maalta, Rubenin ja Gadin lasten tykoa Kanaanin maahan jalleen Israelin lasten tyko ja sanoi sen heille.	
+<div class="versenum">32.</div> Niin meni Pinehas papin Eleatsarin poika, ja ylimmaiset Gileadin maalta, Rubenin ja Gadin lasten tykoa Kanaanin maahan jalleen Israelin lasten tyko ja sanoi sen heille.	
 
-33. Niin se kelpasi hyvin Israelin lapsille, ja Israelin lapset kunnioittivat Jumalaa ja ei enaa sanoneet, etta he tahtoivat sinne menna heita vastaan sotavaen kanssa maata havittamaan, jossa Rubenin ja Gadin lapset asuivat.	
+<div class="versenum">33.</div> Niin se kelpasi hyvin Israelin lapsille, ja Israelin lapset kunnioittivat Jumalaa ja ei enaa sanoneet, etta he tahtoivat sinne menna heita vastaan sotavaen kanssa maata havittamaan, jossa Rubenin ja Gadin lapset asuivat.	
 
-34. Ja Rubenin ja Gadin lapset kutsuivat sen alttarin, etta se olis todistukseksi meidan valillamme, ja etta Herra on Jumala.	
+<div class="versenum">34.</div> Ja Rubenin ja Gadin lapset kutsuivat sen alttarin, etta se olis todistukseksi meidan valillamme, ja etta Herra on Jumala.	
 

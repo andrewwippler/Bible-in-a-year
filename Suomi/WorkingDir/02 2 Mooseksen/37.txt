@@ -1,60 +1,60 @@
 2 Mooseksen 37	
 	
-1. Ja Betsaleel teki arkin sittimipuusta: puolikolmatta kyynaraa pitkan, puolitoista kyynaraa levian, ja puolitoista kyynaraa korkian.	
+<div class="versenum">1.</div> Ja Betsaleel teki arkin sittimipuusta: puolikolmatta kyynaraa pitkan, puolitoista kyynaraa levian, ja puolitoista kyynaraa korkian.	
 
-2. Ja silasi sen puhtaalla kullalla, seka sisalta etta ulkoa, ja teki sen ymparille kultaisen vanteen.	
+<div class="versenum">2.</div> Ja silasi sen puhtaalla kullalla, seka sisalta etta ulkoa, ja teki sen ymparille kultaisen vanteen.	
 
-3. Ja valoi nelja kultarengasta hanen neljaan kulmaansa: kaksi rengasta yhdelle puolelle, ja myos kaksi rengasta toiselle puolelle.	
+<div class="versenum">3.</div> Ja valoi nelja kultarengasta hanen neljaan kulmaansa: kaksi rengasta yhdelle puolelle, ja myos kaksi rengasta toiselle puolelle.	
 
-4. Ja teki korennot sittimipuusta, ja silasi ne kullalla.	
+<div class="versenum">4.</div> Ja teki korennot sittimipuusta, ja silasi ne kullalla.	
 
-5. Ja pisti ne korennot renkaisiin arkin sivulle, niin etta arkki taidettiin kannettaa.	
+<div class="versenum">5.</div> Ja pisti ne korennot renkaisiin arkin sivulle, niin etta arkki taidettiin kannettaa.	
 
-6. Ja han teki armo-istuimen puhtaasta kullasta, puolikolmatta kyynaraa pitkan ja puolitoista kyynaraa levian.	
+<div class="versenum">6.</div> Ja han teki armo-istuimen puhtaasta kullasta, puolikolmatta kyynaraa pitkan ja puolitoista kyynaraa levian.	
 
-7. Ja teki kaksi Kerubimia kullasta: vahvaa tekoa, molempiin paihin armo-istuinta.	
+<div class="versenum">7.</div> Ja teki kaksi Kerubimia kullasta: vahvaa tekoa, molempiin paihin armo-istuinta.	
 
-8. Yhden Kerubimin tahan paahan, ja toisen Kerubimin toiseen paahan: molempiin paihin armo-istuinta han teki Kerubimit.	
+<div class="versenum">8.</div> Yhden Kerubimin tahan paahan, ja toisen Kerubimin toiseen paahan: molempiin paihin armo-istuinta han teki Kerubimit.	
 
-9. Ja Kerubimit levittivat siipensa sen ylitse, ja peittivat armo-istuimen siivillansa, ja heidan kasvonsa olivat toinen toisensa puoleen: armo-istuimeen pain olivat Kerubimien kasvot.	
+<div class="versenum">9.</div> Ja Kerubimit levittivat siipensa sen ylitse, ja peittivat armo-istuimen siivillansa, ja heidan kasvonsa olivat toinen toisensa puoleen: armo-istuimeen pain olivat Kerubimien kasvot.	
 
-10. Han teki myos poydan sittimipuusta, kaksi kyynaraa pitkaksi, kyynaraa leviaksi, ja puolitoista kyynaraa korkiaksi.	
+<div class="versenum">10.</div> Han teki myos poydan sittimipuusta, kaksi kyynaraa pitkaksi, kyynaraa leviaksi, ja puolitoista kyynaraa korkiaksi.	
 
-11. Ja silasi sen puhtaalla kullalla, ja teki kultaisen vanteen sen ymparille.	
+<div class="versenum">11.</div> Ja silasi sen puhtaalla kullalla, ja teki kultaisen vanteen sen ymparille.	
 
-12. Ja teki partaan sen ymparille kammenta levian: teki myos kultaisen vanteen partaan ymparille.	
+<div class="versenum">12.</div> Ja teki partaan sen ymparille kammenta levian: teki myos kultaisen vanteen partaan ymparille.	
 
-13. Ja valoi siihen nelja kultaista rengasta, ja pani ne renkaat neljalle kulmalle heidan neljan jalkansa paalle.	
+<div class="versenum">13.</div> Ja valoi siihen nelja kultaista rengasta, ja pani ne renkaat neljalle kulmalle heidan neljan jalkansa paalle.	
 
-14. Juuri partaan kohdalla olivat renkaat, joissa korennot olivat sisalla, joilla poyta kannettiin.	
+<div class="versenum">14.</div> Juuri partaan kohdalla olivat renkaat, joissa korennot olivat sisalla, joilla poyta kannettiin.	
 
-15. Ja han teki myos korennot sittimipuusta, ja silasi ne kullalla, etta poyta niilla kannettaa taidettiin.	
+<div class="versenum">15.</div> Ja han teki myos korennot sittimipuusta, ja silasi ne kullalla, etta poyta niilla kannettaa taidettiin.	
 
-16. Han teki myos poytaastiat, vadit, lusikat, ja maljat, ja pikarit, joilla ulos ja sisalle kaadettiin, puhtaasta kullasta.	
+<div class="versenum">16.</div> Han teki myos poytaastiat, vadit, lusikat, ja maljat, ja pikarit, joilla ulos ja sisalle kaadettiin, puhtaasta kullasta.	
 
-17. Han teki myos kynttilajalan puhtaasta kullasta: vahvan tekoiseksi han kynttilajalan teki ja hanen vartensa, haaransa, maljansa, nuppinsa ja kukkaisensa olivat siita samasta.	
+<div class="versenum">17.</div> Han teki myos kynttilajalan puhtaasta kullasta: vahvan tekoiseksi han kynttilajalan teki ja hanen vartensa, haaransa, maljansa, nuppinsa ja kukkaisensa olivat siita samasta.	
 
-18. Kuusi haaraa kavi hanen kyljestansa: kolme haaraa kynttilajalan yhdelta sivulta, ja myos kolme haaraa sen toiselta sivulta.	
+<div class="versenum">18.</div> Kuusi haaraa kavi hanen kyljestansa: kolme haaraa kynttilajalan yhdelta sivulta, ja myos kolme haaraa sen toiselta sivulta.	
 
-19. Kolme mandelin-muotoista maljaa oli sen yhdessa haarassa, ja yksi nuppi ja kukkainen, niin myos kolme mandelin-kaltaista maljaa toisessa haarassa, yksi nuppi ja kukkainen: niin oli niissa kuudessa haarassa, jotka kynttilajalasta uloskavivat.	
+<div class="versenum">19.</div> Kolme mandelin-muotoista maljaa oli sen yhdessa haarassa, ja yksi nuppi ja kukkainen, niin myos kolme mandelin-kaltaista maljaa toisessa haarassa, yksi nuppi ja kukkainen: niin oli niissa kuudessa haarassa, jotka kynttilajalasta uloskavivat.	
 
-20. Mutta kynttilajalassa oli nelja mandelin-muotoista maljaa toisessa haarassa, nuppeinsa ja kukkaistensa kanssa,	
+<div class="versenum">20.</div> Mutta kynttilajalassa oli nelja mandelin-muotoista maljaa toisessa haarassa, nuppeinsa ja kukkaistensa kanssa,	
 
-21. Niin etta nuppi oli siina kahden haaran alla, ja taas nuppi (toisen) kahden haaran alla, ja viela nuppi kahden jalkimmaisen haaran alla: nimittain niissa kuudessa haarassa, jotka siita uloskavivat,	
+<div class="versenum">21.</div> Niin etta nuppi oli siina kahden haaran alla, ja taas nuppi (toisen) kahden haaran alla, ja viela nuppi kahden jalkimmaisen haaran alla: nimittain niissa kuudessa haarassa, jotka siita uloskavivat,	
 
-22. Ja hanen nuppinsa ja haaransa sen paalla, ja se kaikki oli puhtaasta lujasta kullasta.	
+<div class="versenum">22.</div> Ja hanen nuppinsa ja haaransa sen paalla, ja se kaikki oli puhtaasta lujasta kullasta.	
 
-23. Ja han teki myos seitseman lamppua: ja heidan niistimensa ja sammutuskalunsa olivat puhtaasta kullasta.	
+<div class="versenum">23.</div> Ja han teki myos seitseman lamppua: ja heidan niistimensa ja sammutuskalunsa olivat puhtaasta kullasta.	
 
-24. Ja han teki sen, kaikkein astiainsa kanssa, yhdesta leiviskasta puhdasta kultaa.	
+<div class="versenum">24.</div> Ja han teki sen, kaikkein astiainsa kanssa, yhdesta leiviskasta puhdasta kultaa.	
 
-25. Han teki myos suitsutusalttarin sittimipuusta: yhta kyynaraa pitkan ja yhta kyynaraa levian, juuri nelikulmaiseksi, ja kaksi kyynaraa korkian; siita uloskavivat hanen sarvensa.	
+<div class="versenum">25.</div> Han teki myos suitsutusalttarin sittimipuusta: yhta kyynaraa pitkan ja yhta kyynaraa levian, juuri nelikulmaiseksi, ja kaksi kyynaraa korkian; siita uloskavivat hanen sarvensa.	
 
-26. Ja silasi sen puhtaalla kullalla, sen katon ja seinat ymparinsa, ja sen sarvet: ja teki sen ymparille vanteen kullasta,	
+<div class="versenum">26.</div> Ja silasi sen puhtaalla kullalla, sen katon ja seinat ymparinsa, ja sen sarvet: ja teki sen ymparille vanteen kullasta,	
 
-27. Ja kaksi kultaista rengasta vanteen alle molemmin puolin, niin etta korennot siihen sysattiin, kannettaa niilla.	
+<div class="versenum">27.</div> Ja kaksi kultaista rengasta vanteen alle molemmin puolin, niin etta korennot siihen sysattiin, kannettaa niilla.	
 
-28. Ja korennot han teki sittimipuusta, ja silasi ne kullalla.	
+<div class="versenum">28.</div> Ja korennot han teki sittimipuusta, ja silasi ne kullalla.	
 
-29. Ja teki pyhan voidellusoljyn ja puhtaan suitsutuksen, hyvanhajullisista yrteista, apotekarin tavan jalkeen.	
+<div class="versenum">29.</div> Ja teki pyhan voidellusoljyn ja puhtaan suitsutuksen, hyvanhajullisista yrteista, apotekarin tavan jalkeen.	
 

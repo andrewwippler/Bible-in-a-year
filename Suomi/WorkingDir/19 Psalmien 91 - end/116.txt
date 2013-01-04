@@ -1,40 +1,40 @@
 Psalmien 116	
 	
-1. Sita mina rakastan, etta Herra kuulee minun rukoukseni aanen;	
+<div class="versenum">1.</div> Sita mina rakastan, etta Herra kuulee minun rukoukseni aanen;	
 
-2. Etta han korvansa kallistaa minun puoleeni; sentahden mina avukseni huudan hanta elinaikanani.	
+<div class="versenum">2.</div> Etta han korvansa kallistaa minun puoleeni; sentahden mina avukseni huudan hanta elinaikanani.	
 
-3. Kuoleman paulat ovat minun piirittaneet, ja helvetin ahdistukset ovat minun loytaneet: mina tulin vaivaan ja tuskaan.	
+<div class="versenum">3.</div> Kuoleman paulat ovat minun piirittaneet, ja helvetin ahdistukset ovat minun loytaneet: mina tulin vaivaan ja tuskaan.	
 
-4. Mutta mina avukseni huudan Herran nimea: o Herra, pelasta minun sieluni!	
+<div class="versenum">4.</div> Mutta mina avukseni huudan Herran nimea: o Herra, pelasta minun sieluni!	
 
-5. Herra on armollinen ja vanhurskas, ja meidan Jumalamme on laupias.	
+<div class="versenum">5.</div> Herra on armollinen ja vanhurskas, ja meidan Jumalamme on laupias.	
 
-6. Herra katkee yksinkertaiset: kuin mina olin kovin vaivattu, niin han minua autti.	
+<div class="versenum">6.</div> Herra katkee yksinkertaiset: kuin mina olin kovin vaivattu, niin han minua autti.	
 
-7. Palaja taas, minun sieluni, sinun lepoos; silla Herra tekee hyvasti sinulle.	
+<div class="versenum">7.</div> Palaja taas, minun sieluni, sinun lepoos; silla Herra tekee hyvasti sinulle.	
 
-8. Silla sina olet sieluni temmannut pois kuolemasta, silmani kyynelista, jalkani kompastuksesta.	
+<div class="versenum">8.</div> Silla sina olet sieluni temmannut pois kuolemasta, silmani kyynelista, jalkani kompastuksesta.	
 
-9. Mina vaellan Herran edessa elavain maassa.	
+<div class="versenum">9.</div> Mina vaellan Herran edessa elavain maassa.	
 
-10. Mina uskon, sentahden mina puhun; mutta mina sangen vaivataan.	
+<div class="versenum">10.</div> Mina uskon, sentahden mina puhun; mutta mina sangen vaivataan.	
 
-11. Mina sanoin hammastyksessa: kaikki ihmiset ovat valehteliat.	
+<div class="versenum">11.</div> Mina sanoin hammastyksessa: kaikki ihmiset ovat valehteliat.	
 
-12. Kuinka mina maksan Herralle kaikki hanen hyvat tekonsa, jotka han minulle teki?	
+<div class="versenum">12.</div> Kuinka mina maksan Herralle kaikki hanen hyvat tekonsa, jotka han minulle teki?	
 
-13. Mina otan sen autuaallisen kalkin, ja saarnaan Herran nimea.	
+<div class="versenum">13.</div> Mina otan sen autuaallisen kalkin, ja saarnaan Herran nimea.	
 
-14. Mina maksan lupaukseni Herralle kaiken hanen kansansa edessa.	
+<div class="versenum">14.</div> Mina maksan lupaukseni Herralle kaiken hanen kansansa edessa.	
 
-15. Hanen pyhainsa kuolema on kallis Herran edessa.	
+<div class="versenum">15.</div> Hanen pyhainsa kuolema on kallis Herran edessa.	
 
-16. O Herra! mina olen sinun palvelias, mina olen sinun palvelias, sinun piikas poika: sina olet minun siteeni vallallensa paastanyt.	
+<div class="versenum">16.</div> O Herra! mina olen sinun palvelias, mina olen sinun palvelias, sinun piikas poika: sina olet minun siteeni vallallensa paastanyt.	
 
-17. Mina uhraan sinulle kiitosuhria, ja Herran nimea saarnaan.	
+<div class="versenum">17.</div> Mina uhraan sinulle kiitosuhria, ja Herran nimea saarnaan.	
 
-18. Mina maksan Herralle lupaukseni kaiken hanen kansansa edessa,	
+<div class="versenum">18.</div> Mina maksan Herralle lupaukseni kaiken hanen kansansa edessa,	
 
-19. Herran huoneen esikartanoissa, keskella sinua, Jerusalem. Halleluja!	
+<div class="versenum">19.</div> Herran huoneen esikartanoissa, keskella sinua, Jerusalem. Halleluja!	
 

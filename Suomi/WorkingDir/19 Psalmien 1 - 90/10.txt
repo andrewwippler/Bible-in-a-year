@@ -1,38 +1,38 @@
 Psalmien 10	
 	
-1. Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peitat?	
+<div class="versenum">1.</div> Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peitat?	
 
-2. Ylpeydessansa jumalatoin vainoo koyhaa: kasitettakoon he heidan juonissansa, joita he ajattelevat.	
+<div class="versenum">2.</div> Ylpeydessansa jumalatoin vainoo koyhaa: kasitettakoon he heidan juonissansa, joita he ajattelevat.	
 
-3. Silla jumalatoin itse kerskaa omaa mielivaltaansa: ahne siunailee itsiansa, ja vihoittaa Herran.	
+<div class="versenum">3.</div> Silla jumalatoin itse kerskaa omaa mielivaltaansa: ahne siunailee itsiansa, ja vihoittaa Herran.	
 
-4. Jumalatoin on koria ja vihainen, ettei han ketaan tottele: ei han Jumalaa olevankaan luule.	
+<div class="versenum">4.</div> Jumalatoin on koria ja vihainen, ettei han ketaan tottele: ei han Jumalaa olevankaan luule.	
 
-5. Hanen tiensa menestyvat joka aika, sinun tuomios on kaukana hanesta: han ylpeilee kaikkein vihollistensa edessa.	
+<div class="versenum">5.</div> Hanen tiensa menestyvat joka aika, sinun tuomios on kaukana hanesta: han ylpeilee kaikkein vihollistensa edessa.	
 
-6. Silla han puhuu sydamessansa: en mina ikana kukisteta, ei sukukunnasta sukukuntaan hataa ole.	
+<div class="versenum">6.</div> Silla han puhuu sydamessansa: en mina ikana kukisteta, ei sukukunnasta sukukuntaan hataa ole.	
 
-7. Jonka suu on taynna kirouksia, kavaluutta ja viettelysta, hanen kielensa saattaa vaivan ja tyon.	
+<div class="versenum">7.</div> Jonka suu on taynna kirouksia, kavaluutta ja viettelysta, hanen kielensa saattaa vaivan ja tyon.	
 
-8. Han istuu ja vaijyy kartanoissa, murhataksensa salaa viatointa; hanen silmansa palaa koyhan puoleen.	
+<div class="versenum">8.</div> Han istuu ja vaijyy kartanoissa, murhataksensa salaa viatointa; hanen silmansa palaa koyhan puoleen.	
 
-9. Han vaijyy salaa niinkuin jalopeura luolassansa, han vaijyy raadollista kasittaaksensa, ja han kasittaa hanen, kuin han tempaa sen verkkoihinsa.	
+<div class="versenum">9.</div> Han vaijyy salaa niinkuin jalopeura luolassansa, han vaijyy raadollista kasittaaksensa, ja han kasittaa hanen, kuin han tempaa sen verkkoihinsa.	
 
-10. Han paiskaa ja polkee alas, ja sysaa koyhan vakivallalla maahan.	
+<div class="versenum">10.</div> Han paiskaa ja polkee alas, ja sysaa koyhan vakivallalla maahan.	
 
-11. Han sanoo sydamessansa: Jumala on hanen unhottanut, ja verhonnut kasvonsa, ei han ikana nae.	
+<div class="versenum">11.</div> Han sanoo sydamessansa: Jumala on hanen unhottanut, ja verhonnut kasvonsa, ei han ikana nae.	
 
-12. Nouse, Herra! Jumala, ylenna kates ja ala koyhaa unohda.	
+<div class="versenum">12.</div> Nouse, Herra! Jumala, ylenna kates ja ala koyhaa unohda.	
 
-13. Miksi jumalatoin pilkkaa Jumalaa ja sanoo sydamessansa: et sina sita tottele?	
+<div class="versenum">13.</div> Miksi jumalatoin pilkkaa Jumalaa ja sanoo sydamessansa: et sina sita tottele?	
 
-14. Katso siis; silla sina naet tuskat ja surut, se on sinun kasissas: sinuun koyha itsensa luottaa, ja sina olet orpolasten holhoja.	
+<div class="versenum">14.</div> Katso siis; silla sina naet tuskat ja surut, se on sinun kasissas: sinuun koyha itsensa luottaa, ja sina olet orpolasten holhoja.	
 
-15. Sarje jumalattoman kasivarsi, ja etsi pahan jumalattomuutta, niin ettei sita enaa loydettaisi.	
+<div class="versenum">15.</div> Sarje jumalattoman kasivarsi, ja etsi pahan jumalattomuutta, niin ettei sita enaa loydettaisi.	
 
-16. Herra on kuningas aina ja ijankaikkisesti: pakanain pitaa haviaman hanen maastansa.	
+<div class="versenum">16.</div> Herra on kuningas aina ja ijankaikkisesti: pakanain pitaa haviaman hanen maastansa.	
 
-17. Koyhain halauksen sina, Herra, kuulet: heidan sydamensa sina vahvistat, etta sinun korvas siita ottaa vaarin;	
+<div class="versenum">17.</div> Koyhain halauksen sina, Herra, kuulet: heidan sydamensa sina vahvistat, etta sinun korvas siita ottaa vaarin;	
 
-18. Ettas oikeuden saatat orvoille ja koyhille, ettei ihminen enaa ylpeile heita vastaan maan paalla.	
+<div class="versenum">18.</div> Ettas oikeuden saatat orvoille ja koyhille, ettei ihminen enaa ylpeile heita vastaan maan paalla.	
 

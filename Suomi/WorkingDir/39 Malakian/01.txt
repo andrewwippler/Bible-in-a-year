@@ -1,30 +1,30 @@
 Malakian 1	
 	
-1. Tama on Herran sanan kuorma Israelin tyko, Malakian kautta.	
+<div class="versenum">1.</div> Tama on Herran sanan kuorma Israelin tyko, Malakian kautta.	
 
-2. Mina rakastin teita, sanoo Herra. Niin te sanotte: missas meita rakastit? Eiko Esau ole Jakobin veli, sanoo Herra? ja mina rakastin Jakobia,	
+<div class="versenum">2.</div> Mina rakastin teita, sanoo Herra. Niin te sanotte: missas meita rakastit? Eiko Esau ole Jakobin veli, sanoo Herra? ja mina rakastin Jakobia,	
 
-3. Ja vihasin Esauta; olen myos autioksi tehnyt hanen vuorensa, ja hanen perimisensa lohikarmeille eramaaksi.	
+<div class="versenum">3.</div> Ja vihasin Esauta; olen myos autioksi tehnyt hanen vuorensa, ja hanen perimisensa lohikarmeille eramaaksi.	
 
-4. Ja jos Edom sanois: me olemme koyhtyneet, mutta me tahdomme autiot jalleen rakentaa; niin sanoo Herra Zebaot nain: jos he rakentavat, niin mina tahdon maahan kukistaa; ja ne pitaa kutsuttaman jumalattomuuden rajaksi ja siksi kansaksi, jolle Herra on vihainen ijankaikkisesti.	
+<div class="versenum">4.</div> Ja jos Edom sanois: me olemme koyhtyneet, mutta me tahdomme autiot jalleen rakentaa; niin sanoo Herra Zebaot nain: jos he rakentavat, niin mina tahdon maahan kukistaa; ja ne pitaa kutsuttaman jumalattomuuden rajaksi ja siksi kansaksi, jolle Herra on vihainen ijankaikkisesti.	
 
-5. Sen pitaa teidan silmanne nakeman, ja teidan pitaa sanoman: Herra on ylistetty Israelin maan aarissa.	
+<div class="versenum">5.</div> Sen pitaa teidan silmanne nakeman, ja teidan pitaa sanoman: Herra on ylistetty Israelin maan aarissa.	
 
-6. Pojan pitaa kunnioittaman isaansa, ja palvelian isantaansa. Jos mina siis isa olen, kussa on minun kunniani? Jos mina isanta olen, kussa on minun pelkoni? sanoo Herra Zebaot teille, papit, jotka katsotte ylon minun nimeni. Niin te sanotte: missa me katsomme ylon sinun nimes?	
+<div class="versenum">6.</div> Pojan pitaa kunnioittaman isaansa, ja palvelian isantaansa. Jos mina siis isa olen, kussa on minun kunniani? Jos mina isanta olen, kussa on minun pelkoni? sanoo Herra Zebaot teille, papit, jotka katsotte ylon minun nimeni. Niin te sanotte: missa me katsomme ylon sinun nimes?	
 
-7. Silloin kuin te uhraatte minun alttarilleni saastaista leipaa. Niin te sanotte: kuinka me uhraamme sinulle saastaista? Siina etta te sanotte: Herran poyta on katsottu ylon.	
+<div class="versenum">7.</div> Silloin kuin te uhraatte minun alttarilleni saastaista leipaa. Niin te sanotte: kuinka me uhraamme sinulle saastaista? Siina etta te sanotte: Herran poyta on katsottu ylon.	
 
-8. Ja kuin te uhraatte jotakin, joka sokia on, niin ette sano sita pahaksi; ja kuin te uhraatte jotakin ontuvaa eli sairasta, niin ei sitakaan sanota pahaksi. Vie senkaltaista sinun paamiehilles, mitamaks, jos sina olet hanelle otollinen, eli jos han katsoo sinun puolees, sanoo Herra Zebaot.	
+<div class="versenum">8.</div> Ja kuin te uhraatte jotakin, joka sokia on, niin ette sano sita pahaksi; ja kuin te uhraatte jotakin ontuvaa eli sairasta, niin ei sitakaan sanota pahaksi. Vie senkaltaista sinun paamiehilles, mitamaks, jos sina olet hanelle otollinen, eli jos han katsoo sinun puolees, sanoo Herra Zebaot.	
 
-9. Niin rukoilkaat nyt Jumalaa, etta han armahtais meidan paallemme, silla se on tapahtunut teilta. Luuletteko, etta han katsoo teidan puoleenne? sanoo Herra Zebaot.	
+<div class="versenum">9.</div> Niin rukoilkaat nyt Jumalaa, etta han armahtais meidan paallemme, silla se on tapahtunut teilta. Luuletteko, etta han katsoo teidan puoleenne? sanoo Herra Zebaot.	
 
-10. Kuka on myos teidan seassanne, joka sulkee oven (ilman palkkaa)? ette myos virita tulta minun alttarilleni ilman mitakaan. Ei minulla ole suosiota teihin, sanoo Herra Zebaot, ja ruokauhri teidan kasistanne ei ole minulle otollinen.	
+<div class="versenum">10.</div> Kuka on myos teidan seassanne, joka sulkee oven (ilman palkkaa)? ette myos virita tulta minun alttarilleni ilman mitakaan. Ei minulla ole suosiota teihin, sanoo Herra Zebaot, ja ruokauhri teidan kasistanne ei ole minulle otollinen.	
 
-11. Vaan hamasta auringon koitosta niin laskemiseen asti pitaa minun nimeni suureksi tuleman pakanain seassa, ja jokapaikassa pitaa minun nimelleni suitsutettaman, ja puhdas ruokauhri uhrattaman; silla minun nimeni pitaa suureksi tuleman pakanain seassa, sanoo Herra Zebaot.	
+<div class="versenum">11.</div> Vaan hamasta auringon koitosta niin laskemiseen asti pitaa minun nimeni suureksi tuleman pakanain seassa, ja jokapaikassa pitaa minun nimelleni suitsutettaman, ja puhdas ruokauhri uhrattaman; silla minun nimeni pitaa suureksi tuleman pakanain seassa, sanoo Herra Zebaot.	
 
-12. Mutta te turmelette sen silla, kuin te sanotte: Herran poyta on saastutettu, ja sen uhri on katsottu ylon ja hanen ruokansa.	
+<div class="versenum">12.</div> Mutta te turmelette sen silla, kuin te sanotte: Herran poyta on saastutettu, ja sen uhri on katsottu ylon ja hanen ruokansa.	
 
-13. Ja te sanotte: katso, se on sula vaiva, ja lyotte sen tuleen, sanoo Herra Zebaot. Ja te uhraatte ryovattya, ontuvaa ja sairasta, ja ne te uhraatte ruokauhriksi. Pitaisko se minulle otollinen oleman teidan kasistanne? sanoo Herra.	
+<div class="versenum">13.</div> Ja te sanotte: katso, se on sula vaiva, ja lyotte sen tuleen, sanoo Herra Zebaot. Ja te uhraatte ryovattya, ontuvaa ja sairasta, ja ne te uhraatte ruokauhriksi. Pitaisko se minulle otollinen oleman teidan kasistanne? sanoo Herra.	
 
-14. Mutta kirottu olkoon pettaja, jonka laumassa on oinas, ja kuin han tekee lupauksen, niin han uhraa Herralle kelvottoman; silla mina olen suuri kuningas, sanoo Herra Zebaot, ja minun nimeni on peljattava pakanain seassa.	
+<div class="versenum">14.</div> Mutta kirottu olkoon pettaja, jonka laumassa on oinas, ja kuin han tekee lupauksen, niin han uhraa Herralle kelvottoman; silla mina olen suuri kuningas, sanoo Herra Zebaot, ja minun nimeni on peljattava pakanain seassa.	
 

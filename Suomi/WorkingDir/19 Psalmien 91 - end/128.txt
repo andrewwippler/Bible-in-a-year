@@ -1,14 +1,14 @@
 Psalmien 128	
 	
-1. Veisu korkeimmassa Kuorissa. Autuas on jokainen, joka Herraa pelkaa, ja hanen tiellansa vaeltaa.	
+<div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Autuas on jokainen, joka Herraa pelkaa, ja hanen tiellansa vaeltaa.	
 
-2. Silla sina elatat itses kattes toista: autuas sina olet, ja sinulle kay hyvasti.	
+<div class="versenum">2.</div> Silla sina elatat itses kattes toista: autuas sina olet, ja sinulle kay hyvasti.	
 
-3. Sinun emantas on niinkuin hedelmallinen viinapuu huonees sisimmaisissa loukkaissa: sinun lapses niinkuin oljypuun vesat, poytas ymparilla.	
+<div class="versenum">3.</div> Sinun emantas on niinkuin hedelmallinen viinapuu huonees sisimmaisissa loukkaissa: sinun lapses niinkuin oljypuun vesat, poytas ymparilla.	
 
-4. Katsos, nain se mies siunataan, joka Herraa pelkaa.	
+<div class="versenum">4.</div> Katsos, nain se mies siunataan, joka Herraa pelkaa.	
 
-5. Herra siunaa sinua Zionista, ettas naet Jerusalemin onnen kaikkena elinaikanas,	
+<div class="versenum">5.</div> Herra siunaa sinua Zionista, ettas naet Jerusalemin onnen kaikkena elinaikanas,	
 
-6. Ja saat nahda lastes lapset: rauha olkoon Israelille!	
+<div class="versenum">6.</div> Ja saat nahda lastes lapset: rauha olkoon Israelille!	
 

@@ -1,62 +1,62 @@
 Sananlaskujen 20	
 	
-1. Viina tekee pilkkaajaksi, ja vakevat juotavat tekevat tyhmaksi: joka niita halajaa, ei han ikina viisaaksi tule.	
+<div class="versenum">1.</div> Viina tekee pilkkaajaksi, ja vakevat juotavat tekevat tyhmaksi: joka niita halajaa, ei han ikina viisaaksi tule.	
 
-2. Kuninkaan peljattamys on niinkuin nuoren jalopeuran kiljuminen: joka hanen vihoittaa, han tekee omaa henkeansa vastoin.	
+<div class="versenum">2.</div> Kuninkaan peljattamys on niinkuin nuoren jalopeuran kiljuminen: joka hanen vihoittaa, han tekee omaa henkeansa vastoin.	
 
-3. Miehen kunnia on olla ilman riitaa; vaan jotka mielellansa riitelevat, ovat kaikki tyhmat.	
+<div class="versenum">3.</div> Miehen kunnia on olla ilman riitaa; vaan jotka mielellansa riitelevat, ovat kaikki tyhmat.	
 
-4. Kylman tahden ei tahdo laiska kyntaa; sentahden han elonaikana kerjaa, ja ei saa mitaan.	
+<div class="versenum">4.</div> Kylman tahden ei tahdo laiska kyntaa; sentahden han elonaikana kerjaa, ja ei saa mitaan.	
 
-5. Neuvo on miehen sydamessa niinkuin syva vesi; mutta toimellinen ammuntaa sen ylos.	
+<div class="versenum">5.</div> Neuvo on miehen sydamessa niinkuin syva vesi; mutta toimellinen ammuntaa sen ylos.	
 
-6. Monta ihmista kerskataan hyvaksi; vaan kuka loytaa jonkun, joka todella hyva on?	
+<div class="versenum">6.</div> Monta ihmista kerskataan hyvaksi; vaan kuka loytaa jonkun, joka todella hyva on?	
 
-7. Vanhurskas siveydessa vaeltaa; hanen lastensa kay hyvin hanen perassansa.	
+<div class="versenum">7.</div> Vanhurskas siveydessa vaeltaa; hanen lastensa kay hyvin hanen perassansa.	
 
-8. Kuningas, joka istuu istuimella tuomitsemaan, hajoittaa kaikki, jotka pahat ovat, silmillansa.	
+<div class="versenum">8.</div> Kuningas, joka istuu istuimella tuomitsemaan, hajoittaa kaikki, jotka pahat ovat, silmillansa.	
 
-9. Kuka sanoo: mina olen puhdas sydamessani, ja vapaa synnistani?	
+<div class="versenum">9.</div> Kuka sanoo: mina olen puhdas sydamessani, ja vapaa synnistani?	
 
-10. Monenlainen vaaka ja mitta ovat molemmat kauhistus herralle.	
+<div class="versenum">10.</div> Monenlainen vaaka ja mitta ovat molemmat kauhistus herralle.	
 
-11. Nuorukainen tunnetaan menostansa, jos han siviaksi ja toimelliseksi tuleva on.	
+<div class="versenum">11.</div> Nuorukainen tunnetaan menostansa, jos han siviaksi ja toimelliseksi tuleva on.	
 
-12. Kuulevaisen korvan ja nakevaisen silman on Herra molemmat tehnyt.	
+<div class="versenum">12.</div> Kuulevaisen korvan ja nakevaisen silman on Herra molemmat tehnyt.	
 
-13. Ala rakasta unta, ettes koyhtyisi: avaa silmas, niin sina saat kyllan leipaa.	
+<div class="versenum">13.</div> Ala rakasta unta, ettes koyhtyisi: avaa silmas, niin sina saat kyllan leipaa.	
 
-14. Paha, paha, sanoo ostaja; mutta mentyansa pois han kerskaa.	
+<div class="versenum">14.</div> Paha, paha, sanoo ostaja; mutta mentyansa pois han kerskaa.	
 
-15. Kultaa ja kalliita kivia loydetaan kylla, vaan toimellinen suu on kallis kappale.	
+<div class="versenum">15.</div> Kultaa ja kalliita kivia loydetaan kylla, vaan toimellinen suu on kallis kappale.	
 
-16. Ota hanen vaattensa joka muukaisen takaa: ja ota hanelta pantti tuntemattoman edesta.	
+<div class="versenum">16.</div> Ota hanen vaattensa joka muukaisen takaa: ja ota hanelta pantti tuntemattoman edesta.	
 
-17. Varastettu leipa maistuu miehelle hyvin; vaan sitte pitaa hanen suunsa oleman taynna teravia kivia.	
+<div class="versenum">17.</div> Varastettu leipa maistuu miehelle hyvin; vaan sitte pitaa hanen suunsa oleman taynna teravia kivia.	
 
-18. Aivoitukset menestyvat, kuin ne neuvotella toimitetaan, ja sodat myos pitaa toimella pidettaman.	
+<div class="versenum">18.</div> Aivoitukset menestyvat, kuin ne neuvotella toimitetaan, ja sodat myos pitaa toimella pidettaman.	
 
-19. Ala sekoita sinuas sen kanssa, joka salaisuuden ilmoittaa, ja joka panettelee, ja jolla petollinen suu on.	
+<div class="versenum">19.</div> Ala sekoita sinuas sen kanssa, joka salaisuuden ilmoittaa, ja joka panettelee, ja jolla petollinen suu on.	
 
-20. Joka isaansa ja aitiansa kiroilee, hanen kynttilansa pitaa sammuman synkiassa pimeydessa.	
+<div class="versenum">20.</div> Joka isaansa ja aitiansa kiroilee, hanen kynttilansa pitaa sammuman synkiassa pimeydessa.	
 
-21. Perinto, johon varhain kiiruhdetaan, on viimeiselta ilman siunausta.	
+<div class="versenum">21.</div> Perinto, johon varhain kiiruhdetaan, on viimeiselta ilman siunausta.	
 
-22. Ala sano: mina kostan pahan; odota Herraa, han auttaa sinua.	
+<div class="versenum">22.</div> Ala sano: mina kostan pahan; odota Herraa, han auttaa sinua.	
 
-23. Monenlaiset puntarit ovat Herralle kauhistus, ja vaara vaaka ei ole hyva.	
+<div class="versenum">23.</div> Monenlaiset puntarit ovat Herralle kauhistus, ja vaara vaaka ei ole hyva.	
 
-24. Jokaisen retket tulevat Herralta: kuka ihminen taitaa ymmartaa tiensa?	
+<div class="versenum">24.</div> Jokaisen retket tulevat Herralta: kuka ihminen taitaa ymmartaa tiensa?	
 
-25. Se on ihmiselle paula, kuin han pilkkaa pyhaa, ja etsii sitte lupauksia.	
+<div class="versenum">25.</div> Se on ihmiselle paula, kuin han pilkkaa pyhaa, ja etsii sitte lupauksia.	
 
-26. Viisas kuningas hajoittaa jumalattomat, ja antaa ratasten kayda heidan paallitsensa.	
+<div class="versenum">26.</div> Viisas kuningas hajoittaa jumalattomat, ja antaa ratasten kayda heidan paallitsensa.	
 
-27. Herran kynttila on ihmisen henki: han kay lapi koko sydamen.	
+<div class="versenum">27.</div> Herran kynttila on ihmisen henki: han kay lapi koko sydamen.	
 
-28. Laupius ja totuus varjelee kuninkaan, ja han vahvistaa istuimensa laupiudella.	
+<div class="versenum">28.</div> Laupius ja totuus varjelee kuninkaan, ja han vahvistaa istuimensa laupiudella.	
 
-29. Nuorten miesten vakevyys on heidan kunniansa, ja harmaat karvat on vanhain kaunistus.	
+<div class="versenum">29.</div> Nuorten miesten vakevyys on heidan kunniansa, ja harmaat karvat on vanhain kaunistus.	
 
-30. Haavoilla pitaa pahuus ajettaman pois, ja koko sydamen kivulla.	
+<div class="versenum">30.</div> Haavoilla pitaa pahuus ajettaman pois, ja koko sydamen kivulla.	
 

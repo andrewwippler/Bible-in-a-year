@@ -1,30 +1,30 @@
 Psalmien 48	
 	
-1. Koran lasten Veisu-Psalmi. (H48:2) Suuri on Herra, ja sangen kiitettava, meidan Jumalamme kaupungissa, pyhalla vuorellansa.	
+<div class="versenum">1.</div> Koran lasten Veisu-Psalmi. (H48:2) Suuri on Herra, ja sangen kiitettava, meidan Jumalamme kaupungissa, pyhalla vuorellansa.	
 
-2. Zionin vuori on kauniilla paikalla, koko maan ilo, pohjan puolella, suuren kuninkaan kaupunki.	
+<div class="versenum">2.</div> Zionin vuori on kauniilla paikalla, koko maan ilo, pohjan puolella, suuren kuninkaan kaupunki.	
 
-3. Jumala on tunnettu huoneessansa, etta han sen varjelia on.	
+<div class="versenum">3.</div> Jumala on tunnettu huoneessansa, etta han sen varjelia on.	
 
-4. Silla katso, kuninkaat olivat kokoontuneet, ja ynna menivat ohitse.	
+<div class="versenum">4.</div> Silla katso, kuninkaat olivat kokoontuneet, ja ynna menivat ohitse.	
 
-5. He ihmettelivat, kuin he taman nakivat: he hammastyivat, ja kiiruhtivat pois,	
+<div class="versenum">5.</div> He ihmettelivat, kuin he taman nakivat: he hammastyivat, ja kiiruhtivat pois,	
 
-6. Vavistus on heidat siella kasittanyt, ahdistus niinkuin synnyttavaisen.	
+<div class="versenum">6.</div> Vavistus on heidat siella kasittanyt, ahdistus niinkuin synnyttavaisen.	
 
-7. Sina sarjet haahdet meressa itatuulella.	
+<div class="versenum">7.</div> Sina sarjet haahdet meressa itatuulella.	
 
-8. Niinkuin me kuulimme, niin me sen naemme Herran Zebaotin kaupungissa, meidan Jumalamme kaupungissa: Jumala sen vahvistaa ijankaikkisesti, Sela!	
+<div class="versenum">8.</div> Niinkuin me kuulimme, niin me sen naemme Herran Zebaotin kaupungissa, meidan Jumalamme kaupungissa: Jumala sen vahvistaa ijankaikkisesti, Sela!	
 
-9. Jumala! me odotamme sinun hyvyyttas sinun templissas.	
+<div class="versenum">9.</div> Jumala! me odotamme sinun hyvyyttas sinun templissas.	
 
-10. Jumala! niinkuin sinun nimes on, niin myos on sinun kiitokses hamaan maailman aareen: sinun oikia kates on taynna vanhurskautta.	
+<div class="versenum">10.</div> Jumala! niinkuin sinun nimes on, niin myos on sinun kiitokses hamaan maailman aareen: sinun oikia kates on taynna vanhurskautta.	
 
-11. Riemuitkaan Zionin vuori, ja Juudan tyttaret iloitkaan sinun oikeuttes tahden.	
+<div class="versenum">11.</div> Riemuitkaan Zionin vuori, ja Juudan tyttaret iloitkaan sinun oikeuttes tahden.	
 
-12. Menkaat Zionin ympari ja piirittakaat hanta: lukekaat hanen torninsa.	
+<div class="versenum">12.</div> Menkaat Zionin ympari ja piirittakaat hanta: lukekaat hanen torninsa.	
 
-13. Turvatkaat hanen muurinsa, vahvistakaat hanen salinsa, etta te sita juttelisitte tulevaisille sukukunnille.	
+<div class="versenum">13.</div> Turvatkaat hanen muurinsa, vahvistakaat hanen salinsa, etta te sita juttelisitte tulevaisille sukukunnille.	
 
-14. Silla tama Jumala on meidan Jumalamme aina ja ijankaikkisesti: han johdattaa meita kuolemaan asti.	
+<div class="versenum">14.</div> Silla tama Jumala on meidan Jumalamme aina ja ijankaikkisesti: han johdattaa meita kuolemaan asti.	
 

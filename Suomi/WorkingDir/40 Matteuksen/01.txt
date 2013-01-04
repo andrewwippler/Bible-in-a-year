@@ -1,52 +1,52 @@
 Matteuksen 1	
 	
-1. Jesuksen Kristuksen syntymakirja, Davidin pojan, Abrahamin pojan.	
+<div class="versenum">1.</div> Jesuksen Kristuksen syntymakirja, Davidin pojan, Abrahamin pojan.	
 
-2. Abraham siitti Isaakin. Mutta Isaak siitti Jakobin. Jakob siitti Juudan, ja hanen veljensa,	
+<div class="versenum">2.</div> Abraham siitti Isaakin. Mutta Isaak siitti Jakobin. Jakob siitti Juudan, ja hanen veljensa,	
 
-3. Juuda siitti Phareksen ja Saramin Tamarista. Phares siitti Hetsronin. Hetsron siitti Aramin.	
+<div class="versenum">3.</div> Juuda siitti Phareksen ja Saramin Tamarista. Phares siitti Hetsronin. Hetsron siitti Aramin.	
 
-4. Aram siitti Aminadabin. Aminadab siitti Nahassonin. Nahasson siitti Salmonin.	
+<div class="versenum">4.</div> Aram siitti Aminadabin. Aminadab siitti Nahassonin. Nahasson siitti Salmonin.	
 
-5. Salmon siitti Boaksen Rahabista. Boas siitti Obedin Ruutista. Obed siitti Jessen.	
+<div class="versenum">5.</div> Salmon siitti Boaksen Rahabista. Boas siitti Obedin Ruutista. Obed siitti Jessen.	
 
-6. Jesse siitti kuningas Davidin. Kuningas David siitti Salomonin Urian emannasta.	
+<div class="versenum">6.</div> Jesse siitti kuningas Davidin. Kuningas David siitti Salomonin Urian emannasta.	
 
-7. Salomon siitti Rehabeamin. Rehabeam siitti Abian. Abia siitti Assan.	
+<div class="versenum">7.</div> Salomon siitti Rehabeamin. Rehabeam siitti Abian. Abia siitti Assan.	
 
-8. Assa siitti Josaphatin. Josaphat siitti Joramin. Joram siitti Ussian.	
+<div class="versenum">8.</div> Assa siitti Josaphatin. Josaphat siitti Joramin. Joram siitti Ussian.	
 
-9. Ussia siitti Jotamin. Jotam siitti Akaksen. Akas siitti Etsekian.	
+<div class="versenum">9.</div> Ussia siitti Jotamin. Jotam siitti Akaksen. Akas siitti Etsekian.	
 
-10. Etsekia siitti Manassen. Manasse siitti Amonin. Amon siitti Josian.	
+<div class="versenum">10.</div> Etsekia siitti Manassen. Manasse siitti Amonin. Amon siitti Josian.	
 
-11. Josia siitti (Jojakimin. Jojakim siitti) Jekonian ja hanen veljensa, Babelin vankiudessa.	
+<div class="versenum">11.</div> Josia siitti (Jojakimin. Jojakim siitti) Jekonian ja hanen veljensa, Babelin vankiudessa.	
 
-12. Mutta Babelin vankiuden jalkeen siitti Jekonia Sealtielin. Sealtiel siitti Zorobabelin.	
+<div class="versenum">12.</div> Mutta Babelin vankiuden jalkeen siitti Jekonia Sealtielin. Sealtiel siitti Zorobabelin.	
 
-13. Zorobabel siitti Abiudin. Abiud siitti Eliakimin. Eliakim siitti Asorin.	
+<div class="versenum">13.</div> Zorobabel siitti Abiudin. Abiud siitti Eliakimin. Eliakim siitti Asorin.	
 
-14. Asor siitti Sadokin. Sadok siitti Akimin. Akim siitti Eliudin.	
+<div class="versenum">14.</div> Asor siitti Sadokin. Sadok siitti Akimin. Akim siitti Eliudin.	
 
-15. Eliud siitti Eleatsarin. Eleatsar siitti Matanin. Matan siitti Jakobin.	
+<div class="versenum">15.</div> Eliud siitti Eleatsarin. Eleatsar siitti Matanin. Matan siitti Jakobin.	
 
-16. Jakob siitti Josephin, Marian miehen, josta (Mariasta) on syntynyt Jesus, joka kutsutaan Kristus.	
+<div class="versenum">16.</div> Jakob siitti Josephin, Marian miehen, josta (Mariasta) on syntynyt Jesus, joka kutsutaan Kristus.	
 
-17. Niin ovat kaikki polvet Abrahamista Davidiin asti neljatoistakymmenta polvea; Davidista Babelin vankiuteen myos neljatoistakymmenta polvea, ja Babelin vankiudesta Kristukseen asti neljatoistakymmenta polvea.	
+<div class="versenum">17.</div> Niin ovat kaikki polvet Abrahamista Davidiin asti neljatoistakymmenta polvea; Davidista Babelin vankiuteen myos neljatoistakymmenta polvea, ja Babelin vankiudesta Kristukseen asti neljatoistakymmenta polvea.	
 
-18. Jesuksen Kristuksen syntymys oli nain: koska Maria hanen aitinsa oli Josephiin kihlattu, ennen kuin he yhteen tulivat, loyttiin han raskaaksi Pyhasta Hengesta.	
+<div class="versenum">18.</div> Jesuksen Kristuksen syntymys oli nain: koska Maria hanen aitinsa oli Josephiin kihlattu, ennen kuin he yhteen tulivat, loyttiin han raskaaksi Pyhasta Hengesta.	
 
-19. Mutta etta Joseph hanen miehensa oli hurskas ja ei tahtonut hanta huutoon saattaa, ajatteli han salaisesti hyljata hanen.	
+<div class="versenum">19.</div> Mutta etta Joseph hanen miehensa oli hurskas ja ei tahtonut hanta huutoon saattaa, ajatteli han salaisesti hyljata hanen.	
 
-20. Kuin han naita ajatteli, katso, niin Herran enkeli ilmestyi hanelle unessa ja sanoi: Joseph, Davidin poika! ala pelkaa ottaakses Mariaa puolisoas tykos; silla se, mika hanessa on siinnyt, on Pyhasta Hengesta.	
+<div class="versenum">20.</div> Kuin han naita ajatteli, katso, niin Herran enkeli ilmestyi hanelle unessa ja sanoi: Joseph, Davidin poika! ala pelkaa ottaakses Mariaa puolisoas tykos; silla se, mika hanessa on siinnyt, on Pyhasta Hengesta.	
 
-21. Ja hanen pitaa synnyttaman Pojan, jonka nimen sinun pitaa kutsuman Jesus; silla han on vapahtava kansansa heidan synneistansa.	
+<div class="versenum">21.</div> Ja hanen pitaa synnyttaman Pojan, jonka nimen sinun pitaa kutsuman Jesus; silla han on vapahtava kansansa heidan synneistansa.	
 
-22. Mutta tama on kaikki tapahtunut, etta taytettaisiin, mita Herralta on sanottu prophetan kautta, joka sanoo:	
+<div class="versenum">22.</div> Mutta tama on kaikki tapahtunut, etta taytettaisiin, mita Herralta on sanottu prophetan kautta, joka sanoo:	
 
-23. Katso, neitseen pitaa raskaaksi tuleman ja synnyttaman Pojan, ja hanen nimensa pitaa kutsuttaman Emmanuel; se on niin paljo sanottu: Jumala meidan kanssamme.	
+<div class="versenum">23.</div> Katso, neitseen pitaa raskaaksi tuleman ja synnyttaman Pojan, ja hanen nimensa pitaa kutsuttaman Emmanuel; se on niin paljo sanottu: Jumala meidan kanssamme.	
 
-24. Kuin Joseph unesta herasi, niin han teki kuin Herran enkeli hanen kaski, ja otti puolisonsa tykonsa,	
+<div class="versenum">24.</div> Kuin Joseph unesta herasi, niin han teki kuin Herran enkeli hanen kaski, ja otti puolisonsa tykonsa,	
 
-25. Ja ei tuntenut hanta, siihenasti kuin han poikansa esikoisensa synnytti, ja kutsui hanen nimensa Jesus.	
+<div class="versenum">25.</div> Ja ei tuntenut hanta, siihenasti kuin han poikansa esikoisensa synnytti, ja kutsui hanen nimensa Jesus.	
 

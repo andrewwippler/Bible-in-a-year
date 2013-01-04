@@ -1,64 +1,64 @@
 Sananlaskujen 21	
 	
-1. Kuninkaan sydan on Herran kadessa, niinkuin vesiojat, ja han taittaa sen kuhunka tahtoo.	
+<div class="versenum">1.</div> Kuninkaan sydan on Herran kadessa, niinkuin vesiojat, ja han taittaa sen kuhunka tahtoo.	
 
-2. Jokainen luulee tiensa oikiaksi, vaan Herra koettelee sydamet.	
+<div class="versenum">2.</div> Jokainen luulee tiensa oikiaksi, vaan Herra koettelee sydamet.	
 
-3. Hyvin ja oikein tehda, on Herralle otollisempi kuin uhri.	
+<div class="versenum">3.</div> Hyvin ja oikein tehda, on Herralle otollisempi kuin uhri.	
 
-4. Ylpiat silmat ja paisunut sydan, ja jumalattomain kynttila on synti.	
+<div class="versenum">4.</div> Ylpiat silmat ja paisunut sydan, ja jumalattomain kynttila on synti.	
 
-5. Ahkeran miehen aivoitukset tuovat yltakyllaisyyden; vaan joka pikainen on, se tulee koyhaksi.	
+<div class="versenum">5.</div> Ahkeran miehen aivoitukset tuovat yltakyllaisyyden; vaan joka pikainen on, se tulee koyhaksi.	
 
-6. Joka tavaran kokoo valheella, se on kulkeva turhuus, niiden seassa, jotka kuolemaa etsivat.	
+<div class="versenum">6.</div> Joka tavaran kokoo valheella, se on kulkeva turhuus, niiden seassa, jotka kuolemaa etsivat.	
 
-7. Jumalattomain raatelemus pitaa heita peljattaman; silla ei he tahtoneet tehda, mita oikia on.	
+<div class="versenum">7.</div> Jumalattomain raatelemus pitaa heita peljattaman; silla ei he tahtoneet tehda, mita oikia on.	
 
-8. Jumalattoman ihmisen tie on outo; mutta puhtaan tyo on oikia.	
+<div class="versenum">8.</div> Jumalattoman ihmisen tie on outo; mutta puhtaan tyo on oikia.	
 
-9. Parempi on asua katon kulmalla, kuin riitaisen vaimon kanssa yhdessa huoneessa.	
+<div class="versenum">9.</div> Parempi on asua katon kulmalla, kuin riitaisen vaimon kanssa yhdessa huoneessa.	
 
-10. Jumalattoman sielu toivottaa pahaa, ja ei suo lahimmaisellensa mitaan.	
+<div class="versenum">10.</div> Jumalattoman sielu toivottaa pahaa, ja ei suo lahimmaisellensa mitaan.	
 
-11. Kuin pilkkaaja rangaistaan, niin tyhmat viisaaksi tulevat, ja kuin viisas tulee opetetuksi, niin han ottaa opin.	
+<div class="versenum">11.</div> Kuin pilkkaaja rangaistaan, niin tyhmat viisaaksi tulevat, ja kuin viisas tulee opetetuksi, niin han ottaa opin.	
 
-12. vanhurskas pitaa itsensa viisaasti jumalattoman huonetta vastaan; vaan jumalattomat kietovat itsensa onnettomuuteen.	
+<div class="versenum">12.</div> vanhurskas pitaa itsensa viisaasti jumalattoman huonetta vastaan; vaan jumalattomat kietovat itsensa onnettomuuteen.	
 
-13. Joka tukitsee korvansa koyhan huudolta, hanen pitaa myos huutaman, ja ei kuultaman.	
+<div class="versenum">13.</div> Joka tukitsee korvansa koyhan huudolta, hanen pitaa myos huutaman, ja ei kuultaman.	
 
-14. Salainen lahja asettaa vihan, ja helmaan anto lepytta suurimman kiukun.	
+<div class="versenum">14.</div> Salainen lahja asettaa vihan, ja helmaan anto lepytta suurimman kiukun.	
 
-15. Se on vanhurskaille ilo, tehda mika oikia on, vaan pahantekioilla on pelko.	
+<div class="versenum">15.</div> Se on vanhurskaille ilo, tehda mika oikia on, vaan pahantekioilla on pelko.	
 
-16. Ihminen joka poikkee viisauden tielta, pitaa oleman kuolleiden joukossa.	
+<div class="versenum">16.</div> Ihminen joka poikkee viisauden tielta, pitaa oleman kuolleiden joukossa.	
 
-17. Joka hekumaa rakastaa, se tulee koyhaksi; ja joka viinaa ja oljya rakastaa, ei han tule rikkaaksi.	
+<div class="versenum">17.</div> Joka hekumaa rakastaa, se tulee koyhaksi; ja joka viinaa ja oljya rakastaa, ei han tule rikkaaksi.	
 
-18. Jumalatoin pitaa annettaman ulos vanhurskaan siaan, ja ylonkatsoja siveiden edesta.	
+<div class="versenum">18.</div> Jumalatoin pitaa annettaman ulos vanhurskaan siaan, ja ylonkatsoja siveiden edesta.	
 
-19. Parempi on asua autiossa maassa kuin riitaisen ja vihaisen vaimon kanssa.	
+<div class="versenum">19.</div> Parempi on asua autiossa maassa kuin riitaisen ja vihaisen vaimon kanssa.	
 
-20. Viisaan huoneessa on suloinen tavara ja oljy, vaan tyhma ihminen sen tuhlaa.	
+<div class="versenum">20.</div> Viisaan huoneessa on suloinen tavara ja oljy, vaan tyhma ihminen sen tuhlaa.	
 
-21. Joka vanhurskautta ja hyvyytta noudattaa, han loytaa elaman, vanhurskauden ja kunnian.	
+<div class="versenum">21.</div> Joka vanhurskautta ja hyvyytta noudattaa, han loytaa elaman, vanhurskauden ja kunnian.	
 
-22. Viisas mies voittaa vakevain kaupungin, ja kukistaa heidan uskalluksensa vahvuuden.	
+<div class="versenum">22.</div> Viisas mies voittaa vakevain kaupungin, ja kukistaa heidan uskalluksensa vahvuuden.	
 
-23. Joka suunsa ja kielensa hillitsee, han varjelee sielunsa ahdistuksesta.	
+<div class="versenum">23.</div> Joka suunsa ja kielensa hillitsee, han varjelee sielunsa ahdistuksesta.	
 
-24. Joka ynsea ja ylpia on, han kutsutaan pilkkaajaksi, joka vihassa ynseytensa nayttaa.	
+<div class="versenum">24.</div> Joka ynsea ja ylpia on, han kutsutaan pilkkaajaksi, joka vihassa ynseytensa nayttaa.	
 
-25. Laiskan himo tappaa hanen, ettei hanen katensa tahtoneet mitaan tehda:	
+<div class="versenum">25.</div> Laiskan himo tappaa hanen, ettei hanen katensa tahtoneet mitaan tehda:	
 
-26. Han himoitsee suuresti kaiken paivan; muuta vanhurskas antaa, ja ei kiella.	
+<div class="versenum">26.</div> Han himoitsee suuresti kaiken paivan; muuta vanhurskas antaa, ja ei kiella.	
 
-27. Jumalattomain uhri on kauhistus, semminkin kuin se synnissa uhrataan.	
+<div class="versenum">27.</div> Jumalattomain uhri on kauhistus, semminkin kuin se synnissa uhrataan.	
 
-28. Vaaran todistajan pitaa hukkuman; vaan joka tottelee, han saa aina puhua.	
+<div class="versenum">28.</div> Vaaran todistajan pitaa hukkuman; vaan joka tottelee, han saa aina puhua.	
 
-29. Jumalatoin juoksee paatahavin lavitse: mutta hurskas ojentaa tiensa.	
+<div class="versenum">29.</div> Jumalatoin juoksee paatahavin lavitse: mutta hurskas ojentaa tiensa.	
 
-30. Ei yksikaan viisaus, eli ymmarrys, eika neuvo, auta herraa vastaan.	
+<div class="versenum">30.</div> Ei yksikaan viisaus, eli ymmarrys, eika neuvo, auta herraa vastaan.	
 
-31. Hevoset valmistetaan sodan paivaksi; mutta voitto tulee herralta.	
+<div class="versenum">31.</div> Hevoset valmistetaan sodan paivaksi; mutta voitto tulee herralta.	
 

@@ -1,78 +1,78 @@
 Matteuksen 9	
 	
-1. Ja han astui haahteen, meni jalleen ylitse ja tuli omaan kaupunkiinsa.	
+<div class="versenum">1.</div> Ja han astui haahteen, meni jalleen ylitse ja tuli omaan kaupunkiinsa.	
 
-2. Ja katso, he toivat hanen eteensa halvatun, joka makasi vuoteella. Ja kuin Jesus naki heidan uskonsa, sanoi han halvatulle: poikani, ole hyvassa turvassa, syntis annetaan anteeksi sinulle.	
+<div class="versenum">2.</div> Ja katso, he toivat hanen eteensa halvatun, joka makasi vuoteella. Ja kuin Jesus naki heidan uskonsa, sanoi han halvatulle: poikani, ole hyvassa turvassa, syntis annetaan anteeksi sinulle.	
 
-3. Ja katso, muutamat kirjanoppineista sanoivat keskenansa: tama pilkkaa (Jumalaa).	
+<div class="versenum">3.</div> Ja katso, muutamat kirjanoppineista sanoivat keskenansa: tama pilkkaa (Jumalaa).	
 
-4. Ja kuin Jesus naki heidan ajatuksensa, sanoi han: miksi ajattelette pahaa sydamessanne?	
+<div class="versenum">4.</div> Ja kuin Jesus naki heidan ajatuksensa, sanoi han: miksi ajattelette pahaa sydamessanne?	
 
-5. Silla kumpi on keviampi sanoa: synnit annetaan anteeksi sinulle, taikka sanoa: nouse ja kay?	
+<div class="versenum">5.</div> Silla kumpi on keviampi sanoa: synnit annetaan anteeksi sinulle, taikka sanoa: nouse ja kay?	
 
-6. Mutta etta teidan pitaa tietaman Ihmisen Pojalla olevan vallan maan paalla synnit anteeksi antaa, (niin sanoi han halvatulle:) nouse ja ota vuotees, ja mene kotias.	
+<div class="versenum">6.</div> Mutta etta teidan pitaa tietaman Ihmisen Pojalla olevan vallan maan paalla synnit anteeksi antaa, (niin sanoi han halvatulle:) nouse ja ota vuotees, ja mene kotias.	
 
-7. Ja han nousi ja meni kotiansa.	
+<div class="versenum">7.</div> Ja han nousi ja meni kotiansa.	
 
-8. Ja kuin kansa sen naki, ihmettelivat he ja kunnioittivat Jumalaa, joka oli ihmisille antanut senkaltaisen vallan.	
+<div class="versenum">8.</div> Ja kuin kansa sen naki, ihmettelivat he ja kunnioittivat Jumalaa, joka oli ihmisille antanut senkaltaisen vallan.	
 
-9. Ja kuin Jesus sielta kavi ohitse, naki han ihmisen istuvan tullihuoneessa, nimelta Matteus, ja sanoi hanelle: seuraa minua. Niin han nousi ja seurasi hanta.	
+<div class="versenum">9.</div> Ja kuin Jesus sielta kavi ohitse, naki han ihmisen istuvan tullihuoneessa, nimelta Matteus, ja sanoi hanelle: seuraa minua. Niin han nousi ja seurasi hanta.	
 
-10. Ja tapahtui, kuin han atrioitsi huoneessa, katso, niin tuli monta Publikania ja syntista, ja atrioitsivat Jesuksen ja hanen opetuslastensa kanssa.	
+<div class="versenum">10.</div> Ja tapahtui, kuin han atrioitsi huoneessa, katso, niin tuli monta Publikania ja syntista, ja atrioitsivat Jesuksen ja hanen opetuslastensa kanssa.	
 
-11. Ja kuin Pharisealaiset sen nakivat, sanoivat he hanen opetuslapsillensa: miksi teidan Mestarinne syo Publikanien ja syntisten kanssa?	
+<div class="versenum">11.</div> Ja kuin Pharisealaiset sen nakivat, sanoivat he hanen opetuslapsillensa: miksi teidan Mestarinne syo Publikanien ja syntisten kanssa?	
 
-12. Mutta kuin Jesus sen kuuli, sanoi han heille: ei terve tarvitse parantajaa, vaan sairaat.	
+<div class="versenum">12.</div> Mutta kuin Jesus sen kuuli, sanoi han heille: ei terve tarvitse parantajaa, vaan sairaat.	
 
-13. Mutta menkaat ja oppikaat, mika se on: laupiutta mina tahdon, enka uhria; silla en mina tullut vanhurskaita kutsumaan, vaan syntisia parannukseen.	
+<div class="versenum">13.</div> Mutta menkaat ja oppikaat, mika se on: laupiutta mina tahdon, enka uhria; silla en mina tullut vanhurskaita kutsumaan, vaan syntisia parannukseen.	
 
-14. Silloin tulivat Johanneksen opetuslapset hanen tykonsa, ja sanoivat: minkatahden me ja Pharisealaiset niin paljo paastoomme, mutta ei sinun opetuslapses paastoo?	
+<div class="versenum">14.</div> Silloin tulivat Johanneksen opetuslapset hanen tykonsa, ja sanoivat: minkatahden me ja Pharisealaiset niin paljo paastoomme, mutta ei sinun opetuslapses paastoo?	
 
-15. Niin Jesus sanoi heille: taitaako haajoukko niinkauvan murehtia, kuin ylka on heidan kanssansa? mutta paivat tulevat, etta ylka otetaan heilta pois, ja silloin heidan pitaa paastooman.	
+<div class="versenum">15.</div> Niin Jesus sanoi heille: taitaako haajoukko niinkauvan murehtia, kuin ylka on heidan kanssansa? mutta paivat tulevat, etta ylka otetaan heilta pois, ja silloin heidan pitaa paastooman.	
 
-16. Mutta ei kenkaan paikkaa vanhaa vaatetta uuden veran tilalla; silla paikka repee pois vaatteesta, ja lapi tulee pahemmaksi.	
+<div class="versenum">16.</div> Mutta ei kenkaan paikkaa vanhaa vaatetta uuden veran tilalla; silla paikka repee pois vaatteesta, ja lapi tulee pahemmaksi.	
 
-17. Ei myos pane kenkaan nuorta viinaa vanhoihin leileihin; muutoin leilit pakahtuvat, ja viina vuotaa pois, ja leilit turmellaan; vaan nuorta viinaa lasketaan uusiin leileihin, ja niin he molemmat tahdella ovat.	
+<div class="versenum">17.</div> Ei myos pane kenkaan nuorta viinaa vanhoihin leileihin; muutoin leilit pakahtuvat, ja viina vuotaa pois, ja leilit turmellaan; vaan nuorta viinaa lasketaan uusiin leileihin, ja niin he molemmat tahdella ovat.	
 
-18. Kuin han namat heille puhunut oli, katso, niin paamies tuli ja kumarsi hanta, sanoen: nyt on minun tyttareni kuolemallansa; mutta tule ja pane kates hanen paallensa, niin han virkoaa.	
+<div class="versenum">18.</div> Kuin han namat heille puhunut oli, katso, niin paamies tuli ja kumarsi hanta, sanoen: nyt on minun tyttareni kuolemallansa; mutta tule ja pane kates hanen paallensa, niin han virkoaa.	
 
-19. Niin Jesus nousi ja seurasi hanta, ja hanen opetuslapsensa.	
+<div class="versenum">19.</div> Niin Jesus nousi ja seurasi hanta, ja hanen opetuslapsensa.	
 
-20. Ja katso, vaimo, joka oli kaksitoistakymmenta ajastaikaa punaista tautia sairastanut, kavi takana, ja tarttui hanen vaatteensa liepeeseen;	
+<div class="versenum">20.</div> Ja katso, vaimo, joka oli kaksitoistakymmenta ajastaikaa punaista tautia sairastanut, kavi takana, ja tarttui hanen vaatteensa liepeeseen;	
 
-21. Silla han oli itsellensa sanonut; jos mina ainoastaan rupeen hanen vaatteesensa, niin mina tulen terveeksi.	
+<div class="versenum">21.</div> Silla han oli itsellensa sanonut; jos mina ainoastaan rupeen hanen vaatteesensa, niin mina tulen terveeksi.	
 
-22. Niin Jesus kaansi itsensa, naki hanen ja sanoi: ole hyvassa turvassa, tyttareni! sinun uskos on sinun terveeksi tehnyt. Ja vaimo tuli silla hetkella terveeksi.	
+<div class="versenum">22.</div> Niin Jesus kaansi itsensa, naki hanen ja sanoi: ole hyvassa turvassa, tyttareni! sinun uskos on sinun terveeksi tehnyt. Ja vaimo tuli silla hetkella terveeksi.	
 
-23. Ja kuin Jesus tuli paamiehen huoneeseen, ja naki pillein soittajat ja kansan hymisevan,	
+<div class="versenum">23.</div> Ja kuin Jesus tuli paamiehen huoneeseen, ja naki pillein soittajat ja kansan hymisevan,	
 
-24. Sanoi han heille: menkaat pois; silla ei piika ole kuollut, vaan han makaa. Ja he nauroivat hanta.	
+<div class="versenum">24.</div> Sanoi han heille: menkaat pois; silla ei piika ole kuollut, vaan han makaa. Ja he nauroivat hanta.	
 
-25. Mutta kuin kansa oli ajettu ulos, meni han sisalle ja tarttui hanen kateensa, ja piika nousi.	
+<div class="versenum">25.</div> Mutta kuin kansa oli ajettu ulos, meni han sisalle ja tarttui hanen kateensa, ja piika nousi.	
 
-26. Ja sen sanoma kuului kaikkeen siihen maahan.	
+<div class="versenum">26.</div> Ja sen sanoma kuului kaikkeen siihen maahan.	
 
-27. Ja kuin Jesus sielta laksi, seurasi hanta kaksi sokiaa, huutain ja sanoen: Davidin poika, armahda meita.	
+<div class="versenum">27.</div> Ja kuin Jesus sielta laksi, seurasi hanta kaksi sokiaa, huutain ja sanoen: Davidin poika, armahda meita.	
 
-28. Ja kuin han tuli huoneeseen, tulivat sokiat hanen tykonsa, ja Jesus sanoi heille: uskotteko minun sen voivan teille tehda? He sanoivat hanelle: Herra, me uskomme.	
+<div class="versenum">28.</div> Ja kuin han tuli huoneeseen, tulivat sokiat hanen tykonsa, ja Jesus sanoi heille: uskotteko minun sen voivan teille tehda? He sanoivat hanelle: Herra, me uskomme.	
 
-29. Niin han rupesi heidan silmiinsa, sanoen: tapahtukoon teille uskonne jalkeen.	
+<div class="versenum">29.</div> Niin han rupesi heidan silmiinsa, sanoen: tapahtukoon teille uskonne jalkeen.	
 
-30. Ja heidan silmansa aukenivat. Niin Jesus haastoi heita, sanoen: katsokaat, ettei kenkaan saa tata tietaa.	
+<div class="versenum">30.</div> Ja heidan silmansa aukenivat. Niin Jesus haastoi heita, sanoen: katsokaat, ettei kenkaan saa tata tietaa.	
 
-31. Vaan kuin he menivat pois, niin he julistivat hanen sanomansa kaikessa siina maassa.	
+<div class="versenum">31.</div> Vaan kuin he menivat pois, niin he julistivat hanen sanomansa kaikessa siina maassa.	
 
-32. Kuin namat olivat menneet ulos, katso, niin he toivat mykan ja pirulta riivatun ihmisen hanen eteensa.	
+<div class="versenum">32.</div> Kuin namat olivat menneet ulos, katso, niin he toivat mykan ja pirulta riivatun ihmisen hanen eteensa.	
 
-33. Ja kuin perkele oli ajettu ulos, niin mykka puhui. Ja kansa ihmetteli ja sanoi: ei senkaltaista ole ikana Israelissa nahty.	
+<div class="versenum">33.</div> Ja kuin perkele oli ajettu ulos, niin mykka puhui. Ja kansa ihmetteli ja sanoi: ei senkaltaista ole ikana Israelissa nahty.	
 
-34. Mutta Pharisealaiset sanoivat: han ajaa ulos perkeleet perkeleitten paaruhtinasten kautta.	
+<div class="versenum">34.</div> Mutta Pharisealaiset sanoivat: han ajaa ulos perkeleet perkeleitten paaruhtinasten kautta.	
 
-35. Ja Jesus kavi kaikkia kaupungeita ja kylia ympari, ja opetti heidan synagogissansa, ja saarnasi valtakunnan evankeliumia, ja paransi kaikkinaisia tauteja ja kaikkea sairautta kansassa.	
+<div class="versenum">35.</div> Ja Jesus kavi kaikkia kaupungeita ja kylia ympari, ja opetti heidan synagogissansa, ja saarnasi valtakunnan evankeliumia, ja paransi kaikkinaisia tauteja ja kaikkea sairautta kansassa.	
 
-36. Ja kuin han naki kansat, armahti han heidan paallensa, etta he olivat niin naantyneet ja hajoitetut kuin lampaat, joilla ei ole paimenta.	
+<div class="versenum">36.</div> Ja kuin han naki kansat, armahti han heidan paallensa, etta he olivat niin naantyneet ja hajoitetut kuin lampaat, joilla ei ole paimenta.	
 
-37. Silloin han sanoi opetuslapsillensa: eloa on tosin paljo, mutta tyovakea on vaha.	
+<div class="versenum">37.</div> Silloin han sanoi opetuslapsillensa: eloa on tosin paljo, mutta tyovakea on vaha.	
 
-38. Rukoilkaat sentahden elon Herraa, etta han tyovakea lahettais eloonsa.	
+<div class="versenum">38.</div> Rukoilkaat sentahden elon Herraa, etta han tyovakea lahettais eloonsa.	
 

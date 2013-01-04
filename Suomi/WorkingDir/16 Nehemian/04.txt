@@ -1,48 +1,48 @@
 Nehemian 4	
 	
-1. Kuin Sanballat kuuli meidan muuria rakentavan, syttyi han vihaan ja narkastyi sangen suuresti, ja hapaisi Juudalaisia,	
+<div class="versenum">1.</div> Kuin Sanballat kuuli meidan muuria rakentavan, syttyi han vihaan ja narkastyi sangen suuresti, ja hapaisi Juudalaisia,	
 
-2. Ja puhui veljeinsa ja voimallisten edessa Samariassa ja sanoi: mita namat voimattomat Juudalaiset tekevat? pitaako heille niin sallittaman? pitaako heidan uhraaman? pitaako heidan sen tayttaman yhtena paivana? pitaako heidan kivia elavaksi tekeman, jotka ovat tuhkalaja ja palaneet?	
+<div class="versenum">2.</div> Ja puhui veljeinsa ja voimallisten edessa Samariassa ja sanoi: mita namat voimattomat Juudalaiset tekevat? pitaako heille niin sallittaman? pitaako heidan uhraaman? pitaako heidan sen tayttaman yhtena paivana? pitaako heidan kivia elavaksi tekeman, jotka ovat tuhkalaja ja palaneet?	
 
-3. Ja Tobia Ammonilainen sanoi hanen jalkeensa: rakentakoot vapaasti; jos ketut sinne menisivat, niin he kylla jaottaisivat heidan kivimuurinsa.	
+<div class="versenum">3.</div> Ja Tobia Ammonilainen sanoi hanen jalkeensa: rakentakoot vapaasti; jos ketut sinne menisivat, niin he kylla jaottaisivat heidan kivimuurinsa.	
 
-4. Kuule meidan Jumalamme, kuinka me olemme katsotut ylon, ja kaanna heidan havaistyksensa heidan paansa paalle, ja saata heita hapiaan vankeuden maassa.	
+<div class="versenum">4.</div> Kuule meidan Jumalamme, kuinka me olemme katsotut ylon, ja kaanna heidan havaistyksensa heidan paansa paalle, ja saata heita hapiaan vankeuden maassa.	
 
-5. Ala peita heidan pahoja tekojansa ja ala pyyhi heidan syntiansa kasvois edesta; silla he ovat vihan matkaan saattaneet, rakentajain lasnaollessa.	
+<div class="versenum">5.</div> Ala peita heidan pahoja tekojansa ja ala pyyhi heidan syntiansa kasvois edesta; silla he ovat vihan matkaan saattaneet, rakentajain lasnaollessa.	
 
-6. Mutta me rakensimme muurin ja panimme hanen kaiketi yhteen hamaan puolivaliin asti; ja kansa sai sydamen tyota tehdaksensa.	
+<div class="versenum">6.</div> Mutta me rakensimme muurin ja panimme hanen kaiketi yhteen hamaan puolivaliin asti; ja kansa sai sydamen tyota tehdaksensa.	
 
-7. Kuin Sanballat ja Tobia ja Arabialaiset ja Ammonilaiset ja Asdodilaiset kuulivat Jerusalemin muurit korotetuksi, ja ruvetuksi haljenneita parantamaan, vihastuivat he sangen suuresti.	
+<div class="versenum">7.</div> Kuin Sanballat ja Tobia ja Arabialaiset ja Ammonilaiset ja Asdodilaiset kuulivat Jerusalemin muurit korotetuksi, ja ruvetuksi haljenneita parantamaan, vihastuivat he sangen suuresti.	
 
-8. Ja he kaikki tekivat liiton keskenansa tullaksensa sotimaan Jerusalemia vastaan, ja tekemaan heille kapinaa.	
+<div class="versenum">8.</div> Ja he kaikki tekivat liiton keskenansa tullaksensa sotimaan Jerusalemia vastaan, ja tekemaan heille kapinaa.	
 
-9. Mutta me rukoilimme meidan Jumalaamme ja panimme vartiat oin ja paivin heita vastaan, heidan tahtensa.	
+<div class="versenum">9.</div> Mutta me rukoilimme meidan Jumalaamme ja panimme vartiat oin ja paivin heita vastaan, heidan tahtensa.	
 
-10. Ja Juuda sanoi: kantajain voima on heikoksi tullut ja multaa on niin paljo, ettemme saa rakentaa muuria.	
+<div class="versenum">10.</div> Ja Juuda sanoi: kantajain voima on heikoksi tullut ja multaa on niin paljo, ettemme saa rakentaa muuria.	
 
-11. Ja meidan vihollisemme sanoivat: ei heidan pida tietaman eli nakeman, ennenkuin me olemme juuri heidan keskellansa, tapamme heidat ja estamme tyon.	
+<div class="versenum">11.</div> Ja meidan vihollisemme sanoivat: ei heidan pida tietaman eli nakeman, ennenkuin me olemme juuri heidan keskellansa, tapamme heidat ja estamme tyon.	
 
-12. Ja kuin ne Juudalaiset, jotka heidan tykonansa asuivat, tulivat ja sanoivat meille kymmenen kertaa: joka paikasta te viela meidan tykomme palajatte;	
+<div class="versenum">12.</div> Ja kuin ne Juudalaiset, jotka heidan tykonansa asuivat, tulivat ja sanoivat meille kymmenen kertaa: joka paikasta te viela meidan tykomme palajatte;	
 
-13. Niin mina lahetin kansan alas muurin taa tuiviin paikkoihin, heidan sukukuntainsa jalkeen, miekkoinensa, keihainensa ja joutsinensa.	
+<div class="versenum">13.</div> Niin mina lahetin kansan alas muurin taa tuiviin paikkoihin, heidan sukukuntainsa jalkeen, miekkoinensa, keihainensa ja joutsinensa.	
 
-14. Ja mina katselin ja valmistin itseni, ja sanoin ylimmaisille ja paamiehille, ja muulle kansalle: alkaat peljatko heita, muistakaat suurta ja peljattavaa Herraa, ja sotikaat teidan veljeinne, poikainne, tytartenne, emantainne ja kotonne edesta.	
+<div class="versenum">14.</div> Ja mina katselin ja valmistin itseni, ja sanoin ylimmaisille ja paamiehille, ja muulle kansalle: alkaat peljatko heita, muistakaat suurta ja peljattavaa Herraa, ja sotikaat teidan veljeinne, poikainne, tytartenne, emantainne ja kotonne edesta.	
 
-15. Mutta kuin meidan vihollisemme sen kuulivat, etta me olimme tietaa saaneet, niin Jumala teki heidan neuvonsa tyhjaksi: ja me palasimme kaikki muurin tyko, jokainen tyohonsa.	
+<div class="versenum">15.</div> Mutta kuin meidan vihollisemme sen kuulivat, etta me olimme tietaa saaneet, niin Jumala teki heidan neuvonsa tyhjaksi: ja me palasimme kaikki muurin tyko, jokainen tyohonsa.	
 
-16. Ja tapahtui siita paivasta, etta toinen puoli nuoria miehiani teki tyota, ja toinen puoli piti keihaita, kilpia, joutsia ja rautapaitoja. Ja paamiehet seisoivat koko Juudan huoneen takana.	
+<div class="versenum">16.</div> Ja tapahtui siita paivasta, etta toinen puoli nuoria miehiani teki tyota, ja toinen puoli piti keihaita, kilpia, joutsia ja rautapaitoja. Ja paamiehet seisoivat koko Juudan huoneen takana.	
 
-17. Ne, jotka rakensivat muuria ja kantoivat kuormia, ja jotka salyttivat, yhdella kadella he tekivat tyota ja toisessa pitivat aseen.	
+<div class="versenum">17.</div> Ne, jotka rakensivat muuria ja kantoivat kuormia, ja jotka salyttivat, yhdella kadella he tekivat tyota ja toisessa pitivat aseen.	
 
-18. Ja jokaisella joka siella rakensi, oli miekka sidottu vyolle, ja niin he rakensivat. Ja se joka soitti vaskitorvea, oli minun tykonani.	
+<div class="versenum">18.</div> Ja jokaisella joka siella rakensi, oli miekka sidottu vyolle, ja niin he rakensivat. Ja se joka soitti vaskitorvea, oli minun tykonani.	
 
-19. Ja mina sanoin ylimmaisille ja paamiehille ja muulle kansalle: tyo on suuri ja avara, ja me olemme hajalla muurin paalla, kaukana toinen toisestamme;	
+<div class="versenum">19.</div> Ja mina sanoin ylimmaisille ja paamiehille ja muulle kansalle: tyo on suuri ja avara, ja me olemme hajalla muurin paalla, kaukana toinen toisestamme;	
 
-20. Milla paikalla te kuulette vaskitorven aanen, tulkaat sinne kokoon meidan tykomme: meidan Jumalamme sotii meidan edestamme.	
+<div class="versenum">20.</div> Milla paikalla te kuulette vaskitorven aanen, tulkaat sinne kokoon meidan tykomme: meidan Jumalamme sotii meidan edestamme.	
 
-21. Niin tehkaamme siis tyota; ja toinen puoli heista piti keihaita paivan koittamasta niin siihen saakka, etta tahdet nakyivat.	
+<div class="versenum">21.</div> Niin tehkaamme siis tyota; ja toinen puoli heista piti keihaita paivan koittamasta niin siihen saakka, etta tahdet nakyivat.	
 
-22. Ja mina myos sanoin siihen aikaan kansalle: jokainen olkaan yota palveliainsa kanssa keskella Jerusalemia, niin etta me yolla ottaisimme vaarin vartiosta ja paivalla tyosta.	
+<div class="versenum">22.</div> Ja mina myos sanoin siihen aikaan kansalle: jokainen olkaan yota palveliainsa kanssa keskella Jerusalemia, niin etta me yolla ottaisimme vaarin vartiosta ja paivalla tyosta.	
 
-23. Mutta mina ja minun veljeni, ja minun palveliani ja vartiat, jotka minua seurasivat, emme riisuneet vaatteitamme; ja jokaisella oli hanen aseensa ja vesi.	
+<div class="versenum">23.</div> Mutta mina ja minun veljeni, ja minun palveliani ja vartiat, jotka minua seurasivat, emme riisuneet vaatteitamme; ja jokaisella oli hanen aseensa ja vesi.	
 

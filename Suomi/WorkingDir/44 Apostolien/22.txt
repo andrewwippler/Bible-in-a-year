@@ -1,62 +1,62 @@
 Apostolien 22	
 	
-1. Miehet, rakkat veljet ja isat! kuulkaat minun edesvastaustani, jonka mina teille sanon.	
+<div class="versenum">1.</div> Miehet, rakkat veljet ja isat! kuulkaat minun edesvastaustani, jonka mina teille sanon.	
 
-2. (Kuin he kuulivat hanen Hebrean kielella heille puhuvan, vaikenivat he enemmin. Ja han sanoi:)	
+<div class="versenum">2.</div> (Kuin he kuulivat hanen Hebrean kielella heille puhuvan, vaikenivat he enemmin. Ja han sanoi:)	
 
-3. Mina olen Juudalainen, Tarsossa Kilikiassa syntynyt ja tassa kaupungissa kasvatettu Gamalielin jalkain juuressa, opetettu visusti vanhimpain laissa, ja olin Jumalan puolesta kiivas, niinkuin tekin kaikki olette tanapana,	
+<div class="versenum">3.</div> Mina olen Juudalainen, Tarsossa Kilikiassa syntynyt ja tassa kaupungissa kasvatettu Gamalielin jalkain juuressa, opetettu visusti vanhimpain laissa, ja olin Jumalan puolesta kiivas, niinkuin tekin kaikki olette tanapana,	
 
-4. Ja olen tata tieta vainonnut kuolemaan asti, sitoin ja antain ylon vankiuteen seka miehia etta vaimoja,	
+<div class="versenum">4.</div> Ja olen tata tieta vainonnut kuolemaan asti, sitoin ja antain ylon vankiuteen seka miehia etta vaimoja,	
 
-5. Niinkuin myos ylimmainen pappi ja koko vanhimpain joukko minun todistajani ovat, joilta mina otin lahetyskirjat veljein tyko, ja vaelsin Damaskuun, etta mina ne, jotka siella olivat, olisin sidottuna tuonut Jerusalemiin rangaistaa.	
+<div class="versenum">5.</div> Niinkuin myos ylimmainen pappi ja koko vanhimpain joukko minun todistajani ovat, joilta mina otin lahetyskirjat veljein tyko, ja vaelsin Damaskuun, etta mina ne, jotka siella olivat, olisin sidottuna tuonut Jerusalemiin rangaistaa.	
 
-6. Niin tapahtui minun matkassa ollessani ja lahestyissani Damaskua puolipaivan aikaan, etta suuri kirkkaus valaisi akisti taivaasta minua ympari.	
+<div class="versenum">6.</div> Niin tapahtui minun matkassa ollessani ja lahestyissani Damaskua puolipaivan aikaan, etta suuri kirkkaus valaisi akisti taivaasta minua ympari.	
 
-7. Ja mina lankesin maahan ja kuulin aanen minulle sanovan: Saul, Saul, miksis minua vainoot?	
+<div class="versenum">7.</div> Ja mina lankesin maahan ja kuulin aanen minulle sanovan: Saul, Saul, miksis minua vainoot?	
 
-8. Niin mina vastasin: kuka sina olet, Herra? Han sanoi minulle: mina olen Jesus Natsaretista, jota sina vainoot.	
+<div class="versenum">8.</div> Niin mina vastasin: kuka sina olet, Herra? Han sanoi minulle: mina olen Jesus Natsaretista, jota sina vainoot.	
 
-9. Mutta ne, jotka minun kanssani olivat, nakivat kylla kirkkauden ja peljastyivat, vaan ei he hanen aantansa kuulleet, joka minua puhutteli.	
+<div class="versenum">9.</div> Mutta ne, jotka minun kanssani olivat, nakivat kylla kirkkauden ja peljastyivat, vaan ei he hanen aantansa kuulleet, joka minua puhutteli.	
 
-10. Niin mina sanoin: Herra, mita minun pitaa tekeman? Mutta Herra sanoi minulle: nouse ja mene Damaskuun, ja siella sinulle sanotaan kaikki, mita sinun on saatty tehdakses.	
+<div class="versenum">10.</div> Niin mina sanoin: Herra, mita minun pitaa tekeman? Mutta Herra sanoi minulle: nouse ja mene Damaskuun, ja siella sinulle sanotaan kaikki, mita sinun on saatty tehdakses.	
 
-11. Ja koska en mina nahnyt sen valkeuden kirkkauden tahden, talutettiin mina kasista niilta, jotka minun kanssani olivat, ja tulin Damaskuun.	
+<div class="versenum">11.</div> Ja koska en mina nahnyt sen valkeuden kirkkauden tahden, talutettiin mina kasista niilta, jotka minun kanssani olivat, ja tulin Damaskuun.	
 
-12. Ja siella oli jumalinen mies lain jalkeen, Ananias niemelta; hanella oli hyva todistus kaikilta Juudalaisilta, jotka siella asuivat.	
+<div class="versenum">12.</div> Ja siella oli jumalinen mies lain jalkeen, Ananias niemelta; hanella oli hyva todistus kaikilta Juudalaisilta, jotka siella asuivat.	
 
-13. Han tuli minun tykoni, seisoi ja sanoi minulle: rakas veljeni Saul, saa sinun nakos jalleen. Ja mina katsoin silla hetkella hanen paallensa.	
+<div class="versenum">13.</div> Han tuli minun tykoni, seisoi ja sanoi minulle: rakas veljeni Saul, saa sinun nakos jalleen. Ja mina katsoin silla hetkella hanen paallensa.	
 
-14. Niin han sanoi: meidan isaimme Jumala on sinun valmistanut, etta sinun pitaa tunteman hanen tahtonsa, ja nakeman vanhurskaan, ja kuuleman aanta hanen suustansa.	
+<div class="versenum">14.</div> Niin han sanoi: meidan isaimme Jumala on sinun valmistanut, etta sinun pitaa tunteman hanen tahtonsa, ja nakeman vanhurskaan, ja kuuleman aanta hanen suustansa.	
 
-15. Silla sinun pitaa oleman hanen todistajansa kaikkein ihmisten edessa niista, joita sina nahnyt ja kuullut olet.	
+<div class="versenum">15.</div> Silla sinun pitaa oleman hanen todistajansa kaikkein ihmisten edessa niista, joita sina nahnyt ja kuullut olet.	
 
-16. Ja mitas nyt viivyttelet? Nouse ja anna sinus kastettaa ja pesta pois sinun syntis, ja huuda avuksi Herran nimea.	
+<div class="versenum">16.</div> Ja mitas nyt viivyttelet? Nouse ja anna sinus kastettaa ja pesta pois sinun syntis, ja huuda avuksi Herran nimea.	
 
-17. Niin tapahtui, kuin mina Jerusalemiin palasin ja rukoilin templissa, etta mina tulin horroksiin,	
+<div class="versenum">17.</div> Niin tapahtui, kuin mina Jerusalemiin palasin ja rukoilin templissa, etta mina tulin horroksiin,	
 
-18. Ja nain hanen minulle sanovan: rienna ja lahde kiiruusti Jerusalemista; silla ei he ota vastaan sinun todistustas minusta.	
+<div class="versenum">18.</div> Ja nain hanen minulle sanovan: rienna ja lahde kiiruusti Jerusalemista; silla ei he ota vastaan sinun todistustas minusta.	
 
-19. Ja mina sanoin: Herra, itse he tietavat, etta mina panin torniin ja pieksin jokaisessa synagogassa niita, jotka sinun paalles uskoivat.	
+<div class="versenum">19.</div> Ja mina sanoin: Herra, itse he tietavat, etta mina panin torniin ja pieksin jokaisessa synagogassa niita, jotka sinun paalles uskoivat.	
 
-20. Ja kuin Stephanin sinun palvelias veri vuodatettiin, olin mina myos siina lasna, ja mielistyin hanen kuolemaansa, ja vartioitsin niiden vaatteita, jotka hanen tappoivat.	
+<div class="versenum">20.</div> Ja kuin Stephanin sinun palvelias veri vuodatettiin, olin mina myos siina lasna, ja mielistyin hanen kuolemaansa, ja vartioitsin niiden vaatteita, jotka hanen tappoivat.	
 
-21. Ja han sanoi minulle: mene, silla mina lahetan sinun kauvas pakanain tyko.	
+<div class="versenum">21.</div> Ja han sanoi minulle: mene, silla mina lahetan sinun kauvas pakanain tyko.	
 
-22. Ja he kuulivat hanta tahan sanaan asti, niin he korottivat aanensa ja sanoivat: ota pois senkaltainen ihminen maan paalta; silla ei hanen ole luvallinen elaa.	
+<div class="versenum">22.</div> Ja he kuulivat hanta tahan sanaan asti, niin he korottivat aanensa ja sanoivat: ota pois senkaltainen ihminen maan paalta; silla ei hanen ole luvallinen elaa.	
 
-23. Ja kuin he niin huusivat, heittelivat vaatteitansa ja paiskasivat tomua tuuleen,	
+<div class="versenum">23.</div> Ja kuin he niin huusivat, heittelivat vaatteitansa ja paiskasivat tomua tuuleen,	
 
-24. Antoi sodanpaamies hanen vieda leiriin, ja kaski piesta ja tutkittaa, etta han olis saanut tietaa, minkatahden hanen paallensa niin huudettiin.	
+<div class="versenum">24.</div> Antoi sodanpaamies hanen vieda leiriin, ja kaski piesta ja tutkittaa, etta han olis saanut tietaa, minkatahden hanen paallensa niin huudettiin.	
 
-25. Kuin han hanta nuorilla sitoi, sanoi Paavali sadanpaamiehelle, joka lasna seisoi: onkos teidan kohtuullinen Roomalaista hosua ilman tuomitsematta?	
+<div class="versenum">25.</div> Kuin han hanta nuorilla sitoi, sanoi Paavali sadanpaamiehelle, joka lasna seisoi: onkos teidan kohtuullinen Roomalaista hosua ilman tuomitsematta?	
 
-26. Kuin sadanpaamies sen kuuli, meni han sodanpaamiehen tyko, ilmoitti hanelle ja sanoi: mitas tahdot tehda? silla tama mies on Roomalainen.	
+<div class="versenum">26.</div> Kuin sadanpaamies sen kuuli, meni han sodanpaamiehen tyko, ilmoitti hanelle ja sanoi: mitas tahdot tehda? silla tama mies on Roomalainen.	
 
-27. Niin sodanpaamies meni hanen tykonsa ja sanoi hanelle: sanos minulle, oletko sina Roomalainen? Han sanoi: olen niinkin.	
+<div class="versenum">27.</div> Niin sodanpaamies meni hanen tykonsa ja sanoi hanelle: sanos minulle, oletko sina Roomalainen? Han sanoi: olen niinkin.	
 
-28. Ja sodanpaamies vastasi: mina olen suurella rahalla taman kaupungin oikeuden voittanut. Mutta Paavali sanoi: mina olen myos syntynyt (Roomalainen.)	
+<div class="versenum">28.</div> Ja sodanpaamies vastasi: mina olen suurella rahalla taman kaupungin oikeuden voittanut. Mutta Paavali sanoi: mina olen myos syntynyt (Roomalainen.)	
 
-29. Ja he laksivat kohta hanen tykoansa tutkimasta. Ja sodanpaamies rupesi pelkaamaan, sittekuin han sai tietaa, hanen Roomalaisen olevan, etta han hanen sitonut oli.	
+<div class="versenum">29.</div> Ja he laksivat kohta hanen tykoansa tutkimasta. Ja sodanpaamies rupesi pelkaamaan, sittekuin han sai tietaa, hanen Roomalaisen olevan, etta han hanen sitonut oli.	
 
-30. Mutta toisena paivana tahtoi han visummasti tietaa, minkatahden hanen paallensa Juudalaisilta kannettiin, ja paasti hanen siteista, ja kaski ylimmaiset papit ja kaiken heidan raatinsa tulla kokoon, ja antoi Paavalin tulla heidan eteensa.	
+<div class="versenum">30.</div> Mutta toisena paivana tahtoi han visummasti tietaa, minkatahden hanen paallensa Juudalaisilta kannettiin, ja paasti hanen siteista, ja kaski ylimmaiset papit ja kaiken heidan raatinsa tulla kokoon, ja antoi Paavalin tulla heidan eteensa.	
 

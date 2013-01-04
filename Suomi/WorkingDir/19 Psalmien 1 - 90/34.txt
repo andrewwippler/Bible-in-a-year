@@ -1,46 +1,46 @@
 Psalmien 34	
 	
-1. Davidin Psalmi, koska han muotonsa muutti Abimelekin edessa, joka hanen ajoi pois tykoansa ja han meni pois. (H34:2) Mina kiitan Herraa aina: hanen kiitoksensa on alati minun suussani.	
+<div class="versenum">1.</div> Davidin Psalmi, koska han muotonsa muutti Abimelekin edessa, joka hanen ajoi pois tykoansa ja han meni pois. (H34:2) Mina kiitan Herraa aina: hanen kiitoksensa on alati minun suussani.	
 
-2. Minun sieluni kerskaa Herrassa, etta raadolliset sen kuulevat ja iloitsevat.	
+<div class="versenum">2.</div> Minun sieluni kerskaa Herrassa, etta raadolliset sen kuulevat ja iloitsevat.	
 
-3. Ylistakaat Herraa minun kanssani, ja korottakaamme ynna hanen nimeansa.	
+<div class="versenum">3.</div> Ylistakaat Herraa minun kanssani, ja korottakaamme ynna hanen nimeansa.	
 
-4. Kuin mina Herraa etsin, kuuli han minun rukoukseni, ja pelasti minun kaikista vavistuksistani.	
+<div class="versenum">4.</div> Kuin mina Herraa etsin, kuuli han minun rukoukseni, ja pelasti minun kaikista vavistuksistani.	
 
-5. Jotka hanta katsovat, ne valaistaan: heidan kasvonsa ei tule hapiaan.	
+<div class="versenum">5.</div> Jotka hanta katsovat, ne valaistaan: heidan kasvonsa ei tule hapiaan.	
 
-6. Kuin raadollinen huusi, kuuli Herra hanta, ja autti hanen kaikista tuskistansa.	
+<div class="versenum">6.</div> Kuin raadollinen huusi, kuuli Herra hanta, ja autti hanen kaikista tuskistansa.	
 
-7. Herran enkeli piirittaa niita, jotka hanta pelkaavat, ja pelastaa heita.	
+<div class="versenum">7.</div> Herran enkeli piirittaa niita, jotka hanta pelkaavat, ja pelastaa heita.	
 
-8. Maistakaat ja katsokaat, kuinka Herra on suloinen: autuas on se, joka haneen turvaa.	
+<div class="versenum">8.</div> Maistakaat ja katsokaat, kuinka Herra on suloinen: autuas on se, joka haneen turvaa.	
 
-9. Peljatkaan Herraa kaikki hanen pyhansa; silla jotka hanta pelkaavat, ei niilta mitaan puutu.	
+<div class="versenum">9.</div> Peljatkaan Herraa kaikki hanen pyhansa; silla jotka hanta pelkaavat, ei niilta mitaan puutu.	
 
-10. Nuorten jalopeurain pitaa tarvitseman ja isooman; mutta jotka Herraa etsivat, ei heilta mitaan hyvaa puutu.	
+<div class="versenum">10.</div> Nuorten jalopeurain pitaa tarvitseman ja isooman; mutta jotka Herraa etsivat, ei heilta mitaan hyvaa puutu.	
 
-11. Tulkaat tanne, lapset, kuulkaat minua: Herran pelvon mina teille opetan.	
+<div class="versenum">11.</div> Tulkaat tanne, lapset, kuulkaat minua: Herran pelvon mina teille opetan.	
 
-12. Kuka on, joka (hyvaa) elamaa pyytaa? ja pitais mielellansa hyvia paivia?	
+<div class="versenum">12.</div> Kuka on, joka (hyvaa) elamaa pyytaa? ja pitais mielellansa hyvia paivia?	
 
-13. Varjele kieles pahuudesta, ja huules vilppia puhumasta.	
+<div class="versenum">13.</div> Varjele kieles pahuudesta, ja huules vilppia puhumasta.	
 
-14. Lakkaa pahasta ja tee hyvaa: etsi rauhaa ja noutele hanta.	
+<div class="versenum">14.</div> Lakkaa pahasta ja tee hyvaa: etsi rauhaa ja noutele hanta.	
 
-15. Herran silmat katsovat vanhurskaita, ja hanen korvansa heidan huutoansa.	
+<div class="versenum">15.</div> Herran silmat katsovat vanhurskaita, ja hanen korvansa heidan huutoansa.	
 
-16. Mutta Herran kasvot ovat pahointekioita vastaan, hukuttamaan maasta heidan muistoansa.	
+<div class="versenum">16.</div> Mutta Herran kasvot ovat pahointekioita vastaan, hukuttamaan maasta heidan muistoansa.	
 
-17. Kuin (vanhurskaat) huutavat, niin Herra kuulee, ja pelastaa heita kaikista heidan tuskistansa.	
+<div class="versenum">17.</div> Kuin (vanhurskaat) huutavat, niin Herra kuulee, ja pelastaa heita kaikista heidan tuskistansa.	
 
-18. Herra on juuri lasna niita, joilla on murheellinen sydan, ja auttaa niita, joilla on surkia mieli.	
+<div class="versenum">18.</div> Herra on juuri lasna niita, joilla on murheellinen sydan, ja auttaa niita, joilla on surkia mieli.	
 
-19. Vanhurskaalle tapahtuu paljo pahaa; mutta Herra hanen niista kaikista paastaa.	
+<div class="versenum">19.</div> Vanhurskaalle tapahtuu paljo pahaa; mutta Herra hanen niista kaikista paastaa.	
 
-20. Han katkee kaikki hanen luunsa, ettei yhtakaan niista murreta.	
+<div class="versenum">20.</div> Han katkee kaikki hanen luunsa, ettei yhtakaan niista murreta.	
 
-21. Pahuus tappaa jumalattoman, ja jotka vanhurskasta vihaavat, ne hukutetaan.	
+<div class="versenum">21.</div> Pahuus tappaa jumalattoman, ja jotka vanhurskasta vihaavat, ne hukutetaan.	
 
-22. Herra lunastaa palveliansa sielut; ja kaikki, jotka haneen toivovat, ei pida hukkuman.	
+<div class="versenum">22.</div> Herra lunastaa palveliansa sielut; ja kaikki, jotka haneen toivovat, ei pida hukkuman.	
 

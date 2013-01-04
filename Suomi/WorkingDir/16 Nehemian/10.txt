@@ -1,80 +1,80 @@
 Nehemian 10	
 	
-1. Ja ne, jotka sinettinsa painoivat, olivat Nehemia Tirsata Hakalian poika, ja Zidkia,	
+<div class="versenum">1.</div> Ja ne, jotka sinettinsa painoivat, olivat Nehemia Tirsata Hakalian poika, ja Zidkia,	
 
-2. Seraja, Asaria, Jeremia,	
+<div class="versenum">2.</div> Seraja, Asaria, Jeremia,	
 
-3. Pashur, Amaria, Malkia,	
+<div class="versenum">3.</div> Pashur, Amaria, Malkia,	
 
-4. Hattus, Sebania, Malluk,	
+<div class="versenum">4.</div> Hattus, Sebania, Malluk,	
 
-5. Harim, Meremot, Obadia,	
+<div class="versenum">5.</div> Harim, Meremot, Obadia,	
 
-6. Daniel, Ginnetun, Baruk,	
+<div class="versenum">6.</div> Daniel, Ginnetun, Baruk,	
 
-7. Mesullam, Abia, Mijamin,	
+<div class="versenum">7.</div> Mesullam, Abia, Mijamin,	
 
-8. Maasia, Bilgai ja Semaja: ne olivat papit.	
+<div class="versenum">8.</div> Maasia, Bilgai ja Semaja: ne olivat papit.	
 
-9. Mutta Levilaiset olivat: Jesua Asanian poika, Binnui, Henadadin lapsista, Kadmiel,	
+<div class="versenum">9.</div> Mutta Levilaiset olivat: Jesua Asanian poika, Binnui, Henadadin lapsista, Kadmiel,	
 
-10. Ja heidan veljensa: Sebania, Hodia, Kelita, Pelaja, Hanan,	
+<div class="versenum">10.</div> Ja heidan veljensa: Sebania, Hodia, Kelita, Pelaja, Hanan,	
 
-11. Miika, Rehob, Hasabia,	
+<div class="versenum">11.</div> Miika, Rehob, Hasabia,	
 
-12. Sakkur, Serebia, Sebania,	
+<div class="versenum">12.</div> Sakkur, Serebia, Sebania,	
 
-13. Hodia, Bani ja Beninu,	
+<div class="versenum">13.</div> Hodia, Bani ja Beninu,	
 
-14. Kansan paamiehet olivat: Paros, Pahatmoab, Elam, Sattu, Bani,	
+<div class="versenum">14.</div> Kansan paamiehet olivat: Paros, Pahatmoab, Elam, Sattu, Bani,	
 
-15. Bunni, Asgad, Bebai,	
+<div class="versenum">15.</div> Bunni, Asgad, Bebai,	
 
-16. Adonia, Bigvai, Adin,	
+<div class="versenum">16.</div> Adonia, Bigvai, Adin,	
 
-17. Ater, Hiskia, Assur,	
+<div class="versenum">17.</div> Ater, Hiskia, Assur,	
 
-18. Hodia, Hasum, Betsai,	
+<div class="versenum">18.</div> Hodia, Hasum, Betsai,	
 
-19. Hariph, Anatot, Neubai,	
+<div class="versenum">19.</div> Hariph, Anatot, Neubai,	
 
-20. Magpias, Mesullam, Hesir,	
+<div class="versenum">20.</div> Magpias, Mesullam, Hesir,	
 
-21. Mesesabel, Zadok, Jaddua,	
+<div class="versenum">21.</div> Mesesabel, Zadok, Jaddua,	
 
-22. Pelatia, Hanan, Anaja,	
+<div class="versenum">22.</div> Pelatia, Hanan, Anaja,	
 
-23. Hosea, Hanania, Hasub,	
+<div class="versenum">23.</div> Hosea, Hanania, Hasub,	
 
-24. Halohes, Pilha, Sobek,	
+<div class="versenum">24.</div> Halohes, Pilha, Sobek,	
 
-25. Rehum, Hasabna, Maeseja,	
+<div class="versenum">25.</div> Rehum, Hasabna, Maeseja,	
 
-26. Ahia, Hanan, Anan,	
+<div class="versenum">26.</div> Ahia, Hanan, Anan,	
 
-27. Malluk, Harim ja Baena;	
+<div class="versenum">27.</div> Malluk, Harim ja Baena;	
 
-28. Ja muu kansa, papit, Levilaiset, ovenvartiat, veisaajat, Netinimit ja kaikki, jotka olivat erinneet maan kansoista Jumalan lain tyko vaimoinsa, poikainsa ja tytartensa kanssa, ja kaikki, jotka sen ymmartaa taisivat.	
+<div class="versenum">28.</div> Ja muu kansa, papit, Levilaiset, ovenvartiat, veisaajat, Netinimit ja kaikki, jotka olivat erinneet maan kansoista Jumalan lain tyko vaimoinsa, poikainsa ja tytartensa kanssa, ja kaikki, jotka sen ymmartaa taisivat.	
 
-29. Ja heidan voimallisensa ottivat veljeinsa puolesta sen vastaan. Ja he tulivat vannomaan ja lupaamaan valallansa, vaeltaaksensa Jumalan laissa, joka heille oli annettu Moseksen Jumalan palvelian kautta, pitaaksensa ja tehdaksensa kaikki Herran meidan Jumalamme kaskyt, tuomiot ja saadyt;	
+<div class="versenum">29.</div> Ja heidan voimallisensa ottivat veljeinsa puolesta sen vastaan. Ja he tulivat vannomaan ja lupaamaan valallansa, vaeltaaksensa Jumalan laissa, joka heille oli annettu Moseksen Jumalan palvelian kautta, pitaaksensa ja tehdaksensa kaikki Herran meidan Jumalamme kaskyt, tuomiot ja saadyt;	
 
-30. Ja ettei meidan pida antaman maan kansoille tyttariamme, emmeka myos ota pojillemme heidan tyttariansa.	
+<div class="versenum">30.</div> Ja ettei meidan pida antaman maan kansoille tyttariamme, emmeka myos ota pojillemme heidan tyttariansa.	
 
-31. Ja jos maan kansa tuo sabbatina kauppakalua ja kaikkinaista vuoden tuloa myytavaksi, niin emme ota heilta sabbatina ja pyhapaivana; ja etta me seitsemannen vuoden annamme olla vapaana kaikista rasituksista;	
+<div class="versenum">31.</div> Ja jos maan kansa tuo sabbatina kauppakalua ja kaikkinaista vuoden tuloa myytavaksi, niin emme ota heilta sabbatina ja pyhapaivana; ja etta me seitsemannen vuoden annamme olla vapaana kaikista rasituksista;	
 
-32. Ja panemme kaskyn itse paallemme, etta annamme kolmannen osan yhdesta siklista ajastajasta Jumalamme huoneen palvelukseen:	
+<div class="versenum">32.</div> Ja panemme kaskyn itse paallemme, etta annamme kolmannen osan yhdesta siklista ajastajasta Jumalamme huoneen palvelukseen:	
 
-33. Nakyleivaksi, alinomaiseksi ruokauhriksi, alinomaiseksi polttouhriksi, sabbatina, uusilla kuilla ja juhlapaivina, ja pyhitetyille, ja syntiuhriksi, jolla Israel sovitetaan, ja kaikkinaiseksi tarpeeksi Jumalamme huoneessa.	
+<div class="versenum">33.</div> Nakyleivaksi, alinomaiseksi ruokauhriksi, alinomaiseksi polttouhriksi, sabbatina, uusilla kuilla ja juhlapaivina, ja pyhitetyille, ja syntiuhriksi, jolla Israel sovitetaan, ja kaikkinaiseksi tarpeeksi Jumalamme huoneessa.	
 
-34. Ja me heitimme arpaa pappein, Levilaisten ja kansan valilla halkouhrista, joita joka vuosi piti vietaman meidan Jumalamme huoneesen, isaimme huonetten jalkeen, maaratyilla ajoilla poltettaa Herran meidan Jumalamme alttarilla, niinkuin laissa kirjoitettu on;	
+<div class="versenum">34.</div> Ja me heitimme arpaa pappein, Levilaisten ja kansan valilla halkouhrista, joita joka vuosi piti vietaman meidan Jumalamme huoneesen, isaimme huonetten jalkeen, maaratyilla ajoilla poltettaa Herran meidan Jumalamme alttarilla, niinkuin laissa kirjoitettu on;	
 
-35. Ja etta me joka vuosi tuomme maamme esikoisia ja kaikkinaisten puiden ensimaisia hedelmia Herran huoneesen;	
+<div class="versenum">35.</div> Ja etta me joka vuosi tuomme maamme esikoisia ja kaikkinaisten puiden ensimaisia hedelmia Herran huoneesen;	
 
-36. Ja esikoiset pojistamme ja elaimistamme, niinkuin laissa kirjoitettu on; ja esikoiset harjistamme ja lampaistamme, etta meidan pitaa vieman meidan Jumalamme huoneesen papeille, jotka palvelevat Jumalamme huoneessa.	
+<div class="versenum">36.</div> Ja esikoiset pojistamme ja elaimistamme, niinkuin laissa kirjoitettu on; ja esikoiset harjistamme ja lampaistamme, etta meidan pitaa vieman meidan Jumalamme huoneesen papeille, jotka palvelevat Jumalamme huoneessa.	
 
-37. Ja meidan pitaa vieman taikinasta ensimaisen, ja ylennyksemme, ja kaikkinaisia puun hedelmia, viinaa ja oljya papeille, meidan Jumalamme huoneen kammioihin, ja Levilaisille kymmenykset meidan maastamme, etta Levilaiset kaikissa kaupungeissa pitaa saaman kymmenykset meidan tyostamme.	
+<div class="versenum">37.</div> Ja meidan pitaa vieman taikinasta ensimaisen, ja ylennyksemme, ja kaikkinaisia puun hedelmia, viinaa ja oljya papeille, meidan Jumalamme huoneen kammioihin, ja Levilaisille kymmenykset meidan maastamme, etta Levilaiset kaikissa kaupungeissa pitaa saaman kymmenykset meidan tyostamme.	
 
-38. Ja papin Aaronin pojan pitaa myos saaman Levilaisten kanssa heidan kymmenyksistansa, ja Levilaisten pitaa vieman kymmenyksistansa kymmenennen osan meidan Jumalamme huoneesen, tavarahuoneen kammioihin.	
+<div class="versenum">38.</div> Ja papin Aaronin pojan pitaa myos saaman Levilaisten kanssa heidan kymmenyksistansa, ja Levilaisten pitaa vieman kymmenyksistansa kymmenennen osan meidan Jumalamme huoneesen, tavarahuoneen kammioihin.	
 
-39. Silla Israelin lapset ja Levin lapset piti myos vieman jyvain, viinan ja oljyn ylennyksen kammioihin; ja siella pitaa oleman pyhat astiat, ja papit, jotka palvelevat, ja ovenvartiat, ja veisaajat. Ja emme luovu meidan Jumalamme huoneesta.	
+<div class="versenum">39.</div> Silla Israelin lapset ja Levin lapset piti myos vieman jyvain, viinan ja oljyn ylennyksen kammioihin; ja siella pitaa oleman pyhat astiat, ja papit, jotka palvelevat, ja ovenvartiat, ja veisaajat. Ja emme luovu meidan Jumalamme huoneesta.	
 

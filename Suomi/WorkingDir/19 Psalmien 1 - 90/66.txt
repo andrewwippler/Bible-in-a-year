@@ -1,42 +1,42 @@
 Psalmien 66	
 	
-1. Davidin Psalmi ja veisu, edellaveisaajalle. Ihastukaa Jumalalle, kaikki maa.	
+<div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. Ihastukaa Jumalalle, kaikki maa.	
 
-2. Veisatkaat kiitosta hanen nimensa kunniaksi, ylistakaat hanta suuresti.	
+<div class="versenum">2.</div> Veisatkaat kiitosta hanen nimensa kunniaksi, ylistakaat hanta suuresti.	
 
-3. Sanokaat Jumalalle: kuinka ihmeelliset ovat sinun tyos! sinun vihollisiltas pitaa puuttuman, sinun suuren vakes tahden.	
+<div class="versenum">3.</div> Sanokaat Jumalalle: kuinka ihmeelliset ovat sinun tyos! sinun vihollisiltas pitaa puuttuman, sinun suuren vakes tahden.	
 
-4. Kaikki maa kumartakoon sinua, ja veisatkaan kiitosta sinun nimelles, Sela!	
+<div class="versenum">4.</div> Kaikki maa kumartakoon sinua, ja veisatkaan kiitosta sinun nimelles, Sela!	
 
-5. Tulkaat ja katsokaat Jumalan tekoja, joka niin ihmeellinen on toissansa ihmisten lasten seassa.	
+<div class="versenum">5.</div> Tulkaat ja katsokaat Jumalan tekoja, joka niin ihmeellinen on toissansa ihmisten lasten seassa.	
 
-6. Han muuttaa meren kuivaksi, niin etta jalkaisin kaydaan veden ylitse: siita me hanessa iloitsemme.	
+<div class="versenum">6.</div> Han muuttaa meren kuivaksi, niin etta jalkaisin kaydaan veden ylitse: siita me hanessa iloitsemme.	
 
-7. Han hallitsee voimansa kautta ijankaikkisesti, hanen silmansa katselevat kansoja: eripuraiset ei pida voiman korottaa itseansa, Sela!	
+<div class="versenum">7.</div> Han hallitsee voimansa kautta ijankaikkisesti, hanen silmansa katselevat kansoja: eripuraiset ei pida voiman korottaa itseansa, Sela!	
 
-8. Kiittakaat te pakanat, meidan Jumalaamme: kajahtakaan hanen kiitoksensa aani kauvas,	
+<div class="versenum">8.</div> Kiittakaat te pakanat, meidan Jumalaamme: kajahtakaan hanen kiitoksensa aani kauvas,	
 
-9. Joka meidan sielumme elattaa, eika salli jalkamme liukastella.	
+<div class="versenum">9.</div> Joka meidan sielumme elattaa, eika salli jalkamme liukastella.	
 
-10. Silla sina, Jumala, olet meita koetellut, ja valanut meita niinkuin hopia valetaan.	
+<div class="versenum">10.</div> Silla sina, Jumala, olet meita koetellut, ja valanut meita niinkuin hopia valetaan.	
 
-11. Sina veit meita vankeuteen, ja panit kuorman meidan lanteillemme.	
+<div class="versenum">11.</div> Sina veit meita vankeuteen, ja panit kuorman meidan lanteillemme.	
 
-12. Sina olet antanut ihmiset meidan paamme paallitse menna: me olemme tuleen ja veteen tulleet, mutta sina veit meita ulos, ja virvoitit.	
+<div class="versenum">12.</div> Sina olet antanut ihmiset meidan paamme paallitse menna: me olemme tuleen ja veteen tulleet, mutta sina veit meita ulos, ja virvoitit.	
 
-13. Sentahden mina menen polttouhrilla sinun huoneeses, ja maksan sinulle lupaukseni,	
+<div class="versenum">13.</div> Sentahden mina menen polttouhrilla sinun huoneeses, ja maksan sinulle lupaukseni,	
 
-14. Joita minun huuleni lupasivat, ja minun suuni puhunut on tuskassani.	
+<div class="versenum">14.</div> Joita minun huuleni lupasivat, ja minun suuni puhunut on tuskassani.	
 
-15. Lihavat polttouhrit mina teen sinulle oinasten suitsutuksella: mina uhraan sinulle naudat kauristen kanssa, Sela!	
+<div class="versenum">15.</div> Lihavat polttouhrit mina teen sinulle oinasten suitsutuksella: mina uhraan sinulle naudat kauristen kanssa, Sela!	
 
-16. Tulkaat, kuulkaat te kaikki, jotka Jumalaa pelkaatte: mina ilmoitan, mita han minun sielulleni on tehnyt.	
+<div class="versenum">16.</div> Tulkaat, kuulkaat te kaikki, jotka Jumalaa pelkaatte: mina ilmoitan, mita han minun sielulleni on tehnyt.	
 
-17. Hanta mina suullani huusin, ja ylistin kielellani.	
+<div class="versenum">17.</div> Hanta mina suullani huusin, ja ylistin kielellani.	
 
-18. Jos mina jotakin vaaryytta pitaisin sydamessani, niin ei Herra minua kuulisi.	
+<div class="versenum">18.</div> Jos mina jotakin vaaryytta pitaisin sydamessani, niin ei Herra minua kuulisi.	
 
-19. Sentahden Jumala on minua kuullut, ja ottanut vaarin minun rukoukseni aanesta.	
+<div class="versenum">19.</div> Sentahden Jumala on minua kuullut, ja ottanut vaarin minun rukoukseni aanesta.	
 
-20. Kiitetty olkoon Jumala, joka ei hylkaa rukoustani, eika kaanna laupiuttansa pois minusta!	
+<div class="versenum">20.</div> Kiitetty olkoon Jumala, joka ei hylkaa rukoustani, eika kaanna laupiuttansa pois minusta!	
 

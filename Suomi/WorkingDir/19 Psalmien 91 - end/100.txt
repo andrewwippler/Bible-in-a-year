@@ -1,12 +1,12 @@
 Psalmien 100	
 	
-1. Kiitos-Psalmi. Riemuitkaat Herralle, kaikki maa!	
+<div class="versenum">1.</div> Kiitos-Psalmi. Riemuitkaat Herralle, kaikki maa!	
 
-2. Palvelkaat Herraa ilolla: tulkaat hanen kasvoinsa eteen riemulla!	
+<div class="versenum">2.</div> Palvelkaat Herraa ilolla: tulkaat hanen kasvoinsa eteen riemulla!	
 
-3. Tietakaat, etta Herra on Jumala: hanpa meidan teki, ja emme itse meitamme, kansaksensa ja laitumensa lampaiksi.	
+<div class="versenum">3.</div> Tietakaat, etta Herra on Jumala: hanpa meidan teki, ja emme itse meitamme, kansaksensa ja laitumensa lampaiksi.	
 
-4. Menkaat hanen porttiinsa kiitoksella, hanen esihuoneisiinsa veisulla: kiittakaat hanta ja ylistakaat hanen nimeansa!	
+<div class="versenum">4.</div> Menkaat hanen porttiinsa kiitoksella, hanen esihuoneisiinsa veisulla: kiittakaat hanta ja ylistakaat hanen nimeansa!	
 
-5. Silla Herra on hyva, ja hanen laupiutensa pysyy ijankaikkisesti, ja hanen totuutensa sukukunnasta sukukuntaan.	
+<div class="versenum">5.</div> Silla Herra on hyva, ja hanen laupiutensa pysyy ijankaikkisesti, ja hanen totuutensa sukukunnasta sukukuntaan.	
 

@@ -1,34 +1,34 @@
 Psalmien 91	
 	
-1. Joka Korkeimman varjeluksessa istuu ja Kaikkivaltiaan varjossa oleskelee,	
+<div class="versenum">1.</div> Joka Korkeimman varjeluksessa istuu ja Kaikkivaltiaan varjossa oleskelee,	
 
-2. Han sanoo Herralle: minun toivoni ja linnani, minun Jumalani, johon mina uskallan.	
+<div class="versenum">2.</div> Han sanoo Herralle: minun toivoni ja linnani, minun Jumalani, johon mina uskallan.	
 
-3. Silla han pelastaa sinun vaijyjan paulasta, ja vahingollisesta ruttotaudista.	
+<div class="versenum">3.</div> Silla han pelastaa sinun vaijyjan paulasta, ja vahingollisesta ruttotaudista.	
 
-4. Han sulillansa sinua varjoo, ja sinun turvas on hanen siipeinsa alla: hanen totuutensa on keihas ja kilpi;	
+<div class="versenum">4.</div> Han sulillansa sinua varjoo, ja sinun turvas on hanen siipeinsa alla: hanen totuutensa on keihas ja kilpi;	
 
-5. Ettes pelkaisi yon kauhistusta, ja nuolia, jotka paivalla lentavat,	
+<div class="versenum">5.</div> Ettes pelkaisi yon kauhistusta, ja nuolia, jotka paivalla lentavat,	
 
-6. Sita ruttoa, joka pimeassa liikkuu, ja sairautta, joka puolipaivana turmelee.	
+<div class="versenum">6.</div> Sita ruttoa, joka pimeassa liikkuu, ja sairautta, joka puolipaivana turmelee.	
 
-7. Vaikka tuhannen lankeisi sivullas, ja kymmenentuhatta sinun oikiallas, niin ei se sinuun satu.	
+<div class="versenum">7.</div> Vaikka tuhannen lankeisi sivullas, ja kymmenentuhatta sinun oikiallas, niin ei se sinuun satu.	
 
-8. Ja tosin sinun pitaa silmillas nakeman ja katsoman, kuinka jumalattomille kostetaan.	
+<div class="versenum">8.</div> Ja tosin sinun pitaa silmillas nakeman ja katsoman, kuinka jumalattomille kostetaan.	
 
-9. Silla Herra on sinun toivos, ja Ylimmainen on sinun turvas.	
+<div class="versenum">9.</div> Silla Herra on sinun toivos, ja Ylimmainen on sinun turvas.	
 
-10. Ei sinua pida mikaan paha kohtaaman, ja ei yhtaan vaivaa pida sinun majaas lahestyman.	
+<div class="versenum">10.</div> Ei sinua pida mikaan paha kohtaaman, ja ei yhtaan vaivaa pida sinun majaas lahestyman.	
 
-11. Silla han on antanut kaskyn enkeleillensa sinusta, etta he katkevat sinua kaikissa teissas,	
+<div class="versenum">11.</div> Silla han on antanut kaskyn enkeleillensa sinusta, etta he katkevat sinua kaikissa teissas,	
 
-12. Etta he kantavat sinua kasissa, ettes jalkaas kiveen loukkaisi.	
+<div class="versenum">12.</div> Etta he kantavat sinua kasissa, ettes jalkaas kiveen loukkaisi.	
 
-13. Sina kayt jalopeuran ja kyykaarmeen paalla, ja tallaat nuoren jalopeuran ja lohikaarmeen.	
+<div class="versenum">13.</div> Sina kayt jalopeuran ja kyykaarmeen paalla, ja tallaat nuoren jalopeuran ja lohikaarmeen.	
 
-14. Etta han minua halasi, niin mina hanen paastan: han tuntee minun nimeni, sentahden mina varjelen hanta.	
+<div class="versenum">14.</div> Etta han minua halasi, niin mina hanen paastan: han tuntee minun nimeni, sentahden mina varjelen hanta.	
 
-15. Han avuksihuutaa minua, sentahden mina kuulen hanta; hanen tykonansa olen mina tuskassa; siita mina hanen tempaan pois ja saatan hanen kunniaan.	
+<div class="versenum">15.</div> Han avuksihuutaa minua, sentahden mina kuulen hanta; hanen tykonansa olen mina tuskassa; siita mina hanen tempaan pois ja saatan hanen kunniaan.	
 
-16. Mina ravitsen hanen pitkalla ijalla, ja osoitan hanelle autuuteni.	
+<div class="versenum">16.</div> Mina ravitsen hanen pitkalla ijalla, ja osoitan hanelle autuuteni.	
 

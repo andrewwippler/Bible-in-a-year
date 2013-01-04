@@ -1,50 +1,50 @@
 1 Mooseksen 7	
 	
-1. Ja Herra sanoi Noalle: mene sina ja koko sinun huonees arkkiin: silla sinun mina olen nahnyt hurskaaksi minun edessani talla ajalla.	
+<div class="versenum">1.</div> Ja Herra sanoi Noalle: mene sina ja koko sinun huonees arkkiin: silla sinun mina olen nahnyt hurskaaksi minun edessani talla ajalla.	
 
-2. Kaikista puhtaista elaimista ota tykos seitseman ja seitseman, koiras ja naaras, mutta saastaisista elaimista kaksin, koiras ja naaras.	
+<div class="versenum">2.</div> Kaikista puhtaista elaimista ota tykos seitseman ja seitseman, koiras ja naaras, mutta saastaisista elaimista kaksin, koiras ja naaras.	
 
-3. Niin myos taivaan linnuista seitseman ja seitseman, koiras ja naaras, etta siemen jais elamaan koko maan paalla.	
+<div class="versenum">3.</div> Niin myos taivaan linnuista seitseman ja seitseman, koiras ja naaras, etta siemen jais elamaan koko maan paalla.	
 
-4. Silla viela seitseman paivan perasta annan mina sataa maan paalle neljakymmenta paivaa ja neljakymmenta yota, ja hukutan maan paalta kaikki elavat luontokappaleet, jotka mina tehnyt olen.	
+<div class="versenum">4.</div> Silla viela seitseman paivan perasta annan mina sataa maan paalle neljakymmenta paivaa ja neljakymmenta yota, ja hukutan maan paalta kaikki elavat luontokappaleet, jotka mina tehnyt olen.	
 
-5. Ja Noa teki kaiken sen jalkeen kuin Herra hanelle kaski.	
+<div class="versenum">5.</div> Ja Noa teki kaiken sen jalkeen kuin Herra hanelle kaski.	
 
-6. Ja Noa oli kuudensadan ajastajan vanha, koska vedenpaisumus tuli maan paalle.	
+<div class="versenum">6.</div> Ja Noa oli kuudensadan ajastajan vanha, koska vedenpaisumus tuli maan paalle.	
 
-7. Ja Noa meni arkkiin poikinensa, emantinensa, ja hanen poikainsa emannat hanen kanssansa, vedenpaisumisen edesta.	
+<div class="versenum">7.</div> Ja Noa meni arkkiin poikinensa, emantinensa, ja hanen poikainsa emannat hanen kanssansa, vedenpaisumisen edesta.	
 
-8. Puhtaista elaimista ja saastaisista, ja linnuista ja kaikista, kuin matelevat maan paalla,	
+<div class="versenum">8.</div> Puhtaista elaimista ja saastaisista, ja linnuista ja kaikista, kuin matelevat maan paalla,	
 
-9. Menivat Noan tyko arkkiin kaksittain, koiras ja naaras, niinkuin Herra Noalle kaskenyt oli.	
+<div class="versenum">9.</div> Menivat Noan tyko arkkiin kaksittain, koiras ja naaras, niinkuin Herra Noalle kaskenyt oli.	
 
-10. Ja tapahtui, koska seitseman paivaa kuluneet olivat, tuli vedenpaisumus maan paalle.	
+<div class="versenum">10.</div> Ja tapahtui, koska seitseman paivaa kuluneet olivat, tuli vedenpaisumus maan paalle.	
 
-11. Kuudennella sadalla ajastajalla Noan ijasta, toisella kuukaudella, seitsemantenatoista kymmenentena paivana kuusta, sina paivana kuohuivat kaikki syvyyden lahteet, ja taivaan akkunat aukenivat.	
+<div class="versenum">11.</div> Kuudennella sadalla ajastajalla Noan ijasta, toisella kuukaudella, seitsemantenatoista kymmenentena paivana kuusta, sina paivana kuohuivat kaikki syvyyden lahteet, ja taivaan akkunat aukenivat.	
 
-12. Ja maan paalle satoi neljakymmenta paivaa ja neljakymmenta yota.	
+<div class="versenum">12.</div> Ja maan paalle satoi neljakymmenta paivaa ja neljakymmenta yota.	
 
-13. Juuri sina paivana meni Noa ja Sem, ja Ham, ja Japhet, Noan pojat, ja Noan emanta, ja kolme hanen poikainsa emantaa hanen kanssansa arkkiin.	
+<div class="versenum">13.</div> Juuri sina paivana meni Noa ja Sem, ja Ham, ja Japhet, Noan pojat, ja Noan emanta, ja kolme hanen poikainsa emantaa hanen kanssansa arkkiin.	
 
-14. He ja kaikki pedot lajistansa, ja kaikki matelevaiset, jotka matelevat maan paalla, lajistansa, ja kaikki linnut lajistansa, kaikki lentavaiset, joilla siivet olivat.	
+<div class="versenum">14.</div> He ja kaikki pedot lajistansa, ja kaikki matelevaiset, jotka matelevat maan paalla, lajistansa, ja kaikki linnut lajistansa, kaikki lentavaiset, joilla siivet olivat.	
 
-15. Ja menivat Noan tyko arkkiin kaksittain kaikesta lihasta, jossa elava henki oli.	
+<div class="versenum">15.</div> Ja menivat Noan tyko arkkiin kaksittain kaikesta lihasta, jossa elava henki oli.	
 
-16. Je ne olivat koirakset ja naarakset kaikkinaisesta lihasta, ja menivat sisalle niinkuin Jumala hanelle kaskenyt oli. Ja Herra sulki hanen jalkeensa.	
+<div class="versenum">16.</div> Je ne olivat koirakset ja naarakset kaikkinaisesta lihasta, ja menivat sisalle niinkuin Jumala hanelle kaskenyt oli. Ja Herra sulki hanen jalkeensa.	
 
-17. Silloin tuli vedenpaisumus neljakymmenta paivaa maan paalle, ja vedet paisuivat, ja nostivat arkin ylos, ja veivat korkialle maasta.	
+<div class="versenum">17.</div> Silloin tuli vedenpaisumus neljakymmenta paivaa maan paalle, ja vedet paisuivat, ja nostivat arkin ylos, ja veivat korkialle maasta.	
 
-18. Niin vedet saivat vallan, ja paisuivat sangen suuresti maan paalle, niin etta arkki oli vesiajolla.	
+<div class="versenum">18.</div> Niin vedet saivat vallan, ja paisuivat sangen suuresti maan paalle, niin etta arkki oli vesiajolla.	
 
-19. Ja vedet saivat sangen suuren vallan, ja enanivat niin suuresti maan paalle, etta kaikki korkiat vuoret koko taivaan alla peitettiin.	
+<div class="versenum">19.</div> Ja vedet saivat sangen suuren vallan, ja enanivat niin suuresti maan paalle, etta kaikki korkiat vuoret koko taivaan alla peitettiin.	
 
-20. Viisitoistakymmenta kyynaraa korkialla olivat vedet vuorten paalla, jotka he peittivat.	
+<div class="versenum">20.</div> Viisitoistakymmenta kyynaraa korkialla olivat vedet vuorten paalla, jotka he peittivat.	
 
-21. Silloin hukkui kaikki liha, joka maan paalla matelee, linnut, karja, pedot, ja kaikki, jotka maan paalla liikkuvat, ja kaikki ihmiset.	
+<div class="versenum">21.</div> Silloin hukkui kaikki liha, joka maan paalla matelee, linnut, karja, pedot, ja kaikki, jotka maan paalla liikkuvat, ja kaikki ihmiset.	
 
-22. Ja kaikki, joilla elava henki oli kuivan maan paalla, ne kuolivat.	
+<div class="versenum">22.</div> Ja kaikki, joilla elava henki oli kuivan maan paalla, ne kuolivat.	
 
-23. Niin hukutettiin kaikki ne, kuin maan paalla olivat, ihmisesta niin karjaan asti, ja matoihin, ja taivaan lintuihin asti, kaikki hukutettiin maan paalta, ainoastansa Noa jai, ja ne jotka hanen kanssansa olivat arkissa.	
+<div class="versenum">23.</div> Niin hukutettiin kaikki ne, kuin maan paalla olivat, ihmisesta niin karjaan asti, ja matoihin, ja taivaan lintuihin asti, kaikki hukutettiin maan paalta, ainoastansa Noa jai, ja ne jotka hanen kanssansa olivat arkissa.	
 
-24. Ja vedet seisoivat valtiasna maan paalla sata ja viisikymmenta paivaa.	
+<div class="versenum">24.</div> Ja vedet seisoivat valtiasna maan paalla sata ja viisikymmenta paivaa.	
 

@@ -1,72 +1,72 @@
 Jobin 9	
 	
-1. Job vastasi ja sanoi:	
+<div class="versenum">1.</div> Job vastasi ja sanoi:	
 
-2. Mina kylla sen tiedan, etta niin on, ettei ihminen taida hurskas olla Jumalan edessa.	
+<div class="versenum">2.</div> Mina kylla sen tiedan, etta niin on, ettei ihminen taida hurskas olla Jumalan edessa.	
 
-3. Jos han tahtois riidella hanen kanssansa, ei han taitais vastata hanta yhta tuhanteen.	
+<div class="versenum">3.</div> Jos han tahtois riidella hanen kanssansa, ei han taitais vastata hanta yhta tuhanteen.	
 
-4. Han on viisas ja voimallinen: kenenka siita on hyvaa ollut, kuin hanta vastaan on itsensa asettanut?	
+<div class="versenum">4.</div> Han on viisas ja voimallinen: kenenka siita on hyvaa ollut, kuin hanta vastaan on itsensa asettanut?	
 
-5. Han siirtaa vuoret ennenkuin he sen ymmartavat, jotka han vihassansa kukistaa.	
+<div class="versenum">5.</div> Han siirtaa vuoret ennenkuin he sen ymmartavat, jotka han vihassansa kukistaa.	
 
-6. Han liikuttaa maan siastansa, niin etta sen patsaat vapisevat.	
+<div class="versenum">6.</div> Han liikuttaa maan siastansa, niin etta sen patsaat vapisevat.	
 
-7. Han puhuu auringolle, niin ei se nouse; ja han lukitsee tahdet.	
+<div class="versenum">7.</div> Han puhuu auringolle, niin ei se nouse; ja han lukitsee tahdet.	
 
-8. Han yksin levittaa taivaat, ja kay meren aaltoin paalla.	
+<div class="versenum">8.</div> Han yksin levittaa taivaat, ja kay meren aaltoin paalla.	
 
-9. Han tekee Otavan ja Kointahden, Seulaiset ja ne tahdet etelaan pain.	
+<div class="versenum">9.</div> Han tekee Otavan ja Kointahden, Seulaiset ja ne tahdet etelaan pain.	
 
-10. Han tekee suuria toita, joita ei taideta tutkia, ja epalukuisia ihmeita.	
+<div class="versenum">10.</div> Han tekee suuria toita, joita ei taideta tutkia, ja epalukuisia ihmeita.	
 
-11. Katso, han kay minun ohitseni ennenkuin mina sen havaitsen, ja menee pois ennenkuin mina sen ymmarran.	
+<div class="versenum">11.</div> Katso, han kay minun ohitseni ennenkuin mina sen havaitsen, ja menee pois ennenkuin mina sen ymmarran.	
 
-12. Katso, jos han menee akisti, kuka noutaa hanen jalleen? kuka sanoo hanelle: mitas teet?	
+<div class="versenum">12.</div> Katso, jos han menee akisti, kuka noutaa hanen jalleen? kuka sanoo hanelle: mitas teet?	
 
-13. Han on Jumala, hanen vihaansa ei yksikaan aseta; hanen allensa pitaa itsensa kumartaman ylpiatkin herrat.	
+<div class="versenum">13.</div> Han on Jumala, hanen vihaansa ei yksikaan aseta; hanen allensa pitaa itsensa kumartaman ylpiatkin herrat.	
 
-14. Kuinka minun pitaisi hanta vastaaman, ja loytaman sanoja hanta vastaan?	
+<div class="versenum">14.</div> Kuinka minun pitaisi hanta vastaaman, ja loytaman sanoja hanta vastaan?	
 
-15. Ehka minulla viela oikeus olis, niin en kuitenkaan taida mina hanta vastata; vaan taytyis oikeudessa rukoilla.	
+<div class="versenum">15.</div> Ehka minulla viela oikeus olis, niin en kuitenkaan taida mina hanta vastata; vaan taytyis oikeudessa rukoilla.	
 
-16. Ja ehka mina viela hanta avuksihuutaisin, ja han kuulis minua, niin en mina uskoisi, etta han kuultelis minun aantani;	
+<div class="versenum">16.</div> Ja ehka mina viela hanta avuksihuutaisin, ja han kuulis minua, niin en mina uskoisi, etta han kuultelis minun aantani;	
 
-17. Silla han han runtelee minun tuulispaalla, ja enentaa minun haavani ilman syyta.	
+<div class="versenum">17.</div> Silla han han runtelee minun tuulispaalla, ja enentaa minun haavani ilman syyta.	
 
-18. Ei han anna minun henkeni virota, vaan tayttaa minun murheella.	
+<div class="versenum">18.</div> Ei han anna minun henkeni virota, vaan tayttaa minun murheella.	
 
-19. Jos joku tahtoo voimaa, katso, han on voimallinen; jos joku tahtoo oikeutta, kuka todistaa minun kanssani?	
+<div class="versenum">19.</div> Jos joku tahtoo voimaa, katso, han on voimallinen; jos joku tahtoo oikeutta, kuka todistaa minun kanssani?	
 
-20. Jos mina sanoisin: mina olen oikia, niin minun suuni kuitenkin tuomitsee minun: eli mina olen vakaa, niin han kuitenkin tekee minun pahaksi.	
+<div class="versenum">20.</div> Jos mina sanoisin: mina olen oikia, niin minun suuni kuitenkin tuomitsee minun: eli mina olen vakaa, niin han kuitenkin tekee minun pahaksi.	
 
-21. Ehka mina viela vakaa olisin, niin en mina kuitenkaan tunne itsiani; vaan mina suutun eIamaani.	
+<div class="versenum">21.</div> Ehka mina viela vakaa olisin, niin en mina kuitenkaan tunne itsiani; vaan mina suutun eIamaani.	
 
-22. Se on se ainoa minka mina sanonut olen, han kadottaa hyvan ja jumalattoman.	
+<div class="versenum">22.</div> Se on se ainoa minka mina sanonut olen, han kadottaa hyvan ja jumalattoman.	
 
-23. Kuin han rupee lyomaan, niin han tappaa akisti, ja pilkkaa viattomain kiusausta.	
+<div class="versenum">23.</div> Kuin han rupee lyomaan, niin han tappaa akisti, ja pilkkaa viattomain kiusausta.	
 
-24. Maa annetaan jumalattoman kasiin, han peittaa sen tuomarien kasvot: ellei se niin ole, kuinka se myos toisin on?	
+<div class="versenum">24.</div> Maa annetaan jumalattoman kasiin, han peittaa sen tuomarien kasvot: ellei se niin ole, kuinka se myos toisin on?	
 
-25. Minun paivani ovat olleet nopiammat kuin juoksia: ne ovat paenneet, ja ei mitaan hyvaa nahneet.	
+<div class="versenum">25.</div> Minun paivani ovat olleet nopiammat kuin juoksia: ne ovat paenneet, ja ei mitaan hyvaa nahneet.	
 
-26. Ne ovat pois menneet kuin joutuva haaksi, kuin kotka lentaa rualle.	
+<div class="versenum">26.</div> Ne ovat pois menneet kuin joutuva haaksi, kuin kotka lentaa rualle.	
 
-27. Koska mina ajattelen: mina unhotan valitukseni, ja muutan kasvoni ja virvoitan minuni:	
+<div class="versenum">27.</div> Koska mina ajattelen: mina unhotan valitukseni, ja muutan kasvoni ja virvoitan minuni:	
 
-28. Niin mina pelkaan kaikkia minun kipujani, tietaen, ettes anna minun olla viatoinna.	
+<div class="versenum">28.</div> Niin mina pelkaan kaikkia minun kipujani, tietaen, ettes anna minun olla viatoinna.	
 
-29. Jos olen jumalatoin, miksi mina nyt itsiani hukkaan vaivaan?	
+<div class="versenum">29.</div> Jos olen jumalatoin, miksi mina nyt itsiani hukkaan vaivaan?	
 
-30. Vaikka mina pesisin itseni lumivedessa ja puhdistaisin kateni saippualla,	
+<div class="versenum">30.</div> Vaikka mina pesisin itseni lumivedessa ja puhdistaisin kateni saippualla,	
 
-31. Niin sina kuitenkin pistaisit minun lokaan; ja minun vaatteeni olisivat minulle kauhistukseksi.	
+<div class="versenum">31.</div> Niin sina kuitenkin pistaisit minun lokaan; ja minun vaatteeni olisivat minulle kauhistukseksi.	
 
-32. Silla ei han ole minun vertaiseni, jota mina vastata taidan, etta me ynna tulisimme oikeuden eteen.	
+<div class="versenum">32.</div> Silla ei han ole minun vertaiseni, jota mina vastata taidan, etta me ynna tulisimme oikeuden eteen.	
 
-33. Ei ole joka meita eroittaa, joka laskis katensa meidan kahden valillemme.	
+<div class="versenum">33.</div> Ei ole joka meita eroittaa, joka laskis katensa meidan kahden valillemme.	
 
-34. Han ottakoon vitsansa pois minusta, ja alkoon hanen hirmuisuutensa peljattako minua;	
+<div class="versenum">34.</div> Han ottakoon vitsansa pois minusta, ja alkoon hanen hirmuisuutensa peljattako minua;	
 
-35. Etta mina puhuisin ja en pelkaisi hanta; silla en mina mitaan kanssani tieda.	
+<div class="versenum">35.</div> Etta mina puhuisin ja en pelkaisi hanta; silla en mina mitaan kanssani tieda.	
 

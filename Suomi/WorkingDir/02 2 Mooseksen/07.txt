@@ -1,52 +1,52 @@
 2 Mooseksen 7	
 	
-1. Ja Herra sanoi Mosekselle: katso, mina olen asettanut sinun Pharaon Jumalaksi. Ja veljes Aaron pitaa oleman sinun prophetas.	
+<div class="versenum">1.</div> Ja Herra sanoi Mosekselle: katso, mina olen asettanut sinun Pharaon Jumalaksi. Ja veljes Aaron pitaa oleman sinun prophetas.	
 
-2. Sinun pitaa puhuman kaikki, mita mina kasken sinulle, vaan Aaron sinun veljes pitaa sen puhuman Pharaolle: etta han paastais Israelin lapset maaltansa.	
+<div class="versenum">2.</div> Sinun pitaa puhuman kaikki, mita mina kasken sinulle, vaan Aaron sinun veljes pitaa sen puhuman Pharaolle: etta han paastais Israelin lapset maaltansa.	
 
-3. Mutta mina tahdon paaduttaa Pharaon sydamen, ja tehda monta minun ihmettani ja tunnustahteani Egyptin maalla.	
+<div class="versenum">3.</div> Mutta mina tahdon paaduttaa Pharaon sydamen, ja tehda monta minun ihmettani ja tunnustahteani Egyptin maalla.	
 
-4. Ja ei Pharao kuule teita; ja mina tahdon osoittaa minun kateni Egyptissa, ja johdatan ulos minun joukkoni, minun kansani Israelin lapset Egyptin maalta suurella oikeudella.	
+<div class="versenum">4.</div> Ja ei Pharao kuule teita; ja mina tahdon osoittaa minun kateni Egyptissa, ja johdatan ulos minun joukkoni, minun kansani Israelin lapset Egyptin maalta suurella oikeudella.	
 
-5. Ja Egyptilaisten pitaa tietaman, etta mina olen Herra, ojetessani kattani Egyptin ylitse, ja johdattaissani ulos Israelin lapset heidan keskeltansa.	
+<div class="versenum">5.</div> Ja Egyptilaisten pitaa tietaman, etta mina olen Herra, ojetessani kattani Egyptin ylitse, ja johdattaissani ulos Israelin lapset heidan keskeltansa.	
 
-6. Moses ja Aaron tekivat niinkuin Herra oli heille kaskenyt.	
+<div class="versenum">6.</div> Moses ja Aaron tekivat niinkuin Herra oli heille kaskenyt.	
 
-7. Ja Moses oli kahdeksankymmenen ajastaikainen, ja Aaron kolmen ajastaikainen yhdeksattakymmenta, koska he puhuivat Pharaon kanssa.	
+<div class="versenum">7.</div> Ja Moses oli kahdeksankymmenen ajastaikainen, ja Aaron kolmen ajastaikainen yhdeksattakymmenta, koska he puhuivat Pharaon kanssa.	
 
-8. Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
+<div class="versenum">8.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
 
-9. Koska Pharao puhuu teille, sanoen: osoittakaat teidan ihmeenne. Niin sinun pitaa sanoman Aaronille: ota sauvas, ja heita Pharaon eteen, ja se tulee karmeeksi.	
+<div class="versenum">9.</div> Koska Pharao puhuu teille, sanoen: osoittakaat teidan ihmeenne. Niin sinun pitaa sanoman Aaronille: ota sauvas, ja heita Pharaon eteen, ja se tulee karmeeksi.	
 
-10. Niin Moses ja Aaron menivat Pharaon tyko, ja tekivat niinkuin Herra oli kaskenyt. Ja Aaron heitti sauvansa Pharaon ja hanen palveliainsa eteen, ja se tuli karmeeksi.	
+<div class="versenum">10.</div> Niin Moses ja Aaron menivat Pharaon tyko, ja tekivat niinkuin Herra oli kaskenyt. Ja Aaron heitti sauvansa Pharaon ja hanen palveliainsa eteen, ja se tuli karmeeksi.	
 
-11. Niin Pharao myos kutsui tietajat ja noidat, ja Egyptin noidat tekivat myos niin noitumisillansa.	
+<div class="versenum">11.</div> Niin Pharao myos kutsui tietajat ja noidat, ja Egyptin noidat tekivat myos niin noitumisillansa.	
 
-12. Ja itsekukin heista heitti sauvansa maahan, ja ne tulivat karmeiksi. Mutta Aaronin sauva nieli heidan sauvansa.	
+<div class="versenum">12.</div> Ja itsekukin heista heitti sauvansa maahan, ja ne tulivat karmeiksi. Mutta Aaronin sauva nieli heidan sauvansa.	
 
-13. Niin Pharaon sydan paatui, eika myos kuullut heita: niinkuin Herra oli sanonut.	
+<div class="versenum">13.</div> Niin Pharaon sydan paatui, eika myos kuullut heita: niinkuin Herra oli sanonut.	
 
-14. Ja Herra sanoi Mosekselle: Pharaon sydan on kovettunut, ja ei tahdo paastaa kansaa.	
+<div class="versenum">14.</div> Ja Herra sanoi Mosekselle: Pharaon sydan on kovettunut, ja ei tahdo paastaa kansaa.	
 
-15. Mene Pharaon tyko varhain aamulla, katso, han kavelee vetten tykona, ja seiso hanta vastassa virran reunalla, ja se sauva, joka oli karmeeksi muuttunut, ota sinun katees.	
+<div class="versenum">15.</div> Mene Pharaon tyko varhain aamulla, katso, han kavelee vetten tykona, ja seiso hanta vastassa virran reunalla, ja se sauva, joka oli karmeeksi muuttunut, ota sinun katees.	
 
-16. Ja sano hanelle: Herra Hebrealaisten Jumala on minun lahettanyt sinun tykos, sanoen: laske minun kansani palvelemaan minua korvessa; ja katso, et ole sina kuullut tahan asti.	
+<div class="versenum">16.</div> Ja sano hanelle: Herra Hebrealaisten Jumala on minun lahettanyt sinun tykos, sanoen: laske minun kansani palvelemaan minua korvessa; ja katso, et ole sina kuullut tahan asti.	
 
-17. Sentahden sanoo Herra nain: tasta pitaa sinun tunteman minun olevan Herran: katso, mina lyon talla sauvalla, joka on minun kadessani, veteen, joka virrassa on, ja sen pitaa muuttuman vereksi,	
+<div class="versenum">17.</div> Sentahden sanoo Herra nain: tasta pitaa sinun tunteman minun olevan Herran: katso, mina lyon talla sauvalla, joka on minun kadessani, veteen, joka virrassa on, ja sen pitaa muuttuman vereksi,	
 
-18. Niin etta kalat, jotka virrassa ovat, pitaa kuoleman, ja virran pitaa haiseman, ja Egyptilaiset pitaa kyylyman, koska he juovat vetta virrasta.	
+<div class="versenum">18.</div> Niin etta kalat, jotka virrassa ovat, pitaa kuoleman, ja virran pitaa haiseman, ja Egyptilaiset pitaa kyylyman, koska he juovat vetta virrasta.	
 
-19. Ja Herra sanoi Mosekselle: sano Aaronille: ota sauvas, ja ojenna kates Egyptin vetten ylitse, ja heidan virtainsa ylitse, ja heidan jokeinsa ylitse, ja heidan jarveinsa ylitse, ja kaikkein heidan vesilammikkoinsa ylitse, ja ne pitaa tuleman vereksi, ja pitaa oleman veri koko Egyptin maassa, seka puuastioissa etta myos kiviastioissa.	
+<div class="versenum">19.</div> Ja Herra sanoi Mosekselle: sano Aaronille: ota sauvas, ja ojenna kates Egyptin vetten ylitse, ja heidan virtainsa ylitse, ja heidan jokeinsa ylitse, ja heidan jarveinsa ylitse, ja kaikkein heidan vesilammikkoinsa ylitse, ja ne pitaa tuleman vereksi, ja pitaa oleman veri koko Egyptin maassa, seka puuastioissa etta myos kiviastioissa.	
 
-20. Niin Mose ja Aaron tekivat niinkuin Herra oli kaskenyt, ja han nosti sauvan ja loi veteen, joka virrassa oli, Pharaon ja hanen palveliainsa edessa: ja kaikki vedet, jotka olivat virrassa, muuttuivat vereksi.	
+<div class="versenum">20.</div> Niin Mose ja Aaron tekivat niinkuin Herra oli kaskenyt, ja han nosti sauvan ja loi veteen, joka virrassa oli, Pharaon ja hanen palveliainsa edessa: ja kaikki vedet, jotka olivat virrassa, muuttuivat vereksi.	
 
-21. Ja kala, jotka olivat virrassa, kuolivat, ja virta haisi, niin ettei Egyptilaiset saaneet juoda vetta virrasta. Ja veri oli koko Egyptin maalla.	
+<div class="versenum">21.</div> Ja kala, jotka olivat virrassa, kuolivat, ja virta haisi, niin ettei Egyptilaiset saaneet juoda vetta virrasta. Ja veri oli koko Egyptin maalla.	
 
-22. Egyptin noidat tekivat myos niin noituuksillansa. Mutta Pharaon sydan paatui, ja ei kuullut heita: niinkuin Herra sanonut oli.	
+<div class="versenum">22.</div> Egyptin noidat tekivat myos niin noituuksillansa. Mutta Pharaon sydan paatui, ja ei kuullut heita: niinkuin Herra sanonut oli.	
 
-23. Ja Pharao kaansi itsensa ja palasi kotiansa, ja ei pannut sitakaan sydameensa.	
+<div class="versenum">23.</div> Ja Pharao kaansi itsensa ja palasi kotiansa, ja ei pannut sitakaan sydameensa.	
 
-24. Mutta kaikki Egyptilaiset kaivoivat virran ymparilla vetta juodaksensa; silla ei he saaneet juoda virran vesista.	
+<div class="versenum">24.</div> Mutta kaikki Egyptilaiset kaivoivat virran ymparilla vetta juodaksensa; silla ei he saaneet juoda virran vesista.	
 
-25. Ja se oli taytta seitseman paivaa, sittenkuin Herra oli lyonyt virran.	
+<div class="versenum">25.</div> Ja se oli taytta seitseman paivaa, sittenkuin Herra oli lyonyt virran.	
 

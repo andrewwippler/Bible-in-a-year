@@ -1,38 +1,38 @@
 Psalmien 132	
 	
-1. Veisu korkeimmassa Kuorissa. Muista, Herra, Davidia, ja kaikkia hanen vaivojansa,	
+<div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Muista, Herra, Davidia, ja kaikkia hanen vaivojansa,	
 
-2. Joka Herralle vannoi, ja lupasi lupauksen Jakobin vakevalle:	
+<div class="versenum">2.</div> Joka Herralle vannoi, ja lupasi lupauksen Jakobin vakevalle:	
 
-3. En mene huoneeni majaan, enka vuoteeseeni pane maata;	
+<div class="versenum">3.</div> En mene huoneeni majaan, enka vuoteeseeni pane maata;	
 
-4. En anna silmaini unta saada, enka silmalautaini torkkua,	
+<div class="versenum">4.</div> En anna silmaini unta saada, enka silmalautaini torkkua,	
 
-5. Siihenasti kuin mina loydan sian Herralle, Jakobin vakevan asumiseksi.	
+<div class="versenum">5.</div> Siihenasti kuin mina loydan sian Herralle, Jakobin vakevan asumiseksi.	
 
-6. Katso, me kuulimme hanesta Ephratassa: me olemme sen loytaneet metsan kedoilla.	
+<div class="versenum">6.</div> Katso, me kuulimme hanesta Ephratassa: me olemme sen loytaneet metsan kedoilla.	
 
-7. Me tahdomme hanen asuinsioihinsa menna, ja kumartaa hanen jalkainsa astinlaudan edessa.	
+<div class="versenum">7.</div> Me tahdomme hanen asuinsioihinsa menna, ja kumartaa hanen jalkainsa astinlaudan edessa.	
 
-8. Nouse, Herra, sinun lepoos, sina ja sinun vakevyytes arkki.	
+<div class="versenum">8.</div> Nouse, Herra, sinun lepoos, sina ja sinun vakevyytes arkki.	
 
-9. Anna pappis pukea heitansa vanhurskaudella ja sinun pyhas riemuitkaan.	
+<div class="versenum">9.</div> Anna pappis pukea heitansa vanhurskaudella ja sinun pyhas riemuitkaan.	
 
-10. Ala kaanna pois voideltus kasvoja, sinun palvelias Davidin tahden.	
+<div class="versenum">10.</div> Ala kaanna pois voideltus kasvoja, sinun palvelias Davidin tahden.	
 
-11. Herra on vannonut Davidille totisen valan, ja ei han siita vilpistele: sinun ruumiis hedelmasta mina istutan istuimelles.	
+<div class="versenum">11.</div> Herra on vannonut Davidille totisen valan, ja ei han siita vilpistele: sinun ruumiis hedelmasta mina istutan istuimelles.	
 
-12. Jos sinun lapses minun liittoni pitavat, ja minun todistukseni, jotka mina heille opetan, niin heidan lapsensa myos pitaa sinun istuimellas istuman ijankaikkisesti.	
+<div class="versenum">12.</div> Jos sinun lapses minun liittoni pitavat, ja minun todistukseni, jotka mina heille opetan, niin heidan lapsensa myos pitaa sinun istuimellas istuman ijankaikkisesti.	
 
-13. Silla Herra on Zionin valinnut, ja tahtoo sita asuinsiaksensa.	
+<div class="versenum">13.</div> Silla Herra on Zionin valinnut, ja tahtoo sita asuinsiaksensa.	
 
-14. Tama on minun leponi ijankaikkisesti: tassa mina tahdon asua; silla se minulle kelpaa.	
+<div class="versenum">14.</div> Tama on minun leponi ijankaikkisesti: tassa mina tahdon asua; silla se minulle kelpaa.	
 
-15. Mina hyvasti siunaan hanen elatuksensa, ja hanen koyhillensa kylla annan leipaa.	
+<div class="versenum">15.</div> Mina hyvasti siunaan hanen elatuksensa, ja hanen koyhillensa kylla annan leipaa.	
 
-16. Hanen pappinsa mina puetan autuudella; ja hanen pyhansa pitaa ilolla riemuitseman.	
+<div class="versenum">16.</div> Hanen pappinsa mina puetan autuudella; ja hanen pyhansa pitaa ilolla riemuitseman.	
 
-17. Siella mina annan puhjeta Davidin sarven: mina valmistan kynttilan voidellulleni.	
+<div class="versenum">17.</div> Siella mina annan puhjeta Davidin sarven: mina valmistan kynttilan voidellulleni.	
 
-18. Hanen vihollisensa mina hapialla puetan; mutta hanen paallansa pitaa hanen kruununsa kukoistaman.	
+<div class="versenum">18.</div> Hanen vihollisensa mina hapialla puetan; mutta hanen paallansa pitaa hanen kruununsa kukoistaman.	
 

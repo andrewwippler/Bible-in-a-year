@@ -1,42 +1,42 @@
 1 Mooseksen 12	
 	
-1. Ja Herra oli sanonut Abramille: Lahde maaltas, ja suvustas, ja isas huoneesta: sille maalle, jonka mina sinulle osoitan.	
+<div class="versenum">1.</div> Ja Herra oli sanonut Abramille: Lahde maaltas, ja suvustas, ja isas huoneesta: sille maalle, jonka mina sinulle osoitan.	
 
-2. Ja mina teen sinun suureksi kansaksi, ja siunaan sinun, ja teen sinulle suuren nimen, ja sina olet siunaus.	
+<div class="versenum">2.</div> Ja mina teen sinun suureksi kansaksi, ja siunaan sinun, ja teen sinulle suuren nimen, ja sina olet siunaus.	
 
-3. Mina siunaan niita, jotka sinua siunaavat, ja kiroon niita, jotka sinua kiroovat. Ja sinussa pitaa kaikki sukukunnat maan paalla siunatuiksi tuleman.	
+<div class="versenum">3.</div> Mina siunaan niita, jotka sinua siunaavat, ja kiroon niita, jotka sinua kiroovat. Ja sinussa pitaa kaikki sukukunnat maan paalla siunatuiksi tuleman.	
 
-4. Niin Abram laksi, niinkuin Herra hanelle sanonut oli, ja Lot meni hanen kanssansa: Mutta Abram oli viidenkahdeksattakymmenta ajastajan vanha Haranista lahteissansa.	
+<div class="versenum">4.</div> Niin Abram laksi, niinkuin Herra hanelle sanonut oli, ja Lot meni hanen kanssansa: Mutta Abram oli viidenkahdeksattakymmenta ajastajan vanha Haranista lahteissansa.	
 
-5. Niin otti Abram emantansa Sarain, ja Lotin, veljensa pojan, tavaroinensa, jotka he olivat panneet kokoon, ja sielut, jotka he olivat saaneet Haranissa, ja laksivat matkustamaan Kanaanin maalle; tulivat myos Kanaanin maalle.	
+<div class="versenum">5.</div> Niin otti Abram emantansa Sarain, ja Lotin, veljensa pojan, tavaroinensa, jotka he olivat panneet kokoon, ja sielut, jotka he olivat saaneet Haranissa, ja laksivat matkustamaan Kanaanin maalle; tulivat myos Kanaanin maalle.	
 
-6. Ja Abram vaelsi sen maakunnan lavitse, hamaan Sikemin paikkakuntaan, Moren lakeuteen asti. Ja siihen aikaan asuivat Kanaanealaiset maalla.	
+<div class="versenum">6.</div> Ja Abram vaelsi sen maakunnan lavitse, hamaan Sikemin paikkakuntaan, Moren lakeuteen asti. Ja siihen aikaan asuivat Kanaanealaiset maalla.	
 
-7. Silloin nakyi Herra Abramille, ja sanoi: sinun siemenelles annan mina taman maan. Ja han rakensi siina alttarin Herralle, joka hanelle nakynyt oli.	
+<div class="versenum">7.</div> Silloin nakyi Herra Abramille, ja sanoi: sinun siemenelles annan mina taman maan. Ja han rakensi siina alttarin Herralle, joka hanelle nakynyt oli.	
 
-8. Sitte siirsi han itsensa edemma vuoren tyko, BetElista itaan pain, ja pani siihen majansa, niin etta BetEl oli lannen puolella ja Ai idan puolella, ja rakensi siina alttarin Herralle, ja saarnasi Herran nimesta.	
+<div class="versenum">8.</div> Sitte siirsi han itsensa edemma vuoren tyko, BetElista itaan pain, ja pani siihen majansa, niin etta BetEl oli lannen puolella ja Ai idan puolella, ja rakensi siina alttarin Herralle, ja saarnasi Herran nimesta.	
 
-9. Ja Abram laksi sielta edemma, ja vaelsi etelaan pain.	
+<div class="versenum">9.</div> Ja Abram laksi sielta edemma, ja vaelsi etelaan pain.	
 
-10. Niin tuli kova aika maalle, ja Abram meni alas Egyptiin, olemaan muukalaisna siella: silla sangen kova aika oli maalla.	
+<div class="versenum">10.</div> Niin tuli kova aika maalle, ja Abram meni alas Egyptiin, olemaan muukalaisna siella: silla sangen kova aika oli maalla.	
 
-11. Ja tapahtui, koska han lahestyi Egyptia, puhui han emannallensa Saraille: katso armaani, mina tiedan sinun ihanaksi vaimoksi nahda.	
+<div class="versenum">11.</div> Ja tapahtui, koska han lahestyi Egyptia, puhui han emannallensa Saraille: katso armaani, mina tiedan sinun ihanaksi vaimoksi nahda.	
 
-12. Koska Egyptilaiset saavat sinun nahda, niin he sanovat: tama on hanen emantansa, ja tappavat minun, ja antavat sinun elaa.	
+<div class="versenum">12.</div> Koska Egyptilaiset saavat sinun nahda, niin he sanovat: tama on hanen emantansa, ja tappavat minun, ja antavat sinun elaa.	
 
-13. Sanos siis itses minun sisarekseni; etta minulle hyvin olis sinun tahtes, ja mina elaisin sinun vuokses.	
+<div class="versenum">13.</div> Sanos siis itses minun sisarekseni; etta minulle hyvin olis sinun tahtes, ja mina elaisin sinun vuokses.	
 
-14. Koska Abram tuli Egyptiin, nakivat Egyptilaiset vaimon juuri ihanaksi.	
+<div class="versenum">14.</div> Koska Abram tuli Egyptiin, nakivat Egyptilaiset vaimon juuri ihanaksi.	
 
-15. Ja Pharaon ruhtinaat nakivat hanen, ja ylistivat hanta Pharaon edessa: silloin vietiin vaimo Pharaon huoneeseen.	
+<div class="versenum">15.</div> Ja Pharaon ruhtinaat nakivat hanen, ja ylistivat hanta Pharaon edessa: silloin vietiin vaimo Pharaon huoneeseen.	
 
-16. Ja Abramille tehtiin hyvin hanen tahtensa. Ja hanella oli lampaita ja karjaa, ja aaseja, ja palvelioita, ja piikoja, ja aasintammoja ja kameleja.	
+<div class="versenum">16.</div> Ja Abramille tehtiin hyvin hanen tahtensa. Ja hanella oli lampaita ja karjaa, ja aaseja, ja palvelioita, ja piikoja, ja aasintammoja ja kameleja.	
 
-17. Mutta Herra vitsasi Pharaota suurilla vitsauksilla, ja hanen huonettansa, Sarain Abramin emannan tahden.	
+<div class="versenum">17.</div> Mutta Herra vitsasi Pharaota suurilla vitsauksilla, ja hanen huonettansa, Sarain Abramin emannan tahden.	
 
-18. Silloin kutsui Pharao Abramin tykonsa, ja sanoi: miksis taman minulle teit? miksi et ilmoittanut minulle hanta emannakses?	
+<div class="versenum">18.</div> Silloin kutsui Pharao Abramin tykonsa, ja sanoi: miksis taman minulle teit? miksi et ilmoittanut minulle hanta emannakses?	
 
-19. Miksis sanoit, han on sisareni? etta mina ottaisin hanen emannakseni? katso tassa on sinun emantas, ota hanta ja mene.	
+<div class="versenum">19.</div> Miksis sanoit, han on sisareni? etta mina ottaisin hanen emannakseni? katso tassa on sinun emantas, ota hanta ja mene.	
 
-20. Ja Pharao antoi kaskyn hanesta miehillensa: ja he saattoivat hanen ulos ja hanen emantansa, ja kaikki kuin hanella oli.	
+<div class="versenum">20.</div> Ja Pharao antoi kaskyn hanesta miehillensa: ja he saattoivat hanen ulos ja hanen emantansa, ja kaikki kuin hanella oli.	
 

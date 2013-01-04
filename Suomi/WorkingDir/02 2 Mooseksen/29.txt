@@ -1,94 +1,94 @@
 2 Mooseksen 29	
 	
-1. Ja tama on se kuin sinun pitaa tekeman heille, pyhittaakses heita, etta he olisivat minun pappini: ota yksi nuori mulli, ja kaksi virheetointa oinasta.	
+<div class="versenum">1.</div> Ja tama on se kuin sinun pitaa tekeman heille, pyhittaakses heita, etta he olisivat minun pappini: ota yksi nuori mulli, ja kaksi virheetointa oinasta.	
 
-2. Ja happamattomia leipia ja happamattomia kyrsia sekoitettuja oljylla, ja happamattomia ohuita kyrsia voidelluita oljylla: nisuisista jauhoista pitaa sinun ne tekeman.	
+<div class="versenum">2.</div> Ja happamattomia leipia ja happamattomia kyrsia sekoitettuja oljylla, ja happamattomia ohuita kyrsia voidelluita oljylla: nisuisista jauhoista pitaa sinun ne tekeman.	
 
-3. Ja sinun pitaa paneman ne koriin, ja korissa ne kantaman edes, niin myos mullin ja ne kaksi oinasta.	
+<div class="versenum">3.</div> Ja sinun pitaa paneman ne koriin, ja korissa ne kantaman edes, niin myos mullin ja ne kaksi oinasta.	
 
-4. Ja sinun pitaa tuoman Aaronin poikinensa seurakunnan majan oven eteen, ja peseman heita vedella.	
+<div class="versenum">4.</div> Ja sinun pitaa tuoman Aaronin poikinensa seurakunnan majan oven eteen, ja peseman heita vedella.	
 
-5. Ja sinun pitaa ottaman vaatteet ja puettaman Aaronin ylle, ahtaan hameen, ja paallisvaate-hameen, ja vyottaman hanen paallisvaatteen vyolla.	
+<div class="versenum">5.</div> Ja sinun pitaa ottaman vaatteet ja puettaman Aaronin ylle, ahtaan hameen, ja paallisvaate-hameen, ja vyottaman hanen paallisvaatteen vyolla.	
 
-6. Sinun pitaa myos paneman hiipan hanen paahansa, ja laskeman pyhan kruunun hiipan paalle;	
+<div class="versenum">6.</div> Sinun pitaa myos paneman hiipan hanen paahansa, ja laskeman pyhan kruunun hiipan paalle;	
 
-7. Ja ottaman voidellusoljyn, ja vuodattaman hanen paansa paalle, ja voiteleman hanta.	
+<div class="versenum">7.</div> Ja ottaman voidellusoljyn, ja vuodattaman hanen paansa paalle, ja voiteleman hanta.	
 
-8. Ja hanen poikainsa anna tulla edes, ja pueta heidan yllensa ahtaat hameet.	
+<div class="versenum">8.</div> Ja hanen poikainsa anna tulla edes, ja pueta heidan yllensa ahtaat hameet.	
 
-9. Ja sinun pitaa vyottaman heidan vyolla, seka Aaronin etta hanen poikansa, ja paneman hiipat heidan paahansa, etta heilla olis pappeus ijankaikkiseksi saadyksi: ja sinun pitaa tayttaman Aaronin kaden ja hanen poikainsa kaden.	
+<div class="versenum">9.</div> Ja sinun pitaa vyottaman heidan vyolla, seka Aaronin etta hanen poikansa, ja paneman hiipat heidan paahansa, etta heilla olis pappeus ijankaikkiseksi saadyksi: ja sinun pitaa tayttaman Aaronin kaden ja hanen poikainsa kaden.	
 
-10. Ja sinun pitaa tuoman mullin seurakunnan majan eteen: ja Aaronin poikinensa pitaa paneman katensa mullin paalle.	
+<div class="versenum">10.</div> Ja sinun pitaa tuoman mullin seurakunnan majan eteen: ja Aaronin poikinensa pitaa paneman katensa mullin paalle.	
 
-11. Niin sinun pitaa teurastaman mullin Herran edessa, seurakunnan majan oven tykona.	
+<div class="versenum">11.</div> Niin sinun pitaa teurastaman mullin Herran edessa, seurakunnan majan oven tykona.	
 
-12. Ja sinun pitaa ottaman mullin veresta, ja sivuman sormellas alttarin sarviin; mutta kaikki sen muu veri vuodata alttarin pohjaan.	
+<div class="versenum">12.</div> Ja sinun pitaa ottaman mullin veresta, ja sivuman sormellas alttarin sarviin; mutta kaikki sen muu veri vuodata alttarin pohjaan.	
 
-13. Ja sinun pitaa ottaman kaiken lihavuuden kuin sisallykset peittaa, ja maksan kalvon, ja molemmat munaskuut, ja lihavuuden, joka on niiden paalla, ja polttaman alttarilla.	
+<div class="versenum">13.</div> Ja sinun pitaa ottaman kaiken lihavuuden kuin sisallykset peittaa, ja maksan kalvon, ja molemmat munaskuut, ja lihavuuden, joka on niiden paalla, ja polttaman alttarilla.	
 
-14. Mutta mullin lihan ja hanen vuotansa ja rapansa pitaa sinun polttaman tulella ulkona leirista; silla se on rikosuhri.	
+<div class="versenum">14.</div> Mutta mullin lihan ja hanen vuotansa ja rapansa pitaa sinun polttaman tulella ulkona leirista; silla se on rikosuhri.	
 
-15. Yhden oinaan pitaa sinun myos ottaman: ja Aaronin poikinensa pitaa paneman katensa sen oinaan paan paalle.	
+<div class="versenum">15.</div> Yhden oinaan pitaa sinun myos ottaman: ja Aaronin poikinensa pitaa paneman katensa sen oinaan paan paalle.	
 
-16. Ja sinun pitaa teurastaman oinaan, ja ottaman hanen verensa, ja priiskottaman alttarille ymparinsa.	
+<div class="versenum">16.</div> Ja sinun pitaa teurastaman oinaan, ja ottaman hanen verensa, ja priiskottaman alttarille ymparinsa.	
 
-17. Mutta oinaan pitaa sinun leikkaaman kappaleiksi, ja peseman hanen sisallyksensa ja jalkansa, ja paneman sen hanen kappaltensa ja paansa paalle.	
+<div class="versenum">17.</div> Mutta oinaan pitaa sinun leikkaaman kappaleiksi, ja peseman hanen sisallyksensa ja jalkansa, ja paneman sen hanen kappaltensa ja paansa paalle.	
 
-18. Ja polttaman koko oinaan alttarilla; silla se on polttouhri Herralle: makia haju ja tuli Herralle.	
+<div class="versenum">18.</div> Ja polttaman koko oinaan alttarilla; silla se on polttouhri Herralle: makia haju ja tuli Herralle.	
 
-19. Toisen oinaan pitaa sinun myos ottaman, ja Aaron poikinensa pitaa paneman katensa oinaan paan paalle.	
+<div class="versenum">19.</div> Toisen oinaan pitaa sinun myos ottaman, ja Aaron poikinensa pitaa paneman katensa oinaan paan paalle.	
 
-20. Ja sinun pitaa teurastaman oinaan ja ottaman hanen verestansa, ja sivuman Aaronin ja hanen poikainsa oikian korvan lehteen, ja oikian kaden peukaloon, ja heidan oikian jalkansa isoon varpaaseen: ja priiskottaman veren alttarille ymparinsa.	
+<div class="versenum">20.</div> Ja sinun pitaa teurastaman oinaan ja ottaman hanen verestansa, ja sivuman Aaronin ja hanen poikainsa oikian korvan lehteen, ja oikian kaden peukaloon, ja heidan oikian jalkansa isoon varpaaseen: ja priiskottaman veren alttarille ymparinsa.	
 
-21. Ja sinun pitaa ottaman veresta, kuin alttarilla on, ja voidellusoljysta, ja priiskottaman Aaronin ja hanen vaatettensa paalle, ja hanen poikainsa ja heidan vaatettensa paalle: niin han tulee pyhaksi itse vaatteinensa, ja hanen poikansa vaatteinensa.	
+<div class="versenum">21.</div> Ja sinun pitaa ottaman veresta, kuin alttarilla on, ja voidellusoljysta, ja priiskottaman Aaronin ja hanen vaatettensa paalle, ja hanen poikainsa ja heidan vaatettensa paalle: niin han tulee pyhaksi itse vaatteinensa, ja hanen poikansa vaatteinensa.	
 
-22. Sitte pitaa sinun ottaman oinaasta lihavuuden, ja saparon, ja sen lihavuuden kuin sisallykset peittaa, ja maksan kalvon, ja molemmat munaskuut, niin myos sen lihavuuden kuin niiden paalla on, ja oikian lavan; silla se on tayttamisen oinas.	
+<div class="versenum">22.</div> Sitte pitaa sinun ottaman oinaasta lihavuuden, ja saparon, ja sen lihavuuden kuin sisallykset peittaa, ja maksan kalvon, ja molemmat munaskuut, niin myos sen lihavuuden kuin niiden paalla on, ja oikian lavan; silla se on tayttamisen oinas.	
 
-23. Ja yhden kyrsan leipaa, ja yhden oljykyrsan, ja ohuen kyrsan korista, jossa happamattomat leivat ovat Herran edessa.	
+<div class="versenum">23.</div> Ja yhden kyrsan leipaa, ja yhden oljykyrsan, ja ohuen kyrsan korista, jossa happamattomat leivat ovat Herran edessa.	
 
-24. Ja sinun pitaa paneman kaikki namat Aaronin ja hanen poikainsa katten paalle, ja haalyttaman ne haalytykseksi Herralle.	
+<div class="versenum">24.</div> Ja sinun pitaa paneman kaikki namat Aaronin ja hanen poikainsa katten paalle, ja haalyttaman ne haalytykseksi Herralle.	
 
-25. Ja niin pitaa sinun ne ottaman heidan kasistansa, ja polttaman alttarilla polttouhriksi ja makiaksi hajuksi Herralle; silla se on Herran tuli.	
+<div class="versenum">25.</div> Ja niin pitaa sinun ne ottaman heidan kasistansa, ja polttaman alttarilla polttouhriksi ja makiaksi hajuksi Herralle; silla se on Herran tuli.	
 
-26. Ja sinun pitaa ottaman rinnan Aaronin tayttamisen oinaasta, ja pitaa sen haalyttaman haalytysuhriksi Herran eteen: ja se pitaa oleman sinun osas.	
+<div class="versenum">26.</div> Ja sinun pitaa ottaman rinnan Aaronin tayttamisen oinaasta, ja pitaa sen haalyttaman haalytysuhriksi Herran eteen: ja se pitaa oleman sinun osas.	
 
-27. Ja sinun pitaa pyhittaman haalytysrinnan ja ylennyslavan, joka haalytetty on ja ylennetty on, Aaronin ja hanen poikainsa tayttamisen oinaasta.	
+<div class="versenum">27.</div> Ja sinun pitaa pyhittaman haalytysrinnan ja ylennyslavan, joka haalytetty on ja ylennetty on, Aaronin ja hanen poikainsa tayttamisen oinaasta.	
 
-28. Ja sen pitaa oleman Aaronille ja hanen pojillensa ijankaikkiseksi saadyksi Israelin lapsilta; silla se on ylennysuhri: ja ylennysuhrin pitaa oleman Herran oman Israelin lapsilta, heidan kiitosuhrissansa ja ylennysuhrissansa.	
+<div class="versenum">28.</div> Ja sen pitaa oleman Aaronille ja hanen pojillensa ijankaikkiseksi saadyksi Israelin lapsilta; silla se on ylennysuhri: ja ylennysuhrin pitaa oleman Herran oman Israelin lapsilta, heidan kiitosuhrissansa ja ylennysuhrissansa.	
 
-29. Mutta Aaronin pyhat vaatteet pitaa oleman hanen pojillansa hanen jalkeensa, etta heidat pitaa niissa voideltaman, ja heidan katensa taytettaman.	
+<div class="versenum">29.</div> Mutta Aaronin pyhat vaatteet pitaa oleman hanen pojillansa hanen jalkeensa, etta heidat pitaa niissa voideltaman, ja heidan katensa taytettaman.	
 
-30. Joka hanen pojistansa tulee papiksi hanen siaansa, sen pitaa pukeman ne yllensa seitseman paivaa; jonka pitaa kayman seurakunnan majaan palvelemaan pyhassa.	
+<div class="versenum">30.</div> Joka hanen pojistansa tulee papiksi hanen siaansa, sen pitaa pukeman ne yllensa seitseman paivaa; jonka pitaa kayman seurakunnan majaan palvelemaan pyhassa.	
 
-31. Sinun pitaa myos ottaman tayttamisen oinaan, ja keittaman sen lihan pyhassa siassa.	
+<div class="versenum">31.</div> Sinun pitaa myos ottaman tayttamisen oinaan, ja keittaman sen lihan pyhassa siassa.	
 
-32. Ja Aaronin poikinensa pitaa syoman sen oinaan lihan, ja leivan, joka on korissa, seurakunnan majan oven edessa.	
+<div class="versenum">32.</div> Ja Aaronin poikinensa pitaa syoman sen oinaan lihan, ja leivan, joka on korissa, seurakunnan majan oven edessa.	
 
-33. Ja niiden pitaa ne syoman, jotka niiden kautta sovitetut ovat, taytettaa heidan kasiansa, ja pyhitettaa heita. Ei muukalaisen pida sita syoman; silla se on pyha.	
+<div class="versenum">33.</div> Ja niiden pitaa ne syoman, jotka niiden kautta sovitetut ovat, taytettaa heidan kasiansa, ja pyhitettaa heita. Ei muukalaisen pida sita syoman; silla se on pyha.	
 
-34. Jos jotakin tahteeksi jaa tayttymisen lihasta ja leivasta aamuun asti, sen pitaa sinun polttaman tulessa: ei sita pida syotaman, silla se on pyha.	
+<div class="versenum">34.</div> Jos jotakin tahteeksi jaa tayttymisen lihasta ja leivasta aamuun asti, sen pitaa sinun polttaman tulessa: ei sita pida syotaman, silla se on pyha.	
 
-35. Ja nain pitaa sinun tekeman Aaronille ja hanen pojillensa, kaiken sen jalkeen kuin mina sinulle kaskenyt olen: seitseman paivaa pitaa sinun heidan katensa tayttaman;	
+<div class="versenum">35.</div> Ja nain pitaa sinun tekeman Aaronille ja hanen pojillensa, kaiken sen jalkeen kuin mina sinulle kaskenyt olen: seitseman paivaa pitaa sinun heidan katensa tayttaman;	
 
-36. Ja joka paiva teurastaman mullin rikosuhrin sovinnoksi. Ja sinun pitaa puhdistaman alttarin, koskas sovintoa uhraat sen paalla, ja voiteleman sen, ettas sen pyhittaisit.	
+<div class="versenum">36.</div> Ja joka paiva teurastaman mullin rikosuhrin sovinnoksi. Ja sinun pitaa puhdistaman alttarin, koskas sovintoa uhraat sen paalla, ja voiteleman sen, ettas sen pyhittaisit.	
 
-37. Ja seitseman paivaa pitaa sinun puhdistaman alttarin, ja pyhittaman sen; ja se alttari pitaa oleman kaikkein pyhin. Mita ikanansa siihen alttariin tarttuu, se on pyhitetty.	
+<div class="versenum">37.</div> Ja seitseman paivaa pitaa sinun puhdistaman alttarin, ja pyhittaman sen; ja se alttari pitaa oleman kaikkein pyhin. Mita ikanansa siihen alttariin tarttuu, se on pyhitetty.	
 
-38. Ja tama on se kuin sinun pitaa tekeman alttarilla: kaksi vuosikuntaista karitsaa pitaa sinun uhraaman joka paiva sen paalla.	
+<div class="versenum">38.</div> Ja tama on se kuin sinun pitaa tekeman alttarilla: kaksi vuosikuntaista karitsaa pitaa sinun uhraaman joka paiva sen paalla.	
 
-39. Yhden karitsan aamulla, ja toisen karitsan pitaa sinun uhraaman kahden ehtoon valilla.	
+<div class="versenum">39.</div> Yhden karitsan aamulla, ja toisen karitsan pitaa sinun uhraaman kahden ehtoon valilla.	
 
-40. Ja kymmenennen osan jauhoja, sekoitettu neljannekseen hinnia puserretun oljyn kanssa; ja neljanneksen hinnia viinaa juomauhriksi, yhdelle karitsalle.	
+<div class="versenum">40.</div> Ja kymmenennen osan jauhoja, sekoitettu neljannekseen hinnia puserretun oljyn kanssa; ja neljanneksen hinnia viinaa juomauhriksi, yhdelle karitsalle.	
 
-41. Ja toisen karitsan pitaa sinun uhraaman kahden ehtoon valilla: niinkuin aamullisenkin ruokauhrin ja juomauhrin pitaa sinun sen uhraaman Herralle makiaksi hajuksi ja tuleksi.	
+<div class="versenum">41.</div> Ja toisen karitsan pitaa sinun uhraaman kahden ehtoon valilla: niinkuin aamullisenkin ruokauhrin ja juomauhrin pitaa sinun sen uhraaman Herralle makiaksi hajuksi ja tuleksi.	
 
-42. Tama on alinomainen polttouhri teidan sukukunnillenne seurakunnan majan oven tykona Herran edessa, kussa mina olen saapuvilla teille, ja puhun sinulle.	
+<div class="versenum">42.</div> Tama on alinomainen polttouhri teidan sukukunnillenne seurakunnan majan oven tykona Herran edessa, kussa mina olen saapuvilla teille, ja puhun sinulle.	
 
-43. Siella mina Israelin lapsille olen saapuvilla: ja se pyhitetaan minun kunniassani.	
+<div class="versenum">43.</div> Siella mina Israelin lapsille olen saapuvilla: ja se pyhitetaan minun kunniassani.	
 
-44. Ja mina pyhitan todistuksen majan alttareinensa, ja pyhitan Aaronin poikinensa minulle papiksi.	
+<div class="versenum">44.</div> Ja mina pyhitan todistuksen majan alttareinensa, ja pyhitan Aaronin poikinensa minulle papiksi.	
 
-45. Ja asun Israelin lasten seassa, ja olen heidan Jumalansa.	
+<div class="versenum">45.</div> Ja asun Israelin lasten seassa, ja olen heidan Jumalansa.	
 
-46. Ja heidan pitaa tietaman, etta mina olen Herra heidan Jumalansa, joka heidat johdatin Egyptin maalta, etta mina asuisin heidan seassansa. Mina olen Herra heidan Jumalansa.	
+<div class="versenum">46.</div> Ja heidan pitaa tietaman, etta mina olen Herra heidan Jumalansa, joka heidat johdatin Egyptin maalta, etta mina asuisin heidan seassansa. Mina olen Herra heidan Jumalansa.	
 

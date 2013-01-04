@@ -1,98 +1,98 @@
 Psalmien 106	
 	
-1. Halleluja. Kiittakaat Herraa! silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="versenum">1.</div> Halleluja. Kiittakaat Herraa! silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
 
-2. Kuka taitaa puhua ulos Herran suurta voimaa, ja ylistaa kaikkia hanen kiitettavia tekojansa?	
+<div class="versenum">2.</div> Kuka taitaa puhua ulos Herran suurta voimaa, ja ylistaa kaikkia hanen kiitettavia tekojansa?	
 
-3. Autuaat ovat, jotka kaskyn pitavat ja aina vanhurskauden tekevat.	
+<div class="versenum">3.</div> Autuaat ovat, jotka kaskyn pitavat ja aina vanhurskauden tekevat.	
 
-4. Herra, muista minua armos perasta, jonkas kansalles luvannut olet: opi minua sinun autuudellas,	
+<div class="versenum">4.</div> Herra, muista minua armos perasta, jonkas kansalles luvannut olet: opi minua sinun autuudellas,	
 
-5. Etta mina nakisin valittujes menestyksen, ja iloitsisin kansas ilossa, ja kerskaisin perimises kanssa.	
+<div class="versenum">5.</div> Etta mina nakisin valittujes menestyksen, ja iloitsisin kansas ilossa, ja kerskaisin perimises kanssa.	
 
-6. Me teimme syntia meidan isaimme kanssa: me teimme vaarin, ja olemme olleet jumalattomat.	
+<div class="versenum">6.</div> Me teimme syntia meidan isaimme kanssa: me teimme vaarin, ja olemme olleet jumalattomat.	
 
-7. Ei meidan isamme tahtoneet ymmartaa Egyptissa sinun ihmeitas, eika muistaneet sinun suurta laupiuttas, ja olivat meren tykona tottelemattomat, Punaisen meren tykona.	
+<div class="versenum">7.</div> Ei meidan isamme tahtoneet ymmartaa Egyptissa sinun ihmeitas, eika muistaneet sinun suurta laupiuttas, ja olivat meren tykona tottelemattomat, Punaisen meren tykona.	
 
-8. Kuitenkin autti han heita nimensa tahden, niin etta han voimansa osoitti.	
+<div class="versenum">8.</div> Kuitenkin autti han heita nimensa tahden, niin etta han voimansa osoitti.	
 
-9. Ja han uhkasi Punaista merta, niin se kuivui; ja vei heita syvyyden lavitse, niinkuin korvessa,	
+<div class="versenum">9.</div> Ja han uhkasi Punaista merta, niin se kuivui; ja vei heita syvyyden lavitse, niinkuin korvessa,	
 
-10. Ja vapahti heita niiden kasista, joka heita vihasivat, ja lunasti heita vihollistensa kasista.	
+<div class="versenum">10.</div> Ja vapahti heita niiden kasista, joka heita vihasivat, ja lunasti heita vihollistensa kasista.	
 
-11. Ja vedet peittivat heidan vainollisensa, niin ettei yksikaan elavaksi jaanyt.	
+<div class="versenum">11.</div> Ja vedet peittivat heidan vainollisensa, niin ettei yksikaan elavaksi jaanyt.	
 
-12. Silloin he uskoivat hanen sanansa, ja veisasivat hanen kiitoksensa.	
+<div class="versenum">12.</div> Silloin he uskoivat hanen sanansa, ja veisasivat hanen kiitoksensa.	
 
-13. Mutta he unohtivat pian hanen tyonsa, ja ei ottaneet hanen neuvoansa.	
+<div class="versenum">13.</div> Mutta he unohtivat pian hanen tyonsa, ja ei ottaneet hanen neuvoansa.	
 
-14. He kiehuivat himosta korvessa, ja kiusasivat Jumalaa eramaassa.	
+<div class="versenum">14.</div> He kiehuivat himosta korvessa, ja kiusasivat Jumalaa eramaassa.	
 
-15. Mutta han antoi heille heidan anomisensa, ja lahetti heille laihuuden heidan himonsa tahden.	
+<div class="versenum">15.</div> Mutta han antoi heille heidan anomisensa, ja lahetti heille laihuuden heidan himonsa tahden.	
 
-16. Ja he asettuivat Mosesta vastaan leirissa, Aaronia Herran pyhaa vastaan.	
+<div class="versenum">16.</div> Ja he asettuivat Mosesta vastaan leirissa, Aaronia Herran pyhaa vastaan.	
 
-17. Maa aukeni ja nieli Datanin, ja peitti Abiramin joukon,	
+<div class="versenum">17.</div> Maa aukeni ja nieli Datanin, ja peitti Abiramin joukon,	
 
-18. Ja tuli syttyi heidan joukossansa, ja liekki poltti jumalattomat.	
+<div class="versenum">18.</div> Ja tuli syttyi heidan joukossansa, ja liekki poltti jumalattomat.	
 
-19. He tekivat vasikan Horebissa, ja kumarsivat valettua kuvaa.	
+<div class="versenum">19.</div> He tekivat vasikan Horebissa, ja kumarsivat valettua kuvaa.	
 
-20. Ja he muuttelivat kunniansa harjan muotoon, joka heinia syo.	
+<div class="versenum">20.</div> Ja he muuttelivat kunniansa harjan muotoon, joka heinia syo.	
 
-21. He unohtivat Jumalan, vapahtajansa, joka oli niin suuria toita tehnyt Egyptissa,	
+<div class="versenum">21.</div> He unohtivat Jumalan, vapahtajansa, joka oli niin suuria toita tehnyt Egyptissa,	
 
-22. Ihmeita Hamin maalla, ja peljattavia toita Punaisen meren tykona.	
+<div class="versenum">22.</div> Ihmeita Hamin maalla, ja peljattavia toita Punaisen meren tykona.	
 
-23. Ja han sanoi heita hukuttavansa, ellei Moses hanen valittunsa olisi seisonut siina valissa, ja palauttanut hanen vihaansa, ettei han ratki heita kadottanut.	
+<div class="versenum">23.</div> Ja han sanoi heita hukuttavansa, ellei Moses hanen valittunsa olisi seisonut siina valissa, ja palauttanut hanen vihaansa, ettei han ratki heita kadottanut.	
 
-24. Ja he katsoivat sen ihanan maan ylon, eika uskoneet hanen sanaansa,	
+<div class="versenum">24.</div> Ja he katsoivat sen ihanan maan ylon, eika uskoneet hanen sanaansa,	
 
-25. Ja napisivat majoissansa, eika olleet kuuliaiset Herran aanelle.	
+<div class="versenum">25.</div> Ja napisivat majoissansa, eika olleet kuuliaiset Herran aanelle.	
 
-26. Ja han nosti katensa heita vastaan, maahan lyodaksensa heita korvessa,	
+<div class="versenum">26.</div> Ja han nosti katensa heita vastaan, maahan lyodaksensa heita korvessa,	
 
-27. Ja heittaaksensa heidan siemenensa pakanain sekaan, ja hajoittaaksensa heita maakuntiin.	
+<div class="versenum">27.</div> Ja heittaaksensa heidan siemenensa pakanain sekaan, ja hajoittaaksensa heita maakuntiin.	
 
-28. Ja he ryhtyivat BaalPeoriin, ja soivat kuolleiden (epajumalain) uhreista,	
+<div class="versenum">28.</div> Ja he ryhtyivat BaalPeoriin, ja soivat kuolleiden (epajumalain) uhreista,	
 
-29. Ja vihoittivat hanen toillansa; niin tuli myos rangaistus heidan sekaansa.	
+<div class="versenum">29.</div> Ja vihoittivat hanen toillansa; niin tuli myos rangaistus heidan sekaansa.	
 
-30. Niin Pinehas astui edes, ja lepytti asian, ja rangaistus lakkasi.	
+<div class="versenum">30.</div> Niin Pinehas astui edes, ja lepytti asian, ja rangaistus lakkasi.	
 
-31. Ja se luettiin hanelle vanhurskaudeksi, suvusta sukuun ijankaikkisesti.	
+<div class="versenum">31.</div> Ja se luettiin hanelle vanhurskaudeksi, suvusta sukuun ijankaikkisesti.	
 
-32. Ja vihoittivat hanen riitaveden tykona ja tapahtui Mosekselle pahoin heidan tahtensa;	
+<div class="versenum">32.</div> Ja vihoittivat hanen riitaveden tykona ja tapahtui Mosekselle pahoin heidan tahtensa;	
 
-33. Silla he saattivat hanen sydamensa murheelliseksi, niin etta han sanoissansa eksyi.	
+<div class="versenum">33.</div> Silla he saattivat hanen sydamensa murheelliseksi, niin etta han sanoissansa eksyi.	
 
-34. Ei he hukuttaneet pakanoita, niinkuin Herra heille kaskenyt oli,	
+<div class="versenum">34.</div> Ei he hukuttaneet pakanoita, niinkuin Herra heille kaskenyt oli,	
 
-35. Vaan sekaantuivat pakanain sekaan, ja oppivat heidan toitansa,	
+<div class="versenum">35.</div> Vaan sekaantuivat pakanain sekaan, ja oppivat heidan toitansa,	
 
-36. Ja palvelivat heidan epajumaliansa; ja ne tulivat heille paulaksi.	
+<div class="versenum">36.</div> Ja palvelivat heidan epajumaliansa; ja ne tulivat heille paulaksi.	
 
-37. Ja he uhrasivat poikansa ja tyttarensa perkeleille,	
+<div class="versenum">37.</div> Ja he uhrasivat poikansa ja tyttarensa perkeleille,	
 
-38. Ja vuodattivat viattoman veren, poikainsa ja tyttariensa veren, jotka he uhrasivat Kanaanealaisten epajumalille, niin etta maa veren vioilla turmeltiin,	
+<div class="versenum">38.</div> Ja vuodattivat viattoman veren, poikainsa ja tyttariensa veren, jotka he uhrasivat Kanaanealaisten epajumalille, niin etta maa veren vioilla turmeltiin,	
 
-39. Ja saastuttivat itsensa omissa toissansa, ja tekivat huorin teoissansa.	
+<div class="versenum">39.</div> Ja saastuttivat itsensa omissa toissansa, ja tekivat huorin teoissansa.	
 
-40. Niin julmistui Herran viha kansansa paalle, ja han kauhistui perimistansa,	
+<div class="versenum">40.</div> Niin julmistui Herran viha kansansa paalle, ja han kauhistui perimistansa,	
 
-41. Ja hylkasi ne pakanain kasiin, etta ne vallitsivat heita, jotka heita vihasivat.	
+<div class="versenum">41.</div> Ja hylkasi ne pakanain kasiin, etta ne vallitsivat heita, jotka heita vihasivat.	
 
-42. Ja heidan vihollisensa ahdistivat heita, ja he painettiin heidan katensa alle.	
+<div class="versenum">42.</div> Ja heidan vihollisensa ahdistivat heita, ja he painettiin heidan katensa alle.	
 
-43. Han monesti heita pelasti; mutta he vihoittivat hanen neuvoillansa, ja he painettiin alas pahain tekoinsa tahden.	
+<div class="versenum">43.</div> Han monesti heita pelasti; mutta he vihoittivat hanen neuvoillansa, ja he painettiin alas pahain tekoinsa tahden.	
 
-44. Ja han naki heidan tuskansa, kuin han heidan valituksensa kuuli,	
+<div class="versenum">44.</div> Ja han naki heidan tuskansa, kuin han heidan valituksensa kuuli,	
 
-45. Ja muisti liittonsa, jonka han heidan kanssansa tehnyt oli, ja katui sita suuresta laupiudestansa,	
+<div class="versenum">45.</div> Ja muisti liittonsa, jonka han heidan kanssansa tehnyt oli, ja katui sita suuresta laupiudestansa,	
 
-46. Ja antoi heidan loytaa armon kaikkein edessa, jotka heita vanginneet olivat.	
+<div class="versenum">46.</div> Ja antoi heidan loytaa armon kaikkein edessa, jotka heita vanginneet olivat.	
 
-47. Auta meita, Herra meidan Jumalamme, ja kokoa meita pakanoista, etta kiittaisimme sinun pyhaa nimeas, ja kehuisimme sinun kiitostas.	
+<div class="versenum">47.</div> Auta meita, Herra meidan Jumalamme, ja kokoa meita pakanoista, etta kiittaisimme sinun pyhaa nimeas, ja kehuisimme sinun kiitostas.	
 
-48. Kiitetty olkoon Herra Israelin Jumala, ijankaikkisuudesta niin ijankaikkisuuteen: ja sanokaan kaikki kansa: Amen, Halleluja!	
+<div class="versenum">48.</div> Kiitetty olkoon Herra Israelin Jumala, ijankaikkisuudesta niin ijankaikkisuuteen: ja sanokaan kaikki kansa: Amen, Halleluja!	
 

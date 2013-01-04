@@ -1,50 +1,50 @@
 Joosuan 4	
 	
-1. Ja kun kaikki kansa oli tullut Jordanin yli, puhui Herra Josualle, sanoen:	
+<div class="versenum">1.</div> Ja kun kaikki kansa oli tullut Jordanin yli, puhui Herra Josualle, sanoen:	
 
-2. Ottakaat teillenne kansasta kaksitoistakymmenta miesta, jokaisesta sukukunnasta yksi mies,	
+<div class="versenum">2.</div> Ottakaat teillenne kansasta kaksitoistakymmenta miesta, jokaisesta sukukunnasta yksi mies,	
 
-3. Ja kaskekaat heita, sanoen: ottakaat teille keskelta tata Jordania, siita paikasta, jossa pappein jalat seisovat alallansa, kaksitoistakymmenta kivea, ja viekaat ne kanssanne ylitse ja jattakaat ne siihen majaan, jossa te tata yota pidatte.	
+<div class="versenum">3.</div> Ja kaskekaat heita, sanoen: ottakaat teille keskelta tata Jordania, siita paikasta, jossa pappein jalat seisovat alallansa, kaksitoistakymmenta kivea, ja viekaat ne kanssanne ylitse ja jattakaat ne siihen majaan, jossa te tata yota pidatte.	
 
-4. Niin kutsui Josua kaksitoistakymmenta miesta, jotka han oli valmistanut Israelin lapsista, jokaisesta sukukunnasta yhden miehen.	
+<div class="versenum">4.</div> Niin kutsui Josua kaksitoistakymmenta miesta, jotka han oli valmistanut Israelin lapsista, jokaisesta sukukunnasta yhden miehen.	
 
-5. Ja Josua sanoi heille: menkaat Herran teidan Jumalanne arkin edella keskelle Jordania, ja jokainen nostakaan yhden kiven olallensa, Israelin lasten sukukuntain luvun jalkeen,	
+<div class="versenum">5.</div> Ja Josua sanoi heille: menkaat Herran teidan Jumalanne arkin edella keskelle Jordania, ja jokainen nostakaan yhden kiven olallensa, Israelin lasten sukukuntain luvun jalkeen,	
 
-6. Etta ne olisivat merkiksi teidan seassanne, kuin teidan lapsenne tastedes kysyvat ja sanovat: mihinka namat kivet teille?	
+<div class="versenum">6.</div> Etta ne olisivat merkiksi teidan seassanne, kuin teidan lapsenne tastedes kysyvat ja sanovat: mihinka namat kivet teille?	
 
-7. Etta silloin sanoisitte heille: Jordanin vesi jakausi Herran liitonarkin edesta; sen mennessa Jordanin ylitse jakausi Jordanin vesi; ja namat kivet pitaa oleman Israelin lapsille ijankaikkiseksi muistoksi.	
+<div class="versenum">7.</div> Etta silloin sanoisitte heille: Jordanin vesi jakausi Herran liitonarkin edesta; sen mennessa Jordanin ylitse jakausi Jordanin vesi; ja namat kivet pitaa oleman Israelin lapsille ijankaikkiseksi muistoksi.	
 
-8. Niin Israelin lapset tekivat niinkuin Josua heita kaski, ja kantoivat kaksitoistakymmenta kivea keskelta Jordania, niinkuin Herra oli Josualle sanonut, Israelin lasten sukukuntain luvun jalkeen, ja he veivat ne yli myotansa yosiaan asti ja panivat ne siihen.	
+<div class="versenum">8.</div> Niin Israelin lapset tekivat niinkuin Josua heita kaski, ja kantoivat kaksitoistakymmenta kivea keskelta Jordania, niinkuin Herra oli Josualle sanonut, Israelin lasten sukukuntain luvun jalkeen, ja he veivat ne yli myotansa yosiaan asti ja panivat ne siihen.	
 
-9. Ja Josua pystytti myos kaksitoistakymmenta kivea keskella Jordania, kussa pappein jalat seisoneet olivat, jotka liitonarkkia kantoivat; ja ne ovat siella tahan paivaan asti.	
+<div class="versenum">9.</div> Ja Josua pystytti myos kaksitoistakymmenta kivea keskella Jordania, kussa pappein jalat seisoneet olivat, jotka liitonarkkia kantoivat; ja ne ovat siella tahan paivaan asti.	
 
-10. Ja papit, jotka arkkia kantoivat, seisoivat keskella Jordania, siihenasti kuin kaikki toimitettiin, mita Herra kaski Josuan kansalle sanoa, kaiken sen jalkeen minka Moses Josualle kaskenyt oli; ja kansa kiiruhti itsensa ja kavi ylitse.	
+<div class="versenum">10.</div> Ja papit, jotka arkkia kantoivat, seisoivat keskella Jordania, siihenasti kuin kaikki toimitettiin, mita Herra kaski Josuan kansalle sanoa, kaiken sen jalkeen minka Moses Josualle kaskenyt oli; ja kansa kiiruhti itsensa ja kavi ylitse.	
 
-11. Kuin kaikki kansa oli kaynyt ylitse, meni myos Herran arkki ylitse, ja papit kansan eteen.	
+<div class="versenum">11.</div> Kuin kaikki kansa oli kaynyt ylitse, meni myos Herran arkki ylitse, ja papit kansan eteen.	
 
-12. Ja Rubenilaiset ja Gadilaiset ja puoli Manassen sukukuntaa kavivat aseinensa Israelin lasten edella, niinkuin Moses heille sanonut oli.	
+<div class="versenum">12.</div> Ja Rubenilaiset ja Gadilaiset ja puoli Manassen sukukuntaa kavivat aseinensa Israelin lasten edella, niinkuin Moses heille sanonut oli.	
 
-13. Liki neljakymmenta tuhatta sotaan hankittua kavivat Herran edella sotaan Jerihon kedolle.	
+<div class="versenum">13.</div> Liki neljakymmenta tuhatta sotaan hankittua kavivat Herran edella sotaan Jerihon kedolle.	
 
-14. Sina paivana teki Herra Josuan suureksi koko Israelin edessa; ja he pelkasivat hanta, niinkuin he pelkasivat Mosesta, kaikkena hanen elinaikanansa.	
+<div class="versenum">14.</div> Sina paivana teki Herra Josuan suureksi koko Israelin edessa; ja he pelkasivat hanta, niinkuin he pelkasivat Mosesta, kaikkena hanen elinaikanansa.	
 
-15. Ja Herra puhui Josualle, sanoen:	
+<div class="versenum">15.</div> Ja Herra puhui Josualle, sanoen:	
 
-16. Kaske pappein, jotka kantavat todistuksen arkkia, astua Jordanista ylos.	
+<div class="versenum">16.</div> Kaske pappein, jotka kantavat todistuksen arkkia, astua Jordanista ylos.	
 
-17. Niin kaski Josua pappeja, ja sanoi: astukaat ylos Jordanista.	
+<div class="versenum">17.</div> Niin kaski Josua pappeja, ja sanoi: astukaat ylos Jordanista.	
 
-18. Ja kuin papit, jotka Herran liitonarkkia kantoivat, astuivat Jordanista ylos, ja pappein jalat kavivat ylos kuivalle maalle, niin tulivat Jordanin vedet siallensa ja juoksivat niinkuin ennenkin parrastensa yli.	
+<div class="versenum">18.</div> Ja kuin papit, jotka Herran liitonarkkia kantoivat, astuivat Jordanista ylos, ja pappein jalat kavivat ylos kuivalle maalle, niin tulivat Jordanin vedet siallensa ja juoksivat niinkuin ennenkin parrastensa yli.	
 
-19. Ja se oli kymmenes paiva ensimaisessa kuussa, kuin kansa astui Jordanista ylos, ja siottivat itsensa Gilgalissa idan puolella Jerihoa.	
+<div class="versenum">19.</div> Ja se oli kymmenes paiva ensimaisessa kuussa, kuin kansa astui Jordanista ylos, ja siottivat itsensa Gilgalissa idan puolella Jerihoa.	
 
-20. Ja ne kaksitoistakymmenta kivea, jotka he ottivat Jordanista, pani Josua Gilgalissa pystyalle.	
+<div class="versenum">20.</div> Ja ne kaksitoistakymmenta kivea, jotka he ottivat Jordanista, pani Josua Gilgalissa pystyalle.	
 
-21. Ja han puhui Israelin lapsille, sanoen: kuin teidan lapsenne tastedes kysyvat isiltansa, ja sanovat: mihinka namat kivet?	
+<div class="versenum">21.</div> Ja han puhui Israelin lapsille, sanoen: kuin teidan lapsenne tastedes kysyvat isiltansa, ja sanovat: mihinka namat kivet?	
 
-22. Niin antakaat lastenne tietaa, sanoen: Israel kavi kuivalla taman Jordanin yli.	
+<div class="versenum">22.</div> Niin antakaat lastenne tietaa, sanoen: Israel kavi kuivalla taman Jordanin yli.	
 
-23. Kuin Herra teidan Jumalanne kuivasi Jordanin vedet teidan edestanne, niinkauvan kuin te kavitte sen ylitse, niinkuin Herra teidan Jumalanne teki Punaisessa meressa, jonka han kuivasi meidan edestamme, siihenasti etta me kavimme sen ylitse;	
+<div class="versenum">23.</div> Kuin Herra teidan Jumalanne kuivasi Jordanin vedet teidan edestanne, niinkauvan kuin te kavitte sen ylitse, niinkuin Herra teidan Jumalanne teki Punaisessa meressa, jonka han kuivasi meidan edestamme, siihenasti etta me kavimme sen ylitse;	
 
-24. Etta kaikki kansat maan paalla tuntisivat Herran kaden, kuinka vakeva se on, etta te pelkaisitte aina Herraa teidan Jumalaanne.	
+<div class="versenum">24.</div> Etta kaikki kansat maan paalla tuntisivat Herran kaden, kuinka vakeva se on, etta te pelkaisitte aina Herraa teidan Jumalaanne.	
 

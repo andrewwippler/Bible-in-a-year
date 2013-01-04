@@ -1,62 +1,62 @@
 Jesajan 5	
 	
-1. Mina veisaan ystavasta, ystavani veisun hanen viinamaestansa. Ystavallani on viinamaki lihavassa paikassa.	
+<div class="versenum">1.</div> Mina veisaan ystavasta, ystavani veisun hanen viinamaestansa. Ystavallani on viinamaki lihavassa paikassa.	
 
-2. Ja han aitasi sen ymparinsa, ja perkasi kivet pois, ja istutti parhaat viinapuut, ja rakensi myos siihen tornin, ja pani sinne viinakuurnan, ja odotti sen viinamarjoja kantavan; vaan se kantoi pahoja marjoja.	
+<div class="versenum">2.</div> Ja han aitasi sen ymparinsa, ja perkasi kivet pois, ja istutti parhaat viinapuut, ja rakensi myos siihen tornin, ja pani sinne viinakuurnan, ja odotti sen viinamarjoja kantavan; vaan se kantoi pahoja marjoja.	
 
-3. Te Jerusalemin asujat ja Juudan miehet, tuomitkaat siis nyt minun ja viinamakeni valilla.	
+<div class="versenum">3.</div> Te Jerusalemin asujat ja Juudan miehet, tuomitkaat siis nyt minun ja viinamakeni valilla.	
 
-4. Mita olis enempi viinamaelleni tekemista, jota en mina hanessa tehnyt ole? Miksi han kantoi pahoja marjoja, kuin mina odotin hanen viinamarjoja kantavan?	
+<div class="versenum">4.</div> Mita olis enempi viinamaelleni tekemista, jota en mina hanessa tehnyt ole? Miksi han kantoi pahoja marjoja, kuin mina odotin hanen viinamarjoja kantavan?	
 
-5. Ja nyt mina tahdon teille ilmoittaa, mita mina tahdon viinamaelleni tehda: hanen aitansa pitaa otettaman pois, etta hanen pitaa autiona oleman, ja hanen muurinsa pitaa sarjettaman, etta han tallattaisiin.	
+<div class="versenum">5.</div> Ja nyt mina tahdon teille ilmoittaa, mita mina tahdon viinamaelleni tehda: hanen aitansa pitaa otettaman pois, etta hanen pitaa autiona oleman, ja hanen muurinsa pitaa sarjettaman, etta han tallattaisiin.	
 
-6. Mina tahdon sen saattaa autioksi, ettei kenkaan pida hanessa leikkaaman eli kaivaman, vaan ohdakkeita ja orjantappuroita pitaa hanessa kasvaman: ja tahdon pilvia kieltaa satamasta hanen paallensa.	
+<div class="versenum">6.</div> Mina tahdon sen saattaa autioksi, ettei kenkaan pida hanessa leikkaaman eli kaivaman, vaan ohdakkeita ja orjantappuroita pitaa hanessa kasvaman: ja tahdon pilvia kieltaa satamasta hanen paallensa.	
 
-7. Mutta Herran Zebaotin viinamaki on Israelin huone, ja Juudan miehet hanen suloinen istuttamansa. Han odottaa oikeutta, ja katso, ei ole muuta kuin vakivaltaa, vanhurskautta, niin on sula valitus.	
+<div class="versenum">7.</div> Mutta Herran Zebaotin viinamaki on Israelin huone, ja Juudan miehet hanen suloinen istuttamansa. Han odottaa oikeutta, ja katso, ei ole muuta kuin vakivaltaa, vanhurskautta, niin on sula valitus.	
 
-8. Voi niita, jotka yhden huoneen toisen tyko vetavat, ja yhden pellon toisen tyko saattavat, siihen asti ettei enaa siaa ole, asuaksenne yksinanne maan paalla!	
+<div class="versenum">8.</div> Voi niita, jotka yhden huoneen toisen tyko vetavat, ja yhden pellon toisen tyko saattavat, siihen asti ettei enaa siaa ole, asuaksenne yksinanne maan paalla!	
 
-9. Nama ovat (sanoo) Herra Zebaot minun korvilleni tulleet: mitamaks, ellei ne monet huoneet tule kylmille, ja ne suuret ja kauniit jaa ilman asujia;	
+<div class="versenum">9.</div> Nama ovat (sanoo) Herra Zebaot minun korvilleni tulleet: mitamaks, ellei ne monet huoneet tule kylmille, ja ne suuret ja kauniit jaa ilman asujia;	
 
-10. Silla kymmenen viinamaen sarkaa pitaa vaivoin yhden batin antaman; ja gomer siemenia tekee ainoastaan ephan.	
+<div class="versenum">10.</div> Silla kymmenen viinamaen sarkaa pitaa vaivoin yhden batin antaman; ja gomer siemenia tekee ainoastaan ephan.	
 
-11. Voi niita, jotka varhain huomeneltain ylhaalla ovat, juopumusta noutelemaan, ja istuvat hamaan yohon asti, etta he viinasta palavaksi tulisivat!	
+<div class="versenum">11.</div> Voi niita, jotka varhain huomeneltain ylhaalla ovat, juopumusta noutelemaan, ja istuvat hamaan yohon asti, etta he viinasta palavaksi tulisivat!	
 
-12. Joilla ovat kanteleet, harput, rummut, huilut, ja viinaa heidan pidoissansa; ja ei katso Herran tekoa, eika tottele hanen kasialaansa.	
+<div class="versenum">12.</div> Joilla ovat kanteleet, harput, rummut, huilut, ja viinaa heidan pidoissansa; ja ei katso Herran tekoa, eika tottele hanen kasialaansa.	
 
-13. Sentahden pitaa minun kansani vietaman vankeuteen, ettei heilla ole ymmarrysta; ja hanen kunniallistensa taytyy nalkaa karsia, ja heidan yhteinen kansansa kuivua janoon.	
+<div class="versenum">13.</div> Sentahden pitaa minun kansani vietaman vankeuteen, ettei heilla ole ymmarrysta; ja hanen kunniallistensa taytyy nalkaa karsia, ja heidan yhteinen kansansa kuivua janoon.	
 
-14. Sita varten on helvetti sielunsa lavialta avannut, ja hanen kitansa on ammollansa ilman maaraa, menna sinne alas seka heidan kunniallisensa etta yhteisen kansansa, seka heidan rikkaansa etta riemullisensa;	
+<div class="versenum">14.</div> Sita varten on helvetti sielunsa lavialta avannut, ja hanen kitansa on ammollansa ilman maaraa, menna sinne alas seka heidan kunniallisensa etta yhteisen kansansa, seka heidan rikkaansa etta riemullisensa;	
 
-15. Etta jokainen itsensa notkistais ja kukin noyryytettaisiin; ja koreiden silmat myos noyryytetyksi tulisivat.	
+<div class="versenum">15.</div> Etta jokainen itsensa notkistais ja kukin noyryytettaisiin; ja koreiden silmat myos noyryytetyksi tulisivat.	
 
-16. Mutta Herra Zebaot pitaa tuomiossa ylistettaman, ja pyha Jumala pitaa vanhurskaudessa pyhitettavan.	
+<div class="versenum">16.</div> Mutta Herra Zebaot pitaa tuomiossa ylistettaman, ja pyha Jumala pitaa vanhurskaudessa pyhitettavan.	
 
-17. Silloin pitaa lampaat tavallansa kaittaman, ja muukalaiset pitaa itsensa elattaman lihavain aukiudessa.	
+<div class="versenum">17.</div> Silloin pitaa lampaat tavallansa kaittaman, ja muukalaiset pitaa itsensa elattaman lihavain aukiudessa.	
 
-18. Voi niita, jotka itsensa sitovat valheen nuoralla yhteen vaaryytta tekemaan, ja niinkuin ratasten koydella syntia tekemaan!	
+<div class="versenum">18.</div> Voi niita, jotka itsensa sitovat valheen nuoralla yhteen vaaryytta tekemaan, ja niinkuin ratasten koydella syntia tekemaan!	
 
-19. Ja sanovat: anna hanen tekonsa rientaa ja pian tulla, sita nahdaksemme: lahestykoon ja tulkoon Israelin pyhan aivoitus, etta me sen tietaisimme.	
+<div class="versenum">19.</div> Ja sanovat: anna hanen tekonsa rientaa ja pian tulla, sita nahdaksemme: lahestykoon ja tulkoon Israelin pyhan aivoitus, etta me sen tietaisimme.	
 
-20. Voi niita, jotka pahan hyvaksi ja hyvan pahaksi sanovat; jotka pimeydesta valkeuden, ja valkeudesta pimeyden tekevat, jotka karvaasta makian, ja makiasta karvaan tekevat.	
+<div class="versenum">20.</div> Voi niita, jotka pahan hyvaksi ja hyvan pahaksi sanovat; jotka pimeydesta valkeuden, ja valkeudesta pimeyden tekevat, jotka karvaasta makian, ja makiasta karvaan tekevat.	
 
-21. Voi niita, jotka viisaat olevinansa ovat, ja itsensa toimellisina pitavat!	
+<div class="versenum">21.</div> Voi niita, jotka viisaat olevinansa ovat, ja itsensa toimellisina pitavat!	
 
-22. Voi niita, jotka jalot ovat viinaa juomaan, ja juomassa kilvoittelevat!	
+<div class="versenum">22.</div> Voi niita, jotka jalot ovat viinaa juomaan, ja juomassa kilvoittelevat!	
 
-23. Jotka jumalattoman lahjain tahden vanhurskauttavat, ja kaantavat vanhurskasten oikeuden pois heilta:	
+<div class="versenum">23.</div> Jotka jumalattoman lahjain tahden vanhurskauttavat, ja kaantavat vanhurskasten oikeuden pois heilta:	
 
-24. Sentahden niinkuin tulen hehku korren kuluttaa, ja liekki sivaltaa akanat pois: aivan niin pitaa heidan juurensa mataneman, ja heidan vesansa hajooman pois niinkuin tomu; silla he katsovat Herran Zebaotin lain ylon, ja pilkkaavat Israelin pyhan sanat.	
+<div class="versenum">24.</div> Sentahden niinkuin tulen hehku korren kuluttaa, ja liekki sivaltaa akanat pois: aivan niin pitaa heidan juurensa mataneman, ja heidan vesansa hajooman pois niinkuin tomu; silla he katsovat Herran Zebaotin lain ylon, ja pilkkaavat Israelin pyhan sanat.	
 
-25. Sentahden Herran viha julmistuu kansansa paalle, ja han ojentaa katensa heidan paallensa, ja lyo heita, niin etta vuoret vapisevat ja heidan ruumiinsa on niinkuin loka kadulla. Ja kaikissa naissa ei hanen vihansa lakkaa, vaan hanen katensa on viela ojennettu.	
+<div class="versenum">25.</div> Sentahden Herran viha julmistuu kansansa paalle, ja han ojentaa katensa heidan paallensa, ja lyo heita, niin etta vuoret vapisevat ja heidan ruumiinsa on niinkuin loka kadulla. Ja kaikissa naissa ei hanen vihansa lakkaa, vaan hanen katensa on viela ojennettu.	
 
-26. Silla han nostaa lipun ylos kaukana pakanain seassa, ja viheltaa niille maan aarista: ja katso, he tulevat akisti ja nopiasti.	
+<div class="versenum">26.</div> Silla han nostaa lipun ylos kaukana pakanain seassa, ja viheltaa niille maan aarista: ja katso, he tulevat akisti ja nopiasti.	
 
-27. Ei ole kenkaan heista vasynyt eli heikko, eika kenkaan torku eli makaa; ei myos paasta kenkaan vyota lanteestansa, eika kenenkaan kenganrihmoja rikota.	
+<div class="versenum">27.</div> Ei ole kenkaan heista vasynyt eli heikko, eika kenkaan torku eli makaa; ei myos paasta kenkaan vyota lanteestansa, eika kenenkaan kenganrihmoja rikota.	
 
-28. Silla heidan nuolensa ovat teravat, ja kaikki heidan joutsensa jannitetyt; heidan orittensa kaviot ovat niinkuin limsia, ja heidan ratastensa pyorat niinkuin tuulispaa.	
+<div class="versenum">28.</div> Silla heidan nuolensa ovat teravat, ja kaikki heidan joutsensa jannitetyt; heidan orittensa kaviot ovat niinkuin limsia, ja heidan ratastensa pyorat niinkuin tuulispaa.	
 
-29. He kiljuvat niinkuin jalopeurat, ja kiljuvat niinkuin nuoret jalopeurat. He kilistelevat ja tempaavat saaliin, ja omistavat sen, ettei kenkaan sita saa jalleen.	
+<div class="versenum">29.</div> He kiljuvat niinkuin jalopeurat, ja kiljuvat niinkuin nuoret jalopeurat. He kilistelevat ja tempaavat saaliin, ja omistavat sen, ettei kenkaan sita saa jalleen.	
 
-30. Ja silloin pauhataan heidan ylitsensa niinkuin meri pauhaa. Koska silloin katsotaan maan paalle, katso, niin on pimeys ahdistuksesta, ja ei valkeus paista silleen heidan ylitsensa.	
+<div class="versenum">30.</div> Ja silloin pauhataan heidan ylitsensa niinkuin meri pauhaa. Koska silloin katsotaan maan paalle, katso, niin on pimeys ahdistuksesta, ja ei valkeus paista silleen heidan ylitsensa.	
 

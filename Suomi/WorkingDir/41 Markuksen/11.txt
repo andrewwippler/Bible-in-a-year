@@ -1,68 +1,68 @@
 Markuksen 11	
 	
-1. Ja kuin he lahestyivat Jerusalemia, Betphageen ja Betaniaan, Oljymaen tyko, lahetti han kaksi opetuslapsistansa,	
+<div class="versenum">1.</div> Ja kuin he lahestyivat Jerusalemia, Betphageen ja Betaniaan, Oljymaen tyko, lahetti han kaksi opetuslapsistansa,	
 
-2. Ja sanoi heille: menkaat kylaan, joka on teidan edessanne, ja kohta kuin te siihen tulette sisalle, loydatte te varsan sidottuna, jonka paalla ei yksikaan ihminen istunut ole; paastakaat se ja tuokaat tanne.	
+<div class="versenum">2.</div> Ja sanoi heille: menkaat kylaan, joka on teidan edessanne, ja kohta kuin te siihen tulette sisalle, loydatte te varsan sidottuna, jonka paalla ei yksikaan ihminen istunut ole; paastakaat se ja tuokaat tanne.	
 
-3. Ja jos joku teille sanoo: miksi te sen teette? niin sanokaat: Herra sita tarvitsee; ja kohta han laskee hanen tanne.	
+<div class="versenum">3.</div> Ja jos joku teille sanoo: miksi te sen teette? niin sanokaat: Herra sita tarvitsee; ja kohta han laskee hanen tanne.	
 
-4. Niin he menivat, ja loysivat varsan sidottuna ulkona oven tykona tien haarassa, ja he paastivat sen vallallensa.	
+<div class="versenum">4.</div> Niin he menivat, ja loysivat varsan sidottuna ulkona oven tykona tien haarassa, ja he paastivat sen vallallensa.	
 
-5. Ja muutamat niista, jotka siella seisoivat, sanoivat heille: mita te teette, etta te varsan paastatte?	
+<div class="versenum">5.</div> Ja muutamat niista, jotka siella seisoivat, sanoivat heille: mita te teette, etta te varsan paastatte?	
 
-6. Mutta he sanoivat heille, niinkuin Jesus oli kaskenyt; niin he paastivat heidat.	
+<div class="versenum">6.</div> Mutta he sanoivat heille, niinkuin Jesus oli kaskenyt; niin he paastivat heidat.	
 
-7. Ja he toivat varsan Jesuksen tyko ja heittivat vaatteensa sen paalle, ja han istui sen paalle.	
+<div class="versenum">7.</div> Ja he toivat varsan Jesuksen tyko ja heittivat vaatteensa sen paalle, ja han istui sen paalle.	
 
-8. Mutta moni hajoitti vaatteensa tielle, ja ne muut karsivat oksia puista ja hajoittivat tielle.	
+<div class="versenum">8.</div> Mutta moni hajoitti vaatteensa tielle, ja ne muut karsivat oksia puista ja hajoittivat tielle.	
 
-9. Ja jotka edella kavivat ja myos seurasivat, huusivat, sanoen: hosianna, hyvasti siunattu olkoon se, joka tulee Herran nimeen!	
+<div class="versenum">9.</div> Ja jotka edella kavivat ja myos seurasivat, huusivat, sanoen: hosianna, hyvasti siunattu olkoon se, joka tulee Herran nimeen!	
 
-10. Hyvasti siunattu olkoon Davidin meidan isan valtakunta, joka tulee Herran nimeen: hosianna korkeudessa!	
+<div class="versenum">10.</div> Hyvasti siunattu olkoon Davidin meidan isan valtakunta, joka tulee Herran nimeen: hosianna korkeudessa!	
 
-11. Ja Jesus meni Jerusalemiin ja templiin, ja kuin han kaikki ympari katseli, koska jo ehtooaika oli, laksi han ulos Betaniaan kahdentoistakymmenen kanssa.	
+<div class="versenum">11.</div> Ja Jesus meni Jerusalemiin ja templiin, ja kuin han kaikki ympari katseli, koska jo ehtooaika oli, laksi han ulos Betaniaan kahdentoistakymmenen kanssa.	
 
-12. Ja toisena paivana, kuin he Betaniasta laksivat, isosi han,	
+<div class="versenum">12.</div> Ja toisena paivana, kuin he Betaniasta laksivat, isosi han,	
 
-13. Ja naki taampana fikunapuun, jolla olivat lehdet, niin han meni lahes, jos han jotakin hanesta loytanyt olis. Ja kuin han tuli tyko, ei han muuta loytanyt kuin lehtia; silla ei ollut viela fikunain aika.	
+<div class="versenum">13.</div> Ja naki taampana fikunapuun, jolla olivat lehdet, niin han meni lahes, jos han jotakin hanesta loytanyt olis. Ja kuin han tuli tyko, ei han muuta loytanyt kuin lehtia; silla ei ollut viela fikunain aika.	
 
-14. Ja Jesus vastaten sanoi hanelle: alkoon tastedeskaan kenkaan sinusta syoko hedelmaa ijankaikkisesti. Ja hanen opetuslapsensa kuulivat sen.	
+<div class="versenum">14.</div> Ja Jesus vastaten sanoi hanelle: alkoon tastedeskaan kenkaan sinusta syoko hedelmaa ijankaikkisesti. Ja hanen opetuslapsensa kuulivat sen.	
 
-15. Ja he tulivat Jerusalemiin. Ja Jesus meni templiin, rupesi ajamaan ulos kaupitsioita ja ostajia templissa, ja vaihettajain poydat ja kyhkylaisten myyjain istuimet han kukisti.	
+<div class="versenum">15.</div> Ja he tulivat Jerusalemiin. Ja Jesus meni templiin, rupesi ajamaan ulos kaupitsioita ja ostajia templissa, ja vaihettajain poydat ja kyhkylaisten myyjain istuimet han kukisti.	
 
-16. Ei han myos sallinut jonkun kantaa astiaa templin lavitse.	
+<div class="versenum">16.</div> Ei han myos sallinut jonkun kantaa astiaa templin lavitse.	
 
-17. Ja han opetti, sanoen heille: eiko kirjoitettu ole: minun huoneeni pitaa kutsuttaman rukoushuoneeksi kaikille kansoille? mutta te olette sen tehneet ryovarien luolaksi.	
+<div class="versenum">17.</div> Ja han opetti, sanoen heille: eiko kirjoitettu ole: minun huoneeni pitaa kutsuttaman rukoushuoneeksi kaikille kansoille? mutta te olette sen tehneet ryovarien luolaksi.	
 
-18. Ja kirjanoppineet ja pappein paamiehet kuulivat sen, ja etsivat, kuinka he olisivat hanen hukuttaneet; silla he pelkasivat hanta, etta kaikki kansa hammastyi hanen oppiansa.	
+<div class="versenum">18.</div> Ja kirjanoppineet ja pappein paamiehet kuulivat sen, ja etsivat, kuinka he olisivat hanen hukuttaneet; silla he pelkasivat hanta, etta kaikki kansa hammastyi hanen oppiansa.	
 
-19. Ja kuin ehtoo tuli, meni Jesus ulos kaupungista.	
+<div class="versenum">19.</div> Ja kuin ehtoo tuli, meni Jesus ulos kaupungista.	
 
-20. Ja kuin he aamulla kavivat ohitse, nakivat he fikunapuun kuivettuneen juurinensa.	
+<div class="versenum">20.</div> Ja kuin he aamulla kavivat ohitse, nakivat he fikunapuun kuivettuneen juurinensa.	
 
-21. Ja Pietari muisti, ja sanoi hanelle: Rabbi, katso, fikunapuu, jotas kirosit, on kuivettunut.	
+<div class="versenum">21.</div> Ja Pietari muisti, ja sanoi hanelle: Rabbi, katso, fikunapuu, jotas kirosit, on kuivettunut.	
 
-22. Niin vastasi Jesus ja sanoi heille: pitakaat usko Jumalan paalle.	
+<div class="versenum">22.</div> Niin vastasi Jesus ja sanoi heille: pitakaat usko Jumalan paalle.	
 
-23. Silla totisesti sanon mina teille: jokainen, joka talle vuorelle sanois: siirra itses ja kukistu mereen! eika epailisi sydamessansa, vaan uskois ne tapahtuvan mita han sanoo; niin hanelle tapahtuu, mita han sanoo.	
+<div class="versenum">23.</div> Silla totisesti sanon mina teille: jokainen, joka talle vuorelle sanois: siirra itses ja kukistu mereen! eika epailisi sydamessansa, vaan uskois ne tapahtuvan mita han sanoo; niin hanelle tapahtuu, mita han sanoo.	
 
-24. Sentahden sanon mina teille: kaikki, mita te rukoillen anotte, se uskokaat saavanne; niin se tapahtuu teille.	
+<div class="versenum">24.</div> Sentahden sanon mina teille: kaikki, mita te rukoillen anotte, se uskokaat saavanne; niin se tapahtuu teille.	
 
-25. Ja kuin te seisotte ja rukoilette, niin anteeksi antakaat, jos teilla on jotakin jotakuta vastaan, etta myos teidan Isanne, joka on taivaissa, antais teille anteeksi teidan rikoksenne.	
+<div class="versenum">25.</div> Ja kuin te seisotte ja rukoilette, niin anteeksi antakaat, jos teilla on jotakin jotakuta vastaan, etta myos teidan Isanne, joka on taivaissa, antais teille anteeksi teidan rikoksenne.	
 
-26. Mutta jos ette anteeksi anna, ei myos teidan Isanne, joka on taivaissa, anna anteeksi teidan rikoksianne.	
+<div class="versenum">26.</div> Mutta jos ette anteeksi anna, ei myos teidan Isanne, joka on taivaissa, anna anteeksi teidan rikoksianne.	
 
-27. Ja he tulivat taas Jerusalemiin; ja kuin han kaveli templissa, tulivat hanen tykonsa pappein paamiehet, kirjanoppineet ja vanhimmat,	
+<div class="versenum">27.</div> Ja he tulivat taas Jerusalemiin; ja kuin han kaveli templissa, tulivat hanen tykonsa pappein paamiehet, kirjanoppineet ja vanhimmat,	
 
-28. Ja sanoivat hanelle: milla voimalla sina naita teet? ja kuka antoi sinulle sen voiman, ettas naita teet?	
+<div class="versenum">28.</div> Ja sanoivat hanelle: milla voimalla sina naita teet? ja kuka antoi sinulle sen voiman, ettas naita teet?	
 
-29. Mutta Jesus vastaten sanoi heille: mina myos kysyn teilta yhden sanan: vastatkaat siis minua, niin minakin sanon teille, milla voimalla mina naita teen:	
+<div class="versenum">29.</div> Mutta Jesus vastaten sanoi heille: mina myos kysyn teilta yhden sanan: vastatkaat siis minua, niin minakin sanon teille, milla voimalla mina naita teen:	
 
-30. Johanneksen kaste, oliko se taivaasta, eli ihmisilta? vastatkaat minua.	
+<div class="versenum">30.</div> Johanneksen kaste, oliko se taivaasta, eli ihmisilta? vastatkaat minua.	
 
-31. Niin he ajattelivat keskenansa, sanoen: jos me sanomme: taivaasta, niin han sanoo: miksi ette siis hanta uskoneet?	
+<div class="versenum">31.</div> Niin he ajattelivat keskenansa, sanoen: jos me sanomme: taivaasta, niin han sanoo: miksi ette siis hanta uskoneet?	
 
-32. Mutta jos me sanomme: ihmisilta, niin me pelkaamme kansaa: silla kaikki pitivat Johanneksen totisena prophetana.	
+<div class="versenum">32.</div> Mutta jos me sanomme: ihmisilta, niin me pelkaamme kansaa: silla kaikki pitivat Johanneksen totisena prophetana.	
 
-33. Ja he vastasivat, sanoen Jesukselle: emme tieda. Ja Jesus vastasi ja sanoi heille: en minakaan sano teille, milla voimalla mina naita teen.	
+<div class="versenum">33.</div> Ja he vastasivat, sanoen Jesukselle: emme tieda. Ja Jesus vastasi ja sanoi heille: en minakaan sano teille, milla voimalla mina naita teen.	
 

@@ -1,38 +1,38 @@
 2 Aikakirja 2	
 	
-1. Ja Salomo aikoi rakentaa Herran nimelle huoneen ja myos valtakunnallensa huonetta.	
+<div class="versenum">1.</div> Ja Salomo aikoi rakentaa Herran nimelle huoneen ja myos valtakunnallensa huonetta.	
 
-2. Ja Salomo luki seitsemankymmenta tuhatta miesta kuormain kantajiksi ja kahdeksankymmenta tuhatta hirtten hakkaajiksi vuorille, ja kolmetuhatta ja kuusisataa teettajaa heidan ylitsensa.	
+<div class="versenum">2.</div> Ja Salomo luki seitsemankymmenta tuhatta miesta kuormain kantajiksi ja kahdeksankymmenta tuhatta hirtten hakkaajiksi vuorille, ja kolmetuhatta ja kuusisataa teettajaa heidan ylitsensa.	
 
-3. Ja Salomo lahetti kuningas Hiramin tyko Tyroon ja kaski hanelle sanoa: niinkuin sina minun isani Davidin kanssa teit ja lahetit hanelle sedripuita, rakentaaksensa itsellensa huonetta, jossa hanen asuman piti:	
+<div class="versenum">3.</div> Ja Salomo lahetti kuningas Hiramin tyko Tyroon ja kaski hanelle sanoa: niinkuin sina minun isani Davidin kanssa teit ja lahetit hanelle sedripuita, rakentaaksensa itsellensa huonetta, jossa hanen asuman piti:	
 
-4. Katso, mina rakennan Herran minun Jumalani nimelle huoneen, etta se hanelle pyhitettaisiin, suitsutettaa hyvan hajun uhria hanen edessansa, ja aina valmistettaa nakyleipia ja polttouhria, aamulla ja ehtoolla, lepopaivina ja uusilla kuilla, ja Herran meidan Jumalamme juhlina: ijankaikkisesti pitaa tama oleman Israelin edessa.	
+<div class="versenum">4.</div> Katso, mina rakennan Herran minun Jumalani nimelle huoneen, etta se hanelle pyhitettaisiin, suitsutettaa hyvan hajun uhria hanen edessansa, ja aina valmistettaa nakyleipia ja polttouhria, aamulla ja ehtoolla, lepopaivina ja uusilla kuilla, ja Herran meidan Jumalamme juhlina: ijankaikkisesti pitaa tama oleman Israelin edessa.	
 
-5. Ja huone, jonka mina rakennan, pitaa oleman suuri; silla meidan Jumalamme on suurempi kaikkia jumalia.	
+<div class="versenum">5.</div> Ja huone, jonka mina rakennan, pitaa oleman suuri; silla meidan Jumalamme on suurempi kaikkia jumalia.	
 
-6. Mutta kuka on niin voimallinen, etta han rakentaa hanelle huoneen? silla taivaat ja taivasten taivaat ei taida kasittaa hanta: mika siis mina olen rakentamaan hanelle huonetta? mutta ainoastaan suitsuttamaan hanen edessansa.	
+<div class="versenum">6.</div> Mutta kuka on niin voimallinen, etta han rakentaa hanelle huoneen? silla taivaat ja taivasten taivaat ei taida kasittaa hanta: mika siis mina olen rakentamaan hanelle huonetta? mutta ainoastaan suitsuttamaan hanen edessansa.	
 
-7. Niin laheta nyt minulle taitava mies tyota tekemaan kullasta, hopiasta, vaskesta, raudasta, purpurasta, tulipunaisista ja sinisista villoista, ja joka taitaa kaivaa, taitavain kanssa, jotka minun tykonani ovat Juudassa ja Jerusalemissa, jotka minun isani David on valmistanut.	
+<div class="versenum">7.</div> Niin laheta nyt minulle taitava mies tyota tekemaan kullasta, hopiasta, vaskesta, raudasta, purpurasta, tulipunaisista ja sinisista villoista, ja joka taitaa kaivaa, taitavain kanssa, jotka minun tykonani ovat Juudassa ja Jerusalemissa, jotka minun isani David on valmistanut.	
 
-8. Ja laheta minulle sedripuita ja honkia, ja Heben puita Libanonista; silla mina tiedan sinun palvelias taitavan hakata puita Libanonissa. Ja katso, minun palveliani pitaa oleman sinun palveliais kanssa,	
+<div class="versenum">8.</div> Ja laheta minulle sedripuita ja honkia, ja Heben puita Libanonista; silla mina tiedan sinun palvelias taitavan hakata puita Libanonissa. Ja katso, minun palveliani pitaa oleman sinun palveliais kanssa,	
 
-9. Etta he valmistaisivat minulle paljon puita; silla huone, jonka mina rakennan, pitaa oleman suuri ja ihmeellinen.	
+<div class="versenum">9.</div> Etta he valmistaisivat minulle paljon puita; silla huone, jonka mina rakennan, pitaa oleman suuri ja ihmeellinen.	
 
-10. Ja katso, mina annan sinun palvelioilles, hirsimiehille, jotka puita hakkaavat, kaksikymmenta tuhatta koria survottuja nisuja, kaksikymmenta tuhatta koria ohria, ja kaksikymmenta tuhatta batia viinaa, ja kaksikymmenta tuhatta batia oljya.	
+<div class="versenum">10.</div> Ja katso, mina annan sinun palvelioilles, hirsimiehille, jotka puita hakkaavat, kaksikymmenta tuhatta koria survottuja nisuja, kaksikymmenta tuhatta koria ohria, ja kaksikymmenta tuhatta batia viinaa, ja kaksikymmenta tuhatta batia oljya.	
 
-11. Ja Hiram Tyron kuningas vastasi kirjoituksella ja lahetti Salomolle: koska Herra rakastaa kansaansa, on han sinun tehnyt heidan kuninkaaksensa.	
+<div class="versenum">11.</div> Ja Hiram Tyron kuningas vastasi kirjoituksella ja lahetti Salomolle: koska Herra rakastaa kansaansa, on han sinun tehnyt heidan kuninkaaksensa.	
 
-12. Ja Hiram sanoi viela: kiitetty olkoon Herra Israelin Jumala, joka taivaan ja maan tehnyt on, etta han on antanut kuningas Davidille viisaan, toimellisen ja ymmartavaisen pojan, joka Herralle huoneen rakentaa ja valtakunnallensa huoneen!	
+<div class="versenum">12.</div> Ja Hiram sanoi viela: kiitetty olkoon Herra Israelin Jumala, joka taivaan ja maan tehnyt on, etta han on antanut kuningas Davidille viisaan, toimellisen ja ymmartavaisen pojan, joka Herralle huoneen rakentaa ja valtakunnallensa huoneen!	
 
-13. Niin lahetan mina nyt taitavan ja toimellisen miehen, jolla ymmarrys on, nimittain Huramabin,	
+<div class="versenum">13.</div> Niin lahetan mina nyt taitavan ja toimellisen miehen, jolla ymmarrys on, nimittain Huramabin,	
 
-14. Joka on vaimon poika Danin tyttarista, ja hanen isansa on ollut Tyrolainen; han taitaa tyota tehda kullasta, hopiasta, vaskesta, raudasta, kivesta, puusta, purpurasta, sinisista villoista, kalliista liinasta, tulipunaisesta, ja kaikkinaisia kaivaa, ja ajatella ylos kaikkinaisia taitavasti, mita hanen eteensa pannaan, sinun taitavais kanssa ja herrani kuningas Davidin sinun isas taitavain kanssa.	
+<div class="versenum">14.</div> Joka on vaimon poika Danin tyttarista, ja hanen isansa on ollut Tyrolainen; han taitaa tyota tehda kullasta, hopiasta, vaskesta, raudasta, kivesta, puusta, purpurasta, sinisista villoista, kalliista liinasta, tulipunaisesta, ja kaikkinaisia kaivaa, ja ajatella ylos kaikkinaisia taitavasti, mita hanen eteensa pannaan, sinun taitavais kanssa ja herrani kuningas Davidin sinun isas taitavain kanssa.	
 
-15. Niin lahettakaan nyt herrani nisuja, ohria, oljya ja viinaa palvelioillensa, niinkuin han on sanonut;	
+<div class="versenum">15.</div> Niin lahettakaan nyt herrani nisuja, ohria, oljya ja viinaa palvelioillensa, niinkuin han on sanonut;	
 
-16. Niin me hakkaamme puita Libanonissa kaiketi niin paljon kuin sina tarvitset, ja viemme ne merelle lautoilla Japhoon; anna sina ne noutaa sielta Jerusalemiin.	
+<div class="versenum">16.</div> Niin me hakkaamme puita Libanonissa kaiketi niin paljon kuin sina tarvitset, ja viemme ne merelle lautoilla Japhoon; anna sina ne noutaa sielta Jerusalemiin.	
 
-17. Ja Salomo luki kaikki muukalaiset Israelin maalla, sen luvun jalkeen, kuin hanen isansa David ne luki; ja siella loydettiin sata ja viisikymmenta tuhatta, kolmetuhatta ja kuusisataa.	
+<div class="versenum">17.</div> Ja Salomo luki kaikki muukalaiset Israelin maalla, sen luvun jalkeen, kuin hanen isansa David ne luki; ja siella loydettiin sata ja viisikymmenta tuhatta, kolmetuhatta ja kuusisataa.	
 
-18. Ja han asetti niista seitsemankymmenta tuhatta vetajiksi ja kahdeksankymmenta tuhatta hakkaajiksi vuorella, ja kolmetuhatta ja kuusisataa teettajiksi, joiden kansaa piti teettaman.	
+<div class="versenum">18.</div> Ja han asetti niista seitsemankymmenta tuhatta vetajiksi ja kahdeksankymmenta tuhatta hakkaajiksi vuorella, ja kolmetuhatta ja kuusisataa teettajiksi, joiden kansaa piti teettaman.	
 

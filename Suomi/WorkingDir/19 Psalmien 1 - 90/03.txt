@@ -1,18 +1,18 @@
 Psalmien 3	
 	
-1. Davidin Psalmi, kuin han pakeni poikaansa Absalomia. (H 3:2) Voi Herra! kuinka monta on minulla vihollista, ja niin usiat karkaavat minua vastaan.	
+<div class="versenum">1.</div> Davidin Psalmi, kuin han pakeni poikaansa Absalomia. (H 3:2) Voi Herra! kuinka monta on minulla vihollista, ja niin usiat karkaavat minua vastaan.	
 
-2. (H 3:3) Moni puhuu minun sielustani: ei ole hanella apua Jumalan tykona, Sela!	
+<div class="versenum">2.</div> (H 3:3) Moni puhuu minun sielustani: ei ole hanella apua Jumalan tykona, Sela!	
 
-3. (H 3:4) Mutta sina, Herra, olet minun kilpeni, joka minun kunniaan saatat, ja minun paani kohennat.	
+<div class="versenum">3.</div> (H 3:4) Mutta sina, Herra, olet minun kilpeni, joka minun kunniaan saatat, ja minun paani kohennat.	
 
-4. (H 3:5) Aanellani mina huudan Herraa; ja han kuulee minua pyhasta vuorestansa, Sela!	
+<div class="versenum">4.</div> (H 3:5) Aanellani mina huudan Herraa; ja han kuulee minua pyhasta vuorestansa, Sela!	
 
-5. (H 3:6) Mina makaan ja nukun: mina heraan myos; silla Herra tukee minua.	
+<div class="versenum">5.</div> (H 3:6) Mina makaan ja nukun: mina heraan myos; silla Herra tukee minua.	
 
-6. (H 3:7) En mina pelkaa kymmentatuhatta kansoista, jotka minua piirittavat.	
+<div class="versenum">6.</div> (H 3:7) En mina pelkaa kymmentatuhatta kansoista, jotka minua piirittavat.	
 
-7. (H 3:8) Nouse, Herra, ja auta minua, minun Jumalani! silla sina lyot kaikkia minun vihollisiani poskelle: sina murennat jumalattomain hampaat.	
+<div class="versenum">7.</div> (H 3:8) Nouse, Herra, ja auta minua, minun Jumalani! silla sina lyot kaikkia minun vihollisiani poskelle: sina murennat jumalattomain hampaat.	
 
-8. (H 3:9) Herran tykona apu loydetaan: sinun kansas paalla on sinun siunaukses, Sela!	
+<div class="versenum">8.</div> (H 3:9) Herran tykona apu loydetaan: sinun kansas paalla on sinun siunaukses, Sela!	
 

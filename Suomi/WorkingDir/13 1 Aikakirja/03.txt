@@ -1,50 +1,50 @@
 1 Aikakirja 3	
 	
-1. Namat olivat Davidin pojat, jotka hanelle syntyneet olivat Hebronissa: Amnon esikoinen, joka syntyi Ahinoamista Jisreelilaisesta, toinen Daniel Abigailista Karmelilaisesta.	
+<div class="versenum">1.</div> Namat olivat Davidin pojat, jotka hanelle syntyneet olivat Hebronissa: Amnon esikoinen, joka syntyi Ahinoamista Jisreelilaisesta, toinen Daniel Abigailista Karmelilaisesta.	
 
-2. Kolmas Absalom Maakan poika Talmain Gessurin kuninkaan tyttaren, neljas Adonia Haggitin poika,	
+<div class="versenum">2.</div> Kolmas Absalom Maakan poika Talmain Gessurin kuninkaan tyttaren, neljas Adonia Haggitin poika,	
 
-3. Viides Sephatia Abitalista, kuudes Jitream, hanen emannastansa Eglasta.	
+<div class="versenum">3.</div> Viides Sephatia Abitalista, kuudes Jitream, hanen emannastansa Eglasta.	
 
-4. Namat kuusi ovat hanelle syntyneet Hebronissa. Ja han hallitsi siella seitseman vuotta ja kuusi kuukautta; mutta Jerusalemissa hallitsi han kolmeneljattakymmenta ajastaikaa.	
+<div class="versenum">4.</div> Namat kuusi ovat hanelle syntyneet Hebronissa. Ja han hallitsi siella seitseman vuotta ja kuusi kuukautta; mutta Jerusalemissa hallitsi han kolmeneljattakymmenta ajastaikaa.	
 
-5. Ja namat ovat hanelle syntyneet Jerusalemissa: Simea, Sobab, Natan ja Salomo, ne nelja Batsuasta Ammeelin tyttaresta.	
+<div class="versenum">5.</div> Ja namat ovat hanelle syntyneet Jerusalemissa: Simea, Sobab, Natan ja Salomo, ne nelja Batsuasta Ammeelin tyttaresta.	
 
-6. Sitte Jibhar, Elisama ja Eliphalet,	
+<div class="versenum">6.</div> Sitte Jibhar, Elisama ja Eliphalet,	
 
-7. Nogah, Nepheg ja Japhia,	
+<div class="versenum">7.</div> Nogah, Nepheg ja Japhia,	
 
-8. Elisama, Eljada, Eliphelet; ne yhdeksan.	
+<div class="versenum">8.</div> Elisama, Eljada, Eliphelet; ne yhdeksan.	
 
-9. Namat ovat kaikki Davidin pojat; ilman muiden vaimoin lapsia. Ja Tamar oli heidan sisarensa.	
+<div class="versenum">9.</div> Namat ovat kaikki Davidin pojat; ilman muiden vaimoin lapsia. Ja Tamar oli heidan sisarensa.	
 
-10. Rehabeam oli Salomon poika, hanen poikansa Abia, hanen poikansa Asa, hanen poikansa Josaphat,	
+<div class="versenum">10.</div> Rehabeam oli Salomon poika, hanen poikansa Abia, hanen poikansa Asa, hanen poikansa Josaphat,	
 
-11. Hanen poikansa Joram, hanen poikansa Ahasia, hanen poikansa Joas,	
+<div class="versenum">11.</div> Hanen poikansa Joram, hanen poikansa Ahasia, hanen poikansa Joas,	
 
-12. Hanen poikansa Amasia, hanen poikansa Asaria, hanen poikansa Jotam,	
+<div class="versenum">12.</div> Hanen poikansa Amasia, hanen poikansa Asaria, hanen poikansa Jotam,	
 
-13. Hanen poikansa Ahas, hanen poikansa Hiskia, hanen poikansa Manasse,	
+<div class="versenum">13.</div> Hanen poikansa Ahas, hanen poikansa Hiskia, hanen poikansa Manasse,	
 
-14. Hanen poikansa Amon, hanen poikansa Josia.	
+<div class="versenum">14.</div> Hanen poikansa Amon, hanen poikansa Josia.	
 
-15. Mutta Josian pojat olivat: esikoinen Johanan, toinen Jojakim, kolmas Zidkia, neljas Sallum.	
+<div class="versenum">15.</div> Mutta Josian pojat olivat: esikoinen Johanan, toinen Jojakim, kolmas Zidkia, neljas Sallum.	
 
-16. Mutta Jojakimin lapset: Jekonia hanen poikansa, Zidkia hanen poikansa.	
+<div class="versenum">16.</div> Mutta Jojakimin lapset: Jekonia hanen poikansa, Zidkia hanen poikansa.	
 
-17. Mutta vangitun Jekonian lapset: hanen poikansa Sealtiel,	
+<div class="versenum">17.</div> Mutta vangitun Jekonian lapset: hanen poikansa Sealtiel,	
 
-18. (Hanen poikansa) Malkiram, Pedaja, Senatsar, Jekamja, Hosama, Nedabja.	
+<div class="versenum">18.</div> (Hanen poikansa) Malkiram, Pedaja, Senatsar, Jekamja, Hosama, Nedabja.	
 
-19. Pedajan pojat, Zerubbabel ja Simi; Zerubbabelin pojat Mesullam ja Hanania, ja heidan sisarensa Selomit,	
+<div class="versenum">19.</div> Pedajan pojat, Zerubbabel ja Simi; Zerubbabelin pojat Mesullam ja Hanania, ja heidan sisarensa Selomit,	
 
-20. Hasuba, Ohel, Berekia, Hasadia, Jusabhesed; ne viisi.	
+<div class="versenum">20.</div> Hasuba, Ohel, Berekia, Hasadia, Jusabhesed; ne viisi.	
 
-21. Hananian pojat Pelatja ja Jesaja; Rephajan pojat, Arnanin pojat, Obadian pojat, Sekanian pojat.	
+<div class="versenum">21.</div> Hananian pojat Pelatja ja Jesaja; Rephajan pojat, Arnanin pojat, Obadian pojat, Sekanian pojat.	
 
-22. Mutta Sekanian lapset: Semaja; ja Semajan lapset: Hattus, Jigal, Baria, Nearia, Saphat; ne kuusi.	
+<div class="versenum">22.</div> Mutta Sekanian lapset: Semaja; ja Semajan lapset: Hattus, Jigal, Baria, Nearia, Saphat; ne kuusi.	
 
-23. Nearin lapset: Eljoenai, Hiskia, Asrikam; ne kolme.	
+<div class="versenum">23.</div> Nearin lapset: Eljoenai, Hiskia, Asrikam; ne kolme.	
 
-24. Eljoenain lapset: Hodajeva, Eljasib, Pelaja, Akkub, Johanan, Delaja ja Anani; ne seitseman.	
+<div class="versenum">24.</div> Eljoenain lapset: Hodajeva, Eljasib, Pelaja, Akkub, Johanan, Delaja ja Anani; ne seitseman.	
 

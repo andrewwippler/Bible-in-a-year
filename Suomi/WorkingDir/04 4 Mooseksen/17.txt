@@ -1,28 +1,28 @@
 4 Mooseksen 17	
 	
-1. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-2. Puhu Israelin lapsille, ja ota heilta itsekultakin sauva isansa huoneen jalkeen, kaikilta heidan paamiehiltansa heidan isainsa huoneen jalkeen, kaksitoistakymmenta sauvaa: kirjoita kunkin nimi hanen sauvaansa.	
+<div class="versenum">2.</div> Puhu Israelin lapsille, ja ota heilta itsekultakin sauva isansa huoneen jalkeen, kaikilta heidan paamiehiltansa heidan isainsa huoneen jalkeen, kaksitoistakymmenta sauvaa: kirjoita kunkin nimi hanen sauvaansa.	
 
-3. Mutta Aaronin nimi kirjoita Levin sauvaan; silla itsekullakin isansa huoneen paamiehella olkoon sauva.	
+<div class="versenum">3.</div> Mutta Aaronin nimi kirjoita Levin sauvaan; silla itsekullakin isansa huoneen paamiehella olkoon sauva.	
 
-4. Ja pane ne seurakunnan majaan, todistuksen eteen, jossa mina olen teilla saapuvilla.	
+<div class="versenum">4.</div> Ja pane ne seurakunnan majaan, todistuksen eteen, jossa mina olen teilla saapuvilla.	
 
-5. Ja jonka mina heista valitsen, sen sauva pitaa viherioitseman, etta mina asettaisin Israelin lasten moninaisen napinan minun paaltani, jolla he teita vastaan napisevat.	
+<div class="versenum">5.</div> Ja jonka mina heista valitsen, sen sauva pitaa viherioitseman, etta mina asettaisin Israelin lasten moninaisen napinan minun paaltani, jolla he teita vastaan napisevat.	
 
-6. Niin Moses puhui Israelin lapsille: ja kaikki heidan paamiehensa antoivat hanelle kaksitoistakymmenta sauvaa, itsekukin paamies isansa huoneesta yhden sauvan: ja Aaronin sauva oli heidan sauvainsa keskella.	
+<div class="versenum">6.</div> Niin Moses puhui Israelin lapsille: ja kaikki heidan paamiehensa antoivat hanelle kaksitoistakymmenta sauvaa, itsekukin paamies isansa huoneesta yhden sauvan: ja Aaronin sauva oli heidan sauvainsa keskella.	
 
-7. Ja Moses pani sauvat Herran eteen todistuksen majaan.	
+<div class="versenum">7.</div> Ja Moses pani sauvat Herran eteen todistuksen majaan.	
 
-8. Ja tapahtui toisena paivana, etta Moses meni todistuksen majaan: ja katso, Aaronin sauva levin huoneesta viherioitsi: ja kukoistus puhkesi ja kukkainen tuli taydelliseksi ja kasvoi kypsia mandelia.	
+<div class="versenum">8.</div> Ja tapahtui toisena paivana, etta Moses meni todistuksen majaan: ja katso, Aaronin sauva levin huoneesta viherioitsi: ja kukoistus puhkesi ja kukkainen tuli taydelliseksi ja kasvoi kypsia mandelia.	
 
-9. Ja Moses kantoi kaikki sauvat ulos Herran edesta kaikkein Israelin lasten eteen: ja he nakivat sen, ja itsekukin otti sauvansa.	
+<div class="versenum">9.</div> Ja Moses kantoi kaikki sauvat ulos Herran edesta kaikkein Israelin lasten eteen: ja he nakivat sen, ja itsekukin otti sauvansa.	
 
-10. Ja Herra sanoi Mosekselle: kanna Aaronin sauva jalleen todistuksen eteen tallella pidettaa, merkiksi niskurille lapsille; etta heidan napinansa minua vastaan lakkais, ettei he kuolisi.	
+<div class="versenum">10.</div> Ja Herra sanoi Mosekselle: kanna Aaronin sauva jalleen todistuksen eteen tallella pidettaa, merkiksi niskurille lapsille; etta heidan napinansa minua vastaan lakkais, ettei he kuolisi.	
 
-11. Ja Moses teki sen; niinkuin Herra hanelle kaskenyt oli, niin han teki.	
+<div class="versenum">11.</div> Ja Moses teki sen; niinkuin Herra hanelle kaskenyt oli, niin han teki.	
 
-12. Ja Israelin lapset puhuivat Mosekselle, sanoen: katso, me olemme riutumallamme! me hukumme, kaikki me hukumme!	
+<div class="versenum">12.</div> Ja Israelin lapset puhuivat Mosekselle, sanoen: katso, me olemme riutumallamme! me hukumme, kaikki me hukumme!	
 
-13. Kuka ikana lahestyy Herran majaa, se kuolee. Havitetaanko meita perati?	
+<div class="versenum">13.</div> Kuka ikana lahestyy Herran majaa, se kuolee. Havitetaanko meita perati?	
 

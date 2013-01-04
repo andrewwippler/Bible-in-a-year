@@ -1,36 +1,36 @@
 2 Korinttilaisille 2	
 	
-1. Mutta sita mina olen itsellani aikonut, etten mina taas murheella teidan tykonne tulisi.	
+<div class="versenum">1.</div> Mutta sita mina olen itsellani aikonut, etten mina taas murheella teidan tykonne tulisi.	
 
-2. Silla jos mina teidat murheeseen saatan, kukas minua ilahuttaa, vaan se, joka minulta on murheelliseksi tehty?	
+<div class="versenum">2.</div> Silla jos mina teidat murheeseen saatan, kukas minua ilahuttaa, vaan se, joka minulta on murheelliseksi tehty?	
 
-3. Ja sen mina olen teille kirjoittanut, etten mina tultuani saisi niista murhetta, joista minun tulis ilo saada; silla minulla on senkaltainen uskallus kaikkein teidan tykonne, etta minun iloni kaikkein teidan ilonne on.	
+<div class="versenum">3.</div> Ja sen mina olen teille kirjoittanut, etten mina tultuani saisi niista murhetta, joista minun tulis ilo saada; silla minulla on senkaltainen uskallus kaikkein teidan tykonne, etta minun iloni kaikkein teidan ilonne on.	
 
-4. Silla mina kirjoitin teille suuressa vaivassa ja sydamen kivussa, monilla kyyneleilla, ei, etta teidan pitais murehtiman, vaan etta te ymmartaisitte sen erinomaisen rakkauden, joka minulla on teidan kohtaanne.	
+<div class="versenum">4.</div> Silla mina kirjoitin teille suuressa vaivassa ja sydamen kivussa, monilla kyyneleilla, ei, etta teidan pitais murehtiman, vaan etta te ymmartaisitte sen erinomaisen rakkauden, joka minulla on teidan kohtaanne.	
 
-5. Jos joku on murheen matkaan saattanut, ei han ole minua murheelliseksi saattanut, vaan puolittain, etten mina teita kaikkia rasittaisi.	
+<div class="versenum">5.</div> Jos joku on murheen matkaan saattanut, ei han ole minua murheelliseksi saattanut, vaan puolittain, etten mina teita kaikkia rasittaisi.	
 
-6. Mutta kylla siina on, etta se monelta niin rangaistu on:	
+<div class="versenum">6.</div> Mutta kylla siina on, etta se monelta niin rangaistu on:	
 
-7. Etta te tastedes sita enemman hanta armahtaisitte ja lohduttaisitte, ettei han uppoaisi ylonpalttisessa murheessa.	
+<div class="versenum">7.</div> Etta te tastedes sita enemman hanta armahtaisitte ja lohduttaisitte, ettei han uppoaisi ylonpalttisessa murheessa.	
 
-8. Sentahden neuvon mina teita, etta te hanen kohtaansa rakkautta osoittaisitte;	
+<div class="versenum">8.</div> Sentahden neuvon mina teita, etta te hanen kohtaansa rakkautta osoittaisitte;	
 
-9. Silla sentahden mina myos olen kirjoittanut, koetellakseni teita, jos te olette kaikkiin kuuliaiset,	
+<div class="versenum">9.</div> Silla sentahden mina myos olen kirjoittanut, koetellakseni teita, jos te olette kaikkiin kuuliaiset,	
 
-10. Mutta joille te jotain anteeksi annatte, sen mina myos anteeksi annan; silla jolle mina jotain anteeksi annoin, sen mina anteeksi annoin teidan tahtenne Kristuksen puolesta, ettemme saatanalta voitetuksi tulisi;	
+<div class="versenum">10.</div> Mutta joille te jotain anteeksi annatte, sen mina myos anteeksi annan; silla jolle mina jotain anteeksi annoin, sen mina anteeksi annoin teidan tahtenne Kristuksen puolesta, ettemme saatanalta voitetuksi tulisi;	
 
-11. Silla eipa meilta ole salattu, mita hanen mielessansa on.	
+<div class="versenum">11.</div> Silla eipa meilta ole salattu, mita hanen mielessansa on.	
 
-12. Mutta kuin mina tulin Troadaan Kristuksen evankeliumia saarnaamaan, ja minulle avattiin ovi Herrassa, niin ei minulla ollut yhtaan lepoa hengessani, etten mina Titusta minun veljeani loytanyt.	
+<div class="versenum">12.</div> Mutta kuin mina tulin Troadaan Kristuksen evankeliumia saarnaamaan, ja minulle avattiin ovi Herrassa, niin ei minulla ollut yhtaan lepoa hengessani, etten mina Titusta minun veljeani loytanyt.	
 
-13. Mutta kuin mina olin heidan hyvasti jattanyt, menin mina sielta Makedoniaan.	
+<div class="versenum">13.</div> Mutta kuin mina olin heidan hyvasti jattanyt, menin mina sielta Makedoniaan.	
 
-14. Mutta kiitetty olkoon Jumala, joka aina antaa meille voiton Kristuksessa, ja julistaa joka paikassa hanen tuntemisensa hajun meidan kauttamme!	
+<div class="versenum">14.</div> Mutta kiitetty olkoon Jumala, joka aina antaa meille voiton Kristuksessa, ja julistaa joka paikassa hanen tuntemisensa hajun meidan kauttamme!	
 
-15. Silla me olemme Jumalalle yksi hyva haju Kristuksessa, seka niiden seassa, jotka autuaaksi tulevat, etta myos niiden seassa, jotka hukkuvat;	
+<div class="versenum">15.</div> Silla me olemme Jumalalle yksi hyva haju Kristuksessa, seka niiden seassa, jotka autuaaksi tulevat, etta myos niiden seassa, jotka hukkuvat;	
 
-16. Naille tosin surman haju kuolemaksi, mutta toisille elaman haju elamaksi: ja kuka on nyt tahan kelvollinen?	
+<div class="versenum">16.</div> Naille tosin surman haju kuolemaksi, mutta toisille elaman haju elamaksi: ja kuka on nyt tahan kelvollinen?	
 
-17. Silla emmepa me ole senkaltaiset kuin muutamat, jotka Jumalan sanaa myyskentelevat; vaan vakuudesta ja niinkuin Jumalasta me puhumme Jumalan kasvoin edessa, Kristuksessa.	
+<div class="versenum">17.</div> Silla emmepa me ole senkaltaiset kuin muutamat, jotka Jumalan sanaa myyskentelevat; vaan vakuudesta ja niinkuin Jumalasta me puhumme Jumalan kasvoin edessa, Kristuksessa.	
 

@@ -1,58 +1,58 @@
 Esran 7	
 	
-1. Mutta naiden jalkeen Artahsastan Persian kuninkaan hallitessa oli Esra Serajan poika, Asarian pojan, Hilkian pojan,	
+<div class="versenum">1.</div> Mutta naiden jalkeen Artahsastan Persian kuninkaan hallitessa oli Esra Serajan poika, Asarian pojan, Hilkian pojan,	
 
-2. Sallumin pojan, Zadokin pojan, Ahitobin pojan,	
+<div class="versenum">2.</div> Sallumin pojan, Zadokin pojan, Ahitobin pojan,	
 
-3. Amarian pojan, Asarian pojan, Merajotin pojan,	
+<div class="versenum">3.</div> Amarian pojan, Asarian pojan, Merajotin pojan,	
 
-4. Serahian pojan, Ussin pojan, Bukkin pojan,	
+<div class="versenum">4.</div> Serahian pojan, Ussin pojan, Bukkin pojan,	
 
-5. Abisuan pojan, Pinehaan pojan, Eleatsarin pojan, ylimmaisen papin Aaronin pojan.	
+<div class="versenum">5.</div> Abisuan pojan, Pinehaan pojan, Eleatsarin pojan, ylimmaisen papin Aaronin pojan.	
 
-6. Tama Esra meni ylos Babelista, joka oli toimellinen kirjanoppinut Moseksen laissa, jonka Herra Israelin Jumala oli antanut. Ja kuningas antoi hanelle kaikki, mita han anoi, Herran hanen Jumalansa kaden jalkeen, joka hanen ylitsensa oli.	
+<div class="versenum">6.</div> Tama Esra meni ylos Babelista, joka oli toimellinen kirjanoppinut Moseksen laissa, jonka Herra Israelin Jumala oli antanut. Ja kuningas antoi hanelle kaikki, mita han anoi, Herran hanen Jumalansa kaden jalkeen, joka hanen ylitsensa oli.	
 
-7. Ja siina meni muutamia Israelin lapsista ja papeista ja Levilaisista, veisaajista, ovenvartioista ja Netinimeista ylos Jerusalemiin, seitsemantena Artahsastan kuninkaan vuonna.	
+<div class="versenum">7.</div> Ja siina meni muutamia Israelin lapsista ja papeista ja Levilaisista, veisaajista, ovenvartioista ja Netinimeista ylos Jerusalemiin, seitsemantena Artahsastan kuninkaan vuonna.	
 
-8. Ja han tuli Jerusalemiin viidentena kuukautena, se oli seitsemas kuninkaan vuosi.	
+<div class="versenum">8.</div> Ja han tuli Jerusalemiin viidentena kuukautena, se oli seitsemas kuninkaan vuosi.	
 
-9. Silla ensimaisena paivana ensimaista kuuta alkoi han lahtea Babelista, ja ensimaisena paivana viidennetta kuuta tuli han Jerusalemiin, Jumalan hyvan kaden kautta, joka hanen ylitsensa oli.	
+<div class="versenum">9.</div> Silla ensimaisena paivana ensimaista kuuta alkoi han lahtea Babelista, ja ensimaisena paivana viidennetta kuuta tuli han Jerusalemiin, Jumalan hyvan kaden kautta, joka hanen ylitsensa oli.	
 
-10. Silla Esra oli valmistanut sydamensa etsimaan Herran lakia, ja tekemaan sita ja opettamaan Israelille saatyja ja oikeutta.	
+<div class="versenum">10.</div> Silla Esra oli valmistanut sydamensa etsimaan Herran lakia, ja tekemaan sita ja opettamaan Israelille saatyja ja oikeutta.	
 
-11. Ja nain on se kirja, jonka Artahsasta antoi papille Esralle, kirjanoppineelle, joka oli opettaja Herran kaskysanoissa ja saadyissa Israelille:	
+<div class="versenum">11.</div> Ja nain on se kirja, jonka Artahsasta antoi papille Esralle, kirjanoppineelle, joka oli opettaja Herran kaskysanoissa ja saadyissa Israelille:	
 
-12. Artahsasta kuningasten kuningas Esralle papille ja kirjanoppineelle taivaan Jumalan laissa: rauhaa talla ajalla!	
+<div class="versenum">12.</div> Artahsasta kuningasten kuningas Esralle papille ja kirjanoppineelle taivaan Jumalan laissa: rauhaa talla ajalla!	
 
-13. Mina olen kaskenyt, etta kenenka ikana kelpaa minun valtakunnassani Israelin kansasta, papeista ja Levilaisista menna kanssas Jerusalemiin, niin menkaan.	
+<div class="versenum">13.</div> Mina olen kaskenyt, etta kenenka ikana kelpaa minun valtakunnassani Israelin kansasta, papeista ja Levilaisista menna kanssas Jerusalemiin, niin menkaan.	
 
-14. Sina olet lahetetty kuninkaalta ja seitsemalta neuvonantajalta etsimaan Juudaa ja Jerusalemia, sinun Jumalas lain jalkeen, joka kasissas on;	
+<div class="versenum">14.</div> Sina olet lahetetty kuninkaalta ja seitsemalta neuvonantajalta etsimaan Juudaa ja Jerusalemia, sinun Jumalas lain jalkeen, joka kasissas on;	
 
-15. Ja ettas otat myotas sen hopian ja kullan, minka kuningas ja hanen neuvonantajansa hyvalla mielella ovat uhranneet Israelin Jumalalle, jonka maja on Jerusalemissa.	
+<div class="versenum">15.</div> Ja ettas otat myotas sen hopian ja kullan, minka kuningas ja hanen neuvonantajansa hyvalla mielella ovat uhranneet Israelin Jumalalle, jonka maja on Jerusalemissa.	
 
-16. Ja kaikkinaisen hopian ja kullan, minka sina saat koko Babelin maakunnasta, kuin kansa ja papit hyvalla mielella antavat Jumalan huoneesen, joka on Jerusalemissa.	
+<div class="versenum">16.</div> Ja kaikkinaisen hopian ja kullan, minka sina saat koko Babelin maakunnasta, kuin kansa ja papit hyvalla mielella antavat Jumalan huoneesen, joka on Jerusalemissa.	
 
-17. Sentahden osta nopiasti silla rahalla mullia, oinaita ja karitsoita, ja ruokauhria ja juomauhria, ja uhraa ne teidan Jumalanne huoneen alttarilla, joka on Jerusalemissa.	
+<div class="versenum">17.</div> Sentahden osta nopiasti silla rahalla mullia, oinaita ja karitsoita, ja ruokauhria ja juomauhria, ja uhraa ne teidan Jumalanne huoneen alttarilla, joka on Jerusalemissa.	
 
-18. Mutta mita sinun ja sinun veljes siita rahasta kelpaa tehda, joka liiaksi on, se tehkaat teidan Jumalanne tahdon jalkeen.	
+<div class="versenum">18.</div> Mutta mita sinun ja sinun veljes siita rahasta kelpaa tehda, joka liiaksi on, se tehkaat teidan Jumalanne tahdon jalkeen.	
 
-19. Ja astiat, jotka sinun haltuus ovat annetut sinun Jumalas huoneen palvelukseksi, anna ne pois Jumalan eteen Jerusalemiin.	
+<div class="versenum">19.</div> Ja astiat, jotka sinun haltuus ovat annetut sinun Jumalas huoneen palvelukseksi, anna ne pois Jumalan eteen Jerusalemiin.	
 
-20. Ja mita enempaa tarvitaan sinun Jumalas huoneesen ja sina kulutat, niin anna se kuninkaan tavarahuoneesta.	
+<div class="versenum">20.</div> Ja mita enempaa tarvitaan sinun Jumalas huoneesen ja sina kulutat, niin anna se kuninkaan tavarahuoneesta.	
 
-21. Mina kuningas Artahsasta olen kaskenyt veronhaltioille silla puolella virtaa, etta mita ikana Esra pappi ja kirjanoppinut taivaan Jumalan laissa teilta anoo, se tehkaat nopiasti,	
+<div class="versenum">21.</div> Mina kuningas Artahsasta olen kaskenyt veronhaltioille silla puolella virtaa, etta mita ikana Esra pappi ja kirjanoppinut taivaan Jumalan laissa teilta anoo, se tehkaat nopiasti,	
 
-22. Hamaan sataan leiviskaan hopiaa, ja sataan koriin nisuja, ja sataan tynnyriin viinaa, ja sataan tynnyriin oljya, ja suoloja ilman mittaa.	
+<div class="versenum">22.</div> Hamaan sataan leiviskaan hopiaa, ja sataan koriin nisuja, ja sataan tynnyriin viinaa, ja sataan tynnyriin oljya, ja suoloja ilman mittaa.	
 
-23. Kaikkia mita taivaan Jumalan laki anoo, se pitaa taivaan Jumalan huoneelle juuri nopiasti tehtaman, ettei hanen vihansa tulisi kuninkaan valtakunnan ja hanen lastensa paalle.	
+<div class="versenum">23.</div> Kaikkia mita taivaan Jumalan laki anoo, se pitaa taivaan Jumalan huoneelle juuri nopiasti tehtaman, ettei hanen vihansa tulisi kuninkaan valtakunnan ja hanen lastensa paalle.	
 
-24. Ja se pitaa oleman teille kaikille tiettava, ettei teilla ole valtaa panna jotakin veroa, tullia eli ajastaikaista ulostekoa yhdenkaan papin paalle, Levilaisen, veisaajan, ovenvartijan, Netinimin, taman Jumalan huoneen palveliain paalle,	
+<div class="versenum">24.</div> Ja se pitaa oleman teille kaikille tiettava, ettei teilla ole valtaa panna jotakin veroa, tullia eli ajastaikaista ulostekoa yhdenkaan papin paalle, Levilaisen, veisaajan, ovenvartijan, Netinimin, taman Jumalan huoneen palveliain paalle,	
 
-25. Ja sinun, Esra, pitaa Jumalas viisauden jalkeen, joka sinulla on, paneman tuomarit ja oikeuden tekiat, tuomitsemaan kaiken kansan, joka toisella puolella virtaa on, etta kaikki taitaisivat sinun Jumalas lain; ja sita, joka ei taida, pitaa teidan opettaman.	
+<div class="versenum">25.</div> Ja sinun, Esra, pitaa Jumalas viisauden jalkeen, joka sinulla on, paneman tuomarit ja oikeuden tekiat, tuomitsemaan kaiken kansan, joka toisella puolella virtaa on, etta kaikki taitaisivat sinun Jumalas lain; ja sita, joka ei taida, pitaa teidan opettaman.	
 
-26. Ja jokainen, joka ei tee visusti sinun Jumalas lakia ja kuninkaan lakia, hanen pitaa saaman tuomionsa tyonsa jalkeen, joko se on kuolemaan, eli maan kulkemukseen, eli rahasakkoon, taikka vankeuteen.	
+<div class="versenum">26.</div> Ja jokainen, joka ei tee visusti sinun Jumalas lakia ja kuninkaan lakia, hanen pitaa saaman tuomionsa tyonsa jalkeen, joko se on kuolemaan, eli maan kulkemukseen, eli rahasakkoon, taikka vankeuteen.	
 
-27. Kiitetty olkoon Herra, meidan isaimme Jumala, joka tainkaltaisen asian on antanut kuninkaan sydameen, etta han kaunistaa Herran huonetta Jerusalemissa!	
+<div class="versenum">27.</div> Kiitetty olkoon Herra, meidan isaimme Jumala, joka tainkaltaisen asian on antanut kuninkaan sydameen, etta han kaunistaa Herran huonetta Jerusalemissa!	
 
-28. Ja han on kaantanyt laupiuden minun paalleni kuninkaan ja hanen neuvonantajainsa ja kaikkein kuninkaan voimallisten paamiesten edessa. Ja mina vahvistettiin Herran minun Jumalani kadella, joka oli minun ylitseni, ja kokosin paamiehet Israelista menemaan ylos minun kanssani.	
+<div class="versenum">28.</div> Ja han on kaantanyt laupiuden minun paalleni kuninkaan ja hanen neuvonantajainsa ja kaikkein kuninkaan voimallisten paamiesten edessa. Ja mina vahvistettiin Herran minun Jumalani kadella, joka oli minun ylitseni, ja kokosin paamiehet Israelista menemaan ylos minun kanssani.	
 

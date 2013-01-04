@@ -1,58 +1,58 @@
 Jobin 28	
 	
-1. Hopialla on hanen lahtemisensa, ja kullalla sia, jossa valetaan.	
+<div class="versenum">1.</div> Hopialla on hanen lahtemisensa, ja kullalla sia, jossa valetaan.	
 
-2. Rauta otetaan maasta, ja kivista vaski valetaan.	
+<div class="versenum">2.</div> Rauta otetaan maasta, ja kivista vaski valetaan.	
 
-3. Pimeydelle asetti han lopun, ja kaiken taydellisyyden han tutki, niin myos kiven, joka paksussa pimeydessa on, ja kuoleman varjon.	
+<div class="versenum">3.</div> Pimeydelle asetti han lopun, ja kaiken taydellisyyden han tutki, niin myos kiven, joka paksussa pimeydessa on, ja kuoleman varjon.	
 
-4. Siita vuotaa senkaltainen osa, etta ympariasuvaiset ei taida siita jalkaisin kayda ylitse: se tyhjetaan ihmisilta ja vuotaa pois.	
+<div class="versenum">4.</div> Siita vuotaa senkaltainen osa, etta ympariasuvaiset ei taida siita jalkaisin kayda ylitse: se tyhjetaan ihmisilta ja vuotaa pois.	
 
-5. Vilja kasvaa maasta, jonka alla se muutetaan niinkuin tuulelta.	
+<div class="versenum">5.</div> Vilja kasvaa maasta, jonka alla se muutetaan niinkuin tuulelta.	
 
-6. Saphiri loydetaan muutamista paikoista, ja maan kokkareita, joissa kultaa on.	
+<div class="versenum">6.</div> Saphiri loydetaan muutamista paikoista, ja maan kokkareita, joissa kultaa on.	
 
-7. Sita polkua ei ole yksikaan lintu tuntenut, eika variksen silma nahnyt.	
+<div class="versenum">7.</div> Sita polkua ei ole yksikaan lintu tuntenut, eika variksen silma nahnyt.	
 
-8. Ne ylpiat sikiat ei ole sita sotkuneet, eika jalopeura kaynyt sen paalla.	
+<div class="versenum">8.</div> Ne ylpiat sikiat ei ole sita sotkuneet, eika jalopeura kaynyt sen paalla.	
 
-9. Kadella kallioon ruvetaan, ja vuoret ylosalaisin kukistetaan.	
+<div class="versenum">9.</div> Kadella kallioon ruvetaan, ja vuoret ylosalaisin kukistetaan.	
 
-10. Ojat lasketaan kallioista, ja kaikkein kalliimmatkin nakee silma.	
+<div class="versenum">10.</div> Ojat lasketaan kallioista, ja kaikkein kalliimmatkin nakee silma.	
 
-11. Virrat estetaan juoksemasta, ja ne ilmoitetaan, mitka naissa peitetyt ovat.	
+<div class="versenum">11.</div> Virrat estetaan juoksemasta, ja ne ilmoitetaan, mitka naissa peitetyt ovat.	
 
-12. Mutta kusta taito loydetaan, ja kussa on ymmarryksen sia?	
+<div class="versenum">12.</div> Mutta kusta taito loydetaan, ja kussa on ymmarryksen sia?	
 
-13. Ei yksikaan ihminen tieda hanen siaansa, eika loydeta elavien maasta.	
+<div class="versenum">13.</div> Ei yksikaan ihminen tieda hanen siaansa, eika loydeta elavien maasta.	
 
-14. Syvyys sanoo: ei se ole minussa, ja meri sanoo: ei se ole minun tykonani.	
+<div class="versenum">14.</div> Syvyys sanoo: ei se ole minussa, ja meri sanoo: ei se ole minun tykonani.	
 
-15. Ei hanesta anneta kultaa, eika hopiaa punnita sen hinnaksi.	
+<div class="versenum">15.</div> Ei hanesta anneta kultaa, eika hopiaa punnita sen hinnaksi.	
 
-16. Ei Ophirin kulta, eli kalliit Onikin ja Saphirin kivet ole verratut hanen kanssansa.	
+<div class="versenum">16.</div> Ei Ophirin kulta, eli kalliit Onikin ja Saphirin kivet ole verratut hanen kanssansa.	
 
-17. Kulta ja kallis kivi ei taideta siihen verrattaa, eika se taideta vaihetettaa kultaisiin astioihin.	
+<div class="versenum">17.</div> Kulta ja kallis kivi ei taideta siihen verrattaa, eika se taideta vaihetettaa kultaisiin astioihin.	
 
-18. Ramot ja Gabis ei ole mitaan sen suhteen: se pidetaan kalliimpana paarlyja.	
+<div class="versenum">18.</div> Ramot ja Gabis ei ole mitaan sen suhteen: se pidetaan kalliimpana paarlyja.	
 
-19. Topatsi Etiopiasta ei ole siihen verrattava, ja puhtain kulta ei maksa mitaan sen suhteen.	
+<div class="versenum">19.</div> Topatsi Etiopiasta ei ole siihen verrattava, ja puhtain kulta ei maksa mitaan sen suhteen.	
 
-20. Kusta siis taito tulee? ja kussa on ymmarryksen sia?	
+<div class="versenum">20.</div> Kusta siis taito tulee? ja kussa on ymmarryksen sia?	
 
-21. Han on peitetty kaikkein elavien silmista, ja salattu taivaan linnuiltakin.	
+<div class="versenum">21.</div> Han on peitetty kaikkein elavien silmista, ja salattu taivaan linnuiltakin.	
 
-22. Kadotus ja kuolema sanovat: me olemme korvillamme kuulleet hanen sanomansa.	
+<div class="versenum">22.</div> Kadotus ja kuolema sanovat: me olemme korvillamme kuulleet hanen sanomansa.	
 
-23. Jumala tietaa hanen tiensa, ja han tuntee hanen siansa.	
+<div class="versenum">23.</div> Jumala tietaa hanen tiensa, ja han tuntee hanen siansa.	
 
-24. Silla han katselee maan aariin, ja nakee kaikki, mita taivaan alla on,	
+<div class="versenum">24.</div> Silla han katselee maan aariin, ja nakee kaikki, mita taivaan alla on,	
 
-25. Niin etta han antaa tuulelle hanen painonsa ja vedelle hanen mittansa.	
+<div class="versenum">25.</div> Niin etta han antaa tuulelle hanen painonsa ja vedelle hanen mittansa.	
 
-26. Koska han asetti sateelle maaran ja pitkaisen tulen leimauksille hanen tiensa,	
+<div class="versenum">26.</div> Koska han asetti sateelle maaran ja pitkaisen tulen leimauksille hanen tiensa,	
 
-27. Silloin naki han sen ja luki sen: han valmisti sen ja myos tutki sen,	
+<div class="versenum">27.</div> Silloin naki han sen ja luki sen: han valmisti sen ja myos tutki sen,	
 
-28. Ja sanoi ihmiselle: katso, Herran pelko on taito; ja karttaa pahaa on ymmarrys.	
+<div class="versenum">28.</div> Ja sanoi ihmiselle: katso, Herran pelko on taito; ja karttaa pahaa on ymmarrys.	
 

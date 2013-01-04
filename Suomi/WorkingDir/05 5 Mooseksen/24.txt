@@ -1,46 +1,46 @@
 5 Mooseksen 24	
 	
-1. Jos joku ottaa vaimon avioksensa, ja tapahtuu, ettei han sitte loyda armoa hanen silmainsa edessa, etta on loytanyt jonkun hapian hanessa; niin kirjoittaa han hanelle erokirjan, ja antaa sen hanen kateensa, ja antaa hanen menna huoneestansa pois.	
+<div class="versenum">1.</div> Jos joku ottaa vaimon avioksensa, ja tapahtuu, ettei han sitte loyda armoa hanen silmainsa edessa, etta on loytanyt jonkun hapian hanessa; niin kirjoittaa han hanelle erokirjan, ja antaa sen hanen kateensa, ja antaa hanen menna huoneestansa pois.	
 
-2. Kuin se hanen huoneestansa lahtenyt on, menee pois ja tulee jonkun toisen miehen emannaksi,	
+<div class="versenum">2.</div> Kuin se hanen huoneestansa lahtenyt on, menee pois ja tulee jonkun toisen miehen emannaksi,	
 
-3. Ja taas toinen mies rupee hanta vihaamaan, ja kirjoittaa hanelle erokirjan, ja antaa hanen kateensa ja laskee hanen huoneestansa pois: eli jos toinen mies, joka hanen emannaksensa otti, kuolee:	
+<div class="versenum">3.</div> Ja taas toinen mies rupee hanta vihaamaan, ja kirjoittaa hanelle erokirjan, ja antaa hanen kateensa ja laskee hanen huoneestansa pois: eli jos toinen mies, joka hanen emannaksensa otti, kuolee:	
 
-4. Niin hanen ensimainen miehensa, joka hanen antoi menna pois, ei pida hanta ottaman jalleen emannaksensa, sittekuin han tuli saastaiseksi; silla se on kauhistus Herran edessa, ettes maata saastuttaisi, jonka Herra sinun Jumalas antaa sinulle perimiseksi.	
+<div class="versenum">4.</div> Niin hanen ensimainen miehensa, joka hanen antoi menna pois, ei pida hanta ottaman jalleen emannaksensa, sittekuin han tuli saastaiseksi; silla se on kauhistus Herran edessa, ettes maata saastuttaisi, jonka Herra sinun Jumalas antaa sinulle perimiseksi.	
 
-5. Jos joku on asken emannan nainut, ei sen pida meneman sotaan, eika pida hanen paallensa mitaan rasitusta pantaman; vaan olkaan vapaana huoneessansa ajastajan paivat, etta han sais iloita emantansa kanssa, jonka han nainut on.	
+<div class="versenum">5.</div> Jos joku on asken emannan nainut, ei sen pida meneman sotaan, eika pida hanen paallensa mitaan rasitusta pantaman; vaan olkaan vapaana huoneessansa ajastajan paivat, etta han sais iloita emantansa kanssa, jonka han nainut on.	
 
-6. Ei pida molempia myllynkivia, eli paallyskiveakaan keltaan pantiksi otettaman; silla se olis ottaa hengen pantiksi.	
+<div class="versenum">6.</div> Ei pida molempia myllynkivia, eli paallyskiveakaan keltaan pantiksi otettaman; silla se olis ottaa hengen pantiksi.	
 
-7. Jos joku loydetaan, joka sielun varastaa veljistansa, Israelin lapsista, ja etsii silla voittoa taikka myy hanen, sen varkaan pitaa kuoleman, ettas eroittaisit pahan sinustas.	
+<div class="versenum">7.</div> Jos joku loydetaan, joka sielun varastaa veljistansa, Israelin lapsista, ja etsii silla voittoa taikka myy hanen, sen varkaan pitaa kuoleman, ettas eroittaisit pahan sinustas.	
 
-8. Karta spitalitautia, ettas visusti teet ja pidat kaikki, mita Levilaiset ja papit opettavat sinulle: niinkuin mina heille kaskin, ne pitakaat ja niiden jalkeen tehkaat.	
+<div class="versenum">8.</div> Karta spitalitautia, ettas visusti teet ja pidat kaikki, mita Levilaiset ja papit opettavat sinulle: niinkuin mina heille kaskin, ne pitakaat ja niiden jalkeen tehkaat.	
 
-9. Muista, mita Herra sinun Jumalas teki MirJamille, tiella, kuin te Egyptista laksitte.	
+<div class="versenum">9.</div> Muista, mita Herra sinun Jumalas teki MirJamille, tiella, kuin te Egyptista laksitte.	
 
-10. Ja kuin jotain lainaat lahimmaiselles, ala mene hanen huoneesensa panttia ottamaan,	
+<div class="versenum">10.</div> Ja kuin jotain lainaat lahimmaiselles, ala mene hanen huoneesensa panttia ottamaan,	
 
-11. Vaan seiso ulkona, ja se, jolle lainasit, kantakaan itse pantin sinulle ulos.	
+<div class="versenum">11.</div> Vaan seiso ulkona, ja se, jolle lainasit, kantakaan itse pantin sinulle ulos.	
 
-12. Vaan jos han koyha on, ala mene levata hanen pantillansa,	
+<div class="versenum">12.</div> Vaan jos han koyha on, ala mene levata hanen pantillansa,	
 
-13. Vaan anna hanen panttinsa kaiketikin jalleen ennen auringon laskemata, etta han makais vaatteissansa ja siunais sinua: ja se luetaan sinulle vanhurskaudeksi Herran sinun Jumalas edessa.	
+<div class="versenum">13.</div> Vaan anna hanen panttinsa kaiketikin jalleen ennen auringon laskemata, etta han makais vaatteissansa ja siunais sinua: ja se luetaan sinulle vanhurskaudeksi Herran sinun Jumalas edessa.	
 
-14. Ala tee vaaryytta koyhalle ja tarvitsevalle paivamiehelle, joko han olis sinun veljistas, eli muukalaisista, joka on sinun maallas sinun porteissas.	
+<div class="versenum">14.</div> Ala tee vaaryytta koyhalle ja tarvitsevalle paivamiehelle, joko han olis sinun veljistas, eli muukalaisista, joka on sinun maallas sinun porteissas.	
 
-15. Vaan maksa hanelle hanen palkkansa sina paivana, ennen auringon laskemata; silla han on hataytynyt ja siita han elaa, ettei han huutaisi Herran tyko sinun tahtes, ja se luettaisiin sinulle synniksi.	
+<div class="versenum">15.</div> Vaan maksa hanelle hanen palkkansa sina paivana, ennen auringon laskemata; silla han on hataytynyt ja siita han elaa, ettei han huutaisi Herran tyko sinun tahtes, ja se luettaisiin sinulle synniksi.	
 
-16. Ei pida isain kuoleman lasten tahden, eika myos lasten isainsa tahden; mutta kunkin pitaa kuoleman oman syntinsa tahden.	
+<div class="versenum">16.</div> Ei pida isain kuoleman lasten tahden, eika myos lasten isainsa tahden; mutta kunkin pitaa kuoleman oman syntinsa tahden.	
 
-17. Ala kaanna muukalaisen eli orvon oikeutta, ala myos leskelta ota vaatteita pantiksi;	
+<div class="versenum">17.</div> Ala kaanna muukalaisen eli orvon oikeutta, ala myos leskelta ota vaatteita pantiksi;	
 
-18. Vaan muista, etta sinakin olit orja Egyptissa, ja Herra sinun Jumalas sielta sinun johdatti; sentahden mina sinua kasken, ettas namat tekisit.	
+<div class="versenum">18.</div> Vaan muista, etta sinakin olit orja Egyptissa, ja Herra sinun Jumalas sielta sinun johdatti; sentahden mina sinua kasken, ettas namat tekisit.	
 
-19. Kuin pellostas elon leikkaat, ja lyhde sinulta sinne unohtuu, ala palaja sita ottamaan, vaan olkoon se muukalaisen, orvon ja lesken oma, etta Herra sinun Jumalas siunaisi sinua kaikissa sinun kattes toissa.	
+<div class="versenum">19.</div> Kuin pellostas elon leikkaat, ja lyhde sinulta sinne unohtuu, ala palaja sita ottamaan, vaan olkoon se muukalaisen, orvon ja lesken oma, etta Herra sinun Jumalas siunaisi sinua kaikissa sinun kattes toissa.	
 
-20. Kuin olet poiminut oljypuus hedelmat, niin ala vastuudesta sita varista; vaan sen pitaa muukalaisen, orvon ja lesken oman oleman.	
+<div class="versenum">20.</div> Kuin olet poiminut oljypuus hedelmat, niin ala vastuudesta sita varista; vaan sen pitaa muukalaisen, orvon ja lesken oman oleman.	
 
-21. Kuin viinamakes korjannut olet, ala vastuudesta jaaneita hae; vaan ne pitaa muukalaisen, orvon ja lesken omat oleman.	
+<div class="versenum">21.</div> Kuin viinamakes korjannut olet, ala vastuudesta jaaneita hae; vaan ne pitaa muukalaisen, orvon ja lesken omat oleman.	
 
-22. Ja muista, etta sina olet orja ollut Egyptin maalla, sentahden kasken mina sinua naita tekemaan.	
+<div class="versenum">22.</div> Ja muista, etta sina olet orja ollut Egyptin maalla, sentahden kasken mina sinua naita tekemaan.	
 

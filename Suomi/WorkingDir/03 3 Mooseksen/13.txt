@@ -1,120 +1,120 @@
 3 Mooseksen 13	
 	
-1. Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
+<div class="versenum">1.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
 
-2. Jos ihmisen ihoon tulee ajos, eli rupi, eli syhelma, niinkuin spitalitauti tahtois tulla hanen ihoonsa, niin pitaa han vietaman papin Aaronin tyko, eli yhden hanen pojistansa pappein seasta.	
+<div class="versenum">2.</div> Jos ihmisen ihoon tulee ajos, eli rupi, eli syhelma, niinkuin spitalitauti tahtois tulla hanen ihoonsa, niin pitaa han vietaman papin Aaronin tyko, eli yhden hanen pojistansa pappein seasta.	
 
-3. Ja sitte kuin pappi nakee merkin ihossa, ja jos karvat merkissa ovat muuttuneet valkiaksi, ja haavan paikka on nahda matalampi kuin muu iho hanen ruumiissansa, niin se on spitalitauti, sentahden pitaa papin katseleman hanta ja tuomitseman hanen saastaiseksi.	
+<div class="versenum">3.</div> Ja sitte kuin pappi nakee merkin ihossa, ja jos karvat merkissa ovat muuttuneet valkiaksi, ja haavan paikka on nahda matalampi kuin muu iho hanen ruumiissansa, niin se on spitalitauti, sentahden pitaa papin katseleman hanta ja tuomitseman hanen saastaiseksi.	
 
-4. Mutta jos hanen ihossansa on valkea syhelma, eika kuitenkaan nay olevan syvemmalla muuta ihoa, ja karvat ei ole muuttuneet valkiaksi, niin pitaa papin hanen sulkeman sisalle seitsemaksi paivaksi.	
+<div class="versenum">4.</div> Mutta jos hanen ihossansa on valkea syhelma, eika kuitenkaan nay olevan syvemmalla muuta ihoa, ja karvat ei ole muuttuneet valkiaksi, niin pitaa papin hanen sulkeman sisalle seitsemaksi paivaksi.	
 
-5. Ja seitsemantena paivana katselkaan pappi hanta, jos haavat nakyvat hanessa olevan niinkuin ennekin, ja ei ole levinneet hanen ihossansa, niin papin pitaa hanen jalleen toiseksi seitsemaksi paivaksi sulkeman sisalle.	
+<div class="versenum">5.</div> Ja seitsemantena paivana katselkaan pappi hanta, jos haavat nakyvat hanessa olevan niinkuin ennekin, ja ei ole levinneet hanen ihossansa, niin papin pitaa hanen jalleen toiseksi seitsemaksi paivaksi sulkeman sisalle.	
 
-6. Ja koska pappi taas katselee hanen toisena seitsemantena paivana ja loytaa haavat rauvenneeksi, eika levinneeksi hanen ihossansa, niin pitaa papin tuomitseman hanen puhtaaksi; silla se on syhelma: ja pitaa peseman vaatteensa, ja niin on han puhdas.	
+<div class="versenum">6.</div> Ja koska pappi taas katselee hanen toisena seitsemantena paivana ja loytaa haavat rauvenneeksi, eika levinneeksi hanen ihossansa, niin pitaa papin tuomitseman hanen puhtaaksi; silla se on syhelma: ja pitaa peseman vaatteensa, ja niin on han puhdas.	
 
-7. Mutta jos rupi leviaa hanen ihossansa, sitte kuin han on papilta katsottu ja puhtaaksi sanottu, niin han pitaa katsottaman toisen kerran papilta.	
+<div class="versenum">7.</div> Mutta jos rupi leviaa hanen ihossansa, sitte kuin han on papilta katsottu ja puhtaaksi sanottu, niin han pitaa katsottaman toisen kerran papilta.	
 
-8. Jos siis pappi nakee, etta ruvet ovat levinneet hanen ihossansa, niin pitaa papin tuomitseman hanen saastaiseksi: se on spitali.	
+<div class="versenum">8.</div> Jos siis pappi nakee, etta ruvet ovat levinneet hanen ihossansa, niin pitaa papin tuomitseman hanen saastaiseksi: se on spitali.	
 
-9. Mutta koska spitalin haava tulee ihmiseen, niin han pitaa vietaman papin tyko.	
+<div class="versenum">9.</div> Mutta koska spitalin haava tulee ihmiseen, niin han pitaa vietaman papin tyko.	
 
-10. Ja koska pappi nake valkian ajoksen tulleeksi hanen ihoonsa, ja karvat vaalistuneeksi, ja elevan lihan olevan ajoksessa.	
+<div class="versenum">10.</div> Ja koska pappi nake valkian ajoksen tulleeksi hanen ihoonsa, ja karvat vaalistuneeksi, ja elevan lihan olevan ajoksessa.	
 
-11. Niin on vanha spitali hanen ihossansa, ja sentahden pitaa papin tuomitseman hanta saastaiseksi, ja ei silleen sulkeman sisalle, silla han on jo saastainen.	
+<div class="versenum">11.</div> Niin on vanha spitali hanen ihossansa, ja sentahden pitaa papin tuomitseman hanta saastaiseksi, ja ei silleen sulkeman sisalle, silla han on jo saastainen.	
 
-12. Ja jos spitali kovin leviaa hanen ihossansa, ja tayttaa koko ihonsa, paasta niin jalkoihin, kaiken sen jalkeen, mita pappi nakee silmainsa edessa.	
+<div class="versenum">12.</div> Ja jos spitali kovin leviaa hanen ihossansa, ja tayttaa koko ihonsa, paasta niin jalkoihin, kaiken sen jalkeen, mita pappi nakee silmainsa edessa.	
 
-13. Koska pappi katsoo ja nakee spitalin peittaneeksi koko hanen ihona, niin pitaa han tuomitseman hanen puhtaaksi, sentahden etta kaikki on hanessa muuttunut valkiaksi; silla han on puhdas.	
+<div class="versenum">13.</div> Koska pappi katsoo ja nakee spitalin peittaneeksi koko hanen ihona, niin pitaa han tuomitseman hanen puhtaaksi, sentahden etta kaikki on hanessa muuttunut valkiaksi; silla han on puhdas.	
 
-14. Mutta jona paivana elava liha hanessa nakyy, niin han tuomitaan saastaiseksi,	
+<div class="versenum">14.</div> Mutta jona paivana elava liha hanessa nakyy, niin han tuomitaan saastaiseksi,	
 
-15. Ja pappi nahtyansa elavan lihan, pitaa hanen tuomitseman saastaiseksi; silla elava liha on saastainen, ja se on spitali.	
+<div class="versenum">15.</div> Ja pappi nahtyansa elavan lihan, pitaa hanen tuomitseman saastaiseksi; silla elava liha on saastainen, ja se on spitali.	
 
-16. Mutta jos se elava liha muuttuu jalleen valkiaksi, niin pitaa hanen tuleman papin tyko,	
+<div class="versenum">16.</div> Mutta jos se elava liha muuttuu jalleen valkiaksi, niin pitaa hanen tuleman papin tyko,	
 
-17. Ja koska pappi nakee haavat muuttuneen valkiaksi, niin papin pitaa tuomitseman hanen puhtaaksi; silla han on puhdas.	
+<div class="versenum">17.</div> Ja koska pappi nakee haavat muuttuneen valkiaksi, niin papin pitaa tuomitseman hanen puhtaaksi; silla han on puhdas.	
 
-18. Ja jos jonkun ihoon tulee paisuma, ja paranee jalleen,	
+<div class="versenum">18.</div> Ja jos jonkun ihoon tulee paisuma, ja paranee jalleen,	
 
-19. Ja sitte siihen siaan tulee jotakin valkiaa eli punaista rakkoa, se pitaa katsottaman papilta.	
+<div class="versenum">19.</div> Ja sitte siihen siaan tulee jotakin valkiaa eli punaista rakkoa, se pitaa katsottaman papilta.	
 
-20. Koska pappi nakee sen paikan matalammaksi muuta ihoa, ja karvat ovat muuttuneet valkiaksi, niin papin pitaa hanen tuomitseman saastaiseksi; silla siita paisumasta on spitali tullut.	
+<div class="versenum">20.</div> Koska pappi nakee sen paikan matalammaksi muuta ihoa, ja karvat ovat muuttuneet valkiaksi, niin papin pitaa hanen tuomitseman saastaiseksi; silla siita paisumasta on spitali tullut.	
 
-21. Mutta jos pappi nakee, ettei karvat ole siina muuttuneet valkiaksi, ja ei ole matalampi kuin muukaan iho, ja se on kadonnut, niin papin pitaa sulkeman hanen sisalle seitsemaksi paivaksi.	
+<div class="versenum">21.</div> Mutta jos pappi nakee, ettei karvat ole siina muuttuneet valkiaksi, ja ei ole matalampi kuin muukaan iho, ja se on kadonnut, niin papin pitaa sulkeman hanen sisalle seitsemaksi paivaksi.	
 
-22. Mutta jos se paljo levenee hanen ihossansa, niin pitaa papin tuomitseman hanen saastaiseksi; silla se on spitalin haava.	
+<div class="versenum">22.</div> Mutta jos se paljo levenee hanen ihossansa, niin pitaa papin tuomitseman hanen saastaiseksi; silla se on spitalin haava.	
 
-23. Mutta jos se syhelma pysyy siallansa, ja ei levita itseansa, niin se on paisuman arpi, ja papin pitaa tuomitseman hanen puhtaaksi.	
+<div class="versenum">23.</div> Mutta jos se syhelma pysyy siallansa, ja ei levita itseansa, niin se on paisuman arpi, ja papin pitaa tuomitseman hanen puhtaaksi.	
 
-24. Ja jos jonkun iho tulee rupiin tulen poltteesta ja polton haavat ovat punaiset taikka valkiat,	
+<div class="versenum">24.</div> Ja jos jonkun iho tulee rupiin tulen poltteesta ja polton haavat ovat punaiset taikka valkiat,	
 
-25. Ja pappi nakee sen karvat muuttuneeksi valkiaksi, siita kuin palanut on, ja matalammaksi muuta ihoa, niin on spitali tullut siita poltteesta: sentahden pitaa papin tuomitseman hanen saastaiseksi; silla se on spitalin haava.	
+<div class="versenum">25.</div> Ja pappi nakee sen karvat muuttuneeksi valkiaksi, siita kuin palanut on, ja matalammaksi muuta ihoa, niin on spitali tullut siita poltteesta: sentahden pitaa papin tuomitseman hanen saastaiseksi; silla se on spitalin haava.	
 
-26. Mutta jos pappi nakee, ettei karvat palaneessa ole muuttuneet valkiaksi, eika matalammaksi ole tullut muuta ihoa, ja on siita kadonnut, niin pitaa papin sulkeman hanen sisalle seitsemaksi paivaksi.	
+<div class="versenum">26.</div> Mutta jos pappi nakee, ettei karvat palaneessa ole muuttuneet valkiaksi, eika matalammaksi ole tullut muuta ihoa, ja on siita kadonnut, niin pitaa papin sulkeman hanen sisalle seitsemaksi paivaksi.	
 
-27. Ja seitsemantena paivana pitaa papin katseleman hanta: jos se on paljo levinnyt hanessa, niin papin pitaa tuomitseman hanen saastaiseksi; silla se on spitali.	
+<div class="versenum">27.</div> Ja seitsemantena paivana pitaa papin katseleman hanta: jos se on paljo levinnyt hanessa, niin papin pitaa tuomitseman hanen saastaiseksi; silla se on spitali.	
 
-28. Mutta jos se on alallansa pysynyt palaneessa, eika ole levinnyt hanen ihossansa, mutta on kadonnut, niin se on arpi palaneen jalkeen, ja papin pitaa tuomitseman hanen puhtaaksi; silla se on arpi palaneen jalkeen.	
+<div class="versenum">28.</div> Mutta jos se on alallansa pysynyt palaneessa, eika ole levinnyt hanen ihossansa, mutta on kadonnut, niin se on arpi palaneen jalkeen, ja papin pitaa tuomitseman hanen puhtaaksi; silla se on arpi palaneen jalkeen.	
 
-29. Jos mieheen eli vaimoon tulee syhelma, paahan eli partaan,	
+<div class="versenum">29.</div> Jos mieheen eli vaimoon tulee syhelma, paahan eli partaan,	
 
-30. Ja pappi katsoo sen ruven ja nakee sen matalammaksi muuta ihoa, ja karvat tulevat siita paikasta keltaiseksi ja harvemmaksi, niin papin pitaa tuomitseman sen saastaiseksi; silla se on rupi, se on spitali paassa eli parrassa.	
+<div class="versenum">30.</div> Ja pappi katsoo sen ruven ja nakee sen matalammaksi muuta ihoa, ja karvat tulevat siita paikasta keltaiseksi ja harvemmaksi, niin papin pitaa tuomitseman sen saastaiseksi; silla se on rupi, se on spitali paassa eli parrassa.	
 
-31. Mutta jos pappi nakee, ettei se rupi ole matalampi muuta ihoa, ja karvat ei ole hanessa mustat, niin pitaa papin sulkeman hanen, jolla rupihaava on, sisalle seitsemaksi paivaksi.	
+<div class="versenum">31.</div> Mutta jos pappi nakee, ettei se rupi ole matalampi muuta ihoa, ja karvat ei ole hanessa mustat, niin pitaa papin sulkeman hanen, jolla rupihaava on, sisalle seitsemaksi paivaksi.	
 
-32. Ja koska pappi seitsemantena paivana nakee, ettei rupi ole levinnyt ihossa, eika ole keltaisia karvoja, ja ei ole rupi matalampi nahda muuta ihoa,	
+<div class="versenum">32.</div> Ja koska pappi seitsemantena paivana nakee, ettei rupi ole levinnyt ihossa, eika ole keltaisia karvoja, ja ei ole rupi matalampi nahda muuta ihoa,	
 
-33. Pitaa hanen ajeleman itsensa, kuitenkin ettei han ajele rupea ja papin pitaa hanen, jolla rupi on, sulkeman sisalle toiseksi seitsemaksi paivaksi;	
+<div class="versenum">33.</div> Pitaa hanen ajeleman itsensa, kuitenkin ettei han ajele rupea ja papin pitaa hanen, jolla rupi on, sulkeman sisalle toiseksi seitsemaksi paivaksi;	
 
-34. Ja koska pappi seitsemantena paivana nakee ruven, ja loytaa, ettei rupi ole levinnyt ihossa, ja ei ole matalampi muuta ihoa, niin papin pitaa tuomitseman hanen puhtaaksi, ja hanen pitaa peseman vaatteensa, ja niin puhdas oleman.	
+<div class="versenum">34.</div> Ja koska pappi seitsemantena paivana nakee ruven, ja loytaa, ettei rupi ole levinnyt ihossa, ja ei ole matalampi muuta ihoa, niin papin pitaa tuomitseman hanen puhtaaksi, ja hanen pitaa peseman vaatteensa, ja niin puhdas oleman.	
 
-35. Mutta jos rupi kovin levittaa itsensa ihoon hanen puhdistuksensa jalkeen,	
+<div class="versenum">35.</div> Mutta jos rupi kovin levittaa itsensa ihoon hanen puhdistuksensa jalkeen,	
 
-36. Ja pappi nakee ruven levinneeksi ihossa, niin ei pida papin silleen kysyman, jos karvat ovat keltaiset; silla han on saastainen.	
+<div class="versenum">36.</div> Ja pappi nakee ruven levinneeksi ihossa, niin ei pida papin silleen kysyman, jos karvat ovat keltaiset; silla han on saastainen.	
 
-37. Jos se on silmain edessa nahda, etta rupi on yhdellansa ollut, ja siita ovat mustat karvat kayneet ulos, niin rupi on parantunut, ja han on puhdas: sentahden pitaa papin hanen puhtaaksi sanoman.	
+<div class="versenum">37.</div> Jos se on silmain edessa nahda, etta rupi on yhdellansa ollut, ja siita ovat mustat karvat kayneet ulos, niin rupi on parantunut, ja han on puhdas: sentahden pitaa papin hanen puhtaaksi sanoman.	
 
-38. Ja jos miehen eli vaimon ihoon tulee valkia syhelma,	
+<div class="versenum">38.</div> Ja jos miehen eli vaimon ihoon tulee valkia syhelma,	
 
-39. Ja pappi nakee sen rauvenneeksi, niin on valkia rupi tullut hanen ihoonsa, ja han on puhdas.	
+<div class="versenum">39.</div> Ja pappi nakee sen rauvenneeksi, niin on valkia rupi tullut hanen ihoonsa, ja han on puhdas.	
 
-40. Jos miehen hiukset paasta lahtevat, niin etta han tulee paljaspaaksi, han on puhdas.	
+<div class="versenum">40.</div> Jos miehen hiukset paasta lahtevat, niin etta han tulee paljaspaaksi, han on puhdas.	
 
-41. Ja jos ne etiselta puolelta paata lahtevat, niin han on otsalta paljas, ja on puhdas.	
+<div class="versenum">41.</div> Ja jos ne etiselta puolelta paata lahtevat, niin han on otsalta paljas, ja on puhdas.	
 
-42. Mutta jos joku valkea taikka punainen haava tulee paljaan paalle, niin on siihen spitali tullut paljaan paan eli otsan paalle;	
+<div class="versenum">42.</div> Mutta jos joku valkea taikka punainen haava tulee paljaan paalle, niin on siihen spitali tullut paljaan paan eli otsan paalle;	
 
-43. Sentahden pitaa papin katsoman hanta, ja koska han nakee valkian eli punaisen haavan tulleen paljaan paan eli otsan paalle, etta se nakyy niinkuin muukin spitali ihossa,	
+<div class="versenum">43.</div> Sentahden pitaa papin katsoman hanta, ja koska han nakee valkian eli punaisen haavan tulleen paljaan paan eli otsan paalle, etta se nakyy niinkuin muukin spitali ihossa,	
 
-44. Niin han on spitalinen ja saastainen mies, ja papin pitaa kaiketi tuomitseman hanen saastaiseksi, senkaltaisen haavan tahden hanen paassansa.	
+<div class="versenum">44.</div> Niin han on spitalinen ja saastainen mies, ja papin pitaa kaiketi tuomitseman hanen saastaiseksi, senkaltaisen haavan tahden hanen paassansa.	
 
-45. Joka spitalinen on, hanen vaatteensa pitaa revityt oleman, ja paa avoin, suu peitetty, ja hanen pitaa huutaman: saastainen! saastainen!	
+<div class="versenum">45.</div> Joka spitalinen on, hanen vaatteensa pitaa revityt oleman, ja paa avoin, suu peitetty, ja hanen pitaa huutaman: saastainen! saastainen!	
 
-46. Niinkauvan kuin haava hanessa on, pitaa hanen saastainen oleman, yksinansa asuman ja hanen asuinsiansa ulkona leirista oleman.	
+<div class="versenum">46.</div> Niinkauvan kuin haava hanessa on, pitaa hanen saastainen oleman, yksinansa asuman ja hanen asuinsiansa ulkona leirista oleman.	
 
-47. Jos jonkun vaatteeseen tulee tulee spitalin haava, olkoon se lankainen eli liinainen,	
+<div class="versenum">47.</div> Jos jonkun vaatteeseen tulee tulee spitalin haava, olkoon se lankainen eli liinainen,	
 
-48. Loimeen eli kuteesen, olkoon se liinainen eli villainen, elikka nahkaan, elikka kaikkinaiseen nahkavaatteeseen:	
+<div class="versenum">48.</div> Loimeen eli kuteesen, olkoon se liinainen eli villainen, elikka nahkaan, elikka kaikkinaiseen nahkavaatteeseen:	
 
-49. Ja jos se haava kovin vihertyy, eli paljo punertuu vaatteessa, eli nahassa, eli loimessa, eli kuteessa, eli jossakussa kappaleessa, joka nahasta tehty on, se on spitalin haava; sentahden pitaa papin hanta katsoman.	
+<div class="versenum">49.</div> Ja jos se haava kovin vihertyy, eli paljo punertuu vaatteessa, eli nahassa, eli loimessa, eli kuteessa, eli jossakussa kappaleessa, joka nahasta tehty on, se on spitalin haava; sentahden pitaa papin hanta katsoman.	
 
-50. Ja koska pappi senkaltaisen haavan nakee, niin hanen pitaa sen sulkeman sisalle seitsemaksi paivaksi;	
+<div class="versenum">50.</div> Ja koska pappi senkaltaisen haavan nakee, niin hanen pitaa sen sulkeman sisalle seitsemaksi paivaksi;	
 
-51. Ja jos han seitsemantena paivana nakee etta haava on levinnyt vaatteessa, loimessa eli kuteessa, nahassa, eli jossakussa kappaleessa joka nahasta tehty on, niin on se kuluttavainen spitali, ja se haava on saastainen.	
+<div class="versenum">51.</div> Ja jos han seitsemantena paivana nakee etta haava on levinnyt vaatteessa, loimessa eli kuteessa, nahassa, eli jossakussa kappaleessa joka nahasta tehty on, niin on se kuluttavainen spitali, ja se haava on saastainen.	
 
-52. Ja hanen pitaa vaatteet polttaman, loimen ja kuteen, eli mika se olis, liinainen eli lankainen, eli kaikkinainen joka nahasta tehty on, jossa senkaltainen haava on; silla se on kuluttavainen spitali, ja pitaa tulessa poltettaman.	
+<div class="versenum">52.</div> Ja hanen pitaa vaatteet polttaman, loimen ja kuteen, eli mika se olis, liinainen eli lankainen, eli kaikkinainen joka nahasta tehty on, jossa senkaltainen haava on; silla se on kuluttavainen spitali, ja pitaa tulessa poltettaman.	
 
-53. Ja jos pappi nakee, ettei haava ole levinnyt vaatteessa, loimessa eli kuteessa, eli kaikkinaisessa kappaleessa joka nahasta on,	
+<div class="versenum">53.</div> Ja jos pappi nakee, ettei haava ole levinnyt vaatteessa, loimessa eli kuteessa, eli kaikkinaisessa kappaleessa joka nahasta on,	
 
-54. Niin pitaa papin kaskeman pesta sen, jossa haava on, ja pitaa hanen sulkeman sisalle jallensa toiseksi seitsemaksi paivaksi.	
+<div class="versenum">54.</div> Niin pitaa papin kaskeman pesta sen, jossa haava on, ja pitaa hanen sulkeman sisalle jallensa toiseksi seitsemaksi paivaksi.	
 
-55. Ja koska pappi nakee haavan, sittekuin se pesty on, ettei haava ole muuttunut hanen silmainsa edessa, eika myos ole levinnyt, niin se on saastainen, ja pitaa tulessa poltettaman; silla se on syvalle itsensa laskenut, ja on sen paljaaksi kuluttanut.	
+<div class="versenum">55.</div> Ja koska pappi nakee haavan, sittekuin se pesty on, ettei haava ole muuttunut hanen silmainsa edessa, eika myos ole levinnyt, niin se on saastainen, ja pitaa tulessa poltettaman; silla se on syvalle itsensa laskenut, ja on sen paljaaksi kuluttanut.	
 
-56. Jos pappi nakee, ette haava kadonnut on sittekuin se pestiin, niin hanen pitaa sen repaiseman pois vaatteesta, nahasta, loimesta eli kuteesta.	
+<div class="versenum">56.</div> Jos pappi nakee, ette haava kadonnut on sittekuin se pestiin, niin hanen pitaa sen repaiseman pois vaatteesta, nahasta, loimesta eli kuteesta.	
 
-57. Ja jos se viela sitte nakyy vaatteessa, loimessa, kuteessa eli kaikkinaisessa nahkavaatteessa, niin se on pisama, ja se pitaa poltettaman tulessa ynna sen kanssa, jossa se haava on.	
+<div class="versenum">57.</div> Ja jos se viela sitte nakyy vaatteessa, loimessa, kuteessa eli kaikkinaisessa nahkavaatteessa, niin se on pisama, ja se pitaa poltettaman tulessa ynna sen kanssa, jossa se haava on.	
 
-58. Mutta vaate, loimi, kude, eli kaikkinainen nahkakalu, kuin pesty on, joista haava kadonnut on; se pitaa vastuudesta pestaman ja puhdas oleman.	
+<div class="versenum">58.</div> Mutta vaate, loimi, kude, eli kaikkinainen nahkakalu, kuin pesty on, joista haava kadonnut on; se pitaa vastuudesta pestaman ja puhdas oleman.	
 
-59. Tama on saaty spitalisesta ruvesta vaatteessa, liinaisessa, lankaisessa loimessa eli kuteessa, ja kaikkinaisessa nahkavaatteessa: niita puhtaaksi eli saastaiseksi sanoa.	
+<div class="versenum">59.</div> Tama on saaty spitalisesta ruvesta vaatteessa, liinaisessa, lankaisessa loimessa eli kuteessa, ja kaikkinaisessa nahkavaatteessa: niita puhtaaksi eli saastaiseksi sanoa.	
 

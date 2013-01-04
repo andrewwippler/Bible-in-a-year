@@ -1,38 +1,38 @@
 2 Korinttilaisille 6	
 	
-1. Mutta me niinkuin apulaiset neuvomme teita, ettette Jumalan armoa hukkaan ottaisi.	
+<div class="versenum">1.</div> Mutta me niinkuin apulaiset neuvomme teita, ettette Jumalan armoa hukkaan ottaisi.	
 
-2. Silla han sanoo: mina olen otollisella ajalla sinua kuullut ja olen sinua autuuden paivana auttanut. Katso, nyt on otollinen aika, katso, nyt on autuuden paiva.	
+<div class="versenum">2.</div> Silla han sanoo: mina olen otollisella ajalla sinua kuullut ja olen sinua autuuden paivana auttanut. Katso, nyt on otollinen aika, katso, nyt on autuuden paiva.	
 
-3. Alkaamme kellenkaan jossakussa pahennusta antako, ettei meidan virkaamme laitettaisi;	
+<div class="versenum">3.</div> Alkaamme kellenkaan jossakussa pahennusta antako, ettei meidan virkaamme laitettaisi;	
 
-4. Vaan osoittakaamme meitamme kaikissa asioissa niinkuin Jumalan palveliat: suuressa karsivallisyydessa, vaivoissa, hadissa, suruissa,	
+<div class="versenum">4.</div> Vaan osoittakaamme meitamme kaikissa asioissa niinkuin Jumalan palveliat: suuressa karsivallisyydessa, vaivoissa, hadissa, suruissa,	
 
-5. Haavoissa, vankiuksissa, kapinoissa, toissa, valvomisissa, paastoissa,	
+<div class="versenum">5.</div> Haavoissa, vankiuksissa, kapinoissa, toissa, valvomisissa, paastoissa,	
 
-6. Puhtaassa elamassa, taidossa, pitkamielisyydessa, suloisuudessa, Pyhassa Hengessa, vilpittomassa rakkaudessa.	
+<div class="versenum">6.</div> Puhtaassa elamassa, taidossa, pitkamielisyydessa, suloisuudessa, Pyhassa Hengessa, vilpittomassa rakkaudessa.	
 
-7. Totuuden sanassa, Jumalan vaessa vanhurskauden sota-aseiden kautta oikialla ja vasemmalla puolella,	
+<div class="versenum">7.</div> Totuuden sanassa, Jumalan vaessa vanhurskauden sota-aseiden kautta oikialla ja vasemmalla puolella,	
 
-8. Kunnian kautta ja pilkan, panetuksen ja kiitoksen kautta, niinkuin vietteliat ja kuitenkin vakaat,	
+<div class="versenum">8.</div> Kunnian kautta ja pilkan, panetuksen ja kiitoksen kautta, niinkuin vietteliat ja kuitenkin vakaat,	
 
-9. Niinkuin tuntemattomat ja kuitenkin tutut, niinkuin kuolevaiset ja katso, me elamme, niinkuin rangaistut ja ei kuitenkaan tapetut,	
+<div class="versenum">9.</div> Niinkuin tuntemattomat ja kuitenkin tutut, niinkuin kuolevaiset ja katso, me elamme, niinkuin rangaistut ja ei kuitenkaan tapetut,	
 
-10. Niinkuin murheelliset ja kuitenkin aina iloiset, niinkuin koyhat, mutta kuitenkin monta rikkaaksi tekevaiset, niinkuin ne, joilla ei mitaan ole ja joiden kuitenkin kaikki omat ovat.	
+<div class="versenum">10.</div> Niinkuin murheelliset ja kuitenkin aina iloiset, niinkuin koyhat, mutta kuitenkin monta rikkaaksi tekevaiset, niinkuin ne, joilla ei mitaan ole ja joiden kuitenkin kaikki omat ovat.	
 
-11. Te Korintilaiset! meidan suumme on hanensa avannut teidan kohtaanne, meidan sydamemme on levinnyt.	
+<div class="versenum">11.</div> Te Korintilaiset! meidan suumme on hanensa avannut teidan kohtaanne, meidan sydamemme on levinnyt.	
 
-12. Ette ole ahtaalla meissa; mutta itse teissanne te ahtaalla olette.	
+<div class="versenum">12.</div> Ette ole ahtaalla meissa; mutta itse teissanne te ahtaalla olette.	
 
-13. Mina sanon niinkuin lapsilleni, etta te myos minua vastaan teitanne niin asettaisitte, ja levittakaat teitanne.	
+<div class="versenum">13.</div> Mina sanon niinkuin lapsilleni, etta te myos minua vastaan teitanne niin asettaisitte, ja levittakaat teitanne.	
 
-14. Alkaat vetako ijesta epauskoisten kanssa; silla mita oikeuden on vaaryyden kanssa tekemista? eli mita osallisuutta on valkeudella pimeyden kanssa?	
+<div class="versenum">14.</div> Alkaat vetako ijesta epauskoisten kanssa; silla mita oikeuden on vaaryyden kanssa tekemista? eli mita osallisuutta on valkeudella pimeyden kanssa?	
 
-15. Ja mika sovinto on Kristuksella belialin kanssa? taikka mika osa on uskovaisella uskottoman kanssa?	
+<div class="versenum">15.</div> Ja mika sovinto on Kristuksella belialin kanssa? taikka mika osa on uskovaisella uskottoman kanssa?	
 
-16. Eli kuinka Jumalan templi sopii epajumalain kanssa? Silla te olette elavan Jumalan templi, niinkuin Jumala sanoo: mina tahdon heissa asua ja heissa vaeltaa, ja mina tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	
+<div class="versenum">16.</div> Eli kuinka Jumalan templi sopii epajumalain kanssa? Silla te olette elavan Jumalan templi, niinkuin Jumala sanoo: mina tahdon heissa asua ja heissa vaeltaa, ja mina tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	
 
-17. Sentahden paetkaat heidan seastansa ja eroittakaat teitanne, sanoo Herra: ja alkaat saastaiseen ruvetko, ja niin mina korjaan teita,	
+<div class="versenum">17.</div> Sentahden paetkaat heidan seastansa ja eroittakaat teitanne, sanoo Herra: ja alkaat saastaiseen ruvetko, ja niin mina korjaan teita,	
 
-18. Ja olen teidan Isanne, ja teidan pitaa oleman minun poikani ja tyttareni, sanoo kaikkivaltias Herra.	
+<div class="versenum">18.</div> Ja olen teidan Isanne, ja teidan pitaa oleman minun poikani ja tyttareni, sanoo kaikkivaltias Herra.	
 

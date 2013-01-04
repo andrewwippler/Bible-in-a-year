@@ -1,42 +1,42 @@
 1 Mooseksen 23	
 	
-1. Ja Saaran elinaika oli sata ja seitsemankolmattakymmenta ajastaikaa: ne olivat Saaran ikavuodet.	
+<div class="versenum">1.</div> Ja Saaran elinaika oli sata ja seitsemankolmattakymmenta ajastaikaa: ne olivat Saaran ikavuodet.	
 
-2. Ja Saara kuoli Arban kaupungissa, joka (on) Hebron Kanaanin maalla. Niin tuli Abraham murehtimaan Saaraa ja itkemaan hanta.	
+<div class="versenum">2.</div> Ja Saara kuoli Arban kaupungissa, joka (on) Hebron Kanaanin maalla. Niin tuli Abraham murehtimaan Saaraa ja itkemaan hanta.	
 
-3. Sitte nousi han kuolleensa tykoa; ja puhui Hetin lapsille sanoen:	
+<div class="versenum">3.</div> Sitte nousi han kuolleensa tykoa; ja puhui Hetin lapsille sanoen:	
 
-4. Mina olen muukalainen ja kuitenkin asuvainen teidan tykonanne, antakaat minulle perintohauta teidan tykonanne, haudatakseni minun kuolleeni, joka on minun edessani.	
+<div class="versenum">4.</div> Mina olen muukalainen ja kuitenkin asuvainen teidan tykonanne, antakaat minulle perintohauta teidan tykonanne, haudatakseni minun kuolleeni, joka on minun edessani.	
 
-5. Niin vastasivat Hetin lapset Abrahamia, sanoen hanelle:	
+<div class="versenum">5.</div> Niin vastasivat Hetin lapset Abrahamia, sanoen hanelle:	
 
-6. Kuule meita, rakas herra: sina olet Jumalan ruhtinas meidan seassamme, hautaa sinun kuollees meidan parhaisiin hautoihimme: ei yksikaan meista sinua kiella hautaamasta kuolluttas hanen hautaansa.	
+<div class="versenum">6.</div> Kuule meita, rakas herra: sina olet Jumalan ruhtinas meidan seassamme, hautaa sinun kuollees meidan parhaisiin hautoihimme: ei yksikaan meista sinua kiella hautaamasta kuolluttas hanen hautaansa.	
 
-7. Niin Abraham nousi ja kumarsi itsensa maan kansan edessa, (nimittain) Hetin lasten edessa.	
+<div class="versenum">7.</div> Niin Abraham nousi ja kumarsi itsensa maan kansan edessa, (nimittain) Hetin lasten edessa.	
 
-8. Ja han puhui heille, sanoen: jos teidan mielenne on, etta mina hautaan minun kuolleeni, joka minun edessani on; niin kuulkaat minua, ja rukoilkaat minun edestani Ephronia Zoarin poikaa.	
+<div class="versenum">8.</div> Ja han puhui heille, sanoen: jos teidan mielenne on, etta mina hautaan minun kuolleeni, joka minun edessani on; niin kuulkaat minua, ja rukoilkaat minun edestani Ephronia Zoarin poikaa.	
 
-9. Etta han antais minulle Makpelan luolan, joka hanella on, vainionsa peralla: tayden hinnan edesta antakaan sen minulle teidan keskellanne perintohaudaksi.	
+<div class="versenum">9.</div> Etta han antais minulle Makpelan luolan, joka hanella on, vainionsa peralla: tayden hinnan edesta antakaan sen minulle teidan keskellanne perintohaudaksi.	
 
-10. Silla Ephron asui Hetin lasten seassa. Niin vastasi Ephron Hetilainen Abrahamia, Hetin poikain kuullen, kaikkein sisalle ja ulos kayvaisten hanen kaupunkinsa portista, sanoen:	
+<div class="versenum">10.</div> Silla Ephron asui Hetin lasten seassa. Niin vastasi Ephron Hetilainen Abrahamia, Hetin poikain kuullen, kaikkein sisalle ja ulos kayvaisten hanen kaupunkinsa portista, sanoen:	
 
-11. Ei, minun herrani, vaan kuule minua; vainion mina annan sinulle, ja luolan, joka siina on, annan mina sinulle: minun kansani lasten nahden annan mina sen sinulle; hautaa kuollees.	
+<div class="versenum">11.</div> Ei, minun herrani, vaan kuule minua; vainion mina annan sinulle, ja luolan, joka siina on, annan mina sinulle: minun kansani lasten nahden annan mina sen sinulle; hautaa kuollees.	
 
-12. Abraham kumarsi maan kansan edessa.	
+<div class="versenum">12.</div> Abraham kumarsi maan kansan edessa.	
 
-13. Ja puhui Ephronille maan kansan kuullen, sanoen: jos sina minua kuulet: mina annan rahan vainion edesta, ota se minulta, ja mina hautaan minun kuolleeni siihen.	
+<div class="versenum">13.</div> Ja puhui Ephronille maan kansan kuullen, sanoen: jos sina minua kuulet: mina annan rahan vainion edesta, ota se minulta, ja mina hautaan minun kuolleeni siihen.	
 
-14. Ephron vastasi Abrahamia, sanoen hanelle:	
+<div class="versenum">14.</div> Ephron vastasi Abrahamia, sanoen hanelle:	
 
-15. Minun herrani, kuule minua: maa maksaa neljasataa siklia hopiaa; vaan mita se on minun ja sinun valillas? hautaa sinun kuollees.	
+<div class="versenum">15.</div> Minun herrani, kuule minua: maa maksaa neljasataa siklia hopiaa; vaan mita se on minun ja sinun valillas? hautaa sinun kuollees.	
 
-16. Abraham kuuli Ephronia, ja punnitsi hanelle rahan, jonka han nimittanyt oli Hetin lasten kuullen: neljasataa siklia hopiaa, kaypaa rahaa.	
+<div class="versenum">16.</div> Abraham kuuli Ephronia, ja punnitsi hanelle rahan, jonka han nimittanyt oli Hetin lasten kuullen: neljasataa siklia hopiaa, kaypaa rahaa.	
 
-17. Ja niin vahvistettiin Ephronin vainio, joka Makpelassa on Mamren kohdalla, seka pelto etta luola joka siina on, ja kaikki puut siina vainiossa, jotka ympari kaikissa sen rajoissa ovat.	
+<div class="versenum">17.</div> Ja niin vahvistettiin Ephronin vainio, joka Makpelassa on Mamren kohdalla, seka pelto etta luola joka siina on, ja kaikki puut siina vainiossa, jotka ympari kaikissa sen rajoissa ovat.	
 
-18. (Kaikki ne tulivat) Abrahamille omaisuudeksi Hetin lasten nahden: kaikkein (nahden), jotka sisallekavivat hanen kaupunkinsa portista.	
+<div class="versenum">18.</div> (Kaikki ne tulivat) Abrahamille omaisuudeksi Hetin lasten nahden: kaikkein (nahden), jotka sisallekavivat hanen kaupunkinsa portista.	
 
-19. Ja sitte hautasi Abraham emantansa Saaran siihen luolaan, joka oli Makpelan vainiossa Mamren kohdalla; se on Hebron Kanaanin maalla:	
+<div class="versenum">19.</div> Ja sitte hautasi Abraham emantansa Saaran siihen luolaan, joka oli Makpelan vainiossa Mamren kohdalla; se on Hebron Kanaanin maalla:	
 
-20. Niin vahvistettiin siis vainio ja luola, joka siina oli, Abrahamille perintohaudaksi, Hetin lapsilta.	
+<div class="versenum">20.</div> Niin vahvistettiin siis vainio ja luola, joka siina oli, Abrahamille perintohaudaksi, Hetin lapsilta.	
 

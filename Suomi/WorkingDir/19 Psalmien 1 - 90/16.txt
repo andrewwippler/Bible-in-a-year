@@ -1,24 +1,24 @@
 Psalmien 16	
 	
-1. Davidin kultainen kappale. Katke minua Jumala; silla mina uskallan sinuun.	
+<div class="versenum">1.</div> Davidin kultainen kappale. Katke minua Jumala; silla mina uskallan sinuun.	
 
-2. Sina olet Herralle sanonut: sina olet minun Herrani: minun hyvatyoni ei ole sinun tahtes,	
+<div class="versenum">2.</div> Sina olet Herralle sanonut: sina olet minun Herrani: minun hyvatyoni ei ole sinun tahtes,	
 
-3. Vaan pyhain tahden, jotka maan paalla ovat, ja kunniallisten tahden, joissa kaikki minun mielisuosioni on.	
+<div class="versenum">3.</div> Vaan pyhain tahden, jotka maan paalla ovat, ja kunniallisten tahden, joissa kaikki minun mielisuosioni on.	
 
-4. Mutta jotka toisen jalkeen rientavat, niilla pitaa suuri sydamen kipu oleman: en mina uhraa heidan juomauhriansa veresta, enka mainitse heidan nimiansa suussani.	
+<div class="versenum">4.</div> Mutta jotka toisen jalkeen rientavat, niilla pitaa suuri sydamen kipu oleman: en mina uhraa heidan juomauhriansa veresta, enka mainitse heidan nimiansa suussani.	
 
-5. Mutta Herra on minun tavarani ja osani: sina tahteelle panet minun perimiseni.	
+<div class="versenum">5.</div> Mutta Herra on minun tavarani ja osani: sina tahteelle panet minun perimiseni.	
 
-6. Arpa lankesi minulle kauniimmissa: mina olen jalon perimisen saanut.	
+<div class="versenum">6.</div> Arpa lankesi minulle kauniimmissa: mina olen jalon perimisen saanut.	
 
-7. Mina kiitan Herraa, joka minua on neuvonut: niin myos minun munaskuuni ovat yolla kurittaneet.	
+<div class="versenum">7.</div> Mina kiitan Herraa, joka minua on neuvonut: niin myos minun munaskuuni ovat yolla kurittaneet.	
 
-8. Mina pidan aina Herran kasvoini edessa, silla han on minun oikialla puolellani, sentahden en mina horju.	
+<div class="versenum">8.</div> Mina pidan aina Herran kasvoini edessa, silla han on minun oikialla puolellani, sentahden en mina horju.	
 
-9. Sentahden minun sydameni reimuitsee ja minun kunniani on iloinen, ja minun lihani lepaa toivossa.	
+<div class="versenum">9.</div> Sentahden minun sydameni reimuitsee ja minun kunniani on iloinen, ja minun lihani lepaa toivossa.	
 
-10. Silla et sina hyljaa sieluani helvetissa, etka salli sinun pyhas nakevan turmelusta.	
+<div class="versenum">10.</div> Silla et sina hyljaa sieluani helvetissa, etka salli sinun pyhas nakevan turmelusta.	
 
-11. Sina osoitat minulle elaman tien, sinun kasvois edessa on taydellinen ilo, ja riemullinen meno oikialla kadellas ijankaikkisesti.	
+<div class="versenum">11.</div> Sina osoitat minulle elaman tien, sinun kasvois edessa on taydellinen ilo, ja riemullinen meno oikialla kadellas ijankaikkisesti.	
 

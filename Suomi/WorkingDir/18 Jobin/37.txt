@@ -1,50 +1,50 @@
 Jobin 37	
 	
-1. Siita myos hammastyy minun sydameni ja vapisee.	
+<div class="versenum">1.</div> Siita myos hammastyy minun sydameni ja vapisee.	
 
-2. Kuulkaat visusti hanen vihansa huutoa, ja puhetta, joka hanen suustansa kay ulos.	
+<div class="versenum">2.</div> Kuulkaat visusti hanen vihansa huutoa, ja puhetta, joka hanen suustansa kay ulos.	
 
-3. Han toimittaa sen oikeuden kaikkein taivasten alla; ja hanen leimauksensa paistaa maan aarista.	
+<div class="versenum">3.</div> Han toimittaa sen oikeuden kaikkein taivasten alla; ja hanen leimauksensa paistaa maan aarista.	
 
-4. Senjalkeen kuuluu pitkaisen jylina, ja se jylisee suurella aanella; ja koska hanen jylinansa kuullaan, ei sita taideta estaa.	
+<div class="versenum">4.</div> Senjalkeen kuuluu pitkaisen jylina, ja se jylisee suurella aanella; ja koska hanen jylinansa kuullaan, ei sita taideta estaa.	
 
-5. Jumala jylistaa pauhinallansa ihmeellisesti, ja tekee suuria ja tutkimattomia toita.	
+<div class="versenum">5.</div> Jumala jylistaa pauhinallansa ihmeellisesti, ja tekee suuria ja tutkimattomia toita.	
 
-6. Han puhuu lumelle, ja se kohta tulee maan paalle, ja sadekuurolle, ja niin sadekuurolla on voima.	
+<div class="versenum">6.</div> Han puhuu lumelle, ja se kohta tulee maan paalle, ja sadekuurolle, ja niin sadekuurolla on voima.	
 
-7. Hanen kadessansa ovat kaikki ihmiset katketyt, etta kaikki tuntisivat hanen tekonsa.	
+<div class="versenum">7.</div> Hanen kadessansa ovat kaikki ihmiset katketyt, etta kaikki tuntisivat hanen tekonsa.	
 
-8. Metsan pedot pakenevat varjoon ja pysyvat asumapaikoissansa.	
+<div class="versenum">8.</div> Metsan pedot pakenevat varjoon ja pysyvat asumapaikoissansa.	
 
-9. Etelasta tulee tuulispaa ja pohjasta kylma.	
+<div class="versenum">9.</div> Etelasta tulee tuulispaa ja pohjasta kylma.	
 
-10. Jumalan hengesta tulee pakkanen ja ahdistaa laviat vedet.	
+<div class="versenum">10.</div> Jumalan hengesta tulee pakkanen ja ahdistaa laviat vedet.	
 
-11. Seijes myos hajoittaa pilvet, ja hanen valkeutensa levittaa itsensa pilvien lavitse.	
+<div class="versenum">11.</div> Seijes myos hajoittaa pilvet, ja hanen valkeutensa levittaa itsensa pilvien lavitse.	
 
-12. Han kaantaa pilvensa kuhunka han tahtoo, tekemaan kaikkia, mita han tahtoo maan piirin paalla.	
+<div class="versenum">12.</div> Han kaantaa pilvensa kuhunka han tahtoo, tekemaan kaikkia, mita han tahtoo maan piirin paalla.	
 
-13. Jos se tapahtuu yhdelle sukukunnalle eli maakunnalle, koska han loydetaan laupiaaksi.	
+<div class="versenum">13.</div> Jos se tapahtuu yhdelle sukukunnalle eli maakunnalle, koska han loydetaan laupiaaksi.	
 
-14. Kuules naita Job: seiso ja ota vaari Jumalan ihmeellisista toista.	
+<div class="versenum">14.</div> Kuules naita Job: seiso ja ota vaari Jumalan ihmeellisista toista.	
 
-15. Tiedatkos, koska Jumala saattaa namat heidan paallensa, ja koska han antaa pilviensa valkeuden paistaa?	
+<div class="versenum">15.</div> Tiedatkos, koska Jumala saattaa namat heidan paallensa, ja koska han antaa pilviensa valkeuden paistaa?	
 
-16. Tiedatkos, kuinka pilvet hajoittavat heitansa? taydellisen viisauden ihmeellisia toita?	
+<div class="versenum">16.</div> Tiedatkos, kuinka pilvet hajoittavat heitansa? taydellisen viisauden ihmeellisia toita?	
 
-17. Etta sinun vaattees lampeevat, kuin ilma tyventyy etelasta?	
+<div class="versenum">17.</div> Etta sinun vaattees lampeevat, kuin ilma tyventyy etelasta?	
 
-18. Levitatko sina hanen kanssansa pilvia, jotka vahvat ovat niinkuin valettu peili?	
+<div class="versenum">18.</div> Levitatko sina hanen kanssansa pilvia, jotka vahvat ovat niinkuin valettu peili?	
 
-19. Ilmoita sina meille, mita meidan pitais hanelle sanoman; silla emme ulotu hanen tykonsa pimeydelta.	
+<div class="versenum">19.</div> Ilmoita sina meille, mita meidan pitais hanelle sanoman; silla emme ulotu hanen tykonsa pimeydelta.	
 
-20. Kuka luettelee hanelle, mita mina puhun? jos joku puhuu, niin han niellaan.	
+<div class="versenum">20.</div> Kuka luettelee hanelle, mita mina puhun? jos joku puhuu, niin han niellaan.	
 
-21. Ei nahda nyt valkeutta, joka pilvissa leimahtaa; vaan kuin tuuli puhaltaa, niin seijestyy.	
+<div class="versenum">21.</div> Ei nahda nyt valkeutta, joka pilvissa leimahtaa; vaan kuin tuuli puhaltaa, niin seijestyy.	
 
-22. Pohjoisesta tulee kulta peljattavan Jumalan kunniaksi.	
+<div class="versenum">22.</div> Pohjoisesta tulee kulta peljattavan Jumalan kunniaksi.	
 
-23. Mutta Kaikkivaltiasta emme taida loytaa, joka on niin suuri voimassa; ja ei han tarvitse vastata oikeudessansa ja suuressa vanhurskaudessansa.	
+<div class="versenum">23.</div> Mutta Kaikkivaltiasta emme taida loytaa, joka on niin suuri voimassa; ja ei han tarvitse vastata oikeudessansa ja suuressa vanhurskaudessansa.	
 
-24. Sentahden taytyy ihmisten hanta peljata: ja ei han katso yhtaan taitavaa sydamesta.	
+<div class="versenum">24.</div> Sentahden taytyy ihmisten hanta peljata: ja ei han katso yhtaan taitavaa sydamesta.	
 

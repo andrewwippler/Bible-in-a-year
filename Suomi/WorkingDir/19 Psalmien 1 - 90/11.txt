@@ -1,16 +1,16 @@
 Psalmien 11	
 	
-1. Davidin Psalmi, edellaveisaajalle. Herraan mina uskallan: kuinka te sanotte sielulleni, etta han lentais niinkuin lintu teidan vuoreltanne?	
+<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. Herraan mina uskallan: kuinka te sanotte sielulleni, etta han lentais niinkuin lintu teidan vuoreltanne?	
 
-2. Silla katsos, jumalattomat jannittavat joutsen ja panevat nuolensa janteelle, salaisesti ampuaksensa hurskaita.	
+<div class="versenum">2.</div> Silla katsos, jumalattomat jannittavat joutsen ja panevat nuolensa janteelle, salaisesti ampuaksensa hurskaita.	
 
-3. Silla he rikkoivat perustuksen: mita vanhurskas taitaa toimittaa?	
+<div class="versenum">3.</div> Silla he rikkoivat perustuksen: mita vanhurskas taitaa toimittaa?	
 
-4. Herra on pyhassa templissansa, Herran istuin on taivaissa; hanen silmansa ottavat vaarin, ja hanen silmansa laudat koettelevat ihmisten lapsia.	
+<div class="versenum">4.</div> Herra on pyhassa templissansa, Herran istuin on taivaissa; hanen silmansa ottavat vaarin, ja hanen silmansa laudat koettelevat ihmisten lapsia.	
 
-5. Herra koettelee vanhurskasta; hanen sielunsa vihaa jumalatointa, ja jotka vaaryytta rakastavat.	
+<div class="versenum">5.</div> Herra koettelee vanhurskasta; hanen sielunsa vihaa jumalatointa, ja jotka vaaryytta rakastavat.	
 
-6. Han antaa sataa jumalattomain paalle pitkaisen leimauksia, tulta ja tulikivea, ja antaa heille tuulispaat palkaksi.	
+<div class="versenum">6.</div> Han antaa sataa jumalattomain paalle pitkaisen leimauksia, tulta ja tulikivea, ja antaa heille tuulispaat palkaksi.	
 
-7. Silla Herra on vanhurskas ja rakastaa vanhurskautta, etta hanen kasvonsa katsovat oikeutta.	
+<div class="versenum">7.</div> Silla Herra on vanhurskas ja rakastaa vanhurskautta, etta hanen kasvonsa katsovat oikeutta.	
 

@@ -1,50 +1,50 @@
 Esran 4	
 	
-1. Mutta kuin Juudan ja Ben-Jaminin vihamiehet kuulivat, etta ne, jotka vankeudesta olivat lahteneet, rakensivat Herralle Israelin Jumalalle templia;	
+<div class="versenum">1.</div> Mutta kuin Juudan ja Ben-Jaminin vihamiehet kuulivat, etta ne, jotka vankeudesta olivat lahteneet, rakensivat Herralle Israelin Jumalalle templia;	
 
-2. Tulivat he Serubbabelin ja isain paamiesten tyko ja sanoivat heille: me rakennamme teidan kanssanne; silla me etsimme teidan Jumalaanne niinkuin tekin, ja emme ole sitte uhranneet kuin Asserhaddon Assurin kuningas meidat tanne vei.	
+<div class="versenum">2.</div> Tulivat he Serubbabelin ja isain paamiesten tyko ja sanoivat heille: me rakennamme teidan kanssanne; silla me etsimme teidan Jumalaanne niinkuin tekin, ja emme ole sitte uhranneet kuin Asserhaddon Assurin kuningas meidat tanne vei.	
 
-3. Mutta Serubbabel ja Jesua ja muut Israelin isain paamiehet vastasivat: ei sovi teidan ja meidan rakentaa meidan Jumalallemme huonetta; mutta me rakennamme yksin Herralle Israelin Jumalalle huoneen, niinkuin Kores Persian kuningas meita kaski.	
+<div class="versenum">3.</div> Mutta Serubbabel ja Jesua ja muut Israelin isain paamiehet vastasivat: ei sovi teidan ja meidan rakentaa meidan Jumalallemme huonetta; mutta me rakennamme yksin Herralle Israelin Jumalalle huoneen, niinkuin Kores Persian kuningas meita kaski.	
 
-4. Niin sen maakunnan vaki heikensi Juudan kansan kadet ja peljatti rakentamasta,	
+<div class="versenum">4.</div> Niin sen maakunnan vaki heikensi Juudan kansan kadet ja peljatti rakentamasta,	
 
-5. Ja palkkasivat neuvonantajia heita vastaan, estamaan heidan neuvoansa, niinkauvan kuin Kores Persian kuningas eli, Dariuksen Persian kuninkaan valtakuntaan asti.	
+<div class="versenum">5.</div> Ja palkkasivat neuvonantajia heita vastaan, estamaan heidan neuvoansa, niinkauvan kuin Kores Persian kuningas eli, Dariuksen Persian kuninkaan valtakuntaan asti.	
 
-6. Mutta kuin Ahasverus tuli kuninkaaksi, hanen valtakuntansa alussa, kirjoittivat he kanteen Juudan ja Jerusalemin asujamia vastaan.	
+<div class="versenum">6.</div> Mutta kuin Ahasverus tuli kuninkaaksi, hanen valtakuntansa alussa, kirjoittivat he kanteen Juudan ja Jerusalemin asujamia vastaan.	
 
-7. Ja Artahsastan aikana kirjoitti Bislam, Mitridat, Tabeel ja muut heidan seurastansa Artahsastalle Persian kuninkaalle. Ja kirja oli kirjoitettu Syrian kielella ja tulkittu Syrian kielella.	
+<div class="versenum">7.</div> Ja Artahsastan aikana kirjoitti Bislam, Mitridat, Tabeel ja muut heidan seurastansa Artahsastalle Persian kuninkaalle. Ja kirja oli kirjoitettu Syrian kielella ja tulkittu Syrian kielella.	
 
-8. Rehum kansleri ja Simsai kirjoittaja kirjoittivat kirjan Jerusalemia vastaan kuningas Artahsastalle nain:	
+<div class="versenum">8.</div> Rehum kansleri ja Simsai kirjoittaja kirjoittivat kirjan Jerusalemia vastaan kuningas Artahsastalle nain:	
 
-9. Rehum kansleri ja Simsai kirjoittaja, ja muut heidan kanssaveljensa Dinasta, Apharsakista ja Tarpelasta, Persiasta, Arakasta, Babelista, Susanista, Dehasta ja Elamista,	
+<div class="versenum">9.</div> Rehum kansleri ja Simsai kirjoittaja, ja muut heidan kanssaveljensa Dinasta, Apharsakista ja Tarpelasta, Persiasta, Arakasta, Babelista, Susanista, Dehasta ja Elamista,	
 
-10. Ja muut kansat, jotka suuri ja kuuluisa Asnappar toi tanne, ja pani heidat asumaan Samarian kaupunkeihin, ja ne muut toisella puolen virtaa, silla ajalla.	
+<div class="versenum">10.</div> Ja muut kansat, jotka suuri ja kuuluisa Asnappar toi tanne, ja pani heidat asumaan Samarian kaupunkeihin, ja ne muut toisella puolen virtaa, silla ajalla.	
 
-11. Ja kirja, jonka he lahettivat kuningas Artahsastalle, oli nain kirjoitettu: palvelias, miehet, jotka asuvat toisella puolella virtaa, jotka siihen aikaan olivat.	
+<div class="versenum">11.</div> Ja kirja, jonka he lahettivat kuningas Artahsastalle, oli nain kirjoitettu: palvelias, miehet, jotka asuvat toisella puolella virtaa, jotka siihen aikaan olivat.	
 
-12. Se olkoon kuninkaalle tiettava, etta Juudalaiset, jotka sinun tykoas tulivat meidan tykomme Jerusalemiin, rakentavat kapinallista ja pahaa kaupunkia, ja ovat perustaneet ja korottaneet muurit.	
+<div class="versenum">12.</div> Se olkoon kuninkaalle tiettava, etta Juudalaiset, jotka sinun tykoas tulivat meidan tykomme Jerusalemiin, rakentavat kapinallista ja pahaa kaupunkia, ja ovat perustaneet ja korottaneet muurit.	
 
-13. Niin olkoon nyt kuninkaalle tiettava, etta jos se kaupunki rakennetaan ja muurit perustetaan, niin ei he sinulle anna tullia, veroa ja ajastaikaista ulostekoa; ja sina vahingoitset kuningasten veron.	
+<div class="versenum">13.</div> Niin olkoon nyt kuninkaalle tiettava, etta jos se kaupunki rakennetaan ja muurit perustetaan, niin ei he sinulle anna tullia, veroa ja ajastaikaista ulostekoa; ja sina vahingoitset kuningasten veron.	
 
-14. Nyt siis, etta meilla on ravinto kuninkaan huoneesta, ei sovi meidan nahda kuninkaan ylonkatsetta; sentahden olemme me lahteneet matkaan, ilmoittamaan sita kuninkaalle,	
+<div class="versenum">14.</div> Nyt siis, etta meilla on ravinto kuninkaan huoneesta, ei sovi meidan nahda kuninkaan ylonkatsetta; sentahden olemme me lahteneet matkaan, ilmoittamaan sita kuninkaalle,	
 
-15. Ettas etsisit isais aikakirjoista, ja sina loydat niista ja saat tietaa taman olevan kapinallisen ja vahingollisen kaupungin kuninkaille ja maakunnille, joka saatti jo vanhasta muutkin luopumaan; jonkatahden myos tama kaupunki on autioksi tehty.	
+<div class="versenum">15.</div> Ettas etsisit isais aikakirjoista, ja sina loydat niista ja saat tietaa taman olevan kapinallisen ja vahingollisen kaupungin kuninkaille ja maakunnille, joka saatti jo vanhasta muutkin luopumaan; jonkatahden myos tama kaupunki on autioksi tehty.	
 
-16. Sentahden me annamme kuninkaan tietaa, etta jos tama kaupunki rakennetaan ja muurit tehdaan, niin et sina toista puolta virtaa saa pitaa.	
+<div class="versenum">16.</div> Sentahden me annamme kuninkaan tietaa, etta jos tama kaupunki rakennetaan ja muurit tehdaan, niin et sina toista puolta virtaa saa pitaa.	
 
-17. Niin kuningas lahetti vastauksen Rehumille kanslerille ja Simsaille kirjoittajalle, ja muille heidan kanssaveljillensa, jotka Samariassa asuivat, ja muille, jotka toisella puolella virtaa olivat: rauhaa talla ajalla!	
+<div class="versenum">17.</div> Niin kuningas lahetti vastauksen Rehumille kanslerille ja Simsaille kirjoittajalle, ja muille heidan kanssaveljillensa, jotka Samariassa asuivat, ja muille, jotka toisella puolella virtaa olivat: rauhaa talla ajalla!	
 
-18. Lahetyskirja, jonka te meidan tykomme lahetitte, on luettu julkisesti minun edessani.	
+<div class="versenum">18.</div> Lahetyskirja, jonka te meidan tykomme lahetitte, on luettu julkisesti minun edessani.	
 
-19. Ja on minulta kasketty etsittaa, ja on loydetty sen kaupungin jo vanhaan nousseen kuninkaita vastaan, ja luopuneen, niin etta kapina on siina noussut.	
+<div class="versenum">19.</div> Ja on minulta kasketty etsittaa, ja on loydetty sen kaupungin jo vanhaan nousseen kuninkaita vastaan, ja luopuneen, niin etta kapina on siina noussut.	
 
-20. Ja etta Jerusalemissa ovat olleet vakevat kuninkaat ja vallinneet kaikki toisella puolella virtaa, ja heille on annettu tulli, vero ja ajastaikainen ulosteko.	
+<div class="versenum">20.</div> Ja etta Jerusalemissa ovat olleet vakevat kuninkaat ja vallinneet kaikki toisella puolella virtaa, ja heille on annettu tulli, vero ja ajastaikainen ulosteko.	
 
-21. Tehkaat siis taman kaskyn jalkeen: estakaat niita miehia rakentamasta kaupunkia, siihenasti kuin mina annan kaskyn.	
+<div class="versenum">21.</div> Tehkaat siis taman kaskyn jalkeen: estakaat niita miehia rakentamasta kaupunkia, siihenasti kuin mina annan kaskyn.	
 
-22. Niin karttakaat teitanne erehdyksesta tassa asiassa. Miksi semmoinen turmelus pitais valtaa saaman kuninkaille vahingoksi?	
+<div class="versenum">22.</div> Niin karttakaat teitanne erehdyksesta tassa asiassa. Miksi semmoinen turmelus pitais valtaa saaman kuninkaille vahingoksi?	
 
-23. Kuin kuningas Artahsastan kirja luettiin Rehumin, Simsain kirjoittajan ja heidan kanssaveljeinsa edessa, menivat he kiiruusti Jerusalemiin Juudalaisten tyko ja estivat heidat kasivarrella ja vakevyydella.	
+<div class="versenum">23.</div> Kuin kuningas Artahsastan kirja luettiin Rehumin, Simsain kirjoittajan ja heidan kanssaveljeinsa edessa, menivat he kiiruusti Jerusalemiin Juudalaisten tyko ja estivat heidat kasivarrella ja vakevyydella.	
 
-24. Silloin lakattiin Jumalan huoneen tyosta Jerusalemissa, niin etta se jai Dariuksen Persian kuninkaan toiseen vuoteen asti.	
+<div class="versenum">24.</div> Silloin lakattiin Jumalan huoneen tyosta Jerusalemissa, niin etta se jai Dariuksen Persian kuninkaan toiseen vuoteen asti.	
 

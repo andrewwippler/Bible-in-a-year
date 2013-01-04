@@ -1,42 +1,42 @@
 Psalmien 72	
 	
-1. Salomon. Jumala, anna tuomios kuninkaalle, ja vanhurskautes kuninkaan pojalle,	
+<div class="versenum">1.</div> Salomon. Jumala, anna tuomios kuninkaalle, ja vanhurskautes kuninkaan pojalle,	
 
-2. Etta han veis sinun kansas vanhurskauteen, ja auttais sinun raadollistas.	
+<div class="versenum">2.</div> Etta han veis sinun kansas vanhurskauteen, ja auttais sinun raadollistas.	
 
-3. Vuoret tuokaan rauhan kansalle, ja kukulat vanhurskauden.	
+<div class="versenum">3.</div> Vuoret tuokaan rauhan kansalle, ja kukulat vanhurskauden.	
 
-4. Hanen pitaa raadollisen kansan oikeudessa pitaman, ja koyhain lapsia auttaman ja sarkeman pilkkaajat.	
+<div class="versenum">4.</div> Hanen pitaa raadollisen kansan oikeudessa pitaman, ja koyhain lapsia auttaman ja sarkeman pilkkaajat.	
 
-5. Sinua peljataan, niinkauvan kuin aurinko ja kuu ovat, lapsista niin lasten lapsiin.	
+<div class="versenum">5.</div> Sinua peljataan, niinkauvan kuin aurinko ja kuu ovat, lapsista niin lasten lapsiin.	
 
-6. Han laskee alas niinkuin sade heinan sangelle, niinkuin pisarat, jotka maan lioittavat.	
+<div class="versenum">6.</div> Han laskee alas niinkuin sade heinan sangelle, niinkuin pisarat, jotka maan lioittavat.	
 
-7. Hanen aikanansa vanhurskas kukoistaa, ja on suuri rauha siihen asti, ettei kuuta enaa olekaan.	
+<div class="versenum">7.</div> Hanen aikanansa vanhurskas kukoistaa, ja on suuri rauha siihen asti, ettei kuuta enaa olekaan.	
 
-8. Han hallitsee meresta mereen ja virrasta maailman aariin.	
+<div class="versenum">8.</div> Han hallitsee meresta mereen ja virrasta maailman aariin.	
 
-9. Hanta pitaa korven asuvaiset kumartaman, ja hanen vihollisensa pitaa tomun nuoleman.	
+<div class="versenum">9.</div> Hanta pitaa korven asuvaiset kumartaman, ja hanen vihollisensa pitaa tomun nuoleman.	
 
-10. Kuninkaat meren tykoa ja luodoista pitaa lahjoja kantaman: kuninkaat rikkaasta Arabiasta ja Sebasta pitaa annot tuoman.	
+<div class="versenum">10.</div> Kuninkaat meren tykoa ja luodoista pitaa lahjoja kantaman: kuninkaat rikkaasta Arabiasta ja Sebasta pitaa annot tuoman.	
 
-11. Kaikki kuninkaat pitaa hanta kumartaman, ja kaikki pakanat pitaa hanta palveleman.	
+<div class="versenum">11.</div> Kaikki kuninkaat pitaa hanta kumartaman, ja kaikki pakanat pitaa hanta palveleman.	
 
-12. Silla han vapahtaa huutavaisen koyhan, ja raadollisen, jolla ei ole auttajaa.	
+<div class="versenum">12.</div> Silla han vapahtaa huutavaisen koyhan, ja raadollisen, jolla ei ole auttajaa.	
 
-13. Han on armollinen vaivaiselle ja koyhalle, ja koyhain sielua han auttaa.	
+<div class="versenum">13.</div> Han on armollinen vaivaiselle ja koyhalle, ja koyhain sielua han auttaa.	
 
-14. Han lunastaa heidan sielunsa petoksesta ja vakivallasta, ja heidan verensa luetaan kalliiksi hanen silmainsa edessa.	
+<div class="versenum">14.</div> Han lunastaa heidan sielunsa petoksesta ja vakivallasta, ja heidan verensa luetaan kalliiksi hanen silmainsa edessa.	
 
-15. Ja han elaa ja hanelle pitaa annettaman kultaa rikkaasta Arabiasta, ja hanta alati kumartaen rukoiltaman, joka paiva pitaa hanta kiitettaman.	
+<div class="versenum">15.</div> Ja han elaa ja hanelle pitaa annettaman kultaa rikkaasta Arabiasta, ja hanta alati kumartaen rukoiltaman, joka paiva pitaa hanta kiitettaman.	
 
-16. Pivo jyvia pitaa niin oleman maassa ja vuorten kukkuloilla, etta sen hedelma pitaa haalyman niinkuin Libanon; ja kaupungin asuvaiset pitaa kukoistaman niinkuin ruoho maan paalla.	
+<div class="versenum">16.</div> Pivo jyvia pitaa niin oleman maassa ja vuorten kukkuloilla, etta sen hedelma pitaa haalyman niinkuin Libanon; ja kaupungin asuvaiset pitaa kukoistaman niinkuin ruoho maan paalla.	
 
-17. Hanen nimensa pysyy ijankaikkisesti: niinkauvan kuin aurinko on, ulottuu hanen nimensa jalkeentulevaisille; ja he tulevat siunatuksi hanen kauttansa: kaikki pakanat ylistavat hanta.	
+<div class="versenum">17.</div> Hanen nimensa pysyy ijankaikkisesti: niinkauvan kuin aurinko on, ulottuu hanen nimensa jalkeentulevaisille; ja he tulevat siunatuksi hanen kauttansa: kaikki pakanat ylistavat hanta.	
 
-18. Kiitetty olkoon Herra Jumala, Israelin Jumala, joka yksinansa ihmeita tekee!	
+<div class="versenum">18.</div> Kiitetty olkoon Herra Jumala, Israelin Jumala, joka yksinansa ihmeita tekee!	
 
-19. Ja kiitetty olkoon hanen kunniansa nimi ijankaikkisesti; ja kaikki maa taytettakoon hanen kunniastansa, amen! amen!	
+<div class="versenum">19.</div> Ja kiitetty olkoon hanen kunniansa nimi ijankaikkisesti; ja kaikki maa taytettakoon hanen kunniastansa, amen! amen!	
 
-20. Davidin, Isain pojan, rukoukset loppuvat.	
+<div class="versenum">20.</div> Davidin, Isain pojan, rukoukset loppuvat.	
 

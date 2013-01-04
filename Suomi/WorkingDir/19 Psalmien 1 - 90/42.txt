@@ -1,24 +1,24 @@
 Psalmien 42	
 	
-1. Koran lasten opetus, edellaveisaajalle. (H42:2) Niinkuin peura himoitsee tuoretta vetta, niin minun sieluni himoitsee sinua, Jumala.	
+<div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H42:2) Niinkuin peura himoitsee tuoretta vetta, niin minun sieluni himoitsee sinua, Jumala.	
 
-2. Minun sieluni janoo Jumalaa, elavaa Jumalaa: koska mina tulen Jumalan kasvoja nakemaan?	
+<div class="versenum">2.</div> Minun sieluni janoo Jumalaa, elavaa Jumalaa: koska mina tulen Jumalan kasvoja nakemaan?	
 
-3. Minun kyyneleeni ovat minun ruokani paivalla ja yolla, etta joka paiva minulle sanotaan: kussa nyt on Jumalas?	
+<div class="versenum">3.</div> Minun kyyneleeni ovat minun ruokani paivalla ja yolla, etta joka paiva minulle sanotaan: kussa nyt on Jumalas?	
 
-4. Koska mina naita muistelen, niin mina vuodatan ulos sydameni itsessani; silla mina menisin mielellani joukon kanssa, ja vaeltaisin heidan kanssansa Jumalan huoneeseen: ihastuksella ja kiitoksella joukon seassa, jotka juhlaa pitavat.	
+<div class="versenum">4.</div> Koska mina naita muistelen, niin mina vuodatan ulos sydameni itsessani; silla mina menisin mielellani joukon kanssa, ja vaeltaisin heidan kanssansa Jumalan huoneeseen: ihastuksella ja kiitoksella joukon seassa, jotka juhlaa pitavat.	
 
-5. Mitas murehdit, sieluni, ja olet niin levotoin minussa? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han minua auttaa kasvoillansa.	
+<div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet niin levotoin minussa? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han minua auttaa kasvoillansa.	
 
-6. Minun Jumalani! sieluni on murheissansa minussa; sentahden mina muistan sinua Jordanin ja Hermonin maalla, silla vahalla vuorella.	
+<div class="versenum">6.</div> Minun Jumalani! sieluni on murheissansa minussa; sentahden mina muistan sinua Jordanin ja Hermonin maalla, silla vahalla vuorella.	
 
-7. Sinun virtas pauhaavat kovin, niin etta yksi syvyys pauhaa tassa ja toinen syvyys siella: kaikki sinun vesilainees ja aaltos kayvat minun ylitseni.	
+<div class="versenum">7.</div> Sinun virtas pauhaavat kovin, niin etta yksi syvyys pauhaa tassa ja toinen syvyys siella: kaikki sinun vesilainees ja aaltos kayvat minun ylitseni.	
 
-8. Paivalla on Herra luvannut hyvyytensa, ja yolla mina hanelle veisaan, ja rukoilen elamani Jumalaa.	
+<div class="versenum">8.</div> Paivalla on Herra luvannut hyvyytensa, ja yolla mina hanelle veisaan, ja rukoilen elamani Jumalaa.	
 
-9. Mina sanon Jumalalle minun kalliolleni: miksi sina olet minun unohtanut? miksi mina kayn niin murheissani, koska minun viholliseni minua ahdistaa?	
+<div class="versenum">9.</div> Mina sanon Jumalalle minun kalliolleni: miksi sina olet minun unohtanut? miksi mina kayn niin murheissani, koska minun viholliseni minua ahdistaa?	
 
-10. Se on niinkuin murha minun luissani, etta minun viholliseni hapaisevat minua, koska he jokapaiva sanovat minulle: kussa nyt on Jumalas?	
+<div class="versenum">10.</div> Se on niinkuin murha minun luissani, etta minun viholliseni hapaisevat minua, koska he jokapaiva sanovat minulle: kussa nyt on Jumalas?	
 
-11. Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
+<div class="versenum">11.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
 

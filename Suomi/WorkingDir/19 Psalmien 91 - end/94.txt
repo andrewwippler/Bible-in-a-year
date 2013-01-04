@@ -1,48 +1,48 @@
 Psalmien 94	
 	
-1. Herra Jumala, jonka kostot ovat, Jumala, jonka kostot ovat, selkiasti itses nayta.	
+<div class="versenum">1.</div> Herra Jumala, jonka kostot ovat, Jumala, jonka kostot ovat, selkiasti itses nayta.	
 
-2. Korota sinuas, maailman tuomari: maksa ylpeille, mita he ansainneet ovat.	
+<div class="versenum">2.</div> Korota sinuas, maailman tuomari: maksa ylpeille, mita he ansainneet ovat.	
 
-3. Herra, kuinka kauvan pitaa jumalattomain, kuinka kauvan pitaa jumalattomain riemuitseman?	
+<div class="versenum">3.</div> Herra, kuinka kauvan pitaa jumalattomain, kuinka kauvan pitaa jumalattomain riemuitseman?	
 
-4. Tiuskuman ja puhuman niin ylpiasti, ja kaikki pahantekiat niin kerskaaman?	
+<div class="versenum">4.</div> Tiuskuman ja puhuman niin ylpiasti, ja kaikki pahantekiat niin kerskaaman?	
 
-5. Herra, he polkevat alas sinun kansas, ja sinun perimistas he vaivaavat.	
+<div class="versenum">5.</div> Herra, he polkevat alas sinun kansas, ja sinun perimistas he vaivaavat.	
 
-6. Lesket ja muukalaiset he tappavat, ja orvot he kuolettavat,	
+<div class="versenum">6.</div> Lesket ja muukalaiset he tappavat, ja orvot he kuolettavat,	
 
-7. Ja sanovat: ei Herra sita nae, ja Jakobin Jumala ei sita tottele.	
+<div class="versenum">7.</div> Ja sanovat: ei Herra sita nae, ja Jakobin Jumala ei sita tottele.	
 
-8. Ymmartakaat siis, te hullut kansan seassa! ja, te tyhmat, koska te taitaviksi tulette?	
+<div class="versenum">8.</div> Ymmartakaat siis, te hullut kansan seassa! ja, te tyhmat, koska te taitaviksi tulette?	
 
-9. Joka korvan on istuttanut, eiko han kuule? eli joka silman loi, eiko han nae?	
+<div class="versenum">9.</div> Joka korvan on istuttanut, eiko han kuule? eli joka silman loi, eiko han nae?	
 
-10. Joka pakanoita kurittaa, eiko han rankaise, joka ihmisille opettaa tiedon?	
+<div class="versenum">10.</div> Joka pakanoita kurittaa, eiko han rankaise, joka ihmisille opettaa tiedon?	
 
-11. Mutta Herra tietaa ihmisten ajatukset, etta ne turhat ovat.	
+<div class="versenum">11.</div> Mutta Herra tietaa ihmisten ajatukset, etta ne turhat ovat.	
 
-12. Autuas on se, jota sina, Herra, kuritat, ja opetat sinun laistas,	
+<div class="versenum">12.</div> Autuas on se, jota sina, Herra, kuritat, ja opetat sinun laistas,	
 
-13. Etta hanella karsivallisyys olis, koska vastoin kay, siihenasti kuin jumalattomalle hauta valmistetaan.	
+<div class="versenum">13.</div> Etta hanella karsivallisyys olis, koska vastoin kay, siihenasti kuin jumalattomalle hauta valmistetaan.	
 
-14. Silla ei Herra heita kansaansa pois, eli hylkaa perimistansa.	
+<div class="versenum">14.</div> Silla ei Herra heita kansaansa pois, eli hylkaa perimistansa.	
 
-15. Silla oikeuden pitaa sittekin oikeuden oleman, ja kaikki hurskaat sydamet sita seuraavat.	
+<div class="versenum">15.</div> Silla oikeuden pitaa sittekin oikeuden oleman, ja kaikki hurskaat sydamet sita seuraavat.	
 
-16. Kuka seisoo minun kanssani pahoja vastaan? kuka astuu minun tykoni pahointekioita vastaan?	
+<div class="versenum">16.</div> Kuka seisoo minun kanssani pahoja vastaan? kuka astuu minun tykoni pahointekioita vastaan?	
 
-17. Ellei Herra minua auttaisi, niin minun sieluni makais lahes hiljaisuudessa.	
+<div class="versenum">17.</div> Ellei Herra minua auttaisi, niin minun sieluni makais lahes hiljaisuudessa.	
 
-18. Mina sanoin: minun jalkani on horjunut, vaan sinun armos, Herra, minun tukesi.	
+<div class="versenum">18.</div> Mina sanoin: minun jalkani on horjunut, vaan sinun armos, Herra, minun tukesi.	
 
-19. Minulla oli paljo surua sydamessani; mutta sinun lohdutukses ilahutti minun sieluni.	
+<div class="versenum">19.</div> Minulla oli paljo surua sydamessani; mutta sinun lohdutukses ilahutti minun sieluni.	
 
-20. Etpas mielisty koskaan tosin vahingolliseen istuimeen, joka lain haijysti opettaa.	
+<div class="versenum">20.</div> Etpas mielisty koskaan tosin vahingolliseen istuimeen, joka lain haijysti opettaa.	
 
-21. He kokoovat joukkonsa vanhurskaan sielua vastaan, ja tuomitsevat viattoman veren kadotukseen,	
+<div class="versenum">21.</div> He kokoovat joukkonsa vanhurskaan sielua vastaan, ja tuomitsevat viattoman veren kadotukseen,	
 
-22. Mutta Herra on minun varjelukseni: minun Jumalani on minun uskallukseni turva,	
+<div class="versenum">22.</div> Mutta Herra on minun varjelukseni: minun Jumalani on minun uskallukseni turva,	
 
-23. Ja han kostaa heidan vaaryytensa, ja hukuttaa heita heidan pahuutensa tahden: Herra, meidan Jumalamme, hukuttaa heita.	
+<div class="versenum">23.</div> Ja han kostaa heidan vaaryytensa, ja hukuttaa heita heidan pahuutensa tahden: Herra, meidan Jumalamme, hukuttaa heita.	
 

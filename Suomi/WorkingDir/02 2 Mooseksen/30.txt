@@ -1,78 +1,78 @@
 2 Mooseksen 30	
 	
-1. Sinun pitaa myos tekeman suitsutusalttarin suitsutettaa: sittimipuusta sinun sen tekeman pitaa.	
+<div class="versenum">1.</div> Sinun pitaa myos tekeman suitsutusalttarin suitsutettaa: sittimipuusta sinun sen tekeman pitaa.	
 
-2. Kyynara pitaa oleman hanen pituutensa ja kyynara leveytensa: nelikulmaisen pitaa sen oleman, ja kaksi kyynaraa hanen korkeutensa; siita myos pitaa oleman hanen sarvensa.	
+<div class="versenum">2.</div> Kyynara pitaa oleman hanen pituutensa ja kyynara leveytensa: nelikulmaisen pitaa sen oleman, ja kaksi kyynaraa hanen korkeutensa; siita myos pitaa oleman hanen sarvensa.	
 
-3. Ja sinun pitaa silaaman sen puhtaalla kullalla, hanen lakensa ja seinansa ymparinsa, ja sen sarvet. Ja sinun pitaa tekeman kultaisen vanteen sen ymparinsa.	
+<div class="versenum">3.</div> Ja sinun pitaa silaaman sen puhtaalla kullalla, hanen lakensa ja seinansa ymparinsa, ja sen sarvet. Ja sinun pitaa tekeman kultaisen vanteen sen ymparinsa.	
 
-4. Ja kaksi kultaista rengasta pitaa sinun tekeman, molemmille tahoille kahteen hanen kulmaansa vanteen alle, etta korennot niihin pistettaisiin, joilla se kannettaisiin.	
+<div class="versenum">4.</div> Ja kaksi kultaista rengasta pitaa sinun tekeman, molemmille tahoille kahteen hanen kulmaansa vanteen alle, etta korennot niihin pistettaisiin, joilla se kannettaisiin.	
 
-5. Sinun pitaa myos tekeman korennot sittimipuusta, ja silaaman ne kullalla.	
+<div class="versenum">5.</div> Sinun pitaa myos tekeman korennot sittimipuusta, ja silaaman ne kullalla.	
 
-6. Ja asettaman se esiripun eteen, joka on todistusarkin edessa; armo-istuimen edessa, joka on todistuksen paalla, siella mina tulen sinun tykos.	
+<div class="versenum">6.</div> Ja asettaman se esiripun eteen, joka on todistusarkin edessa; armo-istuimen edessa, joka on todistuksen paalla, siella mina tulen sinun tykos.	
 
-7. Ja Aaronin pitaa sen paalla polttaman hyvanhajullista suitsutusta: joka aamu koska han valmistaa kynttilat, pitaa hanen sen suitsuttaman.	
+<div class="versenum">7.</div> Ja Aaronin pitaa sen paalla polttaman hyvanhajullista suitsutusta: joka aamu koska han valmistaa kynttilat, pitaa hanen sen suitsuttaman.	
 
-8. Niin myos koska Aaron sytyttaa kynttilat kahden ehtoon valilla, pitaa hanen sen suitsuttaman: sen suitsutuksen pitaa oleman alinomaisen Herran edessa, teidan sukukunnissanne.	
+<div class="versenum">8.</div> Niin myos koska Aaron sytyttaa kynttilat kahden ehtoon valilla, pitaa hanen sen suitsuttaman: sen suitsutuksen pitaa oleman alinomaisen Herran edessa, teidan sukukunnissanne.	
 
-9. Ei teidan pida yhtaan muukalaista suitsutusta tekeman sen paalla, eli polttouhria, eli ruokauhria, eika myos juomauhria uhraaman sen paalla.	
+<div class="versenum">9.</div> Ei teidan pida yhtaan muukalaista suitsutusta tekeman sen paalla, eli polttouhria, eli ruokauhria, eika myos juomauhria uhraaman sen paalla.	
 
-10. Ja Aaron pitaa sen sarvein paalla sovittaman kerran vuodessa: rikosuhrin veresta pitaa hanen sen paalla kerran vuodessa sovittaman teidan sukukunnissanne: se on kaikkein pyhin Herralle.	
+<div class="versenum">10.</div> Ja Aaron pitaa sen sarvein paalla sovittaman kerran vuodessa: rikosuhrin veresta pitaa hanen sen paalla kerran vuodessa sovittaman teidan sukukunnissanne: se on kaikkein pyhin Herralle.	
 
-11. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">11.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-12. Koska Israelin lapset luettelet, niin heidan pitaa itsekunkin sielunsa edesta antaman sovinnon Herralle, koska he luetellaan: ettei heidan paallensa joku rangaistus tulisi, koska he luetellaan.	
+<div class="versenum">12.</div> Koska Israelin lapset luettelet, niin heidan pitaa itsekunkin sielunsa edesta antaman sovinnon Herralle, koska he luetellaan: ettei heidan paallensa joku rangaistus tulisi, koska he luetellaan.	
 
-13. Ja pitaa jokaisen, joka luvussa on, antaman puolen siklia, pyhan siklin jalkeen: sikli maksaa kaksikymmenta geraa: puoli siklia pitaa oleman Herran ylennysuhri.	
+<div class="versenum">13.</div> Ja pitaa jokaisen, joka luvussa on, antaman puolen siklia, pyhan siklin jalkeen: sikli maksaa kaksikymmenta geraa: puoli siklia pitaa oleman Herran ylennysuhri.	
 
-14. Joka kahdenkymmenen vuotisen luvussa loydetaan ja sen ylitse: sen pitaa antaman Herralle ylennysuhrin.	
+<div class="versenum">14.</div> Joka kahdenkymmenen vuotisen luvussa loydetaan ja sen ylitse: sen pitaa antaman Herralle ylennysuhrin.	
 
-15. Varallisen ei pida siihen lisaaman, ja koyhan ei pida vahentaman puolesta siklista, koska he antavat Herralle ylennysuhrin teidan sieluinne sovinnoksi.	
+<div class="versenum">15.</div> Varallisen ei pida siihen lisaaman, ja koyhan ei pida vahentaman puolesta siklista, koska he antavat Herralle ylennysuhrin teidan sieluinne sovinnoksi.	
 
-16. Ja sinun pitaa sovintorahan ottaman Israelin lapsilta, ja antaman sen seurakunnan majan palvelukseksi: ja sen pitaa Israelin lapsille muistoksi oleman Herran edessa, etta teidan sielunne sovitettaisiin.	
+<div class="versenum">16.</div> Ja sinun pitaa sovintorahan ottaman Israelin lapsilta, ja antaman sen seurakunnan majan palvelukseksi: ja sen pitaa Israelin lapsille muistoksi oleman Herran edessa, etta teidan sielunne sovitettaisiin.	
 
-17. Niin Herra taas puhui Mosekselle, sanoen:	
+<div class="versenum">17.</div> Niin Herra taas puhui Mosekselle, sanoen:	
 
-18. Sinun pitaa myos tekeman vaskisen pesoastian, vaskijalan kanssa, pesemista varten: ja sen pitaa sinun asettaman seurakunnan majan ja alttarin vaiheelle, ja paneman siihen vetta.	
+<div class="versenum">18.</div> Sinun pitaa myos tekeman vaskisen pesoastian, vaskijalan kanssa, pesemista varten: ja sen pitaa sinun asettaman seurakunnan majan ja alttarin vaiheelle, ja paneman siihen vetta.	
 
-19. Etta Aaron ja hanen poikansa pesisivat siita katensa ja jalkansa.	
+<div class="versenum">19.</div> Etta Aaron ja hanen poikansa pesisivat siita katensa ja jalkansa.	
 
-20. Koska he menevat seurakunnan majaan, pitaa heidan itsensa peseman vedella, ettei he kuolisi, taikka koska he lahestyvat alttarin tyko palvelemaan Herraa savu-uhrilla.	
+<div class="versenum">20.</div> Koska he menevat seurakunnan majaan, pitaa heidan itsensa peseman vedella, ettei he kuolisi, taikka koska he lahestyvat alttarin tyko palvelemaan Herraa savu-uhrilla.	
 
-21. Ja heidan pitaa peseman katensa ja jalkansa, ettei he kuolisi ja se pitaa heille oleman ijankaikkiseksi saadyksi, hanelle ja hanen siemenellensa heidan sukukunnissansa.	
+<div class="versenum">21.</div> Ja heidan pitaa peseman katensa ja jalkansa, ettei he kuolisi ja se pitaa heille oleman ijankaikkiseksi saadyksi, hanelle ja hanen siemenellensa heidan sukukunnissansa.	
 
-22. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">22.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-23. Ota sinulles parhaista kaluista: kaikkein kalliimmasta mirhamista viisisataa siklia, ja puoli sen vertaa kanelia, kaksisataa ja viisikymmenta, ja myos kalmusta kaksisataa ja viisikymmenta.	
+<div class="versenum">23.</div> Ota sinulles parhaista kaluista: kaikkein kalliimmasta mirhamista viisisataa siklia, ja puoli sen vertaa kanelia, kaksisataa ja viisikymmenta, ja myos kalmusta kaksisataa ja viisikymmenta.	
 
-24. Mutta kasiaa viisisataa pyhan siklin jalkeen, ja oljya oljypuusta yksi hin,	
+<div class="versenum">24.</div> Mutta kasiaa viisisataa pyhan siklin jalkeen, ja oljya oljypuusta yksi hin,	
 
-25. Ja sinun pitaa siita tekeman pyhan voidellusoljyn, parhaan voiteen apotekarin tavalla: sen pitaa pyhan voiteen-oljyn oleman.	
+<div class="versenum">25.</div> Ja sinun pitaa siita tekeman pyhan voidellusoljyn, parhaan voiteen apotekarin tavalla: sen pitaa pyhan voiteen-oljyn oleman.	
 
-26. Silla sinun pitaa voiteleman seurakunnan majan, niin myos todistusarkin.	
+<div class="versenum">26.</div> Silla sinun pitaa voiteleman seurakunnan majan, niin myos todistusarkin.	
 
-27. Ja poydan ja kaikki hanen astiansa, ja kynttilajalan ja sen astiat, niin myos suitsutusalttarin,	
+<div class="versenum">27.</div> Ja poydan ja kaikki hanen astiansa, ja kynttilajalan ja sen astiat, niin myos suitsutusalttarin,	
 
-28. Polttouhrin alttarin ja kaikki sen astiat, niin myos pesoastian jalkoinensa.	
+<div class="versenum">28.</div> Polttouhrin alttarin ja kaikki sen astiat, niin myos pesoastian jalkoinensa.	
 
-29. Ja sinun pitaa ne pyhittaman, ja ne pitaa kaikkein pyhimmat oleman: mita ikanansa niihin tarttuu, se pitaa pyhitetty oleman.	
+<div class="versenum">29.</div> Ja sinun pitaa ne pyhittaman, ja ne pitaa kaikkein pyhimmat oleman: mita ikanansa niihin tarttuu, se pitaa pyhitetty oleman.	
 
-30. Aaronin ja hanen poikansa pitaa sinun myos voiteleman ja pyhittaman heita minulle papiksi.	
+<div class="versenum">30.</div> Aaronin ja hanen poikansa pitaa sinun myos voiteleman ja pyhittaman heita minulle papiksi.	
 
-31. Sinun pitaa myos puhuman Israelin lapsille, sanoen: tama oljy pitaa oleman minulle pyha voidellus teidan sukukunnissanne.	
+<div class="versenum">31.</div> Sinun pitaa myos puhuman Israelin lapsille, sanoen: tama oljy pitaa oleman minulle pyha voidellus teidan sukukunnissanne.	
 
-32. Ihmisen ruumiin paalle ei pida se voidellus vuodatettaman, ja ei teidan pida myos senkaltaista tekeman; silla se on pyha, sentahden pitaa myos se teilta pyhitettaman.	
+<div class="versenum">32.</div> Ihmisen ruumiin paalle ei pida se voidellus vuodatettaman, ja ei teidan pida myos senkaltaista tekeman; silla se on pyha, sentahden pitaa myos se teilta pyhitettaman.	
 
-33. Se joka tekee senkaltaista voidetta, eli joka panee sita muukalaisen paalle, se pitaa havitettaman kansoistansa.	
+<div class="versenum">33.</div> Se joka tekee senkaltaista voidetta, eli joka panee sita muukalaisen paalle, se pitaa havitettaman kansoistansa.	
 
-34. Ja Herra sanoi Mosekselle: ota sinulle hyvanhajullisia kaluja, staktea ja galbania (a); naista hajavista kaluista, puhtaan pyhan savun (b) kanssa, pitaa yhden verran oleman. (a) Bdellium. (b) Ollibanum purum.	
+<div class="versenum">34.</div> Ja Herra sanoi Mosekselle: ota sinulle hyvanhajullisia kaluja, staktea ja galbania (a); naista hajavista kaluista, puhtaan pyhan savun (b) kanssa, pitaa yhden verran oleman. (a) Bdellium. (b) Ollibanum purum.	
 
-35. Sinun pitaa siita tekeman suitsutuksen, apotekarin tavalla: suolatun, puhtaan ja pyhan.	
+<div class="versenum">35.</div> Sinun pitaa siita tekeman suitsutuksen, apotekarin tavalla: suolatun, puhtaan ja pyhan.	
 
-36. Ja sinun pitaa sen pieneksi survoman, ja paneman siita todistuksen eteen seurakunnan majaan, kussa mina olen sinua lasna: sen pitaa teille oleman kaikkein pyhimman.	
+<div class="versenum">36.</div> Ja sinun pitaa sen pieneksi survoman, ja paneman siita todistuksen eteen seurakunnan majaan, kussa mina olen sinua lasna: sen pitaa teille oleman kaikkein pyhimman.	
 
-37. Ja senkaltaista suitsutusta ei teidan pida itsellenne tekeman; mutta tama pitaa oleman sinulle pyha, Herran edessa.	
+<div class="versenum">37.</div> Ja senkaltaista suitsutusta ei teidan pida itsellenne tekeman; mutta tama pitaa oleman sinulle pyha, Herran edessa.	
 
-38. Joka senkaltaista tekee suitsuttaaksensa, se pitaa havitettaman kansoistansa.	
+<div class="versenum">38.</div> Joka senkaltaista tekee suitsuttaaksensa, se pitaa havitettaman kansoistansa.	
 

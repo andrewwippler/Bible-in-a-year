@@ -1,54 +1,54 @@
 Psalmien 44	
 	
-1. Koran lasten opetus, edellaveisaajalle. (H44:2) Jumala! me olemme korvillamme kuulleet, meidan isamme ovat meille luetelleet, mitas heidan aikanansa ja muinen tehnyt olet.	
+<div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H44:2) Jumala! me olemme korvillamme kuulleet, meidan isamme ovat meille luetelleet, mitas heidan aikanansa ja muinen tehnyt olet.	
 
-2. Sina olet ajanut pakanat pois kadellas; mutta heidat sina olet istuttanut siaan: sina olet kansat kadottanut, mutta heita sina olet levittanyt.	
+<div class="versenum">2.</div> Sina olet ajanut pakanat pois kadellas; mutta heidat sina olet istuttanut siaan: sina olet kansat kadottanut, mutta heita sina olet levittanyt.	
 
-3. Silla ei he ole miekallansa maata omistaneet, ja heidan kasivartensa ei auttaneet heita, vaan sinun oikia kates ja sinun kasivartes, ja sinun kasvois valkeus; silla sina mielistyit heihin.	
+<div class="versenum">3.</div> Silla ei he ole miekallansa maata omistaneet, ja heidan kasivartensa ei auttaneet heita, vaan sinun oikia kates ja sinun kasivartes, ja sinun kasvois valkeus; silla sina mielistyit heihin.	
 
-4. Jumala, sina olet minun kuninkaani, joka autuuden Jakobille lupaat.	
+<div class="versenum">4.</div> Jumala, sina olet minun kuninkaani, joka autuuden Jakobille lupaat.	
 
-5. Sinun kauttas me vihollisemme paiskaamme maahan; sinun nimessas me tallaamme vastaankarkaajamme.	
+<div class="versenum">5.</div> Sinun kauttas me vihollisemme paiskaamme maahan; sinun nimessas me tallaamme vastaankarkaajamme.	
 
-6. Silla en mina luota joutseeni, eika miekkani auta minua.	
+<div class="versenum">6.</div> Silla en mina luota joutseeni, eika miekkani auta minua.	
 
-7. Mutta sina autat meita vihollisistamme, ja saatat niita hapiaan, jotka meita vihaavat.	
+<div class="versenum">7.</div> Mutta sina autat meita vihollisistamme, ja saatat niita hapiaan, jotka meita vihaavat.	
 
-8. Jumalasta me kerskaamme joka paiva, ja kiitamme sinun nimeas ijankaikkisesti, Sela!	
+<div class="versenum">8.</div> Jumalasta me kerskaamme joka paiva, ja kiitamme sinun nimeas ijankaikkisesti, Sela!	
 
-9. Miksi sina nyt sysaat meita pois, ja annat meidan hapiaan tulla, etka lahde meidan sotajoukkomme kanssa?	
+<div class="versenum">9.</div> Miksi sina nyt sysaat meita pois, ja annat meidan hapiaan tulla, etka lahde meidan sotajoukkomme kanssa?	
 
-10. Sina annat meidan paeta vihollistemme edessa, etta ne raatelisivat meita, jotka meita vihaavat.	
+<div class="versenum">10.</div> Sina annat meidan paeta vihollistemme edessa, etta ne raatelisivat meita, jotka meita vihaavat.	
 
-11. Sina annat meita syotaviksi niinkuin lampaita, ja hajoitat pakanain sekaan.	
+<div class="versenum">11.</div> Sina annat meita syotaviksi niinkuin lampaita, ja hajoitat pakanain sekaan.	
 
-12. Sina myit kansas ilman hintaa, ja et mitaan siita ottanut.	
+<div class="versenum">12.</div> Sina myit kansas ilman hintaa, ja et mitaan siita ottanut.	
 
-13. Sina panet meita hapiaksi lasna-asuvaisillemme, pilkaksi ja nauruksi niille, jotka meidan ymparillamme ovat.	
+<div class="versenum">13.</div> Sina panet meita hapiaksi lasna-asuvaisillemme, pilkaksi ja nauruksi niille, jotka meidan ymparillamme ovat.	
 
-14. Sina teet meita sananlaskuksi pakanain seassa, ja etta kansat vaantelevat paatansa meidan tahtemme.	
+<div class="versenum">14.</div> Sina teet meita sananlaskuksi pakanain seassa, ja etta kansat vaantelevat paatansa meidan tahtemme.	
 
-15. Joka paiva on minun havaistykseni minun edessani; ja minun kasvoini hapia peittaa minun,	
+<div class="versenum">15.</div> Joka paiva on minun havaistykseni minun edessani; ja minun kasvoini hapia peittaa minun,	
 
-16. Etta minun pitaa pilkkaajia ja laittajia kuuleman, ja viholliset ja tylyt kostajat nakeman.	
+<div class="versenum">16.</div> Etta minun pitaa pilkkaajia ja laittajia kuuleman, ja viholliset ja tylyt kostajat nakeman.	
 
-17. Namat kaikki ovat tulleet meidan paallemme; ja emme sentahden ole sinua unhottaneet, emmeka petollisesti sinun liittoas vastaan tehneet.	
+<div class="versenum">17.</div> Namat kaikki ovat tulleet meidan paallemme; ja emme sentahden ole sinua unhottaneet, emmeka petollisesti sinun liittoas vastaan tehneet.	
 
-18. Ja ei meidan sydamemme takaperin kaantynyt, eika meidan kaymisemme poikennut sinun tiestas;	
+<div class="versenum">18.</div> Ja ei meidan sydamemme takaperin kaantynyt, eika meidan kaymisemme poikennut sinun tiestas;	
 
-19. Ettas meita niin loit rikki lohikarmeiden seassa ja peitit meita kuoleman varjolla.	
+<div class="versenum">19.</div> Ettas meita niin loit rikki lohikarmeiden seassa ja peitit meita kuoleman varjolla.	
 
-20. Jos me olisimme meidan Jumalamme nimen unhottaneet, ja meidan katemme nostaneet vieraalle Jumalalle,	
+<div class="versenum">20.</div> Jos me olisimme meidan Jumalamme nimen unhottaneet, ja meidan katemme nostaneet vieraalle Jumalalle,	
 
-21. Eiko Jumala sita etsisi? vaan han itse tietaa meidan sydamemme pohjan.	
+<div class="versenum">21.</div> Eiko Jumala sita etsisi? vaan han itse tietaa meidan sydamemme pohjan.	
 
-22. Silla sinun tahtes me surmataan joka paiva: ja me luetaan teuraslampaiksi.	
+<div class="versenum">22.</div> Silla sinun tahtes me surmataan joka paiva: ja me luetaan teuraslampaiksi.	
 
-23. Heraa, Herra, miksis makaat? valvo, ja ala meita sysaa pois kaiketikaan.	
+<div class="versenum">23.</div> Heraa, Herra, miksis makaat? valvo, ja ala meita sysaa pois kaiketikaan.	
 
-24. Miksis peitat kasvos, ja unohdat meidan raadollisuutemme ja ahdistuksemme?	
+<div class="versenum">24.</div> Miksis peitat kasvos, ja unohdat meidan raadollisuutemme ja ahdistuksemme?	
 
-25. Silla meidan sielumme on painettu alas maahan asti: meidan vatsamme riippuu maassa.	
+<div class="versenum">25.</div> Silla meidan sielumme on painettu alas maahan asti: meidan vatsamme riippuu maassa.	
 
-26. Nouse, auta meita, ja lunasta meita laupiutes tahden!	
+<div class="versenum">26.</div> Nouse, auta meita, ja lunasta meita laupiutes tahden!	
 

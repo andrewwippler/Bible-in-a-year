@@ -1,100 +1,100 @@
 4 Mooseksen 4	
 	
-1. Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
+<div class="versenum">1.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
 
-2. Lue Kahatin lapset Levin poikain seasta, heidan sukukuntainsa ja isainsa huoneen jalkeen,	
+<div class="versenum">2.</div> Lue Kahatin lapset Levin poikain seasta, heidan sukukuntainsa ja isainsa huoneen jalkeen,	
 
-3. Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti: kaikki ne jotka kelvolliset ovat sotaan menemaan, seurakunnan majassa palvelusta tekemaan.	
+<div class="versenum">3.</div> Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti: kaikki ne jotka kelvolliset ovat sotaan menemaan, seurakunnan majassa palvelusta tekemaan.	
 
-4. Ja tama pitaa oleman Kahatin poikain virka todistuksen majassa, joka kaikkein pyhin on:	
+<div class="versenum">4.</div> Ja tama pitaa oleman Kahatin poikain virka todistuksen majassa, joka kaikkein pyhin on:	
 
-5. Koska leiria siirretaan, niin pitaa Aaronin poikinensa tuleman ja ottaman esiripun alas, ja kaariman todistuksen arkin siihen,	
+<div class="versenum">5.</div> Koska leiria siirretaan, niin pitaa Aaronin poikinensa tuleman ja ottaman esiripun alas, ja kaariman todistuksen arkin siihen,	
 
-6. Ja paneman peitteen sen paalle tekasjim-nahoista, ja hajoittamaan kokonansa sinisen vaatteen sen ylitse, ja paneman sen korennot siallensa.	
+<div class="versenum">6.</div> Ja paneman peitteen sen paalle tekasjim-nahoista, ja hajoittamaan kokonansa sinisen vaatteen sen ylitse, ja paneman sen korennot siallensa.	
 
-7. Niin myos pitaa heidan hajoittaman nakypoydalle sinisen vaatteen, ja paneman sen paalle vadit, lusikat, maljat ja kannut, joilla ulos ja sisalle kaadetaan, ja ne alinomaiset leivat pitaa sen paalla oleman.	
+<div class="versenum">7.</div> Niin myos pitaa heidan hajoittaman nakypoydalle sinisen vaatteen, ja paneman sen paalle vadit, lusikat, maljat ja kannut, joilla ulos ja sisalle kaadetaan, ja ne alinomaiset leivat pitaa sen paalla oleman.	
 
-8. Ja heidan pitaa hajoittaman niiden paalle tulipunaisen vaatteen, ja peittaman tekasjim-nahkaisella peitteella, ja paneman sen korennot siallensa.	
+<div class="versenum">8.</div> Ja heidan pitaa hajoittaman niiden paalle tulipunaisen vaatteen, ja peittaman tekasjim-nahkaisella peitteella, ja paneman sen korennot siallensa.	
 
-9. Ja heidan pitaa ottaman sinisen vaatteen, ja kaariman valkeuden kynttilajalan sen sisalle, ja sen lamput, niistimet ja sammutusastiat, ja kaikki oljyastiat, joilla palvelusta siina tehdaan.	
+<div class="versenum">9.</div> Ja heidan pitaa ottaman sinisen vaatteen, ja kaariman valkeuden kynttilajalan sen sisalle, ja sen lamput, niistimet ja sammutusastiat, ja kaikki oljyastiat, joilla palvelusta siina tehdaan.	
 
-10. Ja taman ja kaikkein naiden kaluin ympari pitaa heidan paneman peitteen tekasjim-nahasta, ja paneman ne korentoin paalle.	
+<div class="versenum">10.</div> Ja taman ja kaikkein naiden kaluin ympari pitaa heidan paneman peitteen tekasjim-nahasta, ja paneman ne korentoin paalle.	
 
-11. Niin myos pitaa heidan hajoittaman kultaisen alttarin paalle sinisen vaatteen, ja peittaman sen tekasjim-nahkaisella peitteella, ja paneman sen korennot siallensa.	
+<div class="versenum">11.</div> Niin myos pitaa heidan hajoittaman kultaisen alttarin paalle sinisen vaatteen, ja peittaman sen tekasjim-nahkaisella peitteella, ja paneman sen korennot siallensa.	
 
-12. Kaikki astiat, joilla he palvelevat pyhassa, pitaa heidan ottaman ja levittaman niiden ylitse sinisen vaatteen, ja peittaman sen tekasjim-nahkaisella peitteella, ja paneman ne korentoin paalle.	
+<div class="versenum">12.</div> Kaikki astiat, joilla he palvelevat pyhassa, pitaa heidan ottaman ja levittaman niiden ylitse sinisen vaatteen, ja peittaman sen tekasjim-nahkaisella peitteella, ja paneman ne korentoin paalle.	
 
-13. Heidan pitaa myos kavaiseman tuhan alttarilta ja hajoittaman purppuraisen vaatteen sen paalle,	
+<div class="versenum">13.</div> Heidan pitaa myos kavaiseman tuhan alttarilta ja hajoittaman purppuraisen vaatteen sen paalle,	
 
-14. Ja paneman sen paalle kaikki astiat, joilla he siina palvelevat, hiilipannut, hangot, lapiot ja maljat, ja kaikki alttarin astiat; heidan pitaa myos hajoittaman sen ylitse tekasjim-nahkaisen peitteen, ja paneman korennot siallensa.	
+<div class="versenum">14.</div> Ja paneman sen paalle kaikki astiat, joilla he siina palvelevat, hiilipannut, hangot, lapiot ja maljat, ja kaikki alttarin astiat; heidan pitaa myos hajoittaman sen ylitse tekasjim-nahkaisen peitteen, ja paneman korennot siallensa.	
 
-15. Koska Aaron ja hanen poikansa namat toimittaneet ovat ja peittaneet pyhan ja kaikki pyhat astiat, ja leiria siirretaan, niin pitaa sitte Kahatin lapset meneman ja kantaman niita, ja ei pida rupeeman pyhaan, ettei he kuolisi. Namat pitaa oleman Kahatin lasten taakat seurakunnan majassa.	
+<div class="versenum">15.</div> Koska Aaron ja hanen poikansa namat toimittaneet ovat ja peittaneet pyhan ja kaikki pyhat astiat, ja leiria siirretaan, niin pitaa sitte Kahatin lapset meneman ja kantaman niita, ja ei pida rupeeman pyhaan, ettei he kuolisi. Namat pitaa oleman Kahatin lasten taakat seurakunnan majassa.	
 
-16. Ja Eleatsarilla, papin Aaronin pojalla, pitaa oleman tama virka: toimittaa oljya valaistukseksi, ja yrtteja suitsutukseksi, ja alinomaista ruokauhria, ja voidellusoljya, niin etta han toimittaa koko Tabernaklin ja kaikki, mita siina on, pyhan ja hanen astiansa.	
+<div class="versenum">16.</div> Ja Eleatsarilla, papin Aaronin pojalla, pitaa oleman tama virka: toimittaa oljya valaistukseksi, ja yrtteja suitsutukseksi, ja alinomaista ruokauhria, ja voidellusoljya, niin etta han toimittaa koko Tabernaklin ja kaikki, mita siina on, pyhan ja hanen astiansa.	
 
-17. Ja Herra puhui Mosekselle ja Aaronille sanoen:	
+<div class="versenum">17.</div> Ja Herra puhui Mosekselle ja Aaronille sanoen:	
 
-18. Ei teidan pida Kahatilaisten sukukuntain sikioita havittaman Levilaisten seasta.	
+<div class="versenum">18.</div> Ei teidan pida Kahatilaisten sukukuntain sikioita havittaman Levilaisten seasta.	
 
-19. Vaan sen teidan pitaa heidan kanssansa tekeman, etta he elaisivat ja ei kuolisi: jos he lahestyvat sita kaikkein pyhimpaa, niin pitaa Aaronin poikinensa meneman sisalle ja asettaman itsekunkin heidan virkaansa ja taakkaansa.	
+<div class="versenum">19.</div> Vaan sen teidan pitaa heidan kanssansa tekeman, etta he elaisivat ja ei kuolisi: jos he lahestyvat sita kaikkein pyhimpaa, niin pitaa Aaronin poikinensa meneman sisalle ja asettaman itsekunkin heidan virkaansa ja taakkaansa.	
 
-20. Vaan ei heidan pida meneman sinne sisalle, katsomaan pyhaa, koska se peitetaan, ettei he kuolisi.	
+<div class="versenum">20.</div> Vaan ei heidan pida meneman sinne sisalle, katsomaan pyhaa, koska se peitetaan, ettei he kuolisi.	
 
-21. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">21.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-22. Lue Gersonin lapset, heidan isainsa huoneen ja sukukuntainsa jalkeen:	
+<div class="versenum">22.</div> Lue Gersonin lapset, heidan isainsa huoneen ja sukukuntainsa jalkeen:	
 
-23. Kolmenkymmenen vuotisesta ja sen ylitse viidenkymmenen vuotiseen asti, pitaa sinun ne lukeman, kaikki ne, jotka sotaan menemaan kelvolliset ovat, etta heilla olis virka seurakunnan majassa.	
+<div class="versenum">23.</div> Kolmenkymmenen vuotisesta ja sen ylitse viidenkymmenen vuotiseen asti, pitaa sinun ne lukeman, kaikki ne, jotka sotaan menemaan kelvolliset ovat, etta heilla olis virka seurakunnan majassa.	
 
-24. Ja tama pitaa oleman Gersonilaisten sukukunnan virka, jota heidan pitaa tekeman ja kantaman:	
+<div class="versenum">24.</div> Ja tama pitaa oleman Gersonilaisten sukukunnan virka, jota heidan pitaa tekeman ja kantaman:	
 
-25. Ja heidan pitaa kantaman Tabernaklin vaatteet, ja seurakunnan majan, ja hanen peitteensa, ja tekasjim-nahkaisen peitteen, joka on sen paalla, ja myos seurakunnan majan ovivaatteen,	
+<div class="versenum">25.</div> Ja heidan pitaa kantaman Tabernaklin vaatteet, ja seurakunnan majan, ja hanen peitteensa, ja tekasjim-nahkaisen peitteen, joka on sen paalla, ja myos seurakunnan majan ovivaatteen,	
 
-26. Ja pihan vaatteet, ja lapikaytavan oven vaatteen pihassa, joka kay seka Tabernaklin etta myos alttarin ympari, ja hanen koytensa ja kaikki virkansa astiat, ja kaikki mita heidan virassansa tarvitaan ja heidan tekeman pitaa.	
+<div class="versenum">26.</div> Ja pihan vaatteet, ja lapikaytavan oven vaatteen pihassa, joka kay seka Tabernaklin etta myos alttarin ympari, ja hanen koytensa ja kaikki virkansa astiat, ja kaikki mita heidan virassansa tarvitaan ja heidan tekeman pitaa.	
 
-27. Aaronin ja hanen poikainsa sanan jalkeen pitaa kaikkein Gersonin poikain virka tehtaman, kaikki mita heidan kantaman ja korjaaman pitaa; ja teidan pitaa katsoman, etta he ottaisivat vaarin kaikista kuormistansa.	
+<div class="versenum">27.</div> Aaronin ja hanen poikainsa sanan jalkeen pitaa kaikkein Gersonin poikain virka tehtaman, kaikki mita heidan kantaman ja korjaaman pitaa; ja teidan pitaa katsoman, etta he ottaisivat vaarin kaikista kuormistansa.	
 
-28. Taman pitaa Gersonin lasten ja sukuin virka oleman seurakunnan majassa: ja heidan vartionsa pitaa oleman Itamarin, papin Aaronin pojan kaden alla.	
+<div class="versenum">28.</div> Taman pitaa Gersonin lasten ja sukuin virka oleman seurakunnan majassa: ja heidan vartionsa pitaa oleman Itamarin, papin Aaronin pojan kaden alla.	
 
-29. Merarin lapset, heidan sukukuntainsa ja isainsa huoneen jalkeen, pitaa sinun myos lukeman:	
+<div class="versenum">29.</div> Merarin lapset, heidan sukukuntainsa ja isainsa huoneen jalkeen, pitaa sinun myos lukeman:	
 
-30. Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti, pitaa sinun ne lukeman, kaikki sotaan menemaan kelvolliset, palvelemaan seurakunnan majassa.	
+<div class="versenum">30.</div> Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti, pitaa sinun ne lukeman, kaikki sotaan menemaan kelvolliset, palvelemaan seurakunnan majassa.	
 
-31. Tasta kuormasta pitaa heidan pitaman vaarin, kaiken virkansa jalkeen seurakunnan majassa, kuin ovat majan laudat, ja korennot, ja patsaat, ja jalat,	
+<div class="versenum">31.</div> Tasta kuormasta pitaa heidan pitaman vaarin, kaiken virkansa jalkeen seurakunnan majassa, kuin ovat majan laudat, ja korennot, ja patsaat, ja jalat,	
 
-32. Niin myos patsaat pihan ymparilla, ja jalat, ja naulat, ja koydet, kaikkein heidan astiainsa kanssa, kaiken heidan virkansa perasta: jokaiselle pitaa teidan nimenomattain asettaman kuormat astioista, joista heidan pitaa pitaman vaarin.	
+<div class="versenum">32.</div> Niin myos patsaat pihan ymparilla, ja jalat, ja naulat, ja koydet, kaikkein heidan astiainsa kanssa, kaiken heidan virkansa perasta: jokaiselle pitaa teidan nimenomattain asettaman kuormat astioista, joista heidan pitaa pitaman vaarin.	
 
-33. Ja tama pitaa oleman Merarin lasten sukuin virka kaikissa, joista heidan pitaa ottaman vaarin seurakunnan majassa, Itamarin papin Aaronin pojan kaden alla.	
+<div class="versenum">33.</div> Ja tama pitaa oleman Merarin lasten sukuin virka kaikissa, joista heidan pitaa ottaman vaarin seurakunnan majassa, Itamarin papin Aaronin pojan kaden alla.	
 
-34. Ja Moses ja Aaron, ynna kaiken kansan paamiesten kanssa, lukivat Kahatilaisten lapset, heidan sukuinsa ja isainsa huoneen jalkeen,	
+<div class="versenum">34.</div> Ja Moses ja Aaron, ynna kaiken kansan paamiesten kanssa, lukivat Kahatilaisten lapset, heidan sukuinsa ja isainsa huoneen jalkeen,	
 
-35. Kolmenkymmenen vuotisesta ja sen ylitse viidenkymmenen vuotiseen asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
+<div class="versenum">35.</div> Kolmenkymmenen vuotisesta ja sen ylitse viidenkymmenen vuotiseen asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
 
-36. Ja heidan lukunsa oli heidan sukuinsa jalkeen, kaksituhatta, seitsemansataa ja viisikymmenta.	
+<div class="versenum">36.</div> Ja heidan lukunsa oli heidan sukuinsa jalkeen, kaksituhatta, seitsemansataa ja viisikymmenta.	
 
-37. Tama on Kahatilaisten sukukuntain luku, joilla kaikilla oli toimittamista seurakunnan majassa, jotka Moses ja Aaron lukivat, Herran sanan jalkeen, Moseksen kautta.	
+<div class="versenum">37.</div> Tama on Kahatilaisten sukukuntain luku, joilla kaikilla oli toimittamista seurakunnan majassa, jotka Moses ja Aaron lukivat, Herran sanan jalkeen, Moseksen kautta.	
 
-38. Niin luettiin myos Gersonin lapset, sukukuntainsa ja isainsa huoneen jalkeen,	
+<div class="versenum">38.</div> Niin luettiin myos Gersonin lapset, sukukuntainsa ja isainsa huoneen jalkeen,	
 
-39. Kolmenkymmenen vuotisista ja sen ylitse viidenkymmenen vuotisiin asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
+<div class="versenum">39.</div> Kolmenkymmenen vuotisista ja sen ylitse viidenkymmenen vuotisiin asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
 
-40. Ja heidan lukunsa, heidan sukuinsa ja isainsa huoneen jalkeen, oli kaksituhatta kuusisataa ja kolmekymmenta.	
+<div class="versenum">40.</div> Ja heidan lukunsa, heidan sukuinsa ja isainsa huoneen jalkeen, oli kaksituhatta kuusisataa ja kolmekymmenta.	
 
-41. Tama on Gersonin lasten suvun luku, joilla kaikilla oli tekemista seurakunnan majassa, jotka Moses ja Aaron lukivat, Herran sanan jalkeen.	
+<div class="versenum">41.</div> Tama on Gersonin lasten suvun luku, joilla kaikilla oli tekemista seurakunnan majassa, jotka Moses ja Aaron lukivat, Herran sanan jalkeen.	
 
-42. Luettiin myos Merarin lapset, sukuinsa ja isainsa huoneen jalkeen,	
+<div class="versenum">42.</div> Luettiin myos Merarin lapset, sukuinsa ja isainsa huoneen jalkeen,	
 
-43. Kolmenkymmenen vuotisista ja sen ylitse viidenkymmenen vuotisiin asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
+<div class="versenum">43.</div> Kolmenkymmenen vuotisista ja sen ylitse viidenkymmenen vuotisiin asti, kaikki sotaan menemaan kelvolliset, palvelusta tekemaan seurakunnan majassa.	
 
-44. Ja heidan lukunsa oli, heidan sukuinsa jalkeen, kolmetuhatta ja kaksisataa.	
+<div class="versenum">44.</div> Ja heidan lukunsa oli, heidan sukuinsa jalkeen, kolmetuhatta ja kaksisataa.	
 
-45. Tama on Merarin lasten suvun luku, jotka Moses ja Aaron lukivat, Herran sanan jalkeen Moseksen kautta.	
+<div class="versenum">45.</div> Tama on Merarin lasten suvun luku, jotka Moses ja Aaron lukivat, Herran sanan jalkeen Moseksen kautta.	
 
-46. Kaikkein Levilaisten luku, kuin Moses ja Aaron ynna Israelin paamiesten kanssa lukivat, heidan sukuinsa ja isainsa huoneen jalkeen,	
+<div class="versenum">46.</div> Kaikkein Levilaisten luku, kuin Moses ja Aaron ynna Israelin paamiesten kanssa lukivat, heidan sukuinsa ja isainsa huoneen jalkeen,	
 
-47. Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti, kaikki ne jotka menivat sisalle palvelusta tekemaan virassansa, ja kuormaa kantamaan seurakunnan majaan,	
+<div class="versenum">47.</div> Kolmenkymmenen vuotisesta ja sen ylitse, viidenkymmenen vuotiseen asti, kaikki ne jotka menivat sisalle palvelusta tekemaan virassansa, ja kuormaa kantamaan seurakunnan majaan,	
 
-48. Heidan luettunsa olivat kahdeksantuhatta, viisisataa ja kahdeksankymmenta.	
+<div class="versenum">48.</div> Heidan luettunsa olivat kahdeksantuhatta, viisisataa ja kahdeksankymmenta.	
 
-49. Ja han luki heidat Herran sanan jalkeen Moseksen kautta, itsekunkin hanen virkaansa ja kuormaansa, ja ne, mitka han luki, olivat niinkuin Herra Mosekselle kaskenyt oli.	
+<div class="versenum">49.</div> Ja han luki heidat Herran sanan jalkeen Moseksen kautta, itsekunkin hanen virkaansa ja kuormaansa, ja ne, mitka han luki, olivat niinkuin Herra Mosekselle kaskenyt oli.	
 

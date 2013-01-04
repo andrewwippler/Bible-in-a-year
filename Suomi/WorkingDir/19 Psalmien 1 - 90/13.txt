@@ -1,14 +1,14 @@
 Psalmien 13	
 	
-1. Davidin Psalmi, edellaveisaajalle.	
+<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle.	
 
-2. Kuinka kauvan sina Herra perati tahdot minua unhottaa? kuinka kauvan sina peitat kasvos minusta?	
+<div class="versenum">2.</div> Kuinka kauvan sina Herra perati tahdot minua unhottaa? kuinka kauvan sina peitat kasvos minusta?	
 
-3. Kuinka kauvan mina neuvoa pidan sielussani? ja ahdistetaan sydamessani joka paiva? kuinka kauvan minun viholliseni yltyy minua vastaan?	
+<div class="versenum">3.</div> Kuinka kauvan mina neuvoa pidan sielussani? ja ahdistetaan sydamessani joka paiva? kuinka kauvan minun viholliseni yltyy minua vastaan?	
 
-4. Katso siis ja kuule minua, Herra minun Jumalani: valista silmani etten mina koskaan kuolemaan nukkuisi;	
+<div class="versenum">4.</div> Katso siis ja kuule minua, Herra minun Jumalani: valista silmani etten mina koskaan kuolemaan nukkuisi;	
 
-5. Ettei viholliseni sanoisi: mina voitin hanen, ja minun sortajani iloitsisi, koska mina kompastun.	
+<div class="versenum">5.</div> Ettei viholliseni sanoisi: mina voitin hanen, ja minun sortajani iloitsisi, koska mina kompastun.	
 
-6. Mutta mina turvaan sinun armoos: minun sydameni riemuitsee, ettas niin mielellas autat: mina veisaan Herralle, etta han minulle niin hyvasti tekee.	
+<div class="versenum">6.</div> Mutta mina turvaan sinun armoos: minun sydameni riemuitsee, ettas niin mielellas autat: mina veisaan Herralle, etta han minulle niin hyvasti tekee.	
 

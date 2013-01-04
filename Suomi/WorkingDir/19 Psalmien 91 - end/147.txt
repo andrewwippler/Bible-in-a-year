@@ -1,42 +1,42 @@
 Psalmien 147	
 	
-1. Kiittakaat Herraa! silla Jumalaamme kiittaa on kallis asia: kiitos on suloinen ja kaunis.	
+<div class="versenum">1.</div> Kiittakaat Herraa! silla Jumalaamme kiittaa on kallis asia: kiitos on suloinen ja kaunis.	
 
-2. Herra rakentaa Jerusalemin, ja kokoo hajoitetut Israelilaiset.	
+<div class="versenum">2.</div> Herra rakentaa Jerusalemin, ja kokoo hajoitetut Israelilaiset.	
 
-3. Han parantaa murretut sydamet, ja sitoo heidan kipunsa.	
+<div class="versenum">3.</div> Han parantaa murretut sydamet, ja sitoo heidan kipunsa.	
 
-4. Han lukee tahdet, ja kutsuu heita kaikkia nimeltansa.	
+<div class="versenum">4.</div> Han lukee tahdet, ja kutsuu heita kaikkia nimeltansa.	
 
-5. Suuri on meidan Herramme, ja suuri hanen voimansa, ja hanen viisautensa on maaratoin.	
+<div class="versenum">5.</div> Suuri on meidan Herramme, ja suuri hanen voimansa, ja hanen viisautensa on maaratoin.	
 
-6. Herra ojentaa raadolliset, ja jumalattomat maahan paiskaa.	
+<div class="versenum">6.</div> Herra ojentaa raadolliset, ja jumalattomat maahan paiskaa.	
 
-7. Vuoroin veisatkaat Herralle kiitossanalla, ja veisatkaat meidan Herrallemme kanteleella;	
+<div class="versenum">7.</div> Vuoroin veisatkaat Herralle kiitossanalla, ja veisatkaat meidan Herrallemme kanteleella;	
 
-8. Joka taivaan pilvilla peittaa ja antaa sateen maan paalle; joka ruohot vuorilla kasvattaa;	
+<div class="versenum">8.</div> Joka taivaan pilvilla peittaa ja antaa sateen maan paalle; joka ruohot vuorilla kasvattaa;	
 
-9. Joka elaimille antaa heidan ruokansa, ja kaarneen pojille, jotka hanta avuksensa huutavat.	
+<div class="versenum">9.</div> Joka elaimille antaa heidan ruokansa, ja kaarneen pojille, jotka hanta avuksensa huutavat.	
 
-10. Ei han mielisty hevosten vakevyyteen, eika hanelle kelpaa miehen saariluut.	
+<div class="versenum">10.</div> Ei han mielisty hevosten vakevyyteen, eika hanelle kelpaa miehen saariluut.	
 
-11. Herralle kelpaavat ne, jotka hanta pelkaavat, ja jotka hanen laupiuteensa uskaltavat.	
+<div class="versenum">11.</div> Herralle kelpaavat ne, jotka hanta pelkaavat, ja jotka hanen laupiuteensa uskaltavat.	
 
-12. Ylista, Jerusalem, Herraa: kiita, Zion, sinun Jumalaas!	
+<div class="versenum">12.</div> Ylista, Jerusalem, Herraa: kiita, Zion, sinun Jumalaas!	
 
-13. Silla han vahvistaa sinun porttis salvat, ja siunaa sinussa sinun lapses.	
+<div class="versenum">13.</div> Silla han vahvistaa sinun porttis salvat, ja siunaa sinussa sinun lapses.	
 
-14. Han saattaa rauhan sinun aariis, ja ravitsee sinua parhailla nisuilla.	
+<div class="versenum">14.</div> Han saattaa rauhan sinun aariis, ja ravitsee sinua parhailla nisuilla.	
 
-15. Han lahettaa puheensa maan paalle: hanen sanansa nopiasti juoksee.	
+<div class="versenum">15.</div> Han lahettaa puheensa maan paalle: hanen sanansa nopiasti juoksee.	
 
-16. Han antaa lumen niinkuin villan; han hajoittaa harman niinkuin tuhan.	
+<div class="versenum">16.</div> Han antaa lumen niinkuin villan; han hajoittaa harman niinkuin tuhan.	
 
-17. Han heittaa rakeensa niinkuin palat; kuka hanen pakkasensa edessa kestaa?	
+<div class="versenum">17.</div> Han heittaa rakeensa niinkuin palat; kuka hanen pakkasensa edessa kestaa?	
 
-18. Han lahettaa sanansa, ja sulaa ne; han antaa tuulen puhaltaa, niin vedet juoksevat.	
+<div class="versenum">18.</div> Han lahettaa sanansa, ja sulaa ne; han antaa tuulen puhaltaa, niin vedet juoksevat.	
 
-19. Han ilmoittaa Jakobille sanansa, ja Israelille saatynsa ja oikeutensa.	
+<div class="versenum">19.</div> Han ilmoittaa Jakobille sanansa, ja Israelille saatynsa ja oikeutensa.	
 
-20. Ei han niin tehnyt kaikille pakanoille; eika he tieda hanen oikeuttansa, Halleluja!	
+<div class="versenum">20.</div> Ei han niin tehnyt kaikille pakanoille; eika he tieda hanen oikeuttansa, Halleluja!	
 

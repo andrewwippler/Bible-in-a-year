@@ -1,36 +1,36 @@
 Jesajan 21	
 	
-1. Tama on korven kuorma meren tykona: niinkuin tuulispaa tulee etelasta, joka kaantaa ylosalaisin, niin se tulee korvesta, kauhiasta maasta.	
+<div class="versenum">1.</div> Tama on korven kuorma meren tykona: niinkuin tuulispaa tulee etelasta, joka kaantaa ylosalaisin, niin se tulee korvesta, kauhiasta maasta.	
 
-2. Silla minulle on osoitettu kova naky: pettaja tulee toista vastaan, havittaja toista vastaan. Mene ylos Elam, piirita heita Madai: mina lopetan kaikki hanen huokauksensa.	
+<div class="versenum">2.</div> Silla minulle on osoitettu kova naky: pettaja tulee toista vastaan, havittaja toista vastaan. Mene ylos Elam, piirita heita Madai: mina lopetan kaikki hanen huokauksensa.	
 
-3. Sentahden ovat minun kupeeni taynna kipua, ja ahdistus on minun kasittanyt, niinkuin lapsen synnyttajan ahdistus; mina kyyristan minuni, koska mina sen kuulen, ja peljastyn, koska mina sen naen.	
+<div class="versenum">3.</div> Sentahden ovat minun kupeeni taynna kipua, ja ahdistus on minun kasittanyt, niinkuin lapsen synnyttajan ahdistus; mina kyyristan minuni, koska mina sen kuulen, ja peljastyn, koska mina sen naen.	
 
-4. Minun sydameni vapisee, kauhistus on minun peljattanyt; sentahden ei ole minulla ollut suloisella yolla yhtaan lepoa.	
+<div class="versenum">4.</div> Minun sydameni vapisee, kauhistus on minun peljattanyt; sentahden ei ole minulla ollut suloisella yolla yhtaan lepoa.	
 
-5. Valmista poyta, anna valvojain valvoa, syo, juo: nouskaat te paaruhtinaat ja voidelkaat kilvet.	
+<div class="versenum">5.</div> Valmista poyta, anna valvojain valvoa, syo, juo: nouskaat te paaruhtinaat ja voidelkaat kilvet.	
 
-6. Silla Herra sanoo nain minulle: mene ja toimita vartio, joka katselis ja ilmoittais.	
+<div class="versenum">6.</div> Silla Herra sanoo nain minulle: mene ja toimita vartio, joka katselis ja ilmoittais.	
 
-7. Mutta han naki ratsastajat ajavan ja menevan aaseilla ja kameleilla, ja piti siita visun vaarin.	
+<div class="versenum">7.</div> Mutta han naki ratsastajat ajavan ja menevan aaseilla ja kameleilla, ja piti siita visun vaarin.	
 
-8. Ja han huusi niinkuin jalopeura: Herra, mina olen vartiolla yli paivaa, ja olen minun vartiollani kaikki yot:	
+<div class="versenum">8.</div> Ja han huusi niinkuin jalopeura: Herra, mina olen vartiolla yli paivaa, ja olen minun vartiollani kaikki yot:	
 
-9. Ja katso, siella tulee yksi vaunuissa ja kaksi ratsahin, joka vastaa ja sanoo: kaatunut, kaatunut on Babylon, ja kaikki hanen jumalainsa kuvat lyotiin maahan.	
+<div class="versenum">9.</div> Ja katso, siella tulee yksi vaunuissa ja kaksi ratsahin, joka vastaa ja sanoo: kaatunut, kaatunut on Babylon, ja kaikki hanen jumalainsa kuvat lyotiin maahan.	
 
-10. O minun tappamiseni ja minun riiheni permanto! mita mina olen Herralta Zebaotilta, Israelin Jumalalta, kuullut, sen mina teille ilmoitan.	
+<div class="versenum">10.</div> O minun tappamiseni ja minun riiheni permanto! mita mina olen Herralta Zebaotilta, Israelin Jumalalta, kuullut, sen mina teille ilmoitan.	
 
-11. Tama on Duman kuorma: Seirista huudetaan minua: vartia, mita yo kuluu? vartia, mita yo kuluu?	
+<div class="versenum">11.</div> Tama on Duman kuorma: Seirista huudetaan minua: vartia, mita yo kuluu? vartia, mita yo kuluu?	
 
-12. Vartia sanoi: kuin aamu tulee, niin viela yo on; jos te viela kysytte, niin teidan pitaa viela sitte palajaman ja taas kysyman.	
+<div class="versenum">12.</div> Vartia sanoi: kuin aamu tulee, niin viela yo on; jos te viela kysytte, niin teidan pitaa viela sitte palajaman ja taas kysyman.	
 
-13. Tama on Arabian kuorma: teidan pitaa yotyman Arabian metsassa, Dedanimin tiella.	
+<div class="versenum">13.</div> Tama on Arabian kuorma: teidan pitaa yotyman Arabian metsassa, Dedanimin tiella.	
 
-14. Kantakaat vetta janoovaa vastaan, te jotka asutte Temanin maassa: taritkaat pakenevaisille leipaa.	
+<div class="versenum">14.</div> Kantakaat vetta janoovaa vastaan, te jotka asutte Temanin maassa: taritkaat pakenevaisille leipaa.	
 
-15. Silla he pakenevat miekkaa, paljasta miekkaa, jannitettya jousta ja isoa sotaa.	
+<div class="versenum">15.</div> Silla he pakenevat miekkaa, paljasta miekkaa, jannitettya jousta ja isoa sotaa.	
 
-16. Silla nain sanoo Herra minulle: viela nyt vuosi, niinkuin palkollisen vuodet ovat, niin pitaa kaiken Kedarin kunnian hukkuman.	
+<div class="versenum">16.</div> Silla nain sanoo Herra minulle: viela nyt vuosi, niinkuin palkollisen vuodet ovat, niin pitaa kaiken Kedarin kunnian hukkuman.	
 
-17. Ja jaaneet ampujat, vakevat Kedarin lapsista, pitaa vahemmaksi joutuman; silla Herra Israelin Jumala on sen sanonut.	
+<div class="versenum">17.</div> Ja jaaneet ampujat, vakevat Kedarin lapsista, pitaa vahemmaksi joutuman; silla Herra Israelin Jumala on sen sanonut.	
 

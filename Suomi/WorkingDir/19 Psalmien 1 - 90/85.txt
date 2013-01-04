@@ -1,28 +1,28 @@
 Psalmien 85	
 	
-1. Koran lasten Psalmi, edellaveisaajalle. (H85:2) Herra, sina kuin (muinen) olit armollinen sinun maakunnalles, ja Jakobin vangit lunastit,	
+<div class="versenum">1.</div> Koran lasten Psalmi, edellaveisaajalle. (H85:2) Herra, sina kuin (muinen) olit armollinen sinun maakunnalles, ja Jakobin vangit lunastit,	
 
-2. Sina anteeksi annoit kansas pahat teot, ja kaikki heidan syntinsa peitit, Sela!	
+<div class="versenum">2.</div> Sina anteeksi annoit kansas pahat teot, ja kaikki heidan syntinsa peitit, Sela!	
 
-3. Sina lepytit kaiken vihas, ja kaansit sinuas vihas julmuudesta.	
+<div class="versenum">3.</div> Sina lepytit kaiken vihas, ja kaansit sinuas vihas julmuudesta.	
 
-4. Kaanna meita, meidan autuutemme Jumala, ja pane pois vihas meista.	
+<div class="versenum">4.</div> Kaanna meita, meidan autuutemme Jumala, ja pane pois vihas meista.	
 
-5. Tahdotkos siis ijankaikkisesti olla vihainen meidan paallemme? eli vihas pitaa sukukunnasta sukukuntaan?	
+<div class="versenum">5.</div> Tahdotkos siis ijankaikkisesti olla vihainen meidan paallemme? eli vihas pitaa sukukunnasta sukukuntaan?	
 
-6. Etkos kaanny, ja meita virvoita, etta kansas sinussa iloitsis?	
+<div class="versenum">6.</div> Etkos kaanny, ja meita virvoita, etta kansas sinussa iloitsis?	
 
-7. Herra, osoita meille armos, ja sinun autuutes anna meille.	
+<div class="versenum">7.</div> Herra, osoita meille armos, ja sinun autuutes anna meille.	
 
-8. Jospa mina kuulisin, mita Herra Jumala puhuu, etta han rauhan lupasi kansallensa ja pyhillensa, ettei he hulluuteen joutuisi.	
+<div class="versenum">8.</div> Jospa mina kuulisin, mita Herra Jumala puhuu, etta han rauhan lupasi kansallensa ja pyhillensa, ettei he hulluuteen joutuisi.	
 
-9. Kuitenkin on hanen apunsa niiden tykona, jotka hanta pelkaavat, etta meidan maallamme kunnia asuis;	
+<div class="versenum">9.</div> Kuitenkin on hanen apunsa niiden tykona, jotka hanta pelkaavat, etta meidan maallamme kunnia asuis;	
 
-10. Etta laupius ja totuus keskenansa kohtaisivat: vanhurskaus ja rauha toinen toisellensa suuta antaisivat;	
+<div class="versenum">10.</div> Etta laupius ja totuus keskenansa kohtaisivat: vanhurskaus ja rauha toinen toisellensa suuta antaisivat;	
 
-11. Etta totuus maasta vesois, ja vanhurskaus taivaasta katsois;	
+<div class="versenum">11.</div> Etta totuus maasta vesois, ja vanhurskaus taivaasta katsois;	
 
-12. Etta myos meille Herra hyvin tekis, ja meidan maamme hedemansa antais;	
+<div class="versenum">12.</div> Etta myos meille Herra hyvin tekis, ja meidan maamme hedemansa antais;	
 
-13. Etta vanhurskaus sittenkin hanen edessansa pysyis ja menestyis.	
+<div class="versenum">13.</div> Etta vanhurskaus sittenkin hanen edessansa pysyis ja menestyis.	
 

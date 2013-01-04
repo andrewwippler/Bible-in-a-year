@@ -1,20 +1,20 @@
 Psalmien 122	
 	
-1. Davidin veisu korkeimmassa Kuorissa. Mina iloitsen niista, jotka minulle sanovat: etta me menemme Herran huoneeseen,	
+<div class="versenum">1.</div> Davidin veisu korkeimmassa Kuorissa. Mina iloitsen niista, jotka minulle sanovat: etta me menemme Herran huoneeseen,	
 
-2. Ja etta meidan jalkamme pitaa seisoman sinun porteissas, Jerusalem.	
+<div class="versenum">2.</div> Ja etta meidan jalkamme pitaa seisoman sinun porteissas, Jerusalem.	
 
-3. Jerusalem on rakennettu kaupungiksi, johon on tuleminen kokoon,	
+<div class="versenum">3.</div> Jerusalem on rakennettu kaupungiksi, johon on tuleminen kokoon,	
 
-4. Etta sukukunnat astuisivat sinne ylos, Herran sukukunnat, Israelille todistukseksi, kiittamaan Herran nimea.	
+<div class="versenum">4.</div> Etta sukukunnat astuisivat sinne ylos, Herran sukukunnat, Israelille todistukseksi, kiittamaan Herran nimea.	
 
-5. Silla siella ovat istuimet rakennetut tuomittaa, Davidin huoneen istuimet.	
+<div class="versenum">5.</div> Silla siella ovat istuimet rakennetut tuomittaa, Davidin huoneen istuimet.	
 
-6. Toivottakaat Jerusalemille rauhaa: he menestykoon, jotka sinua rakastavat!	
+<div class="versenum">6.</div> Toivottakaat Jerusalemille rauhaa: he menestykoon, jotka sinua rakastavat!	
 
-7. Rauha olkoon sinun muureis sisalla, ja onni sinun huoneissas!	
+<div class="versenum">7.</div> Rauha olkoon sinun muureis sisalla, ja onni sinun huoneissas!	
 
-8. Minun veljieni ja ystavaini tahden mina toivotan nyt sinulle rauhaa!	
+<div class="versenum">8.</div> Minun veljieni ja ystavaini tahden mina toivotan nyt sinulle rauhaa!	
 
-9. Herran meidan Jumalamme huoneen tahden etsin mina sinun parastas.	
+<div class="versenum">9.</div> Herran meidan Jumalamme huoneen tahden etsin mina sinun parastas.	
 

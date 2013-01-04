@@ -1,46 +1,46 @@
 Saarnaajan 3	
 	
-1. Kaikella on maaraaika, ja aikansa on joka asialla taivaan alla.	
+<div class="versenum">1.</div> Kaikella on maaraaika, ja aikansa on joka asialla taivaan alla.	
 
-2. Aika on syntya ja aika kuolla. Aika on istuttaa ja aika repia istutus.	
+<div class="versenum">2.</div> Aika on syntya ja aika kuolla. Aika on istuttaa ja aika repia istutus.	
 
-3. Aika on surmata ja aika parantaa. Aika on purkaa ja aika rakentaa.	
+<div class="versenum">3.</div> Aika on surmata ja aika parantaa. Aika on purkaa ja aika rakentaa.	
 
-4. Aika on itkea ja aika nauraa. Aika on valittaa ja aika hypella.	
+<div class="versenum">4.</div> Aika on itkea ja aika nauraa. Aika on valittaa ja aika hypella.	
 
-5. Aika on heitella kivia ja aika kerata kivet. Aika on syleilla ja aika olla syleilematta.	
+<div class="versenum">5.</div> Aika on heitella kivia ja aika kerata kivet. Aika on syleilla ja aika olla syleilematta.	
 
-6. Aika on etsia ja aika kadottaa. Aika on sailyttaa ja aika viskata pois.	
+<div class="versenum">6.</div> Aika on etsia ja aika kadottaa. Aika on sailyttaa ja aika viskata pois.	
 
-7. Aika on revaista rikki ja aika ommella yhteen. Aika on olla vaiti ja aika puhua.	
+<div class="versenum">7.</div> Aika on revaista rikki ja aika ommella yhteen. Aika on olla vaiti ja aika puhua.	
 
-8. Aika on rakastaa ja aika vihata. Aika on sodalla ja aika rauhalla.	
+<div class="versenum">8.</div> Aika on rakastaa ja aika vihata. Aika on sodalla ja aika rauhalla.	
 
-9. Mita hyotya on tyontekijalla siita, mista han nakee vaivaa?	
+<div class="versenum">9.</div> Mita hyotya on tyontekijalla siita, mista han nakee vaivaa?	
 
-10. Mina olen katsonut sita tyota, minka Jumala on antanut ihmislapsille, heidan silla itseaan rasittaaksensa.	
+<div class="versenum">10.</div> Mina olen katsonut sita tyota, minka Jumala on antanut ihmislapsille, heidan silla itseaan rasittaaksensa.	
 
-11. Kaiken han on tehnyt kauniisti aikanansa, myos iankaikkisuuden han on pannut heidan sydameensa; mutta niin on, ettei ihminen kasita tekoja, jotka Jumala on tehnyt, ei alkua eika loppua.	
+<div class="versenum">11.</div> Kaiken han on tehnyt kauniisti aikanansa, myos iankaikkisuuden han on pannut heidan sydameensa; mutta niin on, ettei ihminen kasita tekoja, jotka Jumala on tehnyt, ei alkua eika loppua.	
 
-12. Mina tulin tietamaan, ettei heilla ole muuta onnea kuin iloita ja tehda hyvaa elaessansa.	
+<div class="versenum">12.</div> Mina tulin tietamaan, ettei heilla ole muuta onnea kuin iloita ja tehda hyvaa elaessansa.	
 
-13. Mutta jokaiselle ihmiselle on sekin, etta han syo ja juo ja nauttii hyvaa kaiken vaivannakonsa ohessa, Jumalan lahja.	
+<div class="versenum">13.</div> Mutta jokaiselle ihmiselle on sekin, etta han syo ja juo ja nauttii hyvaa kaiken vaivannakonsa ohessa, Jumalan lahja.	
 
-14. Mina tulin tietamaan, etta kaikki, mita Jumala tekee, pysyy iati. Ei ole siihen lisaamista eika siita vahentamista. Ja Jumala on sen niin tehnyt, etta hanta peljattaisiin.	
+<div class="versenum">14.</div> Mina tulin tietamaan, etta kaikki, mita Jumala tekee, pysyy iati. Ei ole siihen lisaamista eika siita vahentamista. Ja Jumala on sen niin tehnyt, etta hanta peljattaisiin.	
 
-15. Mita nyt on, sita on ollut jo ennenkin; ja mita vasta on oleva, sita on ollut jo ennenkin. Jumala etsii jalleen sen, mika on mennytta.	
+<div class="versenum">15.</div> Mita nyt on, sita on ollut jo ennenkin; ja mita vasta on oleva, sita on ollut jo ennenkin. Jumala etsii jalleen sen, mika on mennytta.	
 
-16. Viela mina nain auringon alla oikeuspaikan, ja siina oli vaaryys, ja vanhurskauden paikan, ja siina oli vaaryys.	
+<div class="versenum">16.</div> Viela mina nain auringon alla oikeuspaikan, ja siina oli vaaryys, ja vanhurskauden paikan, ja siina oli vaaryys.	
 
-17. Mina sanoin sydamessani: Vanhurskaan ja vaaran tuomitsee Jumala, silla siella on jokaisella asialla ja jokaisella teolla aikansa.	
+<div class="versenum">17.</div> Mina sanoin sydamessani: Vanhurskaan ja vaaran tuomitsee Jumala, silla siella on jokaisella asialla ja jokaisella teolla aikansa.	
 
-18. Mina sanoin sydamessani: Ihmislasten tahden se niin on, jotta Jumala heita koettelisi ja he tulisivat nakemaan etta he omassa olossaan ovat elaimia.	
+<div class="versenum">18.</div> Mina sanoin sydamessani: Ihmislasten tahden se niin on, jotta Jumala heita koettelisi ja he tulisivat nakemaan etta he omassa olossaan ovat elaimia.	
 
-19. Silla ihmislasten kay niinkuin elaintenkin; sama on kumpienkin kohtalo. Niinkuin toiset kuolevat, niin toisetkin kuolevat; yhtalainen henki on kaikilla. Ihmisilla ei ole mitaan etua elainten edella, silla kaikki on turhuutta.	
+<div class="versenum">19.</div> Silla ihmislasten kay niinkuin elaintenkin; sama on kumpienkin kohtalo. Niinkuin toiset kuolevat, niin toisetkin kuolevat; yhtalainen henki on kaikilla. Ihmisilla ei ole mitaan etua elainten edella, silla kaikki on turhuutta.	
 
-20. Kaikki menee samaan paikkaan. Kaikki on tomusta tullut, ja kaikki palajaa tomuun.	
+<div class="versenum">20.</div> Kaikki menee samaan paikkaan. Kaikki on tomusta tullut, ja kaikki palajaa tomuun.	
 
-21. Kuka tietaa ihmisen hengesta, kohoaako se ylos, ja elaimen hengesta, vajoaako se alas maahan?	
+<div class="versenum">21.</div> Kuka tietaa ihmisen hengesta, kohoaako se ylos, ja elaimen hengesta, vajoaako se alas maahan?	
 
-22. Niin mina tulin nakemaan, etta ei ole mitaan parempaa, kuin etta ihminen iloitsee teoistansa, silla se on hanen osansa. Silla kuka tuo hanet takaisin nakemaan iloksensa sita, mika tulee hanen jalkeensa?	
+<div class="versenum">22.</div> Niin mina tulin nakemaan, etta ei ole mitaan parempaa, kuin etta ihminen iloitsee teoistansa, silla se on hanen osansa. Silla kuka tuo hanet takaisin nakemaan iloksensa sita, mika tulee hanen jalkeensa?	
 

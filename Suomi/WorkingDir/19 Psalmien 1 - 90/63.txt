@@ -1,24 +1,24 @@
 Psalmien 63	
 	
-1. Davidin Psalmi, kuin han oli Juudan korvessa. (H63:2) Jumala, sina olet minun Jumalani! Varhain mina sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetoin on.	
+<div class="versenum">1.</div> Davidin Psalmi, kuin han oli Juudan korvessa. (H63:2) Jumala, sina olet minun Jumalani! Varhain mina sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetoin on.	
 
-2. Niinkuin mina nain sinun pyhassa, katsellakseni sinun voimaas ja kunniaas;	
+<div class="versenum">2.</div> Niinkuin mina nain sinun pyhassa, katsellakseni sinun voimaas ja kunniaas;	
 
-3. Silla sinun laupiutes on parempi kuin elama: minun huuleni pitaa sinua kiittaman.	
+<div class="versenum">3.</div> Silla sinun laupiutes on parempi kuin elama: minun huuleni pitaa sinua kiittaman.	
 
-4. Niin mina tahdon kunnioittaa sinua minun elinaikanani, ja minun kateni nostaa ylos sinun nimees.	
+<div class="versenum">4.</div> Niin mina tahdon kunnioittaa sinua minun elinaikanani, ja minun kateni nostaa ylos sinun nimees.	
 
-5. Niinkuin lihavuudella ja rasvalla pitaa minun sieluni ravittaman: ja minun suuni pitaa kiittaman iloisilla huulilla.	
+<div class="versenum">5.</div> Niinkuin lihavuudella ja rasvalla pitaa minun sieluni ravittaman: ja minun suuni pitaa kiittaman iloisilla huulilla.	
 
-6. Kuin mina vuoteeseni lasken, niin mina muistan sinua:kuin mina heraan, niin mina puhun sinusta.	
+<div class="versenum">6.</div> Kuin mina vuoteeseni lasken, niin mina muistan sinua:kuin mina heraan, niin mina puhun sinusta.	
 
-7. Silla sina olet minun apuni, ja sinun siipeis varjon alla mina kerskaan.	
+<div class="versenum">7.</div> Silla sina olet minun apuni, ja sinun siipeis varjon alla mina kerskaan.	
 
-8. Minun sieluni riippuu sinussa: sinun oikia kates minun tukee.	
+<div class="versenum">8.</div> Minun sieluni riippuu sinussa: sinun oikia kates minun tukee.	
 
-9. Mutta he etsivat kadottaaksensa minun sieluni: heidan taytyy maan alle menna.	
+<div class="versenum">9.</div> Mutta he etsivat kadottaaksensa minun sieluni: heidan taytyy maan alle menna.	
 
-10. Heidan pitaa miekkaan lankeeman, ketuille osaksi tuleman.	
+<div class="versenum">10.</div> Heidan pitaa miekkaan lankeeman, ketuille osaksi tuleman.	
 
-11. Mutta kuninkaan pitaa iloitseman Jumalassa: joka hanen kauttansa vannoo, se kunnioitetaan; silla valhetteliain suu pitaa tukittaman.	
+<div class="versenum">11.</div> Mutta kuninkaan pitaa iloitseman Jumalassa: joka hanen kauttansa vannoo, se kunnioitetaan; silla valhetteliain suu pitaa tukittaman.	
 

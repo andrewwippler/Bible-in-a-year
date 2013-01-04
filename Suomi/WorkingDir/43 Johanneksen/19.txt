@@ -1,86 +1,86 @@
 Johanneksen 19	
 	
-1. Niin Pilatus otti silloin Jesuksen ja ruoskitsi hanen,	
+<div class="versenum">1.</div> Niin Pilatus otti silloin Jesuksen ja ruoskitsi hanen,	
 
-2. Ja sotamiehet vaansivat kruunun orjantappuroista, panivat sen hanen paahansa ja puettivat hanen purpuravaatteesen,	
+<div class="versenum">2.</div> Ja sotamiehet vaansivat kruunun orjantappuroista, panivat sen hanen paahansa ja puettivat hanen purpuravaatteesen,	
 
-3. Ja sanoivat: terve, Juudalaisten kuningas! ja antoivat hanelle korvapuusteja.	
+<div class="versenum">3.</div> Ja sanoivat: terve, Juudalaisten kuningas! ja antoivat hanelle korvapuusteja.	
 
-4. Taas tuli Pilatus ulos ja sanoi heille: katsokaat, mina tuon hanen teille ulos, etta te tietaisitte, etten mina loyda yhtaan syyta hanessa.	
+<div class="versenum">4.</div> Taas tuli Pilatus ulos ja sanoi heille: katsokaat, mina tuon hanen teille ulos, etta te tietaisitte, etten mina loyda yhtaan syyta hanessa.	
 
-5. Niin Jesus meni ulos, kantain orjantappuraista kruunua ja purpuraista vaatetta. Ja han sanoi heille: katso ihmista!	
+<div class="versenum">5.</div> Niin Jesus meni ulos, kantain orjantappuraista kruunua ja purpuraista vaatetta. Ja han sanoi heille: katso ihmista!	
 
-6. Mutta kuin ylimmaiset papit ja palveliat hanen nakivat, huusivat he, sanoen: ristiinnaulitse, ristiinnaulitse hanta! Pilatus sanoi heille: ottakaat te hanta ja ristiinnaulitkaat; silla en mina loyda yhtaan syyta hanessa.	
+<div class="versenum">6.</div> Mutta kuin ylimmaiset papit ja palveliat hanen nakivat, huusivat he, sanoen: ristiinnaulitse, ristiinnaulitse hanta! Pilatus sanoi heille: ottakaat te hanta ja ristiinnaulitkaat; silla en mina loyda yhtaan syyta hanessa.	
 
-7. Vastasivat hanta Juudalaiset: meilla on laki, ja meidan lakimme jalkeen pitaa hanen kuoleman, etta han teki itsensa Jumalan Pojaksi.	
+<div class="versenum">7.</div> Vastasivat hanta Juudalaiset: meilla on laki, ja meidan lakimme jalkeen pitaa hanen kuoleman, etta han teki itsensa Jumalan Pojaksi.	
 
-8. Kun siis Pilatus taman puheen kuuli, pelkasi han viela enemmin	
+<div class="versenum">8.</div> Kun siis Pilatus taman puheen kuuli, pelkasi han viela enemmin	
 
-9. Ja meni taas raastupaan ja sanoi Jesukselle: kusta sina olet? Mutta ei Jesus vastannut hanta.	
+<div class="versenum">9.</div> Ja meni taas raastupaan ja sanoi Jesukselle: kusta sina olet? Mutta ei Jesus vastannut hanta.	
 
-10. Niin Pilatus sanoi hanelle: etkos mitaan minulle puhu? Etkos tieda, etta minulla on valta sinua ristiinnaulita ja valta sinua paastaa?	
+<div class="versenum">10.</div> Niin Pilatus sanoi hanelle: etkos mitaan minulle puhu? Etkos tieda, etta minulla on valta sinua ristiinnaulita ja valta sinua paastaa?	
 
-11. Jesus vastasi: ei sinulla olisi yhtaan valtaa minua vastaan, jos ei se olisi sinulle annettu ylhaalta: sentahden on hanella suurempi synti, joka minun sinulle antoi ylon.	
+<div class="versenum">11.</div> Jesus vastasi: ei sinulla olisi yhtaan valtaa minua vastaan, jos ei se olisi sinulle annettu ylhaalta: sentahden on hanella suurempi synti, joka minun sinulle antoi ylon.	
 
-12. Ja siita ajasta pyysi Pilatus hanta paastaa. Mutta Juudalaiset huusivat, sanoen: jos sina hanen paastat, niin et sina ole keisarin ystava; silla jokainen, joka itsensa tekee kuninkaaksi, han on keisaria vastaan.	
+<div class="versenum">12.</div> Ja siita ajasta pyysi Pilatus hanta paastaa. Mutta Juudalaiset huusivat, sanoen: jos sina hanen paastat, niin et sina ole keisarin ystava; silla jokainen, joka itsensa tekee kuninkaaksi, han on keisaria vastaan.	
 
-13. Kuin Pilatus taman puheen kuuli, vei han Jesuksen ulos ja istui tuomio-istuimelle, siihen paikkaan, joka kutsutaan Litostroton, mutta Hebreaksi Gabbata.	
+<div class="versenum">13.</div> Kuin Pilatus taman puheen kuuli, vei han Jesuksen ulos ja istui tuomio-istuimelle, siihen paikkaan, joka kutsutaan Litostroton, mutta Hebreaksi Gabbata.	
 
-14. Mutta se oli paasiaisen valmistuspaiva, lahes kuudennella hetkella. Ja han sanoi Juudalaisille: katso, teidan kuninkaanne.	
+<div class="versenum">14.</div> Mutta se oli paasiaisen valmistuspaiva, lahes kuudennella hetkella. Ja han sanoi Juudalaisille: katso, teidan kuninkaanne.	
 
-15. Mutta he huusivat: ota pois, ota pois, ristiinnaulitse hanta! Pilatus sanoi heille: pitaako minun ristiinnaulitseman teidan kuninkaanne? Ylimmaiset papit vastasivat: ei meilla ole kuningasta, vaan keisari.	
+<div class="versenum">15.</div> Mutta he huusivat: ota pois, ota pois, ristiinnaulitse hanta! Pilatus sanoi heille: pitaako minun ristiinnaulitseman teidan kuninkaanne? Ylimmaiset papit vastasivat: ei meilla ole kuningasta, vaan keisari.	
 
-16. Niin silloin han antoi hanen heille ristiinnaulittaa. Mutta he ottivat Jesuksen ja veivat pois.	
+<div class="versenum">16.</div> Niin silloin han antoi hanen heille ristiinnaulittaa. Mutta he ottivat Jesuksen ja veivat pois.	
 
-17. Ja han kantoi ristiansa ja meni siihen paikkaan, joka kutsutaan Paakallon paikaksi, mutta Hebreaksi Golgata.	
+<div class="versenum">17.</div> Ja han kantoi ristiansa ja meni siihen paikkaan, joka kutsutaan Paakallon paikaksi, mutta Hebreaksi Golgata.	
 
-18. Siella he ristiinnaulitsivat hanen ja kaksi muuta hanen kanssansa kahden puolen, mutta Jesuksen keskelle.	
+<div class="versenum">18.</div> Siella he ristiinnaulitsivat hanen ja kaksi muuta hanen kanssansa kahden puolen, mutta Jesuksen keskelle.	
 
-19. Niin Pilatus kirjoitti myos paallekirjoituksen ja pani ristin paalle, ja oli nain kirjoitettu: JESUS NATSARENUS JUUDALAISTEN KUNINGAS.	
+<div class="versenum">19.</div> Niin Pilatus kirjoitti myos paallekirjoituksen ja pani ristin paalle, ja oli nain kirjoitettu: JESUS NATSARENUS JUUDALAISTEN KUNINGAS.	
 
-20. Taman paallekirjoituksen luki monta Juudalaisista; silla se paikka oli lasna kaupunkia, jossa Jesus ristiinnaulittiin. Ja oli kirjoitettu Hebreaksi, Grekaksi ja Latinaksi.	
+<div class="versenum">20.</div> Taman paallekirjoituksen luki monta Juudalaisista; silla se paikka oli lasna kaupunkia, jossa Jesus ristiinnaulittiin. Ja oli kirjoitettu Hebreaksi, Grekaksi ja Latinaksi.	
 
-21. Niin sanoivat Juudalaisten ylimmaiset papit Pilatukselle: ala kirjoita: Juudalaisten kuningas; vaan etta han on sanonut: mina olen Juudalaisten kuningas.	
+<div class="versenum">21.</div> Niin sanoivat Juudalaisten ylimmaiset papit Pilatukselle: ala kirjoita: Juudalaisten kuningas; vaan etta han on sanonut: mina olen Juudalaisten kuningas.	
 
-22. Pilatus vastasi: mita mina kirjoitin, sen mina kirjoitin.	
+<div class="versenum">22.</div> Pilatus vastasi: mita mina kirjoitin, sen mina kirjoitin.	
 
-23. Kuin siis sotamiehet olivat Jesuksen ristiinnaulinneet, ottivat he hanen vaatteensa (ja tekivat nelja osaa, kullekin sotamiehelle osan), ja hameen; mutta hame ei ollut ommeltu, vaan kokonansa ylhaalta (alaspain) kudottu.	
+<div class="versenum">23.</div> Kuin siis sotamiehet olivat Jesuksen ristiinnaulinneet, ottivat he hanen vaatteensa (ja tekivat nelja osaa, kullekin sotamiehelle osan), ja hameen; mutta hame ei ollut ommeltu, vaan kokonansa ylhaalta (alaspain) kudottu.	
 
-24. Niin he sanoivat keskenansa: alkaamme tata rikkoko, vaan heittakaamme tasta arpaa, kenenka se pitaa oleman: etta Raamattu taytettaisiin, joka sanoo: he ovat minun vaatteeni itsellensa jakaneet ja ovat heittaneet minun hameestani arpaa. Ja sotamiehet tosin nain tekivat.	
+<div class="versenum">24.</div> Niin he sanoivat keskenansa: alkaamme tata rikkoko, vaan heittakaamme tasta arpaa, kenenka se pitaa oleman: etta Raamattu taytettaisiin, joka sanoo: he ovat minun vaatteeni itsellensa jakaneet ja ovat heittaneet minun hameestani arpaa. Ja sotamiehet tosin nain tekivat.	
 
-25. Mutta Jesuksen ristin tykona seisoi hanen aitinsa ja hanen aitinsa sisar Maria, Kleopaan emanta, ja Maria Magdalena.	
+<div class="versenum">25.</div> Mutta Jesuksen ristin tykona seisoi hanen aitinsa ja hanen aitinsa sisar Maria, Kleopaan emanta, ja Maria Magdalena.	
 
-26. Kuin siis Jesus naki aidin ja opetuslapsen siina sesovan, jota han rakasti, sanoi han aidillensa: vaimo, katso sinun poikaas.	
+<div class="versenum">26.</div> Kuin siis Jesus naki aidin ja opetuslapsen siina sesovan, jota han rakasti, sanoi han aidillensa: vaimo, katso sinun poikaas.	
 
-27. Sitte sanoi han opetuslapselle: katso sinun aitias. Ja siita hetkesta otti opetuslapsi hanen tykonsa.	
+<div class="versenum">27.</div> Sitte sanoi han opetuslapselle: katso sinun aitias. Ja siita hetkesta otti opetuslapsi hanen tykonsa.	
 
-28. Sitte, kuin Jesus tiesi jo kaikki taytetyksi, ja etta Raamattu taytettaisiin, sanoi han: mina janoon.	
+<div class="versenum">28.</div> Sitte, kuin Jesus tiesi jo kaikki taytetyksi, ja etta Raamattu taytettaisiin, sanoi han: mina janoon.	
 
-29. Oli siis yksi astia pantu etikkaa tayteen, ja he tayttivat sienen etikalla ja panivat sen ymparille isoppia, ja panivat sen hanen suunsa eteen.	
+<div class="versenum">29.</div> Oli siis yksi astia pantu etikkaa tayteen, ja he tayttivat sienen etikalla ja panivat sen ymparille isoppia, ja panivat sen hanen suunsa eteen.	
 
-30. Kuin siis Jesus oli etikkaa ottanut, sanoi han: se on taytetty! ja kallisti paansa ja antoi henkensa.	
+<div class="versenum">30.</div> Kuin siis Jesus oli etikkaa ottanut, sanoi han: se on taytetty! ja kallisti paansa ja antoi henkensa.	
 
-31. Mutta etta valmistuspaiva oli, ja ei ruumiit pitanyt ristissa oleman sabbatina, (silla se sabbatin paiva oli suuri,) rukoilivat siis Juudalaiset Pilatusta, etta heidan saariluunsa piti rikottaman ja he otettaman alas.	
+<div class="versenum">31.</div> Mutta etta valmistuspaiva oli, ja ei ruumiit pitanyt ristissa oleman sabbatina, (silla se sabbatin paiva oli suuri,) rukoilivat siis Juudalaiset Pilatusta, etta heidan saariluunsa piti rikottaman ja he otettaman alas.	
 
-32. Niin sotamiehet tulivat ja rikkoivat ensimmaisen luut ja toisen, joka hanen kanssansa oli ristiinnaulittu;	
+<div class="versenum">32.</div> Niin sotamiehet tulivat ja rikkoivat ensimmaisen luut ja toisen, joka hanen kanssansa oli ristiinnaulittu;	
 
-33. Mutta kuin he tulivat Jesuksen tyko ja nakivat hanen jo kuolleeksi, niin ei he rikkoneet hanen luitansa;	
+<div class="versenum">33.</div> Mutta kuin he tulivat Jesuksen tyko ja nakivat hanen jo kuolleeksi, niin ei he rikkoneet hanen luitansa;	
 
-34. Vaan yksi sotamiehista avasi hanen kylkensa keihaalla, josta kohta vuoti veri ja vesi.	
+<div class="versenum">34.</div> Vaan yksi sotamiehista avasi hanen kylkensa keihaalla, josta kohta vuoti veri ja vesi.	
 
-35. Ja joka taman naki, han on sen todistanut ja hanen todistuksensa on tosi, ja han tietaa totta sanovansa, etta te myos uskoisitte.	
+<div class="versenum">35.</div> Ja joka taman naki, han on sen todistanut ja hanen todistuksensa on tosi, ja han tietaa totta sanovansa, etta te myos uskoisitte.	
 
-36. Silla namat ovat tapahtuneet, etta Raamattu taytettaisiin: ei teidan pida luuta rikkoman hanessa.	
+<div class="versenum">36.</div> Silla namat ovat tapahtuneet, etta Raamattu taytettaisiin: ei teidan pida luuta rikkoman hanessa.	
 
-37. Ja taas toinen kirjoitus sanoo: he saavat nahda, keta he ovat pistaneet.	
+<div class="versenum">37.</div> Ja taas toinen kirjoitus sanoo: he saavat nahda, keta he ovat pistaneet.	
 
-38. Mutta sen jalkeen rukoili Pilatusta Joseph Arimatiasta, (joka oli Jesuksen opetuslapsi, vaan salaa Juudalaisten pelvon tahden), etta han olis saanut ottaa Jesuksen ruumiin; ja Pilatus salli sen. Niin han tuli ja otti Jesuksen ruumiin.	
+<div class="versenum">38.</div> Mutta sen jalkeen rukoili Pilatusta Joseph Arimatiasta, (joka oli Jesuksen opetuslapsi, vaan salaa Juudalaisten pelvon tahden), etta han olis saanut ottaa Jesuksen ruumiin; ja Pilatus salli sen. Niin han tuli ja otti Jesuksen ruumiin.	
 
-39. Niin tuli myos Nikodemus, (joka oli ensin yolla Jesuksen tyko tullut,) ja toi mirhamia ja aloeta sekoitettua, lahes sata naulaa,	
+<div class="versenum">39.</div> Niin tuli myos Nikodemus, (joka oli ensin yolla Jesuksen tyko tullut,) ja toi mirhamia ja aloeta sekoitettua, lahes sata naulaa,	
 
-40. Niin he ottivat Jesuksen ruumiin ja kaarivat sen liinaiseen, hyvan-hajullisten yrttein kanssa, niinkuin Juudalaisten tapa on haudata.	
+<div class="versenum">40.</div> Niin he ottivat Jesuksen ruumiin ja kaarivat sen liinaiseen, hyvan-hajullisten yrttein kanssa, niinkuin Juudalaisten tapa on haudata.	
 
-41. Mutta siina paikassa, jossa han ristiinnaulittiin, oli yrttitarha, ja yrttitarhassa uusi hauta, johonka ei viela kenkaan ollut pantu:	
+<div class="versenum">41.</div> Mutta siina paikassa, jossa han ristiinnaulittiin, oli yrttitarha, ja yrttitarhassa uusi hauta, johonka ei viela kenkaan ollut pantu:	
 
-42. Siihen he panivat Jesuksen Juudalaisten valmistuspaivan tahden, etta se hauta oli lasna.	
+<div class="versenum">42.</div> Siihen he panivat Jesuksen Juudalaisten valmistuspaivan tahden, etta se hauta oli lasna.	
 

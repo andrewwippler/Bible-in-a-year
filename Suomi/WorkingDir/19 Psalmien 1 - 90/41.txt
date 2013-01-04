@@ -1,28 +1,28 @@
 Psalmien 41	
 	
-1. Davidin Psalmi, edellaveisaajalle. (H41:2) Autuas on, joka koyhaa holhoo: hanta Herra auttaa pahana paivana.	
+<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H41:2) Autuas on, joka koyhaa holhoo: hanta Herra auttaa pahana paivana.	
 
-2. Herra katkee hanen ja pitaa hanen elavana, etta han menestyy maan paalla, ja ei hylkaa hanta vihollistensa tahtoon.	
+<div class="versenum">2.</div> Herra katkee hanen ja pitaa hanen elavana, etta han menestyy maan paalla, ja ei hylkaa hanta vihollistensa tahtoon.	
 
-3. Herra virvoittaa hanta tautivuoteessansa: sina autat hanen kaikesta hanen sairaudestansa.	
+<div class="versenum">3.</div> Herra virvoittaa hanta tautivuoteessansa: sina autat hanen kaikesta hanen sairaudestansa.	
 
-4. Mina sanoin: Herra, ole minulle armollinen, paranna minun sieluni; silla mina tein syntia sinua vastaan.	
+<div class="versenum">4.</div> Mina sanoin: Herra, ole minulle armollinen, paranna minun sieluni; silla mina tein syntia sinua vastaan.	
 
-5. Minun viholliseni puhuivat pahaa minua vastaan: koska han kuollee ja hanen nimensa kadonnee?	
+<div class="versenum">5.</div> Minun viholliseni puhuivat pahaa minua vastaan: koska han kuollee ja hanen nimensa kadonnee?	
 
-6. Ja kuin he tulevat katselemaan, niin he puhuvat valhetta: heidan sydamensa kokoo vaaryytta; niin he menevat pois ja sita panettelevat.	
+<div class="versenum">6.</div> Ja kuin he tulevat katselemaan, niin he puhuvat valhetta: heidan sydamensa kokoo vaaryytta; niin he menevat pois ja sita panettelevat.	
 
-7. Kaikki, jotka minua vihaavat, kuiskuttelevat keskenansa minua vastaan, ja ajattelevat pahaa minua vastaan.	
+<div class="versenum">7.</div> Kaikki, jotka minua vihaavat, kuiskuttelevat keskenansa minua vastaan, ja ajattelevat pahaa minua vastaan.	
 
-8. Paha asia on hanen paallensa tullut; ja koska han makaa, niin ei han nouse jalleen.	
+<div class="versenum">8.</div> Paha asia on hanen paallensa tullut; ja koska han makaa, niin ei han nouse jalleen.	
 
-9. Niin myos minun ystavani, johon mina uskalsin, joka sai minun leipaani, se tallasi minun jalkainsa alle.	
+<div class="versenum">9.</div> Niin myos minun ystavani, johon mina uskalsin, joka sai minun leipaani, se tallasi minun jalkainsa alle.	
 
-10. Mutta sina, Herra, ole minulle armollinen ja auta minua, niin mina sen heille kostan.	
+<div class="versenum">10.</div> Mutta sina, Herra, ole minulle armollinen ja auta minua, niin mina sen heille kostan.	
 
-11. Siita mina ymmarran, ettas suot minulle hyvaa, ettei viholliseni saa kerskata minusta.	
+<div class="versenum">11.</div> Siita mina ymmarran, ettas suot minulle hyvaa, ettei viholliseni saa kerskata minusta.	
 
-12. Mutta minua sina holhot viattomuuteni tahden, ja asetat minun kasvois eteen ijankaikkisesti.	
+<div class="versenum">12.</div> Mutta minua sina holhot viattomuuteni tahden, ja asetat minun kasvois eteen ijankaikkisesti.	
 
-13. Kiitetty olkoon Herra Israelin Jumala, ijankaikkisesta ijankaikkiseen! Amen, amen.	
+<div class="versenum">13.</div> Kiitetty olkoon Herra Israelin Jumala, ijankaikkisesta ijankaikkiseen! Amen, amen.	
 

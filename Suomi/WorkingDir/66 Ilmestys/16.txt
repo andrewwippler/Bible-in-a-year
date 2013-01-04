@@ -1,44 +1,44 @@
 Ilmestys 16	
 	
-1. Ja mina kuulin suuren aanen templista sanovan seitsemalle enkelille: menkaat ja vuodattakaat Jumalan vihan maljat maan paalle!	
+<div class="versenum">1.</div> Ja mina kuulin suuren aanen templista sanovan seitsemalle enkelille: menkaat ja vuodattakaat Jumalan vihan maljat maan paalle!	
 
-2. Ja ensimainen meni ja vuodatti maljansa maan paalle: ja tuli paha ja haijy haava ihmisten paalle, joilla pedon merkki oli, ja niiden paalle, jotka sen kuvaa kumarsivat.	
+<div class="versenum">2.</div> Ja ensimainen meni ja vuodatti maljansa maan paalle: ja tuli paha ja haijy haava ihmisten paalle, joilla pedon merkki oli, ja niiden paalle, jotka sen kuvaa kumarsivat.	
 
-3. Ja toinen enkeli vuodatti maljansa mereen, ja se tuli niinkuin kuolleen veri, ja kaikki elavaiset sielut kuolivat meressa.	
+<div class="versenum">3.</div> Ja toinen enkeli vuodatti maljansa mereen, ja se tuli niinkuin kuolleen veri, ja kaikki elavaiset sielut kuolivat meressa.	
 
-4. Ja kolmas enkeli vuodatti maljansa virtoihin ja vesilahteisiin: ja se tuli vereksi.	
+<div class="versenum">4.</div> Ja kolmas enkeli vuodatti maljansa virtoihin ja vesilahteisiin: ja se tuli vereksi.	
 
-5. Ja mina kuulin vetten enkelin sanovan: Herra, sina olet vanhurskas, joka olet, ja joka oli, ja pyha, ettas namat tuomitsit;	
+<div class="versenum">5.</div> Ja mina kuulin vetten enkelin sanovan: Herra, sina olet vanhurskas, joka olet, ja joka oli, ja pyha, ettas namat tuomitsit;	
 
-6. Silla he ovat pyhain ja prophetain veren vuodattaneet, ja sina annoit heille verta juoda; silla he ovat sen ansainneet.	
+<div class="versenum">6.</div> Silla he ovat pyhain ja prophetain veren vuodattaneet, ja sina annoit heille verta juoda; silla he ovat sen ansainneet.	
 
-7. Ja mina kuulin toisen (enkelin) alttarilta sanovan: jaa, Herra kaikkivaltias Jumala, sinun tuomios ovat totiset ja oikiat.	
+<div class="versenum">7.</div> Ja mina kuulin toisen (enkelin) alttarilta sanovan: jaa, Herra kaikkivaltias Jumala, sinun tuomios ovat totiset ja oikiat.	
 
-8. Ja neljas enkeli vuodatti maljansa aurinkoon: ja sille annettiin ihmisia vaivata helteella tulen kautta.	
+<div class="versenum">8.</div> Ja neljas enkeli vuodatti maljansa aurinkoon: ja sille annettiin ihmisia vaivata helteella tulen kautta.	
 
-9. Ja ihmiset tulivat palavaksi suuresta helteesta, ja pilkkasivat Jumalan nimea, jolla niiden vitsausten paalle valta oli, ja ei tehneet parannusta antaaksensa hanelle kunniaa.	
+<div class="versenum">9.</div> Ja ihmiset tulivat palavaksi suuresta helteesta, ja pilkkasivat Jumalan nimea, jolla niiden vitsausten paalle valta oli, ja ei tehneet parannusta antaaksensa hanelle kunniaa.	
 
-10. Ja viides enkeli vuodatti maljansa pedon istuimelle; ja hanen valtakuntansa tuli pimiaksi, ja he pureskelivat kielensa rikki kivuillansa,	
+<div class="versenum">10.</div> Ja viides enkeli vuodatti maljansa pedon istuimelle; ja hanen valtakuntansa tuli pimiaksi, ja he pureskelivat kielensa rikki kivuillansa,	
 
-11. Ja pilkkasivat taivaan Jumalaa kipuinsa ja haavainsa tahden, ja ei tehneet parannusta toistansa.	
+<div class="versenum">11.</div> Ja pilkkasivat taivaan Jumalaa kipuinsa ja haavainsa tahden, ja ei tehneet parannusta toistansa.	
 
-12. Ja kuudes enkeli vuodatti maljansa suuren virran Euphratin paalle: ja sen vesi kuivui, etta tie olis valmistettu itaisille kuninkaille.	
+<div class="versenum">12.</div> Ja kuudes enkeli vuodatti maljansa suuren virran Euphratin paalle: ja sen vesi kuivui, etta tie olis valmistettu itaisille kuninkaille.	
 
-13. Ja mina nain lohikarmeen suusta ja pedon suusta ja vaaran prophetan suusta lahtevan kolme rietasta henkea, sammakkoin muotoista;	
+<div class="versenum">13.</div> Ja mina nain lohikarmeen suusta ja pedon suusta ja vaaran prophetan suusta lahtevan kolme rietasta henkea, sammakkoin muotoista;	
 
-14. Silla he ovat perkeleiden henget, jotka ihmeita tekevat ja menevat maan ja koko maanpiirin kuningasten tyko, kokoomaan heita sotaan suurena kaikkivaltiaan Jumalan paivana.	
+<div class="versenum">14.</div> Silla he ovat perkeleiden henget, jotka ihmeita tekevat ja menevat maan ja koko maanpiirin kuningasten tyko, kokoomaan heita sotaan suurena kaikkivaltiaan Jumalan paivana.	
 
-15. Katso, mina tulen niinkuin varas: autuas on se, joka valvoo ja katkee vaatteensa, ettei han alasti kavisi, ettei hanen hapiaansa nahtaisi.	
+<div class="versenum">15.</div> Katso, mina tulen niinkuin varas: autuas on se, joka valvoo ja katkee vaatteensa, ettei han alasti kavisi, ettei hanen hapiaansa nahtaisi.	
 
-16. Ja han on koonnut heita siihen siaan, jota kutsutaan Hebreaksi Armageddon.	
+<div class="versenum">16.</div> Ja han on koonnut heita siihen siaan, jota kutsutaan Hebreaksi Armageddon.	
 
-17. Ja seitsemas enkeli vuodattaa maljansa ilmaan: ja taivaan templista laksi suuri aani, istuimelta, joka sanoi: se on tapahtunut.	
+<div class="versenum">17.</div> Ja seitsemas enkeli vuodattaa maljansa ilmaan: ja taivaan templista laksi suuri aani, istuimelta, joka sanoi: se on tapahtunut.	
 
-18. Ja aanet tulivat ja pitkaiset ja leimaukset, ja suuri maanjaristys tapahtui, jonka kaltaista ei ole ollut sitte kuin ihmiset tulivat maan paalle, senkaltainen suuri maanjaristys.	
+<div class="versenum">18.</div> Ja aanet tulivat ja pitkaiset ja leimaukset, ja suuri maanjaristys tapahtui, jonka kaltaista ei ole ollut sitte kuin ihmiset tulivat maan paalle, senkaltainen suuri maanjaristys.	
 
-19. Ja se suuri kaupunki tuli kolmeksi osaksi, ja pakanain kaupungit lankesivat; ja se suuri Babylon muistettiin Jumalan edessa, etta han antais hanelle juoma-astian hirmuisen vihansa viinasta;	
+<div class="versenum">19.</div> Ja se suuri kaupunki tuli kolmeksi osaksi, ja pakanain kaupungit lankesivat; ja se suuri Babylon muistettiin Jumalan edessa, etta han antais hanelle juoma-astian hirmuisen vihansa viinasta;	
 
-20. Ja kaikki luodot pakenivat, ja ei vuoria loydetty;	
+<div class="versenum">20.</div> Ja kaikki luodot pakenivat, ja ei vuoria loydetty;	
 
-21. Ja suuri rae niinkuin leiviskan paino lankesi alas taivaasta ihmisten paalle. Ja ihmiset pilkkasivat Jumalaa rakeen vitsauksen tahden, silla sen vitsaus oli sangen suuri.	
+<div class="versenum">21.</div> Ja suuri rae niinkuin leiviskan paino lankesi alas taivaasta ihmisten paalle. Ja ihmiset pilkkasivat Jumalaa rakeen vitsauksen tahden, silla sen vitsaus oli sangen suuri.	
 

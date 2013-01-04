@@ -1,70 +1,70 @@
 1 Kuninkaiden 4	
 	
-1. Niin oli Salomo koko Israelin kuningas.	
+<div class="versenum">1.</div> Niin oli Salomo koko Israelin kuningas.	
 
-2. Ja namat olivat hanen paamiehensa: AsarJa, papin Zadokin poika.	
+<div class="versenum">2.</div> Ja namat olivat hanen paamiehensa: AsarJa, papin Zadokin poika.	
 
-3. Elihoreph ja Ahia, Sisan pojat, olivat kirjoittajat; Josaphat Ahiludin poika kansleri.	
+<div class="versenum">3.</div> Elihoreph ja Ahia, Sisan pojat, olivat kirjoittajat; Josaphat Ahiludin poika kansleri.	
 
-4. BenaJa, Jojadan poika, sodanpaamies; Zadok ja AbJatar olivat papit.	
+<div class="versenum">4.</div> BenaJa, Jojadan poika, sodanpaamies; Zadok ja AbJatar olivat papit.	
 
-5. AsarJa Natanin poika paamiesten haltia. Sabud pappi Natanin poika kuninkaan neuvonantaja.	
+<div class="versenum">5.</div> AsarJa Natanin poika paamiesten haltia. Sabud pappi Natanin poika kuninkaan neuvonantaja.	
 
-6. Ja Ahisar huoneenhaltia; Adoniram Abdanin poika oli veron paalla.	
+<div class="versenum">6.</div> Ja Ahisar huoneenhaltia; Adoniram Abdanin poika oli veron paalla.	
 
-7. Ja Salomolla oli kaksitoistakymmenta valtamiesta koko Israelissa, jotka murheen pitivat kuninkaasta ja hanen huoneestansa; ja kukin heista toimitti ruan kuukautenansa, vuosivuodelta.	
+<div class="versenum">7.</div> Ja Salomolla oli kaksitoistakymmenta valtamiesta koko Israelissa, jotka murheen pitivat kuninkaasta ja hanen huoneestansa; ja kukin heista toimitti ruan kuukautenansa, vuosivuodelta.	
 
-8. Ja nama olivat heidan nimensa: Hurrin poika Ephraimin vuorella;	
+<div class="versenum">8.</div> Ja nama olivat heidan nimensa: Hurrin poika Ephraimin vuorella;	
 
-9. Dekerin poika Makassa, ja Saalbimissa ja BetSemeksessa, ja Elonissa ja BetHananissa;	
+<div class="versenum">9.</div> Dekerin poika Makassa, ja Saalbimissa ja BetSemeksessa, ja Elonissa ja BetHananissa;	
 
-10. Hesedin poika Arubotissa; hanella oli Soko ja kaikki Hepherin maakunta;	
+<div class="versenum">10.</div> Hesedin poika Arubotissa; hanella oli Soko ja kaikki Hepherin maakunta;	
 
-11. Abinadabin pojalla kaikki Dorin paikkakunta; jolla oli Taphat Salomon tytar emantana;	
+<div class="versenum">11.</div> Abinadabin pojalla kaikki Dorin paikkakunta; jolla oli Taphat Salomon tytar emantana;	
 
-12. Baena Ahiludin poika Taanakissa ja Megiddossa, ja koko BetSeanissa, joka on liki Zartanaa Jisreelin alla, BetSeanista Mahalonin ketoon asti, niin talla puolella Jokmeamia;	
+<div class="versenum">12.</div> Baena Ahiludin poika Taanakissa ja Megiddossa, ja koko BetSeanissa, joka on liki Zartanaa Jisreelin alla, BetSeanista Mahalonin ketoon asti, niin talla puolella Jokmeamia;	
 
-13. Geberin poika Ramotista Gileadissa, jolla olivat Jairin kylat, Manassen pojan Gileadista, jolla oli Argobin niitty, joka on Basaniin pain, kuusikymmenta suurta muurattua kaupunkia vaskitelkinensa;	
+<div class="versenum">13.</div> Geberin poika Ramotista Gileadissa, jolla olivat Jairin kylat, Manassen pojan Gileadista, jolla oli Argobin niitty, joka on Basaniin pain, kuusikymmenta suurta muurattua kaupunkia vaskitelkinensa;	
 
-14. Ahinadab Iddon poika oli Mahanaimissa;	
+<div class="versenum">14.</div> Ahinadab Iddon poika oli Mahanaimissa;	
 
-15. Ahimaats Naphtalissa; ja hankin otti Basmatin Salomon tyttaren emannaksensa;	
+<div class="versenum">15.</div> Ahimaats Naphtalissa; ja hankin otti Basmatin Salomon tyttaren emannaksensa;	
 
-16. Baena Husain poika Asserissa ja Alotissa;	
+<div class="versenum">16.</div> Baena Husain poika Asserissa ja Alotissa;	
 
-17. Josaphat Paruan poika Isaskarissa;	
+<div class="versenum">17.</div> Josaphat Paruan poika Isaskarissa;	
 
-18. Simei Elan poika BenJaminissa;	
+<div class="versenum">18.</div> Simei Elan poika BenJaminissa;	
 
-19. Geber Urin poika Gileadin maalla, Sihonin Amorilaisten kuninkaan maalla, ja Ogin Basanin kuninkaan, joka myos oli yksi niiden maakuntain valtamies.	
+<div class="versenum">19.</div> Geber Urin poika Gileadin maalla, Sihonin Amorilaisten kuninkaan maalla, ja Ogin Basanin kuninkaan, joka myos oli yksi niiden maakuntain valtamies.	
 
-20. Mutta Juudaa ja Israelia oli paljo, niinkuin santaa meren tykona paljouden tahden; he soivat ja joivat ja iloitsivat.	
+<div class="versenum">20.</div> Mutta Juudaa ja Israelia oli paljo, niinkuin santaa meren tykona paljouden tahden; he soivat ja joivat ja iloitsivat.	
 
-21. Ja Salomo hallitsi kaikissa valtakunnissa, hamasta Philistealaisten maakunnan virrasta Egyptin rajaan asti, jotka toivat hanelle lahjoja ja palvelivat Salomoa kaiken hanen elinaikansa.	
+<div class="versenum">21.</div> Ja Salomo hallitsi kaikissa valtakunnissa, hamasta Philistealaisten maakunnan virrasta Egyptin rajaan asti, jotka toivat hanelle lahjoja ja palvelivat Salomoa kaiken hanen elinaikansa.	
 
-22. Ja Salomolla oli jokapaivaiseksi ruaksi kolmekymmenta koria sampylajauhoja, kuusikymmenta koria muita jauhoja,	
+<div class="versenum">22.</div> Ja Salomolla oli jokapaivaiseksi ruaksi kolmekymmenta koria sampylajauhoja, kuusikymmenta koria muita jauhoja,	
 
-23. Kymmenen lihavaa harkaa, ja kaksikymmenta harkaa laitumelta, ja sata lammasta, ilman peuroja, ja metsavuohia, ja valittua lihavaa karjaa ja lintuja.	
+<div class="versenum">23.</div> Kymmenen lihavaa harkaa, ja kaksikymmenta harkaa laitumelta, ja sata lammasta, ilman peuroja, ja metsavuohia, ja valittua lihavaa karjaa ja lintuja.	
 
-24. Silla han hallitsi koko maakunnassa, silla puolella virtaa, hamasta Dipsasta Gasaan asti, kaikkein kuningasten ylitse talla puolella virtaa; ja hanella oli rauha kaikella ymparistollansa,	
+<div class="versenum">24.</div> Silla han hallitsi koko maakunnassa, silla puolella virtaa, hamasta Dipsasta Gasaan asti, kaikkein kuningasten ylitse talla puolella virtaa; ja hanella oli rauha kaikella ymparistollansa,	
 
-25. Niin etta Juuda ja Israel asuivat levollisesti, itsekukin viinapuunsa ja fikunapuunsa alla, Danista BerSebaan asti, niinkauvan kuin Salomo eli.	
+<div class="versenum">25.</div> Niin etta Juuda ja Israel asuivat levollisesti, itsekukin viinapuunsa ja fikunapuunsa alla, Danista BerSebaan asti, niinkauvan kuin Salomo eli.	
 
-26. Ja Salomolla oli neljakymmenta tuhatta hinkaloa hevosille vaunuinsa eteen, ja kaksitoistakymmenta tuhatta hevosmiesta.	
+<div class="versenum">26.</div> Ja Salomolla oli neljakymmenta tuhatta hinkaloa hevosille vaunuinsa eteen, ja kaksitoistakymmenta tuhatta hevosmiesta.	
 
-27. Ja nama valtamiehet toimittivat kuningas Salomolle ruokaa ja kaikille jotka kuningas Salomon poytaa lahestyivat; kukin kuukaudellansa, niin ettei siita mitaan puuttunut.	
+<div class="versenum">27.</div> Ja nama valtamiehet toimittivat kuningas Salomolle ruokaa ja kaikille jotka kuningas Salomon poytaa lahestyivat; kukin kuukaudellansa, niin ettei siita mitaan puuttunut.	
 
-28. He toivat myos ohria ja olkia hevosille ja nopsille orhille, sinne kussa han oli, kukin niinkuin hanelle kasketty oli.	
+<div class="versenum">28.</div> He toivat myos ohria ja olkia hevosille ja nopsille orhille, sinne kussa han oli, kukin niinkuin hanelle kasketty oli.	
 
-29. Ja Jumala antoi Salomolle viisauden ja sangen suuren ymmarryksen, niin myos rohkian sydamen, niinkuin sannan meren rannalla,	
+<div class="versenum">29.</div> Ja Jumala antoi Salomolle viisauden ja sangen suuren ymmarryksen, niin myos rohkian sydamen, niinkuin sannan meren rannalla,	
 
-30. Niin etta Salomon taito oli suurempi kuin kaikkein itaisen maan lasten ja Egyptilaisten taito.	
+<div class="versenum">30.</div> Niin etta Salomon taito oli suurempi kuin kaikkein itaisen maan lasten ja Egyptilaisten taito.	
 
-31. Ja han oli taitavampi kaikkia ihmisia, ja taitavampi kuin Etan Estrahilainen, ja Heman, ja Kalkol, ja Darda, Makolin pojat, ja hanen nimensa oli kuuluisa ympari kaikkein pakanain,	
+<div class="versenum">31.</div> Ja han oli taitavampi kaikkia ihmisia, ja taitavampi kuin Etan Estrahilainen, ja Heman, ja Kalkol, ja Darda, Makolin pojat, ja hanen nimensa oli kuuluisa ympari kaikkein pakanain,	
 
-32. Ja puhui kolmetuhatta sananlaskua; ja hanen virsiansa oli tuhannen ja viisi,	
+<div class="versenum">32.</div> Ja puhui kolmetuhatta sananlaskua; ja hanen virsiansa oli tuhannen ja viisi,	
 
-33. Ja puhui myos puista, sedrista, joka on Libanonissa, hamaan isoppiin asti, joka seinasta kasvaa. Niin puhui han myos elaimista, linnuista, matelevaisista ja kaloista.	
+<div class="versenum">33.</div> Ja puhui myos puista, sedrista, joka on Libanonissa, hamaan isoppiin asti, joka seinasta kasvaa. Niin puhui han myos elaimista, linnuista, matelevaisista ja kaloista.	
 
-34. Ja kaikista kansoista tultiin kuulemaan Salomon taitoa, ja kaikilta maan kuninkailta, jotka olivat kuulleet hanen taidostansa.	
+<div class="versenum">34.</div> Ja kaikista kansoista tultiin kuulemaan Salomon taitoa, ja kaikilta maan kuninkailta, jotka olivat kuulleet hanen taidostansa.	
 

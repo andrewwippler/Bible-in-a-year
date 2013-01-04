@@ -1,46 +1,46 @@
 2 Mooseksen 1	
 	
-1. Namat ovat Israelin lasten nimet, jotka Jakobin kanssa tulivat Egyptiin, itsekukin huoneinensa he sinne tulivat,	
+<div class="versenum">1.</div> Namat ovat Israelin lasten nimet, jotka Jakobin kanssa tulivat Egyptiin, itsekukin huoneinensa he sinne tulivat,	
 
-2. Ruben, Simeon, Levi ja Juuda.	
+<div class="versenum">2.</div> Ruben, Simeon, Levi ja Juuda.	
 
-3. Isaskar, Zebulon ja Benjamin.	
+<div class="versenum">3.</div> Isaskar, Zebulon ja Benjamin.	
 
-4. Dan, Naphtali, Gad ja Asser.	
+<div class="versenum">4.</div> Dan, Naphtali, Gad ja Asser.	
 
-5. Ja kaikki henget, jotka Jakobin kupeista olivat tulleet, olivat seitsemankymmenta henkea. Mutta Joseph oli (ennen) Egyptissa.	
+<div class="versenum">5.</div> Ja kaikki henget, jotka Jakobin kupeista olivat tulleet, olivat seitsemankymmenta henkea. Mutta Joseph oli (ennen) Egyptissa.	
 
-6. Ja Joseph oli kuollut, ja kaikki hanen veljensa, ja kaikki sen aikaiset.	
+<div class="versenum">6.</div> Ja Joseph oli kuollut, ja kaikki hanen veljensa, ja kaikki sen aikaiset.	
 
-7. Ja Israelin lapset olivat hedelmalliset ja suuresti enenivat ja lisaantyivat, ja sangen voimallisesti vahvistuivat, niin etta maa taytettiin heista.	
+<div class="versenum">7.</div> Ja Israelin lapset olivat hedelmalliset ja suuresti enenivat ja lisaantyivat, ja sangen voimallisesti vahvistuivat, niin etta maa taytettiin heista.	
 
-8. Niin uusi kuningas tuli Egyptiin, joka ei Josephista mitaan tietanyt.	
+<div class="versenum">8.</div> Niin uusi kuningas tuli Egyptiin, joka ei Josephista mitaan tietanyt.	
 
-9. Han sanoi kansallensa: katso, Israelin lasten joukko on suurempi ja vakevampi meita.	
+<div class="versenum">9.</div> Han sanoi kansallensa: katso, Israelin lasten joukko on suurempi ja vakevampi meita.	
 
-10. Tulkaat, kaykaamme kavalasti heidan kimppuunsa, ettei heita tulisi niin paljo. Silla jos joku sota nousis, tohtisivat he menna meidan vihamiestemme puolelle, ja sotia meita vastaan, ja lahtea maalta pois.	
+<div class="versenum">10.</div> Tulkaat, kaykaamme kavalasti heidan kimppuunsa, ettei heita tulisi niin paljo. Silla jos joku sota nousis, tohtisivat he menna meidan vihamiestemme puolelle, ja sotia meita vastaan, ja lahtea maalta pois.	
 
-11. Niin asetettiin heidan paallensa veron paamiehet, vaivaamaan heita orjuudella; silla Pharaolle rakennettiin verokaupungit, Pitom ja Raamses.	
+<div class="versenum">11.</div> Niin asetettiin heidan paallensa veron paamiehet, vaivaamaan heita orjuudella; silla Pharaolle rakennettiin verokaupungit, Pitom ja Raamses.	
 
-12. Mutta jota enemmin he rasittivat kansaa, sita enemmin se lisaantyi ja kasvoi. Ja he tulivat suutuksiin Israelin lasten tahden.	
+<div class="versenum">12.</div> Mutta jota enemmin he rasittivat kansaa, sita enemmin se lisaantyi ja kasvoi. Ja he tulivat suutuksiin Israelin lasten tahden.	
 
-13. Ja Egyptilaiset vaivasivat Israelin lapsia orjuudella armaitsemata.	
+<div class="versenum">13.</div> Ja Egyptilaiset vaivasivat Israelin lapsia orjuudella armaitsemata.	
 
-14. Ja saattivat heidan elamansa katkeraksi raskaalla saven ja tiilein tyolla, ja kaikkinaisella rasituksella kedolla, ja kaikkinaisella tyolla, kuin he taisivat heidan paallensa panna, armaitsemata.	
+<div class="versenum">14.</div> Ja saattivat heidan elamansa katkeraksi raskaalla saven ja tiilein tyolla, ja kaikkinaisella rasituksella kedolla, ja kaikkinaisella tyolla, kuin he taisivat heidan paallensa panna, armaitsemata.	
 
-15. Ja Egyptin kuningas puhui Heprealaisille lastenammille, joista yhden nimi oli Siphra, ja toisen nimi Pua.	
+<div class="versenum">15.</div> Ja Egyptin kuningas puhui Heprealaisille lastenammille, joista yhden nimi oli Siphra, ja toisen nimi Pua.	
 
-16. Ja han sanoi: Koska te autatte Hebreailaisia vaimoja heidan synnyttaissansa, ja naette istuimella, jos on poika, niin surmatkaat hanta; mutta jos se tytar on, niin se elakoon.	
+<div class="versenum">16.</div> Ja han sanoi: Koska te autatte Hebreailaisia vaimoja heidan synnyttaissansa, ja naette istuimella, jos on poika, niin surmatkaat hanta; mutta jos se tytar on, niin se elakoon.	
 
-17. Mutta lastenammat pelkasivat Jumalaa, ja ei tehneet niinkuin Egyptin kuningas oli heille sanonut; mutta antoivat poikaiset elaa.	
+<div class="versenum">17.</div> Mutta lastenammat pelkasivat Jumalaa, ja ei tehneet niinkuin Egyptin kuningas oli heille sanonut; mutta antoivat poikaiset elaa.	
 
-18. Niin Egyptin kuningas kutsui lastenammat, ja sanoi heille: miksi te taman teitte, etta te annoitte poikaisten elaa?	
+<div class="versenum">18.</div> Niin Egyptin kuningas kutsui lastenammat, ja sanoi heille: miksi te taman teitte, etta te annoitte poikaisten elaa?	
 
-19. Niin lastenammat vastasivat Pharaota: Heprealaiset vaimot ei ole niinkuin Egyptilaiset; silla he ovat vahvemmat luonnostansa, ja ennenkuin lastenamma tulee heidan tykonsa, ovat he synnyttaneet.	
+<div class="versenum">19.</div> Niin lastenammat vastasivat Pharaota: Heprealaiset vaimot ei ole niinkuin Egyptilaiset; silla he ovat vahvemmat luonnostansa, ja ennenkuin lastenamma tulee heidan tykonsa, ovat he synnyttaneet.	
 
-20. Sentahden teki Jumala lastenammille hyvin, ja kansa lisaantyi ja vahvistui sangen suuresti.	
+<div class="versenum">20.</div> Sentahden teki Jumala lastenammille hyvin, ja kansa lisaantyi ja vahvistui sangen suuresti.	
 
-21. Ja etta lastenammat pelkasivat Jumalaa, rakensi han heille huoneita.	
+<div class="versenum">21.</div> Ja etta lastenammat pelkasivat Jumalaa, rakensi han heille huoneita.	
 
-22. Niin kaski Pharao kaikelle kansallensa, sanoen: kaikki pojat kuin syntyvat pitaa teidan heittaman virtaan, mutta kaikki tyttaret antakaat elaa.	
+<div class="versenum">22.</div> Niin kaski Pharao kaikelle kansallensa, sanoen: kaikki pojat kuin syntyvat pitaa teidan heittaman virtaan, mutta kaikki tyttaret antakaat elaa.	
 

@@ -1,8 +1,8 @@
 Psalmien 131	
 	
-1. Davidin veisu korkeimmassa Kuorissa. Herra! ei minun sydameni ole paisunut, eika minun silmani ole ylpiat; enka mina vaella suurissa asioissa, jotka minulle tyolaat ovat.	
+<div class="versenum">1.</div> Davidin veisu korkeimmassa Kuorissa. Herra! ei minun sydameni ole paisunut, eika minun silmani ole ylpiat; enka mina vaella suurissa asioissa, jotka minulle tyolaat ovat.	
 
-2. Kuin en mina sieluani asettanut ja vaikittanut, niin minun sieluni tuli vieroitetuksi, niinkuin lapsi aidistansa vieroitetaan.	
+<div class="versenum">2.</div> Kuin en mina sieluani asettanut ja vaikittanut, niin minun sieluni tuli vieroitetuksi, niinkuin lapsi aidistansa vieroitetaan.	
 
-3. Israel toivokaan Herran paalle, hamasta nyt ja ijankaikkiseen.	
+<div class="versenum">3.</div> Israel toivokaan Herran paalle, hamasta nyt ja ijankaikkiseen.	
 

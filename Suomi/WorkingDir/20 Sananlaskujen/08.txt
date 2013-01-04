@@ -1,74 +1,74 @@
 Sananlaskujen 8	
 	
-1. Eiko viisaus huuda, ja toimi julista aantansa?	
+<div class="versenum">1.</div> Eiko viisaus huuda, ja toimi julista aantansa?	
 
-2. Korkialla paikalla seisoo han, teiden ja kujain vieressa.	
+<div class="versenum">2.</div> Korkialla paikalla seisoo han, teiden ja kujain vieressa.	
 
-3. Porteilla, kaupungin ovilla, joista sisalle kaydaan, han huutaa:	
+<div class="versenum">3.</div> Porteilla, kaupungin ovilla, joista sisalle kaydaan, han huutaa:	
 
-4. Te miehet! mina huudan teita, ja minun aaneni on teidan tykonne, te ihmisten lapset;	
+<div class="versenum">4.</div> Te miehet! mina huudan teita, ja minun aaneni on teidan tykonne, te ihmisten lapset;	
 
-5. Ymmartakaat te tyhmat viisautta, ja te houkkiot pankaat sydamiinne.	
+<div class="versenum">5.</div> Ymmartakaat te tyhmat viisautta, ja te houkkiot pankaat sydamiinne.	
 
-6. Kuulkaat, silla mina puhun sita, mika korkia on, opetan sita, mika oikia on.	
+<div class="versenum">6.</div> Kuulkaat, silla mina puhun sita, mika korkia on, opetan sita, mika oikia on.	
 
-7. Silla minun suuni puhuu totuutta, ja minun huuleni vihaa jamalatointa.	
+<div class="versenum">7.</div> Silla minun suuni puhuu totuutta, ja minun huuleni vihaa jamalatointa.	
 
-8. Kaikki minun puheeni ovat oikiat: ei ole siina mitaan petosta eli vaaryytta.	
+<div class="versenum">8.</div> Kaikki minun puheeni ovat oikiat: ei ole siina mitaan petosta eli vaaryytta.	
 
-9. Ne kaikki ovat selkiat niille, jotka niita ymmartavat, ja oikiat niille, jotka taidon loytavat.	
+<div class="versenum">9.</div> Ne kaikki ovat selkiat niille, jotka niita ymmartavat, ja oikiat niille, jotka taidon loytavat.	
 
-10. Ottakaat minun kuritukseni ennenkuin hopia, ja pitakaat korkiampana minun oppini kuin kallein kulta.	
+<div class="versenum">10.</div> Ottakaat minun kuritukseni ennenkuin hopia, ja pitakaat korkiampana minun oppini kuin kallein kulta.	
 
-11. Silla viisaus on parempi kuin paarlyt, ja kaikki, mita ihminen itsellensa toivottaa, ei ole hanen vertaisensa.	
+<div class="versenum">11.</div> Silla viisaus on parempi kuin paarlyt, ja kaikki, mita ihminen itsellensa toivottaa, ei ole hanen vertaisensa.	
 
-12. Mina viisaus asun toimen tykona, ja mina taidan antaa hyvan neuvon.	
+<div class="versenum">12.</div> Mina viisaus asun toimen tykona, ja mina taidan antaa hyvan neuvon.	
 
-13. Se on Herran pelko: vihata pahaa, ylpeytta, tuimuutta ja pahoja teita; sentahden vihaan mina petollista suuta.	
+<div class="versenum">13.</div> Se on Herran pelko: vihata pahaa, ylpeytta, tuimuutta ja pahoja teita; sentahden vihaan mina petollista suuta.	
 
-14. Minun on neuvo ja voima, minun on toimi ja vakevyys.	
+<div class="versenum">14.</div> Minun on neuvo ja voima, minun on toimi ja vakevyys.	
 
-15. Minun kauttani kuninkaat hallitsevat, ja neuvonantajat oikeutta saattavat;	
+<div class="versenum">15.</div> Minun kauttani kuninkaat hallitsevat, ja neuvonantajat oikeutta saattavat;	
 
-16. Minun kauttani paamiehet vallitsevat, valtamiehet ja kaikki maan tuomarit.	
+<div class="versenum">16.</div> Minun kauttani paamiehet vallitsevat, valtamiehet ja kaikki maan tuomarit.	
 
-17. Mina rakastan niita, jotka minua rakastavat, jotka varhain minua etsivat, ne loytavat minun.	
+<div class="versenum">17.</div> Mina rakastan niita, jotka minua rakastavat, jotka varhain minua etsivat, ne loytavat minun.	
 
-18. Rikkaus ja kunnia on minun tykonani, pysyvainen tavara ja vanhurskaus.	
+<div class="versenum">18.</div> Rikkaus ja kunnia on minun tykonani, pysyvainen tavara ja vanhurskaus.	
 
-19. Minun hedelmani on parempi kuin kulta ja rikkain kulta, ja minun tuloni parempi kuin valittu hopia.	
+<div class="versenum">19.</div> Minun hedelmani on parempi kuin kulta ja rikkain kulta, ja minun tuloni parempi kuin valittu hopia.	
 
-20. Mina vaellan vanhurskaudentieta ja oikeuden askeleilla,	
+<div class="versenum">20.</div> Mina vaellan vanhurskaudentieta ja oikeuden askeleilla,	
 
-21. Etta mina pysyvaisen perinnon saattaisin niille, jotka minua rakastavat, ja tayttaisin heidan tavaransa.	
+<div class="versenum">21.</div> Etta mina pysyvaisen perinnon saattaisin niille, jotka minua rakastavat, ja tayttaisin heidan tavaransa.	
 
-22. Mina olen ollut Herran oma hanen teidensa alussa: ennenkuin mitaan tehty oli, olin mina.	
+<div class="versenum">22.</div> Mina olen ollut Herran oma hanen teidensa alussa: ennenkuin mitaan tehty oli, olin mina.	
 
-23. Jo ijankaikkisuudesta olen mina asetettu, alussa, ennenkuin maa oli.	
+<div class="versenum">23.</div> Jo ijankaikkisuudesta olen mina asetettu, alussa, ennenkuin maa oli.	
 
-24. Kuin ei syvyys viela ollut, silloin mina olin jo syntynyt, kuin ei lahteet viela vetta kuohuneet.	
+<div class="versenum">24.</div> Kuin ei syvyys viela ollut, silloin mina olin jo syntynyt, kuin ei lahteet viela vetta kuohuneet.	
 
-25. Ennen kuin vuoret olivat perustetut, ja kukkulat valmistetut, olen mina syntynyt;	
+<div class="versenum">25.</div> Ennen kuin vuoret olivat perustetut, ja kukkulat valmistetut, olen mina syntynyt;	
 
-26. Ei han ollut viela maata luonut, ja mita sen paalla on, eika maan piirin vuoria.	
+<div class="versenum">26.</div> Ei han ollut viela maata luonut, ja mita sen paalla on, eika maan piirin vuoria.	
 
-27. Kuin han valmisti taivaan, olin mina siella, kuin han syvyyden visusti mittasi.	
+<div class="versenum">27.</div> Kuin han valmisti taivaan, olin mina siella, kuin han syvyyden visusti mittasi.	
 
-28. Kuin han pilvet rakensi ylhaalla, ja saasi syvyyden lahteet;	
+<div class="versenum">28.</div> Kuin han pilvet rakensi ylhaalla, ja saasi syvyyden lahteet;	
 
-29. Kuin han meren aaret maarasi, ja vetten eteen asetti maaran, ettei he astuisi rantansa ylitse; kuin han maan perustukset laski,	
+<div class="versenum">29.</div> Kuin han meren aaret maarasi, ja vetten eteen asetti maaran, ettei he astuisi rantansa ylitse; kuin han maan perustukset laski,	
 
-30. Silloin mina hanen kanssansa vaikutin, ja iloitsin joka paiva, ja leikitsin hanen hanen edessansa joka aika;	
+<div class="versenum">30.</div> Silloin mina hanen kanssansa vaikutin, ja iloitsin joka paiva, ja leikitsin hanen hanen edessansa joka aika;	
 
-31. Ja leikitsin maan piirin paalla; ja minun iloni on olla ihmisten lasten kanssa.	
+<div class="versenum">31.</div> Ja leikitsin maan piirin paalla; ja minun iloni on olla ihmisten lasten kanssa.	
 
-32. Niin kuulkaat siis minua, te lapset: autuaat ovat ne , jotka minun tieni pitavat.	
+<div class="versenum">32.</div> Niin kuulkaat siis minua, te lapset: autuaat ovat ne , jotka minun tieni pitavat.	
 
-33. Kuulkaat kuritusta, olkaat viisaat, ja alkaat hyljatko sita.	
+<div class="versenum">33.</div> Kuulkaat kuritusta, olkaat viisaat, ja alkaat hyljatko sita.	
 
-34. Autuas on se ihminen, joka minua kuulee, joka minun ovellani valvoo joka paiva, ja vartioitsee minun pihtipielissani.	
+<div class="versenum">34.</div> Autuas on se ihminen, joka minua kuulee, joka minun ovellani valvoo joka paiva, ja vartioitsee minun pihtipielissani.	
 
-35. Silla joka minun loytaa, han elaman loytaa, ja on Herralle otollinen;	
+<div class="versenum">35.</div> Silla joka minun loytaa, han elaman loytaa, ja on Herralle otollinen;	
 
-36. Mutta, joka minua vastaan syntia tekee, han vahingoitsee sielunsa: jokainen joka minua vihaa, han rakastaa kuolemaa.	
+<div class="versenum">36.</div> Mutta, joka minua vastaan syntia tekee, han vahingoitsee sielunsa: jokainen joka minua vihaa, han rakastaa kuolemaa.	
 

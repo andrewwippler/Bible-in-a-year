@@ -1,22 +1,22 @@
 Psalmien 112	
 	
-1. Halleluja! Autuas on, joka pelkaa Herraa: joka hanen kaskyjansa sangen himoitsee.	
+<div class="versenum">1.</div> Halleluja! Autuas on, joka pelkaa Herraa: joka hanen kaskyjansa sangen himoitsee.	
 
-2. Hanen siemenensa on valtias maan paalla: hurskasten suku pitaa siunatuksi tuleman.	
+<div class="versenum">2.</div> Hanen siemenensa on valtias maan paalla: hurskasten suku pitaa siunatuksi tuleman.	
 
-3. Rikkaus ja runsaus on hanen huoneessansa, ja hanen vanhurskautensa pysyy ijankaikkisesti.	
+<div class="versenum">3.</div> Rikkaus ja runsaus on hanen huoneessansa, ja hanen vanhurskautensa pysyy ijankaikkisesti.	
 
-4. Hurskaille koittaa valkeus pimeassa, armolliselta, laupiaalta ja vanhurskaalta.	
+<div class="versenum">4.</div> Hurskaille koittaa valkeus pimeassa, armolliselta, laupiaalta ja vanhurskaalta.	
 
-5. Hyva ihminen on laupias ja mielellansa lainaa, ja toimittaa asiansa toimellisesti.	
+<div class="versenum">5.</div> Hyva ihminen on laupias ja mielellansa lainaa, ja toimittaa asiansa toimellisesti.	
 
-6. Silla han pysyy ijankaikkisesti: ei vanhurskas ikana unhoteta.	
+<div class="versenum">6.</div> Silla han pysyy ijankaikkisesti: ei vanhurskas ikana unhoteta.	
 
-7. Koska rangaistus tulee, niin ei han pelkaa: hanen sydamensa uskaltaa lujasti Herran paalle.	
+<div class="versenum">7.</div> Koska rangaistus tulee, niin ei han pelkaa: hanen sydamensa uskaltaa lujasti Herran paalle.	
 
-8. Hanen sydamensa on vahvistettu ja ei pelkaa, siihenasti kuin han nakee ilonsa vihollisistansa.	
+<div class="versenum">8.</div> Hanen sydamensa on vahvistettu ja ei pelkaa, siihenasti kuin han nakee ilonsa vihollisistansa.	
 
-9. Han jakaa ja antaa vaivaisille: hanen vanhurskautensa pysyy ijankaikkisesti: hanen sarvensa korotetaan kunnialla.	
+<div class="versenum">9.</div> Han jakaa ja antaa vaivaisille: hanen vanhurskautensa pysyy ijankaikkisesti: hanen sarvensa korotetaan kunnialla.	
 
-10. Jumalatoin nakee sen ja narkastyy: han pureskelee hampaitansa ja naantyy; silla mita jumalattomat halajavat, se tyhjaksi tulee.	
+<div class="versenum">10.</div> Jumalatoin nakee sen ja narkastyy: han pureskelee hampaitansa ja naantyy; silla mita jumalattomat halajavat, se tyhjaksi tulee.	
 

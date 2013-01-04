@@ -1,56 +1,56 @@
 Ilmestys 21	
 	
-1. Ja mina nain uuden taivaan ja uuden maan, silla ensimainen taivas ja ensimainen maa katosi, ja ei meri silleen ole.	
+<div class="versenum">1.</div> Ja mina nain uuden taivaan ja uuden maan, silla ensimainen taivas ja ensimainen maa katosi, ja ei meri silleen ole.	
 
-2. Ja mina Johannes nain pyhan kaupungin, uuden Jerusalemin, astuvan alas taivaasta, Jumalalta valmistetun, niinkuin morsiamen kaunistetun hanen miehellensa.	
+<div class="versenum">2.</div> Ja mina Johannes nain pyhan kaupungin, uuden Jerusalemin, astuvan alas taivaasta, Jumalalta valmistetun, niinkuin morsiamen kaunistetun hanen miehellensa.	
 
-3. Ja kuulin suuren aanen taivaasta sanovan: katso Jumalan maja ihmisten seassa, ja han on asuva heidan kanssansa, ja he tulevat hanen kansaksensa, ja itse Jumala on oleva heidan kanssansa ja heidan Jumalansa.	
+<div class="versenum">3.</div> Ja kuulin suuren aanen taivaasta sanovan: katso Jumalan maja ihmisten seassa, ja han on asuva heidan kanssansa, ja he tulevat hanen kansaksensa, ja itse Jumala on oleva heidan kanssansa ja heidan Jumalansa.	
 
-4. Ja Jumala on pyyhkiva pois kaikki kyyneleet heidan silmistansa, ja ei kuolemaa pida silleen oleman, eika itkua, eika parkua, eika kipua pida silleen oleman; silla ne entiset poismenivat.	
+<div class="versenum">4.</div> Ja Jumala on pyyhkiva pois kaikki kyyneleet heidan silmistansa, ja ei kuolemaa pida silleen oleman, eika itkua, eika parkua, eika kipua pida silleen oleman; silla ne entiset poismenivat.	
 
-5. Ja se, joka istuimella istui, sanoi: katso, mina uudistan kaikki. Ja sanoi minulle: kirjoita! silla nama sanat ovat totiset ja vahvat.	
+<div class="versenum">5.</div> Ja se, joka istuimella istui, sanoi: katso, mina uudistan kaikki. Ja sanoi minulle: kirjoita! silla nama sanat ovat totiset ja vahvat.	
 
-6. Ja han sanoi minulle: Se on tapahtunut. Mina olen A ja O, alku ja loppu. Mina annan janoovalle elaman veden lahteesta lahjaksi.	
+<div class="versenum">6.</div> Ja han sanoi minulle: Se on tapahtunut. Mina olen A ja O, alku ja loppu. Mina annan janoovalle elaman veden lahteesta lahjaksi.	
 
-7. Joka voittaa, sen pitaa kaikki namat periman, ja mina olen hanen Jumalansa, ja hanen pitaa oleman minun poikani.	
+<div class="versenum">7.</div> Joka voittaa, sen pitaa kaikki namat periman, ja mina olen hanen Jumalansa, ja hanen pitaa oleman minun poikani.	
 
-8. Mutta pelkureille ja uskottomille, ja hirmuisille, ja murhaajille, ja salavuoteisille, ja velhoille, ja epajumalisille, ja kaikille valehtelioille pitaa osa oleman siina jarvessa, joka tulesta ja tulikivesta palaa, joka on toinen kuolema.	
+<div class="versenum">8.</div> Mutta pelkureille ja uskottomille, ja hirmuisille, ja murhaajille, ja salavuoteisille, ja velhoille, ja epajumalisille, ja kaikille valehtelioille pitaa osa oleman siina jarvessa, joka tulesta ja tulikivesta palaa, joka on toinen kuolema.	
 
-9. Ja minun tykoni tuli yksi seitsemasta enkelista, joilla oli seitseman maljaa taynna seitsenta viimeista vitsausta, ja puhui minun kanssani, sanoen: tule, mina osoitan sinulle morsiamen, Karitsan emannan.	
+<div class="versenum">9.</div> Ja minun tykoni tuli yksi seitsemasta enkelista, joilla oli seitseman maljaa taynna seitsenta viimeista vitsausta, ja puhui minun kanssani, sanoen: tule, mina osoitan sinulle morsiamen, Karitsan emannan.	
 
-10. Ja han vei minun hengessa suurelle ja korkialle vuorelle, ja osoitti minulle suuren kaupungin, pyhan Jerusalemin, astuvan alas taivaasta Jumalalta,	
+<div class="versenum">10.</div> Ja han vei minun hengessa suurelle ja korkialle vuorelle, ja osoitti minulle suuren kaupungin, pyhan Jerusalemin, astuvan alas taivaasta Jumalalta,	
 
-11. Jolla oli Jumalan kirkkaus; ja sen valkeus oli kaikkein kalleimman kiven muotoinen, niinkuin kirkas jaspis.	
+<div class="versenum">11.</div> Jolla oli Jumalan kirkkaus; ja sen valkeus oli kaikkein kalleimman kiven muotoinen, niinkuin kirkas jaspis.	
 
-12. Ja hanella oli suuri ja korkia muuri, jolla oli kaksitoistakymmenta porttia, ja porteissa kaksitoistakymmenta enkelia, ja nimet kirjoitetut, jotka ovat kahdentoistakymmenen Israelin lasten sukukuntain nimet:	
+<div class="versenum">12.</div> Ja hanella oli suuri ja korkia muuri, jolla oli kaksitoistakymmenta porttia, ja porteissa kaksitoistakymmenta enkelia, ja nimet kirjoitetut, jotka ovat kahdentoistakymmenen Israelin lasten sukukuntain nimet:	
 
-13. Idassa kolme porttia, pohjoisessa kolme porttia, etelassa kolme porttia, lannessa kolme porttia.	
+<div class="versenum">13.</div> Idassa kolme porttia, pohjoisessa kolme porttia, etelassa kolme porttia, lannessa kolme porttia.	
 
-14. Ja sen kaupungin muurilla oli kaksitoistakymmenta perustusta, ja niissa Karitsan kahdentoistakymmenen apostolin nimet.	
+<div class="versenum">14.</div> Ja sen kaupungin muurilla oli kaksitoistakymmenta perustusta, ja niissa Karitsan kahdentoistakymmenen apostolin nimet.	
 
-15. Ja silla, joka minun kanssani puhui, oli kultainen ruoko, kaupunkia mitataksensa ja hanen porttejansa ja muuriansa.	
+<div class="versenum">15.</div> Ja silla, joka minun kanssani puhui, oli kultainen ruoko, kaupunkia mitataksensa ja hanen porttejansa ja muuriansa.	
 
-16. Ja kaupunki on pantu nelikulmaiseksi, ja hanen pituutensa on niin suuri kuin hanen leveytensa. Ja han mittasi kaupungin ruovolla kaksitoistakymmenta tuhatta vakomittaa; ja hanen pituutensa ja leveytensa ja korkeutensa ovat yhtalaiset.	
+<div class="versenum">16.</div> Ja kaupunki on pantu nelikulmaiseksi, ja hanen pituutensa on niin suuri kuin hanen leveytensa. Ja han mittasi kaupungin ruovolla kaksitoistakymmenta tuhatta vakomittaa; ja hanen pituutensa ja leveytensa ja korkeutensa ovat yhtalaiset.	
 
-17. Ja mittasi hanen muurinsa, sata ja neljaviidettakymmenta kyynaraa ihmisen mitan jalkeen, joka enkelilla oli.	
+<div class="versenum">17.</div> Ja mittasi hanen muurinsa, sata ja neljaviidettakymmenta kyynaraa ihmisen mitan jalkeen, joka enkelilla oli.	
 
-18. Ja muurin rakennus oli jaspiksesta, ja itse kaupunki puhtaasta kullasta, puhtaan lasin kaltainen.	
+<div class="versenum">18.</div> Ja muurin rakennus oli jaspiksesta, ja itse kaupunki puhtaasta kullasta, puhtaan lasin kaltainen.	
 
-19. Ja kaupungin muurin perustukset olivat kaikkinaisilla kalliilla kivilla kaunistetut: ensimainen perustus oli jaspis, toinen saphiri, kolmas kalkedoni, neljas smaragdi,	
+<div class="versenum">19.</div> Ja kaupungin muurin perustukset olivat kaikkinaisilla kalliilla kivilla kaunistetut: ensimainen perustus oli jaspis, toinen saphiri, kolmas kalkedoni, neljas smaragdi,	
 
-20. Viides sardoniks, kuudes sardius, seitsemas krysoliti, kahdeksas berilli, yhdeksas topasis, kymmenes krysoprasi, yksitoistakymmenes hyakinti, kaksitoistakymmenes ametysti.	
+<div class="versenum">20.</div> Viides sardoniks, kuudes sardius, seitsemas krysoliti, kahdeksas berilli, yhdeksas topasis, kymmenes krysoprasi, yksitoistakymmenes hyakinti, kaksitoistakymmenes ametysti.	
 
-21. Ja ne kaksitoistakymmenta porttia olivat kaksitoistakymmenta paarlya, ja kukin portti oli yhdesta paarlysta; ja kaupungin kadut olivat puhdas kulta, niinkuin lavitse paistavainen lasi.	
+<div class="versenum">21.</div> Ja ne kaksitoistakymmenta porttia olivat kaksitoistakymmenta paarlya, ja kukin portti oli yhdesta paarlysta; ja kaupungin kadut olivat puhdas kulta, niinkuin lavitse paistavainen lasi.	
 
-22. Ja en mina hanessa templia nahnyt; silla Herra kaikkivaltias Jumala on hanen templinsa, ja Karitsa.	
+<div class="versenum">22.</div> Ja en mina hanessa templia nahnyt; silla Herra kaikkivaltias Jumala on hanen templinsa, ja Karitsa.	
 
-23. Ja ei se kaupunki tarvitse aurinkoa eika kuuta hanessa valistamaan; silla Jumalan kirkkaus valistaa hanessa, ja hanen valkeutensa on Karitsa.	
+<div class="versenum">23.</div> Ja ei se kaupunki tarvitse aurinkoa eika kuuta hanessa valistamaan; silla Jumalan kirkkaus valistaa hanessa, ja hanen valkeutensa on Karitsa.	
 
-24. Ja pakanat, jotka autuaaksi tulevat, pitaa hanen valkeudessansa vaeltaman, ja maan kuninkaat tuovat kunniansa ja ylistyksensa siihen.	
+<div class="versenum">24.</div> Ja pakanat, jotka autuaaksi tulevat, pitaa hanen valkeudessansa vaeltaman, ja maan kuninkaat tuovat kunniansa ja ylistyksensa siihen.	
 
-25. Ja ei sen portteja suljeta paivilla; silla ei siella yota pida oleman.	
+<div class="versenum">25.</div> Ja ei sen portteja suljeta paivilla; silla ei siella yota pida oleman.	
 
-26. Ja pakanain ylistys ja kunnia tuodaan siihen.	
+<div class="versenum">26.</div> Ja pakanain ylistys ja kunnia tuodaan siihen.	
 
-27. Ja ei pida haneen mitaan saastuttavaa tuleman sisalle, taikka sita, mika kauhistuksen eli valheen saattaa; vaan ne, jotka Karitsan elaman kirjassa kirjoitetut ovat.	
+<div class="versenum">27.</div> Ja ei pida haneen mitaan saastuttavaa tuleman sisalle, taikka sita, mika kauhistuksen eli valheen saattaa; vaan ne, jotka Karitsan elaman kirjassa kirjoitetut ovat.	
 

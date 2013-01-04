@@ -1,12 +1,12 @@
 Psalmien 127	
 	
-1. Salomon veisu korkeimmassa Kuorissa. Jos ei Herra huonetta rakenna, niin hukkaan tyota tekevat, jotka sita rakentavat: jos ei Herra kaupunkia varjele, niin vartiat hukkaan valvovat.	
+<div class="versenum">1.</div> Salomon veisu korkeimmassa Kuorissa. Jos ei Herra huonetta rakenna, niin hukkaan tyota tekevat, jotka sita rakentavat: jos ei Herra kaupunkia varjele, niin vartiat hukkaan valvovat.	
 
-2. Se on turha, etta te varhain nousette ja hiljain maata menette, ja syotte leipanne surulla; silla han antaa ystavillensa heidan maatessansa.	
+<div class="versenum">2.</div> Se on turha, etta te varhain nousette ja hiljain maata menette, ja syotte leipanne surulla; silla han antaa ystavillensa heidan maatessansa.	
 
-3. Katso, lapset ovat Herran lahja, ja kohdun hedelma on anto.	
+<div class="versenum">3.</div> Katso, lapset ovat Herran lahja, ja kohdun hedelma on anto.	
 
-4. Kuin nuolet vakevan kadessa, niin ovat nuorukaiset.	
+<div class="versenum">4.</div> Kuin nuolet vakevan kadessa, niin ovat nuorukaiset.	
 
-5. Autuas on se, jonka viini on niita taynnansa: ei ne havaista, kuin heilla vihollistensa kanssa portissa tekemista on.	
+<div class="versenum">5.</div> Autuas on se, jonka viini on niita taynnansa: ei ne havaista, kuin heilla vihollistensa kanssa portissa tekemista on.	
 

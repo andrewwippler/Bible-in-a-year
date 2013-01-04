@@ -1,72 +1,72 @@
 Psalmien 104	
 	
-1. Kiita Herraa, sieluni! Herra, minun Jumalani, sina olet sangen suuresti kunnioitettu, suurella kunnialla ja kaunistuksella olet sina puetettu.	
+<div class="versenum">1.</div> Kiita Herraa, sieluni! Herra, minun Jumalani, sina olet sangen suuresti kunnioitettu, suurella kunnialla ja kaunistuksella olet sina puetettu.	
 
-2. Sina puetat itses valkeudella niinkuin vaatteella: sina levitat taivaat niinkuin peitteen.	
+<div class="versenum">2.</div> Sina puetat itses valkeudella niinkuin vaatteella: sina levitat taivaat niinkuin peitteen.	
 
-3. Sina peitat sen paallyksen vedella: sina menet pilvissa niinkuin ratasten paalla, ja kayt tuulen siipein paalla.	
+<div class="versenum">3.</div> Sina peitat sen paallyksen vedella: sina menet pilvissa niinkuin ratasten paalla, ja kayt tuulen siipein paalla.	
 
-4. Sina teet enkelis hengeksi ja palvelias liekitsevaiseksi tuleksi.	
+<div class="versenum">4.</div> Sina teet enkelis hengeksi ja palvelias liekitsevaiseksi tuleksi.	
 
-5. Sina joka maan perustit perustuksensa paalle, ettei sen pida liikkuman ijankaikkisesti.	
+<div class="versenum">5.</div> Sina joka maan perustit perustuksensa paalle, ettei sen pida liikkuman ijankaikkisesti.	
 
-6. Syvyydella sina sen peitat niinkuin vaatteella, ja vedet seisovat vuorilla.	
+<div class="versenum">6.</div> Syvyydella sina sen peitat niinkuin vaatteella, ja vedet seisovat vuorilla.	
 
-7. Mutta sinun nuhtelemisestas he pakenevat: sinun jylinastas he menevat pois.	
+<div class="versenum">7.</div> Mutta sinun nuhtelemisestas he pakenevat: sinun jylinastas he menevat pois.	
 
-8. Vuoret astuvat ylos, ja laaksot astuvat alas siallensa, johon heidat perustanut olet.	
+<div class="versenum">8.</div> Vuoret astuvat ylos, ja laaksot astuvat alas siallensa, johon heidat perustanut olet.	
 
-9. Maaran sina panit, jota ei he kay ylitse, eika palaja maata peittamaan.	
+<div class="versenum">9.</div> Maaran sina panit, jota ei he kay ylitse, eika palaja maata peittamaan.	
 
-10. Sina annat lahteet laaksoissa kuohua, niin etta ne vuorten valitse vuotavat;	
+<div class="versenum">10.</div> Sina annat lahteet laaksoissa kuohua, niin etta ne vuorten valitse vuotavat;	
 
-11. Etta kaikki elaimet metsassa joisivat, ja etta pedot janonsa sammuttaisivat.	
+<div class="versenum">11.</div> Etta kaikki elaimet metsassa joisivat, ja etta pedot janonsa sammuttaisivat.	
 
-12. Heidan tykonansa istuvat taivaan linnut, ja visertavat oksilla.	
+<div class="versenum">12.</div> Heidan tykonansa istuvat taivaan linnut, ja visertavat oksilla.	
 
-13. Sina liotat vuoret ylhaalta: sina taytat maan hedelmalla, jonka sina saatat.	
+<div class="versenum">13.</div> Sina liotat vuoret ylhaalta: sina taytat maan hedelmalla, jonka sina saatat.	
 
-14. Sina kasvatat ruohon karjalle, ja jyvat ihmisten tarpeeksi, tuottaakses leipaa maasta.	
+<div class="versenum">14.</div> Sina kasvatat ruohon karjalle, ja jyvat ihmisten tarpeeksi, tuottaakses leipaa maasta.	
 
-15. Ja etta viina ihmisen sydamen ilahuttaa, ja hanen kasvonsa kaunistuu oljysta: ja leipa vahvistaa ihmisen sydamen.	
+<div class="versenum">15.</div> Ja etta viina ihmisen sydamen ilahuttaa, ja hanen kasvonsa kaunistuu oljysta: ja leipa vahvistaa ihmisen sydamen.	
 
-16. Etta Herran puut nesteesta taynna olisivat: Libanonin sedripuut, jotka han on istuttanut;	
+<div class="versenum">16.</div> Etta Herran puut nesteesta taynna olisivat: Libanonin sedripuut, jotka han on istuttanut;	
 
-17. Siella linnut pesia tekevat, ja haikarat hongissa asuvat.	
+<div class="versenum">17.</div> Siella linnut pesia tekevat, ja haikarat hongissa asuvat.	
 
-18. Korkiat vuoret ovat metsavuohten turva, ja kivirauniot kaninein.	
+<div class="versenum">18.</div> Korkiat vuoret ovat metsavuohten turva, ja kivirauniot kaninein.	
 
-19. Sina teet kuun aikoja jakamaan, ja aurinko tietaa laskemisensa.	
+<div class="versenum">19.</div> Sina teet kuun aikoja jakamaan, ja aurinko tietaa laskemisensa.	
 
-20. Sina teet pimeyden ja yo tulee: silloin kaikki metsan elaimet tulevat ulos.	
+<div class="versenum">20.</div> Sina teet pimeyden ja yo tulee: silloin kaikki metsan elaimet tulevat ulos.	
 
-21. Nuoret jalopeurat saaliin peraan kiljuvat, ja elatustansa Jumalalta etsivat.	
+<div class="versenum">21.</div> Nuoret jalopeurat saaliin peraan kiljuvat, ja elatustansa Jumalalta etsivat.	
 
-22. Mutta kuin aurinko koittaa, niin he kokoontuvat, ja luolissansa makaavat.	
+<div class="versenum">22.</div> Mutta kuin aurinko koittaa, niin he kokoontuvat, ja luolissansa makaavat.	
 
-23. Niin menee myos ihminen tyohonsa, ja askareillensa ehtoosen asti.	
+<div class="versenum">23.</div> Niin menee myos ihminen tyohonsa, ja askareillensa ehtoosen asti.	
 
-24. Herra, kuinka suuret ja monet ovat sinun kasialas? Sina olet kaikki taitavasti saatanyt, ja maa on taynna sinun tavaraas.	
+<div class="versenum">24.</div> Herra, kuinka suuret ja monet ovat sinun kasialas? Sina olet kaikki taitavasti saatanyt, ja maa on taynna sinun tavaraas.	
 
-25. Tama meri, joka niin suuri ja lavia on, siina epalukuiset liikuvat, seka pienet etta suuret elaimet;	
+<div class="versenum">25.</div> Tama meri, joka niin suuri ja lavia on, siina epalukuiset liikuvat, seka pienet etta suuret elaimet;	
 
-26. Siella haahdet kuljeskelevat: siina valaskalat ovat, jotkas tehnyt olet, leikitsemaan hanessa.	
+<div class="versenum">26.</div> Siella haahdet kuljeskelevat: siina valaskalat ovat, jotkas tehnyt olet, leikitsemaan hanessa.	
 
-27. Kaikki odottavat sinua, ettas heille antaisit ruan ajallansa.	
+<div class="versenum">27.</div> Kaikki odottavat sinua, ettas heille antaisit ruan ajallansa.	
 
-28. Koskas heille annat, niin he kokoovat: koskas kates avaat, niin he hyvyydella ravitaan.	
+<div class="versenum">28.</div> Koskas heille annat, niin he kokoovat: koskas kates avaat, niin he hyvyydella ravitaan.	
 
-29. Jos sina kasvos peitat, niin he hammastyvat: koska sina otat heidan henkensa pois, niin he hukkuvat, ja tomuksi tulevat jalleen.	
+<div class="versenum">29.</div> Jos sina kasvos peitat, niin he hammastyvat: koska sina otat heidan henkensa pois, niin he hukkuvat, ja tomuksi tulevat jalleen.	
 
-30. Sina lahetat ulos henkes, niin he luoduksi tulevat, ja sina uudistat maan muodon.	
+<div class="versenum">30.</div> Sina lahetat ulos henkes, niin he luoduksi tulevat, ja sina uudistat maan muodon.	
 
-31. Herran kunnia pysyy ijankaikkisesti: Herra iloitsee toissansa.	
+<div class="versenum">31.</div> Herran kunnia pysyy ijankaikkisesti: Herra iloitsee toissansa.	
 
-32. Han katsahtaa maan paalle, niin se vapisee: han rupee vuoriin, niin ne suitsevat.	
+<div class="versenum">32.</div> Han katsahtaa maan paalle, niin se vapisee: han rupee vuoriin, niin ne suitsevat.	
 
-33. Mina veisaan Herralle minun elinaikanani, ja kiitan minun Jumalaani niinkauvan kuin mina olen.	
+<div class="versenum">33.</div> Mina veisaan Herralle minun elinaikanani, ja kiitan minun Jumalaani niinkauvan kuin mina olen.	
 
-34. Minun puheeni kelpaa hanelle, ja mina iloitsen Herrassa.	
+<div class="versenum">34.</div> Minun puheeni kelpaa hanelle, ja mina iloitsen Herrassa.	
 
-35. Syntiset maalta lopetetaan, ja jumalattomat ei pida silleen oleman: kiita Herraa, sieluni, Halleluja!	
+<div class="versenum">35.</div> Syntiset maalta lopetetaan, ja jumalattomat ei pida silleen oleman: kiita Herraa, sieluni, Halleluja!	
 

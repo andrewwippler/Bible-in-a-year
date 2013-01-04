@@ -1,48 +1,48 @@
 4 Mooseksen 27	
 	
-1. Niin tulivat edes Zelophkadin tyttaret, Hephrin pojan, Gileadin pojan, Makirin pojan, Manassen pojan, Manassen Josephin pojan suvusta, ja namat olivat hanen tytartensa nimet: Makla, Noa, Hogla, Milka ja Tirtsa.	
+<div class="versenum">1.</div> Niin tulivat edes Zelophkadin tyttaret, Hephrin pojan, Gileadin pojan, Makirin pojan, Manassen pojan, Manassen Josephin pojan suvusta, ja namat olivat hanen tytartensa nimet: Makla, Noa, Hogla, Milka ja Tirtsa.	
 
-2. Ja he astuivat Moseksen ja papin Eleatsarin, ja paamiesten, ja kaiken kansan eteen, seurakunnan majan ovelle, ja sanoivat:	
+<div class="versenum">2.</div> Ja he astuivat Moseksen ja papin Eleatsarin, ja paamiesten, ja kaiken kansan eteen, seurakunnan majan ovelle, ja sanoivat:	
 
-3. Meidan isamme kuoli korvessa, eika han ollut siina joukossa, jotka metelin nostivat Herraa vastaan Koran kapinassa, mutta on synnissansa kuollut: ja ei ollut hanella poikia.	
+<div class="versenum">3.</div> Meidan isamme kuoli korvessa, eika han ollut siina joukossa, jotka metelin nostivat Herraa vastaan Koran kapinassa, mutta on synnissansa kuollut: ja ei ollut hanella poikia.	
 
-4. Miksi meidan isamme nimen pitaa tuleman suvustansa pois, sentahden ettei hanella ollut yhtaan poikaa? antakaat meille osa isamme veljein seassa.	
+<div class="versenum">4.</div> Miksi meidan isamme nimen pitaa tuleman suvustansa pois, sentahden ettei hanella ollut yhtaan poikaa? antakaat meille osa isamme veljein seassa.	
 
-5. Ja Moses tuotti heidan asiansa Herran eteen.	
+<div class="versenum">5.</div> Ja Moses tuotti heidan asiansa Herran eteen.	
 
-6. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">6.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-7. Zelophkadin tyttaret ovat oikein puhuneet: sinun pitaa kaiketi antaman perintoosan heille heidan isansa veljein seassa, ja saattaman heidan isansa perimisen heille.	
+<div class="versenum">7.</div> Zelophkadin tyttaret ovat oikein puhuneet: sinun pitaa kaiketi antaman perintoosan heille heidan isansa veljein seassa, ja saattaman heidan isansa perimisen heille.	
 
-8. Ja puhu Israelin lapsille, sanoen: jos joku kuolee ilman pojata, niin teidan pitaa antaman hanen perimisensa hanen tyttarellensa.	
+<div class="versenum">8.</div> Ja puhu Israelin lapsille, sanoen: jos joku kuolee ilman pojata, niin teidan pitaa antaman hanen perimisensa hanen tyttarellensa.	
 
-9. Jollei hanella ole tytarta, niin teidan pitaa sen perimisen hanen veljillensa antaman.	
+<div class="versenum">9.</div> Jollei hanella ole tytarta, niin teidan pitaa sen perimisen hanen veljillensa antaman.	
 
-10. Ja jollei hanella ole veljia; niin teidan pitaa sen antaman hanen sedillensa.	
+<div class="versenum">10.</div> Ja jollei hanella ole veljia; niin teidan pitaa sen antaman hanen sedillensa.	
 
-11. Jollei hanella ole setia, niin teidan pitaa sen antaman hanen lahimmaiselle sukulaisellensa, joka hanen lahimmainen lankonsa on hanen suvustansa, etta han sen omistaa. Tama pitaa oleman Israelin lapsille saaty ja oikeus, niinkuin Herra on Mosekselle kaskenyt.	
+<div class="versenum">11.</div> Jollei hanella ole setia, niin teidan pitaa sen antaman hanen lahimmaiselle sukulaisellensa, joka hanen lahimmainen lankonsa on hanen suvustansa, etta han sen omistaa. Tama pitaa oleman Israelin lapsille saaty ja oikeus, niinkuin Herra on Mosekselle kaskenyt.	
 
-12. Ja Herra sanoi Mosekselle: astu ylos talle Abarimin vuorelle, ja katsele sita maata, jonka mina Israelin lapsille annan.	
+<div class="versenum">12.</div> Ja Herra sanoi Mosekselle: astu ylos talle Abarimin vuorelle, ja katsele sita maata, jonka mina Israelin lapsille annan.	
 
-13. Ja kuin sen nahnyt olet, niin sinakin kootaan kansas tyko, niinkuin sinun veljes Aaron koottu on.	
+<div class="versenum">13.</div> Ja kuin sen nahnyt olet, niin sinakin kootaan kansas tyko, niinkuin sinun veljes Aaron koottu on.	
 
-14. Silla te olitte minun sanalleni kovakorvaiset Sinin korvessa kansan toruessa, kuin teidan piti minua pyhittaman veden kautta heidan edessansa. Se on se riitavesi Kadeksessa, Sinin korvessa.	
+<div class="versenum">14.</div> Silla te olitte minun sanalleni kovakorvaiset Sinin korvessa kansan toruessa, kuin teidan piti minua pyhittaman veden kautta heidan edessansa. Se on se riitavesi Kadeksessa, Sinin korvessa.	
 
-15. Ja Moses puhui Herralle, sanoen:	
+<div class="versenum">15.</div> Ja Moses puhui Herralle, sanoen:	
 
-16. Herra, kaiken lihan henkein Jumala asettakaan miehen kansan paalle,	
+<div class="versenum">16.</div> Herra, kaiken lihan henkein Jumala asettakaan miehen kansan paalle,	
 
-17. Joka heidan edessansa kavis ulos ja sisalle, ja veis heita ulos ja sisalle, ettei Herran kansa olisi niinkuin lampaat ilman paimenta.	
+<div class="versenum">17.</div> Joka heidan edessansa kavis ulos ja sisalle, ja veis heita ulos ja sisalle, ettei Herran kansa olisi niinkuin lampaat ilman paimenta.	
 
-18. Ja Herra sanoi Mosekselle: ota Josua Nunin poika sinun tykos, joka on mies, jossa henki on, ja pane sinun kates hanen paallensa,	
+<div class="versenum">18.</div> Ja Herra sanoi Mosekselle: ota Josua Nunin poika sinun tykos, joka on mies, jossa henki on, ja pane sinun kates hanen paallensa,	
 
-19. Ja aseta hanet papin Eleatsarin ja kaiken kansan eteen, ja kaske hanelle heidan silmainsa edessa.	
+<div class="versenum">19.</div> Ja aseta hanet papin Eleatsarin ja kaiken kansan eteen, ja kaske hanelle heidan silmainsa edessa.	
 
-20. Ja pane sinun kunniastas hanen paallensa, etta kaikki kansa Israelin lapsista olisivat hanelle kuuliaiset.	
+<div class="versenum">20.</div> Ja pane sinun kunniastas hanen paallensa, etta kaikki kansa Israelin lapsista olisivat hanelle kuuliaiset.	
 
-21. Ja hanen pitaa papin Eleatsarin eteen astuman, hanen pitaa kysyman neuvoa hanen edestansa valkeuden saadylla Herran edessa, ja hanen suunsa jalkeen pitaa hanen kayman ulos ja sisalle, seka hanen etta Israelin lasten hanen kanssansa, ja koko seurakunnan.	
+<div class="versenum">21.</div> Ja hanen pitaa papin Eleatsarin eteen astuman, hanen pitaa kysyman neuvoa hanen edestansa valkeuden saadylla Herran edessa, ja hanen suunsa jalkeen pitaa hanen kayman ulos ja sisalle, seka hanen etta Israelin lasten hanen kanssansa, ja koko seurakunnan.	
 
-22. Ja Moses teki niinkuin Herra hanelle kaski, ja otti Josuan ja asetti hanen papin Eleatsarin ja koko seurakunnan eteen,	
+<div class="versenum">22.</div> Ja Moses teki niinkuin Herra hanelle kaski, ja otti Josuan ja asetti hanen papin Eleatsarin ja koko seurakunnan eteen,	
 
-23. Ja laski katensa hanen paallensa, ja kaski hanelle, niinkuin Herra oli Mosekselle puhunut.	
+<div class="versenum">23.</div> Ja laski katensa hanen paallensa, ja kaski hanelle, niinkuin Herra oli Mosekselle puhunut.	
 

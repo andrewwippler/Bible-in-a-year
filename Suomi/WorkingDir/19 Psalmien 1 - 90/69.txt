@@ -1,74 +1,74 @@
 Psalmien 69	
 	
-1. Davidin Psalmi kukkasista, edellaveisaajalle. (H69:2) Jumala,auta minua; silla vedet kayvat hamaan minun sieluuni asti.	
+<div class="versenum">1.</div> Davidin Psalmi kukkasista, edellaveisaajalle. (H69:2) Jumala,auta minua; silla vedet kayvat hamaan minun sieluuni asti.	
 
-2. Mina vajoon syvaan mutaan, jossa ei pohjaa ole: mina olen tullut syviin vesiin, ja virta upottaa minun.	
+<div class="versenum">2.</div> Mina vajoon syvaan mutaan, jossa ei pohjaa ole: mina olen tullut syviin vesiin, ja virta upottaa minun.	
 
-3. Mina vasyn huutamisesta: minun kurkkuni kuivettuu: minun nakyni vaipuu, toivoissani minun Jumalani paalle.	
+<div class="versenum">3.</div> Mina vasyn huutamisesta: minun kurkkuni kuivettuu: minun nakyni vaipuu, toivoissani minun Jumalani paalle.	
 
-4. Niita on enempi kuin paassani hiuksia, jotka ilman syyta minua vihaavat, jotka syyttomasti minun viholliseni ovat, ja minua hukuttavat, ovat vakevat: niita taytyy minun maksaa, joita en mina ryovannyt.	
+<div class="versenum">4.</div> Niita on enempi kuin paassani hiuksia, jotka ilman syyta minua vihaavat, jotka syyttomasti minun viholliseni ovat, ja minua hukuttavat, ovat vakevat: niita taytyy minun maksaa, joita en mina ryovannyt.	
 
-5. Jumala, sinapa tiedat minun tyhmyyteni, ja minun rikokseni ei ole sinulta salatut.	
+<div class="versenum">5.</div> Jumala, sinapa tiedat minun tyhmyyteni, ja minun rikokseni ei ole sinulta salatut.	
 
-6. Ala salli heita hapiaan tulla minun tahteni, jotka sinua odottavat, Herra, Herra Zebaot: ala anna heita havaista minun tahteni, jotka sinua etsivat, Israelin Jumala.	
+<div class="versenum">6.</div> Ala salli heita hapiaan tulla minun tahteni, jotka sinua odottavat, Herra, Herra Zebaot: ala anna heita havaista minun tahteni, jotka sinua etsivat, Israelin Jumala.	
 
-7. Silla sinun tahtes mina pilkkaa karsin; minun kasvoni ovat taynna hapiaa.	
+<div class="versenum">7.</div> Silla sinun tahtes mina pilkkaa karsin; minun kasvoni ovat taynna hapiaa.	
 
-8. Mina olen muukalaiseksi veljilleni tullut, ja oudoksi aitini lapsille.	
+<div class="versenum">8.</div> Mina olen muukalaiseksi veljilleni tullut, ja oudoksi aitini lapsille.	
 
-9. Silla sinun huonees kiivaus syo minua: ja heidan pilkkansa, jotka sinua pilkkasivat, lankesi minun paalleni.	
+<div class="versenum">9.</div> Silla sinun huonees kiivaus syo minua: ja heidan pilkkansa, jotka sinua pilkkasivat, lankesi minun paalleni.	
 
-10. Mina itkin ja paastosin hartaasti, ja mina pilkattiin paalliseksi.	
+<div class="versenum">10.</div> Mina itkin ja paastosin hartaasti, ja mina pilkattiin paalliseksi.	
 
-11. Ja mina puin sakin ylleni, ja olin heille sananlaskuksi.	
+<div class="versenum">11.</div> Ja mina puin sakin ylleni, ja olin heille sananlaskuksi.	
 
-12. Jotka portissa istuvat, ne minusta jaarittelevat, ja juodessansa he minusta lauleskelevat.	
+<div class="versenum">12.</div> Jotka portissa istuvat, ne minusta jaarittelevat, ja juodessansa he minusta lauleskelevat.	
 
-13. Mutta mina rukoilen sinua, Herra, otollisella ajalla, Jumala, sinun suuren laupiutes puolesta: kuule minua sinun autuutes totuuden tahden.	
+<div class="versenum">13.</div> Mutta mina rukoilen sinua, Herra, otollisella ajalla, Jumala, sinun suuren laupiutes puolesta: kuule minua sinun autuutes totuuden tahden.	
 
-14. Pelasta minua loasta, etten mina vajoaisi; etta mina pelastettaisiin vihollisistani ja syvista vesista.	
+<div class="versenum">14.</div> Pelasta minua loasta, etten mina vajoaisi; etta mina pelastettaisiin vihollisistani ja syvista vesista.	
 
-15. Ettei vuo minua upottaisi ja syvyydet minua lainoaisi, eika kaivon suu suljettaisi minun paalleni.	
+<div class="versenum">15.</div> Ettei vuo minua upottaisi ja syvyydet minua lainoaisi, eika kaivon suu suljettaisi minun paalleni.	
 
-16. Kuule minua, Herra; silla sinun laupiutes on hyva: kaanna sinuas minun puoleeni, sinun suuren laupiutes tahden.	
+<div class="versenum">16.</div> Kuule minua, Herra; silla sinun laupiutes on hyva: kaanna sinuas minun puoleeni, sinun suuren laupiutes tahden.	
 
-17. Ja ala peita kasvojas palvelialtas; silla mina ahdistetaan: kuultele minua nopiasti.	
+<div class="versenum">17.</div> Ja ala peita kasvojas palvelialtas; silla mina ahdistetaan: kuultele minua nopiasti.	
 
-18. Lahene minun sieluani, ja lunasta hanta: minun vihollisteni tahden pelasta minua.	
+<div class="versenum">18.</div> Lahene minun sieluani, ja lunasta hanta: minun vihollisteni tahden pelasta minua.	
 
-19. Sinapa tiedat pilkkani, hapiani ja havaistykseni: kaikki minun viholliseni ovat edessas.	
+<div class="versenum">19.</div> Sinapa tiedat pilkkani, hapiani ja havaistykseni: kaikki minun viholliseni ovat edessas.	
 
-20. Pilkka sarkee minun sydameni ja vaivaa minua: mina odotan, jos joku armahtais, ja ei ole kenkaan, ja lohduttajia, vaan en ketaan loyda.	
+<div class="versenum">20.</div> Pilkka sarkee minun sydameni ja vaivaa minua: mina odotan, jos joku armahtais, ja ei ole kenkaan, ja lohduttajia, vaan en ketaan loyda.	
 
-21. Ja he antoivat minulle sappea syodakseni, ja etikkaa juodakseni minun janossani.	
+<div class="versenum">21.</div> Ja he antoivat minulle sappea syodakseni, ja etikkaa juodakseni minun janossani.	
 
-22. Heidan poytansa olkoon heille paulaksi, seka kostoksi etta lankeemiseksi.	
+<div class="versenum">22.</div> Heidan poytansa olkoon heille paulaksi, seka kostoksi etta lankeemiseksi.	
 
-23. Tulkoon heidan silmansa pimiaksi, ettei he nakisi, ja salli heidan lanteensa aina horjua.	
+<div class="versenum">23.</div> Tulkoon heidan silmansa pimiaksi, ettei he nakisi, ja salli heidan lanteensa aina horjua.	
 
-24. Vuodata narkastykses heidan paallensa, ja hirmuinen vihas kasittakoon heita,	
+<div class="versenum">24.</div> Vuodata narkastykses heidan paallensa, ja hirmuinen vihas kasittakoon heita,	
 
-25. Olkoon heidan huoneensa kylmilla; ja ei kenkaan olko, joka heidan majassansa asuis.	
+<div class="versenum">25.</div> Olkoon heidan huoneensa kylmilla; ja ei kenkaan olko, joka heidan majassansa asuis.	
 
-26. Silla he vainoovat sita, jota lyonyt olet, ja juttelevat niiden kipua, joita haavoittanut olet.	
+<div class="versenum">26.</div> Silla he vainoovat sita, jota lyonyt olet, ja juttelevat niiden kipua, joita haavoittanut olet.	
 
-27. Salli heita langeta synnista syntiin, ettei he tulisi sinun vanhurskautees.	
+<div class="versenum">27.</div> Salli heita langeta synnista syntiin, ettei he tulisi sinun vanhurskautees.	
 
-28. Pyyhi heita elavain kirjasta, ettei he kirjoitettaisi vanhurskasten kanssa.	
+<div class="versenum">28.</div> Pyyhi heita elavain kirjasta, ettei he kirjoitettaisi vanhurskasten kanssa.	
 
-29. Mutta mina olen raadollinen ja murheellinen: Jumala, sinun autuutes suojelkoon minua!	
+<div class="versenum">29.</div> Mutta mina olen raadollinen ja murheellinen: Jumala, sinun autuutes suojelkoon minua!	
 
-30. Mina kiitan Jumalan nimea veisuulla, ja suuresti ylistan hanta kiitoksella.	
+<div class="versenum">30.</div> Mina kiitan Jumalan nimea veisuulla, ja suuresti ylistan hanta kiitoksella.	
 
-31. Se kelpaa paremmin Herralle kuin harka taikka mulli, jolla ovat sarvet ja sorkat.	
+<div class="versenum">31.</div> Se kelpaa paremmin Herralle kuin harka taikka mulli, jolla ovat sarvet ja sorkat.	
 
-32. Raadolliset nakevat sen ja iloitsevat, ja jotka Jumalaa etsivat, heidan sydamensa pitaa elaman.	
+<div class="versenum">32.</div> Raadolliset nakevat sen ja iloitsevat, ja jotka Jumalaa etsivat, heidan sydamensa pitaa elaman.	
 
-33. Silla Herra kuulee koyhia, ja ei han vankiansa katso ylon.	
+<div class="versenum">33.</div> Silla Herra kuulee koyhia, ja ei han vankiansa katso ylon.	
 
-34. Kiittakaan hanta taivaat ja maa, meri, ja kaikki kuin niissa liikkuvat.	
+<div class="versenum">34.</div> Kiittakaan hanta taivaat ja maa, meri, ja kaikki kuin niissa liikkuvat.	
 
-35. Silla Jumala auttaa Zionia ja rakentaa Juudan kaupungit, etta siella asutaan, ja se perinnolla omistetaan.	
+<div class="versenum">35.</div> Silla Jumala auttaa Zionia ja rakentaa Juudan kaupungit, etta siella asutaan, ja se perinnolla omistetaan.	
 
-36. Ja hanen palveliainsa siemen sen perii: ja ne, jotka hanen nimeansa rakastavat, pitaa asuman siina.	
+<div class="versenum">36.</div> Ja hanen palveliainsa siemen sen perii: ja ne, jotka hanen nimeansa rakastavat, pitaa asuman siina.	
 

@@ -1,26 +1,26 @@
 Psalmien 62	
 	
-1. Davidin Psalmi Jedutunin edesta, edellaveisaajalle. (H62:2) Minun sieluni odottaa ainoastaan Jumalaa, joka minua auttaa.	
+<div class="versenum">1.</div> Davidin Psalmi Jedutunin edesta, edellaveisaajalle. (H62:2) Minun sieluni odottaa ainoastaan Jumalaa, joka minua auttaa.	
 
-2. Han ainoastaan on kallioni, minun autuuteni, minun varjelukseni, etten mina kovin kompastuisi.	
+<div class="versenum">2.</div> Han ainoastaan on kallioni, minun autuuteni, minun varjelukseni, etten mina kovin kompastuisi.	
 
-3. Kuinka kauvan te yhta vaijytte, etta te kaikin hanta surmaatte, niinkuin kallistuvaa seinaa ja raukeevaa muuria?	
+<div class="versenum">3.</div> Kuinka kauvan te yhta vaijytte, etta te kaikin hanta surmaatte, niinkuin kallistuvaa seinaa ja raukeevaa muuria?	
 
-4. Kuitenkin he neuvoa pitavat, kukistaaksensa hanta korkeudestansa; he rakastavat valhetta: suullansa he siunaavat, ja sydamessansa kiroilevat, Sela!	
+<div class="versenum">4.</div> Kuitenkin he neuvoa pitavat, kukistaaksensa hanta korkeudestansa; he rakastavat valhetta: suullansa he siunaavat, ja sydamessansa kiroilevat, Sela!	
 
-5. Minun sieluni odottaa ainoastaan Jumalaa; silla han on minun toivoni.	
+<div class="versenum">5.</div> Minun sieluni odottaa ainoastaan Jumalaa; silla han on minun toivoni.	
 
-6. Han ainoastaan on kallioni ja autuuteni, han varjelukseni, en mina kaadu.	
+<div class="versenum">6.</div> Han ainoastaan on kallioni ja autuuteni, han varjelukseni, en mina kaadu.	
 
-7. Jumalassa on minun autuuteni, minun kunniani, minun vakevyyteni kallio, minun turvani on Jumalassa.	
+<div class="versenum">7.</div> Jumalassa on minun autuuteni, minun kunniani, minun vakevyyteni kallio, minun turvani on Jumalassa.	
 
-8. Te kansat, toivokaat haneen joka aika, vuodattakaat teidan sydamenne hanen eteensa: Jumala on meidan turvamme, Sela!	
+<div class="versenum">8.</div> Te kansat, toivokaat haneen joka aika, vuodattakaat teidan sydamenne hanen eteensa: Jumala on meidan turvamme, Sela!	
 
-9. Mutta ihmiset ovat kuitenkin turhat, voimalliset myos puuttuvat: he painavat vahemman kuin ei mitaan, niin monta kuin heita on.	
+<div class="versenum">9.</div> Mutta ihmiset ovat kuitenkin turhat, voimalliset myos puuttuvat: he painavat vahemman kuin ei mitaan, niin monta kuin heita on.	
 
-10. Alkaat luottako vaaryyteen ja vakivaltaan; alkaat turvatko niihin, mitka ei mitaan ole; jos rikkaudet teidan tykonne lankeevat, niin alkaat panko sydantanne niiden paalle.	
+<div class="versenum">10.</div> Alkaat luottako vaaryyteen ja vakivaltaan; alkaat turvatko niihin, mitka ei mitaan ole; jos rikkaudet teidan tykonne lankeevat, niin alkaat panko sydantanne niiden paalle.	
 
-11. Jumala on kerran puhunut, sen olen mina kahdesti kuullut: etta Jumala (yksinansa) vakeva on.	
+<div class="versenum">11.</div> Jumala on kerran puhunut, sen olen mina kahdesti kuullut: etta Jumala (yksinansa) vakeva on.	
 
-12. Ja sina Jumala olet armollinen; silla sina maksat jokaiselle tyonsa jalkeen.	
+<div class="versenum">12.</div> Ja sina Jumala olet armollinen; silla sina maksat jokaiselle tyonsa jalkeen.	
 

@@ -1,46 +1,46 @@
 Esran 6	
 	
-1. Niin Darius kuningas kaski etsia kantselissa, kuninkaan tavarahuoneessa Babelissa.	
+<div class="versenum">1.</div> Niin Darius kuningas kaski etsia kantselissa, kuninkaan tavarahuoneessa Babelissa.	
 
-2. Silloin loydettiin Ahmetan linnasta, joka on Median maakunnassa, kirja, jossa oli nain muistoksi kirjoitettu:	
+<div class="versenum">2.</div> Silloin loydettiin Ahmetan linnasta, joka on Median maakunnassa, kirja, jossa oli nain muistoksi kirjoitettu:	
 
-3. Ensimaisena kuningas Koreksen vuonna kaski kuningas Kores rakentaa Jumalan huoneen Jerusalemissa paikaksi, jossa uhrataan, ja laskea perustuksen, kuusikymmenta kyynaraa korkiaksi ja kuusikymmenta kyynaraa leviaksi;	
+<div class="versenum">3.</div> Ensimaisena kuningas Koreksen vuonna kaski kuningas Kores rakentaa Jumalan huoneen Jerusalemissa paikaksi, jossa uhrataan, ja laskea perustuksen, kuusikymmenta kyynaraa korkiaksi ja kuusikymmenta kyynaraa leviaksi;	
 
-4. Kolme seinaa vuolluista kivista ja yksi seina uusista puista; ja etta kuninkaan huoneesta piti annettaman ylospitamys;	
+<div class="versenum">4.</div> Kolme seinaa vuolluista kivista ja yksi seina uusista puista; ja etta kuninkaan huoneesta piti annettaman ylospitamys;	
 
-5. Piti myos Jumalan huoneen hopiaiset ja kultaiset astiat, jotka Nebukadnetsar oli ottanut Jerusalemin kirkosta ja vienyt Babeliin, annettaman ja vietaman jalleen templiin, Jerusalemiin, pantavaksi siallensa Jumalan huoneesen.	
+<div class="versenum">5.</div> Piti myos Jumalan huoneen hopiaiset ja kultaiset astiat, jotka Nebukadnetsar oli ottanut Jerusalemin kirkosta ja vienyt Babeliin, annettaman ja vietaman jalleen templiin, Jerusalemiin, pantavaksi siallensa Jumalan huoneesen.	
 
-6. Niin olkaat nyt erinanne heista, sina Tatnai maaherra silla puolella virtaa, ja sina Setarbosnai, ja teidan kanssaveljenne Apharsakista, te jotka olette silla puolella virtaa.	
+<div class="versenum">6.</div> Niin olkaat nyt erinanne heista, sina Tatnai maaherra silla puolella virtaa, ja sina Setarbosnai, ja teidan kanssaveljenne Apharsakista, te jotka olette silla puolella virtaa.	
 
-7. Antakaat heidan tehda tyota Jumalan huoneessa, etta Juudalaisten paamies ja heidan vanhimpansa saisivat Jumalan huoneen rakennetuksi entiselle paikallensa.	
+<div class="versenum">7.</div> Antakaat heidan tehda tyota Jumalan huoneessa, etta Juudalaisten paamies ja heidan vanhimpansa saisivat Jumalan huoneen rakennetuksi entiselle paikallensa.	
 
-8. On myos kasketty minulta, mita Juudan vanhimmille pitaa annettaman, etta he rakentaisivat taman Jumalan huoneen, nimittain: etta sille vaelle pitaa juuri kiiruusti ylospitamys annettaman kuninkaan verokalusta silta puolelta virtaa, ja ei heita estettaman.	
+<div class="versenum">8.</div> On myos kasketty minulta, mita Juudan vanhimmille pitaa annettaman, etta he rakentaisivat taman Jumalan huoneen, nimittain: etta sille vaelle pitaa juuri kiiruusti ylospitamys annettaman kuninkaan verokalusta silta puolelta virtaa, ja ei heita estettaman.	
 
-9. Ja mita tarvitaan mullia, ja oinaita, ja karitsoita uhriksi taivaan Jumalalle, nisuja, suoloja, viinaa ja oljya, Jerusalemin pappein tavan jalkeen, niin pitaa heille annettaman joka paiva ilman yhdettakaan erehdykseta.	
+<div class="versenum">9.</div> Ja mita tarvitaan mullia, ja oinaita, ja karitsoita uhriksi taivaan Jumalalle, nisuja, suoloja, viinaa ja oljya, Jerusalemin pappein tavan jalkeen, niin pitaa heille annettaman joka paiva ilman yhdettakaan erehdykseta.	
 
-10. Etta he uhraisivat taivaan Jumalalle makiaa hajua, ja rukoilisivat kuninkaan ja hanen lastensa elaman edesta.	
+<div class="versenum">10.</div> Etta he uhraisivat taivaan Jumalalle makiaa hajua, ja rukoilisivat kuninkaan ja hanen lastensa elaman edesta.	
 
-11. Tama kasky on minulta annettu, etta kuka ikana namat sanat muuttaa, hanen huoneestansa pitaa yksi hirsi revaistaman, joka pitaa nostettaman ylos, ja han siihen ripustettaman, ja hanen huoneensa pitaa lokalajaksi tehtaman sen tyon tahden.	
+<div class="versenum">11.</div> Tama kasky on minulta annettu, etta kuka ikana namat sanat muuttaa, hanen huoneestansa pitaa yksi hirsi revaistaman, joka pitaa nostettaman ylos, ja han siihen ripustettaman, ja hanen huoneensa pitaa lokalajaksi tehtaman sen tyon tahden.	
 
-12. Jumala, joka on nimensa pannut asumaan siina, tappakoon kaikki ne kuninkaat ja kansat, jotka ojentavat katensa muuttamaan taikka sarkemaan tata Jumalan huonetta, joka on Jerusalemissa. Mina Darius olen taman kaskyn antanut, ja se pitaa juuri nopiasti tehtaman.	
+<div class="versenum">12.</div> Jumala, joka on nimensa pannut asumaan siina, tappakoon kaikki ne kuninkaat ja kansat, jotka ojentavat katensa muuttamaan taikka sarkemaan tata Jumalan huonetta, joka on Jerusalemissa. Mina Darius olen taman kaskyn antanut, ja se pitaa juuri nopiasti tehtaman.	
 
-13. Silloin Tatnai maaherra silla puolella virtaa, ja Setarbosnai ja heidan kanssaveljensa, joiden tyko kuningas Darius oli lahettanyt, tekivat sen nopiasti.	
+<div class="versenum">13.</div> Silloin Tatnai maaherra silla puolella virtaa, ja Setarbosnai ja heidan kanssaveljensa, joiden tyko kuningas Darius oli lahettanyt, tekivat sen nopiasti.	
 
-14. Ja Juudalaisten vanhimmat rakensivat, ja se menestyi, Haggain prophetan ja Sakarian Iddon pojan ennustuksen jalkeen; ja he rakensivat ja paattivat sen Israelin Jumalan kaskyn jalkeen; ja Koreksen, Dariuksen ja Artahsastan Persian kuninkain kaskyn jalkeen.	
+<div class="versenum">14.</div> Ja Juudalaisten vanhimmat rakensivat, ja se menestyi, Haggain prophetan ja Sakarian Iddon pojan ennustuksen jalkeen; ja he rakensivat ja paattivat sen Israelin Jumalan kaskyn jalkeen; ja Koreksen, Dariuksen ja Artahsastan Persian kuninkain kaskyn jalkeen.	
 
-15. Ja huone paatettiin taydellisesti kolmanteen paivaan asti Adarin kuuta, kuudentena kuningas Dariuksen valtakunnan vuonna.	
+<div class="versenum">15.</div> Ja huone paatettiin taydellisesti kolmanteen paivaan asti Adarin kuuta, kuudentena kuningas Dariuksen valtakunnan vuonna.	
 
-16. Ja Israelin lapset, papit, Levilaiset ja muut, jotka vankeudesta tulleet olivat, pitivat ilolla Jumalan huoneen vihkimista,	
+<div class="versenum">16.</div> Ja Israelin lapset, papit, Levilaiset ja muut, jotka vankeudesta tulleet olivat, pitivat ilolla Jumalan huoneen vihkimista,	
 
-17. Ja uhrasivat tassa Jumalan huoneen vihkimyksessa sata mullia, kaksisataa oinasta, neljasataa karitsaa ja kaksitoistakymmenta kaurista, koko Israelin syntein edesta, Israelin sukukuntain luvun jalkeen,	
+<div class="versenum">17.</div> Ja uhrasivat tassa Jumalan huoneen vihkimyksessa sata mullia, kaksisataa oinasta, neljasataa karitsaa ja kaksitoistakymmenta kaurista, koko Israelin syntein edesta, Israelin sukukuntain luvun jalkeen,	
 
-18. Ja asettivat papit vuoroonsa ja Levilaiset jarjestykseensa, palvelemaan Jumalaa, joka on Jerusalemissa, niinkuin Moseksen kirjassa on kirjoitettu.	
+<div class="versenum">18.</div> Ja asettivat papit vuoroonsa ja Levilaiset jarjestykseensa, palvelemaan Jumalaa, joka on Jerusalemissa, niinkuin Moseksen kirjassa on kirjoitettu.	
 
-19. Ja ne, jotka vankeudesta olivat tulleet, pitivat paasiaista neljantena paivana toistakymmenta ensimaisesta kuukaudesta.	
+<div class="versenum">19.</div> Ja ne, jotka vankeudesta olivat tulleet, pitivat paasiaista neljantena paivana toistakymmenta ensimaisesta kuukaudesta.	
 
-20. Silla papit ja Levilaiset olivat puhdistaneet itsensa, niin etta he kaikki olivat puhtaat niinkuin yksi mies; ja he teurastivat paasiaislampaan kaikkein vankeuden lasten edesta, ja pappein heidan veljeinsa edesta ja itse edestansa.	
+<div class="versenum">20.</div> Silla papit ja Levilaiset olivat puhdistaneet itsensa, niin etta he kaikki olivat puhtaat niinkuin yksi mies; ja he teurastivat paasiaislampaan kaikkein vankeuden lasten edesta, ja pappein heidan veljeinsa edesta ja itse edestansa.	
 
-21. Ja Israelin lapset jotka vankeudesta palanneet olivat, soivat, ja kaikki, jotka itsensa olivat eroittaneet maan pakanain saastaisuudesta heidan tykonsa, etsimaan Herraa Israelin Jumalaa,	
+<div class="versenum">21.</div> Ja Israelin lapset jotka vankeudesta palanneet olivat, soivat, ja kaikki, jotka itsensa olivat eroittaneet maan pakanain saastaisuudesta heidan tykonsa, etsimaan Herraa Israelin Jumalaa,	
 
-22. Ja pitivat happamattoman leivan juhlaa ilolla seitseman paivaa; silla Herra oli heidat iloittanut, ja kaantanyt Assurin kuninkaan sydamen heidan puoleensa, etta he tulivat vahvistetuksi Jumalan huoneen tyossa, joka on Israelin Jumala.	
+<div class="versenum">22.</div> Ja pitivat happamattoman leivan juhlaa ilolla seitseman paivaa; silla Herra oli heidat iloittanut, ja kaantanyt Assurin kuninkaan sydamen heidan puoleensa, etta he tulivat vahvistetuksi Jumalan huoneen tyossa, joka on Israelin Jumala.	
 

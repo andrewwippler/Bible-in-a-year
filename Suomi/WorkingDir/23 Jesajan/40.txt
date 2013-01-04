@@ -1,64 +1,64 @@
 Jesajan 40	
 	
-1. Lohduttakaat, lohduttakaat minun kansaani, sanoo teidan Jumalanne.	
+<div class="versenum">1.</div> Lohduttakaat, lohduttakaat minun kansaani, sanoo teidan Jumalanne.	
 
-2. Puhukaat suloisesti Jerusalemin kanssa, ja saarnatkaat hanelle, etta hanen sotimisensa on taytetty; silla hanen rikoksensa on annettu anteeksi, etta han on saanut kaksinkertaisesti Herran kadesta, kaikkein synteinsa tahden.	
+<div class="versenum">2.</div> Puhukaat suloisesti Jerusalemin kanssa, ja saarnatkaat hanelle, etta hanen sotimisensa on taytetty; silla hanen rikoksensa on annettu anteeksi, etta han on saanut kaksinkertaisesti Herran kadesta, kaikkein synteinsa tahden.	
 
-3. Huutavaisen aani on korvessa: valmistakaat Herran tieta, tehkaat tasaiset polut eramaassa meidan Jumalallemme.	
+<div class="versenum">3.</div> Huutavaisen aani on korvessa: valmistakaat Herran tieta, tehkaat tasaiset polut eramaassa meidan Jumalallemme.	
 
-4. Kaikki laaksot pitaa korotettaman, ja kaikki vuoret ja kukkulat pitaa alennettaman, ja mita on tasoittamatta, pitaa tasattaman ja koliat silitettaman.	
+<div class="versenum">4.</div> Kaikki laaksot pitaa korotettaman, ja kaikki vuoret ja kukkulat pitaa alennettaman, ja mita on tasoittamatta, pitaa tasattaman ja koliat silitettaman.	
 
-5. Silla Herran kunnia ilmoitetaan: ja kaikki liha on ynna nakeva Herran suun puhuvan.	
+<div class="versenum">5.</div> Silla Herran kunnia ilmoitetaan: ja kaikki liha on ynna nakeva Herran suun puhuvan.	
 
-6. Aani sanoo: saarnaa. Ja han sanoi: Mita minun pitaa saarnaaman? Kaikki liha on ruoho, ja kaikki hanen hyvyytensa niinkuin kedon kukkanen.	
+<div class="versenum">6.</div> Aani sanoo: saarnaa. Ja han sanoi: Mita minun pitaa saarnaaman? Kaikki liha on ruoho, ja kaikki hanen hyvyytensa niinkuin kedon kukkanen.	
 
-7. Ruoho kuivuu pois ja kukkanen lakastuu, silla Herra puhalsi siihen. Kansa tosin on ruoho.	
+<div class="versenum">7.</div> Ruoho kuivuu pois ja kukkanen lakastuu, silla Herra puhalsi siihen. Kansa tosin on ruoho.	
 
-8. Ruoho kuivettuu ja kukkanen lakastuu; mutta meidan Jumalamme sana pysyy ijankaikkisesti.	
+<div class="versenum">8.</div> Ruoho kuivettuu ja kukkanen lakastuu; mutta meidan Jumalamme sana pysyy ijankaikkisesti.	
 
-9. Zion, sina suloinen saarnaaja, astu korkialle vuorelle; Jerusalem, sina suloinen saarnaaja, korota aanes vakevasti: korota ja ala pelkaa; sano Juudan kaupungeille: katso, teidan Jumalanne.	
+<div class="versenum">9.</div> Zion, sina suloinen saarnaaja, astu korkialle vuorelle; Jerusalem, sina suloinen saarnaaja, korota aanes vakevasti: korota ja ala pelkaa; sano Juudan kaupungeille: katso, teidan Jumalanne.	
 
-10. Silla katso, Herra, Herra tulee vakevyydessa, ja hanen kasivartensa on hallitseva: katso, hanen palkkansa on hanen myotansa, ja hanen tekonsa on hanen edessansa,	
+<div class="versenum">10.</div> Silla katso, Herra, Herra tulee vakevyydessa, ja hanen kasivartensa on hallitseva: katso, hanen palkkansa on hanen myotansa, ja hanen tekonsa on hanen edessansa,	
 
-11. Niinkuin paimen on han kaitseva laumaansa, kokoo karitsat syliinsa ja kantaa helmassansa: tiineet lampaat han johdattaa.	
+<div class="versenum">11.</div> Niinkuin paimen on han kaitseva laumaansa, kokoo karitsat syliinsa ja kantaa helmassansa: tiineet lampaat han johdattaa.	
 
-12. Kuka on vedet pivollansa mitannut, ja kasittanyt vaaksallansa taivaat? ja maan tomun sulkenut kolmannekseen? ja vuoret puntarilla punninnut, ja kukkulat vaalla?	
+<div class="versenum">12.</div> Kuka on vedet pivollansa mitannut, ja kasittanyt vaaksallansa taivaat? ja maan tomun sulkenut kolmannekseen? ja vuoret puntarilla punninnut, ja kukkulat vaalla?	
 
-13. Kuka on Herran henkea opettanut? eli kuka on hanen neuvonantajansa ollut?	
+<div class="versenum">13.</div> Kuka on Herran henkea opettanut? eli kuka on hanen neuvonantajansa ollut?	
 
-14. Kenelta han neuvoa kysyy, joka hanelle ymmarrysta antais, ja opettais hanelle oikeuden tien, ja antais hanelle tiedon, ja opetais hanelle ymmarryksen tien?	
+<div class="versenum">14.</div> Kenelta han neuvoa kysyy, joka hanelle ymmarrysta antais, ja opettais hanelle oikeuden tien, ja antais hanelle tiedon, ja opetais hanelle ymmarryksen tien?	
 
-15. Katso, pakanat ovat niinkuin pisara, joka jaa ampariin, ja niinkuin rahtu, joka jaa vaakaan; katso, luodot han kuljettaa niinkuin piskuisen tomun.	
+<div class="versenum">15.</div> Katso, pakanat ovat niinkuin pisara, joka jaa ampariin, ja niinkuin rahtu, joka jaa vaakaan; katso, luodot han kuljettaa niinkuin piskuisen tomun.	
 
-16. Libanon olis sangen vaha tuleksi; ja hanen elaimensa ylen harvat polttouhriksi.	
+<div class="versenum">16.</div> Libanon olis sangen vaha tuleksi; ja hanen elaimensa ylen harvat polttouhriksi.	
 
-17. Kaikki pakanat ovat niinkuin ei mitaan hanen edessansa, ja juuri tyhjan ja turhan edesta pidetaan hanelta.	
+<div class="versenum">17.</div> Kaikki pakanat ovat niinkuin ei mitaan hanen edessansa, ja juuri tyhjan ja turhan edesta pidetaan hanelta.	
 
-18. Keneenka te tahdotte verrata Jumalaa? eli mita kuvaa te tahdotte hanelle tehda?	
+<div class="versenum">18.</div> Keneenka te tahdotte verrata Jumalaa? eli mita kuvaa te tahdotte hanelle tehda?	
 
-19. Seppa valaa kuvan, ja hopiaseppa kultaa sen ja tekee siihen hopiakaadyt.	
+<div class="versenum">19.</div> Seppa valaa kuvan, ja hopiaseppa kultaa sen ja tekee siihen hopiakaadyt.	
 
-20. Niin myos jolla vaha vara on tehda ylennysuhria, han valitsee puun, joka ei matane, ja etsii siihen taitavan tekian valmistamaan kuvaa, joka on kestavainen.	
+<div class="versenum">20.</div> Niin myos jolla vaha vara on tehda ylennysuhria, han valitsee puun, joka ei matane, ja etsii siihen taitavan tekian valmistamaan kuvaa, joka on kestavainen.	
 
-21. Etteko te tieda? etteko te kuule? eiko tama ole ennen teille ilmoitettu? etteko te ole sita ymmartaneet maan alusta?	
+<div class="versenum">21.</div> Etteko te tieda? etteko te kuule? eiko tama ole ennen teille ilmoitettu? etteko te ole sita ymmartaneet maan alusta?	
 
-22. Han istuu maan piirin paalla, ja ne, jotka sen paalla asuvat, ovat niinkuin heinasirkat; joka taivaan venyttaa niinkuin ohukaisen nahan, ja levittaa sen niinkuin teltan, asuttavaksi.	
+<div class="versenum">22.</div> Han istuu maan piirin paalla, ja ne, jotka sen paalla asuvat, ovat niinkuin heinasirkat; joka taivaan venyttaa niinkuin ohukaisen nahan, ja levittaa sen niinkuin teltan, asuttavaksi.	
 
-23. Joka paaruhtinaat tyhjaksi tekee, ja havittaa tuomarit maan paalta,	
+<div class="versenum">23.</div> Joka paaruhtinaat tyhjaksi tekee, ja havittaa tuomarit maan paalta,	
 
-24. Niinkuin ei he olisi istutetut, eika kylvetyt, eli heidan kantonsa juurtuneet maahan; niin etta he kuivettuvat, kuin tuuli heidan paallensa puhaltaa, ja tuulispaa vie heidat matkaansa niinkuin akanat.	
+<div class="versenum">24.</div> Niinkuin ei he olisi istutetut, eika kylvetyt, eli heidan kantonsa juurtuneet maahan; niin etta he kuivettuvat, kuin tuuli heidan paallensa puhaltaa, ja tuulispaa vie heidat matkaansa niinkuin akanat.	
 
-25. Keneenka te siis minun verrata tahdotte, jonka kaltainen mina olisin? sanoo Pyha.	
+<div class="versenum">25.</div> Keneenka te siis minun verrata tahdotte, jonka kaltainen mina olisin? sanoo Pyha.	
 
-26. Nostakaat silmanne korkeuteen ja katsokaat, kuka ne kappaleet luonut on, ja vie edes heidan joukkonsa luvulla? kutsuu ne kaikki nimeltansa? Hanen varansa ja vakeva voimansa on niin suuri, ettei hanelta mitaan puutu.	
+<div class="versenum">26.</div> Nostakaat silmanne korkeuteen ja katsokaat, kuka ne kappaleet luonut on, ja vie edes heidan joukkonsa luvulla? kutsuu ne kaikki nimeltansa? Hanen varansa ja vakeva voimansa on niin suuri, ettei hanelta mitaan puutu.	
 
-27. Miksis siis sina Jakob sanot, ja sina Israel puhut: minun tieni on Herralta salattu, ja minun oikeuteni kay minun Jumalani ohitse?	
+<div class="versenum">27.</div> Miksis siis sina Jakob sanot, ja sina Israel puhut: minun tieni on Herralta salattu, ja minun oikeuteni kay minun Jumalani ohitse?	
 
-28. Etkos tieda? etkos ole kuullut? Herra ijankaikkinen Jumala, joka maan aaret on luonut, ei vasy eika naanny; hanen ymmarryksensa on tutkimatoin.	
+<div class="versenum">28.</div> Etkos tieda? etkos ole kuullut? Herra ijankaikkinen Jumala, joka maan aaret on luonut, ei vasy eika naanny; hanen ymmarryksensa on tutkimatoin.	
 
-29. Han antaa vasyneille voiman, ja vaettomille kylla vakea.	
+<div class="versenum">29.</div> Han antaa vasyneille voiman, ja vaettomille kylla vakea.	
 
-30. Nuorukaiset vasyvat ja naantyvat, ja nuoret miehet perati lankeevat;	
+<div class="versenum">30.</div> Nuorukaiset vasyvat ja naantyvat, ja nuoret miehet perati lankeevat;	
 
-31. Mutta jotka Herraa odottavat, ne saavat uuden voiman, niin etta he menevat siivilla ylos kuin kotkat; etta he juoksevat ja ei naanny, he vaeltavat ja ei vasy.	
+<div class="versenum">31.</div> Mutta jotka Herraa odottavat, ne saavat uuden voiman, niin etta he menevat siivilla ylos kuin kotkat; etta he juoksevat ja ei naanny, he vaeltavat ja ei vasy.	
 

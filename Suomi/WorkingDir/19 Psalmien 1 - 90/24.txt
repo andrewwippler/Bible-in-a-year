@@ -1,22 +1,22 @@
 Psalmien 24	
 	
-1. Davidin Psalmi. Herran on maa, ja kaikki mitka siina ovat, maan piiri ja ne jotka sen paalla asuvat.	
+<div class="versenum">1.</div> Davidin Psalmi. Herran on maa, ja kaikki mitka siina ovat, maan piiri ja ne jotka sen paalla asuvat.	
 
-2. Silla han on perustanut sen merten paalle, ja virtain paalle sen vahvistanut.	
+<div class="versenum">2.</div> Silla han on perustanut sen merten paalle, ja virtain paalle sen vahvistanut.	
 
-3. Kuka astuu Herran vuorelle? ja kuka taitaa seisoa hanen pyhassa siassansa?	
+<div class="versenum">3.</div> Kuka astuu Herran vuorelle? ja kuka taitaa seisoa hanen pyhassa siassansa?	
 
-4. Jolla viattomat kadet ovat ja on puhdas sydamesta, joka ei halaja turhuutta eika vanno vaarin,	
+<div class="versenum">4.</div> Jolla viattomat kadet ovat ja on puhdas sydamesta, joka ei halaja turhuutta eika vanno vaarin,	
 
-5. Se saa siunauksen Herralta, ja vanhurskauden autuutensa Jumalalta.	
+<div class="versenum">5.</div> Se saa siunauksen Herralta, ja vanhurskauden autuutensa Jumalalta.	
 
-6. Tama on se sukukunta, joka hanta etsii, joka kysyy sinun kasvojas, Jakob, Sela!	
+<div class="versenum">6.</div> Tama on se sukukunta, joka hanta etsii, joka kysyy sinun kasvojas, Jakob, Sela!	
 
-7. Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle.	
+<div class="versenum">7.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle.	
 
-8. Kuka on kunnian Kuningas? se on Herra, vakeva ja voimallinen, Herra voimallinen sodassa.	
+<div class="versenum">8.</div> Kuka on kunnian Kuningas? se on Herra, vakeva ja voimallinen, Herra voimallinen sodassa.	
 
-9. Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle!	
+<div class="versenum">9.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle!	
 
-10. Kuka on kunnian Kuningas? se on Herra Zebaot, han on kunnian Kuningas, Sela!	
+<div class="versenum">10.</div> Kuka on kunnian Kuningas? se on Herra Zebaot, han on kunnian Kuningas, Sela!	
 

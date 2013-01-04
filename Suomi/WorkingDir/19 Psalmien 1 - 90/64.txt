@@ -1,22 +1,22 @@
 Psalmien 64	
 	
-1. Davidin Psalmi, edellaveisaajalle. (H64:2) Kuule, Jumala, aantani, minun valituksessani: varjele elamani vihollisen pelvosta.	
+<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H64:2) Kuule, Jumala, aantani, minun valituksessani: varjele elamani vihollisen pelvosta.	
 
-2. Peita minua pahain neuvosta, vaarintekiain metelista,	
+<div class="versenum">2.</div> Peita minua pahain neuvosta, vaarintekiain metelista,	
 
-3. Jotka kielensa hiovat niinkuin miekan: he ampuvat myrkyllisilla sanoillansa niinkuin nuolilla;	
+<div class="versenum">3.</div> Jotka kielensa hiovat niinkuin miekan: he ampuvat myrkyllisilla sanoillansa niinkuin nuolilla;	
 
-4. Etta he salaisesti ampuisivat viatointa: he ampuvat hanta akisti ilman pelvota.	
+<div class="versenum">4.</div> Etta he salaisesti ampuisivat viatointa: he ampuvat hanta akisti ilman pelvota.	
 
-5. He vahvistavat itsensa pahoissa juonissansa ja puhuvat, kuinka he paulat virittaisivat, ja sanovat: kuka taitaa ne nahda?	
+<div class="versenum">5.</div> He vahvistavat itsensa pahoissa juonissansa ja puhuvat, kuinka he paulat virittaisivat, ja sanovat: kuka taitaa ne nahda?	
 
-6. He ajattelevat vaaryytta, ja tayttavat sen minka he ajatelleet ovat; viekkaat ihmiset ja salakavalat sydamet.	
+<div class="versenum">6.</div> He ajattelevat vaaryytta, ja tayttavat sen minka he ajatelleet ovat; viekkaat ihmiset ja salakavalat sydamet.	
 
-7. Mutta Jumala ampuu heita; akillinen nuoli on heidan rangaistuksensa.	
+<div class="versenum">7.</div> Mutta Jumala ampuu heita; akillinen nuoli on heidan rangaistuksensa.	
 
-8. Heidan oma kielensa pitaa heita langettaman, etta jokainen, joka heidat nakee, pakenee heita.	
+<div class="versenum">8.</div> Heidan oma kielensa pitaa heita langettaman, etta jokainen, joka heidat nakee, pakenee heita.	
 
-9. Ja kaikkein ihmisten pitaa pelkaaman, ja Jumalan tyota ilmoittaman, ja hanen tyonsa ymmartaman.	
+<div class="versenum">9.</div> Ja kaikkein ihmisten pitaa pelkaaman, ja Jumalan tyota ilmoittaman, ja hanen tyonsa ymmartaman.	
 
-10. Vanhurskaat pitaa Herrassa riemuitseman, ja haneen uskaltaman; ja kaikki vaat sydamet kerskatkoon siita.	
+<div class="versenum">10.</div> Vanhurskaat pitaa Herrassa riemuitseman, ja haneen uskaltaman; ja kaikki vaat sydamet kerskatkoon siita.	
 

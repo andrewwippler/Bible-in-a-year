@@ -1,40 +1,40 @@
 2 Aikakirja 15	
 	
-1. Ja Jumalan henki tuli Asarian, Obedin pojan paalle.	
+<div class="versenum">1.</div> Ja Jumalan henki tuli Asarian, Obedin pojan paalle.	
 
-2. Ja han meni Asaa vastaan ja sanoi hanelle: kuulkaat minua, Asa, ja koko Juuda ja Benjamin: Herra on teidan kanssanne, etta te olette hanen kanssansa; ja koska te etsitte hanta, antaa han itsensa teilta loyttaa; mutta jos te hylkaatte hanen, niin han hylkaa myos teidat.	
+<div class="versenum">2.</div> Ja han meni Asaa vastaan ja sanoi hanelle: kuulkaat minua, Asa, ja koko Juuda ja Benjamin: Herra on teidan kanssanne, etta te olette hanen kanssansa; ja koska te etsitte hanta, antaa han itsensa teilta loyttaa; mutta jos te hylkaatte hanen, niin han hylkaa myos teidat.	
 
-3. Monta paivaa on Israelissa, ettei yhtaan oikiaa Jumalaa ole, eika yhtaan pappia, joka opettaa, eli yhtaan lakia.	
+<div class="versenum">3.</div> Monta paivaa on Israelissa, ettei yhtaan oikiaa Jumalaa ole, eika yhtaan pappia, joka opettaa, eli yhtaan lakia.	
 
-4. Ja kuin he tuskissansa kaantyvat Herran Israelin Jumalan tyko ja etsivat hanta, niin han loydetaan heilta.	
+<div class="versenum">4.</div> Ja kuin he tuskissansa kaantyvat Herran Israelin Jumalan tyko ja etsivat hanta, niin han loydetaan heilta.	
 
-5. Niina aikoina ei ole rauhaa niilla, jotka kayvat sisalle ja ulos; silla suuri meteli tulee kaikkein maan asuvaisten paalle.	
+<div class="versenum">5.</div> Niina aikoina ei ole rauhaa niilla, jotka kayvat sisalle ja ulos; silla suuri meteli tulee kaikkein maan asuvaisten paalle.	
 
-6. Ja yksi kansa musertaa toisen, ja yksi kaupunki toisen: silla Jumala hammastyttaa heita kaikkinaisilla ahdistuksilla.	
+<div class="versenum">6.</div> Ja yksi kansa musertaa toisen, ja yksi kaupunki toisen: silla Jumala hammastyttaa heita kaikkinaisilla ahdistuksilla.	
 
-7. Mutta te vahvistakaa teitanne, ja alkaat lievittako kasianne; silla teidan tyollanne on hanen palkkansa.	
+<div class="versenum">7.</div> Mutta te vahvistakaa teitanne, ja alkaat lievittako kasianne; silla teidan tyollanne on hanen palkkansa.	
 
-8. Kuin Asa kuuli namat sanat ja prophetan Obedin ennustuksen, vahvistui han, ja otti kauhistukset pois kaikelta Juudan ja Benjaminin maalta, ja kaupungeista, jotka han oli voittanut Ephraimin vuorelta, ja uudisti Herran alttarin, joka Herran esihuoneen edessa oli,	
+<div class="versenum">8.</div> Kuin Asa kuuli namat sanat ja prophetan Obedin ennustuksen, vahvistui han, ja otti kauhistukset pois kaikelta Juudan ja Benjaminin maalta, ja kaupungeista, jotka han oli voittanut Ephraimin vuorelta, ja uudisti Herran alttarin, joka Herran esihuoneen edessa oli,	
 
-9. Ja kokosi kaiken Juudan ja Benjaminin, ja muukalaiset, jotka heidan tykonansa olivat Ephraimista, Manassesta ja Simeonista; silla hanen tykonsa tuli monta Israelista, koska he nakivat Herran hanen Jumalansa olevan hanen kanssansa.	
+<div class="versenum">9.</div> Ja kokosi kaiken Juudan ja Benjaminin, ja muukalaiset, jotka heidan tykonansa olivat Ephraimista, Manassesta ja Simeonista; silla hanen tykonsa tuli monta Israelista, koska he nakivat Herran hanen Jumalansa olevan hanen kanssansa.	
 
-10. Ja he tulivat Jerusalemiin kokoon kolmantena kuukautena, Asan valtakunnan viidentena vuonna toistakymmenta.	
+<div class="versenum">10.</div> Ja he tulivat Jerusalemiin kokoon kolmantena kuukautena, Asan valtakunnan viidentena vuonna toistakymmenta.	
 
-11. Ja he uhrasivat sina paivana Herralle siita saaliista, jonka he kotiansa tuoneet olivat, seitsemansataa harkaa ja seitsemantuhatta lammasta.	
+<div class="versenum">11.</div> Ja he uhrasivat sina paivana Herralle siita saaliista, jonka he kotiansa tuoneet olivat, seitsemansataa harkaa ja seitsemantuhatta lammasta.	
 
-12. Ja He tekivat liiton, etta heidan piti etsiman Herraa, isainsa Jumalaa, kaikesta sydamestansa ja kaikesta sielustansa.	
+<div class="versenum">12.</div> Ja He tekivat liiton, etta heidan piti etsiman Herraa, isainsa Jumalaa, kaikesta sydamestansa ja kaikesta sielustansa.	
 
-13. Ja kuka ikana ei tahtonut etsia Herraa Israelin Jumalaa, hanen piti kuoleman: pienen ja suuren, miehen ja vaimon.	
+<div class="versenum">13.</div> Ja kuka ikana ei tahtonut etsia Herraa Israelin Jumalaa, hanen piti kuoleman: pienen ja suuren, miehen ja vaimon.	
 
-14. Ja he vannoivat Herralle korkealla aanella, ilohuudolla, vaskitorvilla ja basunilla.	
+<div class="versenum">14.</div> Ja he vannoivat Herralle korkealla aanella, ilohuudolla, vaskitorvilla ja basunilla.	
 
-15. Ja koko Juuda iloitsi siita valasta; silla he olivat vannoneet kaikesta sydamestansa, ja etsivat hanta kaikesta tahdostansa, ja han loydettiin heilta; ja Herra antoi heille levon joka paikassa heidan ymparistollansa.	
+<div class="versenum">15.</div> Ja koko Juuda iloitsi siita valasta; silla he olivat vannoneet kaikesta sydamestansa, ja etsivat hanta kaikesta tahdostansa, ja han loydettiin heilta; ja Herra antoi heille levon joka paikassa heidan ymparistollansa.	
 
-16. Ja kuningas Asa pani aitinsa Maekan pois vallan paalta; silla han oli asettanut Mipletsetin metsistoon. Ja Asa havitti hanen Mipletsetinsa, ja loi sen rikki ja poltti Kidronin ojan vieressa.	
+<div class="versenum">16.</div> Ja kuningas Asa pani aitinsa Maekan pois vallan paalta; silla han oli asettanut Mipletsetin metsistoon. Ja Asa havitti hanen Mipletsetinsa, ja loi sen rikki ja poltti Kidronin ojan vieressa.	
 
-17. Mutta korkeudet ei olleet viela pannut pois Israelista; kuitenkin oli Asan sydan vakaa, niinkauvan kuin han eli.	
+<div class="versenum">17.</div> Mutta korkeudet ei olleet viela pannut pois Israelista; kuitenkin oli Asan sydan vakaa, niinkauvan kuin han eli.	
 
-18. Ja han antoi tuoda Jumalan huoneesen, mita hanen isansa pyhittanyt oli ja mita han itse pyhittanyt oli, hopiaa, kultaa ja astioita.	
+<div class="versenum">18.</div> Ja han antoi tuoda Jumalan huoneesen, mita hanen isansa pyhittanyt oli ja mita han itse pyhittanyt oli, hopiaa, kultaa ja astioita.	
 
-19. Ja ei ollut yhtaan sotaa hamaan viidenteenneljattakymmenta Asan valtakunnan ajastaikaan asti.	
+<div class="versenum">19.</div> Ja ei ollut yhtaan sotaa hamaan viidenteenneljattakymmenta Asan valtakunnan ajastaikaan asti.	
 

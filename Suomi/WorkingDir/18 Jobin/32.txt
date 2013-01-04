@@ -1,46 +1,46 @@
 Jobin 32	
 	
-1. Niin ne kolme miesta lakkasivat vastaamasta Jobia, etta han piti itsensa hurskaana.	
+<div class="versenum">1.</div> Niin ne kolme miesta lakkasivat vastaamasta Jobia, etta han piti itsensa hurskaana.	
 
-2. Mutta Elihu Barakelin poika Busista, Ramin sukukunnasta, vihastui Jobin paalle, etta han piti sielunsa hurskaampana Jumalaa,	
+<div class="versenum">2.</div> Mutta Elihu Barakelin poika Busista, Ramin sukukunnasta, vihastui Jobin paalle, etta han piti sielunsa hurskaampana Jumalaa,	
 
-3. Ja narkastyi kolmen ystavansa paalle, ettei he mitaan vastausta loytaneet, ja kuitenkin tuomitsivat Jobin.	
+<div class="versenum">3.</div> Ja narkastyi kolmen ystavansa paalle, ettei he mitaan vastausta loytaneet, ja kuitenkin tuomitsivat Jobin.	
 
-4. Silla Elihu odotti niinkauvan kuin he puhuivat Jobin kanssa, etta he olivat vanhemmat hanta.	
+<div class="versenum">4.</div> Silla Elihu odotti niinkauvan kuin he puhuivat Jobin kanssa, etta he olivat vanhemmat hanta.	
 
-5. Kuin Elihu naki, ettei vastausta ollut kolmen miehen suussa, vihastui han.	
+<div class="versenum">5.</div> Kuin Elihu naki, ettei vastausta ollut kolmen miehen suussa, vihastui han.	
 
-6. Ja nain vastasi Elihu Barakelin poika Busista ja sanoi: mina olen nuori, ja te olette vanhat, sentahden mina hapesin ja pelkasin osoittaa teille minun taitoani.	
+<div class="versenum">6.</div> Ja nain vastasi Elihu Barakelin poika Busista ja sanoi: mina olen nuori, ja te olette vanhat, sentahden mina hapesin ja pelkasin osoittaa teille minun taitoani.	
 
-7. Mina ajattelin: puhukaan vuodet, ja vanhuus osoittakoon taitonsa.	
+<div class="versenum">7.</div> Mina ajattelin: puhukaan vuodet, ja vanhuus osoittakoon taitonsa.	
 
-8. Mutta henki on ihmisessa; ja Kaikkivaltiaan henki tekee hanen ymmartavaiseksi.	
+<div class="versenum">8.</div> Mutta henki on ihmisessa; ja Kaikkivaltiaan henki tekee hanen ymmartavaiseksi.	
 
-9. Suuret ei ole taitavimmat, eika vanhat ymmarra, mika oikeus on.	
+<div class="versenum">9.</div> Suuret ei ole taitavimmat, eika vanhat ymmarra, mika oikeus on.	
 
-10. Sentahden minakin puhun. Kuulkaat minua: minakin osoitan tietoni.	
+<div class="versenum">10.</div> Sentahden minakin puhun. Kuulkaat minua: minakin osoitan tietoni.	
 
-11. Katso, mina olen odottanut teidan puhuissanne, mina olen ottanut teidan ymmarryksestanne vaarin, siihenasti etta te olisitte osanneet oikeuden.	
+<div class="versenum">11.</div> Katso, mina olen odottanut teidan puhuissanne, mina olen ottanut teidan ymmarryksestanne vaarin, siihenasti etta te olisitte osanneet oikeuden.	
 
-12. Ja mina olen ottanut teista vaarin; ja katso, ei ole yksikaan teista Jobia nuhdellen voittanut, eli hanen sanaansa vastata taitanut.	
+<div class="versenum">12.</div> Ja mina olen ottanut teista vaarin; ja katso, ei ole yksikaan teista Jobia nuhdellen voittanut, eli hanen sanaansa vastata taitanut.	
 
-13. Ettette sanoisi: me olemme loytaneet taidon; etta Jumala on hanen hyljannyt, ja ei yksikaan muu.	
+<div class="versenum">13.</div> Ettette sanoisi: me olemme loytaneet taidon; etta Jumala on hanen hyljannyt, ja ei yksikaan muu.	
 
-14. Silla ei han ole minua vastaan puhunut, enka mina vastaa hanta niinkuin te puhuitte.	
+<div class="versenum">14.</div> Silla ei han ole minua vastaan puhunut, enka mina vastaa hanta niinkuin te puhuitte.	
 
-15. He pelkaavat, ja ei taida silleen mitaan vastata, eika mitaan puhua.	
+<div class="versenum">15.</div> He pelkaavat, ja ei taida silleen mitaan vastata, eika mitaan puhua.	
 
-16. Etta mina olen odottanut, ja ei he taida mitaan puhua; vaan he vaikenivat, ja ei enaa vastaa mitaan.	
+<div class="versenum">16.</div> Etta mina olen odottanut, ja ei he taida mitaan puhua; vaan he vaikenivat, ja ei enaa vastaa mitaan.	
 
-17. Niin mina vastaan kuitenkin osani, ja osoitan tietoni.	
+<div class="versenum">17.</div> Niin mina vastaan kuitenkin osani, ja osoitan tietoni.	
 
-18. Silla mina olen niin taynna sanoja, etta minun henkeni ahdistaa minun vatsaani.	
+<div class="versenum">18.</div> Silla mina olen niin taynna sanoja, etta minun henkeni ahdistaa minun vatsaani.	
 
-19. Katso, minun vatsani on niinkuin viina, jonka henki ei avattu ole, joka uudet leilit sarkee.	
+<div class="versenum">19.</div> Katso, minun vatsani on niinkuin viina, jonka henki ei avattu ole, joka uudet leilit sarkee.	
 
-20. Minun taytyy puhua, etta mina saisin henkeni vetaa: minun taytyy avata huuleni ja vastata.	
+<div class="versenum">20.</div> Minun taytyy puhua, etta mina saisin henkeni vetaa: minun taytyy avata huuleni ja vastata.	
 
-21. En mina muotoa katso, enka ihmisen mielen peraan puhu.	
+<div class="versenum">21.</div> En mina muotoa katso, enka ihmisen mielen peraan puhu.	
 
-22. Silla en mina tieda (jos mina niin teen), etta minun Luojani tempaa akisti minun pois.	
+<div class="versenum">22.</div> Silla en mina tieda (jos mina niin teen), etta minun Luojani tempaa akisti minun pois.	
 

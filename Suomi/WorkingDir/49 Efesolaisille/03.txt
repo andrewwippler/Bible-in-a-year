@@ -1,44 +1,44 @@
 Efesolaisille 3	
 	
-1. Sentahden mina Paavali, Jesuksen Kristuksen vanki, teidan pakanain tahden;	
+<div class="versenum">1.</div> Sentahden mina Paavali, Jesuksen Kristuksen vanki, teidan pakanain tahden;	
 
-2. Jos te muutoin kuulleet olette Jumalan armon huoneenhallituksesta, joka minulle teidan puoleenne annettu on,	
+<div class="versenum">2.</div> Jos te muutoin kuulleet olette Jumalan armon huoneenhallituksesta, joka minulle teidan puoleenne annettu on,	
 
-3. Etta minulle on tama salaus ilmoituksen kautta tiettavaksi tehty, niinkuin mina jo ennen lyhykaisesti kirjoitin,	
+<div class="versenum">3.</div> Etta minulle on tama salaus ilmoituksen kautta tiettavaksi tehty, niinkuin mina jo ennen lyhykaisesti kirjoitin,	
 
-4. Josta te lukein taidatte minun ymmarrykseni Kristuksen salaisuudessa tuta,	
+<div class="versenum">4.</div> Josta te lukein taidatte minun ymmarrykseni Kristuksen salaisuudessa tuta,	
 
-5. Joka ei ole entisiin aikoihin niin ihmisten lapsille tiettavaksi tehty, kuin se nyt hanen pyhille apostoleillensa ja prophetaillensa Hengen kautta ilmoitettu on:	
+<div class="versenum">5.</div> Joka ei ole entisiin aikoihin niin ihmisten lapsille tiettavaksi tehty, kuin se nyt hanen pyhille apostoleillensa ja prophetaillensa Hengen kautta ilmoitettu on:	
 
-6. Nimittain, etta pakanat pitaa kanssaperilliset ja yksi ruumis oleman ja osalliset hanen lupauksestansa Kristuksessa, evankeliumin kautta,	
+<div class="versenum">6.</div> Nimittain, etta pakanat pitaa kanssaperilliset ja yksi ruumis oleman ja osalliset hanen lupauksestansa Kristuksessa, evankeliumin kautta,	
 
-7. Jonka palveliaksi mina tullut olen Jumalan armon lahjan kautta, joka hanen voimansa vaikutuksesta minulle annettu on.	
+<div class="versenum">7.</div> Jonka palveliaksi mina tullut olen Jumalan armon lahjan kautta, joka hanen voimansa vaikutuksesta minulle annettu on.	
 
-8. Minulle, joka kaikkein vahin pyhain seassa olen, on tama armo annettu, etta mina pakanain seassa tutkimattoman Kristuksen rikkauden julistaisin,	
+<div class="versenum">8.</div> Minulle, joka kaikkein vahin pyhain seassa olen, on tama armo annettu, etta mina pakanain seassa tutkimattoman Kristuksen rikkauden julistaisin,	
 
-9. Ja jokaiselle valkeuteen saattaisin, mika osallisuus siina salaisuudessa on, joka ijankaikkisesti on salattu ollut Jumalassa, joka kaikki Jesuksen Kristuksen kautta luonut on:	
+<div class="versenum">9.</div> Ja jokaiselle valkeuteen saattaisin, mika osallisuus siina salaisuudessa on, joka ijankaikkisesti on salattu ollut Jumalassa, joka kaikki Jesuksen Kristuksen kautta luonut on:	
 
-10. Etta nyt haltioille ja esivalloille taivaallisissa Jumalan moninainen viisaus seurakunnan kautta tiettavaksi tulis,	
+<div class="versenum">10.</div> Etta nyt haltioille ja esivalloille taivaallisissa Jumalan moninainen viisaus seurakunnan kautta tiettavaksi tulis,	
 
-11. Sen ijankaikkisen aivoituksen jalkeen, jonka han Kristuksessa Jesuksessa meidan Herrassamme osoittanut on,	
+<div class="versenum">11.</div> Sen ijankaikkisen aivoituksen jalkeen, jonka han Kristuksessa Jesuksessa meidan Herrassamme osoittanut on,	
 
-12. Jonka kautta meilla on uskallus ja tykokaymys kaikella rohkeudella, uskon kautta hanen paallensa.	
+<div class="versenum">12.</div> Jonka kautta meilla on uskallus ja tykokaymys kaikella rohkeudella, uskon kautta hanen paallensa.	
 
-13. Sentahden mina rukoilen, ettette minun vaivaini tahden vasyisi, joita mina teidan edestanne karsin, joka teidan kunnianne on.	
+<div class="versenum">13.</div> Sentahden mina rukoilen, ettette minun vaivaini tahden vasyisi, joita mina teidan edestanne karsin, joka teidan kunnianne on.	
 
-14. Sentahden kumarran mina polveni meidan Herran Jesuksen Kristuksen Isan puoleen,	
+<div class="versenum">14.</div> Sentahden kumarran mina polveni meidan Herran Jesuksen Kristuksen Isan puoleen,	
 
-15. Joka kaikkein oikia Isa on, jotka taivaissa ja maassa lapsiksi kutsutaan,	
+<div class="versenum">15.</div> Joka kaikkein oikia Isa on, jotka taivaissa ja maassa lapsiksi kutsutaan,	
 
-16. Etta han antais teille voimaa kunniansa rikkauden jalkeen, etta te hanen Henkensa kautta vakevaksi tulisitte sisallisessa ihmisessa;	
+<div class="versenum">16.</div> Etta han antais teille voimaa kunniansa rikkauden jalkeen, etta te hanen Henkensa kautta vakevaksi tulisitte sisallisessa ihmisessa;	
 
-17. Ja etta Kristus asuis uskon kautta teidan sydamissanne;	
+<div class="versenum">17.</div> Ja etta Kristus asuis uskon kautta teidan sydamissanne;	
 
-18. Etta te olisitte rakkauden kautta juurtuneet ja perustetut; etta te selkiasti kasittaisitte kaikkein pyhain kanssa, mika leveys ja pituus, ja syvyys ja korkeus olis,	
+<div class="versenum">18.</div> Etta te olisitte rakkauden kautta juurtuneet ja perustetut; etta te selkiasti kasittaisitte kaikkein pyhain kanssa, mika leveys ja pituus, ja syvyys ja korkeus olis,	
 
-19. Ja Kristuksen rakkauden tuntisitte, joka kaiken tuntemisen ylitse kay; etta te olisitte kaikella Jumalan taydellisyydella taytetyt.	
+<div class="versenum">19.</div> Ja Kristuksen rakkauden tuntisitte, joka kaiken tuntemisen ylitse kay; etta te olisitte kaikella Jumalan taydellisyydella taytetyt.	
 
-20. Mutta hanelle, joka kaikki ylonpalttisesti voi tehda, kaiken senkin ylitse, kuin me rukoilemme taikka ymmarramme, sen voiman jalkeen, joka meissa vaikuttaa,	
+<div class="versenum">20.</div> Mutta hanelle, joka kaikki ylonpalttisesti voi tehda, kaiken senkin ylitse, kuin me rukoilemme taikka ymmarramme, sen voiman jalkeen, joka meissa vaikuttaa,	
 
-21. Hanelle olkoon kunnia seurakunnassa, joka on Kristuksessa Jesuksessa, kaikkiin aikoihin ijankaikkisesta niin ijankaikkiseen, amen!	
+<div class="versenum">21.</div> Hanelle olkoon kunnia seurakunnassa, joka on Kristuksessa Jesuksessa, kaikkiin aikoihin ijankaikkisesta niin ijankaikkiseen, amen!	
 

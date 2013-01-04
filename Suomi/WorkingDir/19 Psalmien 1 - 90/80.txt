@@ -1,40 +1,40 @@
 Psalmien 80	
 	
-1. Asaphin Psalmi, kultasesta kukkaisesta, edellaveisaajalle. (H80:2) Kuules, Israelin paimen, joka saatat Josephin niinkuin lampaat: ilmoita sinus, joka istut Kerubimin paalla.	
+<div class="versenum">1.</div> Asaphin Psalmi, kultasesta kukkaisesta, edellaveisaajalle. (H80:2) Kuules, Israelin paimen, joka saatat Josephin niinkuin lampaat: ilmoita sinus, joka istut Kerubimin paalla.	
 
-2. Herata voimas, sina joka Ephraimin, Benjaminin ja Manassen edessa olet, ja tule meidan avuksemme.	
+<div class="versenum">2.</div> Herata voimas, sina joka Ephraimin, Benjaminin ja Manassen edessa olet, ja tule meidan avuksemme.	
 
-3. Jumala, kaanna meita, ja anna kasvos paistaa, niin me tulemme autetuksi.	
+<div class="versenum">3.</div> Jumala, kaanna meita, ja anna kasvos paistaa, niin me tulemme autetuksi.	
 
-4. Herra Jumala Zebaot, kuinka kauvan sina vihastut kansas rukouksiin?	
+<div class="versenum">4.</div> Herra Jumala Zebaot, kuinka kauvan sina vihastut kansas rukouksiin?	
 
-5. Sina ruokit heita kyyneleiden leivalla, ja juotat heita suurella mitalla, taynna kyyneleita,	
+<div class="versenum">5.</div> Sina ruokit heita kyyneleiden leivalla, ja juotat heita suurella mitalla, taynna kyyneleita,	
 
-6. Sina olet meidat pannut riidaksi lasnaasuvaisillemme; ja meidan vihollisemme pilkkaavat meita.	
+<div class="versenum">6.</div> Sina olet meidat pannut riidaksi lasnaasuvaisillemme; ja meidan vihollisemme pilkkaavat meita.	
 
-7. Jumala Zebaot, kaanna meita, ja anna kasvos paistaa, niin me autetuksi tulemme.	
+<div class="versenum">7.</div> Jumala Zebaot, kaanna meita, ja anna kasvos paistaa, niin me autetuksi tulemme.	
 
-8. Sina toit viinapuun Egyptista, olet pakanat karkoittanut ulos, ja sen istuttanut.	
+<div class="versenum">8.</div> Sina toit viinapuun Egyptista, olet pakanat karkoittanut ulos, ja sen istuttanut.	
 
-9. Sina perkasit tien hanen eteensa, ja annoit hanen hyvasti juurtua, niin etta se taytti maan.	
+<div class="versenum">9.</div> Sina perkasit tien hanen eteensa, ja annoit hanen hyvasti juurtua, niin etta se taytti maan.	
 
-10. Vuoret ovat sen varjolla peitetyt, ja hanen oksillansa Jumalan sedripuut.	
+<div class="versenum">10.</div> Vuoret ovat sen varjolla peitetyt, ja hanen oksillansa Jumalan sedripuut.	
 
-11. Sina levitit hanen oksansa hamaan mereen asti, ja hanen haaransa hamaan virran tyko.	
+<div class="versenum">11.</div> Sina levitit hanen oksansa hamaan mereen asti, ja hanen haaransa hamaan virran tyko.	
 
-12. Miksis siis sarjit hanen aitansa, etta sita kaikki ohitsekayvat repivat.	
+<div class="versenum">12.</div> Miksis siis sarjit hanen aitansa, etta sita kaikki ohitsekayvat repivat.	
 
-13. Metsasika on sen kaivanut ylos, ja metsan pedot sen syovat.	
+<div class="versenum">13.</div> Metsasika on sen kaivanut ylos, ja metsan pedot sen syovat.	
 
-14. Jumala Zebaot, kaanna siis sinuas, katso alas taivaasta ja nae, ja etsi sita viinapuuta,	
+<div class="versenum">14.</div> Jumala Zebaot, kaanna siis sinuas, katso alas taivaasta ja nae, ja etsi sita viinapuuta,	
 
-15. Ja pida se kiintiana, jonka sinun oikia kates on istuttanut, (ihmisen) pojan tahden, jonka sinulles lujasti valinnut olet.	
+<div class="versenum">15.</div> Ja pida se kiintiana, jonka sinun oikia kates on istuttanut, (ihmisen) pojan tahden, jonka sinulles lujasti valinnut olet.	
 
-16. Se on poltettu tulella ja revitty: sinun uhkauksestas he ovat hukkuneet.	
+<div class="versenum">16.</div> Se on poltettu tulella ja revitty: sinun uhkauksestas he ovat hukkuneet.	
 
-17. Sinun kates varjelkoon oikian kates kansan, ja ihmisen pojan, jonka sinulles lujasti valinnut olet.	
+<div class="versenum">17.</div> Sinun kates varjelkoon oikian kates kansan, ja ihmisen pojan, jonka sinulles lujasti valinnut olet.	
 
-18. Niin emme sinusta luovu: suo meidan elaa, niin me sinun nimeas avuksi huudamme.	
+<div class="versenum">18.</div> Niin emme sinusta luovu: suo meidan elaa, niin me sinun nimeas avuksi huudamme.	
 
-19. Herra Jumala Zebaot, kaanna meita: anna kasvos paistaa, niin me autetuksi tulemme.	
+<div class="versenum">19.</div> Herra Jumala Zebaot, kaanna meita: anna kasvos paistaa, niin me autetuksi tulemme.	
 

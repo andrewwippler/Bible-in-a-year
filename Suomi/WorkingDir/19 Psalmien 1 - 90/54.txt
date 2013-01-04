@@ -1,16 +1,16 @@
 Psalmien 54	
 	
-1. Davidin opetus, edellaveisaajalle, kanteleilla, (H54:2) Kuin Siphilaiset tulivat ja sanoivat Saulille: David on lymyttanyt itsensa meidan tykonamme. (H52:3) Auta minua Jumala sinun nimellas, ja saata minulle oikeus sinun vakevyydellas.	
+<div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, kanteleilla, (H54:2) Kuin Siphilaiset tulivat ja sanoivat Saulille: David on lymyttanyt itsensa meidan tykonamme. (H52:3) Auta minua Jumala sinun nimellas, ja saata minulle oikeus sinun vakevyydellas.	
 
-2. Jumala, kuule minun rukoukseni, ota korviis minun suuni sanat.	
+<div class="versenum">2.</div> Jumala, kuule minun rukoukseni, ota korviis minun suuni sanat.	
 
-3. Silla muukalaiset karkasivat minua vastaan, ja vakivaltaiset vaijyivat minun sieluani: ei he pitaneet Jumalaa silmainsa edessa, Sela!	
+<div class="versenum">3.</div> Silla muukalaiset karkasivat minua vastaan, ja vakivaltaiset vaijyivat minun sieluani: ei he pitaneet Jumalaa silmainsa edessa, Sela!	
 
-4. Katso, Jumala auttaa minua: Herra tukee minun sieluani.	
+<div class="versenum">4.</div> Katso, Jumala auttaa minua: Herra tukee minun sieluani.	
 
-5. Han kostaa minun vihollisteni pahuuden: hajoita ne totuudessas.	
+<div class="versenum">5.</div> Han kostaa minun vihollisteni pahuuden: hajoita ne totuudessas.	
 
-6. Niin mina mielellani sinulle uhraan: mina kiitan, Herra, sinun nimeas, silla se on hyva.	
+<div class="versenum">6.</div> Niin mina mielellani sinulle uhraan: mina kiitan, Herra, sinun nimeas, silla se on hyva.	
 
-7. Silla han on pelastanut minun kaikesta hadasta; ja minun silmani ovat nahneet minun viholiseni.	
+<div class="versenum">7.</div> Silla han on pelastanut minun kaikesta hadasta; ja minun silmani ovat nahneet minun viholiseni.	
 

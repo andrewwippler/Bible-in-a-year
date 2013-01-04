@@ -1,58 +1,58 @@
 Apostolien 18	
 	
-1. Senjalkeen laksi Paavali Atenasta ja tuli Korintoon,	
+<div class="versenum">1.</div> Senjalkeen laksi Paavali Atenasta ja tuli Korintoon,	
 
-2. Ja loysi siella Juudalaisen, Akvila nimelta, Pontosta sukuisin, joka asken Italiasta tullut oli, ja Priskillan hanen emantansa, (etta Klaudius oli kaskenyt kaikki Juudalaiset Roomista menna pois,) joiden tyko han meni.	
+<div class="versenum">2.</div> Ja loysi siella Juudalaisen, Akvila nimelta, Pontosta sukuisin, joka asken Italiasta tullut oli, ja Priskillan hanen emantansa, (etta Klaudius oli kaskenyt kaikki Juudalaiset Roomista menna pois,) joiden tyko han meni.	
 
-3. Ja etta han oli yhdessa ammatissa, viipyi han heidan tykonansa, ja teki tyota; silla heidan ammattinsa oli telttoja tehda.	
+<div class="versenum">3.</div> Ja etta han oli yhdessa ammatissa, viipyi han heidan tykonansa, ja teki tyota; silla heidan ammattinsa oli telttoja tehda.	
 
-4. Mutta han opetti synagogassa joka lepopaiva ja sai uskomaan seka Juudalaisia etta Grekilaisia.	
+<div class="versenum">4.</div> Mutta han opetti synagogassa joka lepopaiva ja sai uskomaan seka Juudalaisia etta Grekilaisia.	
 
-5. Mutta kuin Silas ja Timoteus Makedoniasta tulivat, oli Paavali hengelta vaadittu, ja todisti Juudalaisille, etta Jesus on Kristus.	
+<div class="versenum">5.</div> Mutta kuin Silas ja Timoteus Makedoniasta tulivat, oli Paavali hengelta vaadittu, ja todisti Juudalaisille, etta Jesus on Kristus.	
 
-6. Kuin he puhuivat vastaan ja pilkkasivat, pudisti han vaattensa ja sanoi heille: teidan verenne olkoon teidan paanne paalle: tastedes mina menen viatoinna pakanain tyko.	
+<div class="versenum">6.</div> Kuin he puhuivat vastaan ja pilkkasivat, pudisti han vaattensa ja sanoi heille: teidan verenne olkoon teidan paanne paalle: tastedes mina menen viatoinna pakanain tyko.	
 
-7. Ja han siirsi itsensa sielta ja meni yhden huoneesen, jonka nimi oli Justus: se oli Jumalaa palvelevainen, jonka huone oli lasna synagogaa.	
+<div class="versenum">7.</div> Ja han siirsi itsensa sielta ja meni yhden huoneesen, jonka nimi oli Justus: se oli Jumalaa palvelevainen, jonka huone oli lasna synagogaa.	
 
-8. Mutta Krispus, synagogan ylimmainen, uskoi Herran paalle kaiken huoneensa kanssa. Ja monta Korintolaisista, jotka kuulivat, uskoivat ja kastettiin.	
+<div class="versenum">8.</div> Mutta Krispus, synagogan ylimmainen, uskoi Herran paalle kaiken huoneensa kanssa. Ja monta Korintolaisista, jotka kuulivat, uskoivat ja kastettiin.	
 
-9. Mutta Herra sanoi yolla Paavalille nayn kautta: ala pelkaa, vaan puhu, alaka vaikene;	
+<div class="versenum">9.</div> Mutta Herra sanoi yolla Paavalille nayn kautta: ala pelkaa, vaan puhu, alaka vaikene;	
 
-10. Silla mina olen sinun kanssas, eika yhdenkaan pida karkaaman sinun paalles vahingoittamaan sinua; silla minulla on paljo kansaa tassa kaupungissa.	
+<div class="versenum">10.</div> Silla mina olen sinun kanssas, eika yhdenkaan pida karkaaman sinun paalles vahingoittamaan sinua; silla minulla on paljo kansaa tassa kaupungissa.	
 
-11. Niin han istui siella ajastajan ja kuusi kuukautta, ja opetti heille Jumalan sanaa.	
+<div class="versenum">11.</div> Niin han istui siella ajastajan ja kuusi kuukautta, ja opetti heille Jumalan sanaa.	
 
-12. Mutta kuin Gallio oli maanvanhin Akajassa, karkasivat Juudalaiset yksimielisesti Paavalin paalle ja veivat hanen tuomioistuimen eteen,	
+<div class="versenum">12.</div> Mutta kuin Gallio oli maanvanhin Akajassa, karkasivat Juudalaiset yksimielisesti Paavalin paalle ja veivat hanen tuomioistuimen eteen,	
 
-13. Sanoen: tama neuvoo kansaa palvelemaan Jumalaa vastoin lakia.	
+<div class="versenum">13.</div> Sanoen: tama neuvoo kansaa palvelemaan Jumalaa vastoin lakia.	
 
-14. Kuin Paavali rupesi suutansa avaamaan, sanoi Gallio Juudalaisille: jos olis jotakin vaaryytta eli jotakin hirmuista tyota tehty, oi Juudalaiset, niin olis kohtuullinen, etta mina teita kuulisin;	
+<div class="versenum">14.</div> Kuin Paavali rupesi suutansa avaamaan, sanoi Gallio Juudalaisille: jos olis jotakin vaaryytta eli jotakin hirmuista tyota tehty, oi Juudalaiset, niin olis kohtuullinen, etta mina teita kuulisin;	
 
-15. Mutta jos kysymys on opista ja sanoista ja teidan laistanne, niin katsokaat itse: en mina tahdo niiden tuomari olla.	
+<div class="versenum">15.</div> Mutta jos kysymys on opista ja sanoista ja teidan laistanne, niin katsokaat itse: en mina tahdo niiden tuomari olla.	
 
-16. Ja ajoi pois heidat tuomioistuimen edesta.	
+<div class="versenum">16.</div> Ja ajoi pois heidat tuomioistuimen edesta.	
 
-17. Niin kaikki Grekilaiset ottivat kiinni Sosteneen, synagogan paamiehen, ja pieksivat hanen tuomio-istuimen edessa; ja ei Gallio niita mitaan totellut.	
+<div class="versenum">17.</div> Niin kaikki Grekilaiset ottivat kiinni Sosteneen, synagogan paamiehen, ja pieksivat hanen tuomio-istuimen edessa; ja ei Gallio niita mitaan totellut.	
 
-18. Mutta Paavali oli viela siella pitkan ajan, ja jatti veljet hyvasti, ja purjehti Syriaan, ja hanen kanssansa Priskilla ja Akvila, ja han ajeli paansa Kenkreissa; silla hanella oli lupaus.	
+<div class="versenum">18.</div> Mutta Paavali oli viela siella pitkan ajan, ja jatti veljet hyvasti, ja purjehti Syriaan, ja hanen kanssansa Priskilla ja Akvila, ja han ajeli paansa Kenkreissa; silla hanella oli lupaus.	
 
-19. Ja tuli Ephesoon ja jatti ne sinne; mutta itse han meni synagogaan ja puhui Juudalaisten kanssa.	
+<div class="versenum">19.</div> Ja tuli Ephesoon ja jatti ne sinne; mutta itse han meni synagogaan ja puhui Juudalaisten kanssa.	
 
-20. Ja he rukoilivat hanta, etta han enemman aikaa viipyis heidan tykonansa; vaan ei han tahtonut;	
+<div class="versenum">20.</div> Ja he rukoilivat hanta, etta han enemman aikaa viipyis heidan tykonansa; vaan ei han tahtonut;	
 
-21. Mutta jatti heidat hyvasti, sanoen: minun tulee kaiketi menna Jerusalemiin talle juhlalle, joka nyt lahestyy. Mutta sitte mina palajan, jos Jumala suo, teidan tykonne. Ja niin han laksi matkaan Ephesosta,	
+<div class="versenum">21.</div> Mutta jatti heidat hyvasti, sanoen: minun tulee kaiketi menna Jerusalemiin talle juhlalle, joka nyt lahestyy. Mutta sitte mina palajan, jos Jumala suo, teidan tykonne. Ja niin han laksi matkaan Ephesosta,	
 
-22. Ja tuli Kesareaan, meni ylos ja tervehti seurakuntaa, ja meni alas Antioikiaan,	
+<div class="versenum">22.</div> Ja tuli Kesareaan, meni ylos ja tervehti seurakuntaa, ja meni alas Antioikiaan,	
 
-23. Ja vietti siella hetken aikaa, ja meni sitten matkaansa, ja vaelsi jarjestansa Galatian ja Phrygian maakunnan lavitse, vahvistain kaikkia opetuslapsia.	
+<div class="versenum">23.</div> Ja vietti siella hetken aikaa, ja meni sitten matkaansa, ja vaelsi jarjestansa Galatian ja Phrygian maakunnan lavitse, vahvistain kaikkia opetuslapsia.	
 
-24. Niin tuli Ephesoon Juudalainen, Apollos nimelta, Aleksandriasta sukuisin, puhelias mies ja taitava Raamatuissa.	
+<div class="versenum">24.</div> Niin tuli Ephesoon Juudalainen, Apollos nimelta, Aleksandriasta sukuisin, puhelias mies ja taitava Raamatuissa.	
 
-25. Tama oli opetettu Herran tielle ja oli palava hengessa, puhui ja opetti visusti Herrasta, ja tiesi ainoasti Johanneksen kasteen.	
+<div class="versenum">25.</div> Tama oli opetettu Herran tielle ja oli palava hengessa, puhui ja opetti visusti Herrasta, ja tiesi ainoasti Johanneksen kasteen.	
 
-26. Tama rupesi rohkiasti synagogassa opettamaan. Kuin Akvila ja Priskilla hanen kuulivat, ottivat he hanen tykonsa ja selittivat tarkemmasti hanelle Jumalan tien.	
+<div class="versenum">26.</div> Tama rupesi rohkiasti synagogassa opettamaan. Kuin Akvila ja Priskilla hanen kuulivat, ottivat he hanen tykonsa ja selittivat tarkemmasti hanelle Jumalan tien.	
 
-27. Mutta kuin han tahtoi menna Akajaan, kirjoittivat veljet ja neuvoivat opetuslapsia hanta korjaamaan. Ja kuin han sinne tuli, autti han paljon niita, jotka uskoivat armon kautta.	
+<div class="versenum">27.</div> Mutta kuin han tahtoi menna Akajaan, kirjoittivat veljet ja neuvoivat opetuslapsia hanta korjaamaan. Ja kuin han sinne tuli, autti han paljon niita, jotka uskoivat armon kautta.	
 
-28. Silla han voitti miehuullisesti Juudalaiset ja osoitti julkisesti Raamatuista, etta Jesus on Kristus.	
+<div class="versenum">28.</div> Silla han voitti miehuullisesti Juudalaiset ja osoitti julkisesti Raamatuista, etta Jesus on Kristus.	
 

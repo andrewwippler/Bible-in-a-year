@@ -1,18 +1,18 @@
 Psalmien 101	
 	
-1. Davidin Psalmi. Mina veisaan armosta ja oikeudesta: sinulle, Herra, mina veisaan.	
+<div class="versenum">1.</div> Davidin Psalmi. Mina veisaan armosta ja oikeudesta: sinulle, Herra, mina veisaan.	
 
-2. Mina tahdon vaarin ottaa oikiasta tiesta, koskas minun tykoni tulet: mina tahdon vaeltaa sydameni vakuudessa minun huoneessani.	
+<div class="versenum">2.</div> Mina tahdon vaarin ottaa oikiasta tiesta, koskas minun tykoni tulet: mina tahdon vaeltaa sydameni vakuudessa minun huoneessani.	
 
-3. En mina ota pahaa asiaa eteeni: mina vihaan vaarintekioita, ja en salli heita olla tykonani.	
+<div class="versenum">3.</div> En mina ota pahaa asiaa eteeni: mina vihaan vaarintekioita, ja en salli heita olla tykonani.	
 
-4. Nurja sydan olkoon minusta pois: en mina karsi pahaa.	
+<div class="versenum">4.</div> Nurja sydan olkoon minusta pois: en mina karsi pahaa.	
 
-5. Joka lahimmaistansa salaa panettelee, sen mina hukutan: en mina karsi ylpeita ja royhkeita.	
+<div class="versenum">5.</div> Joka lahimmaistansa salaa panettelee, sen mina hukutan: en mina karsi ylpeita ja royhkeita.	
 
-6. Minun silmani katsovat uskollisia maan paalla, etta he asuisivat minun tykonani: joka vaeltaa oikialla tiella, se pitaa oleman minun palveliani.	
+<div class="versenum">6.</div> Minun silmani katsovat uskollisia maan paalla, etta he asuisivat minun tykonani: joka vaeltaa oikialla tiella, se pitaa oleman minun palveliani.	
 
-7. Petollisia ihmisia en mina pida huoneessani: ei valehteliat menesty minun tykonani.	
+<div class="versenum">7.</div> Petollisia ihmisia en mina pida huoneessani: ei valehteliat menesty minun tykonani.	
 
-8. Varhain mina hukutan kaikki jumalattomat maasta, havittaakseni kaikkia pahantekioita Herran kaupungista.	
+<div class="versenum">8.</div> Varhain mina hukutan kaikki jumalattomat maasta, havittaakseni kaikkia pahantekioita Herran kaupungista.	
 

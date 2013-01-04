@@ -1,52 +1,52 @@
 2 Kuninkaiden 13	
 	
-1. Joaksen Ahasian pojan Juudan kuninkaan kolmantena vuotena kolmattakymmenta oli Joahas Jehun poika Israelin kuningas Samarjassa seitsemantoistakymmenta ajastaikaa,	
+<div class="versenum">1.</div> Joaksen Ahasian pojan Juudan kuninkaan kolmantena vuotena kolmattakymmenta oli Joahas Jehun poika Israelin kuningas Samarjassa seitsemantoistakymmenta ajastaikaa,	
 
-2. Ja teki pahaa Herran edessa, ja vaelsi Jerobeamin Nebatin pojan synneissa, joka Israelin saatti syntia tekemaan, ja ei lakannut siita.	
+<div class="versenum">2.</div> Ja teki pahaa Herran edessa, ja vaelsi Jerobeamin Nebatin pojan synneissa, joka Israelin saatti syntia tekemaan, ja ei lakannut siita.	
 
-3. Ja Herran viha julmistui Israelin paalle ja han antoi heidat Hasaelin Syrian kuninkaan ja Benhadadin Hasaelin pojan kasiin, niinkauvan kuin he elivat.	
+<div class="versenum">3.</div> Ja Herran viha julmistui Israelin paalle ja han antoi heidat Hasaelin Syrian kuninkaan ja Benhadadin Hasaelin pojan kasiin, niinkauvan kuin he elivat.	
 
-4. Mutta Joahas rukoili Herran kasvoja, ja Herra kuuli hanta; silla han naki Israelin ahdistuksen, kuinka Syrian kuningas ahdisti heita,	
+<div class="versenum">4.</div> Mutta Joahas rukoili Herran kasvoja, ja Herra kuuli hanta; silla han naki Israelin ahdistuksen, kuinka Syrian kuningas ahdisti heita,	
 
-5. Ja Herra antoi Israelille pelastajan, joka heidat johdatti ulos Syrialaisten kasista, niin etta Israelin lapset asuivat majassansa niinkuin ennenkin.	
+<div class="versenum">5.</div> Ja Herra antoi Israelille pelastajan, joka heidat johdatti ulos Syrialaisten kasista, niin etta Israelin lapset asuivat majassansa niinkuin ennenkin.	
 
-6. Ei he kuitenkaan luopuneet Jerobeamin huoneen synneista, joka Israelin saatti syntia tekemaan, vaan hekin vaelsivat niissa; ja metsisto seisoi Samariassa.	
+<div class="versenum">6.</div> Ei he kuitenkaan luopuneet Jerobeamin huoneen synneista, joka Israelin saatti syntia tekemaan, vaan hekin vaelsivat niissa; ja metsisto seisoi Samariassa.	
 
-7. Mutta Joahaksen kansasta ei enempaa jaanyt, kuin viisikymmenta hevosmiesta, ja kymmenen vaunua, ja kymmenentuhatta jalkamiesta; silla Syrian kuningas oli heidat hukuttanut ja tehnyt niinkuin tomun, riihta tapettaissa.	
+<div class="versenum">7.</div> Mutta Joahaksen kansasta ei enempaa jaanyt, kuin viisikymmenta hevosmiesta, ja kymmenen vaunua, ja kymmenentuhatta jalkamiesta; silla Syrian kuningas oli heidat hukuttanut ja tehnyt niinkuin tomun, riihta tapettaissa.	
 
-8. Mita enempi Joahaksesta sanomista on, ja kaikista, mita han tehnyt on, ja hanen voimastansa: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa.	
+<div class="versenum">8.</div> Mita enempi Joahaksesta sanomista on, ja kaikista, mita han tehnyt on, ja hanen voimastansa: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa.	
 
-9. Ja Joahas nukkui isainsa kanssa, ja he hautasivat hanen Samariaan; ja hanen poikansa Joas tuli kuninkaaksi hanen siaansa.	
+<div class="versenum">9.</div> Ja Joahas nukkui isainsa kanssa, ja he hautasivat hanen Samariaan; ja hanen poikansa Joas tuli kuninkaaksi hanen siaansa.	
 
-10. Joaksen Juudan kuninkaan seitsemantena vuonna neljattakymmenta oli Joas Joahaksen poika Israelin kuningas Samariassa kuusitoistakymmenta ajastaikaa,	
+<div class="versenum">10.</div> Joaksen Juudan kuninkaan seitsemantena vuonna neljattakymmenta oli Joas Joahaksen poika Israelin kuningas Samariassa kuusitoistakymmenta ajastaikaa,	
 
-11. Ja teki pahaa Herran edessa, ja ei luopunut kaikista Jerobeamin Nebatin pojan synneista, joka Israelin saatti syntia tekemaan; vaan vaelsi niissa.	
+<div class="versenum">11.</div> Ja teki pahaa Herran edessa, ja ei luopunut kaikista Jerobeamin Nebatin pojan synneista, joka Israelin saatti syntia tekemaan; vaan vaelsi niissa.	
 
-12. Mita enempi Joaksesta sanomista on, ja mita han tehnyt on, ja hanen voimastansa, kuinka han Amatsian Juudan kuninkaan kanssa sotinut on: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	
+<div class="versenum">12.</div> Mita enempi Joaksesta sanomista on, ja mita han tehnyt on, ja hanen voimastansa, kuinka han Amatsian Juudan kuninkaan kanssa sotinut on: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	
 
-13. Ja Joas nukkui isainsa kanssa, ja Jerobeam istui hanen istuimellensa. Mutta Joas haudattiin Samariaan Israelin kuningasten oheen.	
+<div class="versenum">13.</div> Ja Joas nukkui isainsa kanssa, ja Jerobeam istui hanen istuimellensa. Mutta Joas haudattiin Samariaan Israelin kuningasten oheen.	
 
-14. Ja Elisa sairasti kuolintautiansa; ja Joas Israelin kuningas tuli hanen tykonsa ja itki hanen edessansa, ja sanoi: minun isani, minun isani, Israelin vaunu ja hanen ratsasmiehensa!	
+<div class="versenum">14.</div> Ja Elisa sairasti kuolintautiansa; ja Joas Israelin kuningas tuli hanen tykonsa ja itki hanen edessansa, ja sanoi: minun isani, minun isani, Israelin vaunu ja hanen ratsasmiehensa!	
 
-15. Elisa sanoi hanelle: ota joutsi ja nuolet! Ja kuin han otti joutsen ja nuolet,	
+<div class="versenum">15.</div> Elisa sanoi hanelle: ota joutsi ja nuolet! Ja kuin han otti joutsen ja nuolet,	
 
-16. Sanoi han Israelin kuninkaalle: jannita joutsi kadellas; ja han jannitti kadellansa. Ja Elisa laski katensa kuninkaan katten paalle,	
+<div class="versenum">16.</div> Sanoi han Israelin kuninkaalle: jannita joutsi kadellas; ja han jannitti kadellansa. Ja Elisa laski katensa kuninkaan katten paalle,	
 
-17. Ja sanoi: avaa akkuna, joka on itaan pain; ja han avasi sen. Ja Elisa sanoi: ammu; ja han ampui. Han sanoi: pelastuksen nuoli Herralta, pelastuksen nuoli Syrialaisia vastaan: ja sinun pitaa lyoman Syrialaiset Aphekissa, siihenasti etta he lopetetut ovat.	
+<div class="versenum">17.</div> Ja sanoi: avaa akkuna, joka on itaan pain; ja han avasi sen. Ja Elisa sanoi: ammu; ja han ampui. Han sanoi: pelastuksen nuoli Herralta, pelastuksen nuoli Syrialaisia vastaan: ja sinun pitaa lyoman Syrialaiset Aphekissa, siihenasti etta he lopetetut ovat.	
 
-18. Ja han sanoi: ota nuolet! ja kuin han otti ne, sanoi han Israelin kuninkaalle: lyo maahan! ja han loi kolmasti ja sitte lakkasi.	
+<div class="versenum">18.</div> Ja han sanoi: ota nuolet! ja kuin han otti ne, sanoi han Israelin kuninkaalle: lyo maahan! ja han loi kolmasti ja sitte lakkasi.	
 
-19. Niin Jumalan mies narkastyi hanen paallensa ja sanoi: jos olisit lyonyt viidesti eli kuudesti, niin sina olisit lyonyt Syrialaiset, siihen asti etta he olisivat lopetetut; mutta nyt sinun pitaa lyoman heita kolmasti.	
+<div class="versenum">19.</div> Niin Jumalan mies narkastyi hanen paallensa ja sanoi: jos olisit lyonyt viidesti eli kuudesti, niin sina olisit lyonyt Syrialaiset, siihen asti etta he olisivat lopetetut; mutta nyt sinun pitaa lyoman heita kolmasti.	
 
-20. Kuin Elisa oli kuollut, ja he olivat hanen haudanneet, tuli Moabilaisten sotajoukko maakuntaan sina vuonna.	
+<div class="versenum">20.</div> Kuin Elisa oli kuollut, ja he olivat hanen haudanneet, tuli Moabilaisten sotajoukko maakuntaan sina vuonna.	
 
-21. Ja tapahtui, etta he hautasivat yhta miesta, ja kuin he saivat nahda sotajoukon, heittivat he miehen Elisan hautaan; ja kuin han sinne tuli ja sattui Elisan luihin, tuli han elavaksi ja nousi jaloillensa.	
+<div class="versenum">21.</div> Ja tapahtui, etta he hautasivat yhta miesta, ja kuin he saivat nahda sotajoukon, heittivat he miehen Elisan hautaan; ja kuin han sinne tuli ja sattui Elisan luihin, tuli han elavaksi ja nousi jaloillensa.	
 
-22. Ja Hasael Syrian kuningas ahdisti Israelia, niinkauvan kuin Joahas eli.	
+<div class="versenum">22.</div> Ja Hasael Syrian kuningas ahdisti Israelia, niinkauvan kuin Joahas eli.	
 
-23. Mutta Herra teki armon heidan kanssansa, ja armahti heidan paallensa, ja kaansi itsensa heidan puoleensa, liittonsa tahden Abrahamin, Isaakin ja Jakobin kanssa, ja ei tahtonut kadottaa heita, eika heittanyt heita pois kasvoinsa edesta tahan asti.	
+<div class="versenum">23.</div> Mutta Herra teki armon heidan kanssansa, ja armahti heidan paallensa, ja kaansi itsensa heidan puoleensa, liittonsa tahden Abrahamin, Isaakin ja Jakobin kanssa, ja ei tahtonut kadottaa heita, eika heittanyt heita pois kasvoinsa edesta tahan asti.	
 
-24. Ja Hasael Syrian kuningas kuoli, ja hanen poikansa Benhadad tuli kuninkaaksi hanen siaan.	
+<div class="versenum">24.</div> Ja Hasael Syrian kuningas kuoli, ja hanen poikansa Benhadad tuli kuninkaaksi hanen siaan.	
 
-25. Ja Joas Joahaksen poika palasi ja otti ne kaupungit Benhadadilta Hasaelin pojalta jalleen, jotka han hanen isaltansa Joahakselta sodalla ottanut oli. Joas loi kolmasti hanta, ja sai Israelin kaupungit jalleen.	
+<div class="versenum">25.</div> Ja Joas Joahaksen poika palasi ja otti ne kaupungit Benhadadilta Hasaelin pojalta jalleen, jotka han hanen isaltansa Joahakselta sodalla ottanut oli. Joas loi kolmasti hanta, ja sai Israelin kaupungit jalleen.	
 

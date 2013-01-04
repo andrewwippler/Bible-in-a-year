@@ -1,16 +1,16 @@
 Psalmien 110	
 	
-1. Davidin Psalmi. Herra sanoi minun Herralleni: istu oikialle kadelleni, siihenasti kuin mina panen sinun vihollises sinun jalkais astinlaudaksi.	
+<div class="versenum">1.</div> Davidin Psalmi. Herra sanoi minun Herralleni: istu oikialle kadelleni, siihenasti kuin mina panen sinun vihollises sinun jalkais astinlaudaksi.	
 
-2. Herra lahettaa sinun vakevyytes valtikan Zionista: vallitse vihollistes seassa.	
+<div class="versenum">2.</div> Herra lahettaa sinun vakevyytes valtikan Zionista: vallitse vihollistes seassa.	
 
-3. Sinun voittos paivana palvelee sinun kansas sinua mielellansa pyhissa kaunistuksissa: sinun lapses synnytetaan sinulle niinkuin kaste aamuruskosta.	
+<div class="versenum">3.</div> Sinun voittos paivana palvelee sinun kansas sinua mielellansa pyhissa kaunistuksissa: sinun lapses synnytetaan sinulle niinkuin kaste aamuruskosta.	
 
-4. Herra on vannonut, ja ei kadu sita: sina olet pappi ijankaikkisesti, Melkisedekin saadyn jalkeen.	
+<div class="versenum">4.</div> Herra on vannonut, ja ei kadu sita: sina olet pappi ijankaikkisesti, Melkisedekin saadyn jalkeen.	
 
-5. Herra on sinun oikialla kadellas: han musertaa kuninkaat vihansa paivana.	
+<div class="versenum">5.</div> Herra on sinun oikialla kadellas: han musertaa kuninkaat vihansa paivana.	
 
-6. Han tuomitsee pakanain seassa, han tayttaa maakunnat ruumiilla: han musertaa monen maakunnan paan.	
+<div class="versenum">6.</div> Han tuomitsee pakanain seassa, han tayttaa maakunnat ruumiilla: han musertaa monen maakunnan paan.	
 
-7. Han juo ojasta tiella; sen tahden korottaa han paansa.	
+<div class="versenum">7.</div> Han juo ojasta tiella; sen tahden korottaa han paansa.	
 

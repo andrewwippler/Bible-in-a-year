@@ -1,40 +1,40 @@
 Psalmien 51	
 	
-1. Davidin Psalmi, edellaveisaajalle, (H51:2) Kuin propheta Natan tuli hanen tykonsa, sittekuin han Batseban tykona kaynyt oli. (H51:3) Jumala, ole minulle armollinen sinun hyvyytes tahden: pyyhi pois minun syntini suuren laupiutes tahden.	
+<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, (H51:2) Kuin propheta Natan tuli hanen tykonsa, sittekuin han Batseban tykona kaynyt oli. (H51:3) Jumala, ole minulle armollinen sinun hyvyytes tahden: pyyhi pois minun syntini suuren laupiutes tahden.	
 
-2. Pese minua hyvin vaaryydestani, ja puhdista minua synnistani.	
+<div class="versenum">2.</div> Pese minua hyvin vaaryydestani, ja puhdista minua synnistani.	
 
-3. Silla mina tunnen pahat tekoni, ja minun syntini on aina edessani.	
+<div class="versenum">3.</div> Silla mina tunnen pahat tekoni, ja minun syntini on aina edessani.	
 
-4. Sinua, sinua ainoaa vastaan mina syntia tein, ja pahasti tein sinun edessas, ettas olisit oikia sanoissas ja puhdas tuomitessas.	
+<div class="versenum">4.</div> Sinua, sinua ainoaa vastaan mina syntia tein, ja pahasti tein sinun edessas, ettas olisit oikia sanoissas ja puhdas tuomitessas.	
 
-5. Katso, mina olen synnissa syntynyt, ja minun aitini on synnissa minun siittanyt.	
+<div class="versenum">5.</div> Katso, mina olen synnissa syntynyt, ja minun aitini on synnissa minun siittanyt.	
 
-6. Katso, sina halajat totuutta, joka salaudessa on, ja ilmoitat salatun viisauden minulle.	
+<div class="versenum">6.</div> Katso, sina halajat totuutta, joka salaudessa on, ja ilmoitat salatun viisauden minulle.	
 
-7. Puhdista minua isopilla, etta mina puhdistuisin: pese minua, etta mina lumivalkiaksi tulisin.	
+<div class="versenum">7.</div> Puhdista minua isopilla, etta mina puhdistuisin: pese minua, etta mina lumivalkiaksi tulisin.	
 
-8. Anna minun kuulla iloa ja riemua, etta ne luut ihastuisivat, jotka sarkenyt olet.	
+<div class="versenum">8.</div> Anna minun kuulla iloa ja riemua, etta ne luut ihastuisivat, jotka sarkenyt olet.	
 
-9. Peita kasvos minun synneistani, ja pyyhi pois kaikki pahat tekoni.	
+<div class="versenum">9.</div> Peita kasvos minun synneistani, ja pyyhi pois kaikki pahat tekoni.	
 
-10. Jumala, luo minuun puhdas sydan, ja anna minulle uusi vahva henki.	
+<div class="versenum">10.</div> Jumala, luo minuun puhdas sydan, ja anna minulle uusi vahva henki.	
 
-11. Ala heita minua pois kasvois edesta, ja ala minulta ota pois sinun Pyhaa Henkeas.	
+<div class="versenum">11.</div> Ala heita minua pois kasvois edesta, ja ala minulta ota pois sinun Pyhaa Henkeas.	
 
-12. Anna minulle taas sinun autuutes ilo, ja silla hyvalla hengellas tue minua.	
+<div class="versenum">12.</div> Anna minulle taas sinun autuutes ilo, ja silla hyvalla hengellas tue minua.	
 
-13. Mina tahdon vaarille opettaa sinun ties, etta syntiset tykos palajaisivat.	
+<div class="versenum">13.</div> Mina tahdon vaarille opettaa sinun ties, etta syntiset tykos palajaisivat.	
 
-14. Paasta minua veren vioista, Jumala, minun autuuteni Jumala, etta minun kieleni ylistais sinun vanhurskauttas.	
+<div class="versenum">14.</div> Paasta minua veren vioista, Jumala, minun autuuteni Jumala, etta minun kieleni ylistais sinun vanhurskauttas.	
 
-15. Avaa, Herra, minun huuleni, etta minun suuni ilmoittais sinun kiitokses.	
+<div class="versenum">15.</div> Avaa, Herra, minun huuleni, etta minun suuni ilmoittais sinun kiitokses.	
 
-16. Silla ei sinulle kelpaa uhri, etta mina sen antaisin; ja ei polttouhri sinulle ensinkaan kelpaa.	
+<div class="versenum">16.</div> Silla ei sinulle kelpaa uhri, etta mina sen antaisin; ja ei polttouhri sinulle ensinkaan kelpaa.	
 
-17. Ne uhrit, jotka Jumalalle kelpaavat, ovat murheellinen henki: ahdistettua ja sarjettya sydanta et sina, Jumala, hylkaa.	
+<div class="versenum">17.</div> Ne uhrit, jotka Jumalalle kelpaavat, ovat murheellinen henki: ahdistettua ja sarjettya sydanta et sina, Jumala, hylkaa.	
 
-18. Tee Zionille hyvasti sinun armos jalkeen; rakenna Jerusalemin muurit.	
+<div class="versenum">18.</div> Tee Zionille hyvasti sinun armos jalkeen; rakenna Jerusalemin muurit.	
 
-19. Silloin sinulle kelpaavat vanhurskauden uhrit, polttouhrit ja muut uhrit: silloin sinun alttarillas harkia uhrataan.	
+<div class="versenum">19.</div> Silloin sinulle kelpaavat vanhurskauden uhrit, polttouhrit ja muut uhrit: silloin sinun alttarillas harkia uhrataan.	
 

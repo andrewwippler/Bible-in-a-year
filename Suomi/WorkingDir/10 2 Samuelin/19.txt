@@ -1,88 +1,88 @@
 2 Samuelin 19	
 	
-1. Ja Joabille ilmoitettiin: katso, kuningas itkee ja suree Absalomia.	
+<div class="versenum">1.</div> Ja Joabille ilmoitettiin: katso, kuningas itkee ja suree Absalomia.	
 
-2. Ja sina paivana oli voitosta itku kaiken kansan seassa; silla kansa oli kuullut sina paivana sanottavan kuninkaan olevan murheellisen poikansa tahden.	
+<div class="versenum">2.</div> Ja sina paivana oli voitosta itku kaiken kansan seassa; silla kansa oli kuullut sina paivana sanottavan kuninkaan olevan murheellisen poikansa tahden.	
 
-3. Ja kansa lymytti sina paivana itsensa ja ei tullut kaupunkiin; niinkuin joku kansa varastaa itsensa, joka hapee paetessansa sodassa.	
+<div class="versenum">3.</div> Ja kansa lymytti sina paivana itsensa ja ei tullut kaupunkiin; niinkuin joku kansa varastaa itsensa, joka hapee paetessansa sodassa.	
 
-4. Mutta kuningas peitti kasvonsa ja huusi suurella aanella: voi minun poikani Absalom! Absalom, minun poikani, minun poikani!	
+<div class="versenum">4.</div> Mutta kuningas peitti kasvonsa ja huusi suurella aanella: voi minun poikani Absalom! Absalom, minun poikani, minun poikani!	
 
-5. Niin Joab tuli kuninkaan tyko huoneeseen ja sanoi: sina olet havaissyt tanapana kaikki sinun palvelias, jotka ovat sinun, ja sinun poikais ja tytartes, emantais ja jalkavaimois hengen hadasta pelastaneet tanapana;	
+<div class="versenum">5.</div> Niin Joab tuli kuninkaan tyko huoneeseen ja sanoi: sina olet havaissyt tanapana kaikki sinun palvelias, jotka ovat sinun, ja sinun poikais ja tytartes, emantais ja jalkavaimois hengen hadasta pelastaneet tanapana;	
 
-6. Ettas rakastat niita, jotka sinua vihaavat, ja vihaat niita, jotka sinua rakastavat; silla tanapana sina ilmoitit sinus ei lukua pitavan sodanpaamiehista eli palvelioistas, ja siita mina tanapana ymmarran, etta jos Absalom ainoastansa elais ja me kaikki olisimme tanapana kuolleet, se sinulle kelpais.	
+<div class="versenum">6.</div> Ettas rakastat niita, jotka sinua vihaavat, ja vihaat niita, jotka sinua rakastavat; silla tanapana sina ilmoitit sinus ei lukua pitavan sodanpaamiehista eli palvelioistas, ja siita mina tanapana ymmarran, etta jos Absalom ainoastansa elais ja me kaikki olisimme tanapana kuolleet, se sinulle kelpais.	
 
-7. Nouse siis nyt ja kay ulos, ja puhu suloisesti palvelioilles; silla mina vannon sinulle Herran kautta, etta jolles sina kay ulos, niin ei ole yksikaan mies sinun tykonas tata yota; se on sinulle pahempi, kuin kaikki se vastoinkayminen, joka sinulle hamasta nuoruudestas tahan asti on tapahtunut.	
+<div class="versenum">7.</div> Nouse siis nyt ja kay ulos, ja puhu suloisesti palvelioilles; silla mina vannon sinulle Herran kautta, etta jolles sina kay ulos, niin ei ole yksikaan mies sinun tykonas tata yota; se on sinulle pahempi, kuin kaikki se vastoinkayminen, joka sinulle hamasta nuoruudestas tahan asti on tapahtunut.	
 
-8. Niin nousi kuningas, ja istui portilla. Ja se ilmoitettiin kaikelle kansalle, sanoen: katso, kuningas istuu portilla. Niin kaikki kansa tuli kuninkaan eteen; vaan Israel oli paennut itsekukin majoillensa.	
+<div class="versenum">8.</div> Niin nousi kuningas, ja istui portilla. Ja se ilmoitettiin kaikelle kansalle, sanoen: katso, kuningas istuu portilla. Niin kaikki kansa tuli kuninkaan eteen; vaan Israel oli paennut itsekukin majoillensa.	
 
-9. Ja kaikki kansa Israelin sukukunnista riiteli keskenansa, sanoen: kuningas on meita auttanut meidan vihamiestemme kasista, Ja han on meita pelastanut Philistealaisilta: ja nyt taytyy hanen maakunnasta paeta Absalomin tahden.	
+<div class="versenum">9.</div> Ja kaikki kansa Israelin sukukunnista riiteli keskenansa, sanoen: kuningas on meita auttanut meidan vihamiestemme kasista, Ja han on meita pelastanut Philistealaisilta: ja nyt taytyy hanen maakunnasta paeta Absalomin tahden.	
 
-10. Mutta Absalom, jonka me voitelimme meillemme, on kuollut sodassa, miksi te nyt olette niin hiljaiset noutamaan kuningasta?	
+<div class="versenum">10.</div> Mutta Absalom, jonka me voitelimme meillemme, on kuollut sodassa, miksi te nyt olette niin hiljaiset noutamaan kuningasta?	
 
-11. Mutta kuningas David lahetti pappein Zadokin ja AbJatarin tyko, ja kaski heille sanoa: puhukaat vanhimmille Juudassa, sanoen: miksi te olette viimeiset kuningasta kotiansa noutamaan? Silla kaiken Israelin puhe oli ilmoitettu kuninkaan huoneessa.	
+<div class="versenum">11.</div> Mutta kuningas David lahetti pappein Zadokin ja AbJatarin tyko, ja kaski heille sanoa: puhukaat vanhimmille Juudassa, sanoen: miksi te olette viimeiset kuningasta kotiansa noutamaan? Silla kaiken Israelin puhe oli ilmoitettu kuninkaan huoneessa.	
 
-12. Te olette minun veljeni, minun luuni ja minun lihani: miksi te olette viimeiset noutamaan jalleen kuningasta?	
+<div class="versenum">12.</div> Te olette minun veljeni, minun luuni ja minun lihani: miksi te olette viimeiset noutamaan jalleen kuningasta?	
 
-13. Ja sanokaat Amasalle: etkos ole minun luuni ja lihani? Jumala tehkoon minulle niin ja niin, jollei sinun pida tuleman sotaherraksi minun edessani Joabin siaan sinun elinaikanas.	
+<div class="versenum">13.</div> Ja sanokaat Amasalle: etkos ole minun luuni ja lihani? Jumala tehkoon minulle niin ja niin, jollei sinun pida tuleman sotaherraksi minun edessani Joabin siaan sinun elinaikanas.	
 
-14. Ja han kaansi kaikkein Juudan miesten sydamet niinkuin yhden miehen. Ja he lahettivat kuninkaalle sanan: palaja sina ja kaikki palvelias.	
+<div class="versenum">14.</div> Ja han kaansi kaikkein Juudan miesten sydamet niinkuin yhden miehen. Ja he lahettivat kuninkaalle sanan: palaja sina ja kaikki palvelias.	
 
-15. Niin kuningas tuli jalleen. Ja kuin han lahestyi Jordania, olivat kaikki Juudan miehet tulleet Gilgaliin menemaan kuningasta vastaan ja saattamaan kuningasta Jordanin ylitse.	
+<div class="versenum">15.</div> Niin kuningas tuli jalleen. Ja kuin han lahestyi Jordania, olivat kaikki Juudan miehet tulleet Gilgaliin menemaan kuningasta vastaan ja saattamaan kuningasta Jordanin ylitse.	
 
-16. Ja Simei Geran poika, Jeminin pojan Bahurimista, kiiruhti itsensa ja meni alas Juudan miesten kanssa kuningas Davidia vastaan.	
+<div class="versenum">16.</div> Ja Simei Geran poika, Jeminin pojan Bahurimista, kiiruhti itsensa ja meni alas Juudan miesten kanssa kuningas Davidia vastaan.	
 
-17. Ja hanen kanssansa oli tuhannen miesta BenJaminista, oli myos Ziba Saulin huoneen palvelia viidentoistakymmenen poikansa kanssa ja kahdenkymmenen palvellansa kanssa; ja he kiiruhtivat heitansa Jordanin ylitse kuninkaan eteen.	
+<div class="versenum">17.</div> Ja hanen kanssansa oli tuhannen miesta BenJaminista, oli myos Ziba Saulin huoneen palvelia viidentoistakymmenen poikansa kanssa ja kahdenkymmenen palvellansa kanssa; ja he kiiruhtivat heitansa Jordanin ylitse kuninkaan eteen.	
 
-18. He valmistivat alukset kuningasta ja hanen palvelioitansa ylitse vietaa, tehdaksensa sita kuninkaalle mielen nouteeksi. Mutta Simei Geran poika lankesi polvillensa kuninkaan eteen hanen mennessa Jordanin ylitse,	
+<div class="versenum">18.</div> He valmistivat alukset kuningasta ja hanen palvelioitansa ylitse vietaa, tehdaksensa sita kuninkaalle mielen nouteeksi. Mutta Simei Geran poika lankesi polvillensa kuninkaan eteen hanen mennessa Jordanin ylitse,	
 
-19. Ja sanoi kuninkaalle: minun herrani, ala lue minulle sita pahaa tekoa, ala myos muistele sinun palvelias rikosta, jolla han sinun vihoitti, herra kuningas, lahteissas Jerusalemista: alkoon kuningas sita sydameensa panko.	
+<div class="versenum">19.</div> Ja sanoi kuninkaalle: minun herrani, ala lue minulle sita pahaa tekoa, ala myos muistele sinun palvelias rikosta, jolla han sinun vihoitti, herra kuningas, lahteissas Jerusalemista: alkoon kuningas sita sydameensa panko.	
 
-20. Silla sinun palvelias tuntee syntia tehneensa, ja katso, mina olen tanapana lahtenyt ensimaisena koko Josephin huoneesta herraani kuningasta vastaan.	
+<div class="versenum">20.</div> Silla sinun palvelias tuntee syntia tehneensa, ja katso, mina olen tanapana lahtenyt ensimaisena koko Josephin huoneesta herraani kuningasta vastaan.	
 
-21. Mutta Abisai ZeruJan poika vastasi ja sanoi: eiko Simein sen edessa pitaisi kuoleman, etta han kirosi Herran voideltua?	
+<div class="versenum">21.</div> Mutta Abisai ZeruJan poika vastasi ja sanoi: eiko Simein sen edessa pitaisi kuoleman, etta han kirosi Herran voideltua?	
 
-22. Ja David vastasi: mita minun on teidan kanssanne, te ZeruJan pojat, etta tahdotte tanapana minulle tulla saatanaksi? Pitaisko jonkun tanapana kuoleman Israelista? Luuletteko, etten mina tieda tanapana itseni tulleeksi kuininkaaksi Israelissa?	
+<div class="versenum">22.</div> Ja David vastasi: mita minun on teidan kanssanne, te ZeruJan pojat, etta tahdotte tanapana minulle tulla saatanaksi? Pitaisko jonkun tanapana kuoleman Israelista? Luuletteko, etten mina tieda tanapana itseni tulleeksi kuininkaaksi Israelissa?	
 
-23. Sanoi siis kuningas Simeille: ei sinun pida kuoleman; ja kuningas vannoi hanelle.	
+<div class="versenum">23.</div> Sanoi siis kuningas Simeille: ei sinun pida kuoleman; ja kuningas vannoi hanelle.	
 
-24. Tuli myos MephiBoset Saulin poika kuningasta vastaan, pesemattomilla jaloilla ja ajelemattomalla parralla; ei han ollut myos pessyt vaatteitansa siita paivasta, kuin kuningas laksi ja rauhassa jalleen palasi.	
+<div class="versenum">24.</div> Tuli myos MephiBoset Saulin poika kuningasta vastaan, pesemattomilla jaloilla ja ajelemattomalla parralla; ei han ollut myos pessyt vaatteitansa siita paivasta, kuin kuningas laksi ja rauhassa jalleen palasi.	
 
-25. Kuin han tuli Jerusalemissa kuningasta vastaan, sanoi kuningas hanelle: miksi et minun kanssani tullut, MephiBoset?	
+<div class="versenum">25.</div> Kuin han tuli Jerusalemissa kuningasta vastaan, sanoi kuningas hanelle: miksi et minun kanssani tullut, MephiBoset?	
 
-26. Ja han sanoi: herra kuningas, minun palveliani on pettanyt minun; silla palvelias ajatteli: mina satuloitsen aasin, ajan ja vaellan silla kuninkaan tyko; silla palvelias on ontuva.	
+<div class="versenum">26.</div> Ja han sanoi: herra kuningas, minun palveliani on pettanyt minun; silla palvelias ajatteli: mina satuloitsen aasin, ajan ja vaellan silla kuninkaan tyko; silla palvelias on ontuva.	
 
-27. Ja viela paalliseksi on han kantanut minun herrani kuninkaan edessa palvelias paalle; vaan herrani kuningas on kuin Jumalan enkeli, tee siis mita sinulle on kelvollinen.	
+<div class="versenum">27.</div> Ja viela paalliseksi on han kantanut minun herrani kuninkaan edessa palvelias paalle; vaan herrani kuningas on kuin Jumalan enkeli, tee siis mita sinulle on kelvollinen.	
 
-28. Silla koko minun isani huone ei ole muu ollut kuin kuoleman kansa herrani kuninkaan edessa, ja sina olet palvelias istuttanut niiden sekaan, jotka sinun poydaltas syovat; mika oikeus on minulla enaa huutaa kuninkaan tyko?	
+<div class="versenum">28.</div> Silla koko minun isani huone ei ole muu ollut kuin kuoleman kansa herrani kuninkaan edessa, ja sina olet palvelias istuttanut niiden sekaan, jotka sinun poydaltas syovat; mika oikeus on minulla enaa huutaa kuninkaan tyko?	
 
-29. Kuningas sanoi hanelle: mitas tahdot enaa puhua asiastas? Mina olen sanonut: sinun ja Ziban pitaa keskenansa jakaman pellon.	
+<div class="versenum">29.</div> Kuningas sanoi hanelle: mitas tahdot enaa puhua asiastas? Mina olen sanonut: sinun ja Ziban pitaa keskenansa jakaman pellon.	
 
-30. Niin MephiBoset sanoi kuninkaalle: ottakaan han sen kokonansa, etta herrani kuningas on rauhassa kotiansa palannut.	
+<div class="versenum">30.</div> Niin MephiBoset sanoi kuninkaalle: ottakaan han sen kokonansa, etta herrani kuningas on rauhassa kotiansa palannut.	
 
-31. Ja Barsillai Gileadilainen tuli Rogelimista ja meni kuninkaan kanssa Jordanin ylitse, saattamaan hanta Jordanin ylitse.	
+<div class="versenum">31.</div> Ja Barsillai Gileadilainen tuli Rogelimista ja meni kuninkaan kanssa Jordanin ylitse, saattamaan hanta Jordanin ylitse.	
 
-32. Ja Barsillai oli sangen ijallinen, jo kahdeksankymmenen vuotinen; han oli ravinnut kuningasta, kuin han Mahanaimissa oli; silla han oli sangen jalo mies.	
+<div class="versenum">32.</div> Ja Barsillai oli sangen ijallinen, jo kahdeksankymmenen vuotinen; han oli ravinnut kuningasta, kuin han Mahanaimissa oli; silla han oli sangen jalo mies.	
 
-33. Ja kuningas sanoi Barsillaille: seuraa minua, mina ravitsen sinun minun kanssani Jerusalemissa.	
+<div class="versenum">33.</div> Ja kuningas sanoi Barsillaille: seuraa minua, mina ravitsen sinun minun kanssani Jerusalemissa.	
 
-34. Mutta Barsillai sanoi kuninkaalle: kuinka monta vuotta minulla enaa on elaa, etta mina menisin kuninkaan kanssa Jerusalemiin?	
+<div class="versenum">34.</div> Mutta Barsillai sanoi kuninkaalle: kuinka monta vuotta minulla enaa on elaa, etta mina menisin kuninkaan kanssa Jerusalemiin?	
 
-35. Mina olen jo tanapana kahdaksankymmenen ajastaikainen, tietaisinko mina, mika hyva eli paha olis? eli maistaisko palvelias, mita han syo ja juo? taikka kuulisinko mina silleen veisaajain ja laulajain aanta? Miksi palvelias pitais vaivaaman herraani kuningasta?	
+<div class="versenum">35.</div> Mina olen jo tanapana kahdaksankymmenen ajastaikainen, tietaisinko mina, mika hyva eli paha olis? eli maistaisko palvelias, mita han syo ja juo? taikka kuulisinko mina silleen veisaajain ja laulajain aanta? Miksi palvelias pitais vaivaaman herraani kuningasta?	
 
-36. Sinun palvelias menee vaha Jordanin ylitse kuninkaan kanssa: minkatahden kuningas tahtoo minulle nain kostaa?	
+<div class="versenum">36.</div> Sinun palvelias menee vaha Jordanin ylitse kuninkaan kanssa: minkatahden kuningas tahtoo minulle nain kostaa?	
 
-37. Salli siis nyt palvelias palata jallensa, etta mina kuolisin minun kaupungissani ja haudattaisiin isani ja aitini hautaan: ja katso, tassa on sinun palvelias Kimeham, han menkoon herrani kuninkaan kanssa: ja tee hanelle, mita sinulle on kelvollinen.	
+<div class="versenum">37.</div> Salli siis nyt palvelias palata jallensa, etta mina kuolisin minun kaupungissani ja haudattaisiin isani ja aitini hautaan: ja katso, tassa on sinun palvelias Kimeham, han menkoon herrani kuninkaan kanssa: ja tee hanelle, mita sinulle on kelvollinen.	
 
-38. Kuningas vastasi: Kimehamin pitaa seuraaman minua ylitse, ja mina teen hanelle, mika sinulle on otollinen, ja kaikki mitas minulta anot, teen mina sinulle.	
+<div class="versenum">38.</div> Kuningas vastasi: Kimehamin pitaa seuraaman minua ylitse, ja mina teen hanelle, mika sinulle on otollinen, ja kaikki mitas minulta anot, teen mina sinulle.	
 
-39. Kuin kaikki kansa ja kuningas olivat menneet Jordinin ylitse, antoi kuningas Barsillain suuta ja siunasi hanta, ja han palasi kotiansa.	
+<div class="versenum">39.</div> Kuin kaikki kansa ja kuningas olivat menneet Jordinin ylitse, antoi kuningas Barsillain suuta ja siunasi hanta, ja han palasi kotiansa.	
 
-40. Niin kuningas meni Gilgaliin ja Kimeham seurasi hanta; ja kaikki Juudan vaki oli saattanut kuningasta ylitse, niin myos puoli Israelin kansasta.	
+<div class="versenum">40.</div> Niin kuningas meni Gilgaliin ja Kimeham seurasi hanta; ja kaikki Juudan vaki oli saattanut kuningasta ylitse, niin myos puoli Israelin kansasta.	
 
-41. Ja katso, silloin tulivat kaikki Israelin miehet kuninkaan tyko ja sanoivat hanelle: miksi meidan veljemme Juudan miehet ovat varastaneet sinun ja vieneet kuninkaan perheinensa Jordanin ylitse, kaikki myos Davidin miehet hanen kanssansa.	
+<div class="versenum">41.</div> Ja katso, silloin tulivat kaikki Israelin miehet kuninkaan tyko ja sanoivat hanelle: miksi meidan veljemme Juudan miehet ovat varastaneet sinun ja vieneet kuninkaan perheinensa Jordanin ylitse, kaikki myos Davidin miehet hanen kanssansa.	
 
-42. Niin vastasivat kaikki Juudan miehet Israelin miehille: silla kuningas on meita laheisempi, miksi te sentahden niin narkastytte? Vai luuletteko te, etta me jollakulla olemme kuninkaalta ravitut, taikka joitakin lahjoja saaneet?	
+<div class="versenum">42.</div> Niin vastasivat kaikki Juudan miehet Israelin miehille: silla kuningas on meita laheisempi, miksi te sentahden niin narkastytte? Vai luuletteko te, etta me jollakulla olemme kuninkaalta ravitut, taikka joitakin lahjoja saaneet?	
 
-43. Niin Israelin miehet vastasivat Juudan miehia, sanoen: meilla on kymmenen osaa kuninkaassa, enemmin myos David meille tulee kuin teille: kuinka siis sina olet minua niin halvaksi lukenut, ettei minun olisi sopinut ensimaisena olla kuningastani noutamassa? Mutta Juudan miehet puhuivat tuimemmin kuin Israelin miehet.	
+<div class="versenum">43.</div> Niin Israelin miehet vastasivat Juudan miehia, sanoen: meilla on kymmenen osaa kuninkaassa, enemmin myos David meille tulee kuin teille: kuinka siis sina olet minua niin halvaksi lukenut, ettei minun olisi sopinut ensimaisena olla kuningastani noutamassa? Mutta Juudan miehet puhuivat tuimemmin kuin Israelin miehet.	
 

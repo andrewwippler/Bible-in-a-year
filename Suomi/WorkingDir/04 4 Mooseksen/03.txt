@@ -1,104 +1,104 @@
 4 Mooseksen 3	
 	
-1. Namat ovat Aaronin ja Moseksen sukukunnat siihen aikaan koska Herra puhui Mosekselle Sinain vuorella.	
+<div class="versenum">1.</div> Namat ovat Aaronin ja Moseksen sukukunnat siihen aikaan koska Herra puhui Mosekselle Sinain vuorella.	
 
-2. Ja namat ovat Aaronin poikain nimet: Nadab esikoinen, sitalikin Abihu, Eleatsar ja Itamar.	
+<div class="versenum">2.</div> Ja namat ovat Aaronin poikain nimet: Nadab esikoinen, sitalikin Abihu, Eleatsar ja Itamar.	
 
-3. Namat ovat Aaronin poikain nimet, jotka olivat papiksi voidellut, ja heidan katensa taytetyt papin virkaan.	
+<div class="versenum">3.</div> Namat ovat Aaronin poikain nimet, jotka olivat papiksi voidellut, ja heidan katensa taytetyt papin virkaan.	
 
-4. Mutta Nadab ja Abihu kuolivat Herran edessa, koska he uhrasivat vierasta tulta Herran edessa Sinain korvessa, ja ei ollut heilla poikia; mutta Eleatsar ja Itamar tekivat papin virkaa isansa Aaronin edessa.	
+<div class="versenum">4.</div> Mutta Nadab ja Abihu kuolivat Herran edessa, koska he uhrasivat vierasta tulta Herran edessa Sinain korvessa, ja ei ollut heilla poikia; mutta Eleatsar ja Itamar tekivat papin virkaa isansa Aaronin edessa.	
 
-5. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">5.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-6. Tuo edes Levin sukukunta ja aseta heita papin Aaronin eteen, palvelemaan hanta,	
+<div class="versenum">6.</div> Tuo edes Levin sukukunta ja aseta heita papin Aaronin eteen, palvelemaan hanta,	
 
-7. Ja pitamaan vaarin hanen vartiostansa ja koko seurakunnan vartiosta, seurakunnan majan edessa, ja palvelemaan majan palveluksessa,	
+<div class="versenum">7.</div> Ja pitamaan vaarin hanen vartiostansa ja koko seurakunnan vartiosta, seurakunnan majan edessa, ja palvelemaan majan palveluksessa,	
 
-8. Ja tallella pitamaan kaikki seurakunnan majan astiat, ja ottamaan vaarin Israelin lasten vartioitsemisesta, palvelemaan majan palveluksessa.	
+<div class="versenum">8.</div> Ja tallella pitamaan kaikki seurakunnan majan astiat, ja ottamaan vaarin Israelin lasten vartioitsemisesta, palvelemaan majan palveluksessa.	
 
-9. Ja sinun pitaa antaman Aaronille ja hanen pojillensa Levilaiset; he ovat niille lahjaksi annetut Israelin lapsista.	
+<div class="versenum">9.</div> Ja sinun pitaa antaman Aaronille ja hanen pojillensa Levilaiset; he ovat niille lahjaksi annetut Israelin lapsista.	
 
-10. Mutta Aaronin poikinensa pitaa sinun asettaman pitamaan vaaria pappeudestansa. Ja jos joku muukalainen siihen lahestyy, sen pitaa kuoleman.	
+<div class="versenum">10.</div> Mutta Aaronin poikinensa pitaa sinun asettaman pitamaan vaaria pappeudestansa. Ja jos joku muukalainen siihen lahestyy, sen pitaa kuoleman.	
 
-11. Ja Herra puhui Mosekselle sanoen:	
+<div class="versenum">11.</div> Ja Herra puhui Mosekselle sanoen:	
 
-12. Katso, mina otin Levilaiset Israelin lapsista kaikkein esikoisten edesta, jotka ensisti aitinsa kohdun avaavat Israelin lasten seassa, niin etta Levilaisten pitaa oleman minun.	
+<div class="versenum">12.</div> Katso, mina otin Levilaiset Israelin lapsista kaikkein esikoisten edesta, jotka ensisti aitinsa kohdun avaavat Israelin lasten seassa, niin etta Levilaisten pitaa oleman minun.	
 
-13. Silla kaikki esikoiset ovat minun: sina paivana, kuin mina loin kaikki esikoiset Egyptin maalla, pyhitin mina itselleni kaikki esikoiset Israelissa, ihmisista niin karjaan asti, etta ne olisivat minun: Mina Herra.	
+<div class="versenum">13.</div> Silla kaikki esikoiset ovat minun: sina paivana, kuin mina loin kaikki esikoiset Egyptin maalla, pyhitin mina itselleni kaikki esikoiset Israelissa, ihmisista niin karjaan asti, etta ne olisivat minun: Mina Herra.	
 
-14. Ja Herra puhui Mosekselle Sinain korvessa, sanoen:	
+<div class="versenum">14.</div> Ja Herra puhui Mosekselle Sinain korvessa, sanoen:	
 
-15. Lue Levin pojat heidan isainsa huoneen ja sukukuntainsa jalkeen: kaiken miehenpuolen, kuukauden vanhan ja sen ylitse, pitaa sinun lukeman.	
+<div class="versenum">15.</div> Lue Levin pojat heidan isainsa huoneen ja sukukuntainsa jalkeen: kaiken miehenpuolen, kuukauden vanhan ja sen ylitse, pitaa sinun lukeman.	
 
-16. Ja Moses luki heita Herran sanan jalkeen, niinkuin hanelle oli kasketty.	
+<div class="versenum">16.</div> Ja Moses luki heita Herran sanan jalkeen, niinkuin hanelle oli kasketty.	
 
-17. Ja namat olivat Levin pojat nimeinsa jalkeen: Gerson, Kahat ja Merari.	
+<div class="versenum">17.</div> Ja namat olivat Levin pojat nimeinsa jalkeen: Gerson, Kahat ja Merari.	
 
-18. Mutta Gersonin poikain nimet heidan sukukunnissansa olivat Libni ja Simei.	
+<div class="versenum">18.</div> Mutta Gersonin poikain nimet heidan sukukunnissansa olivat Libni ja Simei.	
 
-19. Kahatin pojat heidan sukukunnissansa: Amram, Jetsehar, Hebron ja Usiel.	
+<div class="versenum">19.</div> Kahatin pojat heidan sukukunnissansa: Amram, Jetsehar, Hebron ja Usiel.	
 
-20. Merarin pojat heidan sukukunnissansa: Maheli ja Musi. Namat ovat Levin sukukunnat heidan isainsa huoneen jalkeen.	
+<div class="versenum">20.</div> Merarin pojat heidan sukukunnissansa: Maheli ja Musi. Namat ovat Levin sukukunnat heidan isainsa huoneen jalkeen.	
 
-21. Namat ovat Gersonin sukukunnat: Libnilaiset ja Simeilaiset.	
+<div class="versenum">21.</div> Namat ovat Gersonin sukukunnat: Libnilaiset ja Simeilaiset.	
 
-22. Heidan lukunsa, kaikki miehenpuoli kuukauden vanha ja sen ylitse, ne olivat seitsemantuhatta ja viisisataa.	
+<div class="versenum">22.</div> Heidan lukunsa, kaikki miehenpuoli kuukauden vanha ja sen ylitse, ne olivat seitsemantuhatta ja viisisataa.	
 
-23. Ja Gersonilaisten sukukunnat pitaa heitansa sioittaman takapuolelle majaa, lanteen pain.	
+<div class="versenum">23.</div> Ja Gersonilaisten sukukunnat pitaa heitansa sioittaman takapuolelle majaa, lanteen pain.	
 
-24. Heidan paamiehensa, pitaa oleman Eljasaph Laelin poika.	
+<div class="versenum">24.</div> Heidan paamiehensa, pitaa oleman Eljasaph Laelin poika.	
 
-25. Ja Gersonin lasten pitaa vartioitseman seurakunnan majassa Tabernaklia, ja majaa, peitteita, ja seurakunnan majan oven vaatteita,	
+<div class="versenum">25.</div> Ja Gersonin lasten pitaa vartioitseman seurakunnan majassa Tabernaklia, ja majaa, peitteita, ja seurakunnan majan oven vaatteita,	
 
-26. Ja pihan vaatteita, ja pihan oven peitetta, joka on Tabernaklin ja alttarin paalla ympari, ja koysia ja kaikkia, mita sen palvelukseen tarvitaan.	
+<div class="versenum">26.</div> Ja pihan vaatteita, ja pihan oven peitetta, joka on Tabernaklin ja alttarin paalla ympari, ja koysia ja kaikkia, mita sen palvelukseen tarvitaan.	
 
-27. Namat ovat Kahatin sukukunnat: Amramilaiset, Jetseharilaiset, Hebronilaiset ja Usielilaiset:	
+<div class="versenum">27.</div> Namat ovat Kahatin sukukunnat: Amramilaiset, Jetseharilaiset, Hebronilaiset ja Usielilaiset:	
 
-28. Kaikki miehenpuoli kuukauden vanhasta ja sen ylitse, lukuansa kahdeksantuhatta ja kuusisataa, joiden pitaa pitaman vaarin pyhan vartioitsemisesta,	
+<div class="versenum">28.</div> Kaikki miehenpuoli kuukauden vanhasta ja sen ylitse, lukuansa kahdeksantuhatta ja kuusisataa, joiden pitaa pitaman vaarin pyhan vartioitsemisesta,	
 
-29. Ja pitaa heitansa sioittaman etelan puolelle, sivulle majaa.	
+<div class="versenum">29.</div> Ja pitaa heitansa sioittaman etelan puolelle, sivulle majaa.	
 
-30. Ja heidan paamiehensa pitaa oleman Elitsaphan Usielin poika.	
+<div class="versenum">30.</div> Ja heidan paamiehensa pitaa oleman Elitsaphan Usielin poika.	
 
-31. Ja heidan pitaa vartoitseman arkkia, poytaa, kynttilajalkaa, alttareita ja kaikkia pyhan astioita, joilla palvelusta tehdaan, ja peitteita ja kaikkia, mita palvelukseen tarvitaan.	
+<div class="versenum">31.</div> Ja heidan pitaa vartoitseman arkkia, poytaa, kynttilajalkaa, alttareita ja kaikkia pyhan astioita, joilla palvelusta tehdaan, ja peitteita ja kaikkia, mita palvelukseen tarvitaan.	
 
-32. Mutta kaikkein Levin paamiesten ylimmainen pitaa oleman Eleatsarin papin Aaronin pojan, ylitse niiden, jotka pitavat vaarin pyhan vartioitsemisesta.	
+<div class="versenum">32.</div> Mutta kaikkein Levin paamiesten ylimmainen pitaa oleman Eleatsarin papin Aaronin pojan, ylitse niiden, jotka pitavat vaarin pyhan vartioitsemisesta.	
 
-33. Namat ovat Merarin sukukunnat: Mahelilaiset ja Musilaiset,	
+<div class="versenum">33.</div> Namat ovat Merarin sukukunnat: Mahelilaiset ja Musilaiset,	
 
-34. Joiden luku oli kuusituhatta ja kaksisataa, kaikki miehenpuoli, kuukauden vanha ja sen ylitse.	
+<div class="versenum">34.</div> Joiden luku oli kuusituhatta ja kaksisataa, kaikki miehenpuoli, kuukauden vanha ja sen ylitse.	
 
-35. Heidan paamiehensa pitaa oleman Suriel Abihailin poika, ja pitaa sioittaman heitansa sivulle majaa, pohjan puolelle.	
+<div class="versenum">35.</div> Heidan paamiehensa pitaa oleman Suriel Abihailin poika, ja pitaa sioittaman heitansa sivulle majaa, pohjan puolelle.	
 
-36. Ja heidan virkansa pitaa oleman, vartioida majan lautoja, korennoita, patsaita ja majan jalkoja, ja kaikkia astioita, jotka sen palvelukseen tarvitaan,	
+<div class="versenum">36.</div> Ja heidan virkansa pitaa oleman, vartioida majan lautoja, korennoita, patsaita ja majan jalkoja, ja kaikkia astioita, jotka sen palvelukseen tarvitaan,	
 
-37. Niin myos patsaita pihan ymparilla, ja sen jalkoja, ynna paanuin ja koytten kanssa.	
+<div class="versenum">37.</div> Niin myos patsaita pihan ymparilla, ja sen jalkoja, ynna paanuin ja koytten kanssa.	
 
-38. Mutta seurakunnan majan etiselle puolelle itaan pain pitaa Moses ja Aaron ja hanen poikansa heitansa sioittaman, ja vartioitseman pyhan vartioita Israelin lasten puolesta. Jos joku muukalainen siihen lahestyy, sen pitaa kuoleman.	
+<div class="versenum">38.</div> Mutta seurakunnan majan etiselle puolelle itaan pain pitaa Moses ja Aaron ja hanen poikansa heitansa sioittaman, ja vartioitseman pyhan vartioita Israelin lasten puolesta. Jos joku muukalainen siihen lahestyy, sen pitaa kuoleman.	
 
-39. Kaikkein Levilaisten luku, jotka Moses ja Aaron lukivat, heidan sukukunnissansa Herran sanan jalkeen, kaikki miehenpuoli, kuukauden vanha ja sen ylitse, oli kaksikolmattakymmenta tuhatta.	
+<div class="versenum">39.</div> Kaikkein Levilaisten luku, jotka Moses ja Aaron lukivat, heidan sukukunnissansa Herran sanan jalkeen, kaikki miehenpuoli, kuukauden vanha ja sen ylitse, oli kaksikolmattakymmenta tuhatta.	
 
-40. Ja Herra puhui Mosekselle: lue kaikki esikoiset, jotka miehenpuolet ovat Israelin lasten seassa, kuukauden vanhat ja sen ylitse, ja ota heidan nimeinsa luku.	
+<div class="versenum">40.</div> Ja Herra puhui Mosekselle: lue kaikki esikoiset, jotka miehenpuolet ovat Israelin lasten seassa, kuukauden vanhat ja sen ylitse, ja ota heidan nimeinsa luku.	
 
-41. Ja sinun pitaa ottaman Levilaiset minulle, mina Herra, kaikkein Israelin lasten esikoisten edesta, ja Levilaisten karjat, kaikkein Israelin lasten karjan esikoisten edesta.	
+<div class="versenum">41.</div> Ja sinun pitaa ottaman Levilaiset minulle, mina Herra, kaikkein Israelin lasten esikoisten edesta, ja Levilaisten karjat, kaikkein Israelin lasten karjan esikoisten edesta.	
 
-42. Ja Moses luki, niinkuin Herra hanelle kaskenyt oli, kaikki Israelin lasten esikoiset.	
+<div class="versenum">42.</div> Ja Moses luki, niinkuin Herra hanelle kaskenyt oli, kaikki Israelin lasten esikoiset.	
 
-43. Ja olivat kaikki miehiset esikoiset, heidan nimeinsa luvun jalkeen, kuukauden vanhat ja sen ylitse luetut, kaksikolmattakymmenta tuhatta, kaksisataa ja kolmekahdeksattakymmenta.	
+<div class="versenum">43.</div> Ja olivat kaikki miehiset esikoiset, heidan nimeinsa luvun jalkeen, kuukauden vanhat ja sen ylitse luetut, kaksikolmattakymmenta tuhatta, kaksisataa ja kolmekahdeksattakymmenta.	
 
-44. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">44.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-45. Ota Levilaiset kaikkein Israelin lasten esikoisten edesta, ja Levilaisten karja heidan karjansa edesta: ja Levilaisten pitaa oleman minun, mina olen Herra.	
+<div class="versenum">45.</div> Ota Levilaiset kaikkein Israelin lasten esikoisten edesta, ja Levilaisten karja heidan karjansa edesta: ja Levilaisten pitaa oleman minun, mina olen Herra.	
 
-46. Mutta lunastuksen niiden kahdensadan ja kolmenkahdeksattakymmenen edesta, jotka jaavat Israelin lasten esikoisista Levilaisten luvun ylitse,	
+<div class="versenum">46.</div> Mutta lunastuksen niiden kahdensadan ja kolmenkahdeksattakymmenen edesta, jotka jaavat Israelin lasten esikoisista Levilaisten luvun ylitse,	
 
-47. Pitaa sinun ottaman viisi siklia joka hengelta: pyhan siklin jalkeen pitaa sinun sen ottaman; sikli maksaa kaksikymmenta geraa.	
+<div class="versenum">47.</div> Pitaa sinun ottaman viisi siklia joka hengelta: pyhan siklin jalkeen pitaa sinun sen ottaman; sikli maksaa kaksikymmenta geraa.	
 
-48. Ja sinun pitaa antaman rahan Aaronille ja hanen pojillensa, lunastettuin edesta, jotka ylitse olivat.	
+<div class="versenum">48.</div> Ja sinun pitaa antaman rahan Aaronille ja hanen pojillensa, lunastettuin edesta, jotka ylitse olivat.	
 
-49. Niin otti Moses lunastusrahan niilta, jotka ylitse olivat Levilaisten lunastetuista.	
+<div class="versenum">49.</div> Niin otti Moses lunastusrahan niilta, jotka ylitse olivat Levilaisten lunastetuista.	
 
-50. Israelin lasten esikoisilta otti han rahan, tuhannen kolmesataa ja viisiseitsemattakymmenta siklia: pyhan siklin jalkeen.	
+<div class="versenum">50.</div> Israelin lasten esikoisilta otti han rahan, tuhannen kolmesataa ja viisiseitsemattakymmenta siklia: pyhan siklin jalkeen.	
 
-51. Ja Moses antoi lunastusrahan Aaronille ja hanen pojillensa Herran sanan jalkeen, niinkuin Herra oli Mosekselle kaskenyt.	
+<div class="versenum">51.</div> Ja Moses antoi lunastusrahan Aaronille ja hanen pojillensa Herran sanan jalkeen, niinkuin Herra oli Mosekselle kaskenyt.	
 

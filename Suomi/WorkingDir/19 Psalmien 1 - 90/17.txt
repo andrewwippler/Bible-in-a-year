@@ -1,32 +1,32 @@
 Psalmien 17	
 	
-1. Davidin rukous. Kuule, Herra, oikeutta, havaitse minun huutoni, ota vaari minun rukouksestani, joka ei viekkaasta suusta lahde.	
+<div class="versenum">1.</div> Davidin rukous. Kuule, Herra, oikeutta, havaitse minun huutoni, ota vaari minun rukouksestani, joka ei viekkaasta suusta lahde.	
 
-2. Puhu sina minun asiassani, ja sinun silmas katsokaan oikeutta.	
+<div class="versenum">2.</div> Puhu sina minun asiassani, ja sinun silmas katsokaan oikeutta.	
 
-3. Sina koettelet minun sydameni, ja etsiskelet sita yolla, ja tutkit minua, ja et mitaan loyda; mina olen aikonut, ettei minun suuni missakaan riko.	
+<div class="versenum">3.</div> Sina koettelet minun sydameni, ja etsiskelet sita yolla, ja tutkit minua, ja et mitaan loyda; mina olen aikonut, ettei minun suuni missakaan riko.	
 
-4. Mina varjelen minuni sinun huultes sanoissa, ihmisten toista, murhaajan tiella.	
+<div class="versenum">4.</div> Mina varjelen minuni sinun huultes sanoissa, ihmisten toista, murhaajan tiella.	
 
-5. Hallitse minun kayntoni poluillas, ettei minun askeleeni liukahtaisi.	
+<div class="versenum">5.</div> Hallitse minun kayntoni poluillas, ettei minun askeleeni liukahtaisi.	
 
-6. Mina huudan sinua, ettas, Jumala, minua kuulisit: kallista korvas minun puoleeni, kuule minun puheeni.	
+<div class="versenum">6.</div> Mina huudan sinua, ettas, Jumala, minua kuulisit: kallista korvas minun puoleeni, kuule minun puheeni.	
 
-7. Osoita ihmeellinen hyvyytes, sina niiden vapahtaja, jotka sinuun uskaltavat, niita vastaan, jotka sinun oikiaa kattas vastaan ovat.	
+<div class="versenum">7.</div> Osoita ihmeellinen hyvyytes, sina niiden vapahtaja, jotka sinuun uskaltavat, niita vastaan, jotka sinun oikiaa kattas vastaan ovat.	
 
-8. Varjele minua niinkuin silmateraa: suojele minua siipeis varjon alla.	
+<div class="versenum">8.</div> Varjele minua niinkuin silmateraa: suojele minua siipeis varjon alla.	
 
-9. Jumalattomista, jotka minua havittavat, vihollisistani, jotka minun sieluuni piirittavat.	
+<div class="versenum">9.</div> Jumalattomista, jotka minua havittavat, vihollisistani, jotka minun sieluuni piirittavat.	
 
-10. Heidan lihavansa yhta pitavat: he puhuvat suullansa ylpiasti.	
+<div class="versenum">10.</div> Heidan lihavansa yhta pitavat: he puhuvat suullansa ylpiasti.	
 
-11. Kuhunka me menemme, niin he meita piirittavat: siihen he silmansa tarkoittavat meita kukistaaksensa maahan,	
+<div class="versenum">11.</div> Kuhunka me menemme, niin he meita piirittavat: siihen he silmansa tarkoittavat meita kukistaaksensa maahan,	
 
-12. Niinkuin jalopeura saalista himoitsee, niinkuin nuori jalopeura, joka luolasta vaijyy.	
+<div class="versenum">12.</div> Niinkuin jalopeura saalista himoitsee, niinkuin nuori jalopeura, joka luolasta vaijyy.	
 
-13. Nouse, Herra, ennata hanen kasvonsa, ja polje hanta; vapahda minun sieluni miekallas jumalattomista,	
+<div class="versenum">13.</div> Nouse, Herra, ennata hanen kasvonsa, ja polje hanta; vapahda minun sieluni miekallas jumalattomista,	
 
-14. Sinun kadellas ihmisista, Herra, taman maailman ihmisista, joiden osa on tassa elamassa, ja joiden vatsan sina taytat tavarallas: heidan lapsensa ravitaan, ja he jattavat tahteensa lapsukaisillensa.	
+<div class="versenum">14.</div> Sinun kadellas ihmisista, Herra, taman maailman ihmisista, joiden osa on tassa elamassa, ja joiden vatsan sina taytat tavarallas: heidan lapsensa ravitaan, ja he jattavat tahteensa lapsukaisillensa.	
 
-15. Mutta mina saan nahda sinun kasvos vanhurskaudessa: mina ravitaan herattyani sinun kuvas jalkeen.	
+<div class="versenum">15.</div> Mutta mina saan nahda sinun kasvos vanhurskaudessa: mina ravitaan herattyani sinun kuvas jalkeen.	
 

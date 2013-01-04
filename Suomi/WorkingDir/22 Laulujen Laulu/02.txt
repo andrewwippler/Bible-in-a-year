@@ -1,36 +1,36 @@
 Laulujen Laulu 2	
 	
-1. Mina olen Saronin kukkanen, ja kukoistus laaksossa.	
+<div class="versenum">1.</div> Mina olen Saronin kukkanen, ja kukoistus laaksossa.	
 
-2. Niinkuin ruusu orjantappuroissa, niin on armaani tytarten seassa.	
+<div class="versenum">2.</div> Niinkuin ruusu orjantappuroissa, niin on armaani tytarten seassa.	
 
-3. Niinkuin omenapuu metsapuiden seassa, niin on ystavani poikain seassa: mina istun hanen varjossansa, jota mina anon, ja hanen hedelmansa on minun suussani makia.	
+<div class="versenum">3.</div> Niinkuin omenapuu metsapuiden seassa, niin on ystavani poikain seassa: mina istun hanen varjossansa, jota mina anon, ja hanen hedelmansa on minun suussani makia.	
 
-4. Han johdattaa minua viinakellariinsa; ja rakkaus on hanen lippunsa minun paallani.	
+<div class="versenum">4.</div> Han johdattaa minua viinakellariinsa; ja rakkaus on hanen lippunsa minun paallani.	
 
-5. Virvoittakaat minua viinaleileilla, ja vahvistakaat minua omenilla; silla mina olen sairas rakkaudesta.	
+<div class="versenum">5.</div> Virvoittakaat minua viinaleileilla, ja vahvistakaat minua omenilla; silla mina olen sairas rakkaudesta.	
 
-6. Hanen vasen katensa on minun paani alla, hanen oikia katensa halaa minua.	
+<div class="versenum">6.</div> Hanen vasen katensa on minun paani alla, hanen oikia katensa halaa minua.	
 
-7. Mina vannotan tieta, Jerusalemin tyttaret, metsavuohten eli naaraspeurain kautta kedolla, ettette herata eli vaivaa armastani, siihen asti kuin han itse tahtoo.	
+<div class="versenum">7.</div> Mina vannotan tieta, Jerusalemin tyttaret, metsavuohten eli naaraspeurain kautta kedolla, ettette herata eli vaivaa armastani, siihen asti kuin han itse tahtoo.	
 
-8. Tama on ystavani aani, katso, han tulee: han hyppaa vuorilla ja karkaa kukkuloille.	
+<div class="versenum">8.</div> Tama on ystavani aani, katso, han tulee: han hyppaa vuorilla ja karkaa kukkuloille.	
 
-9. Ystavani on metsavuohen eli nuoren peuran kaltainen: katso, han seisoo seinan takana, ja katsoo akkunasta sisalle, ja kurkistelee hakin lavitse.	
+<div class="versenum">9.</div> Ystavani on metsavuohen eli nuoren peuran kaltainen: katso, han seisoo seinan takana, ja katsoo akkunasta sisalle, ja kurkistelee hakin lavitse.	
 
-10. Ystavani vastaa ja sanoo minulle: nouse armaani, ihanaiseni, ja tule.	
+<div class="versenum">10.</div> Ystavani vastaa ja sanoo minulle: nouse armaani, ihanaiseni, ja tule.	
 
-11. Silla katso, talvi on kulunut, ja sade lakannut ja mennyt pois:	
+<div class="versenum">11.</div> Silla katso, talvi on kulunut, ja sade lakannut ja mennyt pois:	
 
-12. Kukkaset ovat puhjenneet kedolla, kevat on tullut, ja toukomettisen aani kuuluu meidan maassamme;	
+<div class="versenum">12.</div> Kukkaset ovat puhjenneet kedolla, kevat on tullut, ja toukomettisen aani kuuluu meidan maassamme;	
 
-13. Fikunapuut puhkeevat, viinapuut kukoistavat ja antavat hajunsa: nouse, armaani, ihanaiseni, ja tule.	
+<div class="versenum">13.</div> Fikunapuut puhkeevat, viinapuut kukoistavat ja antavat hajunsa: nouse, armaani, ihanaiseni, ja tule.	
 
-14. Kyhkylaiseni vuoren raossa ja kivirauniossa, anna minun nahda kasvos, anna minun kuulla aanes; silla sinun aanes on suloinen, ja kasvos ihanainen.	
+<div class="versenum">14.</div> Kyhkylaiseni vuoren raossa ja kivirauniossa, anna minun nahda kasvos, anna minun kuulla aanes; silla sinun aanes on suloinen, ja kasvos ihanainen.	
 
-15. Ottakaat meille ketut kiinni, ne vahat ketut, jotka turmelevat viinamaet; silla meidan viinamakemme ovat rohkaleilla.	
+<div class="versenum">15.</div> Ottakaat meille ketut kiinni, ne vahat ketut, jotka turmelevat viinamaet; silla meidan viinamakemme ovat rohkaleilla.	
 
-16. Ystavani on minun, ja mina hanen, joka kaitsee kukkasten keskella,	
+<div class="versenum">16.</div> Ystavani on minun, ja mina hanen, joka kaitsee kukkasten keskella,	
 
-17. Siihenasti etta paiva jaahtyy ja varjot kulkevat pois. Palaja, ole niinkuin metsavuohi, ystavani, eli niinkuin nuori peura Eroitusvuorilla.	
+<div class="versenum">17.</div> Siihenasti etta paiva jaahtyy ja varjot kulkevat pois. Palaja, ole niinkuin metsavuohi, ystavani, eli niinkuin nuori peura Eroitusvuorilla.	
 

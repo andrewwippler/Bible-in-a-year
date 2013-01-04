@@ -1,56 +1,56 @@
 Joosuan 6	
 	
-1. Ja Jeriho oli suljettu ja visusti varustettu Israelin lasten edesta, niin ettei yksikaan taitanut tulla ulos eli sisalle.	
+<div class="versenum">1.</div> Ja Jeriho oli suljettu ja visusti varustettu Israelin lasten edesta, niin ettei yksikaan taitanut tulla ulos eli sisalle.	
 
-2. Mutta Herra sanoi Josualle: katso, mina olen antanut Jerihon, ja hanen kuninkaansa, vakevat sotajoukot, sinun katees.	
+<div class="versenum">2.</div> Mutta Herra sanoi Josualle: katso, mina olen antanut Jerihon, ja hanen kuninkaansa, vakevat sotajoukot, sinun katees.	
 
-3. Kaykaat ympari kaupunkia kaikki sotamiehet, ja piirittakaat kaupunki kerta ympari; ja tee niin kuusi paivaa.	
+<div class="versenum">3.</div> Kaykaat ympari kaupunkia kaikki sotamiehet, ja piirittakaat kaupunki kerta ympari; ja tee niin kuusi paivaa.	
 
-4. Ja seitseman pappia ottakaan seitseman riemuvuoden basunaa arkin eteen, ja seitsemantena paivana kaykaat seitseman kertaa kaupungin ympari, ja papit soittakaan basunilla.	
+<div class="versenum">4.</div> Ja seitseman pappia ottakaan seitseman riemuvuoden basunaa arkin eteen, ja seitsemantena paivana kaykaat seitseman kertaa kaupungin ympari, ja papit soittakaan basunilla.	
 
-5. Ja kuin he soittavat riemuvuoden basunaa pitkaan, ja te kuulette basunan aanen, niin nostakaan kaikki kansa suuren aanen ja huutakaan; ja niin kaupungin muuri hajoo itsestansa, ja kansa astuu sinne sisalle itsekukin kohdastansa.	
+<div class="versenum">5.</div> Ja kuin he soittavat riemuvuoden basunaa pitkaan, ja te kuulette basunan aanen, niin nostakaan kaikki kansa suuren aanen ja huutakaan; ja niin kaupungin muuri hajoo itsestansa, ja kansa astuu sinne sisalle itsekukin kohdastansa.	
 
-6. Niin kutsui Josua Nunin poika papit ja sanoi heille: kantakaat liitonarkki, ja seitseman pappia kantakaan seitseman riemuvuoden basunaa Herran arkin edella.	
+<div class="versenum">6.</div> Niin kutsui Josua Nunin poika papit ja sanoi heille: kantakaat liitonarkki, ja seitseman pappia kantakaan seitseman riemuvuoden basunaa Herran arkin edella.	
 
-7. Mutta kansalle sanoi han: menkaat matkaan ja kaykaat kaupungin ympari, ja se, joka sota-aseilla varustettu on, kaykaan Herran arkin edella.	
+<div class="versenum">7.</div> Mutta kansalle sanoi han: menkaat matkaan ja kaykaat kaupungin ympari, ja se, joka sota-aseilla varustettu on, kaykaan Herran arkin edella.	
 
-8. Ja kuin Josua namat kansalle sanonut oli, niin ottivat ne seitseman pappia seitseman riemuvuoden basunaa, ja kavivat Herran arkin edella, ja soittivat basunilla, ja Herran liitonarkki seurasi heita heidan jalissansa.	
+<div class="versenum">8.</div> Ja kuin Josua namat kansalle sanonut oli, niin ottivat ne seitseman pappia seitseman riemuvuoden basunaa, ja kavivat Herran arkin edella, ja soittivat basunilla, ja Herran liitonarkki seurasi heita heidan jalissansa.	
 
-9. Ja ne, jotka sota-aseilla hankitut olivat, kavivat pappein edella ja soittivat basunilla; vaan yhteinen kansa seurasi arkkia, ja soitettiin basunilla.	
+<div class="versenum">9.</div> Ja ne, jotka sota-aseilla hankitut olivat, kavivat pappein edella ja soittivat basunilla; vaan yhteinen kansa seurasi arkkia, ja soitettiin basunilla.	
 
-10. Mutta Josua kaski kansaa ja sanoi: ei teidan pida huutaman eika antaman teidan aantanne kuulla eli sanaa lausuman suustanne, siihen paivaan asti kuin mina sanon teille: huutakaat, niin antakaat kuulla sodan aani.	
+<div class="versenum">10.</div> Mutta Josua kaski kansaa ja sanoi: ei teidan pida huutaman eika antaman teidan aantanne kuulla eli sanaa lausuman suustanne, siihen paivaan asti kuin mina sanon teille: huutakaat, niin antakaat kuulla sodan aani.	
 
-11. Niin kavi Herran arkki kaupungin ympari, piirittaen sen yhden kerran; ja he tulivat leiriin ja pitivat yota leirissa,	
+<div class="versenum">11.</div> Niin kavi Herran arkki kaupungin ympari, piirittaen sen yhden kerran; ja he tulivat leiriin ja pitivat yota leirissa,	
 
-12. Ja Josua nousi huomeneltain varhain, ja papit kantoivat Herran arkkia,	
+<div class="versenum">12.</div> Ja Josua nousi huomeneltain varhain, ja papit kantoivat Herran arkkia,	
 
-13. ne seitseman pappia kantoivat ne seitseman riemuvuoden basunaa Herran arkin edella, ja kayden alati soittivat basunaa; ja jokainen, joka sota-aseilla hankittu oli, kavi heidan edellansa, vaan yhteinen kansa kavi Herran arkin jalissa, basunain soidessa.	
+<div class="versenum">13.</div> ne seitseman pappia kantoivat ne seitseman riemuvuoden basunaa Herran arkin edella, ja kayden alati soittivat basunaa; ja jokainen, joka sota-aseilla hankittu oli, kavi heidan edellansa, vaan yhteinen kansa kavi Herran arkin jalissa, basunain soidessa.	
 
-14. Kavivat he myos toisena paivana kerran kaupungin ympari ja tulivat leiriin jalleen; ja sita he tekivat kuusi paivaa.	
+<div class="versenum">14.</div> Kavivat he myos toisena paivana kerran kaupungin ympari ja tulivat leiriin jalleen; ja sita he tekivat kuusi paivaa.	
 
-15. Ja tapahtui seitsemantena paivana, kuin huome rusko kavi ylos, nousivat he varhain ja kavivat entisella tavalla seitseman kertaa kaupungin ympari; ja sina paivana ainoastaan kavivat he seitseman kertaa kaupungin ympari.	
+<div class="versenum">15.</div> Ja tapahtui seitsemantena paivana, kuin huome rusko kavi ylos, nousivat he varhain ja kavivat entisella tavalla seitseman kertaa kaupungin ympari; ja sina paivana ainoastaan kavivat he seitseman kertaa kaupungin ympari.	
 
-16. Ja seitsemannella kerralla, kuin papit soittivat basunaa, sanoi Josua kansalle: huutakaat, silla Herra antoi teille kaupungin.	
+<div class="versenum">16.</div> Ja seitsemannella kerralla, kuin papit soittivat basunaa, sanoi Josua kansalle: huutakaat, silla Herra antoi teille kaupungin.	
 
-17. Mutta kaupunki ja kaikki mita siina on, pitaa oleman kirottu Herralle; ainoastaan portto Rahab pitaa elamaan jaaman, han ja kaikki, jotka hanen kanssansa huoneessa ovat; silla han katki sanansaattajat, jotka me lahetimme.	
+<div class="versenum">17.</div> Mutta kaupunki ja kaikki mita siina on, pitaa oleman kirottu Herralle; ainoastaan portto Rahab pitaa elamaan jaaman, han ja kaikki, jotka hanen kanssansa huoneessa ovat; silla han katki sanansaattajat, jotka me lahetimme.	
 
-18. Ainostaan karttakaat kirottua, ettette itsianne saattaisi kiroukseen, jos jotakin kirotusta otatte, te saatatte Israelin leirin kirouksen ja onnettomuuden alle.	
+<div class="versenum">18.</div> Ainostaan karttakaat kirottua, ettette itsianne saattaisi kiroukseen, jos jotakin kirotusta otatte, te saatatte Israelin leirin kirouksen ja onnettomuuden alle.	
 
-19. Mutta kaikki hopia ja kulta, vaski- ja rautakalu olkaan Herralle pyhitetyt ja tulkaan Herran tavarahuoneeseen.	
+<div class="versenum">19.</div> Mutta kaikki hopia ja kulta, vaski- ja rautakalu olkaan Herralle pyhitetyt ja tulkaan Herran tavarahuoneeseen.	
 
-20. Ja kansa huusi ja soitettiin basunaa; silla kaikki kansa, jotka kuulivat basunan aanen, huusivat suurella aanella, ja muuri hajosi itsestansa; ja kaikki kansa itsekukin kohdastansa astui kaupunkiin, ja he voittivat kaupungin.	
+<div class="versenum">20.</div> Ja kansa huusi ja soitettiin basunaa; silla kaikki kansa, jotka kuulivat basunan aanen, huusivat suurella aanella, ja muuri hajosi itsestansa; ja kaikki kansa itsekukin kohdastansa astui kaupunkiin, ja he voittivat kaupungin.	
 
-21. Ja hukuttivat kaikki jotka kaupungissa olivat miekan teralla, seka miehet etta vaimot, nuoret ja vanhat, karjan, ja lampaat ja aasit.	
+<div class="versenum">21.</div> Ja hukuttivat kaikki jotka kaupungissa olivat miekan teralla, seka miehet etta vaimot, nuoret ja vanhat, karjan, ja lampaat ja aasit.	
 
-22. Ja Josua sanoi niille kahdelle miehelle, jotka maata vaonneet olivat: menkaat porton huoneeseen ja johdattakaat vaimo sielta ulos, ja kaikki mita hanella on, niinkuin te olette hanelle vannoneet.	
+<div class="versenum">22.</div> Ja Josua sanoi niille kahdelle miehelle, jotka maata vaonneet olivat: menkaat porton huoneeseen ja johdattakaat vaimo sielta ulos, ja kaikki mita hanella on, niinkuin te olette hanelle vannoneet.	
 
-23. Niin nuoret miehet, jotka maata vaonneet olivat, menivat sinne ja toivat Rahabin ulos, ja hanen isansa, ja aitinsa, ja veljensa, ja kaikki mita hanella oli; niin myos kaiken hanen sukunsa toivat he ulos ja sioittivat heidat ulkoiselle puolelle Israelin leiria.	
+<div class="versenum">23.</div> Niin nuoret miehet, jotka maata vaonneet olivat, menivat sinne ja toivat Rahabin ulos, ja hanen isansa, ja aitinsa, ja veljensa, ja kaikki mita hanella oli; niin myos kaiken hanen sukunsa toivat he ulos ja sioittivat heidat ulkoiselle puolelle Israelin leiria.	
 
-24. Mutta kaupungin he polttivat tulella ja kaikki mita siella oli; ainoastaan hopian, kullan, vasken ja rautakalun panivat he tavaraksi Herran huoneeseen.	
+<div class="versenum">24.</div> Mutta kaupungin he polttivat tulella ja kaikki mita siella oli; ainoastaan hopian, kullan, vasken ja rautakalun panivat he tavaraksi Herran huoneeseen.	
 
-25. Mutta porton Rahabin, ja hanen isansa huoneen ja kaikki mita hanella oli, antoi Josua elaa; ja han asui Israelin seassa tahan paivaan asti, etta han katki sanansaattajat, jotka Josua Jerihoa vakoomaan lahetti.	
+<div class="versenum">25.</div> Mutta porton Rahabin, ja hanen isansa huoneen ja kaikki mita hanella oli, antoi Josua elaa; ja han asui Israelin seassa tahan paivaan asti, etta han katki sanansaattajat, jotka Josua Jerihoa vakoomaan lahetti.	
 
-26. Silloin vannoi Josua ja sanoi: kirottu olkoon se mies Herran edessa, joka nousee ja rakentaa taman Jerihon kaupungin; koska han laskee siihen perustuksen, niin kadottakoon esikoisensa, ja koska han rakentaa sen portit, niin kadottakoon nuorimman poikansa.	
+<div class="versenum">26.</div> Silloin vannoi Josua ja sanoi: kirottu olkoon se mies Herran edessa, joka nousee ja rakentaa taman Jerihon kaupungin; koska han laskee siihen perustuksen, niin kadottakoon esikoisensa, ja koska han rakentaa sen portit, niin kadottakoon nuorimman poikansa.	
 
-27. Ja Herra oli Josuan kanssa, ja han tuli kuuluisaksi kaikissa maakunnissa.	
+<div class="versenum">27.</div> Ja Herra oli Josuan kanssa, ja han tuli kuuluisaksi kaikissa maakunnissa.	
 

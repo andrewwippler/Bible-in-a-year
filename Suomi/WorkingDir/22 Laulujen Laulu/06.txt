@@ -1,28 +1,28 @@
 Laulujen Laulu 6	
 	
-1. Kuhunka ystavas on mennyt, o sina kaikkein kaunein vaimoin seassa! kuhunka ystavas on kaantanyt itsensa? Me etsimme hanta sinun kanssas.	
+<div class="versenum">1.</div> Kuhunka ystavas on mennyt, o sina kaikkein kaunein vaimoin seassa! kuhunka ystavas on kaantanyt itsensa? Me etsimme hanta sinun kanssas.	
 
-2. Minun ystavani on mennyt kryytimaahansa, yrttisarkoihinsa, etta han siella kryytimaassa kaitsis laumaansa, ja hakis ruusuja.	
+<div class="versenum">2.</div> Minun ystavani on mennyt kryytimaahansa, yrttisarkoihinsa, etta han siella kryytimaassa kaitsis laumaansa, ja hakis ruusuja.	
 
-3. Minun ystavani on minun ja mina olen hanen, joka kaitsee kukkasten keskella.	
+<div class="versenum">3.</div> Minun ystavani on minun ja mina olen hanen, joka kaitsee kukkasten keskella.	
 
-4. Sina olet ihana, minun kultani, niinkuin Tirtsa, kaunis niinkuin Jerusalem, peljattava niinkuin sotajoukko.	
+<div class="versenum">4.</div> Sina olet ihana, minun kultani, niinkuin Tirtsa, kaunis niinkuin Jerusalem, peljattava niinkuin sotajoukko.	
 
-5. Kaanna silmas pois minusta; silla ne minun sytyttavat; sinun hiukses ovat niinkuin vuohilauma, jotka Gileadin vuorella kerityt ovat.	
+<div class="versenum">5.</div> Kaanna silmas pois minusta; silla ne minun sytyttavat; sinun hiukses ovat niinkuin vuohilauma, jotka Gileadin vuorella kerityt ovat.	
 
-6. Sinun hampas ovat niinkuin lammaslauma, jotka pesosta nousevat, ja kaikki kaksoisia kantavat, ja ei yksikaan ole heista hedelmatoin.	
+<div class="versenum">6.</div> Sinun hampas ovat niinkuin lammaslauma, jotka pesosta nousevat, ja kaikki kaksoisia kantavat, ja ei yksikaan ole heista hedelmatoin.	
 
-7. Sinun kasvos ovat niinkuin granatomenan lohkot sinun palmikkois valilla.	
+<div class="versenum">7.</div> Sinun kasvos ovat niinkuin granatomenan lohkot sinun palmikkois valilla.	
 
-8. Kuusikymmenta on drottninkia ja kahdeksankymmenta vaimoa, ja neitseet ovat epalukuiset;	
+<div class="versenum">8.</div> Kuusikymmenta on drottninkia ja kahdeksankymmenta vaimoa, ja neitseet ovat epalukuiset;	
 
-9. Mutta yksi on minun kyhkylaiseni ja minun taydelliseni; yksi on aitinsa rakkain ja synnyttajansa valittu: koska tyttaret hanen nakivat, ylistivat he hanen autuaaksi, kuningattaret ja vaimot ylistivat hanta.	
+<div class="versenum">9.</div> Mutta yksi on minun kyhkylaiseni ja minun taydelliseni; yksi on aitinsa rakkain ja synnyttajansa valittu: koska tyttaret hanen nakivat, ylistivat he hanen autuaaksi, kuningattaret ja vaimot ylistivat hanta.	
 
-10. Kuka on tama, joka nahdaan niinkuin aamurusko, ihana niinkuin kuu, valittu niinkuin aurinko, peljattava niinkuin sotajoukko?	
+<div class="versenum">10.</div> Kuka on tama, joka nahdaan niinkuin aamurusko, ihana niinkuin kuu, valittu niinkuin aurinko, peljattava niinkuin sotajoukko?	
 
-11. Mina olen mennyt alas yrttitarhaani, katsomaan vesoja ojan reunalla, kurkistelemaan, jos viinapuut kukoistivat, jos granatomenat viherioitsivat.	
+<div class="versenum">11.</div> Mina olen mennyt alas yrttitarhaani, katsomaan vesoja ojan reunalla, kurkistelemaan, jos viinapuut kukoistivat, jos granatomenat viherioitsivat.	
 
-12. En mina tiennyt, etta minun sieluni minun hamaan minun mieluisen kansani vaunuihin asti asettanut oli.	
+<div class="versenum">12.</div> En mina tiennyt, etta minun sieluni minun hamaan minun mieluisen kansani vaunuihin asti asettanut oli.	
 
-13. Palaja, palaja Sulamit: palaja, palaja nahdaksemme sinua. Mita te naitte Sulamitissa, paitsi sotajoukkoin tanssia?	
+<div class="versenum">13.</div> Palaja, palaja Sulamit: palaja, palaja nahdaksemme sinua. Mita te naitte Sulamitissa, paitsi sotajoukkoin tanssia?	
 

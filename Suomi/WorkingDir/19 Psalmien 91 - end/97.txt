@@ -1,26 +1,26 @@
 Psalmien 97	
 	
-1. Herra on kuningas, siita maa iloitkaan: olkoon saaret riemuiset, niin monta kuin heita on.	
+<div class="versenum">1.</div> Herra on kuningas, siita maa iloitkaan: olkoon saaret riemuiset, niin monta kuin heita on.	
 
-2. Pilvet ja pimeys ovat hanen ymparillansa: vanhurskaus ja tuomio ovat hanen istuimensa vahvistus.	
+<div class="versenum">2.</div> Pilvet ja pimeys ovat hanen ymparillansa: vanhurskaus ja tuomio ovat hanen istuimensa vahvistus.	
 
-3. Tuli kay hanen edellansa ja polttaa ymparilla hanen vihollisensa.	
+<div class="versenum">3.</div> Tuli kay hanen edellansa ja polttaa ymparilla hanen vihollisensa.	
 
-4. Hanen leimauksensa valkkyvat maan piirin paalla: maa nakee sen ja vapisee.	
+<div class="versenum">4.</div> Hanen leimauksensa valkkyvat maan piirin paalla: maa nakee sen ja vapisee.	
 
-5. Vuoret sulavat niinkuin vedenvaha Herran edessa, koko maailman Herran edessa.	
+<div class="versenum">5.</div> Vuoret sulavat niinkuin vedenvaha Herran edessa, koko maailman Herran edessa.	
 
-6. Taivaat julistavat hanen vanhurskauttansa, ja kaikki kansat nakevat hanen kunniansa.	
+<div class="versenum">6.</div> Taivaat julistavat hanen vanhurskauttansa, ja kaikki kansat nakevat hanen kunniansa.	
 
-7. Havetkaat kaikki, jotka kuvia palvelevat, ja kerskaavat epajumalista: kumartakaat hanta kaikki enkelit.	
+<div class="versenum">7.</div> Havetkaat kaikki, jotka kuvia palvelevat, ja kerskaavat epajumalista: kumartakaat hanta kaikki enkelit.	
 
-8. Zion kuulee sen ja iloitsee, ja Juudan tyttaret ovat riemuissansa, Herra, sinun hallituksestas.	
+<div class="versenum">8.</div> Zion kuulee sen ja iloitsee, ja Juudan tyttaret ovat riemuissansa, Herra, sinun hallituksestas.	
 
-9. Silla sina, Herra, olet Korkein kaikissa maakunnissa: sina olet sangen suuresti korotettu kaikkein jumalain ylitse.	
+<div class="versenum">9.</div> Silla sina, Herra, olet Korkein kaikissa maakunnissa: sina olet sangen suuresti korotettu kaikkein jumalain ylitse.	
 
-10. Te kuin Herraa rakastatte, vihatkaat pahaa! han katkee pyhainsa sielut: jumalattomain kasista han heita pelastaa.	
+<div class="versenum">10.</div> Te kuin Herraa rakastatte, vihatkaat pahaa! han katkee pyhainsa sielut: jumalattomain kasista han heita pelastaa.	
 
-11. Vanhurskaalle koittaa valkeus, ja ilo hurskaille sydamille,	
+<div class="versenum">11.</div> Vanhurskaalle koittaa valkeus, ja ilo hurskaille sydamille,	
 
-12. Vanhurskaat iloitkaat Herrassa, kiittakaat hanen pyhyytensa muistoksi.	
+<div class="versenum">12.</div> Vanhurskaat iloitkaat Herrassa, kiittakaat hanen pyhyytensa muistoksi.	
 

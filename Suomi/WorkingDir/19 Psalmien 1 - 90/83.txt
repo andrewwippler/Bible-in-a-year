@@ -1,38 +1,38 @@
 Psalmien 83	
 	
-1. Asaphin Psalmi ja veisu. (H83:2) Jumala, ala niin ratki vaikene, ja ala niin aaneti ole: Jumala, ala sita niin karsi.	
+<div class="versenum">1.</div> Asaphin Psalmi ja veisu. (H83:2) Jumala, ala niin ratki vaikene, ja ala niin aaneti ole: Jumala, ala sita niin karsi.	
 
-2. Silla katso, Sinun vihollises kiukuitsevat, ja jotka sinua vihaavat, ylentavat paansa.	
+<div class="versenum">2.</div> Silla katso, Sinun vihollises kiukuitsevat, ja jotka sinua vihaavat, ylentavat paansa.	
 
-3. He pitavat kavaloita juonia sinun kansaas vastaan, ja pitavat neuvoa sinun salatuitas vastaan,	
+<div class="versenum">3.</div> He pitavat kavaloita juonia sinun kansaas vastaan, ja pitavat neuvoa sinun salatuitas vastaan,	
 
-4. Sanoen: tulkaat, havittakaamme heita, niin ettei he ensinkaan kansa olisikaan, ettei Israelin nimea silleen muisteltaisi.	
+<div class="versenum">4.</div> Sanoen: tulkaat, havittakaamme heita, niin ettei he ensinkaan kansa olisikaan, ettei Israelin nimea silleen muisteltaisi.	
 
-5. Silla he ovat sydamessansa panneet neuvonsa yhteen, ja tehneet liiton sinua vastaan:	
+<div class="versenum">5.</div> Silla he ovat sydamessansa panneet neuvonsa yhteen, ja tehneet liiton sinua vastaan:	
 
-6. Edomilaiset ja Ismaelilaiset majat, Moabilaiset ja Hagarilaiset,	
+<div class="versenum">6.</div> Edomilaiset ja Ismaelilaiset majat, Moabilaiset ja Hagarilaiset,	
 
-7. Gebalilaiset, Ammonilaiset ja Amalekilaiset, Philistealaiset ja Tyron asuvaiset.	
+<div class="versenum">7.</div> Gebalilaiset, Ammonilaiset ja Amalekilaiset, Philistealaiset ja Tyron asuvaiset.	
 
-8. Assur on myos itsensa heihin liittanyt, auttamaan Lotin lapsia, Sela!	
+<div class="versenum">8.</div> Assur on myos itsensa heihin liittanyt, auttamaan Lotin lapsia, Sela!	
 
-9. Tee niille niinkuin Midianilaisille, niinkuin Siseralle, niinkuin Jabinille Kisonin ojan tykona;	
+<div class="versenum">9.</div> Tee niille niinkuin Midianilaisille, niinkuin Siseralle, niinkuin Jabinille Kisonin ojan tykona;	
 
-10. Jotka mestattiin Endorin tykona, ja tulivat loaksi maan paalle.	
+<div class="versenum">10.</div> Jotka mestattiin Endorin tykona, ja tulivat loaksi maan paalle.	
 
-11. Tee heidan paaruhtinaansa niinkuin Orebin ja Seebin, ja kaikki heidan ylimmaisensa niinkuin Seban ja Salmunnan,	
+<div class="versenum">11.</div> Tee heidan paaruhtinaansa niinkuin Orebin ja Seebin, ja kaikki heidan ylimmaisensa niinkuin Seban ja Salmunnan,	
 
-12. Jotka sanovat: me omistamme meillemme Jumalan huoneet.	
+<div class="versenum">12.</div> Jotka sanovat: me omistamme meillemme Jumalan huoneet.	
 
-13. Jumala, tee heita niinkuin rattaan, niinkuin korren tuulen edessa.	
+<div class="versenum">13.</div> Jumala, tee heita niinkuin rattaan, niinkuin korren tuulen edessa.	
 
-14. Niinkuin kulo metsan polttaa, ja niinkuin liekki maet sytyttaa;	
+<div class="versenum">14.</div> Niinkuin kulo metsan polttaa, ja niinkuin liekki maet sytyttaa;	
 
-15. Vainoo juuri niin heita sinun rajuilmallas, ja hammastyta heita tuulispaallas.	
+<div class="versenum">15.</div> Vainoo juuri niin heita sinun rajuilmallas, ja hammastyta heita tuulispaallas.	
 
-16. Tayta heidan kasvonsa hapialla, etta he sinun nimeas, Herra, etsisivat.	
+<div class="versenum">16.</div> Tayta heidan kasvonsa hapialla, etta he sinun nimeas, Herra, etsisivat.	
 
-17. Havetkoon he ja hammastykoon ijankaikkisesti, ja hapiaan tulkoon ja hukkukoon.	
+<div class="versenum">17.</div> Havetkoon he ja hammastykoon ijankaikkisesti, ja hapiaan tulkoon ja hukkukoon.	
 
-18. Niin he saavat tuta, etta sina, jonka ainoan nimi on Herra, olet ylimmainen kaikessa maailmassa.	
+<div class="versenum">18.</div> Niin he saavat tuta, etta sina, jonka ainoan nimi on Herra, olet ylimmainen kaikessa maailmassa.	
 

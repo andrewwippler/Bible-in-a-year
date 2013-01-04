@@ -1,34 +1,34 @@
 Miikan 6	
 	
-1. Kuulkaat siis, mita Herra sanoo: nouse ja nuhtele vuoria, ja kuulkaan kukkulat sinun aantas.	
+<div class="versenum">1.</div> Kuulkaat siis, mita Herra sanoo: nouse ja nuhtele vuoria, ja kuulkaan kukkulat sinun aantas.	
 
-2. Kuulkaat, te vuoret, Herran riitaa, ja te vakevat maan perustukset; silla Herralla on riita kansansa kanssa, ja Israelin kanssa tahtoo han kamppailla.	
+<div class="versenum">2.</div> Kuulkaat, te vuoret, Herran riitaa, ja te vakevat maan perustukset; silla Herralla on riita kansansa kanssa, ja Israelin kanssa tahtoo han kamppailla.	
 
-3. Minun kansani, mita mina olen sinulle tehnyt, eli milla mina olen sinua raskauttanut? Sano minulle!	
+<div class="versenum">3.</div> Minun kansani, mita mina olen sinulle tehnyt, eli milla mina olen sinua raskauttanut? Sano minulle!	
 
-4. Mina olen kuitenkin sinun Egyptin maalta vienyt ylos, ja lunastin sinun orjuuden huoneesta; ja lahetin sinun etees Moseksen, Aaronin ja Mirjamin.	
+<div class="versenum">4.</div> Mina olen kuitenkin sinun Egyptin maalta vienyt ylos, ja lunastin sinun orjuuden huoneesta; ja lahetin sinun etees Moseksen, Aaronin ja Mirjamin.	
 
-5. Minun kansani, muista siis, mita neuvoa Balak Moabin kuningas piti, ja mita Bileam Peorin poika hanta vastasi, Sittimista hamaan Gilgaliin asti, etta te tietaisitte Herran vanhurskaita toita.	
+<div class="versenum">5.</div> Minun kansani, muista siis, mita neuvoa Balak Moabin kuningas piti, ja mita Bileam Peorin poika hanta vastasi, Sittimista hamaan Gilgaliin asti, etta te tietaisitte Herran vanhurskaita toita.	
 
-6. Milla minun pitaa Herraa lepyttaman? kumarruksellako korkian Jumalan edessa? pitaako minun hanta lepyttaman polttouhrilla ja vuosikuntaisilla vasikoilla?	
+<div class="versenum">6.</div> Milla minun pitaa Herraa lepyttaman? kumarruksellako korkian Jumalan edessa? pitaako minun hanta lepyttaman polttouhrilla ja vuosikuntaisilla vasikoilla?	
 
-7. Luuletkos, etta Herra mielistyy moneen tuhanteen oinaasen, taikka oljyyn, vaikka sita epalukuiset virrat taynna olisivat? Eli pitaako minun antaman esikoisen poikani minun ylitsekaymiseni tahden, eli minun ruumiini hedelman minun sieluni synnin tahden?	
+<div class="versenum">7.</div> Luuletkos, etta Herra mielistyy moneen tuhanteen oinaasen, taikka oljyyn, vaikka sita epalukuiset virrat taynna olisivat? Eli pitaako minun antaman esikoisen poikani minun ylitsekaymiseni tahden, eli minun ruumiini hedelman minun sieluni synnin tahden?	
 
-8. Se on sinulle sanottu, ihminen, mika hyva on, ja mita Herra sinulta vaatii, nimittain, ettas katket Jumalan sanan, ja harjoitat rakkautta, ja olet noyra sinun Jumalas edessa.	
+<div class="versenum">8.</div> Se on sinulle sanottu, ihminen, mika hyva on, ja mita Herra sinulta vaatii, nimittain, ettas katket Jumalan sanan, ja harjoitat rakkautta, ja olet noyra sinun Jumalas edessa.	
 
-9. Herran aanen pitaa kuuluman kaupungin ylitse, mutta joka sinun nimeas pelkaa, pitaa menestyman: kuulkaat vitsaa, ja kuka sen on toimittanut.	
+<div class="versenum">9.</div> Herran aanen pitaa kuuluman kaupungin ylitse, mutta joka sinun nimeas pelkaa, pitaa menestyman: kuulkaat vitsaa, ja kuka sen on toimittanut.	
 
-10. Eiko viela ole vaara tavara jumalattomain huoneissa, ja vaha mitta kauhistukseksi?	
+<div class="versenum">10.</div> Eiko viela ole vaara tavara jumalattomain huoneissa, ja vaha mitta kauhistukseksi?	
 
-11. Eli pitaisko minun vaarat vaa'at ja petolliset puntarit sakeissa kohtuulliseksi arvaaman?	
+<div class="versenum">11.</div> Eli pitaisko minun vaarat vaa'at ja petolliset puntarit sakeissa kohtuulliseksi arvaaman?	
 
-12. Joiden kautta hanen rikkaansa paljon vaaryytta tekevat, ja hanen asuvaisensa valhettelevat; ja pettavainen kieli on heidan suussansa.	
+<div class="versenum">12.</div> Joiden kautta hanen rikkaansa paljon vaaryytta tekevat, ja hanen asuvaisensa valhettelevat; ja pettavainen kieli on heidan suussansa.	
 
-13. Sentahden mina rupeen myos sinua rankaisemaan, ja havitan sinua sinun synteis tahden.	
+<div class="versenum">13.</div> Sentahden mina rupeen myos sinua rankaisemaan, ja havitan sinua sinun synteis tahden.	
 
-14. Sina syot, ja et taida ravituksi tulla, ja sina pitaa sinussas noyryytettaman. Mitas katket, ei sen pida paaseman, ja mita paasee, sen mina miekalle annan.	
+<div class="versenum">14.</div> Sina syot, ja et taida ravituksi tulla, ja sina pitaa sinussas noyryytettaman. Mitas katket, ei sen pida paaseman, ja mita paasee, sen mina miekalle annan.	
 
-15. Sina kylvat, ja et leikkaa; sina sotkut oljypuita, ja et saa itsias oljylla voidella, ja kuurnitset viinaa, ja et saa sita juoda.	
+<div class="versenum">15.</div> Sina kylvat, ja et leikkaa; sina sotkut oljypuita, ja et saa itsias oljylla voidella, ja kuurnitset viinaa, ja et saa sita juoda.	
 
-16. Silla Omrin saadyt ahkerasti pidetaan, ja kaikki Ahabin huoneen teot, ja te vaellatte heidan neuvoissansa; sentahden tahdon mina sinun autioksi tehda, ja sen maan asuvaiset pilkaksi, ja teidan pitaa minun kansani hapian kantaman.	
+<div class="versenum">16.</div> Silla Omrin saadyt ahkerasti pidetaan, ja kaikki Ahabin huoneen teot, ja te vaellatte heidan neuvoissansa; sentahden tahdon mina sinun autioksi tehda, ja sen maan asuvaiset pilkaksi, ja teidan pitaa minun kansani hapian kantaman.	
 

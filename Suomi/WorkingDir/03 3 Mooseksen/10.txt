@@ -1,42 +1,42 @@
 3 Mooseksen 10	
 	
-1. Ja Aaronin pojat Nadab ja Abihu ottivat kumpikin suitsutusastiansa, ja panivat tulta niihin, ja panivat suitsutusta sen paalle: ja kantoivat vierasta tulta Herran eteen, jota ei han heille ollut kaskenyt.	
+<div class="versenum">1.</div> Ja Aaronin pojat Nadab ja Abihu ottivat kumpikin suitsutusastiansa, ja panivat tulta niihin, ja panivat suitsutusta sen paalle: ja kantoivat vierasta tulta Herran eteen, jota ei han heille ollut kaskenyt.	
 
-2. Silloin laksi tuli Herralta, ja kulutti heidat; niin etta he kuolivat Herran edessa.	
+<div class="versenum">2.</div> Silloin laksi tuli Herralta, ja kulutti heidat; niin etta he kuolivat Herran edessa.	
 
-3. Niin sanoi Moses Aaronille: tama on se kuin Herra puhunut on, sanoen: Mina pyhitetaan niissa, jotka minua lahestyvat, ja kaiken kansan edessa mina kunnioitetaan. Ja Aaron oli aaneti.	
+<div class="versenum">3.</div> Niin sanoi Moses Aaronille: tama on se kuin Herra puhunut on, sanoen: Mina pyhitetaan niissa, jotka minua lahestyvat, ja kaiken kansan edessa mina kunnioitetaan. Ja Aaron oli aaneti.	
 
-4. Mutta Moses kutsui Misaelin, ja Eltsaphanin, Usielin, Aaronin sedan pojat ja sanoi heille, tulkaat ja kantakaat teidan veljenne pyhan edesta: ulos leirista.	
+<div class="versenum">4.</div> Mutta Moses kutsui Misaelin, ja Eltsaphanin, Usielin, Aaronin sedan pojat ja sanoi heille, tulkaat ja kantakaat teidan veljenne pyhan edesta: ulos leirista.	
 
-5. Ja he tulivat ja kantoivat heidat hameinensa leirista, niinkuin Moses oli sanonut.	
+<div class="versenum">5.</div> Ja he tulivat ja kantoivat heidat hameinensa leirista, niinkuin Moses oli sanonut.	
 
-6. Niin sanoi Moses Aaronille, ja hanen pojillensa Eleatsarille ja Itamarille: ei teidan pida paljastaman teidan paatanne, eika myos repiman teidan vaatteitanne, ettette kuolisi, ja ettei viha tulisi kaiken kansan paalle: mutta teidan veljenne koko Israelin huoneesta itkekaan tata paloa, jonka Herra sytyttanyt on.	
+<div class="versenum">6.</div> Niin sanoi Moses Aaronille, ja hanen pojillensa Eleatsarille ja Itamarille: ei teidan pida paljastaman teidan paatanne, eika myos repiman teidan vaatteitanne, ettette kuolisi, ja ettei viha tulisi kaiken kansan paalle: mutta teidan veljenne koko Israelin huoneesta itkekaan tata paloa, jonka Herra sytyttanyt on.	
 
-7. Vaa ei teidan pida meneman seurakunnan majan ovesta ulos, ettette kuolisi; silla Herran voidellusoljy on teidan paallanne. Ja he tekivat Moseksen sanan jalkeen.	
+<div class="versenum">7.</div> Vaa ei teidan pida meneman seurakunnan majan ovesta ulos, ettette kuolisi; silla Herran voidellusoljy on teidan paallanne. Ja he tekivat Moseksen sanan jalkeen.	
 
-8. Ja Herra puhui Aaronille, sanoen:	
+<div class="versenum">8.</div> Ja Herra puhui Aaronille, sanoen:	
 
-9. Viinaa ja vakevaa juomaa ei pida sinun juoman, eika sinun poikas sinun kanssa, koska te menette seurakunnan majaan, ettette kuolisi: se pitaa oleman ijankaikkinen saaty teidan sukukunnillenne,	
+<div class="versenum">9.</div> Viinaa ja vakevaa juomaa ei pida sinun juoman, eika sinun poikas sinun kanssa, koska te menette seurakunnan majaan, ettette kuolisi: se pitaa oleman ijankaikkinen saaty teidan sukukunnillenne,	
 
-10. Etta te eroitatte mika pyha ja ei pyha, mika saastainen ja puhdas on.	
+<div class="versenum">10.</div> Etta te eroitatte mika pyha ja ei pyha, mika saastainen ja puhdas on.	
 
-11. Ja etta te opettaisitte Israelin lapsille kaikki oikeudet, kuin Herra heille Moseksen kautta puhunut on.	
+<div class="versenum">11.</div> Ja etta te opettaisitte Israelin lapsille kaikki oikeudet, kuin Herra heille Moseksen kautta puhunut on.	
 
-12. Ja Moses puhui Aaronille ja hanen jaaneille pojillensa Eleatsarille ja Itamarille: ottakaat se, joka tahteeksi jaanyt on ruokauhrista, Herran tuliuhrista, ja syokaat se happamattomana alttarin tykona; silla se on kaikkein pyhin.	
+<div class="versenum">12.</div> Ja Moses puhui Aaronille ja hanen jaaneille pojillensa Eleatsarille ja Itamarille: ottakaat se, joka tahteeksi jaanyt on ruokauhrista, Herran tuliuhrista, ja syokaat se happamattomana alttarin tykona; silla se on kaikkein pyhin.	
 
-13. Ja teidan pitaa sen syoman pyhalla sialla: silla se on sinun oikeutes ja sinun poikais oikeus Herran tuliuhrista; silla se on minulle niin kasketty.	
+<div class="versenum">13.</div> Ja teidan pitaa sen syoman pyhalla sialla: silla se on sinun oikeutes ja sinun poikais oikeus Herran tuliuhrista; silla se on minulle niin kasketty.	
 
-14. Mutta haalytysrinnan ja ylennyslavan pitaa sinun ja sinun poikas ja tyttares sinun kanssas syoman puhtaalla paikalla; silla tama oikeus on sinulle ja sinun pojilles annettu Israelin lasten kiitosuhrista;	
+<div class="versenum">14.</div> Mutta haalytysrinnan ja ylennyslavan pitaa sinun ja sinun poikas ja tyttares sinun kanssas syoman puhtaalla paikalla; silla tama oikeus on sinulle ja sinun pojilles annettu Israelin lasten kiitosuhrista;	
 
-15. Silla ylennyslapa ja haalytysrinta, lihavuus tuliuhrein kanssa, pitaa kannettaman sisalle haalytettaa haalytykseksi Herran edessa: sentahden pitaa sen oleman sinulle ja sinun lapsilles ijankaikkiseksi saadyksi, niinkuin Herra kaskenyt on.	
+<div class="versenum">15.</div> Silla ylennyslapa ja haalytysrinta, lihavuus tuliuhrein kanssa, pitaa kannettaman sisalle haalytettaa haalytykseksi Herran edessa: sentahden pitaa sen oleman sinulle ja sinun lapsilles ijankaikkiseksi saadyksi, niinkuin Herra kaskenyt on.	
 
-16. Ja Moses etsi ahkerasti rikosuhrin kaurista, ja katso, se oli poltettu: ja vihastui Eleatsarin ja Itamarin Aaronin jaaneiden poikain paalle, sanoen:	
+<div class="versenum">16.</div> Ja Moses etsi ahkerasti rikosuhrin kaurista, ja katso, se oli poltettu: ja vihastui Eleatsarin ja Itamarin Aaronin jaaneiden poikain paalle, sanoen:	
 
-17. Miksi ette ole syoneet rikosuhria pyhalla paikalla? silla se on kaikkein pyhin, ja han on antanut teille sen, etta teidan pitaa kantaman kansan rikokset, ja sovittaman heita Herran edessa.	
+<div class="versenum">17.</div> Miksi ette ole syoneet rikosuhria pyhalla paikalla? silla se on kaikkein pyhin, ja han on antanut teille sen, etta teidan pitaa kantaman kansan rikokset, ja sovittaman heita Herran edessa.	
 
-18. Katso, hanen verensa ei ole tuotu pyhaan: teidan olis pitanyt kaiketi syoman sen pyhassa, niinkuin minulle kasketty on.	
+<div class="versenum">18.</div> Katso, hanen verensa ei ole tuotu pyhaan: teidan olis pitanyt kaiketi syoman sen pyhassa, niinkuin minulle kasketty on.	
 
-19. Mutta Aaron sanoi Mosekselle: katso, tanapana ovat he uhranneet rikosuhrinsa ja polttouhrinsa Herran edessa. Ja minulle on senkaltainen asia tapahtunut: ja pitaisko minun tanapana syoman rikosuhrista, olisko se Herralle otollinen?	
+<div class="versenum">19.</div> Mutta Aaron sanoi Mosekselle: katso, tanapana ovat he uhranneet rikosuhrinsa ja polttouhrinsa Herran edessa. Ja minulle on senkaltainen asia tapahtunut: ja pitaisko minun tanapana syoman rikosuhrista, olisko se Herralle otollinen?	
 
-20. Kun Moses sen kuuli, tyytyi han siihen	
+<div class="versenum">20.</div> Kun Moses sen kuuli, tyytyi han siihen	
 

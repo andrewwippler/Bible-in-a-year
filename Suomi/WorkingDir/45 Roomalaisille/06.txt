@@ -1,48 +1,48 @@
 Roomalaisille 6	
 	
-1. Mitas siis meidan pitaa sanoman? Pitaako meidan viela synnissa oleman, etta armo suuremmaksi tulis?	
+<div class="versenum">1.</div> Mitas siis meidan pitaa sanoman? Pitaako meidan viela synnissa oleman, etta armo suuremmaksi tulis?	
 
-2. Pois se! Me, jotka synnille kuolleet olemme, kuinkas meidan viela pitais siina elaman?	
+<div class="versenum">2.</div> Pois se! Me, jotka synnille kuolleet olemme, kuinkas meidan viela pitais siina elaman?	
 
-3. Etteko te tieda, etta me kaikki, jotka olemme Jesuksessa Kristuksessa kastetut, me olemme hanen kuolemaansa kastetut?	
+<div class="versenum">3.</div> Etteko te tieda, etta me kaikki, jotka olemme Jesuksessa Kristuksessa kastetut, me olemme hanen kuolemaansa kastetut?	
 
-4. Niin me olemme siis hanen kanssansa haudatut kasteen kautta kuolemaan: etta niinkuin Kristus on kuolleista Isan kunnian kautta heratetty, niin pitaa meidankin uudessa elamassa vaeltaman.	
+<div class="versenum">4.</div> Niin me olemme siis hanen kanssansa haudatut kasteen kautta kuolemaan: etta niinkuin Kristus on kuolleista Isan kunnian kautta heratetty, niin pitaa meidankin uudessa elamassa vaeltaman.	
 
-5. Silla jos me ynna hanen kanssansa olemme istutetut yhdenkaltaiseen kuolemaan, niin me myos tulemme yhdenkaltaiseksi ylosnousemisessa,	
+<div class="versenum">5.</div> Silla jos me ynna hanen kanssansa olemme istutetut yhdenkaltaiseen kuolemaan, niin me myos tulemme yhdenkaltaiseksi ylosnousemisessa,	
 
-6. Tietaen sen, etta meidan vanha ihminen on ristiinnaulittu hanen kanssansa, etta synnin ruumis pitaa turmeltaman, ettemme tastedes syntia palvelisi.	
+<div class="versenum">6.</div> Tietaen sen, etta meidan vanha ihminen on ristiinnaulittu hanen kanssansa, etta synnin ruumis pitaa turmeltaman, ettemme tastedes syntia palvelisi.	
 
-7. Silla se, joka kuollut on, han on synnista vanhurskaaksi tehty.	
+<div class="versenum">7.</div> Silla se, joka kuollut on, han on synnista vanhurskaaksi tehty.	
 
-8. Mutta jos me olemme Kristuksen kanssa kuolleet, niin me uskomme, etta me saamme myos elaa hanen kanssansa,	
+<div class="versenum">8.</div> Mutta jos me olemme Kristuksen kanssa kuolleet, niin me uskomme, etta me saamme myos elaa hanen kanssansa,	
 
-9. Ja tiedamme, ettei Kristus, joka kuolleista heratetty on, silleen kuole, eika kuolema saa tastedes hanen paallensa valtaa.	
+<div class="versenum">9.</div> Ja tiedamme, ettei Kristus, joka kuolleista heratetty on, silleen kuole, eika kuolema saa tastedes hanen paallensa valtaa.	
 
-10. Silla sen, kuin han kuollut on, sen han synnille kuoli yhden kerran; vaan sen, kuin han elaa, sen han elaa Jumalalle.	
+<div class="versenum">10.</div> Silla sen, kuin han kuollut on, sen han synnille kuoli yhden kerran; vaan sen, kuin han elaa, sen han elaa Jumalalle.	
 
-11. Niin myos te siksi teitanne pitakaat, etta te olette kuolleet synnille, mutta elatte Jumalalle, Jesuksen Kristuksen meidan Herran kautta.	
+<div class="versenum">11.</div> Niin myos te siksi teitanne pitakaat, etta te olette kuolleet synnille, mutta elatte Jumalalle, Jesuksen Kristuksen meidan Herran kautta.	
 
-12. Niin alkaat salliko synnin vallita kuolevaisessa ruumiissanne, niin etta te hanta kuulisitte hanen himoissansa.	
+<div class="versenum">12.</div> Niin alkaat salliko synnin vallita kuolevaisessa ruumiissanne, niin etta te hanta kuulisitte hanen himoissansa.	
 
-13. Ja alkaat antako teidan jasenianne vaaryyden sota-aseiksi synnille, mutta antakaat teitanne Jumalalle, niinkuin kuolleista elaviksi tulleet, ja teidan jasenenne Jumalalle vanhurskauden sota-aseiksi.	
+<div class="versenum">13.</div> Ja alkaat antako teidan jasenianne vaaryyden sota-aseiksi synnille, mutta antakaat teitanne Jumalalle, niinkuin kuolleista elaviksi tulleet, ja teidan jasenenne Jumalalle vanhurskauden sota-aseiksi.	
 
-14. Silla ei synnin pida teita vallitseman, ettette ole lain, vaan armon alla.	
+<div class="versenum">14.</div> Silla ei synnin pida teita vallitseman, ettette ole lain, vaan armon alla.	
 
-15. Kuinkas siis? Pitaako meidan syntia tekeman, ettemme lain alla ole, vaan armon? Pois se!	
+<div class="versenum">15.</div> Kuinkas siis? Pitaako meidan syntia tekeman, ettemme lain alla ole, vaan armon? Pois se!	
 
-16. Etteko te tieda, etta jolle te annatte itsenne palvelioiksi kuulemaan, sen palveliat te olette, jolle te kuuliaiset olette, taikka synnille kuolemaksi eli kuuliaisuudelle vanhurskaudeksi?	
+<div class="versenum">16.</div> Etteko te tieda, etta jolle te annatte itsenne palvelioiksi kuulemaan, sen palveliat te olette, jolle te kuuliaiset olette, taikka synnille kuolemaksi eli kuuliaisuudelle vanhurskaudeksi?	
 
-17. Mutta Jumalan olkoon kiitos, etta olitte synnin palveliat, mutta nyt te olette sydamestanne kuuliaiset sen opin esikuvalle, johonka te annetut olette.	
+<div class="versenum">17.</div> Mutta Jumalan olkoon kiitos, etta olitte synnin palveliat, mutta nyt te olette sydamestanne kuuliaiset sen opin esikuvalle, johonka te annetut olette.	
 
-18. Ja etta te olette vapahdetut synnista, niin te olette vanhurskauden palvelioiksi tulleet.	
+<div class="versenum">18.</div> Ja etta te olette vapahdetut synnista, niin te olette vanhurskauden palvelioiksi tulleet.	
 
-19. Mina puhun ihmisten tavalla, teidan lihanne heikkouden tahden. Silla niinkuin te ennen annoitte jasenenne saastaisuutta ja vaaryytta palvelemaan vaaryyteen, niin antakaat nyt jasenenne vanhurskautta palvelemaan pyhitykseen.	
+<div class="versenum">19.</div> Mina puhun ihmisten tavalla, teidan lihanne heikkouden tahden. Silla niinkuin te ennen annoitte jasenenne saastaisuutta ja vaaryytta palvelemaan vaaryyteen, niin antakaat nyt jasenenne vanhurskautta palvelemaan pyhitykseen.	
 
-20. Silla koska te olitte synnin palveliat, niin te olitte vapaat vanhurskaudesta.	
+<div class="versenum">20.</div> Silla koska te olitte synnin palveliat, niin te olitte vapaat vanhurskaudesta.	
 
-21. Mita hedelmaa siis teidan silloin niista oli, joita te nyt hapeatte? Silla niiden loppu on kuolema.	
+<div class="versenum">21.</div> Mita hedelmaa siis teidan silloin niista oli, joita te nyt hapeatte? Silla niiden loppu on kuolema.	
 
-22. Mutte etta te nyt olette synnista vapautetut ja Jumalan palvelioiksi tulleet, niin teilla on teidan hedelmanne pyhyyteen, mutta lopuksi ijankaikkinen elama.	
+<div class="versenum">22.</div> Mutte etta te nyt olette synnista vapautetut ja Jumalan palvelioiksi tulleet, niin teilla on teidan hedelmanne pyhyyteen, mutta lopuksi ijankaikkinen elama.	
 
-23. Silla kuolema on synnin palkka, mutta ijankaikkinen elama on Jumalan lahja Jesuksessa Kristuksessa meidan Herrassamme.	
+<div class="versenum">23.</div> Silla kuolema on synnin palkka, mutta ijankaikkinen elama on Jumalan lahja Jesuksessa Kristuksessa meidan Herrassamme.	
 

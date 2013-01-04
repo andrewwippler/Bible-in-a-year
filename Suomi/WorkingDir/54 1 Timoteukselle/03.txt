@@ -1,34 +1,34 @@
 1 Timoteukselle 3	
 	
-1. Se on totinen sana: jos joku piispan virkaa pyytaa, han hyvaa tyota halajaa.	
+<div class="versenum">1.</div> Se on totinen sana: jos joku piispan virkaa pyytaa, han hyvaa tyota halajaa.	
 
-2. Niin pitaa siis piispan oleman nuhteettoman, yhden emannan miehen, valppaan, raittiin, sivian, vierasten holhojan, opettavaisen.	
+<div class="versenum">2.</div> Niin pitaa siis piispan oleman nuhteettoman, yhden emannan miehen, valppaan, raittiin, sivian, vierasten holhojan, opettavaisen.	
 
-3. Ei juomarin, ei tappelian, ei ilkian voiton pyytajan, vaan armeliaan, ei riitaisen eika ahneen,	
+<div class="versenum">3.</div> Ei juomarin, ei tappelian, ei ilkian voiton pyytajan, vaan armeliaan, ei riitaisen eika ahneen,	
 
-4. Joka oman huoneensa hyvin hallitsee, jolla kuuliaiset lapset ovat, kaikella kunniallisuudella:	
+<div class="versenum">4.</div> Joka oman huoneensa hyvin hallitsee, jolla kuuliaiset lapset ovat, kaikella kunniallisuudella:	
 
-5. (Mutta jos joku ei taida omaa huonettansa hallita, kuinkas han Jumalan seurakunnan taitaa hallita?)	
+<div class="versenum">5.</div> (Mutta jos joku ei taida omaa huonettansa hallita, kuinkas han Jumalan seurakunnan taitaa hallita?)	
 
-6. Ei asken kristityn, ettei han paisuneena laittajan tuomioon lankeaisi.	
+<div class="versenum">6.</div> Ei asken kristityn, ettei han paisuneena laittajan tuomioon lankeaisi.	
 
-7. Mutta hanella pitaa myos hyva todistus oleman niilta, jotka ulkona ovat, ettei han laittajan pilkkaan ja paulaan lankeaisi.	
+<div class="versenum">7.</div> Mutta hanella pitaa myos hyva todistus oleman niilta, jotka ulkona ovat, ettei han laittajan pilkkaan ja paulaan lankeaisi.	
 
-8. Niin pitaa myos seurakunnan palveliat toimelliset oleman, ei kaksikieliset, ei juomarit, ei hapiallisen voiton pyytajat,	
+<div class="versenum">8.</div> Niin pitaa myos seurakunnan palveliat toimelliset oleman, ei kaksikieliset, ei juomarit, ei hapiallisen voiton pyytajat,	
 
-9. Jotka uskon salaisuuden puhtaassa omassatunnossa pitavat,	
+<div class="versenum">9.</div> Jotka uskon salaisuuden puhtaassa omassatunnossa pitavat,	
 
-10. Jotka pitaa ensin koeteltaman, ja palvelkaan sitte kuin he nuhteettomiksi loydetaan.	
+<div class="versenum">10.</div> Jotka pitaa ensin koeteltaman, ja palvelkaan sitte kuin he nuhteettomiksi loydetaan.	
 
-11. Heidan emantansa pitaa myos siviat oleman, ei laittajat, vaan raittiit, kaikissa uskolliset.	
+<div class="versenum">11.</div> Heidan emantansa pitaa myos siviat oleman, ei laittajat, vaan raittiit, kaikissa uskolliset.	
 
-12. Seurakunnan palveliat olkoon yhden emannan miehet, jotka lapsensa ja oman huoneensa hyvin hallitsevat.	
+<div class="versenum">12.</div> Seurakunnan palveliat olkoon yhden emannan miehet, jotka lapsensa ja oman huoneensa hyvin hallitsevat.	
 
-13. Silla jotka hyvin palvelevat, he hyvan menestyksen ansaitsevat ja suuren vapauden uskossa, joka on Kristuksessa Jesuksessa.	
+<div class="versenum">13.</div> Silla jotka hyvin palvelevat, he hyvan menestyksen ansaitsevat ja suuren vapauden uskossa, joka on Kristuksessa Jesuksessa.	
 
-14. Naita mina kirjoitan sinulle, ja toivon pian tulevani sinun tykos;	
+<div class="versenum">14.</div> Naita mina kirjoitan sinulle, ja toivon pian tulevani sinun tykos;	
 
-15. Mutta jos mina viivyn, ettas tietaisit kuinka sinun pitaa Jumalan huoneessa vaeltaman, joka on elavan Jumalan seurakunta, totuuden patsas ja perustus.	
+<div class="versenum">15.</div> Mutta jos mina viivyn, ettas tietaisit kuinka sinun pitaa Jumalan huoneessa vaeltaman, joka on elavan Jumalan seurakunta, totuuden patsas ja perustus.	
 
-16. Ja se on julkisesti suuri jumalisuuden salaisuus, etta Jumala on ilmoitettu lihassa, vanhurskautettu hengessa, nahty enkeleilta, saarnattu pakanoille, uskottu maailmassa ja otettu ylos kunniaan.	
+<div class="versenum">16.</div> Ja se on julkisesti suuri jumalisuuden salaisuus, etta Jumala on ilmoitettu lihassa, vanhurskautettu hengessa, nahty enkeleilta, saarnattu pakanoille, uskottu maailmassa ja otettu ylos kunniaan.	
 

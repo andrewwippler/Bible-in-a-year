@@ -1,80 +1,80 @@
 Matteuksen 15	
 	
-1. Silloin tulivat Jesuksen tyko kirjanoppineet ja Pharisealaiset Jerusalemista, ja sanoivat:	
+<div class="versenum">1.</div> Silloin tulivat Jesuksen tyko kirjanoppineet ja Pharisealaiset Jerusalemista, ja sanoivat:	
 
-2. Miksi sinun opetuslapses rikkovat vanhinten saadyn? silla ei he pese kasiansa leipaa syodessansa.	
+<div class="versenum">2.</div> Miksi sinun opetuslapses rikkovat vanhinten saadyn? silla ei he pese kasiansa leipaa syodessansa.	
 
-3. Niin han vastaten sanoi heille: miksi tekin rikotte Jumalan kaskyn, teidan saatynne tahden?	
+<div class="versenum">3.</div> Niin han vastaten sanoi heille: miksi tekin rikotte Jumalan kaskyn, teidan saatynne tahden?	
 
-4. Silla Jumala kaski, sanoen: kunnioita isaas ja aitias: ja joka kiroilee isaa eli aitia, hanen pitaa kuolemalla kuoleman.	
+<div class="versenum">4.</div> Silla Jumala kaski, sanoen: kunnioita isaas ja aitias: ja joka kiroilee isaa eli aitia, hanen pitaa kuolemalla kuoleman.	
 
-5. Mutta te sanotte: jokainen sanokaan isalle taikka aidille: se on uhrattu, jolla sinua piti minulta autettaman: ja ei ensinkaan kunnoittaisi isaansa eika aitiansa.	
+<div class="versenum">5.</div> Mutta te sanotte: jokainen sanokaan isalle taikka aidille: se on uhrattu, jolla sinua piti minulta autettaman: ja ei ensinkaan kunnoittaisi isaansa eika aitiansa.	
 
-6. Ja te olette rikkoneet Jumalan kaskyn teidan saatynne tahden.	
+<div class="versenum">6.</div> Ja te olette rikkoneet Jumalan kaskyn teidan saatynne tahden.	
 
-7. Te ulkokullatut! Jesaias ennusti teista oikein, sanoen:	
+<div class="versenum">7.</div> Te ulkokullatut! Jesaias ennusti teista oikein, sanoen:	
 
-8. Tama kansa lahestyy minua suullansa, ja kunnioittaa minua huulillansa; mutta heidan sydamensa on kaukana minusta.	
+<div class="versenum">8.</div> Tama kansa lahestyy minua suullansa, ja kunnioittaa minua huulillansa; mutta heidan sydamensa on kaukana minusta.	
 
-9. Vaan turhaan he minua palvelevat, opettain niita opetuksia, jotka ovat ihmisten kaskyt.	
+<div class="versenum">9.</div> Vaan turhaan he minua palvelevat, opettain niita opetuksia, jotka ovat ihmisten kaskyt.	
 
-10. Ja han kutsui kansan tykonsa, ja sanoi heille: kuulkaat ja ymmartakaat!	
+<div class="versenum">10.</div> Ja han kutsui kansan tykonsa, ja sanoi heille: kuulkaat ja ymmartakaat!	
 
-11. Ei se ihmista saastuta, mika suusta menee sisalle, mutta se, mika suusta tulee ulos, saastuttaa ihmisen.	
+<div class="versenum">11.</div> Ei se ihmista saastuta, mika suusta menee sisalle, mutta se, mika suusta tulee ulos, saastuttaa ihmisen.	
 
-12. Niin tulivat hanen opetuslapsensa, ja sanoivat hanelle: tiesitkos, etta Pharisealaiset pahenivat, kuin he taman puheen kuulivat?	
+<div class="versenum">12.</div> Niin tulivat hanen opetuslapsensa, ja sanoivat hanelle: tiesitkos, etta Pharisealaiset pahenivat, kuin he taman puheen kuulivat?	
 
-13. Mutta han vastasi ja sanoi: jokainen istutus, jota ei minun taivaallinen Isani ole istuttanut, pitaa juurinensa revittaman ylos.	
+<div class="versenum">13.</div> Mutta han vastasi ja sanoi: jokainen istutus, jota ei minun taivaallinen Isani ole istuttanut, pitaa juurinensa revittaman ylos.	
 
-14. Antakaat heidan olla: he ovat sokiat sokiain taluttajat; jos sokia sokiaa taluttaa, niin he molemmat kuoppaan lankeevat.	
+<div class="versenum">14.</div> Antakaat heidan olla: he ovat sokiat sokiain taluttajat; jos sokia sokiaa taluttaa, niin he molemmat kuoppaan lankeevat.	
 
-15. Niin vastasi Pietari ja sanoi hanelle: selita meille tama vertaus.	
+<div class="versenum">15.</div> Niin vastasi Pietari ja sanoi hanelle: selita meille tama vertaus.	
 
-16. Niin Jesus sanoi: vielako tekin olette ymmartamattomat?	
+<div class="versenum">16.</div> Niin Jesus sanoi: vielako tekin olette ymmartamattomat?	
 
-17. Etteko te viela ymmarra, etta kaikki, mita suuhun sisalle menee, se menee vatsaan, ja silla on luonnollinen uloskayminen.	
+<div class="versenum">17.</div> Etteko te viela ymmarra, etta kaikki, mita suuhun sisalle menee, se menee vatsaan, ja silla on luonnollinen uloskayminen.	
 
-18. Mutta jotka suusta tulevat ulos, ne lahtevat sydamesta ulos, ja saastuttavat ihmisen.	
+<div class="versenum">18.</div> Mutta jotka suusta tulevat ulos, ne lahtevat sydamesta ulos, ja saastuttavat ihmisen.	
 
-19. Silla sydamesta tulevat ulos pahat ajatukset, murhat, salavuoteudet, huoruudet, varkaudet, vaarat todistukset, pilkat:	
+<div class="versenum">19.</div> Silla sydamesta tulevat ulos pahat ajatukset, murhat, salavuoteudet, huoruudet, varkaudet, vaarat todistukset, pilkat:	
 
-20. Namat ovat ne, jotka saastuttavat ihmisen; mutta pesemattomilla kasilla syoda, ei saastuta ihmista.	
+<div class="versenum">20.</div> Namat ovat ne, jotka saastuttavat ihmisen; mutta pesemattomilla kasilla syoda, ei saastuta ihmista.	
 
-21. Ja Jesus laksi sielta ja poikkesi Tyron ja Sidonin maan aariin.	
+<div class="versenum">21.</div> Ja Jesus laksi sielta ja poikkesi Tyron ja Sidonin maan aariin.	
 
-22. Ja katso, Kanaanean vaimo, joka niista maan aarista oli tullut, huusi hanta, sanoen: Herra, Davidin poika, armahda minua: minun tyttareni vaivataan hirmuisesti perkeleelta.	
+<div class="versenum">22.</div> Ja katso, Kanaanean vaimo, joka niista maan aarista oli tullut, huusi hanta, sanoen: Herra, Davidin poika, armahda minua: minun tyttareni vaivataan hirmuisesti perkeleelta.	
 
-23. Mutta ei han sanaakaan hanta vastannut. Niin hanen opetuslapsensa tulivat ja rukoilivat hanta, sanoen: eroita hanta sinustas; silla han huutaa meidan jalkeemme.	
+<div class="versenum">23.</div> Mutta ei han sanaakaan hanta vastannut. Niin hanen opetuslapsensa tulivat ja rukoilivat hanta, sanoen: eroita hanta sinustas; silla han huutaa meidan jalkeemme.	
 
-24. Niin han vastaten sanoi: en ole mina lahetetty, vaan kadotettuin lammasten tyko Israelin huoneesta.	
+<div class="versenum">24.</div> Niin han vastaten sanoi: en ole mina lahetetty, vaan kadotettuin lammasten tyko Israelin huoneesta.	
 
-25. Mutta se tuli ja kumarsi hanta, sanoen: Herra, auta minua.	
+<div class="versenum">25.</div> Mutta se tuli ja kumarsi hanta, sanoen: Herra, auta minua.	
 
-26. Niin han vastaten sanoi: ei ole sovelias ottaa lasten leipaa ja heittaa penikoille.	
+<div class="versenum">26.</div> Niin han vastaten sanoi: ei ole sovelias ottaa lasten leipaa ja heittaa penikoille.	
 
-27. Niin se vastasi: totta Herra, syovat kuitenkin penikatkin niista muruista, jotka heidan herrainsa poydalta putoovat.	
+<div class="versenum">27.</div> Niin se vastasi: totta Herra, syovat kuitenkin penikatkin niista muruista, jotka heidan herrainsa poydalta putoovat.	
 
-28. Silloin Jesus vastaten sanoi hanelle: oi vaimo, suuri on sinun uskos, tapahtukoon sinulle niinkuin sina tahdot. Ja hanen tyttarensa tuli silla hetkella terveeksi.	
+<div class="versenum">28.</div> Silloin Jesus vastaten sanoi hanelle: oi vaimo, suuri on sinun uskos, tapahtukoon sinulle niinkuin sina tahdot. Ja hanen tyttarensa tuli silla hetkella terveeksi.	
 
-29. Ja Jesus laksi sielta ja tuli Galilean meren tyko, ja astui vuorelle, ja istui siihen.	
+<div class="versenum">29.</div> Ja Jesus laksi sielta ja tuli Galilean meren tyko, ja astui vuorelle, ja istui siihen.	
 
-30. Ja paljo kansaa tuli hanen tykonsa, ja toivat kanssansa ontuvia, sokeita, mykkia, raajarikkoja ja paljon muita, ja laskivat Jesuksen jalkain eteen; ja han paransi heidat.	
+<div class="versenum">30.</div> Ja paljo kansaa tuli hanen tykonsa, ja toivat kanssansa ontuvia, sokeita, mykkia, raajarikkoja ja paljon muita, ja laskivat Jesuksen jalkain eteen; ja han paransi heidat.	
 
-31. Niin etta kansa ihmetteli, kuin he nakivat mykat puhuvan, raajarikot terveina, ontuvat kayvan ja sokiat nakevan, ja kunnioittivat Israelin Jumalaa.	
+<div class="versenum">31.</div> Niin etta kansa ihmetteli, kuin he nakivat mykat puhuvan, raajarikot terveina, ontuvat kayvan ja sokiat nakevan, ja kunnioittivat Israelin Jumalaa.	
 
-32. Ja Jesus kutsui opetuslapsensa tykonsa, ja sanoi: mina armahdan kansaa, etta he ovat jo kolme paivaa minun tykonani viipyneet, ja ei ole heilla mitaan syotavaa: ja en mina tahdo heita tykoani syomatta laskea pois, ettei he tiella vaipuisi.	
+<div class="versenum">32.</div> Ja Jesus kutsui opetuslapsensa tykonsa, ja sanoi: mina armahdan kansaa, etta he ovat jo kolme paivaa minun tykonani viipyneet, ja ei ole heilla mitaan syotavaa: ja en mina tahdo heita tykoani syomatta laskea pois, ettei he tiella vaipuisi.	
 
-33. Niin sanoivat hanen opetuslapsensa hanelle: kusta me saamme tassa eramaassa niin monta leipaa, etta me ravitsemme niin paljon kansaa?	
+<div class="versenum">33.</div> Niin sanoivat hanen opetuslapsensa hanelle: kusta me saamme tassa eramaassa niin monta leipaa, etta me ravitsemme niin paljon kansaa?	
 
-34. Ja Jesus sanoi heille: kuinka monta leipaa teilla on? He sanoivat: seitseman, ja vaha kalasia.	
+<div class="versenum">34.</div> Ja Jesus sanoi heille: kuinka monta leipaa teilla on? He sanoivat: seitseman, ja vaha kalasia.	
 
-35. Niin han kaski kansan istua maan paalle atrioitsemaan.	
+<div class="versenum">35.</div> Niin han kaski kansan istua maan paalle atrioitsemaan.	
 
-36. Ja han otti ne seitseman leipaa ja kalat, kiitti, mursi ja antoi opetuslapsillensa, ja opetuslapset antoivat kansalle.	
+<div class="versenum">36.</div> Ja han otti ne seitseman leipaa ja kalat, kiitti, mursi ja antoi opetuslapsillensa, ja opetuslapset antoivat kansalle.	
 
-37. Ja he soivat kaikki ja ravittiin, ja ottivat ylos mita liiaksi jai, seitseman taysinaista koria muruja.	
+<div class="versenum">37.</div> Ja he soivat kaikki ja ravittiin, ja ottivat ylos mita liiaksi jai, seitseman taysinaista koria muruja.	
 
-38. Mutta niita jotka soivat, oli neljatuhatta miesta, ilman vaimoja ja lapsia.	
+<div class="versenum">38.</div> Mutta niita jotka soivat, oli neljatuhatta miesta, ilman vaimoja ja lapsia.	
 
-39. Ja kuin han oli kansan tykoansa laskenut, astui han haahteen, ja tuli Magdalan rajoille.	
+<div class="versenum">39.</div> Ja kuin han oli kansan tykoansa laskenut, astui han haahteen, ja tuli Magdalan rajoille.	
 

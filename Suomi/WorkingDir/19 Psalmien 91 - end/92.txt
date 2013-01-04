@@ -1,32 +1,32 @@
 Psalmien 92	
 	
-1. Psalmi sabbatina veisattava. (H92:2) Hyva on Herraa kiittaa, ja veisata kiitosta sinun nimelles, sina kaikkein Ylimmainen.	
+<div class="versenum">1.</div> Psalmi sabbatina veisattava. (H92:2) Hyva on Herraa kiittaa, ja veisata kiitosta sinun nimelles, sina kaikkein Ylimmainen.	
 
-2. Aamulla julistaa armoas, ja ehtoolla totuuttas,	
+<div class="versenum">2.</div> Aamulla julistaa armoas, ja ehtoolla totuuttas,	
 
-3. Kymmenkielisella ja psaltarilla, soittain kanteleilla.	
+<div class="versenum">3.</div> Kymmenkielisella ja psaltarilla, soittain kanteleilla.	
 
-4. Silla sina ilahutit minua, Herra, sinun teoissas: ja mina iloiten kerskaan kattes toita.	
+<div class="versenum">4.</div> Silla sina ilahutit minua, Herra, sinun teoissas: ja mina iloiten kerskaan kattes toita.	
 
-5. Herra, kuinka sinun tekos ovat niin suuret? Sinun ajatukses ovat ylen syvat.	
+<div class="versenum">5.</div> Herra, kuinka sinun tekos ovat niin suuret? Sinun ajatukses ovat ylen syvat.	
 
-6. Hullu ei usko sita, ja tomppeli ei ymmarra niita.	
+<div class="versenum">6.</div> Hullu ei usko sita, ja tomppeli ei ymmarra niita.	
 
-7. Jumalattomat viherioitsevat niinkuin ruoho, ja pahointekiat kaikki kukoistavat, siihenasti kuin he hukkuvat ijankaikkisesti.	
+<div class="versenum">7.</div> Jumalattomat viherioitsevat niinkuin ruoho, ja pahointekiat kaikki kukoistavat, siihenasti kuin he hukkuvat ijankaikkisesti.	
 
-8. Mutta sina, Herra, olet korkein, ja pysyt ijankaikkisesti.	
+<div class="versenum">8.</div> Mutta sina, Herra, olet korkein, ja pysyt ijankaikkisesti.	
 
-9. Silla katso, sinun vihollises, Herra, katso, sinun vihollises pitaa katooman, ja kaikki pahantekiat pitaa hajoitettaman.	
+<div class="versenum">9.</div> Silla katso, sinun vihollises, Herra, katso, sinun vihollises pitaa katooman, ja kaikki pahantekiat pitaa hajoitettaman.	
 
-10. Mutta minun sarveni tulee korotetuksi niinkuin yksisarvisen, ja mina voidellaan tuoreella oljylla,	
+<div class="versenum">10.</div> Mutta minun sarveni tulee korotetuksi niinkuin yksisarvisen, ja mina voidellaan tuoreella oljylla,	
 
-11. Ja minun silmani nakevat viholliseni, ja minun korvani kuulevat pahoja, jotka heitansa asettavat minua vastaan.	
+<div class="versenum">11.</div> Ja minun silmani nakevat viholliseni, ja minun korvani kuulevat pahoja, jotka heitansa asettavat minua vastaan.	
 
-12. Vanhurskaan pitaa viherioitseman niinkuin palmupuu, ja kasvaman niinkuin sedripuu Libanonissa.	
+<div class="versenum">12.</div> Vanhurskaan pitaa viherioitseman niinkuin palmupuu, ja kasvaman niinkuin sedripuu Libanonissa.	
 
-13. Jotka ovat istutetut Herran huoneessa, pitaa viherioitseman meidan Jumalamme kartanoissa.	
+<div class="versenum">13.</div> Jotka ovat istutetut Herran huoneessa, pitaa viherioitseman meidan Jumalamme kartanoissa.	
 
-14. Heidan pitaa vesoman viela vanhuudessansa, hedelmalliset ja vihannat oleman,	
+<div class="versenum">14.</div> Heidan pitaa vesoman viela vanhuudessansa, hedelmalliset ja vihannat oleman,	
 
-15. Ja julistaman, etta Herra on niin hurskas, minun turvani, ja ei ole hanessa vaaryytta.	
+<div class="versenum">15.</div> Ja julistaman, etta Herra on niin hurskas, minun turvani, ja ei ole hanessa vaaryytta.	
 

@@ -1,56 +1,56 @@
 Sananlaskujen 29	
 	
-1. Joka kuritukselle on uppiniskainen, han akisti kadotetaan ilman yhdetakaan avuta.	
+<div class="versenum">1.</div> Joka kuritukselle on uppiniskainen, han akisti kadotetaan ilman yhdetakaan avuta.	
 
-2. Kuin vanhurskaita monta on, niin kansa iloitsee; vaan kuin jumalatoin hallitsee, niin kansa huokaa.	
+<div class="versenum">2.</div> Kuin vanhurskaita monta on, niin kansa iloitsee; vaan kuin jumalatoin hallitsee, niin kansa huokaa.	
 
-3. Joka viisautta rakastaa, han iloittaa isansa; mutta joka huoria elattaa, han tuhlaa tavaraansa.	
+<div class="versenum">3.</div> Joka viisautta rakastaa, han iloittaa isansa; mutta joka huoria elattaa, han tuhlaa tavaraansa.	
 
-4. Kuningas rakentaa oikeudella valtakunnan; vaan lahjain ottaja sen turmelee.	
+<div class="versenum">4.</div> Kuningas rakentaa oikeudella valtakunnan; vaan lahjain ottaja sen turmelee.	
 
-5. Joka lahimmaisensa kanssa liehakoitsee, han hajoittaa verkon jalkainsa eteen.	
+<div class="versenum">5.</div> Joka lahimmaisensa kanssa liehakoitsee, han hajoittaa verkon jalkainsa eteen.	
 
-6. Kuin paha syntia tekee, niin han hanensa paulaan sekoittaa; vaan vanhurskas riemuitsee, ja hanella on ilo.	
+<div class="versenum">6.</div> Kuin paha syntia tekee, niin han hanensa paulaan sekoittaa; vaan vanhurskas riemuitsee, ja hanella on ilo.	
 
-7. Vanhurskas tuntee koyhan asian; vaan jumalatoin ei ymmarra viisautta.	
+<div class="versenum">7.</div> Vanhurskas tuntee koyhan asian; vaan jumalatoin ei ymmarra viisautta.	
 
-8. Pilkkaajat hajoittavat kaupungin; vaan viisaat asettavat vihan.	
+<div class="versenum">8.</div> Pilkkaajat hajoittavat kaupungin; vaan viisaat asettavat vihan.	
 
-9. Kuin viisas tulee tyhman kanssa oikeutta kaymaan, joko han on vihainen eli iloinen, niin ei ole hanella yhtaan lepoa.	
+<div class="versenum">9.</div> Kuin viisas tulee tyhman kanssa oikeutta kaymaan, joko han on vihainen eli iloinen, niin ei ole hanella yhtaan lepoa.	
 
-10. Verikoirat vihaavat siviaa; vaan vanhurskaat holhovat hanta.	
+<div class="versenum">10.</div> Verikoirat vihaavat siviaa; vaan vanhurskaat holhovat hanta.	
 
-11. Tyhma vuodattaa kaiken henkensa; vaan viisas sen pidattaa.	
+<div class="versenum">11.</div> Tyhma vuodattaa kaiken henkensa; vaan viisas sen pidattaa.	
 
-12. Paamies, joka valhetta rakastaa, hanen palveliansa ovat kaikki jumalattomat.	
+<div class="versenum">12.</div> Paamies, joka valhetta rakastaa, hanen palveliansa ovat kaikki jumalattomat.	
 
-13. Koyha ja rikas kohtasivat toinen toisensa: Herra valaisee heidan molempain silmansa.	
+<div class="versenum">13.</div> Koyha ja rikas kohtasivat toinen toisensa: Herra valaisee heidan molempain silmansa.	
 
-14. Kuningas, joka uskollisesti tuomitsee koyhia, hanen istuimensa vahvistetaan ijankaikkisesti.	
+<div class="versenum">14.</div> Kuningas, joka uskollisesti tuomitsee koyhia, hanen istuimensa vahvistetaan ijankaikkisesti.	
 
-15. Vitsa ja rangaistus antaa viisauden; vaan itsevaltainen lapsi hapaisee aitinsa.	
+<div class="versenum">15.</div> Vitsa ja rangaistus antaa viisauden; vaan itsevaltainen lapsi hapaisee aitinsa.	
 
-16. Jossa monta jumalatointa on, siina on monta syntia; vaan vanhurskaat nakevat heidan lankeemisensa.	
+<div class="versenum">16.</div> Jossa monta jumalatointa on, siina on monta syntia; vaan vanhurskaat nakevat heidan lankeemisensa.	
 
-17. Kurita poikaas, niin han sinua virvoitaa, ja saattaa sielus iloiseksi.	
+<div class="versenum">17.</div> Kurita poikaas, niin han sinua virvoitaa, ja saattaa sielus iloiseksi.	
 
-18. Kuin ennustukset loppuvat, niin kansa hajoitetaan; vaan autuas katkee lain.	
+<div class="versenum">18.</div> Kuin ennustukset loppuvat, niin kansa hajoitetaan; vaan autuas katkee lain.	
 
-19. Palvelia ei anna itsiansa kurittaa sanoilla; silla vaikka han sen ymmartaa, niin ei han vastaa.	
+<div class="versenum">19.</div> Palvelia ei anna itsiansa kurittaa sanoilla; silla vaikka han sen ymmartaa, niin ei han vastaa.	
 
-20. Jos sina naet jonkun, joka on nopsa puhumaan: enempi on toivoa tyhmasta kuin hanesta.	
+<div class="versenum">20.</div> Jos sina naet jonkun, joka on nopsa puhumaan: enempi on toivoa tyhmasta kuin hanesta.	
 
-21. Jos palvelia nuoruudesta herkullisesti pidetaan, niin han tahtoo sitte poikana olla.	
+<div class="versenum">21.</div> Jos palvelia nuoruudesta herkullisesti pidetaan, niin han tahtoo sitte poikana olla.	
 
-22. Vihainen mies saattaa riidan, ja kiukkuinen tekee monta syntia.	
+<div class="versenum">22.</div> Vihainen mies saattaa riidan, ja kiukkuinen tekee monta syntia.	
 
-23. Ylpeys kukistaa ihmisen; vaan kunnia korottaa noyran.	
+<div class="versenum">23.</div> Ylpeys kukistaa ihmisen; vaan kunnia korottaa noyran.	
 
-24. Joka varkaan kanssa on osallinen, han vihaa sieluansa, niin myos se, joka kuulee kirouksen ja ei ilmoita.	
+<div class="versenum">24.</div> Joka varkaan kanssa on osallinen, han vihaa sieluansa, niin myos se, joka kuulee kirouksen ja ei ilmoita.	
 
-25. Joka pelkaa ihmista, han tulee lankeemukseen; mutta joka luottaa Herraan, han tulee pidetyksi ylos.	
+<div class="versenum">25.</div> Joka pelkaa ihmista, han tulee lankeemukseen; mutta joka luottaa Herraan, han tulee pidetyksi ylos.	
 
-26. Moni etsii paamiehenkasvoja; mutta jokaisen tuomio tulee Herralta.	
+<div class="versenum">26.</div> Moni etsii paamiehenkasvoja; mutta jokaisen tuomio tulee Herralta.	
 
-27. Jumalatoin ihminen on vanhurskaille kauhistus; ja joka oikialla tiella on, han on jumalattomalle kauhistus.	
+<div class="versenum">27.</div> Jumalatoin ihminen on vanhurskaille kauhistus; ja joka oikialla tiella on, han on jumalattomalle kauhistus.	
 

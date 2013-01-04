@@ -1,34 +1,34 @@
 Jobin 17	
 	
-1. Minun henkeni on heikko, minun paivani ovat lyhetyt, ja hauta on kasissa.	
+<div class="versenum">1.</div> Minun henkeni on heikko, minun paivani ovat lyhetyt, ja hauta on kasissa.	
 
-2. En mina ketakaan pettanyt, ja kuitenkin minun silmani taytyy olla murheessa.	
+<div class="versenum">2.</div> En mina ketakaan pettanyt, ja kuitenkin minun silmani taytyy olla murheessa.	
 
-3. Nyt siis taivuta sinus, ja ole itse minun takaukseni! kukas muu olis, joka minua takais?	
+<div class="versenum">3.</div> Nyt siis taivuta sinus, ja ole itse minun takaukseni! kukas muu olis, joka minua takais?	
 
-4. Ymmarryksen olet sina heidan sydamistansa katkenyt, sentahden et sina korota heita.	
+<div class="versenum">4.</div> Ymmarryksen olet sina heidan sydamistansa katkenyt, sentahden et sina korota heita.	
 
-5. Han kerskaa ystavillensa saaliistansa, mutta hanen lastensa silmat pitaa vaipuman.	
+<div class="versenum">5.</div> Han kerskaa ystavillensa saaliistansa, mutta hanen lastensa silmat pitaa vaipuman.	
 
-6. Han on minun pannut sananlaskuksi kansain sekaan, ja aaniksi heidan keskellensa.	
+<div class="versenum">6.</div> Han on minun pannut sananlaskuksi kansain sekaan, ja aaniksi heidan keskellensa.	
 
-7. Minun silmani ovat pimenneet minun suruni tahden, ja kaikki minun jaseneni ovat niinkuin varjo.	
+<div class="versenum">7.</div> Minun silmani ovat pimenneet minun suruni tahden, ja kaikki minun jaseneni ovat niinkuin varjo.	
 
-8. Tasta hurskaat hammastyvat, ja viattomat asettavat heitansa ulkokullatuita vastaan.	
+<div class="versenum">8.</div> Tasta hurskaat hammastyvat, ja viattomat asettavat heitansa ulkokullatuita vastaan.	
 
-9. Hurskas pysyy tielIansa: ja jolla on puhtaat kadet, se pysyy vahvana.	
+<div class="versenum">9.</div> Hurskas pysyy tielIansa: ja jolla on puhtaat kadet, se pysyy vahvana.	
 
-10. Kaantakaat siis teitanne kaikki ja tulkaat nyt: en mina kuitenkaan loyda yhtaan taitavaa teidan seassanne.	
+<div class="versenum">10.</div> Kaantakaat siis teitanne kaikki ja tulkaat nyt: en mina kuitenkaan loyda yhtaan taitavaa teidan seassanne.	
 
-11. Minun paivani ovat kuluneet: minun aivoitukseni ovat hajoitetut, jotka minun sydamessani olivat,	
+<div class="versenum">11.</div> Minun paivani ovat kuluneet: minun aivoitukseni ovat hajoitetut, jotka minun sydamessani olivat,	
 
-12. Ja ovat yosta paivan, ja valkeuden pimeydesta tehneet.	
+<div class="versenum">12.</div> Ja ovat yosta paivan, ja valkeuden pimeydesta tehneet.	
 
-13. Ja ehka mina kauvan odottaisin, niin on kuitenkin hauta minun huoneeni, ja mina olen vuoteeni pimeydessa tehnyt.	
+<div class="versenum">13.</div> Ja ehka mina kauvan odottaisin, niin on kuitenkin hauta minun huoneeni, ja mina olen vuoteeni pimeydessa tehnyt.	
 
-14. Matanemisen mina kutsuin isakseni, ja madot aidikseni ja sisarekseni.	
+<div class="versenum">14.</div> Matanemisen mina kutsuin isakseni, ja madot aidikseni ja sisarekseni.	
 
-15. Kussa on nyt minun odottamiseni? ja kuka ottaa minun toivostani vaarin?	
+<div class="versenum">15.</div> Kussa on nyt minun odottamiseni? ja kuka ottaa minun toivostani vaarin?	
 
-16. Hautaan se menee, ja makaa minun kanssani mullassa.	
+<div class="versenum">16.</div> Hautaan se menee, ja makaa minun kanssani mullassa.	
 

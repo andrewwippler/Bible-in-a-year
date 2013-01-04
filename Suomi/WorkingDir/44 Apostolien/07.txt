@@ -1,122 +1,122 @@
 Apostolien 7	
 	
-1. Niin ylimmainen pappi sanoi: lienevatko namat nain?	
+<div class="versenum">1.</div> Niin ylimmainen pappi sanoi: lienevatko namat nain?	
 
-2. Vaan han sanoi: miehet, rakkaat veljet ja isat, kuulkaat: kunnian Jumala ilmestyi Abrahamille meidan isallemme, kuin han oli Mesopotamiassa, ennenkuin han Haranissa asui,	
+<div class="versenum">2.</div> Vaan han sanoi: miehet, rakkaat veljet ja isat, kuulkaat: kunnian Jumala ilmestyi Abrahamille meidan isallemme, kuin han oli Mesopotamiassa, ennenkuin han Haranissa asui,	
 
-3. Ja sanoi hanelle: lahde sinun maaltas ja suvustas, ja tule siihen maahan, jonka mina sinulle osoitan.	
+<div class="versenum">3.</div> Ja sanoi hanelle: lahde sinun maaltas ja suvustas, ja tule siihen maahan, jonka mina sinulle osoitan.	
 
-4. Silloin han laksi Kaldeasta, ja asui Haranissa. Ja kuin hanen isansa kuollut oli, toi han hanen sielta tahan maahan, jossa te nyt asutte.	
+<div class="versenum">4.</div> Silloin han laksi Kaldeasta, ja asui Haranissa. Ja kuin hanen isansa kuollut oli, toi han hanen sielta tahan maahan, jossa te nyt asutte.	
 
-5. Ja ei antanut hanelle siina perintoa, ei jalankaan leveytta; ja han lupasi hanelle sen antaa asuaksensa, ja hanen siemenellensa hanen jalkeensa, kuin ei hanella viela lasta ollut.	
+<div class="versenum">5.</div> Ja ei antanut hanelle siina perintoa, ei jalankaan leveytta; ja han lupasi hanelle sen antaa asuaksensa, ja hanen siemenellensa hanen jalkeensa, kuin ei hanella viela lasta ollut.	
 
-6. Ja Jumala puhui hanelle nain: sinun siemenes pitaa oleman muukalainen vieraalla maalla, ja heidan pitaa sen orjaksi tekeman, ja pahasti sen kanssa meneman neljasataa ajastaikaa.	
+<div class="versenum">6.</div> Ja Jumala puhui hanelle nain: sinun siemenes pitaa oleman muukalainen vieraalla maalla, ja heidan pitaa sen orjaksi tekeman, ja pahasti sen kanssa meneman neljasataa ajastaikaa.	
 
-7. Ja sen kansan, jota he palvelevat, tahdon mina tuomita, sanoi Jumala, ja sitte pitaa heidan lahteman ja minua tassa siassa palveleman.	
+<div class="versenum">7.</div> Ja sen kansan, jota he palvelevat, tahdon mina tuomita, sanoi Jumala, ja sitte pitaa heidan lahteman ja minua tassa siassa palveleman.	
 
-8. Ja han antoi hanelle ymparileikkauksen liiton; ja niin han siitti Isaakin, ja ymparileikkasi hanen kahdeksantena paivana. Ja Isaak siitti Jakobin, ja Jakob kaksitoistakymmenta patriarkkaa.	
+<div class="versenum">8.</div> Ja han antoi hanelle ymparileikkauksen liiton; ja niin han siitti Isaakin, ja ymparileikkasi hanen kahdeksantena paivana. Ja Isaak siitti Jakobin, ja Jakob kaksitoistakymmenta patriarkkaa.	
 
-9. Ja ne patriarkat myivat kateudesta Josefin Egyptiin. Ja Jumala oli hanen kanssansa,	
+<div class="versenum">9.</div> Ja ne patriarkat myivat kateudesta Josefin Egyptiin. Ja Jumala oli hanen kanssansa,	
 
-10. Ja pelasti hanen kaikista tuskistansa, ja antoi hanelle armon ja viisauden Pharaon, Egyptin kuninkaan, kasvoin edessa, ja han pani hanen Egyptin valtamieheksi ja kaiken huoneensa paalle.	
+<div class="versenum">10.</div> Ja pelasti hanen kaikista tuskistansa, ja antoi hanelle armon ja viisauden Pharaon, Egyptin kuninkaan, kasvoin edessa, ja han pani hanen Egyptin valtamieheksi ja kaiken huoneensa paalle.	
 
-11. Mutta nalka tuli kaikkeen Egyptiin ja Kanaanin maahan, ja suuri tuska; ja ei meidan isamme loytaneet ravintoa.	
+<div class="versenum">11.</div> Mutta nalka tuli kaikkeen Egyptiin ja Kanaanin maahan, ja suuri tuska; ja ei meidan isamme loytaneet ravintoa.	
 
-12. Mutta kuin Jakob kuuli Egyptissa jyvia olevan, lahetti han sinne meidan isamme ensimmaisen kerran.	
+<div class="versenum">12.</div> Mutta kuin Jakob kuuli Egyptissa jyvia olevan, lahetti han sinne meidan isamme ensimmaisen kerran.	
 
-13. Ja kuin han toistamiseen heidat lahetti, tunnettiin Joseph veljiltansa; ja Josephin suku tuli Pharaolle tiettavaksi.	
+<div class="versenum">13.</div> Ja kuin han toistamiseen heidat lahetti, tunnettiin Joseph veljiltansa; ja Josephin suku tuli Pharaolle tiettavaksi.	
 
-14. Niin Joseph lahetti ja antoi tuoda isansa Jakobin ja kaiken hanen sukunsa, viisi sielua kahdeksattakymmenta.	
+<div class="versenum">14.</div> Niin Joseph lahetti ja antoi tuoda isansa Jakobin ja kaiken hanen sukunsa, viisi sielua kahdeksattakymmenta.	
 
-15. Ja Jakob meni alas Egyptiin, ja han kuoli, niin myos meidan isamme.	
+<div class="versenum">15.</div> Ja Jakob meni alas Egyptiin, ja han kuoli, niin myos meidan isamme.	
 
-16. Ja he vietiin Sikemiin ja pantiin siihen hautaan, jonka Abraham oli Hemorin lapsilta rahalla ostanut Sikemissa.	
+<div class="versenum">16.</div> Ja he vietiin Sikemiin ja pantiin siihen hautaan, jonka Abraham oli Hemorin lapsilta rahalla ostanut Sikemissa.	
 
-17. Mutta kuin lupauksen aika lahestyi, josta Jumala oli Abrahamille vannonut, kasvoi ja eneni kansa Egyptissa,	
+<div class="versenum">17.</div> Mutta kuin lupauksen aika lahestyi, josta Jumala oli Abrahamille vannonut, kasvoi ja eneni kansa Egyptissa,	
 
-18. Siihenasti kuin toinen kuningas tuli, joka ei Josephista mitaan tietanyt.	
+<div class="versenum">18.</div> Siihenasti kuin toinen kuningas tuli, joka ei Josephista mitaan tietanyt.	
 
-19. Tama meidan sukuamme kavalasti juonitteli, ja meni pahasti meidan isaimme kanssa, niin etta heidan piti nuoret lapsensa heittaman pois, ettei he olisi saaneet elaa.	
+<div class="versenum">19.</div> Tama meidan sukuamme kavalasti juonitteli, ja meni pahasti meidan isaimme kanssa, niin etta heidan piti nuoret lapsensa heittaman pois, ettei he olisi saaneet elaa.	
 
-20. Siihen aikaan syntyi Moses, ja han oli Jumalalle otollinen, ja elatettiin kolme kuukautta isansa huoneessa.	
+<div class="versenum">20.</div> Siihen aikaan syntyi Moses, ja han oli Jumalalle otollinen, ja elatettiin kolme kuukautta isansa huoneessa.	
 
-21. Mutta kuin han heitetty oli ulos, otti Pharaon tytar hanen ja kasvatti itsellensa pojaksi.	
+<div class="versenum">21.</div> Mutta kuin han heitetty oli ulos, otti Pharaon tytar hanen ja kasvatti itsellensa pojaksi.	
 
-22. Ja Moses opetettiin kaikessa Egyptilaisten viisaudessa, ja oli voimallinen sanoissa ja toissa.	
+<div class="versenum">22.</div> Ja Moses opetettiin kaikessa Egyptilaisten viisaudessa, ja oli voimallinen sanoissa ja toissa.	
 
-23. Mutta kuin han oli neljankymmenen ajastajan vanha, joukahtui hanen sydameensa menna katsomaan veljiansa Israelin lapsia.	
+<div class="versenum">23.</div> Mutta kuin han oli neljankymmenen ajastajan vanha, joukahtui hanen sydameensa menna katsomaan veljiansa Israelin lapsia.	
 
-24. Ja kuin han naki yhdelle vaaryytta tehtavan, autti han hanta ja kosti hanen puolestansa, joka vaaryytta karsi, ja loi Egyptin miehen.	
+<div class="versenum">24.</div> Ja kuin han naki yhdelle vaaryytta tehtavan, autti han hanta ja kosti hanen puolestansa, joka vaaryytta karsi, ja loi Egyptin miehen.	
 
-25. Mutta han luuli veljiensa sen ymmartavan, etta Jumala hanen katensa kautta oli heille vapauden antava; vaan eivat he ymmartaneet.	
+<div class="versenum">25.</div> Mutta han luuli veljiensa sen ymmartavan, etta Jumala hanen katensa kautta oli heille vapauden antava; vaan eivat he ymmartaneet.	
 
-26. Ja han tuli toisena paivana heidan tykonsa, jotka keskenansa riitelivat, ja sovitti heita, sanoen: rakkaat miehet, te olette veljekset: miksi te toinen toisellenne vaaryytta teette?	
+<div class="versenum">26.</div> Ja han tuli toisena paivana heidan tykonsa, jotka keskenansa riitelivat, ja sovitti heita, sanoen: rakkaat miehet, te olette veljekset: miksi te toinen toisellenne vaaryytta teette?	
 
-27. Mutta se, joka lahimmaisellensa vaaryytta teki, lykkasi hanta, sanoen: kuka sinun on pannut paamieheksi ja tuomariksi meidan ylitsemme?	
+<div class="versenum">27.</div> Mutta se, joka lahimmaisellensa vaaryytta teki, lykkasi hanta, sanoen: kuka sinun on pannut paamieheksi ja tuomariksi meidan ylitsemme?	
 
-28. Vai tahdotkos sina minua niin tappaa, kuin sina Egyptilaisen eilen tapoit?	
+<div class="versenum">28.</div> Vai tahdotkos sina minua niin tappaa, kuin sina Egyptilaisen eilen tapoit?	
 
-29. Niin Moses pakeni taman puheen tahden, ja oli Madiamin maakunnassa muukalainen, jossa han kaksi poikaa siitti.	
+<div class="versenum">29.</div> Niin Moses pakeni taman puheen tahden, ja oli Madiamin maakunnassa muukalainen, jossa han kaksi poikaa siitti.	
 
-30. Ja neljankymmenen ajastajan perasta ilmestyi hanelle Herran enkeli korvessa, Sinain vuorella, pensaan tulen liekissa.	
+<div class="versenum">30.</div> Ja neljankymmenen ajastajan perasta ilmestyi hanelle Herran enkeli korvessa, Sinain vuorella, pensaan tulen liekissa.	
 
-31. Mutta kuin Moses sen naki, ihmetteli han sita nakya, ja kuin han meni lahes katsomaan, niin tapahtui Herran aani hanelle:	
+<div class="versenum">31.</div> Mutta kuin Moses sen naki, ihmetteli han sita nakya, ja kuin han meni lahes katsomaan, niin tapahtui Herran aani hanelle:	
 
-32. Mina olen sinun isais Jumala, Abrahamin Jumala, ja Isaakin Jumala, ja Jakobin Jumala. Niin Moses vapisi eika tohtinut sinne katsoa.	
+<div class="versenum">32.</div> Mina olen sinun isais Jumala, Abrahamin Jumala, ja Isaakin Jumala, ja Jakobin Jumala. Niin Moses vapisi eika tohtinut sinne katsoa.	
 
-33. Ja Herra sanoi hanelle: riisu kenkas jaloistas; silla sia, jossas seisot, on pyha maa.	
+<div class="versenum">33.</div> Ja Herra sanoi hanelle: riisu kenkas jaloistas; silla sia, jossas seisot, on pyha maa.	
 
-34. Mina olen nahden nahnyt kansani tuskan Egyptissa, ja olen heidan huokauksensa kuullut, ja tulin alas heita ottamaan ulos: tule siis nyt tanne, mina lahetan sinun Egyptiin.	
+<div class="versenum">34.</div> Mina olen nahden nahnyt kansani tuskan Egyptissa, ja olen heidan huokauksensa kuullut, ja tulin alas heita ottamaan ulos: tule siis nyt tanne, mina lahetan sinun Egyptiin.	
 
-35. Taman Moseksen, jota he kielsivat, sanoen: kuka sinun on pannut paamieheksi ja tuomariksi? taman on Jumala lahettanyt paamieheksi ja vapahtajaksi, enkelin kaden kautta, joka hanelle pensaassa ilmestyi.	
+<div class="versenum">35.</div> Taman Moseksen, jota he kielsivat, sanoen: kuka sinun on pannut paamieheksi ja tuomariksi? taman on Jumala lahettanyt paamieheksi ja vapahtajaksi, enkelin kaden kautta, joka hanelle pensaassa ilmestyi.	
 
-36. Tama johdatti heita ulos, ja teki ihmeita ja merkkeja Egyptin maassa ja Punaisessa meressa ja korvessa, neljakymmenta ajastaikaa.	
+<div class="versenum">36.</div> Tama johdatti heita ulos, ja teki ihmeita ja merkkeja Egyptin maassa ja Punaisessa meressa ja korvessa, neljakymmenta ajastaikaa.	
 
-37. Tama on se Moses, joka sanoi Israelin lapsille: Herra teidan Jumalanne herattaa teille teidan veljistanne yhden Prophetan, niinkuin minun, jota teidan pitaa kuuleman.	
+<div class="versenum">37.</div> Tama on se Moses, joka sanoi Israelin lapsille: Herra teidan Jumalanne herattaa teille teidan veljistanne yhden Prophetan, niinkuin minun, jota teidan pitaa kuuleman.	
 
-38. Tama oli seurakunnassa enkelin kanssa korvessa, joka puhui hanen kanssansa Sinain vuorella, ja meidan isaimme kanssa. Tama sai elaman puheen meille antaaksensa,	
+<div class="versenum">38.</div> Tama oli seurakunnassa enkelin kanssa korvessa, joka puhui hanen kanssansa Sinain vuorella, ja meidan isaimme kanssa. Tama sai elaman puheen meille antaaksensa,	
 
-39. Jota ei meidan isamme totelleet, vaan sysasivat pois sen tykoansa, ja palasivat sydamessansa Egyptiin,	
+<div class="versenum">39.</div> Jota ei meidan isamme totelleet, vaan sysasivat pois sen tykoansa, ja palasivat sydamessansa Egyptiin,	
 
-40. Sanoen Aaronille: tee meille jumalia, jotka meidan edellamme kavisivat; silla emme tieda, mita Mosekselle, joka meidan Egyptin maasta toi ulos, on tapahtunut.	
+<div class="versenum">40.</div> Sanoen Aaronille: tee meille jumalia, jotka meidan edellamme kavisivat; silla emme tieda, mita Mosekselle, joka meidan Egyptin maasta toi ulos, on tapahtunut.	
 
-41. Ja niina paivina tekivat he vasikan, ja uhrasivat epajumalille uhria, ja riemuitsivat kattensa toista.	
+<div class="versenum">41.</div> Ja niina paivina tekivat he vasikan, ja uhrasivat epajumalille uhria, ja riemuitsivat kattensa toista.	
 
-42. Niin Jumala kaansi itsensa, ja antoi ylon heidat palvelemaan taivaan sotajoukkoa, niinkuin prophetain Raamatussa on kirjoitettu: oletteko te Israelin huoneesta minulle teurasuhria ja ruokauhria tehneet neljanakymmenena ajastaikana korvessa?	
+<div class="versenum">42.</div> Niin Jumala kaansi itsensa, ja antoi ylon heidat palvelemaan taivaan sotajoukkoa, niinkuin prophetain Raamatussa on kirjoitettu: oletteko te Israelin huoneesta minulle teurasuhria ja ruokauhria tehneet neljanakymmenena ajastaikana korvessa?	
 
-43. Ja te kannoitte Molokin majaa ja teidan jumalanne Remphan tahtea, joita kuvia te teitte kumartaaksenne niita, ja mina tahdon teidat vieda pois edemma Babelia.	
+<div class="versenum">43.</div> Ja te kannoitte Molokin majaa ja teidan jumalanne Remphan tahtea, joita kuvia te teitte kumartaaksenne niita, ja mina tahdon teidat vieda pois edemma Babelia.	
 
-44. Meidan isilla oli todistuksen maja korvessa, niinkuin se oli saatanyt, joka Moseksen kanssa puhui, etta hanen piti sen tekeman sen esikuvan peraan, jonka han nahnyt oli;	
+<div class="versenum">44.</div> Meidan isilla oli todistuksen maja korvessa, niinkuin se oli saatanyt, joka Moseksen kanssa puhui, etta hanen piti sen tekeman sen esikuvan peraan, jonka han nahnyt oli;	
 
-45. Jonka myos meidan isamme vastaan ottivat, ja veivat Josuan kanssa siihen maahan, jossa pakanat asuivat, jotka Jumala havitti meidan isaimme kasvoin edesta, hamaan Davidin aikaan asti,	
+<div class="versenum">45.</div> Jonka myos meidan isamme vastaan ottivat, ja veivat Josuan kanssa siihen maahan, jossa pakanat asuivat, jotka Jumala havitti meidan isaimme kasvoin edesta, hamaan Davidin aikaan asti,	
 
-46. Joka loysi armon Jumalan tykona, ja anoi, etta han olis majan loytanyt Jakobin Jumalalle.	
+<div class="versenum">46.</div> Joka loysi armon Jumalan tykona, ja anoi, etta han olis majan loytanyt Jakobin Jumalalle.	
 
-47. Mutta Salomo rakensi hanelle huoneen.	
+<div class="versenum">47.</div> Mutta Salomo rakensi hanelle huoneen.	
 
-48. Vaan se kaikkein Ylimmainen ei asu kasilla tehdyissa templeissa, niinkuin propheta sanoo:	
+<div class="versenum">48.</div> Vaan se kaikkein Ylimmainen ei asu kasilla tehdyissa templeissa, niinkuin propheta sanoo:	
 
-49. Taivas on minun istuimeni ja maa jalkaini astinlauta. Minka huoneen te siis tahdotte minulle rakentaa, sanoo Herra, eli kuka on minun leposiani?	
+<div class="versenum">49.</div> Taivas on minun istuimeni ja maa jalkaini astinlauta. Minka huoneen te siis tahdotte minulle rakentaa, sanoo Herra, eli kuka on minun leposiani?	
 
-50. Eiko minun kateni ole kaikkia naita tehnyt?	
+<div class="versenum">50.</div> Eiko minun kateni ole kaikkia naita tehnyt?	
 
-51. Te niskurit ja ymparileikkaamattomat sydamesta ja korvista! te olette aina Pyhaa Henkea vastaan, niinkuin teidan isanne, niin myos tekin.	
+<div class="versenum">51.</div> Te niskurit ja ymparileikkaamattomat sydamesta ja korvista! te olette aina Pyhaa Henkea vastaan, niinkuin teidan isanne, niin myos tekin.	
 
-52. Keta prophetaista ei teidan isanne vainonneet? Ja he tappoivat ne, jotka vanhurskaan tulemista ennustivat, jonka pettajat ja murhaajat te nyt olitte,	
+<div class="versenum">52.</div> Keta prophetaista ei teidan isanne vainonneet? Ja he tappoivat ne, jotka vanhurskaan tulemista ennustivat, jonka pettajat ja murhaajat te nyt olitte,	
 
-53. Jotka saitte lain enkelien asetuksen kautta, jota ette pitaneet.	
+<div class="versenum">53.</div> Jotka saitte lain enkelien asetuksen kautta, jota ette pitaneet.	
 
-54. Mutta kuin he namat kuulivat, kavi se lapi heidan sydamensa, ja kiristelivat hampaitansa hanen paallensa.	
+<div class="versenum">54.</div> Mutta kuin he namat kuulivat, kavi se lapi heidan sydamensa, ja kiristelivat hampaitansa hanen paallensa.	
 
-55. Mutta etta han oli taynna Pyhaa Henkea, katsahti han ylos taivaasen, naki Jumalan kunnian ja Jesuksen seisovan Jumalan oikialla kadella,	
+<div class="versenum">55.</div> Mutta etta han oli taynna Pyhaa Henkea, katsahti han ylos taivaasen, naki Jumalan kunnian ja Jesuksen seisovan Jumalan oikialla kadella,	
 
-56. Ja sanoi: katso, mina naen taivaat avoinna, ja Ihmisen Pojan seisovan Jumalan oikialla kadella.	
+<div class="versenum">56.</div> Ja sanoi: katso, mina naen taivaat avoinna, ja Ihmisen Pojan seisovan Jumalan oikialla kadella.	
 
-57. Niin he huusivat suurella aanella, ja tukitsivat korviansa, ja karkasivat kaikki yksimielisesti hanen paallensa,	
+<div class="versenum">57.</div> Niin he huusivat suurella aanella, ja tukitsivat korviansa, ja karkasivat kaikki yksimielisesti hanen paallensa,	
 
-58. Ja ajoivat hanen ulos kaupungista, ja kivittivat. Ja todistajat panivat vaatteensa nuorukaisen jalkain juureen, joka kutsuttiin Saulus.	
+<div class="versenum">58.</div> Ja ajoivat hanen ulos kaupungista, ja kivittivat. Ja todistajat panivat vaatteensa nuorukaisen jalkain juureen, joka kutsuttiin Saulus.	
 
-59. Ja he kivittivat Stephanin, joka rukoili ja sanoi: Herra Jesus, ota minun henkeni.	
+<div class="versenum">59.</div> Ja he kivittivat Stephanin, joka rukoili ja sanoi: Herra Jesus, ota minun henkeni.	
 
-60. Niin han pani polvillensa, ja huusi suurella aanella: Herra, ala lue heille tata syntia. Ja kuin han taman sanonut oli, niin han nukkui.	
+<div class="versenum">60.</div> Niin han pani polvillensa, ja huusi suurella aanella: Herra, ala lue heille tata syntia. Ja kuin han taman sanonut oli, niin han nukkui.	
 

@@ -1,50 +1,50 @@
 Psalmien 71	
 	
-1. Sinuun, Herra, mina uskallan: ala anna minua ikana havaista.	
+<div class="versenum">1.</div> Sinuun, Herra, mina uskallan: ala anna minua ikana havaista.	
 
-2. Vapahda minua vanhurskaudessa ja pelasta minua: kallista korvas minun puoleeni ja auta minua.	
+<div class="versenum">2.</div> Vapahda minua vanhurskaudessa ja pelasta minua: kallista korvas minun puoleeni ja auta minua.	
 
-3. Ole minulle vahva turva, johon mina aina pakenisin: sina olet luvannut minua auttaa; silla sina olet minun kallioni ja linnani.	
+<div class="versenum">3.</div> Ole minulle vahva turva, johon mina aina pakenisin: sina olet luvannut minua auttaa; silla sina olet minun kallioni ja linnani.	
 
-4. Minun Jumalani, auta minua jumalattoman kadesta, vaaran ja vakivaltaisen kadesta.	
+<div class="versenum">4.</div> Minun Jumalani, auta minua jumalattoman kadesta, vaaran ja vakivaltaisen kadesta.	
 
-5. Silla sina olet minun turvani, Herra, Herra: minun toivoni hamasta minun nuoruudestani.	
+<div class="versenum">5.</div> Silla sina olet minun turvani, Herra, Herra: minun toivoni hamasta minun nuoruudestani.	
 
-6. Sinuun mina olen luottanut hamasta aitini kohdusta, sina minun vedit ulos aitini kohdusta: sinusta on aina minun kerskaukseni.	
+<div class="versenum">6.</div> Sinuun mina olen luottanut hamasta aitini kohdusta, sina minun vedit ulos aitini kohdusta: sinusta on aina minun kerskaukseni.	
 
-7. Mina olen monelle ihmeeksi tullut; mutta sina olet minun vahva turvani.	
+<div class="versenum">7.</div> Mina olen monelle ihmeeksi tullut; mutta sina olet minun vahva turvani.	
 
-8. Tayta minun suuni sinun kiitoksestas ja sinun kunniastas joka paiva.	
+<div class="versenum">8.</div> Tayta minun suuni sinun kiitoksestas ja sinun kunniastas joka paiva.	
 
-9. Ala minua heita pois minun vanhuudessani: ala minua hylkaa, kuin mina heikoksi tulen.	
+<div class="versenum">9.</div> Ala minua heita pois minun vanhuudessani: ala minua hylkaa, kuin mina heikoksi tulen.	
 
-10. Silla minun viholliseni puhuvat minua vastaan: ja jotka minun sieluani vaijyvat, he keskenansa neuvoa pitavat,	
+<div class="versenum">10.</div> Silla minun viholliseni puhuvat minua vastaan: ja jotka minun sieluani vaijyvat, he keskenansa neuvoa pitavat,	
 
-11. Ja sanovat: Jumala hylkasi hanen; ajakaat takaa ja kasittakaat hanta, silla ei ole vapahtajaa.	
+<div class="versenum">11.</div> Ja sanovat: Jumala hylkasi hanen; ajakaat takaa ja kasittakaat hanta, silla ei ole vapahtajaa.	
 
-12. Jumala, ala erkane kauvas minusta: minun Jumalani, rienna minua auttamaan.	
+<div class="versenum">12.</div> Jumala, ala erkane kauvas minusta: minun Jumalani, rienna minua auttamaan.	
 
-13. Havetkoon ja hukkukoon, jotka minun sieluani vastaan ovat: hapian ja havaistyksen alle tulkoon, jotka minulle pahaa suovat.	
+<div class="versenum">13.</div> Havetkoon ja hukkukoon, jotka minun sieluani vastaan ovat: hapian ja havaistyksen alle tulkoon, jotka minulle pahaa suovat.	
 
-14. Mutta mina odotan aina, ja korotan aina sinun kiitokses.	
+<div class="versenum">14.</div> Mutta mina odotan aina, ja korotan aina sinun kiitokses.	
 
-15. Minun suuni pitaa ilmoittaman sinun vanhurskauttas, joka paiva sinun autuuttas, joita en mina voi kaikkia lukea.	
+<div class="versenum">15.</div> Minun suuni pitaa ilmoittaman sinun vanhurskauttas, joka paiva sinun autuuttas, joita en mina voi kaikkia lukea.	
 
-16. Mina vaellan Herran, Herran vakevyydessa: mina tahdon muistaa ainoastaan sinun vanhurskauttas.	
+<div class="versenum">16.</div> Mina vaellan Herran, Herran vakevyydessa: mina tahdon muistaa ainoastaan sinun vanhurskauttas.	
 
-17. Jumala, sina olet minua nuoruudestani opettanut, sentahden mina julistan sinun ihmeitas.	
+<div class="versenum">17.</div> Jumala, sina olet minua nuoruudestani opettanut, sentahden mina julistan sinun ihmeitas.	
 
-18. Ja minun vanhuudessani ja harmaaksi tultuani ala, Jumala, minua hylkaa, siihenasti kuin mina ilmoitan sinun kasivartes lasten lapsille, ja sinun vakevyytes kaikille tulevaisille.	
+<div class="versenum">18.</div> Ja minun vanhuudessani ja harmaaksi tultuani ala, Jumala, minua hylkaa, siihenasti kuin mina ilmoitan sinun kasivartes lasten lapsille, ja sinun vakevyytes kaikille tulevaisille.	
 
-19. Ja tosin, Jumala, sinun vanhurskautes on sangen korkia, sina teet suuria: Jumala, kuka on sinun vertaises?	
+<div class="versenum">19.</div> Ja tosin, Jumala, sinun vanhurskautes on sangen korkia, sina teet suuria: Jumala, kuka on sinun vertaises?	
 
-20. Silla sina annat minun nahda paljon ja suuria ahdistuksia, ja virvoitat minua jalleen; ja taas sina haet minua ulos maan syvyydesta.	
+<div class="versenum">20.</div> Silla sina annat minun nahda paljon ja suuria ahdistuksia, ja virvoitat minua jalleen; ja taas sina haet minua ulos maan syvyydesta.	
 
-21. Sina teet minun sangen suureksi, ja lohdutat minua jalleen.	
+<div class="versenum">21.</div> Sina teet minun sangen suureksi, ja lohdutat minua jalleen.	
 
-22. Niin minakin kiitan sinua psaltarilla, sinun totuuttas, minun Jumalani: mina veisaan kiitosta sinulle kanteleilla, sina pyha Israelissa.	
+<div class="versenum">22.</div> Niin minakin kiitan sinua psaltarilla, sinun totuuttas, minun Jumalani: mina veisaan kiitosta sinulle kanteleilla, sina pyha Israelissa.	
 
-23. Minun huuleni pitaa kiittaman, koska mina sinulle veisaan, ja minun sieluni, jonkas lunastit.	
+<div class="versenum">23.</div> Minun huuleni pitaa kiittaman, koska mina sinulle veisaan, ja minun sieluni, jonkas lunastit.	
 
-24. Ja minun kieleni puhuu myos joka paiva sinun vanhurskaudestas; sentahden havetkaan he ja hapiaan tulkoon, jotka minulle pahaa suovat.	
+<div class="versenum">24.</div> Ja minun kieleni puhuu myos joka paiva sinun vanhurskaudestas; sentahden havetkaan he ja hapiaan tulkoon, jotka minulle pahaa suovat.	
 

@@ -1,46 +1,46 @@
 Jobin 16	
 	
-1. Sitte vastasi Job ja sanoi:	
+<div class="versenum">1.</div> Sitte vastasi Job ja sanoi:	
 
-2. Mina olen usein senkaltaista kuullut: te olette kaikki haijyt lohduttajat.	
+<div class="versenum">2.</div> Mina olen usein senkaltaista kuullut: te olette kaikki haijyt lohduttajat.	
 
-3. Koska siis namat tyhjat puheet loppuvat? eli mika sinun niin rohkaisee puhumaan?	
+<div class="versenum">3.</div> Koska siis namat tyhjat puheet loppuvat? eli mika sinun niin rohkaisee puhumaan?	
 
-4. Mina taitaisin myos puhua niinkuin tekin. Mina soisin teidan sielunne olevan minun sieluni siassa, niin mina loytaisin myos sanoja teita vastaan, ja taitaisin vaantaa paatani teita vastaan.	
+<div class="versenum">4.</div> Mina taitaisin myos puhua niinkuin tekin. Mina soisin teidan sielunne olevan minun sieluni siassa, niin mina loytaisin myos sanoja teita vastaan, ja taitaisin vaantaa paatani teita vastaan.	
 
-5. Mina tahtoisin vahvistaa teita suullani, ja lohduttaa huulillani.	
+<div class="versenum">5.</div> Mina tahtoisin vahvistaa teita suullani, ja lohduttaa huulillani.	
 
-6. Mutta ehka mina puhuisin, niin ei kuitenkaan minun vaivani lakkaa: jos mina vaikenen, niin ei se kuitenkaan mene minusta pois.	
+<div class="versenum">6.</div> Mutta ehka mina puhuisin, niin ei kuitenkaan minun vaivani lakkaa: jos mina vaikenen, niin ei se kuitenkaan mene minusta pois.	
 
-7. Mutta nyt han saattaa minulle vaivaisuuden: sina havitat koko minun seurani.	
+<div class="versenum">7.</div> Mutta nyt han saattaa minulle vaivaisuuden: sina havitat koko minun seurani.	
 
-8. Sina olet tehnyt minun ryppyiseksi, etta olis todistus minua vastaan: minun laihuuteni nousee minua vastaan, ja sanoo minua vastaan.	
+<div class="versenum">8.</div> Sina olet tehnyt minun ryppyiseksi, etta olis todistus minua vastaan: minun laihuuteni nousee minua vastaan, ja sanoo minua vastaan.	
 
-9. Hanen vihansa repaisee minun, ja joka minua vihaa, kiristelee hampaitansa minun paalleni; ja minun viholliseni silmat kiiluvat minun paalleni.	
+<div class="versenum">9.</div> Hanen vihansa repaisee minun, ja joka minua vihaa, kiristelee hampaitansa minun paalleni; ja minun viholliseni silmat kiiluvat minun paalleni.	
 
-10. He ammottivat suunsa minua vastaan, ja ovat minua hapiallisesti poskelle piesseet: he ovat sammuttaneet vihansa minun paalleni.	
+<div class="versenum">10.</div> He ammottivat suunsa minua vastaan, ja ovat minua hapiallisesti poskelle piesseet: he ovat sammuttaneet vihansa minun paalleni.	
 
-11. Jumala on minun hyljannyt vaarille, ja antanut minun tulla jumalattomain kasiin.	
+<div class="versenum">11.</div> Jumala on minun hyljannyt vaarille, ja antanut minun tulla jumalattomain kasiin.	
 
-12. Mina olin rauhassa, vaan han on minun murentanut, han on tarttunut minun kaulaani, ja sarkenyt minun, ja pannut minun hanellensa maaliksi.	
+<div class="versenum">12.</div> Mina olin rauhassa, vaan han on minun murentanut, han on tarttunut minun kaulaani, ja sarkenyt minun, ja pannut minun hanellensa maaliksi.	
 
-13. Hanen ampujansa ovat piirittaneet minun: han on revaissyt minun munaskuuni, eika saastanyt: han on vuodattanut minun sappeni maan paalle:	
+<div class="versenum">13.</div> Hanen ampujansa ovat piirittaneet minun: han on revaissyt minun munaskuuni, eika saastanyt: han on vuodattanut minun sappeni maan paalle:	
 
-14. Han on haavoittanut minun yhdella haavalla toisen peraan: Han karkasi minun paalleni niinkuin joku vakeva.	
+<div class="versenum">14.</div> Han on haavoittanut minun yhdella haavalla toisen peraan: Han karkasi minun paalleni niinkuin joku vakeva.	
 
-15. Mina ompelin sakin minun nahkani paalle, ja laskin sarveni multaan.	
+<div class="versenum">15.</div> Mina ompelin sakin minun nahkani paalle, ja laskin sarveni multaan.	
 
-16. Minun kasvoni ovat soaistut itkusta, ja silmalautani paalla on kuoleman varjo.	
+<div class="versenum">16.</div> Minun kasvoni ovat soaistut itkusta, ja silmalautani paalla on kuoleman varjo.	
 
-17. Ehkei kuitenkaan minun kadessani ole vaaryys, ja minun rukoukseni on puhdas.	
+<div class="versenum">17.</div> Ehkei kuitenkaan minun kadessani ole vaaryys, ja minun rukoukseni on puhdas.	
 
-18. Maa, ala peita minun vertani, ja alkaan olko minun huudolleni siaa.	
+<div class="versenum">18.</div> Maa, ala peita minun vertani, ja alkaan olko minun huudolleni siaa.	
 
-19. Ja katso, minun todistajani on taivaassa, ja joka minun tuntee, on korkeudessa.	
+<div class="versenum">19.</div> Ja katso, minun todistajani on taivaassa, ja joka minun tuntee, on korkeudessa.	
 
-20. Minun ystavani ovat minun pilkkaajani; mutta minun silmani vuodattavat kyynelia Jumalan tyko,	
+<div class="versenum">20.</div> Minun ystavani ovat minun pilkkaajani; mutta minun silmani vuodattavat kyynelia Jumalan tyko,	
 
-21. Joka ihmisen puolesta vastaa Jumalan tykona, niinkuin ihmisen lapsi lahimmaisensa puolesta.	
+<div class="versenum">21.</div> Joka ihmisen puolesta vastaa Jumalan tykona, niinkuin ihmisen lapsi lahimmaisensa puolesta.	
 
-22. Mutta maaratyt vuodet ovat tulleet, ja mina menen sita tieta pois, jota en mina jalleen palaja.	
+<div class="versenum">22.</div> Mutta maaratyt vuodet ovat tulleet, ja mina menen sita tieta pois, jota en mina jalleen palaja.	
 

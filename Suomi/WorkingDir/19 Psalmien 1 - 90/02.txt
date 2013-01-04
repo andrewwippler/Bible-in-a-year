@@ -1,26 +1,26 @@
 Psalmien 2	
 	
-1. Miksi pakanat kiukuitsevat, ja kansat turhia ajattelevat?	
+<div class="versenum">1.</div> Miksi pakanat kiukuitsevat, ja kansat turhia ajattelevat?	
 
-2. Maan kuninkaat hankitsevat itseansa, ja paamiehet keskenansa neuvoa pitavat Herraa ja hanen voideltuansa vastaan.	
+<div class="versenum">2.</div> Maan kuninkaat hankitsevat itseansa, ja paamiehet keskenansa neuvoa pitavat Herraa ja hanen voideltuansa vastaan.	
 
-3. Katkaiskaamme heidan siteensa, ja heittakaamme meista pois heidan koytensa.	
+<div class="versenum">3.</div> Katkaiskaamme heidan siteensa, ja heittakaamme meista pois heidan koytensa.	
 
-4. Mutta joka taivaissa asuu, nauraa heita: Herra pilkkaa heita.	
+<div class="versenum">4.</div> Mutta joka taivaissa asuu, nauraa heita: Herra pilkkaa heita.	
 
-5. Kerran han puhuu heille vihoissansa, ja hirmuisuudessansa peljattaa heita.	
+<div class="versenum">5.</div> Kerran han puhuu heille vihoissansa, ja hirmuisuudessansa peljattaa heita.	
 
-6. Mutta mina asetin kuninkaani Zioniin, pyhalle vuorelleni.	
+<div class="versenum">6.</div> Mutta mina asetin kuninkaani Zioniin, pyhalle vuorelleni.	
 
-7. Mina tahdon saarnata senkaltaisesta saadysta, josta Herra minulle sanoi: Sina olet minun poikani, tanapana mina sinun synnytin.	
+<div class="versenum">7.</div> Mina tahdon saarnata senkaltaisesta saadysta, josta Herra minulle sanoi: Sina olet minun poikani, tanapana mina sinun synnytin.	
 
-8. Ano minulta, niin mina annan pakanat perinnokses ja maailman aaret omakses.	
+<div class="versenum">8.</div> Ano minulta, niin mina annan pakanat perinnokses ja maailman aaret omakses.	
 
-9. Sinun pitaa sarkeman heita rautaisella valtikalla, ja niinkuin savisen astian heita murentaman.	
+<div class="versenum">9.</div> Sinun pitaa sarkeman heita rautaisella valtikalla, ja niinkuin savisen astian heita murentaman.	
 
-10. Nyt te kuninkaat, siis ymmartakaat, ja te maan tuomarit, antakaat teitanne kurittaa.	
+<div class="versenum">10.</div> Nyt te kuninkaat, siis ymmartakaat, ja te maan tuomarit, antakaat teitanne kurittaa.	
 
-11. Palvelkaat Herraa pelvossa, ja iloitkaat vavistuksessa.	
+<div class="versenum">11.</div> Palvelkaat Herraa pelvossa, ja iloitkaat vavistuksessa.	
 
-12. Antakaat suuta pojalle, ettei han vihastuisi, ja te hukkuisitte tiella; silla hanen vihansa syttyy pian. Mutta autuaat ovat kaikki ne, jotka haneen uskaltavat.	
+<div class="versenum">12.</div> Antakaat suuta pojalle, ettei han vihastuisi, ja te hukkuisitte tiella; silla hanen vihansa syttyy pian. Mutta autuaat ovat kaikki ne, jotka haneen uskaltavat.	
 

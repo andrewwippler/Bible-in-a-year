@@ -1,96 +1,96 @@
 Nehemian 12	
 	
-1. Namat ovat papit ja Levilaiset, jotka menivat ylos Serubbabelin Sealtielin pojan ja Jesuan kanssa: Seraja, Jeremia, Esra,	
+<div class="versenum">1.</div> Namat ovat papit ja Levilaiset, jotka menivat ylos Serubbabelin Sealtielin pojan ja Jesuan kanssa: Seraja, Jeremia, Esra,	
 
-2. Amaria, Malluk, Hattus,	
+<div class="versenum">2.</div> Amaria, Malluk, Hattus,	
 
-3. Sekania, Rehum, Meremot,	
+<div class="versenum">3.</div> Sekania, Rehum, Meremot,	
 
-4. Iddo, Ginetoi, Abia,	
+<div class="versenum">4.</div> Iddo, Ginetoi, Abia,	
 
-5. Mijamin, Maadia, Bilga,	
+<div class="versenum">5.</div> Mijamin, Maadia, Bilga,	
 
-6. Semaja, Jojarib, Jedaja,	
+<div class="versenum">6.</div> Semaja, Jojarib, Jedaja,	
 
-7. Sallu, Amok, Hilkia ja Jedaja: namat olivat pappein ja heidan veljeinsa paamiehet Jesuan aikana.	
+<div class="versenum">7.</div> Sallu, Amok, Hilkia ja Jedaja: namat olivat pappein ja heidan veljeinsa paamiehet Jesuan aikana.	
 
-8. Ja Levilaiset: Jesua, Binnui, Kadmiel, Serebia, Juuda ja Mattania kiitosvirtten paalla, han ja hanen veljensa;	
+<div class="versenum">8.</div> Ja Levilaiset: Jesua, Binnui, Kadmiel, Serebia, Juuda ja Mattania kiitosvirtten paalla, han ja hanen veljensa;	
 
-9. Bakbukia ja Unni veljinensa olivat vartiana heidan tykonansa.	
+<div class="versenum">9.</div> Bakbukia ja Unni veljinensa olivat vartiana heidan tykonansa.	
 
-10. Jesua siitti Jojakimin, Jojakim siitti Eljasibin, Eljasib siitti Jojadan,	
+<div class="versenum">10.</div> Jesua siitti Jojakimin, Jojakim siitti Eljasibin, Eljasib siitti Jojadan,	
 
-11. Jojada siitti Jonatanin, Jonatan siitti Jadduan.	
+<div class="versenum">11.</div> Jojada siitti Jonatanin, Jonatan siitti Jadduan.	
 
-12. Ja Jojakimin aikana olivat namat ylimmaiset isat pappein seassa: Serajasta Meraja, Jeremiasta Hanania,	
+<div class="versenum">12.</div> Ja Jojakimin aikana olivat namat ylimmaiset isat pappein seassa: Serajasta Meraja, Jeremiasta Hanania,	
 
-13. Esrasta oli Mesullam, Amariasta Johanan,	
+<div class="versenum">13.</div> Esrasta oli Mesullam, Amariasta Johanan,	
 
-14. Mallukista Jonatan, Sebaniasta Joseph,	
+<div class="versenum">14.</div> Mallukista Jonatan, Sebaniasta Joseph,	
 
-15. Harimista Adna, Merajotista Helkai,	
+<div class="versenum">15.</div> Harimista Adna, Merajotista Helkai,	
 
-16. Iddosta Sakaria, Ginthonista Mesullam,	
+<div class="versenum">16.</div> Iddosta Sakaria, Ginthonista Mesullam,	
 
-17. Abiasta Sikri, Minjaminista ja Moadiasta Piltai,	
+<div class="versenum">17.</div> Abiasta Sikri, Minjaminista ja Moadiasta Piltai,	
 
-18. Bilgasta Sammua, Semajasta Jonatan,	
+<div class="versenum">18.</div> Bilgasta Sammua, Semajasta Jonatan,	
 
-19. Jojaribista Matnai, Jedajasta Ussi,	
+<div class="versenum">19.</div> Jojaribista Matnai, Jedajasta Ussi,	
 
-20. Sallaista Kallai, Amakista Eber,	
+<div class="versenum">20.</div> Sallaista Kallai, Amakista Eber,	
 
-21. Hilkiasta Hasabia, Jedajasta Natanael.	
+<div class="versenum">21.</div> Hilkiasta Hasabia, Jedajasta Natanael.	
 
-22. Levilaiset Eljasibin, Jojadan, Johanan ja Jadduan aikana, kirjoitetut isain paamiehet; niin myos papit, Dariuksen Persialaisen valtakuntaan asti.	
+<div class="versenum">22.</div> Levilaiset Eljasibin, Jojadan, Johanan ja Jadduan aikana, kirjoitetut isain paamiehet; niin myos papit, Dariuksen Persialaisen valtakuntaan asti.	
 
-23. Levin lapset, ylimmaiset isat, ovat kirjoitetut Aikakirjaan, Johananin Eljasibin pojan aikaan asti.	
+<div class="versenum">23.</div> Levin lapset, ylimmaiset isat, ovat kirjoitetut Aikakirjaan, Johananin Eljasibin pojan aikaan asti.	
 
-24. Ja Levilaisten paamiehet: Hasabia, Serebia ja Jesua Kadmielin poika, ja heidan veljensa heidan vieressansa, ylistamassa ja kiittamassa, niinkuin David Jumalan mies oli kaskenyt, yksi vartia toisen kohdalla.	
+<div class="versenum">24.</div> Ja Levilaisten paamiehet: Hasabia, Serebia ja Jesua Kadmielin poika, ja heidan veljensa heidan vieressansa, ylistamassa ja kiittamassa, niinkuin David Jumalan mies oli kaskenyt, yksi vartia toisen kohdalla.	
 
-25. Mattania, Bakbukia, Obadia, Mesullam, Talmon ja Akkub olivat ovenvartiat, tavaraporttein vartioitsemisessa.	
+<div class="versenum">25.</div> Mattania, Bakbukia, Obadia, Mesullam, Talmon ja Akkub olivat ovenvartiat, tavaraporttein vartioitsemisessa.	
 
-26. Namat olivat Jojakimin Jesuan pojan Jotsadakin pojan aikana, ja Nehemian maanvanhimman, ja Esran papin, kirjanoppineen, aikana.	
+<div class="versenum">26.</div> Namat olivat Jojakimin Jesuan pojan Jotsadakin pojan aikana, ja Nehemian maanvanhimman, ja Esran papin, kirjanoppineen, aikana.	
 
-27. Ja Jerusalemin muurin vihkimiselle etsivat he Levilaisia kaikista heidan paikoistansa, tuodaksensa heita Jerusalemiin pitamaan vihkimista ilolla, kiitoksella, virsilla, symbaleilla, psalmeilla ja harpuilla.	
+<div class="versenum">27.</div> Ja Jerusalemin muurin vihkimiselle etsivat he Levilaisia kaikista heidan paikoistansa, tuodaksensa heita Jerusalemiin pitamaan vihkimista ilolla, kiitoksella, virsilla, symbaleilla, psalmeilla ja harpuilla.	
 
-28. Ja veisaajain lapset tulivat kokoon Jerusalemin ymparistolta ja Netophatin kylista,	
+<div class="versenum">28.</div> Ja veisaajain lapset tulivat kokoon Jerusalemin ymparistolta ja Netophatin kylista,	
 
-29. Ja Gilgalin huoneesta, ja Gibean ja Asmavetin pelloilta; silla veisaajat olivat rakentaneet itsellensa taloja Jerusalemin ymparilla.	
+<div class="versenum">29.</div> Ja Gilgalin huoneesta, ja Gibean ja Asmavetin pelloilta; silla veisaajat olivat rakentaneet itsellensa taloja Jerusalemin ymparilla.	
 
-30. Ja papit ja Levilaiset puhdistivat itsensa: he puhdistivat myos kansan ja portit ja muurit.	
+<div class="versenum">30.</div> Ja papit ja Levilaiset puhdistivat itsensa: he puhdistivat myos kansan ja portit ja muurit.	
 
-31. Ja mina annoin Juudan paamiehet menna ylos muurille, ja asetin kaksi suurta laulukuntaa ja juhlasaattoa muurin paalle: (yhden) oikialle puolelle Sontaporttia.	
+<div class="versenum">31.</div> Ja mina annoin Juudan paamiehet menna ylos muurille, ja asetin kaksi suurta laulukuntaa ja juhlasaattoa muurin paalle: (yhden) oikialle puolelle Sontaporttia.	
 
-32. Ja Hosaja ja toinen puoli Juudan paamiehista kavivat heidan perassansa,	
+<div class="versenum">32.</div> Ja Hosaja ja toinen puoli Juudan paamiehista kavivat heidan perassansa,	
 
-33. Ja Asaria, Esra, Mesullam,	
+<div class="versenum">33.</div> Ja Asaria, Esra, Mesullam,	
 
-34. Juuda, Benjamin, Semaja ja Jeremia,	
+<div class="versenum">34.</div> Juuda, Benjamin, Semaja ja Jeremia,	
 
-35. Ja muutamat pappein lapsista vaskitorvein kanssa: Sakaria Jonatanin poika, Semajan pojan, Mattanian pojan, Mikajan pojan, Sakkurin pojan, Asaphin pojan;	
+<div class="versenum">35.</div> Ja muutamat pappein lapsista vaskitorvein kanssa: Sakaria Jonatanin poika, Semajan pojan, Mattanian pojan, Mikajan pojan, Sakkurin pojan, Asaphin pojan;	
 
-36. Ja hanen veljensa Semaja, Asareel, Milalai, Gilalai, Maai, Netaneel, Juuda, Hanani, Davidin Jumalan miehen kanteleiden kanssa, ja Esra kirjanoppinut heidan edellansa.	
+<div class="versenum">36.</div> Ja hanen veljensa Semaja, Asareel, Milalai, Gilalai, Maai, Netaneel, Juuda, Hanani, Davidin Jumalan miehen kanteleiden kanssa, ja Esra kirjanoppinut heidan edellansa.	
 
-37. Ja Lahdeporttia pain menivat he ylos heidan kohdallansa astuimia myoten Davidin kaupunkiin, (ja siita) astuimilla muurein paalle, Davidin huoneesta Vesiporttiin asti itaan pain.	
+<div class="versenum">37.</div> Ja Lahdeporttia pain menivat he ylos heidan kohdallansa astuimia myoten Davidin kaupunkiin, (ja siita) astuimilla muurein paalle, Davidin huoneesta Vesiporttiin asti itaan pain.	
 
-38. Ja toinen laulukunta kavi vastaan, ja mina sen perassa, ja toinen puoli kansaa muurin paalla, Patsitornista leviaan muuriin saakka,	
+<div class="versenum">38.</div> Ja toinen laulukunta kavi vastaan, ja mina sen perassa, ja toinen puoli kansaa muurin paalla, Patsitornista leviaan muuriin saakka,	
 
-39. Ja Ephraimin portista, Vanhan portin ja Kalaportin ja Hananeelin tornin ja Mean tornin ohitse Lammasporttiin asti; ja seisahtivat Vankiportissa.	
+<div class="versenum">39.</div> Ja Ephraimin portista, Vanhan portin ja Kalaportin ja Hananeelin tornin ja Mean tornin ohitse Lammasporttiin asti; ja seisahtivat Vankiportissa.	
 
-40. Ja ne kaksi kiitoskuoria seisoivat Jumalan huoneessa, ja mina ja toinen puoli ylimmaisia minun kanssani,	
+<div class="versenum">40.</div> Ja ne kaksi kiitoskuoria seisoivat Jumalan huoneessa, ja mina ja toinen puoli ylimmaisia minun kanssani,	
 
-41. Ja papit Eliakim, Maeseja, Minjamin, Mikaja, Eljoenai, Sakaria, Hanania olivat vaskitorvein kanssa,	
+<div class="versenum">41.</div> Ja papit Eliakim, Maeseja, Minjamin, Mikaja, Eljoenai, Sakaria, Hanania olivat vaskitorvein kanssa,	
 
-42. Ja Maeseja, Semaja, Eleatsar, Ussi, Johanan, Malkia, Elam ja Asar. Ja veisaajat veisasivat korkiasti, ja Jisrahia oli esimiehena.	
+<div class="versenum">42.</div> Ja Maeseja, Semaja, Eleatsar, Ussi, Johanan, Malkia, Elam ja Asar. Ja veisaajat veisasivat korkiasti, ja Jisrahia oli esimiehena.	
 
-43. Ja he uhrasivat sina paivana suuret uhrit, ja olivat iloiset; silla Jumala oli heita iloittanut suurella ilolla, etta myos vaimot ja lapsetkin iloitsivat, ja Jerusalemin ilo kuului kauvas.	
+<div class="versenum">43.</div> Ja he uhrasivat sina paivana suuret uhrit, ja olivat iloiset; silla Jumala oli heita iloittanut suurella ilolla, etta myos vaimot ja lapsetkin iloitsivat, ja Jerusalemin ilo kuului kauvas.	
 
-44. Siihen aikaan asetettiin miehet tavarakammioin paalle, joissa ylennykset, ensimaiset hedelmat ja kymmenykset olivat, joita heidan piti kokooman kaupunkein pelloista, papeille ja Levilaisille jaettaa lain jalkeen; silla Juudalaisilla oli ilo papeista ja Levilaisista, jotka seisoivat.	
+<div class="versenum">44.</div> Siihen aikaan asetettiin miehet tavarakammioin paalle, joissa ylennykset, ensimaiset hedelmat ja kymmenykset olivat, joita heidan piti kokooman kaupunkein pelloista, papeille ja Levilaisille jaettaa lain jalkeen; silla Juudalaisilla oli ilo papeista ja Levilaisista, jotka seisoivat.	
 
-45. Ja he pitivat vaarin Jumalan vartiosta ja puhdistuksen vartiosta, niin myos veisaajista ja ovenvartioista, Davidin ja Salomon hanen poikansa kaskyn jalkeen,	
+<div class="versenum">45.</div> Ja he pitivat vaarin Jumalan vartiosta ja puhdistuksen vartiosta, niin myos veisaajista ja ovenvartioista, Davidin ja Salomon hanen poikansa kaskyn jalkeen,	
 
-46. Silla Davidin ja Asaphin aikana olivat muinen asetetut ylimmaiset veisaajat, ja kiitosvirret ja kiitokset Jumalalle.	
+<div class="versenum">46.</div> Silla Davidin ja Asaphin aikana olivat muinen asetetut ylimmaiset veisaajat, ja kiitosvirret ja kiitokset Jumalalle.	
 
-47. Mutta koko Israel antoi veisaajille ja ovenvartioille osan, Serubbabelin ja Nehemian aikana, joka paiva heidan osansa; ja pyhittivat sen Levilaisille, ja Levilaiset pyhittivat Aaronin lapsille.	
+<div class="versenum">47.</div> Mutta koko Israel antoi veisaajille ja ovenvartioille osan, Serubbabelin ja Nehemian aikana, joka paiva heidan osansa; ja pyhittivat sen Levilaisille, ja Levilaiset pyhittivat Aaronin lapsille.	
 

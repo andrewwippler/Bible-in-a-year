@@ -1,64 +1,64 @@
 Jeremian 5	
 	
-1. Kaykaat Jerusalemin katuja ympari, katsokaat, koetelkaat ja etsikaat hanen kaduillansa, loydatteko jonkun, joka oikein tekee ja kysyy totuutta; niin mina olen hanelle armollinen.	
+<div class="versenum">1.</div> Kaykaat Jerusalemin katuja ympari, katsokaat, koetelkaat ja etsikaat hanen kaduillansa, loydatteko jonkun, joka oikein tekee ja kysyy totuutta; niin mina olen hanelle armollinen.	
 
-2. Ja jos he viela sanoisivat: niin totta kuin Herra elaa; niin he kuitenkin vannovat vaarin.	
+<div class="versenum">2.</div> Ja jos he viela sanoisivat: niin totta kuin Herra elaa; niin he kuitenkin vannovat vaarin.	
 
-3. Herra, eiko sinun silmas katso uskoa? Sina lyot heita, ja ei he tunne kipua; sina vaivaat heita, mutta ei he tahdo kuritusta vastaanottaa; heilla on kovempi kasvo kuin kivi, ja ei tahdo kaantya.	
+<div class="versenum">3.</div> Herra, eiko sinun silmas katso uskoa? Sina lyot heita, ja ei he tunne kipua; sina vaivaat heita, mutta ei he tahdo kuritusta vastaanottaa; heilla on kovempi kasvo kuin kivi, ja ei tahdo kaantya.	
 
-4. Mutta mina sanoin: se on vaivainen joukko; he ovat ymmartamattomat, ja ei tieda Herran tieta eika Jumalansa oikeutta.	
+<div class="versenum">4.</div> Mutta mina sanoin: se on vaivainen joukko; he ovat ymmartamattomat, ja ei tieda Herran tieta eika Jumalansa oikeutta.	
 
-5. Mina kayn voimallisten tyko ja puhun heidan kanssansa; silla heidan pitaa tietaman Herran tien ja Jumalansa oikeuden. Mutta ne ovat kaikki ikeen sarkeneet, ja katkaisseet siteen.	
+<div class="versenum">5.</div> Mina kayn voimallisten tyko ja puhun heidan kanssansa; silla heidan pitaa tietaman Herran tien ja Jumalansa oikeuden. Mutta ne ovat kaikki ikeen sarkeneet, ja katkaisseet siteen.	
 
-6. Sentahden pitaa jalopeuran, joka metsasta tulee, repeleman heidat rikki, ja suden korvesta pitaa haaskaaman heita ja pardin pitaa vartioitseman heidan kaupungeitansa, ja kaikki, jotka niista tulevat ulos, pitaa raadeltaman; silla heidan syntejansa on juuri monta, ja he ovat paatuneet tottelemattomuudessansa.	
+<div class="versenum">6.</div> Sentahden pitaa jalopeuran, joka metsasta tulee, repeleman heidat rikki, ja suden korvesta pitaa haaskaaman heita ja pardin pitaa vartioitseman heidan kaupungeitansa, ja kaikki, jotka niista tulevat ulos, pitaa raadeltaman; silla heidan syntejansa on juuri monta, ja he ovat paatuneet tottelemattomuudessansa.	
 
-7. Kuinka siis minun pitaa sinulle oleman armollinen? etta lapses hylkaavat minun ja vannovat sen kautta, joka ei Jumala olekaan; ja nyt, etta mina olen heita ravinnut, tekevat he huorin ja kokoontuvat porton huoneesen joukkoinensa.	
+<div class="versenum">7.</div> Kuinka siis minun pitaa sinulle oleman armollinen? etta lapses hylkaavat minun ja vannovat sen kautta, joka ei Jumala olekaan; ja nyt, etta mina olen heita ravinnut, tekevat he huorin ja kokoontuvat porton huoneesen joukkoinensa.	
 
-8. Kukin hirnuu lahimmaisensa emantaa, niinkuin hyvin ruokitut joutilaat orhiit.	
+<div class="versenum">8.</div> Kukin hirnuu lahimmaisensa emantaa, niinkuin hyvin ruokitut joutilaat orhiit.	
 
-9. Eiko minun pitais heita senkaltaisista kurittaman, sanoo Herra: ja eiko minun sieluni pitais kostaman senkaltaiselle kansalle kuin tama on?	
+<div class="versenum">9.</div> Eiko minun pitais heita senkaltaisista kurittaman, sanoo Herra: ja eiko minun sieluni pitais kostaman senkaltaiselle kansalle kuin tama on?	
 
-10. Kukistakaat hanen muurinsa ylosalaisin, ja alkaat perati havittako, ottakaat pois hanen torninsa; silla ei ne ole Herran.	
+<div class="versenum">10.</div> Kukistakaat hanen muurinsa ylosalaisin, ja alkaat perati havittako, ottakaat pois hanen torninsa; silla ei ne ole Herran.	
 
-11. Mutta he ovat petoksella minusta pois luopuneet, seka Israelin huone etta Juudan huone, sanoo Herra.	
+<div class="versenum">11.</div> Mutta he ovat petoksella minusta pois luopuneet, seka Israelin huone etta Juudan huone, sanoo Herra.	
 
-12. He kieltavat pois Herran ja sanovat: ei han se ole, ei meille kay niin pahoin, ei miekka ja nalka tule meidan paallemme.	
+<div class="versenum">12.</div> He kieltavat pois Herran ja sanovat: ei han se ole, ei meille kay niin pahoin, ei miekka ja nalka tule meidan paallemme.	
 
-13. Prophetat puhuvat tuuleen: ei heilla ole (Jumalan) sanaa: niin heille itselleen kaykoon.	
+<div class="versenum">13.</div> Prophetat puhuvat tuuleen: ei heilla ole (Jumalan) sanaa: niin heille itselleen kaykoon.	
 
-14. Sentahden nain sanoo Herra Jumala Zebaot: etta te senkaltaisia puhutte, katso, niin mina teen minun sanani sinun suussas tuleksi, ja taman kansan puuksi, ja hanen pitaa polttaman heidat.	
+<div class="versenum">14.</div> Sentahden nain sanoo Herra Jumala Zebaot: etta te senkaltaisia puhutte, katso, niin mina teen minun sanani sinun suussas tuleksi, ja taman kansan puuksi, ja hanen pitaa polttaman heidat.	
 
-15. Katso, mina annan tulla teidan paallenne, Israelin huone, sanoo Herra; kaukaa yhden kansan, vakevan kansan, joka on ollut ensimainen kansa, kansan, jonka kielta et sina ymmarra, etka taida ymmartaa, mita he sanovat.	
+<div class="versenum">15.</div> Katso, mina annan tulla teidan paallenne, Israelin huone, sanoo Herra; kaukaa yhden kansan, vakevan kansan, joka on ollut ensimainen kansa, kansan, jonka kielta et sina ymmarra, etka taida ymmartaa, mita he sanovat.	
 
-16. Heidan viinensa on avoin hauta; ja he ovat kaikki vakevat.	
+<div class="versenum">16.</div> Heidan viinensa on avoin hauta; ja he ovat kaikki vakevat.	
 
-17. He syovat sinun tulos ja leipas, jota sinun poikas ja tyttares syoneet olisivat; he nielevat sinun lampaas ja karjas; he syovat sinun viinapuus ja fikunapuus; ja havittavat sinun vahvat kaupunkis miekalla, joihin sina luotat.	
+<div class="versenum">17.</div> He syovat sinun tulos ja leipas, jota sinun poikas ja tyttares syoneet olisivat; he nielevat sinun lampaas ja karjas; he syovat sinun viinapuus ja fikunapuus; ja havittavat sinun vahvat kaupunkis miekalla, joihin sina luotat.	
 
-18. Ja en mina silloinkaan, sanoo Herra, perati havita teita.	
+<div class="versenum">18.</div> Ja en mina silloinkaan, sanoo Herra, perati havita teita.	
 
-19. Ja jos sanotte: miksi Herra meidan Jumalamme tekee meille naita kaikkia? niin vastaa heita: niinkuin te olette hyljanneet minun, ja palvelleet vieraita jumalia teidan omassa maassanne, niin teidan pitaa myos palveleman vieraita siina maassa, joka ei teidan olekaan.	
+<div class="versenum">19.</div> Ja jos sanotte: miksi Herra meidan Jumalamme tekee meille naita kaikkia? niin vastaa heita: niinkuin te olette hyljanneet minun, ja palvelleet vieraita jumalia teidan omassa maassanne, niin teidan pitaa myos palveleman vieraita siina maassa, joka ei teidan olekaan.	
 
-20. Naita teidan pitaa ilmoittaman Jakobin huoneessa, ja saarnaaman Juudassa, ja sanoman:	
+<div class="versenum">20.</div> Naita teidan pitaa ilmoittaman Jakobin huoneessa, ja saarnaaman Juudassa, ja sanoman:	
 
-21. Kuulkaat nyt tata, te hullu kansa, joilla ei taitoa ole, jolla on silmat, ja ei nae, korvat, ja ei kuule.	
+<div class="versenum">21.</div> Kuulkaat nyt tata, te hullu kansa, joilla ei taitoa ole, jolla on silmat, ja ei nae, korvat, ja ei kuule.	
 
-22. Etteko te tahdo peljata minua, sanoo Herra? ja etteko te pelkaa minun kasvoini edessa? joka panen hiedan meren rajaksi ja ijankaikkiseksi maaraksi, jota ei hanen pida kayman ylitse; ja vaikka se pauhais, niin ei se kuitenkaan voi sen ylitse; ja jos hanen aaltonsa paisuvat, niin ei heidan pida meneman sen ylitse.	
+<div class="versenum">22.</div> Etteko te tahdo peljata minua, sanoo Herra? ja etteko te pelkaa minun kasvoini edessa? joka panen hiedan meren rajaksi ja ijankaikkiseksi maaraksi, jota ei hanen pida kayman ylitse; ja vaikka se pauhais, niin ei se kuitenkaan voi sen ylitse; ja jos hanen aaltonsa paisuvat, niin ei heidan pida meneman sen ylitse.	
 
-23. Mutta talla kansalla on vilpistelevainen ja tottelematoin sydan; he ovat harhailleet ja menneet pois.	
+<div class="versenum">23.</div> Mutta talla kansalla on vilpistelevainen ja tottelematoin sydan; he ovat harhailleet ja menneet pois.	
 
-24. Ja ei sano koskaan sydamessansa: peljatkaamme nyt Herraa meidan Jumalaamme, joka antaa meille aamu- ja ehtoosateen ajallansa, ja varjelee meille joka ajastaika elonajan uskollisesti.	
+<div class="versenum">24.</div> Ja ei sano koskaan sydamessansa: peljatkaamme nyt Herraa meidan Jumalaamme, joka antaa meille aamu- ja ehtoosateen ajallansa, ja varjelee meille joka ajastaika elonajan uskollisesti.	
 
-25. Mutta teidan pahat tekonne nama estavat, ja teidan syntinne taman hyvan teilta kaantavat pois.	
+<div class="versenum">25.</div> Mutta teidan pahat tekonne nama estavat, ja teidan syntinne taman hyvan teilta kaantavat pois.	
 
-26. Silla minun kansassani loytyy jumalattomia, jotka paulat ja pyydykset asettavat ihmisia kasittaaksensa, niinkuin lintumiehet satimella.	
+<div class="versenum">26.</div> Silla minun kansassani loytyy jumalattomia, jotka paulat ja pyydykset asettavat ihmisia kasittaaksensa, niinkuin lintumiehet satimella.	
 
-27. Ja heidan huoneensa on taynna petosta, niinkuin hakki lintuja; siita he tulevatvakeviksi ja rikkaiksi.	
+<div class="versenum">27.</div> Ja heidan huoneensa on taynna petosta, niinkuin hakki lintuja; siita he tulevatvakeviksi ja rikkaiksi.	
 
-28. He kiiltavat lihavuudesta; he sakevat pahan asian, ja ei pida oikeutta: ei he holho orpoa hanen asiassansa, ja ei he auta koyhaa oikeuteen.	
+<div class="versenum">28.</div> He kiiltavat lihavuudesta; he sakevat pahan asian, ja ei pida oikeutta: ei he holho orpoa hanen asiassansa, ja ei he auta koyhaa oikeuteen.	
 
-29. Eiko minun pitaisi sita kostaman, sanoo Herra, ja eiko minun sieluni pitaisi kostaman senkaltaiselle kansalle kuin tama on?	
+<div class="versenum">29.</div> Eiko minun pitaisi sita kostaman, sanoo Herra, ja eiko minun sieluni pitaisi kostaman senkaltaiselle kansalle kuin tama on?	
 
-30. Kuinka julmasti ja kauhiasti eletaan maassa?	
+<div class="versenum">30.</div> Kuinka julmasti ja kauhiasti eletaan maassa?	
 
-31. Prophetat opettavat valhetta, papit ovat herrat virassansa, ja minun kansani tahtoo sita mielellansa. Mita te viimein teette?	
+<div class="versenum">31.</div> Prophetat opettavat valhetta, papit ovat herrat virassansa, ja minun kansani tahtoo sita mielellansa. Mita te viimein teette?	
 

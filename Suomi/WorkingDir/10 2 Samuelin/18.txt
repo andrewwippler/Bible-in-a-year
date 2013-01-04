@@ -1,68 +1,68 @@
 2 Samuelin 18	
 	
-1. Ja David silmaili kansan, joka hanen tykonansa oli, ja pani paamiehia tuhanten ja satain paalle,	
+<div class="versenum">1.</div> Ja David silmaili kansan, joka hanen tykonansa oli, ja pani paamiehia tuhanten ja satain paalle,	
 
-2. Ja lahetti kansasta kolmannen osan Joabin kanssa ja kolmannen osan Abisain ZeruJan pojan Joabin veljen kanssa, ja kolmannen osan Ittain sen Gatilaisen kanssa. Ja kuningas sanoi kansalle: mina menen kohta myos teidan kanssanne.	
+<div class="versenum">2.</div> Ja lahetti kansasta kolmannen osan Joabin kanssa ja kolmannen osan Abisain ZeruJan pojan Joabin veljen kanssa, ja kolmannen osan Ittain sen Gatilaisen kanssa. Ja kuningas sanoi kansalle: mina menen kohta myos teidan kanssanne.	
 
-3. Mutta kansa sanoi: ala mene; silla jos me joudumme pakenemaan, ei he meista tottele: jos puoli kuolee meista, ei he siita pida lukua; silla sina olet niinkuin kymmenentuhatta meista. Se on parempi, ettas tulet meille avuksi kaupungista.	
+<div class="versenum">3.</div> Mutta kansa sanoi: ala mene; silla jos me joudumme pakenemaan, ei he meista tottele: jos puoli kuolee meista, ei he siita pida lukua; silla sina olet niinkuin kymmenentuhatta meista. Se on parempi, ettas tulet meille avuksi kaupungista.	
 
-4. Kuningas sanoi heille: mita te luulette teillenne olevan hyvaksi, sen mina teen. Ja kuningas seisoi portilla, ja kansa kavi sadoin ja tuhansin ulos.	
+<div class="versenum">4.</div> Kuningas sanoi heille: mita te luulette teillenne olevan hyvaksi, sen mina teen. Ja kuningas seisoi portilla, ja kansa kavi sadoin ja tuhansin ulos.	
 
-5. Ja kuningas kaski Joabia, Abisaita ja Ittaita, sanoen: menkaat siviasti nuorukaisen Absalomin kanssa; ja kaikki kansa kuuli kuninkaan varoittavan jokaista paamiesta Absalomista.	
+<div class="versenum">5.</div> Ja kuningas kaski Joabia, Abisaita ja Ittaita, sanoen: menkaat siviasti nuorukaisen Absalomin kanssa; ja kaikki kansa kuuli kuninkaan varoittavan jokaista paamiesta Absalomista.	
 
-6. Ja kuin kansa tuli valjalle Israelia vastaan, niin oli sota Ephraimin metsassa.	
+<div class="versenum">6.</div> Ja kuin kansa tuli valjalle Israelia vastaan, niin oli sota Ephraimin metsassa.	
 
-7. Ja Israelin kansa lyotiin sielIa Davidin palvelioilta, etta sina paivana tapahtui sangen suuri tappo: (ja kaatui) kaksikymmenta tuhatta miesta.	
+<div class="versenum">7.</div> Ja Israelin kansa lyotiin sielIa Davidin palvelioilta, etta sina paivana tapahtui sangen suuri tappo: (ja kaatui) kaksikymmenta tuhatta miesta.	
 
-8. Ja sota hajoitettiin siella kaikkeen maahan; ja metsa surmasi usiamman sina paivana kansasta, kuin miekka.	
+<div class="versenum">8.</div> Ja sota hajoitettiin siella kaikkeen maahan; ja metsa surmasi usiamman sina paivana kansasta, kuin miekka.	
 
-9. Ja Absalom kohtasi Davidin palvelioita ja ajoi muulilla. Ja kun muuli tuli oksaisen paksun tammen alle, tarttui hanen paansa tammeen, ja han jai riippumaan taivaan ja maan valille, mutta muuli juoksi matkaansa hanen altansa.	
+<div class="versenum">9.</div> Ja Absalom kohtasi Davidin palvelioita ja ajoi muulilla. Ja kun muuli tuli oksaisen paksun tammen alle, tarttui hanen paansa tammeen, ja han jai riippumaan taivaan ja maan valille, mutta muuli juoksi matkaansa hanen altansa.	
 
-10. Kuin yksi mies sen naki, ilmoitti han Joabille, ja sanoi: katso, mina nain Absalomin riippuvan tammessa.	
+<div class="versenum">10.</div> Kuin yksi mies sen naki, ilmoitti han Joabille, ja sanoi: katso, mina nain Absalomin riippuvan tammessa.	
 
-11. Ja Joab sanoi miehelle, joka sen hanelle ilmoitti: katso, naitkos sen? Miksi et lyonyt hanta siita maahan? Niin mina olisin minun puolestani antanut sinulle kymmenen hopiapenninkia ja yhden vyon.	
+<div class="versenum">11.</div> Ja Joab sanoi miehelle, joka sen hanelle ilmoitti: katso, naitkos sen? Miksi et lyonyt hanta siita maahan? Niin mina olisin minun puolestani antanut sinulle kymmenen hopiapenninkia ja yhden vyon.	
 
-12. Mies sanoi Joabille: jos olisin saanut punnittuna tuhannen hopiapenninkia minun kateeni, en mina viela sittenkaan olisi kattani satuttanut kuninkaan poikaan; silla kuningas kaski meidan kuullemme sinua ja Abisaita ja Ittaita, sanoen: pitakaat vaari nuorukaisesta Absalomista.	
+<div class="versenum">12.</div> Mies sanoi Joabille: jos olisin saanut punnittuna tuhannen hopiapenninkia minun kateeni, en mina viela sittenkaan olisi kattani satuttanut kuninkaan poikaan; silla kuningas kaski meidan kuullemme sinua ja Abisaita ja Ittaita, sanoen: pitakaat vaari nuorukaisesta Absalomista.	
 
-13. Eli jos mina viela jotakin vaaryytta tehnyt olisin sieluni vahingoksi (silla ei kuninkaan edessa mitaan salattu ole), niin sina olisit ollut minua vastaan.	
+<div class="versenum">13.</div> Eli jos mina viela jotakin vaaryytta tehnyt olisin sieluni vahingoksi (silla ei kuninkaan edessa mitaan salattu ole), niin sina olisit ollut minua vastaan.	
 
-14. Joab sanoi: en mina enaa sinun tykonas viivy; ja otti kolme keihasta kateensa ja pisti ne Absalomin sydameen, kuin han viela tammessa eli;	
+<div class="versenum">14.</div> Joab sanoi: en mina enaa sinun tykonas viivy; ja otti kolme keihasta kateensa ja pisti ne Absalomin sydameen, kuin han viela tammessa eli;	
 
-15. Ja kymmenen nuorukaista Joabin asetten kantajista piirittivat hanen; he loivat ja tappoivat Absalomin.	
+<div class="versenum">15.</div> Ja kymmenen nuorukaista Joabin asetten kantajista piirittivat hanen; he loivat ja tappoivat Absalomin.	
 
-16. Niin puhalsi Joab basunaan, ja kansa palasi ajamasta Israelia takaa; silla Joab tahtoi armahtaa kansaa.	
+<div class="versenum">16.</div> Niin puhalsi Joab basunaan, ja kansa palasi ajamasta Israelia takaa; silla Joab tahtoi armahtaa kansaa.	
 
-17. Ja he ottivat Absalomin, ja heittivat metsassa suureen kuoppaan, ja panivat suuren kiviroukkion hanen paallensa. Ja koko Israel pakeni kukin majallensa.	
+<div class="versenum">17.</div> Ja he ottivat Absalomin, ja heittivat metsassa suureen kuoppaan, ja panivat suuren kiviroukkion hanen paallensa. Ja koko Israel pakeni kukin majallensa.	
 
-18. Vaan Absalom oli elaissansa pystyttanyt itsellensa patsaan, se seisoo Kuninkaanlaaksossa; silla han sanoi: ei minulla ole yhtaan poikaa , olkoon tama sentahden minun nimeni muistoksi. Ja kutsui sen patsaan nimellansa, joka viela tanapana kutsutaan Absalomin paikaksi.	
+<div class="versenum">18.</div> Vaan Absalom oli elaissansa pystyttanyt itsellensa patsaan, se seisoo Kuninkaanlaaksossa; silla han sanoi: ei minulla ole yhtaan poikaa , olkoon tama sentahden minun nimeni muistoksi. Ja kutsui sen patsaan nimellansa, joka viela tanapana kutsutaan Absalomin paikaksi.	
 
-19. Ahimaats Zadokin poika sanoi: mina juoksen nyt ja ilmoitan kuninkaalle, Herran saattaneeksi hanelle oikeuden hanen vihollistensa kasista.	
+<div class="versenum">19.</div> Ahimaats Zadokin poika sanoi: mina juoksen nyt ja ilmoitan kuninkaalle, Herran saattaneeksi hanelle oikeuden hanen vihollistensa kasista.	
 
-20. Joab sanoi hanelle: et sina yhtaan hyvaa sanomaa vie tanapana, vie toisena paivana sanomia, vaan ei sinun pida tanapana sanomaa saattaman; silla kuninkaan poika on kuollut.	
+<div class="versenum">20.</div> Joab sanoi hanelle: et sina yhtaan hyvaa sanomaa vie tanapana, vie toisena paivana sanomia, vaan ei sinun pida tanapana sanomaa saattaman; silla kuninkaan poika on kuollut.	
 
-21. Mutta Joab sanoi Kuusille: mene ja ilmoita kuninkaalle mitas nahnyt olet. Ja Kuusi kumarsi Joabia ja juoksi.	
+<div class="versenum">21.</div> Mutta Joab sanoi Kuusille: mene ja ilmoita kuninkaalle mitas nahnyt olet. Ja Kuusi kumarsi Joabia ja juoksi.	
 
-22. Mutta Ahimaats Zadokin poika sanoi viela kerran Joabille: vaikka mita olis, mina juoksen myos Kuusin perassa. Joab sanoi: miksi sina juokset, poikani? Et sina vie yhtaan hyvaa sanomaa.	
+<div class="versenum">22.</div> Mutta Ahimaats Zadokin poika sanoi viela kerran Joabille: vaikka mita olis, mina juoksen myos Kuusin perassa. Joab sanoi: miksi sina juokset, poikani? Et sina vie yhtaan hyvaa sanomaa.	
 
-23. Han vastasi: vaikka mita olis, mina juoksen. Han sanoi hanelle: juokse. Niin Ahimaats juoksi kohdastansa ja ennatti Kuusin.	
+<div class="versenum">23.</div> Han vastasi: vaikka mita olis, mina juoksen. Han sanoi hanelle: juokse. Niin Ahimaats juoksi kohdastansa ja ennatti Kuusin.	
 
-24. Mutta David istui kahden portin vaiheella, ja vartia meni portin kohdalle, muurin katon paalle, nosti silmansa ja naki miehen juoksevan yksinansa,	
+<div class="versenum">24.</div> Mutta David istui kahden portin vaiheella, ja vartia meni portin kohdalle, muurin katon paalle, nosti silmansa ja naki miehen juoksevan yksinansa,	
 
-25. Ja vartia huusi ja sanoi sen kuninkaalle. Kuningas sanoi: jos han on yksin, niin han on hyva sanantuoja; Ja han aina juoksi ja tuli lahemma.	
+<div class="versenum">25.</div> Ja vartia huusi ja sanoi sen kuninkaalle. Kuningas sanoi: jos han on yksin, niin han on hyva sanantuoja; Ja han aina juoksi ja tuli lahemma.	
 
-26. Niin vartia naki toisen miehen juoksevan, ja huusi ovenvartialle ja sanoi: katso, yksi mies juoksee yksinansa. Kuningas sanoi: se on myos hyva sanantuoja.	
+<div class="versenum">26.</div> Niin vartia naki toisen miehen juoksevan, ja huusi ovenvartialle ja sanoi: katso, yksi mies juoksee yksinansa. Kuningas sanoi: se on myos hyva sanantuoja.	
 
-27. Vartia sanoi: minulle nakyy ensimaisen juoksu, niinkuin se olis Ahimaatsin Zadokin pojan juoksu. Ja kuningas sanoi: se on hyva mies ja tuo hyvaa sanomaa.	
+<div class="versenum">27.</div> Vartia sanoi: minulle nakyy ensimaisen juoksu, niinkuin se olis Ahimaatsin Zadokin pojan juoksu. Ja kuningas sanoi: se on hyva mies ja tuo hyvaa sanomaa.	
 
-28. Ahimaats huusi ja sanoi kuninkaalle: Rauha! ja kumarsi kuninkaan edessa maahan kasvoillensa ja sanoi: kiitetty olkoon Herra sinun Jumalas, joka ne miehet on antanut sinun katees, jotka nostivat katensa herraani kuningasta vastaan!	
+<div class="versenum">28.</div> Ahimaats huusi ja sanoi kuninkaalle: Rauha! ja kumarsi kuninkaan edessa maahan kasvoillensa ja sanoi: kiitetty olkoon Herra sinun Jumalas, joka ne miehet on antanut sinun katees, jotka nostivat katensa herraani kuningasta vastaan!	
 
-29. Kuningas sanoi: onko nuorukainen Absalom rauhassa? Ahimaats sanoi: mina nain suuren metelin, kuin Joab kuninkaan palvelia lahetti minun sinun palvelias tanne, ja en mina tieda, mika se oli.	
+<div class="versenum">29.</div> Kuningas sanoi: onko nuorukainen Absalom rauhassa? Ahimaats sanoi: mina nain suuren metelin, kuin Joab kuninkaan palvelia lahetti minun sinun palvelias tanne, ja en mina tieda, mika se oli.	
 
-30. Kuningas sanoi: mene erinas ja seiso siella. Ja han meni erinansa ja seisoi siella.	
+<div class="versenum">30.</div> Kuningas sanoi: mene erinas ja seiso siella. Ja han meni erinansa ja seisoi siella.	
 
-31. Ja katso, Kuusi tuli ja sanoi: taalla ovat hyvat sanomat, herrani kuningas: Herra on saattanut tanapana sinulle oikeuden kaikkein kadesta, jotka nousivat sinua vastaan.	
+<div class="versenum">31.</div> Ja katso, Kuusi tuli ja sanoi: taalla ovat hyvat sanomat, herrani kuningas: Herra on saattanut tanapana sinulle oikeuden kaikkein kadesta, jotka nousivat sinua vastaan.	
 
-32. Kuningas sanoi Kuusille: onko nuorukainen Absalom rauhassa? Kuusi sanoi: tapahtukoon niin herrani kuninkaan vihollisille, kuin nuorukaiselle on tapahtunut, ja kaikille niille, jotka heitansa asettavat sinua vastaan sinulle vahingoksi!	
+<div class="versenum">32.</div> Kuningas sanoi Kuusille: onko nuorukainen Absalom rauhassa? Kuusi sanoi: tapahtukoon niin herrani kuninkaan vihollisille, kuin nuorukaiselle on tapahtunut, ja kaikille niille, jotka heitansa asettavat sinua vastaan sinulle vahingoksi!	
 
-33. Niin tuli kuningas murheelliseksi, ja meni portin ylistupaan ja itki, ja sanoi mennessansa nain: poikani Absalom! poikani, poikani Absalom! 0, jospa mina olisin kuollut sinun siassas, oi, Absalom poikani, minun poikani!	
+<div class="versenum">33.</div> Niin tuli kuningas murheelliseksi, ja meni portin ylistupaan ja itki, ja sanoi mennessansa nain: poikani Absalom! poikani, poikani Absalom! 0, jospa mina olisin kuollut sinun siassas, oi, Absalom poikani, minun poikani!	
 

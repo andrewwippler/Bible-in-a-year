@@ -1,48 +1,48 @@
 Jobin 27	
 	
-1. Ja Job puhui viela sananlaskunsa ja sanoi:	
+<div class="versenum">1.</div> Ja Job puhui viela sananlaskunsa ja sanoi:	
 
-2. Niin totta kuin Jumala elaa, joka minun oikeuteni kieltaa, ja Kaikkivaltias, joka minun sieluni murheelliseksi saattaa:	
+<div class="versenum">2.</div> Niin totta kuin Jumala elaa, joka minun oikeuteni kieltaa, ja Kaikkivaltias, joka minun sieluni murheelliseksi saattaa:	
 
-3. Niinkauvan kuin minun henkeni on minussa, ja Jumalalta puhallus minun sieraimissani,	
+<div class="versenum">3.</div> Niinkauvan kuin minun henkeni on minussa, ja Jumalalta puhallus minun sieraimissani,	
 
-4. Ei pida minun huuleni vaaryytta puhuman, ja minun kieleni ei pida petosta ottaman eteensa.	
+<div class="versenum">4.</div> Ei pida minun huuleni vaaryytta puhuman, ja minun kieleni ei pida petosta ottaman eteensa.	
 
-5. Pois se minusta, etta mina sanoisin teidat hurskaaksi, siihenasti kuin minun loppuni tulee, en mina luovu jumalisuudestani.	
+<div class="versenum">5.</div> Pois se minusta, etta mina sanoisin teidat hurskaaksi, siihenasti kuin minun loppuni tulee, en mina luovu jumalisuudestani.	
 
-6. Minun oikeudestani, jonka mina pidan, en mina luovu. Minun omatuntoni ei kalva minua koko elinaikani.	
+<div class="versenum">6.</div> Minun oikeudestani, jonka mina pidan, en mina luovu. Minun omatuntoni ei kalva minua koko elinaikani.	
 
-7. Mutta minun viholliseni loydetaan jumalattomaksi, ja minun vastahakoiseni vaaraksi.	
+<div class="versenum">7.</div> Mutta minun viholliseni loydetaan jumalattomaksi, ja minun vastahakoiseni vaaraksi.	
 
-8. Silla mika on ulkokullatun toivo, etta han niin ahne on, koska Jumala ottaa hanen sielunsa pois?	
+<div class="versenum">8.</div> Silla mika on ulkokullatun toivo, etta han niin ahne on, koska Jumala ottaa hanen sielunsa pois?	
 
-9. Luuletkos Jumalan kuulevan hanen huutoansa, kuin hanelle ahdistus tulee?	
+<div class="versenum">9.</div> Luuletkos Jumalan kuulevan hanen huutoansa, kuin hanelle ahdistus tulee?	
 
-10. Kuinka hanella taitaa olla ilo Kaikkivaltiaalta? ja rukoilla Jumalaa joka aika?	
+<div class="versenum">10.</div> Kuinka hanella taitaa olla ilo Kaikkivaltiaalta? ja rukoilla Jumalaa joka aika?	
 
-11. Mina opetan teita Jumalan kadesta, ja mita Kaikkivaltiaalle kelpaa, en mina salaa.	
+<div class="versenum">11.</div> Mina opetan teita Jumalan kadesta, ja mita Kaikkivaltiaalle kelpaa, en mina salaa.	
 
-12. Katso, te olette kaikki taitavinanne; miksi siis te senkaltaisia turhia asioita otatte eteenne?	
+<div class="versenum">12.</div> Katso, te olette kaikki taitavinanne; miksi siis te senkaltaisia turhia asioita otatte eteenne?	
 
-13. Tama on Jumalalta jumalattoman palkka, ja tyrannein perimys, jonka he Kaikkivaltiaalta saavat:	
+<div class="versenum">13.</div> Tama on Jumalalta jumalattoman palkka, ja tyrannein perimys, jonka he Kaikkivaltiaalta saavat:	
 
-14. Jos han saa paljon lapsia, niin ne hukataan miekalla, ja hanen sikiansa ei ravita leivalla.	
+<div class="versenum">14.</div> Jos han saa paljon lapsia, niin ne hukataan miekalla, ja hanen sikiansa ei ravita leivalla.	
 
-15. Hanen jalkeenjaaneensa pitaa haudattaman kuolemaan, ja hanen leskensa ei pida itkeman.	
+<div class="versenum">15.</div> Hanen jalkeenjaaneensa pitaa haudattaman kuolemaan, ja hanen leskensa ei pida itkeman.	
 
-16. Jos han kokoo rahaa niinkuin tuhkaa, ja valmistaa hanellensa vaatteita niinkuin lokaa,	
+<div class="versenum">16.</div> Jos han kokoo rahaa niinkuin tuhkaa, ja valmistaa hanellensa vaatteita niinkuin lokaa,	
 
-17. Niin hanen pitaa kylla valmistaman, mutta hurskas pukee ne yllensa, ja viatoin jakaa rahan.	
+<div class="versenum">17.</div> Niin hanen pitaa kylla valmistaman, mutta hurskas pukee ne yllensa, ja viatoin jakaa rahan.	
 
-18. Han rakentaa huoneensa niinkuin toukka, ja niinkuin vartia tekee itsellensa lakan.	
+<div class="versenum">18.</div> Han rakentaa huoneensa niinkuin toukka, ja niinkuin vartia tekee itsellensa lakan.	
 
-19. Rikas kuolee, vaan ei koota: koska joku silmansa avaa, niin ei hanta enaa loydeta.	
+<div class="versenum">19.</div> Rikas kuolee, vaan ei koota: koska joku silmansa avaa, niin ei hanta enaa loydeta.	
 
-20. Hanen paallensa lankee pelko niinkuin vesi; rajuilma ottaa varkain hanen yolla pois.	
+<div class="versenum">20.</div> Hanen paallensa lankee pelko niinkuin vesi; rajuilma ottaa varkain hanen yolla pois.	
 
-21. Itatuuli vie hanen pois, etta han hukkuu, ja tuulispaa siirtaa hanen sialtansa.	
+<div class="versenum">21.</div> Itatuuli vie hanen pois, etta han hukkuu, ja tuulispaa siirtaa hanen sialtansa.	
 
-22. Namat Jumala hanelle lahettaa, ja ei saasta hanta: kaikki pitaa hanen kadestansa puuttuman.	
+<div class="versenum">22.</div> Namat Jumala hanelle lahettaa, ja ei saasta hanta: kaikki pitaa hanen kadestansa puuttuman.	
 
-23. Hanen tahtensa pitaa kasia paukutettaman ja vihellettaman, kussa han on ollut.	
+<div class="versenum">23.</div> Hanen tahtensa pitaa kasia paukutettaman ja vihellettaman, kussa han on ollut.	
 

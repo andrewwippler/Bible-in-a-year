@@ -1,34 +1,34 @@
 1 Mooseksen 16	
 	
-1. Ja Sarai Abramin emanta ei synnyttanyt hanelle. Mutta hanella oli Egyptilainen piika, jonka nimi oli Hagar.	
+<div class="versenum">1.</div> Ja Sarai Abramin emanta ei synnyttanyt hanelle. Mutta hanella oli Egyptilainen piika, jonka nimi oli Hagar.	
 
-2. Ja Sarai sanoi Abramille: katso nyt; Herra on minun sulkenut synnyttamasta, menes siis minun piikani sivuun, jos mina sittenkin saisin lapsia hanesta. Ja Abram otti Sarain sanan.	
+<div class="versenum">2.</div> Ja Sarai sanoi Abramille: katso nyt; Herra on minun sulkenut synnyttamasta, menes siis minun piikani sivuun, jos mina sittenkin saisin lapsia hanesta. Ja Abram otti Sarain sanan.	
 
-3. Ja Sarai Abramin emanta otti Egyptilaisen piikansa Hagarin, sitte kun Abram kymmenen ajastaikaa oli asunut Kanaanin maalla: ja antoi sen miehellensa Abramille emannaksi.	
+<div class="versenum">3.</div> Ja Sarai Abramin emanta otti Egyptilaisen piikansa Hagarin, sitte kun Abram kymmenen ajastaikaa oli asunut Kanaanin maalla: ja antoi sen miehellensa Abramille emannaksi.	
 
-4. Ja han makasi Hagarin tykona, joka tuli raskaaksi. Koska han tunsi itsensa raskaaksi, tuli hanen emantansa halvaksi hanen silmissansa.	
+<div class="versenum">4.</div> Ja han makasi Hagarin tykona, joka tuli raskaaksi. Koska han tunsi itsensa raskaaksi, tuli hanen emantansa halvaksi hanen silmissansa.	
 
-5. Niin sanoi Sarai Abramille: minulle tapahtunut vaaryys lankee sinun paalles; mina annoin minun piikani sinun sivuus; ja etta han tunsi itsensa raskaaksi, halpenin mina hanen edessansa: Herra tuomitkoon minun ja sinun valillas.	
+<div class="versenum">5.</div> Niin sanoi Sarai Abramille: minulle tapahtunut vaaryys lankee sinun paalles; mina annoin minun piikani sinun sivuus; ja etta han tunsi itsensa raskaaksi, halpenin mina hanen edessansa: Herra tuomitkoon minun ja sinun valillas.	
 
-6. Mutta Abram sanoi Saraille: katso, sinun piikas on sinun kasissas, tee hanen kanssansa mitas tahdot: Niin Sarai kuritti hanta, ja han pakeni hanen tykoansa.	
+<div class="versenum">6.</div> Mutta Abram sanoi Saraille: katso, sinun piikas on sinun kasissas, tee hanen kanssansa mitas tahdot: Niin Sarai kuritti hanta, ja han pakeni hanen tykoansa.	
 
-7. Mutta Herran enkeli loysi hanen vesilahteen tykona korvessa: lahteen tykona Surrin tiella.	
+<div class="versenum">7.</div> Mutta Herran enkeli loysi hanen vesilahteen tykona korvessa: lahteen tykona Surrin tiella.	
 
-8. Ja sanoi: Hagar, Sarain piika, kustas tulet? ja kuhunkas menet? han sanoi: mina pakenin emantaani Saraita.	
+<div class="versenum">8.</div> Ja sanoi: Hagar, Sarain piika, kustas tulet? ja kuhunkas menet? han sanoi: mina pakenin emantaani Saraita.	
 
-9. Ja Herran enkeli sanoi hanelle: palaja emantas tyko, ja noyryyta itses hanen katensa alle.	
+<div class="versenum">9.</div> Ja Herran enkeli sanoi hanelle: palaja emantas tyko, ja noyryyta itses hanen katensa alle.	
 
-10. Ja Herran enkeli sanoi hanelle: mina lisaan suuresti sinun siemenes, niin ettei sita taideta luettaa paljouden tahden.	
+<div class="versenum">10.</div> Ja Herran enkeli sanoi hanelle: mina lisaan suuresti sinun siemenes, niin ettei sita taideta luettaa paljouden tahden.	
 
-11. Ja Herran enkeli sanoi (viela) hanelle: katso, sina olet raskas, ja synnytat pojan: ja sinun pitaa kutsuman hanen nimensa Ismael: silla Herra on kuullut sinun vaivas.	
+<div class="versenum">11.</div> Ja Herran enkeli sanoi (viela) hanelle: katso, sina olet raskas, ja synnytat pojan: ja sinun pitaa kutsuman hanen nimensa Ismael: silla Herra on kuullut sinun vaivas.	
 
-12. Han tulee tylyksi mieheksi, ja hanen katensa jokaista vastaan, ja jokaisen kasi hanta vastaan, ja han on asuva kaikkein veljeinsa edessa.	
+<div class="versenum">12.</div> Han tulee tylyksi mieheksi, ja hanen katensa jokaista vastaan, ja jokaisen kasi hanta vastaan, ja han on asuva kaikkein veljeinsa edessa.	
 
-13. Ja han kutsui Herran nimen, joka hanta puhutteli, sina Jumala, joka naet minun, silla han sanoi: enko mina ole katsonut hanen peraansa, joka minun nakee?	
+<div class="versenum">13.</div> Ja han kutsui Herran nimen, joka hanta puhutteli, sina Jumala, joka naet minun, silla han sanoi: enko mina ole katsonut hanen peraansa, joka minun nakee?	
 
-14. Sentahden nimitti han sen kaivon, sen elavan kaivoksi, joka minun nakee, joka on Kadeksen ja Baredin valilla.	
+<div class="versenum">14.</div> Sentahden nimitti han sen kaivon, sen elavan kaivoksi, joka minun nakee, joka on Kadeksen ja Baredin valilla.	
 
-15. Ja Hagar synnytti Abramille pojan: ja Abram kutsui poikansa nimen, jonka Hagar synnytti, Ismael.	
+<div class="versenum">15.</div> Ja Hagar synnytti Abramille pojan: ja Abram kutsui poikansa nimen, jonka Hagar synnytti, Ismael.	
 
-16. Ja Abram oli kuudenyhdeksattakymmenta ajastajan vanha, koska Hagar synnytti Ismaelin Abramille.	
+<div class="versenum">16.</div> Ja Abram oli kuudenyhdeksattakymmenta ajastajan vanha, koska Hagar synnytti Ismaelin Abramille.	
 

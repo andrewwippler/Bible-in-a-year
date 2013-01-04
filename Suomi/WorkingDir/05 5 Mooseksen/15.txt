@@ -1,48 +1,48 @@
 5 Mooseksen 15	
 	
-1. Seitseman vuoden perasta pitaa sinun pitaman vapaavuoden.	
+<div class="versenum">1.</div> Seitseman vuoden perasta pitaa sinun pitaman vapaavuoden.	
 
-2. Ja nain pitaa vapaavuosi pidettaman: joka jotakin kadestansa lahimmaisellensa lainannut on, sen hanen pitaa hanelle antaman anteeksi, ja ei velkoman lahimmaistansa ja veljeansa; silla se kutsutaan Herran vapaavuodeksi.	
+<div class="versenum">2.</div> Ja nain pitaa vapaavuosi pidettaman: joka jotakin kadestansa lahimmaisellensa lainannut on, sen hanen pitaa hanelle antaman anteeksi, ja ei velkoman lahimmaistansa ja veljeansa; silla se kutsutaan Herran vapaavuodeksi.	
 
-3. Muukalaista mahdat sina velkoa; mutta veljelles pitaa sinun sen antaman anteeksi.	
+<div class="versenum">3.</div> Muukalaista mahdat sina velkoa; mutta veljelles pitaa sinun sen antaman anteeksi.	
 
-4. Ja ei pida yksikaan kerjaaja teidan seassanne oleman; silla Herra on siunaava sinua silla maalla, jonka Herra sinun Jumalas sinulle perimiseksi antaa, omistettavakses.	
+<div class="versenum">4.</div> Ja ei pida yksikaan kerjaaja teidan seassanne oleman; silla Herra on siunaava sinua silla maalla, jonka Herra sinun Jumalas sinulle perimiseksi antaa, omistettavakses.	
 
-5. Jos vaan sina ahkerasti kuulet Herran sinun Jumalas aanen, ja pidat ja teet kaikki namat kaskyt, jotka mina sinulle tanapana kasken,	
+<div class="versenum">5.</div> Jos vaan sina ahkerasti kuulet Herran sinun Jumalas aanen, ja pidat ja teet kaikki namat kaskyt, jotka mina sinulle tanapana kasken,	
 
-6. Niin Herra sinun Jumalas on siunaava sinua, niinkuin han sinulle on sanonut, niin etta sina lainaat monelle kansalle, mutta ei sinun pida lainaksi ottaman: sinun pitaa hallitseman paljo kansaa, mutta sinun ei pida kenenkaan vallitseman.	
+<div class="versenum">6.</div> Niin Herra sinun Jumalas on siunaava sinua, niinkuin han sinulle on sanonut, niin etta sina lainaat monelle kansalle, mutta ei sinun pida lainaksi ottaman: sinun pitaa hallitseman paljo kansaa, mutta sinun ei pida kenenkaan vallitseman.	
 
-7. Jos joku veljistas on joutunut koyhaksi jossakussa kaupungissa sinun maallas, jonka Herra sinun Jumalas sinulle antaa, niin ei pida sinun koventaman sydantas eika kasias koyhalta veljeltas sulkeman;	
+<div class="versenum">7.</div> Jos joku veljistas on joutunut koyhaksi jossakussa kaupungissa sinun maallas, jonka Herra sinun Jumalas sinulle antaa, niin ei pida sinun koventaman sydantas eika kasias koyhalta veljeltas sulkeman;	
 
-8. Mutta pitaa kaiketi avaaman kates hanelle ja mieluisesti lainaaman, senjalkeen minka han puutteessansa tarvitsee.	
+<div class="versenum">8.</div> Mutta pitaa kaiketi avaaman kates hanelle ja mieluisesti lainaaman, senjalkeen minka han puutteessansa tarvitsee.	
 
-9. Ota vaari, ettei sinun sydamees tulisi Belialin ajatus, ettas sanoisit: nyt tulee pian seitsemas vuosi, joka on vapaavuosi, ja sina armottomasti katsot sinun koyhan veljes puoleen, etka mitakaan annan hanelle: niin han huutaa sinun ylitses Herran tyko, ja se tulee sinulle synniksi.	
+<div class="versenum">9.</div> Ota vaari, ettei sinun sydamees tulisi Belialin ajatus, ettas sanoisit: nyt tulee pian seitsemas vuosi, joka on vapaavuosi, ja sina armottomasti katsot sinun koyhan veljes puoleen, etka mitakaan annan hanelle: niin han huutaa sinun ylitses Herran tyko, ja se tulee sinulle synniksi.	
 
-10. Sinun pitaa antaman hanelle hyvalla mielella, ja sinun sydames ei pida paheksuman, koskas hanelle annat; silla sentahden on Herra sinun Jumalas siunaava sinua kaikissa sinun toissas, ja sinun kattes teoissa.	
+<div class="versenum">10.</div> Sinun pitaa antaman hanelle hyvalla mielella, ja sinun sydames ei pida paheksuman, koskas hanelle annat; silla sentahden on Herra sinun Jumalas siunaava sinua kaikissa sinun toissas, ja sinun kattes teoissa.	
 
-11. Silla ei koyhat pida puuttuman maalta, sentahden kasken mina sinua ja sanon: avaa aina kates veljelles, joka tarvitseva ja koyha on sinun maallas.	
+<div class="versenum">11.</div> Silla ei koyhat pida puuttuman maalta, sentahden kasken mina sinua ja sanon: avaa aina kates veljelles, joka tarvitseva ja koyha on sinun maallas.	
 
-12. Jos veljes, Hebrealainen mies eli vaimo, myy itsensa sinulle, niin hanen pitaa palveleman sinua kuusi vuotta; mutta seitsemantena vuotena pitaa sinun hanen vapaaksi paastaman.	
+<div class="versenum">12.</div> Jos veljes, Hebrealainen mies eli vaimo, myy itsensa sinulle, niin hanen pitaa palveleman sinua kuusi vuotta; mutta seitsemantena vuotena pitaa sinun hanen vapaaksi paastaman.	
 
-13. Ja kuin sina hanen vapaaksi paastat, ei sinun pida antaman hanen menna tyhjin kasin sinun tykoas;	
+<div class="versenum">13.</div> Ja kuin sina hanen vapaaksi paastat, ei sinun pida antaman hanen menna tyhjin kasin sinun tykoas;	
 
-14. Vaan sinun pitaa hanelle mieluisesti lahjoittaman lampaistas ja riihestas ja viinakuurnastas, niin etta sina annat hanelle sita, jolla Herra sinun Jumalas sinunkin on siunannut.	
+<div class="versenum">14.</div> Vaan sinun pitaa hanelle mieluisesti lahjoittaman lampaistas ja riihestas ja viinakuurnastas, niin etta sina annat hanelle sita, jolla Herra sinun Jumalas sinunkin on siunannut.	
 
-15. Ja muista, etta sinakin olit orja Egyptin maalla, ja Herra sinun Jumalas pelasti sinun; sentahden mina naita sinulle tanapana kasken.	
+<div class="versenum">15.</div> Ja muista, etta sinakin olit orja Egyptin maalla, ja Herra sinun Jumalas pelasti sinun; sentahden mina naita sinulle tanapana kasken.	
 
-16. Jos han sanoo sinulle: en mina lahde sinun tykoas; silla han rakastaa sinua ja sinun huonettas, silla hanen on hyva olla sinun tykonas;	
+<div class="versenum">16.</div> Jos han sanoo sinulle: en mina lahde sinun tykoas; silla han rakastaa sinua ja sinun huonettas, silla hanen on hyva olla sinun tykonas;	
 
-17. Niin ota naskali ja pista hanen korvaansa niin myos oveen, ja anna hanen olla sinun orjas ijaisesti: niin pitaa myos sinun tekeman piikas kanssa.	
+<div class="versenum">17.</div> Niin ota naskali ja pista hanen korvaansa niin myos oveen, ja anna hanen olla sinun orjas ijaisesti: niin pitaa myos sinun tekeman piikas kanssa.	
 
-18. Ja ala tyolaaksi lue sita sinulles, ettas hanen tykoas vapaaksi paastat; silla han on palvellut sinua, niinkuin kaksinkertainen palkollinen, kuusi vuotta: niin Herra sinun Jumalas siunaa sinua kaikissa niissa mita sina teet.	
+<div class="versenum">18.</div> Ja ala tyolaaksi lue sita sinulles, ettas hanen tykoas vapaaksi paastat; silla han on palvellut sinua, niinkuin kaksinkertainen palkollinen, kuusi vuotta: niin Herra sinun Jumalas siunaa sinua kaikissa niissa mita sina teet.	
 
-19. Kaikki harkyiset karjan, ja oinaat lammasten esikoisista, pitaa sinun pyhittaman Herralle sinun Jumalalles: ei sinun pida tyota tekeman karjas esikoisella eika pida sinun keritseman lammastes esikoista.	
+<div class="versenum">19.</div> Kaikki harkyiset karjan, ja oinaat lammasten esikoisista, pitaa sinun pyhittaman Herralle sinun Jumalalles: ei sinun pida tyota tekeman karjas esikoisella eika pida sinun keritseman lammastes esikoista.	
 
-20. Herra sinun Jumalas edessa pitaa sinun ne syoman vuosi vuodelta, siina paikassa minka Herra valinnut on, sina ja sinun huonees.	
+<div class="versenum">20.</div> Herra sinun Jumalas edessa pitaa sinun ne syoman vuosi vuodelta, siina paikassa minka Herra valinnut on, sina ja sinun huonees.	
 
-21. Jos silla on joku virhe, niin etta han ontuu taikka on sokia, taikka muutoin joku paha virhe hanessa, niin ei sinun pida uhraaman sita Herralle sinun Jumalalles.	
+<div class="versenum">21.</div> Jos silla on joku virhe, niin etta han ontuu taikka on sokia, taikka muutoin joku paha virhe hanessa, niin ei sinun pida uhraaman sita Herralle sinun Jumalalles.	
 
-22. Sinun porteissas pitaa sinun sen syoman, saastainen ja puhdas yhdessa, niinkuin metsavuohen ja peuran.	
+<div class="versenum">22.</div> Sinun porteissas pitaa sinun sen syoman, saastainen ja puhdas yhdessa, niinkuin metsavuohen ja peuran.	
 
-23. Ainoasti ei sinun pida syoman sen verta, mutta vuodattaman maahan niinkuin veden.	
+<div class="versenum">23.</div> Ainoasti ei sinun pida syoman sen verta, mutta vuodattaman maahan niinkuin veden.	
 

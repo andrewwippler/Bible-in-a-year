@@ -1,68 +1,68 @@
 Joosuan 13	
 	
-1. Kuin Josua vanheni ja ijalliseksi tuli, sanoi Herra hanelle: sina olet vanhentunut ja ijalliseksi tullut, ja maata on viela aivan paljo jaanyt omistamata.	
+<div class="versenum">1.</div> Kuin Josua vanheni ja ijalliseksi tuli, sanoi Herra hanelle: sina olet vanhentunut ja ijalliseksi tullut, ja maata on viela aivan paljo jaanyt omistamata.	
 
-2. Tama on se jalella oleva maa: kaikki Philistealaisten maan aaret ja koko Gessuri,	
+<div class="versenum">2.</div> Tama on se jalella oleva maa: kaikki Philistealaisten maan aaret ja koko Gessuri,	
 
-3. Sihorista, joka juoksee Egyptin editse, Ekronin maan aariin asti, pohjan puoleen, jotka luetaan Kanaanealaisille; ne viisi Philistealaisten paamiesta ovat: Gasilainen, Asdonilainen, Asklonilainen, Gatilainen, Ekronilainen ja Avilainen.	
+<div class="versenum">3.</div> Sihorista, joka juoksee Egyptin editse, Ekronin maan aariin asti, pohjan puoleen, jotka luetaan Kanaanealaisille; ne viisi Philistealaisten paamiesta ovat: Gasilainen, Asdonilainen, Asklonilainen, Gatilainen, Ekronilainen ja Avilainen.	
 
-4. Mutta etelaanpain ovat kaikki Kanaanealaisten maat ja Meara, joka on Zidonilaisten, Aphekiin saakka ja hamaan Amorilaisten maan aariin asti,	
+<div class="versenum">4.</div> Mutta etelaanpain ovat kaikki Kanaanealaisten maat ja Meara, joka on Zidonilaisten, Aphekiin saakka ja hamaan Amorilaisten maan aariin asti,	
 
-5. Ja myos Gibilaisten maa, ja koko Libanon auringon nousemiseen pain, BaalGadista Hermonin vuoren alta, siihenasti kuin Hamatiin tullaan.	
+<div class="versenum">5.</div> Ja myos Gibilaisten maa, ja koko Libanon auringon nousemiseen pain, BaalGadista Hermonin vuoren alta, siihenasti kuin Hamatiin tullaan.	
 
-6. Kaikki jotka vuorella asuvat, Libanonista lampimaan veteen asti, ja kaikki Zidonilaiset: mina ajan ne Israelin lasten edesta pois; ainoasti jaa ne Israelille perimiseksi, niinkuin mina olen sinulle kaskenyt.	
+<div class="versenum">6.</div> Kaikki jotka vuorella asuvat, Libanonista lampimaan veteen asti, ja kaikki Zidonilaiset: mina ajan ne Israelin lasten edesta pois; ainoasti jaa ne Israelille perimiseksi, niinkuin mina olen sinulle kaskenyt.	
 
-7. Niin jaa nyt tama maa yhdeksan sukukunnan valilla perimiseksi, ja puolelle Manassen sukukunnalle.	
+<div class="versenum">7.</div> Niin jaa nyt tama maa yhdeksan sukukunnan valilla perimiseksi, ja puolelle Manassen sukukunnalle.	
 
-8. Silla Rubenilaiset ja Gadilaiset ovat toisen puolen Manassen sukukunnan kanssa saaneet perimisensa, jonka Moses heille oli antanut silla puolella Jordania itaan pain, niinkuin Herran palvelia Moses heille sen antanut oli:	
+<div class="versenum">8.</div> Silla Rubenilaiset ja Gadilaiset ovat toisen puolen Manassen sukukunnan kanssa saaneet perimisensa, jonka Moses heille oli antanut silla puolella Jordania itaan pain, niinkuin Herran palvelia Moses heille sen antanut oli:	
 
-9. Aroerista, joka on Arnonin ojan reunalla, ja siita kaupungista, joka on ojan keskella, ja koko Medeban lakeuden Diboniin asti,	
+<div class="versenum">9.</div> Aroerista, joka on Arnonin ojan reunalla, ja siita kaupungista, joka on ojan keskella, ja koko Medeban lakeuden Diboniin asti,	
 
-10. Ja kaikki Sihonin Amorilaisten kuninkaan kaupungit, joka hallitsi Hesbonissa, Ammonin lasten maan rajoihin asti,	
+<div class="versenum">10.</div> Ja kaikki Sihonin Amorilaisten kuninkaan kaupungit, joka hallitsi Hesbonissa, Ammonin lasten maan rajoihin asti,	
 
-11. Ja Gileadin ja Gessurin ja Maakatin maan aaret, ja koko Hermonin vuoren, ja koko Basanin Salkaan asti;	
+<div class="versenum">11.</div> Ja Gileadin ja Gessurin ja Maakatin maan aaret, ja koko Hermonin vuoren, ja koko Basanin Salkaan asti;	
 
-12. Koko Ogin Basanin kuninkaan valtakunnan, joka hallitsi Astarotissa ja Edreissa, joka viela jaanyt oli uljaista, ja Moses loi heita ja ajoi heita pois.	
+<div class="versenum">12.</div> Koko Ogin Basanin kuninkaan valtakunnan, joka hallitsi Astarotissa ja Edreissa, joka viela jaanyt oli uljaista, ja Moses loi heita ja ajoi heita pois.	
 
-13. Mutta Israelin lapset ei ajaneet Gessurilaisia ja Maakatilaisia ulos, vaan Gessurilainen ja Maakatilainen asuu Israelin lasten seassa tahan paivaan asti.	
+<div class="versenum">13.</div> Mutta Israelin lapset ei ajaneet Gessurilaisia ja Maakatilaisia ulos, vaan Gessurilainen ja Maakatilainen asuu Israelin lasten seassa tahan paivaan asti.	
 
-14. Mutta Levilaisten sukukunnalle ei han antanut yhtaan perimista; silla Herran Israelin Jumalan polttouhri on heidan perintonsa, niinkuin han heille sanonut oli.	
+<div class="versenum">14.</div> Mutta Levilaisten sukukunnalle ei han antanut yhtaan perimista; silla Herran Israelin Jumalan polttouhri on heidan perintonsa, niinkuin han heille sanonut oli.	
 
-15. Ja Moses antoi Rubenin lasten suvulle, heidan sukukuntainsa jalkeen:	
+<div class="versenum">15.</div> Ja Moses antoi Rubenin lasten suvulle, heidan sukukuntainsa jalkeen:	
 
-16. Etta heidan rajansa oli Aroerista, joka on Arnonin ojan reunalla, ja se kaupunki ojan keskella kaiken sen tasaisen kedon kanssa Medeban tykona;	
+<div class="versenum">16.</div> Etta heidan rajansa oli Aroerista, joka on Arnonin ojan reunalla, ja se kaupunki ojan keskella kaiken sen tasaisen kedon kanssa Medeban tykona;	
 
-17. Hesbonin kaupunkeinensa, jotka ovat tasaisella kedolla: Dibonin, BamotBaalin ja BetBaalMeonin,	
+<div class="versenum">17.</div> Hesbonin kaupunkeinensa, jotka ovat tasaisella kedolla: Dibonin, BamotBaalin ja BetBaalMeonin,	
 
-18. Jaksan, Kedemotin, Mephaotin,	
+<div class="versenum">18.</div> Jaksan, Kedemotin, Mephaotin,	
 
-19. Kirjataimin, Sibman, Zeretin, Saharin laakson, vuorilla,	
+<div class="versenum">19.</div> Kirjataimin, Sibman, Zeretin, Saharin laakson, vuorilla,	
 
-20. Ja BetPeorin, ne ojat Pisgan tykona ja BetJesimotin,	
+<div class="versenum">20.</div> Ja BetPeorin, ne ojat Pisgan tykona ja BetJesimotin,	
 
-21. Ja kaikki lakeuden kaupungit, ja koko Sihonin, Amorilaisten kuninkaan valtakunnan, joka hallitsi Hesbonissa, jonka Moses loi, niin myos Midianin paamiehet: Evin, Rekemin, Zurin, Hurin ja Reban, Sihonin paamiehet, jotka maassa asuivat.	
+<div class="versenum">21.</div> Ja kaikki lakeuden kaupungit, ja koko Sihonin, Amorilaisten kuninkaan valtakunnan, joka hallitsi Hesbonissa, jonka Moses loi, niin myos Midianin paamiehet: Evin, Rekemin, Zurin, Hurin ja Reban, Sihonin paamiehet, jotka maassa asuivat.	
 
-22. Ja Bileaminkin Beorin pojan, tietajan, Israelin lapset miekalla kuoliaaksi loivat muita tapettaessa.	
+<div class="versenum">22.</div> Ja Bileaminkin Beorin pojan, tietajan, Israelin lapset miekalla kuoliaaksi loivat muita tapettaessa.	
 
-23. Ja Rubenin lasten raja oli Jordani rajoinensa. Tama on Rubenin lasten perimys heidan sukukuntainsa, kaupunkeinsa ja kylainsa jalkeen.	
+<div class="versenum">23.</div> Ja Rubenin lasten raja oli Jordani rajoinensa. Tama on Rubenin lasten perimys heidan sukukuntainsa, kaupunkeinsa ja kylainsa jalkeen.	
 
-24. Ja Moses antoi Gadin lasten sukukunnalle heidan sukukuntainsa jalkeen,	
+<div class="versenum">24.</div> Ja Moses antoi Gadin lasten sukukunnalle heidan sukukuntainsa jalkeen,	
 
-25. Etta heidan rajansa oli Jaeser, ja kaikki Gileadin kaupungit, ja puoli Ammonin lasten maata, Aroeriin asti, joka on Rabban kohdalla,	
+<div class="versenum">25.</div> Etta heidan rajansa oli Jaeser, ja kaikki Gileadin kaupungit, ja puoli Ammonin lasten maata, Aroeriin asti, joka on Rabban kohdalla,	
 
-26. Ja Hesbonista RamatMitspeen ja Betoniimiin asti, ja Mahanaimista Debirin rajaan asti,	
+<div class="versenum">26.</div> Ja Hesbonista RamatMitspeen ja Betoniimiin asti, ja Mahanaimista Debirin rajaan asti,	
 
-27. Ja laaksossa Betaram ja BetNimra, Sukkot ja Zaphon, joka jai Sihonin Hesbonin kuninkaan valtakunnasta; joiden raja oli Jordani Kinneretin meren aareen asti, toisella puolella Jordania itaan pain.	
+<div class="versenum">27.</div> Ja laaksossa Betaram ja BetNimra, Sukkot ja Zaphon, joka jai Sihonin Hesbonin kuninkaan valtakunnasta; joiden raja oli Jordani Kinneretin meren aareen asti, toisella puolella Jordania itaan pain.	
 
-28. Tama on Gadin lasten perimys heidan sukukunnissansa, kaupungeissansa ja kylissansa.	
+<div class="versenum">28.</div> Tama on Gadin lasten perimys heidan sukukunnissansa, kaupungeissansa ja kylissansa.	
 
-29. Ja Moses antoi puolelle Manassen lasten suvulle sen mika puolelle Manassen sukukunnalle tuli, heidan sukukuntainsa jalkeen,	
+<div class="versenum">29.</div> Ja Moses antoi puolelle Manassen lasten suvulle sen mika puolelle Manassen sukukunnalle tuli, heidan sukukuntainsa jalkeen,	
 
-30. Etta heidan rajansa oli Mahanaimista koko Basan, koko Ogin Basanin kuninkaan valtakunta ja kaikki Jairin kylat, jotka ovat Basanissa, kuusikymmenta kaupunkia,	
+<div class="versenum">30.</div> Etta heidan rajansa oli Mahanaimista koko Basan, koko Ogin Basanin kuninkaan valtakunta ja kaikki Jairin kylat, jotka ovat Basanissa, kuusikymmenta kaupunkia,	
 
-31. Ja puolen Gileadia ja Astarotia, Edreia Ogin valtakunnan kaupungit Basanissa (antoi han) Makirin Manassen pojan lapsille, toiselle puolelle Makirin lapsia heidan sukukuntainsa jalkeen.	
+<div class="versenum">31.</div> Ja puolen Gileadia ja Astarotia, Edreia Ogin valtakunnan kaupungit Basanissa (antoi han) Makirin Manassen pojan lapsille, toiselle puolelle Makirin lapsia heidan sukukuntainsa jalkeen.	
 
-32. Tama on se minka Moses antoi Moabin kedoilla, silla puolella Jordania, Jerihon kohdalla itaan pain.	
+<div class="versenum">32.</div> Tama on se minka Moses antoi Moabin kedoilla, silla puolella Jordania, Jerihon kohdalla itaan pain.	
 
-33. Mutta Levin sukukunnalle ei antanut Moses yhtaan perimysta; Herra Israelin Jumala on heidan perimisensa, niinkuin han heille sanonut oli.	
+<div class="versenum">33.</div> Mutta Levin sukukunnalle ei antanut Moses yhtaan perimysta; Herra Israelin Jumala on heidan perimisensa, niinkuin han heille sanonut oli.	
 

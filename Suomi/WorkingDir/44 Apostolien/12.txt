@@ -1,52 +1,52 @@
 Apostolien 12	
 	
-1. Mutta silla ajalla otti kuningas Herodes muutamia seurakunnasta kiinni, vaivataksensa,	
+<div class="versenum">1.</div> Mutta silla ajalla otti kuningas Herodes muutamia seurakunnasta kiinni, vaivataksensa,	
 
-2. Ja mestasi Jakobin, Johanneksen veljen miekalla.	
+<div class="versenum">2.</div> Ja mestasi Jakobin, Johanneksen veljen miekalla.	
 
-3. Ja kuin han naki sen Juudalaisille kelpaavan, pyysi han myos Pietaria kasittaa, (ja se oli makian leivan paivana.)	
+<div class="versenum">3.</div> Ja kuin han naki sen Juudalaisille kelpaavan, pyysi han myos Pietaria kasittaa, (ja se oli makian leivan paivana.)	
 
-4. Jonka han myos kasitti, ja pani vankiuteen, ja antoi hanen neljan sotamiesten neljanneksen haltuun vartioida hanta, ja ajatteli paasiaisen jalkeen asettaa hanen kansan eteen.	
+<div class="versenum">4.</div> Jonka han myos kasitti, ja pani vankiuteen, ja antoi hanen neljan sotamiesten neljanneksen haltuun vartioida hanta, ja ajatteli paasiaisen jalkeen asettaa hanen kansan eteen.	
 
-5. Niin Pietari pidettiin tornissa; mutta seurakunnassa tapahtuivat rukoukset hartaasti hanen edestansa Jumalan tyko.	
+<div class="versenum">5.</div> Niin Pietari pidettiin tornissa; mutta seurakunnassa tapahtuivat rukoukset hartaasti hanen edestansa Jumalan tyko.	
 
-6. Ja kuin Herodes tahtoi hanen ottaa edes, makasi Pietari sina yona kahden sotamiehen vaiheella, sidottuna kaksilla kahleilla, ja vartiat oven edessa vartioitsivat tornia.	
+<div class="versenum">6.</div> Ja kuin Herodes tahtoi hanen ottaa edes, makasi Pietari sina yona kahden sotamiehen vaiheella, sidottuna kaksilla kahleilla, ja vartiat oven edessa vartioitsivat tornia.	
 
-7. Ja katso, Herran enkeli seisoi hanen tykonansa ja kirkkaus paisti huoneessa, lykkasi Pietaria kylkeen, heratti hanen ja sanoi: nouse nopiasti. Ja kahleet putosivat hanen kasistansa.	
+<div class="versenum">7.</div> Ja katso, Herran enkeli seisoi hanen tykonansa ja kirkkaus paisti huoneessa, lykkasi Pietaria kylkeen, heratti hanen ja sanoi: nouse nopiasti. Ja kahleet putosivat hanen kasistansa.	
 
-8. Niin enkeli sanoi hanelle: sonnusta ja kengita sinus. Ja han teki niin. Ja han sanoi viela hanelle: pue itses vaatteisiis ja seuraa minua.	
+<div class="versenum">8.</div> Niin enkeli sanoi hanelle: sonnusta ja kengita sinus. Ja han teki niin. Ja han sanoi viela hanelle: pue itses vaatteisiis ja seuraa minua.	
 
-9. Ja han meni ulos ja seurasi hanta, eika tietanyt sita todeksi, mita enkelilta tehtiin, vaan luuli nayn nakevansa.	
+<div class="versenum">9.</div> Ja han meni ulos ja seurasi hanta, eika tietanyt sita todeksi, mita enkelilta tehtiin, vaan luuli nayn nakevansa.	
 
-10. Mutta kuin he menivat ensimaisen ja toisen vartion lavitse, ja tulivat rautaiseen porttiin, joka vie kaupunkiin, niin se aukeni heille itsestansa; ja he menivat siita ulos, kayden katua myoten, ja kohta erkani enkeli hanesta.	
+<div class="versenum">10.</div> Mutta kuin he menivat ensimaisen ja toisen vartion lavitse, ja tulivat rautaiseen porttiin, joka vie kaupunkiin, niin se aukeni heille itsestansa; ja he menivat siita ulos, kayden katua myoten, ja kohta erkani enkeli hanesta.	
 
-11. Ja kuin Pietari tointui entisellensa, sanoi han: nyt mina totisesti tiedan, etta Herra on enkelinsa lahettanyt, ja minun Herodeksen kasista paastanyt ja kaikesta Juudan kansan toivosta.	
+<div class="versenum">11.</div> Ja kuin Pietari tointui entisellensa, sanoi han: nyt mina totisesti tiedan, etta Herra on enkelinsa lahettanyt, ja minun Herodeksen kasista paastanyt ja kaikesta Juudan kansan toivosta.	
 
-12. Ja kuin han tata ajatellut oli, tuli han Marian, Johanneksen aidin, huoneen tyko, joka Markukseksi kutsuttiin, jossa monta oli koossa, ja rukoilivat.	
+<div class="versenum">12.</div> Ja kuin han tata ajatellut oli, tuli han Marian, Johanneksen aidin, huoneen tyko, joka Markukseksi kutsuttiin, jossa monta oli koossa, ja rukoilivat.	
 
-13. Mutta kuin Pietari porstuan oveen kolkutti, tuli piika, Roode nimelta, kuultelemaan.	
+<div class="versenum">13.</div> Mutta kuin Pietari porstuan oveen kolkutti, tuli piika, Roode nimelta, kuultelemaan.	
 
-14. Ja kuin han Pietartin aanen tunsi, ei han ovea ilon tahden avannutkaan, vaan juoksi sisalle ja ilmoitti heille Pietarin porstuan edessa seisovan.	
+<div class="versenum">14.</div> Ja kuin han Pietartin aanen tunsi, ei han ovea ilon tahden avannutkaan, vaan juoksi sisalle ja ilmoitti heille Pietarin porstuan edessa seisovan.	
 
-15. Niin he sanoivat hanelle: oletkos hullu? Vaan han sanoi totisesti niin olevan. Niin he sanoivat: se on hanen enkelinsa.	
+<div class="versenum">15.</div> Niin he sanoivat hanelle: oletkos hullu? Vaan han sanoi totisesti niin olevan. Niin he sanoivat: se on hanen enkelinsa.	
 
-16. Mutta Pietari kolkutti lakkaamatta. Kuin he avasivat, niin he nakivat hanen ja hammastyivat.	
+<div class="versenum">16.</div> Mutta Pietari kolkutti lakkaamatta. Kuin he avasivat, niin he nakivat hanen ja hammastyivat.	
 
-17. Mutta han viittasi kadellansa heita vaikenemaan, ja jutteli heille, kuinka Herra oli hanen vankiudesta johdattanut ulos, ja sanoi: ilmoittakaat naita Jakobille ja veljille. Ja laksi ulos ja meni toiseen paikkaan.	
+<div class="versenum">17.</div> Mutta han viittasi kadellansa heita vaikenemaan, ja jutteli heille, kuinka Herra oli hanen vankiudesta johdattanut ulos, ja sanoi: ilmoittakaat naita Jakobille ja veljille. Ja laksi ulos ja meni toiseen paikkaan.	
 
-18. Mutta kuin paiva tuli, niin ei sotamiehilla ollut vahin kapina, kuhunka Pietari tullut oli.	
+<div class="versenum">18.</div> Mutta kuin paiva tuli, niin ei sotamiehilla ollut vahin kapina, kuhunka Pietari tullut oli.	
 
-19. Ja kuin Herodes piti sanan hanen perassansa, eika hanta loytanyt, antoi han vartiat tutkia ja kaski heita rangaista. Ja meni Juudeasta alas Kesareaan ja viipyi siella.	
+<div class="versenum">19.</div> Ja kuin Herodes piti sanan hanen perassansa, eika hanta loytanyt, antoi han vartiat tutkia ja kaski heita rangaista. Ja meni Juudeasta alas Kesareaan ja viipyi siella.	
 
-20. Ja Herodes oli vihoissansa Tyron ja Sidonin asuvaisille; mutta he tulivat yksimielisesti hanen tykonsa ja lepyttivat kuninkaan kamaripalvelian Blastuksen, ja anoivat rauhaa; silla heidan maakuntansa sai kuninkaan maasta elatuksensa.	
+<div class="versenum">20.</div> Ja Herodes oli vihoissansa Tyron ja Sidonin asuvaisille; mutta he tulivat yksimielisesti hanen tykonsa ja lepyttivat kuninkaan kamaripalvelian Blastuksen, ja anoivat rauhaa; silla heidan maakuntansa sai kuninkaan maasta elatuksensa.	
 
-21. Mutta maarattyna paivana oli Herodes puetettu kuninkaallisissa vaatteissa, istuen tuomioistuimella, ja piti puheen heidan tykonsa.	
+<div class="versenum">21.</div> Mutta maarattyna paivana oli Herodes puetettu kuninkaallisissa vaatteissa, istuen tuomioistuimella, ja piti puheen heidan tykonsa.	
 
-22. Mutta kansa huusi: Jumalan aani, ja ei ihmisen.	
+<div class="versenum">22.</div> Mutta kansa huusi: Jumalan aani, ja ei ihmisen.	
 
-23. Ja Herran enkeli loi kohta hanta, ettei han kunniaa Jumalalle antanut. Ja han syotiin madoilta, ja antoi henkensa.	
+<div class="versenum">23.</div> Ja Herran enkeli loi kohta hanta, ettei han kunniaa Jumalalle antanut. Ja han syotiin madoilta, ja antoi henkensa.	
 
-24. Mutta Jumalan sana kasvoi ja eneni.	
+<div class="versenum">24.</div> Mutta Jumalan sana kasvoi ja eneni.	
 
-25. Mutta Barnabas ja Saulus palasivat Jerusalemista, kuin he olivat palveluksen paattaneet, ja ottivat Johanneksen kanssansa, joka myos Markukseksi kutsuttiin.	
+<div class="versenum">25.</div> Mutta Barnabas ja Saulus palasivat Jerusalemista, kuin he olivat palveluksen paattaneet, ja ottivat Johanneksen kanssansa, joka myos Markukseksi kutsuttiin.	
 

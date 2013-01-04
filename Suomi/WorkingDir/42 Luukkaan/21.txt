@@ -1,78 +1,78 @@
 Luukkaan 21	
 	
-1. Mutta kuin han katsoi, naki han rikkaat panevan lahjojansa uhri-arkkkuun.	
+<div class="versenum">1.</div> Mutta kuin han katsoi, naki han rikkaat panevan lahjojansa uhri-arkkkuun.	
 
-2. Han naki myos koyhan lesken panevan siihen kaksi ropoa.	
+<div class="versenum">2.</div> Han naki myos koyhan lesken panevan siihen kaksi ropoa.	
 
-3. Ja sanoi: totisesti sanon mina teille: tama koyha leski pani enemman kuin namat kaikki.	
+<div class="versenum">3.</div> Ja sanoi: totisesti sanon mina teille: tama koyha leski pani enemman kuin namat kaikki.	
 
-4. Silla kaikki namat panivat siita, mita heilla liiaksi oli, Jumalan uhriski, vaan tama pani koyhyydestansa kaiken tavaransa, mika hanella oli.	
+<div class="versenum">4.</div> Silla kaikki namat panivat siita, mita heilla liiaksi oli, Jumalan uhriski, vaan tama pani koyhyydestansa kaiken tavaransa, mika hanella oli.	
 
-5. Ja kuin muutamat sanoivat hanelle templista, kuinka kauniilla kivilla ja kappaleilla se kaunistettu oli, niin han sanoi:	
+<div class="versenum">5.</div> Ja kuin muutamat sanoivat hanelle templista, kuinka kauniilla kivilla ja kappaleilla se kaunistettu oli, niin han sanoi:	
 
-6. Naitako te katselette? Ne paivat pitaa tuleman, joina ei pida kivea kiven paalle jatettaman, jota ei maahan jaoteta.	
+<div class="versenum">6.</div> Naitako te katselette? Ne paivat pitaa tuleman, joina ei pida kivea kiven paalle jatettaman, jota ei maahan jaoteta.	
 
-7. Niin he kysyivat hanelta ja sanoivat: Mestari, koskas namat tapahtuvat? ja mika merkki on, koska namat tulevat?	
+<div class="versenum">7.</div> Niin he kysyivat hanelta ja sanoivat: Mestari, koskas namat tapahtuvat? ja mika merkki on, koska namat tulevat?	
 
-8. Han sanoi: katsokaat, ettei teita peteta; silla moni tulee minun nimeeni ja sanoo: mina se olen! aika on kylla lasna, alkaat kuitenkaan heita seuratko.	
+<div class="versenum">8.</div> Han sanoi: katsokaat, ettei teita peteta; silla moni tulee minun nimeeni ja sanoo: mina se olen! aika on kylla lasna, alkaat kuitenkaan heita seuratko.	
 
-9. Mutta kuin te kuulette sotia ja kapinoita, niin alkaat peljastyko; silla namat pitaa ensin tapahtuman, vaan ei kohta loppu ole.	
+<div class="versenum">9.</div> Mutta kuin te kuulette sotia ja kapinoita, niin alkaat peljastyko; silla namat pitaa ensin tapahtuman, vaan ei kohta loppu ole.	
 
-10. Niin han sanoi heille: kansa nousee kansaa vastaan, ja valtakunta valtakuntaa vastaan.	
+<div class="versenum">10.</div> Niin han sanoi heille: kansa nousee kansaa vastaan, ja valtakunta valtakuntaa vastaan.	
 
-11. Ja suuret maan vapistukset pita joka paikassa tuleman, nalka ja rutto, kauhistukset ja suuret ihmeet taivaasta tapahtuvat.	
+<div class="versenum">11.</div> Ja suuret maan vapistukset pita joka paikassa tuleman, nalka ja rutto, kauhistukset ja suuret ihmeet taivaasta tapahtuvat.	
 
-12. Mutta ennen naita kaikkia heittavat he katensa teidan paallenne, vainoovat ja antavat ylon teita synagogiin ja vankiuteen, ja vetavat teita kuningasten ja esimiesten eteen, minun nimeni tahden.	
+<div class="versenum">12.</div> Mutta ennen naita kaikkia heittavat he katensa teidan paallenne, vainoovat ja antavat ylon teita synagogiin ja vankiuteen, ja vetavat teita kuningasten ja esimiesten eteen, minun nimeni tahden.	
 
-13. Mutta se tapahtuu teille todistukseksi.	
+<div class="versenum">13.</div> Mutta se tapahtuu teille todistukseksi.	
 
-14. Niin pankaat nyt se teidan sydameenne, ettette ennen ajattelisi, kuinka teidan pitaa edestanne vastaaman:	
+<div class="versenum">14.</div> Niin pankaat nyt se teidan sydameenne, ettette ennen ajattelisi, kuinka teidan pitaa edestanne vastaaman:	
 
-15. Silla mina annan teille suun ja viisauden, jota ei he voi puhua vastaan eika seisoa vastaan, kaikki jotka teita vastaan ovat.	
+<div class="versenum">15.</div> Silla mina annan teille suun ja viisauden, jota ei he voi puhua vastaan eika seisoa vastaan, kaikki jotka teita vastaan ovat.	
 
-16. Niin te myos annetaan ylon vanhimmilta, veljilta, langoilta ja ystavilta, ja muutamat teista he tappavat,	
+<div class="versenum">16.</div> Niin te myos annetaan ylon vanhimmilta, veljilta, langoilta ja ystavilta, ja muutamat teista he tappavat,	
 
-17. Ja te tulette vihattaviksi kaikilta, minun nimeni tahden.	
+<div class="versenum">17.</div> Ja te tulette vihattaviksi kaikilta, minun nimeni tahden.	
 
-18. Vaan ei hiuskarvakaan pida teidan paastanne hukkuman.	
+<div class="versenum">18.</div> Vaan ei hiuskarvakaan pida teidan paastanne hukkuman.	
 
-19. Pitakaat teidan sielunne karsivallisyydessa.	
+<div class="versenum">19.</div> Pitakaat teidan sielunne karsivallisyydessa.	
 
-20. Mutta kuin te naette Jerusalemin sotavaelta piiritettavan, niin tietakaat, etta hanen perikatonsa on lahestynyt.	
+<div class="versenum">20.</div> Mutta kuin te naette Jerusalemin sotavaelta piiritettavan, niin tietakaat, etta hanen perikatonsa on lahestynyt.	
 
-21. Silloin ne, jotka Juudeassa ovat, paetkaan vuorille, ja jotka hanen keskellansa ovat, ne lahtekaan sielta ulos, ja jotka maalla ovat, alkaan haneen menko sisalle.	
+<div class="versenum">21.</div> Silloin ne, jotka Juudeassa ovat, paetkaan vuorille, ja jotka hanen keskellansa ovat, ne lahtekaan sielta ulos, ja jotka maalla ovat, alkaan haneen menko sisalle.	
 
-22. Silla ne ovat kostopaivat, etta kaikki taytettaisiin, mitka kirjoitetut ovat.	
+<div class="versenum">22.</div> Silla ne ovat kostopaivat, etta kaikki taytettaisiin, mitka kirjoitetut ovat.	
 
-23. Mutta voi raskaita ja imettavaisia niina paivina! Silla suuri vaiva pitaa maan paalla oleman ja viha taman kansan paalla.	
+<div class="versenum">23.</div> Mutta voi raskaita ja imettavaisia niina paivina! Silla suuri vaiva pitaa maan paalla oleman ja viha taman kansan paalla.	
 
-24. Ja heidan pitaa lankeeman miekan teraan, ja he viedaan vangiksi kaikkinaisen kansan sekaan. Ja Jerusalem pitaa tallattaman pakanoilta, siihen asti kuin pakanain aika taytetaan.	
+<div class="versenum">24.</div> Ja heidan pitaa lankeeman miekan teraan, ja he viedaan vangiksi kaikkinaisen kansan sekaan. Ja Jerusalem pitaa tallattaman pakanoilta, siihen asti kuin pakanain aika taytetaan.	
 
-25. Ja merkit pitaa oleman auringossa ja kuussa ja tahdissa, ja maassa kansalla ahdistus epailyksen tahden. Ja meri ja aallot pitaa pauhaaman.	
+<div class="versenum">25.</div> Ja merkit pitaa oleman auringossa ja kuussa ja tahdissa, ja maassa kansalla ahdistus epailyksen tahden. Ja meri ja aallot pitaa pauhaaman.	
 
-26. Ja ihmiset maassa pitaa naantyman pelvon ja odottamisen tahden niita, mitka maan piirin paalle tulevat; silla taivaan voimat pitaa liikutettaman.	
+<div class="versenum">26.</div> Ja ihmiset maassa pitaa naantyman pelvon ja odottamisen tahden niita, mitka maan piirin paalle tulevat; silla taivaan voimat pitaa liikutettaman.	
 
-27. Ja silloin heidan pitaa nakeman Ihmisen Pojan tulevan pilvissa suurella voimalla ja kunnialla.	
+<div class="versenum">27.</div> Ja silloin heidan pitaa nakeman Ihmisen Pojan tulevan pilvissa suurella voimalla ja kunnialla.	
 
-28. Mutta kuin namat rupeevat tapahtumaan, niin katsokaat, ja nostakaat paanne ylos; silla teidan lunastuksenne silloin lahestyy.	
+<div class="versenum">28.</div> Mutta kuin namat rupeevat tapahtumaan, niin katsokaat, ja nostakaat paanne ylos; silla teidan lunastuksenne silloin lahestyy.	
 
-29. Ja han sanoi heille vertauksen: katsokaat fikunapuuta ja kaikkia puita.	
+<div class="versenum">29.</div> Ja han sanoi heille vertauksen: katsokaat fikunapuuta ja kaikkia puita.	
 
-30. Kuin ne jo puhkeevat, niin te naette ja itse teistanne ymmarratte, etta suvi on jo lasna.	
+<div class="versenum">30.</div> Kuin ne jo puhkeevat, niin te naette ja itse teistanne ymmarratte, etta suvi on jo lasna.	
 
-31. Niin myos te, kuin te naette namat tapahtuvan, tietakaat, etta Jumalan valtakunta on lasna.	
+<div class="versenum">31.</div> Niin myos te, kuin te naette namat tapahtuvan, tietakaat, etta Jumalan valtakunta on lasna.	
 
-32. Totisesti mina sanon teille: ei taman sukukunnan pida suinkaan hukkuman, siihenasti kuin namat kaikki tapahtuvat.	
+<div class="versenum">32.</div> Totisesti mina sanon teille: ei taman sukukunnan pida suinkaan hukkuman, siihenasti kuin namat kaikki tapahtuvat.	
 
-33. Taivas ja maa on hukkuva, vaan minun sanani ei pida ikana hukkaantuman.	
+<div class="versenum">33.</div> Taivas ja maa on hukkuva, vaan minun sanani ei pida ikana hukkaantuman.	
 
-34. Mutta kavahtakaat, ettei teidan sydamenne koskaan raskauteta ylonsyomisesta ja juopumisesta ja elatuksen murheesta, ja se paiva tulee akisti teidan paallenne.	
+<div class="versenum">34.</div> Mutta kavahtakaat, ettei teidan sydamenne koskaan raskauteta ylonsyomisesta ja juopumisesta ja elatuksen murheesta, ja se paiva tulee akisti teidan paallenne.	
 
-35. Silla se tulee niinkuin paula kaikkein ylitse, jotka koko maan paalla asuvat.	
+<div class="versenum">35.</div> Silla se tulee niinkuin paula kaikkein ylitse, jotka koko maan paalla asuvat.	
 
-36. Sentahden valvokaat ja aina rukoilkaat, etta te mahdolliset olisitte kaikkia nait valttamaan, jotka pitaa tapahtuman, ja seisomaan Ihmisen Pojan edessa.	
+<div class="versenum">36.</div> Sentahden valvokaat ja aina rukoilkaat, etta te mahdolliset olisitte kaikkia nait valttamaan, jotka pitaa tapahtuman, ja seisomaan Ihmisen Pojan edessa.	
 
-37. Ja han opetti paivalla templissa, mutta yolla meni han ulos ja oli yota vuorella, joka kutsutaan Oljymaeksi.	
+<div class="versenum">37.</div> Ja han opetti paivalla templissa, mutta yolla meni han ulos ja oli yota vuorella, joka kutsutaan Oljymaeksi.	
 
-38. Ja kaikki kansa tuli varhain hanen tykonsa templiin, hanta kuulemaan.	
+<div class="versenum">38.</div> Ja kaikki kansa tuli varhain hanen tykonsa templiin, hanta kuulemaan.	
 

@@ -1,68 +1,68 @@
 Sananlaskujen 15	
 	
-1. Suloinen vastaus hillitse vihan, mutta kova sana saattaa mielen karvaaksi.	
+<div class="versenum">1.</div> Suloinen vastaus hillitse vihan, mutta kova sana saattaa mielen karvaaksi.	
 
-2. Viisasten kieli saattaa opetuksen suloiseksi, vaan tyhmain suu aina hulluuta sylkee.	
+<div class="versenum">2.</div> Viisasten kieli saattaa opetuksen suloiseksi, vaan tyhmain suu aina hulluuta sylkee.	
 
-3. Herran silmat katselevat joka paikassa, seka pahat etta hyvat.	
+<div class="versenum">3.</div> Herran silmat katselevat joka paikassa, seka pahat etta hyvat.	
 
-4. Terveellinen kieli on elaman puu: vaan valhettelevainen saattaa sydamen kivun.	
+<div class="versenum">4.</div> Terveellinen kieli on elaman puu: vaan valhettelevainen saattaa sydamen kivun.	
 
-5. Tyhma laittaa isansa kurituksen; vaan joka rangaistuksen ottaa, han tulee taitavaksi.	
+<div class="versenum">5.</div> Tyhma laittaa isansa kurituksen; vaan joka rangaistuksen ottaa, han tulee taitavaksi.	
 
-6. Vanhurskaan huoneessa on yltakylla; vaan jumalattoman saalis on havinto.	
+<div class="versenum">6.</div> Vanhurskaan huoneessa on yltakylla; vaan jumalattoman saalis on havinto.	
 
-7. Viisasten huulet jakavat neuvoa; vaan tyhmain sydan ei ole niin.	
+<div class="versenum">7.</div> Viisasten huulet jakavat neuvoa; vaan tyhmain sydan ei ole niin.	
 
-8. Jumalattoman uhri on Herralle kauhistus; vaan jumalisten rukous on hanelle otollinen.	
+<div class="versenum">8.</div> Jumalattoman uhri on Herralle kauhistus; vaan jumalisten rukous on hanelle otollinen.	
 
-9. Jumalattoman tie on Herralle kauhistus; vaan joka vanhursjautta noudattaa, on hanelle rakas.	
+<div class="versenum">9.</div> Jumalattoman tie on Herralle kauhistus; vaan joka vanhursjautta noudattaa, on hanelle rakas.	
 
-10. Kuritus on sille paha, joka hylkaa tiensa: ja joka rangaistusta vihaa, hanen pitaa kuoleman.	
+<div class="versenum">10.</div> Kuritus on sille paha, joka hylkaa tiensa: ja joka rangaistusta vihaa, hanen pitaa kuoleman.	
 
-11. Helvetti ja kadotus on Herran edessa: kunka paljon enemmin ihmisten lasten sydamet.	
+<div class="versenum">11.</div> Helvetti ja kadotus on Herran edessa: kunka paljon enemmin ihmisten lasten sydamet.	
 
-12. Ei pilkkaaja rakasta sita, joka hanta rankaisee, ja ei han mene viisasten tyko.	
+<div class="versenum">12.</div> Ei pilkkaaja rakasta sita, joka hanta rankaisee, ja ei han mene viisasten tyko.	
 
-13. Iloinen sydan tekee iloiset kasvot; vaan koska sydan on surullinen, niin rohkeus raukee.	
+<div class="versenum">13.</div> Iloinen sydan tekee iloiset kasvot; vaan koska sydan on surullinen, niin rohkeus raukee.	
 
-14. Ymmartavainen sydan etsii viisautta; vaan tyhmain suu tyhmyydella ravitaan.	
+<div class="versenum">14.</div> Ymmartavainen sydan etsii viisautta; vaan tyhmain suu tyhmyydella ravitaan.	
 
-15. Surullisella ihmisella ei ole koskaan hyvaa paivaa; vaan jolla hyva sydan on, hanella on joka paiva vieraspito.	
+<div class="versenum">15.</div> Surullisella ihmisella ei ole koskaan hyvaa paivaa; vaan jolla hyva sydan on, hanella on joka paiva vieraspito.	
 
-16. Parempi on vaha Herran pelvossa, kuin suuri tavara ilman lepoa.	
+<div class="versenum">16.</div> Parempi on vaha Herran pelvossa, kuin suuri tavara ilman lepoa.	
 
-17. Parempi on ateria kaalia rakkaudessa, kuin syotetty harka vihassa.	
+<div class="versenum">17.</div> Parempi on ateria kaalia rakkaudessa, kuin syotetty harka vihassa.	
 
-18. Vihainen mies saattaa toran matkaan; mutta karsivallinen asettaa riidan.	
+<div class="versenum">18.</div> Vihainen mies saattaa toran matkaan; mutta karsivallinen asettaa riidan.	
 
-19. Laiskan tie on orjantappurainen; vaan hurskasten tie on tasainen.	
+<div class="versenum">19.</div> Laiskan tie on orjantappurainen; vaan hurskasten tie on tasainen.	
 
-20. Viisas poika iloittaa isansa, ja hullu ihminen hapaisee aitinsa.	
+<div class="versenum">20.</div> Viisas poika iloittaa isansa, ja hullu ihminen hapaisee aitinsa.	
 
-21. Hulluulle on tyhmyys iloksi; vaan toimellinen mies pysyy oikialla tiella.	
+<div class="versenum">21.</div> Hulluulle on tyhmyys iloksi; vaan toimellinen mies pysyy oikialla tiella.	
 
-22. Aivoitus raukee ilman neuvoaa; vaan jossa monta neuvonantajaa on, se on vahva.	
+<div class="versenum">22.</div> Aivoitus raukee ilman neuvoaa; vaan jossa monta neuvonantajaa on, se on vahva.	
 
-23. Se on ihmisen ilo, etta han toimella vastata taitaa, ja aikanansa sanottu sana on otollinen.	
+<div class="versenum">23.</div> Se on ihmisen ilo, etta han toimella vastata taitaa, ja aikanansa sanottu sana on otollinen.	
 
-24. Elaman tie johdattaa viisaan ylospain, valttamaan helvettia, joka alhaalla on.	
+<div class="versenum">24.</div> Elaman tie johdattaa viisaan ylospain, valttamaan helvettia, joka alhaalla on.	
 
-25. Herra ylpeiden huoneet kukistaa, ja vahvistaa lesken rajat.	
+<div class="versenum">25.</div> Herra ylpeiden huoneet kukistaa, ja vahvistaa lesken rajat.	
 
-26. Ilkiain aivoitukset ovat Herralle kauhistukseksi; vaan toimellinen puhe on otollinen.	
+<div class="versenum">26.</div> Ilkiain aivoitukset ovat Herralle kauhistukseksi; vaan toimellinen puhe on otollinen.	
 
-27. Ahneudella voitetut kukistavat oman huoneensa; vaan joka lahjoja vihaa, saa elaa.	
+<div class="versenum">27.</div> Ahneudella voitetut kukistavat oman huoneensa; vaan joka lahjoja vihaa, saa elaa.	
 
-28. Vanhurskaan sydan ajattelee vastausta; vaan jumalattoman suu ammuntaa pahaa.	
+<div class="versenum">28.</div> Vanhurskaan sydan ajattelee vastausta; vaan jumalattoman suu ammuntaa pahaa.	
 
-29. Herra on kaukana jumalattomista; vaan han kuulee vanhurskasten rukoukset.	
+<div class="versenum">29.</div> Herra on kaukana jumalattomista; vaan han kuulee vanhurskasten rukoukset.	
 
-30. Suloinen kasvo iloittaa sydamen: hyva sanoma tekee luut lihaviksi.	
+<div class="versenum">30.</div> Suloinen kasvo iloittaa sydamen: hyva sanoma tekee luut lihaviksi.	
 
-31. Korva, joka kuulee elaman rangaistusta, on asuva viisasten seassa.	
+<div class="versenum">31.</div> Korva, joka kuulee elaman rangaistusta, on asuva viisasten seassa.	
 
-32. Joka ei itsiansa salli kurittaa, se katsoo ylon sielunsa; vaan joka rangaistusta kuulee, han tulee viisaaksi.	
+<div class="versenum">32.</div> Joka ei itsiansa salli kurittaa, se katsoo ylon sielunsa; vaan joka rangaistusta kuulee, han tulee viisaaksi.	
 
-33. Herran pelko on kuritus viisauteen, ja kunnian edella kay noyryys.	
+<div class="versenum">33.</div> Herran pelko on kuritus viisauteen, ja kunnian edella kay noyryys.	
 

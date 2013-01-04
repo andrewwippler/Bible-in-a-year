@@ -1,60 +1,60 @@
 2 Samuelin 7	
 	
-1. Ja kuin kuningas istui huoneessansa, ja Herra oli hanelle antanut levon kaikilta hanen vihollisiltansa, ymparistolla,	
+<div class="versenum">1.</div> Ja kuin kuningas istui huoneessansa, ja Herra oli hanelle antanut levon kaikilta hanen vihollisiltansa, ymparistolla,	
 
-2. Sanoi kuningas propheta Natanille: katso, mina asun sedripuisessa huoneessa, ja Jumalan arkki asuu vaatetten keskella.	
+<div class="versenum">2.</div> Sanoi kuningas propheta Natanille: katso, mina asun sedripuisessa huoneessa, ja Jumalan arkki asuu vaatetten keskella.	
 
-3. Natan sanoi kuninkaalle: mene ja tee kaikki mita sydamessas on, silla Herra on sinun kanssas.	
+<div class="versenum">3.</div> Natan sanoi kuninkaalle: mene ja tee kaikki mita sydamessas on, silla Herra on sinun kanssas.	
 
-4. Mutta tapahtui sina yona, etta Herran sana tuli Natan prophetan tyko ja sanoi:	
+<div class="versenum">4.</div> Mutta tapahtui sina yona, etta Herran sana tuli Natan prophetan tyko ja sanoi:	
 
-5. Mene ja sano palvelialleni Davidille: Nain sanoo Herra: sinako minulle huoneen rakennat asuakseni?	
+<div class="versenum">5.</div> Mene ja sano palvelialleni Davidille: Nain sanoo Herra: sinako minulle huoneen rakennat asuakseni?	
 
-6. Silla en mina ole asunut yhdessakaan huoneessa siita paivasta, jona mina Israelin lapset johdatin Egyptista, tahan paivaan asti; vaan mina olen vaeltanut majoissa ja Tabernaklissa.	
+<div class="versenum">6.</div> Silla en mina ole asunut yhdessakaan huoneessa siita paivasta, jona mina Israelin lapset johdatin Egyptista, tahan paivaan asti; vaan mina olen vaeltanut majoissa ja Tabernaklissa.	
 
-7. Kuhunka ikana mina kaikkein Israelin lasten kanssa vaelsin, olenko mina ikana puhunut jonkun kanssa Israelin suvusta, jolle mina olen kaskenyt kaita minun kansaani Israelia ja sanonut: miksi ette ole minulle rakentaneet sedripuista huonetta?	
+<div class="versenum">7.</div> Kuhunka ikana mina kaikkein Israelin lasten kanssa vaelsin, olenko mina ikana puhunut jonkun kanssa Israelin suvusta, jolle mina olen kaskenyt kaita minun kansaani Israelia ja sanonut: miksi ette ole minulle rakentaneet sedripuista huonetta?	
 
-8. Sano siis nyt palvelialleni Davidille: Nain sanoo Herra Zebaot: mina olen ottanut sinun lampurista kansani Israelin paamieheksi.	
+<div class="versenum">8.</div> Sano siis nyt palvelialleni Davidille: Nain sanoo Herra Zebaot: mina olen ottanut sinun lampurista kansani Israelin paamieheksi.	
 
-9. Ja mina olen sinun kanssas ollut, kussa ikana sina olet kaynyt, ja olen havittanyt kaikki vihollises sinun edestas, ja olen sinulle antanut suuren nimen niiden suurten nimien jalkeen kuin ovat maan paalla.	
+<div class="versenum">9.</div> Ja mina olen sinun kanssas ollut, kussa ikana sina olet kaynyt, ja olen havittanyt kaikki vihollises sinun edestas, ja olen sinulle antanut suuren nimen niiden suurten nimien jalkeen kuin ovat maan paalla.	
 
-10. Ja mina asetan Israelille minun kansalleni sian ja istutan hanen siina asumaan, ettei han enaa kulkiana olisi; ja jumalattomat ei pida hanta enaa niinkuin ennen vaivaaman.	
+<div class="versenum">10.</div> Ja mina asetan Israelille minun kansalleni sian ja istutan hanen siina asumaan, ettei han enaa kulkiana olisi; ja jumalattomat ei pida hanta enaa niinkuin ennen vaivaaman.	
 
-11. Ja siita paivasta, jona mina asetin tuomarit Israelille minun kansalleni, annoin mina sinulle levon kaikilta vihamiehiltas; ja Herra ilmoittaa sinulle, etta Herra sinulle huoneen tehda tahtoo.	
+<div class="versenum">11.</div> Ja siita paivasta, jona mina asetin tuomarit Israelille minun kansalleni, annoin mina sinulle levon kaikilta vihamiehiltas; ja Herra ilmoittaa sinulle, etta Herra sinulle huoneen tehda tahtoo.	
 
-12. Sittekuin sinun aikas on taytetty ja sina lepaat isais kanssa, heratan mina sinun siemenes sinun jalkees, joka sinun ruumiistas tuleva on: ja mina vahvistan hanen valtakuntansa.	
+<div class="versenum">12.</div> Sittekuin sinun aikas on taytetty ja sina lepaat isais kanssa, heratan mina sinun siemenes sinun jalkees, joka sinun ruumiistas tuleva on: ja mina vahvistan hanen valtakuntansa.	
 
-13. Ja han rakentaa minun nimelleni huoneen, ja mina vahvistan hanen vaItakuntansa istuimen ijankaikkisesti.	
+<div class="versenum">13.</div> Ja han rakentaa minun nimelleni huoneen, ja mina vahvistan hanen vaItakuntansa istuimen ijankaikkisesti.	
 
-14. Mina olen hanen isansa, ja han on minun poikani: kuin han vaarin tekee, rankaisen mina hanta ihmisen vitsalla ja ihmisten lasten haavoilla.	
+<div class="versenum">14.</div> Mina olen hanen isansa, ja han on minun poikani: kuin han vaarin tekee, rankaisen mina hanta ihmisen vitsalla ja ihmisten lasten haavoilla.	
 
-15. Vaan minun laupiuteni ei pida hanesta eriaman, niinkuin mina sen Saulista eroitin, jonka mina otin sinun edestas pois.	
+<div class="versenum">15.</div> Vaan minun laupiuteni ei pida hanesta eriaman, niinkuin mina sen Saulista eroitin, jonka mina otin sinun edestas pois.	
 
-16. Mutta sinun huonees ja valtakuntas on pysyva sinun edessas ijankaikkisesti, ja sinun istuimes pitaa vahva oleman ijankaikkisesti.	
+<div class="versenum">16.</div> Mutta sinun huonees ja valtakuntas on pysyva sinun edessas ijankaikkisesti, ja sinun istuimes pitaa vahva oleman ijankaikkisesti.	
 
-17. Kaikkein naiden sanain jalkeen ja kaiken taman nayn jalkeen puhui Natan Davidille.	
+<div class="versenum">17.</div> Kaikkein naiden sanain jalkeen ja kaiken taman nayn jalkeen puhui Natan Davidille.	
 
-18. Niin tuli kuningas David ja pysahtyi Herran eteen, ja sanoi: kuka olen mina, Herra, Herra, ja mika on minun huoneeni, ettas minun tahan asti saattanut olet;	
+<div class="versenum">18.</div> Niin tuli kuningas David ja pysahtyi Herran eteen, ja sanoi: kuka olen mina, Herra, Herra, ja mika on minun huoneeni, ettas minun tahan asti saattanut olet;	
 
-19. Ja olet sen viela vahaksi lukenut, Herra, Herra, mutta olet myos puhunut palvelias huoneelle kaukaisista asioista: ja tama on sen ihmisen laki, joka on Herra Jumala.	
+<div class="versenum">19.</div> Ja olet sen viela vahaksi lukenut, Herra, Herra, mutta olet myos puhunut palvelias huoneelle kaukaisista asioista: ja tama on sen ihmisen laki, joka on Herra Jumala.	
 
-20. Ja mita Davidin pitaa enaa sinun kanssas puhuman? silla sina tunnet palvelias, Herra, Herra.	
+<div class="versenum">20.</div> Ja mita Davidin pitaa enaa sinun kanssas puhuman? silla sina tunnet palvelias, Herra, Herra.	
 
-21. Sinun sanas tahden ja sydames jalkeen olet sina namat suuret asiat tehnyt, ilmoittaakses palvelialles.	
+<div class="versenum">21.</div> Sinun sanas tahden ja sydames jalkeen olet sina namat suuret asiat tehnyt, ilmoittaakses palvelialles.	
 
-22. Sentahden olet sina suuresti ylistetty, Herra Jumala! silla ei yhtaan ole sinun vertaas, ja ei ole yhtaan Jumalaa paitsi sinua, kaiken sen jalkeen, kuin me olemme korvillamme kuulleet.	
+<div class="versenum">22.</div> Sentahden olet sina suuresti ylistetty, Herra Jumala! silla ei yhtaan ole sinun vertaas, ja ei ole yhtaan Jumalaa paitsi sinua, kaiken sen jalkeen, kuin me olemme korvillamme kuulleet.	
 
-23. Ja kuka on niinkuin sinun kansas, niinkuin Israel, yksi kansa maan paalla, jota Jumala on mennyt vapahtamaan kansaksensa, ja toimittamaan itsellensa nimea ja tekemaan senkaltaisia suuria ja hirmuisia asioita sinun maallas, kansas edessa, jonka sina sinulles vapahdit Egyptista, pakanain ja heidan jumalainsa seasta.	
+<div class="versenum">23.</div> Ja kuka on niinkuin sinun kansas, niinkuin Israel, yksi kansa maan paalla, jota Jumala on mennyt vapahtamaan kansaksensa, ja toimittamaan itsellensa nimea ja tekemaan senkaltaisia suuria ja hirmuisia asioita sinun maallas, kansas edessa, jonka sina sinulles vapahdit Egyptista, pakanain ja heidan jumalainsa seasta.	
 
-24. Ja sina olet vahvistanut sinulles Israelin sinun kansakses ijankaikkisesti, ja sina Herra olet heidan Jumalaksensa tullut.	
+<div class="versenum">24.</div> Ja sina olet vahvistanut sinulles Israelin sinun kansakses ijankaikkisesti, ja sina Herra olet heidan Jumalaksensa tullut.	
 
-25. Niin vahvista siis, Herra Jumala, se sana ijankaikkisesti, jonkas palveliastas ja hanen huoneestansa puhunut olet, ja tee niin kuin puhunut olet.	
+<div class="versenum">25.</div> Niin vahvista siis, Herra Jumala, se sana ijankaikkisesti, jonkas palveliastas ja hanen huoneestansa puhunut olet, ja tee niin kuin puhunut olet.	
 
-26. Niin sinun nimes tulee suureksi iankaikkisesta, etta sanotaan: Herra Zebaot on Israelin Jumala, ja sinun palvelias Davidin huone on pysyvainen sinun edessas.	
+<div class="versenum">26.</div> Niin sinun nimes tulee suureksi iankaikkisesta, etta sanotaan: Herra Zebaot on Israelin Jumala, ja sinun palvelias Davidin huone on pysyvainen sinun edessas.	
 
-27. Silla sina Herra Zebaot Israelin Jumala olet avannut palvelias korvat, ja sanonut: mina rakennan sinulle huoneen; sentahden loysi palvelias sydamessansa, etta han taman rukouksen sinun tykonas rukoilis.	
+<div class="versenum">27.</div> Silla sina Herra Zebaot Israelin Jumala olet avannut palvelias korvat, ja sanonut: mina rakennan sinulle huoneen; sentahden loysi palvelias sydamessansa, etta han taman rukouksen sinun tykonas rukoilis.	
 
-28. Sentahden nyt Herra, Herra, sina olet Jumala, ja sinun sanas ovat totuus: sina olet taman hyvan puhunut palvelialles.	
+<div class="versenum">28.</div> Sentahden nyt Herra, Herra, sina olet Jumala, ja sinun sanas ovat totuus: sina olet taman hyvan puhunut palvelialles.	
 
-29. Niin rupee nyt siunaamaan palvelias huonetta, etta se olis ijankaikkisesti sinun edessas; silla sina Herra, Herra, olet sen puhunut, niin siunattakoon sinun siunauksellas palvelias huone ijankaikkisesti.	
+<div class="versenum">29.</div> Niin rupee nyt siunaamaan palvelias huonetta, etta se olis ijankaikkisesti sinun edessas; silla sina Herra, Herra, olet sen puhunut, niin siunattakoon sinun siunauksellas palvelias huone ijankaikkisesti.	
 

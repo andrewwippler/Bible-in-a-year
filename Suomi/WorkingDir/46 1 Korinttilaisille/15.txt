@@ -1,118 +1,118 @@
 1 Korinttilaisille 15	
 	
-1. Mutta mina teen teille tiettavaksi, rakkaat veljet, sen evankeliumin, jonka mina teille ilmoitin, jonka te myos saaneet olette, jossa te myos seisotte,	
+<div class="versenum">1.</div> Mutta mina teen teille tiettavaksi, rakkaat veljet, sen evankeliumin, jonka mina teille ilmoitin, jonka te myos saaneet olette, jossa te myos seisotte,	
 
-2. Jonka kautta te myos autuaaksi tulette, jos te sen pidatte, minka mina teille olen ilmoittanut, ellette hukkaan ole uskoneet.	
+<div class="versenum">2.</div> Jonka kautta te myos autuaaksi tulette, jos te sen pidatte, minka mina teille olen ilmoittanut, ellette hukkaan ole uskoneet.	
 
-3. Silla mina olen sen ensin teille antanut, jonka mina myos saanut olen, etta Kristus on kuollut meidan synteimme tahden, Raamattuin jalkeen,	
+<div class="versenum">3.</div> Silla mina olen sen ensin teille antanut, jonka mina myos saanut olen, etta Kristus on kuollut meidan synteimme tahden, Raamattuin jalkeen,	
 
-4. Ja etta han oli haudattu ja nousi ylos kolmantena paivana Raamattuin jalkeen,	
+<div class="versenum">4.</div> Ja etta han oli haudattu ja nousi ylos kolmantena paivana Raamattuin jalkeen,	
 
-5. Ja etta han nahtiin Kephaalta ja sitte kahdeltatoistakymmenelta.	
+<div class="versenum">5.</div> Ja etta han nahtiin Kephaalta ja sitte kahdeltatoistakymmenelta.	
 
-6. Senjalkeen han nahtiin usiammalta kuin viideltasadalta veljelta yhdella haavalla, joista monta viela elavat, mutta muutamat ovat nukkuneet.	
+<div class="versenum">6.</div> Senjalkeen han nahtiin usiammalta kuin viideltasadalta veljelta yhdella haavalla, joista monta viela elavat, mutta muutamat ovat nukkuneet.	
 
-7. Sitalahin nahtiin han Jakobilta ja sen jalkeen kaikilta apostoleilta.	
+<div class="versenum">7.</div> Sitalahin nahtiin han Jakobilta ja sen jalkeen kaikilta apostoleilta.	
 
-8. Vaan kaikkein viimein on han myos minulta nahty, niinkuin keskensyntyneelta.	
+<div class="versenum">8.</div> Vaan kaikkein viimein on han myos minulta nahty, niinkuin keskensyntyneelta.	
 
-9. Silla mina olen kaikkein huonoin apostolitten seassa enka ole kelvollinen apostoliksi kutsuttaa, etta mina olen Jumalan seurakuntaa vainonnut.	
+<div class="versenum">9.</div> Silla mina olen kaikkein huonoin apostolitten seassa enka ole kelvollinen apostoliksi kutsuttaa, etta mina olen Jumalan seurakuntaa vainonnut.	
 
-10. Mutta Jumalan armosta mina olen se, mika mina olen, ja hanen armonsa minun kohtaani ei ole tyhja ollut, vaan mina olen enemman tyota tehnyt kuin muut kaikki; mutta en kuitenkaan mina, vaan Jumalan armo, joka minussa on.	
+<div class="versenum">10.</div> Mutta Jumalan armosta mina olen se, mika mina olen, ja hanen armonsa minun kohtaani ei ole tyhja ollut, vaan mina olen enemman tyota tehnyt kuin muut kaikki; mutta en kuitenkaan mina, vaan Jumalan armo, joka minussa on.	
 
-11. Olisin siis mina eli he, nain me saarnaamme ja nain te olette myos uskoneet.	
+<div class="versenum">11.</div> Olisin siis mina eli he, nain me saarnaamme ja nain te olette myos uskoneet.	
 
-12. Mutta jos Kristus saarnataan kuolleista nousseeksi ylos; miksi siis teidan seassanne muutamat sanovat, ettei kuolleitten ylosnousemista ole?	
+<div class="versenum">12.</div> Mutta jos Kristus saarnataan kuolleista nousseeksi ylos; miksi siis teidan seassanne muutamat sanovat, ettei kuolleitten ylosnousemista ole?	
 
-13. Mutta ellei kuolleitten ylosnousemus ole, niin ei Kristuskaan noussut ylos.	
+<div class="versenum">13.</div> Mutta ellei kuolleitten ylosnousemus ole, niin ei Kristuskaan noussut ylos.	
 
-14. Mutta jollei Kristus noussut ylos, niin on meidan saarnamme turha ja teidan uskonne on myos turha,	
+<div class="versenum">14.</div> Mutta jollei Kristus noussut ylos, niin on meidan saarnamme turha ja teidan uskonne on myos turha,	
 
-15. Ja me loydetaan Jumalan vaariksi todistajiksi, etta me Jumalaa vastaan todistaneet olemme, etta han on herattanyt ylos Kristuksen, jota ei han ole herattanyt ylos, ellei kuolleet nouse ylos.	
+<div class="versenum">15.</div> Ja me loydetaan Jumalan vaariksi todistajiksi, etta me Jumalaa vastaan todistaneet olemme, etta han on herattanyt ylos Kristuksen, jota ei han ole herattanyt ylos, ellei kuolleet nouse ylos.	
 
-16. Silla jollei kuolleet nouse ylos, eipa Kristuskaan noussut ole.	
+<div class="versenum">16.</div> Silla jollei kuolleet nouse ylos, eipa Kristuskaan noussut ole.	
 
-17. Mutta ellei Kristus ole noussut ylos, niin on teidan uskonne turha, ja te olette viela teidan synneissanne,	
+<div class="versenum">17.</div> Mutta ellei Kristus ole noussut ylos, niin on teidan uskonne turha, ja te olette viela teidan synneissanne,	
 
-18. Niin ovat myos ne, jotka Kristuksessa nukkuneet ovat, kadotetut.	
+<div class="versenum">18.</div> Niin ovat myos ne, jotka Kristuksessa nukkuneet ovat, kadotetut.	
 
-19. Jos meilla ainoastaan tassa elamassa on toivo Kristuksen paalle, niin me olemme viheliaisemmat kaikkia muita ihmisia.	
+<div class="versenum">19.</div> Jos meilla ainoastaan tassa elamassa on toivo Kristuksen paalle, niin me olemme viheliaisemmat kaikkia muita ihmisia.	
 
-20. Mutta nyt on Kristus kuolleista noussut ylos ja on tullut uutiseksi nukkuneiden seassa.	
+<div class="versenum">20.</div> Mutta nyt on Kristus kuolleista noussut ylos ja on tullut uutiseksi nukkuneiden seassa.	
 
-21. Silla etta ihmisen kautta kuolema on, niin on myos ihmisen kautta kuolleitten ylosnousemus.	
+<div class="versenum">21.</div> Silla etta ihmisen kautta kuolema on, niin on myos ihmisen kautta kuolleitten ylosnousemus.	
 
-22. Silla niinkuin kaikki Adamissa kuolevat, niin he myos kaikki pitaa Kristuksessa elavaksi tehtaman,	
+<div class="versenum">22.</div> Silla niinkuin kaikki Adamissa kuolevat, niin he myos kaikki pitaa Kristuksessa elavaksi tehtaman,	
 
-23. Mutta kukin jarjestyksessansa: uutinen Kristus, sitte ne, jotka Kristuksen omat ovat, hanen tulemisessansa.	
+<div class="versenum">23.</div> Mutta kukin jarjestyksessansa: uutinen Kristus, sitte ne, jotka Kristuksen omat ovat, hanen tulemisessansa.	
 
-24. Sitte on loppu, koska han antaa valtakunnan Jumalan ja Isan haltuun, ja panee pois kaiken herrauden ja kaiken vallan ja voiman.	
+<div class="versenum">24.</div> Sitte on loppu, koska han antaa valtakunnan Jumalan ja Isan haltuun, ja panee pois kaiken herrauden ja kaiken vallan ja voiman.	
 
-25. Silla hanen tulee hallita, siihenasti kuin han kaikki vihollisensa panee hanen jalkainsa alle.	
+<div class="versenum">25.</div> Silla hanen tulee hallita, siihenasti kuin han kaikki vihollisensa panee hanen jalkainsa alle.	
 
-26. Viimeinen vihollinen, joka pannaan pois, on kuolema.	
+<div class="versenum">26.</div> Viimeinen vihollinen, joka pannaan pois, on kuolema.	
 
-27. Silla han on kaikki hanen jalkainsa alle heittanyt. Mutta koska han sanoo, etta kaikki hanen allensa heitetyt ovat, niin on julki, etta se on eroitettu, joka hanelle kaikki heitti alle.	
+<div class="versenum">27.</div> Silla han on kaikki hanen jalkainsa alle heittanyt. Mutta koska han sanoo, etta kaikki hanen allensa heitetyt ovat, niin on julki, etta se on eroitettu, joka hanelle kaikki heitti alle.	
 
-28. Kuin nyt kaikki hanen allensa heitetyksi tulevat, silloin myos itse Poika hanen allensa heitetaan, joka kaikki hanen allensa heitti, etta Jumala kaikki kaikessa olis.	
+<div class="versenum">28.</div> Kuin nyt kaikki hanen allensa heitetyksi tulevat, silloin myos itse Poika hanen allensa heitetaan, joka kaikki hanen allensa heitti, etta Jumala kaikki kaikessa olis.	
 
-29. Mita ne muutoin tekevat, jotka itsensa kastaa antavat kuolleitten paalle, jollei kuolleet nouse ylos? Miksi he siis antavat kuolleitten paalle itseansa kastaa?	
+<div class="versenum">29.</div> Mita ne muutoin tekevat, jotka itsensa kastaa antavat kuolleitten paalle, jollei kuolleet nouse ylos? Miksi he siis antavat kuolleitten paalle itseansa kastaa?	
 
-30. Miksi myos me joka aika vaarassa olemme?	
+<div class="versenum">30.</div> Miksi myos me joka aika vaarassa olemme?	
 
-31. Mina kuolen joka paiva meidan kerskaamisen puolesta, joka minulla on Kristuksessa Jesuksessa meidan Herrassamme.	
+<div class="versenum">31.</div> Mina kuolen joka paiva meidan kerskaamisen puolesta, joka minulla on Kristuksessa Jesuksessa meidan Herrassamme.	
 
-32. Jos mina olen ihmisten tavalla Ephesossa petoin kanssa sotinut, mita se minua auttaa, ellei kuolleet nouse ylos? Syokaamme ja juokaamme; silla huomenna me kuolemme.	
+<div class="versenum">32.</div> Jos mina olen ihmisten tavalla Ephesossa petoin kanssa sotinut, mita se minua auttaa, ellei kuolleet nouse ylos? Syokaamme ja juokaamme; silla huomenna me kuolemme.	
 
-33. Alkaat antako pettaa teitanne: pahat jaaritukset turmelevat hyvat tavat.	
+<div class="versenum">33.</div> Alkaat antako pettaa teitanne: pahat jaaritukset turmelevat hyvat tavat.	
 
-34. Heratkaat ylos hurskaasti ja alkaat syntia tehko; silla ei muutamat Jumalasta mitaan tieda. Hapiaksi mina naita teille sanon.	
+<div class="versenum">34.</div> Heratkaat ylos hurskaasti ja alkaat syntia tehko; silla ei muutamat Jumalasta mitaan tieda. Hapiaksi mina naita teille sanon.	
 
-35. Vaan joku taitais sanoa: kuinkas kuolleet nousevat? ja minkakaltaisilla ruumiilla he tulevat?	
+<div class="versenum">35.</div> Vaan joku taitais sanoa: kuinkas kuolleet nousevat? ja minkakaltaisilla ruumiilla he tulevat?	
 
-36. Sina tomppeli! Se, minka sina kylvat, ei tule elavaksi, ellei han (ensin) kuole.	
+<div class="versenum">36.</div> Sina tomppeli! Se, minka sina kylvat, ei tule elavaksi, ellei han (ensin) kuole.	
 
-37. Ja jonka sina kylvat, ei se ole se ruumis, joka tuleva on, vaan paljas jyva, nimittain nisun jyva eli joku muu.	
+<div class="versenum">37.</div> Ja jonka sina kylvat, ei se ole se ruumis, joka tuleva on, vaan paljas jyva, nimittain nisun jyva eli joku muu.	
 
-38. Mutta Jumala antaa hanelle ruumiin niinkuin han tahtoi, ja kullekin siemenelle oman ruumiinsa.	
+<div class="versenum">38.</div> Mutta Jumala antaa hanelle ruumiin niinkuin han tahtoi, ja kullekin siemenelle oman ruumiinsa.	
 
-39. Ei kaikki liha ole yhtalainen liha; vaan toinen on ihmisten liha, toinen on karjan liha, toinen on kalain, toinen on lintuin;	
+<div class="versenum">39.</div> Ei kaikki liha ole yhtalainen liha; vaan toinen on ihmisten liha, toinen on karjan liha, toinen on kalain, toinen on lintuin;	
 
-40. Ja ovat taivaalliset ruumiit ja maalliset ruumiit; mutta toinen kirkkaus on taivaallisilla ja toinen maallisilla.	
+<div class="versenum">40.</div> Ja ovat taivaalliset ruumiit ja maalliset ruumiit; mutta toinen kirkkaus on taivaallisilla ja toinen maallisilla.	
 
-41. Toinen kirkkaus on auringolla ja toinen kirkkaus kuulla, ja toinen kirkkaus tahdilla; silla yksi tahti voittaa toisen kirkkaudessa.	
+<div class="versenum">41.</div> Toinen kirkkaus on auringolla ja toinen kirkkaus kuulla, ja toinen kirkkaus tahdilla; silla yksi tahti voittaa toisen kirkkaudessa.	
 
-42. Niin myos kuolleitten ylosnousemus: se kylvetaan turmeluksessa ja nousee ylos turmelematoin,	
+<div class="versenum">42.</div> Niin myos kuolleitten ylosnousemus: se kylvetaan turmeluksessa ja nousee ylos turmelematoin,	
 
-43. Se kylvetaan huonona ja nousee ylos kunniassa, se kylvetaan heikkoudessa ja nousee ylos vakevyydessa,	
+<div class="versenum">43.</div> Se kylvetaan huonona ja nousee ylos kunniassa, se kylvetaan heikkoudessa ja nousee ylos vakevyydessa,	
 
-44. Se kylvetaan luonnollinen ruumis ja nousee hengellinen ruumis. Meilla on luonnollinen ruumis, on myos hengellinen ruumis.	
+<div class="versenum">44.</div> Se kylvetaan luonnollinen ruumis ja nousee hengellinen ruumis. Meilla on luonnollinen ruumis, on myos hengellinen ruumis.	
 
-45. Niinkuin myos kirjoitettu on: ensimainen ihminen Adam on tehty elavaksi sieluksi, ja viimeinen Adam elavaksi tekevaiseksi hengeksi.	
+<div class="versenum">45.</div> Niinkuin myos kirjoitettu on: ensimainen ihminen Adam on tehty elavaksi sieluksi, ja viimeinen Adam elavaksi tekevaiseksi hengeksi.	
 
-46. Mutta hengellinen ei ole ensimainen, vaan luonnollinen, senjalkeen hengellinen.	
+<div class="versenum">46.</div> Mutta hengellinen ei ole ensimainen, vaan luonnollinen, senjalkeen hengellinen.	
 
-47. Ensimainen ihminen on maasta ja maallinen, toinen ihminen on itse Herra taivaasta.	
+<div class="versenum">47.</div> Ensimainen ihminen on maasta ja maallinen, toinen ihminen on itse Herra taivaasta.	
 
-48. Minkakaltainen maallinen on, senkaltaiset ovat myos maalliset, ja minkakaltainen taivaallinen on, senkaltaiset ovat myos taivaalliset.	
+<div class="versenum">48.</div> Minkakaltainen maallinen on, senkaltaiset ovat myos maalliset, ja minkakaltainen taivaallinen on, senkaltaiset ovat myos taivaalliset.	
 
-49. Ja niinkuin me olemme kantaneet maallisen kuvaa, niin pitaa myos meidan kantaman taivaallisen kuvaa.	
+<div class="versenum">49.</div> Ja niinkuin me olemme kantaneet maallisen kuvaa, niin pitaa myos meidan kantaman taivaallisen kuvaa.	
 
-50. Mutta mina sanon, rakkaat veljet, ei liha ja veri taida Jumalan valtakuntaa peria, ja ei turmeltu pida turmelematointa periman.	
+<div class="versenum">50.</div> Mutta mina sanon, rakkaat veljet, ei liha ja veri taida Jumalan valtakuntaa peria, ja ei turmeltu pida turmelematointa periman.	
 
-51. Katso, mina sanon teille salaisuuden: emme tosin kaikki nuku, vaan kaikki me muutetaan,	
+<div class="versenum">51.</div> Katso, mina sanon teille salaisuuden: emme tosin kaikki nuku, vaan kaikki me muutetaan,	
 
-52. Ajan rahdussa, silmanrapayksessa, viimeisella basunalla; silla basuna soi, ja kuolleet pitaa turmelematoinna nouseman ylos ja me tulemme muutetuksi.	
+<div class="versenum">52.</div> Ajan rahdussa, silmanrapayksessa, viimeisella basunalla; silla basuna soi, ja kuolleet pitaa turmelematoinna nouseman ylos ja me tulemme muutetuksi.	
 
-53. Silla tama katoova pitaa pukeman paallensa katoomattomuuden ja kuoleva pukee paallensa kuolemattomuuden.	
+<div class="versenum">53.</div> Silla tama katoova pitaa pukeman paallensa katoomattomuuden ja kuoleva pukee paallensa kuolemattomuuden.	
 
-54. Mutta koska katoova pukee paallensa katoomattomuuden ja kuoleva pukee paallensa kuolemattomuuden, silloin taytetaan se sana, joka kirjoitettu on: kuolema on nielty voitossa.	
+<div class="versenum">54.</div> Mutta koska katoova pukee paallensa katoomattomuuden ja kuoleva pukee paallensa kuolemattomuuden, silloin taytetaan se sana, joka kirjoitettu on: kuolema on nielty voitossa.	
 
-55. Kuolema, kussa on sinun otas? Helvetti, kussa on sinun voittos?	
+<div class="versenum">55.</div> Kuolema, kussa on sinun otas? Helvetti, kussa on sinun voittos?	
 
-56. Mutta kuoleman ota on synti ja synnin voima on laki.	
+<div class="versenum">56.</div> Mutta kuoleman ota on synti ja synnin voima on laki.	
 
-57. Mutta kiitos olkoon Jumalan, joka meille voiton antanut on meidan Herran Jesuksen Kristuksen kautta!	
+<div class="versenum">57.</div> Mutta kiitos olkoon Jumalan, joka meille voiton antanut on meidan Herran Jesuksen Kristuksen kautta!	
 
-58. Sentahden, minun rakkaat veljeni, olkaat vahvat, jarkahtymatta ja aina yltakyllaiset Herran toissa, tietaen, ettei teidan tyonne ole turha Herrassa.	
+<div class="versenum">58.</div> Sentahden, minun rakkaat veljeni, olkaat vahvat, jarkahtymatta ja aina yltakyllaiset Herran toissa, tietaen, ettei teidan tyonne ole turha Herrassa.	
 

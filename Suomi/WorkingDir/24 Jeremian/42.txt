@@ -1,46 +1,46 @@
 Jeremian 42	
 	
-1. Silloin astuivat kaikki sodanpaamiehet edes, Johanan Karean poika, Jesanja Hosajan poika, ja kaikki kansa seka pienet etta suuret,	
+<div class="versenum">1.</div> Silloin astuivat kaikki sodanpaamiehet edes, Johanan Karean poika, Jesanja Hosajan poika, ja kaikki kansa seka pienet etta suuret,	
 
-2. Ja sanoivat propheta Jeremialle: annas meidan rukouksemme tulla kuulluksi sinun edessas, ja rukoile meidan edestamme Herraa Jumalaas kaikista naista jatetyista; silla meita on harvat monesta jaaneet, niinkuin sina itse meidat naet silmillas:	
+<div class="versenum">2.</div> Ja sanoivat propheta Jeremialle: annas meidan rukouksemme tulla kuulluksi sinun edessas, ja rukoile meidan edestamme Herraa Jumalaas kaikista naista jatetyista; silla meita on harvat monesta jaaneet, niinkuin sina itse meidat naet silmillas:	
 
-3. Etta Herra sinun Jumalas tahtois ilmoittaa meille, kuhunka meidan vaeltaman ja mita meidan tekeman pitaa.	
+<div class="versenum">3.</div> Etta Herra sinun Jumalas tahtois ilmoittaa meille, kuhunka meidan vaeltaman ja mita meidan tekeman pitaa.	
 
-4. Ja propheta Jeremia sanoi heille: mina tahdon kuulla teita: katso, mina tahdon rukoilla Herraa teidan Jumalaanne, niinkuin te olette sanoneet, ja kaiken, mita Herra teille vastaa, sen mina tahdon teille ilmoittaa, enka tahdo mitaan teilta salata.	
+<div class="versenum">4.</div> Ja propheta Jeremia sanoi heille: mina tahdon kuulla teita: katso, mina tahdon rukoilla Herraa teidan Jumalaanne, niinkuin te olette sanoneet, ja kaiken, mita Herra teille vastaa, sen mina tahdon teille ilmoittaa, enka tahdo mitaan teilta salata.	
 
-5. Ja he sanoivat Jeremialle: Herra olkoon vahva ja totinen todistaja meidan vaiheellamme, jollemme me tee kaikkia, mita Herra sinun Jumalas on meita kaskeva.	
+<div class="versenum">5.</div> Ja he sanoivat Jeremialle: Herra olkoon vahva ja totinen todistaja meidan vaiheellamme, jollemme me tee kaikkia, mita Herra sinun Jumalas on meita kaskeva.	
 
-6. Olkoon hyva eli paha, niin me tahdomme olla kuuliaiset Herran Jumalamme aanelle, jonka tyko me sinun lahetamme, etta meille menestyis, koska me Herran meidan Jumalamme aanelle olemme kuuliaiset.	
+<div class="versenum">6.</div> Olkoon hyva eli paha, niin me tahdomme olla kuuliaiset Herran Jumalamme aanelle, jonka tyko me sinun lahetamme, etta meille menestyis, koska me Herran meidan Jumalamme aanelle olemme kuuliaiset.	
 
-7. Kymmenen paivan perasta tapahtui Herran sana Jeremialle.	
+<div class="versenum">7.</div> Kymmenen paivan perasta tapahtui Herran sana Jeremialle.	
 
-8. Silloin kutsui han Johanan Karean pojan, ja kaikki sodanpaamiehet, jotka hanen kanssansa olivat, ja kaiken kansan seka pienet etta suuret,	
+<div class="versenum">8.</div> Silloin kutsui han Johanan Karean pojan, ja kaikki sodanpaamiehet, jotka hanen kanssansa olivat, ja kaiken kansan seka pienet etta suuret,	
 
-9. Ja sanoi heille: nain sanoo Herra Israelin Jumala, jonka tyko te olette minun lahettaneet, etta mina teidan rukouksenne kantaisin hanen eteensa:	
+<div class="versenum">9.</div> Ja sanoi heille: nain sanoo Herra Israelin Jumala, jonka tyko te olette minun lahettaneet, etta mina teidan rukouksenne kantaisin hanen eteensa:	
 
-10. Jos te pysytte tassa maassa, niin mina tahdon rakentaa teita ja en kukistaa: mina tahdon istuttaa teita ja en repia ylos; silla mina kadun sita pahaa, jonka mina teille tehnyt olen.	
+<div class="versenum">10.</div> Jos te pysytte tassa maassa, niin mina tahdon rakentaa teita ja en kukistaa: mina tahdon istuttaa teita ja en repia ylos; silla mina kadun sita pahaa, jonka mina teille tehnyt olen.	
 
-11. Te saatte olla kylla Babelin kuninkaalta rauhassa, jota te pelkaatte; ei teidan pida hanta pelkaaman, sanoo Herra; silla mina tahdon olla teidan tykonanne, niin etta mina autan ja vapahdan teita hanen kadestansa.	
+<div class="versenum">11.</div> Te saatte olla kylla Babelin kuninkaalta rauhassa, jota te pelkaatte; ei teidan pida hanta pelkaaman, sanoo Herra; silla mina tahdon olla teidan tykonanne, niin etta mina autan ja vapahdan teita hanen kadestansa.	
 
-12. Mina tahdon osoittaa teille laupiuden, ja armahtaa teita, ja vien teita taas teidan maallenne.	
+<div class="versenum">12.</div> Mina tahdon osoittaa teille laupiuden, ja armahtaa teita, ja vien teita taas teidan maallenne.	
 
-13. Mutta jos te sanotte: emme tahdo asua tassa maassa, ettette olisi kuuliaiset Herran teidan Jumalanne aanelle,	
+<div class="versenum">13.</div> Mutta jos te sanotte: emme tahdo asua tassa maassa, ettette olisi kuuliaiset Herran teidan Jumalanne aanelle,	
 
-14. Sanoen: emme suinkaan, vaan me tahdomme menna Egyptin maalle, ettemme kapinaa nakisi, emmeka kuulisi basunan aanta, eli karsisi nalkaa leivan puuttumisen tahden: siella me tahdomme olla;	
+<div class="versenum">14.</div> Sanoen: emme suinkaan, vaan me tahdomme menna Egyptin maalle, ettemme kapinaa nakisi, emmeka kuulisi basunan aanta, eli karsisi nalkaa leivan puuttumisen tahden: siella me tahdomme olla;	
 
-15. Kuulkaa siis nyt Herran sanaa, te jaaneet Juudasta, nain sanoo Herra Zebaot, Israelin Jumala: jos te panette teidan kasvonne menemaan Egyptiin, niin etta te tahdotte siella olla:	
+<div class="versenum">15.</div> Kuulkaa siis nyt Herran sanaa, te jaaneet Juudasta, nain sanoo Herra Zebaot, Israelin Jumala: jos te panette teidan kasvonne menemaan Egyptiin, niin etta te tahdotte siella olla:	
 
-16. Niin miekan, jota te pelkaatte, pitaa sattuman teihin Egyptin maalla, ja nalan, jota te pelkaatte, pitaa teita siella noudattaman Egyptissa, ja teidan pitaa siella kuoleman.	
+<div class="versenum">16.</div> Niin miekan, jota te pelkaatte, pitaa sattuman teihin Egyptin maalla, ja nalan, jota te pelkaatte, pitaa teita siella noudattaman Egyptissa, ja teidan pitaa siella kuoleman.	
 
-17. Silla olkoon kutka tahansa, jotka kasvonsa sinne asettavat, mennaksensa Egyptiin olemaan siella, heidan pitaa kuoleman miekkaan, nalkaan ja ruttoon; ja ei pida kenenkaan jaaman eli paaseman siita pahasta jonka mina annan tulla heidan paallensa.	
+<div class="versenum">17.</div> Silla olkoon kutka tahansa, jotka kasvonsa sinne asettavat, mennaksensa Egyptiin olemaan siella, heidan pitaa kuoleman miekkaan, nalkaan ja ruttoon; ja ei pida kenenkaan jaaman eli paaseman siita pahasta jonka mina annan tulla heidan paallensa.	
 
-18. Silla nain sanoo Herra Zebaot, Israelin Jumala; niinkuin minun vihani ja julmuuteni on tullut Jerusalemin asuvaisten paalle, niin pitaa minun vihani myos tuleman teidan paallenne, jos te menette Egyptiin, etta teidan pitaa tuleman kiroukseksi, ihmeeksi, sadatukseksi ja hapiaksi, ja ei pida teidan ikana enaan tata paikkaa saaman nahda.	
+<div class="versenum">18.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala; niinkuin minun vihani ja julmuuteni on tullut Jerusalemin asuvaisten paalle, niin pitaa minun vihani myos tuleman teidan paallenne, jos te menette Egyptiin, etta teidan pitaa tuleman kiroukseksi, ihmeeksi, sadatukseksi ja hapiaksi, ja ei pida teidan ikana enaan tata paikkaa saaman nahda.	
 
-19. Herran sana tulee teihin, te jaaneet Juudasta, ettette menisi Egyptiin; sentahden se taydellisesti tietakaat, etta mina tanapana todistan teille.	
+<div class="versenum">19.</div> Herran sana tulee teihin, te jaaneet Juudasta, ettette menisi Egyptiin; sentahden se taydellisesti tietakaat, etta mina tanapana todistan teille.	
 
-20. Silla te teette pahoin teidan sielullenne, etta te lahetitte minun Herran teidan Jumalanne tyko, ja sanoitte: rukoile Herraa meidan Jumalaamme meidan edestamme, ja kaikki, mita Herra meidan Jumalamme on sanova, niin ilmoita meille, ja me tahdomme sen jalkeen tehda.	
+<div class="versenum">20.</div> Silla te teette pahoin teidan sielullenne, etta te lahetitte minun Herran teidan Jumalanne tyko, ja sanoitte: rukoile Herraa meidan Jumalaamme meidan edestamme, ja kaikki, mita Herra meidan Jumalamme on sanova, niin ilmoita meille, ja me tahdomme sen jalkeen tehda.	
 
-21. Sen mina olen tanapana teidan tietaa antanut; mutta ette ole tahtoneet kuulla Herran teidan Jumalanne aanta, eli kaikkia, mita Han minun kauttani on teille kaskenyt.	
+<div class="versenum">21.</div> Sen mina olen tanapana teidan tietaa antanut; mutta ette ole tahtoneet kuulla Herran teidan Jumalanne aanta, eli kaikkia, mita Han minun kauttani on teille kaskenyt.	
 
-22. Niin teidan pitaa nyt taydellisesti tietaman, etta teidan pitaa miekkaan, nalkaan ja ruttoon kuoleman siina paikassa, kuhunka te aiotte menna asumaan.	
+<div class="versenum">22.</div> Niin teidan pitaa nyt taydellisesti tietaman, etta teidan pitaa miekkaan, nalkaan ja ruttoon kuoleman siina paikassa, kuhunka te aiotte menna asumaan.	
 

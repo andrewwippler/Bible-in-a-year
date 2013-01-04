@@ -1,32 +1,32 @@
 1 Samuelin 21	
 	
-1. Ja David tuli Nobeen papin Ahimelekin tyko, ja Ahimelek hammastyi, kuin han tuli Davidia vastaan, ja sanoi hanelle: kuinka sina yksinas olet, ja ei yhtaan miesta ole sinun kanssas?	
+<div class="versenum">1.</div> Ja David tuli Nobeen papin Ahimelekin tyko, ja Ahimelek hammastyi, kuin han tuli Davidia vastaan, ja sanoi hanelle: kuinka sina yksinas olet, ja ei yhtaan miesta ole sinun kanssas?	
 
-2. David sanoi papille Ahimelekille: kuningas on minun kaskenyt asialle ja sanoi minulle: ala kenellekaan ilmoita, minkatahden mina olen sinun lahettanyt ja mita mina olen kaskenyt sinulle; mina olen myos lahettanyt palveliani sinne ja sinne.	
+<div class="versenum">2.</div> David sanoi papille Ahimelekille: kuningas on minun kaskenyt asialle ja sanoi minulle: ala kenellekaan ilmoita, minkatahden mina olen sinun lahettanyt ja mita mina olen kaskenyt sinulle; mina olen myos lahettanyt palveliani sinne ja sinne.	
 
-3. Jos nyt on jotakin sinun kates alla, anna minulle viisikin leipaa, taikka mitas loydat.	
+<div class="versenum">3.</div> Jos nyt on jotakin sinun kates alla, anna minulle viisikin leipaa, taikka mitas loydat.	
 
-4. Pappi vastasi Davidia ja sanoi: ei ole ensinkaan yhteisia leipia minun kateni alla, paitsi pyhaa leipaa, jos vaan muutoin palveliat ovat pitaneet heitansa vaimoista pois.	
+<div class="versenum">4.</div> Pappi vastasi Davidia ja sanoi: ei ole ensinkaan yhteisia leipia minun kateni alla, paitsi pyhaa leipaa, jos vaan muutoin palveliat ovat pitaneet heitansa vaimoista pois.	
 
-5. David vastasi pappia ja sanoi hanelle: vaimot ovat kolme paivaa olleet eroitetut meista, kuin mina laksin, ja palveliaini astiat olivat pyhat; mutta jos tama tie on saastainen, niin se pitaa tanapana pyhitettaman astiain kautta.	
+<div class="versenum">5.</div> David vastasi pappia ja sanoi hanelle: vaimot ovat kolme paivaa olleet eroitetut meista, kuin mina laksin, ja palveliaini astiat olivat pyhat; mutta jos tama tie on saastainen, niin se pitaa tanapana pyhitettaman astiain kautta.	
 
-6. Niin antoi pappi hanelle pyhaa; silla ei siella ollut muuta leipaa kuin nakyleipia, jotka olivat korjatut Herran kasvoin edesta, etta sinne pantaisiin toiset vastauutiset leivat sina paivana, jona ne korjattiin.	
+<div class="versenum">6.</div> Niin antoi pappi hanelle pyhaa; silla ei siella ollut muuta leipaa kuin nakyleipia, jotka olivat korjatut Herran kasvoin edesta, etta sinne pantaisiin toiset vastauutiset leivat sina paivana, jona ne korjattiin.	
 
-7. Mutta sinne on sina paivana yksi mies Saulin palvelioista jaanyt Herran eteen, Doeg nimelta Edomilainen, kaikkein voimallisin Saulin paimenista.	
+<div class="versenum">7.</div> Mutta sinne on sina paivana yksi mies Saulin palvelioista jaanyt Herran eteen, Doeg nimelta Edomilainen, kaikkein voimallisin Saulin paimenista.	
 
-8. Ja David sanoi Ahimelekille: eiko taalla ole sinun kates alla yhtakaan keihasta eli miekkaa? En ottanut mina myotani miekkaani taikka asettani kateeni, silla kuninkaan asia kiiruhti.	
+<div class="versenum">8.</div> Ja David sanoi Ahimelekille: eiko taalla ole sinun kates alla yhtakaan keihasta eli miekkaa? En ottanut mina myotani miekkaani taikka asettani kateeni, silla kuninkaan asia kiiruhti.	
 
-9. Mutta pappi vastasi: Philistealaisen Goljatin miekka, jonkas loit Tammilaaksossa, on taalla kaaritty yhteen hameesen paallisvaatteen taa: jos tahdot sita, niin ota; silla ei taalla ole yhtaan muuta, paitsi sita. David sanoi: ei ole sen vertaa, anna se minulle.	
+<div class="versenum">9.</div> Mutta pappi vastasi: Philistealaisen Goljatin miekka, jonkas loit Tammilaaksossa, on taalla kaaritty yhteen hameesen paallisvaatteen taa: jos tahdot sita, niin ota; silla ei taalla ole yhtaan muuta, paitsi sita. David sanoi: ei ole sen vertaa, anna se minulle.	
 
-10. Ja David nousi ja pakeni sina paivana Saulin kasvoin edesta, ja tuli Akiksen Gatin kuninkaan tyko.	
+<div class="versenum">10.</div> Ja David nousi ja pakeni sina paivana Saulin kasvoin edesta, ja tuli Akiksen Gatin kuninkaan tyko.	
 
-11. Ja Akiksen palveliat sanoivat hanelle: eiko tama ole David, maan kuningas? eiko he tasta veisanneet hypyssa, sanoen: Saul loi tuhannen, ja David kymmenentuhatta?	
+<div class="versenum">11.</div> Ja Akiksen palveliat sanoivat hanelle: eiko tama ole David, maan kuningas? eiko he tasta veisanneet hypyssa, sanoen: Saul loi tuhannen, ja David kymmenentuhatta?	
 
-12. Ja David pani ne sanat sydameensa ja pelkasi suuresti Gatin kuningasta Akista,	
+<div class="versenum">12.</div> Ja David pani ne sanat sydameensa ja pelkasi suuresti Gatin kuningasta Akista,	
 
-13. Ja muutteli menojansa heidan edessansa ja hullutteli heidan kasissansa, ja piirusteli portin ovissa, ja valutti sylkeansa parrallensa.	
+<div class="versenum">13.</div> Ja muutteli menojansa heidan edessansa ja hullutteli heidan kasissansa, ja piirusteli portin ovissa, ja valutti sylkeansa parrallensa.	
 
-14. Silloin sanoi Akis palvelioillensa: katso, te naette taman miehen olevan mielipuolen, miksi te toitte hanen minun tykoni?	
+<div class="versenum">14.</div> Silloin sanoi Akis palvelioillensa: katso, te naette taman miehen olevan mielipuolen, miksi te toitte hanen minun tykoni?	
 
-15. Puuttuneeko minulta mielipuolia, etta te taman toitte hulluttelemaan minun eteeni? pitaako hanen tuleman minun huoneeseni?	
+<div class="versenum">15.</div> Puuttuneeko minulta mielipuolia, etta te taman toitte hulluttelemaan minun eteeni? pitaako hanen tuleman minun huoneeseni?	
 

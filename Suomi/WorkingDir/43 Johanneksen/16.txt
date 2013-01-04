@@ -1,68 +1,68 @@
 Johanneksen 16	
 	
-1. Naita olen mina puhunut teille, ette pahenisi.	
+<div class="versenum">1.</div> Naita olen mina puhunut teille, ette pahenisi.	
 
-2. He panevat teita pannaan. Ja aika tulee, etta jokainen, joka teidat tappaa, se luulee tekevansa Jumalalle palveluksen.	
+<div class="versenum">2.</div> He panevat teita pannaan. Ja aika tulee, etta jokainen, joka teidat tappaa, se luulee tekevansa Jumalalle palveluksen.	
 
-3. Ja naita he tekevat teille, ettei he tunne Isaa eika minua.	
+<div class="versenum">3.</div> Ja naita he tekevat teille, ettei he tunne Isaa eika minua.	
 
-4. Vaan mina puhuin naita teille, etta kuin se aika tulee, te niista muistaisitte, etta mina teille sanonut olen; mutta en mina ole teille naita alusta sanonut, silla mina olin teidan kanssanne.	
+<div class="versenum">4.</div> Vaan mina puhuin naita teille, etta kuin se aika tulee, te niista muistaisitte, etta mina teille sanonut olen; mutta en mina ole teille naita alusta sanonut, silla mina olin teidan kanssanne.	
 
-5. Mutta nyt mina menen sen tyko, joka minun lahetti, ja ei teista minulta kenkaan kysy: kuhunkas menet?	
+<div class="versenum">5.</div> Mutta nyt mina menen sen tyko, joka minun lahetti, ja ei teista minulta kenkaan kysy: kuhunkas menet?	
 
-6. Vaan etta mina olen naita teille puhunut, niin murhe tayttaa teidan sydamenne.	
+<div class="versenum">6.</div> Vaan etta mina olen naita teille puhunut, niin murhe tayttaa teidan sydamenne.	
 
-7. Kuitenkin sanon mina teille totuuden: se on teille tarpeellinen, etta mina menen pois; silla ellen mina mene pois, niin ei Lohduttaja tule teidan tykonne; mutta jos mina menen pois, niin mina hanen teille lahetan.	
+<div class="versenum">7.</div> Kuitenkin sanon mina teille totuuden: se on teille tarpeellinen, etta mina menen pois; silla ellen mina mene pois, niin ei Lohduttaja tule teidan tykonne; mutta jos mina menen pois, niin mina hanen teille lahetan.	
 
-8. Ja kuin han tulee, niin han nuhtelee maailmaa synnin tahden, ja vanhurskauden tahden, ja tuomion tahden.	
+<div class="versenum">8.</div> Ja kuin han tulee, niin han nuhtelee maailmaa synnin tahden, ja vanhurskauden tahden, ja tuomion tahden.	
 
-9. Synnin tahden tosin, ettei he usko minun paalleni;	
+<div class="versenum">9.</div> Synnin tahden tosin, ettei he usko minun paalleni;	
 
-10. Mutta vanhurskauden tahden, etta mina menen Isani tyko, ja ettette minua silleen nae;	
+<div class="versenum">10.</div> Mutta vanhurskauden tahden, etta mina menen Isani tyko, ja ettette minua silleen nae;	
 
-11. Mutta tuomion tahden, etta taman maailman paamies on tuomittu.	
+<div class="versenum">11.</div> Mutta tuomion tahden, etta taman maailman paamies on tuomittu.	
 
-12. Minulla on viela paljo sanomista, mutta ette voi nyt kantaa.	
+<div class="versenum">12.</div> Minulla on viela paljo sanomista, mutta ette voi nyt kantaa.	
 
-13. Vaan kuin se tulee, totuuden Henki, han johdattaa teita kaikkeen totuuteen; silla ei han puhu itsestansa, vaan mita han kuulee, sita han puhuu, ja tulevaisia han teille ilmoittaa.	
+<div class="versenum">13.</div> Vaan kuin se tulee, totuuden Henki, han johdattaa teita kaikkeen totuuteen; silla ei han puhu itsestansa, vaan mita han kuulee, sita han puhuu, ja tulevaisia han teille ilmoittaa.	
 
-14. Han on minua kunnioittava; silla han ottaa minun omastani ja ilmoittaa teille.	
+<div class="versenum">14.</div> Han on minua kunnioittava; silla han ottaa minun omastani ja ilmoittaa teille.	
 
-15. Kaikki, mita Isalla on, ne ovat minun; sentahden mina sanoin, etta han ottaa minun omastani ja ilmoittaa teille.	
+<div class="versenum">15.</div> Kaikki, mita Isalla on, ne ovat minun; sentahden mina sanoin, etta han ottaa minun omastani ja ilmoittaa teille.	
 
-16. Vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta te naette minun; silla mina menen Isani tyko.	
+<div class="versenum">16.</div> Vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta te naette minun; silla mina menen Isani tyko.	
 
-17. Niin muutamat hanen opetuslapsistansa puhuivat keskenansa: mika se on, kuin han sanoo meille: vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta ja te naette minun, ja: mina menen Isan tyko?	
+<div class="versenum">17.</div> Niin muutamat hanen opetuslapsistansa puhuivat keskenansa: mika se on, kuin han sanoo meille: vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta ja te naette minun, ja: mina menen Isan tyko?	
 
-18. Niin he sanoivat: mika se on, kuin han sanoo: vahan ajan perasta? emme tieda, mita han puhuu.	
+<div class="versenum">18.</div> Niin he sanoivat: mika se on, kuin han sanoo: vahan ajan perasta? emme tieda, mita han puhuu.	
 
-19. Niin Jesus ymmarsi, etta he tahtoivat kysya hanelta, ja sanoi heille: sita te kysytte keskenanne, etta mina sanoin: vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta ja te naette minun.	
+<div class="versenum">19.</div> Niin Jesus ymmarsi, etta he tahtoivat kysya hanelta, ja sanoi heille: sita te kysytte keskenanne, etta mina sanoin: vahan ajan perasta ja ette nae minua, ja taas vahan ajan perasta ja te naette minun.	
 
-20. Totisesti, totisesti sanon mina teille: teidan pitaa itkeman ja parkuman, mutta maailma iloitsee: te tulette murheellisiksi, mutta teidan murheenne kaannetaan iloksi.	
+<div class="versenum">20.</div> Totisesti, totisesti sanon mina teille: teidan pitaa itkeman ja parkuman, mutta maailma iloitsee: te tulette murheellisiksi, mutta teidan murheenne kaannetaan iloksi.	
 
-21. Kuin vaimo synnyttaa, niin hanella on kipu, silla hanen hetkensa tuli; mutta kuin han on lapsen synnyttanyt, niin ei han enaan muista vaivaansa ilon tahden, etta ihminen on syntynyt maailmaan.	
+<div class="versenum">21.</div> Kuin vaimo synnyttaa, niin hanella on kipu, silla hanen hetkensa tuli; mutta kuin han on lapsen synnyttanyt, niin ei han enaan muista vaivaansa ilon tahden, etta ihminen on syntynyt maailmaan.	
 
-22. Niin teilla on myos nyt murhe; mutta mina tahdon teita jallensa nahda, ja teidan sydamenne on iloitseva, ja ei kenenkaan pida teidan iloanne teilta ottaman pois.	
+<div class="versenum">22.</div> Niin teilla on myos nyt murhe; mutta mina tahdon teita jallensa nahda, ja teidan sydamenne on iloitseva, ja ei kenenkaan pida teidan iloanne teilta ottaman pois.	
 
-23. Ja sina paivana ette mitaan kysy minulta. Totisesti, totisesti sanon mina teille: mita ikana te anotte Isalta minun nimeeni, niin han antaa teille.	
+<div class="versenum">23.</div> Ja sina paivana ette mitaan kysy minulta. Totisesti, totisesti sanon mina teille: mita ikana te anotte Isalta minun nimeeni, niin han antaa teille.	
 
-24. Ette ole mitaan minun nimeeni tahan asti anoneet: rukoilkaat, niin te saatte, etta teidan ilonne olis taydellinen.	
+<div class="versenum">24.</div> Ette ole mitaan minun nimeeni tahan asti anoneet: rukoilkaat, niin te saatte, etta teidan ilonne olis taydellinen.	
 
-25. Naita olen mina teille puhunut tapauksissa; mutta aika tulee, etten mina silleen puhu teille tapauksissa, vaan ilmoitan julkisesti teille minun Isastani.	
+<div class="versenum">25.</div> Naita olen mina teille puhunut tapauksissa; mutta aika tulee, etten mina silleen puhu teille tapauksissa, vaan ilmoitan julkisesti teille minun Isastani.	
 
-26. Sina paivana pitaa teidan rukoileman minun nimeeni. Ja en mina sano teille, etta mina rukoilen Isaa teidan tahtenne;	
+<div class="versenum">26.</div> Sina paivana pitaa teidan rukoileman minun nimeeni. Ja en mina sano teille, etta mina rukoilen Isaa teidan tahtenne;	
 
-27. Silla Isa rakastaa itse teita, etta te minua rakastitte ja uskoitte minun Jumalasta lahteneen.	
+<div class="versenum">27.</div> Silla Isa rakastaa itse teita, etta te minua rakastitte ja uskoitte minun Jumalasta lahteneen.	
 
-28. Mina laksin Isasta ja tulin maailmaan: taas mina jatan maailman ja menen Isan tyko.	
+<div class="versenum">28.</div> Mina laksin Isasta ja tulin maailmaan: taas mina jatan maailman ja menen Isan tyko.	
 
-29. Sanoivat hanen opetuslapsensa hanelle: katso, nyt sina julkisesti puhut, ja et yhtaan tapausta sano.	
+<div class="versenum">29.</div> Sanoivat hanen opetuslapsensa hanelle: katso, nyt sina julkisesti puhut, ja et yhtaan tapausta sano.	
 
-30. Nyt me tiedamme sinun kaikki tietavan, ja et sina tarvitse, etta joku sinulta kysyy, sentahden me uskomme sinun Jumalasta lahteneen.	
+<div class="versenum">30.</div> Nyt me tiedamme sinun kaikki tietavan, ja et sina tarvitse, etta joku sinulta kysyy, sentahden me uskomme sinun Jumalasta lahteneen.	
 
-31. Jesus vastasi heita: nyt te uskotte.	
+<div class="versenum">31.</div> Jesus vastasi heita: nyt te uskotte.	
 
-32. Katso, aika tulee, ja nyt tuli, etta te jokainen hajoitetaan omillensa, ja minun te yksinani jatatte. En mina kuitenkaan yksinani ole, silla Isa on minun kanssani.	
+<div class="versenum">32.</div> Katso, aika tulee, ja nyt tuli, etta te jokainen hajoitetaan omillensa, ja minun te yksinani jatatte. En mina kuitenkaan yksinani ole, silla Isa on minun kanssani.	
 
-33. Naita olen mina teille puhunut, etta teilla minussa rauha olis. Maailmassa on teilla tuska; mutta olkaat hyvassa turvassa, mina voitin maailman.	
+<div class="versenum">33.</div> Naita olen mina teille puhunut, etta teilla minussa rauha olis. Maailmassa on teilla tuska; mutta olkaat hyvassa turvassa, mina voitin maailman.	
 

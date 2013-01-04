@@ -1,40 +1,40 @@
 2 Samuelin 10	
 	
-1. Sitte tapahtui, etta Ammonin lasten kuningas kuoli, ja hanen poikansa Hanun hallitsi hanen siassansa.	
+<div class="versenum">1.</div> Sitte tapahtui, etta Ammonin lasten kuningas kuoli, ja hanen poikansa Hanun hallitsi hanen siassansa.	
 
-2. Niin sanoi David: mina teen laupiuden Hanunin, Nahaksen pojan kanssa, niinkuin hanen isansa teki laupiuden minun kanssani; ja lahetti palveliansa lohduttamaan hanta hanen isansa tahden. Kuin Davidin palvelijat tulivat Ammonin lasten maahan,	
+<div class="versenum">2.</div> Niin sanoi David: mina teen laupiuden Hanunin, Nahaksen pojan kanssa, niinkuin hanen isansa teki laupiuden minun kanssani; ja lahetti palveliansa lohduttamaan hanta hanen isansa tahden. Kuin Davidin palvelijat tulivat Ammonin lasten maahan,	
 
-3. Niin sanoivat Ammonin lasten ylimmaiset herrallensa Hanunille: luuletkos Davidin kunnioittavan sinun isaas sinun silmais edessa, etta han on lahettanyt lohduttajat sinun tykos? Etkos luule hanen lahettaneen palvelioitansa kaupunkia tutkistelemaan ja vakoomaan ja havittamaan?	
+<div class="versenum">3.</div> Niin sanoivat Ammonin lasten ylimmaiset herrallensa Hanunille: luuletkos Davidin kunnioittavan sinun isaas sinun silmais edessa, etta han on lahettanyt lohduttajat sinun tykos? Etkos luule hanen lahettaneen palvelioitansa kaupunkia tutkistelemaan ja vakoomaan ja havittamaan?	
 
-4. Silloin otti Hanun Davidin palveliat, ja ajeli puolen heidan partaansa, ja leikkasi puolen heidan vaatteistansa liki suolivyohon asti, ja laski heidat menemaan.	
+<div class="versenum">4.</div> Silloin otti Hanun Davidin palveliat, ja ajeli puolen heidan partaansa, ja leikkasi puolen heidan vaatteistansa liki suolivyohon asti, ja laski heidat menemaan.	
 
-5. Kuin se Davidille ilmoitettiin, lahetti han heita vastaan, silla miehet olivat suuresti pilkatut; ja kuningas antoi heille sanottaa: olkaat Jerihossa siihen asti, kuin teidan partanne kasvaa, ja sitte tulkaat jalleen.	
+<div class="versenum">5.</div> Kuin se Davidille ilmoitettiin, lahetti han heita vastaan, silla miehet olivat suuresti pilkatut; ja kuningas antoi heille sanottaa: olkaat Jerihossa siihen asti, kuin teidan partanne kasvaa, ja sitte tulkaat jalleen.	
 
-6. Kuin Ammonin lapset nakivat itsensa haisevan Davidin edessa, lahettivat he ja palkkasivat Syrialaiset Rehobin huoneesta ja Zobasta, kaksikymmenta tuhatta jalkmiesta, ja kuningas Maakalta tuhannen miesta, ja Istobilta kaksitoista kymmenta tuhatta miesta.	
+<div class="versenum">6.</div> Kuin Ammonin lapset nakivat itsensa haisevan Davidin edessa, lahettivat he ja palkkasivat Syrialaiset Rehobin huoneesta ja Zobasta, kaksikymmenta tuhatta jalkmiesta, ja kuningas Maakalta tuhannen miesta, ja Istobilta kaksitoista kymmenta tuhatta miesta.	
 
-7. Kuin David sen kuuli, lahetti han Joabin koko urhoollisen sotajoukon kanssa.	
+<div class="versenum">7.</div> Kuin David sen kuuli, lahetti han Joabin koko urhoollisen sotajoukon kanssa.	
 
-8. Ja Ammonin lapset laksivat ja saasivat sodan kaupungin portin eteen. Mutta Syrialaiset Zobasta, Rehobista, Istobista ja Maakasta olivat erinansa kedolla.	
+<div class="versenum">8.</div> Ja Ammonin lapset laksivat ja saasivat sodan kaupungin portin eteen. Mutta Syrialaiset Zobasta, Rehobista, Istobista ja Maakasta olivat erinansa kedolla.	
 
-9. Kuin Joab naki sodan asetetuksi vastaansa edesta ja takaa, valitsi han kaikista Israelin parhaista miehista, ja asetti itsensa Syrialaisia vastaan,	
+<div class="versenum">9.</div> Kuin Joab naki sodan asetetuksi vastaansa edesta ja takaa, valitsi han kaikista Israelin parhaista miehista, ja asetti itsensa Syrialaisia vastaan,	
 
-10. Ja muun vaen antoi han veljensa Abisain kaden alle, joka asetti itsensa Ammonin lapsia vastaan.	
+<div class="versenum">10.</div> Ja muun vaen antoi han veljensa Abisain kaden alle, joka asetti itsensa Ammonin lapsia vastaan.	
 
-11. Ja han sanoi: jos Syrialaiset tulevat minua voimallisemmaksi, niin tule minun avukseni; jos Ammonin lapset joutuvat sinua voimallisemmaksi, niin mina tulen sinun apuus.	
+<div class="versenum">11.</div> Ja han sanoi: jos Syrialaiset tulevat minua voimallisemmaksi, niin tule minun avukseni; jos Ammonin lapset joutuvat sinua voimallisemmaksi, niin mina tulen sinun apuus.	
 
-12. Ole miehuullinen, ja olkaamme vahvat meidan kansamme edesta ja meidan Jumalamme kaupunkein edesta; mutta Herra tehkoon niinkuin hanelle kelvollinen on.	
+<div class="versenum">12.</div> Ole miehuullinen, ja olkaamme vahvat meidan kansamme edesta ja meidan Jumalamme kaupunkein edesta; mutta Herra tehkoon niinkuin hanelle kelvollinen on.	
 
-13. Ja Joab laksi matkaan ja se vaki joka hanen kanssansa oli, sotimaan Syrialaisia vastaan; ja he pakenivat hanen edestansa.	
+<div class="versenum">13.</div> Ja Joab laksi matkaan ja se vaki joka hanen kanssansa oli, sotimaan Syrialaisia vastaan; ja he pakenivat hanen edestansa.	
 
-14. Ja kuin Ammonin lapset nakivat Syrialaiset pakenevan, pakenivat he myos Abisain edesta ja menivat kaupunkiin. Niin palasi Joab Ammonin lasten tykoa ja tuli Jerusalemiin.	
+<div class="versenum">14.</div> Ja kuin Ammonin lapset nakivat Syrialaiset pakenevan, pakenivat he myos Abisain edesta ja menivat kaupunkiin. Niin palasi Joab Ammonin lasten tykoa ja tuli Jerusalemiin.	
 
-15. Ja kuin Syrialaiset nakivat itsensa Israelilta lyodyksi, kokoontuivat he yhteen.	
+<div class="versenum">15.</div> Ja kuin Syrialaiset nakivat itsensa Israelilta lyodyksi, kokoontuivat he yhteen.	
 
-16. Ja HadadEser lahetti ja tuotti Syrialaiset toiselle puolelle veden, ja he tulivat Helamiin; ja Sobak, HadadEserin sodanpaamies meni heidan edellansa.	
+<div class="versenum">16.</div> Ja HadadEser lahetti ja tuotti Syrialaiset toiselle puolelle veden, ja he tulivat Helamiin; ja Sobak, HadadEserin sodanpaamies meni heidan edellansa.	
 
-17. Kuin se Davidille ilmoitettiin, kokosi han kaiken Israelin, ja meni Jordanin ylitse, ja tuli Helamiin; ja Syrialaiset asettivat itsensa Davidia vastaan sotimaan hanen kanssansa.	
+<div class="versenum">17.</div> Kuin se Davidille ilmoitettiin, kokosi han kaiken Israelin, ja meni Jordanin ylitse, ja tuli Helamiin; ja Syrialaiset asettivat itsensa Davidia vastaan sotimaan hanen kanssansa.	
 
-18. Mutta Syrialaiset pakenivat Israelin edesta, ja David loi heista seitsemansataa vaunua ja neljakymmenta tuhatta ratsasmiesta, loi myos Sobakin sodanpaamiehen, etta han siina kuoli.	
+<div class="versenum">18.</div> Mutta Syrialaiset pakenivat Israelin edesta, ja David loi heista seitsemansataa vaunua ja neljakymmenta tuhatta ratsasmiesta, loi myos Sobakin sodanpaamiehen, etta han siina kuoli.	
 
-19. Kuin kaikki ne kuninkaat, jotka olivat HadadEserin alla, nakivat itsensa lyodyksi Israelilta, tekivat he Israelin kanssa rauhan, ja olivat heille alamaiset; ja Syrialaiset ei uskaltaneet Ammonin lapsia enaa auttaa.	
+<div class="versenum">19.</div> Kuin kaikki ne kuninkaat, jotka olivat HadadEserin alla, nakivat itsensa lyodyksi Israelilta, tekivat he Israelin kanssa rauhan, ja olivat heille alamaiset; ja Syrialaiset ei uskaltaneet Ammonin lapsia enaa auttaa.	
 

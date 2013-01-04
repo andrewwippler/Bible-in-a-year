@@ -1,32 +1,32 @@
 Sakarjan 6	
 	
-1. Ja mina taas nostin silmani ja nain: ja katso, siella olivat neljat rattaat, jotka lahtivat kahden vuoren valista; ja ne vuoret olivat vaskiset vuoret.	
+<div class="versenum">1.</div> Ja mina taas nostin silmani ja nain: ja katso, siella olivat neljat rattaat, jotka lahtivat kahden vuoren valista; ja ne vuoret olivat vaskiset vuoret.	
 
-2. Ensimaisten ratasten edessa olivat ruskiat orhiit, ja toisten ratasten edessa mustat orhiit;	
+<div class="versenum">2.</div> Ensimaisten ratasten edessa olivat ruskiat orhiit, ja toisten ratasten edessa mustat orhiit;	
 
-3. Mutta kolmanten ratasten edessa valkiat orhiit, ja neljanten ratasten edessa kirjavat, vakevat orhiit.	
+<div class="versenum">3.</div> Mutta kolmanten ratasten edessa valkiat orhiit, ja neljanten ratasten edessa kirjavat, vakevat orhiit.	
 
-4. Ja mina vastasin ja sanoin enkelille, joka minun kanssani puhui: minun herrani, mita namat ovat?	
+<div class="versenum">4.</div> Ja mina vastasin ja sanoin enkelille, joka minun kanssani puhui: minun herrani, mita namat ovat?	
 
-5. Ja enkeli vastasi ja sanoi minulle: ne ovat nelja tuulta taivaan alla, jotka tulevat ulos, astumaan kaiken maan hallitsian eteen.	
+<div class="versenum">5.</div> Ja enkeli vastasi ja sanoi minulle: ne ovat nelja tuulta taivaan alla, jotka tulevat ulos, astumaan kaiken maan hallitsian eteen.	
 
-6. Jossa ne mustat orhiit, ne menivat pohjaa pain, ja valkiat noudattivat niita; mutta kirjavat menivat etelaa pain.	
+<div class="versenum">6.</div> Jossa ne mustat orhiit, ne menivat pohjaa pain, ja valkiat noudattivat niita; mutta kirjavat menivat etelaa pain.	
 
-7. Ja ne vakevat laksivat ja menivat ymparinsa, niin etta he kaikki maat vaelsivat. Ja han sanoi: menkaat ja vaeltakaat maata ympari; ja he vaelsivat maan lavitse.	
+<div class="versenum">7.</div> Ja ne vakevat laksivat ja menivat ymparinsa, niin etta he kaikki maat vaelsivat. Ja han sanoi: menkaat ja vaeltakaat maata ympari; ja he vaelsivat maan lavitse.	
 
-8. Ja han kutsui minua, puhutteli minua ja sanoi: katso, ne jotka pohjaan menevat, antavat minun henkeni levata pohjan maalla.	
+<div class="versenum">8.</div> Ja han kutsui minua, puhutteli minua ja sanoi: katso, ne jotka pohjaan menevat, antavat minun henkeni levata pohjan maalla.	
 
-9. Ja Herran sana tapahtui minulle ja sanoi:	
+<div class="versenum">9.</div> Ja Herran sana tapahtui minulle ja sanoi:	
 
-10. Ota vangeilta, Heldailta ja Tobialta ja Jedajalta, ja tule jalleen sina paivana, ja mene Josian Zephanjan pojan huoneeseen, jotka Babelista tulleet ovat.	
+<div class="versenum">10.</div> Ota vangeilta, Heldailta ja Tobialta ja Jedajalta, ja tule jalleen sina paivana, ja mene Josian Zephanjan pojan huoneeseen, jotka Babelista tulleet ovat.	
 
-11. Mutta ota hopiaa ja kultaa, ja tee kruunuja, ja pane Josuan Jotsadakin pojan, ylimmaisen papin paahan,	
+<div class="versenum">11.</div> Mutta ota hopiaa ja kultaa, ja tee kruunuja, ja pane Josuan Jotsadakin pojan, ylimmaisen papin paahan,	
 
-12. Ja sano hanelle: nain sanoo Herra Zebaot: katso, yksi mies on, jonka nimi on Vesa; silla hanen allansa pitaa kasvaman, ja han on rakentava Herran templin.	
+<div class="versenum">12.</div> Ja sano hanelle: nain sanoo Herra Zebaot: katso, yksi mies on, jonka nimi on Vesa; silla hanen allansa pitaa kasvaman, ja han on rakentava Herran templin.	
 
-13. Ja Herran templin on han rakentava, ja hanen pitaa kunnian kantaman, istuman ja hallitseman istuimellansa, ja oleman papin istuimellansa, ja heilla pitaa molemmilla rauha oleman.	
+<div class="versenum">13.</div> Ja Herran templin on han rakentava, ja hanen pitaa kunnian kantaman, istuman ja hallitseman istuimellansa, ja oleman papin istuimellansa, ja heilla pitaa molemmilla rauha oleman.	
 
-14. Ja ne kruunut pitaa oleman Helemin, Tobian, Jedajan ja Henin, Zephanjan pojan, muistoksi Herran templissa.	
+<div class="versenum">14.</div> Ja ne kruunut pitaa oleman Helemin, Tobian, Jedajan ja Henin, Zephanjan pojan, muistoksi Herran templissa.	
 
-15. Heidan pitaa kaukaa tuleman ja rakentaman Herran templin, ja teidan pitaa ymmartaman Herran Zebaotin lahettaneen minun teidan tykonne. Tama pitaa tapahtuman, jos te muutoin Herran teidan Jumalanne aanelle hyvin kuuliaiset olette.	
+<div class="versenum">15.</div> Heidan pitaa kaukaa tuleman ja rakentaman Herran templin, ja teidan pitaa ymmartaman Herran Zebaotin lahettaneen minun teidan tykonne. Tama pitaa tapahtuman, jos te muutoin Herran teidan Jumalanne aanelle hyvin kuuliaiset olette.	
 

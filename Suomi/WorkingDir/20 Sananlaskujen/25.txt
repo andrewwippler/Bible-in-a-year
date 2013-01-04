@@ -1,58 +1,58 @@
 Sananlaskujen 25	
 	
-1. Namat ovat myos Salomon sananlaskut, jotka Hiskian ja Juudan kuninkaan miehet ovat tahan panneet tyko.	
+<div class="versenum">1.</div> Namat ovat myos Salomon sananlaskut, jotka Hiskian ja Juudan kuninkaan miehet ovat tahan panneet tyko.	
 
-2. Se on Jumalan kunnia, salata asiaa; mutta kuninkaan kunnia, tutkia asiaa.	
+<div class="versenum">2.</div> Se on Jumalan kunnia, salata asiaa; mutta kuninkaan kunnia, tutkia asiaa.	
 
-3. Taivas on korkia ja maa syva, ja kuninkaan sydan on tutkimatoin.	
+<div class="versenum">3.</div> Taivas on korkia ja maa syva, ja kuninkaan sydan on tutkimatoin.	
 
-4. Raiska otetaan hopiasta pois, niin siita tulee puhdas astia.	
+<div class="versenum">4.</div> Raiska otetaan hopiasta pois, niin siita tulee puhdas astia.	
 
-5. Jos jumalatoin otetaan pois kuninkaan kasvoin edesta, niin hanen istuimensa vanhurskaudella vahvistetaan.	
+<div class="versenum">5.</div> Jos jumalatoin otetaan pois kuninkaan kasvoin edesta, niin hanen istuimensa vanhurskaudella vahvistetaan.	
 
-6. Ala koreile kuninkaan nahden, ja ala astu suurten sialle.	
+<div class="versenum">6.</div> Ala koreile kuninkaan nahden, ja ala astu suurten sialle.	
 
-7. Silla se on sinulle parempi, koska sinulle sanotaan: astu tanne ylemma! kuin ettas ruhtinaan edessa alennettaisiin, jota sinun silmas nakisivat.	
+<div class="versenum">7.</div> Silla se on sinulle parempi, koska sinulle sanotaan: astu tanne ylemma! kuin ettas ruhtinaan edessa alennettaisiin, jota sinun silmas nakisivat.	
 
-8. Ala ole pikainen riitelemaan, ettes tieda mitas teet, koska lahimmaiseltas havaisty olet?	
+<div class="versenum">8.</div> Ala ole pikainen riitelemaan, ettes tieda mitas teet, koska lahimmaiseltas havaisty olet?	
 
-9. Toimita asias lahimmmaises kanssa, ala ilmoita toisen salaisuutta,	
+<div class="versenum">9.</div> Toimita asias lahimmmaises kanssa, ala ilmoita toisen salaisuutta,	
 
-10. Ettei se, joka sen kuulee, sinua hapaisisi, ja ettei sinun paha sanomas lakkaa.	
+<div class="versenum">10.</div> Ettei se, joka sen kuulee, sinua hapaisisi, ja ettei sinun paha sanomas lakkaa.	
 
-11. Sana, aikanansa puhuttu, on niinkuin kultainen omena hopiamaljassa.	
+<div class="versenum">11.</div> Sana, aikanansa puhuttu, on niinkuin kultainen omena hopiamaljassa.	
 
-12. Koska viisas rankaisee sita, jaka hanta kuulee, se on niinkuin korvarengas, ja niinkuin kaunistus parhaasta kullasta.	
+<div class="versenum">12.</div> Koska viisas rankaisee sita, jaka hanta kuulee, se on niinkuin korvarengas, ja niinkuin kaunistus parhaasta kullasta.	
 
-13. Niinkuin lumen kylma elonaikana, niin on uskollinen sanansaattaja sille, joka hanen lahettanyt on, ja virvoittaa herransa sielun.	
+<div class="versenum">13.</div> Niinkuin lumen kylma elonaikana, niin on uskollinen sanansaattaja sille, joka hanen lahettanyt on, ja virvoittaa herransa sielun.	
 
-14. Joka paljon puhuu ja vahan pitaa, han on niinkuin tuuli ja pilvi ilman sadetta.	
+<div class="versenum">14.</div> Joka paljon puhuu ja vahan pitaa, han on niinkuin tuuli ja pilvi ilman sadetta.	
 
-15. Karsivallisyydella paamies lepytetaan, ja sivia kieli pehmittaa kovuuden.	
+<div class="versenum">15.</div> Karsivallisyydella paamies lepytetaan, ja sivia kieli pehmittaa kovuuden.	
 
-16. Jos sina loydat hunajaa, niin syo tarpeekses, ettes ylonpalttisesti tulisi ravituksi, ja antaisi sita ylen.	
+<div class="versenum">16.</div> Jos sina loydat hunajaa, niin syo tarpeekses, ettes ylonpalttisesti tulisi ravituksi, ja antaisi sita ylen.	
 
-17. Anna jalkas harvoin tulla lahimmaises huoneeseen, ettei han suuttuis sinuun, ja vihaisi sinua.	
+<div class="versenum">17.</div> Anna jalkas harvoin tulla lahimmaises huoneeseen, ettei han suuttuis sinuun, ja vihaisi sinua.	
 
-18. Joka vaaraa todistusta puhuu lahimmaistansa vastaan, han on vasara, miekka ja terava nuoli.	
+<div class="versenum">18.</div> Joka vaaraa todistusta puhuu lahimmaistansa vastaan, han on vasara, miekka ja terava nuoli.	
 
-19. Pilkkaajan toivo hadan aikana on niinkuin murrettu hammas, ja vilpistelevainen jalka.	
+<div class="versenum">19.</div> Pilkkaajan toivo hadan aikana on niinkuin murrettu hammas, ja vilpistelevainen jalka.	
 
-20. Joka murheellisen sydamen edessa virsia veisaa, han on niinkuin se, joka vaatten tempaa pois talvella, ja etikka pleikun paalla.	
+<div class="versenum">20.</div> Joka murheellisen sydamen edessa virsia veisaa, han on niinkuin se, joka vaatten tempaa pois talvella, ja etikka pleikun paalla.	
 
-21. Jos sinun vihamiehes isoo, niin ravitse hanta leivalla: jos han janoo, niin juota hanta vedella;	
+<div class="versenum">21.</div> Jos sinun vihamiehes isoo, niin ravitse hanta leivalla: jos han janoo, niin juota hanta vedella;	
 
-22. Silla sina kokoot hiilet hanen paansa paalle, ja Herra kostaa sen sinulle.	
+<div class="versenum">22.</div> Silla sina kokoot hiilet hanen paansa paalle, ja Herra kostaa sen sinulle.	
 
-23. Pohjatuuli tuottaa sateen, ja salainen kieli saattaa kasvot vihaisiksi.	
+<div class="versenum">23.</div> Pohjatuuli tuottaa sateen, ja salainen kieli saattaa kasvot vihaisiksi.	
 
-24. Parempi on istus katon kulmalla, kuin riitaisen vaimon kanssa yhdessa huoneessa.	
+<div class="versenum">24.</div> Parempi on istus katon kulmalla, kuin riitaisen vaimon kanssa yhdessa huoneessa.	
 
-25. Hyva sanoma kaukaiselta maalta on kylman veden kaltainen janoovaiselle sielulle.	
+<div class="versenum">25.</div> Hyva sanoma kaukaiselta maalta on kylman veden kaltainen janoovaiselle sielulle.	
 
-26. Vanhurskas, joka jumalattoman eteen lankee, on niinkuin sekoitettu kaivo ja turmeltu lahde.	
+<div class="versenum">26.</div> Vanhurskas, joka jumalattoman eteen lankee, on niinkuin sekoitettu kaivo ja turmeltu lahde.	
 
-27. Joka paljon hunajaa syo, ei se ole hyva, ja joka tyotlaita asioita tutkii, se tulee hanelle tyolaaksi.	
+<div class="versenum">27.</div> Joka paljon hunajaa syo, ei se ole hyva, ja joka tyotlaita asioita tutkii, se tulee hanelle tyolaaksi.	
 
-28. Joka ei taida hillita henkeansa, han on niinkuin havitetty kaupunki ilman muuria.	
+<div class="versenum">28.</div> Joka ei taida hillita henkeansa, han on niinkuin havitetty kaupunki ilman muuria.	
 

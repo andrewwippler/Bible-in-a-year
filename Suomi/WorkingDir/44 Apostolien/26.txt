@@ -1,66 +1,66 @@
 Apostolien 26	
 	
-1. Niin Agrippa sanoi Paavalille: sinun on lupa puhua edestas. Silloin Paavali ojensi katensa ja vastasi edestansa:	
+<div class="versenum">1.</div> Niin Agrippa sanoi Paavalille: sinun on lupa puhua edestas. Silloin Paavali ojensi katensa ja vastasi edestansa:	
 
-2. Mina pidan itseni onnellisena, rakas kuningas Agrippa, etta mina tanapana saan sinun edessas vastata kaikista niista, mita minun paalleni Juudalaisilta kannetaan,	
+<div class="versenum">2.</div> Mina pidan itseni onnellisena, rakas kuningas Agrippa, etta mina tanapana saan sinun edessas vastata kaikista niista, mita minun paalleni Juudalaisilta kannetaan,	
 
-3. Liiatenkin etta sina tiedat kaikki tavat ja Juudalaisten kysymykset: sentahden rukoilen mina sinua, etta karsivallisesti minua kuulisit.	
+<div class="versenum">3.</div> Liiatenkin etta sina tiedat kaikki tavat ja Juudalaisten kysymykset: sentahden rukoilen mina sinua, etta karsivallisesti minua kuulisit.	
 
-4. Kaikki tosin Juudalaiset tietavat minun elamani hamasta nuoruudesta, kuin se alusta on ollut minun kansani seassa Jerusalemissa:	
+<div class="versenum">4.</div> Kaikki tosin Juudalaiset tietavat minun elamani hamasta nuoruudesta, kuin se alusta on ollut minun kansani seassa Jerusalemissa:	
 
-5. Jotka minun ennen ovat tunteneet, (jos he tahtoisivat todistaa,) etta mina meidan jumalanpalveluksen kaikkein ahkerimman eriseuran jalkeen olin Pharisealainen.	
+<div class="versenum">5.</div> Jotka minun ennen ovat tunteneet, (jos he tahtoisivat todistaa,) etta mina meidan jumalanpalveluksen kaikkein ahkerimman eriseuran jalkeen olin Pharisealainen.	
 
-6. Ja mina seison nyt tassa oikeuden edessa toivon tahden sen lupauksen paalle, joka Jumalalta on meidan isillemme tapahtunut:	
+<div class="versenum">6.</div> Ja mina seison nyt tassa oikeuden edessa toivon tahden sen lupauksen paalle, joka Jumalalta on meidan isillemme tapahtunut:	
 
-7. Johonka meidan kaksitoistakymmenta sukukuntaa toivovat tulevansa, palvellen Jumalaa yota ja paivaa. Taman toivon tahden kannetaan Juudalaisilta minun paalleni, rakas kuningas Agrippa.	
+<div class="versenum">7.</div> Johonka meidan kaksitoistakymmenta sukukuntaa toivovat tulevansa, palvellen Jumalaa yota ja paivaa. Taman toivon tahden kannetaan Juudalaisilta minun paalleni, rakas kuningas Agrippa.	
 
-8. Miksi se luotaan mahdottomaksi uskoa teidan tykonanne, etta Jumala kuolleet herattaa?	
+<div class="versenum">8.</div> Miksi se luotaan mahdottomaksi uskoa teidan tykonanne, etta Jumala kuolleet herattaa?	
 
-9. Mina tosin luulin itsellani, etta minun piti paljo vastahakoisuutta tekeman Jesuksen Natsarealaisen nimea vastaan,	
+<div class="versenum">9.</div> Mina tosin luulin itsellani, etta minun piti paljo vastahakoisuutta tekeman Jesuksen Natsarealaisen nimea vastaan,	
 
-10. Niinkuin mina myos tein Jerusalemissa, ja salpasin monta pyhaa vankihuoneisiin, kuin mina ylimmaisilta papeilta olin saanut vallan; ja kuin he tapettiin, mielistyin mina heidan tuomioonsa,	
+<div class="versenum">10.</div> Niinkuin mina myos tein Jerusalemissa, ja salpasin monta pyhaa vankihuoneisiin, kuin mina ylimmaisilta papeilta olin saanut vallan; ja kuin he tapettiin, mielistyin mina heidan tuomioonsa,	
 
-11. Ja rankaisin heita usein jokaisessa synagogassa, ja vaadin heita pilkkaamaan, ja olin heita vastaan ylonpalttisesti vimmattu, ja vainosin heita hamaan ulkokaupunkeihin.	
+<div class="versenum">11.</div> Ja rankaisin heita usein jokaisessa synagogassa, ja vaadin heita pilkkaamaan, ja olin heita vastaan ylonpalttisesti vimmattu, ja vainosin heita hamaan ulkokaupunkeihin.	
 
-12. Jonka tahden mina myos matkustin Damaskuun ylimmaisten pappein voimalla ja kaskylla.	
+<div class="versenum">12.</div> Jonka tahden mina myos matkustin Damaskuun ylimmaisten pappein voimalla ja kaskylla.	
 
-13. Puolipaivan aikaan, rakas kuningas, nain mina tiella yhden kirkkauden taivaasta, kirkkaamman kuin auringon paisteen, joka valkeus ympari valaisi minun ja ne, jotka minun kanssani vaelsivat.	
+<div class="versenum">13.</div> Puolipaivan aikaan, rakas kuningas, nain mina tiella yhden kirkkauden taivaasta, kirkkaamman kuin auringon paisteen, joka valkeus ympari valaisi minun ja ne, jotka minun kanssani vaelsivat.	
 
-14. Kuin me siis kaikki maahan lankesimme, kuulin mina aanen puhuvan minulleni ja sanovan Hebrean kielella: Saul, Saul, miksis minua vainoot? tyolas on sinun tutkainta vastaan potkia.	
+<div class="versenum">14.</div> Kuin me siis kaikki maahan lankesimme, kuulin mina aanen puhuvan minulleni ja sanovan Hebrean kielella: Saul, Saul, miksis minua vainoot? tyolas on sinun tutkainta vastaan potkia.	
 
-15. Niin mina sanoin: Herra, kukas olet? Han sanoi: mina olen Jesus, jota sina vainoot.	
+<div class="versenum">15.</div> Niin mina sanoin: Herra, kukas olet? Han sanoi: mina olen Jesus, jota sina vainoot.	
 
-16. Mutta nouse ylos ja seiso jaloillas: silla sita varten mina sinulle ilmestyin, etta mina asetan sinun palveliaksi ja niiden todistajaksi, joita sina nait, niin myos niiden, joita mina viela sinulle ilmoittava olen.	
+<div class="versenum">16.</div> Mutta nouse ylos ja seiso jaloillas: silla sita varten mina sinulle ilmestyin, etta mina asetan sinun palveliaksi ja niiden todistajaksi, joita sina nait, niin myos niiden, joita mina viela sinulle ilmoittava olen.	
 
-17. Ja tahdon sinun paastaa tasta kansasta ja pakanoista, joiden tyko mina nyt sinun lahetan,	
+<div class="versenum">17.</div> Ja tahdon sinun paastaa tasta kansasta ja pakanoista, joiden tyko mina nyt sinun lahetan,	
 
-18. Heidan silmiansa avaamaan ja heita pimeydesta valkeuteen kaantamaan, etta he eriaisivat saatanan vallasta Jumalan tyko, saamaan syntein anteeksiantamista ja perimista ynna niiden kanssa, jotka pyhitetaan uskon kautta minun paalleni.	
+<div class="versenum">18.</div> Heidan silmiansa avaamaan ja heita pimeydesta valkeuteen kaantamaan, etta he eriaisivat saatanan vallasta Jumalan tyko, saamaan syntein anteeksiantamista ja perimista ynna niiden kanssa, jotka pyhitetaan uskon kautta minun paalleni.	
 
-19. Niin siis, rakas kuningas Agrippa! en mina ollut taivaalliselle naylle kovakorvainen,	
+<div class="versenum">19.</div> Niin siis, rakas kuningas Agrippa! en mina ollut taivaalliselle naylle kovakorvainen,	
 
-20. Vaan ilmoitin ensin niille, jotka Damaskussa ja Jerusalemissa ovat ja kaikessa Juudan maakunnassa, ja myos pakanoille, etta he parannuksen tekisivat, ja kaantyisivat Jumalan puoleen, ja tekisivat parannuksen kelvollisia toita.	
+<div class="versenum">20.</div> Vaan ilmoitin ensin niille, jotka Damaskussa ja Jerusalemissa ovat ja kaikessa Juudan maakunnassa, ja myos pakanoille, etta he parannuksen tekisivat, ja kaantyisivat Jumalan puoleen, ja tekisivat parannuksen kelvollisia toita.	
 
-21. Taman tahden ovat Juudalaiset minun templissa ottaneet kiinni ja tahtoivat minun surmata.	
+<div class="versenum">21.</div> Taman tahden ovat Juudalaiset minun templissa ottaneet kiinni ja tahtoivat minun surmata.	
 
-22. Mutta Jumalan avun olen mina saanut ja seisonut tahan paivaan asti, todistaen seka pienille etta suurille, enka mitaan muuta sanoen kuin mita prophetat ja Moses ovat sanoneet tulevaksi:	
+<div class="versenum">22.</div> Mutta Jumalan avun olen mina saanut ja seisonut tahan paivaan asti, todistaen seka pienille etta suurille, enka mitaan muuta sanoen kuin mita prophetat ja Moses ovat sanoneet tulevaksi:	
 
-23. Etta Kristuksen piti karsiman ja oleman ensimaisen kuolleiden ylosnousemisesta julistamassa valkeutta talle kansalle ja pakanoille.	
+<div class="versenum">23.</div> Etta Kristuksen piti karsiman ja oleman ensimaisen kuolleiden ylosnousemisesta julistamassa valkeutta talle kansalle ja pakanoille.	
 
-24. Kuin han nain edestansa vastasi, sanoi Festus suurella aanella: Paavali, sina hulluttelet, suuri oppi hulluttaa sinua.	
+<div class="versenum">24.</div> Kuin han nain edestansa vastasi, sanoi Festus suurella aanella: Paavali, sina hulluttelet, suuri oppi hulluttaa sinua.	
 
-25. Niin han sanoi: en mina hulluttele, voimallinen Festus, vaan totuuden ja toimen sanoja puhun.	
+<div class="versenum">25.</div> Niin han sanoi: en mina hulluttele, voimallinen Festus, vaan totuuden ja toimen sanoja puhun.	
 
-26. Silla kylla kuningas namat tietaa, jonka tykona mina myos rohkiasti puhun, ja en mina luule naista mitaan olevan hanelta salatun: silla ei tama ole loukkaassa tapahtunut.	
+<div class="versenum">26.</div> Silla kylla kuningas namat tietaa, jonka tykona mina myos rohkiasti puhun, ja en mina luule naista mitaan olevan hanelta salatun: silla ei tama ole loukkaassa tapahtunut.	
 
-27. Uskotkos, kuningas Agrippa, prophetat? mina tiedan, ettas uskot.	
+<div class="versenum">27.</div> Uskotkos, kuningas Agrippa, prophetat? mina tiedan, ettas uskot.	
 
-28. Niin Agrippa sanoi Paavalille: ei paljo puutu, ettes minua saa kristityksi.	
+<div class="versenum">28.</div> Niin Agrippa sanoi Paavalille: ei paljo puutu, ettes minua saa kristityksi.	
 
-29. Paavali sanoi: mina toivoisin Jumalalta, joko siita puuttuis vaha eli paljo, etta et ainoasti sina, mutta myos kaikki, jotka minua tanapana kuulevat, tulisivat senkaltaiseksi kuin minakin olen, paitsi naita siteita.	
+<div class="versenum">29.</div> Paavali sanoi: mina toivoisin Jumalalta, joko siita puuttuis vaha eli paljo, etta et ainoasti sina, mutta myos kaikki, jotka minua tanapana kuulevat, tulisivat senkaltaiseksi kuin minakin olen, paitsi naita siteita.	
 
-30. Ja kuin han namat sanonut oli, nousi kuningas ylos, ja maanvanhin, ja Bernise, ja jotka heidan kanssansa istuneet olivat.	
+<div class="versenum">30.</div> Ja kuin han namat sanonut oli, nousi kuningas ylos, ja maanvanhin, ja Bernise, ja jotka heidan kanssansa istuneet olivat.	
 
-31. Ja kuin he menivat pois, puhuivat he keskenansa, sanoen: eipa tama mies ole mitaan tehnyt, mika kuoleman eli siteet ansainnut on.	
+<div class="versenum">31.</div> Ja kuin he menivat pois, puhuivat he keskenansa, sanoen: eipa tama mies ole mitaan tehnyt, mika kuoleman eli siteet ansainnut on.	
 
-32. Mutta Agrippa sanoi Festukselle: kylla tama mies olis taidettu paastaa, ellei han olisi keisariin turvannut.	
+<div class="versenum">32.</div> Mutta Agrippa sanoi Festukselle: kylla tama mies olis taidettu paastaa, ellei han olisi keisariin turvannut.	
 

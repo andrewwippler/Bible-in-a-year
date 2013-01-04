@@ -1,48 +1,48 @@
 2 Aikakirja 36	
 	
-1. Ja maan kansa otti Joahaksen Josian pojan, ja tekivat hanen kuninkaaksi isansa siaan Jerusalemiin.	
+<div class="versenum">1.</div> Ja maan kansa otti Joahaksen Josian pojan, ja tekivat hanen kuninkaaksi isansa siaan Jerusalemiin.	
 
-2. Kolmen vuotinen kolmattakymmenta oli Joahas tullessansa kuninkaaksi, ja hallitsi kolme kuukautta Jerusalemissa.	
+<div class="versenum">2.</div> Kolmen vuotinen kolmattakymmenta oli Joahas tullessansa kuninkaaksi, ja hallitsi kolme kuukautta Jerusalemissa.	
 
-3. Silla Egyptin kuningas pani hanen pois Jerusalemista, ja sakotti maan sataan leiviskaan hopiaa ja leiviskaan kultaa.	
+<div class="versenum">3.</div> Silla Egyptin kuningas pani hanen pois Jerusalemista, ja sakotti maan sataan leiviskaan hopiaa ja leiviskaan kultaa.	
 
-4. Ja Egyptin kuningas teki Eliakimin hanen veljensa Juudan ja Jerusalemin kuninkaaksi, ja muutti hanen nimensa Jojakimiksi. Mutta Neko otti hanen veljensa Joahaksen ja vei Egyptiin.	
+<div class="versenum">4.</div> Ja Egyptin kuningas teki Eliakimin hanen veljensa Juudan ja Jerusalemin kuninkaaksi, ja muutti hanen nimensa Jojakimiksi. Mutta Neko otti hanen veljensa Joahaksen ja vei Egyptiin.	
 
-5. Viiden vuotinen kolmattakymmenta oli Jojakim tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa, ja teki pahaa Herran Jumalansa edessa.	
+<div class="versenum">5.</div> Viiden vuotinen kolmattakymmenta oli Jojakim tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa, ja teki pahaa Herran Jumalansa edessa.	
 
-6. Ja Nebukadnetsar Babelin kuningas meni hanta vastaan, ja sitoi hanen kaksilla vaskikahleilla viedaksensa Babeliin.	
+<div class="versenum">6.</div> Ja Nebukadnetsar Babelin kuningas meni hanta vastaan, ja sitoi hanen kaksilla vaskikahleilla viedaksensa Babeliin.	
 
-7. Ja Nebukadnetsar vei muutamia Herran huoneen astioita Babeliin ja pani ne templiinsa Babelissa.	
+<div class="versenum">7.</div> Ja Nebukadnetsar vei muutamia Herran huoneen astioita Babeliin ja pani ne templiinsa Babelissa.	
 
-8. Mita muuta Jojakimista sanomista on, ja hanen kauhistuksistansa, jotka han teki ja hanessa loydetty oli: katso, ne ovat kirjoitetut Israelin ja Juudan kuningasten kirjassa. Ja hanen poikansa Jojakin tuli kuninkaaksi hanen siaansa.	
+<div class="versenum">8.</div> Mita muuta Jojakimista sanomista on, ja hanen kauhistuksistansa, jotka han teki ja hanessa loydetty oli: katso, ne ovat kirjoitetut Israelin ja Juudan kuningasten kirjassa. Ja hanen poikansa Jojakin tuli kuninkaaksi hanen siaansa.	
 
-9. Kahdeksan vuotinen oli Jojakin tullessansa kuninkaaksi, ja hallitsi kolme kuukautta ja kymmenen paivaa Jerusalemissa, ja teki pahaa Herran edessa.	
+<div class="versenum">9.</div> Kahdeksan vuotinen oli Jojakin tullessansa kuninkaaksi, ja hallitsi kolme kuukautta ja kymmenen paivaa Jerusalemissa, ja teki pahaa Herran edessa.	
 
-10. Kuin vuosi kulunut oli, lahetti Nebukadnetsar ja antoi tuoda hanen Babeliin, kallisten Herran huoneen astiain kanssa, ja teki Zidkian hanen veljensa Juudan ja Jerusalemin kuninkaaksi.	
+<div class="versenum">10.</div> Kuin vuosi kulunut oli, lahetti Nebukadnetsar ja antoi tuoda hanen Babeliin, kallisten Herran huoneen astiain kanssa, ja teki Zidkian hanen veljensa Juudan ja Jerusalemin kuninkaaksi.	
 
-11. Yhden vuotinen kolmattakymmenta oli Zidkia tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa,	
+<div class="versenum">11.</div> Yhden vuotinen kolmattakymmenta oli Zidkia tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa,	
 
-12. Ja teki pahaa Herran Jumalansa edessa ja ei noyryyttanyt itsiansa prophetan Jeremian edessa, joka puhui Herran suusta.	
+<div class="versenum">12.</div> Ja teki pahaa Herran Jumalansa edessa ja ei noyryyttanyt itsiansa prophetan Jeremian edessa, joka puhui Herran suusta.	
 
-13. Han luopui myos Nebukadnetsarista Babelin kuninkaasta, joka hanta Jumalan kautta vannottanut oli, ja tuli uppiniskaiseksi ja kovetti sydamensa, niin ettei han ollenkaan tahtonut itsiansa kaantaa Herran Israelin Jumalan tyko.	
+<div class="versenum">13.</div> Han luopui myos Nebukadnetsarista Babelin kuninkaasta, joka hanta Jumalan kautta vannottanut oli, ja tuli uppiniskaiseksi ja kovetti sydamensa, niin ettei han ollenkaan tahtonut itsiansa kaantaa Herran Israelin Jumalan tyko.	
 
-14. Ja kaikki pappein paamiehet ja kansa tekivat myos syntia suuresti kaikkinaisten pakanain kauhistusten jalkeen, ja saastuttivat Herran huoneen, jonka han oli pyhittanyt Jerusalemissa.	
+<div class="versenum">14.</div> Ja kaikki pappein paamiehet ja kansa tekivat myos syntia suuresti kaikkinaisten pakanain kauhistusten jalkeen, ja saastuttivat Herran huoneen, jonka han oli pyhittanyt Jerusalemissa.	
 
-15. Ja Herra heidan isainsa Jumala lahetti heidan tykonsa varhain ja usiasti sanansa saattajain kautta; silla han armahti kansansa ja majansa paalle.	
+<div class="versenum">15.</div> Ja Herra heidan isainsa Jumala lahetti heidan tykonsa varhain ja usiasti sanansa saattajain kautta; silla han armahti kansansa ja majansa paalle.	
 
-16. Mutta he pilkkasivat Jumalan lahetyssanoja, ja katsoivat hanen sanansa ylon, ja hapaisivat hanen prophetaitansa, siihenasti etta Herran viha kasvoi hanen kansansa paalle, niin ettei heilla enaa parannusta ollut.	
+<div class="versenum">16.</div> Mutta he pilkkasivat Jumalan lahetyssanoja, ja katsoivat hanen sanansa ylon, ja hapaisivat hanen prophetaitansa, siihenasti etta Herran viha kasvoi hanen kansansa paalle, niin ettei heilla enaa parannusta ollut.	
 
-17. Niin han saatti heidan ylitsensa Kaldealaisten kuninkaan, ja han antoi tappaa heidan nuorukaisensa miekalla heidan pyhansa huoneessa, eika armahtanut nuorukaisia eli neitseita, taikka vanhoja eli ijallisia isia; kaikki antoi han hanen kateensa.	
+<div class="versenum">17.</div> Niin han saatti heidan ylitsensa Kaldealaisten kuninkaan, ja han antoi tappaa heidan nuorukaisensa miekalla heidan pyhansa huoneessa, eika armahtanut nuorukaisia eli neitseita, taikka vanhoja eli ijallisia isia; kaikki antoi han hanen kateensa.	
 
-18. Ja kaikki Jumalan huoneen astiat, suuret ja pienet, ja Herran huoneen tavarat, kuninkaan ja hanen paamiestensa tavarat: ne kaikki vei han pois Babeliin.	
+<div class="versenum">18.</div> Ja kaikki Jumalan huoneen astiat, suuret ja pienet, ja Herran huoneen tavarat, kuninkaan ja hanen paamiestensa tavarat: ne kaikki vei han pois Babeliin.	
 
-19. Ja he polttivat Jumalan huoneen ja kukistivat Jerusalemin muurin, ja kaikki heidan koriat huoneensa poltettiin tulella, niin etta kaikki heidan kalliit kalunsa hukutettiin.	
+<div class="versenum">19.</div> Ja he polttivat Jumalan huoneen ja kukistivat Jerusalemin muurin, ja kaikki heidan koriat huoneensa poltettiin tulella, niin etta kaikki heidan kalliit kalunsa hukutettiin.	
 
-20. Ja ne, jotka olivat miekalta paasseet, vietiin Babeliin; ja he olivat hanen ja hanen poikainsa orjat, siihenasti etta Persian valtakunta hallitsi.	
+<div class="versenum">20.</div> Ja ne, jotka olivat miekalta paasseet, vietiin Babeliin; ja he olivat hanen ja hanen poikainsa orjat, siihenasti etta Persian valtakunta hallitsi.	
 
-21. Etta taytettaisiin Herran sana, puhuttu Jeremian suun kautta, ja siihenasti sai maa kylla sabbatinsa; silla koko havityksen aikana oli lepo, siihenasti kuin seitsemankymmenta ajastaikaa taytettiin.	
+<div class="versenum">21.</div> Etta taytettaisiin Herran sana, puhuttu Jeremian suun kautta, ja siihenasti sai maa kylla sabbatinsa; silla koko havityksen aikana oli lepo, siihenasti kuin seitsemankymmenta ajastaikaa taytettiin.	
 
-22. Mutta ensimaisena Persian kuninkaan Koreksen vuonna, (etta taytettaisiin Herran sana, sanottu Jeremian suun kautta), heratti Herra Koreksen Persian kuninkaan hengen, etta han antoi kuuluttaa koko valtakunnassansa, niin myos kirjoitusten kautta, ja sanoi:	
+<div class="versenum">22.</div> Mutta ensimaisena Persian kuninkaan Koreksen vuonna, (etta taytettaisiin Herran sana, sanottu Jeremian suun kautta), heratti Herra Koreksen Persian kuninkaan hengen, etta han antoi kuuluttaa koko valtakunnassansa, niin myos kirjoitusten kautta, ja sanoi:	
 
-23. Nain sanoo Kores Persian kuningas: Herra taivaan Jumala on antanut minulle kaikki valtakunnat maalla, ja on kaskenyt minun rakentaa hanellensa huoneen Jerusalemissa, joka on Juudassa. Kuka nyt on teidan seassansa kaikesta hanen kansastansa? Herra hanen Jumalansa olkoon hanen kanssansa, ja han menkoon sinne ylos!	
+<div class="versenum">23.</div> Nain sanoo Kores Persian kuningas: Herra taivaan Jumala on antanut minulle kaikki valtakunnat maalla, ja on kaskenyt minun rakentaa hanellensa huoneen Jerusalemissa, joka on Juudassa. Kuka nyt on teidan seassansa kaikesta hanen kansastansa? Herra hanen Jumalansa olkoon hanen kanssansa, ja han menkoon sinne ylos!	
 

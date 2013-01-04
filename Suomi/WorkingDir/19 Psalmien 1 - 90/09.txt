@@ -1,42 +1,42 @@
 Psalmien 9	
 	
-1. Davidin Psalmi, kauniista nuoruudesta, edellaveisaajalle. (H 9:2) Mina kiitan Herraa kaikesta sydamestani, ja luettelen kaikki sinun ihmees.	
+<div class="versenum">1.</div> Davidin Psalmi, kauniista nuoruudesta, edellaveisaajalle. (H 9:2) Mina kiitan Herraa kaikesta sydamestani, ja luettelen kaikki sinun ihmees.	
 
-2. Mina iloitsen ja riemuitsen sinussa, ja veisaan kiitosta sinun nimelles, sina kaikkein ylimmainen,	
+<div class="versenum">2.</div> Mina iloitsen ja riemuitsen sinussa, ja veisaan kiitosta sinun nimelles, sina kaikkein ylimmainen,	
 
-3. Ettas minun viholliseni olet ajanut takaperin: he lankesivat ja hukkuivat sinun etees.	
+<div class="versenum">3.</div> Ettas minun viholliseni olet ajanut takaperin: he lankesivat ja hukkuivat sinun etees.	
 
-4. Silla sina saatat minun oikeuteni ja asiani toimeen: sina istuit istuimelle, vanhurskauden tuomari.	
+<div class="versenum">4.</div> Silla sina saatat minun oikeuteni ja asiani toimeen: sina istuit istuimelle, vanhurskauden tuomari.	
 
-5. Sina nuhtelet pakanoita, ja kadotat jumalattomat: sina pyyhit heidan nimensa pois aina ja ijankaikkisesti.	
+<div class="versenum">5.</div> Sina nuhtelet pakanoita, ja kadotat jumalattomat: sina pyyhit heidan nimensa pois aina ja ijankaikkisesti.	
 
-6. Vihollisten havitykset ovat lopetetut ijaisesti, ja kaupungit sina kukistit heidan muistonsa on heidan kanssansa kadonnut.	
+<div class="versenum">6.</div> Vihollisten havitykset ovat lopetetut ijaisesti, ja kaupungit sina kukistit heidan muistonsa on heidan kanssansa kadonnut.	
 
-7. Mutta Herra pysyy ijankaikkisesti: han on valmistanut istuimensa tuomioon.	
+<div class="versenum">7.</div> Mutta Herra pysyy ijankaikkisesti: han on valmistanut istuimensa tuomioon.	
 
-8. Ja han tuomitsee maan piirin vanhurskaudessa, ja hallitsee kansat oikein.	
+<div class="versenum">8.</div> Ja han tuomitsee maan piirin vanhurskaudessa, ja hallitsee kansat oikein.	
 
-9. Ja Herra on koyhan turva: han on turva hadan aikana.	
+<div class="versenum">9.</div> Ja Herra on koyhan turva: han on turva hadan aikana.	
 
-10. Sentahden he sinuun toivovat, jotka sinun nimes tuntevat; silla et sina niita hylkaa, jotka sinua, Herra, etsivat.	
+<div class="versenum">10.</div> Sentahden he sinuun toivovat, jotka sinun nimes tuntevat; silla et sina niita hylkaa, jotka sinua, Herra, etsivat.	
 
-11. Veisatkaat Herralle, joka Zionissa asuu: julistakaat kansoissa hanen tekonsa.	
+<div class="versenum">11.</div> Veisatkaat Herralle, joka Zionissa asuu: julistakaat kansoissa hanen tekonsa.	
 
-12. Silla se joka kostaa verenvikoja, muistaa heita, eika unohda koyhain parkumista.	
+<div class="versenum">12.</div> Silla se joka kostaa verenvikoja, muistaa heita, eika unohda koyhain parkumista.	
 
-13. Herra ole minulle armollinen, katso minun ahdistustani niilta, jotka minua vihaavat, sina joka ylennat minun surman porteista;	
+<div class="versenum">13.</div> Herra ole minulle armollinen, katso minun ahdistustani niilta, jotka minua vihaavat, sina joka ylennat minun surman porteista;	
 
-14. Etta mina luettelisin kaikki sinun kiitokses Zionin tytarten porteissa, ja iloitsisin sinun avustas.	
+<div class="versenum">14.</div> Etta mina luettelisin kaikki sinun kiitokses Zionin tytarten porteissa, ja iloitsisin sinun avustas.	
 
-15. Pakanat ovat vajonneet siihen hautaan, jonka he valmistivat: heidan jalkansa on kasitetty siina verkossa, jonka he virittivat.	
+<div class="versenum">15.</div> Pakanat ovat vajonneet siihen hautaan, jonka he valmistivat: heidan jalkansa on kasitetty siina verkossa, jonka he virittivat.	
 
-16. Niin ymmarretaan Herran tekevan oikeuden, koska jumalatoin juuri omissa kattensa toissa kasitetaan; se on tutkisteltava asia, Sela!	
+<div class="versenum">16.</div> Niin ymmarretaan Herran tekevan oikeuden, koska jumalatoin juuri omissa kattensa toissa kasitetaan; se on tutkisteltava asia, Sela!	
 
-17. Jospa jumalattomat palajaisivat helvettiin, ja kaikki pakanat, jotka Jumalan unohtavat.	
+<div class="versenum">17.</div> Jospa jumalattomat palajaisivat helvettiin, ja kaikki pakanat, jotka Jumalan unohtavat.	
 
-18. Silla ei han koyhaa perati unohda, ja raadollisten toivo ei huku ijankaikkisesti.	
+<div class="versenum">18.</div> Silla ei han koyhaa perati unohda, ja raadollisten toivo ei huku ijankaikkisesti.	
 
-19. Nouse, Herra, ettei ihminen saisi valtaa: anna kaikki pakanat edessas tuomittaa.	
+<div class="versenum">19.</div> Nouse, Herra, ettei ihminen saisi valtaa: anna kaikki pakanat edessas tuomittaa.	
 
-20. Herra, anna heille opettaja, etta pakanat tuntisivat itsensa ihmisiksi, Sela!	
+<div class="versenum">20.</div> Herra, anna heille opettaja, etta pakanat tuntisivat itsensa ihmisiksi, Sela!	
 

@@ -1,180 +1,180 @@
 4 Mooseksen 7	
 	
-1. Ja tapahtui sina paivana, koska Moses oli pannut Tabernaklin ylos, voiteli han sen ja pyhitti sen, ja kaikki sen astiat, niin myos alttarin ja kaikki sen astiat: ja voiteli ne, ja pyhitti ne.	
+<div class="versenum">1.</div> Ja tapahtui sina paivana, koska Moses oli pannut Tabernaklin ylos, voiteli han sen ja pyhitti sen, ja kaikki sen astiat, niin myos alttarin ja kaikki sen astiat: ja voiteli ne, ja pyhitti ne.	
 
-2. Niin uhrasivat Israelin paamiehet, jotka ylimmaiset olivat isainsa huoneessa; silla he olivat paamiehet sukukuntain ylitse, ja seisoivat ylimmaisessa siassa heidan seassansa, jotka luetut olivat,	
+<div class="versenum">2.</div> Niin uhrasivat Israelin paamiehet, jotka ylimmaiset olivat isainsa huoneessa; silla he olivat paamiehet sukukuntain ylitse, ja seisoivat ylimmaisessa siassa heidan seassansa, jotka luetut olivat,	
 
-3. Ja toivat uhrinsa Herran eteen: kuusi peitettya vaunua ja kaksitoistakymmenta harkaa, aina vaunun kahden paamiehen edesta; mutta harjan itsekunkin edesta, ja toivat ne majan eteen.	
+<div class="versenum">3.</div> Ja toivat uhrinsa Herran eteen: kuusi peitettya vaunua ja kaksitoistakymmenta harkaa, aina vaunun kahden paamiehen edesta; mutta harjan itsekunkin edesta, ja toivat ne majan eteen.	
 
-4. Ja Herra puhui Mosekselle, sanoen:	
+<div class="versenum">4.</div> Ja Herra puhui Mosekselle, sanoen:	
 
-5. Ota heilta, etta ne palvelisivat seurakunnan majan palveluksessa ja anna ne Levilaisille, itsekullekin virkansa jalkeen.	
+<div class="versenum">5.</div> Ota heilta, etta ne palvelisivat seurakunnan majan palveluksessa ja anna ne Levilaisille, itsekullekin virkansa jalkeen.	
 
-6. Niin otti Moses vaunut ja harjat, ja antoi ne Levilaisille.	
+<div class="versenum">6.</div> Niin otti Moses vaunut ja harjat, ja antoi ne Levilaisille.	
 
-7. Kaksi vaunua ja nelja harkaa antoi han Gersonin lapsille, heidan virkansa jalkeen.	
+<div class="versenum">7.</div> Kaksi vaunua ja nelja harkaa antoi han Gersonin lapsille, heidan virkansa jalkeen.	
 
-8. Nelja vaunua ja kahdeksan harkaa antoi han Merarin lapsille, heidan virkansa jalkeen, Itamarin, papin Aaronin pojan kaden alla.	
+<div class="versenum">8.</div> Nelja vaunua ja kahdeksan harkaa antoi han Merarin lapsille, heidan virkansa jalkeen, Itamarin, papin Aaronin pojan kaden alla.	
 
-9. Mutta Kahatin lapsille ei han mitaan antanut; silla heilla oli pyhan virka, ja piti kantaman olallansa.	
+<div class="versenum">9.</div> Mutta Kahatin lapsille ei han mitaan antanut; silla heilla oli pyhan virka, ja piti kantaman olallansa.	
 
-10. Ja paamiehet uhrasivat alttarin vihkimiseksi, sina paivana koska se voideltu oli, ja uhrasivat lahjansa alttarin eteen.	
+<div class="versenum">10.</div> Ja paamiehet uhrasivat alttarin vihkimiseksi, sina paivana koska se voideltu oli, ja uhrasivat lahjansa alttarin eteen.	
 
-11. Ja Herra sanoi Mosekselle: anna jokaisen paamiehen tuoda uhrinsa, itsekunkin paivanansa alttarin vihkimiseksi.	
+<div class="versenum">11.</div> Ja Herra sanoi Mosekselle: anna jokaisen paamiehen tuoda uhrinsa, itsekunkin paivanansa alttarin vihkimiseksi.	
 
-12. Ensimaisena paivana uhrasi lahjansa Nahesson, Amminadabin poika, Juudan sukukunnasta.	
+<div class="versenum">12.</div> Ensimaisena paivana uhrasi lahjansa Nahesson, Amminadabin poika, Juudan sukukunnasta.	
 
-13. Ja hanen lahjansa oli yksi hopiavati, joka painoi sata ja kolmekymmenta siklia, yksi hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: ne molemmat taynnansa oljylla sekoitettuja sampylajauhoja, ruokauhriksi;	
+<div class="versenum">13.</div> Ja hanen lahjansa oli yksi hopiavati, joka painoi sata ja kolmekymmenta siklia, yksi hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: ne molemmat taynnansa oljylla sekoitettuja sampylajauhoja, ruokauhriksi;	
 
-14. Siihen kultainen lusikka, jossa oli kymmenen siklia kultaa, taynnansa suitsutusta,	
+<div class="versenum">14.</div> Siihen kultainen lusikka, jossa oli kymmenen siklia kultaa, taynnansa suitsutusta,	
 
-15. Yksi nuori mulli, yksi oinas, yksi vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">15.</div> Yksi nuori mulli, yksi oinas, yksi vuosikuntainen karitsa, polttouhriksi,	
 
-16. Yksi kauris syntiuhriksi,	
+<div class="versenum">16.</div> Yksi kauris syntiuhriksi,	
 
-17. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Nahessonin Amminadabin pojan lahja.	
+<div class="versenum">17.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Nahessonin Amminadabin pojan lahja.	
 
-18. Toisena paivana uhrasi Netaneel, Suarin poika, Isaskarin paamies.	
+<div class="versenum">18.</div> Toisena paivana uhrasi Netaneel, Suarin poika, Isaskarin paamies.	
 
-19. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi;	
+<div class="versenum">19.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi;	
 
-20. Siihen kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
+<div class="versenum">20.</div> Siihen kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
 
-21. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">21.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-22. Kauris syntiuhriksi,	
+<div class="versenum">22.</div> Kauris syntiuhriksi,	
 
-23. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Netaneelin Suarin pojan lahja.	
+<div class="versenum">23.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Netaneelin Suarin pojan lahja.	
 
-24. Kolmantena paivana Sebulonin lasten paamies, Eliab Helonin poika.	
+<div class="versenum">24.</div> Kolmantena paivana Sebulonin lasten paamies, Eliab Helonin poika.	
 
-25. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">25.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-26. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">26.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-27. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">27.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-28. Kauris syntiuhriksi,	
+<div class="versenum">28.</div> Kauris syntiuhriksi,	
 
-29. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Eliabin Helonin pojan lahja.	
+<div class="versenum">29.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Eliabin Helonin pojan lahja.	
 
-30. Neljantena paivana Rubenin lasten paamies, Elisur Sedeurin poika.	
+<div class="versenum">30.</div> Neljantena paivana Rubenin lasten paamies, Elisur Sedeurin poika.	
 
-31. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">31.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-32. Kultainen lusikka, joka maksoi kymmenen siklia kultaa taynnansa suitsutusta,	
+<div class="versenum">32.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa taynnansa suitsutusta,	
 
-33. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">33.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-34. Kauris syntiuhriksi,	
+<div class="versenum">34.</div> Kauris syntiuhriksi,	
 
-35. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Elisurin Sedeurin pojan lahja.	
+<div class="versenum">35.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Elisurin Sedeurin pojan lahja.	
 
-36. Viidentena paivana Simeonin lasten paamies, Selumiel SuriSaddain poika.	
+<div class="versenum">36.</div> Viidentena paivana Simeonin lasten paamies, Selumiel SuriSaddain poika.	
 
-37. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">37.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-38. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
+<div class="versenum">38.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
 
-39. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">39.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-40. Kauris syntiuhriksi,	
+<div class="versenum">40.</div> Kauris syntiuhriksi,	
 
-41. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Selumielin SuriSaddain pojan lahja.	
+<div class="versenum">41.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Selumielin SuriSaddain pojan lahja.	
 
-42. Kuudentena paivana Gadin lasten paamies, Eliasaph Deguelin poika.	
+<div class="versenum">42.</div> Kuudentena paivana Gadin lasten paamies, Eliasaph Deguelin poika.	
 
-43. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">43.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-44. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
+<div class="versenum">44.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
 
-45. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">45.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-46. Kauris syntiuhriksi,	
+<div class="versenum">46.</div> Kauris syntiuhriksi,	
 
-47. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Eliasaphin Deguelin pojan lahja.	
+<div class="versenum">47.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Eliasaphin Deguelin pojan lahja.	
 
-48. Seitsemantena paivana Ephraimin lasten paamies, Elisama Ammihudin poika.	
+<div class="versenum">48.</div> Seitsemantena paivana Ephraimin lasten paamies, Elisama Ammihudin poika.	
 
-49. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">49.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-50. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
+<div class="versenum">50.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynnansa suitsutusta,	
 
-51. Mulli karjasta, oinas, vuosikuntainen karitsa polttouhriksi,	
+<div class="versenum">51.</div> Mulli karjasta, oinas, vuosikuntainen karitsa polttouhriksi,	
 
-52. Kauris syntiuhriksi,	
+<div class="versenum">52.</div> Kauris syntiuhriksi,	
 
-53. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Elisaman Ammihudin pojan lahja.	
+<div class="versenum">53.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Elisaman Ammihudin pojan lahja.	
 
-54. Kahdeksantena paivana Manassen lasten paamies, Gamliel Pedatsurin poika.	
+<div class="versenum">54.</div> Kahdeksantena paivana Manassen lasten paamies, Gamliel Pedatsurin poika.	
 
-55. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">55.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-56. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">56.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-57. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">57.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-58. Kauris syntiuhriksi,	
+<div class="versenum">58.</div> Kauris syntiuhriksi,	
 
-59. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Gamlielin Pedatsurin pojan lahja.	
+<div class="versenum">59.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Gamlielin Pedatsurin pojan lahja.	
 
-60. Yhdeksantena paivana BenJaminin lasten paamies, Abidan Gideonin poika.	
+<div class="versenum">60.</div> Yhdeksantena paivana BenJaminin lasten paamies, Abidan Gideonin poika.	
 
-61. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">61.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-62. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">62.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-63. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">63.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-64. Kauris syntiuhriksi,	
+<div class="versenum">64.</div> Kauris syntiuhriksi,	
 
-65. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Abidan Gideonin pojan lahja.	
+<div class="versenum">65.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Abidan Gideonin pojan lahja.	
 
-66. Kymmenentena paivana Danin lasten paamies, AhiEser AmmiSaddain poika.	
+<div class="versenum">66.</div> Kymmenentena paivana Danin lasten paamies, AhiEser AmmiSaddain poika.	
 
-67. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
+<div class="versenum">67.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna sampylajauhoja, sekoitetuita oljylla, ruokauhriksi,	
 
-68. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">68.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-69. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">69.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-70. Kauris syntiuhriksi,	
+<div class="versenum">70.</div> Kauris syntiuhriksi,	
 
-71. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on AhiEserin AmmiSaddain pojan lahja.	
+<div class="versenum">71.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on AhiEserin AmmiSaddain pojan lahja.	
 
-72. Ensimaisenatoistakymmenentena paivana Asserin lasten paamies, Pagiel Okranin poika.	
+<div class="versenum">72.</div> Ensimaisenatoistakymmenentena paivana Asserin lasten paamies, Pagiel Okranin poika.	
 
-73. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna oljylla sekoitettuja sampylajauhoja, ruokauhriksi,	
+<div class="versenum">73.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna oljylla sekoitettuja sampylajauhoja, ruokauhriksi,	
 
-74. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">74.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-75. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">75.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-76. Kauris syntiuhriksi,	
+<div class="versenum">76.</div> Kauris syntiuhriksi,	
 
-77. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Pagielin Okranin pojan lahja.	
+<div class="versenum">77.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Pagielin Okranin pojan lahja.	
 
-78. Toisenatoistakymmenentena paivana Naphtalin lasten paamies, Ahira Enanin poika.	
+<div class="versenum">78.</div> Toisenatoistakymmenentena paivana Naphtalin lasten paamies, Ahira Enanin poika.	
 
-79. Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna oljylla sekoitettuja sampylajauhoja, ruokauhriksi,	
+<div class="versenum">79.</div> Hanen lahjansa oli hopiavati, joka maksoi sata ja kolmekymmenta siklia, hopiamalja, joka maksoi seitsemankymmenta siklia, pyhan siklin jalkeen: molemmat taynna oljylla sekoitettuja sampylajauhoja, ruokauhriksi,	
 
-80. Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
+<div class="versenum">80.</div> Kultainen lusikka, joka maksoi kymmenen siklia kultaa, taynna suitsutusta,	
 
-81. Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
+<div class="versenum">81.</div> Mulli karjasta, oinas, vuosikuntainen karitsa, polttouhriksi,	
 
-82. Kauris syntiuhriksi,	
+<div class="versenum">82.</div> Kauris syntiuhriksi,	
 
-83. Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Ahiran Enanin pojan lahja.	
+<div class="versenum">83.</div> Ja kiitosuhriksi kaksi harkaa, viisi oinasta, viisi kaurista, ja viisi vuosikuntaista karitsaa. Tama on Ahiran Enanin pojan lahja.	
 
-84. Tama on alttarin vihkimys sina paivana, jona se voideltiin, johonka Israelin lasten ruhtinaat uhrasivat: kaksitoistakymmenta hopiavatia, kaksitoistakymmenta hopiamaljaa, kaksitoistakymmenta kultaista lusikkaa,	
+<div class="versenum">84.</div> Tama on alttarin vihkimys sina paivana, jona se voideltiin, johonka Israelin lasten ruhtinaat uhrasivat: kaksitoistakymmenta hopiavatia, kaksitoistakymmenta hopiamaljaa, kaksitoistakymmenta kultaista lusikkaa,	
 
-85. Niin etta jokainen vati painoi sata ja kolmekymmenta siklia hopiaa, ja jokainen malja seitsemankymmenta siklia, niin etta kaikkein astiain hopian luku juoksi kaksituhatta ja neljasataa siklia, pyhan siklin jalkeen.	
+<div class="versenum">85.</div> Niin etta jokainen vati painoi sata ja kolmekymmenta siklia hopiaa, ja jokainen malja seitsemankymmenta siklia, niin etta kaikkein astiain hopian luku juoksi kaksituhatta ja neljasataa siklia, pyhan siklin jalkeen.	
 
-86. Ja ne kaksitoistakymmenta kultaista lusikkaa, jotka suitsutusta taynna olivat, jokainen painoi kymmenen siklia, pyhan siklin jalkeen, niin etta luku lusikkain kullasta juoksi sata ja kaksikymmenta siklia.	
+<div class="versenum">86.</div> Ja ne kaksitoistakymmenta kultaista lusikkaa, jotka suitsutusta taynna olivat, jokainen painoi kymmenen siklia, pyhan siklin jalkeen, niin etta luku lusikkain kullasta juoksi sata ja kaksikymmenta siklia.	
 
-87. Elainten luku polttouhriksi, kaksitoistakymmenta mullia, kaksitoistakymmenta oinasta, kaksitoistakymmenta vuosikuntaista karitsaa, ja heidan ruokauhrinsa, ja kaksitoistakymmenta kaurista syntiuhriksi.	
+<div class="versenum">87.</div> Elainten luku polttouhriksi, kaksitoistakymmenta mullia, kaksitoistakymmenta oinasta, kaksitoistakymmenta vuosikuntaista karitsaa, ja heidan ruokauhrinsa, ja kaksitoistakymmenta kaurista syntiuhriksi.	
 
-88. Ja karjan luku kiitosuhriksi oli nelja harkaa kolmattakymmenta, kuusikymmenta oinasta, kuusikymmenta kaurista, kuusikymmenta vuosikuntaista karitsaa. Tama on alttarin vihkimys koska se voideltiin.	
+<div class="versenum">88.</div> Ja karjan luku kiitosuhriksi oli nelja harkaa kolmattakymmenta, kuusikymmenta oinasta, kuusikymmenta kaurista, kuusikymmenta vuosikuntaista karitsaa. Tama on alttarin vihkimys koska se voideltiin.	
 
-89. Ja koska Moses meni seurakunnan majaan, etta hanta siella puhuteltaisiin, niin kuuli han aanen puhuvan kanssansa armoistuimelta, joka oli todistuksen arkin paalla, kahden Kerubimin vaiheella, ja sielta puhuteltiin hanta.	
+<div class="versenum">89.</div> Ja koska Moses meni seurakunnan majaan, etta hanta siella puhuteltaisiin, niin kuuli han aanen puhuvan kanssansa armoistuimelta, joka oli todistuksen arkin paalla, kahden Kerubimin vaiheella, ja sielta puhuteltiin hanta.	
 

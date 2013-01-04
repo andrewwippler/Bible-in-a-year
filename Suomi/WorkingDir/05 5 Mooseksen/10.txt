@@ -1,46 +1,46 @@
 5 Mooseksen 10	
 	
-1. Silloin sanoi Herra minulle: vuole sinulles kaksi kivista taulua entisten kaltaista, ja astu minun tykoni vuorelle, ja tee sinulles puuarkki,	
+<div class="versenum">1.</div> Silloin sanoi Herra minulle: vuole sinulles kaksi kivista taulua entisten kaltaista, ja astu minun tykoni vuorelle, ja tee sinulles puuarkki,	
 
-2. Niin mina kirjoitan niihin tauluihin ne sanat, jotka ensimaisissa tauluissa olivat, jotka sarkenyt olet: ja pane ne arkkiin.	
+<div class="versenum">2.</div> Niin mina kirjoitan niihin tauluihin ne sanat, jotka ensimaisissa tauluissa olivat, jotka sarkenyt olet: ja pane ne arkkiin.	
 
-3. Niin mina tein arkin sittimipuusta, ja vuolin kaksi kivista taulua entisten kaltaista, ja astuin vuorelle, pitaen kaksi taulua kadessani.	
+<div class="versenum">3.</div> Niin mina tein arkin sittimipuusta, ja vuolin kaksi kivista taulua entisten kaltaista, ja astuin vuorelle, pitaen kaksi taulua kadessani.	
 
-4. Niin han kirjoitti ensimaisen kirjoituksen jalkeen, niihin tauluihin ne kymmenet sanat, jotka Herra teille puhui vuorella tulesta, kokouksen paivana: ja Herra antoi ne minulle.	
+<div class="versenum">4.</div> Niin han kirjoitti ensimaisen kirjoituksen jalkeen, niihin tauluihin ne kymmenet sanat, jotka Herra teille puhui vuorella tulesta, kokouksen paivana: ja Herra antoi ne minulle.	
 
-5. Niin mina kaannyin ja astuin vuorelta alas, ja panin taulut arkkiin, jonka mina tein, etta heidan piti siella oleman, niinkuin Herra minulle kaskenyt oli.	
+<div class="versenum">5.</div> Niin mina kaannyin ja astuin vuorelta alas, ja panin taulut arkkiin, jonka mina tein, etta heidan piti siella oleman, niinkuin Herra minulle kaskenyt oli.	
 
-6. Ja Israelin lapset menivat BerotBeneJaakanista Moseraan: siella kuoli Aaron ja haudattiin, ja hanen poikansa Eleatsar toimitti papin virkaa hanen siassansa.	
+<div class="versenum">6.</div> Ja Israelin lapset menivat BerotBeneJaakanista Moseraan: siella kuoli Aaron ja haudattiin, ja hanen poikansa Eleatsar toimitti papin virkaa hanen siassansa.	
 
-7. Sielta menivat he Gudgodaan: Gudgodasta Jodbatiin, siihen maahan, jossa vesi-ojat ovat.	
+<div class="versenum">7.</div> Sielta menivat he Gudgodaan: Gudgodasta Jodbatiin, siihen maahan, jossa vesi-ojat ovat.	
 
-8. Silloin eroitti Herra Levin suvun, kantamaan Herran liitonarkkia, seisomaan Herran edessa, palvelemaan hanta ja kiittamaan hanen nimeansa tahan paivaan asti.	
+<div class="versenum">8.</div> Silloin eroitti Herra Levin suvun, kantamaan Herran liitonarkkia, seisomaan Herran edessa, palvelemaan hanta ja kiittamaan hanen nimeansa tahan paivaan asti.	
 
-9. Sentahden ei ollut Levilaisilla yhtaan osaa eli perimysta veljeinsa kanssa; silla Herra on heidan perimyksensa, niinkuin Herra sinun Jumalas sanoi heille.	
+<div class="versenum">9.</div> Sentahden ei ollut Levilaisilla yhtaan osaa eli perimysta veljeinsa kanssa; silla Herra on heidan perimyksensa, niinkuin Herra sinun Jumalas sanoi heille.	
 
-10. Ja mina seisoin vuorella niinkuin ennenkin, neljakymmenta paivaa ja neljakymmenta yota, ja viela silloinkin kuuli Herra minun rukoukseni, eika Herra tahtonut hukuttaa sinua.	
+<div class="versenum">10.</div> Ja mina seisoin vuorella niinkuin ennenkin, neljakymmenta paivaa ja neljakymmenta yota, ja viela silloinkin kuuli Herra minun rukoukseni, eika Herra tahtonut hukuttaa sinua.	
 
-11. Vaan Herra sanoi minulle: nouse, ja mene matkaas, niin ettas kansan edella vaellat, etta he tulisivat ja omistaisivat sen maan, jonka mina vannoin heidan isillensa antaakseni heille.	
+<div class="versenum">11.</div> Vaan Herra sanoi minulle: nouse, ja mene matkaas, niin ettas kansan edella vaellat, etta he tulisivat ja omistaisivat sen maan, jonka mina vannoin heidan isillensa antaakseni heille.	
 
-12. Nyt siis Israel, mita Herra sinun Jumalas sinulta muuta anoo; vaan ettas pelkaisit Herraa sinun Jumalaas, ja vaeltaisit kaikissa hanen teissansa ja rakastaisit hanta, ja palvelisit Herraa sinun Jumalaas kaikesta sinun sydamestas ja kaikesta sinun sielustas:	
+<div class="versenum">12.</div> Nyt siis Israel, mita Herra sinun Jumalas sinulta muuta anoo; vaan ettas pelkaisit Herraa sinun Jumalaas, ja vaeltaisit kaikissa hanen teissansa ja rakastaisit hanta, ja palvelisit Herraa sinun Jumalaas kaikesta sinun sydamestas ja kaikesta sinun sielustas:	
 
-13. Ettas myos pitaisit Herran kaskyt ja hanen saatynsa, jotka mina kasken sinulle tanapana, etta sinulle hyvin kavis.	
+<div class="versenum">13.</div> Ettas myos pitaisit Herran kaskyt ja hanen saatynsa, jotka mina kasken sinulle tanapana, etta sinulle hyvin kavis.	
 
-14. Katso, taivaat ja taivasten taivaat ovat Herran sinun Jumalas, ja maa ja kaikki, mita hanessa on.	
+<div class="versenum">14.</div> Katso, taivaat ja taivasten taivaat ovat Herran sinun Jumalas, ja maa ja kaikki, mita hanessa on.	
 
-15. Kuitenkin Herralla on ollut hyva suosio sinun isais tyko rakastaaksensa heita, ja on valinnut heidan siemenensa heidan jalkeensa, nimittain teidat kaikista kansoista, niinkuin tanapaivanakin on.	
+<div class="versenum">15.</div> Kuitenkin Herralla on ollut hyva suosio sinun isais tyko rakastaaksensa heita, ja on valinnut heidan siemenensa heidan jalkeensa, nimittain teidat kaikista kansoista, niinkuin tanapaivanakin on.	
 
-16. Niin ymparileikatkaat teidan sydamenne esinahka, ja alkaat enaa niskurit olko!	
+<div class="versenum">16.</div> Niin ymparileikatkaat teidan sydamenne esinahka, ja alkaat enaa niskurit olko!	
 
-17. Silla Herra teidan Jumalanne on kaikkein jumalain Jumala, voimallinen ja peljattava, joka ei katso muotoa, eika lahjoja ota,	
+<div class="versenum">17.</div> Silla Herra teidan Jumalanne on kaikkein jumalain Jumala, voimallinen ja peljattava, joka ei katso muotoa, eika lahjoja ota,	
 
-18. Joka orvoille ja leskille oikeuden tekee, ja rakastaa muukalaisia, niin etta han heille leivan ja vaatteen antaa.	
+<div class="versenum">18.</div> Joka orvoille ja leskille oikeuden tekee, ja rakastaa muukalaisia, niin etta han heille leivan ja vaatteen antaa.	
 
-19. Sentahden pitaa teidankin rakastaman muukalaista; silla te myos olitte muukalaiset Egyptin maalla.	
+<div class="versenum">19.</div> Sentahden pitaa teidankin rakastaman muukalaista; silla te myos olitte muukalaiset Egyptin maalla.	
 
-20. Sinun pitaa pelkaaman Herraa sinun Jumalaas, hanta pitaa sinun palveleman, hanessa pitaa sinun kiinni riippuman, ja hanen nimensa kautta vannoman.	
+<div class="versenum">20.</div> Sinun pitaa pelkaaman Herraa sinun Jumalaas, hanta pitaa sinun palveleman, hanessa pitaa sinun kiinni riippuman, ja hanen nimensa kautta vannoman.	
 
-21. Han on sinun ylistykses ja sinun Jumalas, joka sinulle teki suuria ja hirmuisia toita, joita silmas nahneet ovat.	
+<div class="versenum">21.</div> Han on sinun ylistykses ja sinun Jumalas, joka sinulle teki suuria ja hirmuisia toita, joita silmas nahneet ovat.	
 
-22. Sinun isas menivat alas Egyptiin seitsemankymmenen sielun kanssa; mutta nyt Herra sinun Jumalas on enentanyt sinun niinkuin taivaan tahdet.	
+<div class="versenum">22.</div> Sinun isas menivat alas Egyptiin seitsemankymmenen sielun kanssa; mutta nyt Herra sinun Jumalas on enentanyt sinun niinkuin taivaan tahdet.	
 

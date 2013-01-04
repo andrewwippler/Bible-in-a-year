@@ -1,24 +1,24 @@
 Psalmien 46	
 	
-1. Koran lasten veisu nuoruudesta, edellaveisaajalle. (H46:2) Jumala on meidan turvamme ja vakevyytemme, joka on sangen sovelias apu tuskissa.	
+<div class="versenum">1.</div> Koran lasten veisu nuoruudesta, edellaveisaajalle. (H46:2) Jumala on meidan turvamme ja vakevyytemme, joka on sangen sovelias apu tuskissa.	
 
-2. Sentahden emme pelkaa, jos viela maailma hukkuis, ja vuoret keskelle merta vajoisivat,	
+<div class="versenum">2.</div> Sentahden emme pelkaa, jos viela maailma hukkuis, ja vuoret keskelle merta vajoisivat,	
 
-3. Vaikka viela meri pauhais ja lainehtis, niin etta siita pauhinasta maet kukistuisivat, Sela!	
+<div class="versenum">3.</div> Vaikka viela meri pauhais ja lainehtis, niin etta siita pauhinasta maet kukistuisivat, Sela!	
 
-4. Kuitenkin on Jumalan kaupunki ihana virtoinensa, jossa Korkeimman pyhat asumiset ovat.	
+<div class="versenum">4.</div> Kuitenkin on Jumalan kaupunki ihana virtoinensa, jossa Korkeimman pyhat asumiset ovat.	
 
-5. Jumala on hanen keskellansa, sentahden se kylla pysyy: Jumala auttaa hanta varhain.	
+<div class="versenum">5.</div> Jumala on hanen keskellansa, sentahden se kylla pysyy: Jumala auttaa hanta varhain.	
 
-6. Pakanain pitaa hammastyman ja valtakunnat lankeeman; ja maa hukkuu, kuin han aanensa antaa.	
+<div class="versenum">6.</div> Pakanain pitaa hammastyman ja valtakunnat lankeeman; ja maa hukkuu, kuin han aanensa antaa.	
 
-7. Herra Zebaot on meidan kanssamme, Jakobin Jumala on meidan tukemme, Sela!	
+<div class="versenum">7.</div> Herra Zebaot on meidan kanssamme, Jakobin Jumala on meidan tukemme, Sela!	
 
-8. Tulkaat ja katsokaat Herran tekoja, joka maan paalla senkaltaiset havitykset tekee,	
+<div class="versenum">8.</div> Tulkaat ja katsokaat Herran tekoja, joka maan paalla senkaltaiset havitykset tekee,	
 
-9. Joka hallitsee sodat kaikessa maailmassa, joka joutsen sarkee ja rikkoo keihaan, ja rattaat tulessa polttaa.	
+<div class="versenum">9.</div> Joka hallitsee sodat kaikessa maailmassa, joka joutsen sarkee ja rikkoo keihaan, ja rattaat tulessa polttaa.	
 
-10. Lakatkaat ja tietakaat, etta mina olen Jumala: mina olen voittava kunnian pakanain seassa ja mina ylennetaan maan paalla.	
+<div class="versenum">10.</div> Lakatkaat ja tietakaat, etta mina olen Jumala: mina olen voittava kunnian pakanain seassa ja mina ylennetaan maan paalla.	
 
-11. Herra Zebaot on meidan kanssamme: Jakobin Jumala on meidan tukemme, Sela!	
+<div class="versenum">11.</div> Herra Zebaot on meidan kanssamme: Jakobin Jumala on meidan tukemme, Sela!	
 

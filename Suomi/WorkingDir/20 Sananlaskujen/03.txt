@@ -1,72 +1,72 @@
 Sananlaskujen 3	
 	
-1. Poikani, ala unohda minun lakiani, mutta sinun sydames pitakoon kaskyni.	
+<div class="versenum">1.</div> Poikani, ala unohda minun lakiani, mutta sinun sydames pitakoon kaskyni.	
 
-2. Silla ne saatavat sinulle pitkan ijan, hyvat vuodet ja rauhan.	
+<div class="versenum">2.</div> Silla ne saatavat sinulle pitkan ijan, hyvat vuodet ja rauhan.	
 
-3. Armo ja totuus ei sinua pida hylkaaman: ripusta ne kaulaas, ja kirjoita sydames tauluun,	
+<div class="versenum">3.</div> Armo ja totuus ei sinua pida hylkaaman: ripusta ne kaulaas, ja kirjoita sydames tauluun,	
 
-4. Niin sina loydat armon ja hyvan toimen, Jumalan ja ihmisten edessa.	
+<div class="versenum">4.</div> Niin sina loydat armon ja hyvan toimen, Jumalan ja ihmisten edessa.	
 
-5. Luota Herraan kaikesta sydamestas, ja ala luota ymmarryksees;	
+<div class="versenum">5.</div> Luota Herraan kaikesta sydamestas, ja ala luota ymmarryksees;	
 
-6. Mutta ajattele hanta kaikissa teissas, niin han sinua oikein johdattaa.	
+<div class="versenum">6.</div> Mutta ajattele hanta kaikissa teissas, niin han sinua oikein johdattaa.	
 
-7. Ala ole viisas mielestas, vaan pelkaaerraa, ja valta pahaa.	
+<div class="versenum">7.</div> Ala ole viisas mielestas, vaan pelkaaerraa, ja valta pahaa.	
 
-8. Silla se on navalles terveellinen, ja virvoittaa luus.	
+<div class="versenum">8.</div> Silla se on navalles terveellinen, ja virvoittaa luus.	
 
-9. Kunnioita Herraa tavarastas, ja kaikista vuoden tulos esikoisista;	
+<div class="versenum">9.</div> Kunnioita Herraa tavarastas, ja kaikista vuoden tulos esikoisista;	
 
-10. Niin sinun riihes taytetaan kyllyydella, ja sinun viinakuurnas vuotaa ylitse.	
+<div class="versenum">10.</div> Niin sinun riihes taytetaan kyllyydella, ja sinun viinakuurnas vuotaa ylitse.	
 
-11. Poikani, ala Herran kuritusta hylkaa, ja ala ole karsimaton, kuin han sinua rankaisee,	
+<div class="versenum">11.</div> Poikani, ala Herran kuritusta hylkaa, ja ala ole karsimaton, kuin han sinua rankaisee,	
 
-12. Silla, jota Herra rakastaa, sita han rankaisee, ja on hanelle otollinen niinkuin poika isallensa.	
+<div class="versenum">12.</div> Silla, jota Herra rakastaa, sita han rankaisee, ja on hanelle otollinen niinkuin poika isallensa.	
 
-13. Autuas on se ihminen, joka viisauden loytaa, ja se ihminen, joka ymmarryksen kasittaa.	
+<div class="versenum">13.</div> Autuas on se ihminen, joka viisauden loytaa, ja se ihminen, joka ymmarryksen kasittaa.	
 
-14. Silla parempi on kaupita hanta kuin kaupita hopiaa, ja hanen hedelmansa on parempi kuin kulta.	
+<div class="versenum">14.</div> Silla parempi on kaupita hanta kuin kaupita hopiaa, ja hanen hedelmansa on parempi kuin kulta.	
 
-15. Han on kalliimpi kuin paarlyt, eika hanen vertaansa mitaan toivottaa taideta.	
+<div class="versenum">15.</div> Han on kalliimpi kuin paarlyt, eika hanen vertaansa mitaan toivottaa taideta.	
 
-16. Pitka ika on hanen oikialla kadellansa, rikkaus ja kunnia hanen vasemmallansa.	
+<div class="versenum">16.</div> Pitka ika on hanen oikialla kadellansa, rikkaus ja kunnia hanen vasemmallansa.	
 
-17. Hanen tiensa ovat iloiset, ja kaikki hanen askeleensa rauha.	
+<div class="versenum">17.</div> Hanen tiensa ovat iloiset, ja kaikki hanen askeleensa rauha.	
 
-18. Han on elaman puu niille, jotka haneen rupeevat; ja autuaat ovat ne, jotka hanen pitavat.	
+<div class="versenum">18.</div> Han on elaman puu niille, jotka haneen rupeevat; ja autuaat ovat ne, jotka hanen pitavat.	
 
-19. Silla Herra on viisaudella maan perustanut, ja taivaat toimella valmistanut.	
+<div class="versenum">19.</div> Silla Herra on viisaudella maan perustanut, ja taivaat toimella valmistanut.	
 
-20. Hanen viisaudessansa ovat syvyydet eroitetut, ja pivet pisaroivat kasteen.	
+<div class="versenum">20.</div> Hanen viisaudessansa ovat syvyydet eroitetut, ja pivet pisaroivat kasteen.	
 
-21. Poikani, ala salli naita silmistas tulla pois, niin sina tulet onnelliseksi ja viisaaksi.	
+<div class="versenum">21.</div> Poikani, ala salli naita silmistas tulla pois, niin sina tulet onnelliseksi ja viisaaksi.	
 
-22. Se on sinun sielus elama; ja sinun suus on otollinen.	
+<div class="versenum">22.</div> Se on sinun sielus elama; ja sinun suus on otollinen.	
 
-23. Silloin sina murheetoinna vaellat teissas, ettet jalkaas loukkaa.	
+<div class="versenum">23.</div> Silloin sina murheetoinna vaellat teissas, ettet jalkaas loukkaa.	
 
-24. Et sina pelkaa maata pantuas, mutta makaat; ja sinun unes on sinulle makia,	
+<div class="versenum">24.</div> Et sina pelkaa maata pantuas, mutta makaat; ja sinun unes on sinulle makia,	
 
-25. Ettei sinun tarvitse peljata akillista hirmua, eika jumalattomain havitysta, kuin se tulee.	
+<div class="versenum">25.</div> Ettei sinun tarvitse peljata akillista hirmua, eika jumalattomain havitysta, kuin se tulee.	
 
-26. Silla Herra on sinun lohdutukses; han varjelee sinun jalkas, ettei sita saavuteta.	
+<div class="versenum">26.</div> Silla Herra on sinun lohdutukses; han varjelee sinun jalkas, ettei sita saavuteta.	
 
-27. Ala estele tarvitsevalle hyvaa tehda, jos sinulla on varaa, ettas sen tehda taidat.	
+<div class="versenum">27.</div> Ala estele tarvitsevalle hyvaa tehda, jos sinulla on varaa, ettas sen tehda taidat.	
 
-28. Ala sano ystavalle: mene ja tule jalleen, huomenna mina sinulle annan; koska sinulla on.	
+<div class="versenum">28.</div> Ala sano ystavalle: mene ja tule jalleen, huomenna mina sinulle annan; koska sinulla on.	
 
-29. Ala pyyda sinun ystavas vahinkoa, joka hyvassa toivossa asuu sinun tykonas.	
+<div class="versenum">29.</div> Ala pyyda sinun ystavas vahinkoa, joka hyvassa toivossa asuu sinun tykonas.	
 
-30. Ala kenenkaan kanssa toru ilman syyta, jos han ei mitaan pahaa sinulle tehnyt ole.	
+<div class="versenum">30.</div> Ala kenenkaan kanssa toru ilman syyta, jos han ei mitaan pahaa sinulle tehnyt ole.	
 
-31. Ala kiivoittele vaaraa miesta, ala noudata hanen retkiansa.	
+<div class="versenum">31.</div> Ala kiivoittele vaaraa miesta, ala noudata hanen retkiansa.	
 
-32. Silla pahanilkiset ovat Herralle kauhistus; mutta hanen salaisuutensa on hurskasten tykona.	
+<div class="versenum">32.</div> Silla pahanilkiset ovat Herralle kauhistus; mutta hanen salaisuutensa on hurskasten tykona.	
 
-33. Jumalattoman huoneessa on Herran kirous; muttavanhurskaan maja siunataan.	
+<div class="versenum">33.</div> Jumalattoman huoneessa on Herran kirous; muttavanhurskaan maja siunataan.	
 
-34. Han pilkkaa pilkkaajia; mutta noyrille han antaa armon.	
+<div class="versenum">34.</div> Han pilkkaa pilkkaajia; mutta noyrille han antaa armon.	
 
-35. Viisaat kunnian perivat, mutta tyhmat hapian saavat.	
+<div class="versenum">35.</div> Viisaat kunnian perivat, mutta tyhmat hapian saavat.	
 

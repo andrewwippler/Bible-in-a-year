@@ -1,36 +1,36 @@
 1 Aikakirja 18	
 	
-1. Sitte loi David Philistealaiset ja vaati allensa heidat, ja han otti Gatin kylinensa Philistealaisten kadesta.	
+<div class="versenum">1.</div> Sitte loi David Philistealaiset ja vaati allensa heidat, ja han otti Gatin kylinensa Philistealaisten kadesta.	
 
-2. Han loi myos Moabilaiset, niin etta he tulivat Davidille alamaisiksi ja veivat hanelle lahjoja.	
+<div class="versenum">2.</div> Han loi myos Moabilaiset, niin etta he tulivat Davidille alamaisiksi ja veivat hanelle lahjoja.	
 
-3. David loi myos Hadareserin Zoban kuninkaan Hamatissa, silloin kuin han meni asettamaan sotajoukkoansa Phratin veden tyko.	
+<div class="versenum">3.</div> David loi myos Hadareserin Zoban kuninkaan Hamatissa, silloin kuin han meni asettamaan sotajoukkoansa Phratin veden tyko.	
 
-4. Ja David voitti hanelta tuhannen vaunua, seitsemantuhatta hevosmiesta ja kaksikymmentatuhatta jalkamiesta. Ja David raiskasi kaikki vaunut, ja piti heista tallella sata vaunua.	
+<div class="versenum">4.</div> Ja David voitti hanelta tuhannen vaunua, seitsemantuhatta hevosmiesta ja kaksikymmentatuhatta jalkamiesta. Ja David raiskasi kaikki vaunut, ja piti heista tallella sata vaunua.	
 
-5. Ja Syrialaiset Damaskusta tulivat Hadareserin Zoban kuninkaan apuun; mutta David loi Syrialaisista kaksikolmattakymmenta tuhatta miesta.	
+<div class="versenum">5.</div> Ja Syrialaiset Damaskusta tulivat Hadareserin Zoban kuninkaan apuun; mutta David loi Syrialaisista kaksikolmattakymmenta tuhatta miesta.	
 
-6. Ja David asetti vartiat Syrian Damaskuun, niin etta Syrialaiset tulivat Davidin alamaisiksi ja veivat hanelle lahjoja; silla Herra autti Davidia, kuhunka ikana han vaelsi.	
+<div class="versenum">6.</div> Ja David asetti vartiat Syrian Damaskuun, niin etta Syrialaiset tulivat Davidin alamaisiksi ja veivat hanelle lahjoja; silla Herra autti Davidia, kuhunka ikana han vaelsi.	
 
-7. Ja David otti ne kultaiset kilvet, jotka olivat Hadareserin palvelioilla, ja vei ne Jerusalemiin.	
+<div class="versenum">7.</div> Ja David otti ne kultaiset kilvet, jotka olivat Hadareserin palvelioilla, ja vei ne Jerusalemiin.	
 
-8. Otti myos David Hadareserin kaupungeista Tibehatista ja Kunista juuri paljon vaskea, josta Salomo teki vaskimeren, patsaat ja vaskiastioita.	
+<div class="versenum">8.</div> Otti myos David Hadareserin kaupungeista Tibehatista ja Kunista juuri paljon vaskea, josta Salomo teki vaskimeren, patsaat ja vaskiastioita.	
 
-9. Ja kuin Togu Hematin kuningas kuuli Davidin lyoneen kaiken Hadareserin Zoban kuninkaan sotajoukon,	
+<div class="versenum">9.</div> Ja kuin Togu Hematin kuningas kuuli Davidin lyoneen kaiken Hadareserin Zoban kuninkaan sotajoukon,	
 
-10. Lahetti han poikansa Hadoramin kuningas Davidin tyko, tervehtimaan hanta ystavallisesti ja siunaamaan hanta, etta han Hadareserin kanssa sotinut ja hanen lyonyt oli; silla Togulla oli sota Hadareserin kanssa: niin myos kaikellaisia kultaisia, hopiaisia ja vaskisia asioita (lahetti han).	
+<div class="versenum">10.</div> Lahetti han poikansa Hadoramin kuningas Davidin tyko, tervehtimaan hanta ystavallisesti ja siunaamaan hanta, etta han Hadareserin kanssa sotinut ja hanen lyonyt oli; silla Togulla oli sota Hadareserin kanssa: niin myos kaikellaisia kultaisia, hopiaisia ja vaskisia asioita (lahetti han).	
 
-11. Ja kuningas David pyhitti ne Herralle sen sen hopian ja kullan kanssa, jonka han oli ottanut kaikilta pakanoilta, Edomilaisilta, Moabilaisilta, Ammonin lapsilta, Philistealaisilta ja Amalekilaisilta.	
+<div class="versenum">11.</div> Ja kuningas David pyhitti ne Herralle sen sen hopian ja kullan kanssa, jonka han oli ottanut kaikilta pakanoilta, Edomilaisilta, Moabilaisilta, Ammonin lapsilta, Philistealaisilta ja Amalekilaisilta.	
 
-12. Ja Abisai Zerujan poika loi Suolalaaksossa Edomilaisista kahdeksantoistakymmenta tuhatta,	
+<div class="versenum">12.</div> Ja Abisai Zerujan poika loi Suolalaaksossa Edomilaisista kahdeksantoistakymmenta tuhatta,	
 
-13. Ja asetti vartiat Edomiin, niin etta kaikki Edomilaiset olivat Davidin alamaiset; silla Herra autti Davidia, kuhunka ikana han vaelsi.	
+<div class="versenum">13.</div> Ja asetti vartiat Edomiin, niin etta kaikki Edomilaiset olivat Davidin alamaiset; silla Herra autti Davidia, kuhunka ikana han vaelsi.	
 
-14. Ja niin hallitsi David kaiken Israelin, ja han teki oikeuden ja hurskauden kaikelle kansallensa.	
+<div class="versenum">14.</div> Ja niin hallitsi David kaiken Israelin, ja han teki oikeuden ja hurskauden kaikelle kansallensa.	
 
-15. Joab Zerujan poika oli sotajoukon paalla, Josaphat Ahiludin poika oli kansleri.	
+<div class="versenum">15.</div> Joab Zerujan poika oli sotajoukon paalla, Josaphat Ahiludin poika oli kansleri.	
 
-16. Zadok Ahitobin poika ja Abimelek Abjatarin poika olivat papit, Sausa oli kirjoittaja.	
+<div class="versenum">16.</div> Zadok Ahitobin poika ja Abimelek Abjatarin poika olivat papit, Sausa oli kirjoittaja.	
 
-17. Benaja Jojadan poika oli Kretin ja Pletin paalla. Ja Davidin pojat olivat ensimaiset kuninkaan kasilla.	
+<div class="versenum">17.</div> Benaja Jojadan poika oli Kretin ja Pletin paalla. Ja Davidin pojat olivat ensimaiset kuninkaan kasilla.	
 

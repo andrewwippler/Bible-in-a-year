@@ -1,82 +1,82 @@
 Jobin 31	
 	
-1. Mina olen tehnyt liiton silmaini kanssa, etten mina katsoisi neitseen paalle.	
+<div class="versenum">1.</div> Mina olen tehnyt liiton silmaini kanssa, etten mina katsoisi neitseen paalle.	
 
-2. Mutta mita Jumala ylhaalta antaa minulle osaksi ja Kaikkivaltias korkialta perinnoksi?	
+<div class="versenum">2.</div> Mutta mita Jumala ylhaalta antaa minulle osaksi ja Kaikkivaltias korkialta perinnoksi?	
 
-3. Eiko vaaran pitaisi nakeman senkaltaista vaivaisuutta, ja pahantekian senkaltaista surkeutta karsiman?	
+<div class="versenum">3.</div> Eiko vaaran pitaisi nakeman senkaltaista vaivaisuutta, ja pahantekian senkaltaista surkeutta karsiman?	
 
-4. Eiko han nae minun teitani ja lueskele kaikkia minun askeleitani?	
+<div class="versenum">4.</div> Eiko han nae minun teitani ja lueskele kaikkia minun askeleitani?	
 
-5. Olenko mina vaeltanut turhassa menossa, eli minun jalkani kiiruhtaneet petokseen?	
+<div class="versenum">5.</div> Olenko mina vaeltanut turhassa menossa, eli minun jalkani kiiruhtaneet petokseen?	
 
-6. Punnitkaan han minua oikialla vaa'alla, niin Jumala ymmartaa minun vakuuteni.	
+<div class="versenum">6.</div> Punnitkaan han minua oikialla vaa'alla, niin Jumala ymmartaa minun vakuuteni.	
 
-7. Jos minun askeleeni ovat poikenneet tielta, ja minun sydameni seurannut silmiani, ja jotakin riippunut minun kasissani,	
+<div class="versenum">7.</div> Jos minun askeleeni ovat poikenneet tielta, ja minun sydameni seurannut silmiani, ja jotakin riippunut minun kasissani,	
 
-8. Niin mina kylvaisin ja toinen sois, ja minun sikiani hukkuis juurinensa.	
+<div class="versenum">8.</div> Niin mina kylvaisin ja toinen sois, ja minun sikiani hukkuis juurinensa.	
 
-9. Jos minun sydameni on vietelty vaimon peraan, ja olen vaijynyt lahimmaiseni ovella,	
+<div class="versenum">9.</div> Jos minun sydameni on vietelty vaimon peraan, ja olen vaijynyt lahimmaiseni ovella,	
 
-10. Niin minun emantani havaistakaan muilta, ja muut maatkaan hanen;	
+<div class="versenum">10.</div> Niin minun emantani havaistakaan muilta, ja muut maatkaan hanen;	
 
-11. Silla se on hapia ja paha tyo tuomarien edessa;	
+<div class="versenum">11.</div> Silla se on hapia ja paha tyo tuomarien edessa;	
 
-12. Silla se olis tuli joka polttais kadotukseen, ja kaiken minun saatuni perati hukuttais.	
+<div class="versenum">12.</div> Silla se olis tuli joka polttais kadotukseen, ja kaiken minun saatuni perati hukuttais.	
 
-13. Jos olen katsonut ylon palveliani eli palkkapiikani oikeuden, riidellessansa minun kanssani,	
+<div class="versenum">13.</div> Jos olen katsonut ylon palveliani eli palkkapiikani oikeuden, riidellessansa minun kanssani,	
 
-14. Mita mina sitte tekisin kuin Jumala nousee? eli mita mina vastaisin hanta, kuin han kostaa?	
+<div class="versenum">14.</div> Mita mina sitte tekisin kuin Jumala nousee? eli mita mina vastaisin hanta, kuin han kostaa?	
 
-15. Eiko han ole tehnyt hanta, joka minunkin aitini kohdussa teki? ja on meidat molemmat kohdussa valmistanut.	
+<div class="versenum">15.</div> Eiko han ole tehnyt hanta, joka minunkin aitini kohdussa teki? ja on meidat molemmat kohdussa valmistanut.	
 
-16. Olenko mina kieltanyt tarvitsevaisilta, mita he minulta ovat pyytaneet, ja antanut leskein silmat heikoksi tulla?	
+<div class="versenum">16.</div> Olenko mina kieltanyt tarvitsevaisilta, mita he minulta ovat pyytaneet, ja antanut leskein silmat heikoksi tulla?	
 
-17. Olenko mina syonyt palani yksinani, ettei orpo ole myos siita syonyt?	
+<div class="versenum">17.</div> Olenko mina syonyt palani yksinani, ettei orpo ole myos siita syonyt?	
 
-18. Silla nuoruudestani olen mina ollut niinkuin isa, ja hamasta aitini kohdusta olen mina mielellani holhonnut.	
+<div class="versenum">18.</div> Silla nuoruudestani olen mina ollut niinkuin isa, ja hamasta aitini kohdusta olen mina mielellani holhonnut.	
 
-19. Jos mina olen nahnyt jonkun hukkuvan, ettei hanella ollut vaatetta, ja sallinut kayda koyhan peittamatta;	
+<div class="versenum">19.</div> Jos mina olen nahnyt jonkun hukkuvan, ettei hanella ollut vaatetta, ja sallinut kayda koyhan peittamatta;	
 
-20. Jos ei hanen lanteensa ole siunannut minua, kuin han minun lammasnahoillani lammitettiin;	
+<div class="versenum">20.</div> Jos ei hanen lanteensa ole siunannut minua, kuin han minun lammasnahoillani lammitettiin;	
 
-21. Jos olen nostanut kateni orpoja vastaan, ehka mina nain minun voimallisena porteissa olevan;	
+<div class="versenum">21.</div> Jos olen nostanut kateni orpoja vastaan, ehka mina nain minun voimallisena porteissa olevan;	
 
-22. Niin kaatukoon minun hartiani lapaluiltani, ja minun kasivarteni sarkykoon luinensa.	
+<div class="versenum">22.</div> Niin kaatukoon minun hartiani lapaluiltani, ja minun kasivarteni sarkykoon luinensa.	
 
-23. Silla Jnmalan rangaistus on minulle vavistukseksi, ja en taida hanen korkeuttansa valttaa.	
+<div class="versenum">23.</div> Silla Jnmalan rangaistus on minulle vavistukseksi, ja en taida hanen korkeuttansa valttaa.	
 
-24. Olenko mina asettanut kullan turvakseni? ja sanonut puhtaalle kullalle: sina olet minun uskallukseni?	
+<div class="versenum">24.</div> Olenko mina asettanut kullan turvakseni? ja sanonut puhtaalle kullalle: sina olet minun uskallukseni?	
 
-25. Olenko mina iloinnut tavarani paljoudesta, ja etta kateni paljon riistaa koonneet ovat?	
+<div class="versenum">25.</div> Olenko mina iloinnut tavarani paljoudesta, ja etta kateni paljon riistaa koonneet ovat?	
 
-26. Olenko mina katsonut valkeutta, koska se kirkkaasti paisti, ja kuuta, koska se taydellinen oli?	
+<div class="versenum">26.</div> Olenko mina katsonut valkeutta, koska se kirkkaasti paisti, ja kuuta, koska se taydellinen oli?	
 
-27. Onko minun sydameni salaa minua vietellyt, suuta antamaan kadelleni?	
+<div class="versenum">27.</div> Onko minun sydameni salaa minua vietellyt, suuta antamaan kadelleni?	
 
-28. Joka myos vaaryys on tuomarien edessa; silla niin olisin mina kieltanyt Jumalan ylhaalta.	
+<div class="versenum">28.</div> Joka myos vaaryys on tuomarien edessa; silla niin olisin mina kieltanyt Jumalan ylhaalta.	
 
-29. Olenko mina iloinnut viholliseni vastoinkaymisesta? taikka riemuinnut, etta onnettomuus tuli hanen paallensa?	
+<div class="versenum">29.</div> Olenko mina iloinnut viholliseni vastoinkaymisesta? taikka riemuinnut, etta onnettomuus tuli hanen paallensa?	
 
-30. Silla en mina antanut minun suuni syntia tehda, sadatellakseni hanen sieluansa.	
+<div class="versenum">30.</div> Silla en mina antanut minun suuni syntia tehda, sadatellakseni hanen sieluansa.	
 
-31. Eivatko miehet, jotka minun majassani ovat, sanoisi: jospa emme hanen lihastansa ravittaisi?	
+<div class="versenum">31.</div> Eivatko miehet, jotka minun majassani ovat, sanoisi: jospa emme hanen lihastansa ravittaisi?	
 
-32. Muukalaisen ei pitanyt yota ulkona oleman; vaan vaellusvaelle avasin mina oveni.	
+<div class="versenum">32.</div> Muukalaisen ei pitanyt yota ulkona oleman; vaan vaellusvaelle avasin mina oveni.	
 
-33. Olenko mina niinkuin ihminen peittanyt minun pahuuteni, salatakseni minun vaaryyttani?	
+<div class="versenum">33.</div> Olenko mina niinkuin ihminen peittanyt minun pahuuteni, salatakseni minun vaaryyttani?	
 
-34. Olenko mina hammastynyt suurta joukkoa? eli olenko mina sukulaisteni ylonkatsetta peljannyt? ollut aaneti, ja en mennyt ovesta ulos?	
+<div class="versenum">34.</div> Olenko mina hammastynyt suurta joukkoa? eli olenko mina sukulaisteni ylonkatsetta peljannyt? ollut aaneti, ja en mennyt ovesta ulos?	
 
-35. Kuka antais minulle kuultelian, etta Kaikkivaltias kuulis minun pyyntoni, etta joku kirjoittais kirjan minun asiastani;	
+<div class="versenum">35.</div> Kuka antais minulle kuultelian, etta Kaikkivaltias kuulis minun pyyntoni, etta joku kirjoittais kirjan minun asiastani;	
 
-36. Niin mina ottaisin sen hartioilleni, ja sitoisin ymparilleni niinkuin kruunun.	
+<div class="versenum">36.</div> Niin mina ottaisin sen hartioilleni, ja sitoisin ymparilleni niinkuin kruunun.	
 
-37. Mina ilmoittaisin hanelle minun askeleini luvun, ja niinkuin ruhtinas kantaisin sen edes.	
+<div class="versenum">37.</div> Mina ilmoittaisin hanelle minun askeleini luvun, ja niinkuin ruhtinas kantaisin sen edes.	
 
-38. Jos minun maani huutais minua vastaan, ja sen vaot kaikki ynna itkisivat;	
+<div class="versenum">38.</div> Jos minun maani huutais minua vastaan, ja sen vaot kaikki ynna itkisivat;	
 
-39. Jos mina olen sen hedelman maksamatta syonyt, ja tehnyt peltomiesten elaman tyolaaksi;	
+<div class="versenum">39.</div> Jos mina olen sen hedelman maksamatta syonyt, ja tehnyt peltomiesten elaman tyolaaksi;	
 
-40. Niin kasvakoon minulle nisuista orjantappuria ja ohrista pahoja ruohoja. Jobin sanat loppuvat.	
+<div class="versenum">40.</div> Niin kasvakoon minulle nisuista orjantappuria ja ohrista pahoja ruohoja. Jobin sanat loppuvat.	
 

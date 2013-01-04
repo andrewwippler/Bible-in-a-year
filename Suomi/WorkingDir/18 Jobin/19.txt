@@ -1,60 +1,60 @@
 Jobin 19	
 	
-1. Mutta Job vastasi ja sanoi:	
+<div class="versenum">1.</div> Mutta Job vastasi ja sanoi:	
 
-2. Kuinka kauvan te vaivaatte minun sieluani? ja runtelette minua sanoilla?	
+<div class="versenum">2.</div> Kuinka kauvan te vaivaatte minun sieluani? ja runtelette minua sanoilla?	
 
-3. Te olette nyt kymmenen kertaa pilkanneet minua; ja ette hapee minua niin vaivata.	
+<div class="versenum">3.</div> Te olette nyt kymmenen kertaa pilkanneet minua; ja ette hapee minua niin vaivata.	
 
-4. Jos mina erehdyn, niin mina itselleni erehdyn.	
+<div class="versenum">4.</div> Jos mina erehdyn, niin mina itselleni erehdyn.	
 
-5. Mutta te tosin nousette minua vastaan, ja soimaatte minun pilkkaani.	
+<div class="versenum">5.</div> Mutta te tosin nousette minua vastaan, ja soimaatte minun pilkkaani.	
 
-6. Niin tietakaat nyt, etta Jumala hukuttaa minun, ja on piirittanyt minun verkkoihinsa.	
+<div class="versenum">6.</div> Niin tietakaat nyt, etta Jumala hukuttaa minun, ja on piirittanyt minun verkkoihinsa.	
 
-7. Katso, ehka mina viela vakivallan tahden huutaisin, niin ei kuitenkaan kuulla minua: jos mina parkuisin, niin ei tassa ole oikeutta.	
+<div class="versenum">7.</div> Katso, ehka mina viela vakivallan tahden huutaisin, niin ei kuitenkaan kuulla minua: jos mina parkuisin, niin ei tassa ole oikeutta.	
 
-8. Han on aidannat minun tieni, etten mina taida sita kayda, ja pannut pimeyden minun poluilleni.	
+<div class="versenum">8.</div> Han on aidannat minun tieni, etten mina taida sita kayda, ja pannut pimeyden minun poluilleni.	
 
-9. Han on riisunut minun kunniani minulta, ja ottanut pois kruunun minun paastani.	
+<div class="versenum">9.</div> Han on riisunut minun kunniani minulta, ja ottanut pois kruunun minun paastani.	
 
-10. Han on maahan kukistanut minun joka kulmalta, ja laskenut minun menemaan; ja on revaissyt ylos minun toivoni niinkuin puun.	
+<div class="versenum">10.</div> Han on maahan kukistanut minun joka kulmalta, ja laskenut minun menemaan; ja on revaissyt ylos minun toivoni niinkuin puun.	
 
-11. Han on hirmuisesti vihastunut minun paalleni, ja pitaa minun vihamiehenansa.	
+<div class="versenum">11.</div> Han on hirmuisesti vihastunut minun paalleni, ja pitaa minun vihamiehenansa.	
 
-12. Hanen sotajoukkonsa ovat kokoontuneet, ja asettaneet tiensa minua kohden, ja piirittaneet minun majani.	
+<div class="versenum">12.</div> Hanen sotajoukkonsa ovat kokoontuneet, ja asettaneet tiensa minua kohden, ja piirittaneet minun majani.	
 
-13. Han on eroittanut minun veljeni kauvas minusta, ja minun tuttavani ovat minulle muukalaisiksi tulleet.	
+<div class="versenum">13.</div> Han on eroittanut minun veljeni kauvas minusta, ja minun tuttavani ovat minulle muukalaisiksi tulleet.	
 
-14. Minun lahimmaiseni piiloivat minua, ja minun ystavani ovat unhottaneet minun.	
+<div class="versenum">14.</div> Minun lahimmaiseni piiloivat minua, ja minun ystavani ovat unhottaneet minun.	
 
-15. Minun huonekuntalaiseni ja piikani pitavat minua vieraana, mina olen tuntemattomaksi tullut heidan silmainsa edessa.	
+<div class="versenum">15.</div> Minun huonekuntalaiseni ja piikani pitavat minua vieraana, mina olen tuntemattomaksi tullut heidan silmainsa edessa.	
 
-16. Mina huusin palveliaani, ja ei han vastannut minua: minun taytyy rukoilla hanta omalla suullani.	
+<div class="versenum">16.</div> Mina huusin palveliaani, ja ei han vastannut minua: minun taytyy rukoilla hanta omalla suullani.	
 
-17. Minun emantani vieroi minun henkeani, ja minun taytyy palvella omia lapsiani.	
+<div class="versenum">17.</div> Minun emantani vieroi minun henkeani, ja minun taytyy palvella omia lapsiani.	
 
-18. Ja nuoretkin lapset minun katsovat ylon: jos mina nousen, niin he puhuvat minua vastaan.	
+<div class="versenum">18.</div> Ja nuoretkin lapset minun katsovat ylon: jos mina nousen, niin he puhuvat minua vastaan.	
 
-19. Kaikki uskolliset ystavani kauhistuvat minua; ja joita mina rakastin, ovat kaantaneet itsensa minua vastaan.	
+<div class="versenum">19.</div> Kaikki uskolliset ystavani kauhistuvat minua; ja joita mina rakastin, ovat kaantaneet itsensa minua vastaan.	
 
-20. Minun luuni tarttuivat minun nahkaani ja lihaani, ja en mina taida nahallani peittaa hampaitani.	
+<div class="versenum">20.</div> Minun luuni tarttuivat minun nahkaani ja lihaani, ja en mina taida nahallani peittaa hampaitani.	
 
-21. Armahtakaat minun paalleni, armahtakaat minun paalleni, te minun ystavani! silla Jumalan kasi on minuun sattunut!	
+<div class="versenum">21.</div> Armahtakaat minun paalleni, armahtakaat minun paalleni, te minun ystavani! silla Jumalan kasi on minuun sattunut!	
 
-22. Miksi te vainootte minua niinkuin Jumalakin, ja ette taida minun lihastani ravittaa?	
+<div class="versenum">22.</div> Miksi te vainootte minua niinkuin Jumalakin, ja ette taida minun lihastani ravittaa?	
 
-23. Jospa minun puheeni kirjoitettaisiin! jospa ne kirjaan pantaisiin, ja painettaisiin!	
+<div class="versenum">23.</div> Jospa minun puheeni kirjoitettaisiin! jospa ne kirjaan pantaisiin, ja painettaisiin!	
 
-24. Raudalla kaivettaisiin lyijy ijankaikkiseksi muistoksi kiveen.	
+<div class="versenum">24.</div> Raudalla kaivettaisiin lyijy ijankaikkiseksi muistoksi kiveen.	
 
-25. Silla mina tiedan minun Lunastajani elavan: ja han on tastalahin maan paalla seisova.	
+<div class="versenum">25.</div> Silla mina tiedan minun Lunastajani elavan: ja han on tastalahin maan paalla seisova.	
 
-26. Ja vaikka vihdoin minun nahkani ja tama (ruumis) lakastuu, saan mina kuitenkin minun lihassani nahda Jumalan.	
+<div class="versenum">26.</div> Ja vaikka vihdoin minun nahkani ja tama (ruumis) lakastuu, saan mina kuitenkin minun lihassani nahda Jumalan.	
 
-27. Hanen mina olen minulleni nakeva, ja minun silmani katsovat hanta, ja ei kenkaan outo. Minun munaskuuni ovat kuluneet minun helmassani.	
+<div class="versenum">27.</div> Hanen mina olen minulleni nakeva, ja minun silmani katsovat hanta, ja ei kenkaan outo. Minun munaskuuni ovat kuluneet minun helmassani.	
 
-28. Tosin teidan pitais sanoman: Miksi me vainoamme hanta? silla taman puheen perustus loytyy minun tykonani.	
+<div class="versenum">28.</div> Tosin teidan pitais sanoman: Miksi me vainoamme hanta? silla taman puheen perustus loytyy minun tykonani.	
 
-29. Peljatkaat siis miekkaa, silla viha on pahain toiden kostomiekka, etta te tietaisitte kurituksen tulevan.	
+<div class="versenum">29.</div> Peljatkaat siis miekkaa, silla viha on pahain toiden kostomiekka, etta te tietaisitte kurituksen tulevan.	
 

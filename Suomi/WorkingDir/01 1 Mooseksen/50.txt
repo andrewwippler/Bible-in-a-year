@@ -1,54 +1,54 @@
 1 Mooseksen 50	
 	
-1. Niin Joseph lankesi isansa kasvoille, itki hanen ylitsensa, ja antoi suuta hanen.	
+<div class="versenum">1.</div> Niin Joseph lankesi isansa kasvoille, itki hanen ylitsensa, ja antoi suuta hanen.	
 
-2. Ja Joseph kaski palvelioitansa laakareita voidella isaansa; ja laakarit voitelivat Israelia.	
+<div class="versenum">2.</div> Ja Joseph kaski palvelioitansa laakareita voidella isaansa; ja laakarit voitelivat Israelia.	
 
-3. Ja he tayttivat hanelle neljakymmenta paivaa; silla niin monta oli voiteluspaivaa. Ja Egyptilaiset itkivat hanta seitsemankymmenta paivaa.	
+<div class="versenum">3.</div> Ja he tayttivat hanelle neljakymmenta paivaa; silla niin monta oli voiteluspaivaa. Ja Egyptilaiset itkivat hanta seitsemankymmenta paivaa.	
 
-4. Koska hanen murhepaivansa olivat kuluneet, puhui Joseph Pharaon palvelioille, sanoen: jos mina olen armon loytanyt teidan edessanne, niin puhukaat Pharaolle, ja sanokaat:	
+<div class="versenum">4.</div> Koska hanen murhepaivansa olivat kuluneet, puhui Joseph Pharaon palvelioille, sanoen: jos mina olen armon loytanyt teidan edessanne, niin puhukaat Pharaolle, ja sanokaat:	
 
-5. Minun isani vannotti minua, sanoen: katso, mina kuolen, hautaa minua minun hautaani, jonka mina olen kaivanut minulle Kanaanin maalla: niin tahtoisin mina nyt siis menna, ja haudata minun isani, ja palata tanne jallensa.	
+<div class="versenum">5.</div> Minun isani vannotti minua, sanoen: katso, mina kuolen, hautaa minua minun hautaani, jonka mina olen kaivanut minulle Kanaanin maalla: niin tahtoisin mina nyt siis menna, ja haudata minun isani, ja palata tanne jallensa.	
 
-6. Pharao sanoi hanelle: mene ja hautaa sinun isas, niinkuin han sinua vannottanut on.	
+<div class="versenum">6.</div> Pharao sanoi hanelle: mene ja hautaa sinun isas, niinkuin han sinua vannottanut on.	
 
-7. Niin Joseph meni hautaamaan isaansa; ja hanen kanssansa menivat kaikki Pharaon palveliat, hanen huoneensa vanhimmat, ja kaikki Egyptin maan vanhimmat.	
+<div class="versenum">7.</div> Niin Joseph meni hautaamaan isaansa; ja hanen kanssansa menivat kaikki Pharaon palveliat, hanen huoneensa vanhimmat, ja kaikki Egyptin maan vanhimmat.	
 
-8. Kaiki myos Josephin vaki, ja hanen veljensa, ja hanen isansa vaki. Ainoastaan lapsensa, ja lampaansa, ja karjansa jattivat he Gosenin maalle.	
+<div class="versenum">8.</div> Kaiki myos Josephin vaki, ja hanen veljensa, ja hanen isansa vaki. Ainoastaan lapsensa, ja lampaansa, ja karjansa jattivat he Gosenin maalle.	
 
-9. Menivat myos hanen kanssansa vaunut ja ratsasmiehet. Ja se oli sangen suuri joukko.	
+<div class="versenum">9.</div> Menivat myos hanen kanssansa vaunut ja ratsasmiehet. Ja se oli sangen suuri joukko.	
 
-10. Ja koska he tulivat Atadin riihen tyko, joka on silla puolen Jordania, niin he pitivat siina suuren ja katkeran valituksen; ja han murehti isaansa seitseman paivaa.	
+<div class="versenum">10.</div> Ja koska he tulivat Atadin riihen tyko, joka on silla puolen Jordania, niin he pitivat siina suuren ja katkeran valituksen; ja han murehti isaansa seitseman paivaa.	
 
-11. Ja koska Kanaanin maan asuvaiset nakivat heidan murheensa Atadin riihen tykona, sanoivat he: Egyptilaiset murehtivat siella sangen kovin. Siita se paikka kutsutaan: Egyptilaisten valitus, joka on silla puolella Jordania.	
+<div class="versenum">11.</div> Ja koska Kanaanin maan asuvaiset nakivat heidan murheensa Atadin riihen tykona, sanoivat he: Egyptilaiset murehtivat siella sangen kovin. Siita se paikka kutsutaan: Egyptilaisten valitus, joka on silla puolella Jordania.	
 
-12. Niin hanen lapsensa tekivat hanelle niinkuin han oli kaskenyt.	
+<div class="versenum">12.</div> Niin hanen lapsensa tekivat hanelle niinkuin han oli kaskenyt.	
 
-13. Ja veivat hanen Kanaanin maalle, ja hautasivat hanen Makpelan vainion luolaan, jonka Abraham vainion kanssa ostanut oli perintohaudaksi, Ephronilta Hetilaiselta, Mamren kohdalla.	
+<div class="versenum">13.</div> Ja veivat hanen Kanaanin maalle, ja hautasivat hanen Makpelan vainion luolaan, jonka Abraham vainion kanssa ostanut oli perintohaudaksi, Ephronilta Hetilaiselta, Mamren kohdalla.	
 
-14. Niin palasi Joseph Egyptiin, han ja hanen veljensa, ja kaikki jotka hanen kanssansa olivat menneet hautaamaan hanen isaansa, sitte kuin han isansa haudannut oli.	
+<div class="versenum">14.</div> Niin palasi Joseph Egyptiin, han ja hanen veljensa, ja kaikki jotka hanen kanssansa olivat menneet hautaamaan hanen isaansa, sitte kuin han isansa haudannut oli.	
 
-15. Mutta koska Josephin veljet nakivat isansa kuolleeksi, sanoivat he: mitamaks, Joseph on vihaava meita, ja kaiketi kostaa meille kaiken sen pahan, kuin me hanta vastaan tehneet olemme.	
+<div class="versenum">15.</div> Mutta koska Josephin veljet nakivat isansa kuolleeksi, sanoivat he: mitamaks, Joseph on vihaava meita, ja kaiketi kostaa meille kaiken sen pahan, kuin me hanta vastaan tehneet olemme.	
 
-16. Sentahden kaskivat he sanoa Josephille: sinun isas kaski ennenkuin han kuoli, sanoen:	
+<div class="versenum">16.</div> Sentahden kaskivat he sanoa Josephille: sinun isas kaski ennenkuin han kuoli, sanoen:	
 
-17. Niin sanokaat Josephille: mina rukoilen, anna nyt veljilles anteeksi heidan rikoksensa ja pahatekonsa, etta he niin pahoin ovat tehneet sinua vastaan. Anna nyt anteeksi, sinun isas Jumalan palveliain pahateko. Mutta Joseph itki heidan naita puhuissansa.	
+<div class="versenum">17.</div> Niin sanokaat Josephille: mina rukoilen, anna nyt veljilles anteeksi heidan rikoksensa ja pahatekonsa, etta he niin pahoin ovat tehneet sinua vastaan. Anna nyt anteeksi, sinun isas Jumalan palveliain pahateko. Mutta Joseph itki heidan naita puhuissansa.	
 
-18. Ja hanen veljensa myos tulivat ja lankesivat maahan hanen eteensa ja sanoivat: katso, me olemme sinun palvelias.	
+<div class="versenum">18.</div> Ja hanen veljensa myos tulivat ja lankesivat maahan hanen eteensa ja sanoivat: katso, me olemme sinun palvelias.	
 
-19. Joseph sanoi heille: alkaat peljatko; silla mina olen Jumalan kaden alla.	
+<div class="versenum">19.</div> Joseph sanoi heille: alkaat peljatko; silla mina olen Jumalan kaden alla.	
 
-20. Te ajattelitte minua vastaan pahaa; mutta Jumala on ajatellut sen hyvaksi, etta han tekis, niinkuin nyt nahtava on, pelastaaksensa paljo kansaa.	
+<div class="versenum">20.</div> Te ajattelitte minua vastaan pahaa; mutta Jumala on ajatellut sen hyvaksi, etta han tekis, niinkuin nyt nahtava on, pelastaaksensa paljo kansaa.	
 
-21. Alkaat siis nyt peljatko, mina ravitsen teita ja teidan lapsianne; ja han rohkaisi heita ja puheli ystavallisesti heidan kanssansa.	
+<div class="versenum">21.</div> Alkaat siis nyt peljatko, mina ravitsen teita ja teidan lapsianne; ja han rohkaisi heita ja puheli ystavallisesti heidan kanssansa.	
 
-22. Ja niin asui Joseph Egyptissa, han ja hanen isansa huone; ja Joseph eli sata ja kymmenen ajastaikaa,	
+<div class="versenum">22.</div> Ja niin asui Joseph Egyptissa, han ja hanen isansa huone; ja Joseph eli sata ja kymmenen ajastaikaa,	
 
-23. Ja naki Ephraimin lapset kolmanteen polveen, niin myos Makirin Manassen pojan lapset, kasvatetut Josephin polven juuressa.	
+<div class="versenum">23.</div> Ja naki Ephraimin lapset kolmanteen polveen, niin myos Makirin Manassen pojan lapset, kasvatetut Josephin polven juuressa.	
 
-24. Joseph sanoi veljillensa: mina kuolen, ja Jumala on totisesti etsiva teita, ja vie teidan talta maalta siihen maahan, jonka han on itse vannonut Abrahamille, Isaakille ja Jakobille.	
+<div class="versenum">24.</div> Joseph sanoi veljillensa: mina kuolen, ja Jumala on totisesti etsiva teita, ja vie teidan talta maalta siihen maahan, jonka han on itse vannonut Abrahamille, Isaakille ja Jakobille.	
 
-25. Niin vannotti Joseph Israelin lapsia, sanoen: Jumala on totisesti teita etsiva, viekaat pois minun luuni taalta.	
+<div class="versenum">25.</div> Niin vannotti Joseph Israelin lapsia, sanoen: Jumala on totisesti teita etsiva, viekaat pois minun luuni taalta.	
 
-26. Ja niin Joseph kuoli sadan ja kymmenen ajastaikaisena, ja he voitelivat hanen, ja panivat arkkuun Egyptissa.	
+<div class="versenum">26.</div> Ja niin Joseph kuoli sadan ja kymmenen ajastaikaisena, ja he voitelivat hanen, ja panivat arkkuun Egyptissa.	
 

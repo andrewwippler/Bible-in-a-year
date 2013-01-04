@@ -1,84 +1,84 @@
 Jobin 38	
 	
-1. Ja Herra vastasi Jobia tuulispaasta ja sanoi:	
+<div class="versenum">1.</div> Ja Herra vastasi Jobia tuulispaasta ja sanoi:	
 
-2. Kuka on se, joka taidossansa niin eksyy ja puhuu niin taitamattomasti?	
+<div class="versenum">2.</div> Kuka on se, joka taidossansa niin eksyy ja puhuu niin taitamattomasti?	
 
-3. Vyota nyt kupees niin kuin mies: Mina kysyn sinulta, opeta minua.	
+<div class="versenum">3.</div> Vyota nyt kupees niin kuin mies: Mina kysyn sinulta, opeta minua.	
 
-4. Kussas silloin olit, koska mina maan perustin? Ilmoita se, jos sinulla se ymmarrys on.	
+<div class="versenum">4.</div> Kussas silloin olit, koska mina maan perustin? Ilmoita se, jos sinulla se ymmarrys on.	
 
-5. Tiedatkos, kuka hanen maaransa asettanut on? eli kuka on vetanyt ojennusnuoran hanen paallensa?	
+<div class="versenum">5.</div> Tiedatkos, kuka hanen maaransa asettanut on? eli kuka on vetanyt ojennusnuoran hanen paallensa?	
 
-6. Mihinka ovat hanen jalkansa vajotetut, eli kuka on hanen kulmakivensa laskenut?	
+<div class="versenum">6.</div> Mihinka ovat hanen jalkansa vajotetut, eli kuka on hanen kulmakivensa laskenut?	
 
-7. Kuin aamutahdet ynna minua kiittivat, ja kaikki Jumalan lapset riemuitsivat.	
+<div class="versenum">7.</div> Kuin aamutahdet ynna minua kiittivat, ja kaikki Jumalan lapset riemuitsivat.	
 
-8. Kuka on sulkenut meren ovinensa, koska se ratkesi ja lahti ulos niinkuin aidin kohdusta?	
+<div class="versenum">8.</div> Kuka on sulkenut meren ovinensa, koska se ratkesi ja lahti ulos niinkuin aidin kohdusta?	
 
-9. Kuin mina puetin sen pilvilla, ja kaarin synkeydella niinkuin kapaloilla;	
+<div class="versenum">9.</div> Kuin mina puetin sen pilvilla, ja kaarin synkeydella niinkuin kapaloilla;	
 
-10. Kuin mina estin sen paisumisen saadyllani, ja asetin siihen teljen ja ovet eteen,	
+<div class="versenum">10.</div> Kuin mina estin sen paisumisen saadyllani, ja asetin siihen teljen ja ovet eteen,	
 
-11. Ja sanoin: tahan asti pitaa sinun tuleman ja ei edemmaksi: tassa pitaa sinun korkiat aaltos asettuman.	
+<div class="versenum">11.</div> Ja sanoin: tahan asti pitaa sinun tuleman ja ei edemmaksi: tassa pitaa sinun korkiat aaltos asettuman.	
 
-12. Oletkos elaissas kaskenyt aamulle, ja aamuruskolle osoittanut hanen siansa?	
+<div class="versenum">12.</div> Oletkos elaissas kaskenyt aamulle, ja aamuruskolle osoittanut hanen siansa?	
 
-13. Kasittaa maan aaria, ja puhdistaa siita jumalattomat.	
+<div class="versenum">13.</div> Kasittaa maan aaria, ja puhdistaa siita jumalattomat.	
 
-14. Se pitaa muutettaman niinkuin sinetin savi; niin etta he tulevat niinkuin vaate.	
+<div class="versenum">14.</div> Se pitaa muutettaman niinkuin sinetin savi; niin etta he tulevat niinkuin vaate.	
 
-15. Ja jumalattomilta otetaan pois heidan valkeutensa, ja ylpeiden kasivarsi rikotaan.	
+<div class="versenum">15.</div> Ja jumalattomilta otetaan pois heidan valkeutensa, ja ylpeiden kasivarsi rikotaan.	
 
-16. Oletkos tullut meren pohjaan, ja vaeltanut syvyyden jalkia?	
+<div class="versenum">16.</div> Oletkos tullut meren pohjaan, ja vaeltanut syvyyden jalkia?	
 
-17. Onko kuoleman ovet koskaan auvenneet etees, eli oletkos nahnyt kuoleman varjon ovet?	
+<div class="versenum">17.</div> Onko kuoleman ovet koskaan auvenneet etees, eli oletkos nahnyt kuoleman varjon ovet?	
 
-18. Oletkos ymmartanyt, kuinka levia maa on? annas kuulla, tiedatkos kaikki namat.	
+<div class="versenum">18.</div> Oletkos ymmartanyt, kuinka levia maa on? annas kuulla, tiedatkos kaikki namat.	
 
-19. Mika tie on sinne, kussa valkeus asuu? ja kuka on pimeyden sia?	
+<div class="versenum">19.</div> Mika tie on sinne, kussa valkeus asuu? ja kuka on pimeyden sia?	
 
-20. Ettas saattaisit hanen rajoillensa ja osaisit polut hanen huoneesensa.	
+<div class="versenum">20.</div> Ettas saattaisit hanen rajoillensa ja osaisit polut hanen huoneesensa.	
 
-21. Tiesitkos, koska sina syntyva olit ja kuinka paljo sinulla paivia olis?	
+<div class="versenum">21.</div> Tiesitkos, koska sina syntyva olit ja kuinka paljo sinulla paivia olis?	
 
-22. Oletkos siella ollut, kusta lumi tulee? eli oletkos nahnyt, kusta rakeet tulevat?	
+<div class="versenum">22.</div> Oletkos siella ollut, kusta lumi tulee? eli oletkos nahnyt, kusta rakeet tulevat?	
 
-23. Jotka mina olen tallella pitanyt murhepaivaan asti, sodan ja tappeluksen paivaan asti.	
+<div class="versenum">23.</div> Jotka mina olen tallella pitanyt murhepaivaan asti, sodan ja tappeluksen paivaan asti.	
 
-24. Minka tien kautta valkeus hajoittaa hanensa, ja itatuuli tuulee maan paalle?	
+<div class="versenum">24.</div> Minka tien kautta valkeus hajoittaa hanensa, ja itatuuli tuulee maan paalle?	
 
-25. Kuka on sadekuurolle jakanut juoksunsa, ja pitkaisen valkialle ja jylinalle hanen tiensa?	
+<div class="versenum">25.</div> Kuka on sadekuurolle jakanut juoksunsa, ja pitkaisen valkialle ja jylinalle hanen tiensa?	
 
-26. Niin etta se sataa senkin maan paalle, jossa ei ketaan ole, korvessa, jossa ei yhtaan ihmista ole;	
+<div class="versenum">26.</div> Niin etta se sataa senkin maan paalle, jossa ei ketaan ole, korvessa, jossa ei yhtaan ihmista ole;	
 
-27. Etta se tayttais eramaan ja korven, ja saattais ruohot vihottamaan.	
+<div class="versenum">27.</div> Etta se tayttais eramaan ja korven, ja saattais ruohot vihottamaan.	
 
-28. Onko sateella isaa? eli kuka on synnyttanyt kasteen pisarat?	
+<div class="versenum">28.</div> Onko sateella isaa? eli kuka on synnyttanyt kasteen pisarat?	
 
-29. Kenen kohdusta jaa on tullut? ja kuka on harman synnyttanyt taivaan alla?	
+<div class="versenum">29.</div> Kenen kohdusta jaa on tullut? ja kuka on harman synnyttanyt taivaan alla?	
 
-30. Vedet katkevat itsensa niinkuin kivi, ja syvyydet paalta kiinnitetaan.	
+<div class="versenum">30.</div> Vedet katkevat itsensa niinkuin kivi, ja syvyydet paalta kiinnitetaan.	
 
-31. Taidatkos sitoa Seulaisen siteet, eli paastaa Kointahden siteet?	
+<div class="versenum">31.</div> Taidatkos sitoa Seulaisen siteet, eli paastaa Kointahden siteet?	
 
-32. Taidatkos tuoda taivaan merkit edes aikanansa, eli johdattaa Otavan lastensa kanssa?	
+<div class="versenum">32.</div> Taidatkos tuoda taivaan merkit edes aikanansa, eli johdattaa Otavan lastensa kanssa?	
 
-33. Tiedatkos, kuinka taivas hallitaan? eli taidatkos hanen hallituksensa toimittaa maan paalla?	
+<div class="versenum">33.</div> Tiedatkos, kuinka taivas hallitaan? eli taidatkos hanen hallituksensa toimittaa maan paalla?	
 
-34. Taidatkos korottaa aanes ylos pilviin, etta veden paljous sinun peittais?	
+<div class="versenum">34.</div> Taidatkos korottaa aanes ylos pilviin, etta veden paljous sinun peittais?	
 
-35. Taidatkos lahettaa pitkaisen leimaukset matkaan menemaan ja sanomaan sinulle: tassa me olemme?	
+<div class="versenum">35.</div> Taidatkos lahettaa pitkaisen leimaukset matkaan menemaan ja sanomaan sinulle: tassa me olemme?	
 
-36. Kuka on asettanut taidon salaisuuteen eli kuka on ajatukselle antanut toimen?	
+<div class="versenum">36.</div> Kuka on asettanut taidon salaisuuteen eli kuka on ajatukselle antanut toimen?	
 
-37. Kuka on niin taitava, etta han pilvet lukea taitaa? ja kuka taitaa tukita vesitydyt taivaassa?	
+<div class="versenum">37.</div> Kuka on niin taitava, etta han pilvet lukea taitaa? ja kuka taitaa tukita vesitydyt taivaassa?	
 
-38. Kuin tomu kastuu ja juoksee yhteen, ja kokkareet ryhtyvat toinen toiseensa.	
+<div class="versenum">38.</div> Kuin tomu kastuu ja juoksee yhteen, ja kokkareet ryhtyvat toinen toiseensa.	
 
-39. (H 39:1) Taidatkos jalopeuralle antaa hanen saaliinsa ajaaksensa takaa? ja ravita nuoret jalopeurat?	
+<div class="versenum">39.</div> (H 39:1) Taidatkos jalopeuralle antaa hanen saaliinsa ajaaksensa takaa? ja ravita nuoret jalopeurat?	
 
-40. (H 39:2) Niin etta he makaavat sioillansa, ja lepaavat luolissansa, joissa he vaijyvat.	
+<div class="versenum">40.</div> (H 39:2) Niin etta he makaavat sioillansa, ja lepaavat luolissansa, joissa he vaijyvat.	
 
-41. (H 39:3) Kuka valmistaa kaarneelle ruan, kuin hanen poikansa huutavat Jumalaa, ja ei he tieta eksyksissa, kussa heidan ruokansa on?	
+<div class="versenum">41.</div> (H 39:3) Kuka valmistaa kaarneelle ruan, kuin hanen poikansa huutavat Jumalaa, ja ei he tieta eksyksissa, kussa heidan ruokansa on?	
 

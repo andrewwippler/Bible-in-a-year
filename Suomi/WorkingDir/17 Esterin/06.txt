@@ -1,30 +1,30 @@
 Esterin 6	
 	
-1. Ja sina yona ei saanut kuningas unta, ja han kaski tuotaa aika- ja muistokirjat, ja ne luettiin kuninkaan edessa.	
+<div class="versenum">1.</div> Ja sina yona ei saanut kuningas unta, ja han kaski tuotaa aika- ja muistokirjat, ja ne luettiin kuninkaan edessa.	
 
-2. Niin loydettiin kirjoitettuna, kuinka Mordekai oli tietaa antanut, etta kaksi kuninkaan kamaripalveliaa, Bigtana ja Teres, ovenvartiat, olivat aikoneet heittaa katensa kuningas Ahasveruksen paalle,	
+<div class="versenum">2.</div> Niin loydettiin kirjoitettuna, kuinka Mordekai oli tietaa antanut, etta kaksi kuninkaan kamaripalveliaa, Bigtana ja Teres, ovenvartiat, olivat aikoneet heittaa katensa kuningas Ahasveruksen paalle,	
 
-3. Ja kuningas sanoi: mita kunniaa eli hyvaa me olemme Mordekaille sen edesta tehneet? Niin sanoivat kuninkaan palveliat, jotka hanta palvelivat: ei ole hanelle mitaan tapahtunut.	
+<div class="versenum">3.</div> Ja kuningas sanoi: mita kunniaa eli hyvaa me olemme Mordekaille sen edesta tehneet? Niin sanoivat kuninkaan palveliat, jotka hanta palvelivat: ei ole hanelle mitaan tapahtunut.	
 
-4. Ja kuningas sanoi: kuka kartanolla on? ja Haman kaveli ulkona kartanolla kuninkaan huoneen edessa, sanoaksensa kuninkaalle, etta Mordekai piti hirtettaman siihen puuhun, jonka han oli hanta varten valmistanut.	
+<div class="versenum">4.</div> Ja kuningas sanoi: kuka kartanolla on? ja Haman kaveli ulkona kartanolla kuninkaan huoneen edessa, sanoaksensa kuninkaalle, etta Mordekai piti hirtettaman siihen puuhun, jonka han oli hanta varten valmistanut.	
 
-5. Ja kuninkaan palveliat sanoivat hanelle: katso, Haman seisoo pihalla. Kuningas sanoi: tulkaan sisalle.	
+<div class="versenum">5.</div> Ja kuninkaan palveliat sanoivat hanelle: katso, Haman seisoo pihalla. Kuningas sanoi: tulkaan sisalle.	
 
-6. Ja kuin Haman tuli, sanoi kuningas hanelle: mita sille miehelle pitaa tehtaman, jota kuningas tahtoo kunnioittaa? Ja Haman ajatteli sydamessansa: ketapa kuningas paremmin tahtoo kunnioittaa kuin minua?	
+<div class="versenum">6.</div> Ja kuin Haman tuli, sanoi kuningas hanelle: mita sille miehelle pitaa tehtaman, jota kuningas tahtoo kunnioittaa? Ja Haman ajatteli sydamessansa: ketapa kuningas paremmin tahtoo kunnioittaa kuin minua?	
 
-7. Ja Haman sanoi kuninkaalle: se mies,jota kuningas tahtoo kunnioittaa,	
+<div class="versenum">7.</div> Ja Haman sanoi kuninkaalle: se mies,jota kuningas tahtoo kunnioittaa,	
 
-8. Pitaa puetettaman kuninkaallisilla vaatteilla, joita kuningas itse pitaa, ja tuotaman se hevonen, jolla kuningas ajaa, ja etta kuninkaallinen kruunu pantaisiin hanen paahansa.	
+<div class="versenum">8.</div> Pitaa puetettaman kuninkaallisilla vaatteilla, joita kuningas itse pitaa, ja tuotaman se hevonen, jolla kuningas ajaa, ja etta kuninkaallinen kruunu pantaisiin hanen paahansa.	
 
-9. Ja vaatteet ja hevonen pitaa annettaman yhden kuninkaan paamiehen kateen, joka on ylimmaisista paamiehista, etta han puettais sen miehen, jota kuningas tahtoo kunnioittaa, ja antais hanen ajaa hevosen selassa kaupungin kaduilla, ja huutaa hanen edellansa: nain pitaa sille miehelle tehtaman, jota kuningas tahtoo kunnioittaa.	
+<div class="versenum">9.</div> Ja vaatteet ja hevonen pitaa annettaman yhden kuninkaan paamiehen kateen, joka on ylimmaisista paamiehista, etta han puettais sen miehen, jota kuningas tahtoo kunnioittaa, ja antais hanen ajaa hevosen selassa kaupungin kaduilla, ja huutaa hanen edellansa: nain pitaa sille miehelle tehtaman, jota kuningas tahtoo kunnioittaa.	
 
-10. Kuningas sanoi Hamanille: kiiruhda, ota vaatteet ja hevonen, niinkuin sina olet sanonut, ja tee niin Mordekain Juudalaisen kanssa, joka istuu kuninkaan portissa; ja ala anna mitaan puuttua kaikista naista, mita sina puhunut olet.	
+<div class="versenum">10.</div> Kuningas sanoi Hamanille: kiiruhda, ota vaatteet ja hevonen, niinkuin sina olet sanonut, ja tee niin Mordekain Juudalaisen kanssa, joka istuu kuninkaan portissa; ja ala anna mitaan puuttua kaikista naista, mita sina puhunut olet.	
 
-11. Niin Haman otti vaatteet ja hevosen ja puetti Mordekain, ja antoi hanen ajaa kaupungin kaduilla, ja huusi hanen edellansa: nain sille miehelle tehdaan, jota kuningas tahtoo kunnioittaa.	
+<div class="versenum">11.</div> Niin Haman otti vaatteet ja hevosen ja puetti Mordekain, ja antoi hanen ajaa kaupungin kaduilla, ja huusi hanen edellansa: nain sille miehelle tehdaan, jota kuningas tahtoo kunnioittaa.	
 
-12. Ja Mordekai palasi kuninkaan porttiin; mutta Haman meni kiiruusti kotiansa, murehtien ja peitetylla paalla.	
+<div class="versenum">12.</div> Ja Mordekai palasi kuninkaan porttiin; mutta Haman meni kiiruusti kotiansa, murehtien ja peitetylla paalla.	
 
-13. Ja Haman jutteli emannallensa Serekselle ja kaikille ystavillensa kaikki, mita hanelle tapahtunut oli. Niin sanoivat hanen viisaansa ja hanen emantansa Seres hanelle: Jos Mordekai on Juudalaisten siemenesta, jonka edessa sina olet ruvennut lankeemaan, niin et sina voi mitaan hanta vastaan, vaan sinun taytyy perati hanen edessansa langeta.	
+<div class="versenum">13.</div> Ja Haman jutteli emannallensa Serekselle ja kaikille ystavillensa kaikki, mita hanelle tapahtunut oli. Niin sanoivat hanen viisaansa ja hanen emantansa Seres hanelle: Jos Mordekai on Juudalaisten siemenesta, jonka edessa sina olet ruvennut lankeemaan, niin et sina voi mitaan hanta vastaan, vaan sinun taytyy perati hanen edessansa langeta.	
 
-14. Kuin he viela parhaallaansa hanen kanssansa puhuivat, tulivat kuninkaan kamaripalveliat ja kiiruhtivat Hamania pitoihin, jotka Ester oli valmistanut.	
+<div class="versenum">14.</div> Kuin he viela parhaallaansa hanen kanssansa puhuivat, tulivat kuninkaan kamaripalveliat ja kiiruhtivat Hamania pitoihin, jotka Ester oli valmistanut.	
 

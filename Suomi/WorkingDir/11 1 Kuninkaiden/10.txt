@@ -1,60 +1,60 @@
 1 Kuninkaiden 10	
 	
-1. Ja rikkaan Arabian kuningatar oli kuullut Salomon sanoman Herran nimesta, ja tuli koettelemaan hanta tapauksilla.	
+<div class="versenum">1.</div> Ja rikkaan Arabian kuningatar oli kuullut Salomon sanoman Herran nimesta, ja tuli koettelemaan hanta tapauksilla.	
 
-2. Ja han tuli Jerusalemiin sangen suuren joukon kanssa, kamelein kanssa, jotka jaloja yrtteja kannattivat, ja aivan paljon kultaa ja kalliita kivia. Ja kuin han tuli kuningas Salomon tyko, puhui han hanelle kaikki, mita han sydamessansa aikonut oli.	
+<div class="versenum">2.</div> Ja han tuli Jerusalemiin sangen suuren joukon kanssa, kamelein kanssa, jotka jaloja yrtteja kannattivat, ja aivan paljon kultaa ja kalliita kivia. Ja kuin han tuli kuningas Salomon tyko, puhui han hanelle kaikki, mita han sydamessansa aikonut oli.	
 
-3. Ja Salomo ilmoitti hanelle kaikki hanen sanansa: ei ollut mitaan kuninkaalta salattu, jota ei han hanelle ilmoittanut.	
+<div class="versenum">3.</div> Ja Salomo ilmoitti hanelle kaikki hanen sanansa: ei ollut mitaan kuninkaalta salattu, jota ei han hanelle ilmoittanut.	
 
-4. Koska rikkaan Arabian kuningatar naki kaiken Salomon taidon ja huoneen, jonka han rakentanut oli,	
+<div class="versenum">4.</div> Koska rikkaan Arabian kuningatar naki kaiken Salomon taidon ja huoneen, jonka han rakentanut oli,	
 
-5. Ja ruat hanen poydallansa, ja hanen palveliainsa asuinsiat, kunkin heidan virkansa, ja heidan vaatteensa, ja hanen juomansa laskiat ja polttouhrinsa, jonka han Herran huoneessa uhrasi, tuli han liki hengettomaksi.	
+<div class="versenum">5.</div> Ja ruat hanen poydallansa, ja hanen palveliainsa asuinsiat, kunkin heidan virkansa, ja heidan vaatteensa, ja hanen juomansa laskiat ja polttouhrinsa, jonka han Herran huoneessa uhrasi, tuli han liki hengettomaksi.	
 
-6. Sitte sanoi han kuninkaalle: se on tosi, minka mina sinusta kuullut olen minun maalleni, ja sinun menostas, ja sinun taidostas.	
+<div class="versenum">6.</div> Sitte sanoi han kuninkaalle: se on tosi, minka mina sinusta kuullut olen minun maalleni, ja sinun menostas, ja sinun taidostas.	
 
-7. Ja en mina uskonut sita ennenkuin mina tulin itse, ja mina olen sen nyt silmillani nahnyt, ja katso, ei ole minulle puoliakaan sanottu: sinulla on enempi taitoa ja hyvyytta, kuin sanoma on, jonka mina kuullut olen.	
+<div class="versenum">7.</div> Ja en mina uskonut sita ennenkuin mina tulin itse, ja mina olen sen nyt silmillani nahnyt, ja katso, ei ole minulle puoliakaan sanottu: sinulla on enempi taitoa ja hyvyytta, kuin sanoma on, jonka mina kuullut olen.	
 
-8. Autuaat ovat sinun miehes ja sinun palvelias, jotka aina sinun edessas seisovat ja kuuntelevat sinun taitoas.	
+<div class="versenum">8.</div> Autuaat ovat sinun miehes ja sinun palvelias, jotka aina sinun edessas seisovat ja kuuntelevat sinun taitoas.	
 
-9. Kiitetty olkoon Herra sinun Jumalas, joka sinuun on mielistynyt, sinun Israelin istuimelle pannaksensa! Sentahden etta Herra rakastaa Israelia ijankaikkisesti, on han pannut sinun kuninkaaksi tuomiota ja oikeutta tekemaan.	
+<div class="versenum">9.</div> Kiitetty olkoon Herra sinun Jumalas, joka sinuun on mielistynyt, sinun Israelin istuimelle pannaksensa! Sentahden etta Herra rakastaa Israelia ijankaikkisesti, on han pannut sinun kuninkaaksi tuomiota ja oikeutta tekemaan.	
 
-10. Ja han antoi kuninkaalle kaksikymmenta toistasataa sentneria kultaa ja sangen paljon jaloja yrtteja ja kalliita kivia. Ei tullut sinne sitte niin paljo kalliita yrtteja, kuin rikkaan Arabian kuningatar kuningas Salomolle antoi;	
+<div class="versenum">10.</div> Ja han antoi kuninkaalle kaksikymmenta toistasataa sentneria kultaa ja sangen paljon jaloja yrtteja ja kalliita kivia. Ei tullut sinne sitte niin paljo kalliita yrtteja, kuin rikkaan Arabian kuningatar kuningas Salomolle antoi;	
 
-11. Siihen myos Hiramin haahdet, jotka kultaa toivat Ophirista, ja sangen paljo Hebenin puita ja kalliita kivia.	
+<div class="versenum">11.</div> Siihen myos Hiramin haahdet, jotka kultaa toivat Ophirista, ja sangen paljo Hebenin puita ja kalliita kivia.	
 
-12. Ja kuningas antoi tehda Hebenin puista patsaita Herran huoneesen ja kuninkaan huoneesen, ja kanteleet ja harput soittajille. Ei tullut sinne sitte niin paljo Hebenin puita, eika myos nahty ole tahan paivaan asti.	
+<div class="versenum">12.</div> Ja kuningas antoi tehda Hebenin puista patsaita Herran huoneesen ja kuninkaan huoneesen, ja kanteleet ja harput soittajille. Ei tullut sinne sitte niin paljo Hebenin puita, eika myos nahty ole tahan paivaan asti.	
 
-13. Ja kuningas Salomo antoi rikkaan Arabian kuningattarelle kaikki, mita han pyysi ja anoi hanelta, paitsi mita han hanelle itse antoi. Ja han palasi ja meni palvelioinensa omalle maallensa.	
+<div class="versenum">13.</div> Ja kuningas Salomo antoi rikkaan Arabian kuningattarelle kaikki, mita han pyysi ja anoi hanelta, paitsi mita han hanelle itse antoi. Ja han palasi ja meni palvelioinensa omalle maallensa.	
 
-14. Mutta kullan paino, jonka he joka vuosi toivat Salomolle, oli kuusisataa ja kuusiseitsemattakymmenta sentneria kultaa,	
+<div class="versenum">14.</div> Mutta kullan paino, jonka he joka vuosi toivat Salomolle, oli kuusisataa ja kuusiseitsemattakymmenta sentneria kultaa,	
 
-15. Ilman sita mita kauppamiehet ja yrttein myyjat, niin myos kaikki Arabian kuninkaat ja voimalliset maalta (toivat hanelle.)	
+<div class="versenum">15.</div> Ilman sita mita kauppamiehet ja yrttein myyjat, niin myos kaikki Arabian kuninkaat ja voimalliset maalta (toivat hanelle.)	
 
-16. Ja kuningas Salomo antoi myos tehda parhaasta kullasta kaksisataa keihasta, kuusisataa kultapenninkia antoi han panna jokaiseen keihaaseen;	
+<div class="versenum">16.</div> Ja kuningas Salomo antoi myos tehda parhaasta kullasta kaksisataa keihasta, kuusisataa kultapenninkia antoi han panna jokaiseen keihaaseen;	
 
-17. Ja kolmesataa kilpea parhaasta kullasta, ja kolme leiviskaa kultaa jokaiseen kilpeen; ja kuningas pani ne Libanonin metsahuoneesen.	
+<div class="versenum">17.</div> Ja kolmesataa kilpea parhaasta kullasta, ja kolme leiviskaa kultaa jokaiseen kilpeen; ja kuningas pani ne Libanonin metsahuoneesen.	
 
-18. Ja kuningas teki suuren istuimen elephantin luista, ja kultasi sen selkialla kullalla;	
+<div class="versenum">18.</div> Ja kuningas teki suuren istuimen elephantin luista, ja kultasi sen selkialla kullalla;	
 
-19. Ja siina istuimessa oli kuusi astuinlautaa, ja sen istuimen paa oli ympyriainen takaapain, ja kasipuut olivat molemmilla puolilla istuinta, ja kaksi jalopeuraa seisoi kasipuiden tykona;	
+<div class="versenum">19.</div> Ja siina istuimessa oli kuusi astuinlautaa, ja sen istuimen paa oli ympyriainen takaapain, ja kasipuut olivat molemmilla puolilla istuinta, ja kaksi jalopeuraa seisoi kasipuiden tykona;	
 
-20. Ja siella seisoi kaksitoistakymmenta jalopeuraa niiden kuuden astuinlaudan paalla molemmin puolin: ei senkaltaista ole tehty missakaan valtakunnassa.	
+<div class="versenum">20.</div> Ja siella seisoi kaksitoistakymmenta jalopeuraa niiden kuuden astuinlaudan paalla molemmin puolin: ei senkaltaista ole tehty missakaan valtakunnassa.	
 
-21. Kaikki kuningas Salomon juoma-astiat olivat selkiasta kullasta, ja jokainen astia Libanonin metsahuoneessa oli myos selkiasta kullasta; silla ei yksikaan huolinut kuningas Salomon aikana hopiasta.	
+<div class="versenum">21.</div> Kaikki kuningas Salomon juoma-astiat olivat selkiasta kullasta, ja jokainen astia Libanonin metsahuoneessa oli myos selkiasta kullasta; silla ei yksikaan huolinut kuningas Salomon aikana hopiasta.	
 
-22. Silla kuninkaalla oli haaksi Tarsis merella Hiramin haahden kanssa; ja haaksi Tarsis tuli joka kolmantena vuotena kerran ja toi kultaa, hopiaa, elephantin hampaita, apinoita ja riikinkukkoja.	
+<div class="versenum">22.</div> Silla kuninkaalla oli haaksi Tarsis merella Hiramin haahden kanssa; ja haaksi Tarsis tuli joka kolmantena vuotena kerran ja toi kultaa, hopiaa, elephantin hampaita, apinoita ja riikinkukkoja.	
 
-23. Ja nain kuningas Salomo on tullut suuremmaksi kaikkia kuninkaita maan paalla, rikkaudessa ja viisaudessa.	
+<div class="versenum">23.</div> Ja nain kuningas Salomo on tullut suuremmaksi kaikkia kuninkaita maan paalla, rikkaudessa ja viisaudessa.	
 
-24. Kaikki maailma pyysi nahda Salomoa, kuullaksensa sita taitoa, jonka Jumala oli antanut hanen sydameensa.	
+<div class="versenum">24.</div> Kaikki maailma pyysi nahda Salomoa, kuullaksensa sita taitoa, jonka Jumala oli antanut hanen sydameensa.	
 
-25. Ja he kukin toivat hanelle lahjoja, hopia-astioita ja kultaisia kaluja, ja vaatteita, ja haarniskoita, ja yrtteja, ja hevosia, ja muuleja, joka vuosi.	
+<div class="versenum">25.</div> Ja he kukin toivat hanelle lahjoja, hopia-astioita ja kultaisia kaluja, ja vaatteita, ja haarniskoita, ja yrtteja, ja hevosia, ja muuleja, joka vuosi.	
 
-26. Ja Salomo kokosi vaunuja ja ratsasmiehia, niin etta hanella oli tuhannen ja neljasataa vaunua ja kaksitoistakymmenta tuhatta ratsasmiesta; ne han pani vaunukaupunkeihin ja kuninkaan tyko Jerusalemiin.	
+<div class="versenum">26.</div> Ja Salomo kokosi vaunuja ja ratsasmiehia, niin etta hanella oli tuhannen ja neljasataa vaunua ja kaksitoistakymmenta tuhatta ratsasmiesta; ne han pani vaunukaupunkeihin ja kuninkaan tyko Jerusalemiin.	
 
-27. Ja kuningas teki niin, etta hopiaa oli niin paljo Jerusalemissa kuin kivia, ja sedripuita niin paljo kuin villifikunapuita laaksoissa.	
+<div class="versenum">27.</div> Ja kuningas teki niin, etta hopiaa oli niin paljo Jerusalemissa kuin kivia, ja sedripuita niin paljo kuin villifikunapuita laaksoissa.	
 
-28. Ja Salomolle tuotiin hevosia Egyptista, ja kudotuita kaluja, ja kuninkaan kauppamiehet ostivat ne kalut,	
+<div class="versenum">28.</div> Ja Salomolle tuotiin hevosia Egyptista, ja kudotuita kaluja, ja kuninkaan kauppamiehet ostivat ne kalut,	
 
-29. Ja toivat Egyptista jokaisen vaunun kuudensadan hopiapenningin edesta, ja hevosen sadan ja viidenkymmenen hopiapenningin edesta. Niin veivat he niita myos kattensa kautta kaikkein Hetilaisten kuningasten ja Syrian kuningasten tyko.	
+<div class="versenum">29.</div> Ja toivat Egyptista jokaisen vaunun kuudensadan hopiapenningin edesta, ja hevosen sadan ja viidenkymmenen hopiapenningin edesta. Niin veivat he niita myos kattensa kautta kaikkein Hetilaisten kuningasten ja Syrian kuningasten tyko.	
 

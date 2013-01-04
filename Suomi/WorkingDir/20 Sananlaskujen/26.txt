@@ -1,58 +1,58 @@
 Sananlaskujen 26	
 	
-1. Niinkuin lumi suvella ja sede elonaikana, niin ei sovi tyhmalle kunnia.	
+<div class="versenum">1.</div> Niinkuin lumi suvella ja sede elonaikana, niin ei sovi tyhmalle kunnia.	
 
-2. Niinkuin lintu menee pois, ja paaskynen lentaa, niin ei sovi salvaa kirous ilman syyta.	
+<div class="versenum">2.</div> Niinkuin lintu menee pois, ja paaskynen lentaa, niin ei sovi salvaa kirous ilman syyta.	
 
-3. Hevoselle ruoska ja aasille ohjat, ja hullulle vitsa selkaan.	
+<div class="versenum">3.</div> Hevoselle ruoska ja aasille ohjat, ja hullulle vitsa selkaan.	
 
-4. Ala vastaa tyhmaa hanen tyhmyytensa jalkeen, ettes myos sina hanen kaltaiseksensa tulisi.	
+<div class="versenum">4.</div> Ala vastaa tyhmaa hanen tyhmyytensa jalkeen, ettes myos sina hanen kaltaiseksensa tulisi.	
 
-5. Vastaa tyhmaa hanen tyhmyytensa jalkeen, ettei han nakyisi viisaaksi silmissansa.	
+<div class="versenum">5.</div> Vastaa tyhmaa hanen tyhmyytensa jalkeen, ettei han nakyisi viisaaksi silmissansa.	
 
-6. Joka tyhmain sanansaattajain kautta asian toimittaa, han on niinkuin rampa jaloista, ja saa vahingon.	
+<div class="versenum">6.</div> Joka tyhmain sanansaattajain kautta asian toimittaa, han on niinkuin rampa jaloista, ja saa vahingon.	
 
-7. Niinkuin nilkku voi hypata, niin tyhma taitaa puhua viisaudesta.	
+<div class="versenum">7.</div> Niinkuin nilkku voi hypata, niin tyhma taitaa puhua viisaudesta.	
 
-8. Joka tyhmalle taritsee kunniaa, on niinkuin joku heittaisi kalliin kiven kiviroukkioon.	
+<div class="versenum">8.</div> Joka tyhmalle taritsee kunniaa, on niinkuin joku heittaisi kalliin kiven kiviroukkioon.	
 
-9. Sananlasku on tyhmain suussa niinkuin orjantappura, joka juopuneen kasiin pistelee.	
+<div class="versenum">9.</div> Sananlasku on tyhmain suussa niinkuin orjantappura, joka juopuneen kasiin pistelee.	
 
-10. Taitava ihminen tekee kappaleen oikein; vaan joka taitamattoman palkkaa, han sen turmelee.	
+<div class="versenum">10.</div> Taitava ihminen tekee kappaleen oikein; vaan joka taitamattoman palkkaa, han sen turmelee.	
 
-11. Niinkuin koira syo oksennuksensa, niin on hullu joka hulluutensa kertoo.	
+<div class="versenum">11.</div> Niinkuin koira syo oksennuksensa, niin on hullu joka hulluutensa kertoo.	
 
-12. Koskas naet jonkun, joka luulee itsensa viisaaksi, enempi on silloin toivoa tyhmasta kuin hanesta.	
+<div class="versenum">12.</div> Koskas naet jonkun, joka luulee itsensa viisaaksi, enempi on silloin toivoa tyhmasta kuin hanesta.	
 
-13. Laiska sanoo: nuori jalopeura on tiella, ja jalopeura kujalla.	
+<div class="versenum">13.</div> Laiska sanoo: nuori jalopeura on tiella, ja jalopeura kujalla.	
 
-14. Laiska kaantelee itsiansa vuoteella niinkuin ovi saranassa.	
+<div class="versenum">14.</div> Laiska kaantelee itsiansa vuoteella niinkuin ovi saranassa.	
 
-15. Laiska panee katensa poveensa: ja se tulee hanelle tyolaaksi saattaa suuhunsa jalleen.	
+<div class="versenum">15.</div> Laiska panee katensa poveensa: ja se tulee hanelle tyolaaksi saattaa suuhunsa jalleen.	
 
-16. Laiska luulee itsensa viisaammaksi kuin seitseman, jotka hyvia tapoja opettavat.	
+<div class="versenum">16.</div> Laiska luulee itsensa viisaammaksi kuin seitseman, jotka hyvia tapoja opettavat.	
 
-17. Joka kay ohitse ja sekoittaa itsensa muiden riitoihin, han on senkaltainen, joka koiraa korvista vetaa.	
+<div class="versenum">17.</div> Joka kay ohitse ja sekoittaa itsensa muiden riitoihin, han on senkaltainen, joka koiraa korvista vetaa.	
 
-18. Niinkuin se, joka salaa ampuu, tarkoittaa joutsella ja tappaa,	
+<div class="versenum">18.</div> Niinkuin se, joka salaa ampuu, tarkoittaa joutsella ja tappaa,	
 
-19. Niin on petollinen ihminen hanen lahimmaisillensa, ja sanoo: leikilla mina sen tein.	
+<div class="versenum">19.</div> Niin on petollinen ihminen hanen lahimmaisillensa, ja sanoo: leikilla mina sen tein.	
 
-20. Kuin halot loppuvat, niin tuli sammuu, ja kuin kielikellot pannaan pois, niin riidat lakkaavat.	
+<div class="versenum">20.</div> Kuin halot loppuvat, niin tuli sammuu, ja kuin kielikellot pannaan pois, niin riidat lakkaavat.	
 
-21. Niinkuin hiilet tuleen, ja puut liekkiin, niin riitainen ihminen saattaa metelin.	
+<div class="versenum">21.</div> Niinkuin hiilet tuleen, ja puut liekkiin, niin riitainen ihminen saattaa metelin.	
 
-22. Panettelian sanat ovat niinkuin haavat, ja kayvat lapi sydamen.	
+<div class="versenum">22.</div> Panettelian sanat ovat niinkuin haavat, ja kayvat lapi sydamen.	
 
-23. Viekas kieli ja paha sydan on niinkuin saviastia hopian savulla juotettu.	
+<div class="versenum">23.</div> Viekas kieli ja paha sydan on niinkuin saviastia hopian savulla juotettu.	
 
-24. Vihamien teeskelee itsensa toisin puheellansa; mutta petos on hanen sydamessansa.	
+<div class="versenum">24.</div> Vihamien teeskelee itsensa toisin puheellansa; mutta petos on hanen sydamessansa.	
 
-25. Kuin han liehakoitsee makeilla puheillansa, niin ala usko hanta; silla seitseman kauhistusta on hanen sydamessansa.	
+<div class="versenum">25.</div> Kuin han liehakoitsee makeilla puheillansa, niin ala usko hanta; silla seitseman kauhistusta on hanen sydamessansa.	
 
-26. Joka pitaa salavihaa, tehdaksensa vahinkoa, hanen pahuutensa tulee ilmi kokouksissa.	
+<div class="versenum">26.</div> Joka pitaa salavihaa, tehdaksensa vahinkoa, hanen pahuutensa tulee ilmi kokouksissa.	
 
-27. Joka kuopan kaivaa, han lankee siihen, ja joka kiven vierittaa, se kierittaa sen itse paallensa.	
+<div class="versenum">27.</div> Joka kuopan kaivaa, han lankee siihen, ja joka kiven vierittaa, se kierittaa sen itse paallensa.	
 
-28. Petollinen kieli vihaa rangaistusta, ja suu, joka myotakielin puhuu, saattaa kadotukseen.	
+<div class="versenum">28.</div> Petollinen kieli vihaa rangaistusta, ja suu, joka myotakielin puhuu, saattaa kadotukseen.	
 

@@ -1,66 +1,66 @@
 1 Aikakirja 23	
 	
-1. Kuin David oli vanha ja elamasta kyllansa saanut, asetti han poikansa Salomon Israelin kuninkaaksi,	
+<div class="versenum">1.</div> Kuin David oli vanha ja elamasta kyllansa saanut, asetti han poikansa Salomon Israelin kuninkaaksi,	
 
-2. Ja kokosi kaikki ylimmaiset Israelissa, ja papit ja Levilaiset,	
+<div class="versenum">2.</div> Ja kokosi kaikki ylimmaiset Israelissa, ja papit ja Levilaiset,	
 
-3. Etta Levilaiset luettaisiin hamasta kolmestakymmenesta ajastajasta ja sen ylitse. Ja heidan lukunsa oli paasta paahan, vakevia miehia, kahdeksanneljattakymmenta tuhatta,	
+<div class="versenum">3.</div> Etta Levilaiset luettaisiin hamasta kolmestakymmenesta ajastajasta ja sen ylitse. Ja heidan lukunsa oli paasta paahan, vakevia miehia, kahdeksanneljattakymmenta tuhatta,	
 
-4. Joista oli neljakolmattakymmenta tuhatta teettajaa Herran huoneessa, ja kuusituhatta virkamiesta ja tuomaria;	
+<div class="versenum">4.</div> Joista oli neljakolmattakymmenta tuhatta teettajaa Herran huoneessa, ja kuusituhatta virkamiesta ja tuomaria;	
 
-5. Ja neljatuhatta ovenvartiaa ja neljatuhatta niita, jotka Herralle kiitosta veisasivat kanteleilla, jotka mina pannut olen kiitosta veisaamaan.	
+<div class="versenum">5.</div> Ja neljatuhatta ovenvartiaa ja neljatuhatta niita, jotka Herralle kiitosta veisasivat kanteleilla, jotka mina pannut olen kiitosta veisaamaan.	
 
-6. Ja David teki jarjestyksen Levin lapsille, Gersonille, Kahatille ja Merarille.	
+<div class="versenum">6.</div> Ja David teki jarjestyksen Levin lapsille, Gersonille, Kahatille ja Merarille.	
 
-7. Gersonilaisia olivat Laedan ja Simei.	
+<div class="versenum">7.</div> Gersonilaisia olivat Laedan ja Simei.	
 
-8. Laedanin lapset: ensimainen Jehieli, Setam ja Joel, kolme;	
+<div class="versenum">8.</div> Laedanin lapset: ensimainen Jehieli, Setam ja Joel, kolme;	
 
-9. Simein lapset: Salomit, Hasiel ja Haran, kolme. Namat olivat Laedanin isain ylimmaiset.	
+<div class="versenum">9.</div> Simein lapset: Salomit, Hasiel ja Haran, kolme. Namat olivat Laedanin isain ylimmaiset.	
 
-10. Olivat myos namat Simein lapset: Jahat, Sina, Jeus ja Beria. Namat nelja olivat Simein lapset.	
+<div class="versenum">10.</div> Olivat myos namat Simein lapset: Jahat, Sina, Jeus ja Beria. Namat nelja olivat Simein lapset.	
 
-11. Jahat oli ensimainen, Sina toinen. Mutta Jeuksella ja Berialla ei ollut monta lasta, sentahden luettiin ne yhdeksi isan huoneeksi.	
+<div class="versenum">11.</div> Jahat oli ensimainen, Sina toinen. Mutta Jeuksella ja Berialla ei ollut monta lasta, sentahden luettiin ne yhdeksi isan huoneeksi.	
 
-12. Kahatin lapset: Amram, Jitshar, Hebron ja Ussiel, nelja.	
+<div class="versenum">12.</div> Kahatin lapset: Amram, Jitshar, Hebron ja Ussiel, nelja.	
 
-13. Amramin lapset: Aaron ja Moses. Mutta Aaron eroitettiin, koska oli pyhitetty kaikkein pyhimmalle, han ja hanen poikansa ijankaikkisesti, kantamaan suitsutusta Herran edessa, ja palvelemaan hanta, ja siunaamaan hanen nimeensa ijankaikkisesti.	
+<div class="versenum">13.</div> Amramin lapset: Aaron ja Moses. Mutta Aaron eroitettiin, koska oli pyhitetty kaikkein pyhimmalle, han ja hanen poikansa ijankaikkisesti, kantamaan suitsutusta Herran edessa, ja palvelemaan hanta, ja siunaamaan hanen nimeensa ijankaikkisesti.	
 
-14. Ja Moseksen Jumalan miehen lapset luettiin Levilaisten sukukuntain sekaan.	
+<div class="versenum">14.</div> Ja Moseksen Jumalan miehen lapset luettiin Levilaisten sukukuntain sekaan.	
 
-15. Moseksen lapset olivat: Gersom ja Elieser.	
+<div class="versenum">15.</div> Moseksen lapset olivat: Gersom ja Elieser.	
 
-16. Gersomin lapset: ensimainen oli Sebuel.	
+<div class="versenum">16.</div> Gersomin lapset: ensimainen oli Sebuel.	
 
-17. Elieserin lapset: ensimainen oli Rehabia. Ja Elieserilla ei ollut muita lapsia, vaan Rehabeamin lapsia oli paljon enempi.	
+<div class="versenum">17.</div> Elieserin lapset: ensimainen oli Rehabia. Ja Elieserilla ei ollut muita lapsia, vaan Rehabeamin lapsia oli paljon enempi.	
 
-18. Jitsharin lapset: Selomit ensimainen.	
+<div class="versenum">18.</div> Jitsharin lapset: Selomit ensimainen.	
 
-19. Hebronin lapset: Jeria ensimainen, Amaria toinen, Jahasiel kolmas ja Jakneam neljas.	
+<div class="versenum">19.</div> Hebronin lapset: Jeria ensimainen, Amaria toinen, Jahasiel kolmas ja Jakneam neljas.	
 
-20. Ussielin lapset: Miika ensimainen ja Jissia toinen.	
+<div class="versenum">20.</div> Ussielin lapset: Miika ensimainen ja Jissia toinen.	
 
-21. Merarin lapset: Maheli ja Musi. Mahelin lapset: Eleasar ja Kis.	
+<div class="versenum">21.</div> Merarin lapset: Maheli ja Musi. Mahelin lapset: Eleasar ja Kis.	
 
-22. Mutta Eleasar kuoli, ja ei ollut hanella poikia, vaan tyttaria, jotka heidan veljensa Kisin pojat naivat.	
+<div class="versenum">22.</div> Mutta Eleasar kuoli, ja ei ollut hanella poikia, vaan tyttaria, jotka heidan veljensa Kisin pojat naivat.	
 
-23. Musin lapset: Maheli, Eder ja Jeremot, kolme.	
+<div class="versenum">23.</div> Musin lapset: Maheli, Eder ja Jeremot, kolme.	
 
-24. Namat ovat Levin lapset heidan isainsa huoneen jalkeen, isain paamiehet, jotka nimien luvun jalkeen paasta paahan luetut olivat, jotka tekivat viran toita Herran huoneen palveluksessa, kahdenkymmenen ajastaikaisista ja sen ylitse.	
+<div class="versenum">24.</div> Namat ovat Levin lapset heidan isainsa huoneen jalkeen, isain paamiehet, jotka nimien luvun jalkeen paasta paahan luetut olivat, jotka tekivat viran toita Herran huoneen palveluksessa, kahdenkymmenen ajastaikaisista ja sen ylitse.	
 
-25. Silla David sanoi: Herra Israelin Jumala, joka on asuva Jerusalemissa ijankaikkisesti, on antanut kansallensa levon.	
+<div class="versenum">25.</div> Silla David sanoi: Herra Israelin Jumala, joka on asuva Jerusalemissa ijankaikkisesti, on antanut kansallensa levon.	
 
-26. Ja ei Levilaiset tarvinneet kantaa majaa kaikkein hanen kaluinsa kanssa palvelukseen.	
+<div class="versenum">26.</div> Ja ei Levilaiset tarvinneet kantaa majaa kaikkein hanen kaluinsa kanssa palvelukseen.	
 
-27. Ja Levin lapset luettiin Davidin viimeisten sanain jalkeen Levilaisten sekaan, kahdenkymmenen vuotisista ja sen ylitse,	
+<div class="versenum">27.</div> Ja Levin lapset luettiin Davidin viimeisten sanain jalkeen Levilaisten sekaan, kahdenkymmenen vuotisista ja sen ylitse,	
 
-28. Etta heidan piti seisoman Aaronin lasten sivussa palvelemassa Herran huoneessa, kartanoilla ja kammioissa, ja kaikkinaisissa pyhitetyn puhdistuksissa, ja kaikissa viran toissa Herran huoneessa;	
+<div class="versenum">28.</div> Etta heidan piti seisoman Aaronin lasten sivussa palvelemassa Herran huoneessa, kartanoilla ja kammioissa, ja kaikkinaisissa pyhitetyn puhdistuksissa, ja kaikissa viran toissa Herran huoneessa;	
 
-29. Ja oleman nakyleipain, sampylajauhoin, ruokauhrein, happamattomain kyrsain, pannuin, halstarien ja kaikkein vaakain ja mittain paalla;	
+<div class="versenum">29.</div> Ja oleman nakyleipain, sampylajauhoin, ruokauhrein, happamattomain kyrsain, pannuin, halstarien ja kaikkein vaakain ja mittain paalla;	
 
-30. Ja seisoman joka aamulla, kiittamassa ja ylistamassa Herraa, niin myos ehtoolla,	
+<div class="versenum">30.</div> Ja seisoman joka aamulla, kiittamassa ja ylistamassa Herraa, niin myos ehtoolla,	
 
-31. Ja uhraamassa Herralle kaikkinaiset polttouhrit sabbateina, uudelle kuulla ja juhlapaivina, luvun ja tavan jalkeen, alati Herran edessa,	
+<div class="versenum">31.</div> Ja uhraamassa Herralle kaikkinaiset polttouhrit sabbateina, uudelle kuulla ja juhlapaivina, luvun ja tavan jalkeen, alati Herran edessa,	
 
-32. Ja ottamassa vaarin seurakunnan majasta ja pyhyyden vartiosta, ja Aaronin lasten heidan veljeinsa vartiosta, Herran huoneen palveluksessa.	
+<div class="versenum">32.</div> Ja ottamassa vaarin seurakunnan majasta ja pyhyyden vartiosta, ja Aaronin lasten heidan veljeinsa vartiosta, Herran huoneen palveluksessa.	
 

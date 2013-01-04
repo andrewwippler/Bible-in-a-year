@@ -1,46 +1,46 @@
 Jobin 1	
 	
-1. Yksi mies oli Utsin maalla nimelta Job; ja se mies oli vakaa ja hurskas, ja Jumalaa pelkaavainen, ja valtti pahaa.	
+<div class="versenum">1.</div> Yksi mies oli Utsin maalla nimelta Job; ja se mies oli vakaa ja hurskas, ja Jumalaa pelkaavainen, ja valtti pahaa.	
 
-2. Ja hanelle oli syntynyt seitseman poikaa ja kolme tytarta.	
+<div class="versenum">2.</div> Ja hanelle oli syntynyt seitseman poikaa ja kolme tytarta.	
 
-3. Ja hanen karjansa oli seitsemantuhatta lammasta, kolmetuhatta kamelia, viisisataa paria harkia ja viisisataa aasia, ja myos sangen paljo perhetta. Ja se mies oli voimallisempi kuin kaikki, jotka itaisella maalla asuivat.	
+<div class="versenum">3.</div> Ja hanen karjansa oli seitsemantuhatta lammasta, kolmetuhatta kamelia, viisisataa paria harkia ja viisisataa aasia, ja myos sangen paljo perhetta. Ja se mies oli voimallisempi kuin kaikki, jotka itaisella maalla asuivat.	
 
-4. Ja hanen poikansa menivat ja tekivat pidon huoneessansa itsekukin paivanansa, ja lahettivat ja antoivat kutsua kolme sisartansa syomaan ja juomaan kanssansa.	
+<div class="versenum">4.</div> Ja hanen poikansa menivat ja tekivat pidon huoneessansa itsekukin paivanansa, ja lahettivat ja antoivat kutsua kolme sisartansa syomaan ja juomaan kanssansa.	
 
-5. Ja kuin pitopaivat olivat kuluneet, lahetti Job ja pyhitti heita, ja nousi aamulla varhain ja uhrasi polttouhria kaikkein heidan lukunsa jalkeen. Silla Job ajatteli: minun poikani ovat taitaneet syntia tehda ja unohtaneet Jumalan sydamessansa. Nain teki Job joka paiva.	
+<div class="versenum">5.</div> Ja kuin pitopaivat olivat kuluneet, lahetti Job ja pyhitti heita, ja nousi aamulla varhain ja uhrasi polttouhria kaikkein heidan lukunsa jalkeen. Silla Job ajatteli: minun poikani ovat taitaneet syntia tehda ja unohtaneet Jumalan sydamessansa. Nain teki Job joka paiva.	
 
-6. Mutta tapahtui yhtena paivana, etta Jumalan lapset tulivat ja astuivat Herran eteen, ja tuli myos saatana heidan kanssansa.	
+<div class="versenum">6.</div> Mutta tapahtui yhtena paivana, etta Jumalan lapset tulivat ja astuivat Herran eteen, ja tuli myos saatana heidan kanssansa.	
 
-7. Mutta Herra sanoi saatanalle: kusta sina tulet? Saatana vastasi Herraa ja sanoi: mina olen kaynyt ja vaeltanut ympari maan.	
+<div class="versenum">7.</div> Mutta Herra sanoi saatanalle: kusta sina tulet? Saatana vastasi Herraa ja sanoi: mina olen kaynyt ja vaeltanut ympari maan.	
 
-8. Niin sanoi Herra saatanalle: etko ole ottanut vaaria palveliastani Jobista? silla ei hanen vertaistansa ole maalla: han on vakaa ja hurskas, Jumalaa pelkaavainen mies, ja valttaa pahaa.	
+<div class="versenum">8.</div> Niin sanoi Herra saatanalle: etko ole ottanut vaaria palveliastani Jobista? silla ei hanen vertaistansa ole maalla: han on vakaa ja hurskas, Jumalaa pelkaavainen mies, ja valttaa pahaa.	
 
-9. Saatana vastasi Herraa ja sanoi: turhaanko Job pelkaa Jumalaa?	
+<div class="versenum">9.</div> Saatana vastasi Herraa ja sanoi: turhaanko Job pelkaa Jumalaa?	
 
-10. Etkos ole piirittanyt hanta, hanen huonettansa ja kaikkia mita hanella on ympari? sina olet siunannut hanen kasialansa, ja hanen tavaransa on levitetty maassa.	
+<div class="versenum">10.</div> Etkos ole piirittanyt hanta, hanen huonettansa ja kaikkia mita hanella on ympari? sina olet siunannut hanen kasialansa, ja hanen tavaransa on levitetty maassa.	
 
-11. Mutta ojenna kates ja tartu kaikkeen hanen saatuunsa, mitamaks han luopuu sinusta kasvois edessa.	
+<div class="versenum">11.</div> Mutta ojenna kates ja tartu kaikkeen hanen saatuunsa, mitamaks han luopuu sinusta kasvois edessa.	
 
-12. Herra sanoi saatanalle: katso, kaikki hanen tavaransa olkoon sinun kadessas, ainoastaan ala haneen kattas satuta. Silloin laksi saatana Herran tykoa.	
+<div class="versenum">12.</div> Herra sanoi saatanalle: katso, kaikki hanen tavaransa olkoon sinun kadessas, ainoastaan ala haneen kattas satuta. Silloin laksi saatana Herran tykoa.	
 
-13. Mutta sina paivana, kuin hanen poikansa ja tyttarensa soivat ja joivat viinaa vanhimman veljensa huoneessa,	
+<div class="versenum">13.</div> Mutta sina paivana, kuin hanen poikansa ja tyttarensa soivat ja joivat viinaa vanhimman veljensa huoneessa,	
 
-14. Tuli sanansaattaja Jobin tyko ja sanoi: harjilla kynnettiin, ja aasit kavivat lasna laitumella;	
+<div class="versenum">14.</div> Tuli sanansaattaja Jobin tyko ja sanoi: harjilla kynnettiin, ja aasit kavivat lasna laitumella;	
 
-15. Niin he tulivat rikkaasta Arabiasta ja ottivat ne, ja loivat palveliat miekan teralla; ja mina ainoastaan yksin paasin sanomaan sinulle.	
+<div class="versenum">15.</div> Niin he tulivat rikkaasta Arabiasta ja ottivat ne, ja loivat palveliat miekan teralla; ja mina ainoastaan yksin paasin sanomaan sinulle.	
 
-16. Kuin han viela puhui, tuli toinen ja sanoi: Jumalan tuli putosi taivaasta ja sytytti lampaat ja palveliat, ja poltti ne; ja mina ainoastaan yksin paasin sanomaan sinulle.	
+<div class="versenum">16.</div> Kuin han viela puhui, tuli toinen ja sanoi: Jumalan tuli putosi taivaasta ja sytytti lampaat ja palveliat, ja poltti ne; ja mina ainoastaan yksin paasin sanomaan sinulle.	
 
-17. Kuin han viela puhui, tuli yksi ja sanoi: Kaldealaiset tekivat kolme joukkoa ja hyokkasivat kamelein paalle, ja ottivat ne pois, ja loivat miekan teralla; ja mina ainoastaan yksin paasin sanomaan sinulle.	
+<div class="versenum">17.</div> Kuin han viela puhui, tuli yksi ja sanoi: Kaldealaiset tekivat kolme joukkoa ja hyokkasivat kamelein paalle, ja ottivat ne pois, ja loivat miekan teralla; ja mina ainoastaan yksin paasin sanomaan sinulle.	
 
-18. Kuin han viela puhui, tuli yksi ja sanoi: sinun poikas ja tyttares soivat ja joivat viinaa vanhimman veljensa huoneessa.	
+<div class="versenum">18.</div> Kuin han viela puhui, tuli yksi ja sanoi: sinun poikas ja tyttares soivat ja joivat viinaa vanhimman veljensa huoneessa.	
 
-19. Ja katso, suuri tuulispaa tuli korvesta ja sysasi neljaan huoneen nurkkaan, ja se kaatui nuorukaisten paalle, niin etta he kuolivat; ja mina ainoastaan yksin paasin sanomaan sinulle.	
+<div class="versenum">19.</div> Ja katso, suuri tuulispaa tuli korvesta ja sysasi neljaan huoneen nurkkaan, ja se kaatui nuorukaisten paalle, niin etta he kuolivat; ja mina ainoastaan yksin paasin sanomaan sinulle.	
 
-20. Silloin Job nousi ja repaisi vaatteensa, ja repi paatansa, ja heittaysi maahan ja rukoili.	
+<div class="versenum">20.</div> Silloin Job nousi ja repaisi vaatteensa, ja repi paatansa, ja heittaysi maahan ja rukoili.	
 
-21. Ja sanoi: alasti olen mina tullut aitini kohdusta ja alasti pitaa minun sinne jalleen meneman; Herra antoi ja Herra otti: Herran nimi olkoon kiitetty!	
+<div class="versenum">21.</div> Ja sanoi: alasti olen mina tullut aitini kohdusta ja alasti pitaa minun sinne jalleen meneman; Herra antoi ja Herra otti: Herran nimi olkoon kiitetty!	
 
-22. Naissa kaikissa ei rikkonut Job, eika tehnyt tyhmasti Jumalaa vastaan.	
+<div class="versenum">22.</div> Naissa kaikissa ei rikkonut Job, eika tehnyt tyhmasti Jumalaa vastaan.	
 
