@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ne saartavat minua joka paiva niinkuin vesi, ja ynna minua piirittavat.	
 
 <div class="versenum">18.</div> Sina teet, etta minun ystavani ja lahimmaiseni erkanevat kauvas minusta, ja minun tuttavilleni olen mina pimeydessa.	
-
+</body>
+</html>

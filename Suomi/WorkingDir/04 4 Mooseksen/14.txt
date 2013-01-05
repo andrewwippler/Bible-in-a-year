@@ -93,4 +93,5 @@
 <div class="versenum">44.</div> Mutta he rohkaisivat itsensa menemaan vuoren kukkulalle, vaan Herran liitonarkki ja Moses ei menneet leirista ulos.	
 
 <div class="versenum">45.</div> Niin tulivat Amalekilaiset ja Kanaanealaiset, jotka vuorella asuivat, ja loivat heidat ja runtelivat heita hamaan Hormaan asti.	
-
+</body>
+</html>

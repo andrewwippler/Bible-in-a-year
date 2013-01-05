@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Ja Egyptissa ne myos peljastyvat niinkuin lintu, ja ne Assurin maasta niinkuin kyhkyinen; ja mina tahdon heita asettaa huoneisiinsa, sanoo Herra.	
 
 <div class="versenum">12.</div> (H12:1) Ephraimissa on joka paikassa valhe minua vastaan, ja Israelin huoneessa petos; mutta Juuda hallitsee viela Jumalan kanssa, ja on uskollinen pyhain kanssa.	
-
+</body>
+</html>

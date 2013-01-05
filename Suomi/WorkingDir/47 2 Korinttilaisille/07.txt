@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja hanella on sangen suuri sydamellinen halu teidan puoleenne, kuin han kaikkein teidan kuuliaisuutenne muistaa, kuinka te pelvolla ja vavistuksella hanta otitte vastaan.	
 
 <div class="versenum">16.</div> Mina siis iloitsen, etta mina kaikissa asioissa teihin taidan luottaa.	
-
+</body>
+</html>

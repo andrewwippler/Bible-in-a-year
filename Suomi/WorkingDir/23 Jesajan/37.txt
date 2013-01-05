@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja Assyrian kuningas Sanherib laksi matkaansa ja palasi, ja asui Ninivessa.	
 
 <div class="versenum">38.</div> Ja tapahtui, kuin han rukoili jumalansa Nisrokin huoneessa, loivat hanen poikansa Adramelek ja Saretser hanen miekalla, ja pakenivat Araratin maalle. Ja hanen poikansa Assarhaddon tuli kuinkaaksi hanen siaansa.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ei heita jano vaivannut, kuin han johdatti heita korvessa, han antoi heille vuotaa vetta kalliosta; han halkasi kallion, ja siita vuosi vesi.	
 
 <div class="versenum">22.</div> Mutta jumalattomalla, sanoo Herra, ei ole rauhaa.	
-
+</body>
+</html>

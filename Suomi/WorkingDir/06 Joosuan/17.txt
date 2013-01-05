@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Josua puhui Josephin huoneelle, Ephraimille ja Manasselle, sanoen: sina olet suuri ja vakeva kansa, ei sinulla pida oleman yksi arpa.	
 
 <div class="versenum">18.</div> Silla vuori pitaa myos sinun omas oleman, jossa metsaa on, siella perkaa ymparillas, ja sinulla pitaa oleman sen aaret; silla sina ajat Kanaanealaiset pois, vaikka heilla rautavaunut ovat, ja vaikka he vakevat ovat.	
-
+</body>
+</html>

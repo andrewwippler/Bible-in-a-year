@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja kosta meidan lasnaasuvaisillemme seitsemin kerroin heidan helmaansa heidan pilkkansa, jolla he sinua, Herra, pilkanneet ovat.	
 
 <div class="versenum">13.</div> Mutta me sinun kansas, ja sinun laitumes lauma, kiitamme sinua ijankaikkisesti, ja julistamme sinun kiitostas suvusta sukuun.	
-
+</body>
+</html>

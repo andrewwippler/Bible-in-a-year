@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja Jumala on tehnyt minun sydameni pehmiaksi, ja Kaikkivaltias on minun peljattanyt.	
 
 <div class="versenum">17.</div> Silla pimeys ei luovu minusta, ja synkeys ei katketa minulta.	
-
+</body>
+</html>

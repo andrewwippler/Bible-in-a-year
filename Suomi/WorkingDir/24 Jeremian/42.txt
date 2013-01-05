@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Sen mina olen tanapana teidan tietaa antanut; mutta ette ole tahtoneet kuulla Herran teidan Jumalanne aanta, eli kaikkia, mita Han minun kauttani on teille kaskenyt.	
 
 <div class="versenum">22.</div> Niin teidan pitaa nyt taydellisesti tietaman, etta teidan pitaa miekkaan, nalkaan ja ruttoon kuoleman siina paikassa, kuhunka te aiotte menna asumaan.	
-
+</body>
+</html>

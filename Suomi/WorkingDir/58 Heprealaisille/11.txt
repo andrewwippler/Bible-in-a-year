@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja kaikki namat ovat uskon kautta todistuksen saaneet, eika saaneet sita lupausta:	
 
 <div class="versenum">40.</div> Etta Jumala on jotakin paremmin meille edeskatsonut, ettei he ilman meita taydelliseksi tulleet olisi.	
-
+</body>
+</html>

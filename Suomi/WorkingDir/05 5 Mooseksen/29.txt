@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Herra on heidat havittanyt heidan maastansa suuressa vihassa, julmuudessa ja narkastyksessa, ja on heidat heittanyt vieraasen maahan, niinkuin han tanapana tehnyt on.	
 
 <div class="versenum">29.</div> Niin salaiset asiat ovat Herran meidan Jumalamme edessa; mutta ne ilmoitetut ovat meilla ja meidan lapsillamme alati, etta meidan kaikki namat lain sanat tekeman pitaa.	
-
+</body>
+</html>

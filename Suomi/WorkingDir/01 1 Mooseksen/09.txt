@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Noa eli, vedenpaisumisen jalkeen kolmesataa ja viisikymmenta ajastaikaa.	
 
 <div class="versenum">29.</div> Ja koko Noan ika oli yhdeksansataa ja viisikymmenta ajastaikaa, ja kuoli.	
-
+</body>
+</html>

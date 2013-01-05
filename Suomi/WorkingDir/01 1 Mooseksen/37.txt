@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja kaikki hanen poikansa ja tyttarensa nousivat hanta lohduttamaan; vaan ei han tahtonut antaa itsiansa lohdutettaa, mutta sanoi: mina menen murehtien alas poikani tyko hautaan. Ja hanen isansa itki hanta.	
 
 <div class="versenum">36.</div> Mutta Midianilaiset myivat hanen Egyptiin Potipharille, Pharaon kamaripalvelialle ja huovinhaltialle.	
-
+</body>
+</html>

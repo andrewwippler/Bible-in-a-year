@@ -115,4 +115,5 @@
 <div class="versenum">55.</div> Ja hanen henkensa palasi, ja han kohta nousi ylos. Ja kaski hanelle antaa ruokaa.	
 
 <div class="versenum">56.</div> Ja hanen vanhempansa hammastyivat: mutta han haastoi heita kellekaan sanomasta sita mika tapahtui.	
-
+</body>
+</html>

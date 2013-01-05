@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja uhraamassa Herralle kaikkinaiset polttouhrit sabbateina, uudelle kuulla ja juhlapaivina, luvun ja tavan jalkeen, alati Herran edessa,	
 
 <div class="versenum">32.</div> Ja ottamassa vaarin seurakunnan majasta ja pyhyyden vartiosta, ja Aaronin lasten heidan veljeinsa vartiosta, Herran huoneen palveluksessa.	
-
+</body>
+</html>

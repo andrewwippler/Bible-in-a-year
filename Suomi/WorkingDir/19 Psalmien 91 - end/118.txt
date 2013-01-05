@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Sina olet minun Jumalani, ja mina kiitan sinua; minun Jumalani! sinua mina ylistan.	
 
 <div class="versenum">29.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
-
+</body>
+</html>

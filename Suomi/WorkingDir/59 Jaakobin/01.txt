@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mutta jos joku teista nakyy jumalinen olevan, ja ei suista kieltansa, vaan viettelee sydamensa, sen jumalanpalvelus on turha.	
 
 <div class="versenum">27.</div> Se on Isalle ja Jumalalle puhdas ja saastatoin jumalanpalvelus: oppia orpoja ja leskia heidan murheessansa, ja itsensa saatatoinna maailmassa pitaa.	
-
+</body>
+</html>

@@ -127,4 +127,5 @@
 <div class="versenum">61.</div> Ja toinen myos sanoi: Herra, mina seuraan sinua, mutta salli minun ensin menna hyvasti jattamaan niita, jotka kotonani ovat.	
 
 <div class="versenum">62.</div> Mutta Jesus sanoi hanelle: kuka ikana katensa auraan laskee ja taaksensa katsoo, ei se ole sovelias Jumalan valtakuntaan.	
-
+</body>
+</html>

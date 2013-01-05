@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Jos jonkun harka kuokkii toisen miehen harjan, etta se kuolee, niin pitaa heidan myyman sen elavan harjan, ja jakaman rahan, niin myos sen kuolleen harjan pitaa heidan jakaman.	
 
 <div class="versenum">36.</div> Elikka jos se oli tiettava, etta harka on ennen tottunut kuokkimaan, ja hanen isantansa ei korjannut hanta, niin hanen pitaa antaman harjan harjasta, ja se kuollut pitaa hanen oleman.	
-
+</body>
+</html>

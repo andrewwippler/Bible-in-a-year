@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mita enempi sanomista on Hiskiasta, ja hanen voimastansa, ja mita han tehnyt on, ja vesilammikosta ja kanavista, joilla han vedet johdatti kaupunkiin: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	
 
 <div class="versenum">21.</div> Ja Hiskia nukkui isainsa kanssa; ja Manasse hanen poikansa tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

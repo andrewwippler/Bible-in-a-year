@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Jumala on pakanain kuningas: Jumala istuu pyhalla istuimellansa.	
 
 <div class="versenum">9.</div> Kansain paamiehet ovat kokoontuneet Abrahamin Jumalan kansan tyko; silla maan edesvastaajat ovat Jumalan: han on sangen suuresti ylennetty.	
-
+</body>
+</html>

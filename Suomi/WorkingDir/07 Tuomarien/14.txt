@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja Herran henki tuli voimalliseksi hanessa ja han meni Askaloniin ja loi siella kolmekymmenta miesta, joiden vaatteet han otti, ja antoi vaatekerrat niille, jotka arvoituksen selittaneet olivat. Ja han kovin julmistui vihassansa ja meni ylos isansa huoneeseen.	
 
 <div class="versenum">20.</div> Mutta Simsonin emanta huoli yhdelle kansalaisistansa, joka oli Simsonin kumppani.	
-
+</body>
+</html>

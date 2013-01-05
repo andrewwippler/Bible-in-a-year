@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Silla Jumalan valtakunta ei ole puheessa, vaan voimassa.	
 
 <div class="versenum">21.</div> Kumman te tahdotte: etta mina tulen vitsalla teidan tykonne, taikka rakkaudella ja hengen siveydella?	
-
+</body>
+</html>

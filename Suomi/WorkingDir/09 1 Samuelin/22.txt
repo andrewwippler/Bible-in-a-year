@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja David sanoi Abjatarille: mina sen sina paivana kylla tiesin, koska Doeg Edomilainen oli siella, etta han sen Saulille oli totisesti ilmoittava. Mina olen siis vikapaa koko isas huoneen kuolemaan.	
 
 <div class="versenum">23.</div> Pysy minun tykonani ja ala pelkaa: joka seisoo minun henkeni peraan, han myos seisoo sinun henkes peraan; silla sina varjellaan minun tykonani.	
-
+</body>
+</html>

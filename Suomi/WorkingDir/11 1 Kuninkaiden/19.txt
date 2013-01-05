@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja han jatti harjat ja juoksi Elian perassa, ja sanoi: anna minun suuta antaa minun isalleni ja aidilleni, niin mina seuraan sinua; han sanoi hanelle: mene ja tule jalleen; silla mita mina sinulle tein?	
 
 <div class="versenum">21.</div> Ja han palasi hanen tykonsa, ja otti parin harkia ja uhrasi sen, ja keitti lihan harkain kaluilla, ja antoi kansalle syoda; ja han nousi ja seurasi Eliaa, ja palveli hanta.	
-
+</body>
+</html>

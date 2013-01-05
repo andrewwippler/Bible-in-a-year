@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja muutti hanen vankeutensa vaatteet; ja han soi aina hanen tykonansa kaiken elinaikansa;	
 
 <div class="versenum">30.</div> Ja han maarasi hanelle hanen osansa, hanelle aina joka paiva kuninkaalta annettavaksi, kaikkena hanen elinaikanansa.	
-
+</body>
+</html>

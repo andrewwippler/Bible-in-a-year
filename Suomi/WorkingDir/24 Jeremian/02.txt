@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Miksi niin horjahtelet ja menet sinne ja tanne? Mutta sinun pitaa Egyptilta hapian saaman, niinkuin sina Assyrialtakin hapian sait.	
 
 <div class="versenum">37.</div> Sina olet myos sielta lahteva ja lyova kates yhteen paas paalle, silla Herra tekee tyhjaksi sinun toivos, ja ei sinulla pida mitaan menestysta niissa oleman.	
-
+</body>
+</html>

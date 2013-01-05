@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Silla miehen vihalla on kiivaus: ei han saasta hanta koston paivana:	
 
 <div class="versenum">35.</div> Ei han lukua pida sovittajasta, eika ota lahjoja, vaikka paljon antaisit.	
-
+</body>
+</html>

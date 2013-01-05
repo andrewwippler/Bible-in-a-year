@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Mutta sinun mina silloin vapahdan, sanoo Herra, ja en anna sinua niiden miesten kasiin, joita sina pelkaat;	
 
 <div class="versenum">18.</div> Silla mina tahdon sinua totisesti siita auttaa, niin ettei sinun pida miekalla lankeeman, vaan pitaman henkes niinkuin saaliin, ettas luotit minuun, sanoo Herra.	
-
+</body>
+</html>

@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Kiittakaat hanta kilisevilla symbaleilla!	
 
 <div class="versenum">6.</div> Kaikki, joilla henki on, kiittakaan Herraa, Halleluja!	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Iloitse ja riemuitse, sina Edomin tytar, joka asut Utsin maalla; silla sen maljan pitaa myos sinulle tuleman, ja sinun pitaa myos juopuman, ja alasti itses riisuman.	
 
 <div class="versenum">22.</div> Mutta sinun vaaryydellas on loppu, sina Zionin tytar, ei han enaan anna sinua vieda pois, mutta sinun vaaryytes, Edomin tytar, han etsii, ja sinun syntis ilmoittaa.	
-
+</body>
+</html>

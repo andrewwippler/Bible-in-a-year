@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja niin tulivat Moabilaiset painetuksi silla ajalla Israelin lasten katten alle; ja maa lepasi kahdeksankymmenta ajastaikaa.	
 
 <div class="versenum">31.</div> Hanen jalkeensa tuli Samgar Anatin poika, ja han loi kuusisataa Philistealaista karjan kaareksella; ja han vapahti myos Israelin.	
-
+</body>
+</html>

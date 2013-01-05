@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Mutta mina uskon kuitenkin nakevani Herran hyvyytta elavain maalla,	
 
 <div class="versenum">14.</div> Odota Herraa, ole hyvassa turvassa, ja han vahvistaa sinun sydames: ja odota Herraa.	
-
+</body>
+</html>

@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Etta han alati pysyis Jumalan edessa: osoita hanelle laupiutta ja totuutta, jotka hanta varjelisivat.	
 
 <div class="versenum">8.</div> Niin mina veisaan kiitosta sinun nimelles ijankaikkisesti, maksaakseni minun lupaustani paiva paivalta.	
-
+</body>
+</html>

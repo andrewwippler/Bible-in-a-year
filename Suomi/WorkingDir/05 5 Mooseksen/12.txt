@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ei sinun pida niin tekeman Herralle sinun Jumalalles; silla he ovat tehneet jumalillensa kaikkia niita, mita Herralle kauhistus on, jota han vihaa; silla he ovat poikansakin ja tyttarensa tulella polttaneet jumalillensa.	
 
 <div class="versenum">32.</div> Kaikki mita mina kasken teille, pitaa teidan pitaman, tehdaksenne sen jalkeen: ei teidan pida siihen mitaan lisaaman, eika myos siita mitaan vahentaman.	
-
+</body>
+</html>

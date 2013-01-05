@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Sinun ensimainen isas on syntia tehnyt, ja sinun opettajas ovat minua vastaan vaaryytta tehneet.	
 
 <div class="versenum">28.</div> Sentahden mina saastutin pyhat esimiehet, ja olen antanut Jakobin raatelukseksi, ja Israelin pilkaksi.	
-
+</body>
+</html>

@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Sitte kuulutti han kaikki lain sanat, siunauksen ja kirouksen, kaiken sen jalkeen kuin kirjoitettu on lakikirjassa.	
 
 <div class="versenum">35.</div> Ei ollut yhtakaan sanaa kaikista mita Moses kaskenyt oli, jota ei Josua kuuluttanut koko Israelin seurakunnan edessa, vaimoin ja lasten ja muukalaisten, jotka olivat heidan seassansa.	
-
+</body>
+</html>

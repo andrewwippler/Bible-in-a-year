@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Sentahden kirvotan mina myos paljon sinun saumastas, etta sinun hapys nahtaman pitaa.	
 
 <div class="versenum">27.</div> Silla mina olen nahnyt sinun huoruutes, sinun haureutes, sinun hapeemattoman salavuoteutes ja sinun kauhiutes, seka kukkuloilla etta kedoilla. Voi sinuas Jerusalem! koskas siis joskus tahdot puhdistaa itses?	
-
+</body>
+</html>

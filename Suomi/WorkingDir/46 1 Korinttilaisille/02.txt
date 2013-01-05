@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Mutta hengellinen tuomitsee tosin kaikkia, vaan ei han keltakaan tuomita.	
 
 <div class="versenum">16.</div> Silla kuka on tietanyt Herran mielen, joka tahtoo hanelle neuvoa antaa? Mutta meilla on Kristuksen mieli.	
-
+</body>
+</html>

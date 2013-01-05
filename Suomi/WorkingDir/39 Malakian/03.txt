@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Niiden pitaa, sanoo Herra Zebaot, sina paivana, jonka mina teen, oleman minun omani; ja mina tahdon heita armahtaa, niinkuin mies armahtaa poikaansa, joka hanta palvelee.	
 
 <div class="versenum">18.</div> Ja teidan pitaa jalleen sita vastaan nakeman, mika eroitus on vanhurskaan ja jumalattoman vaiheella, ja sen vaiheella, joka Jumalaa palvelee, ja sen, joka ei hanta palvele.	
-
+</body>
+</html>

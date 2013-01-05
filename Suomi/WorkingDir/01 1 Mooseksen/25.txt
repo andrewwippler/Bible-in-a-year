@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja Jakob sanoi: niin vanno minulle tanapana: ja han vannoi hanelle, ja myi Jakobille esikoisuutensa.	
 
 <div class="versenum">34.</div> Niin Jakob antoi Esaulle leivan, ja sen ruskian herneherkun, ja han soi ja joi, ja nousi ja meni pois. Ja niin Esau katsoi esikoisuutensa ylon.	
-
+</body>
+</html>

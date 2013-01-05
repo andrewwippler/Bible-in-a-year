@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Silla ne jotka itsensa noyryyttavat, korottaa han, ja se joka silmansa painaa alas, vapautetaan.	
 
 <div class="versenum">30.</div> Sekin, joka ei viatoin ole, autetaan ja pelastetaan sinun kattes puhtauden tahden.	
-
+</body>
+</html>

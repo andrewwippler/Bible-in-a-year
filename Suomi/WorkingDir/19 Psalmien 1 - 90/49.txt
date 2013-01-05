@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Niin he menevat isainsa perasta, ja ei saa nahda ikana valkeutta.	
 
 <div class="versenum">20.</div> Koska ihminen on kunniassa, ja ei ole ymmarrysta, niin han on verrattu elaimiin, jotka hukkuvat.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Minulla olis paljo sinun tykos kirjoittamista, vaan en mina tahtonut lakilla ja kynalla kirjoittaa.	
 
 <div class="versenum">14.</div> Mutta mina toivon sinun pian nakevani, ja lasna ollessani me saamme toinen toistamme puhutella. (H1:15) Rauha olkoon sinulle! Ystavat tervehtivat sinua. Tervehdi ystavia, kutakin nimeltansa.	
-
+</body>
+</html>

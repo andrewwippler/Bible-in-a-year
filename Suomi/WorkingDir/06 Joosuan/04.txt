@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Kuin Herra teidan Jumalanne kuivasi Jordanin vedet teidan edestanne, niinkauvan kuin te kavitte sen ylitse, niinkuin Herra teidan Jumalanne teki Punaisessa meressa, jonka han kuivasi meidan edestamme, siihenasti etta me kavimme sen ylitse;	
 
 <div class="versenum">24.</div> Etta kaikki kansat maan paalla tuntisivat Herran kaden, kuinka vakeva se on, etta te pelkaisitte aina Herraa teidan Jumalaanne.	
-
+</body>
+</html>

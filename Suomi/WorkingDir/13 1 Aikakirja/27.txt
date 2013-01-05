@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ahitophel oli myos kuninkaan neuvonantaja; Husai Arkilainen oli kuninkaan ystava.	
 
 <div class="versenum">34.</div> Ja Ahitophelin jalkeen oli Jojada Benajan poika ja Ebjatar. Mutta Joab oli kuninkaan sodan paamies.	
-
+</body>
+</html>

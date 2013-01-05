@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Etta sinun sydames on pehminnyt ja olet sinus noyryyttanyt Herran edessa, koskas kuulit, mita mina sanoin tata siaa ja hanen asuvaisiansa vastaan, etta heidan pitaa tuleman havitetyksi ja kiroukseksi, ja olet repinyt vaattees, ja olet itkenyt minun edessani: niin olen mina myos kuullut sen, sanoo Herra.	
 
 <div class="versenum">20.</div> Sentahden, katso, kokoon mina sinua isais tyko, ettas kootaan rauhassa hautaas, ettei sinun silmas nakisi kaikkea sita onnettomuutta, jonka mina talle sialle saatan. Ja he sanoivat sen kuninkaalle jalleen.	
-
+</body>
+</html>

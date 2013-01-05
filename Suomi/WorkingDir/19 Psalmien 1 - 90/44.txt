@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Silla meidan sielumme on painettu alas maahan asti: meidan vatsamme riippuu maassa.	
 
 <div class="versenum">26.</div> Nouse, auta meita, ja lunasta meita laupiutes tahden!	
-
+</body>
+</html>

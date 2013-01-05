@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Silla sinne oli tullut valkeus ja ilo, riemu ja kunnia Juudalaisille.	
 
 <div class="versenum">17.</div> Ja kaikissa maakunnissa ja kaupungeissa, joihin kuninkaan sana ja kasky tuli, oli ilo ja riemu Juudalaisten keskella, pito ja hyvat paivat. Ja monta maan kansasta tuli Juudalaiseksi; silla Juudalaisten pelko tuli heidan paallensa.	
-
+</body>
+</html>

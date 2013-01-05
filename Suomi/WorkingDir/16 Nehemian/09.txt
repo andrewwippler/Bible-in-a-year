@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja se enentaa tulonsa kuninkaille, jotka panit meidan paallemme meidan synteimme tahden; ja he hallitsevat meidan ruumiimme ja karjamme oman tahtonsa jalkeen, ja me olemme juuri suuressa tuskassa.	
 
 <div class="versenum">38.</div> Ja naissa kaikissa teemme me vahvan liiton, ja kirjoitamme sen, ja annamme meidan paamiestemme, Levilaistemme sen sinetillansa vahvistaa.	
-
+</body>
+</html>

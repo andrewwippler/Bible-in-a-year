@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Eli koska epaluulon henki kehoittaa miehen kiivoittelemaan vaimostansa, etta han asettaa hanen Herran eteen, niin papin pitaa tekeman hanelle kaiken taman lain jalkeen.	
 
 <div class="versenum">31.</div> Ja miehen pitaa oleman viattoman siita pahasta teosta, vaan vaimon pitaa kantaman pahuutensa.	
-
+</body>
+</html>

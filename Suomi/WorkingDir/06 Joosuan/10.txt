@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja Josua voitti kaikki namat kuninkaat maakuntinensa yhdella rupeemisella; silla Herra Israelin Jumala soti Israelin puolesta.	
 
 <div class="versenum">43.</div> Ja Josua palasi leiriin Gilgaliin ja koko Israel hanen kanssansa.	
-
+</body>
+</html>

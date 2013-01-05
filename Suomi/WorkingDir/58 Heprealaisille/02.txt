@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Josta hanen kaiketi piti veljiensa kaltainen oleman, etta han armollinen ja uskollinen ylimmainen Pappi Jumalan edessa olis, sovittamaan kansan synteja.	
 
 <div class="versenum">18.</div> Silla siita, etta han karsinyt on ja on kiusattu, taitaa han myos niita auttaa, jotka kiusataan.	
-
+</body>
+</html>

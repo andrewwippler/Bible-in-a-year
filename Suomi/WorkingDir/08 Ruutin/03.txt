@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja sanoi: namat kuusi mittaa ohria antoi han minulle; silla han sanoi: ei pida sinun tyhjin kasin meneman anoppis tyko.	
 
 <div class="versenum">18.</div> Han sanoi: ole hiljakses, tyttareni, niinkauvan etta sina saat nahda, kuinka tama tapahtuu; silla ei se mies lakkaa ennen kuin han taman tanapaivana hyvin lopettaa.	
-
+</body>
+</html>

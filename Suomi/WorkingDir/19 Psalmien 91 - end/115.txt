@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Kuolleet ei taida Herraa kiittaa, eika ne, jotka menevat alas hiljaisuuteen.	
 
 <div class="versenum">18.</div> Mutta me kiitamme Herraa, hamasta nyt ja ijankaikkiseen, Halleluja!	
-
+</body>
+</html>

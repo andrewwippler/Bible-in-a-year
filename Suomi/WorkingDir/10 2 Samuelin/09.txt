@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja MephiBosetilla oli yksi vaha poika nimelta Miika; mutta kaikki, jotka Ziban huoneesta olivat, olivat MephiBosetin palveliat.	
 
 <div class="versenum">13.</div> Ja MephiBoset asui Jerusalemissa; silla han soi jokapaiva kuninkaan poydalta; ja han ontui molemmista jaloistansa.	
-
+</body>
+</html>

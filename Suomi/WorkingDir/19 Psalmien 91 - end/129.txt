@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Joista niittaja ei kattansa tayta, eika lyhteensitoja syliansa;	
 
 <div class="versenum">8.</div> Eika yksikaan ohitsekaypa sano: olkoon Herran siunaus teidan paallanne: me siunaamme teita Herran nimeen.	
-
+</body>
+</html>

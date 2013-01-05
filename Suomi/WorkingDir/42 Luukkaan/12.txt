@@ -121,4 +121,5 @@
 <div class="versenum">58.</div> Silla kuin sina menet riitaveljes kanssa esivallan eteen, niin pyyda tiella hanesta paasta; ettei han sinua tuomarin eteen vetaisi, ja tuomari antais sinua ylon pyovelille, ja pyoveli heittais sinun torniin.	
 
 <div class="versenum">59.</div> Mina sanon sinulle: et sina sielta ennen paase ulos, kuin sina viimeisen rovon maksat.	
-
+</body>
+</html>

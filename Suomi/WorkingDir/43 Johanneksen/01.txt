@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Jesus vastasi ja sanoi hanelle: sina uskot, etta mina sanoin sinulle: mina nain sinut fikunapuun alla. Sina saat viela suurempia nahda.	
 
 <div class="versenum">51.</div> Ja sanoi hanelle: totisesti, totisesti sanon mina teille: tastedes pitaa teidan nakeman taivaan avoinna, ja Jumalan enkelit astuvan ylos ja tulevan alas Ihmisen Pojan paalle.	
-
+</body>
+</html>

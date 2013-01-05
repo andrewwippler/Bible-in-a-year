@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Ja mina sanoin enkelille, joka minun kanssani puhui: kuhunka he sen mitan vievat?	
 
 <div class="versenum">11.</div> Han sanoi minulle: etta hanelle rakennettaisiin huone Sinearin maalla, ja se valmistettaisiin, ja asetettaisiin perustuksensa paalle.	
-
+</body>
+</html>

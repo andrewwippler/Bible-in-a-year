@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Ja muutamat Pharisealaisista, jotka hanen tykonansa olivat, kuulivat namat ja sanoivat hanelle: olemmeko mekin sokiat?	
 
 <div class="versenum">41.</div> Jesus sanoi heille: jos te sokiat olisitte, niin ei olisi teilla syntia; mutta etta te sanotte: me naemme, sentahden teidan syntinne pysyy.	
-
+</body>
+</html>

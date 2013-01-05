@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja niin Herra vapahti Israelin sina paivana Egyptilaisten kadesta: ja Israel naki Egyptilaiset kuolleina meren reunalla.	
 
 <div class="versenum">31.</div> Ja Israel naki myos sen suuren voiman, jonka Herra oli osottanut Egyptilaisten paalle. Ja kansa pelkasi Herraa, ja he uskoivat Herran ja hanen palveliansa Moseksen.	
-
+</body>
+</html>

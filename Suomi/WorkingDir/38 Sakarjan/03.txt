@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Silla katso, se on se kivi, jonka mina panen Josuan eteen, ja silla yhdella kivella on seitseman silmaa; katso, mina tahdon sen vuolla, sanoo Herra Zebaot, ja tahdon sen maan synnit ottaa pois yhtena paivana.	
 
 <div class="versenum">10.</div> Silloin, sanoo Herra Zebaot, kukin kutsuu kumppaninsa viinapuunsa ja fikunapuunsa alle.	
-
+</body>
+</html>

@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Ja tama on hanen kaskynsa, etta me hanen Poikansa Jesuksen Kristuksen nimen paalle uskoisimme, ja rakastaisimme toinen toistamme, niinkuin han kaskyn meille antoi.	
 
 <div class="versenum">24.</div> Ja joka hanen kaskynsa pitaa, se pysyy hanessa ja han siina, ja siita me tiedamme, etta han meissa pysyy, siita Hengesta, jonka han meille antoi.	
-
+</body>
+</html>

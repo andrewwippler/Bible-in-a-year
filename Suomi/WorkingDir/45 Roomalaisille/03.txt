@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Etta yksi on Jumala, joka ymparileikkauksen tekee vanhurskaaksi uskosta, ja esinahan uskon kautta.	
 
 <div class="versenum">31.</div> Teemmeko me lain tyhjaksi uskon kautta? Pois se; vaan me vahvistamme lain.	
-
+</body>
+</html>

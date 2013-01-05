@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja kaikki ensimmainen hedelma ja esikoiset kaikista teidan ylennysuhreistanne pitaa pappein oleman. Teidan pitaa myos antaman papeille esikoiset teidan taikinastanne, etta siunaus olis sinun huoneessas.	
 
 <div class="versenum">31.</div> Mutta joka kuollut on eli metsan pedolta haaskattu, linnusta eli elaimesta, sita ei pida pappein syoman.	
-
+</body>
+</html>

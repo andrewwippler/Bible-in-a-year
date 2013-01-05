@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Lampaat vaatettavat sinua, ja kauriit antavat pellon vuoron.	
 
 <div class="versenum">27.</div> Sinulla on vuohten rieskaa kylla seka omaksi setta huonees ravinnoksi, ja piikais elatukseksi.	
-
+</body>
+</html>

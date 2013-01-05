@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Ja han sanoi heille: sabbati on ihmista varten tehty ja ei ihminen sabbatia varten.	
 
 <div class="versenum">28.</div> Niin on myos Ihmisen poika sabbatin Herra.	
-
+</body>
+</html>

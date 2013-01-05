@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja neljas enkeli soitti basunalla, ja kolmas osa auringosta lyotiin, ja kolmas osa kuusta, ja kolmas osa tahdista, niin etta kolmas osa heista pimeni, ja ei kolmas osa paivasta valaissut, eika yosta.	
 
 <div class="versenum">13.</div> Ja mina nain ja kuulin enkelin keskelle taivasta lentavan ja suurella aanella sanovan: voi, voi, voi, asuvaisia maan paalla, muiden kolmen enkelin basunan aanista, jotka viela basunilla soittaman pitaa!	
-
+</body>
+</html>

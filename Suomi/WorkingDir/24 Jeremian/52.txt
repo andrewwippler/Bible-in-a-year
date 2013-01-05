@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja muutti hanen vankiutensa vaatteet; ja han soi hanen edessansa leipaa aina kaikkena elinaikanansa.	
 
 <div class="versenum">34.</div> Ja hanelle annettiin alinomaa Babelin kuninkaalta hanen elatuksensa, niinkuin hanelle oli maaratty kaikeksi hanen elinajaksensa, aina hanen kuolemaansa asti.	
-
+</body>
+</html>

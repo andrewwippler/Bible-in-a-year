@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> He ovat itsensa juopumiseen ja huoruuteen laskeneet, ja heidan valtamiehensa rakastavat antimia hapiaksi.	
 
 <div class="versenum">19.</div> Tuulispaan pitaa siivillansa heidat sidottuina ajaman pois, ja heidan pitaa hapiaan tuleman uhreistansa.	
-
+</body>
+</html>

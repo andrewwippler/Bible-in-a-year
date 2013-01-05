@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Mita enempi Ahaksesta sanomista on, ja mita han tehnyt on: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	
 
 <div class="versenum">20.</div> Ja Ahas nukkui isainsa kanssa ja haudattiin isainsa tyko Davidin kaupunkiin; ja Hiskia hanen poikansa tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

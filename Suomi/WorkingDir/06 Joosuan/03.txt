@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Niin seisoi se vesi, joka ylimmaiselta puolelta juoksee, koottuna yhdessa lajassa, sangen kaukana Adamin kaupungin puolessa, joka on Zartanin tykona; mutta se vesi, joka juoksi alas korven mereen, nimittain Suolaiseen mereen, vaheni ja juoksi pois; niin meni kansa yli Jerihon kohdalla.	
 
 <div class="versenum">17.</div> Ja papit, jotka kantoivat Herran liitonarkkia, seisoivat kuivan paalla, asetetut Jordanin keskella ja koko Israel kavi kuivan paalla sen lavitse, siihenasti etta kaikki kansa tuli Jordanin ylitse.	
-
+</body>
+</html>

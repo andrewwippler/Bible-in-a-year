@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Mutta Aaron sanoi Mosekselle: katso, tanapana ovat he uhranneet rikosuhrinsa ja polttouhrinsa Herran edessa. Ja minulle on senkaltainen asia tapahtunut: ja pitaisko minun tanapana syoman rikosuhrista, olisko se Herralle otollinen?	
 
 <div class="versenum">20.</div> Kun Moses sen kuuli, tyytyi han siihen	
-
+</body>
+</html>

@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja nyt siis jaakaan sinun palvelias nuorukaisen edesta minun herralleni orjaksi: vaan nuorukainen menkaan veljeinsa kanssa.	
 
 <div class="versenum">34.</div> Silla kuinka mina taidan menna minun isani tyko, jollei nuorukainen olisi minun kanssani? Etten mina nakisi sita surkeutta, johon minun isani joutuu.	
-
+</body>
+</html>

@@ -117,4 +117,5 @@
 <div class="versenum">56.</div> Paisumain, pisamain ja putkenpolttamien,	
 
 <div class="versenum">57.</div> Etta pitaa tiedettaman, mika puhdas eli saastainen kunakin paivana oleman pitaa. Tama on saaty spitalista.	
-
+</body>
+</html>

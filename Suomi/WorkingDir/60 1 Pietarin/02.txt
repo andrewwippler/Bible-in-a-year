@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Joka meidan syntimme itse uhrasi omassa ruumiissansa puun paalla, etta me synneista pois kuolleet elaisimme vanhurskaudelle; jonka haavain kautta te olette terveiksi tulleet.	
 
 <div class="versenum">25.</div> Silla te olitte niinkuin eksyvaiset lampaat, vaan nyt te olette palanneet teidan sieluinne paimenen ja piispan tyko.	
-
+</body>
+</html>

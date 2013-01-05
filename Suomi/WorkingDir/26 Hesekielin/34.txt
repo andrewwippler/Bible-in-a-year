@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja heidan pitaa tietaman, etta mina Herra, Heidan Jumalansa, olen heidan tykonansa, ja Israelin huone on minun kansani, sanoo Herra, Herra.	
 
 <div class="versenum">31.</div> Ja te ihmiset pitaa oleman minun laitumeni lauma; ja mina tahdon olla teidan Jumalanne, sanoo Herra, Herra.	
-
+</body>
+</html>

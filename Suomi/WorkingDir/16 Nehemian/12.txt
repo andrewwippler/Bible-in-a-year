@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Silla Davidin ja Asaphin aikana olivat muinen asetetut ylimmaiset veisaajat, ja kiitosvirret ja kiitokset Jumalalle.	
 
 <div class="versenum">47.</div> Mutta koko Israel antoi veisaajille ja ovenvartioille osan, Serubbabelin ja Nehemian aikana, joka paiva heidan osansa; ja pyhittivat sen Levilaisille, ja Levilaiset pyhittivat Aaronin lapsille.	
-
+</body>
+</html>

@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Han on vapahtaja ja hadassa auttaja, ja han tekee tunnustahtia ja ihmeita seka taivaassa etta maan paalla. Han on Danielin jalopeurain kasista pelastanut.	
 
 <div class="versenum">28.</div> Ja Daniel tuli voimalliseksi Dariuksen valtakunnassa ja Koreksen Persialaisen valtakunnassa.	
-
+</body>
+</html>

@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja enkeli sivalsi teravalla sirpillansa maan paalla, ja niitti maan viinamaen, ja heitti ne Jumalan vihan suureen kuurnaan.	
 
 <div class="versenum">20.</div> Ja kuurna sotkuttiin ulkona kaupungista, ja veri kuurnasta kuohui ulos hamaan orhitten suitsiin asti, tuhannen ja kuusisataa vakomittaa.	
-
+</body>
+</html>

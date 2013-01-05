@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Mutta opetuslapset saasivat jotakin lahettaa, kuin kullakin varaa oli, veljien avuksi, jotka Juudeassa asuivat,	
 
 <div class="versenum">30.</div> Niinkuin he tekivatkin, ja lahettivat vanhimmille Barnabaan ja Sauluksen katten kautta.	
-
+</body>
+</html>

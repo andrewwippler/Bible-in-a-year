@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Kaikki ovat puhtaille puhtaat, mutta saastaisille ja uskottomille ei mikaan puhdas ole, vaan seka heidan mielensa etta omatuntonsa on saastainen.	
 
 <div class="versenum">16.</div> He sanovat tuntevansa Jumalan, mutta toillansa he sen kieltavat, ja ovat kauhiat ja kovakorvaiset ja kaikkiin hyviin toihin kelvottomat.	
-
+</body>
+</html>

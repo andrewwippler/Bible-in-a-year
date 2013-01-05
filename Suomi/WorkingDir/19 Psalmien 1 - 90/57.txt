@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Silla sinun armos on suuri hamaan taivaisiin asti, ja sinun totuutes pilviin asti.	
 
 <div class="versenum">11.</div> Korota itses, Jumala, taivasten ylitse, ja sinun kunnias ylitse kaiken maan.	
-
+</body>
+</html>

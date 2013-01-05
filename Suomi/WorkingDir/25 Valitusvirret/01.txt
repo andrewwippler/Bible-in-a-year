@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kylla se kuuluu, etta mina huokaan, ja ei kuitenkaan minulla ole lohduttajaa; kaikki minun viholliseni kuulevat minun onnettomuuteni, ja siita riemuitsevat, silla sina sen teet. Niin anna siis sen paivan tulla, jonka sina kuuluttanut olet, etta heille kavis kuin minullekin.	
 
 <div class="versenum">22.</div> Anna kaikki heidan pahuutensa tulla sinun etees, ja tee heille, niinkuin sina minullekin teit kaikkein minun pahain tekoini tahden; silla minun huokaukseni on suuri, ja minun sydameni on murheissansa.	
-
+</body>
+</html>

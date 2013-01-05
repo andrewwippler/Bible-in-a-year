@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Voi sinua Moab! Kamoksen kansa on kadotettu; silla sinun poikas ja tyttares ovat otetut ja viedyt vangiksi.	
 
 <div class="versenum">47.</div> Mutta viimeisina aikoina tahdon mina kaantaa Moabin vankiuden, sanoo Herra. Olkoon se niin sanottu nyt Moabin rangaistuksesta.	
-
+</body>
+</html>

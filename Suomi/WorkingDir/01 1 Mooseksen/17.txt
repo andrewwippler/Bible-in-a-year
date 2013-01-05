@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Yhtena paivana ymparileikattiin Abraham, ja Ismael hanen poikansa.	
 
 <div class="versenum">27.</div> Ja kaikki miehenpuoli hanen huoneessansa, kotona syntyneet ja muukalaisilta ostetut, ymparileikattiin hanen kanssansa.	
-
+</body>
+</html>

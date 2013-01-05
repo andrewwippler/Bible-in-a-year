@@ -99,4 +99,5 @@
 <div class="versenum">47.</div> Taitaako joku kieltaa naita, jotka ovat niin Pyhan Hengen saaneet kuin mekin, vedella kastamasta?	
 
 <div class="versenum">48.</div> Ja han kaski kastaa heita Herran nimeen. Silloin he rukoilivat hanta siella muutamia paivia viipymaan.	
-
+</body>
+</html>

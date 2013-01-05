@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Jos me Hengessa elamme, niin vaeltakaamme myos Hengessa.	
 
 <div class="versenum">26.</div> Alkaamme turhaa kunniaa pyytako, vihoittain ja kadehtien toinen toistamme.	
-
+</body>
+</html>

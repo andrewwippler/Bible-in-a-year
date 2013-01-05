@@ -99,4 +99,5 @@
 <div class="versenum">47.</div> Ja han opetti joka paiva templissa, mutta pappein paamiehet ja kirjanoppineet ja kansan vanhimmat etsivat hanta surmataksensa,	
 
 <div class="versenum">48.</div> Ja ei tietaneet, mita heidan piti tekeman; silla kaikki kansa riippui hanessa, ja kuulivat hanta.	
-
+</body>
+</html>

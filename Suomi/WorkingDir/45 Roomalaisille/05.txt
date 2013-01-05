@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta laki on myos tahan tullut, etta synti suuremmaksi tuttaisiin; mutta kussa synti on suureksi tuttu, siina on armo ylonpalttiseksi tuttu:	
 
 <div class="versenum">21.</div> Etta niinkuin synti on vallinnut kuolemaan, niin myos armo on vallitseva vanhurskauden kautta ijankaikkiseen elamaan, Jesuksen Kristuksen meidan Herramme kautta.	
-
+</body>
+</html>

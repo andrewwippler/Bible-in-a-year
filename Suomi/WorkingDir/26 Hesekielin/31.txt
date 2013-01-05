@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Silla heidan piti myos alas meneman heidan kanssansa helvettiin miekalla tapettuin tyko, etta he hanen kasivartensa varjon alla pakanain seassa asuneet olivat.	
 
 <div class="versenum">18.</div> Kuinka suureksi sina (Pharao) luit sinun ylpeytes ja suuruutes niiden ihanain puiden seassa? Silla sinun taytyy ihanain puiden kanssa menna alas maan alle, ja ymparileikkaamattomain seassa maata, jotka miekalla tapetut ovat. Niin pitaa Pharaolle tapahtuman, ja kaikelle hanen kansallensa, sanoo Herra, Herra.	
-
+</body>
+</html>

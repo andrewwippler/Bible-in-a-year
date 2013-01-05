@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Joka ei itsiansa salli kurittaa, se katsoo ylon sielunsa; vaan joka rangaistusta kuulee, han tulee viisaaksi.	
 
 <div class="versenum">33.</div> Herran pelko on kuritus viisauteen, ja kunnian edella kay noyryys.	
-
+</body>
+</html>

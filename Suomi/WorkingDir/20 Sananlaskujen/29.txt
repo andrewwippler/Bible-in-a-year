@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Moni etsii paamiehenkasvoja; mutta jokaisen tuomio tulee Herralta.	
 
 <div class="versenum">27.</div> Jumalatoin ihminen on vanhurskaille kauhistus; ja joka oikialla tiella on, han on jumalattomalle kauhistus.	
-
+</body>
+</html>

@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja ei joutsimiesten pida seisoman, ja joka nopia on juoksemaan, ei pida paaseman; ja joka hevosella ajaa, ei pida henkeansa vapahtaman.	
 
 <div class="versenum">16.</div> Ja joka vakevain seassa kaikkein miehuullisin on, sen pitaa alasti pakeneman silla ajalla, sanoo Herra.	
-
+</body>
+</html>

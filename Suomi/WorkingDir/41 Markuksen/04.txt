@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Ja han sanoi heille: mita te niin pelkurit olette? Kuinka ei teilla ole uskoa?	
 
 <div class="versenum">41.</div> Ja he peljastyivat sangen suuresti ja sanoivat keskenansa: kuka tama on? silla tuuli ja meri ovat hanelle kuuliaiset.	
-
+</body>
+</html>

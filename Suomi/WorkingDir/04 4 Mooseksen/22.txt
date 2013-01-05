@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Ja Balak uhrasi karjaa ja lampaita, ja lahetti Bileamin ja paamiesten peraan, jotka hanen kanssansa olivat.	
 
 <div class="versenum">41.</div> Mutta huomeneltain tapahtui, etta Balak otti Bileamin, ja vei hanen Baalin kukkulalle, nakemaan sielta kansan aareen.	
-
+</body>
+</html>

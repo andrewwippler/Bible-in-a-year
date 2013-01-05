@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja tulivat ja rukoilivat heita, ja veivat heidat ulos, ja kaskivat heidan menna pois kaupungista.	
 
 <div class="versenum">40.</div> Niin he laksivat tornista ja menivat Lydian tyko. Ja kuin he veljet nahneet olivat ja heita lohduttaneet, vaelsivat he matkaansa.	
-
+</body>
+</html>

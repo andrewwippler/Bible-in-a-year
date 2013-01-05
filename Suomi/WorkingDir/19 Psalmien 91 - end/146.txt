@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Herra varjelee vieraat, ja holhoo orpoja ja leskia, ja jumalattomain tien hajoittaa.	
 
 <div class="versenum">10.</div> Herra on kuningas ijankaikkisesti, sinun Jumalas, Zion, suvusta sukuun, Halleluja!	
-
+</body>
+</html>

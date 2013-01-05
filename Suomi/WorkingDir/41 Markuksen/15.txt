@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Ja han osti liinavaatteen, otti hanen alas ja kaari liinavaatteeseen, ja pani hanen hautaan, joka kallioon hakattu oli, ja vieritti kiven haudan ovelle.	
 
 <div class="versenum">47.</div> Mutta Maria Magdalena ja Joseen Maria katselivat, kuhunka han pantiin.	
-
+</body>
+</html>

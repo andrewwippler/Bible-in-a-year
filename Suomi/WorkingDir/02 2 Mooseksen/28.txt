@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja pitaa tekeman heille liinaiset alusvaatteet, peittaaksensa hapylihansa: kupeista niin reisiin asti pitaa ne oleman.	
 
 <div class="versenum">43.</div> Ja Aaron poikinensa pitaa ne yllansa pitaman, koska he menevat seurakunnan majaan, eli koska he lahestyvat alttaria palvelusta tekemaan pyhassa, ettei heille kostettaisi heidan vaaryyttansa, ja he kuolisi. Se pitaa oleman hanelle ja hanen siemenellensa hanen jalkeensa ijankaikkinen saaty.	
-
+</body>
+</html>

@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja Herran viholliset hukkaan tulisivat; mutta heidan aikansa olisi ijankaikkisesti pysyva,	
 
 <div class="versenum">16.</div> Ja mina ruokkisin heita parhailla nisuilla, ja ravitsisin heita hunajalla kalliosta.	
-
+</body>
+</html>

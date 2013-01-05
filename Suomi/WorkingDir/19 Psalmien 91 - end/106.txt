@@ -99,4 +99,5 @@
 <div class="versenum">47.</div> Auta meita, Herra meidan Jumalamme, ja kokoa meita pakanoista, etta kiittaisimme sinun pyhaa nimeas, ja kehuisimme sinun kiitostas.	
 
 <div class="versenum">48.</div> Kiitetty olkoon Herra Israelin Jumala, ijankaikkisuudesta niin ijankaikkisuuteen: ja sanokaan kaikki kansa: Amen, Halleluja!	
-
+</body>
+</html>

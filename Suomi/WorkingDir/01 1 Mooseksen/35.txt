@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Isaak oli sadan ja kahdeksankymmenen ajastaikainen:	
 
 <div class="versenum">29.</div> Ja tuli riutuneeksi, ja kuoli, ja koottiin kansansa tyko, vanhana ja suuttununna elamasta. Ja hanen poikansa Esau ja Jakob hautasivat hanen.	
-
+</body>
+</html>

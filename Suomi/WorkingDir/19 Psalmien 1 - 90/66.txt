@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Sentahden Jumala on minua kuullut, ja ottanut vaarin minun rukoukseni aanesta.	
 
 <div class="versenum">20.</div> Kiitetty olkoon Jumala, joka ei hylkaa rukoustani, eika kaanna laupiuttansa pois minusta!	
-
+</body>
+</html>

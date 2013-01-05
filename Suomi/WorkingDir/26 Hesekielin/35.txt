@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Nain sanoo Herra, Herra: mina teen sinun autioksi, etta koko maakunta pitaa iloitseman.	
 
 <div class="versenum">15.</div> Niinkuin sina iloinnut olet Israelin perikuntaa ottaissas, etta se autiona oli; niin tahdon mina sinun kanssas tehda; etta Seirin vuori pitaa autiona oleman, ynna koko Edomin kanssa, ja heidan pitaa tietaman, etta mina olen Herra.	
-
+</body>
+</html>

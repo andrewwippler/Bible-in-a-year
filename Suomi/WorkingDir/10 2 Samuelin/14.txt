@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Absalom sanoi Joabille: katso, mina lahetin sinun peraas ja annoin sanoa sinulle: tule minun tykoni, lahettaakseni sinua kuninkaan tyko, ja antaakseni sanoa: miksi mina tulin Gessurista? Se olis minulle parempi, etta mina viela siella olisin. Niin anna minun nahda kuninkaan kasvot: jos myos joku pahateko on minussa, niin tappakoon minun.	
 
 <div class="versenum">33.</div> Ja Joab meni kuninkaan tyko ja sanoi sen hanelle, ja han kutsui Absalomin kuninkaan tyko. Ja han kumarsi kuninkaan eteen maahan kasvoillensa, ja kuningas antoi suuta Absalomille.	
-
+</body>
+</html>

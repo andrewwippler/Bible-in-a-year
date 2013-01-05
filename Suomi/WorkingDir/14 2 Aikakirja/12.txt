@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja Rehabeamin teot, ensimaiset ja viimeiset, eiko ne ole kirjoitetut Semajan prophetan ja Iddon nakian sanoissa, joissa kirjoitetaan sukukunnat, niin myos Rehabeamin ja Jerobeamin sodat kaikkina aikoina.	
 
 <div class="versenum">16.</div> Ja Rehabeam nukkui isainsa kanssa ja haudattiin Davidin kaupunkiin; ja hanen poikansa Abia tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

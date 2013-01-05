@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Makausvaatteita, maljoja, saviastioita, nisuja, ohria, jauhoja, kuivatuita tahkapaita, papuja, herneita ja tuletettuja herneita,	
 
 <div class="versenum">29.</div> Hunajaa, voita, lampaita ja lehman juustoja, ne kantoivat he Davidille ja vaelle, joka hanen kanssansa oli, ravinnoksi; silla he ajattelivat: kansa rupee isoomaan, vasymaan ja janoomaan korvessa.	
-
+</body>
+</html>

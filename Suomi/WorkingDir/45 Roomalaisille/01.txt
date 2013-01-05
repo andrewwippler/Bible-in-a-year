@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Tomppelit, liiton rikkojat, haluttomat, sovittamattomat, armottomat.	
 
 <div class="versenum">32.</div> Jotka Jumalan oikeuden tietavat, (etta ne, jotka naita tekevat, ovat kuoleman ansainneet) ei ainoastaan niita tee, mutta myos suostuvat niihin, jotka niita tekevat.	
-
+</body>
+</html>

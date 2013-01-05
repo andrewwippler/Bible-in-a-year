@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta Jumalan sana kasvoi ja eneni.	
 
 <div class="versenum">25.</div> Mutta Barnabas ja Saulus palasivat Jerusalemista, kuin he olivat palveluksen paattaneet, ja ottivat Johanneksen kanssansa, joka myos Markukseksi kutsuttiin.	
-
+</body>
+</html>

@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Herra katkekoon sinun kaikesta pahasta: han katkekoon sinun sielus!	
 
 <div class="versenum">8.</div> Herra katkekoon sinun uloskaymises ja sisallekaymises, hamasta nyt ja ijankaikkiseen!	
-
+</body>
+</html>

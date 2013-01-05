@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Musin lapset: Maheli, Eder ja Jeremot. Ne ovat Levilaisten lapset heidan isainsa huoneen jalkeen.	
 
 <div class="versenum">31.</div> Ja namat myos heittivat arpaa veljeinsa Aaronin lasten kanssa kuningas Davidin edessa, ja Zadokin ja Ahimelekin, ja ylimmaisten isain edessa, pappein ja Levilaisten seassa; ylimmainen isain seassa pienimmankin veljensa kanssa.	
-
+</body>
+</html>

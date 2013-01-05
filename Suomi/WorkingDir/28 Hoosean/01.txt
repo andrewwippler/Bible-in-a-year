@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Mutta Israelin lasten luku pitaa oleman niinkuin meren hiekka, jota ei mitata eika luettaa taideta; ja pitaa tapahtuman, etta siina paikassa, missa heille sanottiin: Ette ole minun kansani, pitaa heille sanottaman: Te elavan Jumalan lapset.	
 
 <div class="versenum">11.</div> Silla Juudan lapset ja Israelin lapset pitaa kokoontuman ja pitaman heitansa yhden paan alla, ja meneman ylos pois maasta; silla Jisreelin paiva pitaa suuri oleman.	
-
+</body>
+</html>

@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Niin teki myos Jesus monta muuta merkkia opetuslastensa nahden, jotka ei tassa kirjassa ole kirjoitetut.	
 
 <div class="versenum">31.</div> Mutta namat ovat kirjoitetut, etta te uskoisitte, etta Jesus on Kristus, Jumalan Poika, ja etta te saisitte elaman uskon kautta hanen nimeensa.	
-
+</body>
+</html>

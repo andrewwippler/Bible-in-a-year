@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja kuningas kaski heidan vetaa suuria kivia, kalliita kivia, hakatuita kivia huoneen perustukseksi.	
 
 <div class="versenum">18.</div> Ja Salomon rakentajat, ja Hiramin rakentajat ja Giblimilaiset, vuolivat ja valmistivat puita ja kivia huoneen rakennukseksi.	
-
+</body>
+</html>

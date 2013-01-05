@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Silla ei meilla ole se ylimmainen pappi, joka ei taida meidan heikkouttamme armahtaa, vaan se, joka kaikissa kiusattu on, niin kuin mekin, kuitenkin ilman syntia.	
 
 <div class="versenum">16.</div> Sentahden kaykaamme edes uskalluksella armoistuimen tyko, etta me laupiuden saisimme ja loytaisimme silloin armon, kuin me apua tarvitsemme.	
-
+</body>
+</html>

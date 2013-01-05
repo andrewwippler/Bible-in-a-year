@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Silla Herra Jumala on aurinko ja kilpi: Herra antaa armon ja kunnian: ei han anna hurskailta mitaan hyvaa puuttua.	
 
 <div class="versenum">12.</div> Herra Zebaot, autuas on se ihminen, joka sinuun uskaltaa.	
-
+</body>
+</html>

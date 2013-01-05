@@ -87,4 +87,5 @@
 <div class="versenum">41.</div> Niin Jesus vastasi ja sanoi hanelle: Martta, Martta, paljon sina suret ja pyrit.	
 
 <div class="versenum">42.</div> Vaan yksi on tarpeellinen: Maria on hyvan osan valinnut, joka ei hanelta pida otettaman pois.	
-
+</body>
+</html>

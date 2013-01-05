@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Silla katso, jotka sinusta eriavat, ne hukkuvat: sina kadotat kaikki, jotka sinua vastaan huorin tekevat.	
 
 <div class="versenum">28.</div> Mutta se on minun iloni, etta mina itseni Jumalan tyko pidan, ja panen toivoni Herran, Herran paalle, ilmoittamaan kaikkia sinun toitas.	
-
+</body>
+</html>

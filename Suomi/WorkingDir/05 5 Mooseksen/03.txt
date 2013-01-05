@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Mutta kaske Josualle ja vahvista hanta, ja rohkaise hanta; silla hanen pitaa meneman ylitse, taman kansan edella, ja pitaa heille omistaman perinnoksi sen maan, jonka sina naet.	
 
 <div class="versenum">29.</div> Ja me olimme siina laaksossa, joka on BetPeorin kohdalla.	
-
+</body>
+</html>

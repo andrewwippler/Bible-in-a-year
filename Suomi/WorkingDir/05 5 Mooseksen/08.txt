@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Mutta jos sina niin unhotat Herran sinun Jumalas, ja noudatat muita jumalia, palvelet ja kumarrat niita, niin mina tanapana todistan teille, etta teidan pitaa perati hukkuman.	
 
 <div class="versenum">20.</div> Juuri niinkuin pakanat, jotka Herra hukuttaa teidan edestanne, niin teidan pitaa hukkuman, ettette ole Herran teidan Jumalanne aanelle kuuliaiset.	
-
+</body>
+</html>

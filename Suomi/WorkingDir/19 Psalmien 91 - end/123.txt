@@ -11,4 +11,5 @@
 <div class="versenum">3.</div> Ole meille armollinen, Herra, ole meille armollinen! silla me olemme sangen taytetyt ylonkatseesta;	
 
 <div class="versenum">4.</div> Sangen taynna on meidan sielumme rikasten pilkkaa ja ylpeiden ylonkatsetta.	
-
+</body>
+</html>

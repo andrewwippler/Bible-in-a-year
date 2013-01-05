@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Israel sanoi Josephille: katsot mina kuolen; ja Jumala on teidan kanssanne, ja vie teita jallensa teidan isainne maalle.	
 
 <div class="versenum">22.</div> Mina olen myos antanut sinulle osan maata, paalle sinun veljeis osan, jonka mina miekallani ja joutsellani Amorilaisten kasista ottanut olen.	
-
+</body>
+</html>

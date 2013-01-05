@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja templin oviin olivat tehdyt Kerubimit ja palmupuut, niinkuin seinissakin; ja siina oli paksu puu esihuoneen edessa ulkoisella puolella.	
 
 <div class="versenum">26.</div> Ja olivat ahtaat akkunat ja paljo palmupuita, kaikki ympari esihuoneen; niin myos huoneen kammiot ja malat.	
-
+</body>
+</html>

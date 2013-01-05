@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Vanhurskaan hedelma on elaman puu: joka viisas on, han kaantaa sielut.	
 
 <div class="versenum">31.</div> Koska vanhurskas paljon karsii, kuinka paljoa enemmin jumalatoin ja syntinen?	
-
+</body>
+</html>

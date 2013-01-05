@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Silla jolle viela rieskaa pitaa annettaman, se on harjoittamatoin vanhurskauden sanaan; (silla han on lapsi;)	
 
 <div class="versenum">14.</div> Mutta taydellisten sopii vahva ruoka, joilla ovat tottumisen kautta harjoitetut mielet hyvaa ja pahaa eroittamaan.	
-
+</body>
+</html>

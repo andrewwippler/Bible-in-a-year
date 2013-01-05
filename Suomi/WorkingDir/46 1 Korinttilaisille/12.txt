@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Onko kaikilla parantamisen lahjat? Puhuvatko kaikki moninaisilla kielilla? Taitavatko kaikki selittaa?	
 
 <div class="versenum">31.</div> Mutta noudattakaat te paraita lahjoja. Ja viela mina teille korkiamman tien osoitan.	
-
+</body>
+</html>

@@ -129,4 +129,5 @@
 <div class="versenum">62.</div> Nibsan, ja Suolakaupunki, Engedi; kuusi kaupunkia ja heidan kylansa.	
 
 <div class="versenum">63.</div> Mutta Jebusilaiset asuivat Jerusalemissa, ja Juudan lapset ei voineet heita ajaa ulos. Ja silloin jaivat Jebusilaiset asumaan Juudan lasten kanssa Jerusalemissa tahan paivaan asti.	
-
+</body>
+</html>

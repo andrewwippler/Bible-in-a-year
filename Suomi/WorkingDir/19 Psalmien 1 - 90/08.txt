@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Linnut taivaan alla ja kalat meressa ja mita meressa vaeltaa.	
 
 <div class="versenum">9.</div> Herra meidan Herramme, kuinka ihmeellinen on sinun nimes kaikessa maassa!	
-
+</body>
+</html>

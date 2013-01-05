@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Nuorten miesten vakevyys on heidan kunniansa, ja harmaat karvat on vanhain kaunistus.	
 
 <div class="versenum">30.</div> Haavoilla pitaa pahuus ajettaman pois, ja koko sydamen kivulla.	
-
+</body>
+</html>

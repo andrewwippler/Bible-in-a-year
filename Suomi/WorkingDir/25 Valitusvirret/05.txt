@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Palauta, Herra, meita jalleen sinun tykos, etta me taas palaisimme; uudista meidan paivamme niinkuin ne alusta olivat.	
 
 <div class="versenum">22.</div> Oletkos meita perati heittanyt pois, ja sangen suuresti vihastunut meidan paallemme?	
-
+</body>
+</html>

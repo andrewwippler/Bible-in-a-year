@@ -99,4 +99,5 @@
 <div class="versenum">47.</div> Ja jos te ainoastaan veljeinne kanssa soveliaat olette, mita te sen kanssa erinomaista teette? eiko Publikanit myos niin tee?	
 
 <div class="versenum">48.</div> Olkaat siis te taydelliset, niinkuin teidan taivaallinen Isanne taydellinen on.	
-
+</body>
+</html>

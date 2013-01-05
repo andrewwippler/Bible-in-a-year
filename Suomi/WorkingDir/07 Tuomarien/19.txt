@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Kuin han kotiansa tuli, otti han veitsen ja jakoi jalkavaimonsa kahteentoistakymmeneen kappaleeseen kaikki lihoinensa ja luinensa, ja lahetti ne kaikkiin Israelin maan rajoihin.	
 
 <div class="versenum">30.</div> Ja kaikki jotka sen nakivat, sanoivat: ei ole senkaltaista ikana ennen tapahtunut eika nahty, siita paivasta kuin Israelin lapset tulivat Egyptin maalta niin tahan paivaan asti. Ajatelkaat nyt itsellanne tasta asiasta visusti, pitakaat neuvoa ja puhukaat.	
-
+</body>
+</html>

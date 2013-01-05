@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Kiittakaan Herran nimea; silla hanen ainoan nimensa on korotettu, ja hanen suuri kunniansa ylitse maan ja taivaan.	
 
 <div class="versenum">14.</div> Ja han korottaa sarven kansallensa: kaikki hanen pyhansa kiittakaat, Israelin lapset, kansa joka hanta lahin on, Halleluja!	
-
+</body>
+</html>

@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja se tulee teidan ensin tietaa, ettei yksikaan prophetia Raamatussa tapahdu omasta selityksesta.	
 
 <div class="versenum">21.</div> Silla ei yksikaan prophetia ole viela ihmisen tahdosta tuotu edes; vaan pyhat Jumalan ihmiset ovat puhuneet, vaikutetut Pyhalta Hengelta.	
-
+</body>
+</html>

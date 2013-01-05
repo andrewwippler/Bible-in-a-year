@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Silla kaikki liha on niinkuin ruoho ja kaikki ihmisen kunnia niinkuin ruohon kukkanen. Ruoho on kuivunut, ja sen kukkanen lakastunut;	
 
 <div class="versenum">25.</div> Mutta Herran sana pysyy ijankaikkisesti, ja se on se sana, joka teidan seassanne saarnattu on.	
-
+</body>
+</html>

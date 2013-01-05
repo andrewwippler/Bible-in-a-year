@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Silla se olis heille parempi ollut, ettei he vanhurskauden tieta tunteneetkaan olisi, kuin etta he tunsivat sen ja poikkesivat pois pyhasta kaskysta, joka heille annettu oli.	
 
 <div class="versenum">22.</div> Niille on tapahtunut se totinen sananlasku: koira syo oksennuksensa, ja pesty sika rypee rapakossa jalleen.	
-
+</body>
+</html>

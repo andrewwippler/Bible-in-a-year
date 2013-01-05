@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Sina kylvat, ja et leikkaa; sina sotkut oljypuita, ja et saa itsias oljylla voidella, ja kuurnitset viinaa, ja et saa sita juoda.	
 
 <div class="versenum">16.</div> Silla Omrin saadyt ahkerasti pidetaan, ja kaikki Ahabin huoneen teot, ja te vaellatte heidan neuvoissansa; sentahden tahdon mina sinun autioksi tehda, ja sen maan asuvaiset pilkaksi, ja teidan pitaa minun kansani hapian kantaman.	
-
+</body>
+</html>

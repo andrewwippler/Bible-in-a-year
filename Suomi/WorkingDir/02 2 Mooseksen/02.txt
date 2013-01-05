@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja Jumala kuuli heidan huokauksensa: ja muisti liittonsa Abrahamin, Isaakin ja Jakobin kanssa.	
 
 <div class="versenum">25.</div> Ja Jumala katsahti Israelin lasten puoleen, ja Jumala piti heista murheen.	
-
+</body>
+</html>

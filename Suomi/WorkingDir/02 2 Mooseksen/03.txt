@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja mina annan armon talle kansalle Egyptilaisten edessa, etta koska te lahdette, ei teidan pida tyhjin kasin lahteman.	
 
 <div class="versenum">22.</div> Vaan jokaisen vaimon pitaa anoman kylansa vaimolta, ja huonekuntalaiseltansa hopia- ja kulta-astiat ja vaatteet, ja paneman ne teidan poikainne ja tytartenne paalle, ja paljastaman Egyptilaiset.	
-
+</body>
+</html>

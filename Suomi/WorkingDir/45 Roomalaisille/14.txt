@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Jos sinulla on usko, niin pida se itsessas Jumalan edessa. Autuas on, joka ei tee itsellensa omaatuntoa niissa, mitka han koettelee.	
 
 <div class="versenum">23.</div> Mutta joka siita epailee ja kuitenkin syo, se on kadotettu; silla ei han syonyt uskossa, mutta kaikki, mika ei uskosta ole, se on synti.	
-
+</body>
+</html>

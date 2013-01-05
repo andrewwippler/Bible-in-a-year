@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Saata meille apua tuskissamme; silla ihmisten apu on turha.	
 
 <div class="versenum">13.</div> Jumalassa me tahdomme urhoollisia toita tehda; ja han polkee meidan vihollisemme alas.	
-
+</body>
+</html>

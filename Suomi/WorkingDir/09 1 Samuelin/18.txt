@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Niin Saul viela enemmin pelkasi Davidia, ja Saul tuli Davidin vihamieheksi kaikkena elinaikanansa.	
 
 <div class="versenum">30.</div> Ja Philistealaisten ruhtinaat laksivat ulos, ja heidan lahteissansa ulos teki David toimellisemmasti kuin kaikki Saulin palveliat, etta hanen nimensa tuli sangen kuuluisaksi.	
-
+</body>
+</html>

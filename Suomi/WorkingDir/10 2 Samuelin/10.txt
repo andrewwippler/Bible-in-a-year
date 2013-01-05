@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Mutta Syrialaiset pakenivat Israelin edesta, ja David loi heista seitsemansataa vaunua ja neljakymmenta tuhatta ratsasmiesta, loi myos Sobakin sodanpaamiehen, etta han siina kuoli.	
 
 <div class="versenum">19.</div> Kuin kaikki ne kuninkaat, jotka olivat HadadEserin alla, nakivat itsensa lyodyksi Israelilta, tekivat he Israelin kanssa rauhan, ja olivat heille alamaiset; ja Syrialaiset ei uskaltaneet Ammonin lapsia enaa auttaa.	
-
+</body>
+</html>

@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Nain teki Jehiskia kaikessa Juudassa; ja han teki mika hyva, oikia ja totuus oli Herran hanen Jumalansa edessa.	
 
 <div class="versenum">21.</div> Ja kaikissa teoissansa, jotka han alkoi Jumalan huoneen palveluksessa, lain ja kaskyn jalkeen, etsiaksensa Jumalaansa: sen teki han kaikesta sydamestansa, sentahden han myos menestyi.	
-
+</body>
+</html>

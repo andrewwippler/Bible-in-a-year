@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Israel asuu levollisesti yksinansa, ja Jakobin silma katsoo sen maan paalle, jossa jyvia ja viinaa on, siihen myos taivaat kastetta vuodattavat.	
 
 <div class="versenum">29.</div> Autuas olet sina Israel: kuka on sinun kaltaises? O sina kansa, joka Herrassa autuaaksi tulet, joka sinun apus kilpi ja sinun kunnias miekka on. Vihollises valhettelevat sinulle, ja sina astelet heidan kukkulainsa paalla.	
-
+</body>
+</html>

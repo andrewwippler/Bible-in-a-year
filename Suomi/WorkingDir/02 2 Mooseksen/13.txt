@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Herra kavi heidan edellansa paivalla pilven patsaassa, johdattaaksensa heita tiella, ja yolla tulen patsaassa, valistaaksensa heita vaeltamaan, seka yolla etta paivalla.	
 
 <div class="versenum">22.</div> Pilven patsas ei erinnyt paivalla, eika tulen patsas yolla kansan edesta.	
-
+</body>
+</html>

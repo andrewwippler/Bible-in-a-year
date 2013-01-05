@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Nousivat kaikki sotaan kelpaavaiset miehet, kavivat kaiken sen yon ja ottivat Saulin ruumiin ja hanen poikainsa ruumiit alas Betsanin muurin paalta, veivat Jabekseen ja polttivat ne siella,	
 
 <div class="versenum">13.</div> Ja ottivat heidan luunsa ja hautasivat puun alle Jabekseen, ja paastosivat seitseman paivaa.	
-
+</body>
+</html>

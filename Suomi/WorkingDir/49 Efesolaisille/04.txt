@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Kaikki haikeus, ja narkastys, ja viha, ja huuto, ja sadatus olkoon kaukana teista kaiken pahuuden kanssa.	
 
 <div class="versenum">32.</div> Mutta olkaat keskenanne ystavalliset ja laupiaat, ja anteeksi antakaat toinen toisellenne niinkuin Jumala teillekin Kristuksen kautta anteeksi antanut on.	
-
+</body>
+</html>

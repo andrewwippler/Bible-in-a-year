@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Jos sina kauvan olet jonkun kaupungin edessa, jota vastaan sina sodit omistaakses sita, niin ala havita sen puita, ala myos kirveella raiskaa niita; silla sina saat niista syoda, sentahden ala hakkaa niita maahan; silla ihmisella on metsapuitakin, tulemaan varustukseksi sinun etees.	
 
 <div class="versenum">20.</div> Vaan ne puut, joista tiedat, ettei ne ole syotavia, havita ja hakkaa maahan, ja rakenna varustus kaupunkia vastaan, jonka kanssa sina sodit, siksi kuin sina voitat sen.	
-
+</body>
+</html>

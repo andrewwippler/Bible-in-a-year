@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Jumala on kerran puhunut, sen olen mina kahdesti kuullut: etta Jumala (yksinansa) vakeva on.	
 
 <div class="versenum">12.</div> Ja sina Jumala olet armollinen; silla sina maksat jokaiselle tyonsa jalkeen.	
-
+</body>
+</html>

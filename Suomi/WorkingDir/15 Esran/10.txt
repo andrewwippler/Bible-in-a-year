@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Nebon lasten seassa: Jejel, Mattitia, Sabad, Sebina, Jaddai, Joel ja Benaja.	
 
 <div class="versenum">44.</div> Namat kaikki olivat ottaneet muukalaisia vaimoja, ja olivat monikahdat niista vaimoista, joiden kanssa he olivat siittaneet lapsia.	
-
+</body>
+</html>

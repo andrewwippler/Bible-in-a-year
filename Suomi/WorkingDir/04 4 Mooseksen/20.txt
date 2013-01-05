@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Moses riisui Aaronilta hanen vaatteensa, ja puetti hanen poikansa Eleatsarin ylle. Ja Aaron kuoli siella, vuoren kukkulalla, mutta Moses ja Eleatsar astuivat vuorelta alas.	
 
 <div class="versenum">29.</div> Ja koska kaikki kansa naki Aaronin kuolleeksi, itki koko Israelin huone hanta kolmekymmenta paivaa.	
-
+</body>
+</html>

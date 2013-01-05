@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Teita tervehtivat valitut Babyloniassa ja minun poikani Markus.	
 
 <div class="versenum">14.</div> Tervehtikaat toinen toistanne rakkauden suun-annolla. Rauha olkoon teille kaikille, jotka Kristuksessa Jesuksessa olette, amen!	
-
+</body>
+</html>

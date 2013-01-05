@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Ephraimin lasten sukukunnalle olivat myos annetut kaikki kaupungit ja kylat keskella Manassen lasten perintoa.	
 
 <div class="versenum">10.</div> Ja ei he ajaneet Kanaanealaisia pois, jotka asuivat Geserissa. Niin pysyivat Kanaanealaiset Ephraimin seassa tahan paivaan asti ja tulivat verollisiksi.	
-
+</body>
+</html>

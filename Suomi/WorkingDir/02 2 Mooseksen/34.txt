@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Mutta koska han meni sisalle Herran eteen puhuttelemaan hanta, pani han peitteen pois, niin kauvaksi kuin han laksi jallensa ulos. Ja koska han laksi ulos, puhui han Israelin lapsille, mita hanelle kasketty oli.	
 
 <div class="versenum">35.</div> Niin katsoivat Israelin lapset hanen kasvoihinsa, kuinka hanen kasvoinsa nahka paisti: niin veti jallensa peitteen kasvoinsa paalle, niinkauvaksi kuin han jallensa meni puhuttelemaan hanta.	
-
+</body>
+</html>

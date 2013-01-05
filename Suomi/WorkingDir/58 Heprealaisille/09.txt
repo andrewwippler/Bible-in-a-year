@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Ja niinkuin kaikkein ihmisten pitaa kerran kuoleman, mutta senjalkeen tuomio,	
 
 <div class="versenum">28.</div> Niin on myos Kristus kerran uhrattu monen synteja ottamaan pois; mutta toisella haavalla on han ilman syntia ilmestyva niille, jotka hanta odottavat autuudeksi.	
-
+</body>
+</html>

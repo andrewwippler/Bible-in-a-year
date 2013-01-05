@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Niin lahettivat he ja kutsuivat kaikki Philistealaisten paamiehet kokoon, ja sanoivat: lahettakaat Israelin Jumalan arkki siallensa jalleen, ettei han surmaisi minua ja minun kansaani; silla kaikessa kaupungissa oli suuri kapina kuoleman tahden, ja Jumalan kasi oli siella sangen raskas.	
 
 <div class="versenum">12.</div> Ja ihmiset, jotka ei kuolleet, olivat lyodyt salaisissa paikoissansa, niin etta huuto meni kaupungista ylos taivaasen.	
-
+</body>
+</html>

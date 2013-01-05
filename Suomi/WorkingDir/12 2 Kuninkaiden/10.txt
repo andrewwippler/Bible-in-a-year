@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja Jehu nukkui isainsa kanssa ja haudattiin Samariaan. Ja Joahas hanen poikansa tuli kuninkaaksi hanen sijaansa.	
 
 <div class="versenum">36.</div> Ja aika jonka Jehu Israelia hallitsi Samariassa, oli kahdeksan ajastaikaa kolmattakymmenta.	
-
+</body>
+</html>

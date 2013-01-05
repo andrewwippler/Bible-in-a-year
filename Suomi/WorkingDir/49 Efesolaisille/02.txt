@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Jonka paalle kaikki rakennus toinen toiseensa liitetaan ja kasvaa pyhaksi templiksi Herrassa,	
 
 <div class="versenum">22.</div> Jonka paalle te myos rakennetaan Jumalalle asuinsiaksi Hengessa.	
-
+</body>
+</html>

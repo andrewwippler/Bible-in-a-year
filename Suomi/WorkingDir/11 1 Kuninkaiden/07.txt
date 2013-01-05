@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Niin myos maljoja, vateja, kuppeja, lusikoita ja pannuja puhtaasta kullasta; ja olivat huoneen saranat huoneen sisimaisissa ovissa, joka oli se kaikkein pyhin, ja templin huoneen oven saranat aivan puhtaasta kullasta.	
 
 <div class="versenum">51.</div> Nain kaikki tyo paatettiin, minka kuningas Salomo teki Herran huoneesen. Ja Salomo kantoi sinne kaikki mita hanen isansa David pyhittanyt oli, hopiaa ja kultaa, ja astioita, ja pani Herran huoneen tavaroihin.	
-
+</body>
+</html>

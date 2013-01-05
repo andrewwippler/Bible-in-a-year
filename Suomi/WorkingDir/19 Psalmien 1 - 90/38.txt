@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ala hylkaa minua, Herra: minun Jumalani, ala ole kaukana minusta!	
 
 <div class="versenum">22.</div> Rienna minua auttamaan, Herra, minun autuuteni!	
-
+</body>
+</html>

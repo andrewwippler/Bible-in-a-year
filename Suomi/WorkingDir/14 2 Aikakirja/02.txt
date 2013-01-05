@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja Salomo luki kaikki muukalaiset Israelin maalla, sen luvun jalkeen, kuin hanen isansa David ne luki; ja siella loydettiin sata ja viisikymmenta tuhatta, kolmetuhatta ja kuusisataa.	
 
 <div class="versenum">18.</div> Ja han asetti niista seitsemankymmenta tuhatta vetajiksi ja kahdeksankymmenta tuhatta hakkaajiksi vuorella, ja kolmetuhatta ja kuusisataa teettajiksi, joiden kansaa piti teettaman.	
-
+</body>
+</html>

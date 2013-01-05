@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Minun puheeni kelpaa hanelle, ja mina iloitsen Herrassa.	
 
 <div class="versenum">35.</div> Syntiset maalta lopetetaan, ja jumalattomat ei pida silleen oleman: kiita Herraa, sieluni, Halleluja!	
-
+</body>
+</html>

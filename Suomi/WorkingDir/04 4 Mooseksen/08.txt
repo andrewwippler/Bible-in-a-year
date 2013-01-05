@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Mutta viidennestakymmenesta vuodesta pitaa heidan vapaat oleman palveluksensa virasta, ja ei pida enaa palveleman.	
 
 <div class="versenum">26.</div> Mutta heidan pitaa veljeinsa palveluksesta seurakunnan majassa ottaman vaarin; mutta viran toita ei heidan pida tekeman. Nain sinun pitaa tekeman Levilaisille heidan vartiossansa.	
-
+</body>
+</html>

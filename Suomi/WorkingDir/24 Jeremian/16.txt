@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Kuinka taitaa ihminen tehda hanellensa jumalia, jotka ei kuitenkaan jumalia olekaan?	
 
 <div class="versenum">21.</div> Sentahden katso, mina tahdon opettaa heita talla haavalla, ja tehda heille minun kateni ja valtani tiettavaksi; ja heidan pitaa ymmartaman, etta minun nimeni on Herra.	
-
+</body>
+</html>

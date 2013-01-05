@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Tata nuorukaista mina anoin: nyt on Herra minulle antanut minun rukoukseni, jonka mina hahelta rukoilin.	
 
 <div class="versenum">28.</div> Sentahden annan mina hanen Herralle jalleen kaikeksi elinajaksensa, etta han Herralta rukoiltu on; ja han rukoili Herraa siina paikassa.	
-
+</body>
+</html>

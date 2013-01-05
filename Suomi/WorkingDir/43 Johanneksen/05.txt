@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Silla jos te olisitte Moseksen uskoneet, niin te olisitte minun uskoneet; silla minusta on han kirjoittanut.	
 
 <div class="versenum">47.</div> Jos ette hanen kirjoitksiansa usko, kuinkas te minun sanani uskotte?	
-
+</body>
+</html>

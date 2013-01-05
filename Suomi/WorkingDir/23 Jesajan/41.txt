@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Mutta mina katselen, ei siella ole ketaan, ja katson heidan keskellansa, mutta ei siella ole yhtaan neuvonantajaa; mina kysyn heilta, ja heidan pitais vastaaman minua.	
 
 <div class="versenum">29.</div> Katso, se on kaikki vaaryys, heidan tyonsa on turha; heidan epajumalansa ovat tuuli ja tyhjyys.	
-
+</body>
+</html>

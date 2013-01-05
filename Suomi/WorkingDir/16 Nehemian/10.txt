@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Ja papin Aaronin pojan pitaa myos saaman Levilaisten kanssa heidan kymmenyksistansa, ja Levilaisten pitaa vieman kymmenyksistansa kymmenennen osan meidan Jumalamme huoneesen, tavarahuoneen kammioihin.	
 
 <div class="versenum">39.</div> Silla Israelin lapset ja Levin lapset piti myos vieman jyvain, viinan ja oljyn ylennyksen kammioihin; ja siella pitaa oleman pyhat astiat, ja papit, jotka palvelevat, ja ovenvartiat, ja veisaajat. Ja emme luovu meidan Jumalamme huoneesta.	
-
+</body>
+</html>

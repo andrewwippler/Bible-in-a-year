@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja han antoi tuoda Jumalan huoneesen, mita hanen isansa pyhittanyt oli ja mita han itse pyhittanyt oli, hopiaa, kultaa ja astioita.	
 
 <div class="versenum">19.</div> Ja ei ollut yhtaan sotaa hamaan viidenteenneljattakymmenta Asan valtakunnan ajastaikaan asti.	
-
+</body>
+</html>

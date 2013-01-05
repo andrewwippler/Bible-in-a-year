@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Nyt etta te, minun rakkaani, sen jo ennen tiedatte, niin karttakaat, ettette vieteltaisi jumalattomain eksytyksella ynna heidan kanssansa, ja lankeaisi pois omasta vahvuudestanne,	
 
 <div class="versenum">18.</div> Vaan kasvakaat meidan Herramme ja Vapahtajan Jesuksen Kristuksen armossa ja tuntemisessa: jolle olkoon kunnia seka nyt etta ijankaikkiseen aikaan, amen!	
-
+</body>
+</html>

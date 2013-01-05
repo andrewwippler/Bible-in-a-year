@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla mita minun tulee tuomita niita, jotka ulkona ovat? Etteko te niita tuomitse, jotka sisalla ovat?	
 
 <div class="versenum">13.</div> Mutta Jumala ne tuomitsee, jotka ulkona ovat. Ajakaat itsekin paha pois tykoanne.	
-
+</body>
+</html>

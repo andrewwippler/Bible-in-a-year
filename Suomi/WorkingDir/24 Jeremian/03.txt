@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja meidan isaimme asetukset, jotka me nuoruudesta olemme pitaneet, pitaa hapialla kayman pois, ynna heidan lammastensa, karjansa, poikainsa ja tytartensa kanssa.	
 
 <div class="versenum">25.</div> Meidan taytyy maata hapiassamme, ja meidan ylonkatseemme peittaa meidat; silla me teimme syntia Herraa meidan Jumalaamme vastaan, seka me etta meidan isamme, meidan hamasta nuoruudestamme niin tahan paivaan asti, ja emme totelleet Herran meidan Jumalamme aanta.	
-
+</body>
+</html>

@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Mina saatan sinulle, Maresa, oikian perillisen, ja Israelin kunnian pitaa Adullamiin asti tuleman.	
 
 <div class="versenum">16.</div> Tee paas paljaaksi, ja keritse sinus, sinun kaunisten lastes tahden; ajele paas paljaaksi niinkuin kotka, silla he ovat viedyt sinulta pois vangittuina.	
-
+</body>
+</html>

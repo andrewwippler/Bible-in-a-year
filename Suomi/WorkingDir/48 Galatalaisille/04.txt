@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mutta mita Raamattu sanoo? aja palkkavaimo poikinensa ulos; silla ei palkkavaimon pojan pida periman vapaan pojan kanssa.	
 
 <div class="versenum">31.</div> Niin me siis olemme, rakkaat veljet, emme palkkavaimon poikia, vaan vapaan.	
-
+</body>
+</html>

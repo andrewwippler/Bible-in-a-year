@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Silla mina pelkaan, etten mina tultuani teita loyda senkaltaisena kuin mina tahdon, ja te myos loydatte minun, ei niinkuin te tahtoisitte: ettei siella riidat, kateudet, vihat, torat, panetukset, parjaukset, paisumiset ja kapinat olisi:	
 
 <div class="versenum">21.</div> Ettei taas minun palattuani minun Jumalani teidan tykonanne minua noyryyttaisi ja minun pitais monen tahden murehtiman, jotka ennen rikkoneet ovat ja ei ole itsiansa parantaneet siita saastaisuudesta ja huoruudesta ja haureudesta, jota he tehneet ovat.	
-
+</body>
+</html>

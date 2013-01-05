@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Etta teidan sukunne tietaisivat, kuinka mina olen antanut Israelin lapset asua majoissa, koska mina johdatin heita Egyptin maalta: Mina Herra teidan Jumalanne.	
 
 <div class="versenum">44.</div> Ja Moses sanoi namat Herran juhlapaivat Israelin lapsille.	
-
+</body>
+</html>

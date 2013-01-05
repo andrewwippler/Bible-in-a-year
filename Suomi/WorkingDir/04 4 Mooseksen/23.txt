@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja Bileam sanoi Balakille: rakenna tahan minulle seitseman alttaria, ja valmista minulle tassa seitseman mullia ja seitseman oinasta.	
 
 <div class="versenum">30.</div> Balak teki niinkuin Bileam sanoi, ja uhrasi (kullakin) alttarilla mullin ja oinaan.	
-
+</body>
+</html>

@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Se on niinkuin murha minun luissani, etta minun viholliseni hapaisevat minua, koska he jokapaiva sanovat minulle: kussa nyt on Jumalas?	
 
 <div class="versenum">11.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
-
+</body>
+</html>

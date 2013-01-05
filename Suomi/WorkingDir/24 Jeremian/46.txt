@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Mutta sina minun palveliani Jakob, ala mitaan pelkaa, ja sina Israel, ala mitaan epaile; silla katso, mina autan sinua kaukaa, ja sinun siemenes vankiutensa maasta, niin etta Jakobin pitaa tuleman jalleen, ja oleman rauhassa ja levossa, ja ei pida kenenkaan hanta peljattaman.	
 
 <div class="versenum">28.</div> Sentahden ala mitaan pelkaa, sina Jakob minun palveliani, sanoo Herra, silla mina olen sinun tykonas; silla mina lopetan kaikki pakanat, kuhunka mina olen sinut ajanut; mutta en mina sinua lopeta, vaan tahdon kurittaa sinua kohtuudella, ja en sinua perati rankaisematta pida.	
-
+</body>
+</html>

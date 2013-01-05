@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kuka tietaa ihmisen hengesta, kohoaako se ylos, ja elaimen hengesta, vajoaako se alas maahan?	
 
 <div class="versenum">22.</div> Niin mina tulin nakemaan, etta ei ole mitaan parempaa, kuin etta ihminen iloitsee teoistansa, silla se on hanen osansa. Silla kuka tuo hanet takaisin nakemaan iloksensa sita, mika tulee hanen jalkeensa?	
-
+</body>
+</html>

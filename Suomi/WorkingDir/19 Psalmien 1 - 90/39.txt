@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Kuule minun rukoukseni, Herra, ja ota minun huutoni korviis, ja ala vaikene minun kyynelteni tahden; silla mina olen muukalainen sinun tykonas ja vieras, niinkuin kaikki minun isani.	
 
 <div class="versenum">13.</div> Luovu minusta, etta mina virkoaisin, ennenkuin mina menen pois, ja en silleen tassa ole.	
-
+</body>
+</html>

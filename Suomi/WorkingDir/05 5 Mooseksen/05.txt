@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Niin pitakaat namat ja tehkaat niinkuin Herra teidan Jumalanne teidan kaski, ja alkaat poiketko oikialle eika vasemmalle puolelle;	
 
 <div class="versenum">33.</div> Vaan vaeltakaat kaikkia niita teita, jotka Herra teidan Jumalanne teille kaski, etta elaisitte, menestyisitte ja olisitte pitka-ijalliset siina maassa, jonka te omistatte.	
-
+</body>
+</html>

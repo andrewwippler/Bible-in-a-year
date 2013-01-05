@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Mita enempi Jerobeamista sanomista on, ja kaikista mita han tehnyt on, ja hanen vakevyydestansa, kuinka han sotinut on, ja kuinka han otti Damaskun jalleen ja Hematin Juudalle Israelissa: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	
 
 <div class="versenum">29.</div> Ja Jerobeam nukkui isainsa, Israelin kuningasten kanssa; ja hanen poikansa Sakaria tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

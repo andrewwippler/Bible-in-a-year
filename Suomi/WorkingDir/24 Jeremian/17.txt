@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja pitaa tuleman Juudan kaupungeista ja niista, jotka ympari Jerusalemin ovat, ja Benjaminin maasta, laaksoista ja vuorilta, ja lounaasta pain, ne jotka pitaa vieman edes polttouhrit, uhrit, ruokauhrit ja suitsutuksen, niin myos ne, jotka pitaa vieman kiitosuhrit Herran huoneesen.	
 
 <div class="versenum">27.</div> Mutta jollette minua kuule, niin etta te pyhitatte sabbatin paivan, ja ettette yhtaan taakkaa kanna Jerusalemin porteista sabbatin paivana: niin mina sytytan tulen sen portteihin, joka Jerusalemin huoneet kuluttaman pitaa, jota ei pida sammutettaman.	
-
+</body>
+</html>

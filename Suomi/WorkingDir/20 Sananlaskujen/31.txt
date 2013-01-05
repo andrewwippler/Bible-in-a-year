@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Otollinen olla on petollisuus, ihana olla on turha; vaan vaimo, joka Herraa pelkaa, ylistetaan.	
 
 <div class="versenum">31.</div> Antakaat hanelle kattensa hedelmasta, ja hanen kattensa tyot kiittakaan hanta porteissa.	
-
+</body>
+</html>

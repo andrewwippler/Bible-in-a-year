@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Jos me tunnustamme meidan syntimme, niin han on uskollinen ja hurskas, joka meille synnit anteeksi antaa ja puhdistaa meita kaikesta vaaryydesta,	
 
 <div class="versenum">10.</div> Jos me sanomme: emmepa me syntia tehneet ole, niin me teemme hanet valehteliaksi ja ei hanen sanansa ole meissa.	
-
+</body>
+</html>

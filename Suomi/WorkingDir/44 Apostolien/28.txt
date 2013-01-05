@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mutta Paavali oli taytta kaksi ajastaikaa omassa palkkahuoneessansa ja otti kaikki vastaan, jotka hanen tykonsa tulivat,	
 
 <div class="versenum">31.</div> Ja saarnasi Jumalan valtakunnasta, ja opetti Herrasta Jesuksesta Kristuksesta kaikella uskalluksella, ja ei hanta yksikaan kieltanyt.	
-
+</body>
+</html>

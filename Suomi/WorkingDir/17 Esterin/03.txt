@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Kirja oli nain: kasky on annettu kaikkiin maakuntiin, julistettaa kaikille kansoille, etta heidan piti oleman sina paivana valmiit.	
 
 <div class="versenum">15.</div> Ja juoksijat menivat kiiruusti kuninkaan kakskyn jalkeen; ja kasky annettiin Susanin linnassa. Ja kuningas ja Haman istuivat ja joivat; mutta Susanin kaupunki oli hammastyksissa.	
-
+</body>
+</html>

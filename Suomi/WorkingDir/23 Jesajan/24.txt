@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Etta he kootaan yhteen niinkuin kuopassa sidotut, ja pitaa oleman suljetut vankeudessa, ja suuren ajan perasta taas etsittaman.	
 
 <div class="versenum">23.</div> Ja kuun pitaa hapeeman, ja auringon ujoileman, koska Herra Zebaot on tuleva kuninkaaksi Zionin vuorella ja Jerusalemissa; ja hanen vanhimpainsa edessa pitaa kunnia oleman.	
-
+</body>
+</html>

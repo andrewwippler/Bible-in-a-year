@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Sentahden nyt Herra, Herra, sina olet Jumala, ja sinun sanas ovat totuus: sina olet taman hyvan puhunut palvelialles.	
 
 <div class="versenum">29.</div> Niin rupee nyt siunaamaan palvelias huonetta, etta se olis ijankaikkisesti sinun edessas; silla sina Herra, Herra, olet sen puhunut, niin siunattakoon sinun siunauksellas palvelias huone ijankaikkisesti.	
-
+</body>
+</html>

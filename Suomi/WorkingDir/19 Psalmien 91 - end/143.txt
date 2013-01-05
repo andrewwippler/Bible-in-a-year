@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Herra, virvoita minua nimes tahden: vie sieluni hadasta ulos sinun vanhurskautes tahden.	
 
 <div class="versenum">12.</div> Ja teloita viholliseni sinun laupiutes tahden, ja kadota kaikki, jotka minun sieluani ahdistavat, silla mina olen palvelias.	
-
+</body>
+</html>

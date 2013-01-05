@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja sina tulet niinkuin se, joka makaa keskella merta, ja niinkuin se joka makaa ylhaalla haahden pielen paassa.	
 
 <div class="versenum">35.</div> Sina sanot; he loivat minua, vaan en mina kipua tuntenut; he sysivat minua, ja en mina tiennyt. Kuin mina heraan, niin tahdon mina viela niin tehda, ja sita enempi etsia.	
-
+</body>
+</html>

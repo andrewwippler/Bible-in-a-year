@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Han sanoi: en, vaan mina olen Herran sotajoukon paamies, ja olen nyt tullut; niin Josua lankesi maahan kasvoillensa ja kumarsi hanta, ja sanoi hanelle: mita Herrani sanoo palveliallensa?	
 
 <div class="versenum">15.</div> Ja Herran sotajoukon paamies sanoi Josualle: riisu kengat jaloistas, silla paikka, jossa seisot, on pyha; ja Josua teki niin.	
-
+</body>
+</html>

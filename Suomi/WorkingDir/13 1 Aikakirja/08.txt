@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Esekin hanen veljensa lapset: Ulam hanen ensimainen poikansa, Jeus toinen, Eliphelet kolmas.	
 
 <div class="versenum">40.</div> Mutta Ulamin lapset olivat vahvat miehet ja jalot joutsimiehet, ja heilla oli paljo poikia ja poikain poikia, sata ja viisikymmenta. Namat kaikki ovat Benjaminin lapsista.	
-
+</body>
+</html>

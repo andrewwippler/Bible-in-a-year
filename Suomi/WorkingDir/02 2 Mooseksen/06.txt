@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja sanoi hanelle: Mina olen Herra: puhu Pharaolle Egyptin kuninkaalle kaikki, mita mina sinulle puhun.	
 
 <div class="versenum">30.</div> Niin vastasi Moses Herralle: katso, mina olen ymparileikkaamatoin huulilta, kuinkasta Pharao minua kuulee?	
-
+</body>
+</html>

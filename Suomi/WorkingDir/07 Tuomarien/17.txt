@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja Miika taytti Levilaisen kaden, etta han oli hanen pappinsa, ja han asui Miikan huoneessa.	
 
 <div class="versenum">13.</div> Ja Miika sanoi: nyt mina tiedan Herran minulle hyvaa tekevan, etta minulla on Levilainen pappina.	
-
+</body>
+</html>

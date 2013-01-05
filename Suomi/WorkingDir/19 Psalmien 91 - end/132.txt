@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Siella mina annan puhjeta Davidin sarven: mina valmistan kynttilan voidellulleni.	
 
 <div class="versenum">18.</div> Hanen vihollisensa mina hapialla puetan; mutta hanen paallansa pitaa hanen kruununsa kukoistaman.	
-
+</body>
+</html>

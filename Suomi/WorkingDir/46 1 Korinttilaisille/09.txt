@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mutta en mina niin juokse kuin tietamattoman puoleen, ja mina kilvoittelen, ei niinkuin tuulta pieksain.	
 
 <div class="versenum">27.</div> Vaan mina kuritan ruumistani ja painan sita alas, etten mina, joka muille saarnaan, itse hyljattavaksi tulisi.	
-
+</body>
+</html>

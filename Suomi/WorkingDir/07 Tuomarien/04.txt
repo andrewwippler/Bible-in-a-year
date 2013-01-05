@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Nain noyryytti Jumala sina paivana Jabinin Kanaanealaisten kuninkaan Israelin lasten eteen.	
 
 <div class="versenum">24.</div> Ja Israelin lasten kadet joutuivat ja vahvistuivat Jabinia Kanaanealaisten kuningasta vastaan, siihenasti etta he hanen perati havittivat.	
-
+</body>
+</html>

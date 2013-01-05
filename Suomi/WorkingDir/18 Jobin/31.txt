@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Jos mina olen sen hedelman maksamatta syonyt, ja tehnyt peltomiesten elaman tyolaaksi;	
 
 <div class="versenum">40.</div> Niin kasvakoon minulle nisuista orjantappuria ja ohrista pahoja ruohoja. Jobin sanat loppuvat.	
-
+</body>
+</html>

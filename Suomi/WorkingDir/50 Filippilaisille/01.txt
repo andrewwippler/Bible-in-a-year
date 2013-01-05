@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Silla teille on lahjaksi annettu Kristuksen puolesta, ei ainoasti etta te hanen paallensa uskotte, mutta myos karsitte hanen tahtensa,	
 
 <div class="versenum">30.</div> Ja pysytte siina kilvoituksessa, jonka te minussa naitte ja nyt minusta kuulette.	
-
+</body>
+</html>

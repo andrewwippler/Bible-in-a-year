@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja se tapahtui paiva paivalta, siihenasti kuin kahden vuoden aika kulunut oli, etta hanen sisallyksensa kavivat ulos hanesta, hanen tautinsa kanssa; ja han kuoli pahoista taudeista. Ja he ei tehneet yhtaan suitsutusta hanelle, niin kuin he olivat tehneet hanen esi-isillensa.	
 
 <div class="versenum">20.</div> Han oli kahden ajastajan vanha neljattakymmenta tullessansa kuninkaaksi, ja hallitsi kahdeksan ajastaikaa Jerusalemissa, ja vaelsi kelvottomasti; ja he hautasivat hanen Davidin kaupunkiin, mutta ei kuningasten hautain sekaan.	
-
+</body>
+</html>

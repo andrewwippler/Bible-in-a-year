@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Silloin pitaa yksi, joka paassyt on, tuleman sinun tykos, ja sinulle ilmoittaman.	
 
 <div class="versenum">27.</div> Silloin pitaa sinun suus avattaman, ja sen joka paassyt on, etta sinun puhuman pitaa, ja ei enaa vaikeneman. Ja sinun pitaa heille ihmeeksi oleman, etta he ymmartaisivat minun olevan Herran.	
-
+</body>
+</html>

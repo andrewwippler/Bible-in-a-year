@@ -153,4 +153,5 @@
 <div class="versenum">74.</div> Niin han rupesi itsiansa sadattelemaan ja vannomaan: en tunne mina sita ihmista. Ja kohta kukko lauloi.	
 
 <div class="versenum">75.</div> Niin Pietari muisti Jesuksen sanan, joka oli hanelle sanonut: ennenkuin kukko laulaa, kolmasti sina minun kiellat. Ja han meni ulos ja itki katkerasti.	
-
+</body>
+</html>

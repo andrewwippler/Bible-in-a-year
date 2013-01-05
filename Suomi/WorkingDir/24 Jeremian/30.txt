@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Katso, Herran ilma on tuleva julmuudella, kauhia rajuilma on lankeeva jumalattomain paan paalle.	
 
 <div class="versenum">24.</div> Herran julma viha ei ole taukoava, siihenasti kuin han tekee ja toimittaa, mita hanen mielessansa on. Viimein pitaa teidan sen kylla ymmartaman.	
-
+</body>
+</html>

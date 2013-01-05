@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja niin han kuoli Herran sanan jalkeen, jonka Elia puhunut oli. Ja Joram tuli kuninkaaksi hanen siaansa, toisena Joramin Josaphatin pojan Juudan kuninkaan vuonna; silla ei hanella ollut poikaa.	
 
 <div class="versenum">18.</div> Mita enempi on sanomista Ahasiasta ja mita han tehnyt on, eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	
-
+</body>
+</html>

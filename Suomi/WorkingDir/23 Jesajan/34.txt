@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Etsikaat nyt Herran kirjaa ja lukekaat: ei yhtaan naista pida puuttuman, ei pida naista kaivattaman yhta eli toista; silla han on se, joka minun suuni kautta kaskee, ja hanen henkensa tuo sen kokoon.	
 
 <div class="versenum">17.</div> Han heittaa arpaa heista, ja kadellansa jakaa mitan heidan seassansa; etta heilla pitaa siella oleman perinto ijankaikkisesti, ja suvusta sukuun siella asuman.	
-
+</body>
+</html>

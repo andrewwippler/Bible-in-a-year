@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Laheta kaikkein vankein tyko ja anna heille sanoa: nain sanoo Herra Semajaa vastaan Nehalamista: etta Semaja ennustaa teille, ja en kuitenkaan mina ole hanta lahettanyt, ja on tehnyt, etta te luotatte valheesen,	
 
 <div class="versenum">32.</div> Sentahden sanoo Herra nain: katso, mina tahdon kostaa Semajalle Nehalamista ja hanen siemenellensa, niin ettei yhdenkaan pida hanen omistansa pysyman taman kansan seassa, eika pida nakeman sita hyvaa, jonka mina tahdon tehda kansalleni, sanoo Herra; silla han on puheellansa kaantanyt heidat pois Herrasta.	
-
+</body>
+</html>

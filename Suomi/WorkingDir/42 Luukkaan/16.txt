@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mutta han sanoi: ei, isa Abraham: vaan jos joku kuolleista menis heidan tykonsa, niin he parannuksen tekisivat.	
 
 <div class="versenum">31.</div> Han sanoi hanelle: ellei he Mosesta ja prophetaita kuule, niin ei he myos usko, jos joku kuolleista nousis ylos.	
-
+</body>
+</html>

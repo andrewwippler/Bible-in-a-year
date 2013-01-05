@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Kedot olkaan iloiset, ja kaikki mitka hanessa ovat, ja kaikki puut ihastukaan metsissa,	
 
 <div class="versenum">13.</div> Herran edessa; silla han tulee, han tulee tuomitsemaan maata. Han tuomitsee maan piirin vanhurskaudessa ja kansat totuudessansa.	
-
+</body>
+</html>

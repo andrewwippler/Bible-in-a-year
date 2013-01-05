@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mutta ylimmaisen leipojan antoi han hirttaa; niinkuin Joseph oli heille selittanyt.	
 
 <div class="versenum">23.</div> Mutta ylimmainen juomanlaskia ei muistanut Josephia, vaan unhotti hanen.	
-
+</body>
+</html>

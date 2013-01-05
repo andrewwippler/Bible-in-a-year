@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Etta harkamme olisivat vahvat tyohon; ettei yhtaan vahinkoa, eika valitusta eli kannetta olisi kaduillamme.	
 
 <div class="versenum">15.</div> Autuas on se kansa, jolle niin kay; vaan autuas on se kansa, jonka Jumalana Herra on.	
-
+</body>
+</html>

@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Jotka kyyneleilla kylvavat, ne ilolla niittavat.	
 
 <div class="versenum">6.</div> He menevat matkaan ja itkevat, ja vievat ulos kalliin siemenen, ja tulevat riemulla, ja tuovat lyhteensa.	
-
+</body>
+</html>

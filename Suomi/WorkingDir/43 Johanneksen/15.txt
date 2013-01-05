@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mutta kuin Lohduttaja tulee, jonka mina teille Isalta lahetan, totuuden Henki, joka Isasta kay ulos, se on minusta todistava.	
 
 <div class="versenum">27.</div> Ja teidan pitaa myos todistaman; silla te olette alusta minun kanssani.	
-
+</body>
+</html>

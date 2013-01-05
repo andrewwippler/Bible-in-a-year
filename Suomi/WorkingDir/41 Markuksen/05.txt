@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja kohta piika nousi ja kavi; silla han oli kahdentoistakymmenen ajastaikainen. Ja he hammastyivat suurella hammastyksella.	
 
 <div class="versenum">43.</div> Ja han haasti heita kovin, ettei kenkaan sita saisi tietaa, ja han kaski antaa hanelle syotavaa.	
-
+</body>
+</html>

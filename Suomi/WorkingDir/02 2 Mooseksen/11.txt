@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Mutta Herra oli sanonut Mosekselle: ei Pharao kuule teita, etta paljo minun ihmeitani tapahtuis Egyptin maalla.	
 
 <div class="versenum">10.</div> Ja Moses ja Aaron tekivat kaikki nama ihmeet Pharaon edessa, vaan Herra paadutti hanen sydamensa, ja ei han paastanyt Israelin lapsia maaltansa.	
-
+</body>
+</html>

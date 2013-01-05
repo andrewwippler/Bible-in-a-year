@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kaduilla maassa makasivat nuoret ja vanhat; minun neitseeni ja nuorukaiseni ovat miekan kautta langenneet; sina olet tappanut vihapaivanas, sina olet armottomasti teurastanut.	
 
 <div class="versenum">22.</div> Sina olet minun viholliseni ymparistolta kutsunut kokoon niinkuin juhlapaivaksi, niin ettei kenkaan Herran vihan paivana ole paassyt eika jaanyt; silla jotka mina kasvatin ja ruokin, ne minun viholliseni on hukuttanut.	
-
+</body>
+</html>

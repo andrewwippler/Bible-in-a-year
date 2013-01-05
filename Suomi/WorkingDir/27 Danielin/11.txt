@@ -93,4 +93,5 @@
 <div class="versenum">44.</div> Mutta sanoma idasta ja pohjasta pitaa hanta peljattaman. Ja han kay ulos suuressa vihassa monta kadottamaan ja hukuttamaan.	
 
 <div class="versenum">45.</div> Ja hanen pitaa majansa asettaman kahden meren valille, sen ihanan pyhan vuoren tyko siihen asti kuin hanen loppunsa tulee, ja ei kenkaan hanta auta.	
-
+</body>
+</html>

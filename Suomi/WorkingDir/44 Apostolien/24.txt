@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Toivoi myos Paavalilta hanellensa rahaa annettavan, etta han olis hanen paastanyt, jonka tahden han myos usein hanen tykonsa kutsutti ja puheli hanen kanssansa.	
 
 <div class="versenum">27.</div> Kuin kaksi ajastaikaa kulunut oli, tuli Porkius Festus Feliksen siaan. Mutta Feliks tahtoi Juudalaisten mielta noutaa ja jatti Paavalin sidottuna.	
-
+</body>
+</html>

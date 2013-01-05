@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja otti heidan kuninkaansa kruunun hanen paastansa, joka painoi leiviskan kultaa, ja kalliita kivia, ja se pantiin Davidin paahan; ja han vei paljo saalista kaupungista ulos.	
 
 <div class="versenum">31.</div> Ja kansan, joka siella oli, johdatti han ulos ja pani sahaan, rautahaudoille ja kirvestoihin, ja kaytti heidan tiilihautoja myoten: niin han teki kaikille Ammonin lasten kaupungeille. Ja David ja kaikki kansa palasi Jerusalemiin.	
-
+</body>
+</html>

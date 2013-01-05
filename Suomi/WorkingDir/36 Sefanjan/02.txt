@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja laumat pitaa keskella sita makaaman, niiden pakanain kaikkinaiset elaimet; niin myos ruovonparistajat ja tarhapollot pitaa heidan torneissansa asuman, ja aanen pitaa laulaman heidan akkunissansa, ja havitys heidan kynnyksillansa; silla sedrilaudat pitaa revittaman pois.	
 
 <div class="versenum">15.</div> Tama on se iloinen kaupunki, joka niin irstaana asui, ja sanoi sydamessansa: mina olen, ja ei yksikaan muu. Kuinka han on niin autioksi tehty, etta elaimet siina makaavat? Ja joka kay sen ohitse, han viheltaa hanta, ja paukuttaa kasiansa.	
-
+</body>
+</html>

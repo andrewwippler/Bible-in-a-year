@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja Saul meni myos kotia Gibeaan, ja yksi osa sotavaesta meni hanen kanssansa, joiden sydamen Jumala kaansi.	
 
 <div class="versenum">27.</div> Mutta monikahdat Belialin lapset sanoivat: mita tama auttaa meita? ja katsoivat hanen ylon ja ei tuoneet hanelle mitaan lahjaa. Mutta han teeskenteli, niinkuin ei han sita kuullutkaan olisi.	
-
+</body>
+</html>

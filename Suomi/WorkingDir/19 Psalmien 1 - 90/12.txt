@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Sina Herra, katke ne, ja varjele meita tasta suvusta ijankaikkisesti.	
 
 <div class="versenum">8.</div> Silla joka paikka on jumalattomia taynna, koska huonot ihmisten lasten seassa korotetaan.	
-
+</body>
+</html>

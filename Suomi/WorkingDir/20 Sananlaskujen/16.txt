@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Karsivallinen on parempi kuin vakeva; ja joka hillitsee mielensa, on parempi, kuin se joka kaupungin voittaa.	
 
 <div class="versenum">33.</div> Arpa heitetaan syliin, vaan Herralta tulee kaikki sen meno.	
-
+</body>
+</html>

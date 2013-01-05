@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja kukkaiset ja lamput, ja kynttilan niistimet olivat kullasta: ne olivat kokonansa kullasta;	
 
 <div class="versenum">22.</div> Ja veitset, maljat, lusikat ja sammuttimet olivat puhtaasta kullasta, ja lapikaytava, ja hanen ovensa sisimaiselta puolelta sita kaikkein pyhinta, ja ovet templin huoneesen olivat kullasta.	
-
+</body>
+</html>

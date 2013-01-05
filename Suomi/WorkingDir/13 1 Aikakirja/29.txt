@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Mutta kuningas Davidin teot ensimaiset ja viimeiset, katso, ne ovat kirjoitetut nakian Samuelin teoissa, ja prophetan Natanin teoissa, ja nakian Gadin teoissa,	
 
 <div class="versenum">30.</div> Kaiken hanen valtakuntansa, vakevyytensa ja aikainsa kanssa, jotka hanen ja Israelin, ja kaikkein maan valtakuntain aikana kuluneet ovat.	
-
+</body>
+</html>

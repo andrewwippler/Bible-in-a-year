@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta Juudassa pitaa ijankaikkisesti asuttaman, ja Jerusalemissa ijankaikkiseen aikaan.	
 
 <div class="versenum">21.</div> Ja mina tahdon puhdistaa heidan verensa, jota en mina ennen ole puhdistanut; ja Herra on asuva Zionissa.	
-
+</body>
+</html>

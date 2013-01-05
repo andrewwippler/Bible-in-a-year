@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja Rekabilaisten huoneelle sanoi Jeremia: nain sanoo Herra Zebaot, Israelin Jumala: etta te teidan isanne Jonadabin kaskylle olitte kuuliaiset, ja piditte kaikki hanen kaskynsa, ja teitte kaikki, mita han teille oli kaskenyt;	
 
 <div class="versenum">19.</div> Sentahden sanoo Herra Zebaot, Israelin Jumala nain: ei Jonadabilta Rekabin pojalta pida ikina puuttuman mies, joka alati minun edessani seisoo.	
-
+</body>
+</html>

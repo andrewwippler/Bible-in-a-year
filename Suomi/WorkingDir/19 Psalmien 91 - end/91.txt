@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Han avuksihuutaa minua, sentahden mina kuulen hanta; hanen tykonansa olen mina tuskassa; siita mina hanen tempaan pois ja saatan hanen kunniaan.	
 
 <div class="versenum">16.</div> Mina ravitsen hanen pitkalla ijalla, ja osoitan hanelle autuuteni.	
-
+</body>
+</html>

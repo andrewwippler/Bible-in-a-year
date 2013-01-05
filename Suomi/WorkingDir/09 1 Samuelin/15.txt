@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja Samuel meni Ramaan, mutta Saul meni huoneeseensa Saulin Gibeaan.	
 
 <div class="versenum">35.</div> Ja ei nahnyt Samuel enaa Saulia kuolemapaivaan asti; silla Samuel murehti Saulia, etta Herra oli katunut asettaneensa hanen Israelin kuninkaaksi.	
-
+</body>
+</html>

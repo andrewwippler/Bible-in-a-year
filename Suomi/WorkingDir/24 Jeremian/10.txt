@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Kurita Herra minua, mutta kuitenkin kohtuudella, ja ei sinun julmuudessas, ettes minua perati hukuttaisi.	
 
 <div class="versenum">25.</div> Mutta vuodata vihas pakanain paalle, jotka ei sinua tunne, ja niiden sukuin paalle, jotka ei sinun nimeas avuksi huuda; silla he ovat syoneet ja nielleet Jakobin, he ovat tehneet hanen kanssansa lopun, ja hanen asuinsiansa havittaneet.	
-
+</body>
+</html>

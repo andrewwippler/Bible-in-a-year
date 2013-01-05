@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja Herra heidan Jumalansa on heita silla ajalla auttava, niinkuin kansansa laumaa; silla pyhat kivet pitaa merkiksi hanen maallensa nostettaman.	
 
 <div class="versenum">17.</div> Silla kuinka paljo hyvaa heilla on, ja kuinka suuri kauneus heilla on? Jyvat siittavat nuorukaiset ja viina neitseet.	
-
+</body>
+</html>

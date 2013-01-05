@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Jerusalem, Jerusalem, joka tapat prophetat ja kivitat niita, jotka sinun tykos lahetetaan, kuinka usein mina tahdoin koota sinun lapses, niinkuin kana kokoo poikansa siipiensa alle, ja ette tahtoneet?	
 
 <div class="versenum">35.</div> Katso, teidan huoneenne jatetaan teille kylmille. Totisesti sanon mina teille: ei teidan pida minua nakeman, siihenasti kuin se aika tulee, jona te sanotte: siunattu olkoon se, joka tulee Herran nimeen!	
-
+</body>
+</html>

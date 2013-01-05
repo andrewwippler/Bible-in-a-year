@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mina olen syntia tehnyt; mita minun pitaa sinulle tekeman, o sina ihmisten vartia? miksis minun teit sinulles loukkaukseksi ja itselleni kuormaksi?	
 
 <div class="versenum">21.</div> Ja miksi et minun pahaa tekoani anna anteeksi ja ota pois minun vaaryyttani? Silla nyt pitaa minun makaaman mullassa: ja jos minua aamulla etsit, niin en mina enaa ole.	
-
+</body>
+</html>

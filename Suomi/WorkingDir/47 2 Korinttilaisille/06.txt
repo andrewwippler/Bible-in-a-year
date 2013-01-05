@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Sentahden paetkaat heidan seastansa ja eroittakaat teitanne, sanoo Herra: ja alkaat saastaiseen ruvetko, ja niin mina korjaan teita,	
 
 <div class="versenum">18.</div> Ja olen teidan Isanne, ja teidan pitaa oleman minun poikani ja tyttareni, sanoo kaikkivaltias Herra.	
-
+</body>
+</html>

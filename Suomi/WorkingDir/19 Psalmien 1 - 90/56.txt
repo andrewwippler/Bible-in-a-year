@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Mina olen sinulle, Jumala, luvannut, mina tahdon sinua kiittaa.	
 
 <div class="versenum">13.</div> Silla sina olet pelastanut minun sieluni kuolemasta, minun jalkani lankeemisesta; etta mina vaeltaisin Jumalan edessa elavain valkeudessa.	
-
+</body>
+</html>

@@ -107,4 +107,5 @@
 <div class="versenum">51.</div> Mutta he pudistivat tomun jaloistansa heidan paallensa, ja tulivat Ikonioon.	
 
 <div class="versenum">52.</div> Niin opetuslapset taytettiin ilolla ja Pyhalla Hengella.	
-
+</body>
+</html>

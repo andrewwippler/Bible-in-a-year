@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Jos sina olet tyhmasti tehnyt, ja korottanut sinuas, ja jos sina olet jotakin pahaa ajatellut, niin laske kasi suus paalle.	
 
 <div class="versenum">33.</div> Joka rieskaa kirnuu, han tekee voita: ja jokaa nenaa pusertaa, han vaatii ulos veren: ja joka vihaa kehoittaa, han vaatii riitaan.	
-
+</body>
+</html>

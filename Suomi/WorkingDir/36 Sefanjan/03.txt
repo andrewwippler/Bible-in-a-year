@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Katso, mina tahdon siihen aikaan kaikki lopettaa, jotka sinua vaivaavat, ja tahdon ontuvaisia auttaa, ja hyljatyt koota, ja saatan heidat kiitokseksi ja nimeksi kaikessa maassa, jossa he katsottiin ylon.	
 
 <div class="versenum">20.</div> Siihen aikaan tahdon mina teidat tanne tuoda, ja silla ajalla teita koota; silla mina asetan teidat nimeksi ja ylistykseksi kaikkein kansain seassa maan paalla, kuin mina teidan vankiutenne kaannan teidan silmainne edessa, sanoo Herra.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Niin Asa nukkui isainsa kanssa ja kuoli valtakuntansa ensimaisena vuotena viidettakymmenta.	
 
 <div class="versenum">14.</div> Ja han haudattiin omaan hautaansa, jonka han oli antanut kaivaa Davidin kaupungissa. Ja he panivat hanet leposiaansa, joka taytettiin hyvanhajullisilla ja kaikkinaisilla kalliilla yrteilla, jotka olivat valmistetut apotekarein tavalla, ja polttivat hanelle sangen suurella polttamisella.	
-
+</body>
+</html>

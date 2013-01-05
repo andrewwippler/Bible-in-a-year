@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Vaara todistus hapaisee tuomion, ja jumalattomain suu nielee vaaryyden.	
 
 <div class="versenum">29.</div> Pilkkaajille on rangaistus valmistettu, ja haavat hulluin selkaan.	
-
+</body>
+</html>

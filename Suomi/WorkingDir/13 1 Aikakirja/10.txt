@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja niin kuoli Saul pahoissa teoissansa, joita han Herraa vastaan tehnyt oli, ettei han pitanyt Herran sanaa, ja etta han myos etsi velhovaimoa kysyaksensa hanelta,	
 
 <div class="versenum">14.</div> Ja ei kysynyt Herralta; sentahden tappoi han hanen, ja kaansi valtakunnan Davidille Isain pojalle.	
-
+</body>
+</html>

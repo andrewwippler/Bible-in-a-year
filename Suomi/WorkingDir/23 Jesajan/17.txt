@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Tosin niinkuin iso vesi pauhaa, niin on kansa karkaava, mutta han on kurittava heita, ja heidan pitaa kauvas pakeneman, ja vainoa karsiman, niinkuin tomulle tapahtuu vuorella tuulelta, ja niinkuin ympyriaiselle tapahtuu tuulispaalta.	
 
 <div class="versenum">14.</div> Katso, ehtoona on peljastys kasilla, ja ennen aamua ei he ensinkaan ole. Tama on heidan palkkansa, jotka meilta ryostavat, ja heidan perintonsa, jotka meilta omamme tempaavat.	
-
+</body>
+</html>

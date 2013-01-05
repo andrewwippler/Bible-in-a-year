@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja senkaltaista suitsutusta ei teidan pida itsellenne tekeman; mutta tama pitaa oleman sinulle pyha, Herran edessa.	
 
 <div class="versenum">38.</div> Joka senkaltaista tekee suitsuttaaksensa, se pitaa havitettaman kansoistansa.	
-
+</body>
+</html>

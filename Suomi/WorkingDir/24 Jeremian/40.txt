@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Silloin sanoi Johanan Karean poika Gedalialle salaa Mitspassa: mina tahdon nyt menna ja lyoda Ismaelin Netanjan pojan kuoliaaksi, niin ettei kenenkaan pida saamaan tietaa. Miksi hanen pitaa lyoman sinua, etta kaikki Juudalaiset, jotka sinun tykos ovat kootut, pitaa hajoitettaman, ja ne, jotka viela Juudasta jaaneet ovat, hukkuman?	
 
 <div class="versenum">16.</div> Mutta Gedalia Ahikamin poika sanoi Johananille Karean pojalle: ei sinun pida sita tekeman; silla ei se ole tosi, mita sina Ismaelista sanot.	
-
+</body>
+</html>

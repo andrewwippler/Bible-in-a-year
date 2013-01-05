@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Silla mina tiedan, etta te minun kuolemani jalkeen perati turmellaan, ja poikkeette silta tielta, jonka mina teille kaskenyt olen; niin teille tapahtuu onnettomuus viimeisilla ajoilla, etta teitte pahaa Herran silmain edessa ja vihoititte hanen teidan kattenne toiden kautta.	
 
 <div class="versenum">30.</div> Niin Moses puhui koko Israelin seurakunnan kuullen taman veisun sanat hamaan loppuun asti.	
-
+</body>
+</html>

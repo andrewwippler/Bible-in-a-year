@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Mutta paimenet pakenivat ja menivat kaupunkiin ja ilmoittivat kaikki, ja kuinka pirulta riivatuille oli tapahtunut.	
 
 <div class="versenum">34.</div> Ja katso, koko kaupunki meni ulos Jesusta vastaan. Ja kuin he hanen nakivat, rukoilivat he hanta menemaan pois heidan maansa aarista.	
-
+</body>
+</html>

@@ -123,4 +123,5 @@
 <div class="versenum">59.</div> Ja he kivittivat Stephanin, joka rukoili ja sanoi: Herra Jesus, ota minun henkeni.	
 
 <div class="versenum">60.</div> Niin han pani polvillensa, ja huusi suurella aanella: Herra, ala lue heille tata syntia. Ja kuin han taman sanonut oli, niin han nukkui.	
-
+</body>
+</html>

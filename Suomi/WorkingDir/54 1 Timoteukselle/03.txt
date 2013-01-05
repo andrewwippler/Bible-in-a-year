@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Mutta jos mina viivyn, ettas tietaisit kuinka sinun pitaa Jumalan huoneessa vaeltaman, joka on elavan Jumalan seurakunta, totuuden patsas ja perustus.	
 
 <div class="versenum">16.</div> Ja se on julkisesti suuri jumalisuuden salaisuus, etta Jumala on ilmoitettu lihassa, vanhurskautettu hengessa, nahty enkeleilta, saarnattu pakanoille, uskottu maailmassa ja otettu ylos kunniaan.	
-
+</body>
+</html>

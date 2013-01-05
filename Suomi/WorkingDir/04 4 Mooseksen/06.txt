@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Herra ylentakoon kasvonsa sinun puolees, ja antakoon sinulle rauhan.	
 
 <div class="versenum">27.</div> Ja heidan pitaa paneman minun nimeni Israelin lasten paalle, ja mina tahdon siunata heita.	
-
+</body>
+</html>

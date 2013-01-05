@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Katso, Herra antaa sen kuulua hamaan maailman aariin asti: sanokaat Zionin tyttarelle: katso, sinun autuutes tulee, katso, hanen palkkansa on hanen myotansa, ja hanen tyonsa hanen edessansa.	
 
 <div class="versenum">12.</div> Ja he pitaa kutsuttaman pyhaksi kansaksi, Herran lunastetuiksi; ja sina kutsutaan etsityksi ja ei hyljatyksi kaupungiksi.	
-
+</body>
+</html>

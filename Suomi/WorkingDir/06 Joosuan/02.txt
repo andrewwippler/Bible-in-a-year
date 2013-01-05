@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Niin ne molemmat miehet palasivat, sittekuin he olivat astuneet vuorelta alas, menivat ylitse, ja tulivat Josuan Nunin pojan tyko ja juttelivat hanelle kaikki, mita heille tapahtunut oli.	
 
 <div class="versenum">24.</div> Ja he sanoivat Josualle: Herra on antanut meidan kasiimme koko maan, silla kaikki maan asuvaiset ovat hammastyneet meidan edessamme.	
-
+</body>
+</html>

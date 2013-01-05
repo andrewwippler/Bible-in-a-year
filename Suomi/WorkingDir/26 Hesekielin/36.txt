@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Nain sanoo Herra, Herra: Israelin huoneen pitaa taas minua kysyman, etta mina itseni heille osoitan, ja mina enennan heita, niinkuin ihmisten lauman.	
 
 <div class="versenum">38.</div> Niinkuin pyhan lauman, niinkuin Jerusalemin lauman hanen juhlinansa, niin pitaa havitetyt kaupungit tayteen tuleman ihmisten laumoista; ja heidan pitaa ymmartaman minun olevan Herran.	
-
+</body>
+</html>

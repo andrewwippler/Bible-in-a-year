@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Havetkoon he ja hammastykoon ijankaikkisesti, ja hapiaan tulkoon ja hukkukoon.	
 
 <div class="versenum">18.</div> Niin he saavat tuta, etta sina, jonka ainoan nimi on Herra, olet ylimmainen kaikessa maailmassa.	
-
+</body>
+</html>

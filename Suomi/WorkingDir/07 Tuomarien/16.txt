@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Simson sanoi: minun sieluni kuolkoon Philistealaisten kanssa. Ja han nojasi vahvasti niiden paalle; ja huone kaatui paamiesten ja kaiken kansan paalle joka siina oli, etta ne, jotka han tappoi kuollessansa, olivat usiammat kuin ne, jotka han elaissansa tappoi.	
 
 <div class="versenum">31.</div> Niin tulivat hanen veljensa alas ja kaikki hanen isansa huone, ottivat hanen ja menivat ylos, ja hautasivat hanen Zoran ja Estaolin valille isansa Manoakin hautaan. Ja han tuomitsi Israelia kaksikymmenta ajastaikaa.	
-
+</body>
+</html>

@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja Israelin lapset ei enaa muistaneet Herraa Jumalaansa, joka heidat vapahti kaikilta heidan vihollisiltansa, ymparistolla.	
 
 <div class="versenum">35.</div> Ja ei he tehneet yhtaan laupiutta JerubBaalin Gideonin huoneelle kaikesta hyvasta, minka han Israelille teki.	
-
+</body>
+</html>

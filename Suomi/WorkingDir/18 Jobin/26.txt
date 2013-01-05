@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Taivas tulee kirkkaaksi hanen ilmansa kautta, ja han valmistaa kadellansa pitkan karmeen.	
 
 <div class="versenum">14.</div> Katso, nain tapahtuu hanen tekoinsa kanssa, mutta naista olemme me vahan kuulleet; vaan kuka voi ymmartaa hanen vakevyytensa jylinan?	
-
+</body>
+</html>

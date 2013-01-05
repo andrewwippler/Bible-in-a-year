@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Niin saatti koko Israel Herran liitonarkin ilolla, basunain, trometein, heliain symbalein, psaltarein ja kantelein kanssa.	
 
 <div class="versenum">29.</div> Kuin Herran liitonarkki tuli Davidin kaupunkiin, katsoi Mikal Saulin tytar akkunasta ja naki Davidin hyppaavan ja soittavan, niin han katsoi hanen sydamessansa ylon.	
-
+</body>
+</html>

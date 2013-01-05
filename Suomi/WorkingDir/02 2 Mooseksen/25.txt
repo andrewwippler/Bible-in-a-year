@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Yhdesta leiviskasta puhdasta kultaa pitaa sinun sen tekeman, kaikkein naiden astiain kanssa.	
 
 <div class="versenum">40.</div> Niin katso, ja tee sen muodon jalkeen, kuin sina nait vuorella.	
-
+</body>
+</html>

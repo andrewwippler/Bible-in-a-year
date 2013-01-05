@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla sina teet heita olkapaaksi: sina tarkoitat janteellas heidan kasvojansa vastaan.	
 
 <div class="versenum">13.</div> Herra, ylenna sinuas vakevyydessas; niin me veisaamme ja kiitamme sinun voimaas.	
-
+</body>
+</html>

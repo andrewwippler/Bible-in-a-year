@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Saamaan taman palveluksen ja apostolin viran arpaa, josta Juudas on vilpistynyt pois, menemaan pois siallensa.	
 
 <div class="versenum">26.</div> Ja he heittivat heista arpaa, ja arpa lankesi Mattiaan paalle, ja han valittiin yksimielisesti yhdentoistakymmenen apostolin sekaan.	
-
+</body>
+</html>

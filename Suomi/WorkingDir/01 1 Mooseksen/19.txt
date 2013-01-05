@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja vanhempi synnytti pojan, ja kutsui hanen nimensa Moab: hanesta ovat Moabilaiset tulleet, hamaan tahan paivaan asti.	
 
 <div class="versenum">38.</div> Ja nuorempi myos synnytti pojan, ja kutsui hanen nimensa BenAmmi: hanesta tulivat Ammonin lapset, hamaan tahan paivaan asti.	
-
+</body>
+</html>

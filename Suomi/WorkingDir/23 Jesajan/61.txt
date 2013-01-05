@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Mina iloitsen suuresti Herrassa, ja minun sieluni riemuitsee minun Jumalassani; silla han puetti minun autuuden vaatteilla, ja verhoitti minun vanhurskauden hameella: niinkuin ylka kaunistettu papillisella kaunistuksella, ja niinkuin morsian kaunistettu kaunistuksessansa.	
 
 <div class="versenum">11.</div> Silla niinkuin hedelma kasvaa maasta, ja siemen yrttitarhassa putkahtaa, niin antaa Herra, Herra vanhurskauden ja kiitoksen kayda ylos kaikkein pakanain edessa.	
-
+</body>
+</html>

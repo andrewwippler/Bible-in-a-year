@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Han tuomitsee pakanain seassa, han tayttaa maakunnat ruumiilla: han musertaa monen maakunnan paan.	
 
 <div class="versenum">7.</div> Han juo ojasta tiella; sen tahden korottaa han paansa.	
-
+</body>
+</html>

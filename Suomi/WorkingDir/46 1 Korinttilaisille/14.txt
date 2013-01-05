@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Sentahden rakkaat veljet, ahkeroitkaat propheteerata ja alkaat kieltako kielilla puhumasta.	
 
 <div class="versenum">40.</div> Kaikki tapahtukoon soveliaasti ja saadyllisesti.	
-
+</body>
+</html>

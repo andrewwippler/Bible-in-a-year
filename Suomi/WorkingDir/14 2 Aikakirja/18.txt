@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Niin yksi mies jannitti joutsensa yksinkertaisuudessa ja ampui Israelin kuningasta rautapaidan jatkoon. Niin han sanoi vaununsa ajajalle: kaana kates ja vie minua ulos sotavaesta; silla mina olen haavoitettu.	
 
 <div class="versenum">34.</div> Ja sota tuli suureksi sina paivana, ja Israelin kuningas seisoi vaunuissa Syrialaisia vastaan ehtoosen asti; ja han kuoli auringon laskeissa.	
-
+</body>
+</html>

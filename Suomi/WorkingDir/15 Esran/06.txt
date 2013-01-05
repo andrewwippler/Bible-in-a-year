@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Israelin lapset jotka vankeudesta palanneet olivat, soivat, ja kaikki, jotka itsensa olivat eroittaneet maan pakanain saastaisuudesta heidan tykonsa, etsimaan Herraa Israelin Jumalaa,	
 
 <div class="versenum">22.</div> Ja pitivat happamattoman leivan juhlaa ilolla seitseman paivaa; silla Herra oli heidat iloittanut, ja kaantanyt Assurin kuninkaan sydamen heidan puoleensa, etta he tulivat vahvistetuksi Jumalan huoneen tyossa, joka on Israelin Jumala.	
-
+</body>
+</html>

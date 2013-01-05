@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Viidenkolmattakymmenen vuoden vanha oli han tulessansa kuninkaaksi, ja hallitsi kuusitoistakymmenta vuotta Jerusalemissa.	
 
 <div class="versenum">9.</div> Ja Jotam nukkui isainsa kanssa, ja he hautasivat hanen Davidin kaupunkiin. Ja hanen poikansa Ahas tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

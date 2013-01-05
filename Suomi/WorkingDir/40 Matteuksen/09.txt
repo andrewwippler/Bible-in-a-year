@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Silloin han sanoi opetuslapsillensa: eloa on tosin paljo, mutta tyovakea on vaha.	
 
 <div class="versenum">38.</div> Rukoilkaat sentahden elon Herraa, etta han tyovakea lahettais eloonsa.	
-
+</body>
+</html>

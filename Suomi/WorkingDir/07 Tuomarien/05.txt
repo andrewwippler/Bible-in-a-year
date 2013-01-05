@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Eiko he loyda ja jaa saalista, jokaiselle miehelle piian taikka kaksi, ja Siseralle kirjavia ja ommeltuja vaatteita, neulalla ommeltuja vaatteita, kirjavia molemmin puolin kaulan ympari, saaliiksi.	
 
 <div class="versenum">31.</div> Kaikki sinun vihollises niin hukkukoon, Herra! Mutta ne, kuin sinua rakastavat, olkoon niinkuin yloskaypa aurinko voimassansa. Ja maa oli levossa neljakymmenta ajastaikaa.	
-
+</body>
+</html>

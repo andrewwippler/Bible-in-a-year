@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Salomolle tuotiin hevosia Egyptista, ja kudotuita kaluja, ja kuninkaan kauppamiehet ostivat ne kalut,	
 
 <div class="versenum">29.</div> Ja toivat Egyptista jokaisen vaunun kuudensadan hopiapenningin edesta, ja hevosen sadan ja viidenkymmenen hopiapenningin edesta. Niin veivat he niita myos kattensa kautta kaikkein Hetilaisten kuningasten ja Syrian kuningasten tyko.	
-
+</body>
+</html>

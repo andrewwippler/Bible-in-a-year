@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Vaan myos meidan tahtemme, joille se myos pitaa luettaman, kuin me sen paalle uskomme, joka meidan Herran Jesuksen kuolleista heratti,	
 
 <div class="versenum">25.</div> Joka meidan synteimme tahden on annettu ulos, ja meidan vanhurskauttamisemme tahden heratetty ylos.	
-
+</body>
+</html>

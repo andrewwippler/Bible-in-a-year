@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Mutta joka kerskaa, se kerskatkaan Herrassa;	
 
 <div class="versenum">18.</div> Silla joka itsiansa kiittaa, ei se ole koeteltu, vaan se, jota Herra kiittaa.	
-
+</body>
+</html>

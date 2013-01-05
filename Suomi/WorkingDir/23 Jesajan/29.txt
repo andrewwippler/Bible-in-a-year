@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Silla koska he saavat lapsensa nahda, minun kasialani heidan seassansa, niin he pyhittavat minun nimeni; ja heidan pitaa Jakobin Pyhan pyhittaman, ja Israelin Jumalaa pelkaaman.	
 
 <div class="versenum">24.</div> Silla joilla eksyvainen henki on, ne ottavat ymmarryksen; turhan puhujat sallivat heitansa opetettaa.	
-
+</body>
+</html>

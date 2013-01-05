@@ -13,4 +13,5 @@
 <div class="versenum">4.</div> Herra, tee hyvasti hyville ja hurskaille sydamille.	
 
 <div class="versenum">5.</div> Mutta jotka poikkeevat vaariin teihinsa, niita Herra ajaa pois pahantekiain kanssa; mutta rauha olkoon Israelille!	
-
+</body>
+</html>

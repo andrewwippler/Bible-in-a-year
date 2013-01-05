@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Niin kuule siis Herran sanaa: sina sanot: ala ennusta Israelia vastaan, ala myos puhu Isaakin huonetta vastaan;	
 
 <div class="versenum">17.</div> Sentahden sanoo Herra nain: sinun emantas pitaa kaupungissa raiskattaman, ja sinun poikas ja tyttares pitaa miekalla lankeeman, ja sinun peltos pitaa nuoralla jaettaman; mutta itse sinun pitaa saastaisessa maassa kuoleman, ja Israel pitaa ajettaman perati pois maastansa.	
-
+</body>
+</html>

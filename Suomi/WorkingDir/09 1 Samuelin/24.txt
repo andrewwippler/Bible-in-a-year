@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> (H24:22) Niin vanno siis nyt minulle Herran kautta, ettet havita minun siementani minun jalkeeni ja et kadota minun nimeani minun isani huoneesta.	
 
 <div class="versenum">22.</div> (H24:23) Ja David vannoi Saulille. Ja Saul meni kotiansa; mutta David ja hanen miehensa menivat linnaan.	
-
+</body>
+</html>

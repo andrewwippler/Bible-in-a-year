@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Niin emme sinusta luovu: suo meidan elaa, niin me sinun nimeas avuksi huudamme.	
 
 <div class="versenum">19.</div> Herra Jumala Zebaot, kaanna meita: anna kasvos paistaa, niin me autetuksi tulemme.	
-
+</body>
+</html>

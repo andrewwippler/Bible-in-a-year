@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> (H14:9) Ephraim (sanokaan): Mita minun on enaa epajumalain kanssa? Mina tahdon hanta kuulla ja katsoa; mina tahdon olla niinkuin viheriainen honka; minussa pitaa sinun hedelmas loydettaman.	
 
 <div class="versenum">9.</div> (H14:10) Kuka on viisas, etta han naita ymmartais? Ja ymmartavainen, joka naita huomaitsis? Silla Herran tiet ovat oikiat, ja vanhurskaat vaeltavat niilla, mutta ylitsekaymarit niissa lankeevat.	
-
+</body>
+</html>

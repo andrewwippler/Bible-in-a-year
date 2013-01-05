@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja sinun pitaa tekeman peittovaatteen Tabernaklin oveen, sinisista, purpuraisista ja tulipunaisista villoista, niin myos kalliista kerratusta liinalangasta, taitavasti ommellun.	
 
 <div class="versenum">37.</div> Tata peittovaatetta varten pitaa sinun tekeman viisi patsasta sittimipuusta ja ne kullalla silaaman, ja koukut pitaa oleman kullasta: ja sinun pitaa valaman niille viisi vaskista jalkaa.	
-
+</body>
+</html>

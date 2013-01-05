@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja kansa vaikeni ja ei hanta mitakaan vastannut: silla kuningas oli kaskenyt ja sanonut: alkaat hanta vastatko.	
 
 <div class="versenum">37.</div> Niin tuli Eliakim Hilkian poika huoneenhaltia, ja Sebna kirjoittaja, ja Joa Asaphin poika kansleri Hiskian tyko revaistyilla vaatteilla, ja ilmoittivat hanelle Rabsaken sanat.	
-
+</body>
+</html>

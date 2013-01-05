@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja mina tuomitsen hanen rutolla ja verella; ja annan sataa rantaa ja raekivia, tulta ja tulikivea hanen ja hanen joukkonsa paalle, ja sen paljon kansan paalle, joka hanen kanssansa on.	
 
 <div class="versenum">23.</div> Juuri niin pitaa minun suureksi, pyhaksi ja tutuksi tuleman monien pakanain edessa, etta heidan pitaa ymmartaman minun olevan Herra.	
-
+</body>
+</html>

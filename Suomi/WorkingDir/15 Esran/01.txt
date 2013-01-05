@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Kolmekymmenta kultaista kuppia, ja toisia hopeaisia maljoja neljasataa ja kymmenen, ja muita astioita tuhannen.	
 
 <div class="versenum">11.</div> Niin etta kaikkia astioita, seka kullasta etta hopiasta, oli viisituhatta ja neljasataa: ne kaikki vei Sesbatsar niiden kanssa, jotka Babelin vankeudesta menivat Jerusalemiin.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Niin etta han antoi kaikki vangit vankihuoneessa Josephin kaden alle, etta kaikki mita siella tehtiin, se tehtiin hanen kauttansa.	
 
 <div class="versenum">23.</div> Ja vankihuoneen haltia ei pitanyt mistaan murhetta niista, jotka hanen kadessansa olivat; silla Herra oli Josephin kanssa, ja mita han teki, antoi Herra menestya.	
-
+</body>
+</html>

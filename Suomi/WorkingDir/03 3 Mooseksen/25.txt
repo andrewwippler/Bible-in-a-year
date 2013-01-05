@@ -113,4 +113,5 @@
 <div class="versenum">54.</div> Jos ei han nain lunasta itsiansa, niin hanen pitaa ilovuonna vapaana kayman ulos lapsinensa.	
 
 <div class="versenum">55.</div> Silla Israelin lapset ovat minun palveliani; he ovat minun palveliani, jotka mina olen Egyptin maalta johdattanut ulos: Mina olen Herra teidan Jumalanne.	
-
+</body>
+</html>

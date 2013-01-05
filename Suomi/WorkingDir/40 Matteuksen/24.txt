@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Niin sen palvelian Herra tulee sina paivana, jona ei han luulekaan, ja silla hetkella, jolla ei han tieda.	
 
 <div class="versenum">51.</div> Ja han eroittaa hanen, ja antaa hanelle osan ulkokullattuin kanssa: siella pitaa oleman itku ja hammasten kiristys.	
-
+</body>
+</html>

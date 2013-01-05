@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Silla mina olen vahva siita, ettei kuolema, eika elama, eika enkelit, eika esivallat, eika vakevyydet, eika nykyiset, eika tulevaiset,	
 
 <div class="versenum">39.</div> Eika korkeus, eika syvyys, eli joku muu luontokappale taida meita Jumalan rakkaudesta eroittaa, joka on Jesuksessa Kristuksessa, meidan Herrassamme.	
-
+</body>
+</html>

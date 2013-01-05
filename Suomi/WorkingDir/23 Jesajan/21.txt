@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Silla nain sanoo Herra minulle: viela nyt vuosi, niinkuin palkollisen vuodet ovat, niin pitaa kaiken Kedarin kunnian hukkuman.	
 
 <div class="versenum">17.</div> Ja jaaneet ampujat, vakevat Kedarin lapsista, pitaa vahemmaksi joutuman; silla Herra Israelin Jumala on sen sanonut.	
-
+</body>
+</html>

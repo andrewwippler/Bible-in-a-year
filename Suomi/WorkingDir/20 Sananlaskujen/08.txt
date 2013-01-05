@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Silla joka minun loytaa, han elaman loytaa, ja on Herralle otollinen;	
 
 <div class="versenum">36.</div> Mutta, joka minua vastaan syntia tekee, han vahingoitsee sielunsa: jokainen joka minua vihaa, han rakastaa kuolemaa.	
-
+</body>
+</html>

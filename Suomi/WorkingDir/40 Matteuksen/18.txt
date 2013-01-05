@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja hanen herransa vihastui, ja antoi hanen pyoveleille, siihenasti kuin han maksais kaikki, mita han oli hanelle velkaa.	
 
 <div class="versenum">35.</div> Niin myos minun taivaallinen Isani tekee teille, jollette kukin veljellensa teidan sydamistanne anna anteeksi heidan rikoksiansa.	
-
+</body>
+</html>

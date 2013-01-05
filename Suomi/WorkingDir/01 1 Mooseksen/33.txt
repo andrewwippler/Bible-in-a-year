@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja osti murun peltoa, johonka han teki majansa, Hemorin, Sikemin isan lapsilta, sadan penningin edesta.	
 
 <div class="versenum">20.</div> Ja rakensi siina alttarin: ja rukoili vakevaa Israelin Jumalan nimea.	
-
+</body>
+</html>

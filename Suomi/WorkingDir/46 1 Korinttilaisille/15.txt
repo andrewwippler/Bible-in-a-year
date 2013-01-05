@@ -119,4 +119,5 @@
 <div class="versenum">57.</div> Mutta kiitos olkoon Jumalan, joka meille voiton antanut on meidan Herran Jesuksen Kristuksen kautta!	
 
 <div class="versenum">58.</div> Sentahden, minun rakkaat veljeni, olkaat vahvat, jarkahtymatta ja aina yltakyllaiset Herran toissa, tietaen, ettei teidan tyonne ole turha Herrassa.	
-
+</body>
+</html>

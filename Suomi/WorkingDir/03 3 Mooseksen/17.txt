@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja kuka ikana henki syo raatoa, taikka sita, joka revitty on, olkoon han kotolainen eli muukalainen, hanen pitaa peseman vaatteensa, ja viruttaman hanensa vedella, ja oleman saastaisen ehtoosen asti: niin han tulee puhtaaksi.	
 
 <div class="versenum">16.</div> Jollei han pese itsiansa ja ihoansa viruta, niin hanen pitaa itse kantaman vaaryytensa.	
-
+</body>
+</html>

@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Mutta aika, kuin Salomo hallitsi Jerusalemissa kaiken Israelin ylitse, oli neljakymmenta ajastaikaa.	
 
 <div class="versenum">43.</div> Ja Salomo nukkui isainsa kanssa ja haudattiin isansa Davidin kaupunkiin. Ja hanen poikansa Rehabeam tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

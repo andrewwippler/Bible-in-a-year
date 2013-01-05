@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Mutta Amorilaiset rupesivat asumaan vuorilla, Hereessa, Ajalonissa ja Saalbimissa; niin tuli Josephin kasi heille raskaaksi, ja he tulivat verollisiksi.	
 
 <div class="versenum">36.</div> Ja Amorilaisten rajat olivat siita, kuin kaydaan ylos Akrabimiin, kalliosta ja ylhaalta.	
-
+</body>
+</html>

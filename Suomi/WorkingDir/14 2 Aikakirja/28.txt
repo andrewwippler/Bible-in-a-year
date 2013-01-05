@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mita enempi hanesta on sanomista, ja kaikista hanen teistansa, ensimaisista ja viimeisista: katso, se on kirjoitettu Juudan ja Israelin kuningasten kirjassa.	
 
 <div class="versenum">27.</div> Ja Ahas nukkui isainsa kanssa, ja he hautasivat hanen Jerusalemin kaupunkiin; mutta ei he panneet hanta Israelin kuningasten sekaan. Ja hanen poikansa Jehiskia tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

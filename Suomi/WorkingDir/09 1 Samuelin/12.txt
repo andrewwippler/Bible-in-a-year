@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ainoastansa peljatkaat Herraa ja palvelkaat hanta uskollisesti kaikesta sydamestanne; silla katsokaat, kuinka suuria tekoja han tekee teidan kanssanne.	
 
 <div class="versenum">25.</div> Mutta jos te teette pahaa, niin seka te etta teidan kuninkaanne hukkuu.	
-
+</body>
+</html>

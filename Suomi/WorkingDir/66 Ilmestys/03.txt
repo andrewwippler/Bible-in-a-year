@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Joka voittaa, sen mina annan istua minun kanssani minun istuimellani, niinkuin minakin voitin ja olen minun isani kanssa hanen istuimellansa istunut.	
 
 <div class="versenum">22.</div> Jolla korva on, se kuulkaan, mita Henki seurakunnille sanoo.	
-
+</body>
+</html>

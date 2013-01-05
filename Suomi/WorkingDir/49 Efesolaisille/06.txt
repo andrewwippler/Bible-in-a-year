@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Rauha olkoon veljille, ja rakkaus uskon kanssa, Isalta Jumalalta ja Herralta Jesukselta Kristukselta!	
 
 <div class="versenum">24.</div> Armo olkoon kaikkein kanssa, jotka meidan Herraa Jesusta Kristusta lakkaamatta rakastavat, amen!	
-
+</body>
+</html>

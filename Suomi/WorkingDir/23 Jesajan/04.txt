@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Ja Herra saattaa kaiken Zionin vuoren asumisen ylitse, ja kussa ikana se koottu on, paivalla pilven ja savun, ja tulen paisteen yolla palamaan; silla suojelus pitaa oleman kaiken kunnian ylitse.	
 
 <div class="versenum">6.</div> Ja maja pitaa oleman paivan varjoksi helletta vastaan, ja turva ja varjelus rajuilmaa ja sadetta vastaan.	
-
+</body>
+</html>

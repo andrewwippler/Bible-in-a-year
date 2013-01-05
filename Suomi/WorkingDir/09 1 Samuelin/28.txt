@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja vaimolla oli huoneessa lihava vasikka, ja han kiiruhti ja teurasti sen, ja otti jauhoja ja sekoitti, ja leipoi sen happamattomiksi kyrsiksi.	
 
 <div class="versenum">25.</div> Ja kantoi Saulin ja hanen palveliainsa eteen. Ja kuin he olivat syoneet, nousivat he ja matkustivat sina yona.	
-
+</body>
+</html>

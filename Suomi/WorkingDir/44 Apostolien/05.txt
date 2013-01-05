@@ -87,4 +87,5 @@
 <div class="versenum">41.</div> Niin he menivat pois raadin edesta, iloiten etta he olivat mahdolliset pilkkaa karsimaan hanen nimensa tahden,	
 
 <div class="versenum">42.</div> Ja ei lakanneet joka paiva templissa ja joka huoneessa opettamasta ja saarnaamasta evankeliumia Jesuksesta Kristuksesta.	
-
+</body>
+</html>

@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Mutta mina ilmoitan ijankaikkisesti, ja veisaan kiitosta Jakobin Jumalalle.	
 
 <div class="versenum">10.</div> Ja mina tahdon sarkea kaiken jumalattomain vallan, etta vanhurskasten valta korotettaisiin.	
-
+</body>
+</html>

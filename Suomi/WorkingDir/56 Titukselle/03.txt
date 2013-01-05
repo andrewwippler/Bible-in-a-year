@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Mutta anna myos niidenkin, jotka meidan ovat, oppia hyvissa toissa muiden edella kaymaan, kussa niin tarvitaan, ettei hekaan hedelmattomat olisi.	
 
 <div class="versenum">15.</div> Sinua tervehtivat kaikki, jotka minun kanssani ovat. Tervehdi niita, jotka meita uskossa rakastavat. Armo olkoon teidan kaikkein kanssanne, amen!	
-
+</body>
+</html>

@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja silloin meni heista liki viisisataa miesta, jotka olivat Simeonin lapsia, Seirin vuorelle; ja Pelatia, Nearia, Rephaja ja Ussiel Jisein lapset olivat heidan paamiehensa,	
 
 <div class="versenum">43.</div> Ja tappoivat paasseet ja jaaneet Amalekilaisista, ja asuivat siina tahan paivaan asti.	
-
+</body>
+</html>

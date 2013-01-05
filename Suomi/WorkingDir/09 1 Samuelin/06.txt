@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja BetSemilaiset sanoivat: kuka on seisovainen Herran edessa, tainkaltaisen pyhan Jumalan? ja kenen tyko han menee meidan tykoamme;	
 
 <div class="versenum">21.</div> Ja lahettivat sanansaattajat KirjatJearimin asuvaisten tyko ja kaskivat heille sanoa: Philistealaiset ovat tuoneet Herran arkin jalleen, tulkaat tanne alas ja viekaat hanta ylos teidan tykonne jalleen.	
-
+</body>
+</html>

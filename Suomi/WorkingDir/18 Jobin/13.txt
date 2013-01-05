@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Sina olet pannut minun jalkani jalkapuuhun, ja otat kaikista minun poluistani vaarin, ja katsot kaikkia minun askeleitani;	
 
 <div class="versenum">28.</div> Joka kuitenkin hukun niinkuin madannyt raato, ja niinkuin koilta syoty vaate.	
-
+</body>
+</html>

@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja sanoman: Herrassa on minulla vanhurskaus ja vakevyys; senkaltaiset tulevat hanen tykonsa, mutta kaikki, jotka seisovat hanta vastaan, ne hapiaan tulevat.	
 
 <div class="versenum">25.</div> Silla Herrassa kaikki Israelin siemen vanhurskautetaan, ja saavat hanesta kerskata.	
-
+</body>
+</html>

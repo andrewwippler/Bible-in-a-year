@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Muutamain ihmisten synnit ovat kylla julkiset, etta ne ennen tuomita taidetaan; mutta muutamain asken jalista julkiseksi tulevat.	
 
 <div class="versenum">25.</div> Niin myos muutamat hyvat tyot ovat jo ennen julkiset, ja ne mitka muutoin tapahtuvat, ei taideta salattaa.	
-
+</body>
+</html>

@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Se jauhetaan ja leivotaan, eika perati tyhjaksi tapeta, koska se vaunurattaalla ja hevosilla tapetaan.	
 
 <div class="versenum">29.</div> Nain tekee myos Herra Zebaot; silla hanen neuvonsa on ihmeellinen, ja sen jalosti toimittaa.	
-
+</body>
+</html>

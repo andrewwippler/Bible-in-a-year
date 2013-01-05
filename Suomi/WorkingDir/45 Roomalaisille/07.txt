@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mina viheliainen ihminen: kuka paastaa minun tasta kuoleman ruumiista?	
 
 <div class="versenum">25.</div> Mina kiitan Jumalaa Jesuksen Kristuksen meidan Herramme kautta. Niin mina itse palvelen nyt mielella Jumalan lakia, mutta lihalla synnin lakia.	
-
+</body>
+</html>

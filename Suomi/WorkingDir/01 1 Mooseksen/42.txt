@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ruben vastasi isallensa, sanoen: tapa molemmat minun poikani, jollen mina hanta jalleen sinulle (kotia) tuo, ainoastansa anna hanta minun haltuuni, mina hanen sinulle jalleen (kotia) tuon.	
 
 <div class="versenum">38.</div> Han sanoi: ei minun poikani pida meneman alas teidan kanssanne: silla hanen veljensa on kuollut, ja han on jaanyt yksin, ja jos hanelle tapahtuis jotakin pahaa tiella, jota te vaellatte, niin te saatatte minun harmaat karvani murheella hautaan.	
-
+</body>
+</html>

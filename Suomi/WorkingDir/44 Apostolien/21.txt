@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Niin Paavali sanoi: mina olen Juudalainen Tarsin, kuuluisan kaupungin asuvainen Kilikiasta. Mina rukoilen sinua, salli minun puhua kansalle.	
 
 <div class="versenum">40.</div> Ja kuin han salli, niin Paavali seisoi astuttavilla ja viittasi kadellansa kansalle. Kuin suuri vaikeneminen tuli, puhutteli han heita Hebrean kielella ja sanoi:	
-
+</body>
+</html>

@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja ne viedyt pois Israelin lasten sotavaesta, jotka Kanaanealaisten seassa hamaan Sarpattiin asti ovat, ja ne viedyt pois Jerusalemin kaupungista, jotka Sepharadissa ovat, pitaa kaupungit etelaan pain omistaman.	
 
 <div class="versenum">21.</div> Ja vapahtajat pitaa Zionin vuorelle tuleman tuomitsemaan Esaun vuorta; ja niin pitaa valtakunta Herran oleman.	
-
+</body>
+</html>

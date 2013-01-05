@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Niin han kutsui opetuslapsensa tykonsa, ja sanoi heille: Totisesti sanon mina teille: tama koyha leski pani enemman uhri-arkkuun kuin kaikki ne, jotka siihen panivat.	
 
 <div class="versenum">44.</div> Silla he ovat kaikki panneet siita, mita heille liiaksi oli; mutta tama koyhyydestansa pani kaiken, mita hanella oli, kaiken tavaransa.	
-
+</body>
+</html>

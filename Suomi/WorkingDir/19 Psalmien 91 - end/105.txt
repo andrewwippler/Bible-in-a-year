@@ -93,4 +93,5 @@
 <div class="versenum">44.</div> Ja antoi heille pakanain maan, niin etta he kansain hyvyydet omistivat heillensa.	
 
 <div class="versenum">45.</div> Etta he pitaisivat hanen saatynsa, ja hanen lakinsa katkisivat, Halleluja!	
-
+</body>
+</html>

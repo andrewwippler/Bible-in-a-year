@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja han otti sadanpaamiehet, ja voimalliset, ja kansan hallitsiat, ja kaiken maan kansan, ja vei kuninkaan Herran huoneesta alas ja he menivat ylimmaisen portin lavitse kuninkaan huoneesen; ja he antoivat kuninkaan istua valtakunnan istuimelle.	
 
 <div class="versenum">21.</div> Ja kaikki maan kansa oli iloinen, ja kaupunki oli levossa, sittekuin Atalia tapettiin miekalla.	
-
+</body>
+</html>

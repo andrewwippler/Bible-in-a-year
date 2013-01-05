@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Niin pitaa meteli nouseman sinun kansas seassa, ja kaikki sinun linnas pitaa havitettaman, niinkuin Salman havitti Arbelin huoneen sodan aikana, ja aiti lapsinensa kuoliaaksi lyotiin.	
 
 <div class="versenum">15.</div> Niin pitaa teillekin Betelissa tapahtuman, teidan suuren pahuutenne tahden; etta Israelin kuningas pitaa aamulla varhain lyotaman maahan.	
-
+</body>
+</html>

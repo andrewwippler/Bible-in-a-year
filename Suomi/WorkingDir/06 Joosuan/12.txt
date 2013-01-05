@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> DornaphatDorin kuningas, yksi, ja pakanain kuningas Gilgalissa, yksi;	
 
 <div class="versenum">24.</div> Tirtsan kuningas, yksi. Ne kaikki ovat yksineljattakymmenta kuningasta.	
-
+</body>
+</html>

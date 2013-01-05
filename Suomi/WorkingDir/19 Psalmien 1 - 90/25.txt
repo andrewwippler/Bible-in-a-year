@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Vakuus ja oikeus varjelkoon minua; silla mina odotan sinua.	
 
 <div class="versenum">22.</div> Jumala, vapahda Israel kaikista tuskistansa.	
-
+</body>
+</html>

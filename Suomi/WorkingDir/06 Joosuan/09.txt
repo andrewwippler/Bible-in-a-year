@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja han teki heille niin ja vapahti heita Israelin lasten kadesta, ettei he lyoneet heita kuoliaaksi.	
 
 <div class="versenum">27.</div> Niin teki Josua heidat sina paivana halkoin hakkaajiksi ja veden kantajiksi seurakunnalle ja Herran alttarille tahan paivaan asti, siihen paikkaan jonka han valitsi.	
-
+</body>
+</html>

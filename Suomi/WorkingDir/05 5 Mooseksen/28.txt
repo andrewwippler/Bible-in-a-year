@@ -139,4 +139,5 @@
 <div class="versenum">67.</div> Aamulla sina sanot: ah, jospa mina ehtoosen elaisin! ehtoona sina sanot: ah, jospa mina aamuun elaisin! sinun sydames suuren pelvon tahden, joka sinua peljattaa, ja sen tahden, jota sinun silmas nakeman pitaa.	
 
 <div class="versenum">68.</div> Ja Herra vie sinua taas haaksilla Egyptiin sita tieta, josta mina sanoin sinulle: ei sinun pida hanta silleen nakeman. Ja te myytte itsenne siella vihollisillenne palvelioiksi ja piioiksi, ja ei yhtakaan ostajaa siella oleman pida.	
-
+</body>
+</html>

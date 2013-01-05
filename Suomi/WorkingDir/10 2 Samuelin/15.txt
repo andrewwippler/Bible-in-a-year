@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Katso, heidan kaksi poikaansa ovat siella heidan kanssansa, Ahimaats Zadokin poika ja Jonatan AbJatarin poika: niiden kanssa te saatte lahettaa minulle, mita te kuulette.	
 
 <div class="versenum">37.</div> Niin Husai Davidin ystava meni kaupunkiin ja Absalom tuli Jerusalemiin.	
-
+</body>
+</html>

@@ -87,4 +87,5 @@
 <div class="versenum">41.</div> Niin nouse nyt, Herra Jumala, sinun lepoos, sina ja sinun voimas arkki: anna pappis, Herra Jumala, olla puetettuna autuudella, ja anna pyhas iloita hyvyydessa.	
 
 <div class="versenum">42.</div> Herra Jumala! ala kaanna pois sinun voideltus kasvoja: muista sen armon paalle, jonka sina Davidille sinun palvelialles lupasit!	
-
+</body>
+</html>

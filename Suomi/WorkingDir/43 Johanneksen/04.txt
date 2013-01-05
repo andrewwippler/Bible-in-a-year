@@ -111,4 +111,5 @@
 <div class="versenum">53.</div> Niin isa ymmarsi sen siksi hetkeksi, jolla Jesus sanoi hanelle: sinun poikas elaa. Ja han uskoi ja koko hanen huoneensa.	
 
 <div class="versenum">54.</div> Tama on toinen tunnustahti, jonka Jesus teki tullessansa Juudeasta Galileaan.	
-
+</body>
+</html>

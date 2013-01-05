@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Eiko Herra teidan Jumalanne ole teidan kanssanne ja ole antanut teille levon joka taholta? Silla han on antanut maan asujamet minun kasiini, ja maa on voitettu Herran ja hanen kansansa edessa.	
 
 <div class="versenum">19.</div> Sentahden antakaat sydamenne ja sielunne etsia Herraa teidan Jumalaanne; nouskaat ja rakentakaat Herralle Jumalalle pyha, kannettaa siihen Herran liitonarkki ja pyhat Jumalan astiat huoneesen, joka Herran nimeen rakennetaan.	
-
+</body>
+</html>

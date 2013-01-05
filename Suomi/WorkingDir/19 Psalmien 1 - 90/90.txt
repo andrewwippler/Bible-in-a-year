@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Osoita palvelialles sinun tekos, ja kunnias heidan lapsillensa.	
 
 <div class="versenum">17.</div> Ja, Herra meidan Jumalamme olkoon meille leppyinen, ja vahvistakoon meidan kattemme teot meissa: jaa, meidan kattemme teot han vahvistakoon!	
-
+</body>
+</html>

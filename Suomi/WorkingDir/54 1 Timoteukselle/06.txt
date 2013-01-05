@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Oi Timoteus! katke se, mika sinulle uskottu on, ja valta turhia ja kelvottomia juttuja ja niita riitoja, jotka vaarin kerskatusta taidosta tulevat,	
 
 <div class="versenum">21.</div> Josta muutamat paljon pitavat, ja uskosta eksyneet ovat. Armo olkoon sinun kanssas, amen!	
-
+</body>
+</html>

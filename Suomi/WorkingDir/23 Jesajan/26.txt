@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mene, kansani, ja kay sisalle kammioos, ja sulje sinun oves jalkees; lymyta sinus silmanrapaykseksi,niin kauvan kuin viha kay ylitse.	
 
 <div class="versenum">21.</div> Silla katso, Herra on kayva ulos siastansa etsimaan maan asuvaisten pahuutta heidan paallensa; niin etta maa ilmoittaa heidan verensa, ja ei niita enaa peita, jotka hanessa tapetut ovat.	
-
+</body>
+</html>

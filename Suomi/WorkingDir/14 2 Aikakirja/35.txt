@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mita enempaa Josiasta sanomista on ja hanen laupiudestansa kirjoituksen jalkeen Herran laissa,	
 
 <div class="versenum">27.</div> Ja hanen teoistansa, ensimaisista ja viimeisista: katso, se on kirjoitettu Israelin ja Juudan kuningasten kirjassa.	
-
+</body>
+</html>

@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Kolmaskolmattakymmenta Mahesjotin, hanen poikainsa ja veljeinsa paalle: ja heita oli kaksitoistakymmenta;	
 
 <div class="versenum">31.</div> Neljaskolmattakymmenta Romamtieserin, hanen poikainsa ja veljeinsa paalle: ja heita oli kaksitoistakymmenta.	
-
+</body>
+</html>

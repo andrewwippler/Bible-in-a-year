@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ala istuta sinulles metsistoa, jonkun kaltaista puuta Herran sinun Jumalas alttarin juureen, jonka sina teet sinulles.	
 
 <div class="versenum">22.</div> Ala nosta sinulles patsasta, jota Herra sinun Jumalas vihaa.	
-
+</body>
+</html>

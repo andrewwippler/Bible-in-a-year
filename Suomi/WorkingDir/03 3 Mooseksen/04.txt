@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja papin pitaa sormellansa ottaman rikosuhrin verta, ja paneman polttouhrin alttarin sarvein paalle, ja kaataman kaiken muun veren alttarin pohjaan.	
 
 <div class="versenum">35.</div> Mutta kaiken lihavuuden pitaa hanen eroittaman niinkuin kiitosuhrin lampaan lihavuus eroitettiin, ja papin pitaa polttaman sen alttarilla Herran tuleksi. Ja niin pitaa papin hanen rikoksensa sovittaman, jolla han on rikkonut, ja se hanelle annetaan anteeksi.	
-
+</body>
+</html>

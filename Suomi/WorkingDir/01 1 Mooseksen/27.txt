@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja siihenasti etta hanen vihansa lakkaa sinusta, ja han onhottaa mitas hanta vastaan tehnyt olet. Niin mina lahetan ja tuotan sinun sielta. Miksi teidan molempain pitais yhtena paivana minulta tuleman pois?	
 
 <div class="versenum">46.</div> Ja Rebekka sanoi Isaakille: mina suutun minun elamaani, Hetin tytarten tahden: jos Jakob ottaa vaimon Hetin tyttarista, jotka ovat niinkuin taman maan tyttaret, mita minun sitte auttaa elamaan?	
-
+</body>
+</html>

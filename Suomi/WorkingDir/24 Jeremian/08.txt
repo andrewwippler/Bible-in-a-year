@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Mina suren suuresti, etta minun kansani tytar, niin turmeltu on; mina surkuttelen ja olen hammastyksissa.	
 
 <div class="versenum">22.</div> Eiko Gileadissa ole voidetta, eli eiko siella ole parantajaa? miksi ei minun kansani tytar ole terveeksi tehty?	
-
+</body>
+</html>

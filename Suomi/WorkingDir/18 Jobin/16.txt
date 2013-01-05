@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Joka ihmisen puolesta vastaa Jumalan tykona, niinkuin ihmisen lapsi lahimmaisensa puolesta.	
 
 <div class="versenum">22.</div> Mutta maaratyt vuodet ovat tulleet, ja mina menen sita tieta pois, jota en mina jalleen palaja.	
-
+</body>
+</html>

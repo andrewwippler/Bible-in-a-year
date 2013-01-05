@@ -113,4 +113,5 @@
 <div class="versenum">54.</div> Ja Jakob uhrasi vuorella, ja kutsui veljensa syomaan leipaa. Ja kuin he olivat syoneet, olivat he yota vuorella.	
 
 <div class="versenum">55.</div> Mutta aamulla varhain nousi Laban, ja suuta antoi poikainsa ja tytartensa, ja siunasi heita, ja meni matkaansa, ja palasi kotiansa.	
-
+</body>
+</html>

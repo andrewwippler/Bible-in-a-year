@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja sinun pitaa ottaman tykos kaikkinaista ruokaa, jota syodaan, ja kokooman sinun tykos, sinulle ja heille elatukseksi.	
 
 <div class="versenum">22.</div> Ja Noa teki sen: kaikki mita Jumala hanen kaski, niin han teki.	
-
+</body>
+</html>

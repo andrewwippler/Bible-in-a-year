@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Varjele myos palvelias ylpeista, ettei he minua hallitsisi; niin mina olen viatoin ja nuhteetoin suuresta pahasta teosta.	
 
 <div class="versenum">14.</div> Kelvatkoon sinulle minun suuni puheet, ja minun sydameni ajatukset sinun edessas, Herra, minun vahani ja minun Lunastajani!	
-
+</body>
+</html>

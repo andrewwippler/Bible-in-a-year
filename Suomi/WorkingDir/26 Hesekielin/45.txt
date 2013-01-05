@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta ruokauhriksi pitaa hanen uhraaman ephan mullille ja ephan oinaalle, ja hinnin oljya ephalle.	
 
 <div class="versenum">25.</div> Viidentenatoistakymmenentena paivana seitsematta kuukautta pitaa hanen pyhana pitaman seitseman paivaa jarjestansa, niinkuin ne muutkin seitseman paivaa; ja silla tavalla pitaman syntiuhrin kanssa, polttouhrin, ruokauhrin ja myos oljyn kanssa.	
-
+</body>
+</html>

@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Silloin han vastaa heita, sanoen: totisesti sanon mina teille, mita ette tehneet yhdelle naista vahimmista, sita ette tehneet minulle.	
 
 <div class="versenum">46.</div> Ja niiden pitaa meneman ijankaikkiseen vaivaan, mutta vanhurskaat ijankaikkiseen elamaan.	
-
+</body>
+</html>

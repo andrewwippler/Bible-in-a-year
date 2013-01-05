@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Ja Elia otti pojan ja kantoi ylistuvasta alas huoneesen, ja antoi aidillensa, ja sanoi: katso, sinun poikas elaa.	
 
 <div class="versenum">24.</div> Ja vaimo sanoi Elialle: nyt mina ymmarran, ettas olet Jumalan mies, Herran sana on tosi sinun suussas.	
-
+</body>
+</html>

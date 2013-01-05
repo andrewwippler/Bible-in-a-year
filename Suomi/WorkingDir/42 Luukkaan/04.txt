@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Vaan han sanoi heille: minun pitaa myos muillekin evankeliumia Jumalan valtakunnasta saarnaaman; silla sita varten mina olen lahetetty.	
 
 <div class="versenum">44.</div> Ja han saarnasi Galilean synagogissa.	
-
+</body>
+</html>

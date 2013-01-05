@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Silloin meni Salomo Etseongeberiin ja Elotiin, meren rannalle, Edomin maalle.	
 
 <div class="versenum">18.</div> Ja Hiram lahetti hanelle haaksia palveliainsa katten kautta, jotka taitavat merimiehet olivat; ja he menivat Salomon palveliain kanssa Ophiriin, ja toivat sielta neljasataa ja viisikymmenta leiviskaa kultaa ja veivat kuningas Salomolle.	
-
+</body>
+</html>

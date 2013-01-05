@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja ne kruunut pitaa oleman Helemin, Tobian, Jedajan ja Henin, Zephanjan pojan, muistoksi Herran templissa.	
 
 <div class="versenum">15.</div> Heidan pitaa kaukaa tuleman ja rakentaman Herran templin, ja teidan pitaa ymmartaman Herran Zebaotin lahettaneen minun teidan tykonne. Tama pitaa tapahtuman, jos te muutoin Herran teidan Jumalanne aanelle hyvin kuuliaiset olette.	
-
+</body>
+</html>

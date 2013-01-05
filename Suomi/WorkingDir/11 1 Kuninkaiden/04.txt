@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja puhui myos puista, sedrista, joka on Libanonissa, hamaan isoppiin asti, joka seinasta kasvaa. Niin puhui han myos elaimista, linnuista, matelevaisista ja kaloista.	
 
 <div class="versenum">34.</div> Ja kaikista kansoista tultiin kuulemaan Salomon taitoa, ja kaikilta maan kuninkailta, jotka olivat kuulleet hanen taidostansa.	
-
+</body>
+</html>

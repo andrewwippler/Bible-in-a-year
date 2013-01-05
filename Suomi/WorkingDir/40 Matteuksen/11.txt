@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ottakaat minun ikeeni teidan paallenne, ja oppikaat minusta, etta mina olen sivia ja noyra sydamesta: ja te loydatte levon teidan sieluillenne;	
 
 <div class="versenum">30.</div> Silla minun ikeeni on sovelias ja minun kuormani on kevia.	
-
+</body>
+</html>

@@ -107,4 +107,5 @@
 <div class="versenum">51.</div> Etta te olette rikkoneet minua vastaan Israelin lasten seassa, riitaveden tykona Kadeksessa Sinin korvessa: ettette minua pyhittaneet Israelin lasten seassa.	
 
 <div class="versenum">52.</div> Silla sina naet maan kohdastansa; vaan ei sinun pida siihen maahan tuleman, jonka mina Israelin lapsille annan.	
-
+</body>
+</html>

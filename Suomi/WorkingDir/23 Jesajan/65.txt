@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja tapahtuu, etta ennenkuin he huutavat, tahdon mina vastata; koska he viela puhuvat, tahdon mina kuulla.	
 
 <div class="versenum">25.</div> Susi ja lammas pitaa ynna laitumella kayman, jalopeura ja harka yhdessa korsia syoman, ja karmeet pitaa maata syoman. Ei heidan pida vahinkoa tekeman, eika turmeleman koko mimun pyhalla vuorellani, sanoo Herra.	
-
+</body>
+</html>

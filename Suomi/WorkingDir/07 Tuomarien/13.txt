@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja vaimo synnyti pojan ja kutsui hanen Simson; ja lapsi kasvoi, ja Herra siunasi hanta.	
 
 <div class="versenum">25.</div> Ja Herran henki rupesi vaikuttamaan hanessa Danin leirissa, Zoran ja Estaolin valilla.	
-
+</body>
+</html>

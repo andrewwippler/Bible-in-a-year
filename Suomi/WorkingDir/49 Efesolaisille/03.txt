@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta hanelle, joka kaikki ylonpalttisesti voi tehda, kaiken senkin ylitse, kuin me rukoilemme taikka ymmarramme, sen voiman jalkeen, joka meissa vaikuttaa,	
 
 <div class="versenum">21.</div> Hanelle olkoon kunnia seurakunnassa, joka on Kristuksessa Jesuksessa, kaikkiin aikoihin ijankaikkisesta niin ijankaikkiseen, amen!	
-
+</body>
+</html>

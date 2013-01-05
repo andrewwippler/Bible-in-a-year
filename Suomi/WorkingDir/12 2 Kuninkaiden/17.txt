@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Mutta ei he totelleet sita, vaan tekivat vanhan tapansa jalkeen.	
 
 <div class="versenum">41.</div> Ja nain namat pakanat pelkasivat Herraa, ja palvelivat myos epajumaliansa; niin myos tekivat heidan lapsensa ja lastensa lapset, kuin heidan isansakin tehneet olivat, hamaan tahan paivaan asti.	
-
+</body>
+</html>

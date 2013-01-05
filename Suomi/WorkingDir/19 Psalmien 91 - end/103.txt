@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kiittakaat Herraa, kaikki hanen sotavakensa, te hanen palveliansa, jotka teette hanen tahtonsa.	
 
 <div class="versenum">22.</div> Kiittakaat Herraa, kaikki hanen tyonsa, kaikissa hanen valtansa paikoissa: kiita, sieluni, Herraa.	
-
+</body>
+</html>

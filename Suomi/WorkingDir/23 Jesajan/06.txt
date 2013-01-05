@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla Herra ajaa vaen kauvas, niin etta maa tulee perati hyljatyksi.	
 
 <div class="versenum">13.</div> Ja ehka kymmenes osa siihen viela jaa, niin sekin taas havitetaan; kuitenkin niinkuin tammelle ja tuomelle jaa kanto, vaikka heidan lehtensa varistetaan, niin pitaa myos pyhalla siemenella kanto oleman.	
-
+</body>
+</html>

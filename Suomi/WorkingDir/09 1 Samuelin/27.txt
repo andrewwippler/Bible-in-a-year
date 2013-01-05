@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Ja ei David jattanyt elavaksi yhtakaan miesta eli vaimoa viedaksensa Gatiin, ja ajatteli: ettei he puhuisi jotakin meita vastaan, sanoen: nain teki David, ja tama oli hanen tapansa niinkauvan kuin han asui Philistealaisten maalla.	
 
 <div class="versenum">12.</div> Niin Akis uskoi Davidin ja ajatteli, han on tehnyt itsensa kokonansa kauhistuttavaksi kansallensa Israelille, sentahden olkaan han aina minun palveliani.	
-
+</body>
+</html>

@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta kuningas sanoi Araunalle: ei suinkaan, vaan mina ostan sen taydellisesti sinulta hinnalla; silla en mina tee Herralle polttouhria siita, joka minulle lahjaksi on annettu. Niin osti David riihen ja harjan viidellakymmenella hopiasiklilla,	
 
 <div class="versenum">25.</div> Ja rakensi Herralle siina alttarin ja uhrasi polttouhreja ja kiitosuhreja; ja Herra leppyi maakunnalle, ja vitsaus lakkasi Israelissa.	
-
+</body>
+</html>

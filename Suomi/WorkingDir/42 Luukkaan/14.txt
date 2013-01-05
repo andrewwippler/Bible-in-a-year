@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Suola on hyva; mutta jos suola tulee mauttomaksi, millas sitte suolataan?	
 
 <div class="versenum">35.</div> Ei se maahan eika sontaan ole sovelias: he heittavat sen pois. Jolla on korvat kuulla, se kuulkaan.	
-
+</body>
+</html>

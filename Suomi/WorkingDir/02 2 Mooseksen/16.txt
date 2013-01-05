@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja Israelin lapset soivat mannaa neljakymmenta ajastaikaa, siihenasti kuin he tulivat sille maalle jossa heidan asuman piti: siihenasti kuin he tulivat Kanaanin maan rajoille, soivat he mannaa.	
 
 <div class="versenum">36.</div> Ja gomor on kymmenes osa ephaa.	
-
+</body>
+</html>

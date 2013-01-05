@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Toimellinen mies taitaa puheensa tallella pitaa, ja taitava mies on kallis sielu.	
 
 <div class="versenum">28.</div> Jos tyhma vaiti olis, niin han viisaaksi luettaisiin, ja toimelliseksi, jos han suunsa pitais kiinni.	
-
+</body>
+</html>

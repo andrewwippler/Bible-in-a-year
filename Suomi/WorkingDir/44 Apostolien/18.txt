@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Mutta kuin han tahtoi menna Akajaan, kirjoittivat veljet ja neuvoivat opetuslapsia hanta korjaamaan. Ja kuin han sinne tuli, autti han paljon niita, jotka uskoivat armon kautta.	
 
 <div class="versenum">28.</div> Silla han voitti miehuullisesti Juudalaiset ja osoitti julkisesti Raamatuista, etta Jesus on Kristus.	
-
+</body>
+</html>

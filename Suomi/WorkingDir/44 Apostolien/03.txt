@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Te olette prophetain ja sen liiton lapset, jonka Jumala meidan isaimme kanssa teki, sanoen Abrahamille: ja sinun siemenessas pitaa kaikki kansat maan paalla siunattaman.	
 
 <div class="versenum">26.</div> Teille on Jumala ensin Poikansa Jesuksen herattanyt ja on hanen lahettanyt teita siunaamaan, etta te kukin teidan pahuudestanne palajaisitte.	
-
+</body>
+</html>

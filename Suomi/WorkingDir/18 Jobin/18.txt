@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ne jotka hanen perassansa tulevat, pitaa hammastyman hanen paivastansa, ja ne jotka hanen edellansa ovat olleet, pitaa peljastyman.	
 
 <div class="versenum">21.</div> Tama on jumalattoman maja, ja tama on sen sia, joka ei Jumalasta mitaan tieda.	
-
+</body>
+</html>

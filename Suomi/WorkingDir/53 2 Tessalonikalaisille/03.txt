@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Tervehdys minun Paavalin kadellani, joka on merkki kaikissa lahetyskirjoissa: nain mina kirjoitan.	
 
 <div class="versenum">18.</div> Meidan Herran Jesuksen Kristuksen armo olkoon kaikkein teidan kanssanne, amen!	
-
+</body>
+</html>

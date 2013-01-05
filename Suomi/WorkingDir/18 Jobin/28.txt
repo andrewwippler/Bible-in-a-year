@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Silloin naki han sen ja luki sen: han valmisti sen ja myos tutki sen,	
 
 <div class="versenum">28.</div> Ja sanoi ihmiselle: katso, Herran pelko on taito; ja karttaa pahaa on ymmarrys.	
-
+</body>
+</html>

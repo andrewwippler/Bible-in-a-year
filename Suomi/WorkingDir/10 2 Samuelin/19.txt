@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Niin vastasivat kaikki Juudan miehet Israelin miehille: silla kuningas on meita laheisempi, miksi te sentahden niin narkastytte? Vai luuletteko te, etta me jollakulla olemme kuninkaalta ravitut, taikka joitakin lahjoja saaneet?	
 
 <div class="versenum">43.</div> Niin Israelin miehet vastasivat Juudan miehia, sanoen: meilla on kymmenen osaa kuninkaassa, enemmin myos David meille tulee kuin teille: kuinka siis sina olet minua niin halvaksi lukenut, ettei minun olisi sopinut ensimaisena olla kuningastani noutamassa? Mutta Juudan miehet puhuivat tuimemmin kuin Israelin miehet.	
-
+</body>
+</html>

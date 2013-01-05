@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja se tuli kaikelle Jopelle tiettavaksi; ja moni uskoi Herran paalle.	
 
 <div class="versenum">43.</div> Ja tapahtui, etta han viipyi Jopessa kauvan aikaa Simon parkkarin tykona.	
-
+</body>
+</html>

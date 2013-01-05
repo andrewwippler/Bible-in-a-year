@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Kuin Jesus kastettu oli, astui han kohta ylos vedesta: ja katso, taivaat aukenivat hanelle, ja han naki Jumalan Hengen tulevan alas, niinkuin kyyhkyisen, ja tulevan hanen paallensa,	
 
 <div class="versenum">17.</div> Ja katso, aani taivaasta sanoi: tama on se minun rakas Poikani, johonka mina mielistyin.	
-
+</body>
+</html>

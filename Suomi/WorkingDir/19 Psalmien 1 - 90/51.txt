@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Tee Zionille hyvasti sinun armos jalkeen; rakenna Jerusalemin muurit.	
 
 <div class="versenum">19.</div> Silloin sinulle kelpaavat vanhurskauden uhrit, polttouhrit ja muut uhrit: silloin sinun alttarillas harkia uhrataan.	
-
+</body>
+</html>

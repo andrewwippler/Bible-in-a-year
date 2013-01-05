@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Tama on se opetuslapsi, joka todistaa naista ja on namat kirjoittanut, ja me tiedamme hanen todistuksensa todeksi.	
 
 <div class="versenum">25.</div> On myos paljon muuta, mita Jesus teki, jos ne erinansa kirjoitettaisiin, en mina luulisi koko maailman kasittavan niita kirjoja, joita pitais kirjoitettaman. Amen.	
-
+</body>
+</html>

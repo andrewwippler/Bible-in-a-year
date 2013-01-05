@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Kaksi ovat kedolla: yksi otetaan ylos, ja toinen jatetaan.	
 
 <div class="versenum">37.</div> Ja he vastaten sanoivat hanelle: Herra, kussa siis? Niin sanoi han heille: kussa raato on, sinne myos kotkat kokoontuvat.	
-
+</body>
+</html>

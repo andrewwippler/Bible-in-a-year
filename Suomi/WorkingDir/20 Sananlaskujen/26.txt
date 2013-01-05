@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Joka kuopan kaivaa, han lankee siihen, ja joka kiven vierittaa, se kierittaa sen itse paallensa.	
 
 <div class="versenum">28.</div> Petollinen kieli vihaa rangaistusta, ja suu, joka myotakielin puhuu, saattaa kadotukseen.	
-
+</body>
+</html>

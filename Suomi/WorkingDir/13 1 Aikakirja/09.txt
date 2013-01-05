@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Motsa siitti Binejan; ja Rephaja oli hanen poikansa, Eleasa hanen poikansa, Atsel hanen poikansa.	
 
 <div class="versenum">44.</div> Ja Atselilla oli kuusi poikaa, ja namat olivat heidan nimensa: Asrikam, Bokru, Ismael, Searia, Obadia ja Hanan: ne olivat Atselin pojat.	
-
+</body>
+</html>

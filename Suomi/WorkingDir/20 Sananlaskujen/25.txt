@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Joka paljon hunajaa syo, ei se ole hyva, ja joka tyotlaita asioita tutkii, se tulee hanelle tyolaaksi.	
 
 <div class="versenum">28.</div> Joka ei taida hillita henkeansa, han on niinkuin havitetty kaupunki ilman muuria.	
-
+</body>
+</html>

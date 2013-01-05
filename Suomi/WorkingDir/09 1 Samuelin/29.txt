@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Niin nouse siis varhain aamulla, ja sinun herras palveliat, jotka sinun kanssas tulleet ovat: ja kuin te olette aamulla varhain nousseet ja paiva teille valkenee, niin menkaat teidan tietanne.	
 
 <div class="versenum">11.</div> Niin David oli miehinensa aamulla varhain ylhaalla, matkustamaan ja tulemaan Philistealaisten maalle jalleen; mutta Philistealaiset menivat Jisreeliin pain.	
-
+</body>
+</html>

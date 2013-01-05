@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Silla Herra on Henki; mutta kussa Herran Henki on, siina on vapaus.	
 
 <div class="versenum">18.</div> Mutta me kaikki avoimilla kasvoilla Herran kirkkautta katselemme, niinkuin peilissa, ja me muutetaan siihen kuvaan kirkkaudesta niin kirkkauteen niinkuin Herran Hengesta.	
-
+</body>
+</html>

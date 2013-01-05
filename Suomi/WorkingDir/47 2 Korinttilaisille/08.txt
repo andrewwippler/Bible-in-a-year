@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Seka Tituksen puolesta, joka minun kumppanini on ja apulaiseni teidan seassanne, etta myos meidan veljeimme tahden, jotka ovat seurakuntain apostolit, Kristuksen kunnia.	
 
 <div class="versenum">24.</div> Osoittakaat siis teidan rakkautenne merkki ja meidan kerskaamisemme teistanne niita kohtaan, julkisesti seurakunnankin edessa.	
-
+</body>
+</html>

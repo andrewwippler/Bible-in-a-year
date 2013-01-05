@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Zedekian, Juudan kuninkaan, ja hanen paaruhtinaansa annan mina vihollisten kasiin, ja niiden kasiin, jotka heidan henkeansa vaijyvat, ja Babelin kuninkaan sotajoukon kasiin, joka nyt teidan tykoanne on mennyt pois.	
 
 <div class="versenum">22.</div> Katso, mina kasken heita, sanoo Herra, ja annan taas tulla taman kaupungin eteen, ja heidan pitaa sotiman sita vastaan, ja voittaman sen, ja tulella polttaman, ja mina havitan Juudan kaupungit, niin ettei kenkaan niissa pida enaan asuman.	
-
+</body>
+</html>

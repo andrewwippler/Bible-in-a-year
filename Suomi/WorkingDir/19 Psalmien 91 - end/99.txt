@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Herra, sina olet Jumalamme, sina kuulit heidan rukouksensa: sina, Jumala, annoit heille anteeksi, ja laitit heidan tyonsa.	
 
 <div class="versenum">9.</div> Korottakaat Herraa meidan Jumalaamme, ja kumartakaat hanen pyhalla vuorellansa; silla Herra meidan Jumalamme on pyha.	
-
+</body>
+</html>

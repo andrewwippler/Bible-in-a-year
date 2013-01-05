@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Minun isani! anna Jobia koeteltaa loppuun asti, etta han kaantaa itsensa vaarain ihmisten tyko.	
 
 <div class="versenum">37.</div> Han on paitsi entisia syntejansa viela nyt pilkannut: anna hanen meidan edessamme lyodyksi tulla, ja sitte han riidelkaan kylla sanoillansa Jumalan edessa.	
-
+</body>
+</html>

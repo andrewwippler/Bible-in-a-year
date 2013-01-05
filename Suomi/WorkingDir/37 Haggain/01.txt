@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja Herra heratti Serubbabelin Sealtielin pojan, Juudan paamiehen hengen, ja Josuan Jotsadakin pojan, ylimmaisen papin hengen, ja kaiken jaaneen kansan hengen, tulemaan ja tyota tekemaan Herran Zebaotin heidan Jumalansa huoneessa,	
 
 <div class="versenum">15.</div> Neljantena paivana kolmattakymmenta, kuudentena kuukautena, kuningas Dariuksen toisena vuotena.	
-
+</body>
+</html>

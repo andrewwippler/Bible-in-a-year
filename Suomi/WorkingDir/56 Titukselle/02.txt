@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Joka itsensa antoi meidan edestamme, etta han meita kaikesta vaaryydesta lunastais ja itsellensa erinomaiseksi kansaksi puhdistais, ahkeraksi hyviin toihin.	
 
 <div class="versenum">15.</div> Naita sina puhu ja neuvo, ja kaikella todella nuhtele: ei myos kenenkaan pida sinun katsoman ylon.	
-
+</body>
+</html>

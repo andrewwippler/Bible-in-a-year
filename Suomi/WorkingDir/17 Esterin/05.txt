@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Mutta kaikista naista ei minulle mitakaan kelpaa niinkauvan kuin mina naen Juudalaisen Mordekain istuvan kuninkaan portissa.	
 
 <div class="versenum">14.</div> Niin sanoi hanen emantansa Seres ja kaikki hanen ystavansa hanelle: valmistettakoon puu, viisikymmenta kyynaraa korkia, ja sano huomenna kuninkaalle, etta Mordekai siihen hirtettaisiin, niin sina menet iloissas kuninkaan kanssa pitoihin. Se kelpasi Hamanille, ja puu valmistettiin.	
-
+</body>
+</html>

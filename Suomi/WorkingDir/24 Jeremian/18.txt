@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Etta huuto kuuluis heidan huoneistansa, ettas niin akisti olet antanut tulla sotavaen heidan paallensa; silla he ovat kaivaneet kuopan minua kasittaaksensa, ja ovat virittaneet paulan minun jalkaini eteen.	
 
 <div class="versenum">23.</div> Ja etta sina, Herra, tiedat kaikki heidan juonensa minua vastaan, etta he tahtovat minua tappaa; niin ala anna anteeksi heidan pahaa tekoansa, ja ala anna heidan syntejansa pyyhittyna olla sinun edessas; he olkoon kukistettuna sinun edessas, ja tee heidan kanssansa sinun vihas jalkeen.	
-
+</body>
+</html>

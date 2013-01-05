@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja kaikki kansa, joka palannut oli vankeudesta, teki lehtimajoja ja asui niissa; silla ei Israelin lapset niin olleet tehneet hamasta Josuan Nunin pojan ajasta niin siihen paivaan asti. Ja siina oli sangen suuri ilo.	
 
 <div class="versenum">18.</div> Ja luettiin joka paiva Jumalan lakikirjaa, ensimmaisesta paivasta niin viimeiseen. Ja he pitivat juhlaa seitseman paivaa ja kahdeksantena paivana paatoksen, tavan jalkeen.	
-
+</body>
+</html>

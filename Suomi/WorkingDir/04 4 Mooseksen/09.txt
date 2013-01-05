@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Eli koska pilvi kaksi paivaa eli kuukauden taikka muutoin kauvan aikaa pysyi majan paalla, niin Israelin lapset sioittivat heitansa, ja ei matkustaneet, ja koska se nousi, niin he matkustivat.	
 
 <div class="versenum">23.</div> Herran kaskyn jalkeen olivat he siallansa, ja Herran kaskyn jalkeen he matkustivat, ja ottivat vaarin Herran vartiosta, Herran sanan jalkeen Moseksen kautta.	
-
+</body>
+</html>

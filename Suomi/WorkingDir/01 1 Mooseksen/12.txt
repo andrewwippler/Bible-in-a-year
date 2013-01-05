@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Miksis sanoit, han on sisareni? etta mina ottaisin hanen emannakseni? katso tassa on sinun emantas, ota hanta ja mene.	
 
 <div class="versenum">20.</div> Ja Pharao antoi kaskyn hanesta miehillensa: ja he saattoivat hanen ulos ja hanen emantansa, ja kaikki kuin hanella oli.	
-
+</body>
+</html>

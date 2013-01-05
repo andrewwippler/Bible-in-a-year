@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Vaan etsikaat ensin Jumalan valtakuntaa ja hanen vanhurskauttansa, ja niin kaikki namat teille annetaan.	
 
 <div class="versenum">34.</div> Alkaat sentahden sureko huomisesta paivasta; silla huomisella paivalla on suru itsestansa. Tyytykaan kukin paiva surullensa.	
-
+</body>
+</html>

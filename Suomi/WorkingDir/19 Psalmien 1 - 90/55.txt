@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Heita surus Herran paalle, han sinusta murheen pitaa, ja ei salli vanhurskaan olla kulkiana ijankaikkisesti.	
 
 <div class="versenum">23.</div> Mutta sina, Jumala, syokset heita syvaan kuoppaan: murhamiehet ja pettajat ei pida tuleman puoli-ikaansa; vaan mina toivon sinuun.	
-
+</body>
+</html>

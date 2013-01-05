@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta ei Jesus uskonut itsiansa heille; silla han tunsi heidat kaikki,	
 
 <div class="versenum">25.</div> Ja ei tarvinnut, etta joku olis ihmisesta todistanut; silla han tiesi, mita ihmisessa oli.	
-
+</body>
+</html>

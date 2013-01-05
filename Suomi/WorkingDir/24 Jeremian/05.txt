@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Kuinka julmasti ja kauhiasti eletaan maassa?	
 
 <div class="versenum">31.</div> Prophetat opettavat valhetta, papit ovat herrat virassansa, ja minun kansani tahtoo sita mielellansa. Mita te viimein teette?	
-
+</body>
+</html>

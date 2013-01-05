@@ -143,4 +143,5 @@
 <div class="versenum">69.</div> Ja he antoivat varansa jalkeen rakennuksen tavaraksi yhdenseitsemattakymmenta tuhatta kultapenninkia , ja viisituhatta leiviskaa hopiaa, ja sata papin hametta.	
 
 <div class="versenum">70.</div> Niin papit, Levilaiset, ja muutamat kansasta, veisaajat, ja ovenvartiat ja Netinimit asuivat kaupungeissansa, ja koko Israel myos kaupungeissansa.	
-
+</body>
+</html>

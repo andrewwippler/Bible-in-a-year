@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja Hemanin ja Jedutunin heidan kanssansa, vaskitorvilla ja symbaleilla soittamaan, ja Jumalan kanteleilla. Mutta Jedutunin pojat pani han ovenvartiaksi.	
 
 <div class="versenum">43.</div> Ja nain matkusti kaikki kansa kukin kotiansa; David myos palasi siunaamaan huonettansa.	
-
+</body>
+</html>

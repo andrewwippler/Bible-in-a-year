@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja pitaa tapahtuman, etta niinkuin kaikki se hyva on teille tullut, jonka Herra teidan Jumalanne teille sanonut on, niin Herra myos antaa tulla teidan ylitsenne kaikki pahat, siihenasti etta han kadottaa teidat siita hyvasta maasta, jonka Herra teidan Jumalanne teille antanut on.	
 
 <div class="versenum">16.</div> Jos te Herran teidan Jumalanne liiton kaytte ylitse, jonka han teille kaski, ja menette ja palvelette vieraita jumalia, ja heita rukoilette, niin Herran viha julmistuu teidan paallenne, ja te hukutte akisti siita hyvasta maasta, jonka han teille antoi.	
-
+</body>
+</html>

@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja korennot han teki sittimipuusta, ja silasi ne kullalla.	
 
 <div class="versenum">29.</div> Ja teki pyhan voidellusoljyn ja puhtaan suitsutuksen, hyvanhajullisista yrteista, apotekarin tavan jalkeen.	
-
+</body>
+</html>

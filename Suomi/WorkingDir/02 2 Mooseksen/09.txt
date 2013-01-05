@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Koska Pharao naki, etta sade, ja rakeet, ja jylinat lakkasivat, teki han viela enemmin pahaa, ja paadutti sydamensa, seka han etta hanen palveliansa.	
 
 <div class="versenum">35.</div> Niin paatui Pharaon sydan, ja ei paastanyt Israelin lapsia: niinkuin Herra Moseksen kautta sanonut oli.	
-
+</body>
+</html>

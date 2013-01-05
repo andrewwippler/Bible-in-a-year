@@ -117,4 +117,5 @@
 <div class="versenum">56.</div> Koska nalka tuli koko maakuntaan, avasi Joseph kaikki jyvaaitat jokapaikassa, ja myi Egyptilaisille; silla nalka tuli aina raskaammaksi Egyptin maalla.	
 
 <div class="versenum">57.</div> Ja kaikki maakunnat tulivat Egyptiin ostamaan Josephilta; silla suuri nalka oli kaikissa maakunnissa.	
-
+</body>
+</html>

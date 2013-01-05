@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Silla teidan pitaa meneman Jordanin yli, tuleman ja omistaman maan, jonka Herra teidan Jumalanne teille antaa, sen omistaaksenne, ja asuaksenne siina.	
 
 <div class="versenum">32.</div> Niin pitakaat ja tehkaat kaikki ne saadyt ja oikeudet, jotka mina tanapana panen teidan eteenne.	
-
+</body>
+</html>

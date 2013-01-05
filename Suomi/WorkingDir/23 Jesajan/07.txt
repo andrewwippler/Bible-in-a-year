@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja sinne mennaan nuolella ja joutsella; silla koko maassa pitaa oleman orjantappurat ja ohdakkeet;	
 
 <div class="versenum">25.</div> Niin ettei taideta tulla kaikkiin niihin makiin, joita lapiolla kaivetaan, orjantappurain, matasten ja ohdakkeiden tahden; vaan harjat annetaan siina kayda, ja lampaat sita tallata.	
-
+</body>
+</html>

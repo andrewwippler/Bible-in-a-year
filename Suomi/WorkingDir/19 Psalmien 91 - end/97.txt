@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Vanhurskaalle koittaa valkeus, ja ilo hurskaille sydamille,	
 
 <div class="versenum">12.</div> Vanhurskaat iloitkaat Herrassa, kiittakaat hanen pyhyytensa muistoksi.	
-
+</body>
+</html>

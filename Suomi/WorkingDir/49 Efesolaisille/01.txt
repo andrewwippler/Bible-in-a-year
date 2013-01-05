@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja on kaikki pannut hanen jalkainsa alle, ja on myos hanen pannut paaksi kaikkein paalle seurakunnalle,	
 
 <div class="versenum">23.</div> Joka on hanen ruumiinsa, sen tayttamys, joka kaikki kaikissa tayttaa.	
-
+</body>
+</html>

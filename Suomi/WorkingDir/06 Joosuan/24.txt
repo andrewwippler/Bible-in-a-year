@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Ja Josephin luut, jotka Israelin lapset olivat tuoneet Egyptista, hautasivat he Sikemiin, siihen pellon kappaleeseen, jonka Jakob osti Hemorin Sikemin isan lapsilta sadalla penningilla. Ja se tuli Josephin lasten perinnoksi.	
 
 <div class="versenum">33.</div> Niin kuoli myos Eleatsar Aaronin poika, ja he hautasivat hanen Gibeassa, joka oli hanen poikansa Pinehaan oma, joka hanelle Ephraimin vuorella annettu oli.	
-
+</body>
+</html>

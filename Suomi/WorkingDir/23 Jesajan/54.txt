@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Katso, mina teen sepan, joka hiilet tulessa lietsoo, ja tekee aseen tyotansa varten: niin mina myos teen raatelian hukuttamaan.	
 
 <div class="versenum">17.</div> Ei yksikaan ase, joka valmistetaan sinua vastaan, pida menestyman; ja kaikki kielet, jotka heitansa asettavat sinua vastaan, pitaa sinun tuomiollas kadotettaman. Tama on Herran palveliain perimys, ja heidan vanhurskautensa minusta, sanoo Herra.	
-
+</body>
+</html>

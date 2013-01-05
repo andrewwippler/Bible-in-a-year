@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Jolla ei olisi joka paiva tarve, niinkuin muut ylimmaiset papit, ensin omain synteinsa edesta uhraamaan, sitte kansan syntein edesta; silla sen han on jo silloin tehnyt, kuin han itsensa uhrasi.	
 
 <div class="versenum">28.</div> Silla laki asettaa ihmiset ylimmaiseksi papiksi, joilla heikkous on; mutta valan sana, joka lain jalkeen sanottiin, asettaa Pojan ijankaikkisesti taydelliseksi.	
-
+</body>
+</html>

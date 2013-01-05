@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Silla katso, mina heratan paimenen maassa, joka ei etsi naantyvaa, ei holho nuorta heikkoa, ei paranna sarjettya, eika tottele tervetta; vaan syo lihavain lihaa, ja repaisee heidan sorkkansa rikki.	
 
 <div class="versenum">17.</div> Voi sita kelvotointa paimenta, joka lauman hylkaa! tulkaan miekka hanen kasivarteensa ja oikiaan silmaan; kuivukoon hanen kasivartensa perati, ja hanen oikea silmansa tulkoon kokonansa pimiaksi!	
-
+</body>
+</html>

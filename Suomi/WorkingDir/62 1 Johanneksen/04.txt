@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Jos joku sanoo: mina rakastan Jumalaa, ja vihaa veljeansa, se on valehtelia; silla joka ei rakasta veljeansa, jonka han nakee, kuinka han taitaa Jumalaa rakastaa, jota ei han nae?	
 
 <div class="versenum">21.</div> Ja tama kasky on meilla hanelta: joka Jumalaa rakastaa, hanen pitaa myos veljeansa rakastaman.	
-
+</body>
+</html>

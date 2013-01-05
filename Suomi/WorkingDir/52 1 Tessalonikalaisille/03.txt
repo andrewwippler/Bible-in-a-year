@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Mutta Herra lisatkoon teita ja antakoon rakkauden yltakyllaisen olla teidan seassanne ja jokaista kohtaan, niinkuin mekin teille olemme:	
 
 <div class="versenum">13.</div> Etta han teidan laittamattomat sydamenne vahvistais pyhyydessa, Jumalan ja meidan Isamme edessa meidan Herran Jesuksen Kristuksen tulemisessa, kaikkein hanen pyhainsa kanssa.	
-
+</body>
+</html>

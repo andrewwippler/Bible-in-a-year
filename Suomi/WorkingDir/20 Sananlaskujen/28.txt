@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Joka vaivaiselle antaa, ei hanelta puutu; vaan joka silmansa hanesta kaantaa, se tulee pahasti kirotuksi.	
 
 <div class="versenum">28.</div> Kuin jumalattomat tulevat, niin kansa itsensa katkee; mutta kuin ne hukkuvat, niin vanhurskaat enenevat.	
-
+</body>
+</html>

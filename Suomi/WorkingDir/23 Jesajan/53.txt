@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Etta hanen sielunsa on tyota tehnyt, saa han ilonsa nahda, ja tulee ravituksi. Tuntemisensa kautta minun vanhurskas palveliani monta vanhurskauttaa; silla han kantaa heidan syntinsa.	
 
 <div class="versenum">12.</div> Sentahden annan mina hanelle osan monessa, ja hanen pitaa vakevain kanssa saalista jakaman; sentahden etta han antoi henkensa kuolemaan, ja oli pahantekiain sekaan luettu, ja han kantoi monen synnit, ja rukoili pahantekiain edesta.	
-
+</body>
+</html>

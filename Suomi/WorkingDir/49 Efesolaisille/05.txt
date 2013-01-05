@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Tama salaisuus on suuri; mutta mina puhun Kristuksesta ja seurakunnasta.	
 
 <div class="versenum">33.</div> Kuitenkin rakastakaan myos kukin teista vaimoansa niinkuin itsiansa; mutta peljatkoon vaimo miestansa.	
-
+</body>
+</html>

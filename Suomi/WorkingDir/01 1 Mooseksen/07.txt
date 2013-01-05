@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Niin hukutettiin kaikki ne, kuin maan paalla olivat, ihmisesta niin karjaan asti, ja matoihin, ja taivaan lintuihin asti, kaikki hukutettiin maan paalta, ainoastansa Noa jai, ja ne jotka hanen kanssansa olivat arkissa.	
 
 <div class="versenum">24.</div> Ja vedet seisoivat valtiasna maan paalla sata ja viisikymmenta paivaa.	
-
+</body>
+</html>

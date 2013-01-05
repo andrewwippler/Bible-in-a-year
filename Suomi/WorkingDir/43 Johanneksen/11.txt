@@ -117,4 +117,5 @@
 <div class="versenum">56.</div> Niin he etsivat Jesusta ja puhuivat keskenansa, seisoen templissa: mita te luulette, ettei han ole juhlalle tullut?	
 
 <div class="versenum">57.</div> Ja ylimmaiset papit ja Pharisealaiset olivat kaskyn antaneet, etta jos joku tietais, kussa han olis, niin hanen piti sen ilmoittaman, etta he ottaisivat hanen kiinni.	
-
+</body>
+</html>

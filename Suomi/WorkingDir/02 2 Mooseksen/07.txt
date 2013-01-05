@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta kaikki Egyptilaiset kaivoivat virran ymparilla vetta juodaksensa; silla ei he saaneet juoda virran vesista.	
 
 <div class="versenum">25.</div> Ja se oli taytta seitseman paivaa, sittenkuin Herra oli lyonyt virran.	
-
+</body>
+</html>

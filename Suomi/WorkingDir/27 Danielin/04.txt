@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> (H4:33) Silloin tulin mina jalleen taidolleni, ja kuninkaalliseen kunniaani ja jalouteeni ja minun muotooni. Ja minun neuvonantajani ja voimalliseni etsivat minua, ja mina pantiin jalleen valtakuntaani, ja sain viela suuremman kunnian.	
 
 <div class="versenum">37.</div> (H4:34) Sentahden kiitan mina Nebukadnetsar ja kunnioitan ja ylistan taivaan kuningasta; silla kaikki hanen tyonsa on totuus ja hanen tiensa oikiat; ja joka ylpia on, sen han taitaa noyryyttaa.	
-
+</body>
+</html>

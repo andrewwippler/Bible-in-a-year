@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Han lahetti kansallensa lunastuksen, han lupaa liittonsa pysymaan ijankaikkisesti: pyha ja peljattava on hanen nimensa.	
 
 <div class="versenum">10.</div> Herran pelko on viisauden alku: se on hyva ymmarrys kaikille, jotka sen tekevat: hanen kiitoksensa pysyy ijankaikkisesti.	
-
+</body>
+</html>

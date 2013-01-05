@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Vanhurskaan suu tuottaa viisauden, vaan vaarain kieli hukutetaan.	
 
 <div class="versenum">32.</div> Vanhurskaan huulet opettavat terveellisia asioita, vaan jumalattoman suu on taynna vaaryytta.	
-
+</body>
+</html>

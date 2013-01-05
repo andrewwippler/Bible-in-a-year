@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja pitaa tuoman papille virheettoman oinaan laumasta, sinun arvios jalkeen vikauhriksi: ja papin pitaa sovittaman hanelle hanen tietamattomyytensa, kun han tehnyt on tietamata, niin se hanelle annetaan anteeksi.	
 
 <div class="versenum">19.</div> Se on vikauhri: silla vikaan han kaiketikin Herran edessa joutunut on.	
-
+</body>
+</html>

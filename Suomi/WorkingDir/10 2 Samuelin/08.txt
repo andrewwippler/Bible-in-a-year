@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Zadok, Ahitobin poika ja Ahimelek, AbJatarin poika olivat papit; Seraja oli kirjoittaja.	
 
 <div class="versenum">18.</div> Benaja, Jojadan poika oli Kretin ja Pletin paalla; ja Davidin pojat olivat papit.	
-
+</body>
+</html>

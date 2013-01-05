@@ -165,4 +165,5 @@
 <div class="versenum">80.</div> Gadin sukukunnasta, Ramotin Gileadissa esikaupunkeinensa, Mahanaimin esikaupunkeinensa,	
 
 <div class="versenum">81.</div> Ja Hesbonin esikaupunkeinensa, ja Jaeserin esikaupunkeinensa.	
-
+</body>
+</html>

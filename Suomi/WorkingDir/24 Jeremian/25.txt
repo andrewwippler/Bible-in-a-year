@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja heidan niittynsa, jotka niin kauniit olivat, ovat havitetyt Herran julmalta vihalta.	
 
 <div class="versenum">38.</div> Han on hyljannyt majansa, niinkuin nuori jalopeura; ja heidan maansa on niin havitetty havittajan vihalta ja hanen julmalta vihaltansa.	
-
+</body>
+</html>

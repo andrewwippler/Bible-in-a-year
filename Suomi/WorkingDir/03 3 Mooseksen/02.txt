@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja sinun pitaa paneman oljya siihen ja pyhaa savua, niin on se ruokauhri.	
 
 <div class="versenum">16.</div> Ja papin pitaa ottaman niista survotuista jyvista ja oljysta, ynna kaiken pyhan savun kanssa, ja polttaman sen muistoksi. Se on tuliuhri Herralle.	
-
+</body>
+</html>

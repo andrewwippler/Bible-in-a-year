@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Nain sanoo Herra, sinun Herras ja sinun Jumalas, joka kansansa edesta sotii: katso, mina otan kompastuskalkin sinun kadestas, ja minun vihani kalkin rahkan; ei sinun pida sita enaan juoman.	
 
 <div class="versenum">23.</div> Vaan mina panen sen sinun raateliais kateen, jotka sanoivat sinun sielulles: kumarra sinus, etta me kavisimme sinun ylitses, ja pane sinun selkas maahan, etta niinkuin katua myoten sen ylitse mentaisiin.	
-
+</body>
+</html>

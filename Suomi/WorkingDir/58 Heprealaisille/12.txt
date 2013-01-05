@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Sentahden saamme me sen valtakunnan, joka ei jarista taida, meilla on armo, jonka kautta me Jumalaa palvelemme, hanen mielensa nouteeksi, siveydella ja pelvolla	
 
 <div class="versenum">29.</div> Silla meidan Jumalamme on kuluttavainen tuli.	
-
+</body>
+</html>

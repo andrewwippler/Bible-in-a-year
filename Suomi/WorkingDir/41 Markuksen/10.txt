@@ -107,4 +107,5 @@
 <div class="versenum">51.</div> Ja Jesus vastaten sanoi hanelle: mitas tahdot, etta mina sinulle tekisin? Niin sokia sanoi hanelle: Rabboni, etta mina saisin nakoni.	
 
 <div class="versenum">52.</div> Mutta Jesus sanoi hanelle: mene, sinun uskos vapahti sinun. Ja han sai kohta nakonsa jalleen, ja seurasi Jesusta tiella.	
-
+</body>
+</html>

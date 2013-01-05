@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja tietakaat, etta te saatte Herralta perimisen palkan; silla te palvelette Herraa Kristusta.	
 
 <div class="versenum">25.</div> Mutta joka vaarin tekee, sen pitaa saaman sen jalkeen kuin han vaarin tehnyt on, ja ei pida muotoa katsottaman.	
-
+</body>
+</html>

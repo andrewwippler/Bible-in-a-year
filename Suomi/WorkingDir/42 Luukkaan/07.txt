@@ -103,4 +103,5 @@
 <div class="versenum">49.</div> Niin rupesivat ne, jotka myos aterioitsivat, sanomaan keskenansa: kuka tama on, joka synnitkin anteeksi antaa?	
 
 <div class="versenum">50.</div> Niin han sanoi vaimolle: sinun uskos on sinun vapaaksi tehnyt: mene rauhaan.	
-
+</body>
+</html>

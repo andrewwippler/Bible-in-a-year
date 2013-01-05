@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Niin etta ne jatetaan kokonansa linnuille vuorten paalla ja elaimille maassa; niin etta linnut suvella tekevat siihen pesansa, ja kaikkinaiset elaimet makaavat siina talvella.	
 
 <div class="versenum">7.</div> Silloin se revitty ja ryostetty kansa, joka julmempi on kuin joku muu, joka siella ja taalla mitattu on ja tallattu on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle.	
-
+</body>
+</html>

@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Hanen pitaa saaman siemenen, joka hanta palvelee: Herrasta pitaa ilmoitettaman lasten lapsiin.	
 
 <div class="versenum">31.</div> He tulevat ja hanen vanhurskauttansa saarnaavat syntyvalle kansalle, etta han sen tekee.	
-
+</body>
+</html>

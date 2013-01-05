@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Joka kolmannen vuoden lopulla pitaa sinun eroittaman kaikki kymmenykset sinun vuotes tulosta sina vuonna, ja vieman sinun portteihis.	
 
 <div class="versenum">29.</div> Niin pitaa Levilaisen tuleman, jolla ei yhtaan osaa eli perimysta ole sinun kanssas, ja muukalainen, ja orpo, ja leski, jotka sinun porteissas ovat, ja heidan pitaa syoman ja ravittaman, etta Herra sinun Jumalas sinua siunais kaikissa sinun kattes toissa, jotka sina teet.	
-
+</body>
+</html>

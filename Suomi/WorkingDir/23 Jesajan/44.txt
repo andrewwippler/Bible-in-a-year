@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Joka syvyydelle sanon: tule kuivaksi: mina tahdon sinun virtas kuivata.	
 
 <div class="versenum">28.</div> Joka sanon Korekselle: han on minun paimeneni, ja hanen pitaa kaiken minun tahtoni tayttaman; niin etta Jerusalemille sanotaan: ole rakennettu, ja templille: ole perustettu.	
-
+</body>
+</html>

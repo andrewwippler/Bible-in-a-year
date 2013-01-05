@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja ettei kenkaan taitanut ostaa eika myyda, jolla ei se merkki ollut, taikka pedon nimi, eli hanen nimensa luku.	
 
 <div class="versenum">18.</div> Tassa on viisaus. Jolla on ymmarrys, laskekaan pedon luvun; silla se on ihmisen luku, ja hanen lukunsa on kuusisataa kuusikymmenta ja kuusi.	
-
+</body>
+</html>

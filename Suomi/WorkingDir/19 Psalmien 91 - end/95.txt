@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Etta mina neljakymmenta ajastaikaa suutuin tahan kansaan, ja sanoin: se on senkaltainen kansa, jonka sydamet aina eksya tahtovat, ja jotka minun tietani ei tahtoneet oppia;	
 
 <div class="versenum">11.</div> Joille mina vihoissani vannoin: ettei heidan pida minun lepooni tuleman.	
-
+</body>
+</html>

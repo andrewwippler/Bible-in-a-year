@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja pitaa tapahtuman, koska minun kunniani vaeltaa ohitse, niin mina panen sinun kallion rotkoon, ja mina peitan sinun minun kadellani niinkauvan kuin mina vaellan ohitse.	
 
 <div class="versenum">23.</div> Sitte koska mina otan pois minun kateni, saat sina nahda minun takaa; vaan minun kasvojani ei taideta nahda.	
-
+</body>
+</html>

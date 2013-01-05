@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Sinun isais siaan pitaa sinun lapsia saaman, jotka asetat paamiehiksi kaikkeen maailmaan.	
 
 <div class="versenum">17.</div> Mina tahdon muistaa sinun nimeas sukukunnasta niin sukukuntaan: sentahden pitaa kansat sinua kiittaman aina ja ijankaikkisesti.	
-
+</body>
+</html>

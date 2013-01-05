@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Jonka me pidamme vahvana ja lujana meidan sielumme ankkurina, joka ulottuu sisalle hamaan niihinkin asti, jotka esiripun sisalmaisella puolella ovat,	
 
 <div class="versenum">20.</div> Johonka edellajuoksia on meidan edellamme mennyt sisalle, Jesus, Melkisedekin saadyn jalkeen, ylimmaiseksi Papiksi tehty ijankaikkisesti.	
-
+</body>
+</html>

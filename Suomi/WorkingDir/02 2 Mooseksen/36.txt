@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja teki vaatteen majan oven eteen, sinisista, ja purpuraissista, ja tulipunaisista villoista, ja valkiasta kerratusta liinasta: taitavasti neulotun.	
 
 <div class="versenum">38.</div> Ja viisi patsasta heidan koukkuinsa kanssa, ja silasi niiden paat, ja heidan vanteensa kullalla: ja niiden viisi vaskijalkaa.	
-
+</body>
+</html>

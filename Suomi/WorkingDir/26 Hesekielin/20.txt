@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Ja kaikki liha pitaa nakeman, etta mina Herra sen sytyttanyt olen; ja ei pida sita sammutettaman.	
 
 <div class="versenum">49.</div> Ja mina sanoin: ah! Herra, Herra, he sanovat minusta: tama puhuu paljaita tapauksia.	
-
+</body>
+</html>

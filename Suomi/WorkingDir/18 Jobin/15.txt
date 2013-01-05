@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Silla ulkokullattuin kokous pitaa oleman yksinainen, ja tulen pitaa polttaman lahjain ottajan huoneen,	
 
 <div class="versenum">35.</div> Han siittaa onnettomuuden, ja synnyttaa vaivaisuuden; ja heidan vatsansa valmistaa petoksen.	
-
+</body>
+</html>

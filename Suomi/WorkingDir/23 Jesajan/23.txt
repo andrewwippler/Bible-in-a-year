@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Silla seitsemankymmenen vuoden perasta on Herra etsiva Tyroa, etta han tulis jalleen porttopalkoillensa, ja huorin tekis kaikkein valtakuntain kanssa maan paalla.	
 
 <div class="versenum">18.</div> Mutta hanen kauppansa ja porttopalkkansa pitaa oleman pyha Herralle . Ei sita koota tavaraksi, eika salata, vaan jotka asuvat Herran edessa, niilla pitaa hanen kauppakalunsa oleman, siita syoda, ravita ja itsiansa vaatettaa.	
-
+</body>
+</html>

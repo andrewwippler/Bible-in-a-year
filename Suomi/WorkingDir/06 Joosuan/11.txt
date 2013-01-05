@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja ei antanut yhtakaan Enakilaista jaada Israelin lasten maalle, paitsi Gasassa, Gatissa ja Asdodissa, joihin he jaivat.	
 
 <div class="versenum">23.</div> Ja niin Josua otti kaiken maakunnan, perati niin kuin Herra Mosekselle oli sanonut, ja antoi Israelille perinnoksi, kullekin sukukunnalle osansa; ja maakunta lakkasi sotimasta.	
-
+</body>
+</html>

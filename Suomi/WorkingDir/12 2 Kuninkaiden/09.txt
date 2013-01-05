@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja he tulivat jalleen ja sanoivat hanelle sen; han sanoi: tama on nyt se minka Herra puhui palveliansa Elian Tisbilaisen kautta ja sanoi: Jisreelin pellolla pitaa koirain syoman Isebelin lihan.	
 
 <div class="versenum">37.</div> Nain tuli Isebelin raato niinkuin loka kedolla, Jisreelin pellolla, ettei sanoa taidettu: tama on Isebel.	
-
+</body>
+</html>

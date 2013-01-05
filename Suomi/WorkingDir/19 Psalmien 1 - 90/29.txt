@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Herra istuu vedenpaisumisen paalla: Herra pysyy Kuninkaana ijankaikkisesti.	
 
 <div class="versenum">11.</div> Herra antaa kansallensa vakevyyden: Herra siunaa kansaansa rauhalla.	
-
+</body>
+</html>

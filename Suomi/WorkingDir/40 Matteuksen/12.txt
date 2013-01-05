@@ -103,4 +103,5 @@
 <div class="versenum">49.</div> Ja han ojensi katensa opetuslastensa puoleen ja sanoi: minun aitini ja minun veljeni.	
 
 <div class="versenum">50.</div> Silla jokainen, joka tekee Isani tahdon, joka on taivaissa, han on minun veljeni, ja sisareni, ja aitini.	
-
+</body>
+</html>

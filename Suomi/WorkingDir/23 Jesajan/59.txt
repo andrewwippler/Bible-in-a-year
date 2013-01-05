@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja Zionille on tuleva vapahtaja, ja niille, jotka kaantyvat pois synneista Jakobissa, sanoo Herra.	
 
 <div class="versenum">21.</div> Ja mina teen taman liiton heidan kanssansa, sanoo Herra: minun henkeni, joka sinun paallas on, ja minun sanani, jotka mina sinun suuhus pannut olen, ei pida lahteman sinun suustas, eika sinun siemenes suusta, ja lastes lasten suusta, sanoo Herra, nyt niin ijankaikkiseen.	
-
+</body>
+</html>

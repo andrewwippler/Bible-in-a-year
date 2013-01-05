@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Niin se kelpasi hyvin Israelin lapsille, ja Israelin lapset kunnioittivat Jumalaa ja ei enaa sanoneet, etta he tahtoivat sinne menna heita vastaan sotavaen kanssa maata havittamaan, jossa Rubenin ja Gadin lapset asuivat.	
 
 <div class="versenum">34.</div> Ja Rubenin ja Gadin lapset kutsuivat sen alttarin, etta se olis todistukseksi meidan valillamme, ja etta Herra on Jumala.	
-
+</body>
+</html>

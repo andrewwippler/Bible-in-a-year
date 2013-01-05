@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mutta han sanoi hanelle: eiko minun sydameni vaeltanut miehen palatessa vaunuistansa sinua vastaan? Oliko nyt aika sinun menna ottamaan hopiaa ja ottamaan vaatteita, oljypuita, viinamakia, lampaita, harkia, palvelioita ja piikoja?	
 
 <div class="versenum">27.</div> Sentahden pitaa Naemanin spitali tarttuman sinuun ja sinun siemenees ijankaikkisesti. Niin han meni pois hanen tykoansa spitalisena niinkuin lumi.	
-
+</body>
+</html>

@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Sina valmistat minulle poydan vihollisteni kohdalle: sina voitelet minun paani oljylla, ja minun maljani on ylitsevuotavainen.	
 
 <div class="versenum">6.</div> Hyvyys ja laupius noudattavat minua kaiken elinaikani, ja mina saan asua Herran huoneessa ijankaikkisesti.	
-
+</body>
+</html>

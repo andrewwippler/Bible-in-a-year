@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Nin Saul palasi ajamasta Davidia takaa ja meni Philistealaisia vastaan; sentahden kutsutaan se paikka SelaMahelkot.	
 
 <div class="versenum">29.</div> (H24:1) Ja David meni sielta ylos ja asui EnGedin linnoissa.	
-
+</body>
+</html>

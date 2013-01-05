@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Luvatkaat ja antakaat Herralle teidan Jumalallenne kaikki, jotka hanen ymparillansa olette, viekaat lahjoja peljattavalle,	
 
 <div class="versenum">12.</div> Joka paamiehilta ottaa pois rohkeuden, ja on peljattava maan kuninkaille.	
-
+</body>
+</html>

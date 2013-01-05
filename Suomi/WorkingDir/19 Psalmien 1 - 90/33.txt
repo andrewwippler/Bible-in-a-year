@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Silla meidan sydamemme iloitsee hanessa, ja me toivomme hanen pyhaan nimeensa.	
 
 <div class="versenum">22.</div> Olkoon sinun laupiutes, Herra, meidan paallamme, niinkuin me sinuun uskallamme!	
-
+</body>
+</html>

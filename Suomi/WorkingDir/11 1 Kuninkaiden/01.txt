@@ -109,4 +109,5 @@
 <div class="versenum">52.</div> Salomo sanoi: jos han tahtoo olla toimellinen mies, niin ei pida yksikaan karva hanesta lankeeman maan paalle; mutta jos jotain pahuutta hanessa loydetaan, niin hanen pitaa kuoleman.	
 
 <div class="versenum">53.</div> Ja kuningas Salomo lahetti ja tuotti hanen alas alttarilta, ja kuin han tuli, rukoili han kuningas Salomoa; mutta Salomo sanoi hanelle: mene huoneeses.	
-
+</body>
+</html>

@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Siihen aikaan pitaa hevosten kelloin paalle (kirjoitettu) oleman: Herran pyhyys; ja kattilat Herran huoneessa pitaa oleman niinkuin maljat alttarin edessa.	
 
 <div class="versenum">21.</div> Silla kaikki kattilat Jerusalemissa ja Juudassa pitaa Herralle Zebaotille pyhitetyt oleman; etta kaikkein, jotka uhrata tahtovat, pitaa tuleman ja ne ottaman ja niissa keittaman. Ja ei yksikaan Kanaanealainen pida enaa Herran Zebaotin huoneessa oleman siihen aikaan.	
-
+</body>
+</html>

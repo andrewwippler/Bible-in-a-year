@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja se tapahtui, kuin Jesus oli lopettanut namat puheet, etta kansat hammastyivat hanen oppiansa.	
 
 <div class="versenum">29.</div> Silla han opetti heita voimallisesti, ja ei niinkuin kirjanoppineet.	
-
+</body>
+</html>

@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Silloin Israel pitaa itse kolmantena oleman, Assyrialaisten ja Egyptilaisten kanssa, sen siunauksen kautta, joka on oleva keskella maata.	
 
 <div class="versenum">25.</div> Silla Herra Zebaot on siunaava heita ja sanova: siunattu olkoon Egypti minun kansani, ja Assur minun kasialani, ja Israel minun perimiseni!	
-
+</body>
+</html>

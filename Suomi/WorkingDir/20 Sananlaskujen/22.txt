@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ala siirra takaperin entisia rajoja, jotka esi-isas tehneet ovat.	
 
 <div class="versenum">29.</div> Jos sina naet nopsan miehen asiassansa, sen pitaa seisoman kuninkaan edessa: ei hanen pida seisoman halpain edessa.	
-
+</body>
+</html>

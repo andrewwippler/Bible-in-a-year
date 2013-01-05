@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Se olkoon hanen tykonansa, ja lukekaan sita kaiken elinaikansa, etta han oppis pelkaamaan Herraa Jumalaansa, ja pitamaan kaiken taman lain sanat ja namat saadyt, ja etta han tekis niiden jalkeen.	
 
 <div class="versenum">20.</div> Niin ettei han korottaisi sydantansa veljeinsa ylitse, eika myos kaskyista vilpistelisi, oikialle eika vasemmalle puolelle, etta han paivansa pitentaisi valtakunnassansa, han ja hanen poikansa Israelissa.	
-
+</body>
+</html>

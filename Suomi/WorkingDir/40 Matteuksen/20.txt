@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Sanoivat he hanelle: Herra, etta meidan silmamme aukenisivat.	
 
 <div class="versenum">34.</div> Niin Jesus armahti heita ja tarttui heidan silmiinsa, ja he saivat kohta nakonsa ja seurasivat hanta.	
-
+</body>
+</html>

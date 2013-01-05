@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja heidan rukouksissansa teidan edestanne, jotka teita ikavoitsevat, sen ylonpalttisen Jumalan armon tahden, joka teissa on.	
 
 <div class="versenum">15.</div> Mutta kiitos olkoon Jumalan hanen sanomattoman lahjansa edesta!	
-
+</body>
+</html>

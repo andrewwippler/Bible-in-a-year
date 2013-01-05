@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Aroerista Arnonin ojan reunalla, Sionin vuoreen asti, se on Hermon.	
 
 <div class="versenum">49.</div> Ja kaiken lakian maan silla puolella Jordania itaan pain, lakeuden mereen asti, Pisgan vuoren alaisella puolella.	
-
+</body>
+</html>

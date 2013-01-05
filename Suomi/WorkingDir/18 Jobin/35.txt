@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Jos ei hanen vihansa niin akisti kosta, ja ei ole tietavinansa, etta siina niin monta rikosta on;	
 
 <div class="versenum">16.</div> Sentahden on Job turhaan suunsa avannut ja taitamattomia puheita puhunut.	
-
+</body>
+</html>

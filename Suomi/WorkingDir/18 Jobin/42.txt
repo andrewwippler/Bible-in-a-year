@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja Job eli sitte sata ja neljakymmenta vuotta, niin etta han sai nahda lapsensa ja lastensa lapset hamaan neljanteen polveen.	
 
 <div class="versenum">17.</div> Ja Job kuoli vanhana ja elamasta kyllansa saaneena	
-
+</body>
+</html>

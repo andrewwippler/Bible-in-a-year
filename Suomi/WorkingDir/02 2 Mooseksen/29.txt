@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja asun Israelin lasten seassa, ja olen heidan Jumalansa.	
 
 <div class="versenum">46.</div> Ja heidan pitaa tietaman, etta mina olen Herra heidan Jumalansa, joka heidat johdatin Egyptin maalta, etta mina asuisin heidan seassansa. Mina olen Herra heidan Jumalansa.	
-
+</body>
+</html>

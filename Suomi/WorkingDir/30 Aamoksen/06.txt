@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja iloitsette tyhjasta asiasta, ja sanotte: emmeko me kylla vakevat ole meidan sarvillamme?	
 
 <div class="versenum">14.</div> Sentahden katso, mina tahdon teidan paallenne, te Israelin huone, kansan herattaa, sanoo Herra Jumala Zebaot; joka teita pitaa siita paikasta ahdistaman, kuin Hamatiin mennaan, hamaan korven ojaan asti.	
-
+</body>
+</html>

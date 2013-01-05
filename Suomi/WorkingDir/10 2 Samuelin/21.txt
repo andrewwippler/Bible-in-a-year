@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja kuin han pilkkasi Israelia, loi hanen Jonatan Davidin veljen Simean poika.	
 
 <div class="versenum">22.</div> Namat nelja olivat syntyneet Raphalle Gatissa; ja he lankesivat Davidin ja hanen palveliainsa katten kautta.	
-
+</body>
+</html>

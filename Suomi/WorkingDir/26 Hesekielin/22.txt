@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mina etsin heidan seassansa sita miesta, joka aidan panis ja seisois verajalla minun edessani, etten mina maata turmelisi; mutta en mina ketaan loytanyt.	
 
 <div class="versenum">31.</div> Sentahden vuodatan mina vihani heidan paallensa, ja hirmuisuuteni tulella mina lopetan heidat, ja annan heidan tiensa heidan paansa paalle, sanoo Herra, Herra.	
-
+</body>
+</html>

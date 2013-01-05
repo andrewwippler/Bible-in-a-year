@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ei yksikaan viisaus, eli ymmarrys, eika neuvo, auta herraa vastaan.	
 
 <div class="versenum">31.</div> Hevoset valmistetaan sodan paivaksi; mutta voitto tulee herralta.	
-
+</body>
+</html>

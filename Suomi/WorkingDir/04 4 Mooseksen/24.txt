@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja haahdet Kittimin rannoilta kukistavat Assurin ja kukistavat Eberin, vaan han itse myos hukkuu.	
 
 <div class="versenum">25.</div> Ja Bileam nousi ja meni matkaansa, ja tuli jalleen siallensa, ja Balak myos meni tietansa myoten.	
-
+</body>
+</html>

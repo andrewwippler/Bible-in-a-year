@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Hanen paamiehensa tuomitsevat lahjain tahden, hanen pappinsa opettavat palkan tahden, ja heidan prophetansa aavistavat rahan tahden; luottavat kuitenkin Herraan, ja sanovat: eiko Herra ole meidan seassamme? Ei taida onnettomuus meita kasittaa.	
 
 <div class="versenum">12.</div> Sentahden pitaa Zion kynnettaman teidan tahtenne niinkuin pelto, ja Jerusalem pitaa tuleman kiviraunioksi, ja templin vuori metsan kukkulaksi.	
-
+</body>
+</html>

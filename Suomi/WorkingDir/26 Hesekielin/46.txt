@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Ja siella kavi yksi vaha muuri ympari kaikkia niita neljaa; ja siella olivat totot tehdyt alhaalla ympari muurin.	
 
 <div class="versenum">24.</div> Ja han sanoi minulle: namat ovat keittosiat, joissa palveliat, jotka huoneessa palvelusta tekevat, keittaman pitaa kansan uhrin.	
-
+</body>
+</html>

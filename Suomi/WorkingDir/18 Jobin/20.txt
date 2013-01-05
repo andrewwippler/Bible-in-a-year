@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Hanen huoneensa hedelma pitaa vietaman pois, ja hajoitettaman hanen vihansa paivana.	
 
 <div class="versenum">29.</div> Tama on jumalattoman ihmisen osa Jumalalta, ja hanen puheensa perinto Jumalalta.	
-
+</body>
+</html>

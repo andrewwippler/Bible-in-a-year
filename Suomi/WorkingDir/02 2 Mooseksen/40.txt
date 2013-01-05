@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Vaan koska ei pilvi mennyt ylos, silloin ei he vaeltaneet, siihen paivaan asti, etta se meni ylos.	
 
 <div class="versenum">38.</div> Silla Herran pilvi oli paivalla majan ylitse, ja yolla oli tuli siina, koko Israelin huoneen silmain edessa, kaikissa heidan vaelluksissansa.	
-
+</body>
+</html>

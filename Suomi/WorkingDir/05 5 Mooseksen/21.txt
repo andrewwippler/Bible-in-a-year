@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Jos joku on tehnyt jonkun synnin, joka kuoleman on ansainnut, ja hirsipuussa kuoletetaan,	
 
 <div class="versenum">23.</div> Niin ei pida hanen ruumiinsa yota puussa pidettaman, mutta haudatkaat hanta kohta sina paivana; silla se on kirottu Jumalalta, joka hirtetty on, ettet sina saastuttaisi sinun maatas, jonka Herra sinun Jumalas sinulle perimiseksi antaa.	
-
+</body>
+</html>

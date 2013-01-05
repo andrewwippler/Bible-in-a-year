@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Silla kuka ikanansa naita kauhistuksia tekee, sen sielu pitaa havitettaman kansastansa.	
 
 <div class="versenum">30.</div> Sentahden pitakaat minun kaskyni, ettette tekisi kauhistavaisten tapain jalkeen, joita ne tekivat, jotka teidan edellanne olivat: ettette itsianne niilla saastutaisi; silla mina olen Herra teidan Jumalanne.	
-
+</body>
+</html>

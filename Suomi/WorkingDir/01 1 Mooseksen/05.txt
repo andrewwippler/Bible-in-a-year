@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja koko hanen ikansa oli seitsemansataa ja seitsemankahdeksattakymmenta ajastaikaa, ja kuoli.	
 
 <div class="versenum">32.</div> Noa oli viidensadan ajastajan vanha, ja siitti Semin, Hamin ja Japhetin.	
-
+</body>
+</html>

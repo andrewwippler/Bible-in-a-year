@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mutte etta te nyt olette synnista vapautetut ja Jumalan palvelioiksi tulleet, niin teilla on teidan hedelmanne pyhyyteen, mutta lopuksi ijankaikkinen elama.	
 
 <div class="versenum">23.</div> Silla kuolema on synnin palkka, mutta ijankaikkinen elama on Jumalan lahja Jesuksessa Kristuksessa meidan Herrassamme.	
-
+</body>
+</html>

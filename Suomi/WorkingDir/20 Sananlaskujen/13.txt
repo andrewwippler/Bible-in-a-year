@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Joka vitsaansa saastaa, han vihaa lastansa; vaan joka hanta rakastaa, han aikanansa sita kurittaa.	
 
 <div class="versenum">25.</div> Vanhurskas syo, etta hanen sielunsa ravittaisiin; vaan jumalattomain vatsa on tyytymatoin.	
-
+</body>
+</html>

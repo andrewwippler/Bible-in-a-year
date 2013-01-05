@@ -13,4 +13,5 @@
 <div class="versenum">4.</div> Sentahden etta Israelin lapset pitaa monta paivaa ilman kuningasta, ilman paamiesta, ilman uhria, ilman alttaria, ilman paallishametta ja ilman epajumalain kuvia olevan.	
 
 <div class="versenum">5.</div> Sitte Israelin lapset palajavat ja Herraa heidan Jumalaansa etsivat, ja Davidia kuningastansa; ja heidan pitaa pelvolla tuleman Herran ja hanen hyvyytensa tyko viimeisilla ajoilla.	
-
+</body>
+</html>

@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Saata meille apu tuskasta; silla ihmisten apu on turha.	
 
 <div class="versenum">12.</div> Jumalassa tahdomme me voimalliset tyot tehda: ja han tallaa alas meidan vihollisemme.	
-
+</body>
+</html>

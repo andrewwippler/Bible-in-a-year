@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja Herra on periva Juudan osaksensa siina pyhassa maassa, ja on taas Jerusalemin valitseva.	
 
 <div class="versenum">13.</div> Vaijetkoon kaikki liha Herran edessa; silla han on noussut pyhasta asuinsiastansa.	
-
+</body>
+</html>

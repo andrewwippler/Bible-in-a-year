@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Anna heidan pingoittaa koytensa, ei ne pida kuitenkaan pitaman, niin ei pida myos heidan hajoittaman lippua pielten paalle; silla paljo kalliimpi saalis pitaa jaettaman, niin etta ontuvat myos ryostavat.	
 
 <div class="versenum">24.</div> Ja ei yhdenkaan asuvaisen pida sanoman: mina olen heikko; etta kansalla, joka siella asuu, pitaa oleman syntein paasto.	
-
+</body>
+</html>

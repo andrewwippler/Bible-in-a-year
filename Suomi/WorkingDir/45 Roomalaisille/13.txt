@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Vaeltakaamme soveliaasti, niinkuin paivalla: ei ylonsyomisessa, eika juopumisessa, ei kammioissa, eika haureudessa, ei riidassa ja kateudessa,	
 
 <div class="versenum">14.</div> Vaan pukekaat paallenne Herra Jesus Kristus ja alkaat holhoko ruumistannen haureuteen.	
-
+</body>
+</html>

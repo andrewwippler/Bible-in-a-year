@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja Haman jutteli emannallensa Serekselle ja kaikille ystavillensa kaikki, mita hanelle tapahtunut oli. Niin sanoivat hanen viisaansa ja hanen emantansa Seres hanelle: Jos Mordekai on Juudalaisten siemenesta, jonka edessa sina olet ruvennut lankeemaan, niin et sina voi mitaan hanta vastaan, vaan sinun taytyy perati hanen edessansa langeta.	
 
 <div class="versenum">14.</div> Kuin he viela parhaallaansa hanen kanssansa puhuivat, tulivat kuninkaan kamaripalveliat ja kiiruhtivat Hamania pitoihin, jotka Ester oli valmistanut.	
-
+</body>
+</html>

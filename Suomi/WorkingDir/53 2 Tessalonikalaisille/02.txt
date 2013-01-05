@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Mutta itse meidan Herra Jesus Kristus, ja Jumala ja meidan Isamme, joka meita rakasti ja antoi meille ijankaikkisen lohdutuksen ja hyvan toivon armon kautta,	
 
 <div class="versenum">17.</div> Lohduttakoon teidan sydamenne, ja teita kaikkinaisessa opissa ja hyvassa tyossa vahvistakoon!	
-
+</body>
+</html>

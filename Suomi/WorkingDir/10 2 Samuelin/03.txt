@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Ja kuningas sanoi palvelioillensa: etteko te tieda, etta tanapana on yksi paamies, ja tosin suuri mies kaatunut Israelissa?	
 
 <div class="versenum">39.</div> Ja mina olen viela heikko ja voideltu kuningas, mutta ne miehet ZeruJan pojat ovat kovemmat minua: Herra maksakoon sille, joka pahaa tekee, hanen pahuutensa jalkeen!	
-
+</body>
+</html>

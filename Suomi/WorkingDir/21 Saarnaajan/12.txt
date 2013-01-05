@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Loppusana kaikesta, mita on kuultu, on tama: Pelkaa Jumalaa ja pida hanen kaskynsa, silla niin tulee jokaisen ihmisen tehda.	
 
 <div class="versenum">14.</div> Silla Jumala tuo kaikki teot tuomiolle, joka kohtaa kaikkea salassa olevaa, olkoon se hyvaa tai pahaa.	
-
+</body>
+</html>

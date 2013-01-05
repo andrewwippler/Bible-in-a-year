@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mutta te olette hanesta Kristuksessa Jesuksessa, joka meille on Jumalalta tehty viisaudeksi, ja vanhurskaudeksi, ja pyhitykseksi ja lunastukseksi:	
 
 <div class="versenum">31.</div> Etta niinkuin kirjoitettu on: joka itsiansa kerskaa, han kerskatkaan itsiansa Herrassa.	
-
+</body>
+</html>

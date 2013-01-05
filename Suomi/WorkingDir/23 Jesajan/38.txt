@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Jesaia kaski ottaa voidetta fikunista ja panna paisuman paalle, etta se tulis terveeksi.	
 
 <div class="versenum">22.</div> Mutta Hiskia sanoi: mika merkki on, etta minun pitaa meneman ylos Herran huoneeseen?	
-
+</body>
+</html>

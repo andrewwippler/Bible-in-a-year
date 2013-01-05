@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Niin mene sina nyt, ja johdata kansa sille sialle, josta mina olen sinulle puhunut: Katsos, minun enkelini kay sinun edellas. Mutta minun etsikkopaivanani kostan mina heidan rikoksensa.	
 
 <div class="versenum">35.</div> Ja niin loi Herra kansaa; etta he olivat tehneet vasikan, jonka Aaron teki.	
-
+</body>
+</html>

@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Ja tuolla puolella Jordania, Jerihon kohdalla itaan pain, antoivat he Betserin, korvessa lakialla kedolla, Rubenin sukukunnasta, ja Ramotin Gileadissa Gadin sukukunnasta ja Golanin Basanissa Manassen sukukunnasta.	
 
 <div class="versenum">9.</div> Namat olivat ne kaupungit, jotka asetettiin kaikille Israelin lapsille ja muukalaisille, jotka heidan seassansa asuivat, etta sinne piti pakeneman jokainen joka jonkun tapaturmaisesti loi, ettei han kuolisi verenkostajan kaden kautta, siihenasti etta han seisois seurakunnan edessa.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Jokaisella olivat neljat kasvot ja nelja siipea, ja siipein alla niinkuin ihmisen kadet.	
 
 <div class="versenum">22.</div> Heidan kasvonsa olivat niinkuin mina ne nain Kebarin virran tykona; ja ne kukin kavivat kohdastansa eteensa pain.	
-
+</body>
+</html>

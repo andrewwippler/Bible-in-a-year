@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja han opetti paivalla templissa, mutta yolla meni han ulos ja oli yota vuorella, joka kutsutaan Oljymaeksi.	
 
 <div class="versenum">38.</div> Ja kaikki kansa tuli varhain hanen tykonsa templiin, hanta kuulemaan.	
-
+</body>
+</html>

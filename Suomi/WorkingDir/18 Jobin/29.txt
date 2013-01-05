@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Jos mina nauroin heidan puoleensa, ei he luottaneet sen paalle, eika tahtoneet minua murheesen saattaa.	
 
 <div class="versenum">25.</div> Kuin mina tulin heidan kokouksiinsa, niin minun taytyi istua ylimpana: ja asuin niinkuin kuningas sotavaen keskella, lohduttaissani murheellisia.	
-
+</body>
+</html>

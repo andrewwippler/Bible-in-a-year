@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Israelin lapset menivat myos sielta pois silloin, itsekukin sukukuntansa ja lankoutensa tyko, ja menivat sielta itsekukin perimiseensa.	
 
 <div class="versenum">25.</div> Silloin ei ollut kuningasta Israelissa, vaan jokainen teki niinkuin hanelle nakyi oikein olevan.	
-
+</body>
+</html>

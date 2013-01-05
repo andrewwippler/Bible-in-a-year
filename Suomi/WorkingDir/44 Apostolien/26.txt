@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja kuin he menivat pois, puhuivat he keskenansa, sanoen: eipa tama mies ole mitaan tehnyt, mika kuoleman eli siteet ansainnut on.	
 
 <div class="versenum">32.</div> Mutta Agrippa sanoi Festukselle: kylla tama mies olis taidettu paastaa, ellei han olisi keisariin turvannut.	
-
+</body>
+</html>

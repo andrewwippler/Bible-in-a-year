@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja papin pitaa polttaman sen alttarilla, tulen ruaksi, makiaksi hajuksi. Kaikki lihavuus on Herran oma.	
 
 <div class="versenum">17.</div> Sen pitaa oleman ijankaikkisen saadyn teidan sukukunnissanne, kaikissa tiedan asuinsioissanne: ettette yhtaan lihavuutta eli mitaan verta soisi.	
-
+</body>
+</html>

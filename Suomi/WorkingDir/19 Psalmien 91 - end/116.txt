@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Mina maksan Herralle lupaukseni kaiken hanen kansansa edessa,	
 
 <div class="versenum">19.</div> Herran huoneen esikartanoissa, keskella sinua, Jerusalem. Halleluja!	
-
+</body>
+</html>

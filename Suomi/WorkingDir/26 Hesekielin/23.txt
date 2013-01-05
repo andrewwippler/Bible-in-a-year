@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Nain mina tahdon huoruuden maalta lopettaa; etta kaikki vaimot pitaa oppiman, eika tekeman senkaltaista haureutta.	
 
 <div class="versenum">49.</div> Ja teidan haureutenne pannaan teidan paallenne, ja teidan pitaa epajumalainne syntia kantaman, tietaaksenne minun olevan Herran, Herran.	
-
+</body>
+</html>

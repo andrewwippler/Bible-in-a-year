@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Pitaisko meidan taas sinun kaskys kayman ylitse ja tekeman lankoutta taman ilkian kansan kanssa? Etkos mahda vihastua meidan paallemme, siihenasti etta perati hukutat, ettei ketaan jaa, eika ole paasemysta?	
 
 <div class="versenum">15.</div> Herra Israelin Jumala! sina olet vanhurskas. Silla me olemme jaaneet vapahdettaa, niinkuin se tanapana on. Katso, me olemme sinun edessas synneissamme; sentahden ei kenkaan voi edessas pysya.	
-
+</body>
+</html>

@@ -115,4 +115,5 @@
 <div class="versenum">55.</div> Niin vaimot seurasivat jaljesta, jotka hanen kanssansa tulleet olivat Galileasta, ja katselivat hautaa, ja kuinka hanen ruumiinsa pantu oli.	
 
 <div class="versenum">56.</div> Mutta he palasivat ja valmistivat hyvanhajuisia yrtteja ja voiteita; vaan sabbatina he lepasivat lain kaskyn jalkeen.	
-
+</body>
+</html>

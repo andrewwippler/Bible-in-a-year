@@ -103,4 +103,5 @@
 <div class="versenum">49.</div> Silla en mina ole itsestani puhunut; vaan Isa, joka minun lahetti, han on minulle kaskyn antanut, mita minun tekeman ja puhuman pitaa.	
 
 <div class="versenum">50.</div> Ja mina tiedan, etta hanen kaskynsa on ijankaikkinen elama. Sentahden mita mina puhun, sen mina puhun, niinkuin Isa on minulle sanonut.	
-
+</body>
+</html>

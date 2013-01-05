@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Kaikki, jotka luodoissa asuvat, hammastyvat sinua, ja heidan kuninkaansa tyhmistyvat ja katsovat murheellisesti.	
 
 <div class="versenum">36.</div> Kansain kauppamiehet viheltavat sinua, etta sina niin akisti havinnyt olet, ja et silleen enaan taida tulla ylos ijankaikkisesti.	
-
+</body>
+</html>

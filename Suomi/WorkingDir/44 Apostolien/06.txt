@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Silla me olemme kuulleet hanen sanovan: Jesus Natsarealainen havittaa taman sian, ja muuttaa saadyt, jotka Moses meille antoi.	
 
 <div class="versenum">15.</div> Ja kaikki ne, jotka raadissa istuivat, katsoivat hanen paallensa ja nakivat hanen kasvonsa niinkuin enkelin kasvot.	
-
+</body>
+</html>

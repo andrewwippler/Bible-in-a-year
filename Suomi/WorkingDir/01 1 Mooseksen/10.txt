@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Namat ovat Semin lapset, sukukuntainsa ja kieltensa jalkeen: heidan maakunnissansa, kansainsa jalkeen.	
 
 <div class="versenum">32.</div> Namat ovat Noan lasten sukukunnat, heidan heimokuntainsa jalkeen, heidan kansoissansa. Ja naista ovat kansat jaetut maan paalle vedenpaisumisen jalkeen.	
-
+</body>
+</html>

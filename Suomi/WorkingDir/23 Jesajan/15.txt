@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Huuto hajoo Moabin rajoja ympari, he itkevat hamaan Eglaimiin, ja itkevat Elimin kaivon tykona;	
 
 <div class="versenum">9.</div> Etta Dimonin vedet ovat verta taynna. Siihen mina tahdon viela enempi antaa tulla Dimonin paalle, ja myos heidan paallensa, jotka Moabin jalopeuralta paasseet ovat, ja jaaneiden paalle maassa.	
-
+</body>
+</html>

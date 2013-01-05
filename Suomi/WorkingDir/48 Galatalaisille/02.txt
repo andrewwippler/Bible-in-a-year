@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mina olen Kristuksen kanssa ristiinnaulittu. Mutta mina elan, en silleen mina, vaan Kristus elaa minussa; silla jota mina nyt elan lihassa, sen mina elan Jumalan Pojan uskossa, joka on minua rakastanut ja antoi itsensa minun edestani.	
 
 <div class="versenum">21.</div> En mina hylkaa Jumalan armoa; silla jos vanhurskaus tulee laista, niin on Kristus hukkaan kuollut.	
-
+</body>
+</html>

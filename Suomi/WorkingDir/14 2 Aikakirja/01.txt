@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja Salomolle vietiin hevosia Egyptista ja kudotuskaluja. Ja kuninkaan kauppamiehet ostivat ne kudotuskalut.	
 
 <div class="versenum">17.</div> Ja he menivat ylos ja veivat ne Egyptista, ja jokainen ratas maksoi kuusisataa hopiapenninkia, ja hevonen sata ja viisikymmenta. Ja niin vietiin niita myos kaikkein Hetilaisten ja Syrian kuninkaiden tyko heidan kattensa kautta.	
-
+</body>
+</html>

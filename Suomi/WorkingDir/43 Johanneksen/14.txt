@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> En mina tastedes puhu paljon teidan kanssanne; silla taman maailman paamies tulee, jolla ei ole mitaan minussa.	
 
 <div class="versenum">31.</div> Mutta etta maailma ymmartais minun Isaa rakastavan, ja niinkuin Isa minulle kaski, niin mina myos teen. Nouskaat, lahtekaamme taalta!	
-
+</body>
+</html>

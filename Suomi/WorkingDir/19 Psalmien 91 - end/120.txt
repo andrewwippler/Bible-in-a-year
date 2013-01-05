@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Se tulee minun sielulleni ikavaksi, asua niiden tykona, jotka rauhaa vihaavat.	
 
 <div class="versenum">7.</div> Mina pidan rauhan, mutta kuin mina puhun, niin he sodan nostavat.	
-
+</body>
+</html>

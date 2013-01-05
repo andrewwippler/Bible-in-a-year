@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Ja viela nyt pitaa peltoja ostettaman tassa maassa, josta te sanotte: sen pitaa autiona oleman, niin ettei siina vakea eli karjaa oleman pida, ja pitaa Kaldealaisten kasiin annettaman.	
 
 <div class="versenum">44.</div> Kuitenkin pitaa pviela nyt peltoja ostettaman rahalla ja kirjoituksella, niin sinetilla vahvistettaman ja todistajilla: Benjaminin maalla, ja ympari Jerusalemia, ja Juudan kaupungeissa, jotka vuorilla ovat silla mina tahdon kaantaa heidan vankiutensa, sanoo Herra.	
-
+</body>
+</html>

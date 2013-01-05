@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Zadok Ahitobin poika ja Abimelek Abjatarin poika olivat papit, Sausa oli kirjoittaja.	
 
 <div class="versenum">17.</div> Benaja Jojadan poika oli Kretin ja Pletin paalla. Ja Davidin pojat olivat ensimaiset kuninkaan kasilla.	
-
+</body>
+</html>

@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja Israelin lapset puhuivat Mosekselle, sanoen: katso, me olemme riutumallamme! me hukumme, kaikki me hukumme!	
 
 <div class="versenum">13.</div> Kuka ikana lahestyy Herran majaa, se kuolee. Havitetaanko meita perati?	
-
+</body>
+</html>

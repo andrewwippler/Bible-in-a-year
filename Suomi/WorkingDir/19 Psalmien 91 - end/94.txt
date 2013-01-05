@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mutta Herra on minun varjelukseni: minun Jumalani on minun uskallukseni turva,	
 
 <div class="versenum">23.</div> Ja han kostaa heidan vaaryytensa, ja hukuttaa heita heidan pahuutensa tahden: Herra, meidan Jumalamme, hukuttaa heita.	
-
+</body>
+</html>

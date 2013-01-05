@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Kuin tappelupaiva joutui, niin ei loytynyt miekkaa eika keihasta kaiken kansan kadessa, jotka Saulin ja Jonatanin kanssa olivat, vaan Saulilla ja hanen pojallansa oli.	
 
 <div class="versenum">23.</div> Ja Philistealaisten leiri laksi Mikman taipaleelle.	
-
+</body>
+</html>

@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Hebronilaisia oli myos Jerijah, Hebronilaisten paamies, heidan sukukuntainsa ja isainsa seassa. Ja neljantenakymmenentena kuningas Davidin valtakunnan vuonna etsittiin ja loydettiin heidan seassansa vakevat miehet Gileadin Jaeserissa.	
 
 <div class="versenum">32.</div> Ja hanen veljensa olivat vakevat miehet, kaksituhatta ja seitsemansataa isain paamiehia. Ja David kuningas asetti heita Rubenilaisten, Gadilaisten ja puolen Manassen sukukunnan paalle, kaikkiin Jumalan ja kuninkaan asioihin.	
-
+</body>
+</html>

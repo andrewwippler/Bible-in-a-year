@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja Herra on sinulle tanapana luvannut, etta sinun pitaa oleman hanen kansansa, niinkuin han sinulle on puhunut, etta sinun pitaa kaikki hanen kaskynsa pitaman.	
 
 <div class="versenum">19.</div> Ja han korottaa sinua kaikkein kansain ylitse, minka han tekee ylistykseksi, kiitokseksi ja kunniaksi, ettas olisit Herralle sinun Jumalalles pyha kansa, niinkuin han sanonut on.	
-
+</body>
+</html>

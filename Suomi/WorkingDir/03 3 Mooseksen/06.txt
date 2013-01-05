@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Kaikki miehenpuolet papeista pitaa syoman sen; silla se on kaikkein pyhin.	
 
 <div class="versenum">30.</div> Mutta kaikki se rikosuhri, jonka veri viedaan seurakunnan majaan, sovinnoksi pyhaan siaan, sita ei pida syotaman, vaan tulella poltettaman.	
-
+</body>
+</html>

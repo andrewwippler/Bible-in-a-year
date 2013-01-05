@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja syokaat siita kaikissa paikoissa, te ja teidan huoneenne, silla se on teidan palkkanne teidan palveluksestanne seurakunnan majassa,	
 
 <div class="versenum">32.</div> Niin ettette synnilla raskauta teitanne, koska te sen parhaan ylennatte, ja etteka saastuta niita, mitka Israelin lapset pyhittaneet ovat, ettette kuolisi.	
-
+</body>
+</html>

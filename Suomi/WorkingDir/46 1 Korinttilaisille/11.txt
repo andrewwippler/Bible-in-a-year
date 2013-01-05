@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Sentahden, rakkaat veljeni! kuin te kokoon tulette syomaan, niin odottakaat toinen toistanne.	
 
 <div class="versenum">34.</div> Mutta jos joku isoo, han syokoon kotonansa, ettette kokoon tulisi kadotukseksi. Ne muut mina tultuani tahdon toimittaa.	
-
+</body>
+</html>

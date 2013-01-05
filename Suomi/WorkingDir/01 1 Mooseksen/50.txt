@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Niin vannotti Joseph Israelin lapsia, sanoen: Jumala on totisesti teita etsiva, viekaat pois minun luuni taalta.	
 
 <div class="versenum">26.</div> Ja niin Joseph kuoli sadan ja kymmenen ajastaikaisena, ja he voitelivat hanen, ja panivat arkkuun Egyptissa.	
-
+</body>
+</html>

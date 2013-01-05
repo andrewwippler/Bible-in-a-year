@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Han on sen ihmisen kaltainen, joka huoneensa rakensi, ja kaivoi syvaan, ja pani perustuksen kallion paalle. Kuin siis vuo tuli, sysasi virta sita huonetta, ja ei voinut hanta liikuttaa; silla se oli perustettu kallion paalle.	
 
 <div class="versenum">49.</div> Mutta joka kuulee ja ei tee, se on sen ihmisen kaltainen, joka huoneensa rakensi maan paalle ilman perustusta, jota virta sysasi, ja se kohta kukistui: jonka huoneen lankeemus oli suuri.	
-
+</body>
+</html>

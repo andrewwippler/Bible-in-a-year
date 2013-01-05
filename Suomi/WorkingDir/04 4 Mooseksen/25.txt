@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ahdistakaat Midianilaisia, ja lyokaat heita.	
 
 <div class="versenum">18.</div> Silla he ovat teita ahdistaneet kavaluuksillansa, joilla he teidat pettaneet ovat Peorin kautta, ja sisarensa Kosbin kautta, Midianilaisten paamiehen tyttaren, joka lyotiin rangaistuksen paivana, Peorin tahden.	
-
+</body>
+</html>

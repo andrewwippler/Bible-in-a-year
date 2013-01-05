@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja han haasti heidat kellenkaan sanomasta. Mutta jota enemman han haasti, sita enemmin he ilmoittivat.	
 
 <div class="versenum">37.</div> Ja he suuresti hammastyivat, sanoen: hyvasti han kaikki teki: kuurot han tekee kuulemaan ja mykat puhumaan.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja Moses teki niinkuin Herra hanelle kaski, ja otti Josuan ja asetti hanen papin Eleatsarin ja koko seurakunnan eteen,	
 
 <div class="versenum">23.</div> Ja laski katensa hanen paallensa, ja kaski hanelle, niinkuin Herra oli Mosekselle puhunut.	
-
+</body>
+</html>

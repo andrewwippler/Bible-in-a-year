@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Israelin lasten esikoisilta otti han rahan, tuhannen kolmesataa ja viisiseitsemattakymmenta siklia: pyhan siklin jalkeen.	
 
 <div class="versenum">51.</div> Ja Moses antoi lunastusrahan Aaronille ja hanen pojillensa Herran sanan jalkeen, niinkuin Herra oli Mosekselle kaskenyt.	
-
+</body>
+</html>

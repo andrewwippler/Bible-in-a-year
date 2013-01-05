@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Sentahden ei minun silmani pida saastaman, enka mina tahdo armahtaa; mutta mina tahdon antaa heidan paansa paalle, niinkuin he ansainneet ovat.	
 
 <div class="versenum">11.</div> Ja katso, se mies, jonka ylla liinavaate oli, ja kirjoitustaulu vyolla, vastasi ja sanoi: mina olen tehnyt, niinkuin sina minulle kaskenyt olet.	
-
+</body>
+</html>

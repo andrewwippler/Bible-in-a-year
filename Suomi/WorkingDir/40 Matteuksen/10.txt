@@ -87,4 +87,5 @@
 <div class="versenum">41.</div> Joka prophetaa holhoo prophetan nimella, han saa prophetan palkan, ja joka vanhurskasta holhoo vanhurskaan nimella, han saa vanhurskaan palkan.	
 
 <div class="versenum">42.</div> Ja kuka ikana juottaa yhden naista vahimmista kylmalla vesipikarilla ainoastaan, opetuslapsen nimella, totisesti sanon mina teille: ei han pida palkatta oleman.	
-
+</body>
+</html>

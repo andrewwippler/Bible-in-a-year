@@ -87,4 +87,5 @@
 <div class="versenum">41.</div> Mutta Jair Manassen poika meni, ja voitti heidan maakylansa, jotka han kutsui Jairin kyliksi,	
 
 <div class="versenum">42.</div> Meni myos Noba, ja voitti Kenatin tyttarinensa, ja han kutsui sen Nobaksi nimestansa.	
-
+</body>
+</html>

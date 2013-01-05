@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja soittajain ja veisaajain aani kuului soveliaasti yhteen niinkuin yhden aani, kiittain ja kunnioittain Herraa; ja kuin vaskitorven, symbalein ja muiden harppuin aani hanensa korotti, kiittaissa Herraa, etta han on hyva, ja hanen laupiutensa pysyy ijankaikkiseen, silloin Herran huone taytettiin pilvella,	
 
 <div class="versenum">14.</div> Niin ettei papit saaneet seisoa ja palvella pilven tahden; silla Herran kunnia taytti Jumalan huoneen.	
-
+</body>
+</html>

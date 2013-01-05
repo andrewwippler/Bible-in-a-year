@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Tosin teidan pitais sanoman: Miksi me vainoamme hanta? silla taman puheen perustus loytyy minun tykonani.	
 
 <div class="versenum">29.</div> Peljatkaat siis miekkaa, silla viha on pahain toiden kostomiekka, etta te tietaisitte kurituksen tulevan.	
-
+</body>
+</html>

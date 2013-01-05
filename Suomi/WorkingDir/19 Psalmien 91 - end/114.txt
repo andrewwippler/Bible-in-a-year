@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Herran edessa vapisi maa, Jakobin Jumalan edessa,	
 
 <div class="versenum">8.</div> Joka kalliot muuttaa vesilammiksi, ja kiven vesilahteeksi.	
-
+</body>
+</html>

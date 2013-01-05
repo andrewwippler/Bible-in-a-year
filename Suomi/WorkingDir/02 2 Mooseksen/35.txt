@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja on antanut taidon hanen sydameensa opettaa: ynna Oholiabin Ahisamakin pojan kanssa Danin suvusta.	
 
 <div class="versenum">35.</div> Ja on tayttanyt heidan sydamensa taidolla, tekemaan kaikkinaista visua tyota, kaivamaan, kutomaan ja neulomaan sinisia, ja purpuraisia ja tulipunaisia villoja, ja kallista liinaa, niin etta he tekevat ja ylosajattelevat kaikkinaisia, taitavasti.	
-
+</body>
+</html>

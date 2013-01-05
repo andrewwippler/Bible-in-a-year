@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Ala salli minua tallattaa ylpeilta; ja jumalattomain kasi alkoon minua kukistako.	
 
 <div class="versenum">12.</div> Vaan anna pahointekiat siihen langeta, etta he syostaisiin pois, ja ei seisoalla pysyisi.	
-
+</body>
+</html>

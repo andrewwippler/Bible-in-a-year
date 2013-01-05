@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Mutta sina pysyt niinkuin sina olet, ja sinun vuotes ei lopu.	
 
 <div class="versenum">28.</div> Sinun palveliais lapset pysyvat ja heidan sikiansa sinun edessas menestyvat.	
-
+</body>
+</html>

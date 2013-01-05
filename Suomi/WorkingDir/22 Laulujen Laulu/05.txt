@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Hanen jalkansa ovat niinkuin marmoripatsaat, perustetut kultaisten jalkain paalle; hanen hahmonsa on niinkuin Libanon ja valittu sedri.	
 
 <div class="versenum">16.</div> Hanen suunsa on suloinen, ja han itse kokonansa ihanainen. Senkaltainen on minun ystavani, minun rakkaani on senkaltainen, te Jerusalemin tyttaret.	
-
+</body>
+</html>

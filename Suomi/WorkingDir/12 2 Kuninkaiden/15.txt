@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Silloin rupesi Herra lahettamaan Juudalle Retsinin Syyrian kuninkaan ja Pekan Remaljan pojan.	
 
 <div class="versenum">38.</div> Ja Jotam nukkui isainsa kanssa ja haudattiin isainsa tyko, isansa Davidin kaupunkiin; ja Ahas hanen poikansa tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

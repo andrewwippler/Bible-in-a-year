@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Ja pitaa tapahtuman, sanoo Herra, etta jokaisessa maakunnassa kaksi osaa haviaa ja hukkuu, ja kolmas osa siihen jaapi.	
 
 <div class="versenum">9.</div> Ja kolmannen osan tahdon mina vieda tulen lavitse, ja puhdistaa sen, niinkuin hopia puhdistetaan, ja tahdon sen kirkastaa, niinkuin kulta kirkastetaan. Namat minun nimeani avuksi huutavat, ja mina tahdon heita kuulla, ja sanoa: se on minun kansani; ja heidan pitaa sanoman: Herra minun Jumalani.	
-
+</body>
+</html>

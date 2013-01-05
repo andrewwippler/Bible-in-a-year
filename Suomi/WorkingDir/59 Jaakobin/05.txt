@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Rakkaat veljeni, jos joku teista eksyis totuudesta ja joku palauttais hanen,	
 
 <div class="versenum">20.</div> Se tietakaan, etta joka syntisen palauttaa tiensa erehdyksesta, se vapahtaa sielun kuolemasta ja peittaa syntein paljouden.	
-
+</body>
+</html>

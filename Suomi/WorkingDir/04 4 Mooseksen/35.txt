@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja alkaat saastuttako maata, jossa te asutte; silla se joka vereen vikapaa on, han saastuttaa maan, ja maa ei taida puhdistettaa veresta, joka siihen vuodatettu on, muutoin kuin sen veren kautta, joka sen vuodattanut on.	
 
 <div class="versenum">34.</div> Alkaat te saastuttako maata, jossa te asutte, jossa myos mina asun; silla mina olen Herra, joka asun Israelin lasten seassa.	
-
+</body>
+</html>

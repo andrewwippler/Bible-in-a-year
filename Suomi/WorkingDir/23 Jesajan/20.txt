@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Ja heidan pitaa peljastyman ja hapeeman Etiopiaa, johon he luottivat, ja Egyptilaisia, joista he kerskasivat.	
 
 <div class="versenum">6.</div> Ja taman luodon asuvaiset pitaa silloin sanoman: onko tama meidan turvamme, johon olemme paenneet apua saamaan, etta me Assyrian kuninkaalta pelastettaisiin? kuinka me olemme paasseet?	
-
+</body>
+</html>

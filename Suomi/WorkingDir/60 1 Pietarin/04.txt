@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja jos hurskas tuskalla vapaaksi tulee, kussa sitte jumalatoin ja syntinen nakyy?	
 
 <div class="versenum">19.</div> Sentahden ne, jotka Jumalan tahdon jalkeen karsivat, antakaan sielunsa niinkuin uskolliselle Luojalle hyvissa toissa.	
-
+</body>
+</html>

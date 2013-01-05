@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Kirjoita, mitas nahnyt olet, mita nyt on, ja mita tastalahin tapahtuva on;	
 
 <div class="versenum">20.</div> Se salaisuus niista seitsemasta tahdesta, jotka sina minun oikiassa kadessani nahnyt olet, ja seitseman kultaista kynttilajalkaa. Ne seitseman tahtea ovat seitseman seurakunnan enkelit: ja ne seitseman kynttilajalkaa, jotka sina nahnyt olet, ovat seitseman seurakuntaa.	
-
+</body>
+</html>

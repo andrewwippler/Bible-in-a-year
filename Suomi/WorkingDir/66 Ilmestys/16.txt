@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja kaikki luodot pakenivat, ja ei vuoria loydetty;	
 
 <div class="versenum">21.</div> Ja suuri rae niinkuin leiviskan paino lankesi alas taivaasta ihmisten paalle. Ja ihmiset pilkkasivat Jumalaa rakeen vitsauksen tahden, silla sen vitsaus oli sangen suuri.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kuin Abia vahvistui, otti han neljatoistakymmenta emantaa ja siitti kaksikolmattakymmenta poikaa ja kuusitoista tytarta.	
 
 <div class="versenum">22.</div> Mita enempi Abiasta sanomista on, ja hanen teistansa ja teoistansa, se on kirjoitettu Iddon prophetan tietokirjassa.	
-
+</body>
+</html>

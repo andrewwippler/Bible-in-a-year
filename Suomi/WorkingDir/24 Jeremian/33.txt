@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Nain sanoo Herra: jos en mina pida liittoani paivan ja yon kanssa, ja jarjestystani taivaan ja maan kanssa:	
 
 <div class="versenum">26.</div> Niin tahdon myos hyljata Jaakobin ja Daavidin minun palveliaini siemenen, niin etten mina ota niita hanen siemenestansa, jotka pitaa vallitseman Abrahamin, Isaakin ja Jakobin siementa; silla mina tahdon kaantaa heidan vankiutensa ja armahtaa heita.	
-
+</body>
+</html>

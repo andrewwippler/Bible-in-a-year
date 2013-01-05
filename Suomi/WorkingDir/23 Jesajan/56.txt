@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Mutta he ovat hapeemattomat vakevat koirat, jotka ei ikana taida tulla ravituiksi. Ei paimenet itsekaan tieda mitaan eli ymmarra; jokainen ottaa vaarin omasta tiestansa, kukin noudattaa ahneuttansa hanen tilassansa.	
 
 <div class="versenum">12.</div> Tulkaat, ottakaamme viinaa ja juopukaamme, ja olkoon huomenna niinkuin tanapanakin, ja viela paljo enempi.	
-
+</body>
+</html>

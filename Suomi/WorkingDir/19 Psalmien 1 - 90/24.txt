@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle!	
 
 <div class="versenum">10.</div> Kuka on kunnian Kuningas? se on Herra Zebaot, han on kunnian Kuningas, Sela!	
-
+</body>
+</html>

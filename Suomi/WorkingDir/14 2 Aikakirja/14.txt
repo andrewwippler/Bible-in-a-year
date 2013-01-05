@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja he loivat kaikki kaupungit Gerarin ymparilta maahan; silla Herran pelko tuli heidan paallensa. Ja he ryostivat kaikki kaupungit; silla niissa oli paljo saalista.	
 
 <div class="versenum">15.</div> Ja he loivat navetat maahan, ja veivat ylen paljon lampaita ja kameleja, ja tulivat jalleen Jerusalemiin.	
-
+</body>
+</html>

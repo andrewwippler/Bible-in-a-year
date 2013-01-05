@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Mutta mina olen niinkuin viheriainen oljypuu Herran huoneessa: mina uskallan Jumalan laupiuteen aina ja ijankaikkisesti.	
 
 <div class="versenum">9.</div> Mina tahdon sinua kiittaa ijankaikkisesti, ettas sen teit, ja odottaa sinun nimeas; silla se on hyva sinun pyhais edessa.	
-
+</body>
+</html>

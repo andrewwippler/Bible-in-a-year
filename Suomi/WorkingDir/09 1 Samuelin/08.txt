@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja niin Samuel kuuli kaikkia niita mita kansa sanoi, ja puhui ne Herran korvain edessa.	
 
 <div class="versenum">22.</div> Niin sanoi Herra Samuelille: kuule heidan aanensa ja aseta heille kuningas. Ja Samuel sanoi Israelin miehille: menkaat matkaanne kukin kaupunkiinsa.	
-
+</body>
+</html>

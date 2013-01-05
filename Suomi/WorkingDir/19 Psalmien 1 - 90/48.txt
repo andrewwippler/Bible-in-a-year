@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Turvatkaat hanen muurinsa, vahvistakaat hanen salinsa, etta te sita juttelisitte tulevaisille sukukunnille.	
 
 <div class="versenum">14.</div> Silla tama Jumala on meidan Jumalamme aina ja ijankaikkisesti: han johdattaa meita kuolemaan asti.	
-
+</body>
+</html>

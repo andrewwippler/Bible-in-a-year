@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Naphtalin lasten sukukunnan paamies, Pedahel Ammihudin poika.	
 
 <div class="versenum">29.</div> Namat ovat ne jotka Herra kaskenyt on Israelin lasten perintoosaa jakamaan Kanaanin maalla.	
-
+</body>
+</html>

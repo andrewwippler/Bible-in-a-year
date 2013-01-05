@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Mutta ei hanen pida kuitenkaan tuleman esiripun tyko, eika lahestyman alttaria, etta hanessa on virhe, ettei han saastuttaisi minun pyhaani; silla mina olen Herra, joka heidat pyhitan.	
 
 <div class="versenum">24.</div> Ja Moses sanoi (namat) Aaronille, ja hanen pojillensa, ja kaikille Israelin lapsille.	
-
+</body>
+</html>

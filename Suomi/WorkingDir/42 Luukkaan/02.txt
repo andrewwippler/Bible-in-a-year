@@ -107,4 +107,5 @@
 <div class="versenum">51.</div> Ja han meni alas heidan kanssansa ja tuli Natsaretiin, ja oli heille alamainen. Ja hanen aitinsa katki kaikki namat sanat sydameensa.	
 
 <div class="versenum">52.</div> Ja Jesus menestyi viisaudessa ja ijassa ja armossa Jumalan ja ihmisten edessa.	
-
+</body>
+</html>

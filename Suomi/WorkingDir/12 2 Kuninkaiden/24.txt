@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja han teki pahaa Herran edessa, niinkuin Jojakin myos tehnyt oli.	
 
 <div class="versenum">20.</div> Silla se tapahtui niin Jerusalemin ja Juudan kanssa Herran vihasta, siihen asti etta han heitti heidat pois kasvoinsa edesta. Ja Zidkia erkani Babelin kuninkaasta.	
-
+</body>
+</html>

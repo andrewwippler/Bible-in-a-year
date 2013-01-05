@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja han sanoi hanelle: nain sanoo Herra: ettas paastit minulta kirotun miehen kadestas, pitaa sinun sielus oleman hanen sielunsa edesta ja sinun kansas pitaa oleman hanen kansansa edesta.	
 
 <div class="versenum">43.</div> Niin Israelin kuningas meni vihaisena ja pahalla mielella huoneesensa ja tuli Samariaan.	
-
+</body>
+</html>

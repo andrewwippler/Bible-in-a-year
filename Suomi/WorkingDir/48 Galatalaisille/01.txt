@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Mutta he olivat ainoastaan kuulleet, etta se, joka meita muinen vainosi, han saarnaa nyt uskoa, jota han muinen havitti,	
 
 <div class="versenum">24.</div> Ja kiittivat minun tahteni Jumalaa.	
-
+</body>
+</html>

@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Mutta kuin te niin syntia teette veljianne vastaan ja sarjette heidan heikon omantuntonsa, niin te Kristusta vastaan syntia teette.	
 
 <div class="versenum">13.</div> Sentahden jos ruoka minun veljeni pahentais, niin en mina ikanani soisi lihaa, etten mina veljeani pahentaisi.	
-
+</body>
+</html>

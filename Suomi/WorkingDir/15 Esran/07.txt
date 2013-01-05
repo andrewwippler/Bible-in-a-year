@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Kiitetty olkoon Herra, meidan isaimme Jumala, joka tainkaltaisen asian on antanut kuninkaan sydameen, etta han kaunistaa Herran huonetta Jerusalemissa!	
 
 <div class="versenum">28.</div> Ja han on kaantanyt laupiuden minun paalleni kuninkaan ja hanen neuvonantajainsa ja kaikkein kuninkaan voimallisten paamiesten edessa. Ja mina vahvistettiin Herran minun Jumalani kadella, joka oli minun ylitseni, ja kokosin paamiehet Israelista menemaan ylos minun kanssani.	
-
+</body>
+</html>

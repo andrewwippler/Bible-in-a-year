@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla mina tulen lepytetyksi heidan vaaryydestansa ja heidan synneistansa, ja heidan vaaryyttansa en mina tahdo enempi muistaa.	
 
 <div class="versenum">13.</div> Siina kuin han sanoo: uusi, vanhensi han entisen; silla joka vanha ja ijallinen on, se on lasna loppuansa.	
-
+</body>
+</html>

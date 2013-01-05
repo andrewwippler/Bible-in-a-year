@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla ilossa teidan pitaa lahteman ja rauhassa saatettaman; vuoret ja kukkulat pitaa teidan edessanne kiitosta veisaaman, ja kaikki puut kedolla kasillansa yhteen lyoman.	
 
 <div class="versenum">13.</div> Hongat pitaa orjantappurain siassa kasvaman, ja myrttipuu nukulaisten edesta; ja se pitaa oleman Herralle nimeksi, ijankaikkiseksi merkiksi, jota ei pida havitettaman.	
-
+</body>
+</html>

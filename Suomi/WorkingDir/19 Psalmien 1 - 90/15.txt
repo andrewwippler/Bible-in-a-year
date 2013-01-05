@@ -13,4 +13,5 @@
 <div class="versenum">4.</div> Joka jumalattomat katsoo ylon, vaan kunnioittaa Jumalaa pelkaavaisia; joka lahimmaisellensa vannoo ja pitaa.	
 
 <div class="versenum">5.</div> Joka ei anna rahaansa korolle, eika ota lahjoja viatointa vastaan. Joka nain tekee, ei han horjahda ijankaikkisesti.	
-
+</body>
+</html>

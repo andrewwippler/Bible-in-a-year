@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Siita tehtiin jalat seurakunnan majan oveen, ja vaski-alttari ja vaskihakki kuin siina oli, ja myos kaikki alttarin astiat,	
 
 <div class="versenum">31.</div> Niin myos jalat ymparinsa pihaa, ja jalat pihan sisallekaytavaan, ja kaikki majan vaarnat, ja kaikki pihan vaarnat ymparinsa.	
-
+</body>
+</html>

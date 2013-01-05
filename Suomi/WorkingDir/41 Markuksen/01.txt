@@ -93,4 +93,5 @@
 <div class="versenum">44.</div> Ja sanoi hanelle: katso, ettes kellenkaan mitaan sano, mutta mene, osoita itses papille ja uhraa puhdistukses edesta ne, mitka Moses kaski, heille todistukseksi.	
 
 <div class="versenum">45.</div> Mutta kuin han meni ulos, rupesi han paljon saarnaamaan ja ilmoittamaan sita asiaa, niin ettei han sitte taitanut julkisesti kaupunkiin menna; mutta oli ulkona erinaisissa paikoissa, ja joka taholta tultiin hanen tykonsa.	
-
+</body>
+</html>

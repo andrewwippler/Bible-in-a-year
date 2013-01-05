@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Mutta kuin he vedesta astuivat ylos, tempasi Herran Henki Philippuksen, ja ei kamaripalvelia hanta enaan nahnyt, vaan meni iloiten tietansa myoten.	
 
 <div class="versenum">40.</div> Mutta Philippus loydettiin Atsotissa, ja vaelsi ympari ja saarnasi joka kaupungissa evankeliumia, siihenasti kuin han tuli Kesareaan.	
-
+</body>
+</html>

@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Ja antoivat hanelle Herran kaskyn jalkeen sen kaupungin, jota han anoi, joka oli TimnatSera Ephraimin vuorella; siella han rakensi kaupungin ja asui siina.	
 
 <div class="versenum">51.</div> Namat ovat ne perimiset, jotka pappi Eleatsar ja Josua Nunin poika ja ylimmaiset Israelin lasten sukukuntain isista arvalla jakoivat Silossa Herran edessa, seurakunnan majan oven tykona; ja niin lopettivat maan jakamisen.	
-
+</body>
+</html>

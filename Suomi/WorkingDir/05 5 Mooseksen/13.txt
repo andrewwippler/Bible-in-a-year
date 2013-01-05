@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja ala mitaan sinun kasiis jata siita kirotusta, etta Herra kaantyis vihansa julmuudesta, ja antais sinulle laupiuden, ja armahtais sinun paalles, ja enentais sinun, niinkuin han vannoi sinun isilles,	
 
 <div class="versenum">18.</div> Etta sina Herran sinun Jumalas aanelle kuuliainen ollut olet, ja pitanyt kaikki hanen kaskynsa, jotka mina sinulle tanapana kasken, oikein tehdakses Herran sinun Jumalas silmain edessa.	
-
+</body>
+</html>

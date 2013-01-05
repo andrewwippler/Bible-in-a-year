@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Oikia vaaka, oikia leiviska, oikia vakka, oikia kannu pitaa oleman teidan tykonanne; silla mina olen Herra teidan Jumalanne, joka teita olen johdattanut Egyptin maalta:	
 
 <div class="versenum">37.</div> Etta teidan pitaa pitaman ja tekeman kaikki minun saatyni, ja kaikki minun oikeuteni; silla mina olen Herra.	
-
+</body>
+</html>

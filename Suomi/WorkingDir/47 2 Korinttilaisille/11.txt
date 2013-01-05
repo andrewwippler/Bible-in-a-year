@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Damaskussa Aretaan kuninkaan maanvanhin vartioitsi Damaskun kaupunkia ja tahtoi minun ottaa kiinni.	
 
 <div class="versenum">33.</div> Ja mina laskettiin maahan muurin akkunasta korissa, ja paasin niin hanen kasistansa.	
-
+</body>
+</html>

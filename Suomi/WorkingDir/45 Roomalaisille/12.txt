@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Sentahden, jos vihollises isoo, niin syota hanta, ja jos han janoo, niin juota hanta; silla koskas taman teet, niin sina tuliset hiilet hanen paansa paalle kokoot.	
 
 <div class="versenum">21.</div> Ala anna sinuas voitettaa pahalta, vaan voita sina paha hyvalla.	
-
+</body>
+</html>

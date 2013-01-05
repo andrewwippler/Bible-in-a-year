@@ -129,4 +129,5 @@
 <div class="versenum">62.</div> Mutta mina tahdon tehda minun liittoni sinun kanssas, etta sinun ymmartaman pitaa, etta mina olen Herra:	
 
 <div class="versenum">63.</div> Ettas sita ajattelisit ja hapeaisit, ja et rohkeaisi hapian tahden suutas avata, koska mina sinulle anteeksi antava olen kaikki, mitas tehnyt olet, sanoo Herra, Herra.	
-
+</body>
+</html>

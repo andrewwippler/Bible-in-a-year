@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja pakanain ylistys ja kunnia tuodaan siihen.	
 
 <div class="versenum">27.</div> Ja ei pida haneen mitaan saastuttavaa tuleman sisalle, taikka sita, mika kauhistuksen eli valheen saattaa; vaan ne, jotka Karitsan elaman kirjassa kirjoitetut ovat.	
-
+</body>
+</html>

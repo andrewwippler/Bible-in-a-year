@@ -111,4 +111,5 @@
 <div class="versenum">53.</div> Mutta kuin han oli namat heille sanonut, rupesivat lainoppineet ja Pharisealaiset kovin hanta ahdistamaan ja viettelemaan hanta puhumaan monesta,	
 
 <div class="versenum">54.</div> Ja vaijyivat hanta ja pyysivat jotakin onkia hanen suustansa, kantaaksensa hanen paallensa.	
-
+</body>
+</html>

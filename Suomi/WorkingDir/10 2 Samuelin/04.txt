@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Ja namat jumalattomat miehet ovat tappaneet hurskaan miehen huoneessansa ja omassa vuoteessansa: eiko siis minun pitaisi nyt vaatiman hanen vertansa teidan kadestanne ja ottaman teita pois maan paalta?	
 
 <div class="versenum">12.</div> Ja David kaski nuorukaisiansa, ja he tappoivat heidat, ja hakkasivat kadet ja jalat poikki, ja ripustivat heidat lammikon tyko Hebronissa. Mutta Isbosetin paan he ottivat ja hautasivat Abnerin hautaan Hebroniin.	
-
+</body>
+</html>

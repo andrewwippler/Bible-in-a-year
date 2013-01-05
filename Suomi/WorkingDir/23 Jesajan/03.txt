@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Sinun miehes kaatuvat miekan kautta, ja sinun vakevas sodassa.	
 
 <div class="versenum">26.</div> Ja heidan porttinsa pitaa murehtiman ja valittaman: ja heidan pitaa vaikiasti istuman maan paalla.	
-
+</body>
+</html>

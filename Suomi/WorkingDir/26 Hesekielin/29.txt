@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Hanen tyostansa, jonka han siina tehnyt on, annan mina hanelle Egyptin maan; silla he ovat sen minulle tehneet, sanoo Herra, Herra.	
 
 <div class="versenum">21.</div> Silloin mina annan Israelin huoneen sarven kasvaa, ja tahdon avata sinun suus heidan seassansa; etta heidan ymmartaman pitaa, etta mina Herra olen.	
-
+</body>
+</html>

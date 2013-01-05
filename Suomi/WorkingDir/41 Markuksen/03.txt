@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja kuin han oli ympari katsonut niiden paalle, jotka hanen ymparillansa istuivat, sanoi han: katso, minun aitini ja minun veljeni.	
 
 <div class="versenum">35.</div> Silla joka tekee Jumalan tahdon, han on veljeni sisareni ja aitini.	
-
+</body>
+</html>

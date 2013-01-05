@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja Pharao sanoi hanelle: mene pois minun tykoani, ja karta ettes enempi silleen tule minun kasvoini eteen; silla jona paivana sina tulet minun eteeni, pitaa sinun kuoleman.	
 
 <div class="versenum">29.</div> Moses vastasi: niinkuin sina sanonut olet, en tule mina enempi sinun kasvois eteen.	
-
+</body>
+</html>

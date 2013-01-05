@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Mutta mina veisaan sinun vakevyyttas, ja varhain kerskaan sinun laupiuttas; silla sina olet minun varjelukseni ja turvani minun hadassani.	
 
 <div class="versenum">17.</div> Sina olet minun vakevyyteni, sinulle mina kiitosta veisaan; silla sina Jumala olet minun varjelukseni ja minun armollinen Jumalani.	
-
+</body>
+</html>

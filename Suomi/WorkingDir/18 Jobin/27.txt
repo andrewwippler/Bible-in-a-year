@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Namat Jumala hanelle lahettaa, ja ei saasta hanta: kaikki pitaa hanen kadestansa puuttuman.	
 
 <div class="versenum">23.</div> Hanen tahtensa pitaa kasia paukutettaman ja vihellettaman, kussa han on ollut.	
-
+</body>
+</html>

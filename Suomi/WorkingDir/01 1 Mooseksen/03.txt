@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Niin Herra Jumala johdatti hanen ulos Edenin Paradisista maata viljelemaan, josta han otettu oli.	
 
 <div class="versenum">24.</div> Ja ajoi Adamin ulos, ja pani idan puolelle Edenin Paradisia Kerubimin paljaalla, lyovaisella miekalla elaman puun tieta vartioitsemaan.	
-
+</body>
+</html>

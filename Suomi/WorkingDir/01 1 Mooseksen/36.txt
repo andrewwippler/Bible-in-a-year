@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Se ruhtinas Kenas, se ruhtinas Teman, se ruhtinas Mibtsar.	
 
 <div class="versenum">43.</div> Se ruhtinas Magdiel, se ruhtinas Iram. Namat ovat Edomin ruhtinaat, niin kuin he asuneet ovat perinto-maallansa, ja Esau on Edomilaisten isa.	
-
+</body>
+</html>

@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Etta (Jumala) vihaa sita hylkaamista, sanoo Herra Israelin Jumala, kuin joku peittaa vaaryytensa niinkuin vaatteella, sanoo Herra Zebaot: sentahden karttakaat teidan henkeanne, ja alkaat katsoko heita ylon.	
 
 <div class="versenum">17.</div> Te olette Herraa teidan puheellanne vaivanneet; ja te sanotte: missa me hanta olemme vaivanneet? Siina kuin te sanotte: jokainen, joka pahaa tekee, se kelpaa Herralle, ja etta senkaltaiset ovat hanelle otolliset; eli kussa on se Jumala, joka rankaisee?	
-
+</body>
+</html>

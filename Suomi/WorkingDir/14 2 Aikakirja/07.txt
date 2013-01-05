@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja tata huonetta, jota kaikkein korkeimmaksi tullut on, pitaa kaikkein, jotka kayvat sen ohitse, hammastyman ja sanoman: miksi Herra nain teki talle maalle ja talle huoneelle?	
 
 <div class="versenum">22.</div> Niin sanotaan: etta he hylkasivat Herran isainsa Jumalan, joka heidat Egyptin maalta oli johdattanut ulos, ja olivat mielistyneet vieraisiin jumaliin, ja rukoilleet ja palvelleet heita; sentahden on han saattanut kaiken taman pahan heidan paallensa.	
-
+</body>
+</html>

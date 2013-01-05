@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Mutta kelle enkeleista on han koskaan sanonut: istu minun oikialle kadelleni, siihenasti kuin mina panen vihollises sinun jalkais astinlaudaksi?	
 
 <div class="versenum">14.</div> Eiko he kaikki ole palvelevaiset henget, palvelukseen lahetetyt niille, jotka autuuden periman pitaa?	
-
+</body>
+</html>

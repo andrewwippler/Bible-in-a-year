@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Iloitse, nuorukainen, nuoruudessasi, ja sydamesi ilahuttakoon sinua nuoruusikasi paivina. Vaella sydamesi teita ja silmiesi halun mukaan; mutta tieda: Jumala tuo sinut tuomiolle kaikesta tasta.	
 
 <div class="versenum">10.</div> Karkoita suru sydamestasi ja torju karsimys ruumiistasi, silla nuoruus ja aamurusko ovat turhuutta.	
-
+</body>
+</html>

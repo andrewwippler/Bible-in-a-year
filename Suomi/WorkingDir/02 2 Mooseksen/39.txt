@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Kaikkein niiden jalkeen mitka Herra oli kaskenyt Mosekselle: niin tekivat Israelin lapset kaiken sen tyon.	
 
 <div class="versenum">43.</div> Ja Moses naki kaiken taman rakennuksen, etta he olivat tehneet sen, niinkuin Herra oli kaskenyt; ja Moses siunasi heita.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Moses palasi Herran tyko, ja sanoi: Herra miksis niin pahasti teet tata kansaa vastaan? Miksis olet minut tanne lahettanyt?	
 
 <div class="versenum">23.</div> Silla sitte kuin mina menin Pharaon tyko, puhuttelemaan hanta sinun nimees, on han pahoin tehnyt talle kansalle; ja et sina ollenkaan ole pelastanut sinun kansaas.	
-
+</body>
+</html>

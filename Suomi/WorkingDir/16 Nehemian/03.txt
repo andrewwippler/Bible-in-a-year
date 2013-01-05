@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Hanen jalissansa rakensi Malkia kultasepan poika, Netinimein ja kauppamiesten huoneesen asti, Karajaportin kohdalla, hamaan Kulmasaliin saakka.	
 
 <div class="versenum">32.</div> Kultasepat ja kauppamiehet rakensivat Kulmasalin valilla ja Lammasporttiin asti.	
-
+</body>
+</html>

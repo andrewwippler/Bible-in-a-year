@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Mutta nyt te kerskaatte teidan ylpeydessanne. Kaikki senkaltainen kerskaus on paha.	
 
 <div class="versenum">17.</div> Silla joka taitaa hyvaa tehda, ja ei tee, niin se on hanelle synniksi.	
-
+</body>
+</html>

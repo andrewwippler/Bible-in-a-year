@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Silla monta oli Juudalaisista, jotka olivat vannoneet hanen kanssansa; silla han oli Sekanian Aran pojan vavy, ja hanen pojallansa Johananilla oli Mesullamin Berekian pojan tytar.	
 
 <div class="versenum">19.</div> Ja he puhuivat hyvin minun edessani hanesta ja veivat minun puheeni hanen tykonsa; niin Tobia lahetti kirjan minulle peljattaaksensa minua.	
-
+</body>
+</html>

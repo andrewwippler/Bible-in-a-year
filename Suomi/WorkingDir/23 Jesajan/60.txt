@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja sinun kansas on kaikki vanhurskas oleva, ja maan piirin ijankaikkisesti omistava, niinkuin minun istutukseni vesat ja kasialani ovat minulle ylistykseksi.	
 
 <div class="versenum">22.</div> Vahainen pitaa tuhanneksi tuleman, ja piskuinen vakevaksi kansaksi: mina Herra tahdon sen ajallansa toimittaa.	
-
+</body>
+</html>

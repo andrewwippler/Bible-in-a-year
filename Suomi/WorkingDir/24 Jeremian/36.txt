@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja mina tahdon rangaista hanta ja hanen siementansa, ja hanen palvelioitansa heidan pahain tekoinsa tahden: ja mina annan tulla heidan paallensa, ja Jerusalemin asuvaisten paalle, ja Juudan miesten paalle, kaiken onnettomuuden, jonka mina heille olen puhunut; ja ei he kuitenkaan tahtoneet kuulla.	
 
 <div class="versenum">32.</div> Niin Jeremia otti toisen kirjan ja antoi Barukille Nerijan pojalle, kirjoittajalle. Ja han kirjoitti siihen Jeremian suusta kaikki ne sanat, jotka entisessakin kirjassa olivat, jonka Jojakim, Juudan kuningas, oli tulessa polttanut; ja siihen oli viela paljon enempi senkaltaisia sanoja lisatty.	
-
+</body>
+</html>

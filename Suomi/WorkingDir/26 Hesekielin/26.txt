@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja annan sinun menna alas niiden kanssa, jotka menevat alas hautaan, muinaisen kansan tyko, ja tahdon kukistaa sinut maan alle, ja teen sinut niinkuin ijaiseksi autioksi niiden kanssa, jotka hautaan menevat, ettei kenenkaan sinussa pida asuman; ja annan kauneuden elavain maahan.	
 
 <div class="versenum">21.</div> Ja teen sinun hammastykseksi, ettei sinun enaa pida oleman; niin etta kuin sinua kysytaan, niin ei ikana pida kenenkaan sinua enaan loytaman, sanoo Herra, Herra.	
-
+</body>
+</html>

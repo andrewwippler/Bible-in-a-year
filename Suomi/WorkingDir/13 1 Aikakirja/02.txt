@@ -113,4 +113,5 @@
 <div class="versenum">54.</div> Salman lapset, Betlehem ja Netophatilaiset, Joabin huoneen kruunut; ja puoli osaa Manatilaisista ovat Zorgilaiset.	
 
 <div class="versenum">55.</div> Ja kirjoittajain sukukunnat, jotka asuivat Jabeksessa, ovat Tirgatilaiset, Simealaiset, Sukatilaiset. Namat ovat Kinilaiset, jotka ovat tulleet Hammatista Rekabin huoneen isasta.	
-
+</body>
+</html>

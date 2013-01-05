@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Han kaantyy, ja armahtaa meidan paallemme, ja polkee alas meidan pahat tekomme, ja kaikki meidan syntimme meren syvyyteen heittaa.	
 
 <div class="versenum">20.</div> Sina pidat Jakobille uskollisuuden, ja Abrahamille sen armon, jonka muinen meidan isillemme vannonut olet.	
-
+</body>
+</html>

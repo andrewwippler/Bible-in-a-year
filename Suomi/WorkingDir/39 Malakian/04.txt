@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Katso, mina lahetan teille Elian, prophetan, ennenkuin se suuri ja hirmuinen Herran paiva tulee.	
 
 <div class="versenum">6.</div> Han on kaantava isain sydamet lasten tyko, ja lasten sydamet isainsa tyko, etten mina tulisi ja loisi maahan kirouksella.	
-
+</body>
+</html>

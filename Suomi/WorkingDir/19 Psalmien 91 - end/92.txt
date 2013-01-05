@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Heidan pitaa vesoman viela vanhuudessansa, hedelmalliset ja vihannat oleman,	
 
 <div class="versenum">15.</div> Ja julistaman, etta Herra on niin hurskas, minun turvani, ja ei ole hanessa vaaryytta.	
-
+</body>
+</html>

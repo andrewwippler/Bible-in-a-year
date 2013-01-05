@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Niin se joka hanen makasi, antakaan piian isalle viisikymmenta hopiasiklia, ja ottakaan piian emannaksensa, etta han on alentanut hanen: ei han saa hyljata hanta kaikkena elinaikanansa.	
 
 <div class="versenum">30.</div> Ei yhdenkaan pida ottaman isansa emantaa, eika myos paljastaman isansa peitetta.	
-
+</body>
+</html>

@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> (H5:13) Ja tahdon hakata maahan sinun metsistos, ja sinun kaupunkis havittaa.	
 
 <div class="versenum">15.</div> (H5:14) Ja mina tahdon kostaa hirmuisuudella ja vihalla kaikki pakanat, jotka ei tahdo kuulla.	
-
+</body>
+</html>

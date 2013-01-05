@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Mutta jos sinulla on jotakin puhumista, niin vastaa minua. Puhu! silla mina tahdon, ettas olisit vanhurskas.	
 
 <div class="versenum">33.</div> Jos ei, niin kuule sina minua, ja ole aaneti; mina opetan sinulle taidon.	
-
+</body>
+</html>

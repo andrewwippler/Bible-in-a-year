@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Danin lapset panivat heillensa sen kuvan ylos, ja Jonatan Gersomin poika, Manassen pojan, ja hanen poikansa olivat papit Danilaisten sukukunnassa, siihenasti etta he vietiin vankina maalta pois,	
 
 <div class="versenum">31.</div> Ja he panivat keskellensa Miikan kuvan, jonka han tehnyt oli, niinkauvan kuin Jumalan huone oli Silossa.	
-
+</body>
+</html>

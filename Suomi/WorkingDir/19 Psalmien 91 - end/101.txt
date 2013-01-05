@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Petollisia ihmisia en mina pida huoneessani: ei valehteliat menesty minun tykonani.	
 
 <div class="versenum">8.</div> Varhain mina hukutan kaikki jumalattomat maasta, havittaakseni kaikkia pahantekioita Herran kaupungista.	
-
+</body>
+</html>

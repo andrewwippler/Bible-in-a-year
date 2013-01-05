@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Naille tosin surman haju kuolemaksi, mutta toisille elaman haju elamaksi: ja kuka on nyt tahan kelvollinen?	
 
 <div class="versenum">17.</div> Silla emmepa me ole senkaltaiset kuin muutamat, jotka Jumalan sanaa myyskentelevat; vaan vakuudesta ja niinkuin Jumalasta me puhumme Jumalan kasvoin edessa, Kristuksessa.	
-
+</body>
+</html>

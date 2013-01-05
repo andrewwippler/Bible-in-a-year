@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta jumalattomat ovat niinkuin lainehtiva meri, joka ei voi tyventya; vaan hanen aaltonsa heittavat loan ja mudan.	
 
 <div class="versenum">21.</div> Jumalattomilla ei ole rauhaa, sanoo minun Jumalani.	
-
+</body>
+</html>

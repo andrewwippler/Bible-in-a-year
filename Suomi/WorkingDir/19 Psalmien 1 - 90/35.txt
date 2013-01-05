@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Iloitkaan ja riemuitkaan, jotka minun vanhurskauttani rakastavat, ja sanokaan aina: Herra olkoon suuresti kiitetty, joka suo palveliallensa rauhan.	
 
 <div class="versenum">28.</div> Ja minun kieleni puhuu sinun vanhurskauttas, ja kiittaa sinua joka paiva.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja kaikki luontokappaleet, jotka taivaassa ovat, ja maan paalla, ja maan alla, ja meressa, ja kaikki, jotka niissa ovat, kuulin mina sille sanovan, joka istuimella istui, ja Karitsalle: siunaus ja kunnia, ja ylistys ja voima, ijankaikkisesta ijankaikkiseen.	
 
 <div class="versenum">14.</div> Ja ne nelja elainta sanoivat: amen! Ja ne neljakolmattakymmenta vanhinta lankesivat maahan, kumarsivat ja rukoilivat sita, joka elaa ijankaikkisesta ijankaikkiseen.	
-
+</body>
+</html>

@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Sina olet muuttanut minun valitukseni iloksi: sina olet riisunut minun sakkini, ja vyotit minun riemulla,	
 
 <div class="versenum">12.</div> Etta minun kunniani veisais sinulle kiitosta ja ei vaikenisi, Herra minun Jumalani, mina kiitan sinua ijankaikkisesti!	
-
+</body>
+</html>

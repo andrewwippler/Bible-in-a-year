@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Mutta mina ruokoilen Jumalaa todistajaksi sieluni paalle, etta mina olen saastanyt teita, etten mina viela ole Korintoon tullut.	
 
 <div class="versenum">24.</div> Ei niin, etta me hallitsisimme teidan uskoanne, vaan me olemme auttajat teidan iloonne, silla te seisotte uskossa.	
-
+</body>
+</html>

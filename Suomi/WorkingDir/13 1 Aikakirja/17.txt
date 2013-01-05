@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Nyt Herra, sina olet Jumala, ja sina olet tata hyvaa puhunut palvelialles;	
 
 <div class="versenum">27.</div> Niin rupee nyt siunaamaan palvelias huonetta, etta se pysyis ijankaikkisesti sinun edessas; silla sina Herra olet siunannut sen, niin olkoon se siunattu ijankaikkisesti!	
-
+</body>
+</html>

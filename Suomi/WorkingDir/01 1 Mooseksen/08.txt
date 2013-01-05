@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja Herra haisti lepytyshajun, ja Herra sanoi sydamessansa: en mina silleen enaa maata kiroo ihmisen tahden: vaikka ihmisen sydamen aivoitus on paha hamasta lapsuudesta: ja en mina silleen enaa lyo kaikkia kuin elavat, niinkuin mina tehnyt olen.	
 
 <div class="versenum">22.</div> Niin kauvan kuin maa seisoo, ei pida kylvaminen ja niittaminen, vilu ja helle, suvi ja talvi, paiva ja yo lakkaaman.	
-
+</body>
+</html>

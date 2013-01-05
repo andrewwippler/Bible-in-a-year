@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Ettei viholliseni sanoisi: mina voitin hanen, ja minun sortajani iloitsisi, koska mina kompastun.	
 
 <div class="versenum">6.</div> Mutta mina turvaan sinun armoos: minun sydameni riemuitsee, ettas niin mielellas autat: mina veisaan Herralle, etta han minulle niin hyvasti tekee.	
-
+</body>
+</html>

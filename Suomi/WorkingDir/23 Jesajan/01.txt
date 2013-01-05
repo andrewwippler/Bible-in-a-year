@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja te tulette niinkuin joku tammi surkastuneilla lehdilla, ja niinkuin joku vedetoin yrttitarha.	
 
 <div class="versenum">31.</div> Ja vakeva tulee niinkuin rohdin, ja hanen tekonsa niinkuin kipina. Ja he sytytetaan ynna molemmat, jota ei kenkaan sammuta.	
-
+</body>
+</html>

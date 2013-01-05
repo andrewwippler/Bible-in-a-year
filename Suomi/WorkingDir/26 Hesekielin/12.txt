@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Sina ihmisen poika: katso, Israelin huone sanoo: se naky, jonka tama nakee, on viela kaukana, ja ennustaa siita ajasta, joka viela nyt kaukana on.	
 
 <div class="versenum">28.</div> Sentahden sano heille: nain sanoo Herra, Herra: ei yhtaan minun sanastani pida enaan viivytetyksi tuleman; mutta se sana, jonka mina puhun, pitaa tapahtuman, sanoo Herra, Herra.	
-
+</body>
+</html>

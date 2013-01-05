@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Salomo hallitsi Jerusalemissa koko Israelia neljakymmenta ajastaikaa.	
 
 <div class="versenum">31.</div> Ja Salomo nukkui isainsa kanssa, ja he hautasivat hanen isansa Davidin kaupunkiin; ja Rehabeam hanen poikansa tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

@@ -135,4 +135,5 @@
 <div class="versenum">65.</div> Ja Salomo piti siihen aikaan juhlaa, ja koko Israel hanen kanssansa, suuressa kokouksessa, Hematin rajasta Egyptin virtaan asti, Herran meidan Jumalamme edessa, seitseman paivaa, ja taas seitseman paivaa: (se on) neljatoistakymmenta paivaa.	
 
 <div class="versenum">66.</div> Ja kahdeksantena paivana paasti han kansan menemaan, ja he siunasivat kuningasta, ja vaelsivat majoillensa, iloiten ja riemuiten kaikesta siita hyvyydesta, minka Herra palveliallensa Davidille ja kansallensa Israelille tehnyt oli.	
-
+</body>
+</html>

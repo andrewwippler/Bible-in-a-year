@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Pahuus tappaa jumalattoman, ja jotka vanhurskasta vihaavat, ne hukutetaan.	
 
 <div class="versenum">22.</div> Herra lunastaa palveliansa sielut; ja kaikki, jotka haneen toivovat, ei pida hukkuman.	
-
+</body>
+</html>

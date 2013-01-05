@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Nuorukaiset vasyvat ja naantyvat, ja nuoret miehet perati lankeevat;	
 
 <div class="versenum">31.</div> Mutta jotka Herraa odottavat, ne saavat uuden voiman, niin etta he menevat siivilla ylos kuin kotkat; etta he juoksevat ja ei naanny, he vaeltavat ja ei vasy.	
-
+</body>
+</html>

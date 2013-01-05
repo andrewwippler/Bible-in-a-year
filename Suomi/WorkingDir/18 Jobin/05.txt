@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja sina tulet vanhalla ijalla hautaan, niinkuin elositoma ajallansa korjataan.	
 
 <div class="versenum">27.</div> Katso, sita me olemme tutkineet, ja se on niin: kuule sita, ja tunne sina myos se hyvakses.	
-
+</body>
+</html>

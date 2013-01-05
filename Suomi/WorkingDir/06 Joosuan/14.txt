@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Siita oli Hebron Kalebin Jephunnen pojan Kenisilaisen perimys tahan paivaan asti, etta han on uskollisesti seurannut Herraa Israelin Jumalaa.	
 
 <div class="versenum">15.</div> Mutta Hebron kutsuttiin muinaiseen aikaan KirjatArba, joka oli suurin mies Enakilaisten seassa; ja maakunta lakkasi sotimasta.	
-
+</body>
+</html>

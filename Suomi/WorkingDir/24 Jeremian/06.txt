@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Palkeet ovat tulella poltetut, lyijy raukee pois, sulaaminen on hukassa; silla ei paha ole eroitettu.	
 
 <div class="versenum">30.</div> Sentahden he myos kutsutaan hyljatyksi hopiaksi, silla Herra on heidat hyljannyt.	
-
+</body>
+</html>

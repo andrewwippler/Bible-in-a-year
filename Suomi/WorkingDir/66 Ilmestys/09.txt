@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja muut ihmiset, jotka ei nailla vitsauksilla ole tapetut, ei heidan kattensa toista parannusta tehneet: ettei he olisi perkeleita kumartaneet ja kultaisia, ja hopiaisia, ja vaskisia, ja kivisia ja puisia epajumalia, jotka ei nahda taida, eika kuulla, ei myos kayda.	
 
 <div class="versenum">21.</div> Ja ei tehneet parannusta murhistansa, eika velhoudestansa, eika huoruudestansa, ei myos varkaudestansa.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala, niista astioista, jotka viela jaaneet ovat Herran huoneesen, ja kuninkaan huoneesen, ja Jerusalemiin:	
 
 <div class="versenum">22.</div> Ne pitaa Babeliin vietaman ja siella pysyman siihen paivaan asti, etta mina etsin heita, sanoo Herra, ja annan heidan vietaa ylos ja taas tuotaa tahan paikkaan siallensa.	
-
+</body>
+</html>

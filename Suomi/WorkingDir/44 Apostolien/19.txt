@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Silla vaara on, etta me nuhteesen tulemme tamanpaivaisen kapinan tahden, koska ei yhtaan syyta ole, josta me taitaisimme taman metelin tahden tilin tehda.	
 
 <div class="versenum">41.</div> (H19:40) Ja kuin han namat sanonut oli, laski han kansan menemaan.	
-
+</body>
+</html>

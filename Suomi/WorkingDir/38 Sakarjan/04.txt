@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja han sanoi minulle: etkos tieda, mita namat ovat? Ja mina sanoin; en, minun herrani.	
 
 <div class="versenum">14.</div> Ja han sanoi: ne ovat kaksi oljypuuta taynna oljya, jotka aina seisovat kaiken maan Herran tykona.	
-
+</body>
+</html>

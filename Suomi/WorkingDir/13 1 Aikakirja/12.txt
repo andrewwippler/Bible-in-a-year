@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja he olivat siella Davidin tykona kolme paivaa, soivat ja joivat; silla heidan veljensa olivat valmistaneet heidan eteensa.	
 
 <div class="versenum">40.</div> Ja ne myos, jotka likin olivat heidan ymparillansa Isaskariin, Sebuloniin ja Naphtaliin asti, he toivat leipia aaseilla, kameleilla, muuleilla ja harjilla, syotavia jauhoja, fikunoita, rusinoita, viinaa, oljya, harkia ja lampaita viljalta; silla ilo oli Israelissa.	
-
+</body>
+</html>

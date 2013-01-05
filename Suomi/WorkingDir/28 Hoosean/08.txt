@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ehka he nyt paljon uhraavat, ja lihaa tuovat edes ja syovat, niin ei se kuitenkaan ole Herralle otollinen; mutta han tahtoo muistaa heidan pahuutensa, ja heidan syntinsa etsia, jotka Egyptiin kaantyvat.	
 
 <div class="versenum">14.</div> Israel unhotti Luojansa, ja rakensi templia, ja Juuda teki myos monta vahvaa kaupunkia; mutta mina lasken tulen hanen kaupunkeihinsa, joka hanen huoneensa polttaman pitaa.	
-
+</body>
+</html>

@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja koko Israel, hamasta Danista niin BerSabaan, tunsi Samuelin uskolliseksi Herran prophetaksi.	
 
 <div class="versenum">21.</div> Ja Herra taas ilmestyi hanelle Silossa; silla Herra oli ilmaantunut Samuelille Silossa Herran sanan kautta.	
-
+</body>
+</html>

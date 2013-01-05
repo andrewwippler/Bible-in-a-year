@@ -111,4 +111,5 @@
 <div class="versenum">53.</div> Ruhtinas Kenas, ruhtinas Teman, ruhtinas Mibtsar,	
 
 <div class="versenum">54.</div> Ruhtinas Magdiel, ruhtinas Iram: namat ovat Edomin ruhtinaat.	
-
+</body>
+</html>

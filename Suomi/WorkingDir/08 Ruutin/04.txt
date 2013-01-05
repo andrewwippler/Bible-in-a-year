@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Salmo siitti Boaksen: Boas siitti Obedin.	
 
 <div class="versenum">22.</div> Obed siitti Isain, ja Isai siitti Davidin.	
-
+</body>
+</html>

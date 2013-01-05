@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja Adam taas tunsi emantansa, ja han synnytti pojan, ja kutsui hanen nimensa Set, sanoen: Jumala on minulle toisen siemenen antanut Habelin edesta, jonka Kain tappoi.	
 
 <div class="versenum">26.</div> Ja Set myos siitti pojan, ja kutsui hanen Enos. Silloin ruvettiin saarnaamaan Herran nimesta.	
-
+</body>
+</html>

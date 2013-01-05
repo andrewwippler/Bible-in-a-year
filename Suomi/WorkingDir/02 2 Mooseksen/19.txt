@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja Herra sanoi hanelle: mene ja astu alas, ja astu ylos (jallensa) sina ja Aaron sinun kanssas; mutta papit ja kansa alkaan lahestyko astumaan ylos Herran tyko, ettei han heita hukuttaisi.	
 
 <div class="versenum">25.</div> Ja Moses astui alas kansan tyko ja sanoi namat heille.	
-
+</body>
+</html>

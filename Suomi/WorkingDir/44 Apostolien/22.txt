@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja he laksivat kohta hanen tykoansa tutkimasta. Ja sodanpaamies rupesi pelkaamaan, sittekuin han sai tietaa, hanen Roomalaisen olevan, etta han hanen sitonut oli.	
 
 <div class="versenum">30.</div> Mutta toisena paivana tahtoi han visummasti tietaa, minkatahden hanen paallensa Juudalaisilta kannettiin, ja paasti hanen siteista, ja kaski ylimmaiset papit ja kaiken heidan raatinsa tulla kokoon, ja antoi Paavalin tulla heidan eteensa.	
-
+</body>
+</html>

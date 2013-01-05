@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Palatkaat nyt, olkoon pois vaaryys: Tulkaat jalleen; minun vastaukseni pitaa oikia oleman.	
 
 <div class="versenum">30.</div> Onko minun kielessani vaaryytta? eiko minun suulakeni ymmarra vaivoja?	
-
+</body>
+</html>

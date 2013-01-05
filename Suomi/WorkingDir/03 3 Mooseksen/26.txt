@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja mina muistan ensimaisen liittoni heista, koska mina johdatin heidat Egyptin maalta pakanain silmain edesta, ollakseni heidan Jumalansa: mina Herra.	
 
 <div class="versenum">46.</div> Namat ovat ne saadyt ja oikeudet ja kaskyt, jotka Herra antoi itsensa ja Israelin lasten vaiheelle, Sinain vuorella, Moseksen kaden kautta.	
-
+</body>
+</html>

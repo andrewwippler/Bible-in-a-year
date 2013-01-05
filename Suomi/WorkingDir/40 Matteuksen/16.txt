@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Silla Ihmisen Poika on tuleva Isansa kunniassa enkelittensa kanssa, ja silloin han maksaa kullekin toittensa jalkeen.	
 
 <div class="versenum">28.</div> Totisesti mina sanon teille: muutamat seisovat tassa, joiden ei suinkaan pida kuolemaa maistaman, siihenasti kuin he nakevat Ihmisen Pojan tulevan hanen valtakunnassansa.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja te sanotte: katso, se on sula vaiva, ja lyotte sen tuleen, sanoo Herra Zebaot. Ja te uhraatte ryovattya, ontuvaa ja sairasta, ja ne te uhraatte ruokauhriksi. Pitaisko se minulle otollinen oleman teidan kasistanne? sanoo Herra.	
 
 <div class="versenum">14.</div> Mutta kirottu olkoon pettaja, jonka laumassa on oinas, ja kuin han tekee lupauksen, niin han uhraa Herralle kelvottoman; silla mina olen suuri kuningas, sanoo Herra Zebaot, ja minun nimeni on peljattava pakanain seassa.	
-
+</body>
+</html>

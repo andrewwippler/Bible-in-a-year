@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Joka oli Matusalan poika, joka oli joka oli Enokin poika, joka oli Jaredin poika, joka oli Maleleelin poika, joka oli Kainanin poika,	
 
 <div class="versenum">38.</div> Joka oli Enoksen poika, joka oli Setin poika, joka oli Adamin poika, joka oli Jumalan.	
-
+</body>
+</html>

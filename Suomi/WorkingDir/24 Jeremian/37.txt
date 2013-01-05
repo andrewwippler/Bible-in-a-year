@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja nyt, herrani kuningas, kuule minua, ja anna minun rukoukseni tulla sinulta kuulluksi, ja ala minua taas laheta Jonatanin, kirjoittajan, huoneesen, etten mina siella kuolisi.	
 
 <div class="versenum">21.</div> Silloin kaski kuningas Zedekia, etta Jeremia piti tallella pidettaman pihassa vankihuoneen edessa, ja kaski hanelle antaa paivaksi osan leipaa Leipojan kujalta, siihenasti kuin kaikki leivat kaupungista kuluneeksi tulivat. Niin Jeremia siis oli vankihuoneen pihassa.	
-
+</body>
+</html>

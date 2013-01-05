@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Mita enempi Jehiskiasta sanomista on ja hanen laupiudestansa: katso, se on kirjoitettu Jesaian prophetan Amotsin pojan nayssa, ja Juudan ja Israelin kuningasten kirjassa.	
 
 <div class="versenum">33.</div> Ja Jehiskia nukkui isainsa kanssa, ja he hautasivat hanen ylemma Davidin lasten hautoihin. Ja kaikki Juuda ja Jerusalemin asuvaiset tekivat hanelle kunniaa hanen kuollessansa. Ja hanen poikansa Manasse tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

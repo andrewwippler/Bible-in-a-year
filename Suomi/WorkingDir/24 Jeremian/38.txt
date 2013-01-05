@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Silloin kaikki ruhtinaat tulivat Jeremian tyko, ja kysyivat hanelta. Ja han sanoi heille niinkuin kuningas oli hanen kaskenyt. Niin he vaikenivat ja jattivat hanen, ettei he mitaan hanelta saaneet tietaa.	
 
 <div class="versenum">28.</div> Ja Jeremia oli pihassa vankihuoneen edessa, aina siihen paivaan asti kuin Jerusalem voitettiin. Ja se tapahtui, etta Jerusalem voitettiin.	
-
+</body>
+</html>

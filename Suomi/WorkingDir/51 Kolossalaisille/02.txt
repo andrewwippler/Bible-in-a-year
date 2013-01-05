@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Jotka kaikki kulumisessa hukkuvat, ja ihmisten kaskyt ja opit ovat,	
 
 <div class="versenum">23.</div> Joilla kylla viisauden muoto on itsevalitussa palveluksessa ja noyryydessa, ja siina, ettei he ruumistansa armahda eika tee lihalle kunniaa hanen tarpeissansa.	
-
+</body>
+</html>

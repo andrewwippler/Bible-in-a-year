@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Etten mina ota kaikesta sinun omastas lankaakaan eli kengan rihmaa, ettes sanoisi: mina olen Abramin averiaaksi tehnyt:	
 
 <div class="versenum">24.</div> Ei suinkaan, paitsi sita kuin namat nuoret miehet syoneet ovat; ja niiden miesten osan, jotka minua seurasivat: Aner, Eskol ja Mamre, he saakoon osansa.	
-
+</body>
+</html>

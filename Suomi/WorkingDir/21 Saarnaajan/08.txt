@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Kun mina kaansin sydameni oppimaan viisautta ja katsomaan tyota, jota tehdaan maan paalla saamatta untakaan silmiin paivalla tai yolla,	
 
 <div class="versenum">17.</div> niin mina tulin nakemaan kaikista Jumalan teoista, etta ihminen ei voi kasittaa sita, mita tapahtuu auringon alla; silla ihminen saa kylla nahda vaivaa etsiessaan, mutta ei han kasita. Ja jos viisas luuleekin tietavansa, ei han kuitenkaan voi kasittaa.	
-
+</body>
+</html>

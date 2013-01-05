@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Katso, aika tulee, ja nyt tuli, etta te jokainen hajoitetaan omillensa, ja minun te yksinani jatatte. En mina kuitenkaan yksinani ole, silla Isa on minun kanssani.	
 
 <div class="versenum">33.</div> Naita olen mina teille puhunut, etta teilla minussa rauha olis. Maailmassa on teilla tuska; mutta olkaat hyvassa turvassa, mina voitin maailman.	
-
+</body>
+</html>

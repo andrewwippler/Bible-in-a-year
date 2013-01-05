@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja mina kaansin sydameni tutkimaan viisautta ja tietoa, mielettomyytta ja tyhmyytta, ja mina tulin tietamaan, etta sekin oli tuulen tavoittelemista.	
 
 <div class="versenum">18.</div> Silla missa on paljon viisautta, siina on paljon surua; ja joka tietoa lisaa, se tuskaa lisaa.	
-
+</body>
+</html>

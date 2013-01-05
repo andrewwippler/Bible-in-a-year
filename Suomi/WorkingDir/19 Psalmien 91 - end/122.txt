@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Minun veljieni ja ystavaini tahden mina toivotan nyt sinulle rauhaa!	
 
 <div class="versenum">9.</div> Herran meidan Jumalamme huoneen tahden etsin mina sinun parastas.	
-
+</body>
+</html>

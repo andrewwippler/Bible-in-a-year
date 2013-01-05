@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Niin olkoon nyt tama minun kaskyni: Kuka ikana kaikissa kansoissa, sukukunnissa ja kielissa Sadrakin, Mesakin ja Abednegon Jumalaa pilkkaa, han pitaa kappaleiksi hakattaman, ja hanen huoneensa lokalajaksi kukistettaman; silla ei yhtaan muuta Jumalaa ole, joka niin pelastaa taitaa, kuin tama.	
 
 <div class="versenum">30.</div> Ja kuningas antoi suuren vallan Sadrakille, Mesakille ja Abednegolle Babelin maalla.	
-
+</body>
+</html>

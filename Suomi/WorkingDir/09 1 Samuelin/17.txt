@@ -119,4 +119,5 @@
 <div class="versenum">57.</div> Kuin David palasi Philistealaista lyomasta, otti Abner hanen ja vei Saulin eteen; ja hanen kadessansa oli Philistealaisen paa.	
 
 <div class="versenum">58.</div> Ja Saul sanoi hanelle: kenenkas poika olet, nuorukainen? David sanoi: palvelias Isain Betlehemilaisen poika.	
-
+</body>
+</html>

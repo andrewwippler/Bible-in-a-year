@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Han jakaa ja antaa vaivaisille: hanen vanhurskautensa pysyy ijankaikkisesti: hanen sarvensa korotetaan kunnialla.	
 
 <div class="versenum">10.</div> Jumalatoin nakee sen ja narkastyy: han pureskelee hampaitansa ja naantyy; silla mita jumalattomat halajavat, se tyhjaksi tulee.	
-
+</body>
+</html>

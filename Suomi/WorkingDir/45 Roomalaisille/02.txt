@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Silla ei se ole Juudalainen, joka ulkonaisesti (Juudalainen) on: ei myos se ole ymparileikkaus, mika ulkonaisessa lihassa tapahtuu;	
 
 <div class="versenum">29.</div> Mutta se on Juudalainen, joka sisallisesti salattu on, ja sydamen ymparileikkaus on ymparileikkaus, joka hengessa tapahtuu, ei puustavissa; jonka ylistys ei ole ihmisilta, vaan Jumalalta.	
-
+</body>
+</html>

@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Silla niin on: puheen paljous enentaa turhuutta. Mita etua on ihmisella siita?	
 
 <div class="versenum">12.</div> Silla kuka tietaa, mika on ihmiselle hyva elamassa, hanen elamansa lyhyina, turhina paivina, jotka han viettaa kuin varjo; ja kuka ilmaisee ihmiselle, mita on tuleva hanen jalkeensa auringon alla?	
-
+</body>
+</html>

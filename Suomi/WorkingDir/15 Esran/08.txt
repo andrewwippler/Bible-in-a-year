@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja vankeuden lapset, jotka olivat tulleet vankeudesta, uhrasivat Israelin Jumalalle polttouhria, kaksitoistakymmenta mullia, koko Israelin edesta, yhdeksankymmenta ja kuusi oinasta, seitsemankahdeksattakymmenta karitsaa, kaksitoistakymmenta kaurista syntiuhriksi, kaikki tyynni polttouhriksi Herralle.	
 
 <div class="versenum">36.</div> Ja he antoivat kuninkaan kirjat ja kaskyn kuninkaan maaherroille ja paamiehille talla puolella virtaa, ja korottivat kansan ja Jumalan huoneen.	
-
+</body>
+</html>

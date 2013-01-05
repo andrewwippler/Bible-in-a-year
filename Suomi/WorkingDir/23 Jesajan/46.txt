@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Kuulkaat minua, te ylpiat sydamet, te jotka olette kaukana vanhurskaudesta:	
 
 <div class="versenum">13.</div> Mina olen vanhurskauteni antanut lahestya, ei se ole kaukana, ja ei minun autuuteni viivy; silla mina annan autuuden Zionissa, ja kunniani Israelissa.	
-
+</body>
+</html>

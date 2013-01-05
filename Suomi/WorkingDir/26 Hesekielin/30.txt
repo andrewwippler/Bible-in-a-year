@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja mina vahvistan Babelin kuninkaan kasivarret; ja Pharaon kasivarret pitaa muserrettaman rikki, etta heidan pitaa tietaman, etta mina olen Herra, kuin mina annan Babelin kuninkaalle minun miekkani kateen, etta hanen sen Egyptia vastaan vetaman pitaa.	
 
 <div class="versenum">26.</div> Ja mina hajoitan Egyptilaiset pakanain sekaan, ja ajan heita maakuntiin, etta heidan ymmartaman pitaa, etta mina olen Herra.	
-
+</body>
+</html>

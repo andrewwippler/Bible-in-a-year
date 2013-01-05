@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja katso, niinkuin sinun sielus tanapana on paljo pidettava ollut minun silmaini edessa, niin olkoon myos minun sieluni paljo pidettava Herran silmain edessa, ja vapahtakoon minua kaikesta minun murheestani.	
 
 <div class="versenum">25.</div> Saul sanoi Davidille: siunattu ole sina, poikani David: sina teet ja toimitat, sina taidat ja voit. Niin David meni matkaansa, ja Saul palasi kotiansa.	
-
+</body>
+</html>

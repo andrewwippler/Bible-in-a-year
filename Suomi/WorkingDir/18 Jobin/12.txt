@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Han ottaa pois maan kansan ruhtinasten sydamet, ja eksyttaa heita korvessa, jossa ei tieta ole.	
 
 <div class="versenum">25.</div> Ja he koperoitsevat pimeydessa ilman valkeutta; ja han eksyttaa heita kuin juopuneita.	
-
+</body>
+</html>

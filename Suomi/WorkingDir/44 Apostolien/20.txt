@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja suuri itku tuli heille kaikille ja lankesivat Paavalin kaulaan ja suuta antoivat hanen,	
 
 <div class="versenum">38.</div> Murehtien suuresti sen sanan tahden, jonka han oli sanonut, ettei heidan pitanyt enempi hanen kasvojansa nakeman. Ja he saattivat hanta haahteen.	
-
+</body>
+</html>

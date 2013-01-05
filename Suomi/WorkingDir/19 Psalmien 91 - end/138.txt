@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Jos mina vaeltaisin ahdistuksen keskella, niin sina virvoitat minua, ja lahetat kates vihollisteni vihan paalle: sinun oikia kates varjelee minua.	
 
 <div class="versenum">8.</div> Herra tekee siihen lopun minun tahteni: Herra, sinun laupiutes on ijankaikkinen, ala kasialaas hylkaa!	
-
+</body>
+</html>

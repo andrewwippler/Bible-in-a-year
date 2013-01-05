@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Kosket pauhatkaan ilosta, ja kaikki vuoret olkaan iloiset,	
 
 <div class="versenum">9.</div> Herran edessa; silla han tulee maata tuomitsemaan: han tuomitsee maan piirin vanhurskaudella ja kansat oikeudella.	
-
+</body>
+</html>

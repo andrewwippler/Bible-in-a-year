@@ -181,4 +181,5 @@
 <div class="versenum">88.</div> Ja karjan luku kiitosuhriksi oli nelja harkaa kolmattakymmenta, kuusikymmenta oinasta, kuusikymmenta kaurista, kuusikymmenta vuosikuntaista karitsaa. Tama on alttarin vihkimys koska se voideltiin.	
 
 <div class="versenum">89.</div> Ja koska Moses meni seurakunnan majaan, etta hanta siella puhuteltaisiin, niin kuuli han aanen puhuvan kanssansa armoistuimelta, joka oli todistuksen arkin paalla, kahden Kerubimin vaiheella, ja sielta puhuteltiin hanta.	
-
+</body>
+</html>

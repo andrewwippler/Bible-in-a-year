@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja mina heratan minulleni uskollisen papin: se tekee niinkuin minun sydamessani ja mielessani on. Ja mina rakennan hanelle vahvan huoneen, vaeltaaksensa minun voideltuni edessa hanen elinaikanansa.	
 
 <div class="versenum">36.</div> Ja tapahtuu, etta se joka jaa jalkeen sinun huoneeses, pitaa tuleman ja kumartaman hanta hopiapenningin ja leivan kappaleen edesta, ja pitaa sanoman: paasta minua nyt yhden papin osaan, etta mina saisin syoda palan leipaa.	
-
+</body>
+</html>

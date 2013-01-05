@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja Gideon sanoi Jumalalle: alkoon sinun vihas syttyko minua vastaan, jos mina viela kerran puhun: mina koettelen viela kerran sita nahalla: anna ainoastaan nahan kuivan olla ja kaikella muulla maalla kasteen.	
 
 <div class="versenum">40.</div> Jumala teki myos niin sina yona: ja nahka ainoastaan jai kuivaksi, ja kaste tuli kaiken maan paalle.	
-
+</body>
+</html>

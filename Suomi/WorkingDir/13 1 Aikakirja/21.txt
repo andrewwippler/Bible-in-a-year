@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Silla Herran maja, jonka Moses oli tehnyt korvessa, ja polttouhrin alttari olivat silloin Gibeonin korkeudella.	
 
 <div class="versenum">30.</div> Ja ei David taitanut menna sen eteen kysymaan Jumalaa; silla han oli peljastynyt Herran enkelin miekkaa.	
-
+</body>
+</html>

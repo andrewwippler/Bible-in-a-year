@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Eliel Maheavilainen, Jeribai ja Josavia Elnaamin pojat, Itma Moabilainen,	
 
 <div class="versenum">47.</div> Eliel, Obed ja Jaesiel Mesobajasta.	
-
+</body>
+</html>

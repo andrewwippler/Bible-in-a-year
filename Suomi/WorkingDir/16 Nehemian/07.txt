@@ -149,4 +149,5 @@
 <div class="versenum">72.</div> Ja muu kansa antoi kaksikymmenta tuhatta kultapenninkia, ja kaksituhatta leiviskaa hopiaa, ja seitsemanseitsemattakymmenta papin hametta.	
 
 <div class="versenum">73.</div> Ja papit, Levilaiset, ovenvartiat, veisaajat, ja muutamat kansasta ja Netinimit ja koko Israel asuivat kaupungeissa. Ja seitsemannen kuukauden lahestyessa olivat Israelin lapset kaupungeissa.	
-
+</body>
+</html>

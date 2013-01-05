@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla nyt me naemme niinkuin peilista tapauksessa, mutta silloin kasvoista kasvoihin: nyt mina tunnen puolittain, vaan silloin mina tunnen niiinkuin mina tuttu olen.	
 
 <div class="versenum">13.</div> Mutta nyt pysyvat usko, toivo, rakkaus, namat kolme; vaan rakkaus on suurin niista.	
-
+</body>
+</html>

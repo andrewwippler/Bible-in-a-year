@@ -147,4 +147,5 @@
 <div class="versenum">71.</div> Niin han rupesi itsiansa sadattelemaan ja vannomaan: en tunne mina sita ihmista, jota te sanotte.	
 
 <div class="versenum">72.</div> Ja kukko lauloi toisen kerran. Niin Pietari muisti sen sanan, minka Jesus hanelle sanonut oli: ennenkuin kukko kahdesti laulaa, sina kolmasti minun kiellat. Ja han kiiruusti laksi ulos ja itki.	
-
+</body>
+</html>

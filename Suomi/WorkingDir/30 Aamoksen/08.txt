@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Sina paivana pitaa kauniit neitseet ja nuorukaiset naantyman janosta.	
 
 <div class="versenum">14.</div> Ja jotka nyt Samarian rikoksen kautta vannovat ja sanovat: niin totta kuin sinun jumalas Danissa elaa, niin totta kuin sinun jumalas Bersebassa elaa: niiden pitaa niin lankeeman, ettei he voi jalleen nousta ylos.	
-
+</body>
+</html>

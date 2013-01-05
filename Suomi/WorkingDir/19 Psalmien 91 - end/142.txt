@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Ota vaari minun rukouksestani, silla minua vaivataan sangen: pelasta minua vainollisistani; silla he ovat minua vakevammat.	
 
 <div class="versenum">7.</div> Vie minun sieluni vankeudesta ulos kiittamaan sinun nimeas: vanhurskaat kokoontuvat minun tykoni, koskas minulle hyvasti teet.	
-
+</body>
+</html>

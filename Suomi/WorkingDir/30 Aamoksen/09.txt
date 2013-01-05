@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Silla mina kaannan minun kansani Israelin vankiuden, etta he rakentavat autiot kaupungit, ja niissa asuvat; istuttavat viinapuita, ja niista viinaa juovat, tekevat puutarhoja, ja niista hedelmia syovat.	
 
 <div class="versenum">15.</div> Ja mina tahdon heita heidan maassansa istuttaa; niin ettei heita enaan temmata pois maastansa, jonka mina heille antanut olen, sanoo Herra sinun Jumalas.	
-
+</body>
+</html>

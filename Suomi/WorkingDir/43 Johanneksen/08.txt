@@ -121,4 +121,5 @@
 <div class="versenum">58.</div> Jesus sanoi heille: totisesti, totisesti sanon mina teille: ennenkuin Abraham olikaan, olen mina.	
 
 <div class="versenum">59.</div> Niin he poimivat kivia, laskettaaksensa hanta. Mutta Jesus lymyi ja laksi ulos templista, kayden heidan keskeltansa; ja niin han paasi ulos.	
-
+</body>
+</html>

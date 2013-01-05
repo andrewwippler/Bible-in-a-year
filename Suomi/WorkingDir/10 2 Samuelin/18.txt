@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Kuningas sanoi Kuusille: onko nuorukainen Absalom rauhassa? Kuusi sanoi: tapahtukoon niin herrani kuninkaan vihollisille, kuin nuorukaiselle on tapahtunut, ja kaikille niille, jotka heitansa asettavat sinua vastaan sinulle vahingoksi!	
 
 <div class="versenum">33.</div> Niin tuli kuningas murheelliseksi, ja meni portin ylistupaan ja itki, ja sanoi mennessansa nain: poikani Absalom! poikani, poikani Absalom! 0, jospa mina olisin kuollut sinun siassas, oi, Absalom poikani, minun poikani!	
-
+</body>
+</html>

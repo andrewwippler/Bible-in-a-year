@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Mutta mina vaellan viattomuudessani: vapahda minua ja ole minulle armollinen!	
 
 <div class="versenum">12.</div> Minun jalkani kay oikiasti: mina kiitan Herraa seurakunnissa.	
-
+</body>
+</html>

@@ -103,4 +103,5 @@
 <div class="versenum">49.</div> Silla kaikki pitaa tulella suolattaman, ja jokainen uhri pitaa suolalla suolattaman.	
 
 <div class="versenum">50.</div> Suola on hyva; mutta jos suola tulee mauttomaksi, milla te sen hoystatte? Pitakaat itse teissanne suola, ja rauha teidan keskenanne.	
-
+</body>
+</html>

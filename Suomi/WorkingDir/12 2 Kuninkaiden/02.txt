@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja han kaansi itsensa, ja kuin han heidat naki, kirosi han heita Herran nimeen. Niin tuli kaksi karhua metsasta ja repeli heista kaksi poikaa viidettakymmenta kuoliaaksi.	
 
 <div class="versenum">25.</div> Sielta han meni Karmelin vuorelle, ja palasi sielta sitten Samariaan.	
-
+</body>
+</html>

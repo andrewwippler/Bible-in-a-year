@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja Herra on kiroova Egyptin meren lahden, ja liikuttava katensa virtaa vastaan, tuulensa vakevyydessa; ja han lyo sen seitsemaksi ojaksi, niin etta kengassa kaydaan ylitse.	
 
 <div class="versenum">16.</div> Ja rata on oleva hanen jaaneelle kansallensa, joka Assyrialaisilta jatetty oli; niinkuin Israelille silloin tapahtui, kuin han Egyptista laksi.	
-
+</body>
+</html>

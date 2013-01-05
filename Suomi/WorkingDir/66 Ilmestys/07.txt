@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ei heidan pida enaan isooman, eika enaan janooman, eika aurinko lankee heidan paallensa, ei myos yksikaan palavuus.	
 
 <div class="versenum">17.</div> Silla Karitsa, joka istuimen keskella on, kaitsee heita ja johdattaa heita elavain vesilahdetten tyko, ja Jumala on kuivaava kaikki kyyneleet heidan silmistansa.	
-
+</body>
+</html>

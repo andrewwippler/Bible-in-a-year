@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Varjele minua siita paulasta, jonka he asettivat eteeni, ja pahointekiain ansasta.	
 
 <div class="versenum">10.</div> Jumalattomat lankeevat toinen toisensa kanssa omiin verkkoihinsa, siihenasti kuin mina paasen ohitse.	
-
+</body>
+</html>

@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Heidan epajumalainsa kuvat pitaa sinun tulella polttaman: ei sinun pida himoitseman sita hopiaa ja kultaa, joka niiden paalla on ollut, taikka ottaman siita jotain sinulles, ettei se olisi sinulle paulaksi; silla se on Herralle sinun Jumalalles kauhistus.	
 
 <div class="versenum">26.</div> Sentahden ei sinun pida sita kauhistusta huoneeses vieman, ettei tulisi kirotuksi niinkuin se, mutta sinun pitaa ilvoituksella ilvoittaman ja kauhistuksella kauhistuman sita; silla se on kirottu.	
-
+</body>
+</html>

@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Kuinka kauvan sina, Herran miekka, et tahdo lakata? mene jo tuppees, lepaa ja ole alallas.	
 
 <div class="versenum">7.</div> Mutta kuinka sina taidat lakata, etta Herra on antanut sinulle kaskyn Askalonia vastaan, ja asettanut sinun meren satamia vastaan.	
-
+</body>
+</html>

@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Mutta Joses, joka liialta nimelta apostoleilta kutsutaan Barnabas (se on niin paljo sanottu kuin lohdutuksen poika) Levilainen, Kyprista sukuisin,	
 
 <div class="versenum">37.</div> Hanella oli pelto, sen han myi, ja toi hinnan ja pani apostolitten jalkain eteen.	
-
+</body>
+</html>

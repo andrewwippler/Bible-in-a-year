@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Niinkuin me olemme olleet Mosekselle kaikissa kuuliaiset, niin olemme sinullekin kuuliaiset; ainoastaan olkoon Herra sinun Jumalas sinun kanssas, niinkuin han oli Moseksen kanssa.	
 
 <div class="versenum">18.</div> Jokainen, joka asettaa itsensa sinun suutas vastaan ja ei ole kuuliainen sinun sanoilles kaikissa mita kasket, hanen pitaa kuoleman; ainoastansa ole rohkia ja vahvista sinuas.	
-
+</body>
+</html>

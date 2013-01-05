@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Minun huuleni pitaa kiittaman, koska mina sinulle veisaan, ja minun sieluni, jonkas lunastit.	
 
 <div class="versenum">24.</div> Ja minun kieleni puhuu myos joka paiva sinun vanhurskaudestas; sentahden havetkaan he ja hapiaan tulkoon, jotka minulle pahaa suovat.	
-
+</body>
+</html>

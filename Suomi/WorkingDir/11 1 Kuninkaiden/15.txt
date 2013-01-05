@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Kolmantena Asan Juudan kuninkaan vuonna oli Baesa Ahian poika koko Israelin kuningas Tirtsassa, neljakolmattakymmenta ajastaikaa.	
 
 <div class="versenum">34.</div> Ja han teki pahaa Herran edessa, ja vaelsi Jerobeamin teilla ja hanen synneissansa, joilla han saatti Israelin syntia tekemaan.	
-
+</body>
+</html>

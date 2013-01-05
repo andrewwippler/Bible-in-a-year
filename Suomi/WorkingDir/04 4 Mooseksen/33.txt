@@ -115,4 +115,5 @@
 <div class="versenum">55.</div> Mutta jollette maan asuvaisia aja ulos teidan edestanne, niin pitaa ne, jotka te heista jatatte, oleman teille niinkuin orjantappurat silmissanne, ja keihas kyljessanne; silla heidan pitaa ahdistaman teita silla maalla, kussa te asutte.	
 
 <div class="versenum">56.</div> Niin tapahtuu, etta mina teen niin teille, kuin mina aioin heille tehda.	
-
+</body>
+</html>

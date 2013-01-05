@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja Hagar synnytti Abramille pojan: ja Abram kutsui poikansa nimen, jonka Hagar synnytti, Ismael.	
 
 <div class="versenum">16.</div> Ja Abram oli kuudenyhdeksattakymmenta ajastajan vanha, koska Hagar synnytti Ismaelin Abramille.	
-
+</body>
+</html>

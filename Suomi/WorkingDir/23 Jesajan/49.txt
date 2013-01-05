@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Silla nain sanoo Herra: nyt pitaa vangit vakevalta otettaman pois, ja tuimain saalis irralle paaseman; ja mina tahdon riidella sinun riitaveljeis kanssa, ja varjella sinun lapsias.	
 
 <div class="versenum">26.</div> Ja mina annan sinun havittajas syoda omaa lihaansa, ja heidan pitaa juopuman omasta verestansa, niinkuin makiasta viinasta; ja kaikki liha pitaa tietaman, etta mina olen Herra, sinun auttajas ja sinun lunastajas, Jakobin vakeva.	
-
+</body>
+</html>

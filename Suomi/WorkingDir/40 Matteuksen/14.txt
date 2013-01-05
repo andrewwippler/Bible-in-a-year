@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Ja kuin sen paikan miehet tunsivat hanen, lahettivat he ympari kaikkea sita maata, ja toivat hanen tykonsa kaikkinaisia sairaita,	
 
 <div class="versenum">36.</div> Ja rukoilivat hanta, etta he ainoastaan hanen vaatteensa palteeseen saisivat ruveta. Ja kaikki, jotka siihen rupesivat, tulivat terveiksi.	
-
+</body>
+</html>

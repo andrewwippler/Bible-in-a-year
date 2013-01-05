@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Mutta rakeet pitaa oleman alhaalla metsissa; ja kaupungin pitaa alhaalla mataloissa paikoissa oleman.	
 
 <div class="versenum">20.</div> Hyvin teidan menestyy, jotka kylvatte joka paikassa vetten tyko; ja annatte harkain ja aasein kayda jaloillansa niiden paalla.	
-
+</body>
+</html>

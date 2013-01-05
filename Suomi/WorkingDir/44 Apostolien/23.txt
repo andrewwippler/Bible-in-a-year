@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Kuin maanvanhin oli kirjan lukenut ja kysynyt, kusta maakunnasta hanen piti oleman; ja etta han ymmarsi hanen Kilikiasta olevan,	
 
 <div class="versenum">35.</div> Mina tahdon sinua kuulla, sanoi han, kuin myos sinun paallekantajas tulevat edes. Ja kaski katkea hanen Herodeksen raatihuoneeseen.	
-
+</body>
+</html>

@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja Ahab teki metsiston; niin etta Ahab vihoitti Herran Israelin Jumalan kovemmin kuin kaikki muut Israelin kuninkaat, jotka hanen edellansa olivat.	
 
 <div class="versenum">34.</div> Silloin rakensi Hiel Betelista Jerihon: se maksoi hanen esikoisensa Abiramin, koska han perustuksen laski, ja hanen nuorimman poikansa Segubin, koska han sen portit pani, Herran sanan jalkeen, jonka han oli sanonut Josuan Nunin pojan kautta.	
-
+</body>
+</html>

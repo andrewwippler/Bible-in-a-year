@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja Hasael Syrian kuningas kuoli, ja hanen poikansa Benhadad tuli kuninkaaksi hanen siaan.	
 
 <div class="versenum">25.</div> Ja Joas Joahaksen poika palasi ja otti ne kaupungit Benhadadilta Hasaelin pojalta jalleen, jotka han hanen isaltansa Joahakselta sodalla ottanut oli. Joas loi kolmasti hanta, ja sai Israelin kaupungit jalleen.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mutta maan pitaa kuuleman jyvia, viinaa ja oljya, ja niiden pitaa Jisreelia kuuleman.	
 
 <div class="versenum">23.</div> Ja mina tahdon sen itselleni pitaa siemeneksi maan paalle, ja tahdon sita armahtaa, jota ei ole armahdettu. Ja sanon hanelle, joka ei ollut minun kansani: Sina olet minun kansani, ja hanen pitaa sanoman: Sina olet minun Jumalani.	
-
+</body>
+</html>

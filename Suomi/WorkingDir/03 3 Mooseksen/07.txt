@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Ja tama on saaty polttouhrista, ruokauhrista, rikosuhrista, vikauhrista, niin myos taytosuhrista ja kiitosuhrista.	
 
 <div class="versenum">38.</div> Jonka Herra Mosekselle kaski Sinain vuorella; sina paivana, jona han kaskyn antoi hanelle Israelin lasten tyko, etta heidan pitaa uhraaman uhrinsa Herralle Sinain korvessa.	
-
+</body>
+</html>

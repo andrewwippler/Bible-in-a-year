@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Isa rakastaa Poikaa, ja antoi kaikki hanen kateensa.	
 
 <div class="versenum">36.</div> Joka uskoo Pojan paalle, hanella on ijankaikkinen elama; mutta joka ei usko Pojan paalle, ei hanen pida elamaa nakeman, mutta Jumalan viha pysyy hanen paallansa.	
-
+</body>
+</html>

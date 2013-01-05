@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Tama on se, minka Herra siihen aikaan puhui Moabia vastaan.	
 
 <div class="versenum">14.</div> Mutta nyt puhuu Herra ja sanoo: kolmena vuonna, niinkuin palvelian vuodet ovat, pitaa Moabin kunnian, joka suuri on kaikissa kansoissa, tuleman pieneksi, niin etta aivan vaha pitaa jaaman, ja ei paljo.	
-
+</body>
+</html>

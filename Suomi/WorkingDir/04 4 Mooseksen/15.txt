@@ -85,4 +85,5 @@
 <div class="versenum">40.</div> Sentahden pitaa teidan muistaman ja tekeman kaikki minun kaskyni, ja oleman pyhat teidan Jumalallenne.	
 
 <div class="versenum">41.</div> Mina olen Herra teidan Jumalanne, joka teidat Egyptin maalta ulos johdatin, ollakseni teidan Jumalanne: Mina Herra teidan Jumalanne.	
-
+</body>
+</html>

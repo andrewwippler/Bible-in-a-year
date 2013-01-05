@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Sinun paimenes, sina Assurin kunigas, pitaa makaaman, ja sinun voimallises pitaa maata paneman; sinun kansas pitaa vuorille hajoitettaman, ja ei pida kenenkaan heita kokooman.	
 
 <div class="versenum">19.</div> Ei pida kenenkaan sinun vahinkoas parantaman, eika sinun rangaistuksestas sureman; vaan kaikki, jotka naita sinusta kuulevat, pitaa kasiansa sinusta yhteen lyoman; silla keta ei ole sinun pahuutes ilman lakkaamata kohdannut.	
-
+</body>
+</html>

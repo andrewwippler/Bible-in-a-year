@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Niin olemme me Kristuksen puolesta kaskylaiset; silla Jumala neuvoo meidan kauttamme. Niin me rukoilemme siis Kristuksen puolesta, etta te Jumalan kanssa sovitte.	
 
 <div class="versenum">21.</div> Silla han on sen, joka ei mitaan synnista tietanyt, meidan edestamme synniksi tehnyt, etta me hanessa tulisimme siksi vanhurskaudeksi, joka Jumalan edessa kelpaa.	
-
+</body>
+</html>

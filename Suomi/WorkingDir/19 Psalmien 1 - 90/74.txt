@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Nouse, Jumala, ja aja asias: muista niita havaistyksia, jotka sinulle joka paiva hulluilta tapahtuvat.	
 
 <div class="versenum">23.</div> Ala unohda vihollistes aanta: sinun vainollistes meteli tulee aina suuremmaksi.	
-
+</body>
+</html>

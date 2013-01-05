@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Niin myos portto Rahab, eiko han toiden kautta vanhurskautetuksi nahty, koska han korjasi ne vakoojat ja toista tieta heidat paasti ulos?	
 
 <div class="versenum">26.</div> Silla niinkuin ruumis ilman henkea on kuollut, niin myos usko on ilman toita kuollut.	
-
+</body>
+</html>

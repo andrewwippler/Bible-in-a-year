@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja hanen palveliansa kapinoivat hanta vastaan ja tappoivat hanen omassa huoneessansa.	
 
 <div class="versenum">25.</div> Niin maan kansa tappoi kaikki ne, jotka olivat liiton tehneet kuningas Amonia vastaan. Ja maan kansa teki hanen poikansa Josian kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

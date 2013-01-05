@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja Rehabeam asetti Abian, Maekan pojan, veljeinsa paaksi ja hallitsiaksi; silla han mieli tehda hanen kuninkaaksi.	
 
 <div class="versenum">23.</div> Ja han teki toimellisesti ja jakoi poikansa Juudan ja BenJaminin maahan kaikkiin vahvoihin kaupunkeihin, ja antoi heille yltakylla viljaa, ja havitteli monta emantaa.	
-
+</body>
+</html>

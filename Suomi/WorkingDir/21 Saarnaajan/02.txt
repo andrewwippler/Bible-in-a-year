@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> - "Silla kuka voi syoda ja kuka nauttia ilman minua?" -	
 
 <div class="versenum">26.</div> Silla han antaa ihmiselle, joka on hanelle otollinen, viisautta, tietoa ja iloa; mutta syntiselle han antaa tyoksi koota ja kartuttaa annettavaksi sille, joka on otollinen Jumalalle. Sekin on turhuutta ja tuulen tavoittelua.	
-
+</body>
+</html>

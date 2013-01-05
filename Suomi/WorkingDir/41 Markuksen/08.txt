@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Eli mita ihminen antaa sielunsa lunastukseksi?	
 
 <div class="versenum">38.</div> Silla joka hapee minua ja minun sanojani tassa huorintekiassa ja syntisessa suvussa, sita myos pitaa Ihmisen Pojan hapeeman, koska han tulee Isansa kunniassa pyhain enkelien kanssa.	
-
+</body>
+</html>

@@ -121,4 +121,5 @@
 <div class="versenum">58.</div> Mutta vaate, loimi, kude, eli kaikkinainen nahkakalu, kuin pesty on, joista haava kadonnut on; se pitaa vastuudesta pestaman ja puhdas oleman.	
 
 <div class="versenum">59.</div> Tama on saaty spitalisesta ruvesta vaatteessa, liinaisessa, lankaisessa loimessa eli kuteessa, ja kaikkinaisessa nahkavaatteessa: niita puhtaaksi eli saastaiseksi sanoa.	
-
+</body>
+</html>

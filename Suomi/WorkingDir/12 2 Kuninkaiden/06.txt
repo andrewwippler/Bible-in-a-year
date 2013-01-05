@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Ja Elisa istui huoneessansa, ja vanhimmat istuivat hanen tykonansa; mutta han lahetti miehen edellansa, mutta ennenkuin sanansaattaja tuli hanen tykonsa, sanoi han vanhimmille: oletteko nahneet, kuinka se murhamiehen poika on lahettanyt ottamaan minun paatani pois? Katsokaat, koska sanansaattaja tulee, etta te oven suljette ja ovella hanen syoksette ulos: katso, hanen herransa jalkain tomina seuraa hanta.	
 
 <div class="versenum">33.</div> Kuin han viela heidan kanssansa puhui, katso, niin sanansaattaja tuli hanen tykonsa ja sanoi: katso, tama paha tulee Herralta, mita mina enaan odotan Herraa?	
-
+</body>
+</html>

@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Joka antaa kaikelle lihalle ruan; silla hanen laupiutensa pysyy ijankaikkisesti.	
 
 <div class="versenum">26.</div> Kiittakaat taivaan Jumalaa! silla hanen laupiutensa pysyy ijankaikkisesti.	
-
+</body>
+</html>

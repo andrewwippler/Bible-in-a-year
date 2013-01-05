@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Jos siis David kutsuu hanen Herraksi, kuinka han on hanen poikansa?	
 
 <div class="versenum">46.</div> Ja ei kenkaan taitanut hanta mitaan vastata: ei myos yksikaan rohjennut sen paivan perasta hanelta enempaa kysya.	
-
+</body>
+</html>

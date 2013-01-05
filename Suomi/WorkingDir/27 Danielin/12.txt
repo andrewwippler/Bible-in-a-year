@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Autuas on, joka odottaa ja ulottuu tuhanteen kolmeensataan ja viiteen paivaan neljattakymmenta.	
 
 <div class="versenum">13.</div> Mutta sina mene pois, siihen asti kuin loppu tulee ja lepaa, ettas nousisit sinun osaas paivain lopulla.	
-
+</body>
+</html>

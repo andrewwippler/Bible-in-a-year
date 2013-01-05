@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja sanoivat vuorille ja kukkuloille: langetkaat meidan paallemme ja peittakaat meita sen kasvoin edesta, joka istuimella istuu, ja Karitsan vihasta.	
 
 <div class="versenum">17.</div> Silla se suuri hanen vihansa paiva on tullut, ja kuka voi pysya?	
-
+</body>
+</html>

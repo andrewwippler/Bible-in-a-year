@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja pitaisit uskon ja hyvan omantunnon, jonka muutamat ovat hyljanneet ja ovat uskon puolesta haaksirikkoon tulleet,	
 
 <div class="versenum">20.</div> Joista on Hymeneus ja Aleksander, jotka mina olen saatanan haltuun antanut, etta he tulisivat kuritetuksi enempi pilkkaamasta.	
-
+</body>
+</html>

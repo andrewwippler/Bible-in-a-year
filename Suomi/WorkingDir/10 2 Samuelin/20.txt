@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja Seja oli kirjoittaja; ja Zadok ja Abjatar olivat papit;	
 
 <div class="versenum">26.</div> Niin myos Ira Jairilainen oli Davidin ylimmainen.	
-
+</body>
+</html>

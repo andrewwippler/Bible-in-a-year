@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Yhden oikeuden pitaa oleman teidan seassanne, niin muukalaisella kuin omaisellakin; silla mina olen Herra teidan Jumalanne.	
 
 <div class="versenum">23.</div> Koska Moses oli naita puhunut Israelin lapsille, niin veivat he sen leirista ulos, joka kiroillut oli, ja kivittivat hanen kuoliaaksi: ja Israelin lapset tekivat niinkuin Herra Mosekselle kaskenyt oli.	
-
+</body>
+</html>

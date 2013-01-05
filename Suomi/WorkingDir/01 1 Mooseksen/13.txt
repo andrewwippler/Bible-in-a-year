@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Nouse ja vaella maata pitkin ja poikin: silla sinulle mina sen annan.	
 
 <div class="versenum">18.</div> Niin Abram siirsi majansa, ja tuli, ja asui Mamren lakeudella, joka on Hebronissa: ja rakensi siina alttarin Herralle.	
-
+</body>
+</html>

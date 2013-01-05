@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Pietari sanoi hanelle: vierailta. Sanoi Jesus hanelle: niin lapset ovat vapaat.	
 
 <div class="versenum">27.</div> Mutta ettemme heita pahentaisi, niin mene merelle, heita onkes, ja ota se kala, joka ensin tulee ylos, ja avaa hanen suunsa, niin sina loydat rahan: ota se, ja anna heille minun ja sinun edestas.	
-
+</body>
+</html>

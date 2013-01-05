@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Mutta Betuel siitti Rebekan. Namat kahdeksan synnytti Milka Nahorille Abrahamin veljelle.	
 
 <div class="versenum">24.</div> Mutta hanen jalkavaimonsa, Rehuma nimelta, synnytti Teban, Gahamin, Tehaksen ja Maakan.	
-
+</body>
+</html>

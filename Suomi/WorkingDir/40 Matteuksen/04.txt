@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja sanoma kuului hanesta kaikkeen Syrian maahan. Ja he toivat hanen tykonsa kaikkinaisia sairaita, moninaisilla taudeilla ja kivuilla vaivatuita ja piruilta riivatuita, ja kuutaudillisia ja halvatuita; ja han paransi ne.	
 
 <div class="versenum">25.</div> Ja hanta seurasi paljo vakea Galileasta ja kymmenesta kaupungista, ja Jerusalemista ja Juudeasta, ja maakunnista silla puolella Jordania.	
-
+</body>
+</html>

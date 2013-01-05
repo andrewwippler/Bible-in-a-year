@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Hanella oli neljakymmenta poikaa ja kolmekymmenta pojanpoikaa, jotka ajoivat seitsemallakymmenella aasin varsalla; han tuomitsi Israelia kahdeksan ajastaikaa.	
 
 <div class="versenum">15.</div> Ja Abdon Hillelin poika, Pirtagonilainen, kuoli ja haudattiin Pirtagoniin Ephraimin maalla, Amalekilaisten vuorella.	
-
+</body>
+</html>

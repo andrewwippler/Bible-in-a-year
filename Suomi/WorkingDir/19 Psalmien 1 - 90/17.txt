@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Sinun kadellas ihmisista, Herra, taman maailman ihmisista, joiden osa on tassa elamassa, ja joiden vatsan sina taytat tavarallas: heidan lapsensa ravitaan, ja he jattavat tahteensa lapsukaisillensa.	
 
 <div class="versenum">15.</div> Mutta mina saan nahda sinun kasvos vanhurskaudessa: mina ravitaan herattyani sinun kuvas jalkeen.	
-
+</body>
+</html>

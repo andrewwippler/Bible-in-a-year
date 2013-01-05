@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Naita pitaa Pharaon nakeman, ja itsiansa lohduttaman kaiken kansansa kanssa, jotka miekalla tapetut ovat, Pharao ja koko hanen sotajoukkonsa, sanoo Herra, Herra.	
 
 <div class="versenum">32.</div> Silla koko maailman pitaa myos minua kerran pelkaaman, etta Pharao ja koko hanen paljoutensa pitaa ymparileikkaamattomain seassa ja miekalla tapettuin seassa makaaman, sanoo Herra, Herra.	
-
+</body>
+</html>

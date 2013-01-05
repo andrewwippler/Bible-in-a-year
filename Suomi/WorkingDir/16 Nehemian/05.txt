@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja minulle valmistettiin joka paiva yksi harka, ja kuusi valittua lammasta, ja lintuja, ja erilaisia viinoja yltakylla joka kymmenes paiva; ja en mina kuitenkaan anonut paamiehen ruokaa, silla raskas orjuus oli talla kansalla.	
 
 <div class="versenum">19.</div> Minun Jumalani, muista minulle hyvaksi kaikki, minka mina olen tehnyt talle kansalle.	
-
+</body>
+</html>

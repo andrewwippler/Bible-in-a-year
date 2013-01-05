@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Mutta Herra auttaa vanhurskaita: han on heidan vakevyytensa tuskan ajalla.	
 
 <div class="versenum">40.</div> Ja Herra auttaa heita ja paastaa heita: han pelastaa heita jumalattomista ja vapahtaa heita; silla he uskalsivat haneen.	
-
+</body>
+</html>

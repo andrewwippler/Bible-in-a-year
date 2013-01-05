@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja silla valilla tuli taivas pilvista mustaksi ja tuulesta, ja tuli sangen suuri sade. Mutta Ahab matkusti ja tuli Jisreeliin.	
 
 <div class="versenum">46.</div> Ja Herran kasi oli Elian paalla, ja han vyotti kupeensa ja juoksi Ahabin edella, siihenasti kuin han tuli Jisreeliin.	
-
+</body>
+</html>

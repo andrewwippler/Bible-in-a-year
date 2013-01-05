@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja vaelsi joka vuosi ympari BetElin ja Gilgalin ja Mitspan. Ja kuin han oli tuominnut Israelia kaikissa naissa paikoissa,	
 
 <div class="versenum">17.</div> Tuli han Ramaan jalleen; silla siella oli hanen huoneensa ja siella han tuomitsi Israelia, ja rakensi Herralle siella alttarin.	
-
+</body>
+</html>

@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Etta myos meille Herra hyvin tekis, ja meidan maamme hedemansa antais;	
 
 <div class="versenum">13.</div> Etta vanhurskaus sittenkin hanen edessansa pysyis ja menestyis.	
-
+</body>
+</html>

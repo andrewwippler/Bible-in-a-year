@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Mutta se viisaus, joka ylhaalta on, se on ensisti tosin puhdas, sitte rauhallinen, sivia, uskova, taynna laupiutta ja hyvia hedelmia, eriseuratoin ja ulkokullatoin.	
 
 <div class="versenum">18.</div> Mutta vanhurskauden hedelma rauhassa kylvetaan niille, jotka rauhan pitavat.	
-
+</body>
+</html>

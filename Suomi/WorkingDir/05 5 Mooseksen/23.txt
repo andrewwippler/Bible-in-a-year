@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Kuin menet lahimmaises viinamakeen, niin sina saat syoda viinamarjoja himos jalkeen, ettas ravitaan; mutta ala pane mitakaan astiaas.	
 
 <div class="versenum">25.</div> Koskas menet lahimmaises laihoon, niin sina saat katkoa tahkapaita kadellas, mutta ala sirpilla lahimmaises laihoa niita.	
-
+</body>
+</html>

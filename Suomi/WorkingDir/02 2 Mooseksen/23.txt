@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Ei sinun pida liittoa tekeman heidan kanssansa, eika heidan jumalainsa kanssa.	
 
 <div class="versenum">33.</div> Ei heidan pida asuman sinun maassas, ettei he kehoittaisi sinua syntia tekemaan minua vastaan, niin ettas palvelet heidan jumaliansa, silla se on sinulle paulaksi.	
-
+</body>
+</html>

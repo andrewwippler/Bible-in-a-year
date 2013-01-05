@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Ja Harbona, kuninkaan kamaripalvelijoista, sanoi kuninkaalle: katso, Hamanin kartanolla seisoo puu viisikymmenta kyynaraa korkea, jonka han teki Mordekaita varten, joka hyvaa puhui kuninkaan edesta. Niin sanoi kuningas: hirtettakaan han siihen.	
 
 <div class="versenum">10.</div> Niin he hirttivat Hamanin siihen puuhun, jonka han teki Mordekaita varten; ja niin asettui kuninkaan viha.	
-
+</body>
+</html>

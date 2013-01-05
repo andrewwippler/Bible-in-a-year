@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Niin kuningas vastasi ja sanoi: annettakaan hanelle tama elava lapsi, ja ei sita pida suinkaan tapettaman, silla tama on hanen aitinsa.	
 
 <div class="versenum">28.</div> Ja sen tuomion, jonka kuningas sanoi, kuuli kaikki Israel, ja he pelkasivat kuningasta; silla he nakivat, etta Jumalan tieto oli hanessa, toimittaa tuomiota.	
-
+</body>
+</html>

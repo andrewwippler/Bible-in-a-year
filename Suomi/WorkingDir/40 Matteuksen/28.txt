@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Menkaat siis ja opettakaat kaikkea kansaa, ja kastakaat heita nimeen Isan ja Pojan ja Pyhan Hengen,	
 
 <div class="versenum">20.</div> Ja opettakaat heita pitamaan kaikki, mita mina olen teille kaskenyt. Ja katso, mina olen teidan kanssanne joka paiva, maailman loppuun asti. Amen!	
-
+</body>
+</html>

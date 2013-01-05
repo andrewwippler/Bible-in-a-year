@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Niin pitaa myos sinun tekeman harkais ja lammastes kanssa. Seitseman paivaa anna heidan olla emainsa tykona, kahdeksantena paivana pitaa sinun sen antaman minulle.	
 
 <div class="versenum">31.</div> Teidan pitaa oleman pyha kansa minulle. Sentahden ei teidan pida syoman lihaa, joka metsan pedoilta raadeltu on, mutta heittaman sen koirille.	
-
+</body>
+</html>

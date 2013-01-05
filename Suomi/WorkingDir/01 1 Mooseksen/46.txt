@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Koska siis Pharao kutsuu teita ja sanoo: mika teidan virkanne on?	
 
 <div class="versenum">34.</div> Niin sanokaat: sinun palvelias ovat totuuneet karjaa kaitsemaan, hamasta meidan nuoruudestamme niin tahanasti, seka me etta meidan isamme: etta te saisitte asua Gosenin maalla, silla kaikki paimenet ovat kauhistus Egyptilaisille.	
-
+</body>
+</html>

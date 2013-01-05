@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Taysinaisena mina taalta laksin, vaan Herra antoi minun tyhjana palata. Miksi te siis kutsutte minua Noomi? silla Herra on minun alentanut ja Kaikkivaltias on minua vaivannut.	
 
 <div class="versenum">22.</div> Ja niin palasi Noomi, ja Ruut Moabilainen hanen miniansa palasi hanen kanssansa Moabilaisten maalta; ja he tulivat Betlehemiin ohran leikkaamisen alussa.	
-
+</body>
+</html>

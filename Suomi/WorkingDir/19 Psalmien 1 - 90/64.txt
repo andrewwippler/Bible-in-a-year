@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Ja kaikkein ihmisten pitaa pelkaaman, ja Jumalan tyota ilmoittaman, ja hanen tyonsa ymmartaman.	
 
 <div class="versenum">10.</div> Vanhurskaat pitaa Herrassa riemuitseman, ja haneen uskaltaman; ja kaikki vaat sydamet kerskatkoon siita.	
-
+</body>
+</html>

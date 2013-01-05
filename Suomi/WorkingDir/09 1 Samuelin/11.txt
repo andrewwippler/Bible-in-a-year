@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Niin sanoi Samuel kansalle: tulkaat, kaykaamme Gilgaliin ja uudistakaamme siella kuninkaan valtakunta.	
 
 <div class="versenum">15.</div> Niin kaikki kansa meni Gilgaliin, ja Saul tehtiin siella kuninkaaksi Herran edessa Gilgalissa; ja he uhrasivat siella kiitosuhria Herran edessa. Niin Saul ja kaikki Israelin miehet iloitsivat sangen suuresti.	
-
+</body>
+</html>

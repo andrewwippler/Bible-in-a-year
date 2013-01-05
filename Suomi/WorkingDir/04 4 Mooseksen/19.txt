@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja tama on heille ijankaikkinen saaty. Ja joka puhdistusvedella priiskotteli, se peskaan myos vaatteensa. Ja se joka tarttuu puhdistusveteen, pitaa oleman saastainen ehtoosen asti.	
 
 <div class="versenum">22.</div> Ja kaikki, johonka saastainen rupee, pitaa oleman saastainen ehtoosen asti.	
-
+</body>
+</html>

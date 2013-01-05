@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Lodissa ja Onossa, Seppain laaksossa.	
 
 <div class="versenum">36.</div> Ja muutamat Levilaiset asuivat Juudan ja Benjaminin rajoilla.	
-
+</body>
+</html>

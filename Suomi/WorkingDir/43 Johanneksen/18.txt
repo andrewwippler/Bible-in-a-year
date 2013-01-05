@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Mutta teilla on tapa, etta minun pitaa teille paastaman yhden paasiaisena: tahdotteko siis, etta mina paastan teille Juudalaisten kuninkaan?	
 
 <div class="versenum">40.</div> Niin he huusivat taas kaikki, sanoen: ei tata, vaan Barabbasta. Mutta Barabbas oli ryovari.	
-
+</body>
+</html>

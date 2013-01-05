@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Mina tahdon sen korkialle Israelin vuorelle istuttaa, etta sen pitaa oksia saaman, ja hedelman kantaman, ja suureksi sedripuuksi tuleman: niin etta kaikkinaiset linnut pitaa taitaman asua hanen allansa, ja hanen oksainsa varjon alla lepaaman.	
 
 <div class="versenum">24.</div> Ja kaikki puut maan paalla pitaa tietaman, etta mina Herra olen korkian puun alentanut, ja matalan puun ylentanyt, ja viheriaisen puun kuivannut, ja kuivan puun viheriaiseksi tehnyt; mina Herra sen puhun, ja teen sen myos.	
-
+</body>
+</html>

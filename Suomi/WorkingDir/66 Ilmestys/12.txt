@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Mutta maa autti vaimoa, ja maa avasi suunsa, ja sarpi veden, jonka lohikarme suustansa puuskannut oli.	
 
 <div class="versenum">17.</div> Ja lohikarme vihastui vaimon paalle, ja meni sotimaan muiden kanssa hanen siemenestansa, jotka Jumalan kaskyt katkevat ja Jesuksen Kristuksen todistuksen pitavat.	
-
+</body>
+</html>

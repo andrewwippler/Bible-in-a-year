@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja aurinko nousi, koska han Pnielin ohitse kavi, ja han ontui reidestansa.	
 
 <div class="versenum">32.</div> Sentahden ei syo Israelin lapset reisisuonta tahan paivaan asti, etta Jakobin reisiluu horjahtui.	
-
+</body>
+</html>

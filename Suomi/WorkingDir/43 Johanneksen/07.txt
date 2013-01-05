@@ -109,4 +109,5 @@
 <div class="versenum">52.</div> He vastasivat ja sanoivat hanelle: oletko sinakin Galilealainen? tutki ja nae, ettei Galileasta ole yhtaan prophetaa tullut.	
 
 <div class="versenum">53.</div> Ja niin kukin meni kotiansa.	
-
+</body>
+</html>

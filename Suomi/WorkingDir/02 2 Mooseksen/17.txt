@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ja Moses rakensi alttarin, ja kutsui sen nimen: Herra on minun lippuni.	
 
 <div class="versenum">16.</div> Ja han sanoi: koska kasi oli Herran istuinta pain, oli Herralla sota Amalekia vastaan: (niin se on tastakin lahin) suvusta sukuun.	
-
+</body>
+</html>

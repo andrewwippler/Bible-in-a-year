@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Mene ja kokoo kaikki Juudalaiset, jotka Susanissa ovat, ja paastotkaat minun edestani, ettette syo etteka juo kolmena paivana yolla eli paivalla; mina paastoon myos piikoineni, ja niin mina menen kuninkaan tyko kaskyakin vastaan; jos mina hukun, niin mina hukun.	
 
 <div class="versenum">17.</div> Mordekai meni ja teki kaikki niinkuin Ester hanelle kaski.	
-
+</body>
+</html>

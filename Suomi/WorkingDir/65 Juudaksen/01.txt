@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Mutta hanelle, joka teidat voi viasta varjella ja asettaa nuhteetoinna kunniansa kasvoin eteen, riemulla,	
 
 <div class="versenum">25.</div> Ainoalle viisaalle Jumalalle, meidan Vapahtajallemme, olkoon kunnia, ja majesteetti, ja valta, ja voima, nyt ja kaikessa ijankaikkisuudessa, amen!	
-
+</body>
+</html>

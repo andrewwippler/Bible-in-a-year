@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja tama olkoon teille merkiksi, sanoo Herra: silla mina tahdon teita tassa paikassa rangaista, etta tietaisitte minun sanani tulevan todeksi, teille onnettomuudeksi;	
 
 <div class="versenum">30.</div> Nain sanoo Herra: katso, mina tahdon hyljata Pharao Hophran, Egyptin kuninkaan, hanen vihollistensa kasiin ja niiden kasiin, jotka hanen henkeansa vaijyvat, niinkuin mina Zedekiankin, Juudan kuninkaan, hylkasin Nebukadnetsarin, Babelin kuninkaan, hanen vihollistensa kateen, ja sen joka hanen henkeansa vaijyi.	
-
+</body>
+</html>

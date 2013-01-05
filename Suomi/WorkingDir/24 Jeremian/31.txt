@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja mittanuora pitaa siella kohdastansa kaymanhamaan Garebin kukkulaan asti, ja kayman ympari Goaan.	
 
 <div class="versenum">40.</div> Ja kaiken ruumiisten ja tuhkalaakson, ja kaikki pellot, hamaan Kidronin ojaan saakka, ja hamaan Hevosportin kulmaan, itaan pain, pitaa Herralle pyha oleman, niin ettei sita ikana sarjeta eli rikota.	
-
+</body>
+</html>

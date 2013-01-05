@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silla mina tiedan, etta Herra raadollisen asian ja koyhan oikeuden toimittaa.	
 
 <div class="versenum">13.</div> Tosin vanhurskaat kiittavat sinun nimeas, ja vakaat asuvat sinun kasvois edessa.	
-
+</body>
+</html>

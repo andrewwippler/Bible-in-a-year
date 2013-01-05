@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Viisaitten sanat, hiljaisuudessa kuullut, ovat paremmat kuin tyhmain paamiehen huuto.	
 
 <div class="versenum">18.</div> Viisaus on parempi kuin sota-aseet, mutta yksi ainoa syntinen saattaa hukkaan paljon hyvaa.	
-
+</body>
+</html>

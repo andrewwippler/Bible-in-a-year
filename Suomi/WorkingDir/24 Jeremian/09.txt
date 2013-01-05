@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Katso, se aika tulee, sanoo Herra, etta mina rankaisen kaikki ymparileikatut ymparileikkaamattomain kanssa:	
 
 <div class="versenum">26.</div> Egyptin, Juudan, Edomin, Ammonin lapset, ja Moabin ja kaikki, jotka maan aarissa korvessa asuvat; silla kaikilla pakanoilla on ymparileikkaamatoin esinahka, mutta koko Israelin huoneella on ymparileikkaamatoin sydan.	
-
+</body>
+</html>

@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Han pilkkaa pilkkaajia; mutta noyrille han antaa armon.	
 
 <div class="versenum">35.</div> Viisaat kunnian perivat, mutta tyhmat hapian saavat.	
-
+</body>
+</html>

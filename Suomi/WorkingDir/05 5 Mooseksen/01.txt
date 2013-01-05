@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Kuin te sielta palasitte ja itkitte Herran edessa, niin ei Herra tahtonut kuulla teidan aantanne, eika korviinsa ottanut.	
 
 <div class="versenum">46.</div> Niin olette te olleet Kadeksessa kauvan aikaa, niiden paivain luvun jalkeen, kuin te viivyitte siella (odottain vakoojia).	
-
+</body>
+</html>

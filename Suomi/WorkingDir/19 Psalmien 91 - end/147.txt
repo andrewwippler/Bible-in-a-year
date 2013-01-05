@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Han ilmoittaa Jakobille sanansa, ja Israelille saatynsa ja oikeutensa.	
 
 <div class="versenum">20.</div> Ei han niin tehnyt kaikille pakanoille; eika he tieda hanen oikeuttansa, Halleluja!	
-
+</body>
+</html>

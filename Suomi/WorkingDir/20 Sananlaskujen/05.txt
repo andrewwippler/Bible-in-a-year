@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Jumalattoman vaaryys kasittaa hanen, ja hanen syntinsa paulat ottavat hanet kiinni.	
 
 <div class="versenum">23.</div> Hanen pitaa kuoleman, ettei han antanut opettaa itsiansa, ja suuressa tyhmyydessansa tulee han petetyksi.	
-
+</body>
+</html>

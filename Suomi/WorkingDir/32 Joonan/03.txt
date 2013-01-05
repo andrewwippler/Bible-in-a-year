@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Kukaties Jumala taitaa kaantya ja katua, ja lakata hirmuisesta vihastansa, ettemme huku.	
 
 <div class="versenum">10.</div> Kuin Jumala naki heidan tyonsa, etta he palasivat pahasta tiestansa, katui Jumala sita pahaa, jota han oli puhunut heille tehdaksensa, ja ei tehnytkaan.	
-
+</body>
+</html>

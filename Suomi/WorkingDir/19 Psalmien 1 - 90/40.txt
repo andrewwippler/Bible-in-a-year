@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Iloitkaan ja riemuitkaan kaikki sinussa, jotka sinua etsivat, ja jotka sinun autuuttas rakastavat, sanokaan aina: Herra olkoon korkiasti ylistetty!	
 
 <div class="versenum">17.</div> Mina olen koyha ja vaivainen, mutta Herra pitaa minusta murheen: sina olet minun auttajani ja vapahtajani: minun Jumalani, ala viivy.	
-
+</body>
+</html>

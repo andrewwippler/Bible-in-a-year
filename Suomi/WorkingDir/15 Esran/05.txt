@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Silloin tuli se Sesbatsar ja laski Jumalan huoneen perustuksen Jerusalemissa; ja siita ajasta niin tahan asti on sita rakennettu, ja ei ole viela taytetty.	
 
 <div class="versenum">17.</div> Nyt siis jos kuninkaalle kelpaa, niin antakaan etsia kuninkaan tavarahuoneessa, joka on Babelissa, jos se on kasketty Kores kuninkaalta, heidan rakentaa tata Jumalan huonetta, joka on Jerusalemissa, ja antakoon tasta asiasta meidan tietaa kuninkaan tahdon.	
-
+</body>
+</html>

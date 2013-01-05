@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Etta hanen paallensa ripustetaan kaikki hanen isansa huoneen kunnia, lapset ja lasten lapset, kaikki pienet kappaleet, juoma-astiat, ja kaikkinaiset kanteleet.	
 
 <div class="versenum">25.</div> Silloin, sanoo Herra Zebaot, naula pitaa otettaman pois, joka vahvassa paikassa on, niin etta hanen pitaa rikkoontuman, lankeeman, putooman, ja se kuorma kuin hanen paallansa on, pitaa hukkuman; silla Herra sen sanoo.	
-
+</body>
+</html>

@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Jotka tekivat kansalle oikeuden joka aika. Mutta jotka raskaat asiat olivat, lykkasivat he Moseksen alle; vaan kaikki pienet asiat he itse ratkasivat.	
 
 <div class="versenum">27.</div> Niin Moses antoi appensa menna ja han meni omalle maallensa.	
-
+</body>
+</html>

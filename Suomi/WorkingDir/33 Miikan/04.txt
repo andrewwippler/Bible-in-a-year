@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Mutta ei he Herran ajatuksista mitaan tieda, eika ota vaaria hanen neuvostansa; silla han on hakenut heita kokoon, niinkuin lyhteet riiheen.	
 
 <div class="versenum">13.</div> Sentahden nouse ja tapa riihta sina Zionin tytar; silla mina tahdon sinulle tehda rautaiset sarvet ja vaskiset kynnet, ettas paljon kansaa runtelet. Niin mina tahdon myos heidan tavaransa alttiiksi antaa Herralle, ja heidan hyvyytensa kaiken maailman hallitsialle.	
-
+</body>
+</html>

@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja nyt, lapsukaiseni, pysykaat hanessa: etta kuin han ilmestyy, meilla olis turva, ettemme hanen edessansa hapiaan tulisi hanen tulemisessansa.	
 
 <div class="versenum">29.</div> Jos te tiedatte, etta han vanhurskas on, niin tietakaat myos, etta jokainen, joka vanhurskautta tekee, se on syntynyt hanesta.	
-
+</body>
+</html>

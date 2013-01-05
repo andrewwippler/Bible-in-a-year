@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Aaron puhui kaikki ne sanat, jotka Herra Mosekselle puhunut oli, ja teki ihmeita kansan edessa.	
 
 <div class="versenum">31.</div> Ja kansa uskoi. Ja kuin he kuulivat, etta Herra oli etsinyt Israelin lapsia, nahnyt myos heidan ahdistuksensa, lankesivat he maahan ja rukoilivat.	
-
+</body>
+</html>

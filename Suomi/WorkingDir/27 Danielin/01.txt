@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja kuningas loysi heidat, kuin han heita tutkisteli kaikissa asioissa, kymmenen kertaa toimellisemmiksi ja ymmartavaisemmiksi kuin kaikki tahtientutkiat ja viisaat koko valtakunnassansa.	
 
 <div class="versenum">21.</div> Ja Daniel oli siella hamaan ensimaiseen Koreksen vuoteen asti.	
-
+</body>
+</html>

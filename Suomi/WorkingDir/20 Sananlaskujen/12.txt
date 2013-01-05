@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Ei petollinen asia menesty, mutta ahkera saa hyvan tavaran.	
 
 <div class="versenum">28.</div> Vanhurskauden tiella on elama, ja hanen poluillansa ei ole kuolemaa.	
-
+</body>
+</html>

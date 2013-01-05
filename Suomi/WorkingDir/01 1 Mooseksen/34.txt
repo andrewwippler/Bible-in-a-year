@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Jakob sanoi Simeonille ja Leville: te olette minulle mielikarvauden tehneet, saattaen minun haisevaiseksi taman maakunnan asuvaisille, Kanaanealaisille ja Pheresilaisille: ja mina olen vaha joukko, koska he heitansa kokoovat minun paalleni, niin he tappavat minun, ja mina hukutetaan, ja minun huoneeni.	
 
 <div class="versenum">31.</div> Mutta he vastasivat: pitikosta heidan tekeman meidan sisaremme kanssa, niinkuin jonkun porton kanssa?	
-
+</body>
+</html>

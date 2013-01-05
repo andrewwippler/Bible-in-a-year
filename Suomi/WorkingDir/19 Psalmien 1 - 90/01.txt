@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Sentahden ei jumalattomat kesta tuomiota, eika syntiset vanhurskasten seuraa.	
 
 <div class="versenum">6.</div> Silla Herra tietaa vanhurskasten tien; mutta jumalattomain tie hukkuu.	
-
+</body>
+</html>

@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Ja minun majani pitaa oleman heidan seassansa, ja mina tahdon olla heidan Jumalansa; ja heidan pitaa oleman minun kansani.	
 
 <div class="versenum">28.</div> Niin etta pakanainkin pitaa ymmartaman, etta mina Herra pyhitan Israelin; ja minun Pyhani pitaa oleman heidan tykonansa ijankaikkisesti.	
-
+</body>
+</html>

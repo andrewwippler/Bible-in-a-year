@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Vaan heidan pitaa kaveleman maakunnassa vaivattuina ja nalkaisina; mutta kuin he nalkaa karsivat, niin he vihastuvat ja kiroilevat kuningastansa ja Jumalaansa, ja katsovat ylospain,	
 
 <div class="versenum">22.</div> Ja katselevat maata, vaan ei muuta mitaan loyda, kuin murheet ja pimeydet; silla he ovat pimitetyt ahdistuksessa, ja eksyvat pimeydessa.	
-
+</body>
+</html>

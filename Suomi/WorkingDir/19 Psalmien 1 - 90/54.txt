@@ -17,4 +17,5 @@
 <div class="versenum">6.</div> Niin mina mielellani sinulle uhraan: mina kiitan, Herra, sinun nimeas, silla se on hyva.	
 
 <div class="versenum">7.</div> Silla han on pelastanut minun kaikesta hadasta; ja minun silmani ovat nahneet minun viholiseni.	
-
+</body>
+</html>

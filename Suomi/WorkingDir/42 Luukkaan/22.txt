@@ -145,4 +145,5 @@
 <div class="versenum">70.</div> Niin he sanoivat kaikki: sina olet siis Jumalan Poika? sanoi han heille: tepa sen sanotte, etta mina olen.	
 
 <div class="versenum">71.</div> Niin he sanoivat: mita me silleen todistusta tarvitsemme, silla me olemme sen kuulleet hanen omasta suustansa.	
-
+</body>
+</html>

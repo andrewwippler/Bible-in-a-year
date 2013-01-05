@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Vaan etsi minua visusti Roomissa ollessansa, ja loysi minun.	
 
 <div class="versenum">18.</div> Herra antakoon hanen loytaa laupiuden sina paivana Herran tykona! Ja kuinka monessa asiassa han minulle Ephesossa oli avullinen, sina parhain tiedat.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Niin tulee paljo kansaa ja pakanat tulevat joukoin, etsimaan Herraa Zebaotia Jerusalemiin, ja rukoilemaan Herran kasvojen eteen.	
 
 <div class="versenum">23.</div> Nain sanoo Herra Zebaot: silla ajalla pitaa kymmenen miesta kaikkinaisista pakanain kielista todella tarttuman yhden Juudan miehen vaatteen palteesen, ja sanoman: me tahdomme kaydan teidan kanssanne; silla me kuulimme, etta Jumala on teidan kanssanne.	
-
+</body>
+</html>

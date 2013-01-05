@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Nain sanoo Herra, Herra: kuin mina Israelin huonetta kokoon kansoista, joihin he hajoitetut ovat, niin mina tahdon heissa osoittaa pakanoille, etta mina pyha olen; ja heidan pitaa asuman maallansa, jonka mina palvelialleni Jakobille antanut olin.	
 
 <div class="versenum">26.</div> Ja heidan pitaa murheetoinna asuman siina, ja huoneita rakentaman, ja istuttaman viinapuita, juuri murheetoinna he asuvat, kuin mina annan oikeuden kayda kaikkein heidan vihollistensa ylitse heidan ymparistollansa; ja heidan pitaa ymmartaman, etta mina Herra olen heidan Jumalansa.	
-
+</body>
+</html>

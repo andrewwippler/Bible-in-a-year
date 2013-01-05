@@ -133,4 +133,5 @@
 <div class="versenum">64.</div> Joiden luvussa ei yhtaan ollut siita luvusta, kuin Moses ja pappi Aaron lukivat Israelin lapset Sinain korvessa;	
 
 <div class="versenum">65.</div> Silla Herra oli sanonut heille, etta heidan piti totisesti kuoleman korvessa; ja ei yksikaan jaanyt heista elamaan, ainoastansa Kaleb Jephunnen poika ja Josua Nunin poika.	
-
+</body>
+</html>

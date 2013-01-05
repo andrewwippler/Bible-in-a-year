@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja Herra kaski meita tekemaan kaikkein naiden saatyin jalkeen, peljaten Herraa meidan Jumalaamme, etta meille hyvin kavis kaikkena meidan elinaikanamme, niinkuin myos tanapana kay.	
 
 <div class="versenum">25.</div> Ja sen pitaa oleman meille vanhurskaudeksi, jos me pidamme ja teemme kaikki namat kaskyt Herran meidan Jumalamme edessa, niinkuin han meille on kaskenyt.	
-
+</body>
+</html>

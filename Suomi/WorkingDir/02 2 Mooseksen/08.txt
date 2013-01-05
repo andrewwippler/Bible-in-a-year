@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Ja Herra teki niinkuin Moses sanonut oli: ja otti turilaat Pharaolta ja hanen palvelioiltansa, ja hanen kansaltansa pois, niin ettei yhtakaan jaanyt.	
 
 <div class="versenum">32.</div> Mutta Pharao paadutti sydamensa viela nyt tallakin haavaa ja ei paastanyt kansaa.	
-
+</body>
+</html>

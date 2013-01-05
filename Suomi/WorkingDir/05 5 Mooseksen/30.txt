@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Mina otan tanapana taivaan ja maan todistajaksi teista, etta mina panin teidan eteenne elaman ja kuoleman, siunauksen ja kirouksen; niin valitse elama, etta sina ja sinun siemenes elaisit,	
 
 <div class="versenum">20.</div> Ettas rakastaisit Herraa sinun Jumalaas ja kuulisit hanen aantansa, ja riippuisit hanessa kiinni; silla han on sinun elamas ja sinun pitka ikas, etta pysyisit siina maassa, jonka Herra isilles, Abrahamille, Isaakille ja Jakobille vannoi, heille antaaksensa.	
-
+</body>
+</html>

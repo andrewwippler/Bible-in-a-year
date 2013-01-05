@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Mina suren suuresti sinun tahtes, minun veljeni Jonatan. Sina olit minulle juuri rakas: sinun rakkautes oli suurempi minulle kuin vaimoin rakkaus.	
 
 <div class="versenum">27.</div> Kuinka ovat sankarit langenneet, ja sota-aseet tulleet pois?	
-
+</body>
+</html>

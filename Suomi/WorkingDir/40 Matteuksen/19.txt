@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Ja jokainen, joka luopui huoneista, taikka veljista, taikka sisarista, taikka isasta, taikka aidista, taikka emannasta, taikka lapsista, taikka pellosta, minun nimeni tahden, hanen pitaa satakertaisesti saaman, ja ijankaikkisen elaman periman.	
 
 <div class="versenum">30.</div> Mutta monta ensimaista tulee viimeiseksi ja viimeista ensimaiseksi.	
-
+</body>
+</html>

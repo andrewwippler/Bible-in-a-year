@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Tama kelpasi kuninkaalle ja paamiehille; ja kuningas teki Memukanin sanan jalkeen.	
 
 <div class="versenum">22.</div> Niin kirjat lahetettiin kaikkiin kuninkaan maakuntiin, jokaiseen maakuntaan heidan kirjoituksensa jalkeen, ja kaikkein kansain tyko heidan kielellansa: etta jokainen mies on hallitsia huoneessansa, ja antoi puhuttaa kansansa kielella.	
-
+</body>
+</html>

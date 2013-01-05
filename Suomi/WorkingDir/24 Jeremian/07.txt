@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ja taman kansan ruumiit pitaa taivaan lintuin ja maan elainten ruaksi tuleman, ja ei yksikaan pida heita siita ajaman pois.	
 
 <div class="versenum">34.</div> Ja mina otan pois Juudan kaupungeista ja Jerusalemin kaduilta ilon ja riemun aanen, yljan ja morsiamen aanen; silla maan pitaa kylmille tuleman.	
-
+</body>
+</html>

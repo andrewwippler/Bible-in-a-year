@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja kuningas Salomo on siunattu, ja Davidin istuin on vahvistettu Herran edessa ijankaikkisesti.	
 
 <div class="versenum">46.</div> Ja kuningas kaski BenaJaa Jojadan poikaa; han meni ja loi hanen kuoliaaksi. Ja valtakunta vahvistettiin Salomon kaden kautta.	
-
+</body>
+</html>

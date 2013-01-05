@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Ja tama on saaty kaikista elaimista ja linnuista, ja kaikista, jotka vesissa liikkuvat, ja kaikkinaisista elaimista, jotka maalla matelevat,	
 
 <div class="versenum">47.</div> Etta tietaisitte eroittaa puhtaat saastaisista: ja mita elaimia syoda saadaan, ja mita elaimia ei sovi syoda.	
-
+</body>
+</html>

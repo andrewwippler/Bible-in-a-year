@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Niin etta moni sinun ylitses hammastyy, etta hanen muotonsa on rumempi muita ihmisia, ja hanen hahmonsa huonompi kuin ihmisten lasten.	
 
 <div class="versenum">15.</div> Mutta niin on han monta pakanaa priiskottava, etta myos kuningasten taytyy suunsa hanen edessansa tukita; silla joille ei mitaan hanesta ilmoitettu ollut, nekin hanen ilolla nakevat, ja jota ei he kuulleet ole, sen ne ymmartavat.	
-
+</body>
+</html>

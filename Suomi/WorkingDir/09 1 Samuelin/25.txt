@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> David otti myos Ahinoamin Jisreelista; ja olivat ne molemmat hanen emantansa.	
 
 <div class="versenum">44.</div> Mutta Saul antoi tyttarensa Mikalin, Davidin emannan, Phaltille Laiksen pojalle Gallimista.	
-
+</body>
+</html>

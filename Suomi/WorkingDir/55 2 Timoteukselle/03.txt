@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Silla kaikkinainen kirjoitus on Jumalalta annettu, ja tarpeellinen opiksi, nuhteeksi, ojennukseksi, kuritukseksi, joka on vanhurskaudessa:	
 
 <div class="versenum">17.</div> Etta Jumalan ihminen taydellinen olis, ja kaikkiin hyviin toihin sovelias.	
-
+</body>
+</html>

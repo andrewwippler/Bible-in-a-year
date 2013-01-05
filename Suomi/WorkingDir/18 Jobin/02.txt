@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja kuin he nostivat taampaa silmansa, ei he hanta tunteneet, ja korottivat aanensa ja itkivat; ja jokainen repaisi vaatteensa, ja heittivat tomua paansa paalle taivasta kohden,	
 
 <div class="versenum">13.</div> Ja istuivat hanen kanssansa maan paalla seitseman paivaa ja seitseman yota, ja ei sanaakaan hanen kanssansa puhuneet; silla he nakivat hanen kipunsa sangen suureksi.	
-
+</body>
+</html>

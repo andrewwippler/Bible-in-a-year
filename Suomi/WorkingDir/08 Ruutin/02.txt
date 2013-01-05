@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Noomi sanoi Ruutille miniallensa: minun tyttareni, hyva on sinun menna hanen piikainsa kanssa, ettei joku olisi sinua vastoin toisen pellolla.	
 
 <div class="versenum">23.</div> Ja han viipyi Boaksen piikain tykona ja poimi tahkapaita, siihenasti kuin ohrat ja nisut leikattiin; ja tuli jalleen anoppinsa tyko.	
-
+</body>
+</html>

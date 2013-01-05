@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Herra varjelee kaikkia, jotka hanta rakastavat, ja hukuttaa kaikki jumalattomat.	
 
 <div class="versenum">21.</div> Minun suuni pitaa puhuman Herran kiitoksen, ja kaikki liha kunnioittakaan hanen pyhaa nimeansa, aina ja ijankaikkisesti.	
-
+</body>
+</html>

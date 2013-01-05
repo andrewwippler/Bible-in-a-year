@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Ja han viela sanoi: alkoon minun Herrani vihastuko, jos mina ainoastansa talla eralla puhu: mitamaks, siella loyttaisiin kymmenen? ja han sanoi: en kadota heita kymmenen tahden.	
 
 <div class="versenum">33.</div> Ja Herra meni pois sitte kuin han oli Abrahamin kanssa puhunut: ja Abraham palasi kotiansa.	
-
+</body>
+</html>

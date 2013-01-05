@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Ja he pysyivat joka paiva yksimielisesti templissa, ja mursivat huoneessa leipaa, ja ottivat ruokaa riemulla ja sydamen yksinkertaisuudella,	
 
 <div class="versenum">47.</div> Ja kiittain Jumalaa olivat kaiken kansan suosiossa. Ja Herra lisasi joka paiva autuaaksi tulevaisia seurakunnalle.	
-
+</body>
+</html>

@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Alkoon yksikaan tastalahin minua silleen vaivatko; silla mina kannan minun ruumiissani meidan Herran Jesuksen Kristuksen arvet.	
 
 <div class="versenum">18.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan henkenne kanssa, rakkaat veljet, amen!	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja sanoi: alasti olen mina tullut aitini kohdusta ja alasti pitaa minun sinne jalleen meneman; Herra antoi ja Herra otti: Herran nimi olkoon kiitetty!	
 
 <div class="versenum">22.</div> Naissa kaikissa ei rikkonut Job, eika tehnyt tyhmasti Jumalaa vastaan.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Siihen asti etta sinun suus naurulla taytetaan ja huules riemulla.	
 
 <div class="versenum">22.</div> Mutta ne jotka sinua vihaavat, pitaa hapiaan tuleman; ja jumalattomain asuinsia ei pida pysyvainen oleman.	
-
+</body>
+</html>

@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ettes siis tappanut minua aitini kohdussa, etta minun aitini olis ollut minun hautani, ja hanen kohtunsa olis ijankaikkisesti kantava ollut.	
 
 <div class="versenum">18.</div> Miksi mina siis olen aitini kohdusta tullut, tuskaa ja sydamen surua nakemaan, ja kuluttamaan paiviani hapialla?	
-
+</body>
+</html>

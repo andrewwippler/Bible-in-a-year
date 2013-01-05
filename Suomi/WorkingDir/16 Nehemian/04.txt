@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja mina myos sanoin siihen aikaan kansalle: jokainen olkaan yota palveliainsa kanssa keskella Jerusalemia, niin etta me yolla ottaisimme vaarin vartiosta ja paivalla tyosta.	
 
 <div class="versenum">23.</div> Mutta mina ja minun veljeni, ja minun palveliani ja vartiat, jotka minua seurasivat, emme riisuneet vaatteitamme; ja jokaisella oli hanen aseensa ja vesi.	
-
+</body>
+</html>

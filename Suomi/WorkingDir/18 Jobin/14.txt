@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ovatko hanen lapsensa kunnniassa, sita ei han tieda, taikka ovatko he ylonkatseessa, sita ei han ymmarra.	
 
 <div class="versenum">22.</div> Kuitenkin niinkauvan kuin han kantaa lihaa, taytyy hanen olla vaivassa, ja niinkauvan kuin hanen sielunsa on hanessa, taytyy hanen murhetta karsia.	
-
+</body>
+</html>

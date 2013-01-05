@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Mutta koska ne hiljain juoksivat, niin ei han pannut niita sisalle. Niin tulivat apoiset Labanille ja varhain kannetut Jakobille.	
 
 <div class="versenum">43.</div> Siita tuli mies sangen averiaaksi, niin etta hanella oli paljo lampaita ja piikoja ja palvelioita, ja kameleja ja aaseja.	
-
+</body>
+</html>

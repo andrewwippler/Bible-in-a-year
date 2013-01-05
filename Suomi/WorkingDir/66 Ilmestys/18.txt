@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Ja kynttilan valkeus ei pida sinussa enaa valistaman, ja yljan ja morsiamen aani ei pida enaa sinussa kuuluman; silla sinun kauppamiehes olivat maan paamiehet, ja sinun noitumises kautta ovat kaikki pakanat eksyneet.	
 
 <div class="versenum">24.</div> Ja hanessa on prophetain ja pyhain veri loydetty, ja kaikkein niiden, jotka maan paalla tapetut ovat.	
-
+</body>
+</html>

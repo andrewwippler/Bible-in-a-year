@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Mutta nuorta viinaa pitaa pantaman uusiin leileihin: niin ne molemmat tallella ovat.	
 
 <div class="versenum">39.</div> Ja ei tahdo kenkaan, joka juo vanhaa viinaa, kohta nuorta juoda; silla han sanoo: vanha on parempi.	
-
+</body>
+</html>

@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Israel toivokaan Herran paalle; silla Herralla on armo, ja runsas lunastus hanella.	
 
 <div class="versenum">8.</div> Ja han lunastaa Israelin kaikista synneistansa.	
-
+</body>
+</html>

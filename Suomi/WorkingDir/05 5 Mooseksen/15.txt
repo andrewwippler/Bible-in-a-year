@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Sinun porteissas pitaa sinun sen syoman, saastainen ja puhdas yhdessa, niinkuin metsavuohen ja peuran.	
 
 <div class="versenum">23.</div> Ainoasti ei sinun pida syoman sen verta, mutta vuodattaman maahan niinkuin veden.	
-
+</body>
+</html>

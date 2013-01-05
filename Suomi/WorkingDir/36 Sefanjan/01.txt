@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Mina tahdon ihmisille ahdistuksen tehda, ja heidan pitaa kayman niinkuin sokiat, etta he ovat Herraa vastaan syntia tehneet; heidan verensa pitaa vuodatettaman, niinkuin tomu, ja heidan lihansa niinkuin loka.	
 
 <div class="versenum">18.</div> Ei heidan hopiansa eika kultansa pida heita sina Herran vihan paivana voiman auttaa, vaan koko maa pitaa hanen kiivautensa tulelta kulutettaman; silla han tekee nopiasti lopun kaikkein kanssa, jotka maassa asuvat.	
-
+</body>
+</html>

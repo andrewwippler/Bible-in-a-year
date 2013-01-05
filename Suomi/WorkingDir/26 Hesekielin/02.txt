@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Ja mina nain, ja katso, kasi oli ojennettu minun puoleeni, ja katso, siina oli kaaritty kirja,	
 
 <div class="versenum">10.</div> Jonka han avasi minun eteeni, ja se oli kirjoitettu ulkoa ja sisalta; ja siina olivat kirjoitetut valitukset, ja huokaukset, ja voi!	
-
+</body>
+</html>

@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Heidan luettunsa olivat kahdeksantuhatta, viisisataa ja kahdeksankymmenta.	
 
 <div class="versenum">49.</div> Ja han luki heidat Herran sanan jalkeen Moseksen kautta, itsekunkin hanen virkaansa ja kuormaansa, ja ne, mitka han luki, olivat niinkuin Herra Mosekselle kaskenyt oli.	
-
+</body>
+</html>

@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Niin myos lanteen pain neljatuhatta ja viisisataa riukua, ja kolme porttia: ensimmainen portti Gadin, toinen Asserin, kolmas Naphtalin.	
 
 <div class="versenum">35.</div> Nain pitaa tama kaikki ympari oleman, kahdeksantoistakymmenta tuhatta riukua: ja niin pitaa kaupunki tasta paivasta kutsuttaman: tassa on Herra.	
-
+</body>
+</html>

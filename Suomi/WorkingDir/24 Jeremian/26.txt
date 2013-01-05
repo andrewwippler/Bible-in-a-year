@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Ja ne toivat Urian Egyptista ja veivat kuningas Jojakimin eteen, ja han antoi hanen tappaa miekalla, ja heittaa hanen ruumiinsa yhteisen kansan hautoihin.	
 
 <div class="versenum">24.</div> Kuitenkin oli Ahikamin, Saphanin pojan kasi Jeremian kanssa, ettei han tullut kansan kasiin tapettaa.	
-
+</body>
+</html>

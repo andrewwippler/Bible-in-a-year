@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Sentahden pitaa miehen luopuman isastansa ja aidistansa, ja vaimoonsa sidottu oleman, ja tulevat yhdeksi lihaksi.	
 
 <div class="versenum">25.</div> Ja he olivat molemmat alasti, Adam ja hanen emantansa, ja ei havenneet.	
-
+</body>
+</html>

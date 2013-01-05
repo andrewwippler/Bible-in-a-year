@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Oi maa, maa, maa, kuule Herran sanaa!	
 
 <div class="versenum">30.</div> Nain sanoo Herra: kirjoittakaat tama mies lapsettomaksi ja onnettomaksi kaikkena hanen elinaikanansa: silla ei hanella pida onnea oleman, etta joku hanen siemenestansa istuis Davidin istuimella, eli enaa Juudaa hallitsis.	
-
+</body>
+</html>

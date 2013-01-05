@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Jos sanot sydamessas: kuinka me tiedamme, mita sanoja ei Herra ole puhunut?	
 
 <div class="versenum">22.</div> Kuin propheta puhuu Herran nimeen, ja ei siita mitaan ole, eika niin tapahdu, niin ne ovat ne sanat, joita ei Herra ole puhunut: se propheta on sen puhunut ylpeydestansa, ala pelkaa hanta.	
-
+</body>
+</html>

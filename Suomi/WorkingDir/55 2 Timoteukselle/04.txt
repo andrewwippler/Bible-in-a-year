@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ahkeroitse ennen talvea tulla. Sinua tervehtii Eubulus, ja Pudens, ja Linus, ja Klaudia, ja kaikki veljet.	
 
 <div class="versenum">22.</div> Herra Jesus Kristus olkoon sinun henkes kanssa! Armo olkoon teidan kanssanne, amen!	
-
+</body>
+</html>

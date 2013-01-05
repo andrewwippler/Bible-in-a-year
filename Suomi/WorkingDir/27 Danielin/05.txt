@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Mutta juuri sina yona tapettiin Belsatsar, Kaldean kuningas.	
 
 <div class="versenum">31.</div> Ja Darius Medilainen sai valtakunnan, kuin han kahdenseitsemattakymmenta ajastajan vanha oli.	
-
+</body>
+</html>

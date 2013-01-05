@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Rakastakaat Herraa, kaikki hanen pyhansa; Herra varjelee uskollisia ja runsaasti kostaa niille, jotka ylpeytta harjoittelevat.	
 
 <div class="versenum">24.</div> Olkaat hyvassa turvassa, ja han vahvistaa teidan sydamenne, kaikki jotka Herraa odotatte.	
-
+</body>
+</html>

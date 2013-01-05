@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja niin pitaa heidan ymmartaman, etta mina Herra olen heidan Jumalansa, joka olen antanut vieda heita pois pakanain sekaan, ja antanut taas koota heita maallensa, ja en antanut yhtakaan heista sinne jaada.	
 
 <div class="versenum">29.</div> Ja en mina enaan tahdo peittaa minun kasvojani heidan edestansa; silla mina olen vuodattanut minun henkeni Israelin huoneen paalle, sanoo Herra, Herra.	
-
+</body>
+</html>

@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Minun istuimeni panen mina Elamiin, ja havitan sielta seka kuninkaan etta ruhtinaat, sanoo Herra.	
 
 <div class="versenum">39.</div> Mutta viimeisella ajalla kaannan mina Elamin vankiuden, sanoo Herra.	
-
+</body>
+</html>

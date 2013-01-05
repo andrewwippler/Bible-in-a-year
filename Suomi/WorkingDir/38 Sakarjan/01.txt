@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja Herra osoitti minulle nelja seppaa.	
 
 <div class="versenum">21.</div> Silloin mina sanoin: mita ne tahtovat tehda? Han sanoi: ne ovat ne sarvet, jotka Juudan hajoittaneet ovat, juuri niin, ettei kenkaan ole voinut paatansa nostaa; namat ovat tulleet niita karkottamaan, ja lohkaisemaan pakanain sarvia, jotka Juudan maan ylitse sarven nostaneet ovat sita hajoittaaksensa.	
-
+</body>
+</html>

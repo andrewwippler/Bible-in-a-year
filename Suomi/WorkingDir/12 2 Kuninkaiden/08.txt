@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja han meni Joramin Ahabin pojan kanssa sotimaan Hasaelia Syrian kuningasta vastaan, Gileadin Ramotissa; mutta Syrialaiset loivat Joramin.	
 
 <div class="versenum">29.</div> Silloin palasi kuningas Joram antamaan parantaa itsensa Jisreelissa niista haavoista, jotka Syrialaiset loivat haneen Ramassa, hanen soteissa Hasaelin Syrian kuninkaan kanssa; ja Ahasia Joramin poika, Juudan kuningas, tuli katsomaan Joramia Ahabin poikaa Jisreeliin; silla han sairasti.	
-
+</body>
+</html>

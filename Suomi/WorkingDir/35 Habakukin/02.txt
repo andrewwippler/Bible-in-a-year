@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Voi sita, joka sanoo kannolle: heraja! ja mykalle kivelle: nouse! Senko pitais opettaman? Katso, se on kullalla ja hopialla silattu, ja ei ole siina ensinkaan henkea.	
 
 <div class="versenum">20.</div> Mutta Herra on pyhassa templissansa; vaijetkoon kaikki maailma hanen kasvoinsa edessa.	
-
+</body>
+</html>

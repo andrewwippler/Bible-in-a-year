@@ -33,4 +33,5 @@
 <div class="versenum">14.</div> Ja kuin Jeremia palasi Tophetista, johon Herra hanet lahettanyt oli ennustamaan, meni han Herran huoneen pihaan ja sanoi kaikelle kansalle:	
 
 <div class="versenum">15.</div> Nain sanoo Herra Zebaot, Israelin Jumala: katso, mina annan tulla taman kaupungin ja kaikkein hanen kaupunkeinsa paalle kaiken sen kovan onnen, jonka mina olen puhunut heita vastaan; etta he ovat uppiniskaiset, ja ei tahdo minun sanaani kuulla.	
-
+</body>
+</html>

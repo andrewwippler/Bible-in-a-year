@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta meidan menomme on taivaissa, josta me myos lunastajaa Herraa Jesusta Kristusta odotamme,	
 
 <div class="versenum">21.</div> Joka meidan heikon ruumiimme kirkastaa, etta se hanen kirkkaan ruumiinsa kaltainen olis, silla voimalla, jolla han myos voi kaikki itsellensa alamaiseksi tehda.	
-
+</body>
+</html>

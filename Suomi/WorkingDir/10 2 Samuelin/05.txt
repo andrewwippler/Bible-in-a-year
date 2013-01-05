@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja kuin sina kuulet fikunapuun latvat kahisevan, niin kulje; silla Herra on silloin lahtenyt ulos sinun etees, lyomaan Phlistealaisten sotajoukkoa.	
 
 <div class="versenum">25.</div> David teki niinkuin Herra oli hanelle kaskenyt, ja loi Philistealaiset hamasta Gebasta siihenasti kuin Gaseriin tullaan,	
-
+</body>
+</html>

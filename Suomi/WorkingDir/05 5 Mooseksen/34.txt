@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Kaikkinaisissa tunnustahdeissa ja ihmeissa, joita Herra hanen lahetti tekemaan Egyptin maalla Pharaolle ja kaikille hanen palvelioillensa, koko hanen maallensa,	
 
 <div class="versenum">12.</div> Ja kaikessa vakevassa kadessa, ja kaikissa suurissa peljattavissa toissa, jotka Moses teki koko Israelin silmain edessa.	
-
+</body>
+</html>

@@ -135,4 +135,5 @@
 <div class="versenum">65.</div> Pilatus sanoi heille: teilla on vartiat: menkaat, vartioitkaat niinkuin te tiedatte.	
 
 <div class="versenum">66.</div> Mutta he menivat pois, ja vahvistivat haudan vartiain kanssa, ja lukitsivat kiven sinetillansa.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja Saul lahetti Isain tyko, sanoen: anna Davidin olla minun tykonani, silla han on loytanyt armon minun edessani.	
 
 <div class="versenum">23.</div> Kuin Jumalan henki tuli Saulin paalle, otti David kanteleen ja soitti kadellansa; niin Saul virvoitettiin ja tuli paremmaksi, ja paha henki laksi hanesta.	
-
+</body>
+</html>

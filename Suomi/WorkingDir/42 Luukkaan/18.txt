@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Ja Jesus sanoi hanelle: ole nakeva! sinun uskos autti sinua.	
 
 <div class="versenum">43.</div> Ja han sai kohta nakonsa, ja seurasi hanta, ja kunnioitti Jumalaa. Ja kaikki kansa, jotka sen nakivat, kiittivat Jumalaa.	
-
+</body>
+</html>

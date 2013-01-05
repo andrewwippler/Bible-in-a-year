@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ja kahden kuukauden perasta tuli han isansa tyko, ja han taytti lupauksensa hanesta niin kuin han luvannut oli; ja ei han tuntenut miesta: ja se oli tapa Israelissa.	
 
 <div class="versenum">40.</div> Ja Israelin tyttaret menivat itkemaan joka vuosi Jephtan Gileadilaisen tytarta nelja paivaa ajastajassa.	
-
+</body>
+</html>

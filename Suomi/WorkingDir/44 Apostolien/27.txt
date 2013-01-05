@@ -91,4 +91,5 @@
 <div class="versenum">43.</div> Mutta sadanpaamies tahtoi Paavalia vapahtaa, ja esti heidat siita neuvosta, ja kaski niita, jotka uida taisivat, etta he ensin itsensa antaisivat ulos ja maalle paasisivat.	
 
 <div class="versenum">44.</div> Mutta muita lautain paalla, muutamia taas haahden kappaleilla (kulkea). Ja niin tapahtui, etta jokainen tuli hengissa maalle.	
-
+</body>
+</html>

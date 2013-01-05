@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Mina nain kaikkien, jotka elivat ja vaelsivat auringon alla, olevan nuorukaisen puolella, tuon toisen, joka oli astuva hanen sijaansa.	
 
 <div class="versenum">16.</div> Ei ollut loppua kaikella silla vaella, niilla kaikilla, joita han johti; mutta jalkipolvet eivat hanesta iloitse. Silla sekin on turhuutta ja tuulen tavoittelemista.	
-
+</body>
+</html>

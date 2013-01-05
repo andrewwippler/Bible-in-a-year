@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Minulla olis paljon teille kirjoittamista, mutta en mina tahtonut paperilla ja lakilla; vaan mina toivon tulevani teidan tykonne, ja tahdon lasna ollessani teidan kanssanne puhua, etta meidan ilomme taydellinen olis.	
 
 <div class="versenum">13.</div> Sinua tervehtivat sinun valitun sisares lapset, amen!	
-
+</body>
+</html>

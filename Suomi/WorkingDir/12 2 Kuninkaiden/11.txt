@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja kaikki maan kansa oli iloissansa, ja kaupunki oli alallansa. Mutta Atalian olivat tappaneet miekalla kuninkaan huoneessa.	
 
 <div class="versenum">21.</div> Ja Joas oli seitseman ajastaikainen tullessansa kuninkaaksi.	
-
+</body>
+</html>

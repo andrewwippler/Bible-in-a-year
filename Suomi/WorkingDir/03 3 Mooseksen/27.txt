@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ei pida kysyttaman, jos se on hyva eli paha, eika myos pida sita vaihetettaman. Jos joku vaihettaa sen, niin pitaa ne molemmat oleman pyhat, ja ei lunastettaman.	
 
 <div class="versenum">34.</div> Namat ovat ne kaskyt, jotka Herra antoi Moseksen kautta Israelin lapsille, Sinain vuorella.	
-
+</body>
+</html>

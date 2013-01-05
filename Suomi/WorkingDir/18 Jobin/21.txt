@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Ojan multa kelpasi hanelle, ja kaikki ihmiset viedaan hanen perassansa; ja ne jotka ovat hanen edellansa olleet, ovat epalukuiset.	
 
 <div class="versenum">34.</div> Miksi te minua lohdutatte turhaan? ja teidan vastauksenne loydetaan vaaraksi.	
-
+</body>
+</html>

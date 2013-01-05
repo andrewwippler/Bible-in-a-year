@@ -13,4 +13,5 @@
 <div class="versenum">4.</div> Ja mina kavisin sisalle Jumalan alttarin tyko, sen Jumalan tyko, joka minun iloni ja riemuni on, ja kiittaisin sinua kanteleilla, Jumalani, minun Jumalani.	
 
 <div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
-
+</body>
+</html>

@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> mita sieluni on yhati etsinyt, mutta mita en ole loytanyt, on tama: olen loytanyt tuhannesta yhden miehen, mutta koko siita luvusta en ole loytanyt yhtakaan naista.	
 
 <div class="versenum">29.</div> Katso, taman ainoastaan olen loytanyt: etta Jumala on tehnyt ihmiset suoriksi, mutta itse he etsivat monia mutkia.	
-
+</body>
+</html>

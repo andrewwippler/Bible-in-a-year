@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Auringon pitaa muuttuman pimiaksi, ja kuun vereksi; ennenkuin se suuri ja hirmuinen Herran paiva tulee.	
 
 <div class="versenum">32.</div> Ja on tapahtuva, etta jokainen, joka Herran nimea avuksensa huutaa, se tulee autuaaksi; silla Zionin vuorella ja Jerusalemissa on vapaus oleva, niinkuin Herra on luvannut, ja jaaneiden tykona, jotka Herra kutsuva on.	
-
+</body>
+</html>

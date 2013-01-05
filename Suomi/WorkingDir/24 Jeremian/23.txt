@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Sentahden katso, mina tahdon teidat perati unhottaa, ja heittaa teita pois ynna kaupunkinne kanssa, jonka mina teille ja teidan isillenne antanut olen, minun kasvoini edesta;	
 
 <div class="versenum">40.</div> Ja tahdon saattaa teita ijankaikkiseksi pilkaksi ja ijankaikkiseksi hapiaksi, jota ei ikana pida unhotettaman.	
-
+</body>
+</html>

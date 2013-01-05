@@ -117,4 +117,5 @@
 <div class="versenum">56.</div> Ja nain maksoi Jumala AbiMelekille sen pahuuden, minka han teki isaansa vastaan, etta han tappoi seitsemankymmenta veljeansa.	
 
 <div class="versenum">57.</div> Niin myos kaiken sen pahuuden, minka Sikemin miehet tekivat, antoi Jumala tulla heidan paansa paalle; ja heidan paallensa tuli Jotamin JerubBaalin pojan kirous.	
-
+</body>
+</html>

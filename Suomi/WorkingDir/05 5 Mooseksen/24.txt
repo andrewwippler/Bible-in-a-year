@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Kuin viinamakes korjannut olet, ala vastuudesta jaaneita hae; vaan ne pitaa muukalaisen, orvon ja lesken omat oleman.	
 
 <div class="versenum">22.</div> Ja muista, etta sina olet orja ollut Egyptin maalla, sentahden kasken mina sinua naita tekemaan.	
-
+</body>
+</html>

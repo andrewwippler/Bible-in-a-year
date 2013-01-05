@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Istuttaaksensa hanta paamiesten sivuun, kansansa paamiesten sivuun;	
 
 <div class="versenum">9.</div> Joka hedelmattomat saattaa huoneesen asumaan, etta han riemuiseksi lasten aidiksi tulee. Halleluja!	
-
+</body>
+</html>

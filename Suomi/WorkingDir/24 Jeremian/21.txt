@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Katso, sanoo Herra, mina sanon sinulle, joka asut laaksoissa, vuorilla ja tasaisilla kedoilla, ja jotka sanovat: kuka tahtoo karata meidan paallemme eli tulla meidan linnoihimme?	
 
 <div class="versenum">14.</div> Mina tahdon etsiskella teita, sanoo Herra, teidan toidenne hedelman jalkeen, ja tahdon tulen sytyttaa teidan metsaanne, kuluttamaan kaikkia, mita siina ymparilla on.	
-
+</body>
+</html>

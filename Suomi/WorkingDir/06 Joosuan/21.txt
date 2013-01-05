@@ -93,4 +93,5 @@
 <div class="versenum">44.</div> Ja Herra antoi heille levon kaikella heidan ymparistollansa, niinkuin han vannoi heidan isillensa; ja ei yksikaan heidan vihollisistansa seisonut heita vastaan, vaan kaikki heidan vihollisensa antoi Herra heidan kasiinsa.	
 
 <div class="versenum">45.</div> Ja ei puuttunut mitaan kaikesta siita hyvyydesta, mita Herra oli puhunut Israelin huoneelle, vaan kaikki tapahtui.	
-
+</body>
+</html>

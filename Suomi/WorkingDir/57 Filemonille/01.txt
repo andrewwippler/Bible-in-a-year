@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Markus, Aristarkus, Demas, Luukas, minun apulaiseni.	
 
 <div class="versenum">25.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan henkenne kanssa, amen!	
-
+</body>
+</html>

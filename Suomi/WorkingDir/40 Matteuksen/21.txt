@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Ja kuin pappein paamiehet ja Pharisealaiset kuulivat hanen vertauksensa, ymmarsivat he, etta han heista sanoi.	
 
 <div class="versenum">46.</div> Ja kuin he pyysivat hanta ottaa kiinni, pelkasivat he kansaa, silla he pitivat hanen prophetana.	
-
+</body>
+</html>

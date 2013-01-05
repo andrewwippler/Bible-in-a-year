@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Tervehtikaat kaikkia teidan opettajianne ja kaikkia pyhia. Teita tervehtivat veljet Italiasta.	
 
 <div class="versenum">25.</div> Armo olkoon kaikkein teidan kanssanne, amen!	
-
+</body>
+</html>

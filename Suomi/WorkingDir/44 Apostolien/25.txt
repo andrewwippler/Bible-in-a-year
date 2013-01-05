@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Josta ei minulla ole mitaan vahvaa herralle kirjoittaa: sentahden tuotin mina hanen teidan eteenne, ja enimmiten sinun etees, kuningas Agrippa, etta kuin hanen asiansa visummasti tutkittaisiin, minulla olis jotakin kirjoittamista;	
 
 <div class="versenum">27.</div> Silla se on minun nahdakseni toimetoin, etta han sidottuna lahetetaan, ja ei hanen syytansa ilmoiteta.	
-
+</body>
+</html>

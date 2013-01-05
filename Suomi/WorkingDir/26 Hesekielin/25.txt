@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Sentahden sanoo Herra, Herra nain: katso, mina tahdon minun kateni ojentaa Philistealaisten paalle; ja Kretilaiset havittaa, ja tahdon jaaneet meren satamissa surmata;	
 
 <div class="versenum">17.</div> Ja tahdon heille suuresti kostaa, ja vihassa heita rangaista, etta heidan ymmartaman pitaa minun olevan Herran, koska mina heille kostanut olen.	
-
+</body>
+</html>

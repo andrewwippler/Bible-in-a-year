@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Kuka on Jakobin raatelukseksi antanut, ja Israelin ryovareille? Eiko Herra itse, jota vastaan me syntia tehneet olemme? Ja ei he tahtoneet hanen teillansa vaeltaa, eika totelleet hanen lakiansa.	
 
 <div class="versenum">25.</div> Sentahden on han heidan paallensa vuodattanut vihansa hirmuisuuden ja vakevan sodan: ja on heidat sytyttanyt ympari, mutta ei he tunteneet, ja han sytytti heita, mutta ei he sita ottaneet mieleensa.	
-
+</body>
+</html>

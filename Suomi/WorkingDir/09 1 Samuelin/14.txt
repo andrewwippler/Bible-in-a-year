@@ -107,4 +107,5 @@
 <div class="versenum">51.</div> Ja Kis Saulin isa, ja Ner Abnerin isa, oli Abielin poika.	
 
 <div class="versenum">52.</div> Ja suuri sota oli Philistealaisia vastaan niinkauvan kuin Saul eli. Ja kussa ikina Saul naki jalon ja vakevan sotamiehen, otti han sen tykonsa.	
-
+</body>
+</html>

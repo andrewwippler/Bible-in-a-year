@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Ja Gideon lahetti sanansaattajat kaikelle Ephraimin vuorelle, sanoen: tulkaat alas Midianilaisia vastaan ja ennattakaat heilta vedet BetBaraan ja Jordaniin asti. Niin kokoontuivat kaikki Ephraimin miehet ja ennattivat vedet BetBaraan ja Jordaniin asti.	
 
 <div class="versenum">25.</div> Ja he ottivat kaksi Midianilaisten paamiesta kiinni, Orebin ja Zebin, ja tappoivat Orebin Orebin kalliolla, ja Zebin he tappoivat Zebin viinakuurnassa, ja ajoivat Midianilaisia takaa; mutta Orebin ja Zebin paat kantoivat he Gideonille Jordanin ylitse.	
-
+</body>
+</html>

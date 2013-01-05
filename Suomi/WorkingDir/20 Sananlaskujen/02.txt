@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Silla vanhurskaat asuvat maassa, ja vakaat siina pysyvat;	
 
 <div class="versenum">22.</div> Mutta jumalattomat hukutetaan maasta, ja ylonkatsojat siita teloitetaan.	
-
+</body>
+</html>

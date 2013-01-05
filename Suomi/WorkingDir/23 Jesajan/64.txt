@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Meidan pyhyytemme ja kunniamme huone, jossa meidan isamme sinua kunnioittivat, on tulella poltettu; ja kaikki meidan kauniimpamme ovat havaistyt.	
 
 <div class="versenum">12.</div> Herra, maltatkos sinus naista niin kovana pitaa ja vaiti olla, ja lyoda meita niin kovin alas.	
-
+</body>
+</html>

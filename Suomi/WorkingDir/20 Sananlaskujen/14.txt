@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Vanhurskaus korottaa kansan, vaan synti on kansan hapia.	
 
 <div class="versenum">35.</div> Toimellinen palvelia on kuninkaalle otollinen; vaan hapiallista palveliaa ei han karsi.	
-
+</body>
+</html>

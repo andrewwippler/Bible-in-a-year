@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Mutta he olivat aaneti, ja ei vastanneet hanta mitaan; silla kuningas oli kaskenyt ja sanonut: alkaat hanta mitaan vastatko.	
 
 <div class="versenum">22.</div> Niin tulivat Eliakim Hilkian poika, huoneenhaltia, ja Sebna kirjoittaja ja Joah Assaphin poika, kansleri, Hiskian tyko, revaistyilla vaatteilla, ja ilmoittivat hanelle Rabsaken sanat.	
-
+</body>
+</html>

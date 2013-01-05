@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Ullan lapset: Arah, Hanniel ja Ritsja.	
 
 <div class="versenum">40.</div> Namat olivat kaikki Asserin lapset, valitut paamiehet heidan isainsa huoneessa, vakevat miehet ja paamiesten paaruhtinaat, ja luettiin polvittain sotajoukkoon, ja heidan lukunsa oli kuusikolmattakymmenta tuhatta miesta.	
-
+</body>
+</html>

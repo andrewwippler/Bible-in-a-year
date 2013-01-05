@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> He ovat kukistetut ja langenneet; mutta me nousemme ja pystyalla seisomme.	
 
 <div class="versenum">9.</div> Auta Herra! Kuningas meita kuulkaan, kuin me huudamme.	
-
+</body>
+</html>

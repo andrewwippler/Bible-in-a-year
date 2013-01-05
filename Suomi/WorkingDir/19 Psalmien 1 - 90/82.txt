@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Kuitenkin taytyy teidan kuolla niinkuin ihmiset, ja niinkuin tyrannit hukkua.	
 
 <div class="versenum">8.</div> Nouse, Jumala, ja tuomitse maa; silla kaikki pakanat ovat sinun omas.	
-
+</body>
+</html>

@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Vanhurskas Isa! ei maailma sinua tuntenut, mutta mina tunsin sinun, ja namat ymmarsivat, etta sina minun lahetit.	
 
 <div class="versenum">26.</div> Ja mina julistin heille sinun nimes, ja viela julistan: etta se rakkaus, jolla sina minua rakastit, heissa olis, ja mina myos heissa.	
-
+</body>
+</html>

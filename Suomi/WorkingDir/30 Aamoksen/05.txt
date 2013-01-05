@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Te kannoitte teidan Melekinne majoja, ja teidan epajumalainne kuvia, teidan jumalainne tahtea, jotka te itse teillenne tehneet olitte.	
 
 <div class="versenum">27.</div> Niin mina siis annan teidan tasta edemma Damaskua vieda, sanoo Herra, jonka nimi on Jumala Zebaot.	
-
+</body>
+</html>

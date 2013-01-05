@@ -53,4 +53,5 @@
 <div class="versenum">24.</div> Kuin Joseph unesta herasi, niin han teki kuin Herran enkeli hanen kaski, ja otti puolisonsa tykonsa,	
 
 <div class="versenum">25.</div> Ja ei tuntenut hanta, siihenasti kuin han poikansa esikoisensa synnytti, ja kutsui hanen nimensa Jesus.	
-
+</body>
+</html>

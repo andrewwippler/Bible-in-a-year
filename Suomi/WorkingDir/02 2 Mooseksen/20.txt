@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja jos sina teet minulle kivisen alttarin, niin ala tee sita vuoltuista kivista: jos sina siihen veitses satutat, niin sina sen saastutat.	
 
 <div class="versenum">26.</div> Ei myos sinun pida astumilla minun alttarilleni astuman, ettei sinun hapias sen paalla paljastettaisi.	
-
+</body>
+</html>

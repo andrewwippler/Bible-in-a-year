@@ -27,4 +27,5 @@
 <div class="versenum">11.</div> Palvelkaat Herraa pelvossa, ja iloitkaat vavistuksessa.	
 
 <div class="versenum">12.</div> Antakaat suuta pojalle, ettei han vihastuisi, ja te hukkuisitte tiella; silla hanen vihansa syttyy pian. Mutta autuaat ovat kaikki ne, jotka haneen uskaltavat.	
-
+</body>
+</html>

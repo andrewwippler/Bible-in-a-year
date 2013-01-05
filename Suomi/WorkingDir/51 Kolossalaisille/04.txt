@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja sanokaat Arkippukselle: pida virastas vaaria, jonkas Herrassa saanut olet, ettas sen toimittaisit.	
 
 <div class="versenum">18.</div> Tervehdys minun, Paavalin, kadellani. Muistakaat minun siteitani. Armo olkoon teidan kanssanne! Amen.	
-
+</body>
+</html>

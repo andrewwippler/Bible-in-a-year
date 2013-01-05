@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Tutki minua, Jumala, ja koettele sydameni: kiusaa minua, ja ymmarra, kuinka mina ajattelen.	
 
 <div class="versenum">24.</div> Ja katsos, jos mina pahalla tiella lienen, niin saata minua ijankaikkiselle tielle.	
-
+</body>
+</html>

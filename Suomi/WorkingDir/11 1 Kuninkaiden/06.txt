@@ -79,4 +79,5 @@
 <div class="versenum">37.</div> Neljannella ajastajalla perustettiin Herran huone Sivin kuulla.	
 
 <div class="versenum">38.</div> Ja ensimmaisella ajastajalla toistakymmenta Buulin kuulla (se on kahdeksas kuukausi) paatettiin huone kaluinensa, kaiken sen jalkeen kuin sen oleman piti. Ja han rakensi sen seitsemana ajastaikana.	
-
+</body>
+</html>

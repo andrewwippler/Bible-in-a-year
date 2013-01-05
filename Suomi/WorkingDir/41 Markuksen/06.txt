@@ -115,4 +115,5 @@
 <div class="versenum">55.</div> Ja juoksivat ympari kaiken sen ympariston, ja rupesivat sairaita viemaan vuoteissansa, kussa he kuulivat hanen olevan.	
 
 <div class="versenum">56.</div> Ja kuhunka han meni sisalle kyliin eli kaupunkeihin taikka majoihin, niin he panivat kujille sairaita, ja rukoilivat hanta, etta he ainoastaan hanen vaatteensa palteeseen saisivat ruveta, ja niin monta kuin haneen rupesi, ne paranivat.	
-
+</body>
+</html>

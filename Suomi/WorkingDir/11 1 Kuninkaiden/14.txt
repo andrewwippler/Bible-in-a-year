@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja Rehabeamin ja Jerobeamin valilla oli sota kaikkina heidan paivinansa.	
 
 <div class="versenum">31.</div> Ja Rehabeam nukkui isainsa kanssa ja haudattiin isainsa tyko Davidin kaupunkiin. Ja hanen aitinsa nimi oli Naema Ammonilainen. Ja hanen poikansa Abiam tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

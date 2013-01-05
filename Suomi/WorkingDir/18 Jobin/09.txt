@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Han ottakoon vitsansa pois minusta, ja alkoon hanen hirmuisuutensa peljattako minua;	
 
 <div class="versenum">35.</div> Etta mina puhuisin ja en pelkaisi hanta; silla en mina mitaan kanssani tieda.	
-
+</body>
+</html>

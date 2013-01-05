@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja han sanoi: Tiedatkos, minka tahden mina olen tullut sinun tykos? Nyt mina jalleen menen sotimaan Persian paamiehen kanssa. Mutta kuin mina menen pois, katso, niin tulee Grekan maan paamies.	
 
 <div class="versenum">21.</div> Kuitenkin tahdon mina sinulle ilmoittaa, mita kirjoitettu on, etta se pitaa totisesti tapahtuman. Ja ei kenkaan ole, joka minua auttaa hanta vastaan, vaan teidan paamiehenne Mikael!	
-
+</body>
+</html>

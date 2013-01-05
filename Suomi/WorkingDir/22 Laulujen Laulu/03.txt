@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Sen patsaat han teki hopiasta, ja sen peitteen kullasta, istuimen purpurasta, ja permannon soveliaasti lasketun, Jerusalemin tytarten tahden.	
 
 <div class="versenum">11.</div> Lahtekaat ulos, te Zionin tyttaret, ja katselkaat kuningas Salomoa siina kruunussa, jolla hanen aitinsa hanen kruunannut on, hanen haapaivansa, ja hanen sydamensa ilopaivana.	
-
+</body>
+</html>

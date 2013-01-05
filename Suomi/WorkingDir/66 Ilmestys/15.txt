@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Ja yksi neljasta elaimesta antoi seitsemalle enkelille seitseman kultaista maljaa, taynnansa Jumalan vihaa, joka elaa ijankaikkisesta ijankaikkiseen.	
 
 <div class="versenum">8.</div> Ja templi taytettiin savulla Jumalan kunniasta ja hanen voimastansa, ja ei yksikaan voinut templiin menna sisalle, siihenasti kuin seitseman enkelin seitseman vitsausta taytetyiksi tulivat.	
-
+</body>
+</html>

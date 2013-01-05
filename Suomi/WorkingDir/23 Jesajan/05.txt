@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> He kiljuvat niinkuin jalopeurat, ja kiljuvat niinkuin nuoret jalopeurat. He kilistelevat ja tempaavat saaliin, ja omistavat sen, ettei kenkaan sita saa jalleen.	
 
 <div class="versenum">30.</div> Ja silloin pauhataan heidan ylitsensa niinkuin meri pauhaa. Koska silloin katsotaan maan paalle, katso, niin on pimeys ahdistuksesta, ja ei valkeus paista silleen heidan ylitsensa.	
-
+</body>
+</html>

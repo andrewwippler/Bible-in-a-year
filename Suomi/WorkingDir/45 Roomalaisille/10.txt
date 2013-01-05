@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Mutta Jesaias on rohkia ja sanoo: mina olen niilta loydetty, jotka ei minua etsineet, ja olen niille ilmaantunut, jotka ei minua kysyneet.	
 
 <div class="versenum">21.</div> Mutta Israelille han sanoo: koko paivan olen mina kateni ojentanut tottelemattomalle ja vastahakoiselle kansalle.	
-
+</body>
+</html>

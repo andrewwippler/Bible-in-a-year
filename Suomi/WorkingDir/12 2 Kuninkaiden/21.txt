@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Mita Amon enempi tehnyt on: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	
 
 <div class="versenum">26.</div> Ja han haudattiin omaan hautaansa Ussan yrttitarhassa, ja hanen poikansa Josia tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

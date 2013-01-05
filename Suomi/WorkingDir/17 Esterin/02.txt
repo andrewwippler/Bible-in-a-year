@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja Mordekai sai sen tietaa ja ilmoitti kuningatar Esterille; ja Ester sanoi Mordekain puolesta sen kuninkaalle.	
 
 <div class="versenum">23.</div> Ja kuin sita tutkisteltiin, loydettiin se todeksi, ja he hirtettiin molemmat puuhun. Ja se kirjoitettiin aikakirjaan kuninkaan edessa.	
-
+</body>
+</html>

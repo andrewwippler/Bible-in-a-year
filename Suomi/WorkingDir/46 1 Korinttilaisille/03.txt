@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Joko se olis Paavali eli Apollo, eli Kephas, taikka maailma, eli elama, eli kuolema, taikka nykyiset eli tulevaiset: kaikki ovat teidan,	
 
 <div class="versenum">23.</div> Mutta te olette Kristuksen, vaan Kristus on Jumalan.	
-
+</body>
+</html>

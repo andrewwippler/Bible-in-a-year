@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Ja mina otin kirjan enkelin kadesta ja soin sen, ja se oli makia minun suussani niinkuin hunaja. Ja kuin mina sen syonyt olin, karvasteli se minun vatsassani.	
 
 <div class="versenum">11.</div> Ja han sanoi minulle: taas tulee sinun propheteerata kansoille, ja pakanoille, ja kielille, ja monelle kuninkaalle.	
-
+</body>
+</html>

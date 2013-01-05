@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Koyha mies puhuu noyrasti, vaan rikas vastaa ylpiasti.	
 
 <div class="versenum">24.</div> Ihminen, jolla on ystava, pitaa oleman ystavallinen; silla ystava pitaa lujemmin hanen kanssansa kuin veli.	
-
+</body>
+</html>

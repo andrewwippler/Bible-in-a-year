@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Koyhain halauksen sina, Herra, kuulet: heidan sydamensa sina vahvistat, etta sinun korvas siita ottaa vaarin;	
 
 <div class="versenum">18.</div> Ettas oikeuden saatat orvoille ja koyhille, ettei ihminen enaa ylpeile heita vastaan maan paalla.	
-
+</body>
+</html>

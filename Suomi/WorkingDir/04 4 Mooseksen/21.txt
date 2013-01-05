@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja Herra sanoi Mosekselle: ala pelkaa hanta, silla mina annoin hanen sinun kasiis, seka kaiken hanen vakensa, etta hanen maansa: ja sinun pitaa tekeman hanelle niinkuin sina Sihonille Amorilaisten kuninkaalle teit, joka Hesbonissa asui.	
 
 <div class="versenum">35.</div> Ja he loivat hanen ja hanen poikansa ja hanen vakensa, siihenasti ettei yksikaan elamaan jaanyt, ja he valloittivat hanen maansa.	
-
+</body>
+</html>

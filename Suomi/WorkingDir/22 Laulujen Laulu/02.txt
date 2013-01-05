@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ystavani on minun, ja mina hanen, joka kaitsee kukkasten keskella,	
 
 <div class="versenum">17.</div> Siihenasti etta paiva jaahtyy ja varjot kulkevat pois. Palaja, ole niinkuin metsavuohi, ystavani, eli niinkuin nuori peura Eroitusvuorilla.	
-
+</body>
+</html>

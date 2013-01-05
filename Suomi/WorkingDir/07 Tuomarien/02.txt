@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Etta mina koettelisin Israelia heidan kauttansa, pysyvatko he Herran teilla ja vaeltavat niissa, niinkuin heidan isansa ovat pysyneet, vai eiko.	
 
 <div class="versenum">23.</div> Ja Herra jatti namat pakanat, ettei han nopiasti heita ajanut ulos, ja ei antanut heita Josuan kateen.	
-
+</body>
+</html>

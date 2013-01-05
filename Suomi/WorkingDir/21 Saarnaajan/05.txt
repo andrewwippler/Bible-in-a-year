@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Sekin on Jumalan lahja, jos Jumala kenelle ihmiselle antaa rikkautta ja tavaraa ja sallii hanen syoda siita ja saada osansa ja iloita vaivannakonsa ohessa.	
 
 <div class="versenum">20.</div> Silla han ei tule niin paljon ajatelleeksi elamansa paivia, kun Jumala suostuu hanen sydamensa iloon.	
-
+</body>
+</html>

@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Hanta likin oli Josabad, ja hanen kanssansa sata ja kahdeksankymmenta tuhatta valmista sotamiesta.	
 
 <div class="versenum">19.</div> Namat ottivat kuninkaasta vaarin, paitsi niita, jotka kuningas oli asettanut vahvoihin kaupunkeihin koko Juudassa.	
-
+</body>
+</html>

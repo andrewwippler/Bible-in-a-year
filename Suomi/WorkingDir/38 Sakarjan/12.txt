@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Levin huoneen sukukunta erinansa, ja heidan vaimonsa erinansa; Simein huoneen sukukunta erinansa, ja heidan vaimonsa erinansa;	
 
 <div class="versenum">14.</div> Niin myos kaikki muut jaaneet sukukunnat, kukin erinansa, ja heidan vaimonsa myos erinansa.	
-
+</body>
+</html>

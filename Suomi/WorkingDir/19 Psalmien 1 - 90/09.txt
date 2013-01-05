@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Nouse, Herra, ettei ihminen saisi valtaa: anna kaikki pakanat edessas tuomittaa.	
 
 <div class="versenum">20.</div> Herra, anna heille opettaja, etta pakanat tuntisivat itsensa ihmisiksi, Sela!	
-
+</body>
+</html>

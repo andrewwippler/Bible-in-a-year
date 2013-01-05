@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ettei sen maan asuvaiset, jostas meidat johdattanut olet, sanoisi: sentahden, ettei Herra voinut heita vieda siihen maahan, jonka han heille luvannut oli, ja etta han on vihannut heita, johdatti han heidat ulos, tappaaksensa heita korvessa.	
 
 <div class="versenum">29.</div> Silla he ovat sinun kansas ja perimykses, jonka suurella voimallas ja ojennetulla kasivarrellas johdattanut olet.	
-
+</body>
+</html>

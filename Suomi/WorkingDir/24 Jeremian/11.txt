@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Sentahden nain sanoo Herra Zebaot: katso, mina etsin heita kostolla, nuoret miehet pitaa heista miekalla tapettaman, heidan poikansa ja tyttarensa pitaa nalassa kuoleman,	
 
 <div class="versenum">23.</div> Niin ettei heista pida mitaan jaaman; silla mina saatan Anatotin miehille onnettomuuden sina vuonna, kuin heita kostolla pitaa etsittaman.	
-
+</body>
+</html>

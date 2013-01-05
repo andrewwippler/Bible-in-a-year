@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Eli kuka on hanelle jotakin ennen antanut, jota hanelle pitais jalleen maksettaman.	
 
 <div class="versenum">36.</div> Silla hanesta ja hanen kauttansa ja hanessa ovat kaikki: hanelle olkoon kunnia ijankaikkisesti, amen!	
-
+</body>
+</html>

@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Nearin lapset: Eljoenai, Hiskia, Asrikam; ne kolme.	
 
 <div class="versenum">24.</div> Eljoenain lapset: Hodajeva, Eljasib, Pelaja, Akkub, Johanan, Delaja ja Anani; ne seitseman.	
-
+</body>
+</html>

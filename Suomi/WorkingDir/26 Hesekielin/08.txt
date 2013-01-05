@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja han sanoi minulle: sina ihmisen lapsi, naetkos naita? Onko tama Juudan huoneelle vaha, etta he tassa naita kauhistuksia tekevat, jotka myos muutoin koko maan vaaryydella tayttavat, ja asettavat itsensa minua vihoittamaan? Ja katso, he pitavat viinapuun oksan nenansa edessa.	
 
 <div class="versenum">18.</div> Sentahden tahdon mina myos tehda minun hirmuisuudessani, ja ei pida minun silmani saastaman enka mina armahda heita; ja he huutavat korkialla aanella minun korvissani, en mina kuitenkaan kuule heita.	
-
+</body>
+</html>

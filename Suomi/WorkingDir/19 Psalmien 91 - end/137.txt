@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Sina havitetty tytar, Babel; autuas on, se joka sinulle kostaa, niinkuin sina meille tehnyt olet.	
 
 <div class="versenum">9.</div> Autuas on se, joka piskuiset lapses ottaa ja paiskaa kiviin.	
-
+</body>
+</html>

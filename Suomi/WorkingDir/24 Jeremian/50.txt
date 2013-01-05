@@ -95,4 +95,5 @@
 <div class="versenum">45.</div> Kuulkaat siis nyt Herran neuvoa, jonka han piti Babelista, ja hanen ajatuksiansa, jotka han ajatteli Kaldean maan asuvaisista: mitamaks etta karjalaisten pitaa riepoittaman heita, ja kukistaman heidan asumansa.	
 
 <div class="versenum">46.</div> Ja maan pitaa vapiseman riekunasta, ja pitaa kuuluman pakanain seassa, kuin Babel voitetaan.	
-
+</body>
+</html>

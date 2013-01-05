@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Han on sinun ylistykses ja sinun Jumalas, joka sinulle teki suuria ja hirmuisia toita, joita silmas nahneet ovat.	
 
 <div class="versenum">22.</div> Sinun isas menivat alas Egyptiin seitsemankymmenen sielun kanssa; mutta nyt Herra sinun Jumalas on enentanyt sinun niinkuin taivaan tahdet.	
-
+</body>
+</html>

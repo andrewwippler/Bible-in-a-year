@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Mutta vanhurskas elaa uskosta: ja joka valttaa, siihen ei minun sieluni mielisty.	
 
 <div class="versenum">39.</div> Mutta emme ole ne, jotka meitamme kadotukseen valtamme, vaan jotka uskomme sielun tallella pitamiseen.	
-
+</body>
+</html>

@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Ja mina sytytan tulen epajumalain huoneisiin Egyptissa, niin etta han polttaa ja vie heidat pois; ja hanen pitaa puettaman itsensa Egyptin maahan, niinkuin paimen puettaa itsensa hameesensa, ja pitaa meneman sielta matkaansa rauhassa.	
 
 <div class="versenum">13.</div> Ja hanen pitaa murskaksi lyoman Betsemeksen patsaat Egyptissa, ja polttaman Egyptin epajumalain huoneet tulella.	
-
+</body>
+</html>

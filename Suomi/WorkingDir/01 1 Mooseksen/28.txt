@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja tulen takaperin rauhassa kotia isani tyko: ja Herra on minun Jumalani.	
 
 <div class="versenum">22.</div> Niin tama kivi, jonka mina panin pystyalle muistopaatsaaksi, pitaa oleman Jumalan huone: ja kaikista, jotkas minulle annat, annan mina tosin sinulle kymmenykset.	
-
+</body>
+</html>

@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mita enempaa Ussian menoista sanomista on, seka ensimaisista etta viimeisista, on propheta Jesaia Amotsin poika kirjoittanut.	
 
 <div class="versenum">23.</div> Ja Ussia nukkui isainsa kanssa, ja he hautasivat hanen isainsa kanssa kuningasten hautapeltoon; silla he sanoivat: han on spitalinen. Ja Jotam hanen poikansa tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

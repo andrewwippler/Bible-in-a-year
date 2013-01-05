@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Ja Hiram lahetti palveliansa laivaan, jotka olivat jalot haaksimiehet ja mereen hyvin harjaantuneet, Salomon palveliain kanssa;	
 
 <div class="versenum">28.</div> Ja he tulivat Ophiriin ja veivat sielta neljasataa ja kaksikymmenta leiviskaa kultaa; ja he veivat sen kuningas Salomolle.	
-
+</body>
+</html>

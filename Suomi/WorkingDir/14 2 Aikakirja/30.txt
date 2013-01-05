@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja silloin oli suuri ilo Jerusalemissa, etta Salomon Davidin pojan Israelin kuninkaan ajasta ei ole senkaltaista ollut Jerusalemissa.	
 
 <div class="versenum">27.</div> Ja papit ja Levilaiset nousivat ja siunasivat kansaa, ja heidan aanensa kuultiin, ja heidan rukouksensa tuli hanen pyhaan asumiseensa taivaasen.	
-
+</body>
+</html>

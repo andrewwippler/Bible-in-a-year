@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Etta he menevat kivien rakoihin ja vuorten rotkoihin, Herran pelvon tahden, ja hanen kunniallisen majesteettinsa tahden, kuin han nousee maata peljattamaan.	
 
 <div class="versenum">22.</div> Niin lakatkaat siis ihmisesta, jonka sieramissa henki on; silla ette tieda, missa arviossa han on.	
-
+</body>
+</html>

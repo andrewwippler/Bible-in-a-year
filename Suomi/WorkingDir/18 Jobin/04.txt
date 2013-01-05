@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Se pysyy aamusta ehtoosen asti, niin he muserretaan; ja ennenkuin he sen havaitsevat, he ijankaikkisesti hukkuvat.	
 
 <div class="versenum">21.</div> Eiko heidan jalkeenjaaneensa pois oteta? he kuolevat, vaan ei viisaudessa.	
-
+</body>
+</html>

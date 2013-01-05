@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Mutta kuin han kuuli, etta Arkelaus oli kuningas Juudeassa, isansa Herodeksen siassa, pelkasi han sinne menna. Ja han sai Jumalalta kaskyn unessa, ja poikkesi Galilean aariin,	
 
 <div class="versenum">23.</div> Ja tuli ja asui kaupungissa, joka kutsutaan Natsaret, etta taytettaisiin mita prophetain kautta sanottu oli: han pitaa Natsarealaiseksi kutsuttaman.	
-
+</body>
+</html>

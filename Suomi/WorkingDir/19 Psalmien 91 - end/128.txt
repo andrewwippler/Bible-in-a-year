@@ -15,4 +15,5 @@
 <div class="versenum">5.</div> Herra siunaa sinua Zionista, ettas naet Jerusalemin onnen kaikkena elinaikanas,	
 
 <div class="versenum">6.</div> Ja saat nahda lastes lapset: rauha olkoon Israelille!	
-
+</body>
+</html>

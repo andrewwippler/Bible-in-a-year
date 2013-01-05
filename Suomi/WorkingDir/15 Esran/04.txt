@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Kuin kuningas Artahsastan kirja luettiin Rehumin, Simsain kirjoittajan ja heidan kanssaveljeinsa edessa, menivat he kiiruusti Jerusalemiin Juudalaisten tyko ja estivat heidat kasivarrella ja vakevyydella.	
 
 <div class="versenum">24.</div> Silloin lakattiin Jumalan huoneen tyosta Jerusalemissa, niin etta se jai Dariuksen Persian kuninkaan toiseen vuoteen asti.	
-
+</body>
+</html>

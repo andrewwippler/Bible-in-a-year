@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja Hetilaiset, ja Pheresilaiset, ja Kalevan pojat,	
 
 <div class="versenum">21.</div> Ja Amorilaiset, ja Kanaanealaiset, ja Gergesilaiset, ja Jebusilaiset.	
-
+</body>
+</html>

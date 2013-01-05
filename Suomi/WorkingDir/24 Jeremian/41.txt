@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Menivat pois ja tulivat majoille Kinhamiin, Betlehemin tyko, ja tahtoivat menna Egyptiin,	
 
 <div class="versenum">18.</div> Kaldealaisten edesta; silla he pelkasivat heita, etta Ismael Netanjan poika oli tappanut Gedalian Ahikamin pojan, jonka Babelin kuningas on pannut maata hallitsemaan.	
-
+</body>
+</html>

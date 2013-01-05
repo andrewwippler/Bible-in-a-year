@@ -75,4 +75,5 @@
 <div class="versenum">35.</div> Silla Jumala auttaa Zionia ja rakentaa Juudan kaupungit, etta siella asutaan, ja se perinnolla omistetaan.	
 
 <div class="versenum">36.</div> Ja hanen palveliainsa siemen sen perii: ja ne, jotka hanen nimeansa rakastavat, pitaa asuman siina.	
-
+</body>
+</html>

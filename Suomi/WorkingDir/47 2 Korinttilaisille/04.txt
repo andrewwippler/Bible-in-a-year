@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Silla meidan vaivamme, joka ajallinen ja kevia on, saattaa meille ijankaikkisen ja maarattoman kunnian:	
 
 <div class="versenum">18.</div> Jotka emme nakyvaisia katso, vaan nakymattomia; silla nakyvaiset ovat ajalliset, mutta nakymattomat ijankaikkiset.	
-
+</body>
+</html>

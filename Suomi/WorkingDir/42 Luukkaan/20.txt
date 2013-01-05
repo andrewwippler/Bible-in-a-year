@@ -97,4 +97,5 @@
 <div class="versenum">46.</div> Kavahtakaat kirjanoppineita, jotka tahtovat kayda pitkissa vaatteissa ja ottavat hyvaksi tervehdykset turulla, ja ylimmaiset istuimet synagogissa, ja ylimmaiset siat ehtoollisissa,	
 
 <div class="versenum">47.</div> Jotka syova leskein huoneet, ja muodoksi pitavat pitkat rukoukset: heidan pitaa saaman sita raskaamman tuomion.	
-
+</body>
+</html>

@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Kaanna itses minuun pain, ole minulle armollinen; vahvista palveliaas sinun voimallas, ja auta piikas poikaa.	
 
 <div class="versenum">17.</div> Tee merkki minun kanssani, etta minulle hyvin kavis, ja he sen nakisivat, jotka minua vihaavat, ja hapeaisivat, etta sina Herra autat ja lohdutat minua.	
-
+</body>
+</html>

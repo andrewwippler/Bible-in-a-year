@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Ja han vei minun templin esihuoneesen ja mittasi esihuoneen oven paallisen, viisi kyynraa kummallekin puolelle, ja portin leveyden kolme kyynaraa molemmin puolin.	
 
 <div class="versenum">49.</div> Mutta esihuone oli kaksikymmenta kyynaraa pitka ja yksitoistakymmenta kyynaraa levea, ja astuimet, joista mentiin ylos; ja patsaat olivat oven paallisten tykona, yksi kummallakin puolella.	
-
+</body>
+</html>

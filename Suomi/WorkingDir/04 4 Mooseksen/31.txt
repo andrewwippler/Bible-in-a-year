@@ -111,4 +111,5 @@
 <div class="versenum">53.</div> Silla sotavaki oli ryovannyt itsekukin edestansa,	
 
 <div class="versenum">54.</div> Ja Moses ja pappi Eleatsar ottivat kullan tuhanten ja satain paamiehilta, ja he veivat sen seurakunnan majaan, Israelin lapsille muistoksi Herran eteen.	
-
+</body>
+</html>

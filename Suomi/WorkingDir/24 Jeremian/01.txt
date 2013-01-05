@@ -41,4 +41,5 @@
 <div class="versenum">18.</div> Ja katso, mina teen tanapana sinun vahvaksi kaupungiksi, rautapatsaaksi ja vaskimuuriksi koko maassa: Juudan kuninkaita ja hanen ruhtinaitansa vastaan, hanen pappejansa ja maan kansaa vastaan.	
 
 <div class="versenum">19.</div> Ja he sotivat sinua vastaan, ei kuitenkaan heidan pida sinua voittaman; silla mina olen sinun tykonas, sanoo Herra, vapahtamassa sinua.	
-
+</body>
+</html>

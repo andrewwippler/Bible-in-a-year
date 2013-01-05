@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Ja katsos, niin pitaa muutamia sinne jatetyita kirvoitettaman, poikia ja tyttaria; ja katso, heidan pitaa tuleman tanne teidan tykonne, etta teidan pitaa nakeman, kuinka heidan kay, ja lohduttaman teita sen onnettomuuden tahden, jonka mina Jerusalemille olen antanut tulla, ja kaikkein muiden tahden, jotka mina olen antanut tulla heidan paallensa.	
 
 <div class="versenum">23.</div> He pitaa oleman teidan lohdutuksenne, kuin te saatte nahda, kuinka heidan kay, ja taidatte ymmartaa, etten mina ilman syyta tehnyt ole kaikkia, mita mina siella tehnyt olen, sanoo Herra, Herra.	
-
+</body>
+</html>

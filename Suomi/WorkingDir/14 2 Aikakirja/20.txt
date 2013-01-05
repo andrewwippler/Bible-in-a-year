@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja han suostui hanen kanssansa haaksia tekemaan, vaeltaaksensa Tarsikseen. Ja he tekivat haaksia EtseonGeberissa.	
 
 <div class="versenum">37.</div> Mutta Elieser Dodavan poika Maresasta ennusti Josaphatia vastaan ja sanoi: ettas olet suostunut Ahasiaan, on Herra sarkenyt sinun tyos; ja haahdet menivat rikki, ja ei he saaneet enaa Tarsikseen kulkea.	
-
+</body>
+</html>

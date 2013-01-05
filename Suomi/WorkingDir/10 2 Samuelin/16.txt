@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Niin tekivat he Absalomille majan katon paalle; ja Absalom makasi kaikkein isansa jalkavaimoin kanssa, kaiken Israelin nahden.	
 
 <div class="versenum">23.</div> Kuin Ahitophel neuvoa antoi silla ajalla, oli se niinkuin joku olis kysynyt Jumalalta jostakin asiasta: kaikki niin olivat Ahitophelin neuvot niin Davidin kuin Absalominkin tykona.	
-
+</body>
+</html>

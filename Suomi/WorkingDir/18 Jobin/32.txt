@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> En mina muotoa katso, enka ihmisen mielen peraan puhu.	
 
 <div class="versenum">22.</div> Silla en mina tieda (jos mina niin teen), etta minun Luojani tempaa akisti minun pois.	
-
+</body>
+</html>

@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Ja miehet pelkasivat Herraa suuresti, ja tekivat Herralle uhria ja lupausta.	
 
 <div class="versenum">17.</div> (H2:1) Mutta Herra toimitti suuren kalan, nielemaan Jonaa. Ja Jona oli kalan vatsassa kolme paivaa ja kolme yota.	
-
+</body>
+</html>

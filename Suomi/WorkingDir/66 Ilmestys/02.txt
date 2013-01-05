@@ -61,4 +61,5 @@
 <div class="versenum">28.</div> Ja annan hanelle kointahden.	
 
 <div class="versenum">29.</div> Jolla korva on, se kuulkaan, mita Henki seurakunnille sanoo.	
-
+</body>
+</html>

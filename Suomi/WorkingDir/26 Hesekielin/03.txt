@@ -57,4 +57,5 @@
 <div class="versenum">26.</div> Ja mina tahdon sinun kieles antaa tarttua suus lakeen, niin etta sinun pitaa tuleman mykaksi, ja ei enaan taitaman nuhdella heita; silla se on vastahakoinen huone.	
 
 <div class="versenum">27.</div> Mutta kuin mina puhun sinun kanssas, niin tahdon mina avata sinun suus, etta sinun heille sanoman pitaa: nain sanoo Herra, Herra: joka kuulee, se kuulkaan, ja joka hylkaa, se hyljatkaan; silla se on tottelematoin huone.	
-
+</body>
+</html>

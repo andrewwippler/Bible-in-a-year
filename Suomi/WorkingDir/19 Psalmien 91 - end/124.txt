@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Meidan sielumme paasi niinkuin lintu lintumiehen paulasta. Paula on sarjetty, ja me olemme paastetyt.	
 
 <div class="versenum">8.</div> Meidan apumme on Herran nimessa, joka taivaan ja maan tehnyt on.	
-
+</body>
+</html>

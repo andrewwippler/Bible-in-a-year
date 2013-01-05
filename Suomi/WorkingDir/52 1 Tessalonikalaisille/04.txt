@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Sitte me, jotka elamme ja jalkeen jaamme, temmataan ynna heidan kanssansa pilvihin, Herraa vastaan tuulihin, ja niin me aina Herran kanssa olemme.	
 
 <div class="versenum">18.</div> Lohduttakaat siis teitanne keskenanne nailla sanoilla.	
-
+</body>
+</html>

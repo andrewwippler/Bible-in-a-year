@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Hauskuudeksi ateria laitetaan, ja viini ilahuttaa elaman; mutta raha kaiken hankkii.	
 
 <div class="versenum">20.</div> Ala ajatuksissasikaan kiroile kuningasta, alaka makuukammiossasikaan kiroile rikasta, silla taivaan linnut kuljettavat sinun aanesi ja siivelliset ilmaisevat sinun sanasi.	
-
+</body>
+</html>

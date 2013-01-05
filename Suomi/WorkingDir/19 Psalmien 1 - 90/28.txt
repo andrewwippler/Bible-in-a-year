@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Herra on heidan vakevyytensa; han on vakeva, joka voideltuansa auttaa.	
 
 <div class="versenum">9.</div> Auta kansaas ja siunaa perimistas, ja ravitse heita ja korota heita ijankaikkisesti.	
-
+</body>
+</html>

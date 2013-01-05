@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Silla vitsan pitaa kylla sattuman ja koskeman, kuin Herra sen vie heidan ylitsensa rummuilla ja kanteleilla, ja joka paikassa sotii heita vastaan.	
 
 <div class="versenum">33.</div> Silla kuoppa on jo entisesta valmistettu, ja se on myos kuninkaalle valmistettu, kylla syva ja levia. Siella on asumus, tuli ja paljo puita; Herran Henki on sen sytyttava niinkuin jonkun tulikivisen virran.	
-
+</body>
+</html>

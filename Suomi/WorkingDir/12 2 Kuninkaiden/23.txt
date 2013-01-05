@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Viidenkolmattakymmenen ajastajan vanha oli Jojakim, kuin han kuninkaaksi tuli, ja hallitsi yksitoistakymmenta ajastaikaa Jerusalemissa: hanen aitinsa nimi oli Zebuda, Pedajan tytar Rumasta.	
 
 <div class="versenum">37.</div> Ja han teki pahaa Herran edessa, niinkuin hanen isansakin tehneet olivat.	
-
+</body>
+</html>

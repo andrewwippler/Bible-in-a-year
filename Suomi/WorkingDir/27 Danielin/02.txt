@@ -101,4 +101,5 @@
 <div class="versenum">48.</div> Niin kuningas korotti Danielin, ja antoi hanelle suuria ja paljon lahjoja, ja asetti hanen kaikkein Babelin valtakuntain paalle ja paamieheksi kaikkein viisasten paalle Babelissa.	
 
 <div class="versenum">49.</div> Ja Daniel rukoili kuningasta, etta han pani Babelin maakuntain paalle Sadrakin, Mesakin ja Abednegon; mutta Daniel itse oli kuninkaan tykona hanen kartanossansa.	
-
+</body>
+</html>

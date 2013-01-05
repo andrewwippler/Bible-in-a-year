@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Vahvistaaksensa naita Purimin paivia heidan maaratyilla ajoillansa, niinkuin Mordekai Juudalainen ja kuningatar Ester olivat heille saataneet, niinkuin he olivat itse paallensa ottaneet ja siemenensa paalle, sen maaratyn paaston ja heidan huutonsa.	
 
 <div class="versenum">32.</div> Ja Ester kaski ja vahvisti namat Purimin menot, ja etta ne piti kirjaan kirjoittettaman.	
-
+</body>
+</html>

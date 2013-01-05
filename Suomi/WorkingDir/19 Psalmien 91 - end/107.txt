@@ -89,4 +89,5 @@
 <div class="versenum">42.</div> Naita vanhurskaat nakevat ja iloitsevat, ja jokainen paha suu pitaa tukittaman.	
 
 <div class="versenum">43.</div> Kuka on taitava ja naita katkee, se ymmartaa Herran moninaisen laupiuden.	
-
+</body>
+</html>

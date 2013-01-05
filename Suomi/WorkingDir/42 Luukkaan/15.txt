@@ -67,4 +67,5 @@
 <div class="versenum">31.</div> Mutta han sanoi hanelle: poikani! sina olet aina minun tykonani, ja kaikki mita minun on, se on sinun.	
 
 <div class="versenum">32.</div> Niin piti sinunkin riemuitseman ja iloitseman; silla tama sinun veljes oli kuollut ja virkosi jalleen, han oli kadonnut ja on taas loydetty.	
-
+</body>
+</html>

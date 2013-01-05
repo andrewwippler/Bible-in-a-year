@@ -25,4 +25,5 @@
 <div class="versenum">10.</div> Niin ne neljakolmattakymmenta vanhinta lankesivat istuimella istuvaisen eteen, ja kumartaen rukoilivat sita, joka elaa ijankaikkisesta ijankaikkiseen, ja heittivat kruununsa istuimen eteen ja sanoivat:	
 
 <div class="versenum">11.</div> Herra! sina olet mahdollinen saamaan ylistyksen ja kunnian ja voiman; silla sina olet kaikki luonut, ja sinun tahdostas he ovat, ja luodut ovat.	
-
+</body>
+</html>

@@ -73,4 +73,5 @@
 <div class="versenum">34.</div> Ja han jalleen tuli raskaaksi ja synnytti pojan, ja sanoi: nyt taas minun mieheni pysyy minun tykonani: silla mina synnytin hanelle kolme poikaa. Sentahden han kutsui hanen nimensa Levi.	
 
 <div class="versenum">35.</div> Ja han tuli viela raskaaksi, ja synnytti pojan, ja sanoi: nyt mina kiitan Herraa; sentahden kutsui han hanen nimensa Juuda: ja lakkasi synnyttamasta.	
-
+</body>
+</html>

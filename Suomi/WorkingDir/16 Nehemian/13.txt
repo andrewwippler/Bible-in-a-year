@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Niin mina puhdistin heidat kaikista muukalaisista, ja asetin pappein ja Levilaisten vartiat, kunkin palvelukseensa,	
 
 <div class="versenum">31.</div> Ja uhrihalkoja maaratyilla ajoilla, ja ensimaisia hedelmia. Minun Jumalani, muista minua hyvyydella!	
-
+</body>
+</html>

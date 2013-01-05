@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja David sanoi pojallensa Salomolle: ole vahva ja miehuullinen, ja tee niin, ala pelkaa, ala myos hammasty; silla Herra Jumala minun Jumalani on sinun kanssas, ja ei ota kattansa pois sinulta, eika hylkaa sinua, siihenasti ettas kaiken viran tyot Jumalan huoneessa paattanyt olet.	
 
 <div class="versenum">21.</div> Ja katso, pappein ja Levilaisten jarjestykset pitaa oleman kaikessa Jumalan huoneen palveluksessa ja sinun kanssas on hyvantahtoisia ja ymmartavaisia kaikkeen virkaan; niin myos paamiehet ja kaikki kansa, kaikissa sinun asioissas.	
-
+</body>
+</html>

@@ -37,4 +37,5 @@
 <div class="versenum">16.</div> Sentahden sanoo Herra nain: katso, mina tahdon ottaa sinun pois maasta; tana vuonna pitaa sinun kuoleman, silla sina olet puheellas kaantanyt heidat Herrasta pois.	
 
 <div class="versenum">17.</div> Ja niin propheta Hanania kuoli sina vuonna, seitsemannella kuukaudella.	
-
+</body>
+</html>

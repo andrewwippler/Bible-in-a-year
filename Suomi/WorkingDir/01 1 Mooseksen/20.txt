@@ -39,4 +39,5 @@
 <div class="versenum">17.</div> Ja Abraham rukoili Jumalaa: ja Jumala paransi Abimelekin, ja hanen emantansa, ja hanen piikansa, ja ne siittivat.	
 
 <div class="versenum">18.</div> Silla Herra oli perati sulkenut kaikki kohdut Abimelekin huoneessa, Saaran Abrahamin emannan tahden.	
-
+</body>
+</html>

@@ -81,4 +81,5 @@
 <div class="versenum">38.</div> Mutta sittekuin Absalom oli paennut ja matkustanut Gessuriin oli han siella kolme ajastaikaa.	
 
 <div class="versenum">39.</div> Ja sen jalkeen lakkasi kuningas David menemasta Absalomia vastaan; silla han oli jo lohdutettu Amnonin jalkeen, joka kuollut oli.	
-
+</body>
+</html>

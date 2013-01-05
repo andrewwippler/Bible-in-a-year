@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Mutta sinun nimes tahden ala anna meita havaistyksi tulla, ala kunnias istuinta anna pilkatuksi tulla; muista siis, ja ala anna liittos meidan kanssamme lakata.	
 
 <div class="versenum">22.</div> Ei ole kuitenkaan pakanain epajumalain seassa, joka sateen antaa taitaa, ei taida taivas myoskaan sataa; sina ainoa olet Herra meidan Jumalamme, jonka paalle me toivomme, silla sina olet kaikki namat tehnyt.	
-
+</body>
+</html>

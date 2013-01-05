@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Ja koska he syntia tekivat isainsa Jumalaa vastaan, ja tekivat huoruutta niiden kansain epajumalain kanssa siina maassa, jotka Jumala oli havittanyt heidan edestansa;	
 
 <div class="versenum">26.</div> Heratti Israelin Jumala Phulin Assyrian kuninkaan hengen, ja Tiglat Pilneserin Assyrian kuninkaan hengen, ja vei Rubenilaiset, Gadilaiset ja puolen Manassen sukukuntaa pois, ja vei heidat Halaan, Haboriin, ja Haraan, ja Gosanin virran tyko, hamaan tahan paivaan asti.	
-
+</body>
+</html>

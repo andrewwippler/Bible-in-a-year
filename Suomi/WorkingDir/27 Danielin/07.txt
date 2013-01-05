@@ -59,4 +59,5 @@
 <div class="versenum">27.</div> Vaan valtakunta, valta ja voima kaiken taivaan alla annetaan Korkeimman pyhalle kansalle, jonka valtakunta on ijankaikkinen valtakunta, ja kaikki vallat pitaa hanta palveleman ja kuuleman.	
 
 <div class="versenum">28.</div> Tama oli sen puheen loppu. Vaan mina Daniel olin sangen murheellinen minun ajatuksissani ja minun muotoni muuttui. Kuitenkin mina katkin puheet sydamessani.	
-
+</body>
+</html>

@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Niin MirJam suljettiin seitsemaksi paivaksi leirista, ja ei kansa matkustanut, ennenkuin MirJam otettiin takaisin.	
 
 <div class="versenum">16.</div> (H13:1) Ja sitte kansa matkusti Hatserotista ja sioitti itsensa Paranin korpeen.	
-
+</body>
+</html>

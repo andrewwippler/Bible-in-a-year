@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Ja kuin han tuli lanteen pain, mittasi han myos viisisataa riukumiittaa silla mittariuvulla.	
 
 <div class="versenum">20.</div> Nain oli muuri, jonka han mittasi, joka neljalta taholta viisisataa riukumittaa pituudelta ja viisisataa leveydelta, kaikki ympari; etta pyha piti oleman eroitettu pyhattomasta.	
-
+</body>
+</html>

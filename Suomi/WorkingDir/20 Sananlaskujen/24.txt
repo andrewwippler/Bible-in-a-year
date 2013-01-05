@@ -71,4 +71,5 @@
 <div class="versenum">33.</div> Sina tahdot viela vaha maata ja unelias olla, ja enempi kasias yhteen panna lepaamaan;	
 
 <div class="versenum">34.</div> Mutta koyhyytes pitaa sinulle tuleman niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Ja teidan pitaa tietaman, etta mina olen Herra, kuin heidan tapettunsa pitaa makaaman heidan epajumaltensa seassa ympari heidan alttareitansa, kaikilla vuorten kukkuloilla, ja kaikkein viheriaisten puiden alla, ja kaikkein paksuin tammien alla, joissa paikoissa he kaikille epajumalillensa makiaa savu-uhria tehneet ovat.	
 
 <div class="versenum">14.</div> Mina tahdon ojentaa kateni heita vastaan ja tehda heidan maansa tyhjaksi ja autioksi, hamasta Diblatin korvesta, kaikissa heidan asumasioissansa; ja heidan pitaa tietaman, etta mina olen Herra.	
-
+</body>
+</html>

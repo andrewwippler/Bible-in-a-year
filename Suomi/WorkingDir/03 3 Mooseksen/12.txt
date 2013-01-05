@@ -19,4 +19,5 @@
 <div class="versenum">7.</div> Jonka ne pitaa uhraaman Herran edessa, ja sovittaman hanen, niin han puhdistuuu verensa juoksusta. Tama on saaty pojan eli tyttaren synnyttamisesta.	
 
 <div class="versenum">8.</div> Jos ei hanella ole varaa karitsaan, niin ottakaan kaksi mettista, eli kaksi kyhkylaisen poikaa, toisen polttouhriksi ja toisen rikosuhriksi. Ja niin papin pitaa sovittaman hanen, etta han puhdistettaisiin.	
-
+</body>
+</html>

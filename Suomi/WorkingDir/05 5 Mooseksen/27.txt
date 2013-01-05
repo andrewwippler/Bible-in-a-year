@@ -55,4 +55,5 @@
 <div class="versenum">25.</div> Kirottu olkoon, joka lahjoja ottaa, lyodaksensa viatointa verta, ja kaikki kansa sanokaan: amen.	
 
 <div class="versenum">26.</div> Kirottu olkoon, joka ei kaikkia naita lain sanoja tayta, etta han niiden jalkeen tekis, ja kaikki kansa sanokaan: amen.	
-
+</body>
+</html>

@@ -31,4 +31,5 @@
 <div class="versenum">13.</div> Mutta nyt se on istutettu korpeen, kuivaan ja karkiaan maahan.	
 
 <div class="versenum">14.</div> Ja tuli kavi ulos sen vahvoista oksista, se soi sen hedelman, niin ettei sen paalla enaan vahvoja oksia ole herrain valtikaksi. Se on valitettava ja surullinen asia.	
-
+</body>
+</html>

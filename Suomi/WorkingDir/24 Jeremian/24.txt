@@ -23,4 +23,5 @@
 <div class="versenum">9.</div> Mina tahdon saattaa heille onnettomuuden ja en tahdo antaa heidan olla jossakussa valtakunnassa maan paalla, niin etta heidan pitaa hapiaan tuleman, sananparreksi, jutuksi ja kiroukseksi joka paikassa, kuhunka mina heidat ajava olen.	
 
 <div class="versenum">10.</div> Ja tahdon lahettaa miekan, nalan ja ruton heidan sekaansa, siihenasti kuin heidan pitaa maasta hukkuman, jonka mina heille ja heidan isillensa antanut olen.	
-
+</body>
+</html>

@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Vai etteko te tieda, etta teidan ruumiinne on Pyhan Hengen templi, joka teissa on, jonka te Jumalalta saitte, ja ettepa te ole teidan omanne?	
 
 <div class="versenum">20.</div> Silla te olette kalliisti ostetut; kunnioittakaat siis Jumalaa teidan ruumiissanne ja teidan hengessanne, jotka Jumalan ovat.	
-
+</body>
+</html>

@@ -47,4 +47,5 @@
 <div class="versenum">21.</div> Ja etta lastenammat pelkasivat Jumalaa, rakensi han heille huoneita.	
 
 <div class="versenum">22.</div> Niin kaski Pharao kaikelle kansallensa, sanoen: kaikki pojat kuin syntyvat pitaa teidan heittaman virtaan, mutta kaikki tyttaret antakaat elaa.	
-
+</body>
+</html>

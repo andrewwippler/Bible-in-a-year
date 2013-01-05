@@ -105,4 +105,5 @@
 <div class="versenum">50.</div> Ja kaikki Israelin lapset tekivat niinkuin Herra oli Mosekselle ja Aaronille kaskenyt.	
 
 <div class="versenum">51.</div> Niin Herra yhtena paivana johdatti Israelin lapset ulos Egyptin maalta, heidan joukoissansa.	
-
+</body>
+</html>

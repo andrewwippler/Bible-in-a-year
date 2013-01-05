@@ -83,4 +83,5 @@
 <div class="versenum">39.</div> Namat pitaa teidan tekeman Herralle juhlapaivinanne, paitsi mita te mielellanne lupaatte ja hyvalla tahdollanne annatte polttouhriksenne, ruokauhriksenne, juomauhriksenne ja kiitosuhriksenne.	
 
 <div class="versenum">40.</div> (H30:1) Ja Moses sanoi Israelin lapsille kaikki ne, mita Herra hanelle kaskenyt oli.	
-
+</body>
+</html>

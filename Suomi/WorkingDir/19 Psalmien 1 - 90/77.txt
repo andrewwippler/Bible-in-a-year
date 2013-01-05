@@ -43,4 +43,5 @@
 <div class="versenum">19.</div> Sinun ties oli meressa, ja sinun polkus olivat suurissa vesissa, ja ei sinun jalkias kenkaan tuntenut.	
 
 <div class="versenum">20.</div> Sina veit kansas niinkuin lammaslauman, Moseksen ja Aaronin kautta.	
-
+</body>
+</html>

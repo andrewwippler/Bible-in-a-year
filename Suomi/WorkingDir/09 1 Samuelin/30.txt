@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Niille Hormassa, ja niille Korasanissa, ja niille Atakissa,	
 
 <div class="versenum">31.</div> Niille Hebronissa, ja kaikkiin paikkoihin, kussa David oli miehinensa vaeltanut.	
-
+</body>
+</html>

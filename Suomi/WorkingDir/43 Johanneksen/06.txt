@@ -145,4 +145,5 @@
 <div class="versenum">70.</div> Jesus vastasi heita: enko mina ole teita kahtatoistakymmenta valinnut? ja yksi teista on perkele.	
 
 <div class="versenum">71.</div> Mutta sen han sanoi Juudaasta, Simonin pojasta Iskariotista; silla han oli hanen pettava, ja oli yksi niista kahdestatoistakymmenesta.	
-
+</body>
+</html>

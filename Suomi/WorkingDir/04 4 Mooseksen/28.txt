@@ -65,4 +65,5 @@
 <div class="versenum">30.</div> Ja yhden kauriin, teita sovittamaan.	
 
 <div class="versenum">31.</div> Taman pitaa teidan tekeman, paitsi alinomaista polttouhria, ruokauhrinensa: virheettomat pitaa ne teilla oleman, niin myos heidan juomauhrinsa.	
-
+</body>
+</html>

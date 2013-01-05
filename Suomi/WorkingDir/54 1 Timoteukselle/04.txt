@@ -35,4 +35,5 @@
 <div class="versenum">15.</div> Ota naista vaari, pysy naissa, etta sinun menestykses kaikille julistetuksi tulis.	
 
 <div class="versenum">16.</div> Ota itsestas vaari ja opista, pysy alati naissa; silla jos sina sen teet, niin sina itses autuaaksi saatat ja ne, jotka sinua kuulevat.	
-
+</body>
+</html>

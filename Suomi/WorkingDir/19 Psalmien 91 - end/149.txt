@@ -21,4 +21,5 @@
 <div class="versenum">8.</div> Heidan kuninkaitansa sitomaan kahleisiin, ja heidan jaloimpiansa rautakahleisiin,	
 
 <div class="versenum">9.</div> Ja tekemaan heille kirjoitetun oikeuden: tama kunnia pitaa kaikille hanen pyhillensa oleman, Halleluja!	
-
+</body>
+</html>

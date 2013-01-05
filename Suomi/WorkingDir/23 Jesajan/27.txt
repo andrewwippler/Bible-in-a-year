@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Silloin on Herra heittava meren rannasta Egyptin virtaan, ja te Israelin lapset kootaan yksi toisensa perasta.	
 
 <div class="versenum">13.</div> Silloin soitetaan suurella basunalla, niin tulevat kadotetut Assyrian maalla, ja karkoitetut Egyptin malla, ja rukoilevat Herraa pyhalla Jerusalemin vuorella.	
-
+</body>
+</html>

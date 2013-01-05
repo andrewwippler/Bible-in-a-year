@@ -63,4 +63,5 @@
 <div class="versenum">29.</div> Niin ottakaat hanta Herrassa vastaan kaikella ilolla ja pitakaat senkaltaiset kunniassa;	
 
 <div class="versenum">30.</div> Silla Kristuksen tyon tahden oli han niin kuolemaa lahestynyt, ettei han hengestansa totellut, etta han olis minua teidan puolestanne palvellut.	
-
+</body>
+</html>

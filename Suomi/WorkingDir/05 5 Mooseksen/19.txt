@@ -45,4 +45,5 @@
 <div class="versenum">20.</div> Ja muut sen kuulisivat ja pelkaisivat, ja ei tekisi enaa senkaltaista pahaa teidan seassanne.	
 
 <div class="versenum">21.</div> Sinun silmas ei pida saastaman hanta: henki hengesta, silma silmasta, hammas hampaasta, kasi kadesta, jalka jalasta.	
-
+</body>
+</html>

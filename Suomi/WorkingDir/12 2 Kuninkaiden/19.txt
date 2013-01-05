@@ -77,4 +77,5 @@
 <div class="versenum">36.</div> Ja Sanherib Assyrian kuningas meni matkaansa, palasi ja oli Ninivessa.	
 
 <div class="versenum">37.</div> Ja kuin han rukoili Nisrokin jumalansa huoneessa, niin hanen poikansa Adramelek ja Saretser tappoivat hanen miekalla ja pakenivat Araratin maakuntaan: ja hanen poikansa Assarhaddon tuli kuninkaaksi hanen siaansa.	
-
+</body>
+</html>

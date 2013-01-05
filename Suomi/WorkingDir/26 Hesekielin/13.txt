@@ -49,4 +49,5 @@
 <div class="versenum">22.</div> Etta te petollisesti saatatte surulliseksi vanhurskaan sydamen, jota en mina ole surulliseksi tehnyt, ja olette vahvistaneet jumalattoman kadet, niin ettei se palajaisi pahasta tiestansa, ja sais elaa.	
 
 <div class="versenum">23.</div> Sentahden ei teidan pida enaan saarnaaman turhaa oppia, eika ennustusta ennustaman; mutta mina tahdon vapahtaa minun kansani teidan kadestanne, ja teidan pitaa ymmartaman, etta mina olen Herra.	
-
+</body>
+</html>

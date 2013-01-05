@@ -51,4 +51,5 @@
 <div class="versenum">23.</div> Herran Jesuksen Kristuksen armo olkoon teidan kanssanne!	
 
 <div class="versenum">24.</div> Minun rakkauteni olkoon kaikkein teidan kanssanne Kristuksessa Jesuksessa! Amen!	
-
+</body>
+</html>

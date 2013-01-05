@@ -69,4 +69,5 @@
 <div class="versenum">32.</div> Han katkee valkeuden kasissansa, ja kaskee sen palata.	
 
 <div class="versenum">33.</div> Sen ilmoittaa hanen lahimmaisensa, joka on pitkaisen viha pilvissa.	
-
+</body>
+</html>

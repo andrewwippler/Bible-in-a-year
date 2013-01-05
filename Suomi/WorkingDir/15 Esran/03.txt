@@ -29,4 +29,5 @@
 <div class="versenum">12.</div> Mutta moni vanhoista papeista, ja Levilaisista ja isain paamiehista, jotka olivat nahneet ensimaisen huoneen perustuksellansa, niin myos taman huoneen silmainsa edessa, itkivat suurella aanella; ja moni huusi korkialla aanella ilon tahden;	
 
 <div class="versenum">13.</div> Etta se huuto oli niin suuri, ettei kansa eroittanut ilon aanta itkun aanesta; silla kansa huusi korkialla aanella, etta se aani kauvas kuului.	
-
+</body>
+</html>
