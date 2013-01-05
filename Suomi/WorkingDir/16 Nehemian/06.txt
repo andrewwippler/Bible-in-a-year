@@ -1,4 +1,8 @@
-Nehemian 6	
+<html>
+<head>
+<title>Nehemian 6	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 6	</div>
 	
 <div class="versenum">1.</div> Kuin Sanballat, Tobia ja Gesem Arabialainen, ja muut meidan vihollisemme kuulivat minun muurit rakentaneeksi, ja ettei yhtaan rakoa siihen jaanyt, (vaikka en mina viela ollut pannut portteja siallensa);	
 

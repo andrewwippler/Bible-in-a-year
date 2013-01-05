@@ -1,4 +1,8 @@
-1 Aikakirja 3	
+<html>
+<head>
+<title>1 Aikakirja 3	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 3	</div>
 	
 <div class="versenum">1.</div> Namat olivat Davidin pojat, jotka hanelle syntyneet olivat Hebronissa: Amnon esikoinen, joka syntyi Ahinoamista Jisreelilaisesta, toinen Daniel Abigailista Karmelilaisesta.	
 

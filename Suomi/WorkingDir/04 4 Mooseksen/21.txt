@@ -1,4 +1,8 @@
-4 Mooseksen 21	
+<html>
+<head>
+<title>4 Mooseksen 21	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 21	</div>
 	
 <div class="versenum">1.</div> Ja koska Arad Kanaanealaisten kuningas, joka asui etelan puolessa, kuuli Israelin tulleeksi vakoojain tien kautta, soti han Israelia vastaan ja vei heista monikahtoja vangiksi.	
 

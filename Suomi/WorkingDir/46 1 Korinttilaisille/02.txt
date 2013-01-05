@@ -1,4 +1,8 @@
-1 Korinttilaisille 2	
+<html>
+<head>
+<title>1 Korinttilaisille 2	</title>
+</head>
+<body><div class="chaptertitle">1 Korinttilaisille 2	</div>
 	
 <div class="versenum">1.</div> Ja, rakkaat veljet, kuin mina teidan tykonne tulin, en mina tullut korkeilla sanoilla enka syvalla viisaudella ilmoittamaan teille Jumalan todistusta.	
 

@@ -1,4 +1,8 @@
-Filippilaisille 2	
+<html>
+<head>
+<title>Filippilaisille 2	</title>
+</head>
+<body><div class="chaptertitle">Filippilaisille 2	</div>
 	
 <div class="versenum">1.</div> Jos siis joku neuvo on teidan tykonanne Kristuksessa, jos joku rakkauden lohdutus, jos joku hengen osallisuus, jos joku sydamellinen rakkaus ja laupius,	
 

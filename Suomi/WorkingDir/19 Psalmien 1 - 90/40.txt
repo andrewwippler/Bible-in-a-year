@@ -1,4 +1,8 @@
-Psalmien 40	
+<html>
+<head>
+<title>Psalmien 40	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 40	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H40:2) Mina hartaasti odotin Herraa: ja han kallisti itsensa minun tykoni, ja han kuuli minun huutoni.	
 

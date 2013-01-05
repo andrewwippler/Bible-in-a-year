@@ -1,4 +1,8 @@
-Psalmien 145	
+<html>
+<head>
+<title>Psalmien 145	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 145	</div>
 	
 <div class="versenum">1.</div> Davidin kiitos. Mina ylistan sinua, Jumalani, sina kuningas, ja kiitan sinun nimeas aina ja ijankaikkiseti.	
 

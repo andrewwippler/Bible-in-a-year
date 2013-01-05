@@ -1,4 +1,8 @@
-2 Mooseksen 30	
+<html>
+<head>
+<title>2 Mooseksen 30	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 30	</div>
 	
 <div class="versenum">1.</div> Sinun pitaa myos tekeman suitsutusalttarin suitsutettaa: sittimipuusta sinun sen tekeman pitaa.	
 

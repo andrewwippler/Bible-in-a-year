@@ -1,4 +1,8 @@
-Matteuksen 16	
+<html>
+<head>
+<title>Matteuksen 16	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 16	</div>
 	
 <div class="versenum">1.</div> Niin tulivat hanen tykonsa Pharisealaiset ja Saddukealaiset ja kiusaten anoivat hanelta, etta han merkin taivaasta osoittais heille.	
 

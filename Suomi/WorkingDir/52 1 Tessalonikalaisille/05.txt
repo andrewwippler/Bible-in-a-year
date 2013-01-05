@@ -1,4 +1,8 @@
-1 Tessalonikalaisille 5	
+<html>
+<head>
+<title>1 Tessalonikalaisille 5	</title>
+</head>
+<body><div class="chaptertitle">1 Tessalonikalaisille 5	</div>
 	
 <div class="versenum">1.</div> Mutta ajoista ja hetkista, rakkaat veljet, ei teille tarvitse kirjoittaa;	
 

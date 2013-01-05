@@ -1,4 +1,8 @@
-Apostolien 16	
+<html>
+<head>
+<title>Apostolien 16	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 16	</div>
 	
 <div class="versenum">1.</div> Niin han tuli Derbeen ja Lystraan. Ja katso, siella oli yksi opetuslapsi, Timoteus nimelta, uskovaisen Juudalaisvaimon poika, mutta isa oli Grekilainen.	
 

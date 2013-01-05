@@ -1,4 +1,8 @@
-Roomalaisille 8	
+<html>
+<head>
+<title>Roomalaisille 8	</title>
+</head>
+<body><div class="chaptertitle">Roomalaisille 8	</div>
 	
 <div class="versenum">1.</div> Niin ei ole nyt yhtaan kadotusta niissa, jotka Jesuksessa Kristuksessa ovat, ja ei vaella lihan, vaan hengen jalkeen.	
 

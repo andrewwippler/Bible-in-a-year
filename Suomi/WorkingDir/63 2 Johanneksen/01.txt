@@ -1,4 +1,8 @@
-2 Johanneksen 1	
+<html>
+<head>
+<title>2 Johanneksen 1	</title>
+</head>
+<body><div class="chaptertitle">2 Johanneksen 1	</div>
 	
 <div class="versenum">1.</div> Vanhin valitulle rouvalle ja hanen lapsillensa, joita mina totuudessa rakastan, ja en ainoastaan mina, mutta myos kaikki, jotka totuuden tunteneet ovat,	
 

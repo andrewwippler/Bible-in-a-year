@@ -1,4 +1,8 @@
-Psalmien 4	
+<html>
+<head>
+<title>Psalmien 4	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 4	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kanteleilla. (H 4:2) Rukoillessani kuule minua, vanhurskauteni Jumala, joka minua lohdutat ahdistuksessani: ole minulle armollinen, ja kuule rukoukseni.	
 

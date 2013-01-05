@@ -1,4 +1,8 @@
-Aamoksen 9	
+<html>
+<head>
+<title>Aamoksen 9	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 9	</div>
 	
 <div class="versenum">1.</div> Mina nain Herran seisovan alttarilla; ja han sanoi: lyo oven paalliseen, niin etta pihtipielet varisevat; silla mina tahdon haavoittaa niita kaikkia, jotka heille paana ovat, ja heidan alamaisensa miekalla tappaa. Ei sen pida paaseman, joka paennut on, eika itsiansa pelastaman, jotka valttanyt on.	
 

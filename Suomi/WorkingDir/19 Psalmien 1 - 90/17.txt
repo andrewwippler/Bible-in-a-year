@@ -1,4 +1,8 @@
-Psalmien 17	
+<html>
+<head>
+<title>Psalmien 17	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 17	</div>
 	
 <div class="versenum">1.</div> Davidin rukous. Kuule, Herra, oikeutta, havaitse minun huutoni, ota vaari minun rukouksestani, joka ei viekkaasta suusta lahde.	
 

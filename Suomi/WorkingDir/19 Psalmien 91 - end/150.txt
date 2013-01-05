@@ -1,4 +1,8 @@
-Psalmien 150	
+<html>
+<head>
+<title>Psalmien 150	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 150	</div>
 	
 <div class="versenum">1.</div> Halleluja! Kiittakaat Herraa hanen pyhassansa: kiittakaat hanta hanen vakevyytensa avaruudessa!	
 

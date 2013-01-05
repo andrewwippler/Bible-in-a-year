@@ -1,4 +1,8 @@
-5 Mooseksen 5	
+<html>
+<head>
+<title>5 Mooseksen 5	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 5	</div>
 	
 <div class="versenum">1.</div> Ja Moses kutsui koko Israelin, ja sanoi heille: kuule Israel naita saatyja ja oikeuksia, jotka mina tanapana puhun teidan korvainne kuullen, ja oppikaat ne, ja pitakaat ne, tehdaksenne niiden jalkeen.	
 

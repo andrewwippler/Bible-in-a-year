@@ -1,4 +1,8 @@
-4 Mooseksen 18	
+<html>
+<head>
+<title>4 Mooseksen 18	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 18	</div>
 	
 <div class="versenum">1.</div> Ja Herra sanoi Aaronille: sina ja sinun poikas, ja sinun isas huone sinun kanssas, kantakaat pyhan viat: ja sina ja sinun poikas sinun kanssas, kantakaat pappeutenne viat.	
 

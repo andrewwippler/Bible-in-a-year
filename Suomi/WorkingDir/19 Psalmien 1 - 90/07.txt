@@ -1,4 +1,8 @@
-Psalmien 7	
+<html>
+<head>
+<title>Psalmien 7	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 7	</div>
 	
 <div class="versenum">1.</div> Davidin viattomuus, josta han Herralle veisasi, Kuusin Jeminin pojan sanan tahden: (H 7:2) Sinuun, Herra minun Jumalani, mina uskallan: auta minua kaikista minun vainollisistani, ja pelasta minua;	
 

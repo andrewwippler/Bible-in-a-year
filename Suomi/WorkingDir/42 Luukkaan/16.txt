@@ -1,4 +1,8 @@
-Luukkaan 16	
+<html>
+<head>
+<title>Luukkaan 16	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 16	</div>
 	
 <div class="versenum">1.</div> Mutta han sanoi myoskin opetuslapsillensa: oli rikas mies, jolla oli huoneenhaltia, ja hanen edessansa kannettiin hanen paallensa, etta han oli hukuttanut hanen hyvyytensa.	
 

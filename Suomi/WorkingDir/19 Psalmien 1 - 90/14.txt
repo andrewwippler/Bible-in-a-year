@@ -1,4 +1,8 @@
-Psalmien 14	
+<html>
+<head>
+<title>Psalmien 14	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 14	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. Tyhmat sanovat sydamessansa: ei Jumalaa olekaan; ei he mitaan kelpaa, ja ovat ilkiat menoissansa; ei ole joka hyvaa tekee.	
 

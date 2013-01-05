@@ -1,4 +1,8 @@
-1 Mooseksen 45	
+<html>
+<head>
+<title>1 Mooseksen 45	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 45	</div>
 	
 <div class="versenum">1.</div> Niin ei Joseph voinut itseansa silleen pidattaa kaikkein niiden edessa, jotka hanen tykonansa seisoivat, ja han huusi: menkaat ulos kaikki minun tykoani; ja ei yksikaan seisonut hanen tykonansa, koska Joseph itsensa ilmoitti veljillensa.	
 

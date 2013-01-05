@@ -1,4 +1,8 @@
-5 Mooseksen 13	
+<html>
+<head>
+<title>5 Mooseksen 13	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 13	</div>
 	
 <div class="versenum">1.</div> Jos propheta eli unennakia nousee teidan seassanne, ja antaa teille merkin eli ihmeen,	
 

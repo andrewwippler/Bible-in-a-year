@@ -1,4 +1,8 @@
-Obadjan 1	
+<html>
+<head>
+<title>Obadjan 1	</title>
+</head>
+<body><div class="chaptertitle">Obadjan 1	</div>
 	
 <div class="versenum">1.</div> Tama on Obadjan naky. Nain sanoo Herra, Herra Edomista: me olemme Herralta sanoman kuulleet, etta sanansaattaja on pakanain sekaan lahetetty: nouskaat, ja kaykaamme hanta vastaan sotaan!	
 

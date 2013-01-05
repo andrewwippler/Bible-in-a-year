@@ -1,4 +1,8 @@
-Sakarjan 12	
+<html>
+<head>
+<title>Sakarjan 12	</title>
+</head>
+<body><div class="chaptertitle">Sakarjan 12	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sanan kuorma Israelista: Herra, joka taivaat venyttaa, ja maan perustaa, ja tekee ihmisen hengen hanessa, sanoo:	
 

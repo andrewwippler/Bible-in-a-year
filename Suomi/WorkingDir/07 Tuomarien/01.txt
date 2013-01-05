@@ -1,4 +1,8 @@
-Tuomarien 1	
+<html>
+<head>
+<title>Tuomarien 1	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 1	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui Josuan kuoleman jalkeen, etta Israelin lapset kysyivat Herralta, sanoen: kuka meista ensisti menee sotaan ylos Kanaanealaisia vastaan?	
 

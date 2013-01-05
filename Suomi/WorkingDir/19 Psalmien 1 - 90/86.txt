@@ -1,4 +1,8 @@
-Psalmien 86	
+<html>
+<head>
+<title>Psalmien 86	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 86	</div>
 	
 <div class="versenum">1.</div> Davidin rukous. Kallista, Herra, korvas ja kuule minua; silla mina olen raadollinen ja koyha.	
 

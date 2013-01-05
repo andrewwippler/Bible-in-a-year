@@ -1,4 +1,8 @@
-Jobin 30	
+<html>
+<head>
+<title>Jobin 30	</title>
+</head>
+<body><div class="chaptertitle">Jobin 30	</div>
 	
 <div class="versenum">1.</div> Nyt minun nuorempani nauravat minua, joiden isia en mina olisi pannut minun laumani koirain sekaan;	
 

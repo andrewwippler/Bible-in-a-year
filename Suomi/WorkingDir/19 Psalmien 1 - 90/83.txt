@@ -1,4 +1,8 @@
-Psalmien 83	
+<html>
+<head>
+<title>Psalmien 83	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 83	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi ja veisu. (H83:2) Jumala, ala niin ratki vaikene, ja ala niin aaneti ole: Jumala, ala sita niin karsi.	
 

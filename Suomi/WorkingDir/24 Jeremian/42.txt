@@ -1,4 +1,8 @@
-Jeremian 42	
+<html>
+<head>
+<title>Jeremian 42	</title>
+</head>
+<body><div class="chaptertitle">Jeremian 42	</div>
 	
 <div class="versenum">1.</div> Silloin astuivat kaikki sodanpaamiehet edes, Johanan Karean poika, Jesanja Hosajan poika, ja kaikki kansa seka pienet etta suuret,	
 

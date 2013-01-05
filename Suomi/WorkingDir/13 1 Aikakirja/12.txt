@@ -1,4 +1,8 @@
-1 Aikakirja 12	
+<html>
+<head>
+<title>1 Aikakirja 12	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 12	</div>
 	
 <div class="versenum">1.</div> Namat tulivat Davidin tyko Ziklagiin, kuin han viela oli suljettu Saulin Kisin pojan edesta; ja he olivat myos sankarein seassa, jotka sotaan auttivat,	
 

@@ -1,4 +1,8 @@
-Psalmien 51	
+<html>
+<head>
+<title>Psalmien 51	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 51	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, (H51:2) Kuin propheta Natan tuli hanen tykonsa, sittekuin han Batseban tykona kaynyt oli. (H51:3) Jumala, ole minulle armollinen sinun hyvyytes tahden: pyyhi pois minun syntini suuren laupiutes tahden.	
 

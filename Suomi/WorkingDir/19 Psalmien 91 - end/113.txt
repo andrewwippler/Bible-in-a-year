@@ -1,4 +1,8 @@
-Psalmien 113	
+<html>
+<head>
+<title>Psalmien 113	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 113	</div>
 	
 <div class="versenum">1.</div> Halleluja! Kiittakaat te, Herran palveliat, kiittakaat Herran nimea!	
 

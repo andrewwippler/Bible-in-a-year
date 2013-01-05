@@ -1,4 +1,8 @@
-1 Kuninkaiden 7	
+<html>
+<head>
+<title>1 Kuninkaiden 7	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 7	</div>
 	
 <div class="versenum">1.</div> Mutta Salomo rakensi huonettansa kolmetoistakymmenta ajastaikaa, ennenkuin se taydellisesti valmiiksi tuli.	
 

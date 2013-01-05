@@ -1,4 +1,8 @@
-1 Pietarin 1	
+<html>
+<head>
+<title>1 Pietarin 1	</title>
+</head>
+<body><div class="chaptertitle">1 Pietarin 1	</div>
 	
 <div class="versenum">1.</div> Pietari, Jesuksen Kristuksen apostoli, valituille muukalaisille, hajalla asuvaisille Pontossa, Galatiassa, Kappadokiassa, Asiassa ja Bityniassa,	
 

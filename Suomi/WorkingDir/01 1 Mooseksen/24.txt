@@ -1,4 +1,8 @@
-1 Mooseksen 24	
+<html>
+<head>
+<title>1 Mooseksen 24	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 24	</div>
 	
 <div class="versenum">1.</div> Ja Abraham oli vanha ja joutunut ijalliseksi: ja Herra oli siunannut hanen kaikissa.	
 

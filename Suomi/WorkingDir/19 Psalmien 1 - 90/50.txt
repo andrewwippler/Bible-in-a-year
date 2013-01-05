@@ -1,4 +1,8 @@
-Psalmien 50	
+<html>
+<head>
+<title>Psalmien 50	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 50	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi. Herra, vakeva Jumala, puhuu, ja kutsuu maailman hamasta auringon koitosta niin laskemiseen asti.	
 

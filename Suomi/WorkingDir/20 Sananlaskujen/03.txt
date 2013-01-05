@@ -1,4 +1,8 @@
-Sananlaskujen 3	
+<html>
+<head>
+<title>Sananlaskujen 3	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 3	</div>
 	
 <div class="versenum">1.</div> Poikani, ala unohda minun lakiani, mutta sinun sydames pitakoon kaskyni.	
 

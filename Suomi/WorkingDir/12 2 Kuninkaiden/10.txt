@@ -1,4 +1,8 @@
-2 Kuninkaiden 10	
+<html>
+<head>
+<title>2 Kuninkaiden 10	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 10	</div>
 	
 <div class="versenum">1.</div> Ja Ahabilla oli seitsemankymmenta poikaa Samariassa. Ja Jehu kirjoitti kirjan ja lahetti Samariaan Jisreelin paamiesten tyko, ja vanhimpain ja Ahabin edustusmiesten tyko, nain:	
 

@@ -1,4 +1,8 @@
-Ilmestys 21	
+<html>
+<head>
+<title>Ilmestys 21	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 21	</div>
 	
 <div class="versenum">1.</div> Ja mina nain uuden taivaan ja uuden maan, silla ensimainen taivas ja ensimainen maa katosi, ja ei meri silleen ole.	
 

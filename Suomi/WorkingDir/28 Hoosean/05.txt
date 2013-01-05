@@ -1,4 +1,8 @@
-Hoosean 5	
+<html>
+<head>
+<title>Hoosean 5	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 5	</div>
 	
 <div class="versenum">1.</div> Kuulkaat siis papit, ja Israelin huone, ottakaat vaari, ja ota korviis sina kuninkaan huone; silla tuomio pitaa tuleman teidan paallenne, te, jotka Mitspassa paulan ja levitetyn verkon Taborissa virittaneet olette.	
 

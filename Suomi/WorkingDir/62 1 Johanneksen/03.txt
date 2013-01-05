@@ -1,4 +1,8 @@
-1 Johanneksen 3	
+<html>
+<head>
+<title>1 Johanneksen 3	</title>
+</head>
+<body><div class="chaptertitle">1 Johanneksen 3	</div>
 	
 <div class="versenum">1.</div> Katsokaat, minkakaltaisen rakkauden Isa on meille osoittanut, etta me Jumalan lapsiksi nimitetaan. Sentahden ei maailma teita tunne; silla ei han hantakaan tunne.	
 

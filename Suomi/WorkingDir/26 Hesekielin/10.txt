@@ -1,4 +1,8 @@
-Hesekielin 10	
+<html>
+<head>
+<title>Hesekielin 10	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 10	</div>
 	
 <div class="versenum">1.</div> Ja mina nain, ja katso, taivaassa oli Kerubimin paalla niinkuin saphir, ja niiden paalla niinkuin istuin.	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 7	
+<html>
+<head>
+<title>5 Mooseksen 7	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 7	</div>
 	
 <div class="versenum">1.</div> Kuin Herra sinun Jumalas vie sinun siihen maahan, johon sina tulet omistamaan sita, ja ajaa paljon kansaa ulos sinun edestas: Hetilaiset, Girgasilaiset, Amorilaiset, Kanaanilaiset, Pheresilaiset, Hevilaisetja Jebusilaiset, seitseman kansaa,jotka sinua suuremmat ja vakevammat ovat;	
 

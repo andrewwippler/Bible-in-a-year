@@ -1,4 +1,8 @@
-1 Mooseksen 40	
+<html>
+<head>
+<title>1 Mooseksen 40	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 40	</div>
 	
 <div class="versenum">1.</div> Ja sitte tapahtui, etta Egyptin kuninkaan ylimmainen juomanlaskia ja leipoja rikkoivat herraansa Egyptin kuninkasta vastaan:	
 

@@ -1,4 +1,8 @@
-Laulujen Laulu 1	
+<html>
+<head>
+<title>Laulujen Laulu 1	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 1	</div>
 	
 <div class="versenum">1.</div> Salomon korkea veisu.	
 

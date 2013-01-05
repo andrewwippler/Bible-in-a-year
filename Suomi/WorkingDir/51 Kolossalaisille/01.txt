@@ -1,4 +1,8 @@
-Kolossalaisille 1	
+<html>
+<head>
+<title>Kolossalaisille 1	</title>
+</head>
+<body><div class="chaptertitle">Kolossalaisille 1	</div>
 	
 <div class="versenum">1.</div> Paavali, Jesuksen Kristuksen apostoli Jumalan tahdon kautta, ja veli Timoteus,	
 

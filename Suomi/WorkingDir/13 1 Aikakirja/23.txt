@@ -1,4 +1,8 @@
-1 Aikakirja 23	
+<html>
+<head>
+<title>1 Aikakirja 23	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 23	</div>
 	
 <div class="versenum">1.</div> Kuin David oli vanha ja elamasta kyllansa saanut, asetti han poikansa Salomon Israelin kuninkaaksi,	
 

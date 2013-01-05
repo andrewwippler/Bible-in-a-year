@@ -1,4 +1,8 @@
-Psalmien 88	
+<html>
+<head>
+<title>Psalmien 88	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 88	</div>
 	
 <div class="versenum">1.</div> Psalmi, Koran lasten veisu, edellaveisaajalle, raadollisten heikkoudesta, Hemanin Esrahilaisen oppi. (H88:2) Herra, minun autuuteni Jumala, mina huudan paivalla ja yolla sinun edessas,	
 

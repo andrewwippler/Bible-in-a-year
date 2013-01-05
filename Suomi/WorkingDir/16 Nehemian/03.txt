@@ -1,4 +1,8 @@
-Nehemian 3	
+<html>
+<head>
+<title>Nehemian 3	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 3	</div>
 	
 <div class="versenum">1.</div> Ja Eljasib, ylimmainen pappi, nousi pappein veljeinsa kanssa, rakensivat Lammasportin ja pyhittivat sen, ja panivat siihen ovet; ja he pyhittivat sen Mean torniin asti, hamaan Hananeelin torniin saakka.	
 

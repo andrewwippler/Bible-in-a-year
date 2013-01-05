@@ -1,4 +1,8 @@
-Miikan 2	
+<html>
+<head>
+<title>Miikan 2	</title>
+</head>
+<body><div class="chaptertitle">Miikan 2	</div>
 	
 <div class="versenum">1.</div> Voi niita, jotka vahinkoa ajattelevat, ja pahoja juonia vuoteissansa ahkeroitsevat! etta he sen tayttaisivat kuin aamu valistaa; silla heillapa valta on.	
 

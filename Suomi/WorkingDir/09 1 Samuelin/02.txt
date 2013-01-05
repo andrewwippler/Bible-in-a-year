@@ -1,4 +1,8 @@
-1 Samuelin 2	
+<html>
+<head>
+<title>1 Samuelin 2	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 2	</div>
 	
 <div class="versenum">1.</div> Ja Hanna rukoili ja sanoi: minun sydameni riemuitsee Herrassa, minun sarveni on ylennetty Herrassa. Minun suuni on levialta auvennut minun vihollisteni ylitse; silla mina riemuitsen sinun autuudestas.	
 

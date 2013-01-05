@@ -1,4 +1,8 @@
-Tuomarien 13	
+<html>
+<head>
+<title>Tuomarien 13	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 13	</div>
 	
 <div class="versenum">1.</div> Ja Israelin lapset tekivat viela pahaa Herran edessa, ja Herra antoi heidat Philistealaisten kasiin neljaksikymmeneksi ajastajaksi.	
 

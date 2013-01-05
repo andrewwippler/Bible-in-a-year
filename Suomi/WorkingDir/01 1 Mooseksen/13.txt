@@ -1,4 +1,8 @@
-1 Mooseksen 13	
+<html>
+<head>
+<title>1 Mooseksen 13	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 13	</div>
 	
 <div class="versenum">1.</div> Niin Abram vaelsi ylos Egyptista emantansa ja kaiken kalunsa kanssa, ja Lot hanen kanssansa, etelaan pain.	
 

@@ -1,4 +1,8 @@
-Sananlaskujen 5	
+<html>
+<head>
+<title>Sananlaskujen 5	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 5	</div>
 	
 <div class="versenum">1.</div> Poikani, ota vaari viisaudestani: kallista korvas oppiini,	
 

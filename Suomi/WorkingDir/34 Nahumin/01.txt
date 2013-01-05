@@ -1,4 +1,8 @@
-Nahumin 1	
+<html>
+<head>
+<title>Nahumin 1	</title>
+</head>
+<body><div class="chaptertitle">Nahumin 1	</div>
 	
 <div class="versenum">1.</div> Tama on Niniven kuorma, ja Nahumin Elkosilaisen ennustuskirja.	
 

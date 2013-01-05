@@ -1,4 +1,8 @@
-Hoosean 10	
+<html>
+<head>
+<title>Hoosean 10	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 10	</div>
 	
 <div class="versenum">1.</div> Israel on tyhja viinapuu, hedelman han itsellensa pitaa: Ja niin paljo kuin hanella hedelmaa on, niin monta alttaria han myos tekee; siina, jossa maa paras on, siihen he rakentavat kauniimmat kuvat.	
 

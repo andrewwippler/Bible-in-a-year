@@ -1,4 +1,8 @@
-Titukselle 1	
+<html>
+<head>
+<title>Titukselle 1	</title>
+</head>
+<body><div class="chaptertitle">Titukselle 1	</div>
 	
 <div class="versenum">1.</div> Paavali, Jumalan palvelia ja Jesuksen Kristuksen apostoli, Jumalan valittuin uskon jalkeen ja totuuden tunnon, joka jumalisuuden jalkeen on,	
 

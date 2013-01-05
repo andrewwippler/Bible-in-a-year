@@ -1,4 +1,8 @@
-Sananlaskujen 10	
+<html>
+<head>
+<title>Sananlaskujen 10	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 10	</div>
 	
 <div class="versenum">1.</div> Salomon sananlaskut. Viisas poika on isansa ilo, mutta hullu poika on aidillensa murheeksi.	
 

@@ -1,4 +1,8 @@
-Psalmien 73	
+<html>
+<head>
+<title>Psalmien 73	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 73	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi. Totta on Jumala hyva Israelille, niille, jotka puhtaat sydamesta ovat.	
 

@@ -1,4 +1,8 @@
-Apostolien 14	
+<html>
+<head>
+<title>Apostolien 14	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 14	</div>
 	
 <div class="versenum">1.</div> Niin Ikoniossa tapahtui, etta he ynna menivat sisalle Juudalaisten synagogaan, ja niin puhuivat, etta suuri joukko Juudalaisia ja Grekilaisia uskoi.	
 

@@ -1,4 +1,8 @@
-1 Pietarin 4	
+<html>
+<head>
+<title>1 Pietarin 4	</title>
+</head>
+<body><div class="chaptertitle">1 Pietarin 4	</div>
 	
 <div class="versenum">1.</div> Etta siis Kristus lihassa meidan edestamme on karsinyt, niin te myos varustakaat teitanne silla mielella; silla joka lihassa karsii, se lakkaa synnista,	
 

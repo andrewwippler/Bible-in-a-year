@@ -1,4 +1,8 @@
-1 Pietarin 2	
+<html>
+<head>
+<title>1 Pietarin 2	</title>
+</head>
+<body><div class="chaptertitle">1 Pietarin 2	</div>
 	
 <div class="versenum">1.</div> Niin pankaat pois nyt kaikki pahuus ja kaikki petos, ja ulkokullaisuus ja kateus, ja kaikki panetus,	
 

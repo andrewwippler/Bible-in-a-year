@@ -1,4 +1,8 @@
-Luukkaan 12	
+<html>
+<head>
+<title>Luukkaan 12	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 12	</div>
 	
 <div class="versenum">1.</div> Kuin monta tuhatta ihmista kokoontuivat, niin etta he toinen toistansa tallasivat, rupesi han sanomaan opetuslapsillensa: kavahtakaat ensisti Pharisealaisten hapatusta, joka on ulkokullaisuus;	
 

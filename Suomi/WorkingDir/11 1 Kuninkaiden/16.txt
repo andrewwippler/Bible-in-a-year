@@ -1,4 +1,8 @@
-1 Kuninkaiden 16	
+<html>
+<head>
+<title>1 Kuninkaiden 16	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 16	</div>
 	
 <div class="versenum">1.</div> Niin tuli Herran sana Jehun Hananin pojan tyko Baesaa vastaan, sanoen:	
 

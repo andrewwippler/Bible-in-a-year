@@ -1,4 +1,8 @@
-Psalmien 78	
+<html>
+<head>
+<title>Psalmien 78	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 78	</div>
 	
 <div class="versenum">1.</div> Asaphin opetus. Kuule, kansani, minun lakini: kallistakaat korvanne minun suuni sanoihin.	
 

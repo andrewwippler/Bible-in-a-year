@@ -1,4 +1,8 @@
-2 Kuninkaiden 23	
+<html>
+<head>
+<title>2 Kuninkaiden 23	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 23	</div>
 	
 <div class="versenum">1.</div> Ja kuningas lahetti, ja kaikki vanhimmat Juudasta ja Jerusalemista kokoontuivat hanen tykonsa.	
 

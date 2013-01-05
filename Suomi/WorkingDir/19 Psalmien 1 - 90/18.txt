@@ -1,4 +1,8 @@
-Psalmien 18	
+<html>
+<head>
+<title>Psalmien 18	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 18	</div>
 	
 <div class="versenum">1.</div> Edellaveisaajalle, Davidin Herran palvelian Psalmi, joka Herralle namat veisun sanat puhui sina paivana, jona Herra hanen vapahti kaikkein vihollistensa kasista ja Saulin kasista. (H18:2) Ja han sanoi: mina rakastan sydamestani sinua, Herra, minun voimani.	
 

@@ -1,4 +1,8 @@
-Psalmien 104	
+<html>
+<head>
+<title>Psalmien 104	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 104	</div>
 	
 <div class="versenum">1.</div> Kiita Herraa, sieluni! Herra, minun Jumalani, sina olet sangen suuresti kunnioitettu, suurella kunnialla ja kaunistuksella olet sina puetettu.	
 

@@ -1,4 +1,8 @@
-Markuksen 10	
+<html>
+<head>
+<title>Markuksen 10	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 10	</div>
 	
 <div class="versenum">1.</div> Ja kuin han sielta laksi, tuli han Juudan maan aarille sen maakunnan kautta, joka on silla puolella Jordania. Ja kansa kokoontui taas hanen tykonsa, ja niinkuin han oli tottunut, niin han taas opetti heita.	
 

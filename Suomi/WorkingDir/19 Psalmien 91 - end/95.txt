@@ -1,4 +1,8 @@
-Psalmien 95	
+<html>
+<head>
+<title>Psalmien 95	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 95	</div>
 	
 <div class="versenum">1.</div> Tulkaat, veisatkaamme kiitosta Herralle, ja iloitkaamme meidan autuutemme turvalle!	
 

@@ -1,4 +1,8 @@
-Jesajan 30	
+<html>
+<head>
+<title>Jesajan 30	</title>
+</head>
+<body><div class="chaptertitle">Jesajan 30	</div>
 	
 <div class="versenum">1.</div> Voi luopuvaisia lapsia! sanoo Herra: jotka ilman minua neuvoa pitavat, ja ilman minun henkeani varjelusta etsivat, kokoovat syntia synnin paalle;	
 

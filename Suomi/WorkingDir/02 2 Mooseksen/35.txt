@@ -1,4 +1,8 @@
-2 Mooseksen 35	
+<html>
+<head>
+<title>2 Mooseksen 35	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 35	</div>
 	
 <div class="versenum">1.</div> Ja Moses kokosi kaiken Israelin seurakunnan, ja sanoi heille: namat ovat ne, mita Herra kaskenyt on teidan tehda.	
 

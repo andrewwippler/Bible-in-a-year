@@ -1,4 +1,8 @@
-Saarnaajan 6	
+<html>
+<head>
+<title>Saarnaajan 6	</title>
+</head>
+<body><div class="chaptertitle">Saarnaajan 6	</div>
 	
 <div class="versenum">1.</div> On onnettomuus tamakin, jonka olen nahnyt auringon alla ja joka raskaasti painaa ihmista:	
 

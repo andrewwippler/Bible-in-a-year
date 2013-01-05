@@ -1,4 +1,8 @@
-1 Samuelin 30	
+<html>
+<head>
+<title>1 Samuelin 30	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 30	</div>
 	
 <div class="versenum">1.</div> Kuin David kolmantena paivana tuli Ziglagiin miehinensa, olivat Amalekilaiset tulleet etelan puolelta Ziglagiin, lyoneet Ziglagin ja polttaneet sen tulella,	
 

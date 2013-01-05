@@ -1,4 +1,8 @@
-Apostolien 10	
+<html>
+<head>
+<title>Apostolien 10	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 10	</div>
 	
 <div class="versenum">1.</div> Niin oli Kesareassa mies, nimelta Kornelius, sadanpaamies, Italian joukosta,	
 

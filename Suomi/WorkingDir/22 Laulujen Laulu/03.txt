@@ -1,4 +1,8 @@
-Laulujen Laulu 3	
+<html>
+<head>
+<title>Laulujen Laulu 3	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 3	</div>
 	
 <div class="versenum">1.</div> Mina etsin yolla vuoteessani, jota minun sieluni rakastaa: mina etsin hanta, mutta en loytanyt hanta.	
 

@@ -1,4 +1,8 @@
-Apostolien 7	
+<html>
+<head>
+<title>Apostolien 7	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 7	</div>
 	
 <div class="versenum">1.</div> Niin ylimmainen pappi sanoi: lienevatko namat nain?	
 

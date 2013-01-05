@@ -1,4 +1,8 @@
-5 Mooseksen 31	
+<html>
+<head>
+<title>5 Mooseksen 31	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 31	</div>
 	
 <div class="versenum">1.</div> Ja Moses meni ja puhui namat sanat koko Israelin kanssa,	
 

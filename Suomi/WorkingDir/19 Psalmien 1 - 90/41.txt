@@ -1,4 +1,8 @@
-Psalmien 41	
+<html>
+<head>
+<title>Psalmien 41	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 41	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H41:2) Autuas on, joka koyhaa holhoo: hanta Herra auttaa pahana paivana.	
 

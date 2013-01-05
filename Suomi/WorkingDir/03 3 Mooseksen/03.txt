@@ -1,4 +1,8 @@
-3 Mooseksen 3	
+<html>
+<head>
+<title>3 Mooseksen 3	</title>
+</head>
+<body><div class="chaptertitle">3 Mooseksen 3	</div>
 	
 <div class="versenum">1.</div> Ja jos hanen uhrinsa on kiitosuhri karjasta, niin pitaa hanen uhraaman harjan eli lehman, ja virheettoman uhrin tuoman Herran eteen.	
 

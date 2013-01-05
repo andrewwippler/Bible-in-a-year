@@ -1,4 +1,8 @@
-Psalmien 20	
+<html>
+<head>
+<title>Psalmien 20	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 20	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H20:2) Herra kuulkoon sinua hadassas, Jakobin Jumalan nimi sinua varjelkoon!	
 

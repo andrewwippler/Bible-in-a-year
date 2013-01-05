@@ -1,4 +1,8 @@
-Laulujen Laulu 4	
+<html>
+<head>
+<title>Laulujen Laulu 4	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 4	</div>
 	
 <div class="versenum">1.</div> Katso, armaani! sina olet ihanainen, katso, ihanainen sina olet: sinun silmas ovat niinkuin mettisen silmat palmikkos valilla; sinun hiukses ovat niinkuin vuohilauma, jotka ovat kerityt Gileadin vuorella.	
 

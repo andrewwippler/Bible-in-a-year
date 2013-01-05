@@ -1,4 +1,8 @@
-Danielin 5	
+<html>
+<head>
+<title>Danielin 5	</title>
+</head>
+<body><div class="chaptertitle">Danielin 5	</div>
 	
 <div class="versenum">1.</div> Kuningas Belsatsar teki kuuluisan pidon tuhannelle paamiehellensa, ja joi itsensa viinasta juovuksiin naiden tuhannen kanssa.	
 

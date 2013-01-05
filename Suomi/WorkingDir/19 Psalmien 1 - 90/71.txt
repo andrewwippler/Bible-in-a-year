@@ -1,4 +1,8 @@
-Psalmien 71	
+<html>
+<head>
+<title>Psalmien 71	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 71	</div>
 	
 <div class="versenum">1.</div> Sinuun, Herra, mina uskallan: ala anna minua ikana havaista.	
 

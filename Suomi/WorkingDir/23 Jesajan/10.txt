@@ -1,4 +1,8 @@
-Jesajan 10	
+<html>
+<head>
+<title>Jesajan 10	</title>
+</head>
+<body><div class="chaptertitle">Jesajan 10	</div>
 	
 <div class="versenum">1.</div> Voi kirjanoppineita, jotka vaaran lain tekevat ja vaaran tuomion kirjoittavat,	
 

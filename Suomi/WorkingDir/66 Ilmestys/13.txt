@@ -1,4 +1,8 @@
-Ilmestys 13	
+<html>
+<head>
+<title>Ilmestys 13	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 13	</div>
 	
 <div class="versenum">1.</div> (H12:18) Ja mina seisoin meren sannalla. (H13:1) Ja mina nain pedon meresta astuvan ylos, jolla oli seitseman paata ja kymmenen sarvea, ja hanen sarvissansa kymmenen kruunua, ja hanen paissansa pilkan nimi.	
 

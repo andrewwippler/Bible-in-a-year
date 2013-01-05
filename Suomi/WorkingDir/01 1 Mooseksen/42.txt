@@ -1,4 +1,8 @@
-1 Mooseksen 42	
+<html>
+<head>
+<title>1 Mooseksen 42	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 42	</div>
 	
 <div class="versenum">1.</div> Mutta koska Jakob naki olevan jyvia myyda Egyptissa, sanoi han pojillensa: mita te katselette toinen toisenne paalle?	
 

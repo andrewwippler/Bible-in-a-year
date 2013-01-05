@@ -1,4 +1,8 @@
-Psalmien 105	
+<html>
+<head>
+<title>Psalmien 105	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 105	</div>
 	
 <div class="versenum">1.</div> Kiittakaat Herraa, ja saarnatkaat hanen nimeansa, julistakaat hanen toitansa kansain seassa!	
 

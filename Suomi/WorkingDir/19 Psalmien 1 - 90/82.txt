@@ -1,4 +1,8 @@
-Psalmien 82	
+<html>
+<head>
+<title>Psalmien 82	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 82	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi. Jumala seisoo Jumalan seurakunnassa: han on tuomari Jumalain seassa.	
 

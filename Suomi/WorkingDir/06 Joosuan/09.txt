@@ -1,4 +1,8 @@
-Joosuan 9	
+<html>
+<head>
+<title>Joosuan 9	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 9	</div>
 	
 <div class="versenum">1.</div> Ja kuin kaikki kuninkaat sen kuulivat, jotka silla puolella Jordania olivat vuorilla ja laaksoissa ja kaikissa ison meren satamissa, Libanonin vuoren kohdalla: Hetilaiset, ja Amorilaiset, Kanaanilaiset, Pheresilaiset, Hevilaiset ja Jebusilaiset,	
 

@@ -1,4 +1,8 @@
-2 Aikakirja 5	
+<html>
+<head>
+<title>2 Aikakirja 5	</title>
+</head>
+<body><div class="chaptertitle">2 Aikakirja 5	</div>
 	
 <div class="versenum">1.</div> Ja kuin kaikki tyo taytettiin minka Salomo teki Herran huoneesen, niin antoi Salomo sinne tuottaa kaikki, mita hanen isansa David pyhittanyt oli: hopian, kullan, ja kaikki astiat, ja pani ne Jumalan huoneen tavarain sekaan.	
 

@@ -1,4 +1,8 @@
-Jaakobin 5	
+<html>
+<head>
+<title>Jaakobin 5	</title>
+</head>
+<body><div class="chaptertitle">Jaakobin 5	</div>
 	
 <div class="versenum">1.</div> Nyt hyvin, te rikkaat! itkekaat ja ulvokaat teidan viheliaisyyttanne, joka teidan paallenne tuleva on.	
 

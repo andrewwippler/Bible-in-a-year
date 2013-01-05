@@ -1,4 +1,8 @@
-Markuksen 6	
+<html>
+<head>
+<title>Markuksen 6	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 6	</div>
 	
 <div class="versenum">1.</div> Ja han laksi sielta ja meni isansa maalle, ja hanen opetuslapsensa seurasivat hanta.	
 

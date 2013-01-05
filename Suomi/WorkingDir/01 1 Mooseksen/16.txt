@@ -1,4 +1,8 @@
-1 Mooseksen 16	
+<html>
+<head>
+<title>1 Mooseksen 16	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 16	</div>
 	
 <div class="versenum">1.</div> Ja Sarai Abramin emanta ei synnyttanyt hanelle. Mutta hanella oli Egyptilainen piika, jonka nimi oli Hagar.	
 

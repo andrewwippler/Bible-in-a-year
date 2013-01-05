@@ -1,4 +1,8 @@
-Psalmien 92	
+<html>
+<head>
+<title>Psalmien 92	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 92	</div>
 	
 <div class="versenum">1.</div> Psalmi sabbatina veisattava. (H92:2) Hyva on Herraa kiittaa, ja veisata kiitosta sinun nimelles, sina kaikkein Ylimmainen.	
 

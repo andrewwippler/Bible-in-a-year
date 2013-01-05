@@ -1,4 +1,8 @@
-Ilmestys 19	
+<html>
+<head>
+<title>Ilmestys 19	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 19	</div>
 	
 <div class="versenum">1.</div> Ja sitte kuulin mina suuren aanen, niinkuin paljolta kansalta taivaassa, sanovan: halleluja! autuus ja ylistys, kunnia ja voima olkoon Herralle meidan Jumalalle!	
 

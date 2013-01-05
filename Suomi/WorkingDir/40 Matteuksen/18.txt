@@ -1,4 +1,8 @@
-Matteuksen 18	
+<html>
+<head>
+<title>Matteuksen 18	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 18	</div>
 	
 <div class="versenum">1.</div> Silla hetkella tulivat opetuslapset Jesuksen tyko, sanoen: kuka siis on suurin taivaan valtakunnassa?	
 

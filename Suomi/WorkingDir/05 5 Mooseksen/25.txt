@@ -1,4 +1,8 @@
-5 Mooseksen 25	
+<html>
+<head>
+<title>5 Mooseksen 25	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 25	</div>
 	
 <div class="versenum">1.</div> Jos riita on miesten valilla, niin tulkaan ne oikeuden eteen, ja tuomittakaan niiden valilla: ja tuomittakaan hurskas hurskaaksi, ja jumalatoin jumalattomaksi.	
 

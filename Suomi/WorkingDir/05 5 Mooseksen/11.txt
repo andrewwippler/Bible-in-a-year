@@ -1,4 +1,8 @@
-5 Mooseksen 11	
+<html>
+<head>
+<title>5 Mooseksen 11	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 11	</div>
 	
 <div class="versenum">1.</div> Niin rakasta nyt Herraa sinun Jumalaas, ja pida hanen lakinsa, saatynsa, oikeutensa ja kaskynsa alinomaa.	
 

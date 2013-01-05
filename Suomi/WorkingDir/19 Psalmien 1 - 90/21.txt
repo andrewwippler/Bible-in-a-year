@@ -1,4 +1,8 @@
-Psalmien 21	
+<html>
+<head>
+<title>Psalmien 21	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 21	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H21:2) Herra, Kuningas riemuitsee sinun voimassas: ja kuinka suuresti han iloitsee avustas!	
 

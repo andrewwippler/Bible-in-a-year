@@ -1,4 +1,8 @@
-Joosuan 1	
+<html>
+<head>
+<title>Joosuan 1	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 1	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui Moseksen Herran palvelian kuoleman jalkeen, etta Herra puhui Josualle Nunin pojalle, Moseksen palvelialle, sanoen:	
 

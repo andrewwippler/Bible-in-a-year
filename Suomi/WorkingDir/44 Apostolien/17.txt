@@ -1,4 +1,8 @@
-Apostolien 17	
+<html>
+<head>
+<title>Apostolien 17	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 17	</div>
 	
 <div class="versenum">1.</div> Mutta kuin he Amphipolin ja Apollonian lavitse vaeltaneet olivat, tulivat he Tessalonikaan, jossa Juudalaisten synagoga oli.	
 

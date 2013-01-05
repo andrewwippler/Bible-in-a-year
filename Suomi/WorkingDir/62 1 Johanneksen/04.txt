@@ -1,4 +1,8 @@
-1 Johanneksen 4	
+<html>
+<head>
+<title>1 Johanneksen 4	</title>
+</head>
+<body><div class="chaptertitle">1 Johanneksen 4	</div>
 	
 <div class="versenum">1.</div> Te rakkaimmat! alkaat jokaista henkea uskoko, vaan koetelkaat henget, josko he Jumalasta ovat; silla monta vaaraa prophetaa ovat tulleet maailmaan.	
 

@@ -1,4 +1,8 @@
-Luukkaan 15	
+<html>
+<head>
+<title>Luukkaan 15	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 15	</div>
 	
 <div class="versenum">1.</div> Mutta hanen tykonsa tulivat kaikki Publikanit ja syntiset, kuulemaan hanta.	
 

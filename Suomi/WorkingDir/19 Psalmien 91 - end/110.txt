@@ -1,4 +1,8 @@
-Psalmien 110	
+<html>
+<head>
+<title>Psalmien 110	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 110	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Herra sanoi minun Herralleni: istu oikialle kadelleni, siihenasti kuin mina panen sinun vihollises sinun jalkais astinlaudaksi.	
 

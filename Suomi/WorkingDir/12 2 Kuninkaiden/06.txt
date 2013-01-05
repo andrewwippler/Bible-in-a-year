@@ -1,4 +1,8 @@
-2 Kuninkaiden 6	
+<html>
+<head>
+<title>2 Kuninkaiden 6	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 6	</div>
 	
 <div class="versenum">1.</div> Ja prophetain pojat sanoivat Elisalle: katso, se sia, jossa me asumme sinun tykonas, on meille ahdas;	
 

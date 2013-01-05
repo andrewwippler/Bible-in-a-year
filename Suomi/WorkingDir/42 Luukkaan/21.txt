@@ -1,4 +1,8 @@
-Luukkaan 21	
+<html>
+<head>
+<title>Luukkaan 21	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 21	</div>
 	
 <div class="versenum">1.</div> Mutta kuin han katsoi, naki han rikkaat panevan lahjojansa uhri-arkkkuun.	
 

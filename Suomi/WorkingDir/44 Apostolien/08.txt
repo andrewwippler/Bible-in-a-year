@@ -1,4 +1,8 @@
-Apostolien 8	
+<html>
+<head>
+<title>Apostolien 8	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 8	</div>
 	
 <div class="versenum">1.</div> Ja Saulus oli myos mielistynyt hanen kuolemaansa. Niin sina paivana nousi suuri vaino seurakuntaa vastaan, joka oli Jerusalemissa; ja hajosivat kaikki ympari Juudan ja Samarian maakuntaa, paitsi apostoleita.	
 

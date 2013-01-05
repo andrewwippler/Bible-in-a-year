@@ -1,4 +1,8 @@
-Ilmestys 1	
+<html>
+<head>
+<title>Ilmestys 1	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 1	</div>
 	
 <div class="versenum">1.</div> Jesuksen Kristuksen Ilmestys, jonka Jumala hanelle antoi, ilmoittaa palvelioillensa niita, mitka pian tapahtuman pitaa, ja on tiettavaksi tehnyt ja lahettanyt enkelinsa kautta palveliallensa Johannekselle.	
 

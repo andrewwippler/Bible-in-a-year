@@ -1,4 +1,8 @@
-4 Mooseksen 9	
+<html>
+<head>
+<title>4 Mooseksen 9	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 9	</div>
 	
 <div class="versenum">1.</div> Ja Herra puhui Mosekselle Sinain korvessa, toisena vuonna sittekuin he olivat lahteneet Egyptin maalta, ensimaisena kuukautena, sanoen:	
 

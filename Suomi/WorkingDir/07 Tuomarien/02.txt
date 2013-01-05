@@ -1,4 +1,8 @@
-Tuomarien 2	
+<html>
+<head>
+<title>Tuomarien 2	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 2	</div>
 	
 <div class="versenum">1.</div> Ja Herran enkeli astui ylos Gilgalista Bokimiin ja sanoi: mina johdatin teidat tanne Egyptista ja toin teidat siihen maahan, jonka mina vannoin teidan isillenne ja sanoin: en mina tee liittoani teidan kanssanne tyhjaksi ijankaikkisesti,	
 

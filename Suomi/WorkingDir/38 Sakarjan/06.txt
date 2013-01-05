@@ -1,4 +1,8 @@
-Sakarjan 6	
+<html>
+<head>
+<title>Sakarjan 6	</title>
+</head>
+<body><div class="chaptertitle">Sakarjan 6	</div>
 	
 <div class="versenum">1.</div> Ja mina taas nostin silmani ja nain: ja katso, siella olivat neljat rattaat, jotka lahtivat kahden vuoren valista; ja ne vuoret olivat vaskiset vuoret.	
 

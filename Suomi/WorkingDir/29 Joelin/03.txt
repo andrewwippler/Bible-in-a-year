@@ -1,4 +1,8 @@
-Joelin 3	
+<html>
+<head>
+<title>Joelin 3	</title>
+</head>
+<body><div class="chaptertitle">Joelin 3	</div>
 	
 <div class="versenum">1.</div> Silla katso, niina paivina ja silla ajalla, kuin mina Juudan ja Jerusalemin vankiuden palautan,	
 

@@ -1,4 +1,8 @@
-Valitusvirret 4	
+<html>
+<head>
+<title>Valitusvirret 4	</title>
+</head>
+<body><div class="chaptertitle">Valitusvirret 4	</div>
 	
 <div class="versenum">1.</div> Kuinka on kulta niin mustunut, ja jalo kulta niin muuttunut? pyhat kivet ovat joka kadun paassa hajoitetut.	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 27	
+<html>
+<head>
+<title>5 Mooseksen 27	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 27	</div>
 	
 <div class="versenum">1.</div> Sitte Moses ja Israelin vanhimmat kaskivat kansalle ja sanoivat: pitakaat kaikki ne kaskyt, jotka mina tanapana teille kasken.	
 

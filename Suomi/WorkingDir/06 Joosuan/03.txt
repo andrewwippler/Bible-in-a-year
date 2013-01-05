@@ -1,4 +1,8 @@
-Joosuan 3	
+<html>
+<head>
+<title>Joosuan 3	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 3	</div>
 	
 <div class="versenum">1.</div> Ja Josua nousi aamulla varhain, ja he matkustivat Sittimista ja tulivat Jordaniin asti, han ja kaikki Israelin lapset ja he olivat siina yota ennenkuin he matkustivat ylitse.	
 

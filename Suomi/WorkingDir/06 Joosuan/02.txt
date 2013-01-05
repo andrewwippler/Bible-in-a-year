@@ -1,4 +1,8 @@
-Joosuan 2	
+<html>
+<head>
+<title>Joosuan 2	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 2	</div>
 	
 <div class="versenum">1.</div> Ja Josua Nunin poika lahetti salaisesti kaksi vakoojaa Sittimista, sanoen: menkaat ja katselkaat maata ja Jerihoa. Niin he laksivat matkaan ja tulivat porton huoneeseen, jonka nimi oli Rahab, ja lepasivat siella.	
 

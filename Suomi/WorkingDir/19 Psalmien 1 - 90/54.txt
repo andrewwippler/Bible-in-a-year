@@ -1,4 +1,8 @@
-Psalmien 54	
+<html>
+<head>
+<title>Psalmien 54	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 54	</div>
 	
 <div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, kanteleilla, (H54:2) Kuin Siphilaiset tulivat ja sanoivat Saulille: David on lymyttanyt itsensa meidan tykonamme. (H52:3) Auta minua Jumala sinun nimellas, ja saata minulle oikeus sinun vakevyydellas.	
 

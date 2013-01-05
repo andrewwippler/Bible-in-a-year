@@ -1,4 +1,8 @@
-Joelin 2	
+<html>
+<head>
+<title>Joelin 2	</title>
+</head>
+<body><div class="chaptertitle">Joelin 2	</div>
 	
 <div class="versenum">1.</div> Soittakaat basunalla Zionissa, huutakaat minun pyhalla vuorellani, vaviskaat kaikki maan asuvaiset; silla Herran paiva tulee ja on lasna:	
 

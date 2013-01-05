@@ -1,4 +1,8 @@
-2 Kuninkaiden 15	
+<html>
+<head>
+<title>2 Kuninkaiden 15	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 15	</div>
 	
 <div class="versenum">1.</div> Jerobeamin Israelin kuninkaan seitsemantena vuonna kolmattakymmenta tuli Asaria Amatsian Juudan kuninkaan poika kuninkaaksi.	
 

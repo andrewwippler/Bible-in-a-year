@@ -1,4 +1,8 @@
-Psalmien 65	
+<html>
+<head>
+<title>Psalmien 65	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 65	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. (H65:2) Jumala, sinua kiitetaan Zionissa hiljaisuudessa; ja sinulle maksetaan lupaus.	
 

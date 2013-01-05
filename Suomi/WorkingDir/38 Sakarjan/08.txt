@@ -1,4 +1,8 @@
-Sakarjan 8	
+<html>
+<head>
+<title>Sakarjan 8	</title>
+</head>
+<body><div class="chaptertitle">Sakarjan 8	</div>
 	
 <div class="versenum">1.</div> Ja Herran Zebaotin sana tapahtui (minulle) ja sanoi:	
 

@@ -1,4 +1,8 @@
-Joosuan 4	
+<html>
+<head>
+<title>Joosuan 4	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 4	</div>
 	
 <div class="versenum">1.</div> Ja kun kaikki kansa oli tullut Jordanin yli, puhui Herra Josualle, sanoen:	
 

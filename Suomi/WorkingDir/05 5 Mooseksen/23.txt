@@ -1,4 +1,8 @@
-5 Mooseksen 23	
+<html>
+<head>
+<title>5 Mooseksen 23	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 23	</div>
 	
 <div class="versenum">1.</div> Ei kuohitun ja raajarikon pida tuleman Herran seurakuntaan.	
 

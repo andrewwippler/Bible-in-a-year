@@ -1,4 +1,8 @@
-Heprealaisille 6	
+<html>
+<head>
+<title>Heprealaisille 6	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 6	</div>
 	
 <div class="versenum">1.</div> Sentahden antakaamme Kristuksen opin alun sillansa olla, ja ruvetkaamme niihin, jotka taydellisyyteen saattavat: ei vasta-uudesta perustusta laskein parannukseen kuolevaisista toista ja uskoon Jumalan paalle,	
 

@@ -1,4 +1,8 @@
-Psalmien 29	
+<html>
+<head>
+<title>Psalmien 29	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 29	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Tuokaat Herralle, te vakevat, tuokaat Herralle kunnia ja vakevyys.	
 

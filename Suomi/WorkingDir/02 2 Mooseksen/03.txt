@@ -1,4 +1,8 @@
-2 Mooseksen 3	
+<html>
+<head>
+<title>2 Mooseksen 3	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 3	</div>
 	
 <div class="versenum">1.</div> Ja Moses kaitsi appensa Jetron Midianin papin lampaita: ja han ajoi lampaat taamma korpeen, ja tuli Jumalan vuoren Horebin tyko.	
 

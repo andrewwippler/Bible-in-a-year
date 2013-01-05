@@ -1,4 +1,8 @@
-Joosuan 13	
+<html>
+<head>
+<title>Joosuan 13	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 13	</div>
 	
 <div class="versenum">1.</div> Kuin Josua vanheni ja ijalliseksi tuli, sanoi Herra hanelle: sina olet vanhentunut ja ijalliseksi tullut, ja maata on viela aivan paljo jaanyt omistamata.	
 

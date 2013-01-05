@@ -1,4 +1,8 @@
-Haggain 1	
+<html>
+<head>
+<title>Haggain 1	</title>
+</head>
+<body><div class="chaptertitle">Haggain 1	</div>
 	
 <div class="versenum">1.</div> Toisena kuningas Dariuksen vuotena, kuudentena kuukautena, ensimaisena paivana kuuta, tapahtui Herran sana prophetan Haggain kautta Serubbabelille Sealtielin pojalle, Juudan paamiehelle, ja Josualle Jotsadakin pojalle, ylimmaiselle papille, ja sanoi:	
 

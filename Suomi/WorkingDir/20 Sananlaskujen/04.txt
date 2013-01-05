@@ -1,4 +1,8 @@
-Sananlaskujen 4	
+<html>
+<head>
+<title>Sananlaskujen 4	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 4	</div>
 	
 <div class="versenum">1.</div> Kuulkaat, lapseni, isanne kuritusta, ja ottakaa vaari, oppiaksenne ja viisaammaksi tullaksenne.	
 

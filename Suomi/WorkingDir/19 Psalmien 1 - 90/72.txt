@@ -1,4 +1,8 @@
-Psalmien 72	
+<html>
+<head>
+<title>Psalmien 72	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 72	</div>
 	
 <div class="versenum">1.</div> Salomon. Jumala, anna tuomios kuninkaalle, ja vanhurskautes kuninkaan pojalle,	
 

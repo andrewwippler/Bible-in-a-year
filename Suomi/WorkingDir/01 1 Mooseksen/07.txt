@@ -1,4 +1,8 @@
-1 Mooseksen 7	
+<html>
+<head>
+<title>1 Mooseksen 7	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 7	</div>
 	
 <div class="versenum">1.</div> Ja Herra sanoi Noalle: mene sina ja koko sinun huonees arkkiin: silla sinun mina olen nahnyt hurskaaksi minun edessani talla ajalla.	
 

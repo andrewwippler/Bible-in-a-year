@@ -1,4 +1,8 @@
-1 Mooseksen 21	
+<html>
+<head>
+<title>1 Mooseksen 21	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 21	</div>
 	
 <div class="versenum">1.</div> Ja Herra etsei Saaraa, niinkuin han sanonut oli: ja Herra teki Saaralle niinkuin han puhunut oli.	
 

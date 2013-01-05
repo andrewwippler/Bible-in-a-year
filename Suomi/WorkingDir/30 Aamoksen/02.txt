@@ -1,4 +1,8 @@
-Aamoksen 2	
+<html>
+<head>
+<title>Aamoksen 2	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 2	</div>
 	
 <div class="versenum">1.</div> Nain sanoo Herra: kolmen ja neljan Moabin vian tahden en tahdo mina heita saastaa, etta he ovat Edomin kuninkaan luut tuhaksi polttaneet.	
 

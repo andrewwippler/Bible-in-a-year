@@ -1,4 +1,8 @@
-1 Samuelin 9	
+<html>
+<head>
+<title>1 Samuelin 9	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 9	</div>
 	
 <div class="versenum">1.</div> Niin oli yksi mies BenJaminista, nimelta Kis, Abielin poika, Serorin pojan, Bekoratin pojan, Aphiaan pojan, Isjeminin pojan; voimallinen mies.	
 

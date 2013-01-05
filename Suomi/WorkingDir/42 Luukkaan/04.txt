@@ -1,4 +1,8 @@
-Luukkaan 4	
+<html>
+<head>
+<title>Luukkaan 4	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 4	</div>
 	
 <div class="versenum">1.</div> Niin Jesus taynnansa Pyhaa Henkea palasi Jordanista ja vietiin Hengelta korpeen,	
 

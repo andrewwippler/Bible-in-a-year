@@ -1,4 +1,8 @@
-Matteuksen 12	
+<html>
+<head>
+<title>Matteuksen 12	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 12	</div>
 	
 <div class="versenum">1.</div> Siihen aikaan kavi Jesus sabbatina laihoin lavitse; niin hanen opetuslapsensa isosivat, ja rupesivat tahkapaita noukkimaan ja syomaan.	
 

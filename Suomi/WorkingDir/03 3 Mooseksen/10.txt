@@ -1,4 +1,8 @@
-3 Mooseksen 10	
+<html>
+<head>
+<title>3 Mooseksen 10	</title>
+</head>
+<body><div class="chaptertitle">3 Mooseksen 10	</div>
 	
 <div class="versenum">1.</div> Ja Aaronin pojat Nadab ja Abihu ottivat kumpikin suitsutusastiansa, ja panivat tulta niihin, ja panivat suitsutusta sen paalle: ja kantoivat vierasta tulta Herran eteen, jota ei han heille ollut kaskenyt.	
 

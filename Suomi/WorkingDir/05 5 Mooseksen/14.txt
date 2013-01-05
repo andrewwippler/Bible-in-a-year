@@ -1,4 +1,8 @@
-5 Mooseksen 14	
+<html>
+<head>
+<title>5 Mooseksen 14	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 14	</div>
 	
 <div class="versenum">1.</div> Te olette Herran teidan Jumalanne lapset: alkaat piirustelko itsianne, ja alkaat keritko itsianne paljaaksi otsaltanne, jonkun kuolleen tahden.	
 

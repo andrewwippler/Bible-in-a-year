@@ -1,4 +1,8 @@
-Nehemian 13	
+<html>
+<head>
+<title>Nehemian 13	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 13	</div>
 	
 <div class="versenum">1.</div> Siihen aikaan luettiin Moseksen kirjaa kansan edessa, ja siina loydettiin kirjoitettuna, ettei kukaan Ammonilainen ja Moabilainen saa ikanansa tulla Jumalan seurakuntaan;	
 

@@ -1,4 +1,8 @@
-Nehemian 8	
+<html>
+<head>
+<title>Nehemian 8	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 8	</div>
 	
 <div class="versenum">1.</div> Sitte kokoontui kaikki kansa niinkuin yksi mies sille kadulle, joka on Vesiportin edessa, ja sanoivat Esralle, kirjanoppineelle, etta han tois Moseksen lakikirjan, jonka Herra oli Israelille kaskenyt.	
 

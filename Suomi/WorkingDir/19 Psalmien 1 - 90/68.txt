@@ -1,4 +1,8 @@
-Psalmien 68	
+<html>
+<head>
+<title>Psalmien 68	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 68	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. (H68:2) Nouskaan Jumala, etta hanen vihollisensa hajoitettaisiin; ja jotka hanta vihaavat, paetkaat hanen edestansa.	
 

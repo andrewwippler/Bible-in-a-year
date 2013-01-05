@@ -1,4 +1,8 @@
-Filemonille 1	
+<html>
+<head>
+<title>Filemonille 1	</title>
+</head>
+<body><div class="chaptertitle">Filemonille 1	</div>
 	
 <div class="versenum">1.</div> Paavali, Kristuksen Jesuksen vanki, ja veli Timoteus, rakkaalle Philemonille, ja meidan apulaisellemme,	
 

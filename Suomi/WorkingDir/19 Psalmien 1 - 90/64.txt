@@ -1,4 +1,8 @@
-Psalmien 64	
+<html>
+<head>
+<title>Psalmien 64	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 64	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H64:2) Kuule, Jumala, aantani, minun valituksessani: varjele elamani vihollisen pelvosta.	
 

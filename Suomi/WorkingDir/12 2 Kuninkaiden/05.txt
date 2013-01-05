@@ -1,4 +1,8 @@
-2 Kuninkaiden 5	
+<html>
+<head>
+<title>2 Kuninkaiden 5	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 5	</div>
 	
 <div class="versenum">1.</div> Ja Naeman Syrian kuninkaan sodanpaamies oli kuuluisa mies ja suurena pidetty herransa edessa; silla hanen kauttansa oli Herra antanut autuuden Syriaan; ja han oli voimallinen mies, vaan spitalinen.	
 

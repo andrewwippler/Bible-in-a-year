@@ -1,4 +1,8 @@
-1 Samuelin 1	
+<html>
+<head>
+<title>1 Samuelin 1	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 1	</div>
 	
 <div class="versenum">1.</div> Yksi mies oli Ramataimin Zophimista Ephraimin vuorelta, ja hanen nimensa oli Elkana Jerohamin poika, Elihun pojan, Tohun pojan, Zuphin pojan, joka oli Ephratista.	
 

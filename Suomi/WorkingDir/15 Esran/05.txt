@@ -1,4 +1,8 @@
-Esran 5	
+<html>
+<head>
+<title>Esran 5	</title>
+</head>
+<body><div class="chaptertitle">Esran 5	</div>
 	
 <div class="versenum">1.</div> Ja prophetat Haggai ja Sakaria, Iddon poika, ennustivat Juudalaisille, jotka olivat Juudassa ja Jerusalemissa, Israelin Jumalan nimeen.	
 

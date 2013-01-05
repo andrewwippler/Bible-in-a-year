@@ -1,4 +1,8 @@
-Johanneksen 4	
+<html>
+<head>
+<title>Johanneksen 4	</title>
+</head>
+<body><div class="chaptertitle">Johanneksen 4	</div>
 	
 <div class="versenum">1.</div> Kuin siis Herra ymmarsi Pharisealaisten kuulleeksi, etta Jesus teki enemmin opetuslapsia ja kasti kuin Johannes;	
 

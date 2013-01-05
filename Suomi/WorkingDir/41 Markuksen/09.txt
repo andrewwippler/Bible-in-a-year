@@ -1,4 +1,8 @@
-Markuksen 9	
+<html>
+<head>
+<title>Markuksen 9	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 9	</div>
 	
 <div class="versenum">1.</div> Ja han sanoi heille: totisesti sanon mina teille: muutamat naista, jotka tassa seisovat, ei pida kuolemaa maistavan siihen asti kuin he nakevat Jumalan valtakunnan voimalla tulevan.	
 

@@ -1,4 +1,8 @@
-Psalmien 42	
+<html>
+<head>
+<title>Psalmien 42	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 42	</div>
 	
 <div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H42:2) Niinkuin peura himoitsee tuoretta vetta, niin minun sieluni himoitsee sinua, Jumala.	
 

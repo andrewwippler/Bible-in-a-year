@@ -1,4 +1,8 @@
-Joosuan 17	
+<html>
+<head>
+<title>Joosuan 17	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 17	</div>
 	
 <div class="versenum">1.</div> Ja arpa lankesi Manassen sukukunnalle, silla han oli Josephin esikoinen, ja se lankesi Makirille Manassen esikoiselle, Gileadin isalle; silla han oli jalo sotamies, sentahden sai han Gileadin ja Basanin.	
 

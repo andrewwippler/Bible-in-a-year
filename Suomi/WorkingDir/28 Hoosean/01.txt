@@ -1,4 +1,8 @@
-Hoosean 1	
+<html>
+<head>
+<title>Hoosean 1	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 1	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sana, joka tapahtui Hosealle, Beerin pojalle, Ussian, Jotamin, Ahaksen, Hiskian, Juudan kuningasten ajalla, ja Jerobeamin Joaksen pojan, Israelin kuninkaan ajalla.	
 

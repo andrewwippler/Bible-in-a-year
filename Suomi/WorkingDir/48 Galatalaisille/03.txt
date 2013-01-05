@@ -1,4 +1,8 @@
-Galatalaisille 3	
+<html>
+<head>
+<title>Galatalaisille 3	</title>
+</head>
+<body><div class="chaptertitle">Galatalaisille 3	</div>
 	
 <div class="versenum">1.</div> Te hullut Galatalaiset! kuka teidat on vimmannut totuutta uskomasta? joiden silmain eteen Jesus Kristus kirjoitettu oli, teidan seassanne ristiinnaulittu.	
 

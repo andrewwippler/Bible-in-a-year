@@ -1,4 +1,8 @@
-Jeremian 2	
+<html>
+<head>
+<title>Jeremian 2	</title>
+</head>
+<body><div class="chaptertitle">Jeremian 2	</div>
 	
 <div class="versenum">1.</div> Ja Herran sana tapahtui minulle ja sanoi:	
 

@@ -1,4 +1,8 @@
-1 Samuelin 12	
+<html>
+<head>
+<title>1 Samuelin 12	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 12	</div>
 	
 <div class="versenum">1.</div> Ja Samuel sanoi kaikelle Israelille: katsos, mina olen kuullut teidan aanenne kaikissa mita te minulle puhuneet olette, ja olen asettanut teille kuninkaan.	
 

@@ -1,4 +1,8 @@
-Tuomarien 4	
+<html>
+<head>
+<title>Tuomarien 4	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 4	</div>
 	
 <div class="versenum">1.</div> Ja Israelin lapset viela tekivat pahaa Herran edessa, kuin Ehud kuollut oli.	
 

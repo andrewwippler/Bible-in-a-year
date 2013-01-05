@@ -1,4 +1,8 @@
-4 Mooseksen 1	
+<html>
+<head>
+<title>4 Mooseksen 1	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 1	</div>
 	
 <div class="versenum">1.</div> Ja Herra puhui Mosekselle Sinain korvessa, seurakunnan majassa, ensimaisena paivana toisena kuukautena, toisena vuonna jalkeen, sittekuin he olivat lahteneet Egyptin maalta, ja sanoi:	
 

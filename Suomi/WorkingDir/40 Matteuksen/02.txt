@@ -1,4 +1,8 @@
-Matteuksen 2	
+<html>
+<head>
+<title>Matteuksen 2	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 2	</div>
 	
 <div class="versenum">1.</div> Koska siis Jesus syntynyt oli Betlehemissa Juudan maalla, kuningas Herodeksen aikaan, katso, tietajat tulivat idasta Jerusalemiin ja sanoivat:	
 

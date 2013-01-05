@@ -1,4 +1,8 @@
-Aamoksen 4	
+<html>
+<head>
+<title>Aamoksen 4	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 4	</div>
 	
 <div class="versenum">1.</div> Kuulkaat tata sanaa, te lihavat lehmat, jotka Samarian vuorella olette, ja teette koyhille vaaryytta, ja murennatte vaivaisen, ja sanotte teidan herroillenne: tuos tanne, anna meidan juoda.	
 

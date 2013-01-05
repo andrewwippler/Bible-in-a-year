@@ -1,4 +1,8 @@
-1 Samuelin 14	
+<html>
+<head>
+<title>1 Samuelin 14	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 14	</div>
 	
 <div class="versenum">1.</div> Se tapahtui yhtena paivana, etta Jonatan Saulin poika sanoi palveliallensa, joka kantoi hanen asettansa: tule, kaykaamme Philistealaisten leiriin, jotka toisella puolella ovat; ja ei han sita sanonut isallensa.	
 

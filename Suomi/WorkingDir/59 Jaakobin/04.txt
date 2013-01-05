@@ -1,4 +1,8 @@
-Jaakobin 4	
+<html>
+<head>
+<title>Jaakobin 4	</title>
+</head>
+<body><div class="chaptertitle">Jaakobin 4	</div>
 	
 <div class="versenum">1.</div> Kusta sodat ja tappelukset tulevat teidan seassanne? Eiko siita, (nimittain) teidan himoistanne, jotka teidan jasenissanne sotivat?	
 

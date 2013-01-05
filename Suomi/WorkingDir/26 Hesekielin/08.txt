@@ -1,4 +1,8 @@
-Hesekielin 8	
+<html>
+<head>
+<title>Hesekielin 8	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 8	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui kuudentena vuonna, viidentena paivana kuudennetta kuuta, etta mina istuin huoneessani, ja Juudan vanhimmat istuivat minun edessani: siella tuli Herran, Herran kasi minun paalleni.	
 

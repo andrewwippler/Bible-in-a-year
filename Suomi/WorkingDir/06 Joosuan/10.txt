@@ -1,4 +1,8 @@
-Joosuan 10	
+<html>
+<head>
+<title>Joosuan 10	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 10	</div>
 	
 <div class="versenum">1.</div> Kuin Jerusalemin kuningas AdoniZedek kuuli Josuan voittaneeksi Ain ja havittaneeksi sen, ja niin tehneeksi Aille ja hanen kuninkaallensa, kuin han teki Jeriholle ja hanen kuninkaallensa, ja etta Gibeonin asuvaiset olivat tehneet rauhan Israelin kanssa ja asuivat heidan seassansa,	
 

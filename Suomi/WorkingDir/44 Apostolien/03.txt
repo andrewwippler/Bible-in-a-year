@@ -1,4 +1,8 @@
-Apostolien 3	
+<html>
+<head>
+<title>Apostolien 3	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 3	</div>
 	
 <div class="versenum">1.</div> Niin Pietari ja Johannes menivat ynna ylos templiin yhdeksannella rukouksen hetkelle,	
 

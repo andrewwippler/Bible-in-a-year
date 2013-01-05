@@ -1,4 +1,8 @@
-Esran 10	
+<html>
+<head>
+<title>Esran 10	</title>
+</head>
+<body><div class="chaptertitle">Esran 10	</div>
 	
 <div class="versenum">1.</div> Kuin Esra nain rukoili ja tunnusti, itki ja makasi Jumalan huoneen edessa, kokoontui suuri joukko Israelista hanen tykonsa, miehista, vaimoista ja lapsista, ja kansa itki sangen kovin.	
 

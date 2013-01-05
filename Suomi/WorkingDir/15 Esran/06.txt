@@ -1,4 +1,8 @@
-Esran 6	
+<html>
+<head>
+<title>Esran 6	</title>
+</head>
+<body><div class="chaptertitle">Esran 6	</div>
 	
 <div class="versenum">1.</div> Niin Darius kuningas kaski etsia kantselissa, kuninkaan tavarahuoneessa Babelissa.	
 

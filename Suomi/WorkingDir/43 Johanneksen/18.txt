@@ -1,4 +1,8 @@
-Johanneksen 18	
+<html>
+<head>
+<title>Johanneksen 18	</title>
+</head>
+<body><div class="chaptertitle">Johanneksen 18	</div>
 	
 <div class="versenum">1.</div> Kuin Jesus namat oli sanonut, meni han ulos opetuslastensa kanssa Kedronin ojan ylitse: siella oli yrttitarha, johon han meni sisalle ja hanen opetuslapsensa.	
 

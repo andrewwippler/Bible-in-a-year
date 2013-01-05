@@ -1,4 +1,8 @@
-Valitusvirret 1	
+<html>
+<head>
+<title>Valitusvirret 1	</title>
+</head>
+<body><div class="chaptertitle">Valitusvirret 1	</div>
 	
 <div class="versenum">1.</div> Kuinka se kaupunki niin yksinainen on, joka taynna kansaa oli? Han on niinkuin leski. Joka ylimmainen oli pakanain seassa ja vallan paalla maakunnissa, sen taytyy nyt veronalaisena olla.	
 

@@ -1,4 +1,8 @@
-2 Mooseksen 2	
+<html>
+<head>
+<title>2 Mooseksen 2	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 2	</div>
 	
 <div class="versenum">1.</div> Niin mies Leevin huoneesta meni ja nai Levin tyttaren.	
 

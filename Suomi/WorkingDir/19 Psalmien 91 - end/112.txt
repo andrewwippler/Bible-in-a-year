@@ -1,4 +1,8 @@
-Psalmien 112	
+<html>
+<head>
+<title>Psalmien 112	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 112	</div>
 	
 <div class="versenum">1.</div> Halleluja! Autuas on, joka pelkaa Herraa: joka hanen kaskyjansa sangen himoitsee.	
 

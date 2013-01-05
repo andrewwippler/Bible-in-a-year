@@ -1,4 +1,8 @@
-5 Mooseksen 4	
+<html>
+<head>
+<title>5 Mooseksen 4	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 4	</div>
 	
 <div class="versenum">1.</div> Ja kuule nyt, Israel, ne saadyt ja oikeudet, jotka mina teille opetan tehdaksenne, etta te elaisitte ja tulisitte ja omistaisitte maan jonka Herra teidan isainne Jumala teille on antava.	
 

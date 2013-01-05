@@ -1,4 +1,8 @@
-Esterin 4	
+<html>
+<head>
+<title>Esterin 4	</title>
+</head>
+<body><div class="chaptertitle">Esterin 4	</div>
 	
 <div class="versenum">1.</div> Kuin Mordekai ymmarsi kaikki mita tapahtunut oli, repaisi han vaatteensa, ja puetti itsensa sakilla ja tuhalla, ja meni keskelle kaupunkia ja huusi suurella aanella ja surkiasti,	
 

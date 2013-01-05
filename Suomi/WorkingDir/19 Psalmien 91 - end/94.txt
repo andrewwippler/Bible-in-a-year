@@ -1,4 +1,8 @@
-Psalmien 94	
+<html>
+<head>
+<title>Psalmien 94	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 94	</div>
 	
 <div class="versenum">1.</div> Herra Jumala, jonka kostot ovat, Jumala, jonka kostot ovat, selkiasti itses nayta.	
 

@@ -1,4 +1,8 @@
-Johanneksen 6	
+<html>
+<head>
+<title>Johanneksen 6	</title>
+</head>
+<body><div class="chaptertitle">Johanneksen 6	</div>
 	
 <div class="versenum">1.</div> Sitte meni Jesus Galilean meren ylitse, joka on Tiberiaan,	
 

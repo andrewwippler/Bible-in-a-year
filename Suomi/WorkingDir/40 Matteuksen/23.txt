@@ -1,4 +1,8 @@
-Matteuksen 23	
+<html>
+<head>
+<title>Matteuksen 23	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 23	</div>
 	
 <div class="versenum">1.</div> Silloin Jesus puhui kansalle ja hanen opetuslapsillensa,	
 

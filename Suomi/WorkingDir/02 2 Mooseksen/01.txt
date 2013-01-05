@@ -1,4 +1,8 @@
-2 Mooseksen 1	
+<html>
+<head>
+<title>2 Mooseksen 1	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 1	</div>
 	
 <div class="versenum">1.</div> Namat ovat Israelin lasten nimet, jotka Jakobin kanssa tulivat Egyptiin, itsekukin huoneinensa he sinne tulivat,	
 

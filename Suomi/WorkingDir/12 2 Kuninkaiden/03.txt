@@ -1,4 +1,8 @@
-2 Kuninkaiden 3	
+<html>
+<head>
+<title>2 Kuninkaiden 3	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 3	</div>
 	
 <div class="versenum">1.</div> Niin Joram Ahabin poika tuli Israelin kuninkaaksi Samariassa kahdeksantenatoistakymmenentena Josaphatin Juudan kuninkaan vuonna, ja hallitsi kaksitoistakymmenta vuotta.	
 

@@ -1,4 +1,8 @@
-Joosuan 23	
+<html>
+<head>
+<title>Joosuan 23	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 23	</div>
 	
 <div class="versenum">1.</div> Ja pitkan ajan perasta, kuin Herra oli antanut Israelin tulla lepoon kaikilta vihollisiltansa, jotka heidan ymparillansa olivat, ja Josua jo oli vanha ja hyvaan ikaan joutunut,	
 

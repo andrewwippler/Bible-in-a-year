@@ -1,4 +1,8 @@
-Joosuan 5	
+<html>
+<head>
+<title>Joosuan 5	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 5	</div>
 	
 <div class="versenum">1.</div> Kuin kaikki Amorilaisten kuninkaat, jotka toisella puolella Jordania lanteen pain asuivat, ja kaikki Kanaanealaisten kuninkaat meren tykona kuulivat, etta Herra kuivasi Jordanin vedet Israelin lasten eteen, niinkauvan kuin he kavivat sen ylitse, niin heidan sydamensa raukesi ja ei ollut heissa enaan yhtaan miehuutta Israelin lasten edessa.	
 

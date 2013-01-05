@@ -1,4 +1,8 @@
-Sananlaskujen 9	
+<html>
+<head>
+<title>Sananlaskujen 9	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 9	</div>
 	
 <div class="versenum">1.</div> Viisaus rakensi huoneensa, ja vuoli siihen seitseman patsasta,	
 

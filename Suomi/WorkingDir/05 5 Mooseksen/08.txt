@@ -1,4 +1,8 @@
-5 Mooseksen 8	
+<html>
+<head>
+<title>5 Mooseksen 8	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 8	</div>
 	
 <div class="versenum">1.</div> Kaikki kaskyt, jotka mina kasken sinulle tanapana, pitakaat ja tehkaat, etta elaisitte ja lisaantyisitte, tulisitte ja omistaisitte maan, josta Herra vannoi teidan isillenne.	
 

@@ -1,4 +1,8 @@
-Psalmien 36	
+<html>
+<head>
+<title>Psalmien 36	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 36	</div>
 	
 <div class="versenum">1.</div> Davidin, Herran palvelian Psalmi, edellaveisaajalle. (H36:2) Se on sydamestani sanottu jumalattomain menosta: ei he ensinkaan Jumalaa pelkaa.	
 

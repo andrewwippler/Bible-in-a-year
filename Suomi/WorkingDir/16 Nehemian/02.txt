@@ -1,4 +1,8 @@
-Nehemian 2	
+<html>
+<head>
+<title>Nehemian 2	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 2	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui kuningas Artahsastan kahdentenakymmenentena vuonna, Nisanin kuulla, kuin viina oli hanen edessansa, ja etta mina otin viinan ja annoin kuninkaalle; mutta en mina ollut (ennen) murheellinen hanen edessansa.	
 

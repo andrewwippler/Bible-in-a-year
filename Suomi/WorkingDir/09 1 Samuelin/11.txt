@@ -1,4 +1,8 @@
-1 Samuelin 11	
+<html>
+<head>
+<title>1 Samuelin 11	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 11	</div>
 	
 <div class="versenum">1.</div> Niin Nahas Ammonilainen meni ja piiritti Jabesta Gileadissa; niin kaikki Jabeksen miehet sanoivat Nahakselle: tee liitto meidan kanssamme, niin me palvelemme sinua.	
 

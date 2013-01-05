@@ -1,4 +1,8 @@
-Danielin 1	
+<html>
+<head>
+<title>Danielin 1	</title>
+</head>
+<body><div class="chaptertitle">Danielin 1	</div>
 	
 <div class="versenum">1.</div> Kolmantena Jojakimin, Juudan kuninkaan, valtakunnan vuotena tuli Nebukadnetsar, Babelin kuningas Jerusalemin eteen, ja piiritti sen.	
 

@@ -1,4 +1,8 @@
-Psalmien 79	
+<html>
+<head>
+<title>Psalmien 79	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 79	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi. Jumala, pakanat ovat perikuntaas karanneet: he ovat saastuttaneet pyhan temppelis, ja Jerusalemista kiviraunion tehneet.	
 

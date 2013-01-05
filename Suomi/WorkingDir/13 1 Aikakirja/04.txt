@@ -1,4 +1,8 @@
-1 Aikakirja 4	
+<html>
+<head>
+<title>1 Aikakirja 4	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 4	</div>
 	
 <div class="versenum">1.</div> Juudan lapset: Perets, Hetsron, Karmi, Hur ja Sobal.	
 

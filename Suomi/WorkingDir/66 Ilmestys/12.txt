@@ -1,4 +1,8 @@
-Ilmestys 12	
+<html>
+<head>
+<title>Ilmestys 12	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 12	</div>
 	
 <div class="versenum">1.</div> Ja suuri ihme ilmestyi taivaassa: vaimo oli puetettu auringolla, ja kuu hanen jalkainsa alla, ja hanen paassansa kruunu kahdestatoistakymmenesta tahdesta.	
 

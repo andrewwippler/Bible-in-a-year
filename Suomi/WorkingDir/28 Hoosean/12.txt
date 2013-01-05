@@ -1,4 +1,8 @@
-Hoosean 12	
+<html>
+<head>
+<title>Hoosean 12	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 12	</div>
 	
 <div class="versenum">1.</div> (H12:2) Ephraim ruokkii itsensa tuulella, ja samoo itatuulen peraan, ja enentaa joka paiva valhetta ja vahinkoa. He tekevat Assurin kanssa liiton, ja vievat oljya Egyptiin.	
 

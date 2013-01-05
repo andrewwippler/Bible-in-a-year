@@ -1,4 +1,8 @@
-2 Kuninkaiden 12	
+<html>
+<head>
+<title>2 Kuninkaiden 12	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 12	</div>
 	
 <div class="versenum">1.</div> Seitsemantena Jehun vuotena tuli Joas kuninkaaksi, ja hallitsi neljakymmenta ajastaikaa Jerusalemissa. Hanen aitinsa nimi oli Ziba Bersabasta.	
 

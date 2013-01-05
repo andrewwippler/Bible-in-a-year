@@ -1,4 +1,8 @@
-2 Samuelin 5	
+<html>
+<head>
+<title>2 Samuelin 5	</title>
+</head>
+<body><div class="chaptertitle">2 Samuelin 5	</div>
 	
 <div class="versenum">1.</div> Ja Israelin kaikki sukukunnat tulivat Davidin tyko Hebroniin, ja puhuivat sanoen: katso, sinun luus ja lihas me olemme.	
 

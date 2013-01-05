@@ -1,4 +1,8 @@
-Psalmien 48	
+<html>
+<head>
+<title>Psalmien 48	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 48	</div>
 	
 <div class="versenum">1.</div> Koran lasten Veisu-Psalmi. (H48:2) Suuri on Herra, ja sangen kiitettava, meidan Jumalamme kaupungissa, pyhalla vuorellansa.	
 

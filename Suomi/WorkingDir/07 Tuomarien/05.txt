@@ -1,4 +1,8 @@
-Tuomarien 5	
+<html>
+<head>
+<title>Tuomarien 5	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 5	</div>
 	
 <div class="versenum">1.</div> Niin veisasi Debora ja Barak Abinoamin poika sina paivana, sanoen:	
 

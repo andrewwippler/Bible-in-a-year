@@ -1,4 +1,8 @@
-Psalmien 123	
+<html>
+<head>
+<title>Psalmien 123	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 123	</div>
 	
 <div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Mina nostan silmani sinun tykos, joka asut taivaissa.	
 

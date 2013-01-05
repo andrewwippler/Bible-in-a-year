@@ -1,4 +1,8 @@
-Psalmien 143	
+<html>
+<head>
+<title>Psalmien 143	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 143	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Herra! kuule minun rukoukseni, ota anomiseni korviis, sinun totuutes tahden, kuule minua sinun vanhurskautes tahden,	
 

@@ -1,4 +1,8 @@
-Apostolien 23	
+<html>
+<head>
+<title>Apostolien 23	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 23	</div>
 	
 <div class="versenum">1.</div> Niin Paavali katsahti raadin paalle ja sanoi: miehet, rakkaat veljet! mina olen kaikella hyvalla tunnolla vaeltanut Jumalan edessa tahan paivaan asti.	
 

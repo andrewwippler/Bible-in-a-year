@@ -1,4 +1,8 @@
-Tuomarien 6	
+<html>
+<head>
+<title>Tuomarien 6	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 6	</div>
 	
 <div class="versenum">1.</div> Ja Israelin lapset taas tekivat pahaa Herran edessa; ja Herra antoi heidat Midianilaisten kateen seitsemaksi ajastajaksi.	
 

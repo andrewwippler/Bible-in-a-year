@@ -1,4 +1,8 @@
-Ilmestys 7	
+<html>
+<head>
+<title>Ilmestys 7	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 7	</div>
 	
 <div class="versenum">1.</div> Ja sitte nain mina nelja enkelia seisovan neljan maan kulman paalla, ja neljaa maan tuulta pitavan, ettei tuuli oisi puhaltanut maan paalle, eika meren paalle, eika yhdenkaan puun paalle.	
 

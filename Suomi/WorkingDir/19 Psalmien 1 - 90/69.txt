@@ -1,4 +1,8 @@
-Psalmien 69	
+<html>
+<head>
+<title>Psalmien 69	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 69	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi kukkasista, edellaveisaajalle. (H69:2) Jumala,auta minua; silla vedet kayvat hamaan minun sieluuni asti.	
 

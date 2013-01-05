@@ -1,4 +1,8 @@
-2 Mooseksen 32	
+<html>
+<head>
+<title>2 Mooseksen 32	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 32	</div>
 	
 <div class="versenum">1.</div> Mutta koska kansa naki, etta Moses viipyi tulemasta alas vuorelta, niin he kokoontuivat Aaronia vastaan, ja sanoivat hanelle: nouse, tee meille jumalia, jotka meidan edellamme kavisivat; silla emme tieda, mita talle miehelle Mosekselle tapahtunut on, joka meidat Egyptin maalta johdatti.	
 

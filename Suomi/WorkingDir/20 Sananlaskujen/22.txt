@@ -1,4 +1,8 @@
-Sananlaskujen 22	
+<html>
+<head>
+<title>Sananlaskujen 22	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 22	</div>
 	
 <div class="versenum">1.</div> Hyva sanoma on kalliimpi kuin suuri rikkaus, ja suosio on parempi kuin hopia ja kulta.	
 

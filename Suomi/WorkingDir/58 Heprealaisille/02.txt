@@ -1,4 +1,8 @@
-Heprealaisille 2	
+<html>
+<head>
+<title>Heprealaisille 2	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 2	</div>
 	
 <div class="versenum">1.</div> Sentahden pitaa meidan sita visummin niista vaarin ottaman, joita me kuulleet olemme, ettemme joskus pahenisi.	
 

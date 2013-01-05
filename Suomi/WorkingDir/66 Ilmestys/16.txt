@@ -1,4 +1,8 @@
-Ilmestys 16	
+<html>
+<head>
+<title>Ilmestys 16	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 16	</div>
 	
 <div class="versenum">1.</div> Ja mina kuulin suuren aanen templista sanovan seitsemalle enkelille: menkaat ja vuodattakaat Jumalan vihan maljat maan paalle!	
 

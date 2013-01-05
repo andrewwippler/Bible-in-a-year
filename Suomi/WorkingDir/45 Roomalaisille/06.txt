@@ -1,4 +1,8 @@
-Roomalaisille 6	
+<html>
+<head>
+<title>Roomalaisille 6	</title>
+</head>
+<body><div class="chaptertitle">Roomalaisille 6	</div>
 	
 <div class="versenum">1.</div> Mitas siis meidan pitaa sanoman? Pitaako meidan viela synnissa oleman, etta armo suuremmaksi tulis?	
 

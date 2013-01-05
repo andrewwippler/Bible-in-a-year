@@ -1,4 +1,8 @@
-Jesajan 42	
+<html>
+<head>
+<title>Jesajan 42	</title>
+</head>
+<body><div class="chaptertitle">Jesajan 42	</div>
 	
 <div class="versenum">1.</div> Katso, minun palveliani, mina hanta tuen, ja minun valittuni, jossa minun sieluni mielistyi. Mina olen hanelle minun Henkeni antanut, hanen pitaa oikeuden saattaman pakanoille.	
 

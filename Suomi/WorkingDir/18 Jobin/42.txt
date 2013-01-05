@@ -1,4 +1,8 @@
-Jobin 42	
+<html>
+<head>
+<title>Jobin 42	</title>
+</head>
+<body><div class="chaptertitle">Jobin 42	</div>
 	
 <div class="versenum">1.</div> Ja Job vastasi Herraa ja sanoi:	
 

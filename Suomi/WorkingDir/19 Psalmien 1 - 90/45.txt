@@ -1,4 +1,8 @@
-Psalmien 45	
+<html>
+<head>
+<title>Psalmien 45	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 45	</div>
 	
 <div class="versenum">1.</div> Morsiamen opetusvirsi kukkasesta Koran lapsilta edellaveisaajalle. (H45:2) Minun sydameni ajattelee kauniin laulun: mina veisaan kuninkaasta, minun kieleni on jalon kirjoittajan kyna.	
 

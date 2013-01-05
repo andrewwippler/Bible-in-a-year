@@ -1,4 +1,8 @@
-Psalmien 108	
+<html>
+<head>
+<title>Psalmien 108	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 108	</div>
 	
 <div class="versenum">1.</div> Psalmi, Davidin veisu. (H108:2) Jumala! minun sydameni on valmis: mina veisaan ja kiitan, niin myos minun kunniani.	
 

@@ -1,4 +1,8 @@
-Matteuksen 27	
+<html>
+<head>
+<title>Matteuksen 27	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 27	</div>
 	
 <div class="versenum">1.</div> Mutta kuin aamu tuli, pitivat kaikki pappein paamiehet ja kansan vanhimmat neuvoa Jesusta vastaan, hanta kuolettaaksensa,	
 

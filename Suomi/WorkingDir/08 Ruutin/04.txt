@@ -1,4 +1,8 @@
-Ruutin 4	
+<html>
+<head>
+<title>Ruutin 4	</title>
+</head>
+<body><div class="chaptertitle">Ruutin 4	</div>
 	
 <div class="versenum">1.</div> Ja Boas meni porttiin ja istui siella; ja katso, perillinen kavi ohise, ja Boas puhutteli hanta, sanoen: palaja tanne ja istu viereeni, ole kukas olet. Niin han palasi ja istui.	
 

@@ -1,4 +1,8 @@
-Joosuan 8	
+<html>
+<head>
+<title>Joosuan 8	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 8	</div>
 	
 <div class="versenum">1.</div> Ja Herra sanoi Josualle: ala pelkaa, ala myos vapise: ota kanssas kaikki sotavaki, ja nouse ja mene ylos Aihin; katso, mina annan Ain kuninkaan kansoinensa, kaupunkinensa ja mainensa sinun katees.	
 

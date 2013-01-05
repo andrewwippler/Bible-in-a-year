@@ -1,4 +1,8 @@
-Psalmien 106	
+<html>
+<head>
+<title>Psalmien 106	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 106	</div>
 	
 <div class="versenum">1.</div> Halleluja. Kiittakaat Herraa! silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 20	
+<html>
+<head>
+<title>5 Mooseksen 20	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 20	</div>
 	
 <div class="versenum">1.</div> Koskas menet sotaan vihollisias vastaan, ja naet hevoset ja vaunut, ja kansan joka on suurempi sinua, niin ala pelkaa heita; silla Herra sinun Jumalas, joka sinun johdatti ulos Egyptin maalta, on sinun kanssas.	
 

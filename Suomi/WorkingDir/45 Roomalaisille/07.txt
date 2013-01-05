@@ -1,4 +1,8 @@
-Roomalaisille 7	
+<html>
+<head>
+<title>Roomalaisille 7	</title>
+</head>
+<body><div class="chaptertitle">Roomalaisille 7	</div>
 	
 <div class="versenum">1.</div> Etteko te tieda, rakkaat veljet, (silla mina puhun lain taitaville) etta laki vallitsee ihmista niinkauvan kuin han elaa?	
 

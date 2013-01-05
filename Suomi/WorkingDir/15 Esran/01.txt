@@ -1,4 +1,8 @@
-Esran 1	
+<html>
+<head>
+<title>Esran 1	</title>
+</head>
+<body><div class="chaptertitle">Esran 1	</div>
 	
 <div class="versenum">1.</div> Ensimaisena Koreksen Persian kuninkaan vuonna, etta Herran sana taytettaisiin, joka oli puhuttu Jeremian suun kautta, heratti Herra Koreksen Persian kuninkaan hengen kuuluttamaan koko valtakunnassansa, ja myos kirjoituksella, sanoen:	
 

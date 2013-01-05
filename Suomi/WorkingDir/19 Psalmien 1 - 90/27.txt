@@ -1,4 +1,8 @@
-Psalmien 27	
+<html>
+<head>
+<title>Psalmien 27	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 27	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Herra on minun valistukseni ja autuuteni, keta mina pelkaan? Herra on henkeni vakevyys, keta mina vapisen?	
 

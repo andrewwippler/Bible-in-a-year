@@ -1,4 +1,8 @@
-1 Tessalonikalaisille 1	
+<html>
+<head>
+<title>1 Tessalonikalaisille 1	</title>
+</head>
+<body><div class="chaptertitle">1 Tessalonikalaisille 1	</div>
 	
 <div class="versenum">1.</div> Paavali ja Silvanus ja Timoteus Tessalonikan seurakunnalle, Isassa Jumalassa ja Herrassa Jesuksessa Kristuksessa: armo olkoon teille ja rauha Jumalalta meidan Isaltamme, ja Herralta Jesukselta Kristukselta!	
 

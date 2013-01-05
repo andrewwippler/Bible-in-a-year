@@ -1,4 +1,8 @@
-5 Mooseksen 33	
+<html>
+<head>
+<title>5 Mooseksen 33	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 33	</div>
 	
 <div class="versenum">1.</div> Ja tama on siunaus, jolla Moses Jumalan mies siunasi Israelin lapsia ennen kuolemaansa,	
 

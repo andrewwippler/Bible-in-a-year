@@ -1,4 +1,8 @@
-Hesekielin 5	
+<html>
+<head>
+<title>Hesekielin 5	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 5	</div>
 	
 <div class="versenum">1.</div> Ja sina, ihmisen lapsi, ota sinulles niin terava miekka kuin partaveitsi, ja keritse silla paas ja partas; ja ota vaaka ja jaa ne silla.	
 

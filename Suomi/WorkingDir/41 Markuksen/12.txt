@@ -1,4 +1,8 @@
-Markuksen 12	
+<html>
+<head>
+<title>Markuksen 12	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 12	</div>
 	
 <div class="versenum">1.</div> Ja han rupesi heille puhumaan vertauksilla: ihminen istutti viinamaen, ja pani aidan sen ymparille, ja kaivoi kuopan, ja rakensi tornin, ja pani sen vuorolle peltomiehille, ja matkusti muille maille,	
 

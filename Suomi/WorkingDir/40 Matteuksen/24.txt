@@ -1,4 +1,8 @@
-Matteuksen 24	
+<html>
+<head>
+<title>Matteuksen 24	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 24	</div>
 	
 <div class="versenum">1.</div> Ja Jesus meni ulos ja laksi pois templista, ja hanen opetuslapsensa tulivat osoittamaan hanelle templin rakennuksia.	
 

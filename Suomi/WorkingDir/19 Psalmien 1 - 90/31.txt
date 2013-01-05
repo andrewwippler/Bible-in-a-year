@@ -1,4 +1,8 @@
-Psalmien 31	
+<html>
+<head>
+<title>Psalmien 31	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 31	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi edellaveisaajalle. (H31:2) Herra, sinuun mina uskallan, etten mina ikana hapiaan tulisi: vapahda minua sinun vanhurskautes kautta.	
 

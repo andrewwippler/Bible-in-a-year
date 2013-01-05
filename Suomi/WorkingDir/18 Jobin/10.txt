@@ -1,4 +1,8 @@
-Jobin 10	
+<html>
+<head>
+<title>Jobin 10	</title>
+</head>
+<body><div class="chaptertitle">Jobin 10	</div>
 	
 <div class="versenum">1.</div> Minun sieluni suuttuu elamasta; minun valitukseni minusta annan mina olla ja puhun sieluni murheessa.	
 

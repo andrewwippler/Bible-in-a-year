@@ -1,4 +1,8 @@
-Psalmien 53	
+<html>
+<head>
+<title>Psalmien 53	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 53	</div>
 	
 <div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, Mahelatin paalla. (H53:2) Tyhmat sanovat sydamessansa: ei Jumalaa olekaan; ei he mitaan kelpaa, ja ovat ilkiat menoissansa: ei ole joka hyvaa tekee.	
 

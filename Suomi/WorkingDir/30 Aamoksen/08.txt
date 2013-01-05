@@ -1,4 +1,8 @@
-Aamoksen 8	
+<html>
+<head>
+<title>Aamoksen 8	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 8	</div>
 	
 <div class="versenum">1.</div> Herra, Herra osoitti minulle nayssa, ja katso, siella oli kori suvituloa.	
 

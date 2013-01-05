@@ -1,4 +1,8 @@
-Psalmien 3	
+<html>
+<head>
+<title>Psalmien 3	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 3	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, kuin han pakeni poikaansa Absalomia. (H 3:2) Voi Herra! kuinka monta on minulla vihollista, ja niin usiat karkaavat minua vastaan.	
 

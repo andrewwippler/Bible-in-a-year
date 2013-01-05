@@ -1,4 +1,8 @@
-Joosuan 12	
+<html>
+<head>
+<title>Joosuan 12	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 12	</div>
 	
 <div class="versenum">1.</div> Ja namat ovat maan kuninkaat, jotka Israelin lapset loivat, ja ottivat heidan maansa tuolla puolella Jordania, auringon nousemista pain, Arnonin ojasta Hermonin vuoreen asti, ja kaikki lakeudet itaan pain:	
 

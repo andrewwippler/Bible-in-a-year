@@ -1,4 +1,8 @@
-Psalmien 62	
+<html>
+<head>
+<title>Psalmien 62	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 62	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi Jedutunin edesta, edellaveisaajalle. (H62:2) Minun sieluni odottaa ainoastaan Jumalaa, joka minua auttaa.	
 

@@ -1,4 +1,8 @@
-4 Mooseksen 7	
+<html>
+<head>
+<title>4 Mooseksen 7	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 7	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui sina paivana, koska Moses oli pannut Tabernaklin ylos, voiteli han sen ja pyhitti sen, ja kaikki sen astiat, niin myos alttarin ja kaikki sen astiat: ja voiteli ne, ja pyhitti ne.	
 

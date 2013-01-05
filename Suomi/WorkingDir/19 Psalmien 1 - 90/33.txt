@@ -1,4 +1,8 @@
-Psalmien 33	
+<html>
+<head>
+<title>Psalmien 33	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 33	</div>
 	
 <div class="versenum">1.</div> Riemuitkaat, te vanhurskaat, Herrassa; vakain pitaa hanta kauniisti kiittaman.	
 

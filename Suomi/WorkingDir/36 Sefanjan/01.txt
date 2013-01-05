@@ -1,4 +1,8 @@
-Sefanjan 1	
+<html>
+<head>
+<title>Sefanjan 1	</title>
+</head>
+<body><div class="chaptertitle">Sefanjan 1	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sana, joka tapahtui Zephanjalle Kusin pojalle, Gedalian pojalle, Amarian pojalle, Hiskian pojalle, Josian Amonin pojan, Juudan kuninkaan ajalla.	
 

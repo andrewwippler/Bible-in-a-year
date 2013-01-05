@@ -1,4 +1,8 @@
-Psalmien 122	
+<html>
+<head>
+<title>Psalmien 122	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 122	</div>
 	
 <div class="versenum">1.</div> Davidin veisu korkeimmassa Kuorissa. Mina iloitsen niista, jotka minulle sanovat: etta me menemme Herran huoneeseen,	
 

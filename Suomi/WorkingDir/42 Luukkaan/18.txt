@@ -1,4 +1,8 @@
-Luukkaan 18	
+<html>
+<head>
+<title>Luukkaan 18	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 18	</div>
 	
 <div class="versenum">1.</div> Niin han sanoi myos heille vertauksen, etta aina tulee rukoilla ja ei vasya,	
 

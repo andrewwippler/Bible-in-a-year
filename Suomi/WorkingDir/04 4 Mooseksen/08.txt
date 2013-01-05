@@ -1,4 +1,8 @@
-4 Mooseksen 8	
+<html>
+<head>
+<title>4 Mooseksen 8	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 8	</div>
 	
 <div class="versenum">1.</div> Ja Herra puhui Mosekselle sanoen:	
 

@@ -1,4 +1,8 @@
-Apostolien 20	
+<html>
+<head>
+<title>Apostolien 20	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 20	</div>
 	
 <div class="versenum">1.</div> Sittekuin kapina lakkasi, kutsui Paavali opetuslapset tykonsa ja tervehti heita, ja laksi matkaansa Makedoniaan.	
 

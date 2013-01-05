@@ -1,4 +1,8 @@
-Ilmestys 20	
+<html>
+<head>
+<title>Ilmestys 20	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 20	</div>
 	
 <div class="versenum">1.</div> Ja mina nain enkelin astuvan alas taivaasta, jolla oli syvyyden avain ja suuri kahle hanen kadessansa.	
 

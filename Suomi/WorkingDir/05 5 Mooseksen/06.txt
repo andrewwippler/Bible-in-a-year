@@ -1,4 +1,8 @@
-5 Mooseksen 6	
+<html>
+<head>
+<title>5 Mooseksen 6	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 6	</div>
 	
 <div class="versenum">1.</div> Namat ovat ne kaskyt, saadyt ja oikeudet, jotka Herra teidan Jumalanne kaski opettaa teille tehdaksenne siina maassa, kuhunka te menette omistamaan sita.	
 

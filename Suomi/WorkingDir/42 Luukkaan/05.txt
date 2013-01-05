@@ -1,4 +1,8 @@
-Luukkaan 5	
+<html>
+<head>
+<title>Luukkaan 5	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 5	</div>
 	
 <div class="versenum">1.</div> Niin tapahtui, kuin kansa tunki hanen tykonsa, kuulemaan Jumalan sanaa, etta han seisoi Genesaretin meren tykona.	
 

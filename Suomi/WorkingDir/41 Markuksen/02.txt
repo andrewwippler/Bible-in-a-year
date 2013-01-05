@@ -1,4 +1,8 @@
-Markuksen 2	
+<html>
+<head>
+<title>Markuksen 2	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 2	</div>
 	
 <div class="versenum">1.</div> Ja taas muutamain paivain jalkeen meni han Kapernaumiin, ja se kuultiin, etta han huoneessa oli,	
 

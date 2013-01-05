@@ -1,4 +1,8 @@
-Joosuan 22	
+<html>
+<head>
+<title>Joosuan 22	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 22	</div>
 	
 <div class="versenum">1.</div> Silloin kutsui Josua tykonsa Rubenilaiset, Gadilaiset ja puolen Manassen sukukuntaa:	
 

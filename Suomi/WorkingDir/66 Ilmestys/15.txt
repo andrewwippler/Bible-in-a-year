@@ -1,4 +1,8 @@
-Ilmestys 15	
+<html>
+<head>
+<title>Ilmestys 15	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 15	</div>
 	
 <div class="versenum">1.</div> Ja mina nain toisen merkin taivaassa, suuren ja ihmeellisen: seitseman enkelia, joilla seitseman viimeista vitsausta oli; silla niissa on Jumalan viha taytetty.	
 

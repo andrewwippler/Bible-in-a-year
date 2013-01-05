@@ -1,4 +1,8 @@
-Psalmien 96	
+<html>
+<head>
+<title>Psalmien 96	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 96	</div>
 	
 <div class="versenum">1.</div> Veisatkaat Herralle uusi veisu: veisatkaat Herralle, kaikki maa!	
 

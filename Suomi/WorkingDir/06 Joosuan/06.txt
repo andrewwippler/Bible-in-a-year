@@ -1,4 +1,8 @@
-Joosuan 6	
+<html>
+<head>
+<title>Joosuan 6	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 6	</div>
 	
 <div class="versenum">1.</div> Ja Jeriho oli suljettu ja visusti varustettu Israelin lasten edesta, niin ettei yksikaan taitanut tulla ulos eli sisalle.	
 

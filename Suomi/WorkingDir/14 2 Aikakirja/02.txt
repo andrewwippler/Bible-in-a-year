@@ -1,4 +1,8 @@
-2 Aikakirja 2	
+<html>
+<head>
+<title>2 Aikakirja 2	</title>
+</head>
+<body><div class="chaptertitle">2 Aikakirja 2	</div>
 	
 <div class="versenum">1.</div> Ja Salomo aikoi rakentaa Herran nimelle huoneen ja myos valtakunnallensa huonetta.	
 

@@ -1,4 +1,8 @@
-Ilmestys 8	
+<html>
+<head>
+<title>Ilmestys 8	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 8	</div>
 	
 <div class="versenum">1.</div> Ja kuin han seitsemannen sinetin avasi, oltiin aaneti taivaassa lahes puoli hetkea.	
 

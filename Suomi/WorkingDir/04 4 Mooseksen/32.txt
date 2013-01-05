@@ -1,4 +1,8 @@
-4 Mooseksen 32	
+<html>
+<head>
+<title>4 Mooseksen 32	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 32	</div>
 	
 <div class="versenum">1.</div> Rubenin lapsilla oli sangen paljo karjaa, ja Gadin lapsilla oli myos aivan suuri joukko karjaa, ja he nakivat Jaeserin ja Gileadin maan, etta se olis sovelias karjan laiduin.	
 

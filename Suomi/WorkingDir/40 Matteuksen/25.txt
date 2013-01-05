@@ -1,4 +1,8 @@
-Matteuksen 25	
+<html>
+<head>
+<title>Matteuksen 25	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 25	</div>
 	
 <div class="versenum">1.</div> Silloin pitaa taivaan valtakunta oleman kymmenen neitseen kaltainen, jotka ottivat lamppunsa ja menivat ulos ylkaa vastaan.	
 

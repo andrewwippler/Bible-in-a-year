@@ -1,4 +1,8 @@
-1 Kuninkaiden 19	
+<html>
+<head>
+<title>1 Kuninkaiden 19	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 19	</div>
 	
 <div class="versenum">1.</div> Ja Ahab ilmoitti Isebelille kaikki mita Elia tehnyt oli, ja kuinka han oli tappanut prophetat miekalla.	
 

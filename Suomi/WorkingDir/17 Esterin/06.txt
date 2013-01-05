@@ -1,4 +1,8 @@
-Esterin 6	
+<html>
+<head>
+<title>Esterin 6	</title>
+</head>
+<body><div class="chaptertitle">Esterin 6	</div>
 	
 <div class="versenum">1.</div> Ja sina yona ei saanut kuningas unta, ja han kaski tuotaa aika- ja muistokirjat, ja ne luettiin kuninkaan edessa.	
 

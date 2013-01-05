@@ -1,4 +1,8 @@
-4 Mooseksen 16	
+<html>
+<head>
+<title>4 Mooseksen 16	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 16	</div>
 	
 <div class="versenum">1.</div> Ja Kora Jetseharin poika, joka oli Levin pojan Kahatin poika, otti kanssansa Datanin ja Abiramin Eliabin pojat, ja Onin Peletin pojan Rubenin pojista,	
 

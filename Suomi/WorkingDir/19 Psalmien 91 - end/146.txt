@@ -1,4 +1,8 @@
-Psalmien 146	
+<html>
+<head>
+<title>Psalmien 146	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 146	</div>
 	
 <div class="versenum">1.</div> Halleluja! Kiita Herraa, minun sieluni.	
 

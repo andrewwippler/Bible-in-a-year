@@ -1,4 +1,8 @@
-Hoosean 9	
+<html>
+<head>
+<title>Hoosean 9	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 9	</div>
 	
 <div class="versenum">1.</div> Ala riemuitse, Israel, alaka oykkaa niinkuin kansat; silla sina olet huorin tehnyt sinun Jumalaas vastaan, sina etsit porton palkkaa kaikkein jyvaluvain tykona.	
 

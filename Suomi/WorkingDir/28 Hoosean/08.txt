@@ -1,4 +1,8 @@
-Hoosean 8	
+<html>
+<head>
+<title>Hoosean 8	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 8	</div>
 	
 <div class="versenum">1.</div> Huuda selkiasti niinkuin basuna (ja sano): Han tulee jo Herran huoneen ylitse niinkuin kotka, etta he ovat minun liittoni rikkoneet, ja ovat minun laistani luopuneet.	
 

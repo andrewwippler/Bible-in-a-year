@@ -1,4 +1,8 @@
-Heprealaisille 9	
+<html>
+<head>
+<title>Heprealaisille 9	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 9	</div>
 	
 <div class="versenum">1.</div> Niin oli tosin entisellakin majalla jumalanpalveluksen oikeus ja ulkonainen pyhyys.	
 

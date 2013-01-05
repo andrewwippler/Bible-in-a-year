@@ -1,4 +1,8 @@
-Sananlaskujen 12	
+<html>
+<head>
+<title>Sananlaskujen 12	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 12	</div>
 	
 <div class="versenum">1.</div> Joka itsensa mielellansa kurittaa antaa, se tulee toimelliseksi; mutta joka rankaisematta olla tahtoo, se on tyhma.	
 

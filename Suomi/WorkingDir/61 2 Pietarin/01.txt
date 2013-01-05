@@ -1,4 +1,8 @@
-2 Pietarin 1	
+<html>
+<head>
+<title>2 Pietarin 1	</title>
+</head>
+<body><div class="chaptertitle">2 Pietarin 1	</div>
 	
 <div class="versenum">1.</div> Simon Pietari, Jesuksen Kristuksen palvelia ja apostoli, niille, jotka ovat saaneet meidan kanssamme yhdenkaltaisen kalliin uskon vanhurskaudessa, jonka meidan Jumalamme ja Vapahtajamme Jesus Kristus antaa:	
 

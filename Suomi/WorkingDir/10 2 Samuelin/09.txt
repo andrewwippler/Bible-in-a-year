@@ -1,4 +1,8 @@
-2 Samuelin 9	
+<html>
+<head>
+<title>2 Samuelin 9	</title>
+</head>
+<body><div class="chaptertitle">2 Samuelin 9	</div>
 	
 <div class="versenum">1.</div> Ja David sanoi: olleeko joku viela jaanyt Saulin huoneesta, tehdakseni laupiuden Jonatanin tahden hanelle.	
 

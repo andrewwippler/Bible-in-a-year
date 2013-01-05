@@ -1,4 +1,8 @@
-Laulujen Laulu 8	
+<html>
+<head>
+<title>Laulujen Laulu 8	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 8	</div>
 	
 <div class="versenum">1.</div> Jospa mina sinun loytaisin ulkona, minun veljeni, sina joka minun aitini nisia imenyt olet, ja sinun suuta antaisin, ja ettei kenkaan minua pilkkaisi.	
 

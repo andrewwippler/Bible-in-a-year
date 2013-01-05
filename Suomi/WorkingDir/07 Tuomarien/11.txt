@@ -1,4 +1,8 @@
-Tuomarien 11	
+<html>
+<head>
+<title>Tuomarien 11	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 11	</div>
 	
 <div class="versenum">1.</div> Ja Jephta Gileadista oli vakeva sotamies, vaan han oli apara; ja Gilead oli siittanyt Jephtan.	
 

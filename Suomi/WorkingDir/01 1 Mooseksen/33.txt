@@ -1,4 +1,8 @@
-1 Mooseksen 33	
+<html>
+<head>
+<title>1 Mooseksen 33	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 33	</div>
 	
 <div class="versenum">1.</div> Ja Jakob nosti silmansa ja naki, ja katso, Esau tuli, ja neljasataa miesta hanen kanssansa: ja han jakoi lapset Lealle ja Rakelille, ja molemmille piioille.	
 

@@ -1,4 +1,8 @@
-1 Aikakirja 22	
+<html>
+<head>
+<title>1 Aikakirja 22	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 22	</div>
 	
 <div class="versenum">1.</div> Ja David sanoi: tassa pitaa oleman Herran huone, ja tama alttari Israelin polttouhria varten.	
 

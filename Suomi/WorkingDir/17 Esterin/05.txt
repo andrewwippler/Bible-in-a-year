@@ -1,4 +1,8 @@
-Esterin 5	
+<html>
+<head>
+<title>Esterin 5	</title>
+</head>
+<body><div class="chaptertitle">Esterin 5	</div>
 	
 <div class="versenum">1.</div> Ja kolmantena paivana puetti Ester itsensa kuninkaallisiin vaatteisiin ja meni kartanoon kuninkaan huoneen tyko, sisalliselle puolelle kuninkaan huoneen kohdalle. Ja kuningas istui kuninkaallisella istuimellansa kuninkaallisessa huoneessansa, juuri huoneen oven kohdalla.	
 

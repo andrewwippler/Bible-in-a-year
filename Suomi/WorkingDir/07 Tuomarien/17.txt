@@ -1,4 +1,8 @@
-Tuomarien 17	
+<html>
+<head>
+<title>Tuomarien 17	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 17	</div>
 	
 <div class="versenum">1.</div> Ja yksi mies oli Ephraimin vuorelta, nimelta Miika.	
 

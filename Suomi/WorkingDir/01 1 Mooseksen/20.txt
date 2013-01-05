@@ -1,4 +1,8 @@
-1 Mooseksen 20	
+<html>
+<head>
+<title>1 Mooseksen 20	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 20	</div>
 	
 <div class="versenum">1.</div> Niin Abraham vaelsi sielta etelaan pain, ja asui Kadeksen ja Surrin vaiheella: ja oli muukalainen Gerarissa.	
 

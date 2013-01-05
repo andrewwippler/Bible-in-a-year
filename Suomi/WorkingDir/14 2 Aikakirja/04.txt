@@ -1,4 +1,8 @@
-2 Aikakirja 4	
+<html>
+<head>
+<title>2 Aikakirja 4	</title>
+</head>
+<body><div class="chaptertitle">2 Aikakirja 4	</div>
 	
 <div class="versenum">1.</div> Ja han teki myos vaskisen alttarin, kaksikymmenta kyynaraa pitkan ja kaksikymmenta kyynaraa levian, ja kymmenen kyynaraa korkian.	
 

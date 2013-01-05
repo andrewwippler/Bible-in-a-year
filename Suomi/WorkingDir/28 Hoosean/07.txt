@@ -1,4 +1,8 @@
-Hoosean 7	
+<html>
+<head>
+<title>Hoosean 7	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 7	</div>
 	
 <div class="versenum">1.</div> Kuin mina Israelin parantaa tahdon, niin asken nahdaan Ephraimin vaaryys ja Samarian pahuus; silla he tekevat petollisuutta: varas menee sisalle, ja ryovarit ulkona ryostavat.	
 

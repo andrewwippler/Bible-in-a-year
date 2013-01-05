@@ -1,4 +1,8 @@
-Psalmien 1	
+<html>
+<head>
+<title>Psalmien 1	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 1	</div>
 	
 <div class="versenum">1.</div> Autuas on se, joka ei vaella jumalattomain neuvossa, eika seiso syntisten tiella, eika istu kussa pilkkaajat istuvat;	
 

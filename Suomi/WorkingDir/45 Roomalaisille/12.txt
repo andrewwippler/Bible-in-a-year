@@ -1,4 +1,8 @@
-Roomalaisille 12	
+<html>
+<head>
+<title>Roomalaisille 12	</title>
+</head>
+<body><div class="chaptertitle">Roomalaisille 12	</div>
 	
 <div class="versenum">1.</div> Niin neuvon mina teita, rakkaat veljet, Jumalan sydamellisen laupiuden kautta, etta te antaisitte teidan ruumiinne elavaksi, pyhaksi ja Jumalalle otolliseksi uhriksi, joka on teidan toimellinen jumalanpalveluksenne.	
 

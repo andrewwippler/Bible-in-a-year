@@ -1,4 +1,8 @@
-Psalmien 26	
+<html>
+<head>
+<title>Psalmien 26	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 26	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Tuomitse minua, Herra; silla mina olen vakuudessani vaeltanut: ja mina toivon Herraan, sentahden en mina livistele.	
 

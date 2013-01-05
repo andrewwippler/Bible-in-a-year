@@ -1,4 +1,8 @@
-Titukselle 2	
+<html>
+<head>
+<title>Titukselle 2	</title>
+</head>
+<body><div class="chaptertitle">Titukselle 2	</div>
 	
 <div class="versenum">1.</div> Mutta puhu sina niita, mitka ovat terveelliseen oppiin soveliaat:	
 

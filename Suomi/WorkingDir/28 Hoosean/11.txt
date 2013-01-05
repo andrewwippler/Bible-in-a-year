@@ -1,4 +1,8 @@
-Hoosean 11	
+<html>
+<head>
+<title>Hoosean 11	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 11	</div>
 	
 <div class="versenum">1.</div> Kuin Israel nuori oli, pidin mina hanen rakkaana, ja mina kutsuin Egyptista minun poikani.	
 

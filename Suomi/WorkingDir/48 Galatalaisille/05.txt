@@ -1,4 +1,8 @@
-Galatalaisille 5	
+<html>
+<head>
+<title>Galatalaisille 5	</title>
+</head>
+<body><div class="chaptertitle">Galatalaisille 5	</div>
 	
 <div class="versenum">1.</div> Niin pysykaat siis siina vapaudessa, jolla Kristus meita vapahtanut on, ja alkaat taas teitanne sekoittako orjuuden ikeeseen.	
 

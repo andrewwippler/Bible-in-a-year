@@ -1,4 +1,8 @@
-Hesekielin 1	
+<html>
+<head>
+<title>Hesekielin 1	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 1	</div>
 	
 <div class="versenum">1.</div> Kolmantenakymmentena vuotena, viidentena paivana neljannessa kuussa, kuin mina olin vankein seassa Kebarin virran tykona, aukenivat taivaat ja mina nain Jumalan nayt.	
 

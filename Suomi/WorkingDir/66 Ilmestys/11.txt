@@ -1,4 +1,8 @@
-Ilmestys 11	
+<html>
+<head>
+<title>Ilmestys 11	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 11	</div>
 	
 <div class="versenum">1.</div> Ja minulle annettiin ruoko niinkuin sauva, ja enkeli seisoi ja sanoi: nouse ja mittaa Jumalan templi ja alttari, ja ne, jotka siina rukoilevat.	
 

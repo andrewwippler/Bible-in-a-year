@@ -1,4 +1,8 @@
-Apostolien 15	
+<html>
+<head>
+<title>Apostolien 15	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 15	</div>
 	
 <div class="versenum">1.</div> Ja muutamat tulivat alas Juudeasta ja opettivat veljia: ellei teita ymparileikata Moseksen tavan jalkeen, niin ette taida autuaaksi tulla.	
 

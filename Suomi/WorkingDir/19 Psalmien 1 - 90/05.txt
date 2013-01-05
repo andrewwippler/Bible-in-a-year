@@ -1,4 +1,8 @@
-Psalmien 5	
+<html>
+<head>
+<title>Psalmien 5	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 5	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, perimisesta. (H 5:2) Herra, ota minun sanani korviis, havaitse minun puheeni.	
 

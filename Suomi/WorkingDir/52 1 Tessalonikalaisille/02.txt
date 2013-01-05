@@ -1,4 +1,8 @@
-1 Tessalonikalaisille 2	
+<html>
+<head>
+<title>1 Tessalonikalaisille 2	</title>
+</head>
+<body><div class="chaptertitle">1 Tessalonikalaisille 2	</div>
 	
 <div class="versenum">1.</div> Silla te tiedatte, rakkaat veljet, meidan tulemisemme teidan tykonne, ettei se ole turha ollut;	
 

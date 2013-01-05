@@ -1,4 +1,8 @@
-Efesolaisille 4	
+<html>
+<head>
+<title>Efesolaisille 4	</title>
+</head>
+<body><div class="chaptertitle">Efesolaisille 4	</div>
 	
 <div class="versenum">1.</div> Niin mina vangittu Herrassa neuvon teita, etta te siina kutsumisessa, johon te kutsutut olette, niin vaeltaisitte kuin sopii,	
 

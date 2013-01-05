@@ -1,4 +1,8 @@
-Ilmestys 6	
+<html>
+<head>
+<title>Ilmestys 6	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 6	</div>
 	
 <div class="versenum">1.</div> Ja mina nain, kuin Karitsa ensimaisen sinetin avasi, ja mina kuulin yhden neljasta elaimesta sanovan, niinkuin pitkaisen jylinan: tule ja katso!	
 

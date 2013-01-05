@@ -1,4 +1,8 @@
-Ilmestys 5	
+<html>
+<head>
+<title>Ilmestys 5	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 5	</div>
 	
 <div class="versenum">1.</div> Ja mina nain istuimella istuvaisen oikiassa kadessa kirjan, sisalta ja ulkoa kirjoitetun, seitsemalla sinetilla lukitun.	
 

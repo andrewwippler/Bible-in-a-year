@@ -1,4 +1,8 @@
-Psalmien 75	
+<html>
+<head>
+<title>Psalmien 75	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 75	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi ja veisu, ettei han hukkunut, edellaveisaajalle. (H75:2) Me kiitamme sinua, ja ilmoitamme ihmeitas, etta sinun nimes on niin lasna.	
 

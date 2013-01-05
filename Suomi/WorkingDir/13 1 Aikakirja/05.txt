@@ -1,4 +1,8 @@
-1 Aikakirja 5	
+<html>
+<head>
+<title>1 Aikakirja 5	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 5	</div>
 	
 <div class="versenum">1.</div> Rubenin Israelin esikoisen lapset, silla han oli ensimainen poika; mutta etta han isansa vuoteen saastutti, annettiin hanen esikoisuutensa Josephin Israelin pojan lapsille, ja ei han ole polviluvussa luettu esikoiseksi:	
 

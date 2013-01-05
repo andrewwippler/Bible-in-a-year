@@ -1,4 +1,8 @@
-Psalmien 77	
+<html>
+<head>
+<title>Psalmien 77	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 77	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi, Jedutunin edesta, edellaveisaajalle. (H77:2) Mina huudan aanellani Jumalaa: Jumalaa mina huudan, ja han kuultelee minua.	
 

@@ -1,4 +1,8 @@
-2 Kuninkaiden 1	
+<html>
+<head>
+<title>2 Kuninkaiden 1	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 1	</div>
 	
 <div class="versenum">1.</div> Ja Moabilaiset luopuivat Israelista Ahabin kuoleman jalkeen.	
 

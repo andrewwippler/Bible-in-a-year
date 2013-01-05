@@ -1,4 +1,8 @@
-1 Aikakirja 20	
+<html>
+<head>
+<title>1 Aikakirja 20	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 20	</div>
 	
 <div class="versenum">1.</div> Ja kuin ajastaika kulunut oli siihen aikaan kuin kuninkaat lahtevat ulos, johdatti Joab sotajoukon ja havitti Ammonin lasten maan, tuli ja piiritti Rabban; mutta David oli Jerusalemissa. Ja Joab loi Rabban ja kukisti sen.	
 

@@ -1,4 +1,8 @@
-Matteuksen 7	
+<html>
+<head>
+<title>Matteuksen 7	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 7	</div>
 	
 <div class="versenum">1.</div> Alkaat tuomitko, ettei teita tuomittaisi.	
 

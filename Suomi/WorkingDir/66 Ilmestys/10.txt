@@ -1,4 +1,8 @@
-Ilmestys 10	
+<html>
+<head>
+<title>Ilmestys 10	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 10	</div>
 	
 <div class="versenum">1.</div> Ja mina nain toisen vakevan enkelin tulevan alas taivaasta, joka pilvella puetettu oli, ja taivaan kaari hanen paansa paalla, ja hanen kasvonsa olivat niinkuin aurinko, ja hanen jalkansa niinkuin tulen patsaat.	
 

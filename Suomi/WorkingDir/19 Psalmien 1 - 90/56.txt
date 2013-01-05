@@ -1,4 +1,8 @@
-Psalmien 56	
+<html>
+<head>
+<title>Psalmien 56	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 56	</div>
 	
 <div class="versenum">1.</div> Davidin kultainen kappale mykasta mettisesta muukalaisten seassa, kuin Philistealaiset kasittivat hanen Gatissa. (H56:2) Jumala, ole minulle armollinen; silla ihmiset tahtovat minua niella ylos: joka paiva he sotivat ja ahdistavat minua.	
 

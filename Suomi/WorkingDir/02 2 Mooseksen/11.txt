@@ -1,4 +1,8 @@
-2 Mooseksen 11	
+<html>
+<head>
+<title>2 Mooseksen 11	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 11	</div>
 	
 <div class="versenum">1.</div> Ja Herra oli sanonut Mosekselle: viela mina annan tulla yhden rangaistuksen Pharaolle ja Egyptiin, sitte han paastaa teidat taalta, ja koska han teidat kokonansa paastaa, niin han ajain ajaa teidat taalta ulos.	
 

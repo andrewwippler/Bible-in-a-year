@@ -1,4 +1,8 @@
-Joosuan 7	
+<html>
+<head>
+<title>Joosuan 7	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 7	</div>
 	
 <div class="versenum">1.</div> Mutta Israelin lapset horjahtivat kovin kirotussa kalussa; silla Akan Karmin poika, Saddin pojan, Seran pojan, Juudan sukukunnasta, otti jotakin kirottua, niin julmistui Herran viha Israelin lasten paalle.	
 

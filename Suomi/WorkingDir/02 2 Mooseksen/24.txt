@@ -1,4 +1,8 @@
-2 Mooseksen 24	
+<html>
+<head>
+<title>2 Mooseksen 24	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 24	</div>
 	
 <div class="versenum">1.</div> Ja han sanoi Mosekselle: astu Herran tyko, sina ja Aaron, Nadab ja Abihu, ja seitsemankymmenta vanhinta Israelista: ja kumartakaat itsenne taampana.	
 

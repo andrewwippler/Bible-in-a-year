@@ -1,4 +1,8 @@
-4 Mooseksen 24	
+<html>
+<head>
+<title>4 Mooseksen 24	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 24	</div>
 	
 <div class="versenum">1.</div> Koska Bileam naki kelpaavan Herralle, han siunasi Israelia, ei mennyt han pois, niinkuin ennen, etsimaan ilmoitusta, vaan kaansi kasvonsa korpeen pain.	
 

@@ -1,4 +1,8 @@
-Jeremian 1	
+<html>
+<head>
+<title>Jeremian 1	</title>
+</head>
+<body><div class="chaptertitle">Jeremian 1	</div>
 	
 <div class="versenum">1.</div> Jeremian Hilkian pojan sanat, joka oli Anatotin papeista, Benjaminin maata,	
 

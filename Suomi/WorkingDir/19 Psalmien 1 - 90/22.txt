@@ -1,4 +1,8 @@
-Psalmien 22	
+<html>
+<head>
+<title>Psalmien 22	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 22	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, peurasta, jota varhain vaijytaan. (H22:2) Minun Jumalani, minun Jumalani! miksis minun hylkasit? mina parun, vaan minun apuni on kaukana.	
 

@@ -1,4 +1,8 @@
-Heprealaisille 5	
+<html>
+<head>
+<title>Heprealaisille 5	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 5	</div>
 	
 <div class="versenum">1.</div> Silla jokainen ylimmainen pappi, otettu ihmisista, pannaan ihmisten edesta niissa asioissa, jotka Jumalalle tulevat, uhraamaan lahjoja ja uhreja syntein edesta,	
 

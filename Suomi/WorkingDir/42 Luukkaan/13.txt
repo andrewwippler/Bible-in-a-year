@@ -1,4 +1,8 @@
-Luukkaan 13	
+<html>
+<head>
+<title>Luukkaan 13	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 13	</div>
 	
 <div class="versenum">1.</div> Ja olivat muutamat silla ajalla siina, jotka ilmoittivat hanelle Galilealaisista, joiden veren Pilatus oli heidan uhriensa kanssa sekoittanut.	
 

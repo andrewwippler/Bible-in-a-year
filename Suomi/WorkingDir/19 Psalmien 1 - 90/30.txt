@@ -1,4 +1,8 @@
-Psalmien 30	
+<html>
+<head>
+<title>Psalmien 30	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 30	</div>
 	
 <div class="versenum">1.</div> Psalmi, veisattava Davidin huoneen vihkimisessa. (H30:2) Mina ylistan sinua, Herra, silla sina olet korottanut minua: et myos salli viholliseni iloita minusta.	
 

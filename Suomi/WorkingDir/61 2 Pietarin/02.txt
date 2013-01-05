@@ -1,4 +1,8 @@
-2 Pietarin 2	
+<html>
+<head>
+<title>2 Pietarin 2	</title>
+</head>
+<body><div class="chaptertitle">2 Pietarin 2	</div>
 	
 <div class="versenum">1.</div> Niin oli myos vaaria prophetaita kansan seassa, niinkuin teidankin sekaanne vaaria opettajia tulee, jotka vahingolliset eriseurat tuovat ja kieltavat sen Herran, joka heidat ostanut on, saattain itsellensa nopian kadotuksen,	
 

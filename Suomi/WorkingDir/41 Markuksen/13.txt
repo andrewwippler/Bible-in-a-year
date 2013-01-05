@@ -1,4 +1,8 @@
-Markuksen 13	
+<html>
+<head>
+<title>Markuksen 13	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 13	</div>
 	
 <div class="versenum">1.</div> Ja kuin han meni ulos templista, sanoi yksi hanen opetuslapsistansa: Mestari! katso, minkakaltaiset kivet ja minkakaltaiset rakennukset ovat namat.	
 

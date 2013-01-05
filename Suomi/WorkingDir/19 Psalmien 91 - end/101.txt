@@ -1,4 +1,8 @@
-Psalmien 101	
+<html>
+<head>
+<title>Psalmien 101	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 101	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Mina veisaan armosta ja oikeudesta: sinulle, Herra, mina veisaan.	
 

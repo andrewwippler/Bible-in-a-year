@@ -1,4 +1,8 @@
-Matteuksen 17	
+<html>
+<head>
+<title>Matteuksen 17	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 17	</div>
 	
 <div class="versenum">1.</div> Ja kuuden paivan perasta otti Jesus Pietarin ja Jakobin ja Johanneksen hanen veljensa, ja vei heidat erinansa korkialle vuorelle.	
 

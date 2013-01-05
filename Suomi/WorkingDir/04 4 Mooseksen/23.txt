@@ -1,4 +1,8 @@
-4 Mooseksen 23	
+<html>
+<head>
+<title>4 Mooseksen 23	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 23	</div>
 	
 <div class="versenum">1.</div> Ja Bileam sanoi Balakille: rakenna minulle tahan seitseman alttaria, ja valmista minulle tassa seitseman mullia, ja seitseman oinasta.	
 

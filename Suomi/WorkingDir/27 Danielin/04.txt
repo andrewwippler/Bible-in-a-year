@@ -1,4 +1,8 @@
-Danielin 4	
+<html>
+<head>
+<title>Danielin 4	</title>
+</head>
+<body><div class="chaptertitle">Danielin 4	</div>
 	
 <div class="versenum">1.</div> (H3:31) Kuningas Nebukadnetsar kaikille kansoille, sukukunnille ja kielille, jotka asuvat kaikessa maassa: Teille olkoon paljon rauhaa!	
 

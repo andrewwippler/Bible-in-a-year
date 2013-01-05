@@ -1,4 +1,8 @@
-4 Mooseksen 12	
+<html>
+<head>
+<title>4 Mooseksen 12	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 12	</div>
 	
 <div class="versenum">1.</div> Ja MirJam ja Aaron puhuivat Mosesta vastaan hanen Etiopilaisen emantansa tahden, jonka han nainut oli, etta han Etiopilaisen nainut oli,	
 

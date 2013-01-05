@@ -1,4 +1,8 @@
-Apostolien 21	
+<html>
+<head>
+<title>Apostolien 21	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 21	</div>
 	
 <div class="versenum">1.</div> Kuin siis tapahtui, etta me laskimme ulos ja heista luovuimme, menimme me kohdastansa Koon saareen, ja toisena paivana Rodoon, ja sielta Pataraan.	
 

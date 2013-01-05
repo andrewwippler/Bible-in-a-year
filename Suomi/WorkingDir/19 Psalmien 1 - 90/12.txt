@@ -1,4 +1,8 @@
-Psalmien 12	
+<html>
+<head>
+<title>Psalmien 12	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 12	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kahdeksalla kielella. (H 12:2) Auta, Herra; silla pyhat ovat vahentyneet, ja uskolliset ovat harvat ihmisten lasten seassa.	
 

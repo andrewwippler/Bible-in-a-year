@@ -1,4 +1,8 @@
-Luukkaan 22	
+<html>
+<head>
+<title>Luukkaan 22	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 22	</div>
 	
 <div class="versenum">1.</div> Niin lahestyi makian leivan juhlapaiva, joka paasiaiseksi kutsutaan.	
 

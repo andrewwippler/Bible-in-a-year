@@ -1,4 +1,8 @@
-Psalmien 32	
+<html>
+<head>
+<title>Psalmien 32	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 32	</div>
 	
 <div class="versenum">1.</div> Davidin opetus. Autuas on se, jonka pahat teot ovat annetut anteeksi ja jonka synnit peitetyt ovat.	
 

@@ -1,4 +1,8 @@
-Psalmien 132	
+<html>
+<head>
+<title>Psalmien 132	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 132	</div>
 	
 <div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Muista, Herra, Davidia, ja kaikkia hanen vaivojansa,	
 

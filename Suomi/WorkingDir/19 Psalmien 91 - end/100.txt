@@ -1,4 +1,8 @@
-Psalmien 100	
+<html>
+<head>
+<title>Psalmien 100	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 100	</div>
 	
 <div class="versenum">1.</div> Kiitos-Psalmi. Riemuitkaat Herralle, kaikki maa!	
 

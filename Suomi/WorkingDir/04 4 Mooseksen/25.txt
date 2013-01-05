@@ -1,4 +1,8 @@
-4 Mooseksen 25	
+<html>
+<head>
+<title>4 Mooseksen 25	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 25	</div>
 	
 <div class="versenum">1.</div> Ja Israel asui Sittimissa, ja kansa rupesi tekemaan huorin Moabilaisten tytarten kanssa,	
 

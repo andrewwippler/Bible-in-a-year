@@ -1,4 +1,8 @@
-Sananlaskujen 6	
+<html>
+<head>
+<title>Sananlaskujen 6	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 6	</div>
 	
 <div class="versenum">1.</div> Poikani, jos sinaa takaat lahimmaises, niin sina olet kiinnittanyt kates muukalaiseen.	
 

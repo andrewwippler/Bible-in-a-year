@@ -1,4 +1,8 @@
-Psalmien 43	
+<html>
+<head>
+<title>Psalmien 43	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 43	</div>
 	
 <div class="versenum">1.</div> Tuomitse minua, Jumala, ja ratkaise minun asiani armotointa kansaa vastaan, ja paasta minua kavaloista ja vaarista ihmisista.	
 

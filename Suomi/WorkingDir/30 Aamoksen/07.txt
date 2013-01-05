@@ -1,4 +1,8 @@
-Aamoksen 7	
+<html>
+<head>
+<title>Aamoksen 7	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 7	</div>
 	
 <div class="versenum">1.</div> Niin Herra, Herra osoitti minulle nayssa; ja katso, yksi seisoi, joka heinasirkkoja teki, juuri silloin, kuin oras rupesi kaymaan ylos, toisen kerran sittekuin kuningas oli antanut niittaa.	
 

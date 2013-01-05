@@ -1,4 +1,8 @@
-Miikan 7	
+<html>
+<head>
+<title>Miikan 7	</title>
+</head>
+<body><div class="chaptertitle">Miikan 7	</div>
 	
 <div class="versenum">1.</div> Voi minua! silla minulle tapahtuu niinkuin sille, joka viinamaessa tahteita hakee, kussa ei viinamarjoja loyta syotaa; ja minun sieluni himoitsee varhaista hedelmaa.	
 

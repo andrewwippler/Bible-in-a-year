@@ -1,4 +1,8 @@
-Psalmien 115	
+<html>
+<head>
+<title>Psalmien 115	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 115	</div>
 	
 <div class="versenum">1.</div> Ei meille, Herra, ei meille, vaan sinun nimelles anna kunnia, sinun armos ja totuutes tahden.	
 

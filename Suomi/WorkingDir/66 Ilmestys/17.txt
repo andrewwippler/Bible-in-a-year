@@ -1,4 +1,8 @@
-Ilmestys 17	
+<html>
+<head>
+<title>Ilmestys 17	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 17	</div>
 	
 <div class="versenum">1.</div> Ja tuli yksi seitsemasta enkelista, joilla seitseman maljaa oli, ja puhui minun kanssani ja sanoi minulle: tule, mina osoitan sinulle sen suuren porton tuomion, joka paljoin vetten paalla istuu,	
 

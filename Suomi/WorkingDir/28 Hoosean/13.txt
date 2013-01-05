@@ -1,4 +1,8 @@
-Hoosean 13	
+<html>
+<head>
+<title>Hoosean 13	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 13	</div>
 	
 <div class="versenum">1.</div> Kuin Ephraim puhui, niin siita tuli pelko; han korotti itsensa Israelissa, ja teki syntia Baalimin kautta, ja kuoli.	
 

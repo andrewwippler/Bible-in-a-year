@@ -1,4 +1,8 @@
-Esran 4	
+<html>
+<head>
+<title>Esran 4	</title>
+</head>
+<body><div class="chaptertitle">Esran 4	</div>
 	
 <div class="versenum">1.</div> Mutta kuin Juudan ja Ben-Jaminin vihamiehet kuulivat, etta ne, jotka vankeudesta olivat lahteneet, rakensivat Herralle Israelin Jumalalle templia;	
 

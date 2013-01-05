@@ -1,4 +1,8 @@
-Miikan 1	
+<html>
+<head>
+<title>Miikan 1	</title>
+</head>
+<body><div class="chaptertitle">Miikan 1	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sana, joka tapahtui Miikalle Moresasta, Jotamin, Ahaksen ja Jehiskian, Juudan kuningasten aikana, jonka han naki Samariasta ja Jerusalemista.	
 

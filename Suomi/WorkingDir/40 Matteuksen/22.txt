@@ -1,4 +1,8 @@
-Matteuksen 22	
+<html>
+<head>
+<title>Matteuksen 22	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 22	</div>
 	
 <div class="versenum">1.</div> Ja Jesus vastaten puhui taas heille vertauksilla, sanoen:	
 

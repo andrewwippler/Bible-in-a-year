@@ -1,4 +1,8 @@
-Psalmien 34	
+<html>
+<head>
+<title>Psalmien 34	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 34	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, koska han muotonsa muutti Abimelekin edessa, joka hanen ajoi pois tykoansa ja han meni pois. (H34:2) Mina kiitan Herraa aina: hanen kiitoksensa on alati minun suussani.	
 

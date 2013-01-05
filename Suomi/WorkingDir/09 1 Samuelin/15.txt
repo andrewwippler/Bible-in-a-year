@@ -1,4 +1,8 @@
-1 Samuelin 15	
+<html>
+<head>
+<title>1 Samuelin 15	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 15	</div>
 	
 <div class="versenum">1.</div> Mutta Samuel sanoi Saulille: Herra lahetti minun voitelemaan sinua kansansa Israelin kuninkaaksi: niin kuule siis nyt Herran sanain aanta.	
 

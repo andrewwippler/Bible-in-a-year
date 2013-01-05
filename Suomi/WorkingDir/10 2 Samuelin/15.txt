@@ -1,4 +1,8 @@
-2 Samuelin 15	
+<html>
+<head>
+<title>2 Samuelin 15	</title>
+</head>
+<body><div class="chaptertitle">2 Samuelin 15	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui sitte, etta Absalom antoi valmistaa itsellensa vaunut ja hevoset, ja viisikymmenta miesta, jotka olivat hanen edellajuoksiansa.	
 

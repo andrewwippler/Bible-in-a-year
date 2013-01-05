@@ -1,4 +1,8 @@
-Tuomarien 16	
+<html>
+<head>
+<title>Tuomarien 16	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 16	</div>
 	
 <div class="versenum">1.</div> Ja Simson meni Gasaan, ja han naki siella porton, ja meni hanen tykonsa.	
 

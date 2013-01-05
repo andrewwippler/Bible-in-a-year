@@ -1,4 +1,8 @@
-Heprealaisille 7	
+<html>
+<head>
+<title>Heprealaisille 7	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 7	</div>
 	
 <div class="versenum">1.</div> Silla tama Melkisedek oli Salemin kuningas, kaikkein korkeimman Jumalan pappi, joka Abrahamia vastaan meni, kuin han palasi kuningasten taposta, ja siunasi hanta,	
 

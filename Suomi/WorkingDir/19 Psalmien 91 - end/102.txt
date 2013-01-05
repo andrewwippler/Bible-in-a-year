@@ -1,4 +1,8 @@
-Psalmien 102	
+<html>
+<head>
+<title>Psalmien 102	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 102	</div>
 	
 <div class="versenum">1.</div> Raadollisen rukous, kuin han murheissansa on, ja valituksensa Herran eteen vuodattaa. (H102:2) Herra, kuule minun rukoukseni, ja anna minun huutoni tykos tulla!	
 

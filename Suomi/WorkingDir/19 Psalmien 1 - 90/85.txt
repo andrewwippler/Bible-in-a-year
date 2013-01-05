@@ -1,4 +1,8 @@
-Psalmien 85	
+<html>
+<head>
+<title>Psalmien 85	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 85	</div>
 	
 <div class="versenum">1.</div> Koran lasten Psalmi, edellaveisaajalle. (H85:2) Herra, sina kuin (muinen) olit armollinen sinun maakunnalles, ja Jakobin vangit lunastit,	
 

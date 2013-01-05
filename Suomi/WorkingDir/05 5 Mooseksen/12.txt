@@ -1,4 +1,8 @@
-5 Mooseksen 12	
+<html>
+<head>
+<title>5 Mooseksen 12	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 12	</div>
 	
 <div class="versenum">1.</div> Namat ovat saadyt ja oikeudet, joita teidan pitamaan pitaa, etta te niiden jalkeen tekisitte, silla maalla, jonka Herra sinun isais Jumala antoi sinulle omistaakses; niinkauvan kuin te maan paalla elatte.	
 

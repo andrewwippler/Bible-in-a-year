@@ -1,4 +1,8 @@
-Psalmien 80	
+<html>
+<head>
+<title>Psalmien 80	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 80	</div>
 	
 <div class="versenum">1.</div> Asaphin Psalmi, kultasesta kukkaisesta, edellaveisaajalle. (H80:2) Kuules, Israelin paimen, joka saatat Josephin niinkuin lampaat: ilmoita sinus, joka istut Kerubimin paalla.	
 

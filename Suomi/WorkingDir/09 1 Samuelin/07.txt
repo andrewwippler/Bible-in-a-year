@@ -1,4 +1,8 @@
-1 Samuelin 7	
+<html>
+<head>
+<title>1 Samuelin 7	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 7	</div>
 	
 <div class="versenum">1.</div> Niin tulivat KirjatJearimin miehet, ja toivat sinne Herran arkin, ja veivat sen Amminadabin huoneesen Gibeaan, ja vihkivat hanen poikansa Eleatsarin ottamaan Herran arkista vaaria.	
 

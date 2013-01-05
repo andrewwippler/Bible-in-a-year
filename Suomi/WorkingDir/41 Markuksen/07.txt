@@ -1,4 +1,8 @@
-Markuksen 7	
+<html>
+<head>
+<title>Markuksen 7	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 7	</div>
 	
 <div class="versenum">1.</div> Ja hanen tykonsa kokoontuivat Pharisealaiset ja muutamat kirjanoppineista, jotka Jerusalemista tulleet olivat.	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 30	
+<html>
+<head>
+<title>5 Mooseksen 30	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 30	</div>
 	
 <div class="versenum">1.</div> Ja pitaa tapahtuman, kuin kaikki namat tulevat sinun paalles, siunaus eli kirous, jotka mina panin sinun etees, ja sina rupeet ne panemaan sydamees, kaikkein pakanain keskella, kuhunka Herra sinun Jumalas sinun on ajanut;	
 

@@ -1,4 +1,8 @@
-Efesolaisille 2	
+<html>
+<head>
+<title>Efesolaisille 2	</title>
+</head>
+<body><div class="chaptertitle">Efesolaisille 2	</div>
 	
 <div class="versenum">1.</div> Ja myos (heratti) teidat, kuin te kuolleet olitte ylitsekaymisten ja syntein tahden,	
 

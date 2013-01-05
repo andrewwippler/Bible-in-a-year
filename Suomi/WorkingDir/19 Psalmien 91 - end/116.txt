@@ -1,4 +1,8 @@
-Psalmien 116	
+<html>
+<head>
+<title>Psalmien 116	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 116	</div>
 	
 <div class="versenum">1.</div> Sita mina rakastan, etta Herra kuulee minun rukoukseni aanen;	
 

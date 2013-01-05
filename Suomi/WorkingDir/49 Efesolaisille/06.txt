@@ -1,4 +1,8 @@
-Efesolaisille 6	
+<html>
+<head>
+<title>Efesolaisille 6	</title>
+</head>
+<body><div class="chaptertitle">Efesolaisille 6	</div>
 	
 <div class="versenum">1.</div> Lapset, olkaat kuuliaiset teidan vanhemmillenne Herrassa; silla se on oikein.	
 

@@ -1,4 +1,8 @@
-Saarnaajan 10	
+<html>
+<head>
+<title>Saarnaajan 10	</title>
+</head>
+<body><div class="chaptertitle">Saarnaajan 10	</div>
 	
 <div class="versenum">1.</div> Myrkkykarpaset saavat haisemaan ja kaymaan voiteentekijan voiteen. Pieni tyhmyys painaa enemman kuin viisaus ja kunnia.	
 

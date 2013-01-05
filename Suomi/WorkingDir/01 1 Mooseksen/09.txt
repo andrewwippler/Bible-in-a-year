@@ -1,4 +1,8 @@
-1 Mooseksen 9	
+<html>
+<head>
+<title>1 Mooseksen 9	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 9	</div>
 	
 <div class="versenum">1.</div> Ja Jumala siunasi Noan ja hanen poikansa, ja sanoi heille: olkaat hedelmalliset, lisaantykaat ja tayttakaat maata.	
 

@@ -1,4 +1,8 @@
-2 Tessalonikalaisille 2	
+<html>
+<head>
+<title>2 Tessalonikalaisille 2	</title>
+</head>
+<body><div class="chaptertitle">2 Tessalonikalaisille 2	</div>
 	
 <div class="versenum">1.</div> Mutta me rukoilemme teita, rakkaat veljet, meidan Herran Jesuksen Kristuksen tulemisen ja meidan kokoontumisemme kautta hanen tykonsa,	
 

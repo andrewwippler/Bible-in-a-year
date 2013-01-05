@@ -1,4 +1,8 @@
-Joosuan 24	
+<html>
+<head>
+<title>Joosuan 24	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 24	</div>
 	
 <div class="versenum">1.</div> Ja Josua kokosi kaikki Israelin sukukunnat Sikemiin, ja kutsui edes vanhimmat Israelissa, paamiehet, tuomarit ja esimiehet; ja kuin he olivat seisatetut Jumalan eteen,	
 

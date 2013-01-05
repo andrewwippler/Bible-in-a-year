@@ -1,4 +1,8 @@
-Psalmien 10	
+<html>
+<head>
+<title>Psalmien 10	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 10	</div>
 	
 <div class="versenum">1.</div> Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peitat?	
 

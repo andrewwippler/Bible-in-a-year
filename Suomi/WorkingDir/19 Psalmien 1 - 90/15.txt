@@ -1,4 +1,8 @@
-Psalmien 15	
+<html>
+<head>
+<title>Psalmien 15	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 15	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Herra, kuka asuu sinun majassas? eli kuka on pysyvainen sinun pyhalla vuorellas?	
 

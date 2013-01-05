@@ -1,4 +1,8 @@
-Luukkaan 3	
+<html>
+<head>
+<title>Luukkaan 3	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 3	</div>
 	
 <div class="versenum">1.</div> Mutta viidennellatoistakymmenella keisari Tiberiuksen hallituksen vuodella, kuin Pontius Pilatus oli Juudean maaherra, ja Herodes tetrarka Galileassa, ja hanen veljensa Philippus tetrarka Itureassa ja Trakonitin maakunnassa, ja Lysanias oli tetrarka Abilenessa,	
 

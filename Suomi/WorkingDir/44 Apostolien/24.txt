@@ -1,4 +1,8 @@
-Apostolien 24	
+<html>
+<head>
+<title>Apostolien 24	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 24	</div>
 	
 <div class="versenum">1.</div> Viiden paivan perasta meni Ananias, ylimmainen pappi, vanhimpain ja selvakielisen Tertulluksen kanssa maanvanhimman tyko Paavalia vastaan.	
 

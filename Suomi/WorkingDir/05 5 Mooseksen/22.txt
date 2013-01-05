@@ -1,4 +1,8 @@
-5 Mooseksen 22	
+<html>
+<head>
+<title>5 Mooseksen 22	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 22	</div>
 	
 <div class="versenum">1.</div> Kuin naet veljes harjan taikka lampaan eksyneen, niin ei sinun pida kaantaman itsias pois, vaan vieman se kaiketikin jalleen sinun veljelles.	
 

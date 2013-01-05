@@ -1,4 +1,8 @@
-Ilmestys 9	
+<html>
+<head>
+<title>Ilmestys 9	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 9	</div>
 	
 <div class="versenum">1.</div> Ja viides enkeli soitti basunalla, ja mina nain tahden taivaasta maan paalle putoovan, ja hanelle annettiin syvyyden kaivon avain.	
 

@@ -1,4 +1,8 @@
-Kolossalaisille 2	
+<html>
+<head>
+<title>Kolossalaisille 2	</title>
+</head>
+<body><div class="chaptertitle">Kolossalaisille 2	</div>
 	
 <div class="versenum">1.</div> Silla mina soisin teidan tietavan, kuinka suuri kilvoitus minulla on teista ja niista, jotka Laodikeassa ovat, ja kaikista niista, jotka ei minun kasvojani lihassa nahneet:	
 

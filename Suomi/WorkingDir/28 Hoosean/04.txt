@@ -1,4 +1,8 @@
-Hoosean 4	
+<html>
+<head>
+<title>Hoosean 4	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 4	</div>
 	
 <div class="versenum">1.</div> Kuulkaat Herran sanaa, te Israelin lapset! Silla Herralla on syy niita nuhdella, jotka maassa asuvat; sentahden ettei totuutta, eika laupiutta, eika Jumalan tuntoa ole maassa.	
 

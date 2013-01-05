@@ -1,4 +1,8 @@
-Hoosean 6	
+<html>
+<head>
+<title>Hoosean 6	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 6	</div>
 	
 <div class="versenum">1.</div> Kuulkaat ja palatkaamme Herran tyko; silla han on meita repinyt, han myos meidat parantaa; han on meita lyonyt, han myos meita sitoo.	
 

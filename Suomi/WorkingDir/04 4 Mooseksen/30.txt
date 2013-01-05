@@ -1,4 +1,8 @@
-4 Mooseksen 30	
+<html>
+<head>
+<title>4 Mooseksen 30	</title>
+</head>
+<body><div class="chaptertitle">4 Mooseksen 30	</div>
 	
 <div class="versenum">1.</div> (H30:2) Ja Moses puhui Israelin sukukuntain paamiehille, sanoen: tama on se minka Herra kaski:	
 

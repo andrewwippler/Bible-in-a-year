@@ -1,4 +1,8 @@
-Sefanjan 2	
+<html>
+<head>
+<title>Sefanjan 2	</title>
+</head>
+<body><div class="chaptertitle">Sefanjan 2	</div>
 	
 <div class="versenum">1.</div> Kootkaat teitanne ja tulkaat tanne, te vihattava kansa,	
 

@@ -1,4 +1,8 @@
-1 Kuninkaiden 12	
+<html>
+<head>
+<title>1 Kuninkaiden 12	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 12	</div>
 	
 <div class="versenum">1.</div> Ja Rehabeam meni Sikemiin, silla koko Israel oli silloin tullut Sikemiin, tekemaan hanta kuninkaaksi.	
 

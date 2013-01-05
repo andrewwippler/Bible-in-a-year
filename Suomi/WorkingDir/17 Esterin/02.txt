@@ -1,4 +1,8 @@
-Esterin 2	
+<html>
+<head>
+<title>Esterin 2	</title>
+</head>
+<body><div class="chaptertitle">Esterin 2	</div>
 	
 <div class="versenum">1.</div> Naiden jalkeen, sittekuin kuningas Ahasveruksen viha asettui, muisti han, mita Vasti oli tehnyt, ja mita hanesta paatetty oli.	
 

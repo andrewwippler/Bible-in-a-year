@@ -1,4 +1,8 @@
-Psalmien 70	
+<html>
+<head>
+<title>Psalmien 70	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 70	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi edellaveisaajalle, muistoksi. (H70:2) Rienna, Jumala, minua vapahtamaan: kiiruhda, Herra, minua auttamaan.	
 

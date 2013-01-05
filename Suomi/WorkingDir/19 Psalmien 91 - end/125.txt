@@ -1,4 +1,8 @@
-Psalmien 125	
+<html>
+<head>
+<title>Psalmien 125	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 125	</div>
 	
 <div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Jotka Herran paalle uskaltavat, ei he lankee, vaan pysyvat ijankaikkisesti niinkuin Zionin vuori.	
 

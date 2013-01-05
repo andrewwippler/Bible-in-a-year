@@ -1,4 +1,8 @@
-2 Timoteukselle 3	
+<html>
+<head>
+<title>2 Timoteukselle 3	</title>
+</head>
+<body><div class="chaptertitle">2 Timoteukselle 3	</div>
 	
 <div class="versenum">1.</div> Mutta sen sinun pitaa tietaman, etta viimeisina paivina vaaralliset ajat lahenevat;	
 

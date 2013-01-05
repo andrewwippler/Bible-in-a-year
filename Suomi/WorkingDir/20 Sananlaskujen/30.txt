@@ -1,4 +1,8 @@
-Sananlaskujen 30	
+<html>
+<head>
+<title>Sananlaskujen 30	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 30	</div>
 	
 <div class="versenum">1.</div> Agurin Jakenin pojan pojan sanat ja opetus, jonka se mies pujui Itielille, Itielille ja Ukkalille.	
 

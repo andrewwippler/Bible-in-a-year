@@ -1,4 +1,8 @@
-Esterin 1	
+<html>
+<head>
+<title>Esterin 1	</title>
+</head>
+<body><div class="chaptertitle">Esterin 1	</div>
 	
 <div class="versenum">1.</div> Siihen aikaan, kuin Ahasverus hallitsi Indiasta Etiopiaan asti, sataa ja seitsemaakolmattakymmenta maakuntaa,	
 

@@ -1,4 +1,8 @@
-Joosuan 20	
+<html>
+<head>
+<title>Joosuan 20	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 20	</div>
 	
 <div class="versenum">1.</div> Ja Herra puhui Josualle ja sanoi:	
 

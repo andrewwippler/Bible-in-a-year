@@ -1,4 +1,8 @@
-Apostolien 19	
+<html>
+<head>
+<title>Apostolien 19	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 19	</div>
 	
 <div class="versenum">1.</div> Niin tapahtui, kuin Apollos oli Korintossa, etta Paavali matkusti lavitse ylimaakuntain, ja tuli Ephesoon, ja loysi muutamia opetuslapsia,	
 

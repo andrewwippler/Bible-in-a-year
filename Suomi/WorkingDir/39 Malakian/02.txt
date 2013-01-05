@@ -1,4 +1,8 @@
-Malakian 2	
+<html>
+<head>
+<title>Malakian 2	</title>
+</head>
+<body><div class="chaptertitle">Malakian 2	</div>
 	
 <div class="versenum">1.</div> Ja te papit, tama kasky tulee nyt teille.	
 

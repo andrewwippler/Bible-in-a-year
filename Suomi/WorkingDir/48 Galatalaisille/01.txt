@@ -1,4 +1,8 @@
-Galatalaisille 1	
+<html>
+<head>
+<title>Galatalaisille 1	</title>
+</head>
+<body><div class="chaptertitle">Galatalaisille 1	</div>
 	
 <div class="versenum">1.</div> Paavali, apostoli, (ei ihmisilta eika ihmisten kautta, vaan Jesuksen Kristuksen kautta ja Isan Jumalan, joka hanen kuolleista herattanyt on,)	
 

@@ -1,4 +1,8 @@
-Psalmien 140	
+<html>
+<head>
+<title>Psalmien 140	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 140	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H140:2) Herra, pelasta minua pahoista ihmisista: varjele minua vaarista miehista,	
 

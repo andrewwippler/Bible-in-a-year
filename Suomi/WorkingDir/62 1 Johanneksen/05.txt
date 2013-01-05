@@ -1,4 +1,8 @@
-1 Johanneksen 5	
+<html>
+<head>
+<title>1 Johanneksen 5	</title>
+</head>
+<body><div class="chaptertitle">1 Johanneksen 5	</div>
 	
 <div class="versenum">1.</div> Jokainen, joka uskoo, etta Jesus on Kristus, han on Jumalasta syntynyt, ja jokainen, joka rakastaa sita, joka synnytti, han rakastaa myos sita, joka hanesta syntynyt on.	
 

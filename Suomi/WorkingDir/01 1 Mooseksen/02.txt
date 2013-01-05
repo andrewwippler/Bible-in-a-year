@@ -1,4 +1,8 @@
-1 Mooseksen 2	
+<html>
+<head>
+<title>1 Mooseksen 2	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 2	</div>
 	
 <div class="versenum">1.</div> Ja niin taivas ja maa paatettiin, ja kaikki heidan joukkonsa.	
 

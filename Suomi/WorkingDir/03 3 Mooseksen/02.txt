@@ -1,4 +1,8 @@
-3 Mooseksen 2	
+<html>
+<head>
+<title>3 Mooseksen 2	</title>
+</head>
+<body><div class="chaptertitle">3 Mooseksen 2	</div>
 	
 <div class="versenum">1.</div> Ja jos joku henki tahtoo tehda Herralle ruokauhria, niin sen pitaa oleman sampylajauhoista, ja hanen pitaa oljya sen paalle vuodattaman ja pyhaa savua sen paalle paneman,	
 

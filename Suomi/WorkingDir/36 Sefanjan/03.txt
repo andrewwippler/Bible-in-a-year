@@ -1,4 +1,8 @@
-Sefanjan 3	
+<html>
+<head>
+<title>Sefanjan 3	</title>
+</head>
+<body><div class="chaptertitle">Sefanjan 3	</div>
 	
 <div class="versenum">1.</div> Voi sita kauhiaa, rietasta ja vakivaltaista kaupunkia!	
 

@@ -1,4 +1,8 @@
-Jeremian 4	
+<html>
+<head>
+<title>Jeremian 4	</title>
+</head>
+<body><div class="chaptertitle">Jeremian 4	</div>
 	
 <div class="versenum">1.</div> Jos sina kaannyt, Israel, sanoo Herra, niin kaanny minun tykoni; ja jos sina panet kauhistukset pois minun kasvoini edesta, niin et sina tule ajetuksi pois.	
 

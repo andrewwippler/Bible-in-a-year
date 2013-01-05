@@ -1,4 +1,8 @@
-Esran 9	
+<html>
+<head>
+<title>Esran 9	</title>
+</head>
+<body><div class="chaptertitle">Esran 9	</div>
 	
 <div class="versenum">1.</div> Kuin namat kaikki olivat paatetyt, niin tulivat paamiehet minun tykoni ja sanoivat: Israelin kansa ja papit ja Levilaiset ei ole erinneet maan kansain, Kanaanealaisten, Hetilaisten, Pheresilaisten, Jebusilaisten, Ammonilaisten, Moabilaisten, Egyptilaisten ja Amorilaisten kauhistuksesta.	
 

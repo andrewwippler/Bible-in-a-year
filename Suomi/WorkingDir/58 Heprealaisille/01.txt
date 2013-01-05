@@ -1,4 +1,8 @@
-Heprealaisille 1	
+<html>
+<head>
+<title>Heprealaisille 1	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 1	</div>
 	
 <div class="versenum">1.</div> Jumala puhui muinen usein ja monella muotoa isille prophetain kautta; naina viimeisina paivina on han meille puhunut Poikansa kautta,	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 15	
+<html>
+<head>
+<title>5 Mooseksen 15	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 15	</div>
 	
 <div class="versenum">1.</div> Seitseman vuoden perasta pitaa sinun pitaman vapaavuoden.	
 

@@ -1,4 +1,8 @@
-Danielin 10	
+<html>
+<head>
+<title>Danielin 10	</title>
+</head>
+<body><div class="chaptertitle">Danielin 10	</div>
 	
 <div class="versenum">1.</div> Kolmantena Koreksen, Persian kuninkaan vuonna, ilmoitettiin Danielille, joka myos Belsatsariksi kutsuttiin, totinen asia suuresta sodasta. Ja han ymmarsi sen asian, ja ymmarrys oli hanella nayssa.	
 

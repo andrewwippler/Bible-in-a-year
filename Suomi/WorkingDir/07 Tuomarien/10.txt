@@ -1,4 +1,8 @@
-Tuomarien 10	
+<html>
+<head>
+<title>Tuomarien 10	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 10	</div>
 	
 <div class="versenum">1.</div> AbiMelekin jalkeen nousi Isaskarilainen Tola, Dodan pojan Puan poika, auttamaan Israelia. Ja han asui Samirissa, Ephraimin vuorella,	
 

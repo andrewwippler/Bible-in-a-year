@@ -1,4 +1,8 @@
-Psalmien 28	
+<html>
+<head>
+<title>Psalmien 28	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 28	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Koska mina huudan sinua, Herra, uskallukseni, niin ala vaikene minulle; etten, koska sina vaikenisit minulle, mina tulisi niiden kaltaiseksi, jotka hautaan menevat.	
 

@@ -1,4 +1,8 @@
-1 Kuninkaiden 11	
+<html>
+<head>
+<title>1 Kuninkaiden 11	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 11	</div>
 	
 <div class="versenum">1.</div> Ja kunigas Salomo rakasti monta muukalaista vaimoa, Pharaon tytarta, ja Moabilaisia, Ammonilaisia, Edomilaisia, Zidonilaisia ja Hetilaisia,	
 

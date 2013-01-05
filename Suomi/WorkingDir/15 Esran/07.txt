@@ -1,4 +1,8 @@
-Esran 7	
+<html>
+<head>
+<title>Esran 7	</title>
+</head>
+<body><div class="chaptertitle">Esran 7	</div>
 	
 <div class="versenum">1.</div> Mutta naiden jalkeen Artahsastan Persian kuninkaan hallitessa oli Esra Serajan poika, Asarian pojan, Hilkian pojan,	
 

@@ -1,4 +1,8 @@
-Psalmien 38	
+<html>
+<head>
+<title>Psalmien 38	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 38	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi muistoksi. (H38:2) Herra, ala rankaise minua vihassas, ja ala kurita minua hirmuisuudessas!	
 

@@ -1,4 +1,8 @@
-Esterin 7	
+<html>
+<head>
+<title>Esterin 7	</title>
+</head>
+<body><div class="chaptertitle">Esterin 7	</div>
 	
 <div class="versenum">1.</div> Kuin kuningas tuli ja Haman pitoon kuningatar Esterin tyko,	
 

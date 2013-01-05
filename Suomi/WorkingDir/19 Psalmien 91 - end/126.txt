@@ -1,4 +1,8 @@
-Psalmien 126	
+<html>
+<head>
+<title>Psalmien 126	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 126	</div>
 	
 <div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Koska Herra paastaa Zionin vangit, niin me olemme niinkuin unta nakevaiset.	
 

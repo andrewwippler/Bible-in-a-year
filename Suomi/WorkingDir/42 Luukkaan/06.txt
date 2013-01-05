@@ -1,4 +1,8 @@
-Luukkaan 6	
+<html>
+<head>
+<title>Luukkaan 6	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 6	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui jalkisabbattina, etta han kavi laihon lavitse, ja hanen opetuslapsensa katkoivat tahkapaita ja hiersivat kasillansa, ja soivat.	
 

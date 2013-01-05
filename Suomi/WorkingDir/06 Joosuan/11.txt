@@ -1,4 +1,8 @@
-Joosuan 11	
+<html>
+<head>
+<title>Joosuan 11	</title>
+</head>
+<body><div class="chaptertitle">Joosuan 11	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui, etta kuin Jobin Hatsorin kuningas sen kuuli, lahetti han Jobabin Madonin kuninkaan tyko, ja Simronin kuninkaan, ja Akasaphin kuninkaan tyko,	
 

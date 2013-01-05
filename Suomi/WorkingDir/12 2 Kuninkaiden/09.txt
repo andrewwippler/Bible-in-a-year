@@ -1,4 +1,8 @@
-2 Kuninkaiden 9	
+<html>
+<head>
+<title>2 Kuninkaiden 9	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 9	</div>
 	
 <div class="versenum">1.</div> Mutta Elisa propheta kutsui yhden prophetain poikia ja sanoi hanelle: vyota kupees ja ota tama oljyastia katees, ja mene Gileadin Ramotiin.	
 

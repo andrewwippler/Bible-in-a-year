@@ -1,4 +1,8 @@
-Laulujen Laulu 2	
+<html>
+<head>
+<title>Laulujen Laulu 2	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 2	</div>
 	
 <div class="versenum">1.</div> Mina olen Saronin kukkanen, ja kukoistus laaksossa.	
 

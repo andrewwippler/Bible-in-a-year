@@ -1,4 +1,8 @@
-Psalmien 25	
+<html>
+<head>
+<title>Psalmien 25	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 25	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Sinun tykos, Herra, ylennan mina sieluni.	
 

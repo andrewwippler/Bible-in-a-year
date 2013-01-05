@@ -1,4 +1,8 @@
-Tuomarien 12	
+<html>
+<head>
+<title>Tuomarien 12	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 12	</div>
 	
 <div class="versenum">1.</div> Ja Ephraimin miehet tulivat kokoon ja menivat pohjoiseen pain ja sanoivat Jephtalle: miksis menit sotaan Ammonin lapsia vastaan, ja et meita kutsunut menemaan kanssas? Me poltamme sinun ja sinun huonees.	
 

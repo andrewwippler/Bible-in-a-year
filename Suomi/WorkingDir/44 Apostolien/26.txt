@@ -1,4 +1,8 @@
-Apostolien 26	
+<html>
+<head>
+<title>Apostolien 26	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 26	</div>
 	
 <div class="versenum">1.</div> Niin Agrippa sanoi Paavalille: sinun on lupa puhua edestas. Silloin Paavali ojensi katensa ja vastasi edestansa:	
 

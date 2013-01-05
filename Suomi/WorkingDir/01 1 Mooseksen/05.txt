@@ -1,4 +1,8 @@
-1 Mooseksen 5	
+<html>
+<head>
+<title>1 Mooseksen 5	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 5	</div>
 	
 <div class="versenum">1.</div> Tama on ihmisen sukukunnan kirja, siihen aikaan, koska Jumala loi ihmisen, ja teki hanen Jumalan muotoiseksi.	
 

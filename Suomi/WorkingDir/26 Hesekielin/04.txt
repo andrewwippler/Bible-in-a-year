@@ -1,4 +1,8 @@
-Hesekielin 4	
+<html>
+<head>
+<title>Hesekielin 4	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 4	</div>
 	
 <div class="versenum">1.</div> Ja sina ihmisen lapsi, ota sinulles tiilikivi, pane se etees, ja piirusta sen paalle Jerusalemin kaupunki.	
 

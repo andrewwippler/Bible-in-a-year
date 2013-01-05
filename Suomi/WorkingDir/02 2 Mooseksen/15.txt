@@ -1,4 +1,8 @@
-2 Mooseksen 15	
+<html>
+<head>
+<title>2 Mooseksen 15	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 15	</div>
 	
 <div class="versenum">1.</div> Silloin veisasi Moses ja Israelin lapset Herralle taman virren, ja sanoivat: Mina veisaan Herralle, silla han on sangen jalon tyon tehnyt, hevosen ja miehen han mereen syoksi.	
 

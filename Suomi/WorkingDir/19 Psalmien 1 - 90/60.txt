@@ -1,4 +1,8 @@
-Psalmien 60	
+<html>
+<head>
+<title>Psalmien 60	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 60	</div>
 	
 <div class="versenum">1.</div> Davidin kultainen kappale, edellaveisaajalle, kultaisesta seppeleen kukkaisesta opettamaan, (H60:2) Kuin han oli sotinut Syrialaisten kanssa Mesopotamiasta, ja Zoban Syrialaisten kanssa; kuin Joab palasi, ja loi Suolalaaksossa kaksitoistakymmenta tuhatta Edomilaista. (H60:3) Jumala, sina joka olet meita lykannyt pois, hajoittanut meita ja ollut vihainen, palaja taas meidan tykomme.	
 

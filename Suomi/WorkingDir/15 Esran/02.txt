@@ -1,4 +1,8 @@
-Esran 2	
+<html>
+<head>
+<title>Esran 2	</title>
+</head>
+<body><div class="chaptertitle">Esran 2	</div>
 	
 <div class="versenum">1.</div> Nama ovat maakunnan lapset jotka laksivat vankeudesta jotka Nebukadnetsar Babelin kuningas oli vienyt Babeliin, ja tulivat Jerusalemiin ja Juudaan jalleen, kukin kaupunkiinsa,	
 

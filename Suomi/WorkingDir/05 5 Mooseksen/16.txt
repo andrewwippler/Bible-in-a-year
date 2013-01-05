@@ -1,4 +1,8 @@
-5 Mooseksen 16	
+<html>
+<head>
+<title>5 Mooseksen 16	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 16	</div>
 	
 <div class="versenum">1.</div> Pida vaari siita kuusta Abib, ettas pidat Herralle sinun Jumalalles paasiaista: etta silla kuulla Abib on Herra sinun Jumalas johdattanut sinun Egyptista, yolla.	
 

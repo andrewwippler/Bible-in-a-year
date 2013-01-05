@@ -1,4 +1,8 @@
-1 Timoteukselle 6	
+<html>
+<head>
+<title>1 Timoteukselle 6	</title>
+</head>
+<body><div class="chaptertitle">1 Timoteukselle 6	</div>
 	
 <div class="versenum">1.</div> Palveliat, jotka ikeen alla ovat, pitaa isantansa kaikessa kunniassa pitaman, ettei Jumalan nimi ja oppi pilkatuksi tulisi.	
 

@@ -1,4 +1,8 @@
-Psalmien 23	
+<html>
+<head>
+<title>Psalmien 23	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 23	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Herra on minun paimeneni: ei minulta mitaan puutu.	
 

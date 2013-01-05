@@ -1,4 +1,8 @@
-Apostolien 27	
+<html>
+<head>
+<title>Apostolien 27	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 27	</div>
 	
 <div class="versenum">1.</div> Mutta sittenkuin paatetty oli, etta meidan piti Italiaan purjehtiman, antoivat he Paavalin muiden vankien kanssa yhden sadanpaamiehen haltuun, joka kutsuttiin Julius, keisarin sotajoukosta.	
 

@@ -1,4 +1,8 @@
-1 Samuelin 20	
+<html>
+<head>
+<title>1 Samuelin 20	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 20	</div>
 	
 <div class="versenum">1.</div> Ja David pakeni Raman Najotista, tuli ja sanoi Jonatanille: mita mina olen tehnyt? mika on vaaryyteni? eli mika on pahatekoni sinun isaas vastaan, etta han seisoo minun henkeni peraan?	
 

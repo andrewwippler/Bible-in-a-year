@@ -1,4 +1,8 @@
-Psalmien 119	
+<html>
+<head>
+<title>Psalmien 119	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 119	</div>
 	
 <div class="versenum">1.</div> Autuaat ovat ne, jotka viattomasti elavat, ja jotka Herran laissa vaeltavat.	
 

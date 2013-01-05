@@ -1,4 +1,8 @@
-Luukkaan 20	
+<html>
+<head>
+<title>Luukkaan 20	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 20	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui yhtena niista paivista, kuin han kansaa opetti templissa ja saarnasi evankeliumia, tulivat ylimmaiset papit ja kirjanoppineet ja vanhimmat,	
 

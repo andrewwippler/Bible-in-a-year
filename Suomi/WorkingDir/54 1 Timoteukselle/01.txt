@@ -1,4 +1,8 @@
-1 Timoteukselle 1	
+<html>
+<head>
+<title>1 Timoteukselle 1	</title>
+</head>
+<body><div class="chaptertitle">1 Timoteukselle 1	</div>
 	
 <div class="versenum">1.</div> Paavali, Jesuksen Kristuksen apostoli Jumalan meidan Lunastajamme asetuksen jalkeen, ja Herran Jesuksen Kristuksen, joka meidan toivomme on,	
 

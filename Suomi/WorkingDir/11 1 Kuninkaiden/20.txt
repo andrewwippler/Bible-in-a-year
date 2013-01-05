@@ -1,4 +1,8 @@
-1 Kuninkaiden 20	
+<html>
+<head>
+<title>1 Kuninkaiden 20	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 20	</div>
 	
 <div class="versenum">1.</div> Ja Behadad Syrian kuningas kokosi kaikki sotavakensa ja oli kaksineljattakymmenta kuningasta hanen kanssansa, ja hevoset ja vaunut; ja han meni ja piiritti Samarian, ja soti sita vastaan,	
 

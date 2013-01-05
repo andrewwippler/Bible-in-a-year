@@ -1,4 +1,8 @@
-Sananlaskujen 1	
+<html>
+<head>
+<title>Sananlaskujen 1	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 1	</div>
 	
 <div class="versenum">1.</div> Salomon, Davidin pojan, Israelin kuninkaan sananlaskut;	
 

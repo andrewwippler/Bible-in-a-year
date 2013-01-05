@@ -1,4 +1,8 @@
-1 Mooseksen 15	
+<html>
+<head>
+<title>1 Mooseksen 15	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 15	</div>
 	
 <div class="versenum">1.</div> Kuin nama olivat niin tapahtuneet, tuli Herran sana Abramin tyko nayssa, sanoen: ala pelkaa Abram, mina olen sinun kilpes, ja sangen suuri palkkas.	
 

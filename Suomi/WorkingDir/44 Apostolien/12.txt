@@ -1,4 +1,8 @@
-Apostolien 12	
+<html>
+<head>
+<title>Apostolien 12	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 12	</div>
 	
 <div class="versenum">1.</div> Mutta silla ajalla otti kuningas Herodes muutamia seurakunnasta kiinni, vaivataksensa,	
 

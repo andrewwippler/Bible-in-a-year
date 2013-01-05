@@ -1,4 +1,8 @@
-Hoosean 2	
+<html>
+<head>
+<title>Hoosean 2	</title>
+</head>
+<body><div class="chaptertitle">Hoosean 2	</div>
 	
 <div class="versenum">1.</div> Sanokaat teidan veljillenne: He ovat minun kansani, ja teidan sisarillenne: He ovat armossa.	
 

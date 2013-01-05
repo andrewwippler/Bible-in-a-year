@@ -1,4 +1,8 @@
-Psalmien 144	
+<html>
+<head>
+<title>Psalmien 144	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 144	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Kiitetty olkoon Herra, minun turvani, joka kateni opettaa sotimaan, ja sormeni tappelemaan,	
 

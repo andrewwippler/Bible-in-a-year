@@ -1,4 +1,8 @@
-Ilmestys 22	
+<html>
+<head>
+<title>Ilmestys 22	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 22	</div>
 	
 <div class="versenum">1.</div> Ja han osoitti minulle puhtaan elaman veden virran, selkian niinkuin kristallin, vuotavan Jumalan ja Karitsan istuimesta.	
 

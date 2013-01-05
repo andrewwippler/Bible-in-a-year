@@ -1,4 +1,8 @@
-Habakukin 1	
+<html>
+<head>
+<title>Habakukin 1	</title>
+</head>
+<body><div class="chaptertitle">Habakukin 1	</div>
 	
 <div class="versenum">1.</div> Tama on se raskaus, jonka propheta Habakuk on nahnyt.	
 

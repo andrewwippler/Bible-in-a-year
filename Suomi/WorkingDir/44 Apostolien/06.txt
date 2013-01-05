@@ -1,4 +1,8 @@
-Apostolien 6	
+<html>
+<head>
+<title>Apostolien 6	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 6	</div>
 	
 <div class="versenum">1.</div> Mutta niina paivina, koska opetuslasten luku eneni, napisivat Grekilaiset Hebrealaisia vastaan, etta heidan leskensa katsottiin ylon jokapaivaisessa palveluksessa.	
 

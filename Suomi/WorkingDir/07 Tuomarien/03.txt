@@ -1,4 +1,8 @@
-Tuomarien 3	
+<html>
+<head>
+<title>Tuomarien 3	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 3	</div>
 	
 <div class="versenum">1.</div> Ja namat ovat ne pakanat, jotka Herra jatti Israelia kiusaamaan, kaikkia niita, jotka ei mitaan tietaneet kaikista Kanaanin sodista,	
 

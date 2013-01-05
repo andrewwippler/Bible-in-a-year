@@ -1,4 +1,8 @@
-1 Kuninkaiden 5	
+<html>
+<head>
+<title>1 Kuninkaiden 5	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 5	</div>
 	
 <div class="versenum">1.</div> Ja Hiram, Tyron kuningas, lahetti palveliansa Salomon tyko; silla han oli kuullut, etta he olivat hanen voidelleet kuninkaaksi isansa siaan; silla Hiram rakasti Davidia niinkauvan kuin han eli.	
 

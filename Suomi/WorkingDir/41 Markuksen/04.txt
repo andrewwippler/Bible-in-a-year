@@ -1,4 +1,8 @@
-Markuksen 4	
+<html>
+<head>
+<title>Markuksen 4	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 4	</div>
 	
 <div class="versenum">1.</div> Ja han rupesi taas opettamaan meren tykona, ja paljo kansaa kokoontui hanen tykonsa, niin etta hanen piti astuman haahteen ja istuman merella, ja kaikki kansa oli maalla meren tykona.	
 

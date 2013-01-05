@@ -1,4 +1,8 @@
-Habakukin 2	
+<html>
+<head>
+<title>Habakukin 2	</title>
+</head>
+<body><div class="chaptertitle">Habakukin 2	</div>
 	
 <div class="versenum">1.</div> Tassa mina seison minun vartiossani, ja astun minun linnaani; ja katselen nahdakseni, mita minulle sanotaan, ja mita minulle sanotaan, ja mita mina sita vastaan, joka minua nuhtelee.	
 

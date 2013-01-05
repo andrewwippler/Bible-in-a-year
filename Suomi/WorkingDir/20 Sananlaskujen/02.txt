@@ -1,4 +1,8 @@
-Sananlaskujen 2	
+<html>
+<head>
+<title>Sananlaskujen 2	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 2	</div>
 	
 <div class="versenum">1.</div> Poikani, jos otat minun puheeni, ja kaskyni katket;	
 

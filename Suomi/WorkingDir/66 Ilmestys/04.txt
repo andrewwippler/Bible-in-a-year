@@ -1,4 +1,8 @@
-Ilmestys 4	
+<html>
+<head>
+<title>Ilmestys 4	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 4	</div>
 	
 <div class="versenum">1.</div> Sitte nain mina, ja katso, ovi avattiin taivaassa, ja ensimainen aani, jonka mina kuulin niinkuin basunan puhuvan minun kanssani, sanoen: astu tanne ylos, ja mina osoitan sinulle, mita tastalahin tapahtuva on.	
 

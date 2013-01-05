@@ -1,4 +1,8 @@
-Ilmestys 18	
+<html>
+<head>
+<title>Ilmestys 18	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 18	</div>
 	
 <div class="versenum">1.</div> Ja sitte nain mina toisen enkelin tulevan alas taivaasta, jolla oli suuri voima: ja maa valistui hanen kirkkaudestansa.	
 

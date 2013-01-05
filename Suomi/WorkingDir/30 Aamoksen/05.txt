@@ -1,4 +1,8 @@
-Aamoksen 5	
+<html>
+<head>
+<title>Aamoksen 5	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 5	</div>
 	
 <div class="versenum">1.</div> Kuulkaat te, Israelin huone, naita sanoja; silla minun taytyy taman valitusveisun teista nostaa.	
 

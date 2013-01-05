@@ -1,4 +1,8 @@
-Ilmestys 2	
+<html>
+<head>
+<title>Ilmestys 2	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 2	</div>
 	
 <div class="versenum">1.</div> Kirjoita Epheson seurakunnan enkelille: naita sanoo se, joka seitseman tahtea pitaa oikiassa kadessansa, joka kay seitseman kultaisen kynttilajalan keskella:	
 

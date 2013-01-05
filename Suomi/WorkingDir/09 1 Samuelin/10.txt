@@ -1,4 +1,8 @@
-1 Samuelin 10	
+<html>
+<head>
+<title>1 Samuelin 10	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 10	</div>
 	
 <div class="versenum">1.</div> Niin otti Samuel oljyastian ja kaasi hanen paansa paalle, ja antoi suuta hanen ja sanoi: naetkos, etta Herra on sinun voidellut paamieheksi perimisensa paalle?	
 

@@ -1,4 +1,8 @@
-1 Kuninkaiden 2	
+<html>
+<head>
+<title>1 Kuninkaiden 2	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 2	</div>
 	
 <div class="versenum">1.</div> Ja kuin Davidin aika lahestyi, etta hanen piti kuoleman, kaski han pojallensa Salomolle, sanoen:	
 

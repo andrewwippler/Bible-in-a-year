@@ -1,4 +1,8 @@
-Aamoksen 1	
+<html>
+<head>
+<title>Aamoksen 1	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 1	</div>
 	
 <div class="versenum">1.</div> Tama on se, minka Amos, joka paimenien seassa Tekoassa oli, naki Israelissa, Ussian Juudan kuninkaan ajalla, ja Jerobeamin Joaksen pojan, Israelin kuninkaan ajalla, kahta vuotta ennen maan jaristysta.	
 

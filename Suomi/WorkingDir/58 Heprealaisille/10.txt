@@ -1,4 +1,8 @@
-Heprealaisille 10	
+<html>
+<head>
+<title>Heprealaisille 10	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 10	</div>
 	
 <div class="versenum">1.</div> Silla lailla on tulevaisten tavarain varjo, ei itse hyvyyden olento; niilla uhreilla, joita he joka vuosi alinomaa uhraavat, ei se ikana taida niita taydelliseksi tehda, jotka uhraavat.	
 

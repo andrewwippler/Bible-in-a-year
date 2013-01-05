@@ -1,4 +1,8 @@
-Efesolaisille 5	
+<html>
+<head>
+<title>Efesolaisille 5	</title>
+</head>
+<body><div class="chaptertitle">Efesolaisille 5	</div>
 	
 <div class="versenum">1.</div> Niin olkaat siis Jumalan seuraajat, niinkuin rakkaat lapset,	
 

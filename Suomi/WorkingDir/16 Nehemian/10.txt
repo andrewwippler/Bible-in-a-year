@@ -1,4 +1,8 @@
-Nehemian 10	
+<html>
+<head>
+<title>Nehemian 10	</title>
+</head>
+<body><div class="chaptertitle">Nehemian 10	</div>
 	
 <div class="versenum">1.</div> Ja ne, jotka sinettinsa painoivat, olivat Nehemia Tirsata Hakalian poika, ja Zidkia,	
 

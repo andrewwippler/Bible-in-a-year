@@ -1,4 +1,8 @@
-Apostolien 13	
+<html>
+<head>
+<title>Apostolien 13	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 13	</div>
 	
 <div class="versenum">1.</div> Mutta Antiokian seurakunnassa oli muutamia prophetaita ja opettajia, Barnabas ja Simeon, joka Nigeriksi kutsuttiin, ja Lukius Kyrenilainen, ja Manahen, joka Herodes tetrarkan kanssa kasvatettu oli, ja Saulus.	
 

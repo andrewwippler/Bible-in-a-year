@@ -1,4 +1,8 @@
-Matteuksen 10	
+<html>
+<head>
+<title>Matteuksen 10	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 10	</div>
 	
 <div class="versenum">1.</div> Ja han kutsui tykonsa kaksitoistakymmenta opetuslastansa, ja antoi heille vallan riettaisia henkia vastaan, niita ajaa ulos, ja parantaa kaikkinaisia tauteja ja kaikkea sairautta.	
 

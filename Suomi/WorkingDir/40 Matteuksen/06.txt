@@ -1,4 +1,8 @@
-Matteuksen 6	
+<html>
+<head>
+<title>Matteuksen 6	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 6	</div>
 	
 <div class="versenum">1.</div> Kavahtakaat, ettette anna almujanne ihmisten edessa, etta te heilta nahtaisiin: niin ette saa palkkaa Isaltanne, joka on taivaissa.	
 

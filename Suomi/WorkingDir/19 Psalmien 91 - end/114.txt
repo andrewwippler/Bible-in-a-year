@@ -1,4 +1,8 @@
-Psalmien 114	
+<html>
+<head>
+<title>Psalmien 114	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 114	</div>
 	
 <div class="versenum">1.</div> Kuin Israel Egyptista laksi, Jakobin huone muukalaisesta kansasta,	
 

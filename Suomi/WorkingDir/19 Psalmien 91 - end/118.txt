@@ -1,4 +1,8 @@
-Psalmien 118	
+<html>
+<head>
+<title>Psalmien 118	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 118	</div>
 	
 <div class="versenum">1.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
 

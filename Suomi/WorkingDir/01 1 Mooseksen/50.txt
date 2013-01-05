@@ -1,4 +1,8 @@
-1 Mooseksen 50	
+<html>
+<head>
+<title>1 Mooseksen 50	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 50	</div>
 	
 <div class="versenum">1.</div> Niin Joseph lankesi isansa kasvoille, itki hanen ylitsensa, ja antoi suuta hanen.	
 

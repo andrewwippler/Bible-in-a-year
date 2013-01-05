@@ -1,4 +1,8 @@
-Ruutin 1	
+<html>
+<head>
+<title>Ruutin 1	</title>
+</head>
+<body><div class="chaptertitle">Ruutin 1	</div>
 	
 <div class="versenum">1.</div> Ja tuomarien hallitessa oli kallis aika maalla, ja mies Juudan Betlehemista meni vaeltamaan Moabilaisten maalle, han ja hanen emantansa ja kaksi hanen poikaansa.	
 

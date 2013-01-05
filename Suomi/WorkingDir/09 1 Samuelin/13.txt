@@ -1,4 +1,8 @@
-1 Samuelin 13	
+<html>
+<head>
+<title>1 Samuelin 13	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 13	</div>
 	
 <div class="versenum">1.</div> Kuin Saul oli vuoden ollut kuninkaana, ja hallinnut Israelia kaksi ajastaikaa,	
 

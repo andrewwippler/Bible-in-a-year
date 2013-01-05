@@ -1,4 +1,8 @@
-Matteuksen 5	
+<html>
+<head>
+<title>Matteuksen 5	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 5	</div>
 	
 <div class="versenum">1.</div> Mutta kuin han naki kansan, astui han ylos vuorelle, ja kuin han oli istunut, tulivat hanen opetuslapsensa hanen tykonsa.	
 

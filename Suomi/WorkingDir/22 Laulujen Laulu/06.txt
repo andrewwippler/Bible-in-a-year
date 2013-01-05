@@ -1,4 +1,8 @@
-Laulujen Laulu 6	
+<html>
+<head>
+<title>Laulujen Laulu 6	</title>
+</head>
+<body><div class="chaptertitle">Laulujen Laulu 6	</div>
 	
 <div class="versenum">1.</div> Kuhunka ystavas on mennyt, o sina kaikkein kaunein vaimoin seassa! kuhunka ystavas on kaantanyt itsensa? Me etsimme hanta sinun kanssas.	
 

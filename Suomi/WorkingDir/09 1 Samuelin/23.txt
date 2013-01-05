@@ -1,4 +1,8 @@
-1 Samuelin 23	
+<html>
+<head>
+<title>1 Samuelin 23	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 23	</div>
 	
 <div class="versenum">1.</div> Ja Davidille ilmoitettiin, sanoen: katso, Philistealaiset sotivat Kegilaa vastaan ja ryostavat heidan riihensa.	
 

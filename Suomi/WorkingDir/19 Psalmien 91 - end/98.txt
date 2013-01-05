@@ -1,4 +1,8 @@
-Psalmien 98	
+<html>
+<head>
+<title>Psalmien 98	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 98	</div>
 	
 <div class="versenum">1.</div> Psalmi. Veisatkaat Herralle uusi veisu; silla han tekee ihmeita. Han saa voiton oikialla kadellansa ja pyhalla kasivarrellansa.	
 

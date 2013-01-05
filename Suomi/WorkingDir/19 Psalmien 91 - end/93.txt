@@ -1,4 +1,8 @@
-Psalmien 93	
+<html>
+<head>
+<title>Psalmien 93	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 93	</div>
 	
 <div class="versenum">1.</div> Herra on kuningas: han on pukenut yllensa suuren kunnian: Herra on pukenut ja vyottanyt itsensa vakevyydella, ja on vahvistanut maan piirin, ettei sen pida liikkuman.	
 

@@ -1,4 +1,8 @@
-Psalmien 2	
+<html>
+<head>
+<title>Psalmien 2	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 2	</div>
 	
 <div class="versenum">1.</div> Miksi pakanat kiukuitsevat, ja kansat turhia ajattelevat?	
 

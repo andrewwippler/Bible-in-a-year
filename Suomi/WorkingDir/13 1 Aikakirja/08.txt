@@ -1,4 +1,8 @@
-1 Aikakirja 8	
+<html>
+<head>
+<title>1 Aikakirja 8	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 8	</div>
 	
 <div class="versenum">1.</div> Benjamin siitti Belan ensimaisen poikansa, Asbalin toisen, Ahran kolmannen,	
 

@@ -1,4 +1,8 @@
-Johanneksen 10	
+<html>
+<head>
+<title>Johanneksen 10	</title>
+</head>
+<body><div class="chaptertitle">Johanneksen 10	</div>
 	
 <div class="versenum">1.</div> Totisesti, totisesti sanon mina teille: joka ei ovesta mene sisalle lammashuoneesen, vaan astuu siihen muualta, se on varas ja ryovari.	
 

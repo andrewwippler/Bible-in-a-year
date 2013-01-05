@@ -1,4 +1,8 @@
-Matteuksen 26	
+<html>
+<head>
+<title>Matteuksen 26	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 26	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui, kuin Jesus oli lopettanut kaikki namat puheet, sanoi han opetuslapsillensa:	
 

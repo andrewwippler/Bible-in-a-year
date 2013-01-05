@@ -1,4 +1,8 @@
-Hesekielin 45	
+<html>
+<head>
+<title>Hesekielin 45	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 45	</div>
 	
 <div class="versenum">1.</div> Kuin te maata jaatte arvalla, niin teidan pitaa eroittman osan maasta Herralle pyhaksi, viisikolmattakymmenta tuhatta riukumittaa pituudelle ja kymmenentuhatta leveydelle: se paikka on pyha kaikissa rajoissansa ympari.	
 

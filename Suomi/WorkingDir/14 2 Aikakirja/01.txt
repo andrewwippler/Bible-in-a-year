@@ -1,4 +1,8 @@
-2 Aikakirja 1	
+<html>
+<head>
+<title>2 Aikakirja 1	</title>
+</head>
+<body><div class="chaptertitle">2 Aikakirja 1	</div>
 	
 <div class="versenum">1.</div> Ja Salomo Davidin poika vahvisti itsensa valtakuntaansa; ja Herra hanen Jumalansa oli hanen kanssansa ja teki hanen aina suuremmaksi.	
 

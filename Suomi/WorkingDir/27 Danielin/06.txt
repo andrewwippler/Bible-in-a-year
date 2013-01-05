@@ -1,4 +1,8 @@
-Danielin 6	
+<html>
+<head>
+<title>Danielin 6	</title>
+</head>
+<body><div class="chaptertitle">Danielin 6	</div>
 	
 <div class="versenum">1.</div> Ja Darius naki sen hyvaksi panna koko valtakuntaan sata ja kaksikymmenta maanvanhinta.	
 

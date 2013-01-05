@@ -1,4 +1,8 @@
-Matteuksen 15	
+<html>
+<head>
+<title>Matteuksen 15	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 15	</div>
 	
 <div class="versenum">1.</div> Silloin tulivat Jesuksen tyko kirjanoppineet ja Pharisealaiset Jerusalemista, ja sanoivat:	
 

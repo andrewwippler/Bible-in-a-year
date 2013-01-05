@@ -1,4 +1,8 @@
-Psalmien 19	
+<html>
+<head>
+<title>Psalmien 19	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 19	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H19:2) Taivaat ilmoittavat Jumalan kunnian, ja vahvuus julistaa hanen kattensa teot.	
 

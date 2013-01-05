@@ -1,4 +1,8 @@
-2 Kuninkaiden 21	
+<html>
+<head>
+<title>2 Kuninkaiden 21	</title>
+</head>
+<body><div class="chaptertitle">2 Kuninkaiden 21	</div>
 	
 <div class="versenum">1.</div> Manasse oli kahdentoistakymmenen ajastaikainen tullessansa kuninkaaksi, ja hallitsi viisi ajastaikaa kuudettakymmenta Jerusalemissa; hanen aitinsa nimi oli Hephtsiba.	
 

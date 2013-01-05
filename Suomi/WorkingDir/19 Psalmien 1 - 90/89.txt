@@ -1,4 +1,8 @@
-Psalmien 89	
+<html>
+<head>
+<title>Psalmien 89	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 89	</div>
 	
 <div class="versenum">1.</div> Etanin sen Esrahilaisen opetus. (H89:2) Mina veisaan Herran armoja ijankaikkisesti, ja ilmoitan sinun totuuttas suullani suvusta sukuun,	
 

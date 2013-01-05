@@ -1,4 +1,8 @@
-Galatalaisille 2	
+<html>
+<head>
+<title>Galatalaisille 2	</title>
+</head>
+<body><div class="chaptertitle">Galatalaisille 2	</div>
 	
 <div class="versenum">1.</div> Sitte neljantoistakymmenen vuoden perasta menin mina taas Barnabaan kanssa ylos Jerusalemiin ja otin Tituksen kanssani,	
 

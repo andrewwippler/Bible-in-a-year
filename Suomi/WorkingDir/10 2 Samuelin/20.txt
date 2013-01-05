@@ -1,4 +1,8 @@
-2 Samuelin 20	
+<html>
+<head>
+<title>2 Samuelin 20	</title>
+</head>
+<body><div class="chaptertitle">2 Samuelin 20	</div>
 	
 <div class="versenum">1.</div> Mutta siihen tuli yksi kuuluisa Belialin mies, jonka nimi oli Seba Bikrin poika Jeminista; se soitti basunalla ja sanoi: ei meilla ole yhtakaan osaa Davidissa eika yhtakaan perimista Isain pojassa, itsekukin palatkaan majaansa, o Israel!	
 

@@ -1,4 +1,8 @@
-Malakian 1	
+<html>
+<head>
+<title>Malakian 1	</title>
+</head>
+<body><div class="chaptertitle">Malakian 1	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sanan kuorma Israelin tyko, Malakian kautta.	
 

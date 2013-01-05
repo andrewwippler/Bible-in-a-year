@@ -1,4 +1,8 @@
-1 Samuelin 21	
+<html>
+<head>
+<title>1 Samuelin 21	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 21	</div>
 	
 <div class="versenum">1.</div> Ja David tuli Nobeen papin Ahimelekin tyko, ja Ahimelek hammastyi, kuin han tuli Davidia vastaan, ja sanoi hanelle: kuinka sina yksinas olet, ja ei yhtaan miesta ole sinun kanssas?	
 

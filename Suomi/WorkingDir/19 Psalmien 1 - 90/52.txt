@@ -1,4 +1,8 @@
-Psalmien 52	
+<html>
+<head>
+<title>Psalmien 52	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 52	</div>
 	
 <div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, (H52:2) Kuin Edomilainen Doeg tuli ja ilmoitti Saulille, ja sanoi hanelle: David on tullut Ahimelekin huoneeseen. (H52:3) Mitas kerskaat pahuudessas, sina vakeva? Jumalan laupius pysyy joka paiva.	
 

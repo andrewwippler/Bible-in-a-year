@@ -1,4 +1,8 @@
-Ilmestys 14	
+<html>
+<head>
+<title>Ilmestys 14	</title>
+</head>
+<body><div class="chaptertitle">Ilmestys 14	</div>
 	
 <div class="versenum">1.</div> Ja mina nain, ja katso, Karitsa seisoi Zionin vuorella, ja hanen kanssansa sata ja neljaviidettakymmenta tuhatta, joilla oli hanen Isansa nimi kirjoitettu heidan otsissansa.	
 

@@ -1,4 +1,8 @@
-1 Samuelin 4	
+<html>
+<head>
+<title>1 Samuelin 4	</title>
+</head>
+<body><div class="chaptertitle">1 Samuelin 4	</div>
 	
 <div class="versenum">1.</div> Ja Samuel rupesi saarnaamaan koko Israelin edessa; ja Israel meni sotaan Philistealaisia vastaan, ja he sioittivat heitansa EbenEtserin tyko, mutta Philistealaiset asettivat leirinsa Aphekiin.	
 

@@ -1,4 +1,8 @@
-1 Mooseksen 36	
+<html>
+<head>
+<title>1 Mooseksen 36	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 36	</div>
 	
 <div class="versenum">1.</div> Tama on Esaun sukukunta, joka on Edom.	
 

@@ -1,4 +1,8 @@
-Aamoksen 6	
+<html>
+<head>
+<title>Aamoksen 6	</title>
+</head>
+<body><div class="chaptertitle">Aamoksen 6	</div>
 	
 <div class="versenum">1.</div> Voi suruttomia Zionissa, ja niita, jotka Samarian vuoreen luottavat, jotka kutsutaan ylimmaisiksi pakanain seassa, ja Israelin huoneessa hallitsevat!	
 

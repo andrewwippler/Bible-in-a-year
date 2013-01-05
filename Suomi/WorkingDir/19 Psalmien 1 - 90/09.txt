@@ -1,4 +1,8 @@
-Psalmien 9	
+<html>
+<head>
+<title>Psalmien 9	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 9	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, kauniista nuoruudesta, edellaveisaajalle. (H 9:2) Mina kiitan Herraa kaikesta sydamestani, ja luettelen kaikki sinun ihmees.	
 

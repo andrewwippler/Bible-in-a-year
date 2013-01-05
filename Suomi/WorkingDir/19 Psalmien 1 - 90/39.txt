@@ -1,4 +1,8 @@
-Psalmien 39	
+<html>
+<head>
+<title>Psalmien 39	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 39	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, Jedutunilta, edellaveisaajalle. (H39:2) Mina olen sanonut: mina tahdon pitaa vaarin teistani, etten mina tekisi syntia kielellani: mina hallitsen suuni niinkuin suitsilla, niin kauvan kuin mina naen jumalattoman edessani.	
 

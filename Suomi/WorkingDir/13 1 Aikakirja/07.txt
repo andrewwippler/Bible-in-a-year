@@ -1,4 +1,8 @@
-1 Aikakirja 7	
+<html>
+<head>
+<title>1 Aikakirja 7	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 7	</div>
 	
 <div class="versenum">1.</div> Isaskarin lapset: Tola, Pua, Jasub ja Simron, nelja.	
 

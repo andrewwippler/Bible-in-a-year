@@ -1,4 +1,8 @@
-Apostolien 2	
+<html>
+<head>
+<title>Apostolien 2	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 2	</div>
 	
 <div class="versenum">1.</div> Ja kuin viideskymmenes paiva taytettiin, olivat he kaikki yksimielisesti koossa.	
 

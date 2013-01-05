@@ -1,4 +1,8 @@
-Hesekielin 42	
+<html>
+<head>
+<title>Hesekielin 42	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 42	</div>
 	
 <div class="versenum">1.</div> Ja han vei minun ulos aarimaiseen kartanoon, tielle pohjoista pain, ja vei minun siihen kammioon, joka oli eripaikan kohdalla, joka oli rakennuksen tykona pohjoista pain.	
 

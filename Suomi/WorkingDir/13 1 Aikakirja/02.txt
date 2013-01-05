@@ -1,4 +1,8 @@
-1 Aikakirja 2	
+<html>
+<head>
+<title>1 Aikakirja 2	</title>
+</head>
+<body><div class="chaptertitle">1 Aikakirja 2	</div>
 	
 <div class="versenum">1.</div> Namat ovat Israelin lapset: Ruben, Simeon, Levi ja Juuda, Isaskar ja Sebulon,	
 

@@ -1,4 +1,8 @@
-Esterin 8	
+<html>
+<head>
+<title>Esterin 8	</title>
+</head>
+<body><div class="chaptertitle">Esterin 8	</div>
 	
 <div class="versenum">1.</div> Sina paivana antoi kuningas Ahasverus kuningatar Esterille Hamanin Juudalaisten vihollisen huoneen. Ja Mordekai tuli kuninkaan eteen; silla Ester ilmoitti, mika han hanelle oli.	
 

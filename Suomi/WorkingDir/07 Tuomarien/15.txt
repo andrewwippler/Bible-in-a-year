@@ -1,4 +1,8 @@
-Tuomarien 15	
+<html>
+<head>
+<title>Tuomarien 15	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 15	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui muutamain paivain perasta, kuin nisun elonaika lahestyi, tuli Simson oppimaan emantaansa ja toi hanelle vohlan, ja han sanoi: mina menen emantani tyko makaushuoneesen; ja hanen emantansa isa ei sallinut hanen sinne menna,	
 

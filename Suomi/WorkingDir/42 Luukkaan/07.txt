@@ -1,4 +1,8 @@
-Luukkaan 7	
+<html>
+<head>
+<title>Luukkaan 7	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 7	</div>
 	
 <div class="versenum">1.</div> Mutta kuin han kansan kuullen oli paattanyt kaikki sanansa, meni han Kapernaumiin.	
 

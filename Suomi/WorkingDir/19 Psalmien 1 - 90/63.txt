@@ -1,4 +1,8 @@
-Psalmien 63	
+<html>
+<head>
+<title>Psalmien 63	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 63	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi, kuin han oli Juudan korvessa. (H63:2) Jumala, sina olet minun Jumalani! Varhain mina sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetoin on.	
 

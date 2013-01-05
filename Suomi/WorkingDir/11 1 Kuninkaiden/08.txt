@@ -1,4 +1,8 @@
-1 Kuninkaiden 8	
+<html>
+<head>
+<title>1 Kuninkaiden 8	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 8	</div>
 	
 <div class="versenum">1.</div> Silloin kokosi Salomo Israelin vanhimmat, kaikki sukukuntain ylimmaiset ja isain paamiehet Israelin lasten seasta kuningas Salomon tyko Jerusalemiin, viemaan Herran liitonarkkia Davidin kaupungista, se on Zion.	
 

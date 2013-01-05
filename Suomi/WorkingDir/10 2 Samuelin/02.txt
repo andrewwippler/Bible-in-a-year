@@ -1,4 +1,8 @@
-2 Samuelin 2	
+<html>
+<head>
+<title>2 Samuelin 2	</title>
+</head>
+<body><div class="chaptertitle">2 Samuelin 2	</div>
 	
 <div class="versenum">1.</div> Sittenkuin nama olivat tapahtuneet, kysyi David Herralta, sanoen: menenko mina johonkuhun Juudan kaupungeista? Ja Herra sanoi hanelle: mene. David sanoi: kuhunka minun pitaa meneman? Han sanoi: Hebroniin.	
 

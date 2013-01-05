@@ -1,4 +1,8 @@
-5 Mooseksen 1	
+<html>
+<head>
+<title>5 Mooseksen 1	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 1	</div>
 	
 <div class="versenum">1.</div> Namat ovat ne sanat, mitka Moses puhui koko Israelille, talla puolella Jordania korvessa, silla kedolla Punaisen meren kohdalla, Paranin,ja Tophelin, ja Labanin, ja Hatserotin ja Disahabin vaiheella,	
 

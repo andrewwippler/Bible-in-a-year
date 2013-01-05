@@ -1,4 +1,8 @@
-Tuomarien 9	
+<html>
+<head>
+<title>Tuomarien 9	</title>
+</head>
+<body><div class="chaptertitle">Tuomarien 9	</div>
 	
 <div class="versenum">1.</div> Mutta Abimelek, JerubBaalin poika, meni Sikemiin aitinsa veljein tyko, puhui heille ja koko aitinsa isan huoneen sukukunnalle ja sanoi:	
 

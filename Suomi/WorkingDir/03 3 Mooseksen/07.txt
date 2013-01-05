@@ -1,4 +1,8 @@
-3 Mooseksen 7	
+<html>
+<head>
+<title>3 Mooseksen 7	</title>
+</head>
+<body><div class="chaptertitle">3 Mooseksen 7	</div>
 	
 <div class="versenum">1.</div> Ja tama on vikauhrin saaty: se on kaikkein pyhin.	
 

@@ -1,4 +1,8 @@
-Matteuksen 13	
+<html>
+<head>
+<title>Matteuksen 13	</title>
+</head>
+<body><div class="chaptertitle">Matteuksen 13	</div>
 	
 <div class="versenum">1.</div> Mutta sina paivana laksi Jesus huoneesta ja istui meren tykona.	
 

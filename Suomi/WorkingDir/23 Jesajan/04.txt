@@ -1,4 +1,8 @@
-Jesajan 4	
+<html>
+<head>
+<title>Jesajan 4	</title>
+</head>
+<body><div class="chaptertitle">Jesajan 4	</div>
 	
 <div class="versenum">1.</div> Ja seitseman vaimoa tarttuvat silloin yhteen mieheen, ja sanovat: me tahdomme itseamme elattaa ja vaatettaa; anna meita ainoastaan sinun nimellas nimitettaa, etta havaistyksemme otettaisiin meilta pois.	
 

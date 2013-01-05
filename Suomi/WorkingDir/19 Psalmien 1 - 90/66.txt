@@ -1,4 +1,8 @@
-Psalmien 66	
+<html>
+<head>
+<title>Psalmien 66	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 66	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. Ihastukaa Jumalalle, kaikki maa.	
 

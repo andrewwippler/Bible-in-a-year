@@ -1,4 +1,8 @@
-5 Mooseksen 26	
+<html>
+<head>
+<title>5 Mooseksen 26	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 26	</div>
 	
 <div class="versenum">1.</div> Kuin tulet siihen maahan jonka Herra sinun Jumalas sinulle perinnoksi antaa, ja sina sen omistat, ja asut siina,	
 

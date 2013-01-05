@@ -1,4 +1,8 @@
-Sananlaskujen 7	
+<html>
+<head>
+<title>Sananlaskujen 7	</title>
+</head>
+<body><div class="chaptertitle">Sananlaskujen 7	</div>
 	
 <div class="versenum">1.</div> Poikani! katke minun sanani, ja pida tykonas minun kaskyni.	
 

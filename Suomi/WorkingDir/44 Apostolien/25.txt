@@ -1,4 +1,8 @@
-Apostolien 25	
+<html>
+<head>
+<title>Apostolien 25	</title>
+</head>
+<body><div class="chaptertitle">Apostolien 25	</div>
 	
 <div class="versenum">1.</div> Kuin siis Festus oli tullut maakuntaan, meni han Kesareasta kolmannen paivan perasta ylos Jerusalemiin.	
 

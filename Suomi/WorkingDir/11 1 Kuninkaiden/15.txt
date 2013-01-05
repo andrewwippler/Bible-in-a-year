@@ -1,4 +1,8 @@
-1 Kuninkaiden 15	
+<html>
+<head>
+<title>1 Kuninkaiden 15	</title>
+</head>
+<body><div class="chaptertitle">1 Kuninkaiden 15	</div>
 	
 <div class="versenum">1.</div> Niin oli kuningas Jerobeamin Nebatin pojan kahdeksantena vuotena toistakymmenta Abiam kuningas Juudassa,	
 

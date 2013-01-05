@@ -1,4 +1,8 @@
-Psalmien 127	
+<html>
+<head>
+<title>Psalmien 127	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 127	</div>
 	
 <div class="versenum">1.</div> Salomon veisu korkeimmassa Kuorissa. Jos ei Herra huonetta rakenna, niin hukkaan tyota tekevat, jotka sita rakentavat: jos ei Herra kaupunkia varjele, niin vartiat hukkaan valvovat.	
 

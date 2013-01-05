@@ -1,4 +1,8 @@
-Danielin 9	
+<html>
+<head>
+<title>Danielin 9	</title>
+</head>
+<body><div class="chaptertitle">Danielin 9	</div>
 	
 <div class="versenum">1.</div> Ensimaisena Dariuksen Ahasveruksen pojan vuonna Medilaisten suvusta, joka Kaldean valtakuntaa hallitsi.	
 

@@ -1,4 +1,8 @@
-Heprealaisille 4	
+<html>
+<head>
+<title>Heprealaisille 4	</title>
+</head>
+<body><div class="chaptertitle">Heprealaisille 4	</div>
 	
 <div class="versenum">1.</div> Niin peljatkaamme siis, ettemme joskus hanen lepoonsa tulemisen lupausta hylkaisi, ja ettei kenkaan meista takaperin jaisi;	
 

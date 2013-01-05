@@ -1,4 +1,8 @@
-Ruutin 3	
+<html>
+<head>
+<title>Ruutin 3	</title>
+</head>
+<body><div class="chaptertitle">Ruutin 3	</div>
 	
 <div class="versenum">1.</div> Ja Noomi hanen anoppinsa sanoi hanelle: minun tyttareni, mina tahdon saattaa sinulle levon, etta sinulle hyvin kavis.	
 

@@ -1,4 +1,8 @@
-Psalmien 44	
+<html>
+<head>
+<title>Psalmien 44	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 44	</div>
 	
 <div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H44:2) Jumala! me olemme korvillamme kuulleet, meidan isamme ovat meille luetelleet, mitas heidan aikanansa ja muinen tehnyt olet.	
 

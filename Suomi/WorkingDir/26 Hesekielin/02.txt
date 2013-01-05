@@ -1,4 +1,8 @@
-Hesekielin 2	
+<html>
+<head>
+<title>Hesekielin 2	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 2	</div>
 	
 <div class="versenum">1.</div> Ja han sanoi minulle: sina ihmisen lapsi, seiso jaloillas, niin mina tahdon puhua sinun kanssas.	
 

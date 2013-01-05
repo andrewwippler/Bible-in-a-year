@@ -1,4 +1,8 @@
-Joelin 1	
+<html>
+<head>
+<title>Joelin 1	</title>
+</head>
+<body><div class="chaptertitle">Joelin 1	</div>
 	
 <div class="versenum">1.</div> Tama on Herran sana, joka tapahtui Joelille Petuelin pojalle.	
 

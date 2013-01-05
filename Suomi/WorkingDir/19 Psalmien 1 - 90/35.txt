@@ -1,4 +1,8 @@
-Psalmien 35	
+<html>
+<head>
+<title>Psalmien 35	</title>
+</head>
+<body><div class="chaptertitle">Psalmien 35	</div>
 	
 <div class="versenum">1.</div> Davidin Psalmi. Riitele, Herra, riitaveljeini kanssa: sodi vihollisiani vastaan.	
 

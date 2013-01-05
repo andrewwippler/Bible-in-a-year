@@ -1,4 +1,8 @@
-Juudaksen 1	
+<html>
+<head>
+<title>Juudaksen 1	</title>
+</head>
+<body><div class="chaptertitle">Juudaksen 1	</div>
 	
 <div class="versenum">1.</div> Juudas, Jesuksen Kristuksen palvelia, mutta Jakobin veli, niille kutsutuille, jotka Isassa Jumalassa pyhitetyt ovat ja Jesuksessa Kristuksessa vapahdetut:	
 

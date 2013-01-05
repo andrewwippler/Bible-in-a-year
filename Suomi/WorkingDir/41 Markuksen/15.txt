@@ -1,4 +1,8 @@
-Markuksen 15	
+<html>
+<head>
+<title>Markuksen 15	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 15	</div>
 	
 <div class="versenum">1.</div> Ja kohta aamulla varhain pitivat ylimmaiset papit neuvoa vanhimpain ja kirjanoppineitten kanssa ja kaikki raati, ja veivat pois Jesuksen sidottuna ja antoivat ylon Pilatukselle.	
 

@@ -1,4 +1,8 @@
-Galatalaisille 6	
+<html>
+<head>
+<title>Galatalaisille 6	</title>
+</head>
+<body><div class="chaptertitle">Galatalaisille 6	</div>
 	
 <div class="versenum">1.</div> Rakkaat veljet! jos ihminen osaa johonkuhun vikaan tulla, niin te, jotka hengelliset olette, ojentakaat senkaltaista siveyden hengessa: ja katso itsias, ettes sina myos kiusattaisi.	
 

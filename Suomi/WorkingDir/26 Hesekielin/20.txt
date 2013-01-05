@@ -1,4 +1,8 @@
-Hesekielin 20	
+<html>
+<head>
+<title>Hesekielin 20	</title>
+</head>
+<body><div class="chaptertitle">Hesekielin 20	</div>
 	
 <div class="versenum">1.</div> Ja tapahtui seitsemantena vuotena, kymmenentena paivana viidennessa kuukaudessa, etta muutamia Israelin vanhimmista tuli kysymaan Herralta; ja he istuivat minun eteeni.	
 

@@ -1,4 +1,8 @@
-2 Mooseksen 6	
+<html>
+<head>
+<title>2 Mooseksen 6	</title>
+</head>
+<body><div class="chaptertitle">2 Mooseksen 6	</div>
 	
 <div class="versenum">1.</div> Niin sanoi myos Herra Mosekselle: nyt pitaa sinun nakeman, mita mina Pharaolle teen; silla hanen pitaa heita paastaman vakevan kaden kautta, ja hanen myos pitaa vakevan kaden kautta heita ajaman ulos maaltansa.	
 

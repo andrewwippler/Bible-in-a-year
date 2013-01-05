@@ -1,4 +1,8 @@
-Miikan 4	
+<html>
+<head>
+<title>Miikan 4	</title>
+</head>
+<body><div class="chaptertitle">Miikan 4	</div>
 	
 <div class="versenum">1.</div> Mutta viimeisina paivina pitaa sen vuoren, jolla Herran huone on, vahvistuman, ja oleman korkeimman kaikkia muita vuoria, ja korotettaman kukkulain ylitse; ja kansat pitaa sinne juokseman.	
 

@@ -1,4 +1,8 @@
-5 Mooseksen 24	
+<html>
+<head>
+<title>5 Mooseksen 24	</title>
+</head>
+<body><div class="chaptertitle">5 Mooseksen 24	</div>
 	
 <div class="versenum">1.</div> Jos joku ottaa vaimon avioksensa, ja tapahtuu, ettei han sitte loyda armoa hanen silmainsa edessa, etta on loytanyt jonkun hapian hanessa; niin kirjoittaa han hanelle erokirjan, ja antaa sen hanen kateensa, ja antaa hanen menna huoneestansa pois.	
 

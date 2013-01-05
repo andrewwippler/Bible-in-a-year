@@ -1,4 +1,8 @@
-1 Mooseksen 28	
+<html>
+<head>
+<title>1 Mooseksen 28	</title>
+</head>
+<body><div class="chaptertitle">1 Mooseksen 28	</div>
 	
 <div class="versenum">1.</div> Niin Isaak kutsui poikansa Jakobin ja siunasi hanta, kaski ja sanoi hanelle: ala ota emantaa Kanaanin tyttarista.	
 

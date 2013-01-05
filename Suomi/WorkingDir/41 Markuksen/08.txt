@@ -1,4 +1,8 @@
-Markuksen 8	
+<html>
+<head>
+<title>Markuksen 8	</title>
+</head>
+<body><div class="chaptertitle">Markuksen 8	</div>
 	
 <div class="versenum">1.</div> Niina paivina, koska sangen paljo kansaa oli, eika ollut heilla mitaan syomista, kutsui Jesus opetuslapsensa tykonsa ja sanoi heille:	
 

@@ -1,4 +1,8 @@
-Luukkaan 10	
+<html>
+<head>
+<title>Luukkaan 10	</title>
+</head>
+<body><div class="chaptertitle">Luukkaan 10	</div>
 	
 <div class="versenum">1.</div> Niin asetti Herra toiset seitsemankymmenta, ja lahetti heita kaksin ja kaksin edellansa joka kaupunkiin ja paikkaan, kuhunka han itse oli tuleva.	
 
