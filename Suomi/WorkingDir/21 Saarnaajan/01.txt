@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Saarnaajan 1	</div>
 	
-<div class="versenum">1.</div> Saarnaajan sanat, Daavidin pojan, joka oli kuninkaana Jerusalemissa.	
+<div class="theverse"><div class="versenum">1.</div> Saarnaajan sanat, Daavidin pojan, joka oli kuninkaana Jerusalemissa.	</div>
 
-<div class="versenum">2.</div> Turhuuksien turhuus, sanoi saarnaaja, turhuuksien turhuus; kaikki on turhuutta!	
+<div class="theverse"><div class="versenum">2.</div> Turhuuksien turhuus, sanoi saarnaaja, turhuuksien turhuus; kaikki on turhuutta!	</div>
 
-<div class="versenum">3.</div> Mita hyotya on ihmiselle kaikesta vaivannaostansa, jolla han vaivaa itseansa auringon alla?	
+<div class="theverse"><div class="versenum">3.</div> Mita hyotya on ihmiselle kaikesta vaivannaostansa, jolla han vaivaa itseansa auringon alla?	</div>
 
-<div class="versenum">4.</div> Sukupolvi menee, ja sukupolvi tulee, mutta maa pysyy iati.	
+<div class="theverse"><div class="versenum">4.</div> Sukupolvi menee, ja sukupolvi tulee, mutta maa pysyy iati.	</div>
 
-<div class="versenum">5.</div> Ja aurinko nousee, ja aurinko laskee ja kiiruhtaa sille sijallensa, josta se jalleen nousee.	
+<div class="theverse"><div class="versenum">5.</div> Ja aurinko nousee, ja aurinko laskee ja kiiruhtaa sille sijallensa, josta se jalleen nousee.	</div>
 
-<div class="versenum">6.</div> Tuuli menee etelaan ja kiertaa pohjoiseen, kiertaa yha kiertamistaan, ja samalle kierrollensa tuuli palajaa.	
+<div class="theverse"><div class="versenum">6.</div> Tuuli menee etelaan ja kiertaa pohjoiseen, kiertaa yha kiertamistaan, ja samalle kierrollensa tuuli palajaa.	</div>
 
-<div class="versenum">7.</div> Kaikki joet laskevat mereen, mutta meri ei siitansa tayty; samaan paikkaan, johon joet ovat laskeneet, ne aina edelleen laskevat.	
+<div class="theverse"><div class="versenum">7.</div> Kaikki joet laskevat mereen, mutta meri ei siitansa tayty; samaan paikkaan, johon joet ovat laskeneet, ne aina edelleen laskevat.	</div>
 
-<div class="versenum">8.</div> Kaikki tyynni itseansa vasyttaa, niin ettei kukaan sita sanoa saata. Ei saa silma kyllaansa nakemisesta eika korva tayttansa kuulemisesta.	
+<div class="theverse"><div class="versenum">8.</div> Kaikki tyynni itseansa vasyttaa, niin ettei kukaan sita sanoa saata. Ei saa silma kyllaansa nakemisesta eika korva tayttansa kuulemisesta.	</div>
 
-<div class="versenum">9.</div> Mita on ollut, sita vastakin on; ja mita on tapahtunut, sita vastakin tapahtuu. Ei ole mitaan uutta auringon alla.	
+<div class="theverse"><div class="versenum">9.</div> Mita on ollut, sita vastakin on; ja mita on tapahtunut, sita vastakin tapahtuu. Ei ole mitaan uutta auringon alla.	</div>
 
-<div class="versenum">10.</div> Jos jotakin on, josta sanotaan: "Katso, tama on uutta", niin on sita kuitenkin ollut jo ennen, ammoisina aikoina, jotka ovat olleet ennen meita.	
+<div class="theverse"><div class="versenum">10.</div> Jos jotakin on, josta sanotaan: "Katso, tama on uutta", niin on sita kuitenkin ollut jo ennen, ammoisina aikoina, jotka ovat olleet ennen meita.	</div>
 
-<div class="versenum">11.</div> Ei jaa muistoa esi-isista; eika jalkelaisistakaan, jotka tulevat, jaa muistoa niille, jotka heidan jalkeensa tulevat.	
+<div class="theverse"><div class="versenum">11.</div> Ei jaa muistoa esi-isista; eika jalkelaisistakaan, jotka tulevat, jaa muistoa niille, jotka heidan jalkeensa tulevat.	</div>
 
-<div class="versenum">12.</div> Mina, saarnaaja, olin Israelin kuningas Jerusalemissa.	
+<div class="theverse"><div class="versenum">12.</div> Mina, saarnaaja, olin Israelin kuningas Jerusalemissa.	</div>
 
-<div class="versenum">13.</div> Ja mina kaansin sydameni viisaudella tutkimaan ja miettimaan kaikkea, mita auringon alla tapahtuu. Tama on vaikea tyo, jonka Jumala on antanut ihmislapsille, heidan silla itseaan rasittaaksensa.	
+<div class="theverse"><div class="versenum">13.</div> Ja mina kaansin sydameni viisaudella tutkimaan ja miettimaan kaikkea, mita auringon alla tapahtuu. Tama on vaikea tyo, jonka Jumala on antanut ihmislapsille, heidan silla itseaan rasittaaksensa.	</div>
 
-<div class="versenum">14.</div> Mina katselin kaikkia tekoja, mita tehdaan auringon alla, ja katso, se on kaikki turhuutta ja tuulen tavoittelua.	
+<div class="theverse"><div class="versenum">14.</div> Mina katselin kaikkia tekoja, mita tehdaan auringon alla, ja katso, se on kaikki turhuutta ja tuulen tavoittelua.	</div>
 
-<div class="versenum">15.</div> Vaara ei voi suoristua, eika vajaata voi taydeksi laskea.	
+<div class="theverse"><div class="versenum">15.</div> Vaara ei voi suoristua, eika vajaata voi taydeksi laskea.	</div>
 
-<div class="versenum">16.</div> Mina puhuin sydamessani nain: Mina olen hankkinut suuren viisauden ja sita yha lisannyt, jopa yli kaikkien, jotka ovat ennen minua Jerusalemissa hallinneet, ja paljon on sydameni nahnyt viisautta ja tietoa.	
+<div class="theverse"><div class="versenum">16.</div> Mina puhuin sydamessani nain: Mina olen hankkinut suuren viisauden ja sita yha lisannyt, jopa yli kaikkien, jotka ovat ennen minua Jerusalemissa hallinneet, ja paljon on sydameni nahnyt viisautta ja tietoa.	</div>
 
-<div class="versenum">17.</div> Ja mina kaansin sydameni tutkimaan viisautta ja tietoa, mielettomyytta ja tyhmyytta, ja mina tulin tietamaan, etta sekin oli tuulen tavoittelemista.	
+<div class="theverse"><div class="versenum">17.</div> Ja mina kaansin sydameni tutkimaan viisautta ja tietoa, mielettomyytta ja tyhmyytta, ja mina tulin tietamaan, etta sekin oli tuulen tavoittelemista.	</div>
 
-<div class="versenum">18.</div> Silla missa on paljon viisautta, siina on paljon surua; ja joka tietoa lisaa, se tuskaa lisaa.	
+<div class="theverse"><div class="versenum">18.</div> Silla missa on paljon viisautta, siina on paljon surua; ja joka tietoa lisaa, se tuskaa lisaa.	</div>
 </body>
 </html>

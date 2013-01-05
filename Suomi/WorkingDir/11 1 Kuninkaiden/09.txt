@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 9	</div>
 	
-<div class="versenum">1.</div> Ja kuin Salomo oli rakentanut Herran huoneen ja kuninkaan huoneen, ja kaikki mita hanen sydamensa anoi ja halusi tehdaksensa,	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin Salomo oli rakentanut Herran huoneen ja kuninkaan huoneen, ja kaikki mita hanen sydamensa anoi ja halusi tehdaksensa,	</div>
 
-<div class="versenum">2.</div> Ilmaantui Herra Salomolle toisen kerran, niinkuin han oli hanelle ilmaantunut Gibeonissa.	
+<div class="theverse"><div class="versenum">2.</div> Ilmaantui Herra Salomolle toisen kerran, niinkuin han oli hanelle ilmaantunut Gibeonissa.	</div>
 
-<div class="versenum">3.</div> Ja Herra sanoi hanelle: Mina olen kuullut sinun rukoukses ja anomises, joita olet minun edessani anonut, ja olen pyhittanyt taman huoneen, jonkas rakentanut olet, pannakseni siihen minun nimeni ijankaikkisesti, ja minun silmani ja sydameni ovat alati siina.	
+<div class="theverse"><div class="versenum">3.</div> Ja Herra sanoi hanelle: Mina olen kuullut sinun rukoukses ja anomises, joita olet minun edessani anonut, ja olen pyhittanyt taman huoneen, jonkas rakentanut olet, pannakseni siihen minun nimeni ijankaikkisesti, ja minun silmani ja sydameni ovat alati siina.	</div>
 
-<div class="versenum">4.</div> Ja jos sina vallat minun edessani, niinkuin sinun isas David vaeltanut on, sydamen yksinkertaisuudessa ja vakuudessa, niin ettas teet kaikki, mita mina sinulle kaskenyt olen, ja pidat minun saatyni ja oikeuteni;	
+<div class="theverse"><div class="versenum">4.</div> Ja jos sina vallat minun edessani, niinkuin sinun isas David vaeltanut on, sydamen yksinkertaisuudessa ja vakuudessa, niin ettas teet kaikki, mita mina sinulle kaskenyt olen, ja pidat minun saatyni ja oikeuteni;	</div>
 
-<div class="versenum">5.</div> Niin mina vahvistan sinun valtakuntas istuimen Israelin ylitse ijankaikkisesti, niinkuin mina sinun isas Davidin kanssa puhunut olen, sanoen: ei sinulta pida otettaman pois mies Israelin istuimelta.	
+<div class="theverse"><div class="versenum">5.</div> Niin mina vahvistan sinun valtakuntas istuimen Israelin ylitse ijankaikkisesti, niinkuin mina sinun isas Davidin kanssa puhunut olen, sanoen: ei sinulta pida otettaman pois mies Israelin istuimelta.	</div>
 
-<div class="versenum">6.</div> Mutta jos te kaannatte teitanne perati pois minusta, te ja teidan lapsenne, ja ette pida minun kaskyjani ja saatyjani, jotka mina olen pannut teidan eteenne, ja menette ja palvelette vieraita jumalia ja rukoilette niita;	
+<div class="theverse"><div class="versenum">6.</div> Mutta jos te kaannatte teitanne perati pois minusta, te ja teidan lapsenne, ja ette pida minun kaskyjani ja saatyjani, jotka mina olen pannut teidan eteenne, ja menette ja palvelette vieraita jumalia ja rukoilette niita;	</div>
 
-<div class="versenum">7.</div> Niin mina havitan Israelin siita maasta, jonka mina heille antanut olen: ja huoneen, jonka mina nimelleni pyhittanyt olen, heitan mina minun kasvoni edesta pois. Ja Israel pitaa oleman sananlaskuksi ja jutuksi kaikissa kansoissa.	
+<div class="theverse"><div class="versenum">7.</div> Niin mina havitan Israelin siita maasta, jonka mina heille antanut olen: ja huoneen, jonka mina nimelleni pyhittanyt olen, heitan mina minun kasvoni edesta pois. Ja Israel pitaa oleman sananlaskuksi ja jutuksi kaikissa kansoissa.	</div>
 
-<div class="versenum">8.</div> Ja vaikka tama huone on kaikkein korkein, niin kuitenkin kaikkein, jotka siita kayvat ohitse, pitaa hammastyman ja viheltaman, sanoen: miksi Herra nain teki talle maalle ja talle huoneelle?	
+<div class="theverse"><div class="versenum">8.</div> Ja vaikka tama huone on kaikkein korkein, niin kuitenkin kaikkein, jotka siita kayvat ohitse, pitaa hammastyman ja viheltaman, sanoen: miksi Herra nain teki talle maalle ja talle huoneelle?	</div>
 
-<div class="versenum">9.</div> Silloin vastataan: etta he Herran Jumalansa hylkasivat, joka heidan isansa Egyptin maalta johdatti ulos, ja seurasivat muita jumalia ja kumarsivat niita ja palvelivat niita; sentahden on Herra kaiken taman pahan antanut tulla heidan paallensa.	
+<div class="theverse"><div class="versenum">9.</div> Silloin vastataan: etta he Herran Jumalansa hylkasivat, joka heidan isansa Egyptin maalta johdatti ulos, ja seurasivat muita jumalia ja kumarsivat niita ja palvelivat niita; sentahden on Herra kaiken taman pahan antanut tulla heidan paallensa.	</div>
 
-<div class="versenum">10.</div> Kuin kaksikymmenta ajastaikaa kulunut oli, joina Salomo ne kaksi huonetta rakensi, Herran huoneen ja kuninkaan huoneen,	
+<div class="theverse"><div class="versenum">10.</div> Kuin kaksikymmenta ajastaikaa kulunut oli, joina Salomo ne kaksi huonetta rakensi, Herran huoneen ja kuninkaan huoneen,	</div>
 
-<div class="versenum">11.</div> Joihin Hiram Tyron kuningas antoi Salomolle sedripuita, honkia ja kultaa, kaiken hanen tahtonsa jalkeen; niin kuningas Salomo antoi Hiramille kaksikymmenta kaupunkia Galilean maassa.	
+<div class="theverse"><div class="versenum">11.</div> Joihin Hiram Tyron kuningas antoi Salomolle sedripuita, honkia ja kultaa, kaiken hanen tahtonsa jalkeen; niin kuningas Salomo antoi Hiramille kaksikymmenta kaupunkia Galilean maassa.	</div>
 
-<div class="versenum">12.</div> Ja Hiram matkusti Tyrosta katsomaan kaupungeita, jotka Salomo hanelle antanut oli; ja ei ne hanelle kelvanneet.	
+<div class="theverse"><div class="versenum">12.</div> Ja Hiram matkusti Tyrosta katsomaan kaupungeita, jotka Salomo hanelle antanut oli; ja ei ne hanelle kelvanneet.	</div>
 
-<div class="versenum">13.</div> Ja sanoi: mitka nama kaupungit ovat, minun veljeni, jotkas minulle antanut olet? Ja han kutsui ne Kabulin maaksi tahan paivaan asti.	
+<div class="theverse"><div class="versenum">13.</div> Ja sanoi: mitka nama kaupungit ovat, minun veljeni, jotkas minulle antanut olet? Ja han kutsui ne Kabulin maaksi tahan paivaan asti.	</div>
 
-<div class="versenum">14.</div> Ja Hiram oli lahettanyt kuninkaalle sata ja kaksikymmenta sentneria kultaa.	
+<div class="theverse"><div class="versenum">14.</div> Ja Hiram oli lahettanyt kuninkaalle sata ja kaksikymmenta sentneria kultaa.	</div>
 
-<div class="versenum">15.</div> Ja tama on luku verosta, jonka kuningas Salomo kantoi rakentaaksensa Herran huonetta, ja omaa huonettansa, ja Milloa, ja Jerusalemin muuria, ja Hatsoria, ja Megiddoa ja Gaseria.	
+<div class="theverse"><div class="versenum">15.</div> Ja tama on luku verosta, jonka kuningas Salomo kantoi rakentaaksensa Herran huonetta, ja omaa huonettansa, ja Milloa, ja Jerusalemin muuria, ja Hatsoria, ja Megiddoa ja Gaseria.	</div>
 
-<div class="versenum">16.</div> Silla Pharao Egyptin kuningas oli mennyt ja voittanut Gaserin, ja polttanut sen tulella, ja lyonyt Kanaanealaiset kuoliaaksi, jotka kaupungissa asuivat, ja oli antanut sen tyttarellensa Salomon emannalle lahjaksi.	
+<div class="theverse"><div class="versenum">16.</div> Silla Pharao Egyptin kuningas oli mennyt ja voittanut Gaserin, ja polttanut sen tulella, ja lyonyt Kanaanealaiset kuoliaaksi, jotka kaupungissa asuivat, ja oli antanut sen tyttarellensa Salomon emannalle lahjaksi.	</div>
 
-<div class="versenum">17.</div> Niin Salomo rakensi Gaserin ja alamaisen BetHoronin,	
+<div class="theverse"><div class="versenum">17.</div> Niin Salomo rakensi Gaserin ja alamaisen BetHoronin,	</div>
 
-<div class="versenum">18.</div> Ja Baalatin ja Tadmorin, korvessa maalla,	
+<div class="theverse"><div class="versenum">18.</div> Ja Baalatin ja Tadmorin, korvessa maalla,	</div>
 
-<div class="versenum">19.</div> Ja kaikki tavarakaupungit, jotka Salomolla olivat, ja kaikki vaunukaupungit, ja ratsasmiesten kaupungit, ja mita Salomo halusi ja tahtoi rakentaa Jerusalemissa ja Libanonissa, ja koko maassa, joka hanen vallassansa oli.	
+<div class="theverse"><div class="versenum">19.</div> Ja kaikki tavarakaupungit, jotka Salomolla olivat, ja kaikki vaunukaupungit, ja ratsasmiesten kaupungit, ja mita Salomo halusi ja tahtoi rakentaa Jerusalemissa ja Libanonissa, ja koko maassa, joka hanen vallassansa oli.	</div>
 
-<div class="versenum">20.</div> Kaiken jaaneen kansan Amorealaisista, Hetilaisista, Pheresilaisista, Hevilaisista ja Jebusilaisista, jotka ei olleet Israelin lapsia:	
+<div class="theverse"><div class="versenum">20.</div> Kaiken jaaneen kansan Amorealaisista, Hetilaisista, Pheresilaisista, Hevilaisista ja Jebusilaisista, jotka ei olleet Israelin lapsia:	</div>
 
-<div class="versenum">21.</div> Heidan lapsensa, jotka he jattivat heistansa maahan, joita Israelin lapset ei taitaneet havittaa; ne teki Salomo verolliseksi tahan paivaan asti.	
+<div class="theverse"><div class="versenum">21.</div> Heidan lapsensa, jotka he jattivat heistansa maahan, joita Israelin lapset ei taitaneet havittaa; ne teki Salomo verolliseksi tahan paivaan asti.	</div>
 
-<div class="versenum">22.</div> Mutta Israelin lapsista ei Salomo tehnyt yhtaan orjaksi; vaan ne olivat sotamiehet, ja hanen palveliansa, ja paamiehensa, ja esimiehensa, ja hanen vaunuinsa ja ratsasmiestensa paamiehet.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Israelin lapsista ei Salomo tehnyt yhtaan orjaksi; vaan ne olivat sotamiehet, ja hanen palveliansa, ja paamiehensa, ja esimiehensa, ja hanen vaunuinsa ja ratsasmiestensa paamiehet.	</div>
 
-<div class="versenum">23.</div> Ja virkamiesten paamiehia, jotka olivat Salomon tyon paalla, oli viisisataa ja viisikymmenta, jotka kansaa hallitsivat ja tyon toimittivat.	
+<div class="theverse"><div class="versenum">23.</div> Ja virkamiesten paamiehia, jotka olivat Salomon tyon paalla, oli viisisataa ja viisikymmenta, jotka kansaa hallitsivat ja tyon toimittivat.	</div>
 
-<div class="versenum">24.</div> Mutta Pharaon tytar meni ylos Davidin kaupungista omaan huoneesensa, jonka (Salomo) hanelle rakentanut oli. Silloin rakensi han myos Millon.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Pharaon tytar meni ylos Davidin kaupungista omaan huoneesensa, jonka (Salomo) hanelle rakentanut oli. Silloin rakensi han myos Millon.	</div>
 
-<div class="versenum">25.</div> Ja Salomo uhrasi kolmasti vuodessa polttouhria ja kiitosuhria alttarilla, jonka han Herralle rakentanut oli, ja suitsutti sen paalla Herran edessa; ja niin huone paatettiin.	
+<div class="theverse"><div class="versenum">25.</div> Ja Salomo uhrasi kolmasti vuodessa polttouhria ja kiitosuhria alttarilla, jonka han Herralle rakentanut oli, ja suitsutti sen paalla Herran edessa; ja niin huone paatettiin.	</div>
 
-<div class="versenum">26.</div> Ja kuningas Salomo teki myos laivan EtseonGeberissa, joka liki Elotia on, Punaisen meren reunan tykona Edomilaisten maalla.	
+<div class="theverse"><div class="versenum">26.</div> Ja kuningas Salomo teki myos laivan EtseonGeberissa, joka liki Elotia on, Punaisen meren reunan tykona Edomilaisten maalla.	</div>
 
-<div class="versenum">27.</div> Ja Hiram lahetti palveliansa laivaan, jotka olivat jalot haaksimiehet ja mereen hyvin harjaantuneet, Salomon palveliain kanssa;	
+<div class="theverse"><div class="versenum">27.</div> Ja Hiram lahetti palveliansa laivaan, jotka olivat jalot haaksimiehet ja mereen hyvin harjaantuneet, Salomon palveliain kanssa;	</div>
 
-<div class="versenum">28.</div> Ja he tulivat Ophiriin ja veivat sielta neljasataa ja kaksikymmenta leiviskaa kultaa; ja he veivat sen kuningas Salomolle.	
+<div class="theverse"><div class="versenum">28.</div> Ja he tulivat Ophiriin ja veivat sielta neljasataa ja kaksikymmenta leiviskaa kultaa; ja he veivat sen kuningas Salomolle.	</div>
 </body>
 </html>

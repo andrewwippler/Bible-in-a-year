@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 28	</div>
 	
-<div class="versenum">1.</div> Ja Philistealaiset kokosivat siihen aikaan sotavakensa menemaan sotaan Israelia vastaan. Ja Akis sanoi Davidille: Sinun pitaa kaiketi tietaman, etta sina ja sinun vakes pitaa meneman minun kanssani sotaan.	
+<div class="theverse"><div class="versenum">1.</div> Ja Philistealaiset kokosivat siihen aikaan sotavakensa menemaan sotaan Israelia vastaan. Ja Akis sanoi Davidille: Sinun pitaa kaiketi tietaman, etta sina ja sinun vakes pitaa meneman minun kanssani sotaan.	</div>
 
-<div class="versenum">2.</div> David vastasi Akikselle: olkoon; sina saat nahda, mita sinun palvelias on tekeva. Akis sanoi Davidille: sentahden asetan mina sinun paani vartiaksi joka paiva.	
+<div class="theverse"><div class="versenum">2.</div> David vastasi Akikselle: olkoon; sina saat nahda, mita sinun palvelias on tekeva. Akis sanoi Davidille: sentahden asetan mina sinun paani vartiaksi joka paiva.	</div>
 
-<div class="versenum">3.</div> Niin oli Samuel kuollut, ja koko Israel oli hanta murehtinut ja haudannut hanen kaupunkiinsa Raaman. Ja Saul oli ajanut maakunnasta noidat ja velhot pois.	
+<div class="theverse"><div class="versenum">3.</div> Niin oli Samuel kuollut, ja koko Israel oli hanta murehtinut ja haudannut hanen kaupunkiinsa Raaman. Ja Saul oli ajanut maakunnasta noidat ja velhot pois.	</div>
 
-<div class="versenum">4.</div> Kuin Philistealaiset kokosivat heitansa, ja tulivat ja sioittivat itsensa Sunemiin, kokosi myos Saul kaiken Israelin, ja he sioittivat itsensa Gilboaan.	
+<div class="theverse"><div class="versenum">4.</div> Kuin Philistealaiset kokosivat heitansa, ja tulivat ja sioittivat itsensa Sunemiin, kokosi myos Saul kaiken Israelin, ja he sioittivat itsensa Gilboaan.	</div>
 
-<div class="versenum">5.</div> Kuin Saul naki Philistealaisten sotajoukon, pelkasi han ja hanen sydamensa oli suuresti hammastynyt.	
+<div class="theverse"><div class="versenum">5.</div> Kuin Saul naki Philistealaisten sotajoukon, pelkasi han ja hanen sydamensa oli suuresti hammastynyt.	</div>
 
-<div class="versenum">6.</div> Ja Saul kysyi Herralta, ja ei Herra mitaan hanta vastannut, ei unen, eika valkeuden, eli prophetain kautta.	
+<div class="theverse"><div class="versenum">6.</div> Ja Saul kysyi Herralta, ja ei Herra mitaan hanta vastannut, ei unen, eika valkeuden, eli prophetain kautta.	</div>
 
-<div class="versenum">7.</div> Silloin sanoi Saul palvelioillensa: etsikaat minulle vaimo, jolla noidan henki on, mennakseni hanen tykonsa ja kysyakseni hanelta. Hanen palveliansa sanoivat hanelle: katso, Endorissa on vaimo, jolla on noidan henki.	
+<div class="theverse"><div class="versenum">7.</div> Silloin sanoi Saul palvelioillensa: etsikaat minulle vaimo, jolla noidan henki on, mennakseni hanen tykonsa ja kysyakseni hanelta. Hanen palveliansa sanoivat hanelle: katso, Endorissa on vaimo, jolla on noidan henki.	</div>
 
-<div class="versenum">8.</div> Ja Saul muutti vaatteensa ja otti toiset paallensa, ja meni sinne, ja kaksi miesta hanen kanssansa; ja he tulivat yolla vaimon tyko, ja han sanoi: noidu minulle noidan hengen kautta ja nosta se ylos minulle, jonka sanon sinulle.	
+<div class="theverse"><div class="versenum">8.</div> Ja Saul muutti vaatteensa ja otti toiset paallensa, ja meni sinne, ja kaksi miesta hanen kanssansa; ja he tulivat yolla vaimon tyko, ja han sanoi: noidu minulle noidan hengen kautta ja nosta se ylos minulle, jonka sanon sinulle.	</div>
 
-<div class="versenum">9.</div> Vaimo sanoi hanelle: katso, sina tiedat kylla, mita Saul tehnyt on, kuinka han on havittanyt noidat ja velhot maakunnasta: miksi siis tahdot minun sieluani pauloihin, etta mina kuoliaaksi lyotaisiin?	
+<div class="theverse"><div class="versenum">9.</div> Vaimo sanoi hanelle: katso, sina tiedat kylla, mita Saul tehnyt on, kuinka han on havittanyt noidat ja velhot maakunnasta: miksi siis tahdot minun sieluani pauloihin, etta mina kuoliaaksi lyotaisiin?	</div>
 
-<div class="versenum">10.</div> Niin Saul vannoi hanelle Herran kautta ja sanoi: niin totta kuin Herra elaa, ei tama lueta sinulle pahuudeksi.	
+<div class="theverse"><div class="versenum">10.</div> Niin Saul vannoi hanelle Herran kautta ja sanoi: niin totta kuin Herra elaa, ei tama lueta sinulle pahuudeksi.	</div>
 
-<div class="versenum">11.</div> Niin vaimo sanoi: kenen mina nostan sinulle? Han sanoi: nosta minulle Samuel.	
+<div class="theverse"><div class="versenum">11.</div> Niin vaimo sanoi: kenen mina nostan sinulle? Han sanoi: nosta minulle Samuel.	</div>
 
-<div class="versenum">12.</div> Kuin vaimo naki Samuelin, huusi han suurella aanella, ja sanoi Saulille sanoen: miksis olet minun pettanyt? sina olet Saul.	
+<div class="theverse"><div class="versenum">12.</div> Kuin vaimo naki Samuelin, huusi han suurella aanella, ja sanoi Saulille sanoen: miksis olet minun pettanyt? sina olet Saul.	</div>
 
-<div class="versenum">13.</div> Ja kuningas sanoi hanelle: ala pelkaa! mitas naet? Vaimo sanoi Saulille: mina naen jumalat astuvan maasta ylos.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuningas sanoi hanelle: ala pelkaa! mitas naet? Vaimo sanoi Saulille: mina naen jumalat astuvan maasta ylos.	</div>
 
-<div class="versenum">14.</div> Han sanoi hanelle: kuinka han on muotoansa? ja han sanoi: vanha mies nousee ylos ja on vaatetettu hameella. Niin ymmarsi Saul sen olevan Samuelin, ja kumarsi kasvoillensa maahan ja rukoili.	
+<div class="theverse"><div class="versenum">14.</div> Han sanoi hanelle: kuinka han on muotoansa? ja han sanoi: vanha mies nousee ylos ja on vaatetettu hameella. Niin ymmarsi Saul sen olevan Samuelin, ja kumarsi kasvoillensa maahan ja rukoili.	</div>
 
-<div class="versenum">15.</div> Mutta Samuel sanoi Saulille: miksis olet minua vaivannut nostaen minua? Saul sanoi: mina olen suuressa ahdistuksessa: Philistealaiset sotivat minua vastaan ja Jumala on minusta erinnyt, ja ei vastaa enaa minua prophetain eika unen kautta; sentahden olen mina antanut sinua kutsua, ilmoittamaan, mita minun tekeman pitaa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta Samuel sanoi Saulille: miksis olet minua vaivannut nostaen minua? Saul sanoi: mina olen suuressa ahdistuksessa: Philistealaiset sotivat minua vastaan ja Jumala on minusta erinnyt, ja ei vastaa enaa minua prophetain eika unen kautta; sentahden olen mina antanut sinua kutsua, ilmoittamaan, mita minun tekeman pitaa.	</div>
 
-<div class="versenum">16.</div> Samuel sanoi: mitas kysyt minulta, etta Herra on sinusta erinnyt ja on sinun vihamiehekses tullut?	
+<div class="theverse"><div class="versenum">16.</div> Samuel sanoi: mitas kysyt minulta, etta Herra on sinusta erinnyt ja on sinun vihamiehekses tullut?	</div>
 
-<div class="versenum">17.</div> Herra on tekeva niinkuin han minun kauttani puhunut on: ja Herra repaisee valtakunnan sinun kadestas pois ja antaa lahimmaiselles Davidille,	
+<div class="theverse"><div class="versenum">17.</div> Herra on tekeva niinkuin han minun kauttani puhunut on: ja Herra repaisee valtakunnan sinun kadestas pois ja antaa lahimmaiselles Davidille,	</div>
 
-<div class="versenum">18.</div> Ettet kuullut Herran aanta, etka tayttanyt hanen vihansa julmuutta Amalekia vastaan, sentahden on Herra naita sinulle tanapana tehnyt.	
+<div class="theverse"><div class="versenum">18.</div> Ettet kuullut Herran aanta, etka tayttanyt hanen vihansa julmuutta Amalekia vastaan, sentahden on Herra naita sinulle tanapana tehnyt.	</div>
 
-<div class="versenum">19.</div> Ja viela sitte antaa Herra sinun kanssas Israelin Philistealaisten kasiin: huomenna pitaa sinun ja sinun poikas oleman minun tykonani: ja Herra antaa Israelin sotajoukon Philistealaisten kasiin.	
+<div class="theverse"><div class="versenum">19.</div> Ja viela sitte antaa Herra sinun kanssas Israelin Philistealaisten kasiin: huomenna pitaa sinun ja sinun poikas oleman minun tykonani: ja Herra antaa Israelin sotajoukon Philistealaisten kasiin.	</div>
 
-<div class="versenum">20.</div> Niin Saul kaatui akisti maahan niin pitkaksi kuin han oli, ja peljastyi suuresti Samuelin puheen tahden, niin ettei hanessa mitaan enampi voimaa ollut, silla ei han ollut mitaan syonyt koko sina paivana ja yona.	
+<div class="theverse"><div class="versenum">20.</div> Niin Saul kaatui akisti maahan niin pitkaksi kuin han oli, ja peljastyi suuresti Samuelin puheen tahden, niin ettei hanessa mitaan enampi voimaa ollut, silla ei han ollut mitaan syonyt koko sina paivana ja yona.	</div>
 
-<div class="versenum">21.</div> Ja vaimo meni Saulin tyko ja naki hanen suuresti peljastyneeksi, ja sanoi hanelle: katso, sinun piikas on kuullut sinun sanas, ja mina olen pannut sieluni kateeni, niin etta mina kuuliainen olin sinun sanalles, jonkas puhuit minulle;	
+<div class="theverse"><div class="versenum">21.</div> Ja vaimo meni Saulin tyko ja naki hanen suuresti peljastyneeksi, ja sanoi hanelle: katso, sinun piikas on kuullut sinun sanas, ja mina olen pannut sieluni kateeni, niin etta mina kuuliainen olin sinun sanalles, jonkas puhuit minulle;	</div>
 
-<div class="versenum">22.</div> Niin kuule myos nyt sina piikas sana: mina panen etees palan leipaa, ettas soisit ja tulisit vakees jallensa, ja menisit matkaas.	
+<div class="theverse"><div class="versenum">22.</div> Niin kuule myos nyt sina piikas sana: mina panen etees palan leipaa, ettas soisit ja tulisit vakees jallensa, ja menisit matkaas.	</div>
 
-<div class="versenum">23.</div> Han kielsi ja sanoi: en mina syo. Niin hanen palveliansa ja vaimo vaativat hanta syomaan, ja han totteli heidan aantansa, ja nousi maasta ja istui vuoteelle.	
+<div class="theverse"><div class="versenum">23.</div> Han kielsi ja sanoi: en mina syo. Niin hanen palveliansa ja vaimo vaativat hanta syomaan, ja han totteli heidan aantansa, ja nousi maasta ja istui vuoteelle.	</div>
 
-<div class="versenum">24.</div> Ja vaimolla oli huoneessa lihava vasikka, ja han kiiruhti ja teurasti sen, ja otti jauhoja ja sekoitti, ja leipoi sen happamattomiksi kyrsiksi.	
+<div class="theverse"><div class="versenum">24.</div> Ja vaimolla oli huoneessa lihava vasikka, ja han kiiruhti ja teurasti sen, ja otti jauhoja ja sekoitti, ja leipoi sen happamattomiksi kyrsiksi.	</div>
 
-<div class="versenum">25.</div> Ja kantoi Saulin ja hanen palveliainsa eteen. Ja kuin he olivat syoneet, nousivat he ja matkustivat sina yona.	
+<div class="theverse"><div class="versenum">25.</div> Ja kantoi Saulin ja hanen palveliainsa eteen. Ja kuin he olivat syoneet, nousivat he ja matkustivat sina yona.	</div>
 </body>
 </html>

@@ -4,80 +4,80 @@
 </head>
 <body><div class="chaptertitle">Jesajan 37	</div>
 	
-<div class="versenum">1.</div> Kuin kuningas Hiskia taman kuuli, repaisi han vaatteensa, ja kaari sakin ymparillensa, ja meni Herran huoneeseen,	
+<div class="theverse"><div class="versenum">1.</div> Kuin kuningas Hiskia taman kuuli, repaisi han vaatteensa, ja kaari sakin ymparillensa, ja meni Herran huoneeseen,	</div>
 
-<div class="versenum">2.</div> Ja lahetti Eliakimin, huoneenhaltian, ja Sebnan, kirjoittajan, ylimmaisten pappein kanssa, puettuna sakkeihin, propheta Jesaian Amotsin pojan tyko,	
+<div class="theverse"><div class="versenum">2.</div> Ja lahetti Eliakimin, huoneenhaltian, ja Sebnan, kirjoittajan, ylimmaisten pappein kanssa, puettuna sakkeihin, propheta Jesaian Amotsin pojan tyko,	</div>
 
-<div class="versenum">3.</div> Sanomaan hanelle: nain sanoo Hiskia: tama on vaivan, toran ja havaistyksen paiva; silla lapset ovat tulleet synnyttamiselle ja ei ole voimaa synnyttaa.	
+<div class="theverse"><div class="versenum">3.</div> Sanomaan hanelle: nain sanoo Hiskia: tama on vaivan, toran ja havaistyksen paiva; silla lapset ovat tulleet synnyttamiselle ja ei ole voimaa synnyttaa.	</div>
 
-<div class="versenum">4.</div> Jospa siis Herra sinun Jumalas tahtois kuulla Rabsaken sanat, jonka hanen herransa Assyrian kuningas lahetti hapaisemaan elavaa Jumalaa, ja pilkkaamaan senkaltaisilla sanoilla kuin Herra sinun Jumalas on kuullut; ja ettas tahtoisit korottaa rukoukses jaaneiden edesta, jotka viela kasissa ovat.	
+<div class="theverse"><div class="versenum">4.</div> Jospa siis Herra sinun Jumalas tahtois kuulla Rabsaken sanat, jonka hanen herransa Assyrian kuningas lahetti hapaisemaan elavaa Jumalaa, ja pilkkaamaan senkaltaisilla sanoilla kuin Herra sinun Jumalas on kuullut; ja ettas tahtoisit korottaa rukoukses jaaneiden edesta, jotka viela kasissa ovat.	</div>
 
-<div class="versenum">5.</div> Ja kuningas Hiskian palveliat tulivat Jesaian tyko.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuningas Hiskian palveliat tulivat Jesaian tyko.	</div>
 
-<div class="versenum">6.</div> Mutta Jesaia sanoi heille: nain sanokaat teidan herrallenne: Herra sanoo nain: ala pelkaa niita sanoja, joita sina kuulit, joilla Assyrian kuninkaan palveliat ovat havaisseet minua.	
+<div class="theverse"><div class="versenum">6.</div> Mutta Jesaia sanoi heille: nain sanokaat teidan herrallenne: Herra sanoo nain: ala pelkaa niita sanoja, joita sina kuulit, joilla Assyrian kuninkaan palveliat ovat havaisseet minua.	</div>
 
-<div class="versenum">7.</div> Katso, mina annan hanelle hengen, ja hanen pitaa saaman kuulla sanoman, ja palajaman omalle maallensa; ja mina tahdon kaataa hanen miekalla hanen maassansa.	
+<div class="theverse"><div class="versenum">7.</div> Katso, mina annan hanelle hengen, ja hanen pitaa saaman kuulla sanoman, ja palajaman omalle maallensa; ja mina tahdon kaataa hanen miekalla hanen maassansa.	</div>
 
-<div class="versenum">8.</div> Mutta kuin Rabsake palasi, loysi han Assyrian kuninkaan sotimasta LIbnaa vastaan; silla han oli kuullut hanen matkustaneen Lakiksesta.	
+<div class="theverse"><div class="versenum">8.</div> Mutta kuin Rabsake palasi, loysi han Assyrian kuninkaan sotimasta LIbnaa vastaan; silla han oli kuullut hanen matkustaneen Lakiksesta.	</div>
 
-<div class="versenum">9.</div> Silla sanoma tuli Tirhakasta Etiopian kuninkaasta, sanoen: han on lahtenyt sotimaan sinua vastaan. Kuin han taman kuuli, lahetti han sanan Hiskialle, ja kaski hanelle sanoa:	
+<div class="theverse"><div class="versenum">9.</div> Silla sanoma tuli Tirhakasta Etiopian kuninkaasta, sanoen: han on lahtenyt sotimaan sinua vastaan. Kuin han taman kuuli, lahetti han sanan Hiskialle, ja kaski hanelle sanoa:	</div>
 
-<div class="versenum">10.</div> Sanokaat Hiskialle Juudan kuninkaalle nain: ala anna sinun Jumalas pettaa sinuas, johon sina luotat, ja sanot: ei Jerusalem anneta Assyrian kuninkaan kateen.	
+<div class="theverse"><div class="versenum">10.</div> Sanokaat Hiskialle Juudan kuninkaalle nain: ala anna sinun Jumalas pettaa sinuas, johon sina luotat, ja sanot: ei Jerusalem anneta Assyrian kuninkaan kateen.	</div>
 
-<div class="versenum">11.</div> Katso, sina olet kuullut, mita Assyrian kuninkaat kaikille maakunnille tehneet ovat, ja ne havittaneet; ja sina pelastettaisiin?	
+<div class="theverse"><div class="versenum">11.</div> Katso, sina olet kuullut, mita Assyrian kuninkaat kaikille maakunnille tehneet ovat, ja ne havittaneet; ja sina pelastettaisiin?	</div>
 
-<div class="versenum">12.</div> Ovatko myos pakanain jumalat auttaneet niita, joita minun isani ovat havittaneet, Gosanin ja Haranin, Resephin, ja Edenin lapset, jotka Telassarissa olivat?	
+<div class="theverse"><div class="versenum">12.</div> Ovatko myos pakanain jumalat auttaneet niita, joita minun isani ovat havittaneet, Gosanin ja Haranin, Resephin, ja Edenin lapset, jotka Telassarissa olivat?	</div>
 
-<div class="versenum">13.</div> Kussa on Hamatin kuningas, ja Arphadin kuningas, ja Sepharvaimin, Henan ja Ivvan kaupungin kuningas?	
+<div class="theverse"><div class="versenum">13.</div> Kussa on Hamatin kuningas, ja Arphadin kuningas, ja Sepharvaimin, Henan ja Ivvan kaupungin kuningas?	</div>
 
-<div class="versenum">14.</div> Ja kuin Hiskia oli saanut kirjan sanansaattajalta ja lukenut sen, meni han ylos Herran huoneeseen, ja Hiskia levitti sen Herran eteen.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin Hiskia oli saanut kirjan sanansaattajalta ja lukenut sen, meni han ylos Herran huoneeseen, ja Hiskia levitti sen Herran eteen.	</div>
 
-<div class="versenum">15.</div> Ja Hiskia rukoili Herraa ja sanoi:	
+<div class="theverse"><div class="versenum">15.</div> Ja Hiskia rukoili Herraa ja sanoi:	</div>
 
-<div class="versenum">16.</div> Herra Zebaot, Israelin Jumala, joka istut Kerubimin paalla, sina, joka olet ainoa Jumala kaikkein maakuntain ylitse maan paalla: sina olet tehnyt taivaan ja maan:	
+<div class="theverse"><div class="versenum">16.</div> Herra Zebaot, Israelin Jumala, joka istut Kerubimin paalla, sina, joka olet ainoa Jumala kaikkein maakuntain ylitse maan paalla: sina olet tehnyt taivaan ja maan:	</div>
 
-<div class="versenum">17.</div> Herra, kallista korvas ja kuule, Herra, avaa silmas ja nae: kuule siis kaikki Sanheribin sanat, joka on lahettanyt hapaisemaan elavaa Jumalaa.	
+<div class="theverse"><div class="versenum">17.</div> Herra, kallista korvas ja kuule, Herra, avaa silmas ja nae: kuule siis kaikki Sanheribin sanat, joka on lahettanyt hapaisemaan elavaa Jumalaa.	</div>
 
-<div class="versenum">18.</div> Tosi se on, Herra, etta Assyrian kuninkaat ovat autioksi tehneet kaikki valtakunnat heidan maakuntainsa kanssa,	
+<div class="theverse"><div class="versenum">18.</div> Tosi se on, Herra, etta Assyrian kuninkaat ovat autioksi tehneet kaikki valtakunnat heidan maakuntainsa kanssa,	</div>
 
-<div class="versenum">19.</div> Ja ovat heittaneet heidan Jumalansa tuleen; silla ei ne olleet jumalat, vaan ihmisten katten tyot, puut ja kivet, ja ne he ovat havittaneet.	
+<div class="theverse"><div class="versenum">19.</div> Ja ovat heittaneet heidan Jumalansa tuleen; silla ei ne olleet jumalat, vaan ihmisten katten tyot, puut ja kivet, ja ne he ovat havittaneet.	</div>
 
-<div class="versenum">20.</div> Mutta nyt, Herra meidan Jumalamme, auta meita hanen kadestansa; etta kaikki valtakunnat maan paalla ymmartaisivat sinun ainoan olevan Herran.	
+<div class="theverse"><div class="versenum">20.</div> Mutta nyt, Herra meidan Jumalamme, auta meita hanen kadestansa; etta kaikki valtakunnat maan paalla ymmartaisivat sinun ainoan olevan Herran.	</div>
 
-<div class="versenum">21.</div> Silloin lahetti Jesaia Amotsin poika Hiskian tyko, ja kaski hanelle sanoa: nain sanoo Herra Israelin Jumala: (mina olen kuullut) sen, kuin sina minua rukoillut olet Assyrian kuninkaan Sanheribin tahden.	
+<div class="theverse"><div class="versenum">21.</div> Silloin lahetti Jesaia Amotsin poika Hiskian tyko, ja kaski hanelle sanoa: nain sanoo Herra Israelin Jumala: (mina olen kuullut) sen, kuin sina minua rukoillut olet Assyrian kuninkaan Sanheribin tahden.	</div>
 
-<div class="versenum">22.</div> Niin on tama se minka Herra hanesta sanoo: neitsy, Zionin tytar katsoo sinun ylon, ja pilkkaa sinua, ja Jerusalemin tytar vaantelee paatansa sinun peraas.	
+<div class="theverse"><div class="versenum">22.</div> Niin on tama se minka Herra hanesta sanoo: neitsy, Zionin tytar katsoo sinun ylon, ja pilkkaa sinua, ja Jerusalemin tytar vaantelee paatansa sinun peraas.	</div>
 
-<div class="versenum">23.</div> Ketas olet pilkannut ja havaissyt? keta vastaan sina olet korottanut aanes? sina olet nostanut silmas Israelin Pyhaa vastaan.	
+<div class="theverse"><div class="versenum">23.</div> Ketas olet pilkannut ja havaissyt? keta vastaan sina olet korottanut aanes? sina olet nostanut silmas Israelin Pyhaa vastaan.	</div>
 
-<div class="versenum">24.</div> Sinun palveliais kautta olet sina havaissyt Herraa, ja sanonut: minun monilla rattaillani olen mina mennyt ylos vuorten kukkuloille Libanonin puolelle, ja tahdon hakata maahan hanen korkiat sedripuunsa ja valitut honkansa, ja menna kukkulain ylitse hanen aareensa, hanen ihanan vainionsa metsaan.	
+<div class="theverse"><div class="versenum">24.</div> Sinun palveliais kautta olet sina havaissyt Herraa, ja sanonut: minun monilla rattaillani olen mina mennyt ylos vuorten kukkuloille Libanonin puolelle, ja tahdon hakata maahan hanen korkiat sedripuunsa ja valitut honkansa, ja menna kukkulain ylitse hanen aareensa, hanen ihanan vainionsa metsaan.	</div>
 
-<div class="versenum">25.</div> Mina olen kaivanut ja juonut vetta; ja minun jalkapoytani on kuivannut kaikki piiritetyt ojat.	
+<div class="theverse"><div class="versenum">25.</div> Mina olen kaivanut ja juonut vetta; ja minun jalkapoytani on kuivannut kaikki piiritetyt ojat.	</div>
 
-<div class="versenum">26.</div> Etkos ole kaukaa kuullut, etta mina muinen juuri niin tehnyt ja sen toimittanut olen, ja viela nyt niin teen, etta vahvat kaupungit kukistetaan kiviraunioiksi?	
+<div class="theverse"><div class="versenum">26.</div> Etkos ole kaukaa kuullut, etta mina muinen juuri niin tehnyt ja sen toimittanut olen, ja viela nyt niin teen, etta vahvat kaupungit kukistetaan kiviraunioiksi?	</div>
 
-<div class="versenum">27.</div> Ja heidan asujansa voimattomiksi ja epailevaisiksi tulevat, ja hapiaan joutuvat; ja tulevat niinkuin kedon ruoho ja viheriainen ruoho, niinkuin ruoho kattoin paalla, joka ennen kuivettuu kuin tuleentuu.	
+<div class="theverse"><div class="versenum">27.</div> Ja heidan asujansa voimattomiksi ja epailevaisiksi tulevat, ja hapiaan joutuvat; ja tulevat niinkuin kedon ruoho ja viheriainen ruoho, niinkuin ruoho kattoin paalla, joka ennen kuivettuu kuin tuleentuu.	</div>
 
-<div class="versenum">28.</div> Mutta mina tiedan sinun asumukses hyvin, sinun uloslahtemises ja sisallekaymises; ja sinun kiukuitsemises minua vastaan.	
+<div class="theverse"><div class="versenum">28.</div> Mutta mina tiedan sinun asumukses hyvin, sinun uloslahtemises ja sisallekaymises; ja sinun kiukuitsemises minua vastaan.	</div>
 
-<div class="versenum">29.</div> Ettas kiukuitset minua vastaan, ja sinun ylpeytes on joutunut minun korvilleni, panen mina renkaani sinun sieraimiis ja suitseni sinun suuhus, ja vien sinun sita tieta jalleen takaperin, jotas tullutkin olet.	
+<div class="theverse"><div class="versenum">29.</div> Ettas kiukuitset minua vastaan, ja sinun ylpeytes on joutunut minun korvilleni, panen mina renkaani sinun sieraimiis ja suitseni sinun suuhus, ja vien sinun sita tieta jalleen takaperin, jotas tullutkin olet.	</div>
 
-<div class="versenum">30.</div> Ja tama pitaa oleman sinulle merkiksi: syo tana vuonna, mita kasvanut on, toisena vuonna, mita itsestansa kasvaa, kolmantena vuonna kylvakaat ja leikatkaat, istuttakaat viinapuita, ja syokaat heidan hedelmaansa.	
+<div class="theverse"><div class="versenum">30.</div> Ja tama pitaa oleman sinulle merkiksi: syo tana vuonna, mita kasvanut on, toisena vuonna, mita itsestansa kasvaa, kolmantena vuonna kylvakaat ja leikatkaat, istuttakaat viinapuita, ja syokaat heidan hedelmaansa.	</div>
 
-<div class="versenum">31.</div> Ja pelastettuin ja jaaneiden Juudan huoneesta pitaa taas alhaalta juurtuman,ja ylhaalta kantaman hedelman.	
+<div class="theverse"><div class="versenum">31.</div> Ja pelastettuin ja jaaneiden Juudan huoneesta pitaa taas alhaalta juurtuman,ja ylhaalta kantaman hedelman.	</div>
 
-<div class="versenum">32.</div> Silla Jerusalemista pitaa viela nyt jaaneiden tuleman ulos, ja vapahdetut Zionin vuorelta. Tata on Herran Zebaotin kiivaus tekeva.	
+<div class="theverse"><div class="versenum">32.</div> Silla Jerusalemista pitaa viela nyt jaaneiden tuleman ulos, ja vapahdetut Zionin vuorelta. Tata on Herran Zebaotin kiivaus tekeva.	</div>
 
-<div class="versenum">33.</div> Sentahden sanoo Herra Assyrian kuninkaasta nain: ei hanen pida tuleman tahan kaupunkiin, eika yhtaan nuolta sinne ampuman, eli yhta kilpea tuoman sen eteen, taikka yhtaan vallia tekeman sen ymparille;	
+<div class="theverse"><div class="versenum">33.</div> Sentahden sanoo Herra Assyrian kuninkaasta nain: ei hanen pida tuleman tahan kaupunkiin, eika yhtaan nuolta sinne ampuman, eli yhta kilpea tuoman sen eteen, taikka yhtaan vallia tekeman sen ymparille;	</div>
 
-<div class="versenum">34.</div> Vaan pitaa palajaman sita tieta takaperin, jota han tullut on, ja ei tahan kaupunkiin ensinkaan tuleman, sanoo Herra.	
+<div class="theverse"><div class="versenum">34.</div> Vaan pitaa palajaman sita tieta takaperin, jota han tullut on, ja ei tahan kaupunkiin ensinkaan tuleman, sanoo Herra.	</div>
 
-<div class="versenum">35.</div> Silla mina varjelen taman kaupungin, niin etta mina autan hanta, minun tahteni ja minun palveliani Davidin tahden.	
+<div class="theverse"><div class="versenum">35.</div> Silla mina varjelen taman kaupungin, niin etta mina autan hanta, minun tahteni ja minun palveliani Davidin tahden.	</div>
 
-<div class="versenum">36.</div> Silloin laksi Herran enkeli ja loi Assyrian leirissa sata ja viisiyhdeksattakymmenta tuhatta miesta. Ja kuin he varhain huomeneltain nousivat, katso, ne kaikki olivat kuolleiden ruumiit.	
+<div class="theverse"><div class="versenum">36.</div> Silloin laksi Herran enkeli ja loi Assyrian leirissa sata ja viisiyhdeksattakymmenta tuhatta miesta. Ja kuin he varhain huomeneltain nousivat, katso, ne kaikki olivat kuolleiden ruumiit.	</div>
 
-<div class="versenum">37.</div> Ja Assyrian kuningas Sanherib laksi matkaansa ja palasi, ja asui Ninivessa.	
+<div class="theverse"><div class="versenum">37.</div> Ja Assyrian kuningas Sanherib laksi matkaansa ja palasi, ja asui Ninivessa.	</div>
 
-<div class="versenum">38.</div> Ja tapahtui, kuin han rukoili jumalansa Nisrokin huoneessa, loivat hanen poikansa Adramelek ja Saretser hanen miekalla, ja pakenivat Araratin maalle. Ja hanen poikansa Assarhaddon tuli kuinkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">38.</div> Ja tapahtui, kuin han rukoili jumalansa Nisrokin huoneessa, loivat hanen poikansa Adramelek ja Saretser hanen miekalla, ja pakenivat Araratin maalle. Ja hanen poikansa Assarhaddon tuli kuinkaaksi hanen siaansa.	</div>
 </body>
 </html>

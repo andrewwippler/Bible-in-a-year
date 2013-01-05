@@ -4,20 +4,20 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 15	</div>
 	
-<div class="versenum">1.</div> Ja mina nain toisen merkin taivaassa, suuren ja ihmeellisen: seitseman enkelia, joilla seitseman viimeista vitsausta oli; silla niissa on Jumalan viha taytetty.	
+<div class="theverse"><div class="versenum">1.</div> Ja mina nain toisen merkin taivaassa, suuren ja ihmeellisen: seitseman enkelia, joilla seitseman viimeista vitsausta oli; silla niissa on Jumalan viha taytetty.	</div>
 
-<div class="versenum">2.</div> Ja mina nain niinkuin lasisen meren, tulella sekoitetun, ja ne, jotka pedosta voiton saaneet olivat ja hanen kuvastansa ja hanen merkistansa ja hanen nimensa luvusta, seisovan lasisen meren paalla, ja heilla oli Jumalan kanteleet,	
+<div class="theverse"><div class="versenum">2.</div> Ja mina nain niinkuin lasisen meren, tulella sekoitetun, ja ne, jotka pedosta voiton saaneet olivat ja hanen kuvastansa ja hanen merkistansa ja hanen nimensa luvusta, seisovan lasisen meren paalla, ja heilla oli Jumalan kanteleet,	</div>
 
-<div class="versenum">3.</div> Ja he veisasivat Moseksen, Jumalan palvelian virtta, sanoen: suuret ja ihmeelliset ovat sinun tekos, Herra Jumala kaikkivaltias! oikiat ja totiset ovat sinun ties, sina pyhain Kuningas!	
+<div class="theverse"><div class="versenum">3.</div> Ja he veisasivat Moseksen, Jumalan palvelian virtta, sanoen: suuret ja ihmeelliset ovat sinun tekos, Herra Jumala kaikkivaltias! oikiat ja totiset ovat sinun ties, sina pyhain Kuningas!	</div>
 
-<div class="versenum">4.</div> Kuka ei pelkaa sinua, Herra, ja sinun nimeas ylista? Silla sina yksinas pyha olet; silla kaikki pakanat tulevat, ja sinun kasvois edessa kumartavat ja rukoilevat: etta sinun tuomios julistetut ovat.	
+<div class="theverse"><div class="versenum">4.</div> Kuka ei pelkaa sinua, Herra, ja sinun nimeas ylista? Silla sina yksinas pyha olet; silla kaikki pakanat tulevat, ja sinun kasvois edessa kumartavat ja rukoilevat: etta sinun tuomios julistetut ovat.	</div>
 
-<div class="versenum">5.</div> Sitte nain mina, ja katso, todistuksen majan templi avattiin taivaassa.	
+<div class="theverse"><div class="versenum">5.</div> Sitte nain mina, ja katso, todistuksen majan templi avattiin taivaassa.	</div>
 
-<div class="versenum">6.</div> Ja templista laksivat seitseman enkelia, joilla seitseman vitsausta oli, puetetut puhtailla ja kirkkailla liinavaatteilla, ja vyotetyt rinnoilta kultaisilla voilla.	
+<div class="theverse"><div class="versenum">6.</div> Ja templista laksivat seitseman enkelia, joilla seitseman vitsausta oli, puetetut puhtailla ja kirkkailla liinavaatteilla, ja vyotetyt rinnoilta kultaisilla voilla.	</div>
 
-<div class="versenum">7.</div> Ja yksi neljasta elaimesta antoi seitsemalle enkelille seitseman kultaista maljaa, taynnansa Jumalan vihaa, joka elaa ijankaikkisesta ijankaikkiseen.	
+<div class="theverse"><div class="versenum">7.</div> Ja yksi neljasta elaimesta antoi seitsemalle enkelille seitseman kultaista maljaa, taynnansa Jumalan vihaa, joka elaa ijankaikkisesta ijankaikkiseen.	</div>
 
-<div class="versenum">8.</div> Ja templi taytettiin savulla Jumalan kunniasta ja hanen voimastansa, ja ei yksikaan voinut templiin menna sisalle, siihenasti kuin seitseman enkelin seitseman vitsausta taytetyiksi tulivat.	
+<div class="theverse"><div class="versenum">8.</div> Ja templi taytettiin savulla Jumalan kunniasta ja hanen voimastansa, ja ei yksikaan voinut templiin menna sisalle, siihenasti kuin seitseman enkelin seitseman vitsausta taytetyiksi tulivat.	</div>
 </body>
 </html>

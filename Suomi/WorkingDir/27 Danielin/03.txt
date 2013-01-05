@@ -4,64 +4,64 @@
 </head>
 <body><div class="chaptertitle">Danielin 3	</div>
 	
-<div class="versenum">1.</div> Kuningas Nebukadnetsar teetti kultaisen kuvan, kuusikymmenta kyynaraa korkian ja kuusi kyynaraa levian, ja antoi sen panna Duuran kedolle Babelin maalla.	
+<div class="theverse"><div class="versenum">1.</div> Kuningas Nebukadnetsar teetti kultaisen kuvan, kuusikymmenta kyynaraa korkian ja kuusi kyynaraa levian, ja antoi sen panna Duuran kedolle Babelin maalla.	</div>
 
-<div class="versenum">2.</div> Ja kuningas Nebukadnetsar lahetti paamiesten, herrain, maanvanhimpain, tuomarein, kaskylaisten, neuvonantajain, virkamiesten ja kaikkein voimallisten peraan maalla, etta he tulisivat kokoon sita kuvaa vihkimaan, jonka kuningas Nebukadnetsar oli antanut panna ylos.	
+<div class="theverse"><div class="versenum">2.</div> Ja kuningas Nebukadnetsar lahetti paamiesten, herrain, maanvanhimpain, tuomarein, kaskylaisten, neuvonantajain, virkamiesten ja kaikkein voimallisten peraan maalla, etta he tulisivat kokoon sita kuvaa vihkimaan, jonka kuningas Nebukadnetsar oli antanut panna ylos.	</div>
 
-<div class="versenum">3.</div> Silloin tulivat kokoon paamiehet, herrat, maanvanhimmat, tuomarit, kaskylaiset, neuvonantajat, virkamiehet ja kaikki voimalliset maalta kuvaa vihkimaan, jonka kuningas Nebukadnetsar oli antanut panna ylos; ja heidan piti astuman kuvan eteen, jonka Nebukadnetsar oli antanut panna ylos.	
+<div class="theverse"><div class="versenum">3.</div> Silloin tulivat kokoon paamiehet, herrat, maanvanhimmat, tuomarit, kaskylaiset, neuvonantajat, virkamiehet ja kaikki voimalliset maalta kuvaa vihkimaan, jonka kuningas Nebukadnetsar oli antanut panna ylos; ja heidan piti astuman kuvan eteen, jonka Nebukadnetsar oli antanut panna ylos.	</div>
 
-<div class="versenum">4.</div> Ja kuuluttaja huusi vakevasti: se olkoon teille sanottu, te kansat, sukukunnat ja kielet:	
+<div class="theverse"><div class="versenum">4.</div> Ja kuuluttaja huusi vakevasti: se olkoon teille sanottu, te kansat, sukukunnat ja kielet:	</div>
 
-<div class="versenum">5.</div> Kuin te kuulette basunan helinan, huilut, harput, kanteleet, psaltarit, trometit ja kaikkinaiset soittamiset, niin teidan pitaa lankeeman maahan, ja kumartaman kultaista kuvaa, jonka kuningas Nebukadnetsarin on antanut panna ylos.	
+<div class="theverse"><div class="versenum">5.</div> Kuin te kuulette basunan helinan, huilut, harput, kanteleet, psaltarit, trometit ja kaikkinaiset soittamiset, niin teidan pitaa lankeeman maahan, ja kumartaman kultaista kuvaa, jonka kuningas Nebukadnetsarin on antanut panna ylos.	</div>
 
-<div class="versenum">6.</div> Mutta joka ei silloin lankee maahan ja kumarra, se pitaa kohta patsiin heittaman.	
+<div class="theverse"><div class="versenum">6.</div> Mutta joka ei silloin lankee maahan ja kumarra, se pitaa kohta patsiin heittaman.	</div>
 
-<div class="versenum">7.</div> Kuin he siis kuulivat basunan helinan, huilut, harput, kanteleet, psaltarit ja kaikkinaiset soittamiset, lankesivat kaikki kansat, maakunnat ja kielet maahan, ja kumarsivat sita kultaista kuvaa, jonka kuningas Nebukadnetsar oli antanut panna ylos.	
+<div class="theverse"><div class="versenum">7.</div> Kuin he siis kuulivat basunan helinan, huilut, harput, kanteleet, psaltarit ja kaikkinaiset soittamiset, lankesivat kaikki kansat, maakunnat ja kielet maahan, ja kumarsivat sita kultaista kuvaa, jonka kuningas Nebukadnetsar oli antanut panna ylos.	</div>
 
-<div class="versenum">8.</div> Kohta silla hetkella astuivat monikahdat Kaldean miehet edes, ja kantoivat Juudalaisten paalle,	
+<div class="theverse"><div class="versenum">8.</div> Kohta silla hetkella astuivat monikahdat Kaldean miehet edes, ja kantoivat Juudalaisten paalle,	</div>
 
-<div class="versenum">9.</div> Ja sanoivat kuningas Nebukadnetsarille: Kuningas elakoon kauvan!	
+<div class="theverse"><div class="versenum">9.</div> Ja sanoivat kuningas Nebukadnetsarille: Kuningas elakoon kauvan!	</div>
 
-<div class="versenum">10.</div> Sina kuningas olet antanut yhden kaskyn, etta kaikki ihmiset, jotka kuulivat basunan helinan, harput, huilut, kanteleet, psaltarit, trometit ja kaikkinaiset soittamiset, piti lankeeman maahan, ja kultaista kuvaa kumartaman.	
+<div class="theverse"><div class="versenum">10.</div> Sina kuningas olet antanut yhden kaskyn, etta kaikki ihmiset, jotka kuulivat basunan helinan, harput, huilut, kanteleet, psaltarit, trometit ja kaikkinaiset soittamiset, piti lankeeman maahan, ja kultaista kuvaa kumartaman.	</div>
 
-<div class="versenum">11.</div> Vaan joka ei lankeaisi maahan ja kumartaisi, piti tuliseen patsiin heitettaman.	
+<div class="theverse"><div class="versenum">11.</div> Vaan joka ei lankeaisi maahan ja kumartaisi, piti tuliseen patsiin heitettaman.	</div>
 
-<div class="versenum">12.</div> Nyt on Juudan miehia, jotkas virkoihin Babelin maakunnassa asettanut olet, Sadrak, Mesak ja Abednego, ne miehet katsovat ylon sinun kaskys, ja ei kunnioita sinun jumalias, eika kumarra kultaista kuvaa, jonkas olet antanut panna ylos.	
+<div class="theverse"><div class="versenum">12.</div> Nyt on Juudan miehia, jotkas virkoihin Babelin maakunnassa asettanut olet, Sadrak, Mesak ja Abednego, ne miehet katsovat ylon sinun kaskys, ja ei kunnioita sinun jumalias, eika kumarra kultaista kuvaa, jonkas olet antanut panna ylos.	</div>
 
-<div class="versenum">13.</div> Silloin kaski Nebukadnetsar kiukussa ja vihoissansa, etta Sadrak, Mesak ja Abednego tuotaisiin edes; ja miehet vietiin kuninkaan eteen.	
+<div class="theverse"><div class="versenum">13.</div> Silloin kaski Nebukadnetsar kiukussa ja vihoissansa, etta Sadrak, Mesak ja Abednego tuotaisiin edes; ja miehet vietiin kuninkaan eteen.	</div>
 
-<div class="versenum">14.</div> Silloin puhui Nebukadnetsar ja sanoi heille: Kuinka, etteko te tahdo, Sadrak, Mesak ja Abednego, minun jumaliani kunnioittaa, ja kumartaa kultaista kuvaa, jonka mina olen antanut panna ylos?	
+<div class="theverse"><div class="versenum">14.</div> Silloin puhui Nebukadnetsar ja sanoi heille: Kuinka, etteko te tahdo, Sadrak, Mesak ja Abednego, minun jumaliani kunnioittaa, ja kumartaa kultaista kuvaa, jonka mina olen antanut panna ylos?	</div>
 
-<div class="versenum">15.</div> Nyt siis valmistakaat teitanne, niin pian kuin te kuulette basunan aanen, trometit, harput, huilut, kanteleet, psaltarit ja kaikkinaiset soittamiset, niin langetkaat maahan ja kumartakaat kuvaa, jonka mina olen antanut tehda. Ja katso, jollette kumarra, niin te pitaa tuliseen patsiin heitettaman. Annas nahda, kuka se Jumala on, joka teita minun kasistani pelastaa taitaa.	
+<div class="theverse"><div class="versenum">15.</div> Nyt siis valmistakaat teitanne, niin pian kuin te kuulette basunan aanen, trometit, harput, huilut, kanteleet, psaltarit ja kaikkinaiset soittamiset, niin langetkaat maahan ja kumartakaat kuvaa, jonka mina olen antanut tehda. Ja katso, jollette kumarra, niin te pitaa tuliseen patsiin heitettaman. Annas nahda, kuka se Jumala on, joka teita minun kasistani pelastaa taitaa.	</div>
 
-<div class="versenum">16.</div> Silloin vastasivat Sadrak, Mesak ja Abednego ja sanoivat kuninkaalle: Nebukadnetsar, ei tarvita, etta me sinua siihen vastaamme.	
+<div class="theverse"><div class="versenum">16.</div> Silloin vastasivat Sadrak, Mesak ja Abednego ja sanoivat kuninkaalle: Nebukadnetsar, ei tarvita, etta me sinua siihen vastaamme.	</div>
 
-<div class="versenum">17.</div> Katso, meidan Jumalamme, jota me kunnioitamme, taitaa meita kylla auttaa tulisesta patsista, niin myos sinun kadestas pelastaa.	
+<div class="theverse"><div class="versenum">17.</div> Katso, meidan Jumalamme, jota me kunnioitamme, taitaa meita kylla auttaa tulisesta patsista, niin myos sinun kadestas pelastaa.	</div>
 
-<div class="versenum">18.</div> Ja jos ei han sita tee, niin tieda kuitenkin se, kuningas, ettemme sinun jumalias kunnioita, emmeka sita kultaista kuvaa, jonkas olet antanut panna ylos, kumartaa tahdo.	
+<div class="theverse"><div class="versenum">18.</div> Ja jos ei han sita tee, niin tieda kuitenkin se, kuningas, ettemme sinun jumalias kunnioita, emmeka sita kultaista kuvaa, jonkas olet antanut panna ylos, kumartaa tahdo.	</div>
 
-<div class="versenum">19.</div> Niin Nebukadnetsar tuli tayteen kiukkua, ja hanen hahmonsa muuttui Sadrakia, Mesakia ja Abednegoa vastaan, ja kaski, etta patsi piti seitseman kertaa kuumemmaksi tehtaman, kuin muulloin tehtiin.	
+<div class="theverse"><div class="versenum">19.</div> Niin Nebukadnetsar tuli tayteen kiukkua, ja hanen hahmonsa muuttui Sadrakia, Mesakia ja Abednegoa vastaan, ja kaski, etta patsi piti seitseman kertaa kuumemmaksi tehtaman, kuin muulloin tehtiin.	</div>
 
-<div class="versenum">20.</div> Ja kaski vakevia miehia, jotka hanen sotajoukossansa olivat, sitomaan Sadrakia, Mesakia ja Abednegoa ja tuliseen patsiin heittamaan.	
+<div class="theverse"><div class="versenum">20.</div> Ja kaski vakevia miehia, jotka hanen sotajoukossansa olivat, sitomaan Sadrakia, Mesakia ja Abednegoa ja tuliseen patsiin heittamaan.	</div>
 
-<div class="versenum">21.</div> Niin sidottiin namat miehet hameinensa, lakkinensa, kenkinensa ja muine vaatteinensa, ja heitettiin keskelle tulista patsia.	
+<div class="theverse"><div class="versenum">21.</div> Niin sidottiin namat miehet hameinensa, lakkinensa, kenkinensa ja muine vaatteinensa, ja heitettiin keskelle tulista patsia.	</div>
 
-<div class="versenum">22.</div> Silla kuninkaan kasky piti kiiruusti tehtaman, ja patsi oli lammitetty aivan kovin, etta ne miehet, jotka Sadrakin, Mesakin ja Abednegon sisalle heittivat, kuolivat tulen liekista.	
+<div class="theverse"><div class="versenum">22.</div> Silla kuninkaan kasky piti kiiruusti tehtaman, ja patsi oli lammitetty aivan kovin, etta ne miehet, jotka Sadrakin, Mesakin ja Abednegon sisalle heittivat, kuolivat tulen liekista.	</div>
 
-<div class="versenum">23.</div> Mutta ne kolme miesta Sadrak, Mesak ja Abednego putosivat keskelle tulista patsia, niinkuin he sidotut olivat.	
+<div class="theverse"><div class="versenum">23.</div> Mutta ne kolme miesta Sadrak, Mesak ja Abednego putosivat keskelle tulista patsia, niinkuin he sidotut olivat.	</div>
 
-<div class="versenum">24.</div> Silloin hammastyi kuningas Nebukadnetsar suuresti ja meni nopiasti ylos ja sanoi nenvonantajillensa: Emmeko me kolme miesta sidottuna antaneet tuleen heittaa? He vastasivat ja sanoivat kuninkaalle: Totta, herra kuningas.	
+<div class="theverse"><div class="versenum">24.</div> Silloin hammastyi kuningas Nebukadnetsar suuresti ja meni nopiasti ylos ja sanoi nenvonantajillensa: Emmeko me kolme miesta sidottuna antaneet tuleen heittaa? He vastasivat ja sanoivat kuninkaalle: Totta, herra kuningas.	</div>
 
-<div class="versenum">25.</div> Han vastasi ja sanoi: Katso, ja mina naen nelja miesta vallallansa kayvan tulen keskella, ja ovat kulumatta; ja se neljas on niinkuin Jumalan poika.	
+<div class="theverse"><div class="versenum">25.</div> Han vastasi ja sanoi: Katso, ja mina naen nelja miesta vallallansa kayvan tulen keskella, ja ovat kulumatta; ja se neljas on niinkuin Jumalan poika.	</div>
 
-<div class="versenum">26.</div> Silloin Nebukadnetsar meni tulisen patsin suulle ja sanoi: Sadrak, Mesak ja Abednego, te kaikkein korkeimman Jumalan palveliat. Lahtekaat ulos ja tulkaat tanne; silloin laksi Sadrak, Mesak ja Abednego ulos tulesta.	
+<div class="theverse"><div class="versenum">26.</div> Silloin Nebukadnetsar meni tulisen patsin suulle ja sanoi: Sadrak, Mesak ja Abednego, te kaikkein korkeimman Jumalan palveliat. Lahtekaat ulos ja tulkaat tanne; silloin laksi Sadrak, Mesak ja Abednego ulos tulesta.	</div>
 
-<div class="versenum">27.</div> Ja paamiehet, herrat, kaskylaiset ja kuninkaan neuvonantajat tulivat kokoon, ja katselivat naita miehia, ettei tuli mitaan heidan ruumiillensa tehnyt, eika heidan hiuskarvaansakaan polttanut, eika heidan vaatteitansa muuttanut; eika myos tulen kartuakaan heissa tuntunut.	
+<div class="theverse"><div class="versenum">27.</div> Ja paamiehet, herrat, kaskylaiset ja kuninkaan neuvonantajat tulivat kokoon, ja katselivat naita miehia, ettei tuli mitaan heidan ruumiillensa tehnyt, eika heidan hiuskarvaansakaan polttanut, eika heidan vaatteitansa muuttanut; eika myos tulen kartuakaan heissa tuntunut.	</div>
 
-<div class="versenum">28.</div> Silloin puhui Nebukadnetsar ja sanoi: Kiitetty olkoon Sadrakin, Mesakin ja Abednegon Jumalala, joka enkelinsa lahetti ja palveliansa pelasti, jotka haneen uskalsivat, ja ei kuninkaan kaskya pitaneet, vaan antoivat ruumiinsa vaaraan, ettei he yhtaan muuta Jumalaa kunnioittaisi eika kumartaisi, vaan ainoastaan Jumalaansa.	
+<div class="theverse"><div class="versenum">28.</div> Silloin puhui Nebukadnetsar ja sanoi: Kiitetty olkoon Sadrakin, Mesakin ja Abednegon Jumalala, joka enkelinsa lahetti ja palveliansa pelasti, jotka haneen uskalsivat, ja ei kuninkaan kaskya pitaneet, vaan antoivat ruumiinsa vaaraan, ettei he yhtaan muuta Jumalaa kunnioittaisi eika kumartaisi, vaan ainoastaan Jumalaansa.	</div>
 
-<div class="versenum">29.</div> Niin olkoon nyt tama minun kaskyni: Kuka ikana kaikissa kansoissa, sukukunnissa ja kielissa Sadrakin, Mesakin ja Abednegon Jumalaa pilkkaa, han pitaa kappaleiksi hakattaman, ja hanen huoneensa lokalajaksi kukistettaman; silla ei yhtaan muuta Jumalaa ole, joka niin pelastaa taitaa, kuin tama.	
+<div class="theverse"><div class="versenum">29.</div> Niin olkoon nyt tama minun kaskyni: Kuka ikana kaikissa kansoissa, sukukunnissa ja kielissa Sadrakin, Mesakin ja Abednegon Jumalaa pilkkaa, han pitaa kappaleiksi hakattaman, ja hanen huoneensa lokalajaksi kukistettaman; silla ei yhtaan muuta Jumalaa ole, joka niin pelastaa taitaa, kuin tama.	</div>
 
-<div class="versenum">30.</div> Ja kuningas antoi suuren vallan Sadrakille, Mesakille ja Abednegolle Babelin maalla.	
+<div class="theverse"><div class="versenum">30.</div> Ja kuningas antoi suuren vallan Sadrakille, Mesakille ja Abednegolle Babelin maalla.	</div>
 </body>
 </html>

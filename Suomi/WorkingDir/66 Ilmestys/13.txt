@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 13	</div>
 	
-<div class="versenum">1.</div> (H12:18) Ja mina seisoin meren sannalla. (H13:1) Ja mina nain pedon meresta astuvan ylos, jolla oli seitseman paata ja kymmenen sarvea, ja hanen sarvissansa kymmenen kruunua, ja hanen paissansa pilkan nimi.	
+<div class="theverse"><div class="versenum">1.</div> (H12:18) Ja mina seisoin meren sannalla. (H13:1) Ja mina nain pedon meresta astuvan ylos, jolla oli seitseman paata ja kymmenen sarvea, ja hanen sarvissansa kymmenen kruunua, ja hanen paissansa pilkan nimi.	</div>
 
-<div class="versenum">2.</div> Ja peto, jonka mina nain, oli pardin muotoinen, ja hanen jalkansa olivat niinkuin karhun kapalat, ja hanen suunsa oli niinkuin jalopeurain suu; ja lohikarme antoi sille voimansa, ja istuimensa, ja suuren vallan.	
+<div class="theverse"><div class="versenum">2.</div> Ja peto, jonka mina nain, oli pardin muotoinen, ja hanen jalkansa olivat niinkuin karhun kapalat, ja hanen suunsa oli niinkuin jalopeurain suu; ja lohikarme antoi sille voimansa, ja istuimensa, ja suuren vallan.	</div>
 
-<div class="versenum">3.</div> Ja mina nain yhden hanen paistansa niinkuin se olis kuoliaaksi haavoitettu ollut, ja hanen kuolemahaavansa parani, ja koko maan piiri ihmetteli sita petoa,	
+<div class="theverse"><div class="versenum">3.</div> Ja mina nain yhden hanen paistansa niinkuin se olis kuoliaaksi haavoitettu ollut, ja hanen kuolemahaavansa parani, ja koko maan piiri ihmetteli sita petoa,	</div>
 
-<div class="versenum">4.</div> Ja kumarsivat lohikarmetta, joka pedolle voiman antoi. Ja he kumarsivat petoa ja sanoivat: kuka on taman pedon kaltainen? kuka voi sotia hanta vastaan?	
+<div class="theverse"><div class="versenum">4.</div> Ja kumarsivat lohikarmetta, joka pedolle voiman antoi. Ja he kumarsivat petoa ja sanoivat: kuka on taman pedon kaltainen? kuka voi sotia hanta vastaan?	</div>
 
-<div class="versenum">5.</div> Ja hanelle annettiin suu puhua suuria asioita ja pilkkoja, ja hanelle annettiin valta pitaa sotaa kaksiviidetta kuukautta.	
+<div class="theverse"><div class="versenum">5.</div> Ja hanelle annettiin suu puhua suuria asioita ja pilkkoja, ja hanelle annettiin valta pitaa sotaa kaksiviidetta kuukautta.	</div>
 
-<div class="versenum">6.</div> Ja han avasi suunsa pilkkoja puhumaan Jumalaa vastaan, pilkkaamaan hanen nimeansa, ja hanen majaansa, ja niita, jotka taivaassa asuvat.	
+<div class="theverse"><div class="versenum">6.</div> Ja han avasi suunsa pilkkoja puhumaan Jumalaa vastaan, pilkkaamaan hanen nimeansa, ja hanen majaansa, ja niita, jotka taivaassa asuvat.	</div>
 
-<div class="versenum">7.</div> Ja hanen sallittiin sotia pyhain kanssa ja voittaa heita. Ja hanelle annettiin valta kaikkein sukukuntain paalle, ja kansain, ja kielten, ja pakanain.	
+<div class="theverse"><div class="versenum">7.</div> Ja hanen sallittiin sotia pyhain kanssa ja voittaa heita. Ja hanelle annettiin valta kaikkein sukukuntain paalle, ja kansain, ja kielten, ja pakanain.	</div>
 
-<div class="versenum">8.</div> Ja kaikki, jotka maassa asuvat, kumarsivat hanta, joiden nimet ei ole kirjoitetut Karitsan elaman kirjassa, joka maailman alusta tapettu on.	
+<div class="theverse"><div class="versenum">8.</div> Ja kaikki, jotka maassa asuvat, kumarsivat hanta, joiden nimet ei ole kirjoitetut Karitsan elaman kirjassa, joka maailman alusta tapettu on.	</div>
 
-<div class="versenum">9.</div> Jos jollakin korva on, se kuulkaan.	
+<div class="theverse"><div class="versenum">9.</div> Jos jollakin korva on, se kuulkaan.	</div>
 
-<div class="versenum">10.</div> Joka vankiuteen vie, se vankiuteen menee, joka miekalla tappaa, se miekalla tapetaan. Tassa on pyhain karsivallisyys ja usko.	
+<div class="theverse"><div class="versenum">10.</div> Joka vankiuteen vie, se vankiuteen menee, joka miekalla tappaa, se miekalla tapetaan. Tassa on pyhain karsivallisyys ja usko.	</div>
 
-<div class="versenum">11.</div> Ja mina nain toisen pedon maasta astuvan ylos, ja hanella oli kaksi sarvea niinkuin lampaalla, ja han puhui niinkuin lohikarme.	
+<div class="theverse"><div class="versenum">11.</div> Ja mina nain toisen pedon maasta astuvan ylos, ja hanella oli kaksi sarvea niinkuin lampaalla, ja han puhui niinkuin lohikarme.	</div>
 
-<div class="versenum">12.</div> Ja se tekee kaiken entisen pedon voiman, sen nahden, ja saattaa maan ja sen asuvaiset ensimaista petoa kumartamaan, jonka kuolemahaava parantunut oli.	
+<div class="theverse"><div class="versenum">12.</div> Ja se tekee kaiken entisen pedon voiman, sen nahden, ja saattaa maan ja sen asuvaiset ensimaista petoa kumartamaan, jonka kuolemahaava parantunut oli.	</div>
 
-<div class="versenum">13.</div> Ja tekee suuria ihmeita, niin etta han saattaa tulenkin putoomaan taivaasta alas maan paalle, ihmisten edesta;	
+<div class="theverse"><div class="versenum">13.</div> Ja tekee suuria ihmeita, niin etta han saattaa tulenkin putoomaan taivaasta alas maan paalle, ihmisten edesta;	</div>
 
-<div class="versenum">14.</div> Ja viettelee maan asuvia niilla ihmeilla, joita hanen oli annettu pedon edessa tehda, sanoen maan asuville, etta he tekisivat pedon kuvan, jolla miekan haava on, ja joka virkosi.	
+<div class="theverse"><div class="versenum">14.</div> Ja viettelee maan asuvia niilla ihmeilla, joita hanen oli annettu pedon edessa tehda, sanoen maan asuville, etta he tekisivat pedon kuvan, jolla miekan haava on, ja joka virkosi.	</div>
 
-<div class="versenum">15.</div> Ja sallittiin hanelle antaa hengen pedon kuvalle, etta pedon kuva myos puhuis, ja tekis, etta jokainen, joka ei pedon kuvaa kumarra, pitaa tapettaman.	
+<div class="theverse"><div class="versenum">15.</div> Ja sallittiin hanelle antaa hengen pedon kuvalle, etta pedon kuva myos puhuis, ja tekis, etta jokainen, joka ei pedon kuvaa kumarra, pitaa tapettaman.	</div>
 
-<div class="versenum">16.</div> Ja se saattaa kaikki, pienet ja suuret, rikkaat ja koyhat, vapaat ja palveliat, ottamaan merkin oikiaan kateensa taikka otsiinsa;	
+<div class="theverse"><div class="versenum">16.</div> Ja se saattaa kaikki, pienet ja suuret, rikkaat ja koyhat, vapaat ja palveliat, ottamaan merkin oikiaan kateensa taikka otsiinsa;	</div>
 
-<div class="versenum">17.</div> Ja ettei kenkaan taitanut ostaa eika myyda, jolla ei se merkki ollut, taikka pedon nimi, eli hanen nimensa luku.	
+<div class="theverse"><div class="versenum">17.</div> Ja ettei kenkaan taitanut ostaa eika myyda, jolla ei se merkki ollut, taikka pedon nimi, eli hanen nimensa luku.	</div>
 
-<div class="versenum">18.</div> Tassa on viisaus. Jolla on ymmarrys, laskekaan pedon luvun; silla se on ihmisen luku, ja hanen lukunsa on kuusisataa kuusikymmenta ja kuusi.	
+<div class="theverse"><div class="versenum">18.</div> Tassa on viisaus. Jolla on ymmarrys, laskekaan pedon luvun; silla se on ihmisen luku, ja hanen lukunsa on kuusisataa kuusikymmenta ja kuusi.	</div>
 </body>
 </html>

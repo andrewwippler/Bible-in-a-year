@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">Psalmien 118	</div>
 	
-<div class="versenum">1.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">1.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	</div>
 
-<div class="versenum">2.</div> Sanokaan nyt Israel: hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">2.</div> Sanokaan nyt Israel: hanen laupiutensa pysyy ijankaikkisesti.	</div>
 
-<div class="versenum">3.</div> Sanokaan nyt Aaronin huone: hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">3.</div> Sanokaan nyt Aaronin huone: hanen laupiutensa pysyy ijankaikkisesti.	</div>
 
-<div class="versenum">4.</div> Sanokaan nyt kaikki, jotka Herraa pelkaavat: hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">4.</div> Sanokaan nyt kaikki, jotka Herraa pelkaavat: hanen laupiutensa pysyy ijankaikkisesti.	</div>
 
-<div class="versenum">5.</div> Tuskissani mina Herraa avukseni huusin, ja Herra kuuli minua, ja pelasti minun.	
+<div class="theverse"><div class="versenum">5.</div> Tuskissani mina Herraa avukseni huusin, ja Herra kuuli minua, ja pelasti minun.	</div>
 
-<div class="versenum">6.</div> Herra on minun kanssani; sentahden en mina pelkaa, mita ihmiset minulle tekisivat.	
+<div class="theverse"><div class="versenum">6.</div> Herra on minun kanssani; sentahden en mina pelkaa, mita ihmiset minulle tekisivat.	</div>
 
-<div class="versenum">7.</div> Herra on minun kanssani auttamassa minua, ja mina tahdon nahda iloni minun vihollisistani.	
+<div class="theverse"><div class="versenum">7.</div> Herra on minun kanssani auttamassa minua, ja mina tahdon nahda iloni minun vihollisistani.	</div>
 
-<div class="versenum">8.</div> Parempi on uskaltaa Herran paalle, kuin luottaa ihmisiin.	
+<div class="theverse"><div class="versenum">8.</div> Parempi on uskaltaa Herran paalle, kuin luottaa ihmisiin.	</div>
 
-<div class="versenum">9.</div> Parempi on uskaltaa Herran paalle, kuin luottaa paamiehiin.	
+<div class="theverse"><div class="versenum">9.</div> Parempi on uskaltaa Herran paalle, kuin luottaa paamiehiin.	</div>
 
-<div class="versenum">10.</div> Kaikki pakanat piirittavat minua; mutta Herran nimeen mina heita lyon maahan.	
+<div class="theverse"><div class="versenum">10.</div> Kaikki pakanat piirittavat minua; mutta Herran nimeen mina heita lyon maahan.	</div>
 
-<div class="versenum">11.</div> He piirittavat minua joka kulmalta; mutta Herran nimeen mina heita lyon maahan.	
+<div class="theverse"><div class="versenum">11.</div> He piirittavat minua joka kulmalta; mutta Herran nimeen mina heita lyon maahan.	</div>
 
-<div class="versenum">12.</div> He piirittavat minua niinkuin kimalaiset, ja he sammuvat niinkuin tuli orjantappuroissa; mutta Herran nimeen mina heita lyon maahan.	
+<div class="theverse"><div class="versenum">12.</div> He piirittavat minua niinkuin kimalaiset, ja he sammuvat niinkuin tuli orjantappuroissa; mutta Herran nimeen mina heita lyon maahan.	</div>
 
-<div class="versenum">13.</div> Minua kovin sysataan lankeemaan; mutta Herra auttaa minua.	
+<div class="theverse"><div class="versenum">13.</div> Minua kovin sysataan lankeemaan; mutta Herra auttaa minua.	</div>
 
-<div class="versenum">14.</div> Herra on minun vakevyyteni, ja minun virteni, ja on minun autuuteni.	
+<div class="theverse"><div class="versenum">14.</div> Herra on minun vakevyyteni, ja minun virteni, ja on minun autuuteni.	</div>
 
-<div class="versenum">15.</div> Ilon ja autuuden aani on vanhurskasten majoissa: Herran oikia kasi saa voiton.	
+<div class="theverse"><div class="versenum">15.</div> Ilon ja autuuden aani on vanhurskasten majoissa: Herran oikia kasi saa voiton.	</div>
 
-<div class="versenum">16.</div> Herran oikia kasi on koroitettu: Herran oikia kasi saa voiton.	
+<div class="theverse"><div class="versenum">16.</div> Herran oikia kasi on koroitettu: Herran oikia kasi saa voiton.	</div>
 
-<div class="versenum">17.</div> En mina kuole, vaan elan, ja Herran tekoja luettelen.	
+<div class="theverse"><div class="versenum">17.</div> En mina kuole, vaan elan, ja Herran tekoja luettelen.	</div>
 
-<div class="versenum">18.</div> Kylla Herra minua kurittaa, vaan ei han minua kuolemalle anna.	
+<div class="theverse"><div class="versenum">18.</div> Kylla Herra minua kurittaa, vaan ei han minua kuolemalle anna.	</div>
 
-<div class="versenum">19.</div> Avatkaat minulle vanhurskauden portit, minun kaydakseni sisalle, kiittamaan Herraa.	
+<div class="theverse"><div class="versenum">19.</div> Avatkaat minulle vanhurskauden portit, minun kaydakseni sisalle, kiittamaan Herraa.	</div>
 
-<div class="versenum">20.</div> Tama on Herran portti: vanhurskaat siita kayvat sisalle.	
+<div class="theverse"><div class="versenum">20.</div> Tama on Herran portti: vanhurskaat siita kayvat sisalle.	</div>
 
-<div class="versenum">21.</div> Mina kiitan sinua, ettas minun rukoukseni kuulit, ja autit minua.	
+<div class="theverse"><div class="versenum">21.</div> Mina kiitan sinua, ettas minun rukoukseni kuulit, ja autit minua.	</div>
 
-<div class="versenum">22.</div> Se kivi, jonka rakentajat hylkasivat, on tullut kulmakiveksi.	
+<div class="theverse"><div class="versenum">22.</div> Se kivi, jonka rakentajat hylkasivat, on tullut kulmakiveksi.	</div>
 
-<div class="versenum">23.</div> Herralta se on tapahtunut, ja on ihme meidan silmaimme edessa.	
+<div class="theverse"><div class="versenum">23.</div> Herralta se on tapahtunut, ja on ihme meidan silmaimme edessa.	</div>
 
-<div class="versenum">24.</div> Tama on se paiva, jonka Herra teki: iloitkaamme ja riemuitkaamme hanessa.	
+<div class="theverse"><div class="versenum">24.</div> Tama on se paiva, jonka Herra teki: iloitkaamme ja riemuitkaamme hanessa.	</div>
 
-<div class="versenum">25.</div> O Herra, auta, o Herra, anna menestya!	
+<div class="theverse"><div class="versenum">25.</div> O Herra, auta, o Herra, anna menestya!	</div>
 
-<div class="versenum">26.</div> Siunattu olkoon se,joka tulee Herran nimeen! me siunaamme teita Herran huoneesta.	
+<div class="theverse"><div class="versenum">26.</div> Siunattu olkoon se,joka tulee Herran nimeen! me siunaamme teita Herran huoneesta.	</div>
 
-<div class="versenum">27.</div> Herra on Jumala, joka meita valistaa: kaunistakaat juhlalehdilla hamaan alttarin sarviin asti.	
+<div class="theverse"><div class="versenum">27.</div> Herra on Jumala, joka meita valistaa: kaunistakaat juhlalehdilla hamaan alttarin sarviin asti.	</div>
 
-<div class="versenum">28.</div> Sina olet minun Jumalani, ja mina kiitan sinua; minun Jumalani! sinua mina ylistan.	
+<div class="theverse"><div class="versenum">28.</div> Sina olet minun Jumalani, ja mina kiitan sinua; minun Jumalani! sinua mina ylistan.	</div>
 
-<div class="versenum">29.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">29.</div> Kiittakaat Herraa; silla han on hyva, ja hanen laupiutensa pysyy ijankaikkisesti.	</div>
 </body>
 </html>

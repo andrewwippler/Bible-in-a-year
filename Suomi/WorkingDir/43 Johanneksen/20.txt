@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">Johanneksen 20	</div>
 	
-<div class="versenum">1.</div> Mutta ensimmaisena paivana viikossa tuli Maria Magdalena varhain, kuin viela pimia oli, haudalle ja naki kiven otetuksi pois haudalta.	
+<div class="theverse"><div class="versenum">1.</div> Mutta ensimmaisena paivana viikossa tuli Maria Magdalena varhain, kuin viela pimia oli, haudalle ja naki kiven otetuksi pois haudalta.	</div>
 
-<div class="versenum">2.</div> Niin han juoksi ja tuli Simon Pietarin tyko ja sen opetuslapsen tyko, jota Jesus rakasti, ja sanoi heille: he ovat Herran ottaneet pois haudasta, ja emme tieda, kuhunka he hanen panivat.	
+<div class="theverse"><div class="versenum">2.</div> Niin han juoksi ja tuli Simon Pietarin tyko ja sen opetuslapsen tyko, jota Jesus rakasti, ja sanoi heille: he ovat Herran ottaneet pois haudasta, ja emme tieda, kuhunka he hanen panivat.	</div>
 
-<div class="versenum">3.</div> Niin Pietari meni ulos ja toinen opetuslapsi, ja tulivat haudalle.	
+<div class="theverse"><div class="versenum">3.</div> Niin Pietari meni ulos ja toinen opetuslapsi, ja tulivat haudalle.	</div>
 
-<div class="versenum">4.</div> Mutta he juoksivat kahden ynna, ja toinen opetuslapsi juoksi edella nopeammin kuin Pietari, ja tuli ensin haudalle.	
+<div class="theverse"><div class="versenum">4.</div> Mutta he juoksivat kahden ynna, ja toinen opetuslapsi juoksi edella nopeammin kuin Pietari, ja tuli ensin haudalle.	</div>
 
-<div class="versenum">5.</div> Ja kuin han itsensa kumarsi, naki han liinaiset pantuna, mutta ei han kuitenkaan mennyt sisalle.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin han itsensa kumarsi, naki han liinaiset pantuna, mutta ei han kuitenkaan mennyt sisalle.	</div>
 
-<div class="versenum">6.</div> Niin Simon Pietari tuli seuraten hanta, ja meni hautaan, ja naki kaariliinat pantuna.	
+<div class="theverse"><div class="versenum">6.</div> Niin Simon Pietari tuli seuraten hanta, ja meni hautaan, ja naki kaariliinat pantuna.	</div>
 
-<div class="versenum">7.</div> Ja hikiliinan, joka hanen paansa paalla oli ollut, ei kaariliinan kanssa, vaan erinansa kaarittyna yhteen paikkaan.	
+<div class="theverse"><div class="versenum">7.</div> Ja hikiliinan, joka hanen paansa paalla oli ollut, ei kaariliinan kanssa, vaan erinansa kaarittyna yhteen paikkaan.	</div>
 
-<div class="versenum">8.</div> Niin meni myos toinen opetuslapsi sisalle, joka ensin haudalle tullut oli, ja naki sen ja uskoi.	
+<div class="theverse"><div class="versenum">8.</div> Niin meni myos toinen opetuslapsi sisalle, joka ensin haudalle tullut oli, ja naki sen ja uskoi.	</div>
 
-<div class="versenum">9.</div> Silla ei he viela Raamattua ymmartaneet, etta han oli nouseva kuolleista.	
+<div class="theverse"><div class="versenum">9.</div> Silla ei he viela Raamattua ymmartaneet, etta han oli nouseva kuolleista.	</div>
 
-<div class="versenum">10.</div> Niin ne opetuslapset menivat taas yhteen.	
+<div class="theverse"><div class="versenum">10.</div> Niin ne opetuslapset menivat taas yhteen.	</div>
 
-<div class="versenum">11.</div> Mutta Maria seisoi ulkona haudan edessa ja itki. Ja kuin han niin itki, kumarsi han itsensa hautaan.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Maria seisoi ulkona haudan edessa ja itki. Ja kuin han niin itki, kumarsi han itsensa hautaan.	</div>
 
-<div class="versenum">12.</div> Ja naki kaksi enkelia valkeissa vaatteissa istuvan, yhden paan puolessa ja toisen jalkain puolessa, siina missa Jesuksen ruumis pantu oli.	
+<div class="theverse"><div class="versenum">12.</div> Ja naki kaksi enkelia valkeissa vaatteissa istuvan, yhden paan puolessa ja toisen jalkain puolessa, siina missa Jesuksen ruumis pantu oli.	</div>
 
-<div class="versenum">13.</div> Ne sanoivat hanelle: vaimo, mitas itket? Han sanoi heille: he ovat minun Herrani ottaneet pois, ja en tieda, kuhunka he hanen ovat panneet.	
+<div class="theverse"><div class="versenum">13.</div> Ne sanoivat hanelle: vaimo, mitas itket? Han sanoi heille: he ovat minun Herrani ottaneet pois, ja en tieda, kuhunka he hanen ovat panneet.	</div>
 
-<div class="versenum">14.</div> Ja kuin han namat sanonut oli, kaansi han itsensa taapain, ja naki Jesuksen seisovan, eika tietanyt, etta se oli Jesus.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin han namat sanonut oli, kaansi han itsensa taapain, ja naki Jesuksen seisovan, eika tietanyt, etta se oli Jesus.	</div>
 
-<div class="versenum">15.</div> Sanoi Jesus hanelle: vaimo, mitas itket? ketas etsit? Mutta han luuli sen yrttitarhan haltiaksi, ja sanoi hanelle: Herra, jos sina hanen kannoit pois, niin sano minulle, kuhunkas hanen panit, ja mina tahdon hanen ottaa.	
+<div class="theverse"><div class="versenum">15.</div> Sanoi Jesus hanelle: vaimo, mitas itket? ketas etsit? Mutta han luuli sen yrttitarhan haltiaksi, ja sanoi hanelle: Herra, jos sina hanen kannoit pois, niin sano minulle, kuhunkas hanen panit, ja mina tahdon hanen ottaa.	</div>
 
-<div class="versenum">16.</div> Jesus sanoi hanelle: Maria! niin han kaansi itsensa ja sanoi hanelle: Rabboni, se on: Mestari.	
+<div class="theverse"><div class="versenum">16.</div> Jesus sanoi hanelle: Maria! niin han kaansi itsensa ja sanoi hanelle: Rabboni, se on: Mestari.	</div>
 
-<div class="versenum">17.</div> Jesus sanoi hanelle: ala minuun rupee; silla en mina ole viela mennyt ylos minun Isani tyko, vaan mene minun veljeini tyko ja sano heille: mina menen ylos minun Isani tyko ja teidan Isanne tyko, ja minun Jumalani tyko ja teidan Jumalanne tyko.	
+<div class="theverse"><div class="versenum">17.</div> Jesus sanoi hanelle: ala minuun rupee; silla en mina ole viela mennyt ylos minun Isani tyko, vaan mene minun veljeini tyko ja sano heille: mina menen ylos minun Isani tyko ja teidan Isanne tyko, ja minun Jumalani tyko ja teidan Jumalanne tyko.	</div>
 
-<div class="versenum">18.</div> Maria Magdalena tuli ja ilmoitti opetuslapsille, etta han oli nahnyt Herran, ja etta han naita hanelle sanoi.	
+<div class="theverse"><div class="versenum">18.</div> Maria Magdalena tuli ja ilmoitti opetuslapsille, etta han oli nahnyt Herran, ja etta han naita hanelle sanoi.	</div>
 
-<div class="versenum">19.</div> Kuin siis sen sabbatin paivan ehtoo oli, ja ovet olivat suljetut, jossa opetuslapset kokoontuneet olivat Juudalaisten pelvon tahden, tuli Jesus ja seisoi heidan keskellansa ja sanoi heille: rauha olkoon teille!	
+<div class="theverse"><div class="versenum">19.</div> Kuin siis sen sabbatin paivan ehtoo oli, ja ovet olivat suljetut, jossa opetuslapset kokoontuneet olivat Juudalaisten pelvon tahden, tuli Jesus ja seisoi heidan keskellansa ja sanoi heille: rauha olkoon teille!	</div>
 
-<div class="versenum">20.</div> Ja kuin han sen sanonut oli, osoitti han heille katensa ja kylkensa. Niin opetuslapset ihastuivat, etta he nakivat Herran.	
+<div class="theverse"><div class="versenum">20.</div> Ja kuin han sen sanonut oli, osoitti han heille katensa ja kylkensa. Niin opetuslapset ihastuivat, etta he nakivat Herran.	</div>
 
-<div class="versenum">21.</div> Ja Jesus taas sanoi heille: rauha olkoon teille! niinkuin Isa minun lahetti, niin mina myos lahetan teidat.	
+<div class="theverse"><div class="versenum">21.</div> Ja Jesus taas sanoi heille: rauha olkoon teille! niinkuin Isa minun lahetti, niin mina myos lahetan teidat.	</div>
 
-<div class="versenum">22.</div> Ja kuin han namat sanonut oli, puhalsi han heidan paallensa ja sanoi heille: ottakaat Pyha Henki:	
+<div class="theverse"><div class="versenum">22.</div> Ja kuin han namat sanonut oli, puhalsi han heidan paallensa ja sanoi heille: ottakaat Pyha Henki:	</div>
 
-<div class="versenum">23.</div> Joille te synnit anteeksi annatte, niille ne anteeksi annetaan, ja joille te ne pidatte, niille ne ovat pidetyt.	
+<div class="theverse"><div class="versenum">23.</div> Joille te synnit anteeksi annatte, niille ne anteeksi annetaan, ja joille te ne pidatte, niille ne ovat pidetyt.	</div>
 
-<div class="versenum">24.</div> Mutta Toomas, yksi kahdestatoistakymmenesta, joka kaksoiseksi kutsutaan, ei ollut heidan kanssansa, kuin Jesus tuli.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Toomas, yksi kahdestatoistakymmenesta, joka kaksoiseksi kutsutaan, ei ollut heidan kanssansa, kuin Jesus tuli.	</div>
 
-<div class="versenum">25.</div> Niin muut opetuslapset sanoivat hanelle: me naimme Herran. Mutta han sanoi heille: ellen mina nae hanen kasissansa naulan reikaa, ja pista sormeani naulain siaan, ja pista kattani hanen kylkeensa, en mina usko.	
+<div class="theverse"><div class="versenum">25.</div> Niin muut opetuslapset sanoivat hanelle: me naimme Herran. Mutta han sanoi heille: ellen mina nae hanen kasissansa naulan reikaa, ja pista sormeani naulain siaan, ja pista kattani hanen kylkeensa, en mina usko.	</div>
 
-<div class="versenum">26.</div> Ja kahdeksan paivan perasta olivat opetuslapset taas sisalla, ja Toomas heidan kanssansa. Niin Jesus tuli, kuin ovet suljetut olivat, ja seisoi heidan keskellansa, ja sanoi: rauha olkoon teille!	
+<div class="theverse"><div class="versenum">26.</div> Ja kahdeksan paivan perasta olivat opetuslapset taas sisalla, ja Toomas heidan kanssansa. Niin Jesus tuli, kuin ovet suljetut olivat, ja seisoi heidan keskellansa, ja sanoi: rauha olkoon teille!	</div>
 
-<div class="versenum">27.</div> Sitte sanoi han Toomaalle: pista sormes tanne, ja katso minun kasiani, ja ojenna tanne kates, ja pista minun kylkeeni, ja ala ole epauskoinen, vaan uskovainen.	
+<div class="theverse"><div class="versenum">27.</div> Sitte sanoi han Toomaalle: pista sormes tanne, ja katso minun kasiani, ja ojenna tanne kates, ja pista minun kylkeeni, ja ala ole epauskoinen, vaan uskovainen.	</div>
 
-<div class="versenum">28.</div> Toomas vastasi ja sanoi hanelle: minun Herrani ja minun Jumalani!	
+<div class="theverse"><div class="versenum">28.</div> Toomas vastasi ja sanoi hanelle: minun Herrani ja minun Jumalani!	</div>
 
-<div class="versenum">29.</div> Jesus sanoi hanelle: ettas nait minun, Toomas, niin sina uskoit: autuaat ovat ne, jotka ei nae, ja kuitenkin uskovat.	
+<div class="theverse"><div class="versenum">29.</div> Jesus sanoi hanelle: ettas nait minun, Toomas, niin sina uskoit: autuaat ovat ne, jotka ei nae, ja kuitenkin uskovat.	</div>
 
-<div class="versenum">30.</div> Niin teki myos Jesus monta muuta merkkia opetuslastensa nahden, jotka ei tassa kirjassa ole kirjoitetut.	
+<div class="theverse"><div class="versenum">30.</div> Niin teki myos Jesus monta muuta merkkia opetuslastensa nahden, jotka ei tassa kirjassa ole kirjoitetut.	</div>
 
-<div class="versenum">31.</div> Mutta namat ovat kirjoitetut, etta te uskoisitte, etta Jesus on Kristus, Jumalan Poika, ja etta te saisitte elaman uskon kautta hanen nimeensa.	
+<div class="theverse"><div class="versenum">31.</div> Mutta namat ovat kirjoitetut, etta te uskoisitte, etta Jesus on Kristus, Jumalan Poika, ja etta te saisitte elaman uskon kautta hanen nimeensa.	</div>
 </body>
 </html>

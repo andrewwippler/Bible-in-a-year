@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Jobin 29	</div>
 	
-<div class="versenum">1.</div> Job puhui taas sananlaskunsa ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Job puhui taas sananlaskunsa ja sanoi:	</div>
 
-<div class="versenum">2.</div> Ah jos mina olisin niinkuin entisina kuukausina! niina paivina, joina Jumala minun katki,	
+<div class="theverse"><div class="versenum">2.</div> Ah jos mina olisin niinkuin entisina kuukausina! niina paivina, joina Jumala minun katki,	</div>
 
-<div class="versenum">3.</div> Koska hanen valkeutensa paisti minun paani paalle, ja mina kavin pimeissa hanen valkeudessansa,	
+<div class="theverse"><div class="versenum">3.</div> Koska hanen valkeutensa paisti minun paani paalle, ja mina kavin pimeissa hanen valkeudessansa,	</div>
 
-<div class="versenum">4.</div> Niinkuin mina olin nuorena olessani; koska Jumalan salaisuus oli minun majani paalla;	
+<div class="theverse"><div class="versenum">4.</div> Niinkuin mina olin nuorena olessani; koska Jumalan salaisuus oli minun majani paalla;	</div>
 
-<div class="versenum">5.</div> Koska Kaikkivaltias oli viela minun kanssani, ja minun nuorukaiseni minun ymparillani;	
+<div class="theverse"><div class="versenum">5.</div> Koska Kaikkivaltias oli viela minun kanssani, ja minun nuorukaiseni minun ymparillani;	</div>
 
-<div class="versenum">6.</div> Koska mina pesin minun tieni voilla, ja kallio vuoti minulle oljy-ojat;	
+<div class="theverse"><div class="versenum">6.</div> Koska mina pesin minun tieni voilla, ja kallio vuoti minulle oljy-ojat;	</div>
 
-<div class="versenum">7.</div> Koska mina menin kaupunin porteille, ja annoin valmistaa istuimeni kujille;	
+<div class="theverse"><div class="versenum">7.</div> Koska mina menin kaupunin porteille, ja annoin valmistaa istuimeni kujille;	</div>
 
-<div class="versenum">8.</div> Kuin nuoret nakivat minun, niin he pakenivat, ja vanhat nousivat ja seisoivat minun edessani,	
+<div class="theverse"><div class="versenum">8.</div> Kuin nuoret nakivat minun, niin he pakenivat, ja vanhat nousivat ja seisoivat minun edessani,	</div>
 
-<div class="versenum">9.</div> Ylimmaiset lakkasivat puhumasta, ja panivat katensa suunsa paalle,	
+<div class="theverse"><div class="versenum">9.</div> Ylimmaiset lakkasivat puhumasta, ja panivat katensa suunsa paalle,	</div>
 
-<div class="versenum">10.</div> Ruhtinasten aani katkeysi, ja heidan kielensa suun lakeen tarttui.	
+<div class="theverse"><div class="versenum">10.</div> Ruhtinasten aani katkeysi, ja heidan kielensa suun lakeen tarttui.	</div>
 
-<div class="versenum">11.</div> Silla kenen korva minun kuuli, se kiitti minua onnelliseksi, ja jonka silma minun naki, se todisti minusta.	
+<div class="theverse"><div class="versenum">11.</div> Silla kenen korva minun kuuli, se kiitti minua onnelliseksi, ja jonka silma minun naki, se todisti minusta.	</div>
 
-<div class="versenum">12.</div> Silla mina autin koyhaa, joka huusi, ja orpoa, jolla ei auttajaa ollut.	
+<div class="theverse"><div class="versenum">12.</div> Silla mina autin koyhaa, joka huusi, ja orpoa, jolla ei auttajaa ollut.	</div>
 
-<div class="versenum">13.</div> Niiden siunaus, jotka katoomallansa olivat, tuli minun paalleni; ja mina ilahutin leskein sydamen.	
+<div class="theverse"><div class="versenum">13.</div> Niiden siunaus, jotka katoomallansa olivat, tuli minun paalleni; ja mina ilahutin leskein sydamen.	</div>
 
-<div class="versenum">14.</div> Vanhurskaus oli minun pukuni, jonka mina paalleni puin, ja minun oikeuteni oli minulle niinkuin hame ja kaunistus.	
+<div class="theverse"><div class="versenum">14.</div> Vanhurskaus oli minun pukuni, jonka mina paalleni puin, ja minun oikeuteni oli minulle niinkuin hame ja kaunistus.	</div>
 
-<div class="versenum">15.</div> Mina olin sokian silma ja ontuvan jalka.	
+<div class="theverse"><div class="versenum">15.</div> Mina olin sokian silma ja ontuvan jalka.	</div>
 
-<div class="versenum">16.</div> Mina olin koyhain isa, ja jonka asiaa en mina ymmartanyt, sen mina visusti tutkin.	
+<div class="theverse"><div class="versenum">16.</div> Mina olin koyhain isa, ja jonka asiaa en mina ymmartanyt, sen mina visusti tutkin.	</div>
 
-<div class="versenum">17.</div> Mina sarjin vaaran syomahampaat, ja otin saaliin hanen hampaistansa,	
+<div class="theverse"><div class="versenum">17.</div> Mina sarjin vaaran syomahampaat, ja otin saaliin hanen hampaistansa,	</div>
 
-<div class="versenum">18.</div> Mina ajattelin: mina riuduin pesassani, ja teen paivani moneksi niinkuin sannan.	
+<div class="theverse"><div class="versenum">18.</div> Mina ajattelin: mina riuduin pesassani, ja teen paivani moneksi niinkuin sannan.	</div>
 
-<div class="versenum">19.</div> Minun juureni putkahti veden tykona, ja kaste pysyi laihoni paalla.	
+<div class="theverse"><div class="versenum">19.</div> Minun juureni putkahti veden tykona, ja kaste pysyi laihoni paalla.	</div>
 
-<div class="versenum">20.</div> Minun kunniallisuuteni uudistui minun edessani, ja minun joutseni muuttui uudeksi minun kadessani.	
+<div class="theverse"><div class="versenum">20.</div> Minun kunniallisuuteni uudistui minun edessani, ja minun joutseni muuttui uudeksi minun kadessani.	</div>
 
-<div class="versenum">21.</div> He kuulivat minua ja odottivat, ja vaikenivat minun neuvooni.	
+<div class="theverse"><div class="versenum">21.</div> He kuulivat minua ja odottivat, ja vaikenivat minun neuvooni.	</div>
 
-<div class="versenum">22.</div> Minun sanani jalkeen ei yksikaan enempaa puhunut, ja minun puheeni tiukkui heidan paallensa.	
+<div class="theverse"><div class="versenum">22.</div> Minun sanani jalkeen ei yksikaan enempaa puhunut, ja minun puheeni tiukkui heidan paallensa.	</div>
 
-<div class="versenum">23.</div> He odottivat minua niinkuin sadetta, ja avasivat suunsa niinkuin ehtoosadetta vastaan.	
+<div class="theverse"><div class="versenum">23.</div> He odottivat minua niinkuin sadetta, ja avasivat suunsa niinkuin ehtoosadetta vastaan.	</div>
 
-<div class="versenum">24.</div> Jos mina nauroin heidan puoleensa, ei he luottaneet sen paalle, eika tahtoneet minua murheesen saattaa.	
+<div class="theverse"><div class="versenum">24.</div> Jos mina nauroin heidan puoleensa, ei he luottaneet sen paalle, eika tahtoneet minua murheesen saattaa.	</div>
 
-<div class="versenum">25.</div> Kuin mina tulin heidan kokouksiinsa, niin minun taytyi istua ylimpana: ja asuin niinkuin kuningas sotavaen keskella, lohduttaissani murheellisia.	
+<div class="theverse"><div class="versenum">25.</div> Kuin mina tulin heidan kokouksiinsa, niin minun taytyi istua ylimpana: ja asuin niinkuin kuningas sotavaen keskella, lohduttaissani murheellisia.	</div>
 </body>
 </html>

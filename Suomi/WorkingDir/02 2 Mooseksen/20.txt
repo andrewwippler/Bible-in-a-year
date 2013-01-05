@@ -4,56 +4,56 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 20	</div>
 	
-<div class="versenum">1.</div> Ja Jumala puhui kaikki namat sanat, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Jumala puhui kaikki namat sanat, sanoen:	</div>
 
-<div class="versenum">2.</div> (1) Mina (olen) Herra sinun Jumalas; joka sinun Egyptin maalta orjuuden huoneesta ulos vienyt olen.	
+<div class="theverse"><div class="versenum">2.</div> (1) Mina (olen) Herra sinun Jumalas; joka sinun Egyptin maalta orjuuden huoneesta ulos vienyt olen.	</div>
 
-<div class="versenum">3.</div> Ei sinun pida muita jumalia pitaman minun edessani.	
+<div class="theverse"><div class="versenum">3.</div> Ei sinun pida muita jumalia pitaman minun edessani.	</div>
 
-<div class="versenum">4.</div> Ei sinun pida tekeman sinulles kuvaa eika jonkun muotoa, niiden jotka ylhaalla taivaassa ovat, eli niiden, jotka alhaalla ovat maan paalla, eika niiden, jotka vesissa maan alla ovat.	
+<div class="theverse"><div class="versenum">4.</div> Ei sinun pida tekeman sinulles kuvaa eika jonkun muotoa, niiden jotka ylhaalla taivaassa ovat, eli niiden, jotka alhaalla ovat maan paalla, eika niiden, jotka vesissa maan alla ovat.	</div>
 
-<div class="versenum">5.</div> Ei sinun pida kumartaman niita, eika myos palveleman niita: Silla mina, Herra sinun Jumalas, olen kiivas Jumala, joka etsiskelen isain pahat teot lasten paalle, kolmanteen ja neljanteen polveen, jotka minua vihaavat;	
+<div class="theverse"><div class="versenum">5.</div> Ei sinun pida kumartaman niita, eika myos palveleman niita: Silla mina, Herra sinun Jumalas, olen kiivas Jumala, joka etsiskelen isain pahat teot lasten paalle, kolmanteen ja neljanteen polveen, jotka minua vihaavat;	</div>
 
-<div class="versenum">6.</div> Ja teen laupiuden monelle tuhannelle, jotka minua rakastavat, ja pitavat minun kaskyni.	
+<div class="theverse"><div class="versenum">6.</div> Ja teen laupiuden monelle tuhannelle, jotka minua rakastavat, ja pitavat minun kaskyni.	</div>
 
-<div class="versenum">7.</div> (2) Ei sinun pida turhaan lausuman sinun Herras Jumalas nimea; silla ei Herra pida sita rankaisemata, joka hanen nimensa turhaan lausuu.	
+<div class="theverse"><div class="versenum">7.</div> (2) Ei sinun pida turhaan lausuman sinun Herras Jumalas nimea; silla ei Herra pida sita rankaisemata, joka hanen nimensa turhaan lausuu.	</div>
 
-<div class="versenum">8.</div> (3) Muista sabbatin paivaa, ettas sen pyhittaisit.	
+<div class="theverse"><div class="versenum">8.</div> (3) Muista sabbatin paivaa, ettas sen pyhittaisit.	</div>
 
-<div class="versenum">9.</div> Kuusi paivaa pitaa sinun tyota tekeman ja kaikki askarees toimittaman.	
+<div class="theverse"><div class="versenum">9.</div> Kuusi paivaa pitaa sinun tyota tekeman ja kaikki askarees toimittaman.	</div>
 
-<div class="versenum">10.</div> Mutta seitsemantena paivana on Herra sinun Jumalas sabbati: silloin ei sinun pida yhtaan tyota tekeman, eika sinun, eika sinun poikas, eika sinun tyttares, eika sinun palvelias, eika sinun piikas, eika sinun juhtas, eika sinun muukalaises, joka sinun portissas on.	
+<div class="theverse"><div class="versenum">10.</div> Mutta seitsemantena paivana on Herra sinun Jumalas sabbati: silloin ei sinun pida yhtaan tyota tekeman, eika sinun, eika sinun poikas, eika sinun tyttares, eika sinun palvelias, eika sinun piikas, eika sinun juhtas, eika sinun muukalaises, joka sinun portissas on.	</div>
 
-<div class="versenum">11.</div> Silla kuutena paivana on Herra, taivaan ja maan ja meren tehnyt, ja kaikki mita niissa ovat, ja lepasi seitsemantena paivana. Sentahden siunasi Herra sabbatin paivan, ja pyhitti sen.	
+<div class="theverse"><div class="versenum">11.</div> Silla kuutena paivana on Herra, taivaan ja maan ja meren tehnyt, ja kaikki mita niissa ovat, ja lepasi seitsemantena paivana. Sentahden siunasi Herra sabbatin paivan, ja pyhitti sen.	</div>
 
-<div class="versenum">12.</div> (4) Sinun pitaa kunnioittaman isaas ja aitias, ettas kauvan elaisit maan paalla, jonka Herra sinun Jumalas antaa sinulle.	
+<div class="theverse"><div class="versenum">12.</div> (4) Sinun pitaa kunnioittaman isaas ja aitias, ettas kauvan elaisit maan paalla, jonka Herra sinun Jumalas antaa sinulle.	</div>
 
-<div class="versenum">13.</div> (5) Ei sinun pida tappaman.	
+<div class="theverse"><div class="versenum">13.</div> (5) Ei sinun pida tappaman.	</div>
 
-<div class="versenum">14.</div> (6) Ei sinun pida huorin tekeman.	
+<div class="theverse"><div class="versenum">14.</div> (6) Ei sinun pida huorin tekeman.	</div>
 
-<div class="versenum">15.</div> (7) Ei sinun pida varastaman.	
+<div class="theverse"><div class="versenum">15.</div> (7) Ei sinun pida varastaman.	</div>
 
-<div class="versenum">16.</div> (8) Ei sinun pida vaaraa todistusta sanoman sinun lahimmaistas vastaan.	
+<div class="theverse"><div class="versenum">16.</div> (8) Ei sinun pida vaaraa todistusta sanoman sinun lahimmaistas vastaan.	</div>
 
-<div class="versenum">17.</div> (9) Ei sinun pida pyytaman sinun lahimmaises huonetta. (10) Ei sinun pida himoitseman sinun lahimmaises emantaa, eika hanen palveliaansa, eika piikaansa, eika hanen harkaansa, eika mitaan mika sinun lahimmaises on.	
+<div class="theverse"><div class="versenum">17.</div> (9) Ei sinun pida pyytaman sinun lahimmaises huonetta. (10) Ei sinun pida himoitseman sinun lahimmaises emantaa, eika hanen palveliaansa, eika piikaansa, eika hanen harkaansa, eika mitaan mika sinun lahimmaises on.	</div>
 
-<div class="versenum">18.</div> Ja kaikki kansa naki pitkaisen jylinan, ja tulen leimaukset, ja basunan helinan, ja vuoren suitsevan: ja koska he sen nakivat, niin he pakenivat ja seisahtuivat taamma.	
+<div class="theverse"><div class="versenum">18.</div> Ja kaikki kansa naki pitkaisen jylinan, ja tulen leimaukset, ja basunan helinan, ja vuoren suitsevan: ja koska he sen nakivat, niin he pakenivat ja seisahtuivat taamma.	</div>
 
-<div class="versenum">19.</div> Niin he sanoivat Mosekselle: puhu sina meidan kanssamme, ja me kuulemme: ja alkaan Jumala meidan kanssamme puhuko, ettemme kuolisi.	
+<div class="theverse"><div class="versenum">19.</div> Niin he sanoivat Mosekselle: puhu sina meidan kanssamme, ja me kuulemme: ja alkaan Jumala meidan kanssamme puhuko, ettemme kuolisi.	</div>
 
-<div class="versenum">20.</div> Ja Moses sanoi kansalle: alkaat peljatko; silla Jumala on tullut teita koettelemaan, ja etta hanen pelkonsa olis teidan edessanne, ettette syntia tekisi.	
+<div class="theverse"><div class="versenum">20.</div> Ja Moses sanoi kansalle: alkaat peljatko; silla Jumala on tullut teita koettelemaan, ja etta hanen pelkonsa olis teidan edessanne, ettette syntia tekisi.	</div>
 
-<div class="versenum">21.</div> Ja kansa seisahtui taamma; mutta Moses meni sen pimeyden tyko, jossa Jumala oli.	
+<div class="theverse"><div class="versenum">21.</div> Ja kansa seisahtui taamma; mutta Moses meni sen pimeyden tyko, jossa Jumala oli.	</div>
 
-<div class="versenum">22.</div> Ja Herra sanoi Mosekselle: niin sinun pitaa Israelin lapsille sanoman: te olette nahneet, etta mina olen taivaasta teidan kanssanne puhunut.	
+<div class="theverse"><div class="versenum">22.</div> Ja Herra sanoi Mosekselle: niin sinun pitaa Israelin lapsille sanoman: te olette nahneet, etta mina olen taivaasta teidan kanssanne puhunut.	</div>
 
-<div class="versenum">23.</div> Ei teidan pida tekeman epajumalia minun sivuuni: hopiaisia jumalia, ja kultaisia jumalia ei teidan pida teillenne tekeman.	
+<div class="theverse"><div class="versenum">23.</div> Ei teidan pida tekeman epajumalia minun sivuuni: hopiaisia jumalia, ja kultaisia jumalia ei teidan pida teillenne tekeman.	</div>
 
-<div class="versenum">24.</div> Tee alttari maasta minulle, jonka paalle sinun pitaa polttouhris ja kiitosuhris, sinun lampaas ja karjas uhraaman: mihinka paikkaan ikanansa mina saadan minun nimeni muiston, sinne mina tulen sinun tykos, ja siunaan sinua.	
+<div class="theverse"><div class="versenum">24.</div> Tee alttari maasta minulle, jonka paalle sinun pitaa polttouhris ja kiitosuhris, sinun lampaas ja karjas uhraaman: mihinka paikkaan ikanansa mina saadan minun nimeni muiston, sinne mina tulen sinun tykos, ja siunaan sinua.	</div>
 
-<div class="versenum">25.</div> Ja jos sina teet minulle kivisen alttarin, niin ala tee sita vuoltuista kivista: jos sina siihen veitses satutat, niin sina sen saastutat.	
+<div class="theverse"><div class="versenum">25.</div> Ja jos sina teet minulle kivisen alttarin, niin ala tee sita vuoltuista kivista: jos sina siihen veitses satutat, niin sina sen saastutat.	</div>
 
-<div class="versenum">26.</div> Ei myos sinun pida astumilla minun alttarilleni astuman, ettei sinun hapias sen paalla paljastettaisi.	
+<div class="theverse"><div class="versenum">26.</div> Ei myos sinun pida astumilla minun alttarilleni astuman, ettei sinun hapias sen paalla paljastettaisi.	</div>
 </body>
 </html>

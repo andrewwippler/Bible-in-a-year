@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 36	</div>
 	
-<div class="versenum">1.</div> Ja ylimmaiset isat, Gileadin lasten suvusta, Makirin pojan, joka oli Manassen poika, Josephin lasten suvusta, kavivat edes, ja puhuivat Moseksen ja Israelin lasten ylimmaisten edessa,	
+<div class="theverse"><div class="versenum">1.</div> Ja ylimmaiset isat, Gileadin lasten suvusta, Makirin pojan, joka oli Manassen poika, Josephin lasten suvusta, kavivat edes, ja puhuivat Moseksen ja Israelin lasten ylimmaisten edessa,	</div>
 
-<div class="versenum">2.</div> Ja sanoivat: Herra kaski minun Herrani jakaa maan arvalla Israelin lapsille perittavaksi. Ja sina minun Herrani olet kaskenyt Herran kautta, meidan veljemme Zelophkadin perimyksen antaa hanen tyttarillensa:	
+<div class="theverse"><div class="versenum">2.</div> Ja sanoivat: Herra kaski minun Herrani jakaa maan arvalla Israelin lapsille perittavaksi. Ja sina minun Herrani olet kaskenyt Herran kautta, meidan veljemme Zelophkadin perimyksen antaa hanen tyttarillensa:	</div>
 
-<div class="versenum">3.</div> Jos joku Israelin suvusta ottaa heita emannaksensa, niin tulee heidan perintonsa vahemmaksi, meidan isaimme perinnosta, ja tulee sen suvun perimyksen tyko, kuhunka he tulevat, ja niin tulee meidan perimyksemme arpa vahennetyksi.	
+<div class="theverse"><div class="versenum">3.</div> Jos joku Israelin suvusta ottaa heita emannaksensa, niin tulee heidan perintonsa vahemmaksi, meidan isaimme perinnosta, ja tulee sen suvun perimyksen tyko, kuhunka he tulevat, ja niin tulee meidan perimyksemme arpa vahennetyksi.	</div>
 
-<div class="versenum">4.</div> Kuin Israelin lasten ilovuosi tulee, niin tulee heidan perintoosansa sen suvun perimykseen, johonka he tulevat, niin tulee meidan isaimme perimys vahennetyksi, heidan perinnoksestansa.	
+<div class="theverse"><div class="versenum">4.</div> Kuin Israelin lasten ilovuosi tulee, niin tulee heidan perintoosansa sen suvun perimykseen, johonka he tulevat, niin tulee meidan isaimme perimys vahennetyksi, heidan perinnoksestansa.	</div>
 
-<div class="versenum">5.</div> Niin kaski Moses Israelin lapsille Herran kaskyn jalkeen, ja sanoi: Josephin lasten suku on oikein puhunut.	
+<div class="theverse"><div class="versenum">5.</div> Niin kaski Moses Israelin lapsille Herran kaskyn jalkeen, ja sanoi: Josephin lasten suku on oikein puhunut.	</div>
 
-<div class="versenum">6.</div> Tama on se minka Herra kaski Zelophkadin tyttarille ja sanoi: huolkaan kellenka tahtovat, kuitenkin niin, etta he huolevat isainsa sukukunnan langoille,	
+<div class="theverse"><div class="versenum">6.</div> Tama on se minka Herra kaski Zelophkadin tyttarille ja sanoi: huolkaan kellenka tahtovat, kuitenkin niin, etta he huolevat isainsa sukukunnan langoille,	</div>
 
-<div class="versenum">7.</div> Ettei Israelin lasten perimys menisi yhdesta suvusta niin toiseen; silla jokainen Israelin lasten seassa pitaa riippuman kiinni isainsa sukukunnan perimyksessa.	
+<div class="theverse"><div class="versenum">7.</div> Ettei Israelin lasten perimys menisi yhdesta suvusta niin toiseen; silla jokainen Israelin lasten seassa pitaa riippuman kiinni isainsa sukukunnan perimyksessa.	</div>
 
-<div class="versenum">8.</div> Ja kaikki tyttaret, joilla perimys on Israelin lasten suvussa, pitaa huoleman jollekulle isansa suvun langolle, etta jokainen Israelin lasten seassa pitais isansa perimyksen,	
+<div class="theverse"><div class="versenum">8.</div> Ja kaikki tyttaret, joilla perimys on Israelin lasten suvussa, pitaa huoleman jollekulle isansa suvun langolle, etta jokainen Israelin lasten seassa pitais isansa perimyksen,	</div>
 
-<div class="versenum">9.</div> Ja ettei perintoosa menisi yhdesta sukukunnasta toiseen; vaan jokainen riippukaan omassa perimyksessansa Israelin lasten sukuin seassa.	
+<div class="theverse"><div class="versenum">9.</div> Ja ettei perintoosa menisi yhdesta sukukunnasta toiseen; vaan jokainen riippukaan omassa perimyksessansa Israelin lasten sukuin seassa.	</div>
 
-<div class="versenum">10.</div> Niinkuin Herra kaski Mosekselle, niin tekivat Zelophkadin tyttaret:	
+<div class="theverse"><div class="versenum">10.</div> Niinkuin Herra kaski Mosekselle, niin tekivat Zelophkadin tyttaret:	</div>
 
-<div class="versenum">11.</div> Makla, Tirtsa, Hogla, Milka, Noa, Zelophkadin tyttaret, huolivat setainsa pojille.	
+<div class="theverse"><div class="versenum">11.</div> Makla, Tirtsa, Hogla, Milka, Noa, Zelophkadin tyttaret, huolivat setainsa pojille.	</div>
 
-<div class="versenum">12.</div> Ja tulivat emanniksi niille, jotka olivat Manassen Josephin pojan suvusta; niin pysyi heidan perimyksensa sillansa lankoudessansa, heidan isansa sukukunnassa.	
+<div class="theverse"><div class="versenum">12.</div> Ja tulivat emanniksi niille, jotka olivat Manassen Josephin pojan suvusta; niin pysyi heidan perimyksensa sillansa lankoudessansa, heidan isansa sukukunnassa.	</div>
 
-<div class="versenum">13.</div> Namat ovat ne kaskyt ja oikeudet, joita Herra Moseksen kautta kaski Israelin lapsille, Moabin kedoilla, Jordanin tykona, Jerihon kohdalla.	
+<div class="theverse"><div class="versenum">13.</div> Namat ovat ne kaskyt ja oikeudet, joita Herra Moseksen kautta kaski Israelin lapsille, Moabin kedoilla, Jordanin tykona, Jerihon kohdalla.	</div>
 </body>
 </html>

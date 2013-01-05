@@ -4,18 +4,18 @@
 </head>
 <body><div class="chaptertitle">Psalmien 11	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. Herraan mina uskallan: kuinka te sanotte sielulleni, etta han lentais niinkuin lintu teidan vuoreltanne?	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. Herraan mina uskallan: kuinka te sanotte sielulleni, etta han lentais niinkuin lintu teidan vuoreltanne?	</div>
 
-<div class="versenum">2.</div> Silla katsos, jumalattomat jannittavat joutsen ja panevat nuolensa janteelle, salaisesti ampuaksensa hurskaita.	
+<div class="theverse"><div class="versenum">2.</div> Silla katsos, jumalattomat jannittavat joutsen ja panevat nuolensa janteelle, salaisesti ampuaksensa hurskaita.	</div>
 
-<div class="versenum">3.</div> Silla he rikkoivat perustuksen: mita vanhurskas taitaa toimittaa?	
+<div class="theverse"><div class="versenum">3.</div> Silla he rikkoivat perustuksen: mita vanhurskas taitaa toimittaa?	</div>
 
-<div class="versenum">4.</div> Herra on pyhassa templissansa, Herran istuin on taivaissa; hanen silmansa ottavat vaarin, ja hanen silmansa laudat koettelevat ihmisten lapsia.	
+<div class="theverse"><div class="versenum">4.</div> Herra on pyhassa templissansa, Herran istuin on taivaissa; hanen silmansa ottavat vaarin, ja hanen silmansa laudat koettelevat ihmisten lapsia.	</div>
 
-<div class="versenum">5.</div> Herra koettelee vanhurskasta; hanen sielunsa vihaa jumalatointa, ja jotka vaaryytta rakastavat.	
+<div class="theverse"><div class="versenum">5.</div> Herra koettelee vanhurskasta; hanen sielunsa vihaa jumalatointa, ja jotka vaaryytta rakastavat.	</div>
 
-<div class="versenum">6.</div> Han antaa sataa jumalattomain paalle pitkaisen leimauksia, tulta ja tulikivea, ja antaa heille tuulispaat palkaksi.	
+<div class="theverse"><div class="versenum">6.</div> Han antaa sataa jumalattomain paalle pitkaisen leimauksia, tulta ja tulikivea, ja antaa heille tuulispaat palkaksi.	</div>
 
-<div class="versenum">7.</div> Silla Herra on vanhurskas ja rakastaa vanhurskautta, etta hanen kasvonsa katsovat oikeutta.	
+<div class="theverse"><div class="versenum">7.</div> Silla Herra on vanhurskas ja rakastaa vanhurskautta, etta hanen kasvonsa katsovat oikeutta.	</div>
 </body>
 </html>

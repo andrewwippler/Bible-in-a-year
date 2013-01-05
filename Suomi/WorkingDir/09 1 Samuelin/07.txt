@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 7	</div>
 	
-<div class="versenum">1.</div> Niin tulivat KirjatJearimin miehet, ja toivat sinne Herran arkin, ja veivat sen Amminadabin huoneesen Gibeaan, ja vihkivat hanen poikansa Eleatsarin ottamaan Herran arkista vaaria.	
+<div class="theverse"><div class="versenum">1.</div> Niin tulivat KirjatJearimin miehet, ja toivat sinne Herran arkin, ja veivat sen Amminadabin huoneesen Gibeaan, ja vihkivat hanen poikansa Eleatsarin ottamaan Herran arkista vaaria.	</div>
 
-<div class="versenum">2.</div> Ja siita paivasta, jona arkki tuli KirjatJearimiin, kului paljon aikaa, kaksikymmenta ajastaikaa; ja koko Israelin huone itki Herran jalkeen.	
+<div class="theverse"><div class="versenum">2.</div> Ja siita paivasta, jona arkki tuli KirjatJearimiin, kului paljon aikaa, kaksikymmenta ajastaikaa; ja koko Israelin huone itki Herran jalkeen.	</div>
 
-<div class="versenum">3.</div> Mutta Samuel puhui koko Israelin huoneelle, sanoen: jos te kaannatte teitanne kaikesta sydamestanne Herran tyko, niin heittakaat teiltanne vieraat jumalat ja Astharot pois, ja valmistakaat teidan sydamenne Herran tyko, ja palvelkaat hanta ainoaa, niin han pelastaa teidat Philistealaisten kasista.	
+<div class="theverse"><div class="versenum">3.</div> Mutta Samuel puhui koko Israelin huoneelle, sanoen: jos te kaannatte teitanne kaikesta sydamestanne Herran tyko, niin heittakaat teiltanne vieraat jumalat ja Astharot pois, ja valmistakaat teidan sydamenne Herran tyko, ja palvelkaat hanta ainoaa, niin han pelastaa teidat Philistealaisten kasista.	</div>
 
-<div class="versenum">4.</div> Niin heittivat Israelin lapset heiltansa Baalin ja Astharotin pois, ja palvelivat ainoaa Herraa.	
+<div class="theverse"><div class="versenum">4.</div> Niin heittivat Israelin lapset heiltansa Baalin ja Astharotin pois, ja palvelivat ainoaa Herraa.	</div>
 
-<div class="versenum">5.</div> Ja Samuel sanoi: kootkaat kaikki Israel Mitspaan: ja mina rukoilen teidan edestanne Herraa.	
+<div class="theverse"><div class="versenum">5.</div> Ja Samuel sanoi: kootkaat kaikki Israel Mitspaan: ja mina rukoilen teidan edestanne Herraa.	</div>
 
-<div class="versenum">6.</div> Ja he tulivat Mitspaan kokoon, ammunsivat vetta ja kaasivat Herran eteen, paastosivat sen paivan, ja sanoivat siina paikassa: me olemme syntia tehneet Herraa vastaan! Ja Samuel tuomitsi Israelin lapsia Mitspassa.	
+<div class="theverse"><div class="versenum">6.</div> Ja he tulivat Mitspaan kokoon, ammunsivat vetta ja kaasivat Herran eteen, paastosivat sen paivan, ja sanoivat siina paikassa: me olemme syntia tehneet Herraa vastaan! Ja Samuel tuomitsi Israelin lapsia Mitspassa.	</div>
 
-<div class="versenum">7.</div> Kuin Philistealaiset kuulivat Israelin lapset kokoontuneeksi Mitspaan, menivat Philistealaisten paamiehet Israelia vastaan. Kuin Israelin lapset sen kuulivat, pelkasivat he Philistealaisia.	
+<div class="theverse"><div class="versenum">7.</div> Kuin Philistealaiset kuulivat Israelin lapset kokoontuneeksi Mitspaan, menivat Philistealaisten paamiehet Israelia vastaan. Kuin Israelin lapset sen kuulivat, pelkasivat he Philistealaisia.	</div>
 
-<div class="versenum">8.</div> Ja Israelin lapset sanoivat Samuelille: ala lakkaa huutamasta meidan edestamme Herran meidan Jumalamme tyko, etta han meidat pelastais Philistealaisten kasista.	
+<div class="theverse"><div class="versenum">8.</div> Ja Israelin lapset sanoivat Samuelille: ala lakkaa huutamasta meidan edestamme Herran meidan Jumalamme tyko, etta han meidat pelastais Philistealaisten kasista.	</div>
 
-<div class="versenum">9.</div> Niin Samuel otti yhden imevan karitsan ja uhrasi sen kokonansa Herralle polttouhriksi; ja Samuel huusi Herran tyko Israelin edesta, ja Herra kuuli hanen rukouksensa.	
+<div class="theverse"><div class="versenum">9.</div> Niin Samuel otti yhden imevan karitsan ja uhrasi sen kokonansa Herralle polttouhriksi; ja Samuel huusi Herran tyko Israelin edesta, ja Herra kuuli hanen rukouksensa.	</div>
 
-<div class="versenum">10.</div> Ja kuin Samuel uhrasi polttouhrin, lahestyivat Philistealaiset sotimaan Israelia vastaan; mutta Herra jylisti sina paivana suurella pauhinalla Philistealaisten ylitse ja peljatti heidat, niin etta he lyotiin Israelin edessa.	
+<div class="theverse"><div class="versenum">10.</div> Ja kuin Samuel uhrasi polttouhrin, lahestyivat Philistealaiset sotimaan Israelia vastaan; mutta Herra jylisti sina paivana suurella pauhinalla Philistealaisten ylitse ja peljatti heidat, niin etta he lyotiin Israelin edessa.	</div>
 
-<div class="versenum">11.</div> Niin Israelin miehet menivat ulos Mitspasta, ja ajoivat Philistealaisia takaa, ja loivat heidat aina BetKarin alle.	
+<div class="theverse"><div class="versenum">11.</div> Niin Israelin miehet menivat ulos Mitspasta, ja ajoivat Philistealaisia takaa, ja loivat heidat aina BetKarin alle.	</div>
 
-<div class="versenum">12.</div> Ja Samuel otti kiven ja pani Mitspan ja Senin valille, ja kutsui sen nimen EbenEtser, ja sanoi: tahan asti on Herra auttanut meita.	
+<div class="theverse"><div class="versenum">12.</div> Ja Samuel otti kiven ja pani Mitspan ja Senin valille, ja kutsui sen nimen EbenEtser, ja sanoi: tahan asti on Herra auttanut meita.	</div>
 
-<div class="versenum">13.</div> Ja niin Philistealaiset poljettiin, eika enaa tulleet Israelin rajoille. Ja Herran kasi oli Philistealaisia vastaan niinkauvan kuin Samuel eli.	
+<div class="theverse"><div class="versenum">13.</div> Ja niin Philistealaiset poljettiin, eika enaa tulleet Israelin rajoille. Ja Herran kasi oli Philistealaisia vastaan niinkauvan kuin Samuel eli.	</div>
 
-<div class="versenum">14.</div> Niin Israelin lapset saivat ne kaupungit jalleen, jotka Philistealaiset heilta olivat ottaneet pois, Ekronista Gatiin saakka, rajoinensa. Ne vapahti Israel Philistealaisten kasista; silla Israelilla oli rauha Amorilaisten kanssa.	
+<div class="theverse"><div class="versenum">14.</div> Niin Israelin lapset saivat ne kaupungit jalleen, jotka Philistealaiset heilta olivat ottaneet pois, Ekronista Gatiin saakka, rajoinensa. Ne vapahti Israel Philistealaisten kasista; silla Israelilla oli rauha Amorilaisten kanssa.	</div>
 
-<div class="versenum">15.</div> Ja Samuel tuomitsi Israelia kaiken elinaikansa,	
+<div class="theverse"><div class="versenum">15.</div> Ja Samuel tuomitsi Israelia kaiken elinaikansa,	</div>
 
-<div class="versenum">16.</div> Ja vaelsi joka vuosi ympari BetElin ja Gilgalin ja Mitspan. Ja kuin han oli tuominnut Israelia kaikissa naissa paikoissa,	
+<div class="theverse"><div class="versenum">16.</div> Ja vaelsi joka vuosi ympari BetElin ja Gilgalin ja Mitspan. Ja kuin han oli tuominnut Israelia kaikissa naissa paikoissa,	</div>
 
-<div class="versenum">17.</div> Tuli han Ramaan jalleen; silla siella oli hanen huoneensa ja siella han tuomitsi Israelia, ja rakensi Herralle siella alttarin.	
+<div class="theverse"><div class="versenum">17.</div> Tuli han Ramaan jalleen; silla siella oli hanen huoneensa ja siella han tuomitsi Israelia, ja rakensi Herralle siella alttarin.	</div>
 </body>
 </html>

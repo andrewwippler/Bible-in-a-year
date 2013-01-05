@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">Jesajan 1	</div>
 	
-<div class="versenum">1.</div> Jesaian, Amotsin pojan naky, jonka han naki Juudasta ja Jerusalemista, Ussian, Jotamin, Ahaksen ja Jehiskian, Juudan kuningasten aikana.	
+<div class="theverse"><div class="versenum">1.</div> Jesaian, Amotsin pojan naky, jonka han naki Juudasta ja Jerusalemista, Ussian, Jotamin, Ahaksen ja Jehiskian, Juudan kuningasten aikana.	</div>
 
-<div class="versenum">2.</div> Kuulkaat taivaat,ja maa ota korviis, silla Herra puhuu: mina olen lapsia kasvattanut ja korottanut, ja he ovat minusta luopuneet.	
+<div class="theverse"><div class="versenum">2.</div> Kuulkaat taivaat,ja maa ota korviis, silla Herra puhuu: mina olen lapsia kasvattanut ja korottanut, ja he ovat minusta luopuneet.	</div>
 
-<div class="versenum">3.</div> Harka tuntee omistajansa ja aasi isantansa seimen; mutta Israel ei tunne, ja minun kansani ei ymmarra.	
+<div class="theverse"><div class="versenum">3.</div> Harka tuntee omistajansa ja aasi isantansa seimen; mutta Israel ei tunne, ja minun kansani ei ymmarra.	</div>
 
-<div class="versenum">4.</div> Voi syntista kansaa, kansaa suuresta pahasta teosta, pahanilkista siementa, vahingollisia lapsia, jotka Herran hylkasivat ja Israelin Pyhaa pilkkasivat, he poikkesivat takaperin.	
+<div class="theverse"><div class="versenum">4.</div> Voi syntista kansaa, kansaa suuresta pahasta teosta, pahanilkista siementa, vahingollisia lapsia, jotka Herran hylkasivat ja Israelin Pyhaa pilkkasivat, he poikkesivat takaperin.	</div>
 
-<div class="versenum">5.</div> Mita varten teita enempi lyodaan, koska te aina harhailette? Koko paa on sairas, ja koko sydan on vasynyt.	
+<div class="theverse"><div class="versenum">5.</div> Mita varten teita enempi lyodaan, koska te aina harhailette? Koko paa on sairas, ja koko sydan on vasynyt.	</div>
 
-<div class="versenum">6.</div> Hamasta kantapaasta niin kiireeseen asti ei hanessa ole tervetta; vaan haavat, sinimarjat ja veripahat, jotka ei ole puserretut, eika sidotut, taikka oljylla sivellyt.	
+<div class="theverse"><div class="versenum">6.</div> Hamasta kantapaasta niin kiireeseen asti ei hanessa ole tervetta; vaan haavat, sinimarjat ja veripahat, jotka ei ole puserretut, eika sidotut, taikka oljylla sivellyt.	</div>
 
-<div class="versenum">7.</div> Teidan maanne on autiona, teidan kaupunkinne ovat tulella poltetut; muukalaiset syovat peltonne silmain edessa; ja on autio, niinkuin se, joka muukalaisilta raadeltu on.	
+<div class="theverse"><div class="versenum">7.</div> Teidan maanne on autiona, teidan kaupunkinne ovat tulella poltetut; muukalaiset syovat peltonne silmain edessa; ja on autio, niinkuin se, joka muukalaisilta raadeltu on.	</div>
 
-<div class="versenum">8.</div> Mutta mita viela Zionin tyttaresta jaanyt on, se on niinkuin maja viinamaessa, ja niinkuin hakomaja yrttitarhassa, niinkuin havitetty kaupunki.	
+<div class="theverse"><div class="versenum">8.</div> Mutta mita viela Zionin tyttaresta jaanyt on, se on niinkuin maja viinamaessa, ja niinkuin hakomaja yrttitarhassa, niinkuin havitetty kaupunki.	</div>
 
-<div class="versenum">9.</div> Ellei Herra Zebaot meille jotakin vahaa jattaisi, niin me olisimme kuin Sodoma, ja olisimme Gomorran kaltaiset.	
+<div class="theverse"><div class="versenum">9.</div> Ellei Herra Zebaot meille jotakin vahaa jattaisi, niin me olisimme kuin Sodoma, ja olisimme Gomorran kaltaiset.	</div>
 
-<div class="versenum">10.</div> Te Sodoman paamiehet, kuulkaat Herran sanaa: ottakaat korviinne meidan Jumalamme laki, sina Gomorran kansa.	
+<div class="theverse"><div class="versenum">10.</div> Te Sodoman paamiehet, kuulkaat Herran sanaa: ottakaat korviinne meidan Jumalamme laki, sina Gomorran kansa.	</div>
 
-<div class="versenum">11.</div> Mita minulle on teidan uhrienne paljoudesta? sanoo Herra: mina olen oinasten polttouhrista ja syottilain rasvasta ravittu, ja en tottele vasikkain, lammasten ja kauristen verta.	
+<div class="theverse"><div class="versenum">11.</div> Mita minulle on teidan uhrienne paljoudesta? sanoo Herra: mina olen oinasten polttouhrista ja syottilain rasvasta ravittu, ja en tottele vasikkain, lammasten ja kauristen verta.	</div>
 
-<div class="versenum">12.</div> Kuin te tulette ja ilmestytte minun kasvoini eteen, kuka senkaltaisia vaatii teidan kasistanne, etta te vaeltaisitte minun esihuoneessani?	
+<div class="theverse"><div class="versenum">12.</div> Kuin te tulette ja ilmestytte minun kasvoini eteen, kuka senkaltaisia vaatii teidan kasistanne, etta te vaeltaisitte minun esihuoneessani?	</div>
 
-<div class="versenum">13.</div> Alkaat silleen turhaa ruokauhrianne tuoko edes, se suitsutus on minulle kauhistus: uudella kuulla ja sabbatina, kuin kokous kuulutetaan, en mina voi karsia vaaryytta ja julhapaivaa yhdessa.	
+<div class="theverse"><div class="versenum">13.</div> Alkaat silleen turhaa ruokauhrianne tuoko edes, se suitsutus on minulle kauhistus: uudella kuulla ja sabbatina, kuin kokous kuulutetaan, en mina voi karsia vaaryytta ja julhapaivaa yhdessa.	</div>
 
-<div class="versenum">14.</div> Minun sieluni vihaa uusia kuitanne ja juhlapaivianne, mina olen niista suuttunut; mina vasyn niita karseissani.	
+<div class="theverse"><div class="versenum">14.</div> Minun sieluni vihaa uusia kuitanne ja juhlapaivianne, mina olen niista suuttunut; mina vasyn niita karseissani.	</div>
 
-<div class="versenum">15.</div> Ja kuin te parhaallansa kasianne nostatte , niin mina kuitenkin kaannan silmani teista pois; ja vaikka te paljon rukoilisitte, en mina kuitenkaan teita kuule; teidan katenne ovat verenvikoja taynna.	
+<div class="theverse"><div class="versenum">15.</div> Ja kuin te parhaallansa kasianne nostatte , niin mina kuitenkin kaannan silmani teista pois; ja vaikka te paljon rukoilisitte, en mina kuitenkaan teita kuule; teidan katenne ovat verenvikoja taynna.	</div>
 
-<div class="versenum">16.</div> Peskaat teitanne, puhdistakaat teitanne, pankaat paha menonne pois minun silmaini edesta, lakatkaat pahaa tekemasta.	
+<div class="theverse"><div class="versenum">16.</div> Peskaat teitanne, puhdistakaat teitanne, pankaat paha menonne pois minun silmaini edesta, lakatkaat pahaa tekemasta.	</div>
 
-<div class="versenum">17.</div> Oppikaat tekemaan hyvaa, ja etsikaat oikeutta, auttakaat alaspainettua, saattakat orvoille oikeus, ja auttakaat lesken asiaa.	
+<div class="theverse"><div class="versenum">17.</div> Oppikaat tekemaan hyvaa, ja etsikaat oikeutta, auttakaat alaspainettua, saattakat orvoille oikeus, ja auttakaat lesken asiaa.	</div>
 
-<div class="versenum">18.</div> Ja sitte tulkaat, ja katsokaamme, kummalla oikeus on, sanoo Herra. Jos teidan syntinne veriruskiat olisivat, niin heidan pitaa lumivalkiaksi tuleman; ja vaikka he olisivat niinkuin ruusunkarvaiset, pitaa heidan kuitenkin niinkuin villa tuleman.	
+<div class="theverse"><div class="versenum">18.</div> Ja sitte tulkaat, ja katsokaamme, kummalla oikeus on, sanoo Herra. Jos teidan syntinne veriruskiat olisivat, niin heidan pitaa lumivalkiaksi tuleman; ja vaikka he olisivat niinkuin ruusunkarvaiset, pitaa heidan kuitenkin niinkuin villa tuleman.	</div>
 
-<div class="versenum">19.</div> Jos te tahtoisitte ja (minua) kuulisitte, niin te maan hyvyyden nautita saisitte.	
+<div class="theverse"><div class="versenum">19.</div> Jos te tahtoisitte ja (minua) kuulisitte, niin te maan hyvyyden nautita saisitte.	</div>
 
-<div class="versenum">20.</div> Mutta jos te estelette teitanne ja olette kovakorvaiset, niin miekan pitaa teita syoman; silla Herran suu puhuu sen.	
+<div class="theverse"><div class="versenum">20.</div> Mutta jos te estelette teitanne ja olette kovakorvaiset, niin miekan pitaa teita syoman; silla Herran suu puhuu sen.	</div>
 
-<div class="versenum">21.</div> Kuinka se tapahtuu, etta hurskas kaupunki on portoksi tullut? Han oli taynna oikeutta, vanhurskaus asui hanessa; mutta nyt murhaajat.	
+<div class="theverse"><div class="versenum">21.</div> Kuinka se tapahtuu, etta hurskas kaupunki on portoksi tullut? Han oli taynna oikeutta, vanhurskaus asui hanessa; mutta nyt murhaajat.	</div>
 
-<div class="versenum">22.</div> Sinun hopias on karreksi tullut, sinun juomas on vedella sekoitettu.	
+<div class="theverse"><div class="versenum">22.</div> Sinun hopias on karreksi tullut, sinun juomas on vedella sekoitettu.	</div>
 
-<div class="versenum">23.</div> Sinun paamiehes ovat vilpistelleet ja varasten kumppanit; kaikki he mielellansa lahjoja ottavat, ja pyytavat antimia. Ei he orvoille oikeutta tee, ja leskein asia ei tule heidan eteensa.	
+<div class="theverse"><div class="versenum">23.</div> Sinun paamiehes ovat vilpistelleet ja varasten kumppanit; kaikki he mielellansa lahjoja ottavat, ja pyytavat antimia. Ei he orvoille oikeutta tee, ja leskein asia ei tule heidan eteensa.	</div>
 
-<div class="versenum">24.</div> Sentahden sanoo Herra, Herra Zebaot, vakeva Israelissa: voi! mina tahdon itseni lohduttaa vihollisistani, ja vihamiehissani vihani sammuttaa;	
+<div class="theverse"><div class="versenum">24.</div> Sentahden sanoo Herra, Herra Zebaot, vakeva Israelissa: voi! mina tahdon itseni lohduttaa vihollisistani, ja vihamiehissani vihani sammuttaa;	</div>
 
-<div class="versenum">25.</div> Ja kaannan kateni sinua vastaan, ja sinun kartes puhtaammaksi selitan, ja vien pois kaiken sinun tinas.	
+<div class="theverse"><div class="versenum">25.</div> Ja kaannan kateni sinua vastaan, ja sinun kartes puhtaammaksi selitan, ja vien pois kaiken sinun tinas.	</div>
 
-<div class="versenum">26.</div> Ja saatan sinun tuomaris entisellensa, ja neuvonantajas niinkuin alustakin: sitte sina kutsutaan vanhurskaaksi ja uskolliseksi kaupungiksi.	
+<div class="theverse"><div class="versenum">26.</div> Ja saatan sinun tuomaris entisellensa, ja neuvonantajas niinkuin alustakin: sitte sina kutsutaan vanhurskaaksi ja uskolliseksi kaupungiksi.	</div>
 
-<div class="versenum">27.</div> Zion lunastetaan oikeudella, ja sen kaantyvaiset vanhurskaudella,	
+<div class="theverse"><div class="versenum">27.</div> Zion lunastetaan oikeudella, ja sen kaantyvaiset vanhurskaudella,	</div>
 
-<div class="versenum">28.</div> Etta ylitsekaymarit ja syntiset ynna sarjetaan, ja jotka Herran hylkaavat, hukutetaan.	
+<div class="theverse"><div class="versenum">28.</div> Etta ylitsekaymarit ja syntiset ynna sarjetaan, ja jotka Herran hylkaavat, hukutetaan.	</div>
 
-<div class="versenum">29.</div> Silla heidan taytyy hapiaan tulla tammien tahden, joita he himoitsevat, ja havaistyksi tuleman yrttitarhain tahden, jotka he valitsivat.	
+<div class="theverse"><div class="versenum">29.</div> Silla heidan taytyy hapiaan tulla tammien tahden, joita he himoitsevat, ja havaistyksi tuleman yrttitarhain tahden, jotka he valitsivat.	</div>
 
-<div class="versenum">30.</div> Ja te tulette niinkuin joku tammi surkastuneilla lehdilla, ja niinkuin joku vedetoin yrttitarha.	
+<div class="theverse"><div class="versenum">30.</div> Ja te tulette niinkuin joku tammi surkastuneilla lehdilla, ja niinkuin joku vedetoin yrttitarha.	</div>
 
-<div class="versenum">31.</div> Ja vakeva tulee niinkuin rohdin, ja hanen tekonsa niinkuin kipina. Ja he sytytetaan ynna molemmat, jota ei kenkaan sammuta.	
+<div class="theverse"><div class="versenum">31.</div> Ja vakeva tulee niinkuin rohdin, ja hanen tekonsa niinkuin kipina. Ja he sytytetaan ynna molemmat, jota ei kenkaan sammuta.	</div>
 </body>
 </html>

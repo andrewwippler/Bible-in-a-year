@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Joosuan 16	</div>
 	
-<div class="versenum">1.</div> Josephin lasten arpa lankesi Jordanista Jerihoon pain, Jerihon veden tyko, itaan kasin, siihen korpeen, joka menee Jerihosta ylos BetElin makeen,	
+<div class="theverse"><div class="versenum">1.</div> Josephin lasten arpa lankesi Jordanista Jerihoon pain, Jerihon veden tyko, itaan kasin, siihen korpeen, joka menee Jerihosta ylos BetElin makeen,	</div>
 
-<div class="versenum">2.</div> Ja tulee BetElista Lusiin, ja menee ArkkiAtarotin rajan lavitse,	
+<div class="theverse"><div class="versenum">2.</div> Ja tulee BetElista Lusiin, ja menee ArkkiAtarotin rajan lavitse,	</div>
 
-<div class="versenum">3.</div> Ja antaa itsensa alas lanteen pain Japhletin rajan tyko, alimmaisen BetHoronin rajaan, ja Gaseriin asti; ja sen aari on meren tykona.	
+<div class="theverse"><div class="versenum">3.</div> Ja antaa itsensa alas lanteen pain Japhletin rajan tyko, alimmaisen BetHoronin rajaan, ja Gaseriin asti; ja sen aari on meren tykona.	</div>
 
-<div class="versenum">4.</div> Namat saivat Josephin lapset, Manasse ja Ephraim perinnoksi.	
+<div class="theverse"><div class="versenum">4.</div> Namat saivat Josephin lapset, Manasse ja Ephraim perinnoksi.	</div>
 
-<div class="versenum">5.</div> Ephraimin lasten raja heidan suvuissansa ja heidan perimisissansa itaan pain oli AtharotAddar, ylimmaiseen BetHoroniin asti,	
+<div class="theverse"><div class="versenum">5.</div> Ephraimin lasten raja heidan suvuissansa ja heidan perimisissansa itaan pain oli AtharotAddar, ylimmaiseen BetHoroniin asti,	</div>
 
-<div class="versenum">6.</div> Joka antaa itsensa lanteen pain Mikmethatiin, joka pohjoisessa on; sielta kaantyy se itaan, TaenatSilon puoleen, ja menee idasta Janoaan,	
+<div class="theverse"><div class="versenum">6.</div> Joka antaa itsensa lanteen pain Mikmethatiin, joka pohjoisessa on; sielta kaantyy se itaan, TaenatSilon puoleen, ja menee idasta Janoaan,	</div>
 
-<div class="versenum">7.</div> Ja tulee Janoasta Atarotiin ja Naarataan, ja antaa itsensa Jerihoa vastaan ja menee Jordaniin.	
+<div class="theverse"><div class="versenum">7.</div> Ja tulee Janoasta Atarotiin ja Naarataan, ja antaa itsensa Jerihoa vastaan ja menee Jordaniin.	</div>
 
-<div class="versenum">8.</div> Tapuasta menee se lanteen pain NahalKanaan, ja hanen aarensa on meressa. Tama on Ephraimin lasten sukukunnan perimys heidan suvuissansa.	
+<div class="theverse"><div class="versenum">8.</div> Tapuasta menee se lanteen pain NahalKanaan, ja hanen aarensa on meressa. Tama on Ephraimin lasten sukukunnan perimys heidan suvuissansa.	</div>
 
-<div class="versenum">9.</div> Ephraimin lasten sukukunnalle olivat myos annetut kaikki kaupungit ja kylat keskella Manassen lasten perintoa.	
+<div class="theverse"><div class="versenum">9.</div> Ephraimin lasten sukukunnalle olivat myos annetut kaikki kaupungit ja kylat keskella Manassen lasten perintoa.	</div>
 
-<div class="versenum">10.</div> Ja ei he ajaneet Kanaanealaisia pois, jotka asuivat Geserissa. Niin pysyivat Kanaanealaiset Ephraimin seassa tahan paivaan asti ja tulivat verollisiksi.	
+<div class="theverse"><div class="versenum">10.</div> Ja ei he ajaneet Kanaanealaisia pois, jotka asuivat Geserissa. Niin pysyivat Kanaanealaiset Ephraimin seassa tahan paivaan asti ja tulivat verollisiksi.	</div>
 </body>
 </html>

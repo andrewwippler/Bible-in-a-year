@@ -4,104 +4,104 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 16	</div>
 	
-<div class="versenum">1.</div> Ja Kora Jetseharin poika, joka oli Levin pojan Kahatin poika, otti kanssansa Datanin ja Abiramin Eliabin pojat, ja Onin Peletin pojan Rubenin pojista,	
+<div class="theverse"><div class="versenum">1.</div> Ja Kora Jetseharin poika, joka oli Levin pojan Kahatin poika, otti kanssansa Datanin ja Abiramin Eliabin pojat, ja Onin Peletin pojan Rubenin pojista,	</div>
 
-<div class="versenum">2.</div> Ja he nousivat Mosesta vastaan: niin myos Israelin lapsista kaksisataa ja viisikymmenta miesta ylimmaisista, kansalta kutsuttua, kuuluisaa miesta,	
+<div class="theverse"><div class="versenum">2.</div> Ja he nousivat Mosesta vastaan: niin myos Israelin lapsista kaksisataa ja viisikymmenta miesta ylimmaisista, kansalta kutsuttua, kuuluisaa miesta,	</div>
 
-<div class="versenum">3.</div> Ja he kokoontuivat Mosesta ja Aaronia vastaan, ja sanoivat heille: se on teille ylen paljo; silla kansa on kaikki pyha, ja Herra on heidan kanssansa, ja miksi te korotatte teitanne Herran kansan paalle?	
+<div class="theverse"><div class="versenum">3.</div> Ja he kokoontuivat Mosesta ja Aaronia vastaan, ja sanoivat heille: se on teille ylen paljo; silla kansa on kaikki pyha, ja Herra on heidan kanssansa, ja miksi te korotatte teitanne Herran kansan paalle?	</div>
 
-<div class="versenum">4.</div> Koska Moses sen kuuli, lankesi han kasvoillensa,	
+<div class="theverse"><div class="versenum">4.</div> Koska Moses sen kuuli, lankesi han kasvoillensa,	</div>
 
-<div class="versenum">5.</div> Ja puhui Koralle ja koko hanen seurallensa sanoen: huomenna Herra ilmoittaa kuka hanen omansa on, ja kuka pyha on ja saa hanelle uhrata: jonka han valitsee, se uhratkaan hanelle.	
+<div class="theverse"><div class="versenum">5.</div> Ja puhui Koralle ja koko hanen seurallensa sanoen: huomenna Herra ilmoittaa kuka hanen omansa on, ja kuka pyha on ja saa hanelle uhrata: jonka han valitsee, se uhratkaan hanelle.	</div>
 
-<div class="versenum">6.</div> Tehkaat nain: ottakaat teillenne savuastiat, Kora ja kaikki hanen seuransa,	
+<div class="theverse"><div class="versenum">6.</div> Tehkaat nain: ottakaat teillenne savuastiat, Kora ja kaikki hanen seuransa,	</div>
 
-<div class="versenum">7.</div> Ja pankaat niihin tulta, ja heittakaat niihin suitsutusta Herran eteen huomenna, ja se mies, jonka Herra valitsee, olkoon pyha: se on teille paljo, Levin lapset.	
+<div class="theverse"><div class="versenum">7.</div> Ja pankaat niihin tulta, ja heittakaat niihin suitsutusta Herran eteen huomenna, ja se mies, jonka Herra valitsee, olkoon pyha: se on teille paljo, Levin lapset.	</div>
 
-<div class="versenum">8.</div> Ja Moses sanoi Koralle: kuulkaat nyt Levin lapset!	
+<div class="theverse"><div class="versenum">8.</div> Ja Moses sanoi Koralle: kuulkaat nyt Levin lapset!	</div>
 
-<div class="versenum">9.</div> Vahako se teille on, etta Israelin Jumala on teidat eroittanut Israelin kansasta ja antanut tulla tykonsa palvelusta tekemaan Herran Tabernaklin virassa, ja seisomaan seurakunnan edessa, ja heita palvelemaan?	
+<div class="theverse"><div class="versenum">9.</div> Vahako se teille on, etta Israelin Jumala on teidat eroittanut Israelin kansasta ja antanut tulla tykonsa palvelusta tekemaan Herran Tabernaklin virassa, ja seisomaan seurakunnan edessa, ja heita palvelemaan?	</div>
 
-<div class="versenum">10.</div> Han on ottanut sinun ja kaikki sinun veljes Levin lapset tykonsa: ja te pyydatte myos pappeutta?	
+<div class="theverse"><div class="versenum">10.</div> Han on ottanut sinun ja kaikki sinun veljes Levin lapset tykonsa: ja te pyydatte myos pappeutta?	</div>
 
-<div class="versenum">11.</div> Sina ja kaikki sinun joukkos nostatte kapinan Herraa vastaan. Mika Aaron on, etta te napisette hanta vastaan?	
+<div class="theverse"><div class="versenum">11.</div> Sina ja kaikki sinun joukkos nostatte kapinan Herraa vastaan. Mika Aaron on, etta te napisette hanta vastaan?	</div>
 
-<div class="versenum">12.</div> Ja Moses lahetti kutsumaan Datania ja Abiramia Eliabin poikia; mutta he sanoivat: emme sinne tule ylos.	
+<div class="theverse"><div class="versenum">12.</div> Ja Moses lahetti kutsumaan Datania ja Abiramia Eliabin poikia; mutta he sanoivat: emme sinne tule ylos.	</div>
 
-<div class="versenum">13.</div> Vahako se on, etta sina olet meidat maalta tuonut ulos, jossa rieskaa ja hunajaa vuotaa, tappaakses meita korvessa, vaan teet sinus viela paamieheksi meidan ylitsemme, ja tahdot myos hallita meita?	
+<div class="theverse"><div class="versenum">13.</div> Vahako se on, etta sina olet meidat maalta tuonut ulos, jossa rieskaa ja hunajaa vuotaa, tappaakses meita korvessa, vaan teet sinus viela paamieheksi meidan ylitsemme, ja tahdot myos hallita meita?	</div>
 
-<div class="versenum">14.</div> Jalosti sina olet meidat johdattanut siihen maahan, jossa rieskaa ja hunajaa vuotaa, ja annoit pellot ja viinamaet perinnoksi. Tahdotkos viela nailta miehilta silmat puhkaista? emme tule sinne.	
+<div class="theverse"><div class="versenum">14.</div> Jalosti sina olet meidat johdattanut siihen maahan, jossa rieskaa ja hunajaa vuotaa, ja annoit pellot ja viinamaet perinnoksi. Tahdotkos viela nailta miehilta silmat puhkaista? emme tule sinne.	</div>
 
-<div class="versenum">15.</div> Silloin vihastui Moses sangen kovin, ja sanoi Herralle: ala kaanna sinuas heidan ruokauhrinsa puoleen! En mina heilta ottanut aasiakaan, ja en ole heidan yhdenkaan pahaa tehnyt.	
+<div class="theverse"><div class="versenum">15.</div> Silloin vihastui Moses sangen kovin, ja sanoi Herralle: ala kaanna sinuas heidan ruokauhrinsa puoleen! En mina heilta ottanut aasiakaan, ja en ole heidan yhdenkaan pahaa tehnyt.	</div>
 
-<div class="versenum">16.</div> Ja Moses sanoi Koralle: sina ja koko sinun joukkos pitaa huomenna oleman Herran edessa, sina ja he, ja Aaron,	
+<div class="theverse"><div class="versenum">16.</div> Ja Moses sanoi Koralle: sina ja koko sinun joukkos pitaa huomenna oleman Herran edessa, sina ja he, ja Aaron,	</div>
 
-<div class="versenum">17.</div> Ja jokainen ottakoon savuastiansa, ja pankaan suitsutusta siihen, ja tuokaan Herran eteen, kukin savuastiansa, kaksisataa ja viisikymmenta savuastiaa, niin myos sina ja Aaron kukin savuastianne.	
+<div class="theverse"><div class="versenum">17.</div> Ja jokainen ottakoon savuastiansa, ja pankaan suitsutusta siihen, ja tuokaan Herran eteen, kukin savuastiansa, kaksisataa ja viisikymmenta savuastiaa, niin myos sina ja Aaron kukin savuastianne.	</div>
 
-<div class="versenum">18.</div> Ja kukin otti savuastiansa, ja pani siihen tulen, ja heittivat siihen suitsutusta, ja seisoivat seurakunnan majan ovessa, Moses ja Aaron myos.	
+<div class="theverse"><div class="versenum">18.</div> Ja kukin otti savuastiansa, ja pani siihen tulen, ja heittivat siihen suitsutusta, ja seisoivat seurakunnan majan ovessa, Moses ja Aaron myos.	</div>
 
-<div class="versenum">19.</div> Ja Kora kokosi heita vastaan kaiken kansan, seurakunnan majan oven eteen: silloin Herran kunnia nakyi kaikelle kansalle.	
+<div class="theverse"><div class="versenum">19.</div> Ja Kora kokosi heita vastaan kaiken kansan, seurakunnan majan oven eteen: silloin Herran kunnia nakyi kaikelle kansalle.	</div>
 
-<div class="versenum">20.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
+<div class="theverse"><div class="versenum">20.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	</div>
 
-<div class="versenum">21.</div> Eroittakaat teitanne tasta joukosta, niin mina akisti heidat hukutan.	
+<div class="theverse"><div class="versenum">21.</div> Eroittakaat teitanne tasta joukosta, niin mina akisti heidat hukutan.	</div>
 
-<div class="versenum">22.</div> Mutta he lankesivat kasvoillensa ja sanoivat: Jumala, kaiken lihan henkein Jumala! jos yksi mies on syntia tehnyt, tahdotkos antaa vihas julmistua kaiken kansan paalle?	
+<div class="theverse"><div class="versenum">22.</div> Mutta he lankesivat kasvoillensa ja sanoivat: Jumala, kaiken lihan henkein Jumala! jos yksi mies on syntia tehnyt, tahdotkos antaa vihas julmistua kaiken kansan paalle?	</div>
 
-<div class="versenum">23.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">23.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">24.</div> Puhu kansalle ja sano: paetkaat Koran, Datanin ja Abiramin majain ymparilta.	
+<div class="theverse"><div class="versenum">24.</div> Puhu kansalle ja sano: paetkaat Koran, Datanin ja Abiramin majain ymparilta.	</div>
 
-<div class="versenum">25.</div> Ja Moses nousi ja meni Datanin ja Abiramin tyko, ja vanhimmat Israelista seurasivat hanta,	
+<div class="theverse"><div class="versenum">25.</div> Ja Moses nousi ja meni Datanin ja Abiramin tyko, ja vanhimmat Israelista seurasivat hanta,	</div>
 
-<div class="versenum">26.</div> Ja puhui kansalle, sanoen: paetkaat naiden jumalattomain ihmisten majain ymparilta, ja alkaat ruvetko mihinkaan heidan omaansa, ettette myos hukkuisi kaikissa heidan synneissansa.	
+<div class="theverse"><div class="versenum">26.</div> Ja puhui kansalle, sanoen: paetkaat naiden jumalattomain ihmisten majain ymparilta, ja alkaat ruvetko mihinkaan heidan omaansa, ettette myos hukkuisi kaikissa heidan synneissansa.	</div>
 
-<div class="versenum">27.</div> Ja he pakenivat Koran, Datanin ja Abiramin majain ymparilta; mutta Datan ja Abiram kavivat ulos, ja seisoivat majainsa ovella emantinensa, poikinensa ja lapsinensa.	
+<div class="theverse"><div class="versenum">27.</div> Ja he pakenivat Koran, Datanin ja Abiramin majain ymparilta; mutta Datan ja Abiram kavivat ulos, ja seisoivat majainsa ovella emantinensa, poikinensa ja lapsinensa.	</div>
 
-<div class="versenum">28.</div> Ja Moses sanoi: siita teidan pitaa tietaman Herran minua lahettaneeksi, kaikkia naita toita tekemaan, niin ettei se ole minun omasta sydamestani:	
+<div class="theverse"><div class="versenum">28.</div> Ja Moses sanoi: siita teidan pitaa tietaman Herran minua lahettaneeksi, kaikkia naita toita tekemaan, niin ettei se ole minun omasta sydamestani:	</div>
 
-<div class="versenum">29.</div> Jos he kuolevat niinkuin kaikki ihmiset kuolevat, eli kostetaan, niinkuin kaikille ihmisille kostetaan, niin ei Herra ole minua lahettanyt.	
+<div class="theverse"><div class="versenum">29.</div> Jos he kuolevat niinkuin kaikki ihmiset kuolevat, eli kostetaan, niinkuin kaikille ihmisille kostetaan, niin ei Herra ole minua lahettanyt.	</div>
 
-<div class="versenum">30.</div> Mutta jos Herra tassa jotakin uutta tekee, niin etta maa avaa suunsa ja nielee heidat kaikkein kanssa, mita heilla on, niin etta he elavina menevat helvettiin, niin teidan pitaa tietaman, etta namat miehet pilkkasivat Herraa.	
+<div class="theverse"><div class="versenum">30.</div> Mutta jos Herra tassa jotakin uutta tekee, niin etta maa avaa suunsa ja nielee heidat kaikkein kanssa, mita heilla on, niin etta he elavina menevat helvettiin, niin teidan pitaa tietaman, etta namat miehet pilkkasivat Herraa.	</div>
 
-<div class="versenum">31.</div> Ja tapahtui, koska han kaikki namat sanat puhunut oli, halkesi maa heidan altansa.	
+<div class="theverse"><div class="versenum">31.</div> Ja tapahtui, koska han kaikki namat sanat puhunut oli, halkesi maa heidan altansa.	</div>
 
-<div class="versenum">32.</div> Ja maa avasi suunsa ja nieli heidat, ja heidan huoneensa, ja kaikki ne ihmiset, jotka Koran tykona olivat, ja kaiken heidan tavaransa.	
+<div class="theverse"><div class="versenum">32.</div> Ja maa avasi suunsa ja nieli heidat, ja heidan huoneensa, ja kaikki ne ihmiset, jotka Koran tykona olivat, ja kaiken heidan tavaransa.	</div>
 
-<div class="versenum">33.</div> Ja he menivat elavana helvettiin, kaikkinensa kuin heilla oli, ja maa peitti heidat, ja he hukkuivat kansan seasta.	
+<div class="theverse"><div class="versenum">33.</div> Ja he menivat elavana helvettiin, kaikkinensa kuin heilla oli, ja maa peitti heidat, ja he hukkuivat kansan seasta.	</div>
 
-<div class="versenum">34.</div> Ja koko Israel, joka heidan ymparillansa oli, pakeni heidan parkunsa tahden. Silla he sanoivat: ettei maa meitakin nielisi.	
+<div class="theverse"><div class="versenum">34.</div> Ja koko Israel, joka heidan ymparillansa oli, pakeni heidan parkunsa tahden. Silla he sanoivat: ettei maa meitakin nielisi.	</div>
 
-<div class="versenum">35.</div> Ja tuli laksi Herralta, ja poltti ne kaksisataa ja viisikymmenta miesta, jotka suitsutusta uhrasivat.	
+<div class="theverse"><div class="versenum">35.</div> Ja tuli laksi Herralta, ja poltti ne kaksisataa ja viisikymmenta miesta, jotka suitsutusta uhrasivat.	</div>
 
-<div class="versenum">36.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">36.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">37.</div> Sano Eleatsarille papin Aaronin pojalle, etta han ottaa savuastiat tulipalosta, ja hajoittaa tulen sinne ja tanne; silla ne ovat pyhat.	
+<div class="theverse"><div class="versenum">37.</div> Sano Eleatsarille papin Aaronin pojalle, etta han ottaa savuastiat tulipalosta, ja hajoittaa tulen sinne ja tanne; silla ne ovat pyhat.	</div>
 
-<div class="versenum">38.</div> Naiden savuastiat, jotka syntia tekivat sielujansa vastaan, ne takokaat leveiksi, ohukaisiksi kiskoiksi, joilla alttari peitetaan; silla ne ovat Herran eteen uhratut ja pyhitetyt. Ja ne pitaa oleman merkiksi Israelin lapsille.	
+<div class="theverse"><div class="versenum">38.</div> Naiden savuastiat, jotka syntia tekivat sielujansa vastaan, ne takokaat leveiksi, ohukaisiksi kiskoiksi, joilla alttari peitetaan; silla ne ovat Herran eteen uhratut ja pyhitetyt. Ja ne pitaa oleman merkiksi Israelin lapsille.	</div>
 
-<div class="versenum">39.</div> Ja Eleatsar pappi otti ne vaskiastiat, joissa palaneet miehet olivat uhranneet, ja taotti ne leveiksi, ohukaisiksi kiskoiksi, alttarin peitteeksi,	
+<div class="theverse"><div class="versenum">39.</div> Ja Eleatsar pappi otti ne vaskiastiat, joissa palaneet miehet olivat uhranneet, ja taotti ne leveiksi, ohukaisiksi kiskoiksi, alttarin peitteeksi,	</div>
 
-<div class="versenum">40.</div> Israelin lapsille muistoksi, ettei yksikaan muukalainen, joka ei ole Aaronin siemenesta, lahestyisi uhraamaan suitsutusta Herran eteen, ettei hanelle tapahtuisi, niinkuin Koralle ja hanen joukollensa, niinkuin Herra hanelle sanoi Moseksen kautta.	
+<div class="theverse"><div class="versenum">40.</div> Israelin lapsille muistoksi, ettei yksikaan muukalainen, joka ei ole Aaronin siemenesta, lahestyisi uhraamaan suitsutusta Herran eteen, ettei hanelle tapahtuisi, niinkuin Koralle ja hanen joukollensa, niinkuin Herra hanelle sanoi Moseksen kautta.	</div>
 
-<div class="versenum">41.</div> Toisena paivana taas napisivat koko Israelin lasten joukko Mosesta ja Aaronia vastaan, ja sanoivat: te olette tappaneet Herran kansan.	
+<div class="theverse"><div class="versenum">41.</div> Toisena paivana taas napisivat koko Israelin lasten joukko Mosesta ja Aaronia vastaan, ja sanoivat: te olette tappaneet Herran kansan.	</div>
 
-<div class="versenum">42.</div> Ja koska kansa kokoontui Mosesta ja Aaronia vastaan, ja kuin he kaansivat heitansa seurakunnan majaan pain, katso, pilvi peitti sen ja Herran kunnia nakyi.	
+<div class="theverse"><div class="versenum">42.</div> Ja koska kansa kokoontui Mosesta ja Aaronia vastaan, ja kuin he kaansivat heitansa seurakunnan majaan pain, katso, pilvi peitti sen ja Herran kunnia nakyi.	</div>
 
-<div class="versenum">43.</div> Ja Moses ja Aaron menivat seurakunnan majan eteen.	
+<div class="theverse"><div class="versenum">43.</div> Ja Moses ja Aaron menivat seurakunnan majan eteen.	</div>
 
-<div class="versenum">44.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">44.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">45.</div> Paetkaat tasta kansasta; silla mina surmaan akisti heidat, ja he lankesivat kasvoillensa.	
+<div class="theverse"><div class="versenum">45.</div> Paetkaat tasta kansasta; silla mina surmaan akisti heidat, ja he lankesivat kasvoillensa.	</div>
 
-<div class="versenum">46.</div> Ja Moses sanoi Aaronille: ota savuastia, ja pane tulta siihen alttarilta, ja heita suitsutusta siihen. Ja mene nopiasti kansan tyko ja sovita heita: silla vihan julmuus on Herralta kaynyt ulos, ja rangaistus on jo alkanut.	
+<div class="theverse"><div class="versenum">46.</div> Ja Moses sanoi Aaronille: ota savuastia, ja pane tulta siihen alttarilta, ja heita suitsutusta siihen. Ja mene nopiasti kansan tyko ja sovita heita: silla vihan julmuus on Herralta kaynyt ulos, ja rangaistus on jo alkanut.	</div>
 
-<div class="versenum">47.</div> Ja Aaron otti niinkuin Moses hanelle sanoi, ja juoksi kansan keskelle, ja katso, rangaistus oli jo ruvennut kansan seassa: ja han suitsutti savutusta, ja sovitti kansan.	
+<div class="theverse"><div class="versenum">47.</div> Ja Aaron otti niinkuin Moses hanelle sanoi, ja juoksi kansan keskelle, ja katso, rangaistus oli jo ruvennut kansan seassa: ja han suitsutti savutusta, ja sovitti kansan.	</div>
 
-<div class="versenum">48.</div> Ja seisoi kuolleitten ja elavitten valilla; niin rangaistus asettui.	
+<div class="theverse"><div class="versenum">48.</div> Ja seisoi kuolleitten ja elavitten valilla; niin rangaistus asettui.	</div>
 
-<div class="versenum">49.</div> Mutta ne kuin rangaistuksesta kuolivat, oli neljatoistakymmenta tuhatta ja seitsemansataa; paitsi niita, jotka Koran kapinassa hukkuivat.	
+<div class="theverse"><div class="versenum">49.</div> Mutta ne kuin rangaistuksesta kuolivat, oli neljatoistakymmenta tuhatta ja seitsemansataa; paitsi niita, jotka Koran kapinassa hukkuivat.	</div>
 
-<div class="versenum">50.</div> Ja Aaron palasi Moseksen tyko, seurakunnan majan oveen ja rangaistus asettui.	
+<div class="theverse"><div class="versenum">50.</div> Ja Aaron palasi Moseksen tyko, seurakunnan majan oveen ja rangaistus asettui.	</div>
 </body>
 </html>

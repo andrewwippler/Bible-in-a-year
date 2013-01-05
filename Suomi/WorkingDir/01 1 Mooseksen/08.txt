@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 8	</div>
 	
-<div class="versenum">1.</div> Silloin Jumala muisti Noaa ja kaikkia elavia, ja kaikkea karjaa, kuin hanen kanssansa olivat arkissa, ja Jumala nosti tuulen maan paalle, ja vedet seisahtivat.	
+<div class="theverse"><div class="versenum">1.</div> Silloin Jumala muisti Noaa ja kaikkia elavia, ja kaikkea karjaa, kuin hanen kanssansa olivat arkissa, ja Jumala nosti tuulen maan paalle, ja vedet seisahtivat.	</div>
 
-<div class="versenum">2.</div> Ja syvyyden lahteet tukittiin, ja taivaan akkunat, ja sateet taivaasta asetettiin.	
+<div class="theverse"><div class="versenum">2.</div> Ja syvyyden lahteet tukittiin, ja taivaan akkunat, ja sateet taivaasta asetettiin.	</div>
 
-<div class="versenum">3.</div> Ja vedet maan paalta enemmin ja enemmin juoksivat pois, ja vahenivat sadan ja viidenkymmenen paivan perasta.	
+<div class="theverse"><div class="versenum">3.</div> Ja vedet maan paalta enemmin ja enemmin juoksivat pois, ja vahenivat sadan ja viidenkymmenen paivan perasta.	</div>
 
-<div class="versenum">4.</div> Ja seitsemantenatoistakymmenentena paivana, seitsemannessa kuukaudessa jai arkki Araratin vuorelle.	
+<div class="theverse"><div class="versenum">4.</div> Ja seitsemantenatoistakymmenentena paivana, seitsemannessa kuukaudessa jai arkki Araratin vuorelle.	</div>
 
-<div class="versenum">5.</div> Mutta vedet juoksivat pois, ja vahenivat hamaan kymmenenteen kuukauteen asti. Ensimaisna paivana kymmenentena kuukautena nakyivat vuorten kukkulat.	
+<div class="theverse"><div class="versenum">5.</div> Mutta vedet juoksivat pois, ja vahenivat hamaan kymmenenteen kuukauteen asti. Ensimaisna paivana kymmenentena kuukautena nakyivat vuorten kukkulat.	</div>
 
-<div class="versenum">6.</div> Neljankymmenen paivan perasta avasi Noa arkin akkunan, jonka han tehnyt oli.	
+<div class="theverse"><div class="versenum">6.</div> Neljankymmenen paivan perasta avasi Noa arkin akkunan, jonka han tehnyt oli.	</div>
 
-<div class="versenum">7.</div> Ja antoi kaarneen lentaa ulos, joka lensi kahtiapain, siihen asti kuin vedet maan paalta kuivuivat.	
+<div class="theverse"><div class="versenum">7.</div> Ja antoi kaarneen lentaa ulos, joka lensi kahtiapain, siihen asti kuin vedet maan paalta kuivuivat.	</div>
 
-<div class="versenum">8.</div> Sitte lahetti han kyhkyisen tykoansa, koettelemaan, jos vedet olisivat juosseet pois maan paalta.	
+<div class="theverse"><div class="versenum">8.</div> Sitte lahetti han kyhkyisen tykoansa, koettelemaan, jos vedet olisivat juosseet pois maan paalta.	</div>
 
-<div class="versenum">9.</div> Koska ei kyhkyinen loytanyt kussa han sai jalkansa levata, palasi han hanen tykonsa arkkiin: silla vedet olivat viela koko maan paalla, niin han ojensi katensa, otti hanen ja toi arkkiin.	
+<div class="theverse"><div class="versenum">9.</div> Koska ei kyhkyinen loytanyt kussa han sai jalkansa levata, palasi han hanen tykonsa arkkiin: silla vedet olivat viela koko maan paalla, niin han ojensi katensa, otti hanen ja toi arkkiin.	</div>
 
-<div class="versenum">10.</div> Ja odotti viela toiset seitseman paivaa, ja antoi taas kyhkyisen lentaa arkista.	
+<div class="theverse"><div class="versenum">10.</div> Ja odotti viela toiset seitseman paivaa, ja antoi taas kyhkyisen lentaa arkista.	</div>
 
-<div class="versenum">11.</div> Se palasi hanen tykonsa, ehtoopuolella, ja katso, han toi suussansa oljypuun lehden, jonka han murtanut oli. Niin Noa ymmarsi vedet maan paalta juosseeksi pois.	
+<div class="theverse"><div class="versenum">11.</div> Se palasi hanen tykonsa, ehtoopuolella, ja katso, han toi suussansa oljypuun lehden, jonka han murtanut oli. Niin Noa ymmarsi vedet maan paalta juosseeksi pois.	</div>
 
-<div class="versenum">12.</div> Mutta han odotti viela seitseman paivaa, ja antoi kyhkyisen lentaa ulos, joka ei enaa palannut.	
+<div class="theverse"><div class="versenum">12.</div> Mutta han odotti viela seitseman paivaa, ja antoi kyhkyisen lentaa ulos, joka ei enaa palannut.	</div>
 
-<div class="versenum">13.</div> Ja kuudennella sadalla ja ensimaisella ajastajalla (Noan ijasta) ensimaisna paivana ensimaisessa kuukaudessa, kuivuivat vedet maan paalta. Niin avasi Noa arkin katon, ja naki, ja katso, maa oli kuivunut.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuudennella sadalla ja ensimaisella ajastajalla (Noan ijasta) ensimaisna paivana ensimaisessa kuukaudessa, kuivuivat vedet maan paalta. Niin avasi Noa arkin katon, ja naki, ja katso, maa oli kuivunut.	</div>
 
-<div class="versenum">14.</div> Niin maa tuli perati kuivaksi seitsemantenakolmattakymmenentena paivana toisessa kuukaudessa.	
+<div class="theverse"><div class="versenum">14.</div> Niin maa tuli perati kuivaksi seitsemantenakolmattakymmenentena paivana toisessa kuukaudessa.	</div>
 
-<div class="versenum">15.</div> Niin Jumala puhui Noalle sanoen:	
+<div class="theverse"><div class="versenum">15.</div> Niin Jumala puhui Noalle sanoen:	</div>
 
-<div class="versenum">16.</div> Lahde arkista, sina ja sinun emantas, ja sinun poikas, ja sinun poikais emannat sinun kanssas.	
+<div class="theverse"><div class="versenum">16.</div> Lahde arkista, sina ja sinun emantas, ja sinun poikas, ja sinun poikais emannat sinun kanssas.	</div>
 
-<div class="versenum">17.</div> Kaikkinaiset elaimet, jotka sinun tykonas ovat, kaikkinaisesta lihasta, seka linnuista etta karjasta, ja kaikista matelevaisista maan paalla, johdata ne ulos kanssas: ja kavelkoon ne maan paalla, ja olkoon hedelmalliset ja lisaantykoon maan paalla.	
+<div class="theverse"><div class="versenum">17.</div> Kaikkinaiset elaimet, jotka sinun tykonas ovat, kaikkinaisesta lihasta, seka linnuista etta karjasta, ja kaikista matelevaisista maan paalla, johdata ne ulos kanssas: ja kavelkoon ne maan paalla, ja olkoon hedelmalliset ja lisaantykoon maan paalla.	</div>
 
-<div class="versenum">18.</div> Niin Noa meni ulos poikinensa, ja emantinensa, ja poikainsa emannat hanen kanssansa.	
+<div class="theverse"><div class="versenum">18.</div> Niin Noa meni ulos poikinensa, ja emantinensa, ja poikainsa emannat hanen kanssansa.	</div>
 
-<div class="versenum">19.</div> Kaikkinaiset elaimet, kaikkinaiset matelevaiset, kaikkinaiset linnnut, ja kaikki kuin maalla matelevat: laksivat arkista, jokainen kaltaisensa tyko.	
+<div class="theverse"><div class="versenum">19.</div> Kaikkinaiset elaimet, kaikkinaiset matelevaiset, kaikkinaiset linnnut, ja kaikki kuin maalla matelevat: laksivat arkista, jokainen kaltaisensa tyko.	</div>
 
-<div class="versenum">20.</div> Ja Noa rakensi Herralle alttarin: ja otti kaikkinaisesta puhtaasta karjasta, ja kaikkinaisista puhtaista linnuista, ja uhrasi polttouhria alttarilla.	
+<div class="theverse"><div class="versenum">20.</div> Ja Noa rakensi Herralle alttarin: ja otti kaikkinaisesta puhtaasta karjasta, ja kaikkinaisista puhtaista linnuista, ja uhrasi polttouhria alttarilla.	</div>
 
-<div class="versenum">21.</div> Ja Herra haisti lepytyshajun, ja Herra sanoi sydamessansa: en mina silleen enaa maata kiroo ihmisen tahden: vaikka ihmisen sydamen aivoitus on paha hamasta lapsuudesta: ja en mina silleen enaa lyo kaikkia kuin elavat, niinkuin mina tehnyt olen.	
+<div class="theverse"><div class="versenum">21.</div> Ja Herra haisti lepytyshajun, ja Herra sanoi sydamessansa: en mina silleen enaa maata kiroo ihmisen tahden: vaikka ihmisen sydamen aivoitus on paha hamasta lapsuudesta: ja en mina silleen enaa lyo kaikkia kuin elavat, niinkuin mina tehnyt olen.	</div>
 
-<div class="versenum">22.</div> Niin kauvan kuin maa seisoo, ei pida kylvaminen ja niittaminen, vilu ja helle, suvi ja talvi, paiva ja yo lakkaaman.	
+<div class="theverse"><div class="versenum">22.</div> Niin kauvan kuin maa seisoo, ei pida kylvaminen ja niittaminen, vilu ja helle, suvi ja talvi, paiva ja yo lakkaaman.	</div>
 </body>
 </html>

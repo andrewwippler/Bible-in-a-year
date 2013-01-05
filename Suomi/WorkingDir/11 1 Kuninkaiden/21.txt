@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 21	</div>
 	
-<div class="versenum">1.</div> Sitte tapahtui, etta Nabotilla Jisreelilaisella oli viinamaki Jisreelissa, lasna Ahabin Samarian kuninkaan huonetta.	
+<div class="theverse"><div class="versenum">1.</div> Sitte tapahtui, etta Nabotilla Jisreelilaisella oli viinamaki Jisreelissa, lasna Ahabin Samarian kuninkaan huonetta.	</div>
 
-<div class="versenum">2.</div> Ja Ahab puhui Nabotille ja sanoi: anna minulle viinamakes kaalimaaksi, etta se on niin lasna huonettani, ja mina annan sinulle sen edesta paremman viinamaen: eli jos sinun niin kelpaa, niin mina annan sinulle hopiaa niin paljo kuin se maksaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja Ahab puhui Nabotille ja sanoi: anna minulle viinamakes kaalimaaksi, etta se on niin lasna huonettani, ja mina annan sinulle sen edesta paremman viinamaen: eli jos sinun niin kelpaa, niin mina annan sinulle hopiaa niin paljo kuin se maksaa.	</div>
 
-<div class="versenum">3.</div> Mutta Nabot sanoi Ahabille: Herra varjelkoon minua antamasta sinulle isaini perintoa!	
+<div class="theverse"><div class="versenum">3.</div> Mutta Nabot sanoi Ahabille: Herra varjelkoon minua antamasta sinulle isaini perintoa!	</div>
 
-<div class="versenum">4.</div> Niin Ahab tuli kotiansa pahalla mielella ja vihoissansa, sen sanan tahden minka Nabot Jisreelilainen hanelle puhunut oli, sanoen: en mina anna sinulle isaini perintoa; ja han heittaysi vuoteesen, kaansi kasvonsa ja ei syonyt leipaa.	
+<div class="theverse"><div class="versenum">4.</div> Niin Ahab tuli kotiansa pahalla mielella ja vihoissansa, sen sanan tahden minka Nabot Jisreelilainen hanelle puhunut oli, sanoen: en mina anna sinulle isaini perintoa; ja han heittaysi vuoteesen, kaansi kasvonsa ja ei syonyt leipaa.	</div>
 
-<div class="versenum">5.</div> Niin tuli Isebel hanen emantansa hanen tykonsa ja sanoi hanelle: mika se on, etta henkes on niin murheellinen, ja et syo leipaa?	
+<div class="theverse"><div class="versenum">5.</div> Niin tuli Isebel hanen emantansa hanen tykonsa ja sanoi hanelle: mika se on, etta henkes on niin murheellinen, ja et syo leipaa?	</div>
 
-<div class="versenum">6.</div> Niin han sanoi hanelle: mina olen puhutellut Nabotia Jisreelilaista ja sanonut: anna minulle viinamakes rahan edesta, eli jos tahdot, niin mina annan sinulle toisen viinamaen sen edesta. Mutta han sanoi: en mina anna sinulle viinamakeani.	
+<div class="theverse"><div class="versenum">6.</div> Niin han sanoi hanelle: mina olen puhutellut Nabotia Jisreelilaista ja sanonut: anna minulle viinamakes rahan edesta, eli jos tahdot, niin mina annan sinulle toisen viinamaen sen edesta. Mutta han sanoi: en mina anna sinulle viinamakeani.	</div>
 
-<div class="versenum">7.</div> Niin Isebel hanen emantansa sanoi hanelle: sina hallitset nyt Israelin valtakunnan. Nouse ja syo leipaa ja ole hyvalla mielella: mina saatan sinulle Nabotin Jisreelilaisen viinamaen.	
+<div class="theverse"><div class="versenum">7.</div> Niin Isebel hanen emantansa sanoi hanelle: sina hallitset nyt Israelin valtakunnan. Nouse ja syo leipaa ja ole hyvalla mielella: mina saatan sinulle Nabotin Jisreelilaisen viinamaen.	</div>
 
-<div class="versenum">8.</div> Ja han kirjoitti kirjan Ahabin nimella, ja lukitsi sen hanen sinetillansa, ja lahetti sen kirjan vanhimpain ja ylimmaisten tyko, jotka hanen kaupungissansa asuivat Nabotin kanssa.	
+<div class="theverse"><div class="versenum">8.</div> Ja han kirjoitti kirjan Ahabin nimella, ja lukitsi sen hanen sinetillansa, ja lahetti sen kirjan vanhimpain ja ylimmaisten tyko, jotka hanen kaupungissansa asuivat Nabotin kanssa.	</div>
 
-<div class="versenum">9.</div> Ja kirjoitti nain kirjaan, sanoen: kuuluttakaat paasto, ja asettakaat Nabot istumaan ylimmaiseksi kansan sekaan,	
+<div class="theverse"><div class="versenum">9.</div> Ja kirjoitti nain kirjaan, sanoen: kuuluttakaat paasto, ja asettakaat Nabot istumaan ylimmaiseksi kansan sekaan,	</div>
 
-<div class="versenum">10.</div> Ja tuokaat kaksi pahanjuonista miesta hanta vastaan, jotka tunnustavat ja sanovat: sina olet kironnut Jumalaa ja kuningasta: ja viekaat hanta ulos ja kivittakaat hanta kuoliaaksi.	
+<div class="theverse"><div class="versenum">10.</div> Ja tuokaat kaksi pahanjuonista miesta hanta vastaan, jotka tunnustavat ja sanovat: sina olet kironnut Jumalaa ja kuningasta: ja viekaat hanta ulos ja kivittakaat hanta kuoliaaksi.	</div>
 
-<div class="versenum">11.</div> Niin vanhimmat ja sen kaupungin ylimmaiset, jotka hanen kaupungissansa asuivat, tekivat niinkuin Isebel heidan kaskenyt oli ja niinkuin kirjassa kirjoitettu oli, jonka han heidan tykonsa lahettanyt oli:	
+<div class="theverse"><div class="versenum">11.</div> Niin vanhimmat ja sen kaupungin ylimmaiset, jotka hanen kaupungissansa asuivat, tekivat niinkuin Isebel heidan kaskenyt oli ja niinkuin kirjassa kirjoitettu oli, jonka han heidan tykonsa lahettanyt oli:	</div>
 
-<div class="versenum">12.</div> Kuuluttivat paaston, ja antoivat Nabotin istua ylimmaiseksi kansan seassa.	
+<div class="theverse"><div class="versenum">12.</div> Kuuluttivat paaston, ja antoivat Nabotin istua ylimmaiseksi kansan seassa.	</div>
 
-<div class="versenum">13.</div> Niin tul kaksi pahanjuonista miesta ja istui hanen kohdallensa, ja tunnustivat Nabotia vastaan kansan edessa ja sanoivat: Nabot on kironnut Jumalaa ja kuningasta; niin veivat he hanen kaupungista ulos ja kivittivat hanen juuri kuoliaaksi.	
+<div class="theverse"><div class="versenum">13.</div> Niin tul kaksi pahanjuonista miesta ja istui hanen kohdallensa, ja tunnustivat Nabotia vastaan kansan edessa ja sanoivat: Nabot on kironnut Jumalaa ja kuningasta; niin veivat he hanen kaupungista ulos ja kivittivat hanen juuri kuoliaaksi.	</div>
 
-<div class="versenum">14.</div> Ja he lahettivat Isebelin tyko, sanoen: Nabot on kivitetty ja kuollut.	
+<div class="theverse"><div class="versenum">14.</div> Ja he lahettivat Isebelin tyko, sanoen: Nabot on kivitetty ja kuollut.	</div>
 
-<div class="versenum">15.</div> Kun isebel kuuli Nabotin kivitetyksi ja kuolleksi, sanoi han Ahabille: nouse ja omista Nabotin Jisreelilaisen viinamaki, jonka han sinulta on kieltanyt rahan edesta; silla ei Nabot ela, vaan on kuollut.	
+<div class="theverse"><div class="versenum">15.</div> Kun isebel kuuli Nabotin kivitetyksi ja kuolleksi, sanoi han Ahabille: nouse ja omista Nabotin Jisreelilaisen viinamaki, jonka han sinulta on kieltanyt rahan edesta; silla ei Nabot ela, vaan on kuollut.	</div>
 
-<div class="versenum">16.</div> Kuin Ahab kuuli Nabotin kuolleeksi, nousi han menemaan ja omistamaan Nabotin Jisreelilaisen viinamakea.	
+<div class="theverse"><div class="versenum">16.</div> Kuin Ahab kuuli Nabotin kuolleeksi, nousi han menemaan ja omistamaan Nabotin Jisreelilaisen viinamakea.	</div>
 
-<div class="versenum">17.</div> Mutta Herran sana tuli Elialle Tisbilaiselle ja sanoi:	
+<div class="theverse"><div class="versenum">17.</div> Mutta Herran sana tuli Elialle Tisbilaiselle ja sanoi:	</div>
 
-<div class="versenum">18.</div> Nouse ja mene Ahabia Israelin kuningasta vastaan, joka on Samariassa, (katso, han on Nabotin viinamaessa, jota han on mennyt omistamaan.)	
+<div class="theverse"><div class="versenum">18.</div> Nouse ja mene Ahabia Israelin kuningasta vastaan, joka on Samariassa, (katso, han on Nabotin viinamaessa, jota han on mennyt omistamaan.)	</div>
 
-<div class="versenum">19.</div> Ja puhu hanelle ja sano: nain sanoo Herra: pitiko sinun tappaman, ja viela paalliseksi omistaman? Ja sinun pitaa puhuman hanelle ja sanoman: nain sanoo Herra: siina paikassa, jossa koirat nuoleskelivat Nabotin veren, pitaa koirain sinunkin vertas nuoleskeleman.	
+<div class="theverse"><div class="versenum">19.</div> Ja puhu hanelle ja sano: nain sanoo Herra: pitiko sinun tappaman, ja viela paalliseksi omistaman? Ja sinun pitaa puhuman hanelle ja sanoman: nain sanoo Herra: siina paikassa, jossa koirat nuoleskelivat Nabotin veren, pitaa koirain sinunkin vertas nuoleskeleman.	</div>
 
-<div class="versenum">20.</div> Ja Ahab saboi Elialle: loysitkos nyt minun, sina minun vihamieheni? Han sanoi: loysin, ettas olet sinus myynyt pahaa tekemaan Herran silmain edessa.	
+<div class="theverse"><div class="versenum">20.</div> Ja Ahab saboi Elialle: loysitkos nyt minun, sina minun vihamieheni? Han sanoi: loysin, ettas olet sinus myynyt pahaa tekemaan Herran silmain edessa.	</div>
 
-<div class="versenum">21.</div> Katso, mina annan tulla pahuuden sinun paalles, ja otan sinun sukukuntas pois, ja havitan Ahabilta sen, joka vettansa seinaan heittaa, ja suljetun ja hyljatyn Israelissa.	
+<div class="theverse"><div class="versenum">21.</div> Katso, mina annan tulla pahuuden sinun paalles, ja otan sinun sukukuntas pois, ja havitan Ahabilta sen, joka vettansa seinaan heittaa, ja suljetun ja hyljatyn Israelissa.	</div>
 
-<div class="versenum">22.</div> Ja teen sinun huonees niinkuin Jerobeaminkin Nebatin pojan huoneen, ja niinkuin Baesan Ahian pojan huoneen, sen vihoittamisen tahden, milla sina minua vihoittanut olet, ja saattanut Israelin syntia tekemaan.	
+<div class="theverse"><div class="versenum">22.</div> Ja teen sinun huonees niinkuin Jerobeaminkin Nebatin pojan huoneen, ja niinkuin Baesan Ahian pojan huoneen, sen vihoittamisen tahden, milla sina minua vihoittanut olet, ja saattanut Israelin syntia tekemaan.	</div>
 
-<div class="versenum">23.</div> Ja Herra puhui myos Isebelille ja sanoi: koirain pitaa syoman Isebelin Jisreelin muurin tykona.	
+<div class="theverse"><div class="versenum">23.</div> Ja Herra puhui myos Isebelille ja sanoi: koirain pitaa syoman Isebelin Jisreelin muurin tykona.	</div>
 
-<div class="versenum">24.</div> Joka Ahabista kuolee kaupungissa, se pitaa koirilta syotaman, ja jos joku kuolee kedolla, se pitaa taivaan linnuilta syotaman.	
+<div class="theverse"><div class="versenum">24.</div> Joka Ahabista kuolee kaupungissa, se pitaa koirilta syotaman, ja jos joku kuolee kedolla, se pitaa taivaan linnuilta syotaman.	</div>
 
-<div class="versenum">25.</div> Tosin ei yhtaan ollut, joka niin oli itsensa myynyt pahaa tekemaan Herran edessa kuin Ahab; silla hanen emantansa Isebel vietteli hanen.	
+<div class="theverse"><div class="versenum">25.</div> Tosin ei yhtaan ollut, joka niin oli itsensa myynyt pahaa tekemaan Herran edessa kuin Ahab; silla hanen emantansa Isebel vietteli hanen.	</div>
 
-<div class="versenum">26.</div> Ja teki aivan suuret kauhistukset, seuraten epajumalia, kaiken sen jalkeen kuin Amorilaiset tehneet olivat, jotka Herra ajoi Israelin lasten edesta pois.	
+<div class="theverse"><div class="versenum">26.</div> Ja teki aivan suuret kauhistukset, seuraten epajumalia, kaiken sen jalkeen kuin Amorilaiset tehneet olivat, jotka Herra ajoi Israelin lasten edesta pois.	</div>
 
-<div class="versenum">27.</div> Koska Ahab namat sanat kuuli, repaisi han vaatteensa, ja puki sakin ihollensa ja paastosi, ja makasi sakissa ja kavi suruissansa.	
+<div class="theverse"><div class="versenum">27.</div> Koska Ahab namat sanat kuuli, repaisi han vaatteensa, ja puki sakin ihollensa ja paastosi, ja makasi sakissa ja kavi suruissansa.	</div>
 
-<div class="versenum">28.</div> Ja Herran sana tuli Elian Tisbilaisen tyko ja sanoi:	
+<div class="theverse"><div class="versenum">28.</div> Ja Herran sana tuli Elian Tisbilaisen tyko ja sanoi:	</div>
 
-<div class="versenum">29.</div> Etkos nahnyt, kuinka Ahab noyryytti itsensa minun edessani? etta han itsensa niin noyryyttaa minun edessani, en mina saata sita pahaa hanen aikanansa; mutta hanen poikansa aikana saatan mina pahan hanen huoneensa paalle.	
+<div class="theverse"><div class="versenum">29.</div> Etkos nahnyt, kuinka Ahab noyryytti itsensa minun edessani? etta han itsensa niin noyryyttaa minun edessani, en mina saata sita pahaa hanen aikanansa; mutta hanen poikansa aikana saatan mina pahan hanen huoneensa paalle.	</div>
 </body>
 </html>

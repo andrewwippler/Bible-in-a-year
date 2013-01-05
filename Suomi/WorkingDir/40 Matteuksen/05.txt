@@ -4,100 +4,100 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 5	</div>
 	
-<div class="versenum">1.</div> Mutta kuin han naki kansan, astui han ylos vuorelle, ja kuin han oli istunut, tulivat hanen opetuslapsensa hanen tykonsa.	
+<div class="theverse"><div class="versenum">1.</div> Mutta kuin han naki kansan, astui han ylos vuorelle, ja kuin han oli istunut, tulivat hanen opetuslapsensa hanen tykonsa.	</div>
 
-<div class="versenum">2.</div> Niin han avasi suunsa, opetti heita ja sanoi:	
+<div class="theverse"><div class="versenum">2.</div> Niin han avasi suunsa, opetti heita ja sanoi:	</div>
 
-<div class="versenum">3.</div> Autuaat ovat hengellisesti vaivaiset; silla heidan on taivaan valtakunta.	
+<div class="theverse"><div class="versenum">3.</div> Autuaat ovat hengellisesti vaivaiset; silla heidan on taivaan valtakunta.	</div>
 
-<div class="versenum">4.</div> Autuaat ovat murheelliset; silla he saavat lohdutuksen.	
+<div class="theverse"><div class="versenum">4.</div> Autuaat ovat murheelliset; silla he saavat lohdutuksen.	</div>
 
-<div class="versenum">5.</div> Autuaat ovat siviat; silla he saavat maan peria.	
+<div class="theverse"><div class="versenum">5.</div> Autuaat ovat siviat; silla he saavat maan peria.	</div>
 
-<div class="versenum">6.</div> Autuaat ovat, jotka isoovat ja janoovat vanhurskautta; silla he ravitaan.	
+<div class="theverse"><div class="versenum">6.</div> Autuaat ovat, jotka isoovat ja janoovat vanhurskautta; silla he ravitaan.	</div>
 
-<div class="versenum">7.</div> Autuaat ovat laupiaat; silla he saavat laupiuden.	
+<div class="theverse"><div class="versenum">7.</div> Autuaat ovat laupiaat; silla he saavat laupiuden.	</div>
 
-<div class="versenum">8.</div> Autuaat ovat puhtaat sydamesta; silla he saavat nahda Jumalan.	
+<div class="theverse"><div class="versenum">8.</div> Autuaat ovat puhtaat sydamesta; silla he saavat nahda Jumalan.	</div>
 
-<div class="versenum">9.</div> Autuaat ovat rauhan tekiat; silla ne pitaa Jumalan pojiksi kutsuttaman.	
+<div class="theverse"><div class="versenum">9.</div> Autuaat ovat rauhan tekiat; silla ne pitaa Jumalan pojiksi kutsuttaman.	</div>
 
-<div class="versenum">10.</div> Autuaat ovat, jotka vanhurskauden tahden vainotaan; silla heidan on taivaan valtakunta.	
+<div class="theverse"><div class="versenum">10.</div> Autuaat ovat, jotka vanhurskauden tahden vainotaan; silla heidan on taivaan valtakunta.	</div>
 
-<div class="versenum">11.</div> Autuaat olette te, kuin he pilkkaavat ja vainoovat teita, ja puhuvat kaikkinaista pahuutta teita vastaan, valhetellen minun tahteni.	
+<div class="theverse"><div class="versenum">11.</div> Autuaat olette te, kuin he pilkkaavat ja vainoovat teita, ja puhuvat kaikkinaista pahuutta teita vastaan, valhetellen minun tahteni.	</div>
 
-<div class="versenum">12.</div> Iloitkaat ja riemuitkaat; silla teidan palkkanne on suuri taivaissa. Silla nain he vainosivat prophetaita, jotka teidan edellanne olivat.	
+<div class="theverse"><div class="versenum">12.</div> Iloitkaat ja riemuitkaat; silla teidan palkkanne on suuri taivaissa. Silla nain he vainosivat prophetaita, jotka teidan edellanne olivat.	</div>
 
-<div class="versenum">13.</div> Te olette maan suola: jos siis suola tulee mauttomaksi, milla sitte suolataan? ei se enaan kelpaa mihinkaan, vaan heitettaa pois ja ihmisilta tallattaa.	
+<div class="theverse"><div class="versenum">13.</div> Te olette maan suola: jos siis suola tulee mauttomaksi, milla sitte suolataan? ei se enaan kelpaa mihinkaan, vaan heitettaa pois ja ihmisilta tallattaa.	</div>
 
-<div class="versenum">14.</div> Te olette maailman valkeus. Ei sita kaupunkia taideta peittaa, joka vuorella on,	
+<div class="theverse"><div class="versenum">14.</div> Te olette maailman valkeus. Ei sita kaupunkia taideta peittaa, joka vuorella on,	</div>
 
-<div class="versenum">15.</div> Eika kynttilaa sytyteta ja panna vakan alle, vaan kynttilajalkaan, valaisemaan kaikkia, jotka huoneessa ovat.	
+<div class="theverse"><div class="versenum">15.</div> Eika kynttilaa sytyteta ja panna vakan alle, vaan kynttilajalkaan, valaisemaan kaikkia, jotka huoneessa ovat.	</div>
 
-<div class="versenum">16.</div> Nain valistakoon teidan valkeutenne ihmisten edessa, etta he nakisivat teidan hyvat tyonne, ja kunnioittaisivat teidan Isaanne, joka on taivaissa.	
+<div class="theverse"><div class="versenum">16.</div> Nain valistakoon teidan valkeutenne ihmisten edessa, etta he nakisivat teidan hyvat tyonne, ja kunnioittaisivat teidan Isaanne, joka on taivaissa.	</div>
 
-<div class="versenum">17.</div> Alkaat luulko, etta mina tulin lakia ja prophetaita paastamaan: en mina tullut paastamaan, vaan tayttamaan.	
+<div class="theverse"><div class="versenum">17.</div> Alkaat luulko, etta mina tulin lakia ja prophetaita paastamaan: en mina tullut paastamaan, vaan tayttamaan.	</div>
 
-<div class="versenum">18.</div> Silla totisesti sanon mina teille: siihenasti kuin taivas ja maa katoo, ei pida vahinkaan piirto eika joku rahtu laista katooman, siihenasti kuin kaikki tapahtuvat.	
+<div class="theverse"><div class="versenum">18.</div> Silla totisesti sanon mina teille: siihenasti kuin taivas ja maa katoo, ei pida vahinkaan piirto eika joku rahtu laista katooman, siihenasti kuin kaikki tapahtuvat.	</div>
 
-<div class="versenum">19.</div> Kuka siis jonkun naista vahimmista kaskyista paastaa, ja nain ihmisia opettaa, han pitaa taivaan valtakunnassa vahimmaksi kutsuttaman; mutta joka sen tekee ja opettaa, se pitaa suureksi taivaan valtakunnassa kutsuttaman.	
+<div class="theverse"><div class="versenum">19.</div> Kuka siis jonkun naista vahimmista kaskyista paastaa, ja nain ihmisia opettaa, han pitaa taivaan valtakunnassa vahimmaksi kutsuttaman; mutta joka sen tekee ja opettaa, se pitaa suureksi taivaan valtakunnassa kutsuttaman.	</div>
 
-<div class="versenum">20.</div> Silla mina sanon teille: ellei teidan vanhurskautenne ole paljoa enempi kuin kirjanoppineiden ja Pharisealaisten, niin ette tule taivaan valtakuntaan.	
+<div class="theverse"><div class="versenum">20.</div> Silla mina sanon teille: ellei teidan vanhurskautenne ole paljoa enempi kuin kirjanoppineiden ja Pharisealaisten, niin ette tule taivaan valtakuntaan.	</div>
 
-<div class="versenum">21.</div> Te kuulitte mita sanottu oli vanhoille: ei sinun pida tappaman; mutta jokainen, joka tappaa, hanen pitaa tuomioon vikapaa oleman.	
+<div class="theverse"><div class="versenum">21.</div> Te kuulitte mita sanottu oli vanhoille: ei sinun pida tappaman; mutta jokainen, joka tappaa, hanen pitaa tuomioon vikapaa oleman.	</div>
 
-<div class="versenum">22.</div> Mutta mina sanon teille: etta jokainen, joka tyhmasti vihastuu veljellensa, hanen pitaa tuomioon vikapaa oleman; mutta jokainen, joka sanoo veljellensa: raka, hanen pitaa neuvon alle vikapaa oleman; mutta jokainen, joka sanoo: sina tyhma, hanen pitaa helvetin tuleen vikapaa oleman.	
+<div class="theverse"><div class="versenum">22.</div> Mutta mina sanon teille: etta jokainen, joka tyhmasti vihastuu veljellensa, hanen pitaa tuomioon vikapaa oleman; mutta jokainen, joka sanoo veljellensa: raka, hanen pitaa neuvon alle vikapaa oleman; mutta jokainen, joka sanoo: sina tyhma, hanen pitaa helvetin tuleen vikapaa oleman.	</div>
 
-<div class="versenum">23.</div> Sentahden, jos sina uhraat lahjas alttarille, ja siella muistat, etta veljellas on jotakin sinua vastaan:	
+<div class="theverse"><div class="versenum">23.</div> Sentahden, jos sina uhraat lahjas alttarille, ja siella muistat, etta veljellas on jotakin sinua vastaan:	</div>
 
-<div class="versenum">24.</div> Niin jata sinne lahjas alttarin eteen, ja mene ensin sopimaan veljes kanssa, ja tule sitte lahjas uhraamaan.	
+<div class="theverse"><div class="versenum">24.</div> Niin jata sinne lahjas alttarin eteen, ja mene ensin sopimaan veljes kanssa, ja tule sitte lahjas uhraamaan.	</div>
 
-<div class="versenum">25.</div> Sovi nopiasti riitaveljes kanssa, koskas viela hanen kanssansa tiella olet, ettei riitaveljes anna sinua joskus tuomarille, ja tuomari antaa sinun palvelialle, ja sina heitetaan torniin.	
+<div class="theverse"><div class="versenum">25.</div> Sovi nopiasti riitaveljes kanssa, koskas viela hanen kanssansa tiella olet, ettei riitaveljes anna sinua joskus tuomarille, ja tuomari antaa sinun palvelialle, ja sina heitetaan torniin.	</div>
 
-<div class="versenum">26.</div> Totisesti sanon mina sinulle: et sina suinkaan paase sielta ulos, siihenasti kuin sina maksat viimeisen rovon.	
+<div class="theverse"><div class="versenum">26.</div> Totisesti sanon mina sinulle: et sina suinkaan paase sielta ulos, siihenasti kuin sina maksat viimeisen rovon.	</div>
 
-<div class="versenum">27.</div> Te kuulitte sanotuksi vanhoille: ei sinun pida huorin tekeman.	
+<div class="theverse"><div class="versenum">27.</div> Te kuulitte sanotuksi vanhoille: ei sinun pida huorin tekeman.	</div>
 
-<div class="versenum">28.</div> Mutta mina sanon teille: jokainen, joka katsoo vaimon paalle himoitaksensa hanta, han teki jo huorin hanen kanssansa sydamessansa.	
+<div class="theverse"><div class="versenum">28.</div> Mutta mina sanon teille: jokainen, joka katsoo vaimon paalle himoitaksensa hanta, han teki jo huorin hanen kanssansa sydamessansa.	</div>
 
-<div class="versenum">29.</div> Jos oikia silmas pahentaa sinun, niin puhkaise se ulos, ja heita pois tykoas; silla parempi on sinulle, etta yksi jasenistas hukutetaan, kuin etta koko ruumis pitais heitettaman helvettiin.	
+<div class="theverse"><div class="versenum">29.</div> Jos oikia silmas pahentaa sinun, niin puhkaise se ulos, ja heita pois tykoas; silla parempi on sinulle, etta yksi jasenistas hukutetaan, kuin etta koko ruumis pitais heitettaman helvettiin.	</div>
 
-<div class="versenum">30.</div> Ja jos oikia kates pahentaa sinun, niin hakkaa se poikki, ja heita pois tykoas! silla parempi on sinulle, etta yksi jasenistas hukutetaan, kuin etta koko ruumis pitais helvettiin heitettaman.	
+<div class="theverse"><div class="versenum">30.</div> Ja jos oikia kates pahentaa sinun, niin hakkaa se poikki, ja heita pois tykoas! silla parempi on sinulle, etta yksi jasenistas hukutetaan, kuin etta koko ruumis pitais helvettiin heitettaman.	</div>
 
-<div class="versenum">31.</div> On myos sanottu: jokainen joka emantansa hylkaa, han antakaan hanelle erokirjan.	
+<div class="theverse"><div class="versenum">31.</div> On myos sanottu: jokainen joka emantansa hylkaa, han antakaan hanelle erokirjan.	</div>
 
-<div class="versenum">32.</div> Mutta mina sanon teille: joka emantansa hylkaa, muutoin kuin huoruuden tahden, han saattaa hanen huorin tekemaan; ja joka nai sen hyljatyn, han tekee huorin.	
+<div class="theverse"><div class="versenum">32.</div> Mutta mina sanon teille: joka emantansa hylkaa, muutoin kuin huoruuden tahden, han saattaa hanen huorin tekemaan; ja joka nai sen hyljatyn, han tekee huorin.	</div>
 
-<div class="versenum">33.</div> Taas te kuulitte sanotuksi vanhoille: ala vanno vaarin, vaan pida valas Herralle.	
+<div class="theverse"><div class="versenum">33.</div> Taas te kuulitte sanotuksi vanhoille: ala vanno vaarin, vaan pida valas Herralle.	</div>
 
-<div class="versenum">34.</div> Mutta mina sanon teille: alkaat ensinkaan vannoko, ei taivaan kautta, silla se on Jumalan istuin;	
+<div class="theverse"><div class="versenum">34.</div> Mutta mina sanon teille: alkaat ensinkaan vannoko, ei taivaan kautta, silla se on Jumalan istuin;	</div>
 
-<div class="versenum">35.</div> Eika maan kautta, silla se on hanen astinlautansa: ei myos Jerusalemin kautta, silla se on suuren kuninkaan kaupunki:	
+<div class="theverse"><div class="versenum">35.</div> Eika maan kautta, silla se on hanen astinlautansa: ei myos Jerusalemin kautta, silla se on suuren kuninkaan kaupunki:	</div>
 
-<div class="versenum">36.</div> Ei sinun myos pida vannoman paas kautta, silla et sina voi yhtaan hiusta valkiaksi eli mustaksi tehda.	
+<div class="theverse"><div class="versenum">36.</div> Ei sinun myos pida vannoman paas kautta, silla et sina voi yhtaan hiusta valkiaksi eli mustaksi tehda.	</div>
 
-<div class="versenum">37.</div> Vaan teidan puheenne pitaa oleman: on, on, ei, ei; mutta mita siihen lisataan, se on pahasta.	
+<div class="theverse"><div class="versenum">37.</div> Vaan teidan puheenne pitaa oleman: on, on, ei, ei; mutta mita siihen lisataan, se on pahasta.	</div>
 
-<div class="versenum">38.</div> Te kuulitte sanotuksi: silma silmasta, ja hammas hampaasta.	
+<div class="theverse"><div class="versenum">38.</div> Te kuulitte sanotuksi: silma silmasta, ja hammas hampaasta.	</div>
 
-<div class="versenum">39.</div> Mutta mina sanon teille: alkaat olko pahaa vastaan; vaan joka sinua lyo oikialle poskelle, niin kaanna myos hanelle toinen.	
+<div class="theverse"><div class="versenum">39.</div> Mutta mina sanon teille: alkaat olko pahaa vastaan; vaan joka sinua lyo oikialle poskelle, niin kaanna myos hanelle toinen.	</div>
 
-<div class="versenum">40.</div> Ja joka sinua tahtoo oikeuden eteen, jo ottaa hamees, niin salli myos hanelle muukin vaate.	
+<div class="theverse"><div class="versenum">40.</div> Ja joka sinua tahtoo oikeuden eteen, jo ottaa hamees, niin salli myos hanelle muukin vaate.	</div>
 
-<div class="versenum">41.</div> Ja joka sinua vaatii peninkulman, mene hanen kanssansa kaksi.	
+<div class="theverse"><div class="versenum">41.</div> Ja joka sinua vaatii peninkulman, mene hanen kanssansa kaksi.	</div>
 
-<div class="versenum">42.</div> Anna sille, joka sinulta anoo, ja ala kaanny silta pois, joka lainan pyytaa.	
+<div class="theverse"><div class="versenum">42.</div> Anna sille, joka sinulta anoo, ja ala kaanny silta pois, joka lainan pyytaa.	</div>
 
-<div class="versenum">43.</div> Te kuulitte sanotuksi: rakasta lahimmaistas, ja vihaa vihollistas;	
+<div class="theverse"><div class="versenum">43.</div> Te kuulitte sanotuksi: rakasta lahimmaistas, ja vihaa vihollistas;	</div>
 
-<div class="versenum">44.</div> Mutta mina sanon teille: rakastakaat vihollisianne; siunatkaat niita, jotka teita sadattavat; tehkaat niille hyvin, jotka teita vihaavat, ja rukoilkaat niiden edesta, jotka teita vainoovat ja vahingoittavat,	
+<div class="theverse"><div class="versenum">44.</div> Mutta mina sanon teille: rakastakaat vihollisianne; siunatkaat niita, jotka teita sadattavat; tehkaat niille hyvin, jotka teita vihaavat, ja rukoilkaat niiden edesta, jotka teita vainoovat ja vahingoittavat,	</div>
 
-<div class="versenum">45.</div> Etta te olisitte teidan Isanne pojat, joka on taivaissa; silla han sallii aurinkonsa koittaa niin pahain ylitse kuin hyvainkin, ja antaa sataa niin vaarille kuin vanhurskaillekin.	
+<div class="theverse"><div class="versenum">45.</div> Etta te olisitte teidan Isanne pojat, joka on taivaissa; silla han sallii aurinkonsa koittaa niin pahain ylitse kuin hyvainkin, ja antaa sataa niin vaarille kuin vanhurskaillekin.	</div>
 
-<div class="versenum">46.</div> Silla jos te rakastatte niita, jotka teitakin rakastavat, mita teidan siita palkkaa on? eiko Publikanit myos niin tee?	
+<div class="theverse"><div class="versenum">46.</div> Silla jos te rakastatte niita, jotka teitakin rakastavat, mita teidan siita palkkaa on? eiko Publikanit myos niin tee?	</div>
 
-<div class="versenum">47.</div> Ja jos te ainoastaan veljeinne kanssa soveliaat olette, mita te sen kanssa erinomaista teette? eiko Publikanit myos niin tee?	
+<div class="theverse"><div class="versenum">47.</div> Ja jos te ainoastaan veljeinne kanssa soveliaat olette, mita te sen kanssa erinomaista teette? eiko Publikanit myos niin tee?	</div>
 
-<div class="versenum">48.</div> Olkaat siis te taydelliset, niinkuin teidan taivaallinen Isanne taydellinen on.	
+<div class="theverse"><div class="versenum">48.</div> Olkaat siis te taydelliset, niinkuin teidan taivaallinen Isanne taydellinen on.	</div>
 </body>
 </html>

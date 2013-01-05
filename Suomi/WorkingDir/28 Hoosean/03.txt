@@ -4,14 +4,14 @@
 </head>
 <body><div class="chaptertitle">Hoosean 3	</div>
 	
-<div class="versenum">1.</div> Ja Herra sanoi minulle: Mene viela ja rakasta salavuoteista vaimoa ja porttoa, niinkuin Herra rakastaa Israelin lapsia, jotka kuitenkin kaantyivat muukalaisten jumalain tyko, ja rakastavat viinaleilia.	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra sanoi minulle: Mene viela ja rakasta salavuoteista vaimoa ja porttoa, niinkuin Herra rakastaa Israelin lapsia, jotka kuitenkin kaantyivat muukalaisten jumalain tyko, ja rakastavat viinaleilia.	</div>
 
-<div class="versenum">2.</div> Ja mina sovin hanen kanssansa, viiteentoistakymmeneen hopiapenninkiin ja puoleentoista homeriin ohria.	
+<div class="theverse"><div class="versenum">2.</div> Ja mina sovin hanen kanssansa, viiteentoistakymmeneen hopiapenninkiin ja puoleentoista homeriin ohria.	</div>
 
-<div class="versenum">3.</div> Ja sanoin hanelle: Pida sinus minun tykoni monta paivaa, ja ala huorin tee ja ala toiseen ryhdy; niin mina tahdon myos sinun tykos itseni pitaa.	
+<div class="theverse"><div class="versenum">3.</div> Ja sanoin hanelle: Pida sinus minun tykoni monta paivaa, ja ala huorin tee ja ala toiseen ryhdy; niin mina tahdon myos sinun tykos itseni pitaa.	</div>
 
-<div class="versenum">4.</div> Sentahden etta Israelin lapset pitaa monta paivaa ilman kuningasta, ilman paamiesta, ilman uhria, ilman alttaria, ilman paallishametta ja ilman epajumalain kuvia olevan.	
+<div class="theverse"><div class="versenum">4.</div> Sentahden etta Israelin lapset pitaa monta paivaa ilman kuningasta, ilman paamiesta, ilman uhria, ilman alttaria, ilman paallishametta ja ilman epajumalain kuvia olevan.	</div>
 
-<div class="versenum">5.</div> Sitte Israelin lapset palajavat ja Herraa heidan Jumalaansa etsivat, ja Davidia kuningastansa; ja heidan pitaa pelvolla tuleman Herran ja hanen hyvyytensa tyko viimeisilla ajoilla.	
+<div class="theverse"><div class="versenum">5.</div> Sitte Israelin lapset palajavat ja Herraa heidan Jumalaansa etsivat, ja Davidia kuningastansa; ja heidan pitaa pelvolla tuleman Herran ja hanen hyvyytensa tyko viimeisilla ajoilla.	</div>
 </body>
 </html>

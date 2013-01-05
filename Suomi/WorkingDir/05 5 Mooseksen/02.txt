@@ -4,78 +4,78 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 2	</div>
 	
-<div class="versenum">1.</div> Silloin me palasimme ja matkustimme korpeen Punaisen meren tieta, niinkuin Herra minulle sanonut oli, ja vaelsimme Seirin vuorta ympari kauvan aikaa.	
+<div class="theverse"><div class="versenum">1.</div> Silloin me palasimme ja matkustimme korpeen Punaisen meren tieta, niinkuin Herra minulle sanonut oli, ja vaelsimme Seirin vuorta ympari kauvan aikaa.	</div>
 
-<div class="versenum">2.</div> Ja Herra puhui minulle, sanoen:	
+<div class="theverse"><div class="versenum">2.</div> Ja Herra puhui minulle, sanoen:	</div>
 
-<div class="versenum">3.</div> Jo te olette kylla vaeltaneet tata vuorta ympari, palatkaat pohjoiseen pain.	
+<div class="theverse"><div class="versenum">3.</div> Jo te olette kylla vaeltaneet tata vuorta ympari, palatkaat pohjoiseen pain.	</div>
 
-<div class="versenum">4.</div> Ja kaski kansalle, sanoen: teidan pitaa vaeltaman teidan veljenne Esaun lasten rajain ylitse, jotka Seirissa asuvat, ja he pelkaavat teita; mutta karttakaat teitanne sangen visusti.	
+<div class="theverse"><div class="versenum">4.</div> Ja kaski kansalle, sanoen: teidan pitaa vaeltaman teidan veljenne Esaun lasten rajain ylitse, jotka Seirissa asuvat, ja he pelkaavat teita; mutta karttakaat teitanne sangen visusti.	</div>
 
-<div class="versenum">5.</div> Alkaat alkako sotaa heita vastaan; silla en mina anna teille jalankaan leveytta heidan maastansa; silla Esaun lapsille olen mina antanut Seirin vuoren perimiseksi.	
+<div class="theverse"><div class="versenum">5.</div> Alkaat alkako sotaa heita vastaan; silla en mina anna teille jalankaan leveytta heidan maastansa; silla Esaun lapsille olen mina antanut Seirin vuoren perimiseksi.	</div>
 
-<div class="versenum">6.</div> Rahalla pitaa teidan heilta ruuan ostaman, jonka te syotte, niin myos veden pitaa teidan heilta rahalla ostaman, jota te juotte:	
+<div class="theverse"><div class="versenum">6.</div> Rahalla pitaa teidan heilta ruuan ostaman, jonka te syotte, niin myos veden pitaa teidan heilta rahalla ostaman, jota te juotte:	</div>
 
-<div class="versenum">7.</div> Silla Herra sinun Jumalas on siunannut sinun, kaikissa sinun kattes toissa, han tietaa sinun matkustukses tassa suuressa korvessa. Jo neljakymmenta ajastaikaa on Herra sinun Jumalas ollut sinun kanssas, niin ettei sinulta mitakaan ole puuttunut.	
+<div class="theverse"><div class="versenum">7.</div> Silla Herra sinun Jumalas on siunannut sinun, kaikissa sinun kattes toissa, han tietaa sinun matkustukses tassa suuressa korvessa. Jo neljakymmenta ajastaikaa on Herra sinun Jumalas ollut sinun kanssas, niin ettei sinulta mitakaan ole puuttunut.	</div>
 
-<div class="versenum">8.</div> Kuin me veljemme Esaun lasten tykoa vaeltaneet olimme, jotka Seirin vuorella asuivat, sita kedon tieta Elatista ja Etseongeberista, niin palasimme me, ja menimme Moabin korven tieta.	
+<div class="theverse"><div class="versenum">8.</div> Kuin me veljemme Esaun lasten tykoa vaeltaneet olimme, jotka Seirin vuorella asuivat, sita kedon tieta Elatista ja Etseongeberista, niin palasimme me, ja menimme Moabin korven tieta.	</div>
 
-<div class="versenum">9.</div> Ja Herra sanoi minulle: ala vahingoitse Moabilaisia, ala myos sekoita itsias sotaan heidan kanssansa; sila en mina anna sinulle mitakaan hanen maastansa perimiseksi; silla Lotin lapsille olen mina antanut Arin perimiseksi.	
+<div class="theverse"><div class="versenum">9.</div> Ja Herra sanoi minulle: ala vahingoitse Moabilaisia, ala myos sekoita itsias sotaan heidan kanssansa; sila en mina anna sinulle mitakaan hanen maastansa perimiseksi; silla Lotin lapsille olen mina antanut Arin perimiseksi.	</div>
 
-<div class="versenum">10.</div> Emilaiset ovat muinen silla paikalla asuneet, jotka olivat suuri, vakeva ja pitka kansa, niinkuin Enakilaiset;	
+<div class="theverse"><div class="versenum">10.</div> Emilaiset ovat muinen silla paikalla asuneet, jotka olivat suuri, vakeva ja pitka kansa, niinkuin Enakilaiset;	</div>
 
-<div class="versenum">11.</div> He luultiin myos Refalaisiksi, niinkuin Enakilaiset, ja Moabilaiset kutsuivat heita Emilaisiksi.	
+<div class="theverse"><div class="versenum">11.</div> He luultiin myos Refalaisiksi, niinkuin Enakilaiset, ja Moabilaiset kutsuivat heita Emilaisiksi.	</div>
 
-<div class="versenum">12.</div> Asuivat myos muinen Horilaiset Seirissa, ja Esaun lapset ajoivat pois ja hukuttivat ne edestansa, ja asuivat heidan siassansa: niinkuin Israel teki perintomaassansa, jonka Herra heille antoi.	
+<div class="theverse"><div class="versenum">12.</div> Asuivat myos muinen Horilaiset Seirissa, ja Esaun lapset ajoivat pois ja hukuttivat ne edestansa, ja asuivat heidan siassansa: niinkuin Israel teki perintomaassansa, jonka Herra heille antoi.	</div>
 
-<div class="versenum">13.</div> Niin nouskaat nyt, ja matkustakaat Saredin ojan ylitse. Ja me vaelsimme Saredin ojan ylitse.	
+<div class="theverse"><div class="versenum">13.</div> Niin nouskaat nyt, ja matkustakaat Saredin ojan ylitse. Ja me vaelsimme Saredin ojan ylitse.	</div>
 
-<div class="versenum">14.</div> Vaan aika, kuin me matkustimme KadesBarneasta, siihen asti kuin me tulimme Saredin ojan ylitse, oli kahdeksan vuotta neljattakymmenta, siihenasti kuin kaikki sotamiehet leirissa olivat hukkuneet, niinkuin Herra heille vannonut oli.	
+<div class="theverse"><div class="versenum">14.</div> Vaan aika, kuin me matkustimme KadesBarneasta, siihen asti kuin me tulimme Saredin ojan ylitse, oli kahdeksan vuotta neljattakymmenta, siihenasti kuin kaikki sotamiehet leirissa olivat hukkuneet, niinkuin Herra heille vannonut oli.	</div>
 
-<div class="versenum">15.</div> Silla Herran kasi oli heita vastaan, hukuttamaan heita leirissa, siihenasti kuin han perati lopetti heidat.	
+<div class="theverse"><div class="versenum">15.</div> Silla Herran kasi oli heita vastaan, hukuttamaan heita leirissa, siihenasti kuin han perati lopetti heidat.	</div>
 
-<div class="versenum">16.</div> Kuin kaikki sotamiehet olivat loppuneet ja kuolleet kansan seasta,	
+<div class="theverse"><div class="versenum">16.</div> Kuin kaikki sotamiehet olivat loppuneet ja kuolleet kansan seasta,	</div>
 
-<div class="versenum">17.</div> Puhui Herra minulle, ja sanoi:	
+<div class="theverse"><div class="versenum">17.</div> Puhui Herra minulle, ja sanoi:	</div>
 
-<div class="versenum">18.</div> Tanapana pitaa sinun matkustaman Moabin rajain yli, lahella Aria.	
+<div class="theverse"><div class="versenum">18.</div> Tanapana pitaa sinun matkustaman Moabin rajain yli, lahella Aria.	</div>
 
-<div class="versenum">19.</div> Ja kuin lahestyt Ammonin lapsia, ala heita vahingoitse, ala myos sekoita itsias sotaan heidan kanssansa; silla en mina anna sinulle Ammonin lasten maata perimiseksi; vaan Lotin lapsille olen mina sen antanut perimiseksi.	
+<div class="theverse"><div class="versenum">19.</div> Ja kuin lahestyt Ammonin lapsia, ala heita vahingoitse, ala myos sekoita itsias sotaan heidan kanssansa; silla en mina anna sinulle Ammonin lasten maata perimiseksi; vaan Lotin lapsille olen mina sen antanut perimiseksi.	</div>
 
-<div class="versenum">20.</div> Se on myos luettu Refalaisten maaksi; silla Refalaiset ovat muinen siina asuneet. Ja Ammonilaiset kutsuvat heidat Samsumilaisiksi.	
+<div class="theverse"><div class="versenum">20.</div> Se on myos luettu Refalaisten maaksi; silla Refalaiset ovat muinen siina asuneet. Ja Ammonilaiset kutsuvat heidat Samsumilaisiksi.	</div>
 
-<div class="versenum">21.</div> Silla he olivat suuri, vakeva ja pitka kansa, niinkuin Enakilaiset. Ja Herra havitti heita heidan edestansa, niin etta he ajoivat heidat ulos, ja asuivat heidan siassansa.	
+<div class="theverse"><div class="versenum">21.</div> Silla he olivat suuri, vakeva ja pitka kansa, niinkuin Enakilaiset. Ja Herra havitti heita heidan edestansa, niin etta he ajoivat heidat ulos, ja asuivat heidan siassansa.	</div>
 
-<div class="versenum">22.</div> Niinkuin han oli tehnyt Esaun lapsille Seirin vuorella asuvaisille, havittaissansa Horilaiset heidan edestansa, niin etta he ovat heidat ajaneet ulos, ja asuneet heidan siassansa tahan paivaan asti.	
+<div class="theverse"><div class="versenum">22.</div> Niinkuin han oli tehnyt Esaun lapsille Seirin vuorella asuvaisille, havittaissansa Horilaiset heidan edestansa, niin etta he ovat heidat ajaneet ulos, ja asuneet heidan siassansa tahan paivaan asti.	</div>
 
-<div class="versenum">23.</div> Availaiset asuivat maakylissa Gatsaan asti; mutta Kaphtorilaiset laksivat Kaphtorista ja havittivat ne, ja asuivat heidan siassansa.	
+<div class="theverse"><div class="versenum">23.</div> Availaiset asuivat maakylissa Gatsaan asti; mutta Kaphtorilaiset laksivat Kaphtorista ja havittivat ne, ja asuivat heidan siassansa.	</div>
 
-<div class="versenum">24.</div> Nouskaat ja lahtekaat, ja matkustakaat Arnonin ojan ylitse: katso, mina annoin sinun kasiis Sihonin Amorilaisten kuninkaan Hesbonissa, mainensa, rupee siis omistamaan, ja sotimaan hanta vastaan.	
+<div class="theverse"><div class="versenum">24.</div> Nouskaat ja lahtekaat, ja matkustakaat Arnonin ojan ylitse: katso, mina annoin sinun kasiis Sihonin Amorilaisten kuninkaan Hesbonissa, mainensa, rupee siis omistamaan, ja sotimaan hanta vastaan.	</div>
 
-<div class="versenum">25.</div> Tanapana mina alan tuottamaan kaiken kansan paalle koko taivaan alla pelvon ja vapisemisen sinun edessas, niin etta he, sanoman sinusta kuultuansa, pitaa variseman, ja surulliset oleman sinun edessas.	
+<div class="theverse"><div class="versenum">25.</div> Tanapana mina alan tuottamaan kaiken kansan paalle koko taivaan alla pelvon ja vapisemisen sinun edessas, niin etta he, sanoman sinusta kuultuansa, pitaa variseman, ja surulliset oleman sinun edessas.	</div>
 
-<div class="versenum">26.</div> Niin mina lahetin sanansaattajat Kedemotin korvesta Sihonille Hesbonin kuninkaalle rauhallisilla sanoilla, sanoen:	
+<div class="theverse"><div class="versenum">26.</div> Niin mina lahetin sanansaattajat Kedemotin korvesta Sihonille Hesbonin kuninkaalle rauhallisilla sanoilla, sanoen:	</div>
 
-<div class="versenum">27.</div> Mina tahdon vaeltaa sinun maakuntais lavitse, ja niinkuin tie antaa, niin mina vaellan: en mina oikialle puolelle enka vasemmalle poikkee.	
+<div class="theverse"><div class="versenum">27.</div> Mina tahdon vaeltaa sinun maakuntais lavitse, ja niinkuin tie antaa, niin mina vaellan: en mina oikialle puolelle enka vasemmalle poikkee.	</div>
 
-<div class="versenum">28.</div> Ruokaa pitaa sinun rahan edesta antaman minulle syoda, ja vetta rahan edesta juoda: mina kayn vaivoin joudukkaasti sen lavitse,	
+<div class="theverse"><div class="versenum">28.</div> Ruokaa pitaa sinun rahan edesta antaman minulle syoda, ja vetta rahan edesta juoda: mina kayn vaivoin joudukkaasti sen lavitse,	</div>
 
-<div class="versenum">29.</div> Niinkuin Esaun lapset, jotka Seirissa asuvat, minulle tehneet ovat, ja Moabilaiset, jotka Arissa asuvat, siihenasti etta mina tulen Jordanin ylitse, siihen maahan, jonka Herra meidan Jumalamme antaa meille.	
+<div class="theverse"><div class="versenum">29.</div> Niinkuin Esaun lapset, jotka Seirissa asuvat, minulle tehneet ovat, ja Moabilaiset, jotka Arissa asuvat, siihenasti etta mina tulen Jordanin ylitse, siihen maahan, jonka Herra meidan Jumalamme antaa meille.	</div>
 
-<div class="versenum">30.</div> Vaan ei Sihon Hesbonin kuningas tahtonut meidan antaa vaeltaa sen lavitse; silla Herra sinun Jumalas kovetti hanen mielensa ja paadutti hanen sydamensa, etta Herra tahtoi antaa hanen sinun kasiis, niinkuin tanapaivana on.	
+<div class="theverse"><div class="versenum">30.</div> Vaan ei Sihon Hesbonin kuningas tahtonut meidan antaa vaeltaa sen lavitse; silla Herra sinun Jumalas kovetti hanen mielensa ja paadutti hanen sydamensa, etta Herra tahtoi antaa hanen sinun kasiis, niinkuin tanapaivana on.	</div>
 
-<div class="versenum">31.</div> Ja Herra sanoi minulle: katso, mina olen ruvennut antamaan Sihonin kuninkaan ja hanen maansa sinun etees: rupee omistamaan ja perintonas pitamaan hanen maatansa.	
+<div class="theverse"><div class="versenum">31.</div> Ja Herra sanoi minulle: katso, mina olen ruvennut antamaan Sihonin kuninkaan ja hanen maansa sinun etees: rupee omistamaan ja perintonas pitamaan hanen maatansa.	</div>
 
-<div class="versenum">32.</div> Ja Sihon laksi sotimaan meita vastaan, han ja kaikki hanen vakensa Jaksassa.	
+<div class="theverse"><div class="versenum">32.</div> Ja Sihon laksi sotimaan meita vastaan, han ja kaikki hanen vakensa Jaksassa.	</div>
 
-<div class="versenum">33.</div> Mutta Herra meidan Jumalamme antoi hanen meidan eteemme, ja me loimme hanen ja hanen lapsensa ja kaikki hanen vakensa.	
+<div class="theverse"><div class="versenum">33.</div> Mutta Herra meidan Jumalamme antoi hanen meidan eteemme, ja me loimme hanen ja hanen lapsensa ja kaikki hanen vakensa.	</div>
 
-<div class="versenum">34.</div> Ja me otimme silloin kaikki hanen kaupunkinsa, ja hukutimme kaikki kaupungit, miehet ja vaimot ja lapset, niin ettemme yhtakaan jattaneet,	
+<div class="theverse"><div class="versenum">34.</div> Ja me otimme silloin kaikki hanen kaupunkinsa, ja hukutimme kaikki kaupungit, miehet ja vaimot ja lapset, niin ettemme yhtakaan jattaneet,	</div>
 
-<div class="versenum">35.</div> Paitsi elaimia jotka me meillemme otimme, ja kaupunkein saaliin, jotka me voitimme,	
+<div class="theverse"><div class="versenum">35.</div> Paitsi elaimia jotka me meillemme otimme, ja kaupunkein saaliin, jotka me voitimme,	</div>
 
-<div class="versenum">36.</div> Hamasta Aroerista Arnonin ojan reunalla, ja siita kaupungista ojan vieressa, niin Gileadiin asti. Ei yhtakaan kaupunkia ollut, joka taisi olla meita vakevampi: Herra meidan Jumalamme antoi kaikki meidan allemme.	
+<div class="theverse"><div class="versenum">36.</div> Hamasta Aroerista Arnonin ojan reunalla, ja siita kaupungista ojan vieressa, niin Gileadiin asti. Ei yhtakaan kaupunkia ollut, joka taisi olla meita vakevampi: Herra meidan Jumalamme antoi kaikki meidan allemme.	</div>
 
-<div class="versenum">37.</div> Vaan Ammonin lasten maahan et sina tullut, etka mihinkaan, joka oli Jabbokin ojan tykona, eika niihin kaupunkeihin vuorella, taikka johonkuhun muuhun, josta Herra meidan Jumalamme meita kieltanyt on.	
+<div class="theverse"><div class="versenum">37.</div> Vaan Ammonin lasten maahan et sina tullut, etka mihinkaan, joka oli Jabbokin ojan tykona, eika niihin kaupunkeihin vuorella, taikka johonkuhun muuhun, josta Herra meidan Jumalamme meita kieltanyt on.	</div>
 </body>
 </html>

@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Saarnaajan 10	</div>
 	
-<div class="versenum">1.</div> Myrkkykarpaset saavat haisemaan ja kaymaan voiteentekijan voiteen. Pieni tyhmyys painaa enemman kuin viisaus ja kunnia.	
+<div class="theverse"><div class="versenum">1.</div> Myrkkykarpaset saavat haisemaan ja kaymaan voiteentekijan voiteen. Pieni tyhmyys painaa enemman kuin viisaus ja kunnia.	</div>
 
-<div class="versenum">2.</div> Viisaan sydan vetaa oikealle, tyhman vasemmalle.	
+<div class="theverse"><div class="versenum">2.</div> Viisaan sydan vetaa oikealle, tyhman vasemmalle.	</div>
 
-<div class="versenum">3.</div> Tieta kaydessakin puuttuu tyhmalta mielta: jokaiselle han ilmaisee olevansa tyhma.	
+<div class="theverse"><div class="versenum">3.</div> Tieta kaydessakin puuttuu tyhmalta mielta: jokaiselle han ilmaisee olevansa tyhma.	</div>
 
-<div class="versenum">4.</div> Jos hallitsijassa nousee viha sinua kohtaan, niin ala jata paikkaasi; silla savyisyys pidattaa suurista synneista.	
+<div class="theverse"><div class="versenum">4.</div> Jos hallitsijassa nousee viha sinua kohtaan, niin ala jata paikkaasi; silla savyisyys pidattaa suurista synneista.	</div>
 
-<div class="versenum">5.</div> On onnettomuus se, minka olen nahnyt auringon alla, vallanpitajasta lahtenyt erehdys:	
+<div class="theverse"><div class="versenum">5.</div> On onnettomuus se, minka olen nahnyt auringon alla, vallanpitajasta lahtenyt erehdys:	</div>
 
-<div class="versenum">6.</div> tyhmyys asetetaan arvon korkeuksiin, ja rikkaat saavat istua alhaalla.	
+<div class="theverse"><div class="versenum">6.</div> tyhmyys asetetaan arvon korkeuksiin, ja rikkaat saavat istua alhaalla.	</div>
 
-<div class="versenum">7.</div> Mina olen nahnyt palvelijat hevosten selassa ja ruhtinaat kavelemassa kuin palvelijat maassa.	
+<div class="theverse"><div class="versenum">7.</div> Mina olen nahnyt palvelijat hevosten selassa ja ruhtinaat kavelemassa kuin palvelijat maassa.	</div>
 
-<div class="versenum">8.</div> Joka kuopan kaivaa, se siihen putoaa; joka muuria purkaa, sita puree kaarme.	
+<div class="theverse"><div class="versenum">8.</div> Joka kuopan kaivaa, se siihen putoaa; joka muuria purkaa, sita puree kaarme.	</div>
 
-<div class="versenum">9.</div> Joka kivia louhii, se niihin loukkaantuu; joka puita halkoo, se joutuu siina vaaraan.	
+<div class="theverse"><div class="versenum">9.</div> Joka kivia louhii, se niihin loukkaantuu; joka puita halkoo, se joutuu siina vaaraan.	</div>
 
-<div class="versenum">10.</div> Jos rauta on tylsynyt eika teransuuta tahkota, taytyy ponnistaa voimia; mutta hyodyllinen kuntoonpano on viisautta.	
+<div class="theverse"><div class="versenum">10.</div> Jos rauta on tylsynyt eika teransuuta tahkota, taytyy ponnistaa voimia; mutta hyodyllinen kuntoonpano on viisautta.	</div>
 
-<div class="versenum">11.</div> Jos kaarme puree silloin, kun sita ei ole lumottu, ei lumoojalla ole hyotya taidostaan.	
+<div class="theverse"><div class="versenum">11.</div> Jos kaarme puree silloin, kun sita ei ole lumottu, ei lumoojalla ole hyotya taidostaan.	</div>
 
-<div class="versenum">12.</div> Sanat viisaan suusta saavat suosiota, mutta tyhman nielevat hanen omat huulensa.	
+<div class="theverse"><div class="versenum">12.</div> Sanat viisaan suusta saavat suosiota, mutta tyhman nielevat hanen omat huulensa.	</div>
 
-<div class="versenum">13.</div> Hanen suunsa sanain alku on tyhmyytta, ja hanen puheensa loppu pahaa mielettomyytta.	
+<div class="theverse"><div class="versenum">13.</div> Hanen suunsa sanain alku on tyhmyytta, ja hanen puheensa loppu pahaa mielettomyytta.	</div>
 
-<div class="versenum">14.</div> Tyhma puhuu paljon; mutta ihminen ei tieda, mita tuleva on. Ja kuka ilmaisee hanelle, mita hanen jalkeensa tulee?	
+<div class="theverse"><div class="versenum">14.</div> Tyhma puhuu paljon; mutta ihminen ei tieda, mita tuleva on. Ja kuka ilmaisee hanelle, mita hanen jalkeensa tulee?	</div>
 
-<div class="versenum">15.</div> Oma vaivannako vasyttaa tyhman, joka ei osaa kaupunkiinkaan kulkea.	
+<div class="theverse"><div class="versenum">15.</div> Oma vaivannako vasyttaa tyhman, joka ei osaa kaupunkiinkaan kulkea.	</div>
 
-<div class="versenum">16.</div> Voi sinua, maa, jolla on kuninkaana poikanen ja jonka ruhtinaat jo aamulla aterioita pitavat!	
+<div class="theverse"><div class="versenum">16.</div> Voi sinua, maa, jolla on kuninkaana poikanen ja jonka ruhtinaat jo aamulla aterioita pitavat!	</div>
 
-<div class="versenum">17.</div> Onnellinen sina, maa, jolla on jalosukuinen kuningas ja jonka ruhtinaat pitavat aterioita oikeaan aikaan, miehekkaasti eika juopotellen!	
+<div class="theverse"><div class="versenum">17.</div> Onnellinen sina, maa, jolla on jalosukuinen kuningas ja jonka ruhtinaat pitavat aterioita oikeaan aikaan, miehekkaasti eika juopotellen!	</div>
 
-<div class="versenum">18.</div> Missa laiskuus on, siina vuoliaiset vaipuvat; ja missa kadet velttoina riippuvat, tippuu huoneeseen vetta.	
+<div class="theverse"><div class="versenum">18.</div> Missa laiskuus on, siina vuoliaiset vaipuvat; ja missa kadet velttoina riippuvat, tippuu huoneeseen vetta.	</div>
 
-<div class="versenum">19.</div> Hauskuudeksi ateria laitetaan, ja viini ilahuttaa elaman; mutta raha kaiken hankkii.	
+<div class="theverse"><div class="versenum">19.</div> Hauskuudeksi ateria laitetaan, ja viini ilahuttaa elaman; mutta raha kaiken hankkii.	</div>
 
-<div class="versenum">20.</div> Ala ajatuksissasikaan kiroile kuningasta, alaka makuukammiossasikaan kiroile rikasta, silla taivaan linnut kuljettavat sinun aanesi ja siivelliset ilmaisevat sinun sanasi.	
+<div class="theverse"><div class="versenum">20.</div> Ala ajatuksissasikaan kiroile kuningasta, alaka makuukammiossasikaan kiroile rikasta, silla taivaan linnut kuljettavat sinun aanesi ja siivelliset ilmaisevat sinun sanasi.	</div>
 </body>
 </html>

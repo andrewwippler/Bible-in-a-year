@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Filemonille 1	</div>
 	
-<div class="versenum">1.</div> Paavali, Kristuksen Jesuksen vanki, ja veli Timoteus, rakkaalle Philemonille, ja meidan apulaisellemme,	
+<div class="theverse"><div class="versenum">1.</div> Paavali, Kristuksen Jesuksen vanki, ja veli Timoteus, rakkaalle Philemonille, ja meidan apulaisellemme,	</div>
 
-<div class="versenum">2.</div> Ja rakkaalle Appialle ja Arkippukselle, meidan kanssapalveliallemme, ja seurakunnalle, joka sinun huoneessas on:	
+<div class="theverse"><div class="versenum">2.</div> Ja rakkaalle Appialle ja Arkippukselle, meidan kanssapalveliallemme, ja seurakunnalle, joka sinun huoneessas on:	</div>
 
-<div class="versenum">3.</div> Armo olkoon teille ja rauha Jumalalta, meidan Isaltamme ja Herralta Jesukselta Kristukselta!	
+<div class="theverse"><div class="versenum">3.</div> Armo olkoon teille ja rauha Jumalalta, meidan Isaltamme ja Herralta Jesukselta Kristukselta!	</div>
 
-<div class="versenum">4.</div> Mina kiitan minun Jumalaani ja muistan aina sinua minun rukouksissani,	
+<div class="theverse"><div class="versenum">4.</div> Mina kiitan minun Jumalaani ja muistan aina sinua minun rukouksissani,	</div>
 
-<div class="versenum">5.</div> Etta mina kuulen siita rakkaudesta ja uskosta, joka sinulla Herran Jesuksen paalle on ja kaikkein pyhain tyko:	
+<div class="theverse"><div class="versenum">5.</div> Etta mina kuulen siita rakkaudesta ja uskosta, joka sinulla Herran Jesuksen paalle on ja kaikkein pyhain tyko:	</div>
 
-<div class="versenum">6.</div> Etta sinun uskos, joka meille yhteinen on, tulis sinussa kaiken hyvyyden tuntemisen kautta voimalliseksi, joka teilla Kristuksessa Jesuksessa on.	
+<div class="theverse"><div class="versenum">6.</div> Etta sinun uskos, joka meille yhteinen on, tulis sinussa kaiken hyvyyden tuntemisen kautta voimalliseksi, joka teilla Kristuksessa Jesuksessa on.	</div>
 
-<div class="versenum">7.</div> Silla meilla on suuri ilo ja lohdutus sinun rakkaudestas, etta pyhain sydamet sinun kauttas, rakas veljeni, virvoitetut ovat.	
+<div class="theverse"><div class="versenum">7.</div> Silla meilla on suuri ilo ja lohdutus sinun rakkaudestas, etta pyhain sydamet sinun kauttas, rakas veljeni, virvoitetut ovat.	</div>
 
-<div class="versenum">8.</div> Sentahden vaikka minulla on suuri uskallus Kristuksessa kaskea sinua, mita sinun tehda tulee,	
+<div class="theverse"><div class="versenum">8.</div> Sentahden vaikka minulla on suuri uskallus Kristuksessa kaskea sinua, mita sinun tehda tulee,	</div>
 
-<div class="versenum">9.</div> Niin mina kuitenkin tahdon rakkauden puolesta ennen rukoilla, mina, joka tainkaltainen olen, nimittain vanha Paavali, mutta nyt myos Jesuksen Kristuksen vanki.	
+<div class="theverse"><div class="versenum">9.</div> Niin mina kuitenkin tahdon rakkauden puolesta ennen rukoilla, mina, joka tainkaltainen olen, nimittain vanha Paavali, mutta nyt myos Jesuksen Kristuksen vanki.	</div>
 
-<div class="versenum">10.</div> Niin mina siis neuvon sinua, minun poikani Onesimuksen puolesta, jonka mina siteissani siitin,	
+<div class="theverse"><div class="versenum">10.</div> Niin mina siis neuvon sinua, minun poikani Onesimuksen puolesta, jonka mina siteissani siitin,	</div>
 
-<div class="versenum">11.</div> Joka sinulle muinen kelvotoin oli, mutta nyt sinulle ja minulle kylla tarpeellinen, jonka mina nyt olen lahettanyt jalleen.	
+<div class="theverse"><div class="versenum">11.</div> Joka sinulle muinen kelvotoin oli, mutta nyt sinulle ja minulle kylla tarpeellinen, jonka mina nyt olen lahettanyt jalleen.	</div>
 
-<div class="versenum">12.</div> Mutta ota hanta vastaan; silla han on minun oma sydameni.	
+<div class="theverse"><div class="versenum">12.</div> Mutta ota hanta vastaan; silla han on minun oma sydameni.	</div>
 
-<div class="versenum">13.</div> Mina tahdoin hanta pitaa minun tykonani, etta han minua sinun puolestas evankeliumin siteissa palvelis.	
+<div class="theverse"><div class="versenum">13.</div> Mina tahdoin hanta pitaa minun tykonani, etta han minua sinun puolestas evankeliumin siteissa palvelis.	</div>
 
-<div class="versenum">14.</div> Mutta en mina tahtonut mitaan ilman sinun suosiotas tehda, ettei sinun hyvyytes pitanyt oleman niinkuin vaadittu, vaan vapaamielinen.	
+<div class="theverse"><div class="versenum">14.</div> Mutta en mina tahtonut mitaan ilman sinun suosiotas tehda, ettei sinun hyvyytes pitanyt oleman niinkuin vaadittu, vaan vapaamielinen.	</div>
 
-<div class="versenum">15.</div> Silla sentahden han hetkeksi sinulta laksi, ettas hanen ijaksi saisit jallensa,	
+<div class="theverse"><div class="versenum">15.</div> Silla sentahden han hetkeksi sinulta laksi, ettas hanen ijaksi saisit jallensa,	</div>
 
-<div class="versenum">16.</div> Ei nyt silleen niinkuin palvelian, vaan enemmin palvelian ja niinkuin rakkaan veljen, erinomattain minulle, mutta kuinka paljoa enemmin sinulle, seka lihan kautta etta Herrassa.	
+<div class="theverse"><div class="versenum">16.</div> Ei nyt silleen niinkuin palvelian, vaan enemmin palvelian ja niinkuin rakkaan veljen, erinomattain minulle, mutta kuinka paljoa enemmin sinulle, seka lihan kautta etta Herrassa.	</div>
 
-<div class="versenum">17.</div> Jos sina siis minun kumppaninas pidat, niin ota hanta vastaan niinkuin minuakin.	
+<div class="theverse"><div class="versenum">17.</div> Jos sina siis minun kumppaninas pidat, niin ota hanta vastaan niinkuin minuakin.	</div>
 
-<div class="versenum">18.</div> Mutta jos han jotakin sinua vahingoittanut on eli on sinulle velkaa, niin sano minun syykseni.	
+<div class="theverse"><div class="versenum">18.</div> Mutta jos han jotakin sinua vahingoittanut on eli on sinulle velkaa, niin sano minun syykseni.	</div>
 
-<div class="versenum">19.</div> Mina Paavali olen taman omalla kadellani kirjoittanut ja tahdon sen sinulle maksaa, etten mina sinulle sanoisi, ettas myos sinun itses minulle velkapaa olet.	
+<div class="theverse"><div class="versenum">19.</div> Mina Paavali olen taman omalla kadellani kirjoittanut ja tahdon sen sinulle maksaa, etten mina sinulle sanoisi, ettas myos sinun itses minulle velkapaa olet.	</div>
 
-<div class="versenum">20.</div> Armas veljeni! suo minun ihastua sinusta Herrassa, virvoita minun sydameni Herrassa.	
+<div class="theverse"><div class="versenum">20.</div> Armas veljeni! suo minun ihastua sinusta Herrassa, virvoita minun sydameni Herrassa.	</div>
 
-<div class="versenum">21.</div> Mina kirjoitin sinulle luottain sinun kuuliaisuutees, tietaen sinun enemmin tekevan kuin mina sanonkaan.	
+<div class="theverse"><div class="versenum">21.</div> Mina kirjoitin sinulle luottain sinun kuuliaisuutees, tietaen sinun enemmin tekevan kuin mina sanonkaan.	</div>
 
-<div class="versenum">22.</div> Valmista myos minulle majaa; silla mina toivon, etta mina teidan rukoustenne kautta teille lahjoitetaan.	
+<div class="theverse"><div class="versenum">22.</div> Valmista myos minulle majaa; silla mina toivon, etta mina teidan rukoustenne kautta teille lahjoitetaan.	</div>
 
-<div class="versenum">23.</div> Sinua tervehtivat Epaphras, (minun kanssavankini Kristuksessa Jesuksessa,)	
+<div class="theverse"><div class="versenum">23.</div> Sinua tervehtivat Epaphras, (minun kanssavankini Kristuksessa Jesuksessa,)	</div>
 
-<div class="versenum">24.</div> Markus, Aristarkus, Demas, Luukas, minun apulaiseni.	
+<div class="theverse"><div class="versenum">24.</div> Markus, Aristarkus, Demas, Luukas, minun apulaiseni.	</div>
 
-<div class="versenum">25.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan henkenne kanssa, amen!	
+<div class="theverse"><div class="versenum">25.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan henkenne kanssa, amen!	</div>
 </body>
 </html>

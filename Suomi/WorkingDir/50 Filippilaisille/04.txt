@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Filippilaisille 4	</div>
 	
-<div class="versenum">1.</div> Sentahden minun rakkaat ja ihanat veljeni, minun iloni ja minun kruununi, seisokaat niin Herrassa, minun rakkaani.	
+<div class="theverse"><div class="versenum">1.</div> Sentahden minun rakkaat ja ihanat veljeni, minun iloni ja minun kruununi, seisokaat niin Herrassa, minun rakkaani.	</div>
 
-<div class="versenum">2.</div> Euodiaa mina neuvon ja Syntykea mina neuvon, etta he Herrassa yksimieliset olisivat.	
+<div class="theverse"><div class="versenum">2.</div> Euodiaa mina neuvon ja Syntykea mina neuvon, etta he Herrassa yksimieliset olisivat.	</div>
 
-<div class="versenum">3.</div> Ja mina rukoilen sinua, minun uskollinen kumppanini, ole niille avullinen, jotka minun kanssani evankeliumissa kilvoitelleet ovat, ynna Klementin ja muiden minun auttajaini kanssa, joiden nimet elaman kirjassa ovat.	
+<div class="theverse"><div class="versenum">3.</div> Ja mina rukoilen sinua, minun uskollinen kumppanini, ole niille avullinen, jotka minun kanssani evankeliumissa kilvoitelleet ovat, ynna Klementin ja muiden minun auttajaini kanssa, joiden nimet elaman kirjassa ovat.	</div>
 
-<div class="versenum">4.</div> Iloitkaat aina Herrassa, ja taas mina sanon: iloitkaat.	
+<div class="theverse"><div class="versenum">4.</div> Iloitkaat aina Herrassa, ja taas mina sanon: iloitkaat.	</div>
 
-<div class="versenum">5.</div> Olkoon teidan siveytenne kaikille ihmisille tiettava: Herra on lasna.	
+<div class="theverse"><div class="versenum">5.</div> Olkoon teidan siveytenne kaikille ihmisille tiettava: Herra on lasna.	</div>
 
-<div class="versenum">6.</div> Alkaat mistaan murehtiko, vaan olkoon teidan anomuksenne kaikissa asioissa Jumalalle tiettava, kaikella rukouksella ja pyytamisella kiitoksen kanssa.	
+<div class="theverse"><div class="versenum">6.</div> Alkaat mistaan murehtiko, vaan olkoon teidan anomuksenne kaikissa asioissa Jumalalle tiettava, kaikella rukouksella ja pyytamisella kiitoksen kanssa.	</div>
 
-<div class="versenum">7.</div> Ja Jumalan rauha, joka ylitse kaiken ymmarryksen kay, varjelkoon teidan sydamenne ja teidan taitonne Kristuksessa Jesuksessa.	
+<div class="theverse"><div class="versenum">7.</div> Ja Jumalan rauha, joka ylitse kaiken ymmarryksen kay, varjelkoon teidan sydamenne ja teidan taitonne Kristuksessa Jesuksessa.	</div>
 
-<div class="versenum">8.</div> Viela, rakkaat veljet, mika tosi, mika kunniallinen, mika oikein, mika puhdas, mika otollinen on, mika hyvin kuuluu, jos joku hyva tapa ja jos joku kiitos on, ajatelkaat niita.	
+<div class="theverse"><div class="versenum">8.</div> Viela, rakkaat veljet, mika tosi, mika kunniallinen, mika oikein, mika puhdas, mika otollinen on, mika hyvin kuuluu, jos joku hyva tapa ja jos joku kiitos on, ajatelkaat niita.	</div>
 
-<div class="versenum">9.</div> Mita te myos opitte, ja saitte, ja kuulitte, ja nahneet olette minussa, se tehkaat, niin rauhan Jumala on teidan kanssanne.	
+<div class="theverse"><div class="versenum">9.</div> Mita te myos opitte, ja saitte, ja kuulitte, ja nahneet olette minussa, se tehkaat, niin rauhan Jumala on teidan kanssanne.	</div>
 
-<div class="versenum">10.</div> Mutta mina olen suuresti iloinen Herrassa, etta te olette taas virvonneet minusta murhetta pitamaan, ehka te sen tehneetkin olette, vaan ei teilla ollut tilaa.	
+<div class="theverse"><div class="versenum">10.</div> Mutta mina olen suuresti iloinen Herrassa, etta te olette taas virvonneet minusta murhetta pitamaan, ehka te sen tehneetkin olette, vaan ei teilla ollut tilaa.	</div>
 
-<div class="versenum">11.</div> Enpa mina sita sentahden sano, etta minulta jotakin puuttuu; silla mina olen oppinut, joissa mina olen, niihin tyytymaan.	
+<div class="theverse"><div class="versenum">11.</div> Enpa mina sita sentahden sano, etta minulta jotakin puuttuu; silla mina olen oppinut, joissa mina olen, niihin tyytymaan.	</div>
 
-<div class="versenum">12.</div> Mina taidan noyra olla ja taidan myos korkia olla, mina olen aina ja kaikissa harjoitettu, taidan ravittu olla ja isota, hyotya ja koyhtya.	
+<div class="theverse"><div class="versenum">12.</div> Mina taidan noyra olla ja taidan myos korkia olla, mina olen aina ja kaikissa harjoitettu, taidan ravittu olla ja isota, hyotya ja koyhtya.	</div>
 
-<div class="versenum">13.</div> Mina voin kaikki sen kautta, joka minun vakevaksi tekee, Kristuksen.	
+<div class="theverse"><div class="versenum">13.</div> Mina voin kaikki sen kautta, joka minun vakevaksi tekee, Kristuksen.	</div>
 
-<div class="versenum">14.</div> Kuitenkin te teitte hyvin, etta te minun murheeni paallenne otitte.	
+<div class="theverse"><div class="versenum">14.</div> Kuitenkin te teitte hyvin, etta te minun murheeni paallenne otitte.	</div>
 
-<div class="versenum">15.</div> Mutta te Philippilaiset tiedatte, ettei ensin evankeliumin alusta, kuin mina Makedoniasta laksin, yksikaan seurakunta minulle mitaan ollut jakanut antamisessa ja ottamisessa, vaan ainoastaan te;	
+<div class="theverse"><div class="versenum">15.</div> Mutta te Philippilaiset tiedatte, ettei ensin evankeliumin alusta, kuin mina Makedoniasta laksin, yksikaan seurakunta minulle mitaan ollut jakanut antamisessa ja ottamisessa, vaan ainoastaan te;	</div>
 
-<div class="versenum">16.</div> Silla kuin myos mina Tessalonikassa olin, lahetitte te kerran ja kaksi minun tarpeeni.	
+<div class="theverse"><div class="versenum">16.</div> Silla kuin myos mina Tessalonikassa olin, lahetitte te kerran ja kaksi minun tarpeeni.	</div>
 
-<div class="versenum">17.</div> Ei niin, etta mina lahjoja pyydan, vaan ahkeroitsen sita, etta teidan luvussanne ylitsevuotava hedelma olis.	
+<div class="theverse"><div class="versenum">17.</div> Ei niin, etta mina lahjoja pyydan, vaan ahkeroitsen sita, etta teidan luvussanne ylitsevuotava hedelma olis.	</div>
 
-<div class="versenum">18.</div> Silla minulla on kaikki ja yltakylla, mina olen taytetty, sitte kuin mina Epaphroditukselta sain sen, mika teilta lahetetty oli, makian hajun, otollisen ja Jumalalle kelvollisen uhrin.	
+<div class="theverse"><div class="versenum">18.</div> Silla minulla on kaikki ja yltakylla, mina olen taytetty, sitte kuin mina Epaphroditukselta sain sen, mika teilta lahetetty oli, makian hajun, otollisen ja Jumalalle kelvollisen uhrin.	</div>
 
-<div class="versenum">19.</div> Mutta minun Jumalani on teille antava, rikkaudestansa kaikki teidan tarpeenne, kunniassa, Jesuksen Kristuksen kautta.	
+<div class="theverse"><div class="versenum">19.</div> Mutta minun Jumalani on teille antava, rikkaudestansa kaikki teidan tarpeenne, kunniassa, Jesuksen Kristuksen kautta.	</div>
 
-<div class="versenum">20.</div> Mutta Jumalalle ja meidan Isallemme olkoon kunnia ijankaikkisesta ijankaikkiseen, amen!	
+<div class="theverse"><div class="versenum">20.</div> Mutta Jumalalle ja meidan Isallemme olkoon kunnia ijankaikkisesta ijankaikkiseen, amen!	</div>
 
-<div class="versenum">21.</div> Tervehtikaat jokaista pyhaa Kristuksessa Jesuksessa. Teita tervehtivat ne veljet, jotka minun kanssani ovat.	
+<div class="theverse"><div class="versenum">21.</div> Tervehtikaat jokaista pyhaa Kristuksessa Jesuksessa. Teita tervehtivat ne veljet, jotka minun kanssani ovat.	</div>
 
-<div class="versenum">22.</div> Teita tervehtivat kaikki pyhat, erinomattain ne, jotka keisarin huoneesta ovat.	
+<div class="theverse"><div class="versenum">22.</div> Teita tervehtivat kaikki pyhat, erinomattain ne, jotka keisarin huoneesta ovat.	</div>
 
-<div class="versenum">23.</div> Meidan Herran Jesuksen Kristuksen armo olkoon kaikkein teidan kanssanne, amen!	
+<div class="theverse"><div class="versenum">23.</div> Meidan Herran Jesuksen Kristuksen armo olkoon kaikkein teidan kanssanne, amen!	</div>
 </body>
 </html>

@@ -4,46 +4,46 @@
 </head>
 <body><div class="chaptertitle">Jesajan 59	</div>
 	
-<div class="versenum">1.</div> Katso, ei Herran kasi ole lyhennetty, niin ettei han voi auttaa, ja ei hanen korvansa raskaat, ettei han kuule;	
+<div class="theverse"><div class="versenum">1.</div> Katso, ei Herran kasi ole lyhennetty, niin ettei han voi auttaa, ja ei hanen korvansa raskaat, ettei han kuule;	</div>
 
-<div class="versenum">2.</div> Vaan teidan pahuutenne eroittaa teidat ja teidan Jumalanne toisen toisestansa, ja teidan syntinne katkevat pois hanen kasvonsa teilta, niin ettei teita kuulla.	
+<div class="theverse"><div class="versenum">2.</div> Vaan teidan pahuutenne eroittaa teidat ja teidan Jumalanne toisen toisestansa, ja teidan syntinne katkevat pois hanen kasvonsa teilta, niin ettei teita kuulla.	</div>
 
-<div class="versenum">3.</div> Silla teidan katenne ovat saastutetut verella, ja sormenne vaaryydella; teidan huulenne puhuvat valhetta, ja kielenne latelevat vaaryytta.	
+<div class="theverse"><div class="versenum">3.</div> Silla teidan katenne ovat saastutetut verella, ja sormenne vaaryydella; teidan huulenne puhuvat valhetta, ja kielenne latelevat vaaryytta.	</div>
 
-<div class="versenum">4.</div> Ei ole yhtaan, joka saarnaa vanhurskautta eli tuomitsee uskollisesti. Turhuuteen luotetaan ja puhutaan kelpaamattomia; onnettomuudesta ovat he raskaat, ja synnyttavat tuskan.	
+<div class="theverse"><div class="versenum">4.</div> Ei ole yhtaan, joka saarnaa vanhurskautta eli tuomitsee uskollisesti. Turhuuteen luotetaan ja puhutaan kelpaamattomia; onnettomuudesta ovat he raskaat, ja synnyttavat tuskan.	</div>
 
-<div class="versenum">5.</div> He hautovat basiliskin munia, ja kutovat hamahakin verkkoa: jos joku syo hanen muniansa, niin hanen taytyy kuolla, jos ne rikotaan, niin niista tulee kyykarme.	
+<div class="theverse"><div class="versenum">5.</div> He hautovat basiliskin munia, ja kutovat hamahakin verkkoa: jos joku syo hanen muniansa, niin hanen taytyy kuolla, jos ne rikotaan, niin niista tulee kyykarme.	</div>
 
-<div class="versenum">6.</div> Heidan hamahakkinsa verkot ei kelpaa vaatteeksi, ja heidan tekonsa ei kelpaa peitteeksi; silla heidan tyosa ovat vaarat tyot, ja heidan kasissansa on vakivalta.	
+<div class="theverse"><div class="versenum">6.</div> Heidan hamahakkinsa verkot ei kelpaa vaatteeksi, ja heidan tekonsa ei kelpaa peitteeksi; silla heidan tyosa ovat vaarat tyot, ja heidan kasissansa on vakivalta.	</div>
 
-<div class="versenum">7.</div> Heidan jalkansa juoksevat pahaan ja ovat nopsat vuodattamaan viatonta verta; heidan ajatuksensa ovat vaarat ajatukset, heidan teissansa on havitys ja vahinko.	
+<div class="theverse"><div class="versenum">7.</div> Heidan jalkansa juoksevat pahaan ja ovat nopsat vuodattamaan viatonta verta; heidan ajatuksensa ovat vaarat ajatukset, heidan teissansa on havitys ja vahinko.	</div>
 
-<div class="versenum">8.</div> Ei he tunne rauhan teita, eika ole oikeutta heidan kaymisissansa; heidan polkunsa ovat karsaat: joka niita kay, ei hanella ole ikana rauhaa.	
+<div class="theverse"><div class="versenum">8.</div> Ei he tunne rauhan teita, eika ole oikeutta heidan kaymisissansa; heidan polkunsa ovat karsaat: joka niita kay, ei hanella ole ikana rauhaa.	</div>
 
-<div class="versenum">9.</div> Sentahden on meista oikeus kaukana, ja vanhurskaus ei kasita meita; me odotimme valkeutta, katso, niin tulee pimeys: paistetta, ja katso, me vaellamme sumussa.	
+<div class="theverse"><div class="versenum">9.</div> Sentahden on meista oikeus kaukana, ja vanhurskaus ei kasita meita; me odotimme valkeutta, katso, niin tulee pimeys: paistetta, ja katso, me vaellamme sumussa.	</div>
 
-<div class="versenum">10.</div> Me haparoitsimme seinia niinkuin sokiat, ja pitelimme niinkuin ne, joilla ei silmia ole; me loukkaamme itsemme puolipaivana niinkuin hamarissa, me olemme pimeydessa niinkuin kuolleet.	
+<div class="theverse"><div class="versenum">10.</div> Me haparoitsimme seinia niinkuin sokiat, ja pitelimme niinkuin ne, joilla ei silmia ole; me loukkaamme itsemme puolipaivana niinkuin hamarissa, me olemme pimeydessa niinkuin kuolleet.	</div>
 
-<div class="versenum">11.</div> Me myrisemme kaikki niinkuin karhut, ja vaikeroitsemme surkiasti niinkuin mettiset, silla me odotamme oikeutta, ja ei sita olekaan, autuutta, ja se on meista kaukana.	
+<div class="theverse"><div class="versenum">11.</div> Me myrisemme kaikki niinkuin karhut, ja vaikeroitsemme surkiasti niinkuin mettiset, silla me odotamme oikeutta, ja ei sita olekaan, autuutta, ja se on meista kaukana.	</div>
 
-<div class="versenum">12.</div> Silla meidan rikoksiamme on sinun edessas aivan paljo, ja meidan syntimme todistavat meita vastaan; silla meidan rikoksemme on meita lasna, ja me tunnemme pahat tekomme.	
+<div class="theverse"><div class="versenum">12.</div> Silla meidan rikoksiamme on sinun edessas aivan paljo, ja meidan syntimme todistavat meita vastaan; silla meidan rikoksemme on meita lasna, ja me tunnemme pahat tekomme.	</div>
 
-<div class="versenum">13.</div> Rikoksella ja valheella Herraa vastaan me luovumme meidan Jumalastamme, puhumaan vaaryytta ja tottelemattomuutta, ajatellaksemme ja ladellaksemme vaaria sanoja sydamestamme.	
+<div class="theverse"><div class="versenum">13.</div> Rikoksella ja valheella Herraa vastaan me luovumme meidan Jumalastamme, puhumaan vaaryytta ja tottelemattomuutta, ajatellaksemme ja ladellaksemme vaaria sanoja sydamestamme.	</div>
 
-<div class="versenum">14.</div> Sentahden on myos oikeus palannut takaperin, ja vakuus on kauvas mennyt; silla totuus putoo kaduille, ja vakuus ei taida tulla edes.	
+<div class="theverse"><div class="versenum">14.</div> Sentahden on myos oikeus palannut takaperin, ja vakuus on kauvas mennyt; silla totuus putoo kaduille, ja vakuus ei taida tulla edes.	</div>
 
-<div class="versenum">15.</div> Totuus on pois, ja joka luopuu pahasta, hanen pitaa oleman jokaisen saaliina. Herra nakee sen, ja se on paha hanen silmainsa edessa, ettei oikeutta ole.	
+<div class="theverse"><div class="versenum">15.</div> Totuus on pois, ja joka luopuu pahasta, hanen pitaa oleman jokaisen saaliina. Herra nakee sen, ja se on paha hanen silmainsa edessa, ettei oikeutta ole.	</div>
 
-<div class="versenum">16.</div> Ja han nakee, ettei yhtaan miesta ole, ja ihmettelee, ettei kenkaan pyyda sita sovittaa: niin hanen kasivartensa vapahtaa hanen, ja hanen vanhurskautensa pitaa hanen tallella.	
+<div class="theverse"><div class="versenum">16.</div> Ja han nakee, ettei yhtaan miesta ole, ja ihmettelee, ettei kenkaan pyyda sita sovittaa: niin hanen kasivartensa vapahtaa hanen, ja hanen vanhurskautensa pitaa hanen tallella.	</div>
 
-<div class="versenum">17.</div> Silla han pukee yllensa vanhurskauden niinkuin rautapaidan, ja panee autuuden rautalakin paahansa; ja puettaa itsensa koston vaatteilla niinkuin puvulla, ja pukee yllensa kiivauden niinkuin hameen:	
+<div class="theverse"><div class="versenum">17.</div> Silla han pukee yllensa vanhurskauden niinkuin rautapaidan, ja panee autuuden rautalakin paahansa; ja puettaa itsensa koston vaatteilla niinkuin puvulla, ja pukee yllensa kiivauden niinkuin hameen:	</div>
 
-<div class="versenum">18.</div> Niinkuin se, joka kostaa vihollisillensa heidan ansionsa jalkeen ja tahtoo maksaa vihamiehillensa julmuudella, ja luodoille tahtoo han maksaa ansion jalkeen,	
+<div class="theverse"><div class="versenum">18.</div> Niinkuin se, joka kostaa vihollisillensa heidan ansionsa jalkeen ja tahtoo maksaa vihamiehillensa julmuudella, ja luodoille tahtoo han maksaa ansion jalkeen,	</div>
 
-<div class="versenum">19.</div> Etta Herran nimea peljattaisiin lannesta, ja hanen kunniaansa idasta, kuin han on tuleva niinkuin tydytetty virta, jonka Herran tuuli ajaa matkaan.	
+<div class="theverse"><div class="versenum">19.</div> Etta Herran nimea peljattaisiin lannesta, ja hanen kunniaansa idasta, kuin han on tuleva niinkuin tydytetty virta, jonka Herran tuuli ajaa matkaan.	</div>
 
-<div class="versenum">20.</div> Ja Zionille on tuleva vapahtaja, ja niille, jotka kaantyvat pois synneista Jakobissa, sanoo Herra.	
+<div class="theverse"><div class="versenum">20.</div> Ja Zionille on tuleva vapahtaja, ja niille, jotka kaantyvat pois synneista Jakobissa, sanoo Herra.	</div>
 
-<div class="versenum">21.</div> Ja mina teen taman liiton heidan kanssansa, sanoo Herra: minun henkeni, joka sinun paallas on, ja minun sanani, jotka mina sinun suuhus pannut olen, ei pida lahteman sinun suustas, eika sinun siemenes suusta, ja lastes lasten suusta, sanoo Herra, nyt niin ijankaikkiseen.	
+<div class="theverse"><div class="versenum">21.</div> Ja mina teen taman liiton heidan kanssansa, sanoo Herra: minun henkeni, joka sinun paallas on, ja minun sanani, jotka mina sinun suuhus pannut olen, ei pida lahteman sinun suustas, eika sinun siemenes suusta, ja lastes lasten suusta, sanoo Herra, nyt niin ijankaikkiseen.	</div>
 </body>
 </html>

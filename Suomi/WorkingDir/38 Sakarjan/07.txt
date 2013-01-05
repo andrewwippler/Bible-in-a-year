@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Sakarjan 7	</div>
 	
-<div class="versenum">1.</div> Ja neljantena kunigas Dariuksen vuotena tapahtui Herran sana Sakarjalle, neljantena paivana yhdeksannessa kuukaudessa, joka kutsutaan Kislev.	
+<div class="theverse"><div class="versenum">1.</div> Ja neljantena kunigas Dariuksen vuotena tapahtui Herran sana Sakarjalle, neljantena paivana yhdeksannessa kuukaudessa, joka kutsutaan Kislev.	</div>
 
-<div class="versenum">2.</div> Kuin he lahettivat Sareserin, ja Regemmelekin, ja heidan miehensa Jumalan huoneeseen rukoilemaan Herran eteen,	
+<div class="theverse"><div class="versenum">2.</div> Kuin he lahettivat Sareserin, ja Regemmelekin, ja heidan miehensa Jumalan huoneeseen rukoilemaan Herran eteen,	</div>
 
-<div class="versenum">3.</div> Ja sanomaan papeille, jotka olivat Herran Zebaotin huoneessa, ja prophetaille: vielako minun nyt pitaa itkeman viidentena kuukautena, ja vaivaaman minuani, niinkuin mina tahan asti muutamina vuosina tehnyt olen?	
+<div class="theverse"><div class="versenum">3.</div> Ja sanomaan papeille, jotka olivat Herran Zebaotin huoneessa, ja prophetaille: vielako minun nyt pitaa itkeman viidentena kuukautena, ja vaivaaman minuani, niinkuin mina tahan asti muutamina vuosina tehnyt olen?	</div>
 
-<div class="versenum">4.</div> Ja Herran Zebaotin sana tapahtui minulle ja sanoi:	
+<div class="theverse"><div class="versenum">4.</div> Ja Herran Zebaotin sana tapahtui minulle ja sanoi:	</div>
 
-<div class="versenum">5.</div> Puhu kaikelle maan kansalle ja papeille, sanoen: kuin te paastositte ja paruitte viidennella ja seitsemannella kuukaudella, nyt seitsemankymmenta vuotta, oletteko te minulle paastonneet?	
+<div class="theverse"><div class="versenum">5.</div> Puhu kaikelle maan kansalle ja papeille, sanoen: kuin te paastositte ja paruitte viidennella ja seitsemannella kuukaudella, nyt seitsemankymmenta vuotta, oletteko te minulle paastonneet?	</div>
 
-<div class="versenum">6.</div> Ja kuin te syotte ja juotte, etteko te syo ja juo itse teillenne?	
+<div class="theverse"><div class="versenum">6.</div> Ja kuin te syotte ja juotte, etteko te syo ja juo itse teillenne?	</div>
 
-<div class="versenum">7.</div> Eiko tama se ole, jota Herra antoi entisten prophetain saarnata, kuin viela Jerusalemissa asuttiin, ja oli lepo kaupungeissa ymparilla, kuin asuttiin seka etelaan pain etta laaksoissa?	
+<div class="theverse"><div class="versenum">7.</div> Eiko tama se ole, jota Herra antoi entisten prophetain saarnata, kuin viela Jerusalemissa asuttiin, ja oli lepo kaupungeissa ymparilla, kuin asuttiin seka etelaan pain etta laaksoissa?	</div>
 
-<div class="versenum">8.</div> Ja Herran sana tapahtui Sakarjalle, sanoen:	
+<div class="theverse"><div class="versenum">8.</div> Ja Herran sana tapahtui Sakarjalle, sanoen:	</div>
 
-<div class="versenum">9.</div> Nain sanoo Herra Zebaot: tuomitkaat oikein, ja tehkaat jokainen hyvaa ja laupiutta veljellensa.	
+<div class="theverse"><div class="versenum">9.</div> Nain sanoo Herra Zebaot: tuomitkaat oikein, ja tehkaat jokainen hyvaa ja laupiutta veljellensa.	</div>
 
-<div class="versenum">10.</div> Ja alkaat tehko vaaryytta leskille ja orvoille, muukalaisille ja koyhille: ja alkaan kenkaan ajatelko pahaa sydamessansa veljiansa vastaan.	
+<div class="theverse"><div class="versenum">10.</div> Ja alkaat tehko vaaryytta leskille ja orvoille, muukalaisille ja koyhille: ja alkaan kenkaan ajatelko pahaa sydamessansa veljiansa vastaan.	</div>
 
-<div class="versenum">11.</div> Mutta ei he naista tahtoneet ottaa vaaria, vaan kaansivat selkansa minua vastaan, ja tukitsivat korviansa, ettei he kuulisi;	
+<div class="theverse"><div class="versenum">11.</div> Mutta ei he naista tahtoneet ottaa vaaria, vaan kaansivat selkansa minua vastaan, ja tukitsivat korviansa, ettei he kuulisi;	</div>
 
-<div class="versenum">12.</div> Ja asettivat sydamensa niinkuin timantin, ettei he kuulisi lakia ja sanoja, jotka Herra Zebaot hengellansa lahetti entisten prophetain kautta: sentahden on niin suuri viha Herralta Zebaotilta tullut.	
+<div class="theverse"><div class="versenum">12.</div> Ja asettivat sydamensa niinkuin timantin, ettei he kuulisi lakia ja sanoja, jotka Herra Zebaot hengellansa lahetti entisten prophetain kautta: sentahden on niin suuri viha Herralta Zebaotilta tullut.	</div>
 
-<div class="versenum">13.</div> Ja se on niin tapahtunut kuin saarnattiinkin; mutta ettei he tahtoneet kuulla, niin en minakaan tahtonut kuulla, kuin he huusivat, sanoo Herra Zebaot.	
+<div class="theverse"><div class="versenum">13.</div> Ja se on niin tapahtunut kuin saarnattiinkin; mutta ettei he tahtoneet kuulla, niin en minakaan tahtonut kuulla, kuin he huusivat, sanoo Herra Zebaot.	</div>
 
-<div class="versenum">14.</div> Ja niin mina olen heidat hajoittanut kaikkein pakanain sekaan, joita ei he tunteneet; ja maa on heidan jalkeensa autioksi jaanyt, ettei kenkaan siina vaella eika asu; silla he ovat sen ihanan maan havittaneet.	
+<div class="theverse"><div class="versenum">14.</div> Ja niin mina olen heidat hajoittanut kaikkein pakanain sekaan, joita ei he tunteneet; ja maa on heidan jalkeensa autioksi jaanyt, ettei kenkaan siina vaella eika asu; silla he ovat sen ihanan maan havittaneet.	</div>
 </body>
 </html>

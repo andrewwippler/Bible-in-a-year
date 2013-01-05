@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 4	</div>
 	
-<div class="versenum">1.</div> Ja han teki myos vaskisen alttarin, kaksikymmenta kyynaraa pitkan ja kaksikymmenta kyynaraa levian, ja kymmenen kyynaraa korkian.	
+<div class="theverse"><div class="versenum">1.</div> Ja han teki myos vaskisen alttarin, kaksikymmenta kyynaraa pitkan ja kaksikymmenta kyynaraa levian, ja kymmenen kyynaraa korkian.	</div>
 
-<div class="versenum">2.</div> Ja han teki valetun meren, kymmenen kyynaraa levian toisesta reunasta niin toiseen, ympyriaiseksi, viisi kyynaraa korkian; ja juonne kavi ympari, kolmekymmenta kyynaraa pitka.	
+<div class="theverse"><div class="versenum">2.</div> Ja han teki valetun meren, kymmenen kyynaraa levian toisesta reunasta niin toiseen, ympyriaiseksi, viisi kyynaraa korkian; ja juonne kavi ympari, kolmekymmenta kyynaraa pitka.	</div>
 
-<div class="versenum">3.</div> Ja harkain kuvat olivat sen alla, kiertaen sita yltympari; kymmenen kyynaraa, piiritti ne meren ymparinsa, kaksi rivia valettuja harkia oli siina samaa valantoa kuin sekin.	
+<div class="theverse"><div class="versenum">3.</div> Ja harkain kuvat olivat sen alla, kiertaen sita yltympari; kymmenen kyynaraa, piiritti ne meren ymparinsa, kaksi rivia valettuja harkia oli siina samaa valantoa kuin sekin.	</div>
 
-<div class="versenum">4.</div> Ja se seisoi kahdentoistakymmenen harjan paalla, etta kolme kaantyivat heista pohjoiseen pain, kolme lanteen, kolme etelaan ja kolme itaan pain, ja meri oli ylhaalla heidan paallansa, ja kaikki heidan takaiset puolensa olivat sisalle pain.	
+<div class="theverse"><div class="versenum">4.</div> Ja se seisoi kahdentoistakymmenen harjan paalla, etta kolme kaantyivat heista pohjoiseen pain, kolme lanteen, kolme etelaan ja kolme itaan pain, ja meri oli ylhaalla heidan paallansa, ja kaikki heidan takaiset puolensa olivat sisalle pain.	</div>
 
-<div class="versenum">5.</div> Ja se oli kammenen leveytta paksu, ja hanen reunansa niinkuin maljan reuna ja kuin kukoistava kukkainen, ja se veti kolmetuhatta batia.	
+<div class="theverse"><div class="versenum">5.</div> Ja se oli kammenen leveytta paksu, ja hanen reunansa niinkuin maljan reuna ja kuin kukoistava kukkainen, ja se veti kolmetuhatta batia.	</div>
 
-<div class="versenum">6.</div> Ja han teki kymmenen kattilaa, ja pani niista viisi oikialle puolelle ja viisi vasemmalle, etta niissa pestaisiin kaikkia niita, kuin polttouhriksi tarvittiin, ja niihin heitettaisiin; mutta meren, pappein pesta itsensa.	
+<div class="theverse"><div class="versenum">6.</div> Ja han teki kymmenen kattilaa, ja pani niista viisi oikialle puolelle ja viisi vasemmalle, etta niissa pestaisiin kaikkia niita, kuin polttouhriksi tarvittiin, ja niihin heitettaisiin; mutta meren, pappein pesta itsensa.	</div>
 
-<div class="versenum">7.</div> Ja han teki myos kymmenen kultaista kynttilanjalkaa, niinkuin ne oleman piti, ja pani templiin, viisi oikialle puolelle ja viisi vasemmalle.	
+<div class="theverse"><div class="versenum">7.</div> Ja han teki myos kymmenen kultaista kynttilanjalkaa, niinkuin ne oleman piti, ja pani templiin, viisi oikialle puolelle ja viisi vasemmalle.	</div>
 
-<div class="versenum">8.</div> Ja han teki kymmenen poytaa ja pani templiin, viisi oikialle ja viisi vasemmalle puolelle; ja han teki sata kultaista maljaa.	
+<div class="theverse"><div class="versenum">8.</div> Ja han teki kymmenen poytaa ja pani templiin, viisi oikialle ja viisi vasemmalle puolelle; ja han teki sata kultaista maljaa.	</div>
 
-<div class="versenum">9.</div> Han teki myos pappein esihuoneen ja suuren esihuoneen, ja esihuoneen ovet, ja silasi ovet vaskella,	
+<div class="theverse"><div class="versenum">9.</div> Han teki myos pappein esihuoneen ja suuren esihuoneen, ja esihuoneen ovet, ja silasi ovet vaskella,	</div>
 
-<div class="versenum">10.</div> Ja pani meren oikialle sivulle, itaan ja etelaan pain.	
+<div class="theverse"><div class="versenum">10.</div> Ja pani meren oikialle sivulle, itaan ja etelaan pain.	</div>
 
-<div class="versenum">11.</div> Ja Huram teki patoja, lapioita ja maljoja. Ja niin Huram lopetti sen tyon, jonka han teki kuningas Salomolle Jumalan huoneesen:	
+<div class="theverse"><div class="versenum">11.</div> Ja Huram teki patoja, lapioita ja maljoja. Ja niin Huram lopetti sen tyon, jonka han teki kuningas Salomolle Jumalan huoneesen:	</div>
 
-<div class="versenum">12.</div> Kaksi patsasta, ja kaksi ympyriaista kruunua kahden patsaan paalla, ja kaksi verkkoa peittamaan kahta ympyriaista kruunua, jotka patsasten paassa olivat.	
+<div class="theverse"><div class="versenum">12.</div> Kaksi patsasta, ja kaksi ympyriaista kruunua kahden patsaan paalla, ja kaksi verkkoa peittamaan kahta ympyriaista kruunua, jotka patsasten paassa olivat.	</div>
 
-<div class="versenum">13.</div> Ja neljasataa granatin omenaa oli niiden kahden verkon paalla, kaksi rivia granatin omenia kunkin verkon paalla, peittamaan kahta ympyriaista kruunua, jotka olivat patsasten paassa.	
+<div class="theverse"><div class="versenum">13.</div> Ja neljasataa granatin omenaa oli niiden kahden verkon paalla, kaksi rivia granatin omenia kunkin verkon paalla, peittamaan kahta ympyriaista kruunua, jotka olivat patsasten paassa.	</div>
 
-<div class="versenum">14.</div> Ja han teki istuimia, teki myos kattiloita istuinten paalle,	
+<div class="theverse"><div class="versenum">14.</div> Ja han teki istuimia, teki myos kattiloita istuinten paalle,	</div>
 
-<div class="versenum">15.</div> Ja meren ja kaksitoistakymmenta harkaa sen alle;	
+<div class="theverse"><div class="versenum">15.</div> Ja meren ja kaksitoistakymmenta harkaa sen alle;	</div>
 
-<div class="versenum">16.</div> Siihen myos patoja, lapioita ja hankoja; ja kaikki heidan astiansa teki Huramabi kuningas Salomolle Herran huoneeseen puhtaasta vaskesta.	
+<div class="theverse"><div class="versenum">16.</div> Siihen myos patoja, lapioita ja hankoja; ja kaikki heidan astiansa teki Huramabi kuningas Salomolle Herran huoneeseen puhtaasta vaskesta.	</div>
 
-<div class="versenum">17.</div> Jordanin kedolla antoi kuningas ne valaa savisessa toyrassa, Sukkotin ja Saredatan vaiheella.	
+<div class="theverse"><div class="versenum">17.</div> Jordanin kedolla antoi kuningas ne valaa savisessa toyrassa, Sukkotin ja Saredatan vaiheella.	</div>
 
-<div class="versenum">18.</div> Ja Salomo teki kaikki namat astiat suuressa paljoudessa; silla ei vasken painoa kysytty.	
+<div class="theverse"><div class="versenum">18.</div> Ja Salomo teki kaikki namat astiat suuressa paljoudessa; silla ei vasken painoa kysytty.	</div>
 
-<div class="versenum">19.</div> Ja Salomo teki kaikki astiat Jumalan huoneesen, niin myos kultaisen alttarin ja poydat, nakyleipia pidettaa,	
+<div class="theverse"><div class="versenum">19.</div> Ja Salomo teki kaikki astiat Jumalan huoneesen, niin myos kultaisen alttarin ja poydat, nakyleipia pidettaa,	</div>
 
-<div class="versenum">20.</div> Kynttilajalat lamppuinensa puhtaasta kullasta, palamaan kuorin edessa soveliaasti,	
+<div class="theverse"><div class="versenum">20.</div> Kynttilajalat lamppuinensa puhtaasta kullasta, palamaan kuorin edessa soveliaasti,	</div>
 
-<div class="versenum">21.</div> Ja kukkaiset ja lamput, ja kynttilan niistimet olivat kullasta: ne olivat kokonansa kullasta;	
+<div class="theverse"><div class="versenum">21.</div> Ja kukkaiset ja lamput, ja kynttilan niistimet olivat kullasta: ne olivat kokonansa kullasta;	</div>
 
-<div class="versenum">22.</div> Ja veitset, maljat, lusikat ja sammuttimet olivat puhtaasta kullasta, ja lapikaytava, ja hanen ovensa sisimaiselta puolelta sita kaikkein pyhinta, ja ovet templin huoneesen olivat kullasta.	
+<div class="theverse"><div class="versenum">22.</div> Ja veitset, maljat, lusikat ja sammuttimet olivat puhtaasta kullasta, ja lapikaytava, ja hanen ovensa sisimaiselta puolelta sita kaikkein pyhinta, ja ovet templin huoneesen olivat kullasta.	</div>
 </body>
 </html>

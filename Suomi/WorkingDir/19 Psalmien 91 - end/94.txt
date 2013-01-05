@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Psalmien 94	</div>
 	
-<div class="versenum">1.</div> Herra Jumala, jonka kostot ovat, Jumala, jonka kostot ovat, selkiasti itses nayta.	
+<div class="theverse"><div class="versenum">1.</div> Herra Jumala, jonka kostot ovat, Jumala, jonka kostot ovat, selkiasti itses nayta.	</div>
 
-<div class="versenum">2.</div> Korota sinuas, maailman tuomari: maksa ylpeille, mita he ansainneet ovat.	
+<div class="theverse"><div class="versenum">2.</div> Korota sinuas, maailman tuomari: maksa ylpeille, mita he ansainneet ovat.	</div>
 
-<div class="versenum">3.</div> Herra, kuinka kauvan pitaa jumalattomain, kuinka kauvan pitaa jumalattomain riemuitseman?	
+<div class="theverse"><div class="versenum">3.</div> Herra, kuinka kauvan pitaa jumalattomain, kuinka kauvan pitaa jumalattomain riemuitseman?	</div>
 
-<div class="versenum">4.</div> Tiuskuman ja puhuman niin ylpiasti, ja kaikki pahantekiat niin kerskaaman?	
+<div class="theverse"><div class="versenum">4.</div> Tiuskuman ja puhuman niin ylpiasti, ja kaikki pahantekiat niin kerskaaman?	</div>
 
-<div class="versenum">5.</div> Herra, he polkevat alas sinun kansas, ja sinun perimistas he vaivaavat.	
+<div class="theverse"><div class="versenum">5.</div> Herra, he polkevat alas sinun kansas, ja sinun perimistas he vaivaavat.	</div>
 
-<div class="versenum">6.</div> Lesket ja muukalaiset he tappavat, ja orvot he kuolettavat,	
+<div class="theverse"><div class="versenum">6.</div> Lesket ja muukalaiset he tappavat, ja orvot he kuolettavat,	</div>
 
-<div class="versenum">7.</div> Ja sanovat: ei Herra sita nae, ja Jakobin Jumala ei sita tottele.	
+<div class="theverse"><div class="versenum">7.</div> Ja sanovat: ei Herra sita nae, ja Jakobin Jumala ei sita tottele.	</div>
 
-<div class="versenum">8.</div> Ymmartakaat siis, te hullut kansan seassa! ja, te tyhmat, koska te taitaviksi tulette?	
+<div class="theverse"><div class="versenum">8.</div> Ymmartakaat siis, te hullut kansan seassa! ja, te tyhmat, koska te taitaviksi tulette?	</div>
 
-<div class="versenum">9.</div> Joka korvan on istuttanut, eiko han kuule? eli joka silman loi, eiko han nae?	
+<div class="theverse"><div class="versenum">9.</div> Joka korvan on istuttanut, eiko han kuule? eli joka silman loi, eiko han nae?	</div>
 
-<div class="versenum">10.</div> Joka pakanoita kurittaa, eiko han rankaise, joka ihmisille opettaa tiedon?	
+<div class="theverse"><div class="versenum">10.</div> Joka pakanoita kurittaa, eiko han rankaise, joka ihmisille opettaa tiedon?	</div>
 
-<div class="versenum">11.</div> Mutta Herra tietaa ihmisten ajatukset, etta ne turhat ovat.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Herra tietaa ihmisten ajatukset, etta ne turhat ovat.	</div>
 
-<div class="versenum">12.</div> Autuas on se, jota sina, Herra, kuritat, ja opetat sinun laistas,	
+<div class="theverse"><div class="versenum">12.</div> Autuas on se, jota sina, Herra, kuritat, ja opetat sinun laistas,	</div>
 
-<div class="versenum">13.</div> Etta hanella karsivallisyys olis, koska vastoin kay, siihenasti kuin jumalattomalle hauta valmistetaan.	
+<div class="theverse"><div class="versenum">13.</div> Etta hanella karsivallisyys olis, koska vastoin kay, siihenasti kuin jumalattomalle hauta valmistetaan.	</div>
 
-<div class="versenum">14.</div> Silla ei Herra heita kansaansa pois, eli hylkaa perimistansa.	
+<div class="theverse"><div class="versenum">14.</div> Silla ei Herra heita kansaansa pois, eli hylkaa perimistansa.	</div>
 
-<div class="versenum">15.</div> Silla oikeuden pitaa sittekin oikeuden oleman, ja kaikki hurskaat sydamet sita seuraavat.	
+<div class="theverse"><div class="versenum">15.</div> Silla oikeuden pitaa sittekin oikeuden oleman, ja kaikki hurskaat sydamet sita seuraavat.	</div>
 
-<div class="versenum">16.</div> Kuka seisoo minun kanssani pahoja vastaan? kuka astuu minun tykoni pahointekioita vastaan?	
+<div class="theverse"><div class="versenum">16.</div> Kuka seisoo minun kanssani pahoja vastaan? kuka astuu minun tykoni pahointekioita vastaan?	</div>
 
-<div class="versenum">17.</div> Ellei Herra minua auttaisi, niin minun sieluni makais lahes hiljaisuudessa.	
+<div class="theverse"><div class="versenum">17.</div> Ellei Herra minua auttaisi, niin minun sieluni makais lahes hiljaisuudessa.	</div>
 
-<div class="versenum">18.</div> Mina sanoin: minun jalkani on horjunut, vaan sinun armos, Herra, minun tukesi.	
+<div class="theverse"><div class="versenum">18.</div> Mina sanoin: minun jalkani on horjunut, vaan sinun armos, Herra, minun tukesi.	</div>
 
-<div class="versenum">19.</div> Minulla oli paljo surua sydamessani; mutta sinun lohdutukses ilahutti minun sieluni.	
+<div class="theverse"><div class="versenum">19.</div> Minulla oli paljo surua sydamessani; mutta sinun lohdutukses ilahutti minun sieluni.	</div>
 
-<div class="versenum">20.</div> Etpas mielisty koskaan tosin vahingolliseen istuimeen, joka lain haijysti opettaa.	
+<div class="theverse"><div class="versenum">20.</div> Etpas mielisty koskaan tosin vahingolliseen istuimeen, joka lain haijysti opettaa.	</div>
 
-<div class="versenum">21.</div> He kokoovat joukkonsa vanhurskaan sielua vastaan, ja tuomitsevat viattoman veren kadotukseen,	
+<div class="theverse"><div class="versenum">21.</div> He kokoovat joukkonsa vanhurskaan sielua vastaan, ja tuomitsevat viattoman veren kadotukseen,	</div>
 
-<div class="versenum">22.</div> Mutta Herra on minun varjelukseni: minun Jumalani on minun uskallukseni turva,	
+<div class="theverse"><div class="versenum">22.</div> Mutta Herra on minun varjelukseni: minun Jumalani on minun uskallukseni turva,	</div>
 
-<div class="versenum">23.</div> Ja han kostaa heidan vaaryytensa, ja hukuttaa heita heidan pahuutensa tahden: Herra, meidan Jumalamme, hukuttaa heita.	
+<div class="theverse"><div class="versenum">23.</div> Ja han kostaa heidan vaaryytensa, ja hukuttaa heita heidan pahuutensa tahden: Herra, meidan Jumalamme, hukuttaa heita.	</div>
 </body>
 </html>

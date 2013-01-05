@@ -4,22 +4,22 @@
 </head>
 <body><div class="chaptertitle">Psalmien 98	</div>
 	
-<div class="versenum">1.</div> Psalmi. Veisatkaat Herralle uusi veisu; silla han tekee ihmeita. Han saa voiton oikialla kadellansa ja pyhalla kasivarrellansa.	
+<div class="theverse"><div class="versenum">1.</div> Psalmi. Veisatkaat Herralle uusi veisu; silla han tekee ihmeita. Han saa voiton oikialla kadellansa ja pyhalla kasivarrellansa.	</div>
 
-<div class="versenum">2.</div> Herra antaa tiettavaksi tehda autuutensa: kansain edessa han ilmoittaa vanhurskautensa.	
+<div class="theverse"><div class="versenum">2.</div> Herra antaa tiettavaksi tehda autuutensa: kansain edessa han ilmoittaa vanhurskautensa.	</div>
 
-<div class="versenum">3.</div> Han muistaa armonsa ja totuutensa Israelin huoneelle: kaikki maailman aaret nakevat meidan Jumalamme autuuden.	
+<div class="theverse"><div class="versenum">3.</div> Han muistaa armonsa ja totuutensa Israelin huoneelle: kaikki maailman aaret nakevat meidan Jumalamme autuuden.	</div>
 
-<div class="versenum">4.</div> Riemuitkaat Herralle kaikki maa: veisatkaat, ylistakaat ja kiittakaat.	
+<div class="theverse"><div class="versenum">4.</div> Riemuitkaat Herralle kaikki maa: veisatkaat, ylistakaat ja kiittakaat.	</div>
 
-<div class="versenum">5.</div> Kiittakaat Herraa kanteleella, kanteleella ja psalmilla,	
+<div class="theverse"><div class="versenum">5.</div> Kiittakaat Herraa kanteleella, kanteleella ja psalmilla,	</div>
 
-<div class="versenum">6.</div> Vaskitorvilla ja basunilla: riemuitkaat Herran, kuninkaan, edessa.	
+<div class="theverse"><div class="versenum">6.</div> Vaskitorvilla ja basunilla: riemuitkaat Herran, kuninkaan, edessa.	</div>
 
-<div class="versenum">7.</div> Meri pauhatkaan ja kaikki, mita hanessa on, maan piiri ja jotka asuvat sen paalla.	
+<div class="theverse"><div class="versenum">7.</div> Meri pauhatkaan ja kaikki, mita hanessa on, maan piiri ja jotka asuvat sen paalla.	</div>
 
-<div class="versenum">8.</div> Kosket pauhatkaan ilosta, ja kaikki vuoret olkaan iloiset,	
+<div class="theverse"><div class="versenum">8.</div> Kosket pauhatkaan ilosta, ja kaikki vuoret olkaan iloiset,	</div>
 
-<div class="versenum">9.</div> Herran edessa; silla han tulee maata tuomitsemaan: han tuomitsee maan piirin vanhurskaudella ja kansat oikeudella.	
+<div class="theverse"><div class="versenum">9.</div> Herran edessa; silla han tulee maata tuomitsemaan: han tuomitsee maan piirin vanhurskaudella ja kansat oikeudella.	</div>
 </body>
 </html>

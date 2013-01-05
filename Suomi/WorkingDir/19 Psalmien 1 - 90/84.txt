@@ -4,28 +4,28 @@
 </head>
 <body><div class="chaptertitle">Psalmien 84	</div>
 	
-<div class="versenum">1.</div> Koran lasten Psalmi, Gittitin paalla, edellaveisaajalle. (H84:2) Kuinka ihanat ovat sinun asuinsijas, Herra Zebaot!	
+<div class="theverse"><div class="versenum">1.</div> Koran lasten Psalmi, Gittitin paalla, edellaveisaajalle. (H84:2) Kuinka ihanat ovat sinun asuinsijas, Herra Zebaot!	</div>
 
-<div class="versenum">2.</div> Minun sieluni ikavoitsee ja halajaa Herran esikartanoihin: minun ruumiini ja sieluni iloitsee elavassa Jumalassa.	
+<div class="theverse"><div class="versenum">2.</div> Minun sieluni ikavoitsee ja halajaa Herran esikartanoihin: minun ruumiini ja sieluni iloitsee elavassa Jumalassa.	</div>
 
-<div class="versenum">3.</div> Silla lintu on huoneen loytanyt, ja paaskynen pesansa, johonka he poikansa laskevat: sinun alttaris, Herra Zebaot, minun kuninkaani ja minun Jumalani.	
+<div class="theverse"><div class="versenum">3.</div> Silla lintu on huoneen loytanyt, ja paaskynen pesansa, johonka he poikansa laskevat: sinun alttaris, Herra Zebaot, minun kuninkaani ja minun Jumalani.	</div>
 
-<div class="versenum">4.</div> Autuaat ovat, jotka sinun huoneessas asuvat: he kiittavat sinua ijankaikkisesti, Sela!	
+<div class="theverse"><div class="versenum">4.</div> Autuaat ovat, jotka sinun huoneessas asuvat: he kiittavat sinua ijankaikkisesti, Sela!	</div>
 
-<div class="versenum">5.</div> Autuaat ovat ne ihmiset, jotka sinun pitavat vakenansa, ja sydamestansa vaeltavat sinun jalkees,	
+<div class="theverse"><div class="versenum">5.</div> Autuaat ovat ne ihmiset, jotka sinun pitavat vakenansa, ja sydamestansa vaeltavat sinun jalkees,	</div>
 
-<div class="versenum">6.</div> Jotka kayvat itkun laakson lavitse, ja tekevat siella kaivoja; ja opettajat monella siunauksella kaunistetaan.	
+<div class="theverse"><div class="versenum">6.</div> Jotka kayvat itkun laakson lavitse, ja tekevat siella kaivoja; ja opettajat monella siunauksella kaunistetaan.	</div>
 
-<div class="versenum">7.</div> He saavat yhden voiton toisen jalkeen, etta tunnettaisiin oikia Jumala Zionissa.	
+<div class="theverse"><div class="versenum">7.</div> He saavat yhden voiton toisen jalkeen, etta tunnettaisiin oikia Jumala Zionissa.	</div>
 
-<div class="versenum">8.</div> Herra Jumala Zebaot, kuule minun rukoukseni: ota, Jakobin Jumala, tata korviis, Sela!	
+<div class="theverse"><div class="versenum">8.</div> Herra Jumala Zebaot, kuule minun rukoukseni: ota, Jakobin Jumala, tata korviis, Sela!	</div>
 
-<div class="versenum">9.</div> Katsele siis, Jumala, meidan kilpemme, katso sinun voideltus kasvoja.	
+<div class="theverse"><div class="versenum">9.</div> Katsele siis, Jumala, meidan kilpemme, katso sinun voideltus kasvoja.	</div>
 
-<div class="versenum">10.</div> Silla yksi paiva esikartanoissas on parempi kuin tuhannen muualla: ennen mina olisin ovenvartia Jumalani huoneessa, kuin asuisin jumalattomain majoissa.	
+<div class="theverse"><div class="versenum">10.</div> Silla yksi paiva esikartanoissas on parempi kuin tuhannen muualla: ennen mina olisin ovenvartia Jumalani huoneessa, kuin asuisin jumalattomain majoissa.	</div>
 
-<div class="versenum">11.</div> Silla Herra Jumala on aurinko ja kilpi: Herra antaa armon ja kunnian: ei han anna hurskailta mitaan hyvaa puuttua.	
+<div class="theverse"><div class="versenum">11.</div> Silla Herra Jumala on aurinko ja kilpi: Herra antaa armon ja kunnian: ei han anna hurskailta mitaan hyvaa puuttua.	</div>
 
-<div class="versenum">12.</div> Herra Zebaot, autuas on se ihminen, joka sinuun uskaltaa.	
+<div class="theverse"><div class="versenum">12.</div> Herra Zebaot, autuas on se ihminen, joka sinuun uskaltaa.	</div>
 </body>
 </html>

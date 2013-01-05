@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">Jobin 13	</div>
 	
-<div class="versenum">1.</div> Katso, kaikkia naita ovat silmani nahneet, ja korvani kuulleet, ja on ne ymmartanyt.	
+<div class="theverse"><div class="versenum">1.</div> Katso, kaikkia naita ovat silmani nahneet, ja korvani kuulleet, ja on ne ymmartanyt.	</div>
 
-<div class="versenum">2.</div> Jota te tiedatte, sita minakin tiedan, enka ole halvempi teita.	
+<div class="theverse"><div class="versenum">2.</div> Jota te tiedatte, sita minakin tiedan, enka ole halvempi teita.	</div>
 
-<div class="versenum">3.</div> Mina puhun siis Kaikkivaltiaan tyko, ja mielin kamppailla Jumalan kanssa.	
+<div class="theverse"><div class="versenum">3.</div> Mina puhun siis Kaikkivaltiaan tyko, ja mielin kamppailla Jumalan kanssa.	</div>
 
-<div class="versenum">4.</div> Silla te olette valheen saarnaajat, ja kaikki kelvottomat laakarit.	
+<div class="theverse"><div class="versenum">4.</div> Silla te olette valheen saarnaajat, ja kaikki kelvottomat laakarit.	</div>
 
-<div class="versenum">5.</div> Jospa te voisitte juuri aaneti olla, niin te olisitte taitavat.	
+<div class="theverse"><div class="versenum">5.</div> Jospa te voisitte juuri aaneti olla, niin te olisitte taitavat.	</div>
 
-<div class="versenum">6.</div> Kuulkaat siis minun kamppaustani, ja ottakaat vaari asiasta, kuin mina puhun.	
+<div class="theverse"><div class="versenum">6.</div> Kuulkaat siis minun kamppaustani, ja ottakaat vaari asiasta, kuin mina puhun.	</div>
 
-<div class="versenum">7.</div> Tahdotteko te Jumalan puolesta vastata vaaryydella? ja hanen puolestansa puhua petosta?	
+<div class="theverse"><div class="versenum">7.</div> Tahdotteko te Jumalan puolesta vastata vaaryydella? ja hanen puolestansa puhua petosta?	</div>
 
-<div class="versenum">8.</div> Tahdotteko te katsoa hanen mieltansa? Tahdotteko te riidella Jumalan puolesta?	
+<div class="theverse"><div class="versenum">8.</div> Tahdotteko te katsoa hanen mieltansa? Tahdotteko te riidella Jumalan puolesta?	</div>
 
-<div class="versenum">9.</div> Pitaako se teille menestyman, koska han teita etsii? luuletteko te hanen pettavanne, niinkuin joku pettaa ihmisen?	
+<div class="theverse"><div class="versenum">9.</div> Pitaako se teille menestyman, koska han teita etsii? luuletteko te hanen pettavanne, niinkuin joku pettaa ihmisen?	</div>
 
-<div class="versenum">10.</div> Han kovin nuhtelee teita, jos te salaisesti mielia katsotte.	
+<div class="theverse"><div class="versenum">10.</div> Han kovin nuhtelee teita, jos te salaisesti mielia katsotte.	</div>
 
-<div class="versenum">11.</div> Eiko hanen korkeutensa teita peljata? ja hanen pelkonsa lankee teidan paallenne?	
+<div class="theverse"><div class="versenum">11.</div> Eiko hanen korkeutensa teita peljata? ja hanen pelkonsa lankee teidan paallenne?	</div>
 
-<div class="versenum">12.</div> Teidan muistonne vedetaan tuhan verraksi, ja teidan selkanne pitaa oleman niinkuin saviroukkio.	
+<div class="theverse"><div class="versenum">12.</div> Teidan muistonne vedetaan tuhan verraksi, ja teidan selkanne pitaa oleman niinkuin saviroukkio.	</div>
 
-<div class="versenum">13.</div> Olkaat aaneti minun edessani, mina puhun, tapahtukoon minulle mita hyvansa.	
+<div class="theverse"><div class="versenum">13.</div> Olkaat aaneti minun edessani, mina puhun, tapahtukoon minulle mita hyvansa.	</div>
 
-<div class="versenum">14.</div> Miksi minun pitaa pureman lihaani hampaillani, ja asettaman sieluni minun kasiini?	
+<div class="theverse"><div class="versenum">14.</div> Miksi minun pitaa pureman lihaani hampaillani, ja asettaman sieluni minun kasiini?	</div>
 
-<div class="versenum">15.</div> Katso, vaikka han minun tappais, enko mina viela sittenkin toivoisi? kuitenkin mina nuhtelen teitani hanen edessansa.	
+<div class="theverse"><div class="versenum">15.</div> Katso, vaikka han minun tappais, enko mina viela sittenkin toivoisi? kuitenkin mina nuhtelen teitani hanen edessansa.	</div>
 
-<div class="versenum">16.</div> Han on kuitenkin minun autuuteni; silla ei yksikaan ulkokullattu tule hanen eteensa.	
+<div class="theverse"><div class="versenum">16.</div> Han on kuitenkin minun autuuteni; silla ei yksikaan ulkokullattu tule hanen eteensa.	</div>
 
-<div class="versenum">17.</div> Kuulkaat juuri visusti minun puhettani, ja minun selitystani teidan korvainne edessa.	
+<div class="theverse"><div class="versenum">17.</div> Kuulkaat juuri visusti minun puhettani, ja minun selitystani teidan korvainne edessa.	</div>
 
-<div class="versenum">18.</div> Katso, jo mina olen tuomion sanonut: Mina tiedan, etta mina olen hurskas.	
+<div class="theverse"><div class="versenum">18.</div> Katso, jo mina olen tuomion sanonut: Mina tiedan, etta mina olen hurskas.	</div>
 
-<div class="versenum">19.</div> Kuka tahtoo kayda oikeudelle minun kanssani? Mutta minun taytyy nyt aaneti olla, ja loppua.	
+<div class="theverse"><div class="versenum">19.</div> Kuka tahtoo kayda oikeudelle minun kanssani? Mutta minun taytyy nyt aaneti olla, ja loppua.	</div>
 
-<div class="versenum">20.</div> Ainoastaan ala tee minulle kahta, niin en mina katke itsiani sinun edestas.	
+<div class="theverse"><div class="versenum">20.</div> Ainoastaan ala tee minulle kahta, niin en mina katke itsiani sinun edestas.	</div>
 
-<div class="versenum">21.</div> Anna kates olla kaukana minusta, ja sinun kauhistukses alkoon minua peljattako.	
+<div class="theverse"><div class="versenum">21.</div> Anna kates olla kaukana minusta, ja sinun kauhistukses alkoon minua peljattako.	</div>
 
-<div class="versenum">22.</div> Kutsu minua, ja mina vastaan: eli mina puhun, ja vastaa sina minua.	
+<div class="theverse"><div class="versenum">22.</div> Kutsu minua, ja mina vastaan: eli mina puhun, ja vastaa sina minua.	</div>
 
-<div class="versenum">23.</div> Kuinka usiat ovat minun vaaryyteni ja pahat tekoni? anna minun saada tietaa minun syntini ja rikokseni.	
+<div class="theverse"><div class="versenum">23.</div> Kuinka usiat ovat minun vaaryyteni ja pahat tekoni? anna minun saada tietaa minun syntini ja rikokseni.	</div>
 
-<div class="versenum">24.</div> Miksi sina peitat kasvos, ja pidat minua vihollisena?	
+<div class="theverse"><div class="versenum">24.</div> Miksi sina peitat kasvos, ja pidat minua vihollisena?	</div>
 
-<div class="versenum">25.</div> Tahdotkos niin kova olla lentavaa lehtea vastaan, ja vainota kuivaa oljen kortta?	
+<div class="theverse"><div class="versenum">25.</div> Tahdotkos niin kova olla lentavaa lehtea vastaan, ja vainota kuivaa oljen kortta?	</div>
 
-<div class="versenum">26.</div> Silla sina kirjoitat minulle murhetta, ja annat minun peria nuoruuteni synteja.	
+<div class="theverse"><div class="versenum">26.</div> Silla sina kirjoitat minulle murhetta, ja annat minun peria nuoruuteni synteja.	</div>
 
-<div class="versenum">27.</div> Sina olet pannut minun jalkani jalkapuuhun, ja otat kaikista minun poluistani vaarin, ja katsot kaikkia minun askeleitani;	
+<div class="theverse"><div class="versenum">27.</div> Sina olet pannut minun jalkani jalkapuuhun, ja otat kaikista minun poluistani vaarin, ja katsot kaikkia minun askeleitani;	</div>
 
-<div class="versenum">28.</div> Joka kuitenkin hukun niinkuin madannyt raato, ja niinkuin koilta syoty vaate.	
+<div class="theverse"><div class="versenum">28.</div> Joka kuitenkin hukun niinkuin madannyt raato, ja niinkuin koilta syoty vaate.	</div>
 </body>
 </html>

@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 8	</div>
 	
-<div class="versenum">1.</div> Kuin han astui alas vuorelta, seurasi hanta paljo kansaa.	
+<div class="theverse"><div class="versenum">1.</div> Kuin han astui alas vuorelta, seurasi hanta paljo kansaa.	</div>
 
-<div class="versenum">2.</div> Ja katso, niin tuli spitalinen mies, kumarsi hanta ja sanoi: Herra, jos sina tahdot, niin sina voit minun puhdistaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja katso, niin tuli spitalinen mies, kumarsi hanta ja sanoi: Herra, jos sina tahdot, niin sina voit minun puhdistaa.	</div>
 
-<div class="versenum">3.</div> Niin Jesus ojensi katensa ja rupesi haneen, sanoen: mina tahdon, ole puhdas. Ja han puhdistettiin kohta spitalistansa.	
+<div class="theverse"><div class="versenum">3.</div> Niin Jesus ojensi katensa ja rupesi haneen, sanoen: mina tahdon, ole puhdas. Ja han puhdistettiin kohta spitalistansa.	</div>
 
-<div class="versenum">4.</div> Ja Jesus sanoi hanelle: katso, ettet kenellekaan sano: mutta mene ja nayta itses papille, ja uhraa lahjas, jonka Moses on kaskenyt, heille todistukseksi.	
+<div class="theverse"><div class="versenum">4.</div> Ja Jesus sanoi hanelle: katso, ettet kenellekaan sano: mutta mene ja nayta itses papille, ja uhraa lahjas, jonka Moses on kaskenyt, heille todistukseksi.	</div>
 
-<div class="versenum">5.</div> Mutta kuin Jesus meni Kapernaumiin, tuli sadanpaamies hanen tykonsa, ja rukoili hanta,	
+<div class="theverse"><div class="versenum">5.</div> Mutta kuin Jesus meni Kapernaumiin, tuli sadanpaamies hanen tykonsa, ja rukoili hanta,	</div>
 
-<div class="versenum">6.</div> Ja sanoi: Herra! minun palveliani sairastaa kotona halvattuna, ja kovin vaivataan.	
+<div class="theverse"><div class="versenum">6.</div> Ja sanoi: Herra! minun palveliani sairastaa kotona halvattuna, ja kovin vaivataan.	</div>
 
-<div class="versenum">7.</div> Jesus sanoi hanelle: mina tulen ja parannan hanen.	
+<div class="theverse"><div class="versenum">7.</div> Jesus sanoi hanelle: mina tulen ja parannan hanen.	</div>
 
-<div class="versenum">8.</div> Niin sadanpaamies vastasi ja sanoi: Herra, en ole mina mahdollinen, etta sina tulet minun kattoni alle; vaan sano ainoasti sana, niin palveliani paranee.	
+<div class="theverse"><div class="versenum">8.</div> Niin sadanpaamies vastasi ja sanoi: Herra, en ole mina mahdollinen, etta sina tulet minun kattoni alle; vaan sano ainoasti sana, niin palveliani paranee.	</div>
 
-<div class="versenum">9.</div> Silla mina olen myos ihminen toisen vallan alla, ja minun allani on sotamiehia, ja sanon talle: mene! ja han menee, ja toiselle: tule! ja han tulee, ja palvelialleni: tee tama! ja han tekee.	
+<div class="theverse"><div class="versenum">9.</div> Silla mina olen myos ihminen toisen vallan alla, ja minun allani on sotamiehia, ja sanon talle: mene! ja han menee, ja toiselle: tule! ja han tulee, ja palvelialleni: tee tama! ja han tekee.	</div>
 
-<div class="versenum">10.</div> Kuin Jesus taman kuuli, ihmetteli han, ja sanoi heille, jotka seurasivat: totisesti sanon mina teille: en ole mina loytanyt senkaltaista uskoa Israelissa.	
+<div class="theverse"><div class="versenum">10.</div> Kuin Jesus taman kuuli, ihmetteli han, ja sanoi heille, jotka seurasivat: totisesti sanon mina teille: en ole mina loytanyt senkaltaista uskoa Israelissa.	</div>
 
-<div class="versenum">11.</div> Mutta mina sanon teille: monta tulevat idasta ja lannesta, ja pitaa Abrahamin, Isaakin ja Jakobin kanssa taivaan valtakunnassa istuman.	
+<div class="theverse"><div class="versenum">11.</div> Mutta mina sanon teille: monta tulevat idasta ja lannesta, ja pitaa Abrahamin, Isaakin ja Jakobin kanssa taivaan valtakunnassa istuman.	</div>
 
-<div class="versenum">12.</div> Mutta valtakunnan lapset heitetaan ulkonaiseen pimeyteen: siella pitaa oleman itku ja hammasten kiristys.	
+<div class="theverse"><div class="versenum">12.</div> Mutta valtakunnan lapset heitetaan ulkonaiseen pimeyteen: siella pitaa oleman itku ja hammasten kiristys.	</div>
 
-<div class="versenum">13.</div> Ja Jesus sanoi sadanpaamiehelle: mene, ja niinkuin sina uskoit, niin sinulle tapahtukoon. Ja silla hetkella parani hanen palveliansa.	
+<div class="theverse"><div class="versenum">13.</div> Ja Jesus sanoi sadanpaamiehelle: mene, ja niinkuin sina uskoit, niin sinulle tapahtukoon. Ja silla hetkella parani hanen palveliansa.	</div>
 
-<div class="versenum">14.</div> Ja kuin Jesus tuli Pietarin huoneeseen, naki han hanen anoppinsa makaavan ja sairastavan vilutautia.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin Jesus tuli Pietarin huoneeseen, naki han hanen anoppinsa makaavan ja sairastavan vilutautia.	</div>
 
-<div class="versenum">15.</div> Niin han tarttui hanen kateensa, ja vilutauti luopui hanesta. Ja han nousi, ja palveli heita.	
+<div class="theverse"><div class="versenum">15.</div> Niin han tarttui hanen kateensa, ja vilutauti luopui hanesta. Ja han nousi, ja palveli heita.	</div>
 
-<div class="versenum">16.</div> Mutta kuin ehtoo tuli, niin he toivat hanen tykonsa monta pirulta riivattua; ja han ajoi ulos sanalla henget, ja teki kaikkinaisia sairaita terveeksi;	
+<div class="theverse"><div class="versenum">16.</div> Mutta kuin ehtoo tuli, niin he toivat hanen tykonsa monta pirulta riivattua; ja han ajoi ulos sanalla henget, ja teki kaikkinaisia sairaita terveeksi;	</div>
 
-<div class="versenum">17.</div> Etta taytettaisiin, mita sanottu oli Jesaias prophetan kautta, joka sanoo: han on ottanut meidan heikkoutemme, ja han kantoi meidan tautimme.	
+<div class="theverse"><div class="versenum">17.</div> Etta taytettaisiin, mita sanottu oli Jesaias prophetan kautta, joka sanoo: han on ottanut meidan heikkoutemme, ja han kantoi meidan tautimme.	</div>
 
-<div class="versenum">18.</div> Kuin Jesus naki paljon kansaa ymparillansa, kaski han menna toiselle puolelle (merta).	
+<div class="theverse"><div class="versenum">18.</div> Kuin Jesus naki paljon kansaa ymparillansa, kaski han menna toiselle puolelle (merta).	</div>
 
-<div class="versenum">19.</div> Ja kirjanoppinut tuli ja sanoi hanelle: Mestari, mina tahdon sinua seurata, kuhunka ikana sina menet.	
+<div class="theverse"><div class="versenum">19.</div> Ja kirjanoppinut tuli ja sanoi hanelle: Mestari, mina tahdon sinua seurata, kuhunka ikana sina menet.	</div>
 
-<div class="versenum">20.</div> Niin Jesus sanoi hanelle: ketuilla ovat luolat, ja taivaan linnuilla ovat pesat; mutta Ihmisen Pojalla ei ole, kuhunka han paansa kallistaa.	
+<div class="theverse"><div class="versenum">20.</div> Niin Jesus sanoi hanelle: ketuilla ovat luolat, ja taivaan linnuilla ovat pesat; mutta Ihmisen Pojalla ei ole, kuhunka han paansa kallistaa.	</div>
 
-<div class="versenum">21.</div> Toinen hanen opetuslapsistansa sanoi hanelle: Herra, salli minun ensin menna hautaamaan isaani.	
+<div class="theverse"><div class="versenum">21.</div> Toinen hanen opetuslapsistansa sanoi hanelle: Herra, salli minun ensin menna hautaamaan isaani.	</div>
 
-<div class="versenum">22.</div> Niin Jesus sanoi hanelle: seuraa minua, ja anna kuolleet haudata kuolleitansa.	
+<div class="theverse"><div class="versenum">22.</div> Niin Jesus sanoi hanelle: seuraa minua, ja anna kuolleet haudata kuolleitansa.	</div>
 
-<div class="versenum">23.</div> Ja kuin han oli haahteen astunut, seurasivat hanta hanen opetuslapsensa.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuin han oli haahteen astunut, seurasivat hanta hanen opetuslapsensa.	</div>
 
-<div class="versenum">24.</div> Mutta katso, suuri ilma nousi merella, niin etta haaksi aalloilta peitettiin. Mutta han makasi.	
+<div class="theverse"><div class="versenum">24.</div> Mutta katso, suuri ilma nousi merella, niin etta haaksi aalloilta peitettiin. Mutta han makasi.	</div>
 
-<div class="versenum">25.</div> Niin tulivat hanen opetuslapsensa ja herattivat hanen, ja sanoivat: Herra, auta meita, me hukumme.	
+<div class="theverse"><div class="versenum">25.</div> Niin tulivat hanen opetuslapsensa ja herattivat hanen, ja sanoivat: Herra, auta meita, me hukumme.	</div>
 
-<div class="versenum">26.</div> Ja han sanoi heille: te heikko-uskoiset, miksi te olette pelkurit? Niin han nousi ja asetti tuulen ja meren, ja tuli juuri tyveneksi.	
+<div class="theverse"><div class="versenum">26.</div> Ja han sanoi heille: te heikko-uskoiset, miksi te olette pelkurit? Niin han nousi ja asetti tuulen ja meren, ja tuli juuri tyveneksi.	</div>
 
-<div class="versenum">27.</div> Niin ihmiset ihmettelivat, sanoen: millainen tama on? silla tuulet ja meri ovat myos hanelle kuuliaiset.	
+<div class="theverse"><div class="versenum">27.</div> Niin ihmiset ihmettelivat, sanoen: millainen tama on? silla tuulet ja meri ovat myos hanelle kuuliaiset.	</div>
 
-<div class="versenum">28.</div> Ja kuin han tuli sille puolelle merta, Gerasalaisten maakuntaan, niin hanta vastaan juoksi kaksi pirulta riivattua, jotka olivat haudoista lahteneet, ja olivat sangen hirmuiset, niin ettei kenkaan taitanut sita tieta vaeltaa.	
+<div class="theverse"><div class="versenum">28.</div> Ja kuin han tuli sille puolelle merta, Gerasalaisten maakuntaan, niin hanta vastaan juoksi kaksi pirulta riivattua, jotka olivat haudoista lahteneet, ja olivat sangen hirmuiset, niin ettei kenkaan taitanut sita tieta vaeltaa.	</div>
 
-<div class="versenum">29.</div> Ja katso, he huusivat sanoen: Jesus, Jumalan Poika, mita meidan on sinun kanssas? Oletkos tullut tanne meita vaivaamaan ennen aikaa?	
+<div class="theverse"><div class="versenum">29.</div> Ja katso, he huusivat sanoen: Jesus, Jumalan Poika, mita meidan on sinun kanssas? Oletkos tullut tanne meita vaivaamaan ennen aikaa?	</div>
 
-<div class="versenum">30.</div> Ja kaukana heista kavi sangen suuri sikalauma laitumella.	
+<div class="theverse"><div class="versenum">30.</div> Ja kaukana heista kavi sangen suuri sikalauma laitumella.	</div>
 
-<div class="versenum">31.</div> Niin perkeleet rukoilivat hanta ja sanoivat: jos ajat meidat ulos, niin salli meidan menna sikalaumaan.	
+<div class="theverse"><div class="versenum">31.</div> Niin perkeleet rukoilivat hanta ja sanoivat: jos ajat meidat ulos, niin salli meidan menna sikalaumaan.	</div>
 
-<div class="versenum">32.</div> Ja han sanoi heille: menkaat. Niin he laksivat ulos ja menivat sikalaumaan; ja katso, koko sikalauma syoksi akisti itsensa jyrkalta mereen ja upposi.	
+<div class="theverse"><div class="versenum">32.</div> Ja han sanoi heille: menkaat. Niin he laksivat ulos ja menivat sikalaumaan; ja katso, koko sikalauma syoksi akisti itsensa jyrkalta mereen ja upposi.	</div>
 
-<div class="versenum">33.</div> Mutta paimenet pakenivat ja menivat kaupunkiin ja ilmoittivat kaikki, ja kuinka pirulta riivatuille oli tapahtunut.	
+<div class="theverse"><div class="versenum">33.</div> Mutta paimenet pakenivat ja menivat kaupunkiin ja ilmoittivat kaikki, ja kuinka pirulta riivatuille oli tapahtunut.	</div>
 
-<div class="versenum">34.</div> Ja katso, koko kaupunki meni ulos Jesusta vastaan. Ja kuin he hanen nakivat, rukoilivat he hanta menemaan pois heidan maansa aarista.	
+<div class="theverse"><div class="versenum">34.</div> Ja katso, koko kaupunki meni ulos Jesusta vastaan. Ja kuin he hanen nakivat, rukoilivat he hanta menemaan pois heidan maansa aarista.	</div>
 </body>
 </html>

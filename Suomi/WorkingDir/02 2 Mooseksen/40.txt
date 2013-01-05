@@ -4,80 +4,80 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 40	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Ensimaisena paivana ensimaisesta kuusta pitaa sinun paneman ylos seurakunnan majan.	
+<div class="theverse"><div class="versenum">2.</div> Ensimaisena paivana ensimaisesta kuusta pitaa sinun paneman ylos seurakunnan majan.	</div>
 
-<div class="versenum">3.</div> Ja sinun pitaa siihen paneman sisalle todistuksen arkin, ja sinun pitaa peittaman arkin esiripulla.	
+<div class="theverse"><div class="versenum">3.</div> Ja sinun pitaa siihen paneman sisalle todistuksen arkin, ja sinun pitaa peittaman arkin esiripulla.	</div>
 
-<div class="versenum">4.</div> Ja sinun pitaa myos sinne sisalle tuoman poydan, ja valmistaman sen, ja asettaman siihen kynttilajalan, ja paneman lamput sen paalle.	
+<div class="theverse"><div class="versenum">4.</div> Ja sinun pitaa myos sinne sisalle tuoman poydan, ja valmistaman sen, ja asettaman siihen kynttilajalan, ja paneman lamput sen paalle.	</div>
 
-<div class="versenum">5.</div> Ja sinun pitaa asettaman kultaisen savualttarin todistusarkin eteen, ja ripustaman vaatteen majan eteen.	
+<div class="theverse"><div class="versenum">5.</div> Ja sinun pitaa asettaman kultaisen savualttarin todistusarkin eteen, ja ripustaman vaatteen majan eteen.	</div>
 
-<div class="versenum">6.</div> Mutta polttouhrin alttarin pitaa sinun asettaman seurakunnan majan oven eteen,	
+<div class="theverse"><div class="versenum">6.</div> Mutta polttouhrin alttarin pitaa sinun asettaman seurakunnan majan oven eteen,	</div>
 
-<div class="versenum">7.</div> Ja paneman pesoastian seurakunnan majan ja alttarin valille, ja paneman siihen vetta,	
+<div class="theverse"><div class="versenum">7.</div> Ja paneman pesoastian seurakunnan majan ja alttarin valille, ja paneman siihen vetta,	</div>
 
-<div class="versenum">8.</div> Ja tekeman pihan sen ymparille, ja ripustaman vaatteen pihan portin eteen,	
+<div class="theverse"><div class="versenum">8.</div> Ja tekeman pihan sen ymparille, ja ripustaman vaatteen pihan portin eteen,	</div>
 
-<div class="versenum">9.</div> Ja ottaman voidellusoljyn, ja voiteleman majan ja kaikki ne mitka siina ovat, ja pyhittaman sen kaluinensa, etta ne olisivat pyhat,	
+<div class="theverse"><div class="versenum">9.</div> Ja ottaman voidellusoljyn, ja voiteleman majan ja kaikki ne mitka siina ovat, ja pyhittaman sen kaluinensa, etta ne olisivat pyhat,	</div>
 
-<div class="versenum">10.</div> Ja voiteleman polttouhrin alttarin kaluinensa, ja pyhittaman alttarin: ja se alttari pitaa oleman kaikkein pyhin.	
+<div class="theverse"><div class="versenum">10.</div> Ja voiteleman polttouhrin alttarin kaluinensa, ja pyhittaman alttarin: ja se alttari pitaa oleman kaikkein pyhin.	</div>
 
-<div class="versenum">11.</div> Sinun pitaa myos voiteleman pesinastian jalkoinensa, ja sen pyhittaman.	
+<div class="theverse"><div class="versenum">11.</div> Sinun pitaa myos voiteleman pesinastian jalkoinensa, ja sen pyhittaman.	</div>
 
-<div class="versenum">12.</div> Ja sinun pitaa tuoman Aaronin poikinensa seurakunnan majan oven eteen, ja peseman heidat vedella,	
+<div class="theverse"><div class="versenum">12.</div> Ja sinun pitaa tuoman Aaronin poikinensa seurakunnan majan oven eteen, ja peseman heidat vedella,	</div>
 
-<div class="versenum">13.</div> Ja puettaman Aaronin pyhiin vaatteisiin, ja voiteleman ja pyhittaman hanen, minun papikseni.	
+<div class="theverse"><div class="versenum">13.</div> Ja puettaman Aaronin pyhiin vaatteisiin, ja voiteleman ja pyhittaman hanen, minun papikseni.	</div>
 
-<div class="versenum">14.</div> Ja sinun pitaa myos tuoman hanen poikansa ja puettaman heidan yllensa ahtaat hameet,	
+<div class="theverse"><div class="versenum">14.</div> Ja sinun pitaa myos tuoman hanen poikansa ja puettaman heidan yllensa ahtaat hameet,	</div>
 
-<div class="versenum">15.</div> Ja voiteleman heidat, niinkuin sina heidan isansa voitelit, minun papikseni. Ja taman voidelluksen pitaa oleman heille ijankaikkiseksi pappeudeksi, heidan sukukunnissansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja voiteleman heidat, niinkuin sina heidan isansa voitelit, minun papikseni. Ja taman voidelluksen pitaa oleman heille ijankaikkiseksi pappeudeksi, heidan sukukunnissansa.	</div>
 
-<div class="versenum">16.</div> Ja Moses teki kaikki kuin Herra oli hanelle kaskenyt.	
+<div class="theverse"><div class="versenum">16.</div> Ja Moses teki kaikki kuin Herra oli hanelle kaskenyt.	</div>
 
-<div class="versenum">17.</div> Niin tapahtui toisena vuonna, ensimaisena paivana ensimaisesta kuusta, etta maja pantiin ylos.	
+<div class="theverse"><div class="versenum">17.</div> Niin tapahtui toisena vuonna, ensimaisena paivana ensimaisesta kuusta, etta maja pantiin ylos.	</div>
 
-<div class="versenum">18.</div> Ja koska Moses pani ylos majan, niin han asetti jalat ja laudat ja korennot, ja nosti patsaat pystyalle,	
+<div class="theverse"><div class="versenum">18.</div> Ja koska Moses pani ylos majan, niin han asetti jalat ja laudat ja korennot, ja nosti patsaat pystyalle,	</div>
 
-<div class="versenum">19.</div> Ja levitti peitteen majan ylitse, ja pani katon sen paalle: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">19.</div> Ja levitti peitteen majan ylitse, ja pani katon sen paalle: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">20.</div> Ja otti todistuksen ja pani arkkiin, ja asetti korennot arkin paalle, ja pani myos armoistuimen arkin paalle.	
+<div class="theverse"><div class="versenum">20.</div> Ja otti todistuksen ja pani arkkiin, ja asetti korennot arkin paalle, ja pani myos armoistuimen arkin paalle.	</div>
 
-<div class="versenum">21.</div> Ja toi arkin majaan, ja ripusti esiripun todistusarkin eteen: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">21.</div> Ja toi arkin majaan, ja ripusti esiripun todistusarkin eteen: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">22.</div> Niin asetti han myos poydan seurakunnan majaan, pohjan puoliselle sivulle, ulkoiselle puolelle esirippua.	
+<div class="theverse"><div class="versenum">22.</div> Niin asetti han myos poydan seurakunnan majaan, pohjan puoliselle sivulle, ulkoiselle puolelle esirippua.	</div>
 
-<div class="versenum">23.</div> Ja asetti leivat sen paalle jarjestykseen, Herran eteen: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">23.</div> Ja asetti leivat sen paalle jarjestykseen, Herran eteen: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">24.</div> Niin pani han myos kynttilajalan seurakunnan majaan, juuri poydan kohdalle, etelan sivulle majaa.	
+<div class="theverse"><div class="versenum">24.</div> Niin pani han myos kynttilajalan seurakunnan majaan, juuri poydan kohdalle, etelan sivulle majaa.	</div>
 
-<div class="versenum">25.</div> Ja pani lamput niiden paalle Herran eteen: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">25.</div> Ja pani lamput niiden paalle Herran eteen: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">26.</div> Ja pani myos kultaisen alttarin seurakunnan majaan, esiripun eteen.	
+<div class="theverse"><div class="versenum">26.</div> Ja pani myos kultaisen alttarin seurakunnan majaan, esiripun eteen.	</div>
 
-<div class="versenum">27.</div> Ja suitsutti yrttein suitsutuksen sen paalla: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">27.</div> Ja suitsutti yrttein suitsutuksen sen paalla: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">28.</div> Ja ripusti vaatteen majan oven eteen.	
+<div class="theverse"><div class="versenum">28.</div> Ja ripusti vaatteen majan oven eteen.	</div>
 
-<div class="versenum">29.</div> Vaan polttouhrin alttarin pani han seurakunnnan majan oven eteen, ja uhrasi sen paalla polttouhrin ja ruokauhrin: niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">29.</div> Vaan polttouhrin alttarin pani han seurakunnnan majan oven eteen, ja uhrasi sen paalla polttouhrin ja ruokauhrin: niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">30.</div> Ja pesoastian pani han seurakunnan majan ja alttarin valille, ja pani siihen vetta pesta heitansa.	
+<div class="theverse"><div class="versenum">30.</div> Ja pesoastian pani han seurakunnan majan ja alttarin valille, ja pani siihen vetta pesta heitansa.	</div>
 
-<div class="versenum">31.</div> Ja Moses ja Aaron ja hanen poikansa pesivat katensa ja jalkansa siita.	
+<div class="theverse"><div class="versenum">31.</div> Ja Moses ja Aaron ja hanen poikansa pesivat katensa ja jalkansa siita.	</div>
 
-<div class="versenum">32.</div> Silla heidan piti peseman itsensa, koska he menivat seurakunnan majaan eli kavivat alttarin tyko; niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">32.</div> Silla heidan piti peseman itsensa, koska he menivat seurakunnan majaan eli kavivat alttarin tyko; niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">33.</div> Ja han pani pihan ylos, majan ja alttarin ymparille, ja ripusti vaatteen pihan sisallekaytavaan. Ja niin Moses paatti sen tyon.	
+<div class="theverse"><div class="versenum">33.</div> Ja han pani pihan ylos, majan ja alttarin ymparille, ja ripusti vaatteen pihan sisallekaytavaan. Ja niin Moses paatti sen tyon.	</div>
 
-<div class="versenum">34.</div> Ja pilvi peitti seurakunnan majan, ja Herran kunnia taytti majan.	
+<div class="theverse"><div class="versenum">34.</div> Ja pilvi peitti seurakunnan majan, ja Herran kunnia taytti majan.	</div>
 
-<div class="versenum">35.</div> Ja ei Moses taitanut kayda seurakunnan majaan; silla pilvi oli sen paalla, ja Herran kunnia taytti majan.	
+<div class="theverse"><div class="versenum">35.</div> Ja ei Moses taitanut kayda seurakunnan majaan; silla pilvi oli sen paalla, ja Herran kunnia taytti majan.	</div>
 
-<div class="versenum">36.</div> Ja koska pilvi meni ylos majan paalta niin Israelin lapset vaelsivat, kaikissa matkoissansa.	
+<div class="theverse"><div class="versenum">36.</div> Ja koska pilvi meni ylos majan paalta niin Israelin lapset vaelsivat, kaikissa matkoissansa.	</div>
 
-<div class="versenum">37.</div> Vaan koska ei pilvi mennyt ylos, silloin ei he vaeltaneet, siihen paivaan asti, etta se meni ylos.	
+<div class="theverse"><div class="versenum">37.</div> Vaan koska ei pilvi mennyt ylos, silloin ei he vaeltaneet, siihen paivaan asti, etta se meni ylos.	</div>
 
-<div class="versenum">38.</div> Silla Herran pilvi oli paivalla majan ylitse, ja yolla oli tuli siina, koko Israelin huoneen silmain edessa, kaikissa heidan vaelluksissansa.	
+<div class="theverse"><div class="versenum">38.</div> Silla Herran pilvi oli paivalla majan ylitse, ja yolla oli tuli siina, koko Israelin huoneen silmain edessa, kaikissa heidan vaelluksissansa.	</div>
 </body>
 </html>

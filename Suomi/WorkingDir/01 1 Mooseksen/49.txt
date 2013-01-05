@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 49	</div>
 	
-<div class="versenum">1.</div> Niin kutsui Jakob poikansa, ja sanoi: kootkaat teitanne, ja mina ilmoitan teille, mita teille tapahtuu tulevaisilla ajoilla.	
+<div class="theverse"><div class="versenum">1.</div> Niin kutsui Jakob poikansa, ja sanoi: kootkaat teitanne, ja mina ilmoitan teille, mita teille tapahtuu tulevaisilla ajoilla.	</div>
 
-<div class="versenum">2.</div> Tulkaat kokoon ja kuulkaat, te Jakobin lapset, kuulkaat teidan isaanne Israelia.	
+<div class="theverse"><div class="versenum">2.</div> Tulkaat kokoon ja kuulkaat, te Jakobin lapset, kuulkaat teidan isaanne Israelia.	</div>
 
-<div class="versenum">3.</div> Ruben, sina olet minun esikoiseni, minun voimani, ja vakevyyteni alku, ylimmainen kunniassa, ja ylimmainen vallassa.	
+<div class="theverse"><div class="versenum">3.</div> Ruben, sina olet minun esikoiseni, minun voimani, ja vakevyyteni alku, ylimmainen kunniassa, ja ylimmainen vallassa.	</div>
 
-<div class="versenum">4.</div> Hempia niinkuin vesi, ei sinun pida ylimmaisen oleman; silla sina astuit isas vuoteesen: silloin sina saastutit sen. Han nousi minun vuoteelleni.	
+<div class="theverse"><div class="versenum">4.</div> Hempia niinkuin vesi, ei sinun pida ylimmaisen oleman; silla sina astuit isas vuoteesen: silloin sina saastutit sen. Han nousi minun vuoteelleni.	</div>
 
-<div class="versenum">5.</div> Simeon ja Levi ovat veljekset, heidan miekkansa ovat murha-aseet.	
+<div class="theverse"><div class="versenum">5.</div> Simeon ja Levi ovat veljekset, heidan miekkansa ovat murha-aseet.	</div>
 
-<div class="versenum">6.</div> Ei minun sieluni pida tuleman heidan neuvoonsa, ja minun kunniani ei pida yhdistyman heidan seurakuntansa kanssa; silla kiukussansa ovat he miehen murhanneet, ja ylpeydessansa turmelleet harjan.	
+<div class="theverse"><div class="versenum">6.</div> Ei minun sieluni pida tuleman heidan neuvoonsa, ja minun kunniani ei pida yhdistyman heidan seurakuntansa kanssa; silla kiukussansa ovat he miehen murhanneet, ja ylpeydessansa turmelleet harjan.	</div>
 
-<div class="versenum">7.</div> Kirottu olkoon heidan kiukkunsa, etta se niin tuima on, ja heidan julmuutensa, etta se niin paatunut on. Mina eroitan heita Jakobissa, ja hajotan heita Israelissa.	
+<div class="theverse"><div class="versenum">7.</div> Kirottu olkoon heidan kiukkunsa, etta se niin tuima on, ja heidan julmuutensa, etta se niin paatunut on. Mina eroitan heita Jakobissa, ja hajotan heita Israelissa.	</div>
 
-<div class="versenum">8.</div> Juuda, sina olet; sinua pitaa sinun veljes kiittaman, sinun kates pitaa oleman sinun vihollistes niskalle, sinun isas lapset pitaa sinua kumartaman.	
+<div class="theverse"><div class="versenum">8.</div> Juuda, sina olet; sinua pitaa sinun veljes kiittaman, sinun kates pitaa oleman sinun vihollistes niskalle, sinun isas lapset pitaa sinua kumartaman.	</div>
 
-<div class="versenum">9.</div> Juuda on nuori jalopeura, saaliilta olet sina astunut, minun poikani: han on itsensa kumartanut maahan, ja levannyt niinkuin jalopeura, ja niinkuin suuri jalopeura; kuka tohtii hanen herattaa?	
+<div class="theverse"><div class="versenum">9.</div> Juuda on nuori jalopeura, saaliilta olet sina astunut, minun poikani: han on itsensa kumartanut maahan, ja levannyt niinkuin jalopeura, ja niinkuin suuri jalopeura; kuka tohtii hanen herattaa?	</div>
 
-<div class="versenum">10.</div> Ei valtikka oteta pois Juudalta, eika Lain opettaja hanen jalvoistansa, siihenasti kuin Sankari tulee, ja hanessa kansat rippuvat kiinni.	
+<div class="theverse"><div class="versenum">10.</div> Ei valtikka oteta pois Juudalta, eika Lain opettaja hanen jalvoistansa, siihenasti kuin Sankari tulee, ja hanessa kansat rippuvat kiinni.	</div>
 
-<div class="versenum">11.</div> Han sitoo varsansa viinapuuhun, ja aasintammansa varsan parhaasen viinapuuhun; Han pesee vaatteensa viinassa, ja hameensa viinamarjan veressa.	
+<div class="theverse"><div class="versenum">11.</div> Han sitoo varsansa viinapuuhun, ja aasintammansa varsan parhaasen viinapuuhun; Han pesee vaatteensa viinassa, ja hameensa viinamarjan veressa.	</div>
 
-<div class="versenum">12.</div> Hanen silmansa ovat punaisemmat viinaa ja hampaansa valkeammat rieskaa.	
+<div class="theverse"><div class="versenum">12.</div> Hanen silmansa ovat punaisemmat viinaa ja hampaansa valkeammat rieskaa.	</div>
 
-<div class="versenum">13.</div> Zebulon on asuva meren sataman ja haahtein satamain vieressa, ja on ulottuva hamaan Sidoniin.	
+<div class="theverse"><div class="versenum">13.</div> Zebulon on asuva meren sataman ja haahtein satamain vieressa, ja on ulottuva hamaan Sidoniin.	</div>
 
-<div class="versenum">14.</div> Isaskar on luja aasi, ja sioittaa itsensa rajain valille.	
+<div class="theverse"><div class="versenum">14.</div> Isaskar on luja aasi, ja sioittaa itsensa rajain valille.	</div>
 
-<div class="versenum">15.</div> Han naki levon hyvaksi, ja maan ihanaksi; ja kumarsi hartiansa kantamaan, ja on veronalainen palvelia.	
+<div class="theverse"><div class="versenum">15.</div> Han naki levon hyvaksi, ja maan ihanaksi; ja kumarsi hartiansa kantamaan, ja on veronalainen palvelia.	</div>
 
-<div class="versenum">16.</div> Dan on tuomitseva kansaansa, niinkuin joku Israelin sukukunnista.	
+<div class="theverse"><div class="versenum">16.</div> Dan on tuomitseva kansaansa, niinkuin joku Israelin sukukunnista.	</div>
 
-<div class="versenum">17.</div> Dan on oleva karmeena tiella, ja kyykarmeena polulla; ja puree hevosta vuokoiseen, niin etta sen ajaja seliallensa lankee.	
+<div class="theverse"><div class="versenum">17.</div> Dan on oleva karmeena tiella, ja kyykarmeena polulla; ja puree hevosta vuokoiseen, niin etta sen ajaja seliallensa lankee.	</div>
 
-<div class="versenum">18.</div> Herra, mina odotan sinun autuuttas.	
+<div class="theverse"><div class="versenum">18.</div> Herra, mina odotan sinun autuuttas.	</div>
 
-<div class="versenum">19.</div> Gad han on; hanelle tekee joukko vakirynnakon; mutta han itse on tekeva vakirynnakon vihdoin heille.	
+<div class="theverse"><div class="versenum">19.</div> Gad han on; hanelle tekee joukko vakirynnakon; mutta han itse on tekeva vakirynnakon vihdoin heille.	</div>
 
-<div class="versenum">20.</div> Asserista tulee hanen lihava leipansa, ja han antaa kuninkaalle herkut.	
+<div class="theverse"><div class="versenum">20.</div> Asserista tulee hanen lihava leipansa, ja han antaa kuninkaalle herkut.	</div>
 
-<div class="versenum">21.</div> Naphtali on nopia peura, ja antaa suloiset puheet.	
+<div class="theverse"><div class="versenum">21.</div> Naphtali on nopia peura, ja antaa suloiset puheet.	</div>
 
-<div class="versenum">22.</div> Joseph on hedelmallisen puun oksa, hedelmallisen puun oksa lahteen tykona: tyttaret kavelivat muurin paalla.	
+<div class="theverse"><div class="versenum">22.</div> Joseph on hedelmallisen puun oksa, hedelmallisen puun oksa lahteen tykona: tyttaret kavelivat muurin paalla.	</div>
 
-<div class="versenum">23.</div> Ja vaikka ampujat saattivat hanen mielensa karvaaksi, riitelivat hanen kanssansa ja vihasivat hanta,	
+<div class="theverse"><div class="versenum">23.</div> Ja vaikka ampujat saattivat hanen mielensa karvaaksi, riitelivat hanen kanssansa ja vihasivat hanta,	</div>
 
-<div class="versenum">24.</div> On kuitenkin hanen joutsensa vahvana pysynyt, ja hanen kasivartensa miehustunut, sen vakevan katten kautta Jakobissa; hanesta on paimen ja kivi Israelissa.	
+<div class="theverse"><div class="versenum">24.</div> On kuitenkin hanen joutsensa vahvana pysynyt, ja hanen kasivartensa miehustunut, sen vakevan katten kautta Jakobissa; hanesta on paimen ja kivi Israelissa.	</div>
 
-<div class="versenum">25.</div> Sinun isas Jumalalta on han sinulle avun tuottava, ja ynna kaikkivaltiaan kanssa on han sinua siunaava taivaan siunauksella ylhaalta, ja syvyyden siunauksella alhaalta, niin myos nisain ja kohtuin siunauksella.	
+<div class="theverse"><div class="versenum">25.</div> Sinun isas Jumalalta on han sinulle avun tuottava, ja ynna kaikkivaltiaan kanssa on han sinua siunaava taivaan siunauksella ylhaalta, ja syvyyden siunauksella alhaalta, niin myos nisain ja kohtuin siunauksella.	</div>
 
-<div class="versenum">26.</div> Sinun isas siunaukset minun isaini siunausten sivussa, ulottuvat voimallisesti niihin kalliimpihin asti maailman kukkuloilla; jotka tulevat Josephin paan paalle, ja Natsirein paan laelle, hanen veljeinsa keskella.	
+<div class="theverse"><div class="versenum">26.</div> Sinun isas siunaukset minun isaini siunausten sivussa, ulottuvat voimallisesti niihin kalliimpihin asti maailman kukkuloilla; jotka tulevat Josephin paan paalle, ja Natsirein paan laelle, hanen veljeinsa keskella.	</div>
 
-<div class="versenum">27.</div> BenJamin on raatelevainen susi, aamulla han syo saaliin, ja ehtoona saaliin jakaa.	
+<div class="theverse"><div class="versenum">27.</div> BenJamin on raatelevainen susi, aamulla han syo saaliin, ja ehtoona saaliin jakaa.	</div>
 
-<div class="versenum">28.</div> Namat kaikki ovat kaksitoistakymmenta Israelin sukukuntaa. Ja tama on se kuin heidan isansa heille puhui siunatessansa heita: itsekutakin, niinkuin kunkin siunaus oli, siunasi han heita.	
+<div class="theverse"><div class="versenum">28.</div> Namat kaikki ovat kaksitoistakymmenta Israelin sukukuntaa. Ja tama on se kuin heidan isansa heille puhui siunatessansa heita: itsekutakin, niinkuin kunkin siunaus oli, siunasi han heita.	</div>
 
-<div class="versenum">29.</div> Ja han kaski heita, ja sanoi heille: mina kootaan minun kansani tyko: haudatkaat minua minun isani tyko, siihen luolaan, joka on Hetilaisen Ephronin vainiossa.	
+<div class="theverse"><div class="versenum">29.</div> Ja han kaski heita, ja sanoi heille: mina kootaan minun kansani tyko: haudatkaat minua minun isani tyko, siihen luolaan, joka on Hetilaisen Ephronin vainiossa.	</div>
 
-<div class="versenum">30.</div> Siihen luolaan Makpelan vainiossa, joka on Mamren kohdalla Kanaanin maalla, jonka Abraham osti hautaamisen perimiseksi vainion kanssa, silta Hetilaiselta Ephronilta.	
+<div class="theverse"><div class="versenum">30.</div> Siihen luolaan Makpelan vainiossa, joka on Mamren kohdalla Kanaanin maalla, jonka Abraham osti hautaamisen perimiseksi vainion kanssa, silta Hetilaiselta Ephronilta.	</div>
 
-<div class="versenum">31.</div> Sinne ovat he haudanneet Abrahamin ja hanen emantansa Saaran, sinne ovat he myos haudanneet Isaakin ja Rebekan hanen emantansa. Sinne olen mina myos haudannut Lean.	
+<div class="theverse"><div class="versenum">31.</div> Sinne ovat he haudanneet Abrahamin ja hanen emantansa Saaran, sinne ovat he myos haudanneet Isaakin ja Rebekan hanen emantansa. Sinne olen mina myos haudannut Lean.	</div>
 
-<div class="versenum">32.</div> Siihen vainioon ja siihen luolaan, kuin on ostettu Hetin lapsilta.	
+<div class="theverse"><div class="versenum">32.</div> Siihen vainioon ja siihen luolaan, kuin on ostettu Hetin lapsilta.	</div>
 
-<div class="versenum">33.</div> Ja koska Jakob lopetti kaskyn lastensa tyko, pani han jalkansa kokoon vuoteessa; ja loppui, ja koottiin kansansa tyko.	
+<div class="theverse"><div class="versenum">33.</div> Ja koska Jakob lopetti kaskyn lastensa tyko, pani han jalkansa kokoon vuoteessa; ja loppui, ja koottiin kansansa tyko.	</div>
 </body>
 </html>

@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Psalmien 6	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kahdeksalla kielella. (H 6:2) Oi Herra, ala rankaise minua vihassas, ja ala minua julmuudessas kurita.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kahdeksalla kielella. (H 6:2) Oi Herra, ala rankaise minua vihassas, ja ala minua julmuudessas kurita.	</div>
 
-<div class="versenum">2.</div> (H 6:3) Herra, ole minulle armollinen, silla mina olen heikko: paranna Herra minua, silla minun luuni ovat peljastyneet.	
+<div class="theverse"><div class="versenum">2.</div> (H 6:3) Herra, ole minulle armollinen, silla mina olen heikko: paranna Herra minua, silla minun luuni ovat peljastyneet.	</div>
 
-<div class="versenum">3.</div> (H 6:4) Ja minun sieluni on sangen kovin hammastynyt, voi Herra, kuinka kauvan!	
+<div class="theverse"><div class="versenum">3.</div> (H 6:4) Ja minun sieluni on sangen kovin hammastynyt, voi Herra, kuinka kauvan!	</div>
 
-<div class="versenum">4.</div> (H 6:5) Kaanna sinuas, Herra, ja pelasta sieluni; auta minua sinun hyvyytes tahden.	
+<div class="theverse"><div class="versenum">4.</div> (H 6:5) Kaanna sinuas, Herra, ja pelasta sieluni; auta minua sinun hyvyytes tahden.	</div>
 
-<div class="versenum">5.</div> (H 6:6) Silla ei kuolemassa kenkaan muista sinua, kuka kiittaa sinua tuonelassa?	
+<div class="theverse"><div class="versenum">5.</div> (H 6:6) Silla ei kuolemassa kenkaan muista sinua, kuka kiittaa sinua tuonelassa?	</div>
 
-<div class="versenum">6.</div> (H 6:7) Mina olen niin vasynyt huokauksista: mina uitan vuoteeni yli yota, ja kastan leposiani kyynelillani.	
+<div class="theverse"><div class="versenum">6.</div> (H 6:7) Mina olen niin vasynyt huokauksista: mina uitan vuoteeni yli yota, ja kastan leposiani kyynelillani.	</div>
 
-<div class="versenum">7.</div> (H 6:8) Minun muotoni on muuttunut murheesta, ja on vanhentunut; silla mina ahdistetaan kaikilta puolilta.	
+<div class="theverse"><div class="versenum">7.</div> (H 6:8) Minun muotoni on muuttunut murheesta, ja on vanhentunut; silla mina ahdistetaan kaikilta puolilta.	</div>
 
-<div class="versenum">8.</div> (H 6:9) Eritkaat minusta, kaikki pahointekiat; silla Herra kuulee minun itkuni.	
+<div class="theverse"><div class="versenum">8.</div> (H 6:9) Eritkaat minusta, kaikki pahointekiat; silla Herra kuulee minun itkuni.	</div>
 
-<div class="versenum">9.</div> (H 6:10) Herra kuulee minun rukoukseni: anomiseni Herra ottaa vastaan.	
+<div class="theverse"><div class="versenum">9.</div> (H 6:10) Herra kuulee minun rukoukseni: anomiseni Herra ottaa vastaan.	</div>
 
-<div class="versenum">10.</div> (H 6:11) Kaikki minun viholliseni saakoon hapian, ja suuresti peljattakoon; kaantykoon takaperin, ja nopiasti havaistakoon.	
+<div class="theverse"><div class="versenum">10.</div> (H 6:11) Kaikki minun viholliseni saakoon hapian, ja suuresti peljattakoon; kaantykoon takaperin, ja nopiasti havaistakoon.	</div>
 </body>
 </html>

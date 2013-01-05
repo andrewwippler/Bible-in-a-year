@@ -4,94 +4,94 @@
 </head>
 <body><div class="chaptertitle">Markuksen 1	</div>
 	
-<div class="versenum">1.</div> Jesuksen Kristuksen, Jumalan Pojan, evankeliumin alku.	
+<div class="theverse"><div class="versenum">1.</div> Jesuksen Kristuksen, Jumalan Pojan, evankeliumin alku.	</div>
 
-<div class="versenum">2.</div> Niinkuin prophetaissa kirjoitettu on: katso, mina lahetan minun enkelini sinun kasvois eteen, joka on valmistava sinun ties sinun etees.	
+<div class="theverse"><div class="versenum">2.</div> Niinkuin prophetaissa kirjoitettu on: katso, mina lahetan minun enkelini sinun kasvois eteen, joka on valmistava sinun ties sinun etees.	</div>
 
-<div class="versenum">3.</div> Huutavan aani on korvessa: valmistakaat Herran tieta, tehkaat hanen polkunsa oikiaksi.	
+<div class="theverse"><div class="versenum">3.</div> Huutavan aani on korvessa: valmistakaat Herran tieta, tehkaat hanen polkunsa oikiaksi.	</div>
 
-<div class="versenum">4.</div> Johannes kasti korvessa ja saarnasi parannuksen kastetta syntein anteeksi antamiseksi.	
+<div class="theverse"><div class="versenum">4.</div> Johannes kasti korvessa ja saarnasi parannuksen kastetta syntein anteeksi antamiseksi.	</div>
 
-<div class="versenum">5.</div> Ja hanen tykonsa meni ulos koko Juudean maakunta ja Jerusalemin asuvaiset, ja kastettiin kaikki hanelta Jordanin virrassa, tunnustain syntinsa.	
+<div class="theverse"><div class="versenum">5.</div> Ja hanen tykonsa meni ulos koko Juudean maakunta ja Jerusalemin asuvaiset, ja kastettiin kaikki hanelta Jordanin virrassa, tunnustain syntinsa.	</div>
 
-<div class="versenum">6.</div> Ja Johannes oli puetettu kamelin karvoilla, ja ympari hanen suoliansa oli hihnainen vyo, ja soi heinasirkkoja ja metsahunajaa,	
+<div class="theverse"><div class="versenum">6.</div> Ja Johannes oli puetettu kamelin karvoilla, ja ympari hanen suoliansa oli hihnainen vyo, ja soi heinasirkkoja ja metsahunajaa,	</div>
 
-<div class="versenum">7.</div> Ja saarnasi, sanoen: se tulee minun jalkeeni, joka on minua vakevampi, jonka en mina ole kelvollinen kumarruksissa kenkain rihmaa paastamaan.	
+<div class="theverse"><div class="versenum">7.</div> Ja saarnasi, sanoen: se tulee minun jalkeeni, joka on minua vakevampi, jonka en mina ole kelvollinen kumarruksissa kenkain rihmaa paastamaan.	</div>
 
-<div class="versenum">8.</div> Mina tosin kastan teita vedella; mutta han kastaa teita Pyhalla Hengella.	
+<div class="theverse"><div class="versenum">8.</div> Mina tosin kastan teita vedella; mutta han kastaa teita Pyhalla Hengella.	</div>
 
-<div class="versenum">9.</div> Ja tapahtui niina paivina, etta Jesus tuli Galilean Natsaretista ja kastettiin Johannekselta Jordanissa.	
+<div class="theverse"><div class="versenum">9.</div> Ja tapahtui niina paivina, etta Jesus tuli Galilean Natsaretista ja kastettiin Johannekselta Jordanissa.	</div>
 
-<div class="versenum">10.</div> Ja kohta kuin han astui vedesta ylos, naki han taivaat aukenevan ja Hengen tulevan alas hanen paallensa niinkuin kyyhkyisen,	
+<div class="theverse"><div class="versenum">10.</div> Ja kohta kuin han astui vedesta ylos, naki han taivaat aukenevan ja Hengen tulevan alas hanen paallensa niinkuin kyyhkyisen,	</div>
 
-<div class="versenum">11.</div> Ja aani tuli taivaasta: sina olet minun rakas Poikani, johonka mina mielistyin.	
+<div class="theverse"><div class="versenum">11.</div> Ja aani tuli taivaasta: sina olet minun rakas Poikani, johonka mina mielistyin.	</div>
 
-<div class="versenum">12.</div> Ja Henki ajoi hanen kohta korpeen.	
+<div class="theverse"><div class="versenum">12.</div> Ja Henki ajoi hanen kohta korpeen.	</div>
 
-<div class="versenum">13.</div> Ja han oli siella korvessa neljakymmenta paivaa, ja kiusattiin perkeleelta, ja oli petoin seassa; ja enkelit palvelivat hanta.	
+<div class="theverse"><div class="versenum">13.</div> Ja han oli siella korvessa neljakymmenta paivaa, ja kiusattiin perkeleelta, ja oli petoin seassa; ja enkelit palvelivat hanta.	</div>
 
-<div class="versenum">14.</div> Mutta sitte kuin Johannes oli vankiuteen annettu ylon, tuli Jesus Galileaan, saarnaten Jumalan valtakunnan evankeliumia,	
+<div class="theverse"><div class="versenum">14.</div> Mutta sitte kuin Johannes oli vankiuteen annettu ylon, tuli Jesus Galileaan, saarnaten Jumalan valtakunnan evankeliumia,	</div>
 
-<div class="versenum">15.</div> Ja sanoi: aika on taytetty, ja Jumalan valtakunta on lahestynyt: tehkaat parannus ja uskokaat evankeliumi.	
+<div class="theverse"><div class="versenum">15.</div> Ja sanoi: aika on taytetty, ja Jumalan valtakunta on lahestynyt: tehkaat parannus ja uskokaat evankeliumi.	</div>
 
-<div class="versenum">16.</div> Ja kuin han kaveli Galilean meren tykona, naki han Simonin ja Andreaksen hanen veljensa laskevan verkkoa mereen: (silla he olivat kalamiehet:)	
+<div class="theverse"><div class="versenum">16.</div> Ja kuin han kaveli Galilean meren tykona, naki han Simonin ja Andreaksen hanen veljensa laskevan verkkoa mereen: (silla he olivat kalamiehet:)	</div>
 
-<div class="versenum">17.</div> Ja Jesus sanoi heille: seuratkaat minua, ja mina teen teidat, etta te tulette ihmisten kalamiehiksi.	
+<div class="theverse"><div class="versenum">17.</div> Ja Jesus sanoi heille: seuratkaat minua, ja mina teen teidat, etta te tulette ihmisten kalamiehiksi.	</div>
 
-<div class="versenum">18.</div> Ja he jattivat kohta verkkonsa ja seurasivat hanta.	
+<div class="theverse"><div class="versenum">18.</div> Ja he jattivat kohta verkkonsa ja seurasivat hanta.	</div>
 
-<div class="versenum">19.</div> Ja kuin han sielta vahaa edemma kavi, naki han Jakobin Zebedeuksen pojan ja Johanneksen, hanen veljensa, parantavan venheessa verkkojansa.	
+<div class="theverse"><div class="versenum">19.</div> Ja kuin han sielta vahaa edemma kavi, naki han Jakobin Zebedeuksen pojan ja Johanneksen, hanen veljensa, parantavan venheessa verkkojansa.	</div>
 
-<div class="versenum">20.</div> Ja han kutsui kohta heita. Ja he jattivat isansa Zebedeuksen venheeseen palkollisten kanssa, ja seurasivat hanta.	
+<div class="theverse"><div class="versenum">20.</div> Ja han kutsui kohta heita. Ja he jattivat isansa Zebedeuksen venheeseen palkollisten kanssa, ja seurasivat hanta.	</div>
 
-<div class="versenum">21.</div> Ja he menivat sisalle Kapernaumiin; ja han meni kohta lepopaivina synagogaan, ja opetti.	
+<div class="theverse"><div class="versenum">21.</div> Ja he menivat sisalle Kapernaumiin; ja han meni kohta lepopaivina synagogaan, ja opetti.	</div>
 
-<div class="versenum">22.</div> Ja he hammastyivat hanen opetustansa; silla han opetti heita voimallisesti, ja ei niinkuin kirjanoppineet.	
+<div class="theverse"><div class="versenum">22.</div> Ja he hammastyivat hanen opetustansa; silla han opetti heita voimallisesti, ja ei niinkuin kirjanoppineet.	</div>
 
-<div class="versenum">23.</div> Ja heidan synagogassansa oli ihminen riivattu saastaiselta hengelta, ja han huusi,	
+<div class="theverse"><div class="versenum">23.</div> Ja heidan synagogassansa oli ihminen riivattu saastaiselta hengelta, ja han huusi,	</div>
 
-<div class="versenum">24.</div> Sanoen: voi, mita meidan on sinun kanssas, Jesus Natsarealainen! tulitkos meita hukuttamaan? Mina tunnen sinun, kukas olet, Jumalan pyha.	
+<div class="theverse"><div class="versenum">24.</div> Sanoen: voi, mita meidan on sinun kanssas, Jesus Natsarealainen! tulitkos meita hukuttamaan? Mina tunnen sinun, kukas olet, Jumalan pyha.	</div>
 
-<div class="versenum">25.</div> Ja Jesus nuhteli hanta, sanoen: vaikene ja mene ulos hanesta.	
+<div class="theverse"><div class="versenum">25.</div> Ja Jesus nuhteli hanta, sanoen: vaikene ja mene ulos hanesta.	</div>
 
-<div class="versenum">26.</div> Ja kuin se saastainen henki repaisi hanta ja huusi suurella aanella, niin han laksi ulos hanesta.	
+<div class="theverse"><div class="versenum">26.</div> Ja kuin se saastainen henki repaisi hanta ja huusi suurella aanella, niin han laksi ulos hanesta.	</div>
 
-<div class="versenum">27.</div> Ja he hammastyivat kaikki, niin etta he kyselivat keskenansa, sanoen: mita tama on? mika uusi oppi tama on? Silla han kaskee myos voimalla saastaisia henkia, ja he kuulevat hanta.	
+<div class="theverse"><div class="versenum">27.</div> Ja he hammastyivat kaikki, niin etta he kyselivat keskenansa, sanoen: mita tama on? mika uusi oppi tama on? Silla han kaskee myos voimalla saastaisia henkia, ja he kuulevat hanta.	</div>
 
-<div class="versenum">28.</div> Ja hanen sanomansa kuului kohta ympari kaiken Galilean lahimaakunnan.	
+<div class="theverse"><div class="versenum">28.</div> Ja hanen sanomansa kuului kohta ympari kaiken Galilean lahimaakunnan.	</div>
 
-<div class="versenum">29.</div> Ja he menivat kohta ulos synagogasta ja tulivat Simonin ja Andreaksen huoneeseen, Jakobin ja Johanneksen kanssa.	
+<div class="theverse"><div class="versenum">29.</div> Ja he menivat kohta ulos synagogasta ja tulivat Simonin ja Andreaksen huoneeseen, Jakobin ja Johanneksen kanssa.	</div>
 
-<div class="versenum">30.</div> Mutta Simonin anoppi makasi vilutaudissa, ja he sanoivat hanesta kohta hanelle.	
+<div class="theverse"><div class="versenum">30.</div> Mutta Simonin anoppi makasi vilutaudissa, ja he sanoivat hanesta kohta hanelle.	</div>
 
-<div class="versenum">31.</div> Ja han meni ja nosti hanta, ja rupesi hanen kateensa, ja vilutauti jatti hanen kohta; ja han palveli heita.	
+<div class="theverse"><div class="versenum">31.</div> Ja han meni ja nosti hanta, ja rupesi hanen kateensa, ja vilutauti jatti hanen kohta; ja han palveli heita.	</div>
 
-<div class="versenum">32.</div> Mutta ehtoona, kuin aurinko laski, toivat he hanen tykonsa kaikkinaisia sairaita ja perkeleilta riivatuita,	
+<div class="theverse"><div class="versenum">32.</div> Mutta ehtoona, kuin aurinko laski, toivat he hanen tykonsa kaikkinaisia sairaita ja perkeleilta riivatuita,	</div>
 
-<div class="versenum">33.</div> Ja koko kaupunki tuli kokoon oven eteen.	
+<div class="theverse"><div class="versenum">33.</div> Ja koko kaupunki tuli kokoon oven eteen.	</div>
 
-<div class="versenum">34.</div> Ja han paransi monta, jotka sairastivat moninaisia tauteja, ja han ajoi ulos paljon perkeleita, eika sallinut perkeleiden puhua; silla he tunsivat hanen.	
+<div class="theverse"><div class="versenum">34.</div> Ja han paransi monta, jotka sairastivat moninaisia tauteja, ja han ajoi ulos paljon perkeleita, eika sallinut perkeleiden puhua; silla he tunsivat hanen.	</div>
 
-<div class="versenum">35.</div> Ja huomeneltain sangen varhain ennen paivaa, kuin han nousi, meni han ulos. Ja Jesus meni erinaiseen asiaan ja rukoili siella.	
+<div class="theverse"><div class="versenum">35.</div> Ja huomeneltain sangen varhain ennen paivaa, kuin han nousi, meni han ulos. Ja Jesus meni erinaiseen asiaan ja rukoili siella.	</div>
 
-<div class="versenum">36.</div> Ja Simon riensi hanen perassansa ja ne jotka hanen kanssansa olivat.	
+<div class="theverse"><div class="versenum">36.</div> Ja Simon riensi hanen perassansa ja ne jotka hanen kanssansa olivat.	</div>
 
-<div class="versenum">37.</div> Ja kuin he loysivat hanen, sanoivat he hanelle: jokainen etsii sinua.	
+<div class="theverse"><div class="versenum">37.</div> Ja kuin he loysivat hanen, sanoivat he hanelle: jokainen etsii sinua.	</div>
 
-<div class="versenum">38.</div> Ja han sanoi heille: menkaamme lahimmaisiin kyliin, etta mina siellakin saarnaisin; silla sita varten olen mina tullut.	
+<div class="theverse"><div class="versenum">38.</div> Ja han sanoi heille: menkaamme lahimmaisiin kyliin, etta mina siellakin saarnaisin; silla sita varten olen mina tullut.	</div>
 
-<div class="versenum">39.</div> Ja han saarnasi heidan synagogissansa, koko Galileassa, ja ajoi ulos perkeleita.	
+<div class="theverse"><div class="versenum">39.</div> Ja han saarnasi heidan synagogissansa, koko Galileassa, ja ajoi ulos perkeleita.	</div>
 
-<div class="versenum">40.</div> Ja hanen tykonsa tuli spitalinen, rukoili hanta, lankesi polvillensa hanen eteensa ja sanoi hanelle: jos sina tahdot, niin sina voit minun puhdistaa.	
+<div class="theverse"><div class="versenum">40.</div> Ja hanen tykonsa tuli spitalinen, rukoili hanta, lankesi polvillensa hanen eteensa ja sanoi hanelle: jos sina tahdot, niin sina voit minun puhdistaa.	</div>
 
-<div class="versenum">41.</div> Ja Jesus armahti hanta ja ojensi katensa, rupesi haneen ja sanoi hanelle: mina tahdon, ole puhdas.	
+<div class="theverse"><div class="versenum">41.</div> Ja Jesus armahti hanta ja ojensi katensa, rupesi haneen ja sanoi hanelle: mina tahdon, ole puhdas.	</div>
 
-<div class="versenum">42.</div> Ja kuin han sen oli sanonut, niin spitali laksi hanesta kohta pois, ja han tuli puhtaaksi.	
+<div class="theverse"><div class="versenum">42.</div> Ja kuin han sen oli sanonut, niin spitali laksi hanesta kohta pois, ja han tuli puhtaaksi.	</div>
 
-<div class="versenum">43.</div> Ja Jesus haasti hanta, ja lahetti hanen kohta pois tykoansa,	
+<div class="theverse"><div class="versenum">43.</div> Ja Jesus haasti hanta, ja lahetti hanen kohta pois tykoansa,	</div>
 
-<div class="versenum">44.</div> Ja sanoi hanelle: katso, ettes kellenkaan mitaan sano, mutta mene, osoita itses papille ja uhraa puhdistukses edesta ne, mitka Moses kaski, heille todistukseksi.	
+<div class="theverse"><div class="versenum">44.</div> Ja sanoi hanelle: katso, ettes kellenkaan mitaan sano, mutta mene, osoita itses papille ja uhraa puhdistukses edesta ne, mitka Moses kaski, heille todistukseksi.	</div>
 
-<div class="versenum">45.</div> Mutta kuin han meni ulos, rupesi han paljon saarnaamaan ja ilmoittamaan sita asiaa, niin ettei han sitte taitanut julkisesti kaupunkiin menna; mutta oli ulkona erinaisissa paikoissa, ja joka taholta tultiin hanen tykonsa.	
+<div class="theverse"><div class="versenum">45.</div> Mutta kuin han meni ulos, rupesi han paljon saarnaamaan ja ilmoittamaan sita asiaa, niin ettei han sitte taitanut julkisesti kaupunkiin menna; mutta oli ulkona erinaisissa paikoissa, ja joka taholta tultiin hanen tykonsa.	</div>
 </body>
 </html>

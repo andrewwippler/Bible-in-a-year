@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Psalmien 72	</div>
 	
-<div class="versenum">1.</div> Salomon. Jumala, anna tuomios kuninkaalle, ja vanhurskautes kuninkaan pojalle,	
+<div class="theverse"><div class="versenum">1.</div> Salomon. Jumala, anna tuomios kuninkaalle, ja vanhurskautes kuninkaan pojalle,	</div>
 
-<div class="versenum">2.</div> Etta han veis sinun kansas vanhurskauteen, ja auttais sinun raadollistas.	
+<div class="theverse"><div class="versenum">2.</div> Etta han veis sinun kansas vanhurskauteen, ja auttais sinun raadollistas.	</div>
 
-<div class="versenum">3.</div> Vuoret tuokaan rauhan kansalle, ja kukulat vanhurskauden.	
+<div class="theverse"><div class="versenum">3.</div> Vuoret tuokaan rauhan kansalle, ja kukulat vanhurskauden.	</div>
 
-<div class="versenum">4.</div> Hanen pitaa raadollisen kansan oikeudessa pitaman, ja koyhain lapsia auttaman ja sarkeman pilkkaajat.	
+<div class="theverse"><div class="versenum">4.</div> Hanen pitaa raadollisen kansan oikeudessa pitaman, ja koyhain lapsia auttaman ja sarkeman pilkkaajat.	</div>
 
-<div class="versenum">5.</div> Sinua peljataan, niinkauvan kuin aurinko ja kuu ovat, lapsista niin lasten lapsiin.	
+<div class="theverse"><div class="versenum">5.</div> Sinua peljataan, niinkauvan kuin aurinko ja kuu ovat, lapsista niin lasten lapsiin.	</div>
 
-<div class="versenum">6.</div> Han laskee alas niinkuin sade heinan sangelle, niinkuin pisarat, jotka maan lioittavat.	
+<div class="theverse"><div class="versenum">6.</div> Han laskee alas niinkuin sade heinan sangelle, niinkuin pisarat, jotka maan lioittavat.	</div>
 
-<div class="versenum">7.</div> Hanen aikanansa vanhurskas kukoistaa, ja on suuri rauha siihen asti, ettei kuuta enaa olekaan.	
+<div class="theverse"><div class="versenum">7.</div> Hanen aikanansa vanhurskas kukoistaa, ja on suuri rauha siihen asti, ettei kuuta enaa olekaan.	</div>
 
-<div class="versenum">8.</div> Han hallitsee meresta mereen ja virrasta maailman aariin.	
+<div class="theverse"><div class="versenum">8.</div> Han hallitsee meresta mereen ja virrasta maailman aariin.	</div>
 
-<div class="versenum">9.</div> Hanta pitaa korven asuvaiset kumartaman, ja hanen vihollisensa pitaa tomun nuoleman.	
+<div class="theverse"><div class="versenum">9.</div> Hanta pitaa korven asuvaiset kumartaman, ja hanen vihollisensa pitaa tomun nuoleman.	</div>
 
-<div class="versenum">10.</div> Kuninkaat meren tykoa ja luodoista pitaa lahjoja kantaman: kuninkaat rikkaasta Arabiasta ja Sebasta pitaa annot tuoman.	
+<div class="theverse"><div class="versenum">10.</div> Kuninkaat meren tykoa ja luodoista pitaa lahjoja kantaman: kuninkaat rikkaasta Arabiasta ja Sebasta pitaa annot tuoman.	</div>
 
-<div class="versenum">11.</div> Kaikki kuninkaat pitaa hanta kumartaman, ja kaikki pakanat pitaa hanta palveleman.	
+<div class="theverse"><div class="versenum">11.</div> Kaikki kuninkaat pitaa hanta kumartaman, ja kaikki pakanat pitaa hanta palveleman.	</div>
 
-<div class="versenum">12.</div> Silla han vapahtaa huutavaisen koyhan, ja raadollisen, jolla ei ole auttajaa.	
+<div class="theverse"><div class="versenum">12.</div> Silla han vapahtaa huutavaisen koyhan, ja raadollisen, jolla ei ole auttajaa.	</div>
 
-<div class="versenum">13.</div> Han on armollinen vaivaiselle ja koyhalle, ja koyhain sielua han auttaa.	
+<div class="theverse"><div class="versenum">13.</div> Han on armollinen vaivaiselle ja koyhalle, ja koyhain sielua han auttaa.	</div>
 
-<div class="versenum">14.</div> Han lunastaa heidan sielunsa petoksesta ja vakivallasta, ja heidan verensa luetaan kalliiksi hanen silmainsa edessa.	
+<div class="theverse"><div class="versenum">14.</div> Han lunastaa heidan sielunsa petoksesta ja vakivallasta, ja heidan verensa luetaan kalliiksi hanen silmainsa edessa.	</div>
 
-<div class="versenum">15.</div> Ja han elaa ja hanelle pitaa annettaman kultaa rikkaasta Arabiasta, ja hanta alati kumartaen rukoiltaman, joka paiva pitaa hanta kiitettaman.	
+<div class="theverse"><div class="versenum">15.</div> Ja han elaa ja hanelle pitaa annettaman kultaa rikkaasta Arabiasta, ja hanta alati kumartaen rukoiltaman, joka paiva pitaa hanta kiitettaman.	</div>
 
-<div class="versenum">16.</div> Pivo jyvia pitaa niin oleman maassa ja vuorten kukkuloilla, etta sen hedelma pitaa haalyman niinkuin Libanon; ja kaupungin asuvaiset pitaa kukoistaman niinkuin ruoho maan paalla.	
+<div class="theverse"><div class="versenum">16.</div> Pivo jyvia pitaa niin oleman maassa ja vuorten kukkuloilla, etta sen hedelma pitaa haalyman niinkuin Libanon; ja kaupungin asuvaiset pitaa kukoistaman niinkuin ruoho maan paalla.	</div>
 
-<div class="versenum">17.</div> Hanen nimensa pysyy ijankaikkisesti: niinkauvan kuin aurinko on, ulottuu hanen nimensa jalkeentulevaisille; ja he tulevat siunatuksi hanen kauttansa: kaikki pakanat ylistavat hanta.	
+<div class="theverse"><div class="versenum">17.</div> Hanen nimensa pysyy ijankaikkisesti: niinkauvan kuin aurinko on, ulottuu hanen nimensa jalkeentulevaisille; ja he tulevat siunatuksi hanen kauttansa: kaikki pakanat ylistavat hanta.	</div>
 
-<div class="versenum">18.</div> Kiitetty olkoon Herra Jumala, Israelin Jumala, joka yksinansa ihmeita tekee!	
+<div class="theverse"><div class="versenum">18.</div> Kiitetty olkoon Herra Jumala, Israelin Jumala, joka yksinansa ihmeita tekee!	</div>
 
-<div class="versenum">19.</div> Ja kiitetty olkoon hanen kunniansa nimi ijankaikkisesti; ja kaikki maa taytettakoon hanen kunniastansa, amen! amen!	
+<div class="theverse"><div class="versenum">19.</div> Ja kiitetty olkoon hanen kunniansa nimi ijankaikkisesti; ja kaikki maa taytettakoon hanen kunniastansa, amen! amen!	</div>
 
-<div class="versenum">20.</div> Davidin, Isain pojan, rukoukset loppuvat.	
+<div class="theverse"><div class="versenum">20.</div> Davidin, Isain pojan, rukoukset loppuvat.	</div>
 </body>
 </html>

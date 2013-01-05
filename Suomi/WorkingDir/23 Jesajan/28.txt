@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">Jesajan 28	</div>
 	
-<div class="versenum">1.</div> Voi ylpiaa Ephraimin juopuneiden kruunua! jonka kaunis kunnia on pudonnut kukkanen, joka on ylemmaisella puolella lihavaa laaksoa, jossa he viinasta hoipertelevat.	
+<div class="theverse"><div class="versenum">1.</div> Voi ylpiaa Ephraimin juopuneiden kruunua! jonka kaunis kunnia on pudonnut kukkanen, joka on ylemmaisella puolella lihavaa laaksoa, jossa he viinasta hoipertelevat.	</div>
 
-<div class="versenum">2.</div> Katso, vakeva ja voimallinen Herralta, niinkuin raesade, niinkuin vahingollinen tuuli, niinkuin vesimyrsky, joka vakevasti lankee, pitaa vakivallalla maahan paastettaman;	
+<div class="theverse"><div class="versenum">2.</div> Katso, vakeva ja voimallinen Herralta, niinkuin raesade, niinkuin vahingollinen tuuli, niinkuin vesimyrsky, joka vakevasti lankee, pitaa vakivallalla maahan paastettaman;	</div>
 
-<div class="versenum">3.</div> Etta Ephraimin juopuneiden ylpia kruunu jaloilla tallatan.	
+<div class="theverse"><div class="versenum">3.</div> Etta Ephraimin juopuneiden ylpia kruunu jaloilla tallatan.	</div>
 
-<div class="versenum">4.</div> Ja hanen kunniansa kaunistuksen pudonneet kukkaset, jotka lihavata laaksoa ylemmaisella puolella ovat, pitaa tuleman niinkuin se, joka varhain suvella kypsyy, jonka joku nahtyansa ja kasilla pidellessansa syo.	
+<div class="theverse"><div class="versenum">4.</div> Ja hanen kunniansa kaunistuksen pudonneet kukkaset, jotka lihavata laaksoa ylemmaisella puolella ovat, pitaa tuleman niinkuin se, joka varhain suvella kypsyy, jonka joku nahtyansa ja kasilla pidellessansa syo.	</div>
 
-<div class="versenum">5.</div> Silloin Herra Zebaot on jaaneelle kansallensa kunnian kruunu ja kaunis seppele,	
+<div class="theverse"><div class="versenum">5.</div> Silloin Herra Zebaot on jaaneelle kansallensa kunnian kruunu ja kaunis seppele,	</div>
 
-<div class="versenum">6.</div> Ja tuomion henki hanelle, joka oikeudessa istuu, ja vakevyys niille, jotka sodasta palaavat portin tyko.	
+<div class="theverse"><div class="versenum">6.</div> Ja tuomion henki hanelle, joka oikeudessa istuu, ja vakevyys niille, jotka sodasta palaavat portin tyko.	</div>
 
-<div class="versenum">7.</div> Siihen myos ovat namat hulluksi tulleet viinasta, ja hoipertelevat vakevista juomista; silla papit ja prohpetat ovat hullut vakevasta juomasta, he ovat uponneet viinaan, ja hoipertelevat vakevasta juomasta, he ovat erhettyneet ennustuksessa, ja ei osanneet oikeutta tuomiossa.	
+<div class="theverse"><div class="versenum">7.</div> Siihen myos ovat namat hulluksi tulleet viinasta, ja hoipertelevat vakevista juomista; silla papit ja prohpetat ovat hullut vakevasta juomasta, he ovat uponneet viinaan, ja hoipertelevat vakevasta juomasta, he ovat erhettyneet ennustuksessa, ja ei osanneet oikeutta tuomiossa.	</div>
 
-<div class="versenum">8.</div> Silla kaikki poydat ovat taynna oksennusta ja riettautta joka paikassa.	
+<div class="theverse"><div class="versenum">8.</div> Silla kaikki poydat ovat taynna oksennusta ja riettautta joka paikassa.	</div>
 
-<div class="versenum">9.</div> Kenelle han siis opettaa viisautta? kenenka han antaa ymmartaa saarnaa? Vieroitettuin rieskasta, eroitettuin nisista.	
+<div class="theverse"><div class="versenum">9.</div> Kenelle han siis opettaa viisautta? kenenka han antaa ymmartaa saarnaa? Vieroitettuin rieskasta, eroitettuin nisista.	</div>
 
-<div class="versenum">10.</div> Silla (he sanovat:) kaske, kaske viela, kaske, kaske viela, odota, odota viela, odota, odota viela, tassa vaha, siella vaha.	
+<div class="theverse"><div class="versenum">10.</div> Silla (he sanovat:) kaske, kaske viela, kaske, kaske viela, odota, odota viela, odota, odota viela, tassa vaha, siella vaha.	</div>
 
-<div class="versenum">11.</div> Silla han on vihdoin pilkkaavaisilla huulilla ja toisella kielella puhuva kansalle, jolle nyt naita saarnataan.	
+<div class="theverse"><div class="versenum">11.</div> Silla han on vihdoin pilkkaavaisilla huulilla ja toisella kielella puhuva kansalle, jolle nyt naita saarnataan.	</div>
 
-<div class="versenum">12.</div> Niin saadaan lepo, nain virvoitetaan vasyneet, niin ollaan alallansa; ja ei kuitenkaan tahdota kuulla (tata saarnaa).	
+<div class="theverse"><div class="versenum">12.</div> Niin saadaan lepo, nain virvoitetaan vasyneet, niin ollaan alallansa; ja ei kuitenkaan tahdota kuulla (tata saarnaa).	</div>
 
-<div class="versenum">13.</div> Sentahden pitaa myos Herran sana heille juuri niin oleman: kaske, kaske viela, kaske, kaske viela, odota, odota viela, odota, odota viela, tassa vaha, siella vaha, etta heidan pitaa meneman pois ja kaatuman takaperin, musertuman, kiedottaman ja vangiksi tuleman.	
+<div class="theverse"><div class="versenum">13.</div> Sentahden pitaa myos Herran sana heille juuri niin oleman: kaske, kaske viela, kaske, kaske viela, odota, odota viela, odota, odota viela, tassa vaha, siella vaha, etta heidan pitaa meneman pois ja kaatuman takaperin, musertuman, kiedottaman ja vangiksi tuleman.	</div>
 
-<div class="versenum">14.</div> Kuulkaat siis Herran sanaa, te pilkkakirveet, jotka vallitsette tata kansaa, joka on Jerusalemissa.	
+<div class="theverse"><div class="versenum">14.</div> Kuulkaat siis Herran sanaa, te pilkkakirveet, jotka vallitsette tata kansaa, joka on Jerusalemissa.	</div>
 
-<div class="versenum">15.</div> Silla te sanotte: me olemme tehneet liiton kuoleman kanssa ja sovinnon helvetin kanssa. Kuin rangaistuksen virta tulee, ei hanen pida meita kohtaaman; silla me olemme tehneet valheen turvaksemme, ja petoksen varjelukseksemme.	
+<div class="theverse"><div class="versenum">15.</div> Silla te sanotte: me olemme tehneet liiton kuoleman kanssa ja sovinnon helvetin kanssa. Kuin rangaistuksen virta tulee, ei hanen pida meita kohtaaman; silla me olemme tehneet valheen turvaksemme, ja petoksen varjelukseksemme.	</div>
 
-<div class="versenum">16.</div> Sentahden sanoo Herra, Herra: katso, mina lasken Zioniin perustuskiven, koetellun kiven, kalliin kulmakiven, joka hyvin on perustettu: joka uskoo, ei hanen pida peljastyman.	
+<div class="theverse"><div class="versenum">16.</div> Sentahden sanoo Herra, Herra: katso, mina lasken Zioniin perustuskiven, koetellun kiven, kalliin kulmakiven, joka hyvin on perustettu: joka uskoo, ei hanen pida peljastyman.	</div>
 
-<div class="versenum">17.</div> Ja mina teen tuomion ojennusnuoraksi ja vanhurskauden mitaksi, niin pitaa rakeet karkoittaman pois vaaran turvan, ja veden pitaa vieman tulen pois;	
+<div class="theverse"><div class="versenum">17.</div> Ja mina teen tuomion ojennusnuoraksi ja vanhurskauden mitaksi, niin pitaa rakeet karkoittaman pois vaaran turvan, ja veden pitaa vieman tulen pois;	</div>
 
-<div class="versenum">18.</div> Etta teidan liittonne kuoleman kanssa pitaa tyhjaksi tuleman, ja teidan sovintonne helvetin kanssa ei pida vahva oleman; ja koska rangaistuksen virta tulee, pitaa sen tallaaman teita.	
+<div class="theverse"><div class="versenum">18.</div> Etta teidan liittonne kuoleman kanssa pitaa tyhjaksi tuleman, ja teidan sovintonne helvetin kanssa ei pida vahva oleman; ja koska rangaistuksen virta tulee, pitaa sen tallaaman teita.	</div>
 
-<div class="versenum">19.</div> Niin pian kuin se tulee, niin sen pitaa teita vieman pois: jos se tulee aamulla, niin tapahtuu se aamulla, niin myos paivalla ja yolla; silla ainoastaan rangaistus opettaa ottamaan sanoista vaarin.	
+<div class="theverse"><div class="versenum">19.</div> Niin pian kuin se tulee, niin sen pitaa teita vieman pois: jos se tulee aamulla, niin tapahtuu se aamulla, niin myos paivalla ja yolla; silla ainoastaan rangaistus opettaa ottamaan sanoista vaarin.	</div>
 
-<div class="versenum">20.</div> Silla vuode on niin lyhyt, ettei saa itsiansa ojentaa, ja peite on niin soukka, ettei sen alla taida mykarassa olla.	
+<div class="theverse"><div class="versenum">20.</div> Silla vuode on niin lyhyt, ettei saa itsiansa ojentaa, ja peite on niin soukka, ettei sen alla taida mykarassa olla.	</div>
 
-<div class="versenum">21.</div> Silla Herra on nouseva niinkuin Peratsimin vuorella, ja vihastuva niinkuin Gibeonin laaksossa, etta han tekis tyonsa, muukalaisen tyonsa, ja etta han toimittais tekonsa, oudon tekonsa.	
+<div class="theverse"><div class="versenum">21.</div> Silla Herra on nouseva niinkuin Peratsimin vuorella, ja vihastuva niinkuin Gibeonin laaksossa, etta han tekis tyonsa, muukalaisen tyonsa, ja etta han toimittais tekonsa, oudon tekonsa.	</div>
 
-<div class="versenum">22.</div> Pankaat siis pilkkanne pois, ettei siteenne kovemmaksi tulisi; silla mina olen kuullut havityksen ja teloituksen, joka Herralta, Herralta Zebaotilta on tapahtuva kaikessa maailmassa.	
+<div class="theverse"><div class="versenum">22.</div> Pankaat siis pilkkanne pois, ettei siteenne kovemmaksi tulisi; silla mina olen kuullut havityksen ja teloituksen, joka Herralta, Herralta Zebaotilta on tapahtuva kaikessa maailmassa.	</div>
 
-<div class="versenum">23.</div> Ottakaat korviinne ja kuulkaat minun aaneni, ymmartakaat ja kuulkaat minun puheeni.	
+<div class="theverse"><div class="versenum">23.</div> Ottakaat korviinne ja kuulkaat minun aaneni, ymmartakaat ja kuulkaat minun puheeni.	</div>
 
-<div class="versenum">24.</div> Kyntaako eli jyrastaako taikka viljeleeko peltomies peltonsa aina jyviksi?	
+<div class="theverse"><div class="versenum">24.</div> Kyntaako eli jyrastaako taikka viljeleeko peltomies peltonsa aina jyviksi?	</div>
 
-<div class="versenum">25.</div> Eiko niin ole? koska han sen on tasoittanut, niin han kylvaa siihen herneita ja heittaa kuminoita, ja kylvaa nisuja, ohria, jokaista kuhunka han tahtoo, ja kaurat paikkaansa.	
+<div class="theverse"><div class="versenum">25.</div> Eiko niin ole? koska han sen on tasoittanut, niin han kylvaa siihen herneita ja heittaa kuminoita, ja kylvaa nisuja, ohria, jokaista kuhunka han tahtoo, ja kaurat paikkaansa.	</div>
 
-<div class="versenum">26.</div> Juuri niin kurittaa myos heidan Jumalansa heita rangaistuksella, ja opettaa heita.	
+<div class="theverse"><div class="versenum">26.</div> Juuri niin kurittaa myos heidan Jumalansa heita rangaistuksella, ja opettaa heita.	</div>
 
-<div class="versenum">27.</div> Silla ei herneita tapeta varstalla, eika vaunuratas anneta kuminain paalla kayda, vaan herneet varistetaan sauvalla ja kuminat vitsalla.	
+<div class="theverse"><div class="versenum">27.</div> Silla ei herneita tapeta varstalla, eika vaunuratas anneta kuminain paalla kayda, vaan herneet varistetaan sauvalla ja kuminat vitsalla.	</div>
 
-<div class="versenum">28.</div> Se jauhetaan ja leivotaan, eika perati tyhjaksi tapeta, koska se vaunurattaalla ja hevosilla tapetaan.	
+<div class="theverse"><div class="versenum">28.</div> Se jauhetaan ja leivotaan, eika perati tyhjaksi tapeta, koska se vaunurattaalla ja hevosilla tapetaan.	</div>
 
-<div class="versenum">29.</div> Nain tekee myos Herra Zebaot; silla hanen neuvonsa on ihmeellinen, ja sen jalosti toimittaa.	
+<div class="theverse"><div class="versenum">29.</div> Nain tekee myos Herra Zebaot; silla hanen neuvonsa on ihmeellinen, ja sen jalosti toimittaa.	</div>
 </body>
 </html>

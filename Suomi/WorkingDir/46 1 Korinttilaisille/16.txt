@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">1 Korinttilaisille 16	</div>
 	
-<div class="versenum">1.</div> Mutta avun hakemisessa pyhia varten, niinkuin mina Galatin seurakunnille saatanyt olen, niin te myos tehkaat.	
+<div class="theverse"><div class="versenum">1.</div> Mutta avun hakemisessa pyhia varten, niinkuin mina Galatin seurakunnille saatanyt olen, niin te myos tehkaat.	</div>
 
-<div class="versenum">2.</div> Ensimaisena sabbattina ottakaan jokainen teista tykonsa jotakin ja kootkaan varansa jalkeen, ettei asken silloin, kuin mina tulen, niita hakemaan ruveta.	
+<div class="theverse"><div class="versenum">2.</div> Ensimaisena sabbattina ottakaan jokainen teista tykonsa jotakin ja kootkaan varansa jalkeen, ettei asken silloin, kuin mina tulen, niita hakemaan ruveta.	</div>
 
-<div class="versenum">3.</div> Mutta kuin mina tullut olen, jotka te kirjoilla valitsette, ne mina tahdon lahettaa viemaan teidan lahjojanne Jerusalemiin.	
+<div class="theverse"><div class="versenum">3.</div> Mutta kuin mina tullut olen, jotka te kirjoilla valitsette, ne mina tahdon lahettaa viemaan teidan lahjojanne Jerusalemiin.	</div>
 
-<div class="versenum">4.</div> Jos taas niin on sovelias, etta mina itse sinne vaellan, niin he saavat minun kanssani vaeltaa.	
+<div class="theverse"><div class="versenum">4.</div> Jos taas niin on sovelias, etta mina itse sinne vaellan, niin he saavat minun kanssani vaeltaa.	</div>
 
-<div class="versenum">5.</div> Mutta mina tahdon teidan tykonne tulla, kuin mina Makedonian kautta vaellan. (Silla minun pitaa Makedonian lavitse vaeltaman.)	
+<div class="theverse"><div class="versenum">5.</div> Mutta mina tahdon teidan tykonne tulla, kuin mina Makedonian kautta vaellan. (Silla minun pitaa Makedonian lavitse vaeltaman.)	</div>
 
-<div class="versenum">6.</div> Mutta teidan tykoanne mina mitamaks viivyn eli myos talvea pidan, etta te minua saattaisitte, kuhunka mina matkustan.	
+<div class="theverse"><div class="versenum">6.</div> Mutta teidan tykoanne mina mitamaks viivyn eli myos talvea pidan, etta te minua saattaisitte, kuhunka mina matkustan.	</div>
 
-<div class="versenum">7.</div> Silla en mina nyt mennessani tahdo teita nahda; silla mina toivon saavani jonkun ajan viipya teidan tykonanne, jos Herra sallii.	
+<div class="theverse"><div class="versenum">7.</div> Silla en mina nyt mennessani tahdo teita nahda; silla mina toivon saavani jonkun ajan viipya teidan tykonanne, jos Herra sallii.	</div>
 
-<div class="versenum">8.</div> Mutta mina tahdon Ephesossa viipya helluntaihin asti;	
+<div class="theverse"><div class="versenum">8.</div> Mutta mina tahdon Ephesossa viipya helluntaihin asti;	</div>
 
-<div class="versenum">9.</div> Silla minulle on suuri ja vakeva ovi avattu, ja on monta vastaanseisojaa.	
+<div class="theverse"><div class="versenum">9.</div> Silla minulle on suuri ja vakeva ovi avattu, ja on monta vastaanseisojaa.	</div>
 
-<div class="versenum">10.</div> Mutta jos Timoteus tulee, niin katsokaat, etta han pelkaamatta olis teidan tykonanne; silla han tekee myos Herran tyota niinkuin minakin.	
+<div class="theverse"><div class="versenum">10.</div> Mutta jos Timoteus tulee, niin katsokaat, etta han pelkaamatta olis teidan tykonanne; silla han tekee myos Herran tyota niinkuin minakin.	</div>
 
-<div class="versenum">11.</div> Alkaan hanta kenkaan katsoko ylon, mutta saattakaat hanta rauhassa minun tykoni tulemaan; silla mina odotan hanta veljien kanssa.	
+<div class="theverse"><div class="versenum">11.</div> Alkaan hanta kenkaan katsoko ylon, mutta saattakaat hanta rauhassa minun tykoni tulemaan; silla mina odotan hanta veljien kanssa.	</div>
 
-<div class="versenum">12.</div> Mutta veljesta Apollosta tietakaat, etta mina olen hanta paljon neuvonut veljien kanssa teidan tykonne tulemaan, mutta ei han nyt tahtonut tulla; kuitenkin on han tuleva, kuin hanella sovelias aika on.	
+<div class="theverse"><div class="versenum">12.</div> Mutta veljesta Apollosta tietakaat, etta mina olen hanta paljon neuvonut veljien kanssa teidan tykonne tulemaan, mutta ei han nyt tahtonut tulla; kuitenkin on han tuleva, kuin hanella sovelias aika on.	</div>
 
-<div class="versenum">13.</div> Valvokaat, pysykaat uskossa, olkaat urhoolliset, olkaat vahvat!	
+<div class="theverse"><div class="versenum">13.</div> Valvokaat, pysykaat uskossa, olkaat urhoolliset, olkaat vahvat!	</div>
 
-<div class="versenum">14.</div> Kaikki teidan menonne tapahtukoon rakkaudessa.	
+<div class="theverse"><div class="versenum">14.</div> Kaikki teidan menonne tapahtukoon rakkaudessa.	</div>
 
-<div class="versenum">15.</div> Mutta mina neuvon teita, rakkaat veljet: te tunnette Stephanaan perheen, etta he ovat alkeet Akajassa ja ovat ruvenneet pyhia palvelemaan:	
+<div class="theverse"><div class="versenum">15.</div> Mutta mina neuvon teita, rakkaat veljet: te tunnette Stephanaan perheen, etta he ovat alkeet Akajassa ja ovat ruvenneet pyhia palvelemaan:	</div>
 
-<div class="versenum">16.</div> Etta te myos olisitte senkaltaisille alamaiset ja jokaiselle apulaiselle ja auttajalle.	
+<div class="theverse"><div class="versenum">16.</div> Etta te myos olisitte senkaltaisille alamaiset ja jokaiselle apulaiselle ja auttajalle.	</div>
 
-<div class="versenum">17.</div> Mutta mina iloitsen Stephanaan, Fortunatuksen ja Akaikuksen tulemisesta; silla he ovat teidan puuttumisenne tayttaneet.	
+<div class="theverse"><div class="versenum">17.</div> Mutta mina iloitsen Stephanaan, Fortunatuksen ja Akaikuksen tulemisesta; silla he ovat teidan puuttumisenne tayttaneet.	</div>
 
-<div class="versenum">18.</div> Silla he virvoittivat minun henkeni ja teidan; sentahden tuntekaat senkaltaiset.	
+<div class="theverse"><div class="versenum">18.</div> Silla he virvoittivat minun henkeni ja teidan; sentahden tuntekaat senkaltaiset.	</div>
 
-<div class="versenum">19.</div> Teita tervehtivat Asian seurakunnat. Teita tervehtivat suuresti Akvila ja Priskilla Herrassa, ja seurakunta, joka heidan huoneessansa on.	
+<div class="theverse"><div class="versenum">19.</div> Teita tervehtivat Asian seurakunnat. Teita tervehtivat suuresti Akvila ja Priskilla Herrassa, ja seurakunta, joka heidan huoneessansa on.	</div>
 
-<div class="versenum">20.</div> Teita tervehtivat kaikki veljet. Tervehtikaat toinen toistanne pyhalla suunantamisella.	
+<div class="theverse"><div class="versenum">20.</div> Teita tervehtivat kaikki veljet. Tervehtikaat toinen toistanne pyhalla suunantamisella.	</div>
 
-<div class="versenum">21.</div> Mina Paavali tervehdin teita omalla kadellani.	
+<div class="theverse"><div class="versenum">21.</div> Mina Paavali tervehdin teita omalla kadellani.	</div>
 
-<div class="versenum">22.</div> Joka ei Herraa Jesusta Kristusta rakasta, se olkoon anatema maranata.	
+<div class="theverse"><div class="versenum">22.</div> Joka ei Herraa Jesusta Kristusta rakasta, se olkoon anatema maranata.	</div>
 
-<div class="versenum">23.</div> Herran Jesuksen Kristuksen armo olkoon teidan kanssanne!	
+<div class="theverse"><div class="versenum">23.</div> Herran Jesuksen Kristuksen armo olkoon teidan kanssanne!	</div>
 
-<div class="versenum">24.</div> Minun rakkauteni olkoon kaikkein teidan kanssanne Kristuksessa Jesuksessa! Amen!	
+<div class="theverse"><div class="versenum">24.</div> Minun rakkauteni olkoon kaikkein teidan kanssanne Kristuksessa Jesuksessa! Amen!	</div>
 </body>
 </html>

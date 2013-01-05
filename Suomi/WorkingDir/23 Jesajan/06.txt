@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Jesajan 6	</div>
 	
-<div class="versenum">1.</div> Sina vuonna, jona kuningas Ussia kuoli, nain mina Herran istuvan korkialla ja korotetulla istuimella, ja hanen vaatteensa liepeet tayttivat templin.	
+<div class="theverse"><div class="versenum">1.</div> Sina vuonna, jona kuningas Ussia kuoli, nain mina Herran istuvan korkialla ja korotetulla istuimella, ja hanen vaatteensa liepeet tayttivat templin.	</div>
 
-<div class="versenum">2.</div> Seraphit seisoivat hanta ylempana, ja kullakin oli kuusi siipea: kahdella he peittivat kasvonsa, kahdella jalkansa, ja kahdella he lensivat.	
+<div class="theverse"><div class="versenum">2.</div> Seraphit seisoivat hanta ylempana, ja kullakin oli kuusi siipea: kahdella he peittivat kasvonsa, kahdella jalkansa, ja kahdella he lensivat.	</div>
 
-<div class="versenum">3.</div> Ne huusivat toinen toisellensa ja sanoivat: Pyha, pyha, pyha, Herra Zebaot: kaikki maa on taynna hanen kunniaansa;	
+<div class="theverse"><div class="versenum">3.</div> Ne huusivat toinen toisellensa ja sanoivat: Pyha, pyha, pyha, Herra Zebaot: kaikki maa on taynna hanen kunniaansa;	</div>
 
-<div class="versenum">4.</div> Niin etta pihtipielet vapisivat heidan huutonsa aanesta, ja huone taytettiin savulla.	
+<div class="theverse"><div class="versenum">4.</div> Niin etta pihtipielet vapisivat heidan huutonsa aanesta, ja huone taytettiin savulla.	</div>
 
-<div class="versenum">5.</div> Niin mina sanoin: voi minuani! mina hukun, silla minulla on saastaiset huulet, ja asun sen kansan seassa, jolla on saastaiset huulet; silla minun silmani ovat nahneet kuninkaan, Herran Zebaotin.	
+<div class="theverse"><div class="versenum">5.</div> Niin mina sanoin: voi minuani! mina hukun, silla minulla on saastaiset huulet, ja asun sen kansan seassa, jolla on saastaiset huulet; silla minun silmani ovat nahneet kuninkaan, Herran Zebaotin.	</div>
 
-<div class="versenum">6.</div> Niin lensi yksi Seraphimeista minun tykoni, jolla oli kadessa tulinen hiili, jonka han otti hohtimilla alttarilta,	
+<div class="theverse"><div class="versenum">6.</div> Niin lensi yksi Seraphimeista minun tykoni, jolla oli kadessa tulinen hiili, jonka han otti hohtimilla alttarilta,	</div>
 
-<div class="versenum">7.</div> Ja rupesi minun suuhuni, ja sanoi: katso, talla olen mina ruvennut huuliis, etta sinun pahat tekos otettaisiin sinulta pois, ja sinun rikokses olis sovitettu.	
+<div class="theverse"><div class="versenum">7.</div> Ja rupesi minun suuhuni, ja sanoi: katso, talla olen mina ruvennut huuliis, etta sinun pahat tekos otettaisiin sinulta pois, ja sinun rikokses olis sovitettu.	</div>
 
-<div class="versenum">8.</div> Ja mina kuulin Herran aanen, etta han sanoi: kenenka mina lahetan? kuka tahtoo olla meidan sanansaattajamme? Mutta mina sanoin: tassa mina olen, laheta minua.	
+<div class="theverse"><div class="versenum">8.</div> Ja mina kuulin Herran aanen, etta han sanoi: kenenka mina lahetan? kuka tahtoo olla meidan sanansaattajamme? Mutta mina sanoin: tassa mina olen, laheta minua.	</div>
 
-<div class="versenum">9.</div> Ja han sanoi: mene ja sano talle kansalle, kuulten kuulkaat, ja alkaat ymmartako, nahden nahkaat, ja alkaat tahtako.	
+<div class="theverse"><div class="versenum">9.</div> Ja han sanoi: mene ja sano talle kansalle, kuulten kuulkaat, ja alkaat ymmartako, nahden nahkaat, ja alkaat tahtako.	</div>
 
-<div class="versenum">10.</div> Paaduta taman kansan sydan, ja anna heidan korvansa paksuksi tulla, ja sokaise heidan silmansa, ettei he nakisi silmillansa, eika kuulisi korvillansa, eli myos ymmartaisi sydamellansa, eli kaantaisi itsiansa ja parannetuksi tulisi.	
+<div class="theverse"><div class="versenum">10.</div> Paaduta taman kansan sydan, ja anna heidan korvansa paksuksi tulla, ja sokaise heidan silmansa, ettei he nakisi silmillansa, eika kuulisi korvillansa, eli myos ymmartaisi sydamellansa, eli kaantaisi itsiansa ja parannetuksi tulisi.	</div>
 
-<div class="versenum">11.</div> Mutta mina sanoin: Herra, kuinka kauvan? Han sanoi: siihenasti kuin kaupungit tulevat kylmille ja ilman asujia, ja huoneet ilman vaeta, ja maa on perati autiona.	
+<div class="theverse"><div class="versenum">11.</div> Mutta mina sanoin: Herra, kuinka kauvan? Han sanoi: siihenasti kuin kaupungit tulevat kylmille ja ilman asujia, ja huoneet ilman vaeta, ja maa on perati autiona.	</div>
 
-<div class="versenum">12.</div> Silla Herra ajaa vaen kauvas, niin etta maa tulee perati hyljatyksi.	
+<div class="theverse"><div class="versenum">12.</div> Silla Herra ajaa vaen kauvas, niin etta maa tulee perati hyljatyksi.	</div>
 
-<div class="versenum">13.</div> Ja ehka kymmenes osa siihen viela jaa, niin sekin taas havitetaan; kuitenkin niinkuin tammelle ja tuomelle jaa kanto, vaikka heidan lehtensa varistetaan, niin pitaa myos pyhalla siemenella kanto oleman.	
+<div class="theverse"><div class="versenum">13.</div> Ja ehka kymmenes osa siihen viela jaa, niin sekin taas havitetaan; kuitenkin niinkuin tammelle ja tuomelle jaa kanto, vaikka heidan lehtensa varistetaan, niin pitaa myos pyhalla siemenella kanto oleman.	</div>
 </body>
 </html>

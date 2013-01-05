@@ -4,84 +4,84 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 8	</div>
 	
-<div class="versenum">1.</div> Benjamin siitti Belan ensimaisen poikansa, Asbalin toisen, Ahran kolmannen,	
+<div class="theverse"><div class="versenum">1.</div> Benjamin siitti Belan ensimaisen poikansa, Asbalin toisen, Ahran kolmannen,	</div>
 
-<div class="versenum">2.</div> Noan neljannen, Raphan viidennen.	
+<div class="theverse"><div class="versenum">2.</div> Noan neljannen, Raphan viidennen.	</div>
 
-<div class="versenum">3.</div> Ja Belalla oli lapsia, Addar, Gera, Abihud,	
+<div class="theverse"><div class="versenum">3.</div> Ja Belalla oli lapsia, Addar, Gera, Abihud,	</div>
 
-<div class="versenum">4.</div> Abisua, Naaman ja Ahoa,	
+<div class="theverse"><div class="versenum">4.</div> Abisua, Naaman ja Ahoa,	</div>
 
-<div class="versenum">5.</div> Gera, Sephupham ja Huram.	
+<div class="theverse"><div class="versenum">5.</div> Gera, Sephupham ja Huram.	</div>
 
-<div class="versenum">6.</div> Namat ovat Ehudin lapset, jotka olivat isain paamiehet niiden seassa, jotka asuivat Gebassa; ja han vei heita Manahatiin,	
+<div class="theverse"><div class="versenum">6.</div> Namat ovat Ehudin lapset, jotka olivat isain paamiehet niiden seassa, jotka asuivat Gebassa; ja han vei heita Manahatiin,	</div>
 
-<div class="versenum">7.</div> Naaman, Ahia ja Gera, han vei heidat pois, ja siitti Ussan ja Ahihudin.	
+<div class="theverse"><div class="versenum">7.</div> Naaman, Ahia ja Gera, han vei heidat pois, ja siitti Ussan ja Ahihudin.	</div>
 
-<div class="versenum">8.</div> Ja Saharaim siitti Moabin maalla, sittekuin han heidat tykoansa laskenut oli, Husimista ja Baerasta hanen emannistansa.	
+<div class="theverse"><div class="versenum">8.</div> Ja Saharaim siitti Moabin maalla, sittekuin han heidat tykoansa laskenut oli, Husimista ja Baerasta hanen emannistansa.	</div>
 
-<div class="versenum">9.</div> Ja han siitti emannastansa Hodesta, Jobabin, Zibian, Mesan ja Malkamin,	
+<div class="theverse"><div class="versenum">9.</div> Ja han siitti emannastansa Hodesta, Jobabin, Zibian, Mesan ja Malkamin,	</div>
 
-<div class="versenum">10.</div> Jeusin, Sobjan ja Mirman. Namat ovat hanen lapsensa, isain paamiehet.	
+<div class="theverse"><div class="versenum">10.</div> Jeusin, Sobjan ja Mirman. Namat ovat hanen lapsensa, isain paamiehet.	</div>
 
-<div class="versenum">11.</div> Husimista siitti han Abitobin ja Elpaalin.	
+<div class="theverse"><div class="versenum">11.</div> Husimista siitti han Abitobin ja Elpaalin.	</div>
 
-<div class="versenum">12.</div> Elpaalin lapset olivat: Eber, Miseam ja Semer: se rakensi Onon ja Lodin, ja hanen kylansa.	
+<div class="theverse"><div class="versenum">12.</div> Elpaalin lapset olivat: Eber, Miseam ja Semer: se rakensi Onon ja Lodin, ja hanen kylansa.	</div>
 
-<div class="versenum">13.</div> Ja Beria ja Sama olivat isain paamiehet, niiden, jotka asuivat Ajalonissa: ne ajoivat niita takaa, jotka asuivat Gatissa.	
+<div class="theverse"><div class="versenum">13.</div> Ja Beria ja Sama olivat isain paamiehet, niiden, jotka asuivat Ajalonissa: ne ajoivat niita takaa, jotka asuivat Gatissa.	</div>
 
-<div class="versenum">14.</div> Ja Ahio, Sasak ja Jeremot,	
+<div class="theverse"><div class="versenum">14.</div> Ja Ahio, Sasak ja Jeremot,	</div>
 
-<div class="versenum">15.</div> Sebadia, Arad, Ader,	
+<div class="theverse"><div class="versenum">15.</div> Sebadia, Arad, Ader,	</div>
 
-<div class="versenum">16.</div> Mikael, Jispa ja Joha, Berian lapset.	
+<div class="theverse"><div class="versenum">16.</div> Mikael, Jispa ja Joha, Berian lapset.	</div>
 
-<div class="versenum">17.</div> Sebadia, Mesullam, Hiski, Heber,	
+<div class="theverse"><div class="versenum">17.</div> Sebadia, Mesullam, Hiski, Heber,	</div>
 
-<div class="versenum">18.</div> Jismerai, Jislia ja Jobab, Elpaanin lapset.	
+<div class="theverse"><div class="versenum">18.</div> Jismerai, Jislia ja Jobab, Elpaanin lapset.	</div>
 
-<div class="versenum">19.</div> Jakim, Sikri ja Saddi,	
+<div class="theverse"><div class="versenum">19.</div> Jakim, Sikri ja Saddi,	</div>
 
-<div class="versenum">20.</div> Elienai, Zilletai ja Eliel,	
+<div class="theverse"><div class="versenum">20.</div> Elienai, Zilletai ja Eliel,	</div>
 
-<div class="versenum">21.</div> Adaja, Beraja ja Simrat, Simein lapset.	
+<div class="theverse"><div class="versenum">21.</div> Adaja, Beraja ja Simrat, Simein lapset.	</div>
 
-<div class="versenum">22.</div> Jispan, Eber ja Eliel.	
+<div class="theverse"><div class="versenum">22.</div> Jispan, Eber ja Eliel.	</div>
 
-<div class="versenum">23.</div> Abdon, Sikri ja Hanan,	
+<div class="theverse"><div class="versenum">23.</div> Abdon, Sikri ja Hanan,	</div>
 
-<div class="versenum">24.</div> Hananja, Elam ja Antotia,	
+<div class="theverse"><div class="versenum">24.</div> Hananja, Elam ja Antotia,	</div>
 
-<div class="versenum">25.</div> Jiphdeja ja Penuel, Sasakin lapset.	
+<div class="theverse"><div class="versenum">25.</div> Jiphdeja ja Penuel, Sasakin lapset.	</div>
 
-<div class="versenum">26.</div> Samserai, Seharia ja Atalia,	
+<div class="theverse"><div class="versenum">26.</div> Samserai, Seharia ja Atalia,	</div>
 
-<div class="versenum">27.</div> Jaeresia, Elia ja Sikri, Jerohamin lapset.	
+<div class="theverse"><div class="versenum">27.</div> Jaeresia, Elia ja Sikri, Jerohamin lapset.	</div>
 
-<div class="versenum">28.</div> Namat ovat isain paamiehet heidan sukukunnissansa; ja he asuivat Jerusalemissa.	
+<div class="theverse"><div class="versenum">28.</div> Namat ovat isain paamiehet heidan sukukunnissansa; ja he asuivat Jerusalemissa.	</div>
 
-<div class="versenum">29.</div> Mutta Gibeonissa asui Gibeonin isa; ja hanen emantansa nimi oli Maeka.	
+<div class="theverse"><div class="versenum">29.</div> Mutta Gibeonissa asui Gibeonin isa; ja hanen emantansa nimi oli Maeka.	</div>
 
-<div class="versenum">30.</div> Ja hanen ensimainen poikansa oli Abdon, sitte oli Zur, Kis, Baal ja Nadab,	
+<div class="theverse"><div class="versenum">30.</div> Ja hanen ensimainen poikansa oli Abdon, sitte oli Zur, Kis, Baal ja Nadab,	</div>
 
-<div class="versenum">31.</div> Gedor, Ahio ja Seker.	
+<div class="theverse"><div class="versenum">31.</div> Gedor, Ahio ja Seker.	</div>
 
-<div class="versenum">32.</div> Mutta Miklot siitti Simean; ja he asuivat myos Jerusalemissa veljeinsa kohdalla heidan kanssansa.	
+<div class="theverse"><div class="versenum">32.</div> Mutta Miklot siitti Simean; ja he asuivat myos Jerusalemissa veljeinsa kohdalla heidan kanssansa.	</div>
 
-<div class="versenum">33.</div> Ner siitti Kisin; Kis siitti Saulin; Saul siitti Jonatanin, Malkisuan, Abinadabin ja Esbaalin.	
+<div class="theverse"><div class="versenum">33.</div> Ner siitti Kisin; Kis siitti Saulin; Saul siitti Jonatanin, Malkisuan, Abinadabin ja Esbaalin.	</div>
 
-<div class="versenum">34.</div> Jonatanin poika oli Meribbaal; Meribbaal siitti Miikan.	
+<div class="theverse"><div class="versenum">34.</div> Jonatanin poika oli Meribbaal; Meribbaal siitti Miikan.	</div>
 
-<div class="versenum">35.</div> Miikan lapset olivat: Piton, Melek, Taerea ja Ahas.	
+<div class="theverse"><div class="versenum">35.</div> Miikan lapset olivat: Piton, Melek, Taerea ja Ahas.	</div>
 
-<div class="versenum">36.</div> Ahas siitti Joaddan; Joadda siitti Alemetin, Asmavetin ja Simrin; Simri siitti Motsan.	
+<div class="theverse"><div class="versenum">36.</div> Ahas siitti Joaddan; Joadda siitti Alemetin, Asmavetin ja Simrin; Simri siitti Motsan.	</div>
 
-<div class="versenum">37.</div> Motsa siitti Binean; hanen poikansa oli Rapha, hanen poikansa Elasa, hanen poikansa Atsel.	
+<div class="theverse"><div class="versenum">37.</div> Motsa siitti Binean; hanen poikansa oli Rapha, hanen poikansa Elasa, hanen poikansa Atsel.	</div>
 
-<div class="versenum">38.</div> Mutta Atselilla oli kuusi poikaa, joiden nimet olivat: Esrikam, Bokru, Ismael, Searia, Obadia ja Hanan. Namat kaikki olivat Atselin pojat.	
+<div class="theverse"><div class="versenum">38.</div> Mutta Atselilla oli kuusi poikaa, joiden nimet olivat: Esrikam, Bokru, Ismael, Searia, Obadia ja Hanan. Namat kaikki olivat Atselin pojat.	</div>
 
-<div class="versenum">39.</div> Esekin hanen veljensa lapset: Ulam hanen ensimainen poikansa, Jeus toinen, Eliphelet kolmas.	
+<div class="theverse"><div class="versenum">39.</div> Esekin hanen veljensa lapset: Ulam hanen ensimainen poikansa, Jeus toinen, Eliphelet kolmas.	</div>
 
-<div class="versenum">40.</div> Mutta Ulamin lapset olivat vahvat miehet ja jalot joutsimiehet, ja heilla oli paljo poikia ja poikain poikia, sata ja viisikymmenta. Namat kaikki ovat Benjaminin lapsista.	
+<div class="theverse"><div class="versenum">40.</div> Mutta Ulamin lapset olivat vahvat miehet ja jalot joutsimiehet, ja heilla oli paljo poikia ja poikain poikia, sata ja viisikymmenta. Namat kaikki ovat Benjaminin lapsista.	</div>
 </body>
 </html>

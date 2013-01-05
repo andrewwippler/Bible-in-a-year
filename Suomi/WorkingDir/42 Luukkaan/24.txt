@@ -4,110 +4,110 @@
 </head>
 <body><div class="chaptertitle">Luukkaan 24	</div>
 	
-<div class="versenum">1.</div> Mutta ensimaisena sabbatin paivana, sangen varhain, tulivat he haudalle ja kantoivat hyvanhajuisia yrtteja, jotka he olivat valmistaneet, ja muutamat heidan kanssansa,	
+<div class="theverse"><div class="versenum">1.</div> Mutta ensimaisena sabbatin paivana, sangen varhain, tulivat he haudalle ja kantoivat hyvanhajuisia yrtteja, jotka he olivat valmistaneet, ja muutamat heidan kanssansa,	</div>
 
-<div class="versenum">2.</div> Niin he loysivat kiven haudalta vieritetyksi pois,	
+<div class="theverse"><div class="versenum">2.</div> Niin he loysivat kiven haudalta vieritetyksi pois,	</div>
 
-<div class="versenum">3.</div> Ja menivat siihen sisalle eika loytaneet Herran Jesuksen ruumista.	
+<div class="theverse"><div class="versenum">3.</div> Ja menivat siihen sisalle eika loytaneet Herran Jesuksen ruumista.	</div>
 
-<div class="versenum">4.</div> Ja tapahtui, kuin he siita epailivat, katso, kaksi miesta seisoi heidan tykonansa kiiltavissa vaatteissa.	
+<div class="theverse"><div class="versenum">4.</div> Ja tapahtui, kuin he siita epailivat, katso, kaksi miesta seisoi heidan tykonansa kiiltavissa vaatteissa.	</div>
 
-<div class="versenum">5.</div> Niin he peljastyivat ja loivat kasvonsa maata pain. He sanoivat heille: miksi te elavaa kuolleiden seassa etsitte?	
+<div class="theverse"><div class="versenum">5.</div> Niin he peljastyivat ja loivat kasvonsa maata pain. He sanoivat heille: miksi te elavaa kuolleiden seassa etsitte?	</div>
 
-<div class="versenum">6.</div> Ei han ole taalla, mutta nousi ylos; muistakaat, kuinka han teille sanoi, kuin han viela Galileassa oli,	
+<div class="theverse"><div class="versenum">6.</div> Ei han ole taalla, mutta nousi ylos; muistakaat, kuinka han teille sanoi, kuin han viela Galileassa oli,	</div>
 
-<div class="versenum">7.</div> Sanoen: Ihmisen Poika pitaa annettaman ylon syntisten ihmisten kasiin, ja ristiinnaulittaman, ja kolmantena paivana nouseman ylos.	
+<div class="theverse"><div class="versenum">7.</div> Sanoen: Ihmisen Poika pitaa annettaman ylon syntisten ihmisten kasiin, ja ristiinnaulittaman, ja kolmantena paivana nouseman ylos.	</div>
 
-<div class="versenum">8.</div> Ja he muistivat hanen sanansa,	
+<div class="theverse"><div class="versenum">8.</div> Ja he muistivat hanen sanansa,	</div>
 
-<div class="versenum">9.</div> Ja palasivat jalleen haudalta ja ilmoittivat kaikki namat yhdelletoistakymmenelle ja kaikille muille.	
+<div class="theverse"><div class="versenum">9.</div> Ja palasivat jalleen haudalta ja ilmoittivat kaikki namat yhdelletoistakymmenelle ja kaikille muille.	</div>
 
-<div class="versenum">10.</div> Ja ne olivat Maria Magdalena ja Johanna ja Maria, Jakobin aiti,ja muita heidan kanssansa, jotka naita apostoleille ilmoittivat.	
+<div class="theverse"><div class="versenum">10.</div> Ja ne olivat Maria Magdalena ja Johanna ja Maria, Jakobin aiti,ja muita heidan kanssansa, jotka naita apostoleille ilmoittivat.	</div>
 
-<div class="versenum">11.</div> Ja heidan puheensa nakyi heille houraukseksi, eika he uskoneet heita.	
+<div class="theverse"><div class="versenum">11.</div> Ja heidan puheensa nakyi heille houraukseksi, eika he uskoneet heita.	</div>
 
-<div class="versenum">12.</div> Mutta Pietari nousi ja juoksi haudalle, ja kuin han kurkisti sisalle, naki han ainoasti liinavaatteet pantuna, ja meni pois ihmetellen itsellansa sita, mika tapahtunut oli.	
+<div class="theverse"><div class="versenum">12.</div> Mutta Pietari nousi ja juoksi haudalle, ja kuin han kurkisti sisalle, naki han ainoasti liinavaatteet pantuna, ja meni pois ihmetellen itsellansa sita, mika tapahtunut oli.	</div>
 
-<div class="versenum">13.</div> Ja katso, kaksi heista meni sina paivana yhteen kylaan, joka oli Jerusalemista kuudenkymmenen vakomitan paassa, Emaus nimelta,	
+<div class="theverse"><div class="versenum">13.</div> Ja katso, kaksi heista meni sina paivana yhteen kylaan, joka oli Jerusalemista kuudenkymmenen vakomitan paassa, Emaus nimelta,	</div>
 
-<div class="versenum">14.</div> Ja puhuivat keskenansa kaikista niista, mitka tapahtunut oli.	
+<div class="theverse"><div class="versenum">14.</div> Ja puhuivat keskenansa kaikista niista, mitka tapahtunut oli.	</div>
 
-<div class="versenum">15.</div> Ja tapahtui heidan puhuissansa ja tutkistellessansa keskenansa, etta Jesus itse heita lahestyi ja matkusti heidan kanssansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja tapahtui heidan puhuissansa ja tutkistellessansa keskenansa, etta Jesus itse heita lahestyi ja matkusti heidan kanssansa.	</div>
 
-<div class="versenum">16.</div> Mutta heidan silmansa pidettiin, ettei he hanta tunteneet.	
+<div class="theverse"><div class="versenum">16.</div> Mutta heidan silmansa pidettiin, ettei he hanta tunteneet.	</div>
 
-<div class="versenum">17.</div> Niin han sanoi heille: mitka puheet ne ovat, joita te pidatte keskenanne kaydessanne, ja olette murheelliset?	
+<div class="theverse"><div class="versenum">17.</div> Niin han sanoi heille: mitka puheet ne ovat, joita te pidatte keskenanne kaydessanne, ja olette murheelliset?	</div>
 
-<div class="versenum">18.</div> Niin vastasi yksi, Kleopas nimelta, ja sanoi hanelle: oletkos ainoa muukalainen Jerusalemissa, joka et tieda, mita siella naina paivina tapahtui?	
+<div class="theverse"><div class="versenum">18.</div> Niin vastasi yksi, Kleopas nimelta, ja sanoi hanelle: oletkos ainoa muukalainen Jerusalemissa, joka et tieda, mita siella naina paivina tapahtui?	</div>
 
-<div class="versenum">19.</div> Ja han sanoi heille: mita? He sanoivat hanelle: Jesuksesta Natsarealaisesta, joka oli vakeva propheta toissa ja sanoissa, Jumalan ja kaiken kansan edessa.	
+<div class="theverse"><div class="versenum">19.</div> Ja han sanoi heille: mita? He sanoivat hanelle: Jesuksesta Natsarealaisesta, joka oli vakeva propheta toissa ja sanoissa, Jumalan ja kaiken kansan edessa.	</div>
 
-<div class="versenum">20.</div> Kuinka meidan ylimmaiset papit ja paamiehet antoivat ylon hanen kuoleman kadotukseen, ja ristiinnaulitsivat hanen.	
+<div class="theverse"><div class="versenum">20.</div> Kuinka meidan ylimmaiset papit ja paamiehet antoivat ylon hanen kuoleman kadotukseen, ja ristiinnaulitsivat hanen.	</div>
 
-<div class="versenum">21.</div> Mutta me luulimme hanen siksi, joka Israelin piti lunastaman. Ja paitsi kaikkia naita on jo kolmas paiva tanapana, kuin namat tapahtuivat.	
+<div class="theverse"><div class="versenum">21.</div> Mutta me luulimme hanen siksi, joka Israelin piti lunastaman. Ja paitsi kaikkia naita on jo kolmas paiva tanapana, kuin namat tapahtuivat.	</div>
 
-<div class="versenum">22.</div> Mutta myos muutamat vaimot meista ovat meita peljattaneet, jotka varhain aamulla tulivat haudalle,	
+<div class="theverse"><div class="versenum">22.</div> Mutta myos muutamat vaimot meista ovat meita peljattaneet, jotka varhain aamulla tulivat haudalle,	</div>
 
-<div class="versenum">23.</div> Ja kuin ei loytaneet hanen ruumistansa, tulivat he ja sanoivat, etta he enkeleinkin nayn nahneet olivat, jotka sanoivat hanen elavan.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuin ei loytaneet hanen ruumistansa, tulivat he ja sanoivat, etta he enkeleinkin nayn nahneet olivat, jotka sanoivat hanen elavan.	</div>
 
-<div class="versenum">24.</div> Ja muutamat niista, jotka meidan kanssamme olivat, menivat haudalle ja loysivat niinkuin vaimot olivat sanoneet; mutta ei he hanta nahneet.	
+<div class="theverse"><div class="versenum">24.</div> Ja muutamat niista, jotka meidan kanssamme olivat, menivat haudalle ja loysivat niinkuin vaimot olivat sanoneet; mutta ei he hanta nahneet.	</div>
 
-<div class="versenum">25.</div> Ja han sanoi heille: oi te tomppelit ja hitaan sydamesta uskomaan niita kaikkia, mita prophetat puhuneet ovat!	
+<div class="theverse"><div class="versenum">25.</div> Ja han sanoi heille: oi te tomppelit ja hitaan sydamesta uskomaan niita kaikkia, mita prophetat puhuneet ovat!	</div>
 
-<div class="versenum">26.</div> Eiko Kristuksen pitanyt naita karsiman ja kunniaansa kayman sisalle?	
+<div class="theverse"><div class="versenum">26.</div> Eiko Kristuksen pitanyt naita karsiman ja kunniaansa kayman sisalle?	</div>
 
-<div class="versenum">27.</div> Ja han rupesi Moseksesta ja kaikista prophetaista, ja selitti heille kirjoitukset, jotka hanesta olivat.	
+<div class="theverse"><div class="versenum">27.</div> Ja han rupesi Moseksesta ja kaikista prophetaista, ja selitti heille kirjoitukset, jotka hanesta olivat.	</div>
 
-<div class="versenum">28.</div> Ja he lahestyivat kylaa, johonka he menivat, ja han teetteli itsensa edemma kaymaan.	
+<div class="theverse"><div class="versenum">28.</div> Ja he lahestyivat kylaa, johonka he menivat, ja han teetteli itsensa edemma kaymaan.	</div>
 
-<div class="versenum">29.</div> Ja he vaativat hanta, sanoen: ole meidan kanssamme, silla ehtoo joutuu ja paiva on laskenut; ja han meni olemaan heidan kanssansa.	
+<div class="theverse"><div class="versenum">29.</div> Ja he vaativat hanta, sanoen: ole meidan kanssamme, silla ehtoo joutuu ja paiva on laskenut; ja han meni olemaan heidan kanssansa.	</div>
 
-<div class="versenum">30.</div> Ja tapahtui, kuin han atrioitsi heidan kanssansa, otti han leivan, kiitti, mursi ja antoi heille.	
+<div class="theverse"><div class="versenum">30.</div> Ja tapahtui, kuin han atrioitsi heidan kanssansa, otti han leivan, kiitti, mursi ja antoi heille.	</div>
 
-<div class="versenum">31.</div> Niin heidan silmansa aukenivat ja he tunsivat hanen. Ja han katosi heidan edestansa.	
+<div class="theverse"><div class="versenum">31.</div> Niin heidan silmansa aukenivat ja he tunsivat hanen. Ja han katosi heidan edestansa.	</div>
 
-<div class="versenum">32.</div> Ja he sanoivat keskenansa: eiko meidan sydamemme meissa palanut, kuin han tiella meita puhutteli ja selitti meille kirjoitukset?	
+<div class="theverse"><div class="versenum">32.</div> Ja he sanoivat keskenansa: eiko meidan sydamemme meissa palanut, kuin han tiella meita puhutteli ja selitti meille kirjoitukset?	</div>
 
-<div class="versenum">33.</div> Ja he nousivat silla hetkella ja palasivat Jerusalemiin, ja loysivat ne yksitoistakymmenta koossa ja ne, jotka niiden kanssa olivat,	
+<div class="theverse"><div class="versenum">33.</div> Ja he nousivat silla hetkella ja palasivat Jerusalemiin, ja loysivat ne yksitoistakymmenta koossa ja ne, jotka niiden kanssa olivat,	</div>
 
-<div class="versenum">34.</div> Jotka sanoivat: Herra on totisesti noussut ylos ja ilmaantui Simonille.	
+<div class="theverse"><div class="versenum">34.</div> Jotka sanoivat: Herra on totisesti noussut ylos ja ilmaantui Simonille.	</div>
 
-<div class="versenum">35.</div> Ja he juttelivat heille, mita tiella tapahtunut oli, ja kuinka han heilta oli tuttu leivan murtamisessa.	
+<div class="theverse"><div class="versenum">35.</div> Ja he juttelivat heille, mita tiella tapahtunut oli, ja kuinka han heilta oli tuttu leivan murtamisessa.	</div>
 
-<div class="versenum">36.</div> Mutta kuin he naita puhuivat, seisoi itse Jesus heidan keskellansa ja sanoi heille: rauha olkoon teille!	
+<div class="theverse"><div class="versenum">36.</div> Mutta kuin he naita puhuivat, seisoi itse Jesus heidan keskellansa ja sanoi heille: rauha olkoon teille!	</div>
 
-<div class="versenum">37.</div> Niin he hammastyivat ja peljastyivat, ja luulivat nakevansa hengen.	
+<div class="theverse"><div class="versenum">37.</div> Niin he hammastyivat ja peljastyivat, ja luulivat nakevansa hengen.	</div>
 
-<div class="versenum">38.</div> Ja han sanoi heille: mita te pelkaatte? ja miksi senkaltaiset ajatukset tulevat sydameenne?	
+<div class="theverse"><div class="versenum">38.</div> Ja han sanoi heille: mita te pelkaatte? ja miksi senkaltaiset ajatukset tulevat sydameenne?	</div>
 
-<div class="versenum">39.</div> Katsokaat kasiani ja jalkojani, etta mina itse olen: ruvetkaat minuun ja katsokaat; silla ei hengella ole lihaa eika luita, niinkuin naette minulla olevan.	
+<div class="theverse"><div class="versenum">39.</div> Katsokaat kasiani ja jalkojani, etta mina itse olen: ruvetkaat minuun ja katsokaat; silla ei hengella ole lihaa eika luita, niinkuin naette minulla olevan.	</div>
 
-<div class="versenum">40.</div> Ja kuin han namat sanonut oli, osoitti han heille katensa ja jalkansa.	
+<div class="theverse"><div class="versenum">40.</div> Ja kuin han namat sanonut oli, osoitti han heille katensa ja jalkansa.	</div>
 
-<div class="versenum">41.</div> Mutta koska ei he viela uskoneet ilon tahden, vaan ihmettelivat, sanoi han heille: onko teilla tassa mitaan syotavaa?	
+<div class="theverse"><div class="versenum">41.</div> Mutta koska ei he viela uskoneet ilon tahden, vaan ihmettelivat, sanoi han heille: onko teilla tassa mitaan syotavaa?	</div>
 
-<div class="versenum">42.</div> Niin he panivat hanen eteensa kappaleen paistettua kalaa ja vahan kimalaisen hunajaa.	
+<div class="theverse"><div class="versenum">42.</div> Niin he panivat hanen eteensa kappaleen paistettua kalaa ja vahan kimalaisen hunajaa.	</div>
 
-<div class="versenum">43.</div> Ja han otti sen ja soi heidan nahtensa.	
+<div class="theverse"><div class="versenum">43.</div> Ja han otti sen ja soi heidan nahtensa.	</div>
 
-<div class="versenum">44.</div> Niin han sanoi heille: namat ovat ne sanat, jotka mina puhuin teille, kuin mina viela tiedan kanssanne olin; silla kaikki pitaa taytettaman, mita kirjoitettu on Moseksen laissa ja prophetaissa ja psalmeissa minusta.	
+<div class="theverse"><div class="versenum">44.</div> Niin han sanoi heille: namat ovat ne sanat, jotka mina puhuin teille, kuin mina viela tiedan kanssanne olin; silla kaikki pitaa taytettaman, mita kirjoitettu on Moseksen laissa ja prophetaissa ja psalmeissa minusta.	</div>
 
-<div class="versenum">45.</div> Silloin han avasi heidan ymmarryksensa, kirjoituksia ymmartamaan,	
+<div class="theverse"><div class="versenum">45.</div> Silloin han avasi heidan ymmarryksensa, kirjoituksia ymmartamaan,	</div>
 
-<div class="versenum">46.</div> Ja sanoi heille: niin on kirjoitettu, ja niin tuli Kristuksen karsia ja nousta kuolleista kolmantena paivana,	
+<div class="theverse"><div class="versenum">46.</div> Ja sanoi heille: niin on kirjoitettu, ja niin tuli Kristuksen karsia ja nousta kuolleista kolmantena paivana,	</div>
 
-<div class="versenum">47.</div> Ja saarnattaman hanen nimeensa parannusta ja syntein anteeksi antamusta kaikissa kansoissa, ruveten Jerusalemista.	
+<div class="theverse"><div class="versenum">47.</div> Ja saarnattaman hanen nimeensa parannusta ja syntein anteeksi antamusta kaikissa kansoissa, ruveten Jerusalemista.	</div>
 
-<div class="versenum">48.</div> Mutta te olette naiden todistajat.	
+<div class="theverse"><div class="versenum">48.</div> Mutta te olette naiden todistajat.	</div>
 
-<div class="versenum">49.</div> Ja katso, mina lahetan minun Isani lupauksen teidan paallenne. Mutta te olkaat Jerusalemissa siihenasti kuin te puetetaan voimalla korkeudesta.	
+<div class="theverse"><div class="versenum">49.</div> Ja katso, mina lahetan minun Isani lupauksen teidan paallenne. Mutta te olkaat Jerusalemissa siihenasti kuin te puetetaan voimalla korkeudesta.	</div>
 
-<div class="versenum">50.</div> Niin han vei heidat ulos hamaan Betaniaan, ja nosti katensa ja siunasi heita.	
+<div class="theverse"><div class="versenum">50.</div> Niin han vei heidat ulos hamaan Betaniaan, ja nosti katensa ja siunasi heita.	</div>
 
-<div class="versenum">51.</div> Ja tapahtui, kuin han heita siunannut oli, erkani han heista ja meni ylos taivaasen.	
+<div class="theverse"><div class="versenum">51.</div> Ja tapahtui, kuin han heita siunannut oli, erkani han heista ja meni ylos taivaasen.	</div>
 
-<div class="versenum">52.</div> Mutta kuin he hanta kumartaneet ja rukoilleet olivat, palasivat he Jerusalemiin suurella ilolla,	
+<div class="theverse"><div class="versenum">52.</div> Mutta kuin he hanta kumartaneet ja rukoilleet olivat, palasivat he Jerusalemiin suurella ilolla,	</div>
 
-<div class="versenum">53.</div> Ja olivat aina templissa, kiittivat ja kunnioittivat Jumalaa. Amen!	
+<div class="theverse"><div class="versenum">53.</div> Ja olivat aina templissa, kiittivat ja kunnioittivat Jumalaa. Amen!	</div>
 </body>
 </html>

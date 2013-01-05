@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 9	</div>
 	
-<div class="versenum">1.</div> Ja tapahtui kahdeksantena paivana, etta Moses kutsui Aaronin ja hanen poikansa, niin myos vanhimmat Israelista.	
+<div class="theverse"><div class="versenum">1.</div> Ja tapahtui kahdeksantena paivana, etta Moses kutsui Aaronin ja hanen poikansa, niin myos vanhimmat Israelista.	</div>
 
-<div class="versenum">2.</div> Ja sanoi Aaronille: ota sinulles nuori vasikka rikosuhriksi, ja oinas polttouhriksi, molemmat virheettomat, ja tuo Herran eteen.	
+<div class="theverse"><div class="versenum">2.</div> Ja sanoi Aaronille: ota sinulles nuori vasikka rikosuhriksi, ja oinas polttouhriksi, molemmat virheettomat, ja tuo Herran eteen.	</div>
 
-<div class="versenum">3.</div> Ja puhu Israelin lapsille, sanoen: ottakaat kauris rikosuhriksi, ja vasikka ja karitsa, molemmat vuosikuntaiset ja virheettomat, polttouhriksi.	
+<div class="theverse"><div class="versenum">3.</div> Ja puhu Israelin lapsille, sanoen: ottakaat kauris rikosuhriksi, ja vasikka ja karitsa, molemmat vuosikuntaiset ja virheettomat, polttouhriksi.	</div>
 
-<div class="versenum">4.</div> Ja myos harka ja oinas uhrattaa kiitosuhriksi Herran edessa, ja ruokauhri sekoitettu oljylla; silla tanapana ilmestyy Herra teille.	
+<div class="theverse"><div class="versenum">4.</div> Ja myos harka ja oinas uhrattaa kiitosuhriksi Herran edessa, ja ruokauhri sekoitettu oljylla; silla tanapana ilmestyy Herra teille.	</div>
 
-<div class="versenum">5.</div> Ja he toivat ne kuin Moses kaskenyt oli, seurakunnan majan oven eteen: ja kaikki kansa kavi edes, ja seisoi Herran edessa.	
+<div class="theverse"><div class="versenum">5.</div> Ja he toivat ne kuin Moses kaskenyt oli, seurakunnan majan oven eteen: ja kaikki kansa kavi edes, ja seisoi Herran edessa.	</div>
 
-<div class="versenum">6.</div> Niin sanoi Moses: tama on se, minka Herra kaskenyt on teidan tehda, ja Herran kunnia ilmestyy teille.	
+<div class="theverse"><div class="versenum">6.</div> Niin sanoi Moses: tama on se, minka Herra kaskenyt on teidan tehda, ja Herran kunnia ilmestyy teille.	</div>
 
-<div class="versenum">7.</div> Ja Moses sanoi Aaronille: astu alttarin tyko, ja tee rikosuhris, ja poltouhris ja sovita sinuas ja kansaa, ja tee sitte kansan uhri ja sovita heita, niinkuin Herra kaskenyt on.	
+<div class="theverse"><div class="versenum">7.</div> Ja Moses sanoi Aaronille: astu alttarin tyko, ja tee rikosuhris, ja poltouhris ja sovita sinuas ja kansaa, ja tee sitte kansan uhri ja sovita heita, niinkuin Herra kaskenyt on.	</div>
 
-<div class="versenum">8.</div> Ja Aaron astui alttarin tyko ja teurasti vasikan rikosuhriksensa.	
+<div class="theverse"><div class="versenum">8.</div> Ja Aaron astui alttarin tyko ja teurasti vasikan rikosuhriksensa.	</div>
 
-<div class="versenum">9.</div> Ja Aaronin pojat kantoivat veren hanen tykonsa, ja han kasti sormensa vereen, ja sivui alttarin sarviin, ja veren kaasi han alttarin pohjalle.	
+<div class="theverse"><div class="versenum">9.</div> Ja Aaronin pojat kantoivat veren hanen tykonsa, ja han kasti sormensa vereen, ja sivui alttarin sarviin, ja veren kaasi han alttarin pohjalle.	</div>
 
-<div class="versenum">10.</div> Ja lihavuuden, ja munaskuut, ja maksan kalvon rikosuhrista, poltti han alttarilla, niinkuin Herra oli Mosekselle kaskenyt.	
+<div class="theverse"><div class="versenum">10.</div> Ja lihavuuden, ja munaskuut, ja maksan kalvon rikosuhrista, poltti han alttarilla, niinkuin Herra oli Mosekselle kaskenyt.	</div>
 
-<div class="versenum">11.</div> Mutta lihan ja nahan poltti han tulessa ulkona leirista.	
+<div class="theverse"><div class="versenum">11.</div> Mutta lihan ja nahan poltti han tulessa ulkona leirista.	</div>
 
-<div class="versenum">12.</div> Sitte han teurasti polttouhrin, ja Aaronin pojat kantoivat veren hanen tykonsa, ja han priiskotti sen alttarille ympari.	
+<div class="theverse"><div class="versenum">12.</div> Sitte han teurasti polttouhrin, ja Aaronin pojat kantoivat veren hanen tykonsa, ja han priiskotti sen alttarille ympari.	</div>
 
-<div class="versenum">13.</div> Ja he toivat myos polttouhrin hanelle, kappaleiksi leikatun, ja paan, ja han poltti ne alttarilla.	
+<div class="theverse"><div class="versenum">13.</div> Ja he toivat myos polttouhrin hanelle, kappaleiksi leikatun, ja paan, ja han poltti ne alttarilla.	</div>
 
-<div class="versenum">14.</div> Ja han pesi sisallykset ja jalat, ja poltti ne polttouhrin paalla, alttarilla.	
+<div class="theverse"><div class="versenum">14.</div> Ja han pesi sisallykset ja jalat, ja poltti ne polttouhrin paalla, alttarilla.	</div>
 
-<div class="versenum">15.</div> Sitte kantoi han kansan uhrin edes, ja otti kauriin, joka oli kansan rikosuhri, ja teurasti sen, ja teki siita rikosuhrin, niinkuin sen entisenkin.	
+<div class="theverse"><div class="versenum">15.</div> Sitte kantoi han kansan uhrin edes, ja otti kauriin, joka oli kansan rikosuhri, ja teurasti sen, ja teki siita rikosuhrin, niinkuin sen entisenkin.	</div>
 
-<div class="versenum">16.</div> Ja han toi myos polttouhrin, ja valmisti sen tavan jalkeen.	
+<div class="theverse"><div class="versenum">16.</div> Ja han toi myos polttouhrin, ja valmisti sen tavan jalkeen.	</div>
 
-<div class="versenum">17.</div> Ja toi ruokauhrin, ja otti siita pivonsa tayden, ja poltti ne alttarilla, paitsi aamullista polttouhria.	
+<div class="theverse"><div class="versenum">17.</div> Ja toi ruokauhrin, ja otti siita pivonsa tayden, ja poltti ne alttarilla, paitsi aamullista polttouhria.	</div>
 
-<div class="versenum">18.</div> Sitte teurasti han harjan ja oinaan kansan kiitosuhriksi, ja Aaronin pojat kantoivat veren hanelle, ja han priiskotti sen alttarin ympari.	
+<div class="theverse"><div class="versenum">18.</div> Sitte teurasti han harjan ja oinaan kansan kiitosuhriksi, ja Aaronin pojat kantoivat veren hanelle, ja han priiskotti sen alttarin ympari.	</div>
 
-<div class="versenum">19.</div> Mutta harjan lihavuuden, ja oinaan saparon, ja sisallysten lihavuuden, ja munaskuut, ja maksan kalvon:	
+<div class="theverse"><div class="versenum">19.</div> Mutta harjan lihavuuden, ja oinaan saparon, ja sisallysten lihavuuden, ja munaskuut, ja maksan kalvon:	</div>
 
-<div class="versenum">20.</div> Kaiken taman lihavuuden panivat he rintain paalle, ja polttivat lihavuuden alttarilla.	
+<div class="theverse"><div class="versenum">20.</div> Kaiken taman lihavuuden panivat he rintain paalle, ja polttivat lihavuuden alttarilla.	</div>
 
-<div class="versenum">21.</div> Mutta rinnat ja oikian lavan haalytti Aaron haalytykseksi Herran edessa, niinkuin Herra oli kaskenyt Mosekselle.	
+<div class="theverse"><div class="versenum">21.</div> Mutta rinnat ja oikian lavan haalytti Aaron haalytykseksi Herran edessa, niinkuin Herra oli kaskenyt Mosekselle.	</div>
 
-<div class="versenum">22.</div> Ja Aaron nosti katensa kansan puoleen, ja siunasi heita: ja sittekuin han rikosuhrin, polttouhrin ja kiitosuhrin tehnyt oli, meni han alas.	
+<div class="theverse"><div class="versenum">22.</div> Ja Aaron nosti katensa kansan puoleen, ja siunasi heita: ja sittekuin han rikosuhrin, polttouhrin ja kiitosuhrin tehnyt oli, meni han alas.	</div>
 
-<div class="versenum">23.</div> Niin Moses ja Aaron menivat seurakunnan majaan, ja koska he jalleen sielta laksivat, siunasivat he kansan. Niin Herran kunnia ilmestyi kaiken kansan edessa:	
+<div class="theverse"><div class="versenum">23.</div> Niin Moses ja Aaron menivat seurakunnan majaan, ja koska he jalleen sielta laksivat, siunasivat he kansan. Niin Herran kunnia ilmestyi kaiken kansan edessa:	</div>
 
-<div class="versenum">24.</div> Silla tuli tuli Herralta alas, ja kulutti polttouhrin, ja sen lihavuuden, alttarilta: ja koska kaikki kansa sen naki, riemuitsivat he sangen suuresti, ja lankesivat maahan kasvoillensa.	
+<div class="theverse"><div class="versenum">24.</div> Silla tuli tuli Herralta alas, ja kulutti polttouhrin, ja sen lihavuuden, alttarilta: ja koska kaikki kansa sen naki, riemuitsivat he sangen suuresti, ja lankesivat maahan kasvoillensa.	</div>
 </body>
 </html>

@@ -4,84 +4,84 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 12	</div>
 	
-<div class="versenum">1.</div> Namat tulivat Davidin tyko Ziklagiin, kuin han viela oli suljettu Saulin Kisin pojan edesta; ja he olivat myos sankarein seassa, jotka sotaan auttivat,	
+<div class="theverse"><div class="versenum">1.</div> Namat tulivat Davidin tyko Ziklagiin, kuin han viela oli suljettu Saulin Kisin pojan edesta; ja he olivat myos sankarein seassa, jotka sotaan auttivat,	</div>
 
-<div class="versenum">2.</div> Ja olivat soveliaat ampujat joutsella molemmin kasin, kivilla, nuolilla ja joutsilla: Saulin veljista, BenJaminista:	
+<div class="theverse"><div class="versenum">2.</div> Ja olivat soveliaat ampujat joutsella molemmin kasin, kivilla, nuolilla ja joutsilla: Saulin veljista, BenJaminista:	</div>
 
-<div class="versenum">3.</div> Ahieser paamies ja Joas, Semajan Gibealaisen pojat, Jesiel ja Pelet Asmavetin pojat, Baraka ja Jehu Antonilainen,	
+<div class="theverse"><div class="versenum">3.</div> Ahieser paamies ja Joas, Semajan Gibealaisen pojat, Jesiel ja Pelet Asmavetin pojat, Baraka ja Jehu Antonilainen,	</div>
 
-<div class="versenum">4.</div> Jesmaja Gibeonilainen, vakeva kolmenkymmenen seassa ja ylitse kolmenkymmenen, Jeremia, Jahesiel, Johanan ja Josabad Gederalainen,	
+<div class="theverse"><div class="versenum">4.</div> Jesmaja Gibeonilainen, vakeva kolmenkymmenen seassa ja ylitse kolmenkymmenen, Jeremia, Jahesiel, Johanan ja Josabad Gederalainen,	</div>
 
-<div class="versenum">5.</div> Elusai, Jerimot, Bealia, Semaria ja Saphatia Harophilainen,	
+<div class="theverse"><div class="versenum">5.</div> Elusai, Jerimot, Bealia, Semaria ja Saphatia Harophilainen,	</div>
 
-<div class="versenum">6.</div> Elkana, Jesija, Asareel, Joeser ja Jasobeam Korhilainen,	
+<div class="theverse"><div class="versenum">6.</div> Elkana, Jesija, Asareel, Joeser ja Jasobeam Korhilainen,	</div>
 
-<div class="versenum">7.</div> Joela ja Sedadia Jerohamin lapset Gedorista.	
+<div class="theverse"><div class="versenum">7.</div> Joela ja Sedadia Jerohamin lapset Gedorista.	</div>
 
-<div class="versenum">8.</div> Gadilaisista eroittivat heitansa Davidin tyko linnaan korvessa vakevat sankarit ja sotamiehet, jotka kilpea ja keihasta kantoivat; ja heidan kasvonsa olivat niinkuin jalopeuran kasvot, ja nopiat niinkuin metsavuohet vuorilla:	
+<div class="theverse"><div class="versenum">8.</div> Gadilaisista eroittivat heitansa Davidin tyko linnaan korvessa vakevat sankarit ja sotamiehet, jotka kilpea ja keihasta kantoivat; ja heidan kasvonsa olivat niinkuin jalopeuran kasvot, ja nopiat niinkuin metsavuohet vuorilla:	</div>
 
-<div class="versenum">9.</div> Ensimainen Eser, toinen Obadia, kolmas Eliab,	
+<div class="theverse"><div class="versenum">9.</div> Ensimainen Eser, toinen Obadia, kolmas Eliab,	</div>
 
-<div class="versenum">10.</div> Neljas Mismanna, viides Jeremia,	
+<div class="theverse"><div class="versenum">10.</div> Neljas Mismanna, viides Jeremia,	</div>
 
-<div class="versenum">11.</div> Kuudes Attai, seitsemas Eliel,	
+<div class="theverse"><div class="versenum">11.</div> Kuudes Attai, seitsemas Eliel,	</div>
 
-<div class="versenum">12.</div> Kahdeksas Johanan, ykdeksas Elsabad,	
+<div class="theverse"><div class="versenum">12.</div> Kahdeksas Johanan, ykdeksas Elsabad,	</div>
 
-<div class="versenum">13.</div> Kymmenes Jeremia, yksitoistakymmenes Mahbanai.	
+<div class="theverse"><div class="versenum">13.</div> Kymmenes Jeremia, yksitoistakymmenes Mahbanai.	</div>
 
-<div class="versenum">14.</div> Namat olivat Gadin lapsista sodan paamiehet: vahin sadan paalle ja suurin tuhannen paalle.	
+<div class="theverse"><div class="versenum">14.</div> Namat olivat Gadin lapsista sodan paamiehet: vahin sadan paalle ja suurin tuhannen paalle.	</div>
 
-<div class="versenum">15.</div> Namat ovat ne jotka menivat Jordanin ylitse ensimaisena kuuna, kuin se oli taysi kaikkiin reunoihinsa asti; ja he ajoivat pakoon kaikki, jotka asuivat laaksossa, itaan ja lanteen pain.	
+<div class="theverse"><div class="versenum">15.</div> Namat ovat ne jotka menivat Jordanin ylitse ensimaisena kuuna, kuin se oli taysi kaikkiin reunoihinsa asti; ja he ajoivat pakoon kaikki, jotka asuivat laaksossa, itaan ja lanteen pain.	</div>
 
-<div class="versenum">16.</div> Ja sinne myos tulivat BenJaminin lapsista ja Juudasta, Davidin tyko linnaan.	
+<div class="theverse"><div class="versenum">16.</div> Ja sinne myos tulivat BenJaminin lapsista ja Juudasta, Davidin tyko linnaan.	</div>
 
-<div class="versenum">17.</div> Ja David meni ulos heidan tykonsa, ja vastasi ja sanoi heille: jos tulitte rauhan kanssa minun tykoni auttamaan minua, niin olkoon sydameni teidan kanssanne: vaan jos tulitte pettamaan minua vihollisilleni, vaikka ei vaaryytta ole minussa, niin meidan isaimme Jumala nahkoon ja rangaiskoon;	
+<div class="theverse"><div class="versenum">17.</div> Ja David meni ulos heidan tykonsa, ja vastasi ja sanoi heille: jos tulitte rauhan kanssa minun tykoni auttamaan minua, niin olkoon sydameni teidan kanssanne: vaan jos tulitte pettamaan minua vihollisilleni, vaikka ei vaaryytta ole minussa, niin meidan isaimme Jumala nahkoon ja rangaiskoon;	</div>
 
-<div class="versenum">18.</div> Ja henki vaikutti Amasain, paamiehen kolmenkymmenen seassa: Sinun me olemme, David, ja pidamme sinun kanssas, Isain poika, rauha, rauha olkoon sinulle, rauha olkoon sinun auttajilles! silla sinun Jumalas auttaa sinua. Niin otti David heidat tykonsa ja asetti heidat sotavaen paamiehiksi.	
+<div class="theverse"><div class="versenum">18.</div> Ja henki vaikutti Amasain, paamiehen kolmenkymmenen seassa: Sinun me olemme, David, ja pidamme sinun kanssas, Isain poika, rauha, rauha olkoon sinulle, rauha olkoon sinun auttajilles! silla sinun Jumalas auttaa sinua. Niin otti David heidat tykonsa ja asetti heidat sotavaen paamiehiksi.	</div>
 
-<div class="versenum">19.</div> Ja Manassesta tuli vakea Davidin puolelle, kuin han meni Philistealaisten kanssa Saulia vastaan sotaan, vaikka ei he auttaneet heita; silla Philistealaisten paamiehet antoivat neuvonpiteesta hanen tykoansa menna pois, ja sanoivat: jos han lankee herransa Saulin tyko, niin se tulee henkemme vaaraksi.	
+<div class="theverse"><div class="versenum">19.</div> Ja Manassesta tuli vakea Davidin puolelle, kuin han meni Philistealaisten kanssa Saulia vastaan sotaan, vaikka ei he auttaneet heita; silla Philistealaisten paamiehet antoivat neuvonpiteesta hanen tykoansa menna pois, ja sanoivat: jos han lankee herransa Saulin tyko, niin se tulee henkemme vaaraksi.	</div>
 
-<div class="versenum">20.</div> Kuin han meni Ziklagiin, tulivat hanen tykonsa Manassesta Adna, Josabad, Jediael, Mikael, Josabad, Elihu ja Ziltai, tuhanten paamiehet Manassesta.	
+<div class="theverse"><div class="versenum">20.</div> Kuin han meni Ziklagiin, tulivat hanen tykonsa Manassesta Adna, Josabad, Jediael, Mikael, Josabad, Elihu ja Ziltai, tuhanten paamiehet Manassesta.	</div>
 
-<div class="versenum">21.</div> Ja he auttivat Davidia sotajoukkoa vastaan; silla he olivat kaikki vakevat miehet ja olivat paamiehet sodassa.	
+<div class="theverse"><div class="versenum">21.</div> Ja he auttivat Davidia sotajoukkoa vastaan; silla he olivat kaikki vakevat miehet ja olivat paamiehet sodassa.	</div>
 
-<div class="versenum">22.</div> Ja joka paiva tuli muutamia Davidin tyko auttamaan hanta, siihenasti etta se tuli suureksi sotajoukoksi, niinkuin Jumalan sotajoukoksi.	
+<div class="theverse"><div class="versenum">22.</div> Ja joka paiva tuli muutamia Davidin tyko auttamaan hanta, siihenasti etta se tuli suureksi sotajoukoksi, niinkuin Jumalan sotajoukoksi.	</div>
 
-<div class="versenum">23.</div> Ja tama on sotaan hankittuin paamiesten luku, jotka tulivat Davidin tyko Hebroniin, kaantamaan Saulin valtakuntaa hanen tykonsa, Herran sanan jalkeen:	
+<div class="theverse"><div class="versenum">23.</div> Ja tama on sotaan hankittuin paamiesten luku, jotka tulivat Davidin tyko Hebroniin, kaantamaan Saulin valtakuntaa hanen tykonsa, Herran sanan jalkeen:	</div>
 
-<div class="versenum">24.</div> Juudan lapsista, jotka kantoivat kilpea ja keihasta, oli kuusituhatta ja kahdeksansataa sotaan hankittua;	
+<div class="theverse"><div class="versenum">24.</div> Juudan lapsista, jotka kantoivat kilpea ja keihasta, oli kuusituhatta ja kahdeksansataa sotaan hankittua;	</div>
 
-<div class="versenum">25.</div> Simeonin lapsista vakevat miehet sotimaan, seitsemantuhatta ja sata;	
+<div class="theverse"><div class="versenum">25.</div> Simeonin lapsista vakevat miehet sotimaan, seitsemantuhatta ja sata;	</div>
 
-<div class="versenum">26.</div> Levin lapsista neljatuhatta ja kuusisataa;	
+<div class="theverse"><div class="versenum">26.</div> Levin lapsista neljatuhatta ja kuusisataa;	</div>
 
-<div class="versenum">27.</div> Ja Jojada niiden paamies, jotka olivat Aaronista, ja hanen kanssansa oli kolmetuhatta ja seitsemansataa;	
+<div class="theverse"><div class="versenum">27.</div> Ja Jojada niiden paamies, jotka olivat Aaronista, ja hanen kanssansa oli kolmetuhatta ja seitsemansataa;	</div>
 
-<div class="versenum">28.</div> Ja Zadok vakeva nuorukainen, ja hanen isansa huoneen kanssa oli kaksikolmattakymmenta paamiesta;	
+<div class="theverse"><div class="versenum">28.</div> Ja Zadok vakeva nuorukainen, ja hanen isansa huoneen kanssa oli kaksikolmattakymmenta paamiesta;	</div>
 
-<div class="versenum">29.</div> Ja BenJaminin lapsista Saulin veljista kolmetuhatta; silla siihenasti piti heista sangen monta viela Saulin huoneen kanssa;	
+<div class="theverse"><div class="versenum">29.</div> Ja BenJaminin lapsista Saulin veljista kolmetuhatta; silla siihenasti piti heista sangen monta viela Saulin huoneen kanssa;	</div>
 
-<div class="versenum">30.</div> Ja Ephraimin lapsista kaksikymmenta tuhatta ja kahdeksansataa, vakevat ja ylistetyt miehet heidan isainsa huoneessa;	
+<div class="theverse"><div class="versenum">30.</div> Ja Ephraimin lapsista kaksikymmenta tuhatta ja kahdeksansataa, vakevat ja ylistetyt miehet heidan isainsa huoneessa;	</div>
 
-<div class="versenum">31.</div> Ja puolesta Manassen sukukunnasta kahdeksantoistakymmenta tuhatta, jotka olivat nimeltansa nimitetyt tulemaan ja tekemaan Davidia kuninkaaksi;	
+<div class="theverse"><div class="versenum">31.</div> Ja puolesta Manassen sukukunnasta kahdeksantoistakymmenta tuhatta, jotka olivat nimeltansa nimitetyt tulemaan ja tekemaan Davidia kuninkaaksi;	</div>
 
-<div class="versenum">32.</div> Ja Isaskarin lapsista, jotka olivat taitavat aikain tietajat ymmartamaan, mita Israelin tekeman piti, kaksisataa heidan paamiestansa, ja kaikki heidan veljensa tekivat heidan kaskynsa jalkeen;	
+<div class="theverse"><div class="versenum">32.</div> Ja Isaskarin lapsista, jotka olivat taitavat aikain tietajat ymmartamaan, mita Israelin tekeman piti, kaksisataa heidan paamiestansa, ja kaikki heidan veljensa tekivat heidan kaskynsa jalkeen;	</div>
 
-<div class="versenum">33.</div> Sebulonista, jotka menivat sotimaan, hankitut sotaan kaikkinaisilla sota-aseilla, viisikymmenta tuhatta, asettamaan itsensa yksimielisesti jarjestykseen;	
+<div class="theverse"><div class="versenum">33.</div> Sebulonista, jotka menivat sotimaan, hankitut sotaan kaikkinaisilla sota-aseilla, viisikymmenta tuhatta, asettamaan itsensa yksimielisesti jarjestykseen;	</div>
 
-<div class="versenum">34.</div> Naphtalista tuhannen paamiesta, ja seitsemanneljattakymmenta tuhatta heidan kanssansa, jotka kantoivat kilpea ja keihasta;	
+<div class="theverse"><div class="versenum">34.</div> Naphtalista tuhannen paamiesta, ja seitsemanneljattakymmenta tuhatta heidan kanssansa, jotka kantoivat kilpea ja keihasta;	</div>
 
-<div class="versenum">35.</div> Danista hankitsivat sotaan kahdeksankolmattakymmenta tuhatta ja kuusisataa;	
+<div class="theverse"><div class="versenum">35.</div> Danista hankitsivat sotaan kahdeksankolmattakymmenta tuhatta ja kuusisataa;	</div>
 
-<div class="versenum">36.</div> Asserista, jotka menivat hankittuina sotimaan, neljakymmenta tuhatta;	
+<div class="theverse"><div class="versenum">36.</div> Asserista, jotka menivat hankittuina sotimaan, neljakymmenta tuhatta;	</div>
 
-<div class="versenum">37.</div> Tuolta puolelta Jordania: Rubenilaisista, Gadilaisista ja puolesta Manassen sukukunnasta, kaikkinaisilla aseilla sotaan, sata ja kaksikymmenta tuhatta.	
+<div class="theverse"><div class="versenum">37.</div> Tuolta puolelta Jordania: Rubenilaisista, Gadilaisista ja puolesta Manassen sukukunnasta, kaikkinaisilla aseilla sotaan, sata ja kaksikymmenta tuhatta.	</div>
 
-<div class="versenum">38.</div> Kaikki namat sotamiehet sodan toimittajat tulivat taydesta sydamesta Hebroniin, tekemaan Davidia koko Israelin kuninkaaksi: niin myos kaikilla muilla Israelissa oli yksi mieli tehda Davidia Israelin kuninkaaksi.	
+<div class="theverse"><div class="versenum">38.</div> Kaikki namat sotamiehet sodan toimittajat tulivat taydesta sydamesta Hebroniin, tekemaan Davidia koko Israelin kuninkaaksi: niin myos kaikilla muilla Israelissa oli yksi mieli tehda Davidia Israelin kuninkaaksi.	</div>
 
-<div class="versenum">39.</div> Ja he olivat siella Davidin tykona kolme paivaa, soivat ja joivat; silla heidan veljensa olivat valmistaneet heidan eteensa.	
+<div class="theverse"><div class="versenum">39.</div> Ja he olivat siella Davidin tykona kolme paivaa, soivat ja joivat; silla heidan veljensa olivat valmistaneet heidan eteensa.	</div>
 
-<div class="versenum">40.</div> Ja ne myos, jotka likin olivat heidan ymparillansa Isaskariin, Sebuloniin ja Naphtaliin asti, he toivat leipia aaseilla, kameleilla, muuleilla ja harjilla, syotavia jauhoja, fikunoita, rusinoita, viinaa, oljya, harkia ja lampaita viljalta; silla ilo oli Israelissa.	
+<div class="theverse"><div class="versenum">40.</div> Ja ne myos, jotka likin olivat heidan ymparillansa Isaskariin, Sebuloniin ja Naphtaliin asti, he toivat leipia aaseilla, kameleilla, muuleilla ja harjilla, syotavia jauhoja, fikunoita, rusinoita, viinaa, oljya, harkia ja lampaita viljalta; silla ilo oli Israelissa.	</div>
 </body>
 </html>

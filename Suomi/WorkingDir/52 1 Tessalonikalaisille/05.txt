@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">1 Tessalonikalaisille 5	</div>
 	
-<div class="versenum">1.</div> Mutta ajoista ja hetkista, rakkaat veljet, ei teille tarvitse kirjoittaa;	
+<div class="theverse"><div class="versenum">1.</div> Mutta ajoista ja hetkista, rakkaat veljet, ei teille tarvitse kirjoittaa;	</div>
 
-<div class="versenum">2.</div> Silla te itse visusti tiedatte, etta Herran paiva on tuleva niinkuin varas yolla.	
+<div class="theverse"><div class="versenum">2.</div> Silla te itse visusti tiedatte, etta Herran paiva on tuleva niinkuin varas yolla.	</div>
 
-<div class="versenum">3.</div> Silla kuin he sanovat: nyt on rauha ja ei mitaan hataa, silloin kadotus lankee akisti heidan paallensa, niinkuin raskaan vaimon kipu, ja ei he suinkaan saa paeta.	
+<div class="theverse"><div class="versenum">3.</div> Silla kuin he sanovat: nyt on rauha ja ei mitaan hataa, silloin kadotus lankee akisti heidan paallensa, niinkuin raskaan vaimon kipu, ja ei he suinkaan saa paeta.	</div>
 
-<div class="versenum">4.</div> Mutta te, rakkaat veljet, ettepa te ole pimeydessa, ettei se paiva teita kasittaisi niinkuin varas.	
+<div class="theverse"><div class="versenum">4.</div> Mutta te, rakkaat veljet, ettepa te ole pimeydessa, ettei se paiva teita kasittaisi niinkuin varas.	</div>
 
-<div class="versenum">5.</div> Te olette kaikki valkeuden lapset ja paivan lapset: emme ole yon emmeka pimeyden.	
+<div class="theverse"><div class="versenum">5.</div> Te olette kaikki valkeuden lapset ja paivan lapset: emme ole yon emmeka pimeyden.	</div>
 
-<div class="versenum">6.</div> Niin alkaamme siis maatko niinkuin muut, vaan valvokaamme ja olkaamme raittiit.	
+<div class="theverse"><div class="versenum">6.</div> Niin alkaamme siis maatko niinkuin muut, vaan valvokaamme ja olkaamme raittiit.	</div>
 
-<div class="versenum">7.</div> Silla jotka makaavat, ne yolla makaavat, ja ne, jotka juopuvat, ne yolla juovuksissa ovat.	
+<div class="theverse"><div class="versenum">7.</div> Silla jotka makaavat, ne yolla makaavat, ja ne, jotka juopuvat, ne yolla juovuksissa ovat.	</div>
 
-<div class="versenum">8.</div> Mutta me, jotka paivan lapset olemme, olkaamme raittiit, puetut uskon ja rakkauden rintaraudalla ja autuuden toivon rautalakilla.	
+<div class="theverse"><div class="versenum">8.</div> Mutta me, jotka paivan lapset olemme, olkaamme raittiit, puetut uskon ja rakkauden rintaraudalla ja autuuden toivon rautalakilla.	</div>
 
-<div class="versenum">9.</div> Silla ei Jumala ole meita pannut vihaan, vaan autuutta omistamaan, meidan Herran Jesuksen Kristuksen kautta,	
+<div class="theverse"><div class="versenum">9.</div> Silla ei Jumala ole meita pannut vihaan, vaan autuutta omistamaan, meidan Herran Jesuksen Kristuksen kautta,	</div>
 
-<div class="versenum">10.</div> Joka meidan edestamme kuollut on: etta jos me valvomme eli makaamme, me ynna hanen kanssaan elaisimme.	
+<div class="theverse"><div class="versenum">10.</div> Joka meidan edestamme kuollut on: etta jos me valvomme eli makaamme, me ynna hanen kanssaan elaisimme.	</div>
 
-<div class="versenum">11.</div> Sentahden neuvokaat teitanne keskenanne ja rakentakaat toinen toistanne, niinkuin te myos teette.	
+<div class="theverse"><div class="versenum">11.</div> Sentahden neuvokaat teitanne keskenanne ja rakentakaat toinen toistanne, niinkuin te myos teette.	</div>
 
-<div class="versenum">12.</div> Mutta me rukoilemme teita, rakkaat veljet, etta te ne tuntisitte, jotka teidan seassanne tyota tekevat, ja teidan esimiehenne ovat Herrassa, ja teita neuvovat.	
+<div class="theverse"><div class="versenum">12.</div> Mutta me rukoilemme teita, rakkaat veljet, etta te ne tuntisitte, jotka teidan seassanne tyota tekevat, ja teidan esimiehenne ovat Herrassa, ja teita neuvovat.	</div>
 
-<div class="versenum">13.</div> Pitakaat heita sita rakkaampana heidan tekonsa tahden. Olkaat rauhalliset keskenanne.	
+<div class="theverse"><div class="versenum">13.</div> Pitakaat heita sita rakkaampana heidan tekonsa tahden. Olkaat rauhalliset keskenanne.	</div>
 
-<div class="versenum">14.</div> Mutta me neuvomme teita, rakkaat veljet: neuvokaat tavattomia, lohduttakaat heikkomielisia, holhokaat heikkoja, olkaat karsivaiset jokaisen kanssa,	
+<div class="theverse"><div class="versenum">14.</div> Mutta me neuvomme teita, rakkaat veljet: neuvokaat tavattomia, lohduttakaat heikkomielisia, holhokaat heikkoja, olkaat karsivaiset jokaisen kanssa,	</div>
 
-<div class="versenum">15.</div> Katsokaat, ettei joku pahaa pahalla kosta, vaan noudattakaat hyvaa, seka keskenanne, etta jokaista kohtaan.	
+<div class="theverse"><div class="versenum">15.</div> Katsokaat, ettei joku pahaa pahalla kosta, vaan noudattakaat hyvaa, seka keskenanne, etta jokaista kohtaan.	</div>
 
-<div class="versenum">16.</div> Olkaat aina iloiset.	
+<div class="theverse"><div class="versenum">16.</div> Olkaat aina iloiset.	</div>
 
-<div class="versenum">17.</div> Rukoilkaat lakkaamatta.	
+<div class="theverse"><div class="versenum">17.</div> Rukoilkaat lakkaamatta.	</div>
 
-<div class="versenum">18.</div> Kiittakaat kaikkein edesta; silla se on Jumalan tahto teista Kristuksessa Jesuksessa.	
+<div class="theverse"><div class="versenum">18.</div> Kiittakaat kaikkein edesta; silla se on Jumalan tahto teista Kristuksessa Jesuksessa.	</div>
 
-<div class="versenum">19.</div> Alkaat henkea sammuttako.	
+<div class="theverse"><div class="versenum">19.</div> Alkaat henkea sammuttako.	</div>
 
-<div class="versenum">20.</div> Alkaat prophetiaa katsoko ylon.	
+<div class="theverse"><div class="versenum">20.</div> Alkaat prophetiaa katsoko ylon.	</div>
 
-<div class="versenum">21.</div> Koetelkaat kaikki, ja pitakaat se mika hyva on.	
+<div class="theverse"><div class="versenum">21.</div> Koetelkaat kaikki, ja pitakaat se mika hyva on.	</div>
 
-<div class="versenum">22.</div> Valttakaat kaikkea, mika pahaksi nakyy.	
+<div class="theverse"><div class="versenum">22.</div> Valttakaat kaikkea, mika pahaksi nakyy.	</div>
 
-<div class="versenum">23.</div> Mutta itse rauhan Jumala pyhittakoon teita kokonansa, etta koko teidan henkenne ja sielunne ja ruumiinne meidan Herran Jesuksen Kristuksen tulemisessa nuhteetoinna pidettaisiin.	
+<div class="theverse"><div class="versenum">23.</div> Mutta itse rauhan Jumala pyhittakoon teita kokonansa, etta koko teidan henkenne ja sielunne ja ruumiinne meidan Herran Jesuksen Kristuksen tulemisessa nuhteetoinna pidettaisiin.	</div>
 
-<div class="versenum">24.</div> Han on uskollinen, joka teita kutsunut on ja sen myos tayttaa.	
+<div class="theverse"><div class="versenum">24.</div> Han on uskollinen, joka teita kutsunut on ja sen myos tayttaa.	</div>
 
-<div class="versenum">25.</div> Rakkaat veljet, rukoilkaat meidan edestamme.	
+<div class="theverse"><div class="versenum">25.</div> Rakkaat veljet, rukoilkaat meidan edestamme.	</div>
 
-<div class="versenum">26.</div> Tervehtikaat kaikkia veljia pyhalla suunannolla.	
+<div class="theverse"><div class="versenum">26.</div> Tervehtikaat kaikkia veljia pyhalla suunannolla.	</div>
 
-<div class="versenum">27.</div> Mina vannotan teita Herran kautta, etta te taman lahetyskirjan kaikkein pyhain veljein edessa lukea annatte.	
+<div class="theverse"><div class="versenum">27.</div> Mina vannotan teita Herran kautta, etta te taman lahetyskirjan kaikkein pyhain veljein edessa lukea annatte.	</div>
 
-<div class="versenum">28.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan kanssanne, amen!	
+<div class="theverse"><div class="versenum">28.</div> Meidan Herran Jesuksen Kristuksen armo olkoon teidan kanssanne, amen!	</div>
 </body>
 </html>

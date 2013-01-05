@@ -4,78 +4,78 @@
 </head>
 <body><div class="chaptertitle">Markuksen 13	</div>
 	
-<div class="versenum">1.</div> Ja kuin han meni ulos templista, sanoi yksi hanen opetuslapsistansa: Mestari! katso, minkakaltaiset kivet ja minkakaltaiset rakennukset ovat namat.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin han meni ulos templista, sanoi yksi hanen opetuslapsistansa: Mestari! katso, minkakaltaiset kivet ja minkakaltaiset rakennukset ovat namat.	</div>
 
-<div class="versenum">2.</div> Ja Jesus vastaten sanoi hanelle: naetkos nama suuret rakennukset? Ei naista jateta kivea kiven paalle, jota ei maahan jaoteta.	
+<div class="theverse"><div class="versenum">2.</div> Ja Jesus vastaten sanoi hanelle: naetkos nama suuret rakennukset? Ei naista jateta kivea kiven paalle, jota ei maahan jaoteta.	</div>
 
-<div class="versenum">3.</div> Ja kuin han istui Oljymaella, templin kohdalla, kysyivat hanelta erinansa Pietari ja Jakob, ja Johannes ja Andreas:	
+<div class="theverse"><div class="versenum">3.</div> Ja kuin han istui Oljymaella, templin kohdalla, kysyivat hanelta erinansa Pietari ja Jakob, ja Johannes ja Andreas:	</div>
 
-<div class="versenum">4.</div> Sano meille, koska nama tapahtuvat? Ja mika merkki on, koska namat kaikki paatetaan?	
+<div class="theverse"><div class="versenum">4.</div> Sano meille, koska nama tapahtuvat? Ja mika merkki on, koska namat kaikki paatetaan?	</div>
 
-<div class="versenum">5.</div> Niin Jesus, vastaten heita, rupesi sanomaan: katsokaat, ettei joku teita peta.	
+<div class="theverse"><div class="versenum">5.</div> Niin Jesus, vastaten heita, rupesi sanomaan: katsokaat, ettei joku teita peta.	</div>
 
-<div class="versenum">6.</div> Silla monta tulevat minun nimeeni, sanoen: mina olen, ja pettavat monta.	
+<div class="theverse"><div class="versenum">6.</div> Silla monta tulevat minun nimeeni, sanoen: mina olen, ja pettavat monta.	</div>
 
-<div class="versenum">7.</div> Mutta kuin te kuulette sotia ja sotain sanomia, niin alkaat hammastyko; silla ne pitaa tapahtuman; vaan ei viela loppu ole.	
+<div class="theverse"><div class="versenum">7.</div> Mutta kuin te kuulette sotia ja sotain sanomia, niin alkaat hammastyko; silla ne pitaa tapahtuman; vaan ei viela loppu ole.	</div>
 
-<div class="versenum">8.</div> Silla kansa pitaa nouseman kansaa vastaan ja valtakunta valtakuntaa vastaan, ja maanjaristykset pitaa oleman jokaisessa paikassa, ja tulee nalka ja metelit.	
+<div class="theverse"><div class="versenum">8.</div> Silla kansa pitaa nouseman kansaa vastaan ja valtakunta valtakuntaa vastaan, ja maanjaristykset pitaa oleman jokaisessa paikassa, ja tulee nalka ja metelit.	</div>
 
-<div class="versenum">9.</div> Namat ovat murhetten alut. Mutta kavahtakaat itse teitanne; silla he antavat ylon teidat raastupiin ja synagogiin. Ja te pieksetaan ja johdatetaan paamiesten ja kuningasten eteen minun tahteni, heille todistukseksi.	
+<div class="theverse"><div class="versenum">9.</div> Namat ovat murhetten alut. Mutta kavahtakaat itse teitanne; silla he antavat ylon teidat raastupiin ja synagogiin. Ja te pieksetaan ja johdatetaan paamiesten ja kuningasten eteen minun tahteni, heille todistukseksi.	</div>
 
-<div class="versenum">10.</div> Ja ennen pitaa saarnattaman evankeliumi kaikessa kansassa.	
+<div class="theverse"><div class="versenum">10.</div> Ja ennen pitaa saarnattaman evankeliumi kaikessa kansassa.	</div>
 
-<div class="versenum">11.</div> Kuin he niin teita vievat ja antavat ylon, niin alkaat edella murehtiko, mita teidan puhuman pitaa, alkaat myos ennen ajatelko: vaan mita teille silla hetkella annetaan, se puhukaat; silla ette te ole, jotka puhutte, vaan Pyha Henki.	
+<div class="theverse"><div class="versenum">11.</div> Kuin he niin teita vievat ja antavat ylon, niin alkaat edella murehtiko, mita teidan puhuman pitaa, alkaat myos ennen ajatelko: vaan mita teille silla hetkella annetaan, se puhukaat; silla ette te ole, jotka puhutte, vaan Pyha Henki.	</div>
 
-<div class="versenum">12.</div> Niin on veli antava ylon veljensa kuolemaan, ja isa pojan; ja lapset nousevat vanhempia vastaan, ja antavat tappaa heita.	
+<div class="theverse"><div class="versenum">12.</div> Niin on veli antava ylon veljensa kuolemaan, ja isa pojan; ja lapset nousevat vanhempia vastaan, ja antavat tappaa heita.	</div>
 
-<div class="versenum">13.</div> Ja tulette vihattavaksi kaikilta minun nimeni tahden; vaan joka vahvana pysyy loppuun asti, se tulee autuaaksi.	
+<div class="theverse"><div class="versenum">13.</div> Ja tulette vihattavaksi kaikilta minun nimeni tahden; vaan joka vahvana pysyy loppuun asti, se tulee autuaaksi.	</div>
 
-<div class="versenum">14.</div> Mutta kuin te saatte nahda havityksen kauhistuksen, josta Daniel prophetan kautta sanottu on, seisovan kussa ei pitaisi: (joka sen lukee, han ymmartakoon;) silloin, jotka Juudeassa ovat, ne paetkaan vuorille.	
+<div class="theverse"><div class="versenum">14.</div> Mutta kuin te saatte nahda havityksen kauhistuksen, josta Daniel prophetan kautta sanottu on, seisovan kussa ei pitaisi: (joka sen lukee, han ymmartakoon;) silloin, jotka Juudeassa ovat, ne paetkaan vuorille.	</div>
 
-<div class="versenum">15.</div> Ja joka katon paalla on, alkoon astuko alas huoneeseen, ja alkoon menko sisalle jotakin ottamaan huoneestansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja joka katon paalla on, alkoon astuko alas huoneeseen, ja alkoon menko sisalle jotakin ottamaan huoneestansa.	</div>
 
-<div class="versenum">16.</div> Ja joka pellolla on, alkoon palatko takaisin ottamaan vaatettansa.	
+<div class="theverse"><div class="versenum">16.</div> Ja joka pellolla on, alkoon palatko takaisin ottamaan vaatettansa.	</div>
 
-<div class="versenum">17.</div> Voi raskaita vaimoja ja imettavaisia niina paivina!	
+<div class="theverse"><div class="versenum">17.</div> Voi raskaita vaimoja ja imettavaisia niina paivina!	</div>
 
-<div class="versenum">18.</div> Mutta rukoilkaat, ettei pakonne tapahtuisi talvella.	
+<div class="theverse"><div class="versenum">18.</div> Mutta rukoilkaat, ettei pakonne tapahtuisi talvella.	</div>
 
-<div class="versenum">19.</div> Silla niina aikoina pitaa oleman senkaltainen vaiva, jonka kaltaista ei ole ollut luomisen alusta, kuin Jumala luonut on, niin tahan asti, eika tuleman pida.	
+<div class="theverse"><div class="versenum">19.</div> Silla niina aikoina pitaa oleman senkaltainen vaiva, jonka kaltaista ei ole ollut luomisen alusta, kuin Jumala luonut on, niin tahan asti, eika tuleman pida.	</div>
 
-<div class="versenum">20.</div> Ja ellei Herra olisi lyhentanyt niita paivia, niin ei yksikaan liha tulisi autuaaksi; mutta valittujen tahden, jotka han on valinnut, lyhensi han ne paivat.	
+<div class="theverse"><div class="versenum">20.</div> Ja ellei Herra olisi lyhentanyt niita paivia, niin ei yksikaan liha tulisi autuaaksi; mutta valittujen tahden, jotka han on valinnut, lyhensi han ne paivat.	</div>
 
-<div class="versenum">21.</div> Ja silloin, jos joku sanoo teille: katso, tassa on Kristus, taikka: katso, siella; niin alkaat uskoko.	
+<div class="theverse"><div class="versenum">21.</div> Ja silloin, jos joku sanoo teille: katso, tassa on Kristus, taikka: katso, siella; niin alkaat uskoko.	</div>
 
-<div class="versenum">22.</div> Silla vaarat Kristukset ja vaarat prophetat nousevat, ja merkkeja ja ihmeita tekevat, pettaaksensa, jos mahdollinen olis, valituitakin.	
+<div class="theverse"><div class="versenum">22.</div> Silla vaarat Kristukset ja vaarat prophetat nousevat, ja merkkeja ja ihmeita tekevat, pettaaksensa, jos mahdollinen olis, valituitakin.	</div>
 
-<div class="versenum">23.</div> Mutta te kavahtakaat: katso, mina olen teille kaikki ennen sanonut.	
+<div class="theverse"><div class="versenum">23.</div> Mutta te kavahtakaat: katso, mina olen teille kaikki ennen sanonut.	</div>
 
-<div class="versenum">24.</div> Mutta niina paivina, sen vaivan jalkeen, pitaa auringon pimeneman ja kuu ei anna valoansa.	
+<div class="theverse"><div class="versenum">24.</div> Mutta niina paivina, sen vaivan jalkeen, pitaa auringon pimeneman ja kuu ei anna valoansa.	</div>
 
-<div class="versenum">25.</div> Ja taivaan tahdet pitaa putooman, ja taivasten voimat pitaa liikutettaman.	
+<div class="theverse"><div class="versenum">25.</div> Ja taivaan tahdet pitaa putooman, ja taivasten voimat pitaa liikutettaman.	</div>
 
-<div class="versenum">26.</div> Ja silloin heidan pitaa nakeman Ihmisen Pojan tulevan pilvissa suurella voimalla ja kunnialla.	
+<div class="theverse"><div class="versenum">26.</div> Ja silloin heidan pitaa nakeman Ihmisen Pojan tulevan pilvissa suurella voimalla ja kunnialla.	</div>
 
-<div class="versenum">27.</div> Ja silloin han lahettaa enkelinsa, ja kokoo valittunsa neljasta tuulesta, hamasta maan aaresta niin taivaan aareen asti.	
+<div class="theverse"><div class="versenum">27.</div> Ja silloin han lahettaa enkelinsa, ja kokoo valittunsa neljasta tuulesta, hamasta maan aaresta niin taivaan aareen asti.	</div>
 
-<div class="versenum">28.</div> Mutta fikunapuusta oppikaat vertaus: kuin sen oksa on tuores ja lehdet puhkeavat, niin te tiedatte, etta suvi on lasna.	
+<div class="theverse"><div class="versenum">28.</div> Mutta fikunapuusta oppikaat vertaus: kuin sen oksa on tuores ja lehdet puhkeavat, niin te tiedatte, etta suvi on lasna.	</div>
 
-<div class="versenum">29.</div> Niin myos te, kuin te namat naette tapahtuvan, niin tietakaat, etta se on lasna oven edessa.	
+<div class="theverse"><div class="versenum">29.</div> Niin myos te, kuin te namat naette tapahtuvan, niin tietakaat, etta se on lasna oven edessa.	</div>
 
-<div class="versenum">30.</div> Totisesti sanon mina teille: ei suinkaan taman sukukunnan pida hukkuman ennen kuin kaikki namat tapahtuvat.	
+<div class="theverse"><div class="versenum">30.</div> Totisesti sanon mina teille: ei suinkaan taman sukukunnan pida hukkuman ennen kuin kaikki namat tapahtuvat.	</div>
 
-<div class="versenum">31.</div> Taivas ja maa pitaa hukkuman; mutta minun sanani ei pida suinkaan hukkuman.	
+<div class="theverse"><div class="versenum">31.</div> Taivas ja maa pitaa hukkuman; mutta minun sanani ei pida suinkaan hukkuman.	</div>
 
-<div class="versenum">32.</div> Mutta siita paivasta ja hetkesta ei tieda kenkaan, ei enkelitkaan, jotka ovat taivaassa, ei Poikakaan, vaan Isa.	
+<div class="theverse"><div class="versenum">32.</div> Mutta siita paivasta ja hetkesta ei tieda kenkaan, ei enkelitkaan, jotka ovat taivaassa, ei Poikakaan, vaan Isa.	</div>
 
-<div class="versenum">33.</div> Kavahtakaat, valvokaat ja rukoilkaat, silla ette tieda, koska se aika tulee.	
+<div class="theverse"><div class="versenum">33.</div> Kavahtakaat, valvokaat ja rukoilkaat, silla ette tieda, koska se aika tulee.	</div>
 
-<div class="versenum">34.</div> Niinkuin ihminen, joka muille maille vaelsi, jatti huoneensa ja antoi palveliainsa haltuun, ja kullekin hanen askareensa, ja kaski ovenvartiain valvoa;	
+<div class="theverse"><div class="versenum">34.</div> Niinkuin ihminen, joka muille maille vaelsi, jatti huoneensa ja antoi palveliainsa haltuun, ja kullekin hanen askareensa, ja kaski ovenvartiain valvoa;	</div>
 
-<div class="versenum">35.</div> Niin valvokaat siis: (silla ette tieda, koska huoneen Herra tuleva on, ehtoona, taikka puoliyona, eli kukon laulaissa, eli aamulla:)	
+<div class="theverse"><div class="versenum">35.</div> Niin valvokaat siis: (silla ette tieda, koska huoneen Herra tuleva on, ehtoona, taikka puoliyona, eli kukon laulaissa, eli aamulla:)	</div>
 
-<div class="versenum">36.</div> Ettei han akisti tullessansa loytaisi teita makaamasta.	
+<div class="theverse"><div class="versenum">36.</div> Ettei han akisti tullessansa loytaisi teita makaamasta.	</div>
 
-<div class="versenum">37.</div> Mutta mita mina teille sanoin, sen mina kaikille sanon: valvokaat!	
+<div class="theverse"><div class="versenum">37.</div> Mutta mita mina teille sanoin, sen mina kaikille sanon: valvokaat!	</div>
 </body>
 </html>

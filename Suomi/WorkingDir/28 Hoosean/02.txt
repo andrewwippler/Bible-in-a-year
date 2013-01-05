@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Hoosean 2	</div>
 	
-<div class="versenum">1.</div> Sanokaat teidan veljillenne: He ovat minun kansani, ja teidan sisarillenne: He ovat armossa.	
+<div class="theverse"><div class="versenum">1.</div> Sanokaat teidan veljillenne: He ovat minun kansani, ja teidan sisarillenne: He ovat armossa.	</div>
 
-<div class="versenum">2.</div> Riidelkaat teidan aitinne kanssa, riidelkaat, silla ei han ole minun emantani, enka mina ole hanen miehensa, etta han heittais pois haureutensa kasvoistansa ja huoruutensa rinnoistansa:	
+<div class="theverse"><div class="versenum">2.</div> Riidelkaat teidan aitinne kanssa, riidelkaat, silla ei han ole minun emantani, enka mina ole hanen miehensa, etta han heittais pois haureutensa kasvoistansa ja huoruutensa rinnoistansa:	</div>
 
-<div class="versenum">3.</div> Etten mina hanta alasti riisuisi, ja panisi hanta niinkuin han syntyissansa oli, ja panisi myos hanta niinkuin havitettya ja niinkuin karkiaa maata, enka janoon hanta kuolettaisi;	
+<div class="theverse"><div class="versenum">3.</div> Etten mina hanta alasti riisuisi, ja panisi hanta niinkuin han syntyissansa oli, ja panisi myos hanta niinkuin havitettya ja niinkuin karkiaa maata, enka janoon hanta kuolettaisi;	</div>
 
-<div class="versenum">4.</div> Ja en armahtaisi hanen lapsiansa; silla he ovat huoran lapset.	
+<div class="theverse"><div class="versenum">4.</div> Ja en armahtaisi hanen lapsiansa; silla he ovat huoran lapset.	</div>
 
-<div class="versenum">5.</div> Silla heidan aitinsa on huorin tehnyt, ja se, joka heidat siitti,kaytti itsensa hapiallisesti, ja sanoi: Mina tahdon juosta rakastajaini perassa, jotka minulle antavat leipaa, vetta, villoja, pellavia, oljya ja juomaa.	
+<div class="theverse"><div class="versenum">5.</div> Silla heidan aitinsa on huorin tehnyt, ja se, joka heidat siitti,kaytti itsensa hapiallisesti, ja sanoi: Mina tahdon juosta rakastajaini perassa, jotka minulle antavat leipaa, vetta, villoja, pellavia, oljya ja juomaa.	</div>
 
-<div class="versenum">6.</div> Sentahden katso, mina aitaan sinun ties orjantappuroilla ja panen aidan eteen, ettei han loytaisi polkujansa.	
+<div class="theverse"><div class="versenum">6.</div> Sentahden katso, mina aitaan sinun ties orjantappuroilla ja panen aidan eteen, ettei han loytaisi polkujansa.	</div>
 
-<div class="versenum">7.</div> Ja kuin han juoksee rakastajainsa perassa, niin ei hanen pida heita kasittaman, eika loytaman, kuin han heita etsii; ja hanen pitaa sanoman: Mina menen ja palajan entisen mieheni tyko, silla silloin oli minun parempi kuin nyt.	
+<div class="theverse"><div class="versenum">7.</div> Ja kuin han juoksee rakastajainsa perassa, niin ei hanen pida heita kasittaman, eika loytaman, kuin han heita etsii; ja hanen pitaa sanoman: Mina menen ja palajan entisen mieheni tyko, silla silloin oli minun parempi kuin nyt.	</div>
 
-<div class="versenum">8.</div> Ja ei han tahdo tietaa minua siksi, joka hanelle annoin jyvia, viinaa ja oljya, ja etta mina annoin hanelle paljon hopiaa ja kultaa, josta he Baalimit tekivat.	
+<div class="theverse"><div class="versenum">8.</div> Ja ei han tahdo tietaa minua siksi, joka hanelle annoin jyvia, viinaa ja oljya, ja etta mina annoin hanelle paljon hopiaa ja kultaa, josta he Baalimit tekivat.	</div>
 
-<div class="versenum">9.</div> Sentahden mina palajan ja otan aikanansa jalleen minun jyvani, ja minun viinani ajallansa, ja otan pois villani ja pellavani, joilla han hapiansa peittaa.	
+<div class="theverse"><div class="versenum">9.</div> Sentahden mina palajan ja otan aikanansa jalleen minun jyvani, ja minun viinani ajallansa, ja otan pois villani ja pellavani, joilla han hapiansa peittaa.	</div>
 
-<div class="versenum">10.</div> Ja mina tahdon paljastaa hanen hapiansa, hanen rakastajainsa silmain eteen; ja ei pida kenenkaan hanta minun kasistani paastaman.	
+<div class="theverse"><div class="versenum">10.</div> Ja mina tahdon paljastaa hanen hapiansa, hanen rakastajainsa silmain eteen; ja ei pida kenenkaan hanta minun kasistani paastaman.	</div>
 
-<div class="versenum">11.</div> Ja mina lakkautan kaiken hanen ilonsa, juhlansa, uuden kuunsa, lepopaivansa ja kaikki hanen pyhapaivansa.	
+<div class="theverse"><div class="versenum">11.</div> Ja mina lakkautan kaiken hanen ilonsa, juhlansa, uuden kuunsa, lepopaivansa ja kaikki hanen pyhapaivansa.	</div>
 
-<div class="versenum">12.</div> Mina havitan myos hanen viinapuunsa ja fikunapuunsa, etta han sanoi: Se on minun palkkani, jonka minun rakastajani minulle antaneet ovat; mina teen niista metsan, etta metsan pedot ne syovat.	
+<div class="theverse"><div class="versenum">12.</div> Mina havitan myos hanen viinapuunsa ja fikunapuunsa, etta han sanoi: Se on minun palkkani, jonka minun rakastajani minulle antaneet ovat; mina teen niista metsan, etta metsan pedot ne syovat.	</div>
 
-<div class="versenum">13.</div> Juuri niin etsin mina hanta Baalimin paivina, joina han heille savu-uhria sytytti, ja kaunisti itsensa kultalehdilla ja kaulakaunistuksella, ja juoksi rakastajainsa perassa; ja niin unhotti minun, sanoo Herra.	
+<div class="theverse"><div class="versenum">13.</div> Juuri niin etsin mina hanta Baalimin paivina, joina han heille savu-uhria sytytti, ja kaunisti itsensa kultalehdilla ja kaulakaunistuksella, ja juoksi rakastajainsa perassa; ja niin unhotti minun, sanoo Herra.	</div>
 
-<div class="versenum">14.</div> Sentahden katso, mina tahdon hanta houkutella, vieda hanen korpeen ja puhua suloisesti hanen kanssansa.	
+<div class="theverse"><div class="versenum">14.</div> Sentahden katso, mina tahdon hanta houkutella, vieda hanen korpeen ja puhua suloisesti hanen kanssansa.	</div>
 
-<div class="versenum">15.</div> Silloin annan mina hanelle hanen viinamakensa ja Akorin laakson, ja tahdon toivon avata; siella han on lauleskeleva, niinkuin nuorella ijallansa ja niinkuin sina paivana, jona han Egyptin maalta laksi.	
+<div class="theverse"><div class="versenum">15.</div> Silloin annan mina hanelle hanen viinamakensa ja Akorin laakson, ja tahdon toivon avata; siella han on lauleskeleva, niinkuin nuorella ijallansa ja niinkuin sina paivana, jona han Egyptin maalta laksi.	</div>
 
-<div class="versenum">16.</div> Ja sina paivana pitaa tapahtuman, sanoo Herra, ettas minun kutsut miehekses, ja et enaan minua kutsu Baalimiksi.	
+<div class="theverse"><div class="versenum">16.</div> Ja sina paivana pitaa tapahtuman, sanoo Herra, ettas minun kutsut miehekses, ja et enaan minua kutsu Baalimiksi.	</div>
 
-<div class="versenum">17.</div> Silla mina tahdon Baalimin nimet ottaa pois hanen suustansa, niin ettei kenenkaan pida sita nimea enaan muistaman.	
+<div class="theverse"><div class="versenum">17.</div> Silla mina tahdon Baalimin nimet ottaa pois hanen suustansa, niin ettei kenenkaan pida sita nimea enaan muistaman.	</div>
 
-<div class="versenum">18.</div> Vaan mina tahdon tehda heille silla ajalla liiton, petoin kanssa kedolla, lintuin kanssa taivaan alla ja matoin kanssa maan paalla; ja tahdon ottaa pois joutsen, miekan ja sodan maalta, ja annan heidan asua turvallisesti.	
+<div class="theverse"><div class="versenum">18.</div> Vaan mina tahdon tehda heille silla ajalla liiton, petoin kanssa kedolla, lintuin kanssa taivaan alla ja matoin kanssa maan paalla; ja tahdon ottaa pois joutsen, miekan ja sodan maalta, ja annan heidan asua turvallisesti.	</div>
 
-<div class="versenum">19.</div> Mina kihlaan sinun itselleni ijankaikkisesti; ja mina kihlaan sinun itselleni vanhurskaudessa, tuomiossa, armossa ja laupiudessa.	
+<div class="theverse"><div class="versenum">19.</div> Mina kihlaan sinun itselleni ijankaikkisesti; ja mina kihlaan sinun itselleni vanhurskaudessa, tuomiossa, armossa ja laupiudessa.	</div>
 
-<div class="versenum">20.</div> Mina kihlaan tosin sinun itselleni uskossa, ja sinun pitaa Herran tunteman.	
+<div class="theverse"><div class="versenum">20.</div> Mina kihlaan tosin sinun itselleni uskossa, ja sinun pitaa Herran tunteman.	</div>
 
-<div class="versenum">21.</div> Silla ajalla, sanoo Herra; tahdon mina kuulla, mina tahdon taivaasta kuulla, ja taivaan pitaa maata kuuleman.	
+<div class="theverse"><div class="versenum">21.</div> Silla ajalla, sanoo Herra; tahdon mina kuulla, mina tahdon taivaasta kuulla, ja taivaan pitaa maata kuuleman.	</div>
 
-<div class="versenum">22.</div> Mutta maan pitaa kuuleman jyvia, viinaa ja oljya, ja niiden pitaa Jisreelia kuuleman.	
+<div class="theverse"><div class="versenum">22.</div> Mutta maan pitaa kuuleman jyvia, viinaa ja oljya, ja niiden pitaa Jisreelia kuuleman.	</div>
 
-<div class="versenum">23.</div> Ja mina tahdon sen itselleni pitaa siemeneksi maan paalle, ja tahdon sita armahtaa, jota ei ole armahdettu. Ja sanon hanelle, joka ei ollut minun kansani: Sina olet minun kansani, ja hanen pitaa sanoman: Sina olet minun Jumalani.	
+<div class="theverse"><div class="versenum">23.</div> Ja mina tahdon sen itselleni pitaa siemeneksi maan paalle, ja tahdon sita armahtaa, jota ei ole armahdettu. Ja sanon hanelle, joka ei ollut minun kansani: Sina olet minun kansani, ja hanen pitaa sanoman: Sina olet minun Jumalani.	</div>
 </body>
 </html>

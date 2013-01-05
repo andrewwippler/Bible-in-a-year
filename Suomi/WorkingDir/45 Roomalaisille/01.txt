@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">Roomalaisille 1	</div>
 	
-<div class="versenum">1.</div> Paavali, Jesuksen Kristuksen palvelia, kutsuttu apostoliksi, eroitettu Jumalan evankeliumiin,	
+<div class="theverse"><div class="versenum">1.</div> Paavali, Jesuksen Kristuksen palvelia, kutsuttu apostoliksi, eroitettu Jumalan evankeliumiin,	</div>
 
-<div class="versenum">2.</div> (Jonka han on ennen prophetainsa kautta pyhissa Raamatuissa luvannut,)	
+<div class="theverse"><div class="versenum">2.</div> (Jonka han on ennen prophetainsa kautta pyhissa Raamatuissa luvannut,)	</div>
 
-<div class="versenum">3.</div> Hanen Pojassansa, (joka on Davidin siemenesta lihan puolesta syntynyt,	
+<div class="theverse"><div class="versenum">3.</div> Hanen Pojassansa, (joka on Davidin siemenesta lihan puolesta syntynyt,	</div>
 
-<div class="versenum">4.</div> Ja on vakevasti ilmoitettu Jumalan Pojaksi pyhityksen hengen jalkeen, etta han on noussut ylos kuolleista,) se on, Jesuksesta Kristuksesta meidan Herrastamme,	
+<div class="theverse"><div class="versenum">4.</div> Ja on vakevasti ilmoitettu Jumalan Pojaksi pyhityksen hengen jalkeen, etta han on noussut ylos kuolleista,) se on, Jesuksesta Kristuksesta meidan Herrastamme,	</div>
 
-<div class="versenum">5.</div> Jonka kautta me olemme armon ja apostolin viran saaneet, uskon kuuliaisuudeksi, kaikkein pakanain seassa, hanen nimensa paalle,	
+<div class="theverse"><div class="versenum">5.</div> Jonka kautta me olemme armon ja apostolin viran saaneet, uskon kuuliaisuudeksi, kaikkein pakanain seassa, hanen nimensa paalle,	</div>
 
-<div class="versenum">6.</div> Joista tekin olette Jesuksen Kristuksen kutsutut:	
+<div class="theverse"><div class="versenum">6.</div> Joista tekin olette Jesuksen Kristuksen kutsutut:	</div>
 
-<div class="versenum">7.</div> Kaikille, jotka Roomissa ovat, Jumalan rakkaille ja kutsutuille pyhille: armo olkoon teidan kanssanne, ja rauha Jumalalta meidan Isaltamme ja Herralta Jesukselta Kristukselta!	
+<div class="theverse"><div class="versenum">7.</div> Kaikille, jotka Roomissa ovat, Jumalan rakkaille ja kutsutuille pyhille: armo olkoon teidan kanssanne, ja rauha Jumalalta meidan Isaltamme ja Herralta Jesukselta Kristukselta!	</div>
 
-<div class="versenum">8.</div> Ensin kiitan mina Jumalaani, Jesuksen Kristuksen kautta, teidan kaikkein tahtenne, etta teidan uskoanne kaikessa maailmassa mainitaan.	
+<div class="theverse"><div class="versenum">8.</div> Ensin kiitan mina Jumalaani, Jesuksen Kristuksen kautta, teidan kaikkein tahtenne, etta teidan uskoanne kaikessa maailmassa mainitaan.	</div>
 
-<div class="versenum">9.</div> Silla Jumala on minun todistajani, jota mina hengessani hanen Poikansa evankeliumissa palvelen, etta mina lakkaamatta teita muistan,	
+<div class="theverse"><div class="versenum">9.</div> Silla Jumala on minun todistajani, jota mina hengessani hanen Poikansa evankeliumissa palvelen, etta mina lakkaamatta teita muistan,	</div>
 
-<div class="versenum">10.</div> Rukoillen aina minun rukouksissani, etta mina saisin jollakin tavalla vihdoin joskus, jos Jumala tahtoo, onnellisen tien tulla teidan tykonne.	
+<div class="theverse"><div class="versenum">10.</div> Rukoillen aina minun rukouksissani, etta mina saisin jollakin tavalla vihdoin joskus, jos Jumala tahtoo, onnellisen tien tulla teidan tykonne.	</div>
 
-<div class="versenum">11.</div> Silla mina ikavoitsen teita nahda, etta mina jotain hengellista lahjaa teille jakaisin, etta te vahvistetuksi tulisitte,	
+<div class="theverse"><div class="versenum">11.</div> Silla mina ikavoitsen teita nahda, etta mina jotain hengellista lahjaa teille jakaisin, etta te vahvistetuksi tulisitte,	</div>
 
-<div class="versenum">12.</div> Se on, etta mina saisin ynna teidan kanssanne lohdutuksen, uskon kautta, joka meilla keskenamme on, seka teidan etta minun.	
+<div class="theverse"><div class="versenum">12.</div> Se on, etta mina saisin ynna teidan kanssanne lohdutuksen, uskon kautta, joka meilla keskenamme on, seka teidan etta minun.	</div>
 
-<div class="versenum">13.</div> Mutta en mina tahdo salata teilta, rakkaat veljet, etta mina olen usein aikonut tulla teidan tykonne, (ja olen tahan asti estetty) etta mina teidankin seassanne jonkun hedelman saisin, niinkuin muidenkin pakanain seassa.	
+<div class="theverse"><div class="versenum">13.</div> Mutta en mina tahdo salata teilta, rakkaat veljet, etta mina olen usein aikonut tulla teidan tykonne, (ja olen tahan asti estetty) etta mina teidankin seassanne jonkun hedelman saisin, niinkuin muidenkin pakanain seassa.	</div>
 
-<div class="versenum">14.</div> Mina olen velkapaa Grekilaisille ja muukalaisille, viisaille ja tyhmille.	
+<div class="theverse"><div class="versenum">14.</div> Mina olen velkapaa Grekilaisille ja muukalaisille, viisaille ja tyhmille.	</div>
 
-<div class="versenum">15.</div> Sentahden niin paljo kuin minussa on, olen mina teillekin, jotka Roomissa olette, valmis evankeliumia saarnaamaan.	
+<div class="theverse"><div class="versenum">15.</div> Sentahden niin paljo kuin minussa on, olen mina teillekin, jotka Roomissa olette, valmis evankeliumia saarnaamaan.	</div>
 
-<div class="versenum">16.</div> Silla en mina hapee Kristuksen evankeliumia; silla se on Jumalan voima itsekullekin uskovaiselle autuudeksi. Ensin Juudalaiselle, niin myos Grekilaiselle.	
+<div class="theverse"><div class="versenum">16.</div> Silla en mina hapee Kristuksen evankeliumia; silla se on Jumalan voima itsekullekin uskovaiselle autuudeksi. Ensin Juudalaiselle, niin myos Grekilaiselle.	</div>
 
-<div class="versenum">17.</div> Silla siina se vanhurskaus, joka Jumalan edessa kelpaa, ilmoitetaan uskosta uskoon, niinkuin kirjoitettu on: vanhurskaan pitaa elaman uskosta.	
+<div class="theverse"><div class="versenum">17.</div> Silla siina se vanhurskaus, joka Jumalan edessa kelpaa, ilmoitetaan uskosta uskoon, niinkuin kirjoitettu on: vanhurskaan pitaa elaman uskosta.	</div>
 
-<div class="versenum">18.</div> Silla Jumalan viha ilmestyy taivaasta kaiken ihmisten jumalattomuuden ja vaaryyden tahden, jotka totuuden vaaryydessa pitavat.	
+<div class="theverse"><div class="versenum">18.</div> Silla Jumalan viha ilmestyy taivaasta kaiken ihmisten jumalattomuuden ja vaaryyden tahden, jotka totuuden vaaryydessa pitavat.	</div>
 
-<div class="versenum">19.</div> Sentahden se, mika taidetaan Jumalasta tuta, on heille tiettava; silla Jumala ilmoitti sen heille.	
+<div class="theverse"><div class="versenum">19.</div> Sentahden se, mika taidetaan Jumalasta tuta, on heille tiettava; silla Jumala ilmoitti sen heille.	</div>
 
-<div class="versenum">20.</div> Silla hanen nakymattomat menonsa, nimittain, ijankaikkinen voimansa ja jumaluutensa nahdaan hamasta maailman luomisesta, jotka ymmarretaan niista, jotka tehdyt ovat: ettei he taitaisi itseansa syyttomiksi sanoa.	
+<div class="theverse"><div class="versenum">20.</div> Silla hanen nakymattomat menonsa, nimittain, ijankaikkinen voimansa ja jumaluutensa nahdaan hamasta maailman luomisesta, jotka ymmarretaan niista, jotka tehdyt ovat: ettei he taitaisi itseansa syyttomiksi sanoa.	</div>
 
-<div class="versenum">21.</div> Etta he tunsivat Jumalan, ja ei ylistaneet hanta niinkuin Jumalaa eika kiittaneet, vaan vilpistelivat omissa ajatuksissansa, ja heidan jarjetoin sydamensa on pimennyt.	
+<div class="theverse"><div class="versenum">21.</div> Etta he tunsivat Jumalan, ja ei ylistaneet hanta niinkuin Jumalaa eika kiittaneet, vaan vilpistelivat omissa ajatuksissansa, ja heidan jarjetoin sydamensa on pimennyt.	</div>
 
-<div class="versenum">22.</div> Kuin he itsensa viisaiksi luulivat, niin he ovat tyhmiksi tulleet,	
+<div class="theverse"><div class="versenum">22.</div> Kuin he itsensa viisaiksi luulivat, niin he ovat tyhmiksi tulleet,	</div>
 
-<div class="versenum">23.</div> Ja ovat katoomattoman Jumalan kunnian muuttaneet katoovaisen ihmisen ja lintuin ja neljajalkaisten ja matelevaisten kuvan muotoiseksi.	
+<div class="theverse"><div class="versenum">23.</div> Ja ovat katoomattoman Jumalan kunnian muuttaneet katoovaisen ihmisen ja lintuin ja neljajalkaisten ja matelevaisten kuvan muotoiseksi.	</div>
 
-<div class="versenum">24.</div> Sentahden on myos Jumala heidat laskenut sydamensa himoihin, saastauteen, hapaisemaan keskenansa omaa ruumistansa,	
+<div class="theverse"><div class="versenum">24.</div> Sentahden on myos Jumala heidat laskenut sydamensa himoihin, saastauteen, hapaisemaan keskenansa omaa ruumistansa,	</div>
 
-<div class="versenum">25.</div> Jotka Jumalan totuuden ovat valheeksi muuttaneet ja ovat kunnioittaneet ja palvelleet enemman luontokappaletta kuin Luojaa, joka on siunattu ijankaikkisesti, amen!	
+<div class="theverse"><div class="versenum">25.</div> Jotka Jumalan totuuden ovat valheeksi muuttaneet ja ovat kunnioittaneet ja palvelleet enemman luontokappaletta kuin Luojaa, joka on siunattu ijankaikkisesti, amen!	</div>
 
-<div class="versenum">26.</div> Sentahden on Jumala heidat antanut ylon hapiallisiin himoihin, etta myos heidan vaimonsa ovat muuttaneet luonnollisen tavan luontoa vastaan,	
+<div class="theverse"><div class="versenum">26.</div> Sentahden on Jumala heidat antanut ylon hapiallisiin himoihin, etta myos heidan vaimonsa ovat muuttaneet luonnollisen tavan luontoa vastaan,	</div>
 
-<div class="versenum">27.</div> Niin myos miehet ovat antaneet ylon vaimon luonnollisen pitamisen, toinen toisensa puoleen himoissansa palaneet, miehet miesten kanssa riettauden tehneet ja saaneet, niinkuin pitikin, eksymisensa palkan itsessansa.	
+<div class="theverse"><div class="versenum">27.</div> Niin myos miehet ovat antaneet ylon vaimon luonnollisen pitamisen, toinen toisensa puoleen himoissansa palaneet, miehet miesten kanssa riettauden tehneet ja saaneet, niinkuin pitikin, eksymisensa palkan itsessansa.	</div>
 
-<div class="versenum">28.</div> Ja niinkuin ei he tahtoneet Jumalaa tuta, niin Jumala laski heidat haijyyn mieleen tekemaan niita, mita ei sovi tehda,	
+<div class="theverse"><div class="versenum">28.</div> Ja niinkuin ei he tahtoneet Jumalaa tuta, niin Jumala laski heidat haijyyn mieleen tekemaan niita, mita ei sovi tehda,	</div>
 
-<div class="versenum">29.</div> Taynnansa kaikkea vaaryytta, salavuoteutta, koiruutta, ahneutta, pahuutta: taynna kateutta, murhaa, riitaa, petosta, pahan suomuutta:	
+<div class="theverse"><div class="versenum">29.</div> Taynnansa kaikkea vaaryytta, salavuoteutta, koiruutta, ahneutta, pahuutta: taynna kateutta, murhaa, riitaa, petosta, pahan suomuutta:	</div>
 
-<div class="versenum">30.</div> Korvankuiskutteliat, panetteliat, Jumalaa vihaajat, hapaisiat, ylpiat oykkarit, pahain neuvoin pesat, vanhemmillensa tottelemattomat,	
+<div class="theverse"><div class="versenum">30.</div> Korvankuiskutteliat, panetteliat, Jumalaa vihaajat, hapaisiat, ylpiat oykkarit, pahain neuvoin pesat, vanhemmillensa tottelemattomat,	</div>
 
-<div class="versenum">31.</div> Tomppelit, liiton rikkojat, haluttomat, sovittamattomat, armottomat.	
+<div class="theverse"><div class="versenum">31.</div> Tomppelit, liiton rikkojat, haluttomat, sovittamattomat, armottomat.	</div>
 
-<div class="versenum">32.</div> Jotka Jumalan oikeuden tietavat, (etta ne, jotka naita tekevat, ovat kuoleman ansainneet) ei ainoastaan niita tee, mutta myos suostuvat niihin, jotka niita tekevat.	
+<div class="theverse"><div class="versenum">32.</div> Jotka Jumalan oikeuden tietavat, (etta ne, jotka naita tekevat, ovat kuoleman ansainneet) ei ainoastaan niita tee, mutta myos suostuvat niihin, jotka niita tekevat.	</div>
 </body>
 </html>

@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 24	</div>
 	
-<div class="versenum">1.</div> Joas oli seitseman ajastaikainen tullessansa kuninkaaksi, ja hallitsi neljakymmenta ajastaikaa Jerusalemissa. Ja hanen aitinsa nimi oli Zibia Bersabasta.	
+<div class="theverse"><div class="versenum">1.</div> Joas oli seitseman ajastaikainen tullessansa kuninkaaksi, ja hallitsi neljakymmenta ajastaikaa Jerusalemissa. Ja hanen aitinsa nimi oli Zibia Bersabasta.	</div>
 
-<div class="versenum">2.</div> Ja Joas teki sita, mika oikein oli Herran edessa, niinkauvan kuin pappi Jojada eli.	
+<div class="theverse"><div class="versenum">2.</div> Ja Joas teki sita, mika oikein oli Herran edessa, niinkauvan kuin pappi Jojada eli.	</div>
 
-<div class="versenum">3.</div> Ja Jojada otti hanelle kaksi emantaa ja han siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">3.</div> Ja Jojada otti hanelle kaksi emantaa ja han siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">4.</div> Ja tapahtui sen jalkeen, etta Joas aikoi uudistaa Herran huonetta.	
+<div class="theverse"><div class="versenum">4.</div> Ja tapahtui sen jalkeen, etta Joas aikoi uudistaa Herran huonetta.	</div>
 
-<div class="versenum">5.</div> Ja han kokosi papit ja Levilaiset ja sanoi heille: menkaat ulos Juudan kaupunkeihin ja kootkaat rahaa kaikelta Israelilta, vuosi vuodelta, teidan Jumalanne huoneen parannukseksi, ja kiiruhtakaat tekemaan sita; mutta Levilaiset ei kiiruhtaneet.	
+<div class="theverse"><div class="versenum">5.</div> Ja han kokosi papit ja Levilaiset ja sanoi heille: menkaat ulos Juudan kaupunkeihin ja kootkaat rahaa kaikelta Israelilta, vuosi vuodelta, teidan Jumalanne huoneen parannukseksi, ja kiiruhtakaat tekemaan sita; mutta Levilaiset ei kiiruhtaneet.	</div>
 
-<div class="versenum">6.</div> Silloin kutsui kuningas Jojadan, ylimmaisen papin, ja sanoi hanelle: miksi et ota vaaria Levilaisista, etta he toisivat veron Juudasta ja Jerusalemista, jonka Moses Herran palvelia pani paalle, kuin piti Israelista koottaman todistuksen majaksi?	
+<div class="theverse"><div class="versenum">6.</div> Silloin kutsui kuningas Jojadan, ylimmaisen papin, ja sanoi hanelle: miksi et ota vaaria Levilaisista, etta he toisivat veron Juudasta ja Jerusalemista, jonka Moses Herran palvelia pani paalle, kuin piti Israelista koottaman todistuksen majaksi?	</div>
 
-<div class="versenum">7.</div> Silla jumalatoin Atalia on poikinensa sarkenyt Jumalan huoneen, ja kaiken Herran huoneesen pyhitetyn olivat he tehneet Baalille.	
+<div class="theverse"><div class="versenum">7.</div> Silla jumalatoin Atalia on poikinensa sarkenyt Jumalan huoneen, ja kaiken Herran huoneesen pyhitetyn olivat he tehneet Baalille.	</div>
 
-<div class="versenum">8.</div> Niin kuningas kaski; ja he tekivat arkun, jonka he panivat Herran huoneen portin ulkoiselle puolelle.	
+<div class="theverse"><div class="versenum">8.</div> Niin kuningas kaski; ja he tekivat arkun, jonka he panivat Herran huoneen portin ulkoiselle puolelle.	</div>
 
-<div class="versenum">9.</div> Ja he kuuluttivat Juudassa ja Jerusalemissa tuomaan Herralle veroa, jonka Jumalan palvelia Moses oli pannut Israelin paalle korvessa.	
+<div class="theverse"><div class="versenum">9.</div> Ja he kuuluttivat Juudassa ja Jerusalemissa tuomaan Herralle veroa, jonka Jumalan palvelia Moses oli pannut Israelin paalle korvessa.	</div>
 
-<div class="versenum">10.</div> Silloin iloitsivat kaikki paamiehet ja kaikki kansa; ja he toivat ja panivat arkkuun, siihenasti etta se tuli tayteen.	
+<div class="theverse"><div class="versenum">10.</div> Silloin iloitsivat kaikki paamiehet ja kaikki kansa; ja he toivat ja panivat arkkuun, siihenasti etta se tuli tayteen.	</div>
 
-<div class="versenum">11.</div> Ja kuin aika tuli, etta arkku kannettiin edes Levilaisilta kuninkaan kaskyn jalkeen (ja he nakivat siina olevan paljon rahaa), tuli kuninkaan kirjoittaja ja se joka ylimmaiselta papilta uskottu oli, ja he tyhjensivat arkun ja kantoivat sen jalleen siallensa. Nain he tekivat joka paiva siihenasti etta he kokosivat paljon rahaa.	
+<div class="theverse"><div class="versenum">11.</div> Ja kuin aika tuli, etta arkku kannettiin edes Levilaisilta kuninkaan kaskyn jalkeen (ja he nakivat siina olevan paljon rahaa), tuli kuninkaan kirjoittaja ja se joka ylimmaiselta papilta uskottu oli, ja he tyhjensivat arkun ja kantoivat sen jalleen siallensa. Nain he tekivat joka paiva siihenasti etta he kokosivat paljon rahaa.	</div>
 
-<div class="versenum">12.</div> Ja kuningas ja Jojada antoivat ne teettajille Herran huoneen palvelukseksi; ne palkkasivat kivenhakkaajia ja rakentajia, uudistamaan Herran huonetta, niin myos rauta- ja vaskiseppia, parantamaan Herran huonetta.	
+<div class="theverse"><div class="versenum">12.</div> Ja kuningas ja Jojada antoivat ne teettajille Herran huoneen palvelukseksi; ne palkkasivat kivenhakkaajia ja rakentajia, uudistamaan Herran huonetta, niin myos rauta- ja vaskiseppia, parantamaan Herran huonetta.	</div>
 
-<div class="versenum">13.</div> Ja tyomiehet tekivat tyota, niin etta parannustyo menestyi heidan kattensa kautta; ja he saivat Jumalan huoneen kokonansa valmiiksi ja hyvin rakennetuksi.	
+<div class="theverse"><div class="versenum">13.</div> Ja tyomiehet tekivat tyota, niin etta parannustyo menestyi heidan kattensa kautta; ja he saivat Jumalan huoneen kokonansa valmiiksi ja hyvin rakennetuksi.	</div>
 
-<div class="versenum">14.</div> Ja kuin he sen olivat paattaneet, veivat he liian rahan kuninkaan ja Jojadan eteen; siita tehtiin astioita Herran huoneesen, astioita palvelukseen ja polttouhriin, lusikoita, kulta- ja hopia-astioita; ja uhrasivat polttouhria Herran huoneen tykona alati niinkauvan kuin Jojada eli.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin he sen olivat paattaneet, veivat he liian rahan kuninkaan ja Jojadan eteen; siita tehtiin astioita Herran huoneesen, astioita palvelukseen ja polttouhriin, lusikoita, kulta- ja hopia-astioita; ja uhrasivat polttouhria Herran huoneen tykona alati niinkauvan kuin Jojada eli.	</div>
 
-<div class="versenum">15.</div> Ja Jojada tuli vanhaksi ja ijalla ravituksi ja kuoli; ja han oli sadan ja kolmenkymmenen ajastaikainen kuollessansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja Jojada tuli vanhaksi ja ijalla ravituksi ja kuoli; ja han oli sadan ja kolmenkymmenen ajastaikainen kuollessansa.	</div>
 
-<div class="versenum">16.</div> Ja he hautasivat hanen Davidin kaupunkiin kuningasten sekaan; silla han oli tehnyt hyvin Israelissa Jumalaa ja hanen huonettansa kohtaan.	
+<div class="theverse"><div class="versenum">16.</div> Ja he hautasivat hanen Davidin kaupunkiin kuningasten sekaan; silla han oli tehnyt hyvin Israelissa Jumalaa ja hanen huonettansa kohtaan.	</div>
 
-<div class="versenum">17.</div> Ja Jojadan kuoleman jalkeen tulivat Juudan ylimmaiset ja rukoilivat kuningasta. Niin kuningas kuuli heita.	
+<div class="theverse"><div class="versenum">17.</div> Ja Jojadan kuoleman jalkeen tulivat Juudan ylimmaiset ja rukoilivat kuningasta. Niin kuningas kuuli heita.	</div>
 
-<div class="versenum">18.</div> Ja he hylkasivat Herran isainsa Jumalan huoneen ja palvelivat metsistoita ja epajumalia. Niin tuli viha Juudan ja Jerusalemin paalle taman heidan syntinsa tahden.	
+<div class="theverse"><div class="versenum">18.</div> Ja he hylkasivat Herran isainsa Jumalan huoneen ja palvelivat metsistoita ja epajumalia. Niin tuli viha Juudan ja Jerusalemin paalle taman heidan syntinsa tahden.	</div>
 
-<div class="versenum">19.</div> Ja han lahetti heille prophetat palauttamaan heita Herran tyko; ja he todistivat heille, mutta ei he totelleet.	
+<div class="theverse"><div class="versenum">19.</div> Ja han lahetti heille prophetat palauttamaan heita Herran tyko; ja he todistivat heille, mutta ei he totelleet.	</div>
 
-<div class="versenum">20.</div> Ja Jumalan henki puetti Sakarian papin Jojadan pojan; han astui kansan eteen ja sanoi heille: nain sanoo Jumala: miksi te rikotte Herran kaskyn? Ei se pida teille menestyman; koska te olette hyljanneet Herran, niin hylkaa han jalleen teidat.	
+<div class="theverse"><div class="versenum">20.</div> Ja Jumalan henki puetti Sakarian papin Jojadan pojan; han astui kansan eteen ja sanoi heille: nain sanoo Jumala: miksi te rikotte Herran kaskyn? Ei se pida teille menestyman; koska te olette hyljanneet Herran, niin hylkaa han jalleen teidat.	</div>
 
-<div class="versenum">21.</div> Mutta he tekivat liiton hanta vastaan ja kivittivat hanen kuoliaaksi kuninkaan kaskyn jalkeen, Herran huoneen pihalla.	
+<div class="theverse"><div class="versenum">21.</div> Mutta he tekivat liiton hanta vastaan ja kivittivat hanen kuoliaaksi kuninkaan kaskyn jalkeen, Herran huoneen pihalla.	</div>
 
-<div class="versenum">22.</div> Ja kuningas Joas ei ajatellut sita laupiutta, jonka Jojada hanen isansa hanelle tehnyt oli, mutta tappoi hanen poikansa. Ja han sanoi kuollessansa: Herra on nakeva ja etsiva.	
+<div class="theverse"><div class="versenum">22.</div> Ja kuningas Joas ei ajatellut sita laupiutta, jonka Jojada hanen isansa hanelle tehnyt oli, mutta tappoi hanen poikansa. Ja han sanoi kuollessansa: Herra on nakeva ja etsiva.	</div>
 
-<div class="versenum">23.</div> Ja tapahtui kuin ajastaika oli kulunut, etta Syrian sotajoukko nousi hanta vastaan ja tuli Juudaan ja Jerusalemiin, ja surmasivat kaikki ylimmaiset kansan seasta, ja lahettivat kaiken saaliinsa Damaskun kuninkaalle.	
+<div class="theverse"><div class="versenum">23.</div> Ja tapahtui kuin ajastaika oli kulunut, etta Syrian sotajoukko nousi hanta vastaan ja tuli Juudaan ja Jerusalemiin, ja surmasivat kaikki ylimmaiset kansan seasta, ja lahettivat kaiken saaliinsa Damaskun kuninkaalle.	</div>
 
-<div class="versenum">24.</div> Vaikka Syrian sotajoukko tuli vahalla vaella, kuitenkin antoi Herra sangen suuren joukon heidan kasiinsa, etta he Herran isainsa Jumalan hyljanneet olivat. Ja niin he myos rankaisivat Joaksen.	
+<div class="theverse"><div class="versenum">24.</div> Vaikka Syrian sotajoukko tuli vahalla vaella, kuitenkin antoi Herra sangen suuren joukon heidan kasiinsa, etta he Herran isainsa Jumalan hyljanneet olivat. Ja niin he myos rankaisivat Joaksen.	</div>
 
-<div class="versenum">25.</div> Ja kuin he laksivat hanen tykoansa, jattivat he hanen suureen sairauteen. Ja hanen palveliansa tekivat liiton hanta vastaan, Jojadan papin lasten veren tahden, ja tappoivat hanen omalla vuoteellansa, ja han kuoli; ja he hautasivat hanen Davidin kaupunkiin, mutta ei kuningasten hautain sekaan.	
+<div class="theverse"><div class="versenum">25.</div> Ja kuin he laksivat hanen tykoansa, jattivat he hanen suureen sairauteen. Ja hanen palveliansa tekivat liiton hanta vastaan, Jojadan papin lasten veren tahden, ja tappoivat hanen omalla vuoteellansa, ja han kuoli; ja he hautasivat hanen Davidin kaupunkiin, mutta ei kuningasten hautain sekaan.	</div>
 
-<div class="versenum">26.</div> Ne jotka liiton olivat tehneet hanta vastaan, olivat namat: Sabad Simeatin Ammonilaisen poika, ja Josabad Simritin Moabilaisen poika.	
+<div class="theverse"><div class="versenum">26.</div> Ne jotka liiton olivat tehneet hanta vastaan, olivat namat: Sabad Simeatin Ammonilaisen poika, ja Josabad Simritin Moabilaisen poika.	</div>
 
-<div class="versenum">27.</div> Mutta hanen poikainsa ja hanen aikanansa koottujen verojen luku, ja Jumalan huoneen rakennus, katso, ne ovat kirjoitetut kuningasten historiakirjassa. Ja hanen poikansa Amatsia tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">27.</div> Mutta hanen poikainsa ja hanen aikanansa koottujen verojen luku, ja Jumalan huoneen rakennus, katso, ne ovat kirjoitetut kuningasten historiakirjassa. Ja hanen poikansa Amatsia tuli kuninkaaksi hanen siaansa.	</div>
 </body>
 </html>

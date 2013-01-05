@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Jobin 24	</div>
 	
-<div class="versenum">1.</div> Siksi ei Kaikkivaltiaalta ole ajat salatut? ja ne, jotka hanen tuntevat, ei nae hanen paiviansa?	
+<div class="theverse"><div class="versenum">1.</div> Siksi ei Kaikkivaltiaalta ole ajat salatut? ja ne, jotka hanen tuntevat, ei nae hanen paiviansa?	</div>
 
-<div class="versenum">2.</div> He siirtavat rajan, he ryovaavat lauman ja ruokkivat sen. '	
+<div class="theverse"><div class="versenum">2.</div> He siirtavat rajan, he ryovaavat lauman ja ruokkivat sen. '	</div>
 
-<div class="versenum">3.</div> He ajavat orpoin aasit pois, ja ottavat leskein harjat pantiksi.	
+<div class="theverse"><div class="versenum">3.</div> He ajavat orpoin aasit pois, ja ottavat leskein harjat pantiksi.	</div>
 
-<div class="versenum">4.</div> Koyhain taytyy tiella paeta heita, ja siviat maan paalla lymyttavat itsensa.	
+<div class="theverse"><div class="versenum">4.</div> Koyhain taytyy tiella paeta heita, ja siviat maan paalla lymyttavat itsensa.	</div>
 
-<div class="versenum">5.</div> Katso, niinkuin metsa-aasit korvessa, lahtevat he ulos ja samoovat varhain saaliin peraan: korvessa on jokaiselle heista ruokaa, niin myos nuorukaisille.	
+<div class="theverse"><div class="versenum">5.</div> Katso, niinkuin metsa-aasit korvessa, lahtevat he ulos ja samoovat varhain saaliin peraan: korvessa on jokaiselle heista ruokaa, niin myos nuorukaisille.	</div>
 
-<div class="versenum">6.</div> He niittavat pellolla hanen tulonsa, ja poimivat ja hakevat jumalattoman viinamaessa.	
+<div class="theverse"><div class="versenum">6.</div> He niittavat pellolla hanen tulonsa, ja poimivat ja hakevat jumalattoman viinamaessa.	</div>
 
-<div class="versenum">7.</div> Alastoman antavat he maata ilman vaatetta ja peittamatta pakkasessa.	
+<div class="theverse"><div class="versenum">7.</div> Alastoman antavat he maata ilman vaatetta ja peittamatta pakkasessa.	</div>
 
-<div class="versenum">8.</div> Vuorten vuotamisesta tulevat he maraksi; ja ettei heilla yhtaan turvaa ole, turvaavat he makiin.	
+<div class="theverse"><div class="versenum">8.</div> Vuorten vuotamisesta tulevat he maraksi; ja ettei heilla yhtaan turvaa ole, turvaavat he makiin.	</div>
 
-<div class="versenum">9.</div> He repivat orvot nisista, ja panttaavat koyhan.	
+<div class="theverse"><div class="versenum">9.</div> He repivat orvot nisista, ja panttaavat koyhan.	</div>
 
-<div class="versenum">10.</div> Alastoman antavat he kayda verhotta, ja ottavat isoovaiselta jalalliset pois.	
+<div class="theverse"><div class="versenum">10.</div> Alastoman antavat he kayda verhotta, ja ottavat isoovaiselta jalalliset pois.	</div>
 
-<div class="versenum">11.</div> He pusertavat oljya huonettensa vaiheella, ja janoovat viinaa kuurnitessa.	
+<div class="theverse"><div class="versenum">11.</div> He pusertavat oljya huonettensa vaiheella, ja janoovat viinaa kuurnitessa.	</div>
 
-<div class="versenum">12.</div> He saattavat kansan kaupungissa huokaamaan, ja tapettuin sielut huutamaan: ja ei Jumala heita rankaise.	
+<div class="theverse"><div class="versenum">12.</div> He saattavat kansan kaupungissa huokaamaan, ja tapettuin sielut huutamaan: ja ei Jumala heita rankaise.	</div>
 
-<div class="versenum">13.</div> Sentahden ovat he vilpistyneet valkeudesta, ja ei tunne sen tieta, ja ei palaja sen poluille.	
+<div class="theverse"><div class="versenum">13.</div> Sentahden ovat he vilpistyneet valkeudesta, ja ei tunne sen tieta, ja ei palaja sen poluille.	</div>
 
-<div class="versenum">14.</div> Murhaaja nousee varhain ja tappaa koyhan ja tarvitsevan, ja on yolla niinkuin varas.	
+<div class="theverse"><div class="versenum">14.</div> Murhaaja nousee varhain ja tappaa koyhan ja tarvitsevan, ja on yolla niinkuin varas.	</div>
 
-<div class="versenum">15.</div> Salavuoteisen silmat vartioitsevat hamaraa, ja sanoo: ei minua yksikaan silma nae; ja luulee itsensa peitetyksi.	
+<div class="theverse"><div class="versenum">15.</div> Salavuoteisen silmat vartioitsevat hamaraa, ja sanoo: ei minua yksikaan silma nae; ja luulee itsensa peitetyksi.	</div>
 
-<div class="versenum">16.</div> Pimeassa han kaivaa itsensa huoneisiin, jotka he paivalla ovat itsellensa merkinneet, ja ei tahdo tietaa valkeutta.	
+<div class="theverse"><div class="versenum">16.</div> Pimeassa han kaivaa itsensa huoneisiin, jotka he paivalla ovat itsellensa merkinneet, ja ei tahdo tietaa valkeutta.	</div>
 
-<div class="versenum">17.</div> Silla vaikka aamu heille tulis, on se heille niinkuin pimeys; silla han tuntee pimeyden kauhistuksen.	
+<div class="theverse"><div class="versenum">17.</div> Silla vaikka aamu heille tulis, on se heille niinkuin pimeys; silla han tuntee pimeyden kauhistuksen.	</div>
 
-<div class="versenum">18.</div> Han on kevia veden paalla, heidan osansa pitaa kirotun oleman maalla; ja ei han katso viinamakien tieta.	
+<div class="theverse"><div class="versenum">18.</div> Han on kevia veden paalla, heidan osansa pitaa kirotun oleman maalla; ja ei han katso viinamakien tieta.	</div>
 
-<div class="versenum">19.</div> Helvetti ottaa syntiset pois niinkuin pouta, ja niinkuin kuivuus kuluttaa lumisen veden.	
+<div class="theverse"><div class="versenum">19.</div> Helvetti ottaa syntiset pois niinkuin pouta, ja niinkuin kuivuus kuluttaa lumisen veden.	</div>
 
-<div class="versenum">20.</div> Laupius pitaa unhottaman hanen, madot syovat hanen makeutensa, ei hanta pida muistettaman; han pitaa sarjettaman niinkuin lahopuu.	
+<div class="theverse"><div class="versenum">20.</div> Laupius pitaa unhottaman hanen, madot syovat hanen makeutensa, ei hanta pida muistettaman; han pitaa sarjettaman niinkuin lahopuu.	</div>
 
-<div class="versenum">21.</div> Han on saattanut murheelliseksi hedelmattoman, joka ei synnyta, ja ei tehnyt leskelle mitaan hyvaa.	
+<div class="theverse"><div class="versenum">21.</div> Han on saattanut murheelliseksi hedelmattoman, joka ei synnyta, ja ei tehnyt leskelle mitaan hyvaa.	</div>
 
-<div class="versenum">22.</div> Ja on vetanyt voimalliset allensa vaellansa; koska han seisoo, ei pida hanen tietaman elamastansa.	
+<div class="theverse"><div class="versenum">22.</div> Ja on vetanyt voimalliset allensa vaellansa; koska han seisoo, ei pida hanen tietaman elamastansa.	</div>
 
-<div class="versenum">23.</div> Han tekee itsellensa levon, johon han luottaa, ja hanen silmansa katsovat heidan teitansa.	
+<div class="theverse"><div class="versenum">23.</div> Han tekee itsellensa levon, johon han luottaa, ja hanen silmansa katsovat heidan teitansa.	</div>
 
-<div class="versenum">24.</div> He ovat vahan aikaa korotetut, vaan he tulevat tyhjaan, ja kukistetaan, ja saavat lopun niinkuin kaikki kappaleet, ja niinkuin oas tahkapaasta, lyodaan he pois.	
+<div class="theverse"><div class="versenum">24.</div> He ovat vahan aikaa korotetut, vaan he tulevat tyhjaan, ja kukistetaan, ja saavat lopun niinkuin kaikki kappaleet, ja niinkuin oas tahkapaasta, lyodaan he pois.	</div>
 
-<div class="versenum">25.</div> Eiko se niin ole? kuka nuhtelee minua valhetteliaksi, ja minun sanani tyhjaksi tekee?	
+<div class="theverse"><div class="versenum">25.</div> Eiko se niin ole? kuka nuhtelee minua valhetteliaksi, ja minun sanani tyhjaksi tekee?	</div>
 </body>
 </html>

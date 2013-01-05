@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 3	</div>
 	
-<div class="versenum">1.</div> Ja me palasimme ja menimme Basanin tieta: niin Og Basanin kuningas laksi kaiken vakensa kanssa meita vastaan sotimaan Edrein tykona.	
+<div class="theverse"><div class="versenum">1.</div> Ja me palasimme ja menimme Basanin tieta: niin Og Basanin kuningas laksi kaiken vakensa kanssa meita vastaan sotimaan Edrein tykona.	</div>
 
-<div class="versenum">2.</div> Mutta Herra sanoi minulle: ala pelkaa hanta; silla mina olen antanut hanen sinun kasiis ja kaiken hanen vakensa ja hanen maansa, ja sinun pitaa tekeman hanelle, niinkuin sina teit Sihonille Amorilaisten kuninkaalle, joka Hesbonissa asui.	
+<div class="theverse"><div class="versenum">2.</div> Mutta Herra sanoi minulle: ala pelkaa hanta; silla mina olen antanut hanen sinun kasiis ja kaiken hanen vakensa ja hanen maansa, ja sinun pitaa tekeman hanelle, niinkuin sina teit Sihonille Amorilaisten kuninkaalle, joka Hesbonissa asui.	</div>
 
-<div class="versenum">3.</div> Ja niin Herra meidan Jumalamme antoi kuningas Ogin Basanista meidan kasiimme, ynna kaiken hanen vakensa kanssa, ja me loimme hanen siihenasti ettei hanelle yhtakaan jaanyt.	
+<div class="theverse"><div class="versenum">3.</div> Ja niin Herra meidan Jumalamme antoi kuningas Ogin Basanista meidan kasiimme, ynna kaiken hanen vakensa kanssa, ja me loimme hanen siihenasti ettei hanelle yhtakaan jaanyt.	</div>
 
-<div class="versenum">4.</div> Ja silloin me otimme kaikki hanen kaupunkinsa, ja ei ollut hanella yhtaan kaupunkia,jota emme hanelta ottaneet pois: kuusikymmenta kaupunkia, ja koko Argobin maakunnan, joka oli Ogin valtakunnassa Basanissa.	
+<div class="theverse"><div class="versenum">4.</div> Ja silloin me otimme kaikki hanen kaupunkinsa, ja ei ollut hanella yhtaan kaupunkia,jota emme hanelta ottaneet pois: kuusikymmenta kaupunkia, ja koko Argobin maakunnan, joka oli Ogin valtakunnassa Basanissa.	</div>
 
-<div class="versenum">5.</div> Ja kaikki namat kaupungit olivat vahvistetut korkeilla muureilla, porteilla ja teljilla, paitsi monta muuta kaupunkia, jotka olivat erinaiset maakylat,	
+<div class="theverse"><div class="versenum">5.</div> Ja kaikki namat kaupungit olivat vahvistetut korkeilla muureilla, porteilla ja teljilla, paitsi monta muuta kaupunkia, jotka olivat erinaiset maakylat,	</div>
 
-<div class="versenum">6.</div> Jotka me kaikki maahan kukistimme, niinkuin me Sihonille Hesbonin kuninkaalle teimme: me havitimme kaiken kaupungin miehet, vaimot ja myos lapset;	
+<div class="theverse"><div class="versenum">6.</div> Jotka me kaikki maahan kukistimme, niinkuin me Sihonille Hesbonin kuninkaalle teimme: me havitimme kaiken kaupungin miehet, vaimot ja myos lapset;	</div>
 
-<div class="versenum">7.</div> Vaan kaikki elaimet, ja kaiken saaliin kaupungeista, otimme me meillemme.	
+<div class="theverse"><div class="versenum">7.</div> Vaan kaikki elaimet, ja kaiken saaliin kaupungeista, otimme me meillemme.	</div>
 
-<div class="versenum">8.</div> Ja niin me otimme siihen aikaan sen maan kahden Amorilaisten kuninkaan kadesta, silla puolella Jordania, Arnonin ojasta niin Hermonin vuoreen asti.	
+<div class="theverse"><div class="versenum">8.</div> Ja niin me otimme siihen aikaan sen maan kahden Amorilaisten kuninkaan kadesta, silla puolella Jordania, Arnonin ojasta niin Hermonin vuoreen asti.	</div>
 
-<div class="versenum">9.</div> Sidonilaiset kutsuivat Hermonin Sirioniksi, mutta Amorilaiset kutsuivat sen Seniriksi,	
+<div class="theverse"><div class="versenum">9.</div> Sidonilaiset kutsuivat Hermonin Sirioniksi, mutta Amorilaiset kutsuivat sen Seniriksi,	</div>
 
-<div class="versenum">10.</div> Ja kaikki kaupungit lakialla, ja koko Gileadin, ja koko Basanin, Salkaan ja Edreiin asti, Ogin valtakunnassa Basanin kaupungit.	
+<div class="theverse"><div class="versenum">10.</div> Ja kaikki kaupungit lakialla, ja koko Gileadin, ja koko Basanin, Salkaan ja Edreiin asti, Ogin valtakunnassa Basanin kaupungit.	</div>
 
-<div class="versenum">11.</div> Silla ainoastansa kuningas Og Basanissa oli jaanyt Refalaisista: katso, hanen vuoteensa, rautainen vuode, eiko se ole Ammonin lasten Rabbatissa? joka on yhdeksan kyynaraa pitka, ja nelja kyynaraa lavia, miehen kyynarpaan pituudelta.	
+<div class="theverse"><div class="versenum">11.</div> Silla ainoastansa kuningas Og Basanissa oli jaanyt Refalaisista: katso, hanen vuoteensa, rautainen vuode, eiko se ole Ammonin lasten Rabbatissa? joka on yhdeksan kyynaraa pitka, ja nelja kyynaraa lavia, miehen kyynarpaan pituudelta.	</div>
 
-<div class="versenum">12.</div> Ja niin me siihen aikaan sen maan meillemme omistimme: Aroerista Arnonin ojan tykoa, ja puolen Gileadin makea, ja sen kaupungit, annoin mina Rubenilaisille ja Gadilaisille.	
+<div class="theverse"><div class="versenum">12.</div> Ja niin me siihen aikaan sen maan meillemme omistimme: Aroerista Arnonin ojan tykoa, ja puolen Gileadin makea, ja sen kaupungit, annoin mina Rubenilaisille ja Gadilaisille.	</div>
 
-<div class="versenum">13.</div> Mutta mita Gileadista jai ja koko Basanin kanssa, joka kutsutaan Refalaisten maaksi.	
+<div class="theverse"><div class="versenum">13.</div> Mutta mita Gileadista jai ja koko Basanin kanssa, joka kutsutaan Refalaisten maaksi.	</div>
 
-<div class="versenum">14.</div> Jair Manassen poika sai koko Argobin maakunnan Gessurin ja Makatin maan aariin, ja kutsui Basanin oman nimensa jalkeen Jairin kyliksi, tahan paivaan asti.	
+<div class="theverse"><div class="versenum">14.</div> Jair Manassen poika sai koko Argobin maakunnan Gessurin ja Makatin maan aariin, ja kutsui Basanin oman nimensa jalkeen Jairin kyliksi, tahan paivaan asti.	</div>
 
-<div class="versenum">15.</div> Mutta Makirille mina annoin Gileadin.	
+<div class="theverse"><div class="versenum">15.</div> Mutta Makirille mina annoin Gileadin.	</div>
 
-<div class="versenum">16.</div> Ja Rubenilaisille ja Gadilaisille annoin mina osan Gileadista, Arnonin ojaan asti, keskelle ojaa, kussa raja on, niin Jabbokin ojaan asti, jossa Ammonin lasten raja on,	
+<div class="theverse"><div class="versenum">16.</div> Ja Rubenilaisille ja Gadilaisille annoin mina osan Gileadista, Arnonin ojaan asti, keskelle ojaa, kussa raja on, niin Jabbokin ojaan asti, jossa Ammonin lasten raja on,	</div>
 
-<div class="versenum">17.</div> Niin myos Araban kedon ja Jordanin ja rajamaat Kinneretista niin kedon mereen asti, se on Suolainen meri, Pisgan vuoren alaisella puolella itaa kohden.	
+<div class="theverse"><div class="versenum">17.</div> Niin myos Araban kedon ja Jordanin ja rajamaat Kinneretista niin kedon mereen asti, se on Suolainen meri, Pisgan vuoren alaisella puolella itaa kohden.	</div>
 
-<div class="versenum">18.</div> Ja mina kaskin teita silla ajalla, ja sanoin: Herra teidan Jumalanne on antanut teille taman maan omaksenne: menkaat aseinenne veljeinne Israelin lasten edella, kaikki te, jotka vakevat olette sotaan menemaan.	
+<div class="theverse"><div class="versenum">18.</div> Ja mina kaskin teita silla ajalla, ja sanoin: Herra teidan Jumalanne on antanut teille taman maan omaksenne: menkaat aseinenne veljeinne Israelin lasten edella, kaikki te, jotka vakevat olette sotaan menemaan.	</div>
 
-<div class="versenum">19.</div> Paitsi emantianne, lapsianne ja myos karjaanne, (silla mina tiedan teilla olevan paljo karjaa) antakaat niiden olla kaupungeissanne, jotka mina teille antanut olen,	
+<div class="theverse"><div class="versenum">19.</div> Paitsi emantianne, lapsianne ja myos karjaanne, (silla mina tiedan teilla olevan paljo karjaa) antakaat niiden olla kaupungeissanne, jotka mina teille antanut olen,	</div>
 
-<div class="versenum">20.</div> Siihenasti etta Herra teidan veljennekin saattaa lepoon, niinkuin teidatkin, etta hekin omistaisivatsen maan, jonka Herra teidan Jumalanne heille antava on tuolla puolella Jordania: sitte te palajatte kukin omaisuuteenne, jonka mina teille antanut olen.	
+<div class="theverse"><div class="versenum">20.</div> Siihenasti etta Herra teidan veljennekin saattaa lepoon, niinkuin teidatkin, etta hekin omistaisivatsen maan, jonka Herra teidan Jumalanne heille antava on tuolla puolella Jordania: sitte te palajatte kukin omaisuuteenne, jonka mina teille antanut olen.	</div>
 
-<div class="versenum">21.</div> Ja mina kaskin Josualle silla ajalla, sanoen: sinun silmas ovat nahneet kaikki, mita Herra teidan Jumalanne naille kahdelle kuninkaalle on tehnyt, niin han on myos tekeva kaikille valtakunnille, kuhunka sina menet.	
+<div class="theverse"><div class="versenum">21.</div> Ja mina kaskin Josualle silla ajalla, sanoen: sinun silmas ovat nahneet kaikki, mita Herra teidan Jumalanne naille kahdelle kuninkaalle on tehnyt, niin han on myos tekeva kaikille valtakunnille, kuhunka sina menet.	</div>
 
-<div class="versenum">22.</div> Alkaat heita peljatko; silla Herra teidan Jumalanne itse sotii teidan edestanne.	
+<div class="theverse"><div class="versenum">22.</div> Alkaat heita peljatko; silla Herra teidan Jumalanne itse sotii teidan edestanne.	</div>
 
-<div class="versenum">23.</div> Ja mina rukoilin Herraa siihen aikaan, sanoen:	
+<div class="theverse"><div class="versenum">23.</div> Ja mina rukoilin Herraa siihen aikaan, sanoen:	</div>
 
-<div class="versenum">24.</div> Herra, Heraa, sina olet ruvennut ilmoittamaan palvelialles sinun kunnias ja sinun vahvan kates; silla kuka on Jumala taivaassa eli maassa, joka taitaa sinun tekos ja vakes peraan tehda?	
+<div class="theverse"><div class="versenum">24.</div> Herra, Heraa, sina olet ruvennut ilmoittamaan palvelialles sinun kunnias ja sinun vahvan kates; silla kuka on Jumala taivaassa eli maassa, joka taitaa sinun tekos ja vakes peraan tehda?	</div>
 
-<div class="versenum">25.</div> Anna nyt minun menna katsomaan sita hyvaa maata tuolla puolella Jordania, hyvia vuoria ja Libanonia.	
+<div class="theverse"><div class="versenum">25.</div> Anna nyt minun menna katsomaan sita hyvaa maata tuolla puolella Jordania, hyvia vuoria ja Libanonia.	</div>
 
-<div class="versenum">26.</div> Mutta Herra vihastui minun paalleni teidan tahtenne, eika kuullut minun rukoustani; mutta sanoi minulle: sinulla on kylla, ala minulle siita asiasta enempaa puhu.	
+<div class="theverse"><div class="versenum">26.</div> Mutta Herra vihastui minun paalleni teidan tahtenne, eika kuullut minun rukoustani; mutta sanoi minulle: sinulla on kylla, ala minulle siita asiasta enempaa puhu.	</div>
 
-<div class="versenum">27.</div> Astu Pisgan kukkulalle, ja nosta silmas lanteen pain, pohjaan pain, lounaan pain ja itaan pain, ja katso silmillas; silla ei sinun pida meneman taman Jordanin ylitse.	
+<div class="theverse"><div class="versenum">27.</div> Astu Pisgan kukkulalle, ja nosta silmas lanteen pain, pohjaan pain, lounaan pain ja itaan pain, ja katso silmillas; silla ei sinun pida meneman taman Jordanin ylitse.	</div>
 
-<div class="versenum">28.</div> Mutta kaske Josualle ja vahvista hanta, ja rohkaise hanta; silla hanen pitaa meneman ylitse, taman kansan edella, ja pitaa heille omistaman perinnoksi sen maan, jonka sina naet.	
+<div class="theverse"><div class="versenum">28.</div> Mutta kaske Josualle ja vahvista hanta, ja rohkaise hanta; silla hanen pitaa meneman ylitse, taman kansan edella, ja pitaa heille omistaman perinnoksi sen maan, jonka sina naet.	</div>
 
-<div class="versenum">29.</div> Ja me olimme siina laaksossa, joka on BetPeorin kohdalla.	
+<div class="theverse"><div class="versenum">29.</div> Ja me olimme siina laaksossa, joka on BetPeorin kohdalla.	</div>
 </body>
 </html>

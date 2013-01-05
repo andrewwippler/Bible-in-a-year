@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Esterin 8	</div>
 	
-<div class="versenum">1.</div> Sina paivana antoi kuningas Ahasverus kuningatar Esterille Hamanin Juudalaisten vihollisen huoneen. Ja Mordekai tuli kuninkaan eteen; silla Ester ilmoitti, mika han hanelle oli.	
+<div class="theverse"><div class="versenum">1.</div> Sina paivana antoi kuningas Ahasverus kuningatar Esterille Hamanin Juudalaisten vihollisen huoneen. Ja Mordekai tuli kuninkaan eteen; silla Ester ilmoitti, mika han hanelle oli.	</div>
 
-<div class="versenum">2.</div> Ja kuningas otti sormuksensa, jonka han oli antanut Hamanilta pois ottaa, ja antoi Mordekaille. Ja Ester pani Mordekain Hamanin kartanon paalle.	
+<div class="theverse"><div class="versenum">2.</div> Ja kuningas otti sormuksensa, jonka han oli antanut Hamanilta pois ottaa, ja antoi Mordekaille. Ja Ester pani Mordekain Hamanin kartanon paalle.	</div>
 
-<div class="versenum">3.</div> Ja Ester puhui viela kuninkaalle, ja lankesi hanen jalkainsa juureen, itki ja rukoili hanta palauttamaan Hamanin Agagilaisen pahuutta ja hanen aikomustansa, jonka han oli ajatellut Juudalaisia vastaan.	
+<div class="theverse"><div class="versenum">3.</div> Ja Ester puhui viela kuninkaalle, ja lankesi hanen jalkainsa juureen, itki ja rukoili hanta palauttamaan Hamanin Agagilaisen pahuutta ja hanen aikomustansa, jonka han oli ajatellut Juudalaisia vastaan.	</div>
 
-<div class="versenum">4.</div> Niin kuningas ojensi kultaisen valtikan Esterin puoleen. Ja Ester nousi ja seisoi kuninkaan edessa,	
+<div class="theverse"><div class="versenum">4.</div> Niin kuningas ojensi kultaisen valtikan Esterin puoleen. Ja Ester nousi ja seisoi kuninkaan edessa,	</div>
 
-<div class="versenum">5.</div> Ja sanoi: jos kuninkaalle kelpaa, ja jos mina olen armon loytanyt hanen edessansa, ja jos se on kuninkaalle sovelias, ja mina kelpaan hanelle; niin kirjoitettakoon ja otettakoon takaperin kaikki Hamanin Medatan Agagilaisen pojan aikomuskirjat, jotka han on kirjoittanut, etta kaikki Juudalaiset surmattaisiin kaikissa kuninkaan maakunnissa.	
+<div class="theverse"><div class="versenum">5.</div> Ja sanoi: jos kuninkaalle kelpaa, ja jos mina olen armon loytanyt hanen edessansa, ja jos se on kuninkaalle sovelias, ja mina kelpaan hanelle; niin kirjoitettakoon ja otettakoon takaperin kaikki Hamanin Medatan Agagilaisen pojan aikomuskirjat, jotka han on kirjoittanut, etta kaikki Juudalaiset surmattaisiin kaikissa kuninkaan maakunnissa.	</div>
 
-<div class="versenum">6.</div> Silla kuinka mina voin nahda sita pahuutta, joka minun kansalleni tulis? ja kuinka mina voin nahda, etta minun sukukuntani niin teloitetaan.	
+<div class="theverse"><div class="versenum">6.</div> Silla kuinka mina voin nahda sita pahuutta, joka minun kansalleni tulis? ja kuinka mina voin nahda, etta minun sukukuntani niin teloitetaan.	</div>
 
-<div class="versenum">7.</div> Niin kuningas Ahasverus sanoi kuningatar Esterille ja Mordekaille Juudalaiselle: katso mina olen antanut Esterille Hamanin huoneen, ja han hirtettiin puuhun, etta han laski katensa Juudalaisten paalle.	
+<div class="theverse"><div class="versenum">7.</div> Niin kuningas Ahasverus sanoi kuningatar Esterille ja Mordekaille Juudalaiselle: katso mina olen antanut Esterille Hamanin huoneen, ja han hirtettiin puuhun, etta han laski katensa Juudalaisten paalle.	</div>
 
-<div class="versenum">8.</div> Niin kirjoittakaat siis te Juudalaisten puolesta kuninkaan nimeen, niinkuin te itse tahdotte, ja painakaat sinetti kuninkaan sormuksella; silla sita kirjoitusta, joka kuninkaan nimella kirjoitetaan, ja kuninkaan sormuksella sinetti painetaan, ei taideta otettaa takaperin.	
+<div class="theverse"><div class="versenum">8.</div> Niin kirjoittakaat siis te Juudalaisten puolesta kuninkaan nimeen, niinkuin te itse tahdotte, ja painakaat sinetti kuninkaan sormuksella; silla sita kirjoitusta, joka kuninkaan nimella kirjoitetaan, ja kuninkaan sormuksella sinetti painetaan, ei taideta otettaa takaperin.	</div>
 
-<div class="versenum">9.</div> Silloin kutsuttiin kuninkaan kirjoittajat kolmantena kuukautena, se on Sivan kuu, kolmantena paivana kolmattakymmenta, ja kirjoitettiin juuri niinkuin Mordekai kaski Juudalaisten tyko, ja hallitsiain tyko, maanvanhimpien ja maakuntain paamiesten tyko, Indiasta Etiopiaan asti, joita oli sata ja seitsemankolmattakymmenta maakuntaa, kunkin maakunnan kirjoituksen jalkeen, jokaisen kansan tyko heidan kielellansa, ja Juudalaisten tyko heidan kirjoituksensa jalkeen ja heidan kielellansa.	
+<div class="theverse"><div class="versenum">9.</div> Silloin kutsuttiin kuninkaan kirjoittajat kolmantena kuukautena, se on Sivan kuu, kolmantena paivana kolmattakymmenta, ja kirjoitettiin juuri niinkuin Mordekai kaski Juudalaisten tyko, ja hallitsiain tyko, maanvanhimpien ja maakuntain paamiesten tyko, Indiasta Etiopiaan asti, joita oli sata ja seitsemankolmattakymmenta maakuntaa, kunkin maakunnan kirjoituksen jalkeen, jokaisen kansan tyko heidan kielellansa, ja Juudalaisten tyko heidan kirjoituksensa jalkeen ja heidan kielellansa.	</div>
 
-<div class="versenum">10.</div> Ja kirjoitettiin kuningas Ahasveruksen nimella, ja sinetti painettiin kuninkaan sormuksella; ja han lahetti kirjat hevosilla, nopeimmilla orheilla ja nuorilla muuleilla ajavaisten kautta,	
+<div class="theverse"><div class="versenum">10.</div> Ja kirjoitettiin kuningas Ahasveruksen nimella, ja sinetti painettiin kuninkaan sormuksella; ja han lahetti kirjat hevosilla, nopeimmilla orheilla ja nuorilla muuleilla ajavaisten kautta,	</div>
 
-<div class="versenum">11.</div> Etta kuningas salli Juudalaiset kussakin kaupungissa koota heitansa, ja varjella henkensa, ja teloittaa, tappaa ja hukuttaa kaikkein kansain ja maakuntain sotavaen, jotka heita vaivasivat, lapsinensa, ja vaimoinensa, ja ryostaa heidan saaliinsa,	
+<div class="theverse"><div class="versenum">11.</div> Etta kuningas salli Juudalaiset kussakin kaupungissa koota heitansa, ja varjella henkensa, ja teloittaa, tappaa ja hukuttaa kaikkein kansain ja maakuntain sotavaen, jotka heita vaivasivat, lapsinensa, ja vaimoinensa, ja ryostaa heidan saaliinsa,	</div>
 
-<div class="versenum">12.</div> Yhtena paivana kaikissa kuningas Ahasveruksen maakunnissa, kolmantenatoistakymmenentena paivana toista kuuta toistakymmenta, se on kuu Adar.	
+<div class="theverse"><div class="versenum">12.</div> Yhtena paivana kaikissa kuningas Ahasveruksen maakunnissa, kolmantenatoistakymmenentena paivana toista kuuta toistakymmenta, se on kuu Adar.	</div>
 
-<div class="versenum">13.</div> Ja kirjoissa oli, etta kasky oli annettu kaikkiin maakuntiin julistettaa kaikille kansoille, etta Juudalaiset olisivat sina paivana valmiit kostamaan vihollisillensa.	
+<div class="theverse"><div class="versenum">13.</div> Ja kirjoissa oli, etta kasky oli annettu kaikkiin maakuntiin julistettaa kaikille kansoille, etta Juudalaiset olisivat sina paivana valmiit kostamaan vihollisillensa.	</div>
 
-<div class="versenum">14.</div> Ja liukkailla orheilla ja karkaavaisilla muuleilla ajavaiset sanansaattajat ajoivat nopiasti ja kiiruusti kuninkaan sanan jalkeen; ja se kasky lyotiin Susanin linnassa ylos.	
+<div class="theverse"><div class="versenum">14.</div> Ja liukkailla orheilla ja karkaavaisilla muuleilla ajavaiset sanansaattajat ajoivat nopiasti ja kiiruusti kuninkaan sanan jalkeen; ja se kasky lyotiin Susanin linnassa ylos.	</div>
 
-<div class="versenum">15.</div> Ja Mordekai laksi kuninkaan tykoa kuninkaallisissa vaatteissa, sinisissa ja valkeissa, ja suurella kultakruunulla, ja kalliilla liinaisella hameella ja purpuralla. Ja Susanin kaupunki iloitsi ja riemuitsi.	
+<div class="theverse"><div class="versenum">15.</div> Ja Mordekai laksi kuninkaan tykoa kuninkaallisissa vaatteissa, sinisissa ja valkeissa, ja suurella kultakruunulla, ja kalliilla liinaisella hameella ja purpuralla. Ja Susanin kaupunki iloitsi ja riemuitsi.	</div>
 
-<div class="versenum">16.</div> Silla sinne oli tullut valkeus ja ilo, riemu ja kunnia Juudalaisille.	
+<div class="theverse"><div class="versenum">16.</div> Silla sinne oli tullut valkeus ja ilo, riemu ja kunnia Juudalaisille.	</div>
 
-<div class="versenum">17.</div> Ja kaikissa maakunnissa ja kaupungeissa, joihin kuninkaan sana ja kasky tuli, oli ilo ja riemu Juudalaisten keskella, pito ja hyvat paivat. Ja monta maan kansasta tuli Juudalaiseksi; silla Juudalaisten pelko tuli heidan paallensa.	
+<div class="theverse"><div class="versenum">17.</div> Ja kaikissa maakunnissa ja kaupungeissa, joihin kuninkaan sana ja kasky tuli, oli ilo ja riemu Juudalaisten keskella, pito ja hyvat paivat. Ja monta maan kansasta tuli Juudalaiseksi; silla Juudalaisten pelko tuli heidan paallensa.	</div>
 </body>
 </html>

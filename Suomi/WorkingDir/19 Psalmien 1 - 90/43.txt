@@ -4,14 +4,14 @@
 </head>
 <body><div class="chaptertitle">Psalmien 43	</div>
 	
-<div class="versenum">1.</div> Tuomitse minua, Jumala, ja ratkaise minun asiani armotointa kansaa vastaan, ja paasta minua kavaloista ja vaarista ihmisista.	
+<div class="theverse"><div class="versenum">1.</div> Tuomitse minua, Jumala, ja ratkaise minun asiani armotointa kansaa vastaan, ja paasta minua kavaloista ja vaarista ihmisista.	</div>
 
-<div class="versenum">2.</div> Silla sina olet minun vakevyyteni Jumala, miksis syokset minun pois? miksis minun annat murheissani kayda, koska vihollinen minua ahdistaa?	
+<div class="theverse"><div class="versenum">2.</div> Silla sina olet minun vakevyyteni Jumala, miksis syokset minun pois? miksis minun annat murheissani kayda, koska vihollinen minua ahdistaa?	</div>
 
-<div class="versenum">3.</div> Laheta valkeutes ja totuutes minua saattamaan, ja tuomaan sinun pyhan vuores tyko ja sinun asumises tyko.	
+<div class="theverse"><div class="versenum">3.</div> Laheta valkeutes ja totuutes minua saattamaan, ja tuomaan sinun pyhan vuores tyko ja sinun asumises tyko.	</div>
 
-<div class="versenum">4.</div> Ja mina kavisin sisalle Jumalan alttarin tyko, sen Jumalan tyko, joka minun iloni ja riemuni on, ja kiittaisin sinua kanteleilla, Jumalani, minun Jumalani.	
+<div class="theverse"><div class="versenum">4.</div> Ja mina kavisin sisalle Jumalan alttarin tyko, sen Jumalan tyko, joka minun iloni ja riemuni on, ja kiittaisin sinua kanteleilla, Jumalani, minun Jumalani.	</div>
 
-<div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
+<div class="theverse"><div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	</div>
 </body>
 </html>

@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Psalmien 92	</div>
 	
-<div class="versenum">1.</div> Psalmi sabbatina veisattava. (H92:2) Hyva on Herraa kiittaa, ja veisata kiitosta sinun nimelles, sina kaikkein Ylimmainen.	
+<div class="theverse"><div class="versenum">1.</div> Psalmi sabbatina veisattava. (H92:2) Hyva on Herraa kiittaa, ja veisata kiitosta sinun nimelles, sina kaikkein Ylimmainen.	</div>
 
-<div class="versenum">2.</div> Aamulla julistaa armoas, ja ehtoolla totuuttas,	
+<div class="theverse"><div class="versenum">2.</div> Aamulla julistaa armoas, ja ehtoolla totuuttas,	</div>
 
-<div class="versenum">3.</div> Kymmenkielisella ja psaltarilla, soittain kanteleilla.	
+<div class="theverse"><div class="versenum">3.</div> Kymmenkielisella ja psaltarilla, soittain kanteleilla.	</div>
 
-<div class="versenum">4.</div> Silla sina ilahutit minua, Herra, sinun teoissas: ja mina iloiten kerskaan kattes toita.	
+<div class="theverse"><div class="versenum">4.</div> Silla sina ilahutit minua, Herra, sinun teoissas: ja mina iloiten kerskaan kattes toita.	</div>
 
-<div class="versenum">5.</div> Herra, kuinka sinun tekos ovat niin suuret? Sinun ajatukses ovat ylen syvat.	
+<div class="theverse"><div class="versenum">5.</div> Herra, kuinka sinun tekos ovat niin suuret? Sinun ajatukses ovat ylen syvat.	</div>
 
-<div class="versenum">6.</div> Hullu ei usko sita, ja tomppeli ei ymmarra niita.	
+<div class="theverse"><div class="versenum">6.</div> Hullu ei usko sita, ja tomppeli ei ymmarra niita.	</div>
 
-<div class="versenum">7.</div> Jumalattomat viherioitsevat niinkuin ruoho, ja pahointekiat kaikki kukoistavat, siihenasti kuin he hukkuvat ijankaikkisesti.	
+<div class="theverse"><div class="versenum">7.</div> Jumalattomat viherioitsevat niinkuin ruoho, ja pahointekiat kaikki kukoistavat, siihenasti kuin he hukkuvat ijankaikkisesti.	</div>
 
-<div class="versenum">8.</div> Mutta sina, Herra, olet korkein, ja pysyt ijankaikkisesti.	
+<div class="theverse"><div class="versenum">8.</div> Mutta sina, Herra, olet korkein, ja pysyt ijankaikkisesti.	</div>
 
-<div class="versenum">9.</div> Silla katso, sinun vihollises, Herra, katso, sinun vihollises pitaa katooman, ja kaikki pahantekiat pitaa hajoitettaman.	
+<div class="theverse"><div class="versenum">9.</div> Silla katso, sinun vihollises, Herra, katso, sinun vihollises pitaa katooman, ja kaikki pahantekiat pitaa hajoitettaman.	</div>
 
-<div class="versenum">10.</div> Mutta minun sarveni tulee korotetuksi niinkuin yksisarvisen, ja mina voidellaan tuoreella oljylla,	
+<div class="theverse"><div class="versenum">10.</div> Mutta minun sarveni tulee korotetuksi niinkuin yksisarvisen, ja mina voidellaan tuoreella oljylla,	</div>
 
-<div class="versenum">11.</div> Ja minun silmani nakevat viholliseni, ja minun korvani kuulevat pahoja, jotka heitansa asettavat minua vastaan.	
+<div class="theverse"><div class="versenum">11.</div> Ja minun silmani nakevat viholliseni, ja minun korvani kuulevat pahoja, jotka heitansa asettavat minua vastaan.	</div>
 
-<div class="versenum">12.</div> Vanhurskaan pitaa viherioitseman niinkuin palmupuu, ja kasvaman niinkuin sedripuu Libanonissa.	
+<div class="theverse"><div class="versenum">12.</div> Vanhurskaan pitaa viherioitseman niinkuin palmupuu, ja kasvaman niinkuin sedripuu Libanonissa.	</div>
 
-<div class="versenum">13.</div> Jotka ovat istutetut Herran huoneessa, pitaa viherioitseman meidan Jumalamme kartanoissa.	
+<div class="theverse"><div class="versenum">13.</div> Jotka ovat istutetut Herran huoneessa, pitaa viherioitseman meidan Jumalamme kartanoissa.	</div>
 
-<div class="versenum">14.</div> Heidan pitaa vesoman viela vanhuudessansa, hedelmalliset ja vihannat oleman,	
+<div class="theverse"><div class="versenum">14.</div> Heidan pitaa vesoman viela vanhuudessansa, hedelmalliset ja vihannat oleman,	</div>
 
-<div class="versenum">15.</div> Ja julistaman, etta Herra on niin hurskas, minun turvani, ja ei ole hanessa vaaryytta.	
+<div class="theverse"><div class="versenum">15.</div> Ja julistaman, etta Herra on niin hurskas, minun turvani, ja ei ole hanessa vaaryytta.	</div>
 </body>
 </html>

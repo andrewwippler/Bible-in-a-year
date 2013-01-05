@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 16	</div>
 	
-<div class="versenum">1.</div> Asan valtakunnan kuudentena vuonna neljattakymmenta nousi Baesa Israelin kuningas Juudaa vastaan, ja rakensi Raman, estaaksensa Asan Juudan kuninkaan ulos- ja sisallekaymista.	
+<div class="theverse"><div class="versenum">1.</div> Asan valtakunnan kuudentena vuonna neljattakymmenta nousi Baesa Israelin kuningas Juudaa vastaan, ja rakensi Raman, estaaksensa Asan Juudan kuninkaan ulos- ja sisallekaymista.	</div>
 
-<div class="versenum">2.</div> Vaan Asa otti Herran huoneen ja kuninkaan huoneen tavaroista hopiaa ja kultaa, ja lahetti Benhadadille Syrian kuninkaalle, joka asui Damaskussa, ja kaski sanoa hanelle:	
+<div class="theverse"><div class="versenum">2.</div> Vaan Asa otti Herran huoneen ja kuninkaan huoneen tavaroista hopiaa ja kultaa, ja lahetti Benhadadille Syrian kuninkaalle, joka asui Damaskussa, ja kaski sanoa hanelle:	</div>
 
-<div class="versenum">3.</div> Liitto on minun ja sinun vaiheellas, minun ja sinun isas vaiheella: katso, mina lahetin sinulle hopiaa ja kultaa, ettas Baesan Israelin kuninkaan liiton sarkisit, etta han menis pois minun tykoani.	
+<div class="theverse"><div class="versenum">3.</div> Liitto on minun ja sinun vaiheellas, minun ja sinun isas vaiheella: katso, mina lahetin sinulle hopiaa ja kultaa, ettas Baesan Israelin kuninkaan liiton sarkisit, etta han menis pois minun tykoani.	</div>
 
-<div class="versenum">4.</div> Benhadad oli kuningas Asalle kuuliainen ja lahetti sodanpaamiehet, jotka hanella olivat, Israelin kaupungeita vastaan; he loivat Ijonin, Danin ja Abelmajimin, ja kaikki Naphtalin jyvakaupungit.	
+<div class="theverse"><div class="versenum">4.</div> Benhadad oli kuningas Asalle kuuliainen ja lahetti sodanpaamiehet, jotka hanella olivat, Israelin kaupungeita vastaan; he loivat Ijonin, Danin ja Abelmajimin, ja kaikki Naphtalin jyvakaupungit.	</div>
 
-<div class="versenum">5.</div> Kuin Baesa sen kuuli, lakkasi han rakentamasta Ramaa ja jatti tyonsa.	
+<div class="theverse"><div class="versenum">5.</div> Kuin Baesa sen kuuli, lakkasi han rakentamasta Ramaa ja jatti tyonsa.	</div>
 
-<div class="versenum">6.</div> Vaan kuningas Asa otti tykonsa koko Juudan, ja he ottivat kivet ja hirret Ramasta, joista Baesa rakensi. Ja han rakensi niista Geban ja Mitspan.	
+<div class="theverse"><div class="versenum">6.</div> Vaan kuningas Asa otti tykonsa koko Juudan, ja he ottivat kivet ja hirret Ramasta, joista Baesa rakensi. Ja han rakensi niista Geban ja Mitspan.	</div>
 
-<div class="versenum">7.</div> Siihen aikaan tuli Hanani nakia Asan Juudan kuninkaan tyko ja sanoi hanelle: koskas turvasit Syrian kuninkaasen ja et turvannut Herraan Jumalaas, sentahden on Syrian kuninkaan vaki paassyt pois sinun kasistas.	
+<div class="theverse"><div class="versenum">7.</div> Siihen aikaan tuli Hanani nakia Asan Juudan kuninkaan tyko ja sanoi hanelle: koskas turvasit Syrian kuninkaasen ja et turvannut Herraan Jumalaas, sentahden on Syrian kuninkaan vaki paassyt pois sinun kasistas.	</div>
 
-<div class="versenum">8.</div> Eiko Etiopialaiset ja Libialaiset olleet suuri joukko monien vaunuin ja hevosmiesten kanssa? Kuitenkin, koskas Herraan turvasit, antoi han heidat sinun kasiis.	
+<div class="theverse"><div class="versenum">8.</div> Eiko Etiopialaiset ja Libialaiset olleet suuri joukko monien vaunuin ja hevosmiesten kanssa? Kuitenkin, koskas Herraan turvasit, antoi han heidat sinun kasiis.	</div>
 
-<div class="versenum">9.</div> Silla Herran silmat katselevat kaikki maat, vahvistaaksensa niita, jotka pysyvat hanen tykonansa kaikesta sydamestansa. Sina olet tyhmasti tehnyt, sentahden sinun pitaa tastedeskin sotia saaman.	
+<div class="theverse"><div class="versenum">9.</div> Silla Herran silmat katselevat kaikki maat, vahvistaaksensa niita, jotka pysyvat hanen tykonansa kaikesta sydamestansa. Sina olet tyhmasti tehnyt, sentahden sinun pitaa tastedeskin sotia saaman.	</div>
 
-<div class="versenum">10.</div> Niin Asa vihastui nakian paalle ja heitti hanen vankeuteen; silla han kovin suuttui hanen paallensa tasta asiasta. Ja Asa ahdisti muutamia kansasta siihen aikaan.	
+<div class="theverse"><div class="versenum">10.</div> Niin Asa vihastui nakian paalle ja heitti hanen vankeuteen; silla han kovin suuttui hanen paallensa tasta asiasta. Ja Asa ahdisti muutamia kansasta siihen aikaan.	</div>
 
-<div class="versenum">11.</div> Ja katso, Asan tyot, seka ensimaiset etta viimeiset, katso, ne ovat kirjoitetut Juudan ja Israelin kuningasten kirjassa.	
+<div class="theverse"><div class="versenum">11.</div> Ja katso, Asan tyot, seka ensimaiset etta viimeiset, katso, ne ovat kirjoitetut Juudan ja Israelin kuningasten kirjassa.	</div>
 
-<div class="versenum">12.</div> Ja Asa tuli kipiaksi jaloista yhdeksantenaneljattakymmenta valtakuntansa vuotena, ja hanen tautinsa kovin eteni, ja ei han kuitenkaan etsinyt Herraa taudissansakaan, vaan laakareita.	
+<div class="theverse"><div class="versenum">12.</div> Ja Asa tuli kipiaksi jaloista yhdeksantenaneljattakymmenta valtakuntansa vuotena, ja hanen tautinsa kovin eteni, ja ei han kuitenkaan etsinyt Herraa taudissansakaan, vaan laakareita.	</div>
 
-<div class="versenum">13.</div> Niin Asa nukkui isainsa kanssa ja kuoli valtakuntansa ensimaisena vuotena viidettakymmenta.	
+<div class="theverse"><div class="versenum">13.</div> Niin Asa nukkui isainsa kanssa ja kuoli valtakuntansa ensimaisena vuotena viidettakymmenta.	</div>
 
-<div class="versenum">14.</div> Ja han haudattiin omaan hautaansa, jonka han oli antanut kaivaa Davidin kaupungissa. Ja he panivat hanet leposiaansa, joka taytettiin hyvanhajullisilla ja kaikkinaisilla kalliilla yrteilla, jotka olivat valmistetut apotekarein tavalla, ja polttivat hanelle sangen suurella polttamisella.	
+<div class="theverse"><div class="versenum">14.</div> Ja han haudattiin omaan hautaansa, jonka han oli antanut kaivaa Davidin kaupungissa. Ja he panivat hanet leposiaansa, joka taytettiin hyvanhajullisilla ja kaikkinaisilla kalliilla yrteilla, jotka olivat valmistetut apotekarein tavalla, ja polttivat hanelle sangen suurella polttamisella.	</div>
 </body>
 </html>

@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Psalmien 10	</div>
 	
-<div class="versenum">1.</div> Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peitat?	
+<div class="theverse"><div class="versenum">1.</div> Miksis Herra niin kaukana seisot, ja tuskan ajalla sinus peitat?	</div>
 
-<div class="versenum">2.</div> Ylpeydessansa jumalatoin vainoo koyhaa: kasitettakoon he heidan juonissansa, joita he ajattelevat.	
+<div class="theverse"><div class="versenum">2.</div> Ylpeydessansa jumalatoin vainoo koyhaa: kasitettakoon he heidan juonissansa, joita he ajattelevat.	</div>
 
-<div class="versenum">3.</div> Silla jumalatoin itse kerskaa omaa mielivaltaansa: ahne siunailee itsiansa, ja vihoittaa Herran.	
+<div class="theverse"><div class="versenum">3.</div> Silla jumalatoin itse kerskaa omaa mielivaltaansa: ahne siunailee itsiansa, ja vihoittaa Herran.	</div>
 
-<div class="versenum">4.</div> Jumalatoin on koria ja vihainen, ettei han ketaan tottele: ei han Jumalaa olevankaan luule.	
+<div class="theverse"><div class="versenum">4.</div> Jumalatoin on koria ja vihainen, ettei han ketaan tottele: ei han Jumalaa olevankaan luule.	</div>
 
-<div class="versenum">5.</div> Hanen tiensa menestyvat joka aika, sinun tuomios on kaukana hanesta: han ylpeilee kaikkein vihollistensa edessa.	
+<div class="theverse"><div class="versenum">5.</div> Hanen tiensa menestyvat joka aika, sinun tuomios on kaukana hanesta: han ylpeilee kaikkein vihollistensa edessa.	</div>
 
-<div class="versenum">6.</div> Silla han puhuu sydamessansa: en mina ikana kukisteta, ei sukukunnasta sukukuntaan hataa ole.	
+<div class="theverse"><div class="versenum">6.</div> Silla han puhuu sydamessansa: en mina ikana kukisteta, ei sukukunnasta sukukuntaan hataa ole.	</div>
 
-<div class="versenum">7.</div> Jonka suu on taynna kirouksia, kavaluutta ja viettelysta, hanen kielensa saattaa vaivan ja tyon.	
+<div class="theverse"><div class="versenum">7.</div> Jonka suu on taynna kirouksia, kavaluutta ja viettelysta, hanen kielensa saattaa vaivan ja tyon.	</div>
 
-<div class="versenum">8.</div> Han istuu ja vaijyy kartanoissa, murhataksensa salaa viatointa; hanen silmansa palaa koyhan puoleen.	
+<div class="theverse"><div class="versenum">8.</div> Han istuu ja vaijyy kartanoissa, murhataksensa salaa viatointa; hanen silmansa palaa koyhan puoleen.	</div>
 
-<div class="versenum">9.</div> Han vaijyy salaa niinkuin jalopeura luolassansa, han vaijyy raadollista kasittaaksensa, ja han kasittaa hanen, kuin han tempaa sen verkkoihinsa.	
+<div class="theverse"><div class="versenum">9.</div> Han vaijyy salaa niinkuin jalopeura luolassansa, han vaijyy raadollista kasittaaksensa, ja han kasittaa hanen, kuin han tempaa sen verkkoihinsa.	</div>
 
-<div class="versenum">10.</div> Han paiskaa ja polkee alas, ja sysaa koyhan vakivallalla maahan.	
+<div class="theverse"><div class="versenum">10.</div> Han paiskaa ja polkee alas, ja sysaa koyhan vakivallalla maahan.	</div>
 
-<div class="versenum">11.</div> Han sanoo sydamessansa: Jumala on hanen unhottanut, ja verhonnut kasvonsa, ei han ikana nae.	
+<div class="theverse"><div class="versenum">11.</div> Han sanoo sydamessansa: Jumala on hanen unhottanut, ja verhonnut kasvonsa, ei han ikana nae.	</div>
 
-<div class="versenum">12.</div> Nouse, Herra! Jumala, ylenna kates ja ala koyhaa unohda.	
+<div class="theverse"><div class="versenum">12.</div> Nouse, Herra! Jumala, ylenna kates ja ala koyhaa unohda.	</div>
 
-<div class="versenum">13.</div> Miksi jumalatoin pilkkaa Jumalaa ja sanoo sydamessansa: et sina sita tottele?	
+<div class="theverse"><div class="versenum">13.</div> Miksi jumalatoin pilkkaa Jumalaa ja sanoo sydamessansa: et sina sita tottele?	</div>
 
-<div class="versenum">14.</div> Katso siis; silla sina naet tuskat ja surut, se on sinun kasissas: sinuun koyha itsensa luottaa, ja sina olet orpolasten holhoja.	
+<div class="theverse"><div class="versenum">14.</div> Katso siis; silla sina naet tuskat ja surut, se on sinun kasissas: sinuun koyha itsensa luottaa, ja sina olet orpolasten holhoja.	</div>
 
-<div class="versenum">15.</div> Sarje jumalattoman kasivarsi, ja etsi pahan jumalattomuutta, niin ettei sita enaa loydettaisi.	
+<div class="theverse"><div class="versenum">15.</div> Sarje jumalattoman kasivarsi, ja etsi pahan jumalattomuutta, niin ettei sita enaa loydettaisi.	</div>
 
-<div class="versenum">16.</div> Herra on kuningas aina ja ijankaikkisesti: pakanain pitaa haviaman hanen maastansa.	
+<div class="theverse"><div class="versenum">16.</div> Herra on kuningas aina ja ijankaikkisesti: pakanain pitaa haviaman hanen maastansa.	</div>
 
-<div class="versenum">17.</div> Koyhain halauksen sina, Herra, kuulet: heidan sydamensa sina vahvistat, etta sinun korvas siita ottaa vaarin;	
+<div class="theverse"><div class="versenum">17.</div> Koyhain halauksen sina, Herra, kuulet: heidan sydamensa sina vahvistat, etta sinun korvas siita ottaa vaarin;	</div>
 
-<div class="versenum">18.</div> Ettas oikeuden saatat orvoille ja koyhille, ettei ihminen enaa ylpeile heita vastaan maan paalla.	
+<div class="theverse"><div class="versenum">18.</div> Ettas oikeuden saatat orvoille ja koyhille, ettei ihminen enaa ylpeile heita vastaan maan paalla.	</div>
 </body>
 </html>

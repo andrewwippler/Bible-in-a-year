@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Psalmien 19	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H19:2) Taivaat ilmoittavat Jumalan kunnian, ja vahvuus julistaa hanen kattensa teot.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H19:2) Taivaat ilmoittavat Jumalan kunnian, ja vahvuus julistaa hanen kattensa teot.	</div>
 
-<div class="versenum">2.</div> Paiva sanoo paivalle, ja yo ilmoittaa yolle tiedon.	
+<div class="theverse"><div class="versenum">2.</div> Paiva sanoo paivalle, ja yo ilmoittaa yolle tiedon.	</div>
 
-<div class="versenum">3.</div> Ei ole kielta eika puhetta, kussa ei heidan aanensa kuulu.	
+<div class="theverse"><div class="versenum">3.</div> Ei ole kielta eika puhetta, kussa ei heidan aanensa kuulu.	</div>
 
-<div class="versenum">4.</div> Heidan nuoransa kay ulos kaikkiin maihin, ja heidan puheensa maailman aareen asti: auringolle han pani majan heissa.	
+<div class="theverse"><div class="versenum">4.</div> Heidan nuoransa kay ulos kaikkiin maihin, ja heidan puheensa maailman aareen asti: auringolle han pani majan heissa.	</div>
 
-<div class="versenum">5.</div> Ja han kay ulos kammiostansa niinkuin ylka, ja riemuitsee niinkuin sankari tieta juostaksensa.	
+<div class="theverse"><div class="versenum">5.</div> Ja han kay ulos kammiostansa niinkuin ylka, ja riemuitsee niinkuin sankari tieta juostaksensa.	</div>
 
-<div class="versenum">6.</div> Han kay ylos taivasten lopulta ja juoksee ympari hamaan niiden loppuun jalleen; ja ei ole mitaan peitetty hanen lampimansa edesta.	
+<div class="theverse"><div class="versenum">6.</div> Han kay ylos taivasten lopulta ja juoksee ympari hamaan niiden loppuun jalleen; ja ei ole mitaan peitetty hanen lampimansa edesta.	</div>
 
-<div class="versenum">7.</div> Herran laki on taydellinen ja virvoittaa sielut: Herran todistus on vahva ja tekee yksinkertaiset taitaviksi.	
+<div class="theverse"><div class="versenum">7.</div> Herran laki on taydellinen ja virvoittaa sielut: Herran todistus on vahva ja tekee yksinkertaiset taitaviksi.	</div>
 
-<div class="versenum">8.</div> Herran kaskyt ovat oikiat ja ilahuttavat sydamet: Herran kaskyt ovat kirkkaat ja valistavat silmat.	
+<div class="theverse"><div class="versenum">8.</div> Herran kaskyt ovat oikiat ja ilahuttavat sydamet: Herran kaskyt ovat kirkkaat ja valistavat silmat.	</div>
 
-<div class="versenum">9.</div> Herran pelko on puhdas ja pysyy ijankaikkisesti: Herran oikeudet ovat todet, kaikki tyynni vanhurskaat,	
+<div class="theverse"><div class="versenum">9.</div> Herran pelko on puhdas ja pysyy ijankaikkisesti: Herran oikeudet ovat todet, kaikki tyynni vanhurskaat,	</div>
 
-<div class="versenum">10.</div> Ne ovat kalliimmat kultaa ja kaikkein parasta kultaa, ja makeammat hunajaa ja mesileipia.	
+<div class="theverse"><div class="versenum">10.</div> Ne ovat kalliimmat kultaa ja kaikkein parasta kultaa, ja makeammat hunajaa ja mesileipia.	</div>
 
-<div class="versenum">11.</div> Sinun palvelias myos niissa opetetaan: ja joka niita pitaa, hanella on suuri palkka.	
+<div class="theverse"><div class="versenum">11.</div> Sinun palvelias myos niissa opetetaan: ja joka niita pitaa, hanella on suuri palkka.	</div>
 
-<div class="versenum">12.</div> Erhetykset kuka ymmartaa? anna minulle anteeksi salaiset rikokset.	
+<div class="theverse"><div class="versenum">12.</div> Erhetykset kuka ymmartaa? anna minulle anteeksi salaiset rikokset.	</div>
 
-<div class="versenum">13.</div> Varjele myos palvelias ylpeista, ettei he minua hallitsisi; niin mina olen viatoin ja nuhteetoin suuresta pahasta teosta.	
+<div class="theverse"><div class="versenum">13.</div> Varjele myos palvelias ylpeista, ettei he minua hallitsisi; niin mina olen viatoin ja nuhteetoin suuresta pahasta teosta.	</div>
 
-<div class="versenum">14.</div> Kelvatkoon sinulle minun suuni puheet, ja minun sydameni ajatukset sinun edessas, Herra, minun vahani ja minun Lunastajani!	
+<div class="theverse"><div class="versenum">14.</div> Kelvatkoon sinulle minun suuni puheet, ja minun sydameni ajatukset sinun edessas, Herra, minun vahani ja minun Lunastajani!	</div>
 </body>
 </html>

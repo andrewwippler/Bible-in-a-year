@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 24	</div>
 	
-<div class="versenum">1.</div> Ala ole kiivas pahain ihmisten kanssa, ja ala himoitse olla heita lasna;	
+<div class="theverse"><div class="versenum">1.</div> Ala ole kiivas pahain ihmisten kanssa, ja ala himoitse olla heita lasna;	</div>
 
-<div class="versenum">2.</div> Silla heidan sydamensa pyytaa vahingoittaa, ja heidan huulensa neuvovat pahuuteen.	
+<div class="theverse"><div class="versenum">2.</div> Silla heidan sydamensa pyytaa vahingoittaa, ja heidan huulensa neuvovat pahuuteen.	</div>
 
-<div class="versenum">3.</div> Viisaudella raknnetaan huone, ja toimella se vahvistetaan.	
+<div class="theverse"><div class="versenum">3.</div> Viisaudella raknnetaan huone, ja toimella se vahvistetaan.	</div>
 
-<div class="versenum">4.</div> Taidolla kammio taytetaan kaikkinaisista kalliista ja jaloista tavaroista.	
+<div class="theverse"><div class="versenum">4.</div> Taidolla kammio taytetaan kaikkinaisista kalliista ja jaloista tavaroista.	</div>
 
-<div class="versenum">5.</div> Viisas mies on vakeva, ja toimellinen mies on voimallinen vaesta.	
+<div class="theverse"><div class="versenum">5.</div> Viisas mies on vakeva, ja toimellinen mies on voimallinen vaesta.	</div>
 
-<div class="versenum">6.</div> Silla neuvolla sodatkin pidetaan: ja jossa monta neuvonantajaa on, siina on voitto.	
+<div class="theverse"><div class="versenum">6.</div> Silla neuvolla sodatkin pidetaan: ja jossa monta neuvonantajaa on, siina on voitto.	</div>
 
-<div class="versenum">7.</div> Viisaus on hullulle ylen korkia, ei han tohdi avata suutansa portissa.	
+<div class="theverse"><div class="versenum">7.</div> Viisaus on hullulle ylen korkia, ei han tohdi avata suutansa portissa.	</div>
 
-<div class="versenum">8.</div> Joka ajattelee pahaa tehdaksensa, se kutsutaan pahain ajatusten paamieheksi.	
+<div class="theverse"><div class="versenum">8.</div> Joka ajattelee pahaa tehdaksensa, se kutsutaan pahain ajatusten paamieheksi.	</div>
 
-<div class="versenum">9.</div> Tyhmain ajatus on synti, ja pilkkaaja on kauhistus ihmisille.	
+<div class="theverse"><div class="versenum">9.</div> Tyhmain ajatus on synti, ja pilkkaaja on kauhistus ihmisille.	</div>
 
-<div class="versenum">10.</div> Ei se ole vakeva, joka ei tuskassa vahva ole.	
+<div class="theverse"><div class="versenum">10.</div> Ei se ole vakeva, joka ei tuskassa vahva ole.	</div>
 
-<div class="versenum">11.</div> Auta niita, joita tappaa tahdotaan, ja ala veda sinuas pois pois niiden tykoa, jotka kuoletetaan.	
+<div class="theverse"><div class="versenum">11.</div> Auta niita, joita tappaa tahdotaan, ja ala veda sinuas pois pois niiden tykoa, jotka kuoletetaan.	</div>
 
-<div class="versenum">12.</div> Jos sina sanot: katso, emme ymmarra sita! luuletkos, ettei se, joka sydamet tutkii, sita ymmarra? ja se, joka sielustas ottaa vaarin, tunne sita ja kosta ihmiselle tekonsa jalkeen?	
+<div class="theverse"><div class="versenum">12.</div> Jos sina sanot: katso, emme ymmarra sita! luuletkos, ettei se, joka sydamet tutkii, sita ymmarra? ja se, joka sielustas ottaa vaarin, tunne sita ja kosta ihmiselle tekonsa jalkeen?	</div>
 
-<div class="versenum">13.</div> Syo, poikani, hunajaa; silla se on hyva, ja mesileupa on makia suus laelle.	
+<div class="theverse"><div class="versenum">13.</div> Syo, poikani, hunajaa; silla se on hyva, ja mesileupa on makia suus laelle.	</div>
 
-<div class="versenum">14.</div> Niin on myos viisauden oppi sielulles: koskas sen loydat, niin sinun viimein kay hyvin, ja ei sinun toivos ole turha.	
+<div class="theverse"><div class="versenum">14.</div> Niin on myos viisauden oppi sielulles: koskas sen loydat, niin sinun viimein kay hyvin, ja ei sinun toivos ole turha.	</div>
 
-<div class="versenum">15.</div> Ala vartioitse vanhurskaan huonetta, sina jumalatoin, ala hukkaa hanen lepoansa.	
+<div class="theverse"><div class="versenum">15.</div> Ala vartioitse vanhurskaan huonetta, sina jumalatoin, ala hukkaa hanen lepoansa.	</div>
 
-<div class="versenum">16.</div> Silla vanhurskas taitaa langeta seitseman kertaa, ja nousee jalleen; mutta jumalattomat kaatuvat onnettomuuteen.	
+<div class="theverse"><div class="versenum">16.</div> Silla vanhurskas taitaa langeta seitseman kertaa, ja nousee jalleen; mutta jumalattomat kaatuvat onnettomuuteen.	</div>
 
-<div class="versenum">17.</div> Ala iloitse vihamiehes vahingosta, ja alkoon sinun sydames riemuitko hanen onnettomuudestansa,	
+<div class="theverse"><div class="versenum">17.</div> Ala iloitse vihamiehes vahingosta, ja alkoon sinun sydames riemuitko hanen onnettomuudestansa,	</div>
 
-<div class="versenum">18.</div> Ettei Herra nakisi sita, ja se olis hanelle kelvotoin, ja han kaantais vihansa pois hanen paaltansa.	
+<div class="theverse"><div class="versenum">18.</div> Ettei Herra nakisi sita, ja se olis hanelle kelvotoin, ja han kaantais vihansa pois hanen paaltansa.	</div>
 
-<div class="versenum">19.</div> Ala vihastu pahain paalle, ala myos ole kiivas jumalattomain tahden;	
+<div class="theverse"><div class="versenum">19.</div> Ala vihastu pahain paalle, ala myos ole kiivas jumalattomain tahden;	</div>
 
-<div class="versenum">20.</div> Silla ei haijylla ole mitaan toivomista, ja jumalattomain kynttila pitaa sammuman.	
+<div class="theverse"><div class="versenum">20.</div> Silla ei haijylla ole mitaan toivomista, ja jumalattomain kynttila pitaa sammuman.	</div>
 
-<div class="versenum">21.</div> Poikani, pelkaa Herraa ja kuningasta, ja ala sekoita sinuas kapinan nostajain kanssa.	
+<div class="theverse"><div class="versenum">21.</div> Poikani, pelkaa Herraa ja kuningasta, ja ala sekoita sinuas kapinan nostajain kanssa.	</div>
 
-<div class="versenum">22.</div> Silla heidan kadotuksensa nousee akisti: ja kuka tietaa, koska kummankin onnetomuus tulee?	
+<div class="theverse"><div class="versenum">22.</div> Silla heidan kadotuksensa nousee akisti: ja kuka tietaa, koska kummankin onnetomuus tulee?	</div>
 
-<div class="versenum">23.</div> Nama ovat myos viisasten: ei ole hyva katsoa muotoa tuomiossa.	
+<div class="theverse"><div class="versenum">23.</div> Nama ovat myos viisasten: ei ole hyva katsoa muotoa tuomiossa.	</div>
 
-<div class="versenum">24.</div> Joka jumalattomalle sanoo: sina olet hurskas! hanta kiroovat ihmiset, ja kansa vihaa hanta.	
+<div class="theverse"><div class="versenum">24.</div> Joka jumalattomalle sanoo: sina olet hurskas! hanta kiroovat ihmiset, ja kansa vihaa hanta.	</div>
 
-<div class="versenum">25.</div> Mutta jotka rankaisevat, he ovat otolliset, ja runsas siunaus tulee heidan paallensa.	
+<div class="theverse"><div class="versenum">25.</div> Mutta jotka rankaisevat, he ovat otolliset, ja runsas siunaus tulee heidan paallensa.	</div>
 
-<div class="versenum">26.</div> Toimellinen vastaus on niinkuin suloinen suun antamus.	
+<div class="theverse"><div class="versenum">26.</div> Toimellinen vastaus on niinkuin suloinen suun antamus.	</div>
 
-<div class="versenum">27.</div> Toimita tyos ulkona, ja valmista peltos, ja rakenna sitte huonees.	
+<div class="theverse"><div class="versenum">27.</div> Toimita tyos ulkona, ja valmista peltos, ja rakenna sitte huonees.	</div>
 
-<div class="versenum">28.</div> Ala todista lahimmaistas vastaan ilman syyta, ja ala peta suullas.	
+<div class="theverse"><div class="versenum">28.</div> Ala todista lahimmaistas vastaan ilman syyta, ja ala peta suullas.	</div>
 
-<div class="versenum">29.</div> Ala sano: niinkuin han teki minulle, niin mina teen hanelle: mina kostan jokaiselle hanen tekonsa jalkeen.	
+<div class="theverse"><div class="versenum">29.</div> Ala sano: niinkuin han teki minulle, niin mina teen hanelle: mina kostan jokaiselle hanen tekonsa jalkeen.	</div>
 
-<div class="versenum">30.</div> Mina kavin laiskan pellon ohitse, ja tyhman viinamaen sivuitse,	
+<div class="theverse"><div class="versenum">30.</div> Mina kavin laiskan pellon ohitse, ja tyhman viinamaen sivuitse,	</div>
 
-<div class="versenum">31.</div> Ja katso, siina olivat paljaat ohdakkeet kasvaneet, ja se oli nukulaista taynna, ja aidat olivat kaatuneet.	
+<div class="theverse"><div class="versenum">31.</div> Ja katso, siina olivat paljaat ohdakkeet kasvaneet, ja se oli nukulaista taynna, ja aidat olivat kaatuneet.	</div>
 
-<div class="versenum">32.</div> Kuin mina sen bain, panin mina sen sydameeni, katselin ja opin siita.	
+<div class="theverse"><div class="versenum">32.</div> Kuin mina sen bain, panin mina sen sydameeni, katselin ja opin siita.	</div>
 
-<div class="versenum">33.</div> Sina tahdot viela vaha maata ja unelias olla, ja enempi kasias yhteen panna lepaamaan;	
+<div class="theverse"><div class="versenum">33.</div> Sina tahdot viela vaha maata ja unelias olla, ja enempi kasias yhteen panna lepaamaan;	</div>
 
-<div class="versenum">34.</div> Mutta koyhyytes pitaa sinulle tuleman niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies.	
+<div class="theverse"><div class="versenum">34.</div> Mutta koyhyytes pitaa sinulle tuleman niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies.	</div>
 </body>
 </html>

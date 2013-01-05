@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">2 Timoteukselle 1	</div>
 	
-<div class="versenum">1.</div> Paavali, Jesuksen Kristuksen apostoli Jumalan tahdon kautta elaman lupauksen jalkeen, joka on Kristuksessa Jesuksessa:	
+<div class="theverse"><div class="versenum">1.</div> Paavali, Jesuksen Kristuksen apostoli Jumalan tahdon kautta elaman lupauksen jalkeen, joka on Kristuksessa Jesuksessa:	</div>
 
-<div class="versenum">2.</div> Minun rakkaalle pojalleni Timoteukselle armo, laupius ja rauha Isalta Jumalalta ja Jesukselta Kristukselta meidan Herraltamme!	
+<div class="theverse"><div class="versenum">2.</div> Minun rakkaalle pojalleni Timoteukselle armo, laupius ja rauha Isalta Jumalalta ja Jesukselta Kristukselta meidan Herraltamme!	</div>
 
-<div class="versenum">3.</div> Mina kiitan Jumalaa, jota mina hamasta minun esivanhemmistani palvelen puhtaalla omallatunnolla, etta mina lakkaamatta sinua yolla ja paivalla minun rukouksissani muistan,	
+<div class="theverse"><div class="versenum">3.</div> Mina kiitan Jumalaa, jota mina hamasta minun esivanhemmistani palvelen puhtaalla omallatunnolla, etta mina lakkaamatta sinua yolla ja paivalla minun rukouksissani muistan,	</div>
 
-<div class="versenum">4.</div> Ja haluan sinua nahda, koska mina sinun kyynelees muistan, etta mina ilolla taytettaisiin,	
+<div class="theverse"><div class="versenum">4.</div> Ja haluan sinua nahda, koska mina sinun kyynelees muistan, etta mina ilolla taytettaisiin,	</div>
 
-<div class="versenum">5.</div> Kuin minun mieleeni tulee se vilpiton usko, joka sinussa on, joka ennen sinun isossa aidissas Loidassa myos asui ja sinun aidissas Eunikassa ja, kuin mina totisesti tiedan, sinussakin.	
+<div class="theverse"><div class="versenum">5.</div> Kuin minun mieleeni tulee se vilpiton usko, joka sinussa on, joka ennen sinun isossa aidissas Loidassa myos asui ja sinun aidissas Eunikassa ja, kuin mina totisesti tiedan, sinussakin.	</div>
 
-<div class="versenum">6.</div> Jonka tahden mina sinua neuvon, ettas heratat sen Jumalan lahjan, joka sinussa on, minun katteni paallepanemisen kautta;	
+<div class="theverse"><div class="versenum">6.</div> Jonka tahden mina sinua neuvon, ettas heratat sen Jumalan lahjan, joka sinussa on, minun katteni paallepanemisen kautta;	</div>
 
-<div class="versenum">7.</div> Silla ei Jumala ole meille antanut pelvon henkea, vaan vakevyyden, rakkauden ja raittiuden.	
+<div class="theverse"><div class="versenum">7.</div> Silla ei Jumala ole meille antanut pelvon henkea, vaan vakevyyden, rakkauden ja raittiuden.	</div>
 
-<div class="versenum">8.</div> Sentahden ala hapea meidan Herran Jesuksen Kristuksen todistusta eika minua, joka hanen vankinsa olen; vaan ole osallinen evankeliumin vaivassa, Jumalan voiman jalkeen,	
+<div class="theverse"><div class="versenum">8.</div> Sentahden ala hapea meidan Herran Jesuksen Kristuksen todistusta eika minua, joka hanen vankinsa olen; vaan ole osallinen evankeliumin vaivassa, Jumalan voiman jalkeen,	</div>
 
-<div class="versenum">9.</div> Joka meita on autuaaksi tehnyt ja pyhalla kutsumisella kutsunut, ei meidan toidemme perasta, vaan aivoituksensa ja armonsa jalkeen, joka meille Kristuksessa Jesuksessa ennen ijankaikkisia aikoja annettu on,	
+<div class="theverse"><div class="versenum">9.</div> Joka meita on autuaaksi tehnyt ja pyhalla kutsumisella kutsunut, ei meidan toidemme perasta, vaan aivoituksensa ja armonsa jalkeen, joka meille Kristuksessa Jesuksessa ennen ijankaikkisia aikoja annettu on,	</div>
 
-<div class="versenum">10.</div> Mutta nyt meidan Vapahtajamme Jesuksen Kristuksen ilmestyksen kautta julistettu, joka kuoleman otti pois ja elaman ja kuolemattomuuden toi evankeliumin kautta valkeuteen,	
+<div class="theverse"><div class="versenum">10.</div> Mutta nyt meidan Vapahtajamme Jesuksen Kristuksen ilmestyksen kautta julistettu, joka kuoleman otti pois ja elaman ja kuolemattomuuden toi evankeliumin kautta valkeuteen,	</div>
 
-<div class="versenum">11.</div> Johonka mina olen pantu saarnaajaksi ja apostoliksi ja pakanain opettajaksi.	
+<div class="theverse"><div class="versenum">11.</div> Johonka mina olen pantu saarnaajaksi ja apostoliksi ja pakanain opettajaksi.	</div>
 
-<div class="versenum">12.</div> Jonka tahden mina myos naita karsin, ja en kuitenkaan hapee; silla mina tiedan, kenen paalle mina uskon, ja olen luja, etta han voi minulle katkea minun uskotun kaluni siihen paivaan asti.	
+<div class="theverse"><div class="versenum">12.</div> Jonka tahden mina myos naita karsin, ja en kuitenkaan hapee; silla mina tiedan, kenen paalle mina uskon, ja olen luja, etta han voi minulle katkea minun uskotun kaluni siihen paivaan asti.	</div>
 
-<div class="versenum">13.</div> Pysy siis niiden terveellisten sanain muodossa, jotka sina minulta kuullut olet, uskossa ja rakkaudessa, joka on Kristuksessa Jesuksessa.	
+<div class="theverse"><div class="versenum">13.</div> Pysy siis niiden terveellisten sanain muodossa, jotka sina minulta kuullut olet, uskossa ja rakkaudessa, joka on Kristuksessa Jesuksessa.	</div>
 
-<div class="versenum">14.</div> Tama hyva uskottu kalu katke Pyhan Hengen kautta, joka meissa asuu.	
+<div class="theverse"><div class="versenum">14.</div> Tama hyva uskottu kalu katke Pyhan Hengen kautta, joka meissa asuu.	</div>
 
-<div class="versenum">15.</div> Sina tiedat sen, etta kaikki, jotka Asiassa ovat, luopuivat minusta, joista on Phygellus ja Hermogenes.	
+<div class="theverse"><div class="versenum">15.</div> Sina tiedat sen, etta kaikki, jotka Asiassa ovat, luopuivat minusta, joista on Phygellus ja Hermogenes.	</div>
 
-<div class="versenum">16.</div> Herra antakoon laupiutensa Onesiphorin perheelle, joka minun usein virvoittanut on ja ei minun kahleitani havennyt,	
+<div class="theverse"><div class="versenum">16.</div> Herra antakoon laupiutensa Onesiphorin perheelle, joka minun usein virvoittanut on ja ei minun kahleitani havennyt,	</div>
 
-<div class="versenum">17.</div> Vaan etsi minua visusti Roomissa ollessansa, ja loysi minun.	
+<div class="theverse"><div class="versenum">17.</div> Vaan etsi minua visusti Roomissa ollessansa, ja loysi minun.	</div>
 
-<div class="versenum">18.</div> Herra antakoon hanen loytaa laupiuden sina paivana Herran tykona! Ja kuinka monessa asiassa han minulle Ephesossa oli avullinen, sina parhain tiedat.	
+<div class="theverse"><div class="versenum">18.</div> Herra antakoon hanen loytaa laupiuden sina paivana Herran tykona! Ja kuinka monessa asiassa han minulle Ephesossa oli avullinen, sina parhain tiedat.	</div>
 </body>
 </html>

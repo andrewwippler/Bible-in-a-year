@@ -4,46 +4,46 @@
 </head>
 <body><div class="chaptertitle">Roomalaisille 5	</div>
 	
-<div class="versenum">1.</div> Etta me siis olemme uskosta vanhurskaiksi tulleet, niin meilla on rauha Jumalan kanssa meidan Herran Jesuksen Kristuksen kautta,	
+<div class="theverse"><div class="versenum">1.</div> Etta me siis olemme uskosta vanhurskaiksi tulleet, niin meilla on rauha Jumalan kanssa meidan Herran Jesuksen Kristuksen kautta,	</div>
 
-<div class="versenum">2.</div> Jonka kautta myos meilla oli tykokaymys uskossa tahan armoon, jossa me seisomme ja kerskaamme Jumalan kunnian toivosta.	
+<div class="theverse"><div class="versenum">2.</div> Jonka kautta myos meilla oli tykokaymys uskossa tahan armoon, jossa me seisomme ja kerskaamme Jumalan kunnian toivosta.	</div>
 
-<div class="versenum">3.</div> Mutta ei ainoasti siita, vaan me kerskaamme myos vaivoissa; silla me tiedamme, etta vaiva saattaa karsivallisyyden,	
+<div class="theverse"><div class="versenum">3.</div> Mutta ei ainoasti siita, vaan me kerskaamme myos vaivoissa; silla me tiedamme, etta vaiva saattaa karsivallisyyden,	</div>
 
-<div class="versenum">4.</div> Mutta karsivallisyys koettelemuksen, koettelemus toivon.	
+<div class="theverse"><div class="versenum">4.</div> Mutta karsivallisyys koettelemuksen, koettelemus toivon.	</div>
 
-<div class="versenum">5.</div> Mutta toivo ei anna hapiaan tulla, etta Jumalan rakkaus on vuodatettu meidan sydamiimme Pyhan Hengen kautta, joka meille annettu on.	
+<div class="theverse"><div class="versenum">5.</div> Mutta toivo ei anna hapiaan tulla, etta Jumalan rakkaus on vuodatettu meidan sydamiimme Pyhan Hengen kautta, joka meille annettu on.	</div>
 
-<div class="versenum">6.</div> Silla Kristus, kuin me viela heikot olimme, on ajallansa jumalattomain edesta kuollut.	
+<div class="theverse"><div class="versenum">6.</div> Silla Kristus, kuin me viela heikot olimme, on ajallansa jumalattomain edesta kuollut.	</div>
 
-<div class="versenum">7.</div> Tuskalla nyt joku kuolis vanhurskaan edesta, ehka hyvan edesta mitamaks joku tohtis kuolla.	
+<div class="theverse"><div class="versenum">7.</div> Tuskalla nyt joku kuolis vanhurskaan edesta, ehka hyvan edesta mitamaks joku tohtis kuolla.	</div>
 
-<div class="versenum">8.</div> Mutta Jumala ylistaa rakkauttansa meidan kohtaamme, etta kuin me viela syntiset olimme, on Kristus meidan edestamme kuollut.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Jumala ylistaa rakkauttansa meidan kohtaamme, etta kuin me viela syntiset olimme, on Kristus meidan edestamme kuollut.	</div>
 
-<div class="versenum">9.</div> Niin me siis paljoa enemmin varjellaan hanen kauttansa vihan edesta, etta me nyt hanen verensa kautta vanhurskaiksi tulleet olemme.	
+<div class="theverse"><div class="versenum">9.</div> Niin me siis paljoa enemmin varjellaan hanen kauttansa vihan edesta, etta me nyt hanen verensa kautta vanhurskaiksi tulleet olemme.	</div>
 
-<div class="versenum">10.</div> Silla jos me Jumalan kanssa olimme sovitetut hanen Poikansa kuoleman kautta, kuin me viela hanen vihollisensa olimme, paljoa ennemmin me autuaiksi tulemme hanen elamansa kautta, etta me sovitetut olemme.	
+<div class="theverse"><div class="versenum">10.</div> Silla jos me Jumalan kanssa olimme sovitetut hanen Poikansa kuoleman kautta, kuin me viela hanen vihollisensa olimme, paljoa ennemmin me autuaiksi tulemme hanen elamansa kautta, etta me sovitetut olemme.	</div>
 
-<div class="versenum">11.</div> Mutta ei ainoasti siita, vaan me kerskaamme myos Jumalasta, meidan Herran Jesuksen Kristuksen kautta, jonka kautta me nyt olemme sovinnon saaneet.	
+<div class="theverse"><div class="versenum">11.</div> Mutta ei ainoasti siita, vaan me kerskaamme myos Jumalasta, meidan Herran Jesuksen Kristuksen kautta, jonka kautta me nyt olemme sovinnon saaneet.	</div>
 
-<div class="versenum">12.</div> Sentahden, niinkuin yhden ihmisen kautta on synti maailmaan tullut ja synnin kautta kuolema, niin on kuolema tullut kaikkein ihmisten paalle, etta kaikki ovat syntia tehneet.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden, niinkuin yhden ihmisen kautta on synti maailmaan tullut ja synnin kautta kuolema, niin on kuolema tullut kaikkein ihmisten paalle, etta kaikki ovat syntia tehneet.	</div>
 
-<div class="versenum">13.</div> Silla lakiin asti oli synti maailmassa; mutta kussa ei lakia ole, ei siella syntia lueta.	
+<div class="theverse"><div class="versenum">13.</div> Silla lakiin asti oli synti maailmassa; mutta kussa ei lakia ole, ei siella syntia lueta.	</div>
 
-<div class="versenum">14.</div> Vaan kuolema vallitsi Adamista Mosekseen asti niitakin, jotka ei syntia tehneet olleet senkaltaisella ylitsekaymisella kuin Adam, joka on sen esikuva, joka jalkeen tuleva oli.	
+<div class="theverse"><div class="versenum">14.</div> Vaan kuolema vallitsi Adamista Mosekseen asti niitakin, jotka ei syntia tehneet olleet senkaltaisella ylitsekaymisella kuin Adam, joka on sen esikuva, joka jalkeen tuleva oli.	</div>
 
-<div class="versenum">15.</div> Mutta ei niin lahjan kanssa ole kuin synnin; silla jos monta ovat sen yhden synnin tahden kuolleet, niin on paljoa enemmin Jumalan armo ja lahja sen yhden ihmisen Jesuksen Kristuksen armossa monen paalle runsaasti tullut.	
+<div class="theverse"><div class="versenum">15.</div> Mutta ei niin lahjan kanssa ole kuin synnin; silla jos monta ovat sen yhden synnin tahden kuolleet, niin on paljoa enemmin Jumalan armo ja lahja sen yhden ihmisen Jesuksen Kristuksen armossa monen paalle runsaasti tullut.	</div>
 
-<div class="versenum">16.</div> Ja ei niinkuin (se tuli) yhden kautta, joka syntia teki, niin myos lahja; silla tuomio on tosin yhdesta kadotukseen, mutta lahja monesta synnista vanhurskauteen.	
+<div class="theverse"><div class="versenum">16.</div> Ja ei niinkuin (se tuli) yhden kautta, joka syntia teki, niin myos lahja; silla tuomio on tosin yhdesta kadotukseen, mutta lahja monesta synnista vanhurskauteen.	</div>
 
-<div class="versenum">17.</div> Silla jos kuolema on yhden synnin tahden vallinnut sen yhden kautta, paljoa enemmin ne, jotka saavat armon ja vanhurskauden lahjan yltakyllaisyyden, pitaa vallitsemassa elamassa yhden Jesuksen Kristuksen kautta.	
+<div class="theverse"><div class="versenum">17.</div> Silla jos kuolema on yhden synnin tahden vallinnut sen yhden kautta, paljoa enemmin ne, jotka saavat armon ja vanhurskauden lahjan yltakyllaisyyden, pitaa vallitsemassa elamassa yhden Jesuksen Kristuksen kautta.	</div>
 
-<div class="versenum">18.</div> Niinkuin siis yhden synnin kautta on kadotus tullut kaikkein ihmisten paalle, niin on myos yhden vanhurskauden kautta elaman vanhurskaus tullut kaikkein ihmisten paalle.	
+<div class="theverse"><div class="versenum">18.</div> Niinkuin siis yhden synnin kautta on kadotus tullut kaikkein ihmisten paalle, niin on myos yhden vanhurskauden kautta elaman vanhurskaus tullut kaikkein ihmisten paalle.	</div>
 
-<div class="versenum">19.</div> Silla niinkuin yhden ihmisen kuulemattomuuden tahden monta ovat syntisiksi tulleet, niin myos monta tulevat yhden kuuliaisuuden tahden vanhurskaiksi.	
+<div class="theverse"><div class="versenum">19.</div> Silla niinkuin yhden ihmisen kuulemattomuuden tahden monta ovat syntisiksi tulleet, niin myos monta tulevat yhden kuuliaisuuden tahden vanhurskaiksi.	</div>
 
-<div class="versenum">20.</div> Mutta laki on myos tahan tullut, etta synti suuremmaksi tuttaisiin; mutta kussa synti on suureksi tuttu, siina on armo ylonpalttiseksi tuttu:	
+<div class="theverse"><div class="versenum">20.</div> Mutta laki on myos tahan tullut, etta synti suuremmaksi tuttaisiin; mutta kussa synti on suureksi tuttu, siina on armo ylonpalttiseksi tuttu:	</div>
 
-<div class="versenum">21.</div> Etta niinkuin synti on vallinnut kuolemaan, niin myos armo on vallitseva vanhurskauden kautta ijankaikkiseen elamaan, Jesuksen Kristuksen meidan Herramme kautta.	
+<div class="theverse"><div class="versenum">21.</div> Etta niinkuin synti on vallinnut kuolemaan, niin myos armo on vallitseva vanhurskauden kautta ijankaikkiseen elamaan, Jesuksen Kristuksen meidan Herramme kautta.	</div>
 </body>
 </html>

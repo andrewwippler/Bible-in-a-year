@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">Esterin 9	</div>
 	
-<div class="versenum">1.</div> Ja toisena kuukautena toistakymmenta, Adarin kuulla, kolmantena paivana toistakymmenta, jona kuninkaan sana ja kasky oli tullut, etta toimitus piti tapahtuman, juuri sina paivana jona Juudalaisten viholliset toivoivat vallitsevansa heita, kaantyi niin, etta Juudalaiset vallitsivat vihollisiansa:	
+<div class="theverse"><div class="versenum">1.</div> Ja toisena kuukautena toistakymmenta, Adarin kuulla, kolmantena paivana toistakymmenta, jona kuninkaan sana ja kasky oli tullut, etta toimitus piti tapahtuman, juuri sina paivana jona Juudalaisten viholliset toivoivat vallitsevansa heita, kaantyi niin, etta Juudalaiset vallitsivat vihollisiansa:	</div>
 
-<div class="versenum">2.</div> Niin Juudalaiset kokoontuivat kaupunkeihinsa kaikissa kuningas Ahasveruksen maakunnissa, laskemaan katensa niiden paalle, jotka heille pahuutta tahtoivat, ja ei yksikaan voinut seisoa heita vastaan; silla kaikki kansa pelkasi heita.	
+<div class="theverse"><div class="versenum">2.</div> Niin Juudalaiset kokoontuivat kaupunkeihinsa kaikissa kuningas Ahasveruksen maakunnissa, laskemaan katensa niiden paalle, jotka heille pahuutta tahtoivat, ja ei yksikaan voinut seisoa heita vastaan; silla kaikki kansa pelkasi heita.	</div>
 
-<div class="versenum">3.</div> Ja kaikki maakuntain paamiehet ja hallitsiat, ja maan vanhimmat ja kuninkaan virkamiehet ylistivat Juudalaisia; silla Mordekain pelko tuli heidan paallensa.	
+<div class="theverse"><div class="versenum">3.</div> Ja kaikki maakuntain paamiehet ja hallitsiat, ja maan vanhimmat ja kuninkaan virkamiehet ylistivat Juudalaisia; silla Mordekain pelko tuli heidan paallensa.	</div>
 
-<div class="versenum">4.</div> Silla Mordekai oli suuri kuninkaan huoneessa, ja hanen sanomansa kuului kaikkiin maakuntiin, kuinka Mordekai menestyi ja tuli suureksi.	
+<div class="theverse"><div class="versenum">4.</div> Silla Mordekai oli suuri kuninkaan huoneessa, ja hanen sanomansa kuului kaikkiin maakuntiin, kuinka Mordekai menestyi ja tuli suureksi.	</div>
 
-<div class="versenum">5.</div> Niin Juudalaiset loivat kaikki vihamiehensa miekalla, tappoivat ja hukuttivat heidat, ja tekivat niiden kanssa, jotka heita vihasivat, oman tahtonsa jalkeen.	
+<div class="theverse"><div class="versenum">5.</div> Niin Juudalaiset loivat kaikki vihamiehensa miekalla, tappoivat ja hukuttivat heidat, ja tekivat niiden kanssa, jotka heita vihasivat, oman tahtonsa jalkeen.	</div>
 
-<div class="versenum">6.</div> Ja susanin linnassa loivat Juudalaiset viisisataa miesta kuoliaaksi, ja hukuttivat heidat.	
+<div class="theverse"><div class="versenum">6.</div> Ja susanin linnassa loivat Juudalaiset viisisataa miesta kuoliaaksi, ja hukuttivat heidat.	</div>
 
-<div class="versenum">7.</div> Viela paalliseksi tappoivat he Parsandatan, Dalphonin, Aspatan,	
+<div class="theverse"><div class="versenum">7.</div> Viela paalliseksi tappoivat he Parsandatan, Dalphonin, Aspatan,	</div>
 
-<div class="versenum">8.</div> Poratan, Adalian, Aridatan,	
+<div class="theverse"><div class="versenum">8.</div> Poratan, Adalian, Aridatan,	</div>
 
-<div class="versenum">9.</div> Parmastan, Arisain, Aridain, Vajesatan,	
+<div class="theverse"><div class="versenum">9.</div> Parmastan, Arisain, Aridain, Vajesatan,	</div>
 
-<div class="versenum">10.</div> Kymmenen Hamanin poikaa, joka oli Medatanin poika, Juudalaisten vihamies; mutta ei he ruvenneet heidan saaliisensa.	
+<div class="theverse"><div class="versenum">10.</div> Kymmenen Hamanin poikaa, joka oli Medatanin poika, Juudalaisten vihamies; mutta ei he ruvenneet heidan saaliisensa.	</div>
 
-<div class="versenum">11.</div> Silloin tuli tapettuin luku Susanin linnaan, kuninkaan eteen.	
+<div class="theverse"><div class="versenum">11.</div> Silloin tuli tapettuin luku Susanin linnaan, kuninkaan eteen.	</div>
 
-<div class="versenum">12.</div> Ja kuningas sanoi kuningatar Esterille: Susanin kaupungissa ovat Juudalaiset tappaneet ja hukuttaneet viisisataa miesta ja kymmenen Hamanin poikaa: mitas luulet heidan muissa kuninkaan maakunnissa tehneen? mitas pyydat sinulles annettaa? ja mitas viela anot sinulles tehtaa?	
+<div class="theverse"><div class="versenum">12.</div> Ja kuningas sanoi kuningatar Esterille: Susanin kaupungissa ovat Juudalaiset tappaneet ja hukuttaneet viisisataa miesta ja kymmenen Hamanin poikaa: mitas luulet heidan muissa kuninkaan maakunnissa tehneen? mitas pyydat sinulles annettaa? ja mitas viela anot sinulles tehtaa?	</div>
 
-<div class="versenum">13.</div> Ester sanoi: jos kuninkaalle kelpaa, niin antakoon Juudalaisten myos huomenna tehda Susanissa taman paivaisen kaskyn jalkeen; etta he hirttaisivat kymmenen Hamanin poikaa puuhun.	
+<div class="theverse"><div class="versenum">13.</div> Ester sanoi: jos kuninkaalle kelpaa, niin antakoon Juudalaisten myos huomenna tehda Susanissa taman paivaisen kaskyn jalkeen; etta he hirttaisivat kymmenen Hamanin poikaa puuhun.	</div>
 
-<div class="versenum">14.</div> Ja kuningas kaski niin tehda: ja se kasky lyotiin Susanissa ylos; ja kymmenen Hamanin poikaa hirtettiin.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuningas kaski niin tehda: ja se kasky lyotiin Susanissa ylos; ja kymmenen Hamanin poikaa hirtettiin.	</div>
 
-<div class="versenum">15.</div> Ja Juudalaiset, jotka Susanissa olivat, kokoontuivat neljantena paivana toistakymmenta Adar kuuta, ja tappoivat kolmesataa miesta Susanissa; mutta heidan saaliisensa ei he ruvenneet.	
+<div class="theverse"><div class="versenum">15.</div> Ja Juudalaiset, jotka Susanissa olivat, kokoontuivat neljantena paivana toistakymmenta Adar kuuta, ja tappoivat kolmesataa miesta Susanissa; mutta heidan saaliisensa ei he ruvenneet.	</div>
 
-<div class="versenum">16.</div> Mutta muut Juudalaiset kuninkaan maakunnissa tulivat kokoon ja varjelivat henkeansa, saadaksensa lepoa vihollisiltansa, ja tappoivat vihollisiansa viisikahdeksattakymmenta tuhatta, mutta ei he ruvenneet saaliisen.	
+<div class="theverse"><div class="versenum">16.</div> Mutta muut Juudalaiset kuninkaan maakunnissa tulivat kokoon ja varjelivat henkeansa, saadaksensa lepoa vihollisiltansa, ja tappoivat vihollisiansa viisikahdeksattakymmenta tuhatta, mutta ei he ruvenneet saaliisen.	</div>
 
-<div class="versenum">17.</div> (Se tapahtui) kolmantenatoistakymmenentena paivana Adar kuuta. Ja he lepasivat neljantenatoistakymmenentena paivana sita kuuta; sen he tekivat pito- ja ilopaivaksi.	
+<div class="theverse"><div class="versenum">17.</div> (Se tapahtui) kolmantenatoistakymmenentena paivana Adar kuuta. Ja he lepasivat neljantenatoistakymmenentena paivana sita kuuta; sen he tekivat pito- ja ilopaivaksi.	</div>
 
-<div class="versenum">18.</div> Mutta Juudalaiset, jotka Susanissa olivat, tulivat kokoon kolmantenatoistakymmenentena ja neljantenatoistakymmenentena paivana, ja lepasivat viidentenatoistakymmenentena paivana; ja tekivat sen paivan pito- ja ilopaivaksi.	
+<div class="theverse"><div class="versenum">18.</div> Mutta Juudalaiset, jotka Susanissa olivat, tulivat kokoon kolmantenatoistakymmenentena ja neljantenatoistakymmenentena paivana, ja lepasivat viidentenatoistakymmenentena paivana; ja tekivat sen paivan pito- ja ilopaivaksi.	</div>
 
-<div class="versenum">19.</div> Sentahden Juudalaiset, jotka asuivat maakylissa ja vahissa kaupungeissa, tekivat neljannentoistakymmenennen paivan Adar kuuta ilo- ja pitopaivaksi, ja lahettivat lahjoja toinen toisellensa.	
+<div class="theverse"><div class="versenum">19.</div> Sentahden Juudalaiset, jotka asuivat maakylissa ja vahissa kaupungeissa, tekivat neljannentoistakymmenennen paivan Adar kuuta ilo- ja pitopaivaksi, ja lahettivat lahjoja toinen toisellensa.	</div>
 
-<div class="versenum">20.</div> Ja Mordekai kirjoitti namat teot, ja lahetti kirjat kaikille Juudalaisille, jotka olivat kaikissa kuningas Ahasveruksen maakunnissa, seka lahes etta kauvas,	
+<div class="theverse"><div class="versenum">20.</div> Ja Mordekai kirjoitti namat teot, ja lahetti kirjat kaikille Juudalaisille, jotka olivat kaikissa kuningas Ahasveruksen maakunnissa, seka lahes etta kauvas,	</div>
 
-<div class="versenum">21.</div> Ja asetti heille, etta he pitaisivat joka vuosi neljannentoistakymmenennen ja viidennentoistakymmenennen paivan Adar kuuta,	
+<div class="theverse"><div class="versenum">21.</div> Ja asetti heille, etta he pitaisivat joka vuosi neljannentoistakymmenennen ja viidennentoistakymmenennen paivan Adar kuuta,	</div>
 
-<div class="versenum">22.</div> Niiden paivain jalkeen, joina Juudalaiset olivat tulleet lepoon vihollistensa edesta, ja sen kuukauden, jona heidan surunsa on iloksi kaantynyt ja heidan murheensa hyviksi paiviksi: etta he ne pitaisivat pito- ja ilopaivina, ja lahettaisivat lahjoja toinen toisellensa, ja jakaisivat vaivaisille.	
+<div class="theverse"><div class="versenum">22.</div> Niiden paivain jalkeen, joina Juudalaiset olivat tulleet lepoon vihollistensa edesta, ja sen kuukauden, jona heidan surunsa on iloksi kaantynyt ja heidan murheensa hyviksi paiviksi: etta he ne pitaisivat pito- ja ilopaivina, ja lahettaisivat lahjoja toinen toisellensa, ja jakaisivat vaivaisille.	</div>
 
-<div class="versenum">23.</div> Ja Juudalaiset ottivat vastaan tehdaksensa sen, minka he ennen olivat ruvenneet, ja Mordekai heidan tykonsa kirjoitti.	
+<div class="theverse"><div class="versenum">23.</div> Ja Juudalaiset ottivat vastaan tehdaksensa sen, minka he ennen olivat ruvenneet, ja Mordekai heidan tykonsa kirjoitti.	</div>
 
-<div class="versenum">24.</div> Silla Haman Medatan Agagilaisen poika, kaikkein Juudalaisten vihollinen, oli ajatellut hukuttaa kaikkia Juudalaisia, ja antoi heittaa Pur, se on arpaa, murentaaksensa ja hukuttaaksensa heita.	
+<div class="theverse"><div class="versenum">24.</div> Silla Haman Medatan Agagilaisen poika, kaikkein Juudalaisten vihollinen, oli ajatellut hukuttaa kaikkia Juudalaisia, ja antoi heittaa Pur, se on arpaa, murentaaksensa ja hukuttaaksensa heita.	</div>
 
-<div class="versenum">25.</div> Ja kuin Ester oli mennyt kuninkaan tyko; ja han puhunut, etta hanen paha aikomisensa, jonka han oli ajatellut Juudalaisia vastaan, kaannettiin kirjoitusten kautta hanen oman paansa paalle, ja kuinka han ja hanen poikansa ripustettiin puuhun;	
+<div class="theverse"><div class="versenum">25.</div> Ja kuin Ester oli mennyt kuninkaan tyko; ja han puhunut, etta hanen paha aikomisensa, jonka han oli ajatellut Juudalaisia vastaan, kaannettiin kirjoitusten kautta hanen oman paansa paalle, ja kuinka han ja hanen poikansa ripustettiin puuhun;	</div>
 
-<div class="versenum">26.</div> Siita he namat paivat kutsuivat Purim, arvan nimen jalkeen, seka sen etta kaiken taman kirjan sanan jalkeen, ja mita he olivat itse nahneet, ja kuinka heille on tapahtunut.	
+<div class="theverse"><div class="versenum">26.</div> Siita he namat paivat kutsuivat Purim, arvan nimen jalkeen, seka sen etta kaiken taman kirjan sanan jalkeen, ja mita he olivat itse nahneet, ja kuinka heille on tapahtunut.	</div>
 
-<div class="versenum">27.</div> Ja Juudalaiset saasivat sen, ja ottivat paallensa ja siemenensa paalle, ja kaikkein niiden paalle, jonka itsensa antoivat heidan tykonsa, ettei ne hylkaa niita kahta paivaa, vaan pitavat ne joka vuosi, heidan kirjoituksensa ja aikansa jalkeen.	
+<div class="theverse"><div class="versenum">27.</div> Ja Juudalaiset saasivat sen, ja ottivat paallensa ja siemenensa paalle, ja kaikkein niiden paalle, jonka itsensa antoivat heidan tykonsa, ettei ne hylkaa niita kahta paivaa, vaan pitavat ne joka vuosi, heidan kirjoituksensa ja aikansa jalkeen.	</div>
 
-<div class="versenum">28.</div> Ettei naita paivia pitanyt unhotettaman, mutta pidettaman heidan lastensa lapsilta ja kaikilta heidan sukukunniltansa, kaikissa maakunnissa ja kaupungeissa. Namat ovat Purimin paivat, joita ei pida hyljattaman Juudalaisten seassa, ja heidan muistonsa ei pida unhotettaman heidan siemenessansa.	
+<div class="theverse"><div class="versenum">28.</div> Ettei naita paivia pitanyt unhotettaman, mutta pidettaman heidan lastensa lapsilta ja kaikilta heidan sukukunniltansa, kaikissa maakunnissa ja kaupungeissa. Namat ovat Purimin paivat, joita ei pida hyljattaman Juudalaisten seassa, ja heidan muistonsa ei pida unhotettaman heidan siemenessansa.	</div>
 
-<div class="versenum">29.</div> Ja Ester Abihailin tytar ja Mordekai Juudalainen kirjoittivat kaikella voimalla toisen kerran, vahvistaaksensa Purimin kirjan.	
+<div class="theverse"><div class="versenum">29.</div> Ja Ester Abihailin tytar ja Mordekai Juudalainen kirjoittivat kaikella voimalla toisen kerran, vahvistaaksensa Purimin kirjan.	</div>
 
-<div class="versenum">30.</div> Ja lahetti kirjat kaikille Juudalaisille sataan ja seitsemaankolmattakymmeneen Ahasveruksen valtakunnan maakuntaan, rauhan ja totuuden sanoilla,	
+<div class="theverse"><div class="versenum">30.</div> Ja lahetti kirjat kaikille Juudalaisille sataan ja seitsemaankolmattakymmeneen Ahasveruksen valtakunnan maakuntaan, rauhan ja totuuden sanoilla,	</div>
 
-<div class="versenum">31.</div> Vahvistaaksensa naita Purimin paivia heidan maaratyilla ajoillansa, niinkuin Mordekai Juudalainen ja kuningatar Ester olivat heille saataneet, niinkuin he olivat itse paallensa ottaneet ja siemenensa paalle, sen maaratyn paaston ja heidan huutonsa.	
+<div class="theverse"><div class="versenum">31.</div> Vahvistaaksensa naita Purimin paivia heidan maaratyilla ajoillansa, niinkuin Mordekai Juudalainen ja kuningatar Ester olivat heille saataneet, niinkuin he olivat itse paallensa ottaneet ja siemenensa paalle, sen maaratyn paaston ja heidan huutonsa.	</div>
 
-<div class="versenum">32.</div> Ja Ester kaski ja vahvisti namat Purimin menot, ja etta ne piti kirjaan kirjoittettaman.	
+<div class="theverse"><div class="versenum">32.</div> Ja Ester kaski ja vahvisti namat Purimin menot, ja etta ne piti kirjaan kirjoittettaman.	</div>
 </body>
 </html>

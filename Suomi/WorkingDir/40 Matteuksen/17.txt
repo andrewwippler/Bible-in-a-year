@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 17	</div>
 	
-<div class="versenum">1.</div> Ja kuuden paivan perasta otti Jesus Pietarin ja Jakobin ja Johanneksen hanen veljensa, ja vei heidat erinansa korkialle vuorelle.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuuden paivan perasta otti Jesus Pietarin ja Jakobin ja Johanneksen hanen veljensa, ja vei heidat erinansa korkialle vuorelle.	</div>
 
-<div class="versenum">2.</div> Ja kirkastettiin heidan edessansa, ja hanen kasvonsa paistivat niinkuin aurinko, ja hanen vaatteensa tulivat valkiaksi niinkuin valkeus.	
+<div class="theverse"><div class="versenum">2.</div> Ja kirkastettiin heidan edessansa, ja hanen kasvonsa paistivat niinkuin aurinko, ja hanen vaatteensa tulivat valkiaksi niinkuin valkeus.	</div>
 
-<div class="versenum">3.</div> Ja katso, heille nakyivat Moses ja Elias, jotka puhuivat hanen kanssansa.	
+<div class="theverse"><div class="versenum">3.</div> Ja katso, heille nakyivat Moses ja Elias, jotka puhuivat hanen kanssansa.	</div>
 
-<div class="versenum">4.</div> Niin vastasi Pietari ja sanoi Jesukselle: Herra, meidan on tassa hyva olla: jos sina tahdot, niin me teemme tahan kolme majaa, sinulle yhden, ja Mosekselle yhden, ja Eliaalle yhden.	
+<div class="theverse"><div class="versenum">4.</div> Niin vastasi Pietari ja sanoi Jesukselle: Herra, meidan on tassa hyva olla: jos sina tahdot, niin me teemme tahan kolme majaa, sinulle yhden, ja Mosekselle yhden, ja Eliaalle yhden.	</div>
 
-<div class="versenum">5.</div> Viela hanen puhuissansa, katso, paistava pilvi ympari varjosi heidat, ja katso, aani pilvesta sanoi: tama on minun rakas Poikani, johonka mina mielistyin: kuulkaat hanta.	
+<div class="theverse"><div class="versenum">5.</div> Viela hanen puhuissansa, katso, paistava pilvi ympari varjosi heidat, ja katso, aani pilvesta sanoi: tama on minun rakas Poikani, johonka mina mielistyin: kuulkaat hanta.	</div>
 
-<div class="versenum">6.</div> Ja kuin opetuslapset sen kuulivat, lankesivat he kasvoillensa, ja peljastyivat sangen kovin.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuin opetuslapset sen kuulivat, lankesivat he kasvoillensa, ja peljastyivat sangen kovin.	</div>
 
-<div class="versenum">7.</div> Ja Jesus tuli, ja rupesi heihin, ja sanoi: nouskaat, ja alkaat peljatko.	
+<div class="theverse"><div class="versenum">7.</div> Ja Jesus tuli, ja rupesi heihin, ja sanoi: nouskaat, ja alkaat peljatko.	</div>
 
-<div class="versenum">8.</div> Mutta kuin he silmansa nostivat, ei he ketaan nahneet, vaan Jesuksen yksinansa.	
+<div class="theverse"><div class="versenum">8.</div> Mutta kuin he silmansa nostivat, ei he ketaan nahneet, vaan Jesuksen yksinansa.	</div>
 
-<div class="versenum">9.</div> Ja kuin he menivat vuorelta alas, haastoi Jesus heita, sanoen: alkaat kellenkaan tata nakya sanoko, siihenasti kuin Ihmisen Poika kuolleista nousee.	
+<div class="theverse"><div class="versenum">9.</div> Ja kuin he menivat vuorelta alas, haastoi Jesus heita, sanoen: alkaat kellenkaan tata nakya sanoko, siihenasti kuin Ihmisen Poika kuolleista nousee.	</div>
 
-<div class="versenum">10.</div> Niin hanen opetuslapsensa kysyivat hanelta, sanoen: miksi siis kirjanoppineet sanovat, etta Eliaan pitaa ennen tuleman?	
+<div class="theverse"><div class="versenum">10.</div> Niin hanen opetuslapsensa kysyivat hanelta, sanoen: miksi siis kirjanoppineet sanovat, etta Eliaan pitaa ennen tuleman?	</div>
 
-<div class="versenum">11.</div> Niin Jesus vastaten sanoi heille: Elias tosin tulee ennen, ja kohentaa kaikki.	
+<div class="theverse"><div class="versenum">11.</div> Niin Jesus vastaten sanoi heille: Elias tosin tulee ennen, ja kohentaa kaikki.	</div>
 
-<div class="versenum">12.</div> Mutta mina sanon teille: Elias on jo tullut; ja ei he tunteneet hanta, mutta tekivat hanelle mita he tahtoivat. Niin myos Ihmisen Poika on heilta karsiva.	
+<div class="theverse"><div class="versenum">12.</div> Mutta mina sanon teille: Elias on jo tullut; ja ei he tunteneet hanta, mutta tekivat hanelle mita he tahtoivat. Niin myos Ihmisen Poika on heilta karsiva.	</div>
 
-<div class="versenum">13.</div> Silloin ymmarsivat opetuslapset hanen Johannes Kastajasta sanoneen heille.	
+<div class="theverse"><div class="versenum">13.</div> Silloin ymmarsivat opetuslapset hanen Johannes Kastajasta sanoneen heille.	</div>
 
-<div class="versenum">14.</div> Ja kuin he kansan tyko tulivat, tuli yksi mies hanen tykonsa ja lankesi polvillensa hanen eteensa,	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin he kansan tyko tulivat, tuli yksi mies hanen tykonsa ja lankesi polvillensa hanen eteensa,	</div>
 
-<div class="versenum">15.</div> Ja sanoi: Herra, armahda minun poikaani, silla han on kuutaudillinen ja kovin vaivataan; silla han lankee usein tuleen ja usein veteen.	
+<div class="theverse"><div class="versenum">15.</div> Ja sanoi: Herra, armahda minun poikaani, silla han on kuutaudillinen ja kovin vaivataan; silla han lankee usein tuleen ja usein veteen.	</div>
 
-<div class="versenum">16.</div> Ja mina toin hanen opetuslastes tyko, ja ei he voineet hanta parantaa.	
+<div class="theverse"><div class="versenum">16.</div> Ja mina toin hanen opetuslastes tyko, ja ei he voineet hanta parantaa.	</div>
 
-<div class="versenum">17.</div> Niin Jesus vastaten sanoi: oi epauskoinen ja nurja sukukunta! kuinka kauvan minun pitaa teidan kanssanne oleman? kuinka kauvan minun pitaa teita karsiman? Tuokaat hanta minulle tanne.	
+<div class="theverse"><div class="versenum">17.</div> Niin Jesus vastaten sanoi: oi epauskoinen ja nurja sukukunta! kuinka kauvan minun pitaa teidan kanssanne oleman? kuinka kauvan minun pitaa teita karsiman? Tuokaat hanta minulle tanne.	</div>
 
-<div class="versenum">18.</div> Ja Jesus rankaisi sita, ja perkele meni hanesta ulos; ja poika parani silla hetkella.	
+<div class="theverse"><div class="versenum">18.</div> Ja Jesus rankaisi sita, ja perkele meni hanesta ulos; ja poika parani silla hetkella.	</div>
 
-<div class="versenum">19.</div> Silloin menivat opetuslapset Jesuksen tyko erinansa, ja sanoivat: miksi emme voineet sita ajaa ulos?	
+<div class="theverse"><div class="versenum">19.</div> Silloin menivat opetuslapset Jesuksen tyko erinansa, ja sanoivat: miksi emme voineet sita ajaa ulos?	</div>
 
-<div class="versenum">20.</div> Niin Jesus sanoi heille: epauskonne tahden. Silla totisesti mina sanon teille: jos teilla olis usko niinkuin sinapin siemen, niin te taitaisitte sanoa talle vuorelle: siirry tasta sinne, niin se siirtyis, ja ei teille mitaan olisi mahdotointa.	
+<div class="theverse"><div class="versenum">20.</div> Niin Jesus sanoi heille: epauskonne tahden. Silla totisesti mina sanon teille: jos teilla olis usko niinkuin sinapin siemen, niin te taitaisitte sanoa talle vuorelle: siirry tasta sinne, niin se siirtyis, ja ei teille mitaan olisi mahdotointa.	</div>
 
-<div class="versenum">21.</div> Vaan tama suku ei mene muutoin ulos kuin rukouksella ja paastolla.	
+<div class="theverse"><div class="versenum">21.</div> Vaan tama suku ei mene muutoin ulos kuin rukouksella ja paastolla.	</div>
 
-<div class="versenum">22.</div> Kuin he asuivat Galileassa, sanoi Jesus heille: tapahtuva on, etta Ihmisen Poika annetaan ylon ihmisten kasiin;	
+<div class="theverse"><div class="versenum">22.</div> Kuin he asuivat Galileassa, sanoi Jesus heille: tapahtuva on, etta Ihmisen Poika annetaan ylon ihmisten kasiin;	</div>
 
-<div class="versenum">23.</div> Ja he tappavat hanen, ja kolmantena paivana han nousee ylos. Ja he tulivat sangen murheellisiksi.	
+<div class="theverse"><div class="versenum">23.</div> Ja he tappavat hanen, ja kolmantena paivana han nousee ylos. Ja he tulivat sangen murheellisiksi.	</div>
 
-<div class="versenum">24.</div> Mutta kuin he menivat Kapernaumiin, tulivat verorahan ottajat Pietarin tyko, ja sanoivat: eiko Mestarinne ole tottunut verorahaa maksamaan?	
+<div class="theverse"><div class="versenum">24.</div> Mutta kuin he menivat Kapernaumiin, tulivat verorahan ottajat Pietarin tyko, ja sanoivat: eiko Mestarinne ole tottunut verorahaa maksamaan?	</div>
 
-<div class="versenum">25.</div> Sanoi han: on. Ja kuin han tuli huoneeseen, ennatti hanen Jesus, ja sanoi: mitas luulet, Simon? keilta maan kuninkaat ottavat tullin eli veron? omilta lapsiltansa, taikka vierailta?	
+<div class="theverse"><div class="versenum">25.</div> Sanoi han: on. Ja kuin han tuli huoneeseen, ennatti hanen Jesus, ja sanoi: mitas luulet, Simon? keilta maan kuninkaat ottavat tullin eli veron? omilta lapsiltansa, taikka vierailta?	</div>
 
-<div class="versenum">26.</div> Pietari sanoi hanelle: vierailta. Sanoi Jesus hanelle: niin lapset ovat vapaat.	
+<div class="theverse"><div class="versenum">26.</div> Pietari sanoi hanelle: vierailta. Sanoi Jesus hanelle: niin lapset ovat vapaat.	</div>
 
-<div class="versenum">27.</div> Mutta ettemme heita pahentaisi, niin mene merelle, heita onkes, ja ota se kala, joka ensin tulee ylos, ja avaa hanen suunsa, niin sina loydat rahan: ota se, ja anna heille minun ja sinun edestas.	
+<div class="theverse"><div class="versenum">27.</div> Mutta ettemme heita pahentaisi, niin mene merelle, heita onkes, ja ota se kala, joka ensin tulee ylos, ja avaa hanen suunsa, niin sina loydat rahan: ota se, ja anna heille minun ja sinun edestas.	</div>
 </body>
 </html>

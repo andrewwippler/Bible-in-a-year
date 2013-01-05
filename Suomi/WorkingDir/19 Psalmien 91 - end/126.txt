@@ -4,16 +4,16 @@
 </head>
 <body><div class="chaptertitle">Psalmien 126	</div>
 	
-<div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Koska Herra paastaa Zionin vangit, niin me olemme niinkuin unta nakevaiset.	
+<div class="theverse"><div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Koska Herra paastaa Zionin vangit, niin me olemme niinkuin unta nakevaiset.	</div>
 
-<div class="versenum">2.</div> Silloin meidan suumme naurulla taytetaan, ja kielemme on taynna riemua; silloin sanotaan pakanoissa: Herra on suuria heidan kohtaansa tehnyt.	
+<div class="theverse"><div class="versenum">2.</div> Silloin meidan suumme naurulla taytetaan, ja kielemme on taynna riemua; silloin sanotaan pakanoissa: Herra on suuria heidan kohtaansa tehnyt.	</div>
 
-<div class="versenum">3.</div> Herra on suuria tehnyt meidan kohtaamme: siita me olemme iloiset.	
+<div class="theverse"><div class="versenum">3.</div> Herra on suuria tehnyt meidan kohtaamme: siita me olemme iloiset.	</div>
 
-<div class="versenum">4.</div> Herra! kaanna meidan vankiutemme, niinkuin virrat etelassa.	
+<div class="theverse"><div class="versenum">4.</div> Herra! kaanna meidan vankiutemme, niinkuin virrat etelassa.	</div>
 
-<div class="versenum">5.</div> Jotka kyyneleilla kylvavat, ne ilolla niittavat.	
+<div class="theverse"><div class="versenum">5.</div> Jotka kyyneleilla kylvavat, ne ilolla niittavat.	</div>
 
-<div class="versenum">6.</div> He menevat matkaan ja itkevat, ja vievat ulos kalliin siemenen, ja tulevat riemulla, ja tuovat lyhteensa.	
+<div class="theverse"><div class="versenum">6.</div> He menevat matkaan ja itkevat, ja vievat ulos kalliin siemenen, ja tulevat riemulla, ja tuovat lyhteensa.	</div>
 </body>
 </html>

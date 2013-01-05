@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 27	</div>
 	
-<div class="versenum">1.</div> Ala kehu huomisesta paivasta; silla et sina tieda, mita tanapana tapahtuu.	
+<div class="theverse"><div class="versenum">1.</div> Ala kehu huomisesta paivasta; silla et sina tieda, mita tanapana tapahtuu.	</div>
 
-<div class="versenum">2.</div> Anna toisen sinuas kiittaa, ja ei sinun oman suus, muukalaisen, ja ei omin huultes.	
+<div class="theverse"><div class="versenum">2.</div> Anna toisen sinuas kiittaa, ja ei sinun oman suus, muukalaisen, ja ei omin huultes.	</div>
 
-<div class="versenum">3.</div> Kivi on raskas ja santa painaa; vaan tyhman viha on raskaampi kuin ne molemmat.	
+<div class="theverse"><div class="versenum">3.</div> Kivi on raskas ja santa painaa; vaan tyhman viha on raskaampi kuin ne molemmat.	</div>
 
-<div class="versenum">4.</div> Viha on julma kappale ja karvas mieli on myrsky; ja kuka taitaa olla kateutta vastaan?	
+<div class="theverse"><div class="versenum">4.</div> Viha on julma kappale ja karvas mieli on myrsky; ja kuka taitaa olla kateutta vastaan?	</div>
 
-<div class="versenum">5.</div> Julkinen kuritus on parempi kuin salainen rakkaus.	
+<div class="theverse"><div class="versenum">5.</div> Julkinen kuritus on parempi kuin salainen rakkaus.	</div>
 
-<div class="versenum">6.</div> Hyvansuovan haavat ovat paremmet kuin petolliset Vainoojain suunantamiset.	
+<div class="theverse"><div class="versenum">6.</div> Hyvansuovan haavat ovat paremmet kuin petolliset Vainoojain suunantamiset.	</div>
 
-<div class="versenum">7.</div> Ravittu sielu polkee hunajaa; vaan isoovaiselle sielulle ovat kaikki karvaatkin makiat.	
+<div class="theverse"><div class="versenum">7.</div> Ravittu sielu polkee hunajaa; vaan isoovaiselle sielulle ovat kaikki karvaatkin makiat.	</div>
 
-<div class="versenum">8.</div> Niinkuin lintu, joka pesastansa kulkee, niin on se mies, joka siastansa siirtaa.	
+<div class="theverse"><div class="versenum">8.</div> Niinkuin lintu, joka pesastansa kulkee, niin on se mies, joka siastansa siirtaa.	</div>
 
-<div class="versenum">9.</div> Voiteesta ja suitsutuksesta sydan iloitsee, ja ystavan hyva neuvo on sielulle otollinen.	
+<div class="theverse"><div class="versenum">9.</div> Voiteesta ja suitsutuksesta sydan iloitsee, ja ystavan hyva neuvo on sielulle otollinen.	</div>
 
-<div class="versenum">10.</div> Ala hylkaa ystavaas, ja isas ystavia, ja ala mene veljes huoneesen, kuin sinun vaarin kay; silla parempi on kylanmies, joka lasna on, kuin veli, joka taampana on.	
+<div class="theverse"><div class="versenum">10.</div> Ala hylkaa ystavaas, ja isas ystavia, ja ala mene veljes huoneesen, kuin sinun vaarin kay; silla parempi on kylanmies, joka lasna on, kuin veli, joka taampana on.	</div>
 
-<div class="versenum">11.</div> Ole viisas, poikani, ja iloita sydameni, etta mina taitaisin vastata sita, joka minua pilkkaa.	
+<div class="theverse"><div class="versenum">11.</div> Ole viisas, poikani, ja iloita sydameni, etta mina taitaisin vastata sita, joka minua pilkkaa.	</div>
 
-<div class="versenum">12.</div> Viisas nakee vaaran, ja lymyttaa itsensa; vaan tyhmat menevat siihen, ja saavat vahingon.	
+<div class="theverse"><div class="versenum">12.</div> Viisas nakee vaaran, ja lymyttaa itsensa; vaan tyhmat menevat siihen, ja saavat vahingon.	</div>
 
-<div class="versenum">13.</div> Ota hanen vaattensa, joka toisen takaa, ja ota hanelta pantti muukalaisen edesta.	
+<div class="theverse"><div class="versenum">13.</div> Ota hanen vaattensa, joka toisen takaa, ja ota hanelta pantti muukalaisen edesta.	</div>
 
-<div class="versenum">14.</div> Joka lahimmaistansa siunaa korkialla aanella, ja nousee varhain, se luetaan hanelle kiroukseksi.	
+<div class="theverse"><div class="versenum">14.</div> Joka lahimmaistansa siunaa korkialla aanella, ja nousee varhain, se luetaan hanelle kiroukseksi.	</div>
 
-<div class="versenum">15.</div> Riitainen vaimo, ja alinomainen tiukkuminen suuresta sateesta, namat oikein yhteen verrataan.	
+<div class="theverse"><div class="versenum">15.</div> Riitainen vaimo, ja alinomainen tiukkuminen suuresta sateesta, namat oikein yhteen verrataan.	</div>
 
-<div class="versenum">16.</div> Joka hanta tahtoo katkea, han kasittelee tuulta, ja pivo oljya kadessansa.	
+<div class="theverse"><div class="versenum">16.</div> Joka hanta tahtoo katkea, han kasittelee tuulta, ja pivo oljya kadessansa.	</div>
 
-<div class="versenum">17.</div> Veitsi hioo veitsen, ja mies teroittaa ystavansa.	
+<div class="theverse"><div class="versenum">17.</div> Veitsi hioo veitsen, ja mies teroittaa ystavansa.	</div>
 
-<div class="versenum">18.</div> Joka fikunapuunsa varjelee, se syo siita hedelman, ja joka herraansa vartioitsee, se kunnioitetaan.	
+<div class="theverse"><div class="versenum">18.</div> Joka fikunapuunsa varjelee, se syo siita hedelman, ja joka herraansa vartioitsee, se kunnioitetaan.	</div>
 
-<div class="versenum">19.</div> Niinkuin varjo on vedessa ihmisen kasvon suhteen, niin on ihmisen sydan toisia vastaan.	
+<div class="theverse"><div class="versenum">19.</div> Niinkuin varjo on vedessa ihmisen kasvon suhteen, niin on ihmisen sydan toisia vastaan.	</div>
 
-<div class="versenum">20.</div> Helvetti ja kadotus ei tule ikana tayteen, ja ihmisen silmat ovat tyytymattomat.	
+<div class="theverse"><div class="versenum">20.</div> Helvetti ja kadotus ei tule ikana tayteen, ja ihmisen silmat ovat tyytymattomat.	</div>
 
-<div class="versenum">21.</div> Mies tulee kiusatuksi kiittajan suun kautta, niinkuin hopia ahjossa ja kulta patsissa.	
+<div class="theverse"><div class="versenum">21.</div> Mies tulee kiusatuksi kiittajan suun kautta, niinkuin hopia ahjossa ja kulta patsissa.	</div>
 
-<div class="versenum">22.</div> Jos sina huhmaressa survoisit tyhman niinkuin ryynit, niin ei kuitenkaan hanen hulluutensa hanesta erkane.	
+<div class="theverse"><div class="versenum">22.</div> Jos sina huhmaressa survoisit tyhman niinkuin ryynit, niin ei kuitenkaan hanen hulluutensa hanesta erkane.	</div>
 
-<div class="versenum">23.</div> Ota ahkera vaari lampaistas, ja pida murhe laumastas;	
+<div class="theverse"><div class="versenum">23.</div> Ota ahkera vaari lampaistas, ja pida murhe laumastas;	</div>
 
-<div class="versenum">24.</div> Silla ei tavara ole ijankaikkisesti, eika kruunu suvusta sukuun.	
+<div class="theverse"><div class="versenum">24.</div> Silla ei tavara ole ijankaikkisesti, eika kruunu suvusta sukuun.	</div>
 
-<div class="versenum">25.</div> Ruoho kay ylos ja kukkaset puhkeevat, ja heinat vuorilla kootaan.	
+<div class="theverse"><div class="versenum">25.</div> Ruoho kay ylos ja kukkaset puhkeevat, ja heinat vuorilla kootaan.	</div>
 
-<div class="versenum">26.</div> Lampaat vaatettavat sinua, ja kauriit antavat pellon vuoron.	
+<div class="theverse"><div class="versenum">26.</div> Lampaat vaatettavat sinua, ja kauriit antavat pellon vuoron.	</div>
 
-<div class="versenum">27.</div> Sinulla on vuohten rieskaa kylla seka omaksi setta huonees ravinnoksi, ja piikais elatukseksi.	
+<div class="theverse"><div class="versenum">27.</div> Sinulla on vuohten rieskaa kylla seka omaksi setta huonees ravinnoksi, ja piikais elatukseksi.	</div>
 </body>
 </html>

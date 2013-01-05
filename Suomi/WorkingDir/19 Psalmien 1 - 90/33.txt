@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Psalmien 33	</div>
 	
-<div class="versenum">1.</div> Riemuitkaat, te vanhurskaat, Herrassa; vakain pitaa hanta kauniisti kiittaman.	
+<div class="theverse"><div class="versenum">1.</div> Riemuitkaat, te vanhurskaat, Herrassa; vakain pitaa hanta kauniisti kiittaman.	</div>
 
-<div class="versenum">2.</div> Kiittakaat Herraa kanteleilla, veisatkaat hanelle kiitosta kymmenkielisella psaltarilla.	
+<div class="theverse"><div class="versenum">2.</div> Kiittakaat Herraa kanteleilla, veisatkaat hanelle kiitosta kymmenkielisella psaltarilla.	</div>
 
-<div class="versenum">3.</div> Veisatkaat hanelle uusi virsi: veisatkaat jalosti kielten leikissa, helisemisella.	
+<div class="theverse"><div class="versenum">3.</div> Veisatkaat hanelle uusi virsi: veisatkaat jalosti kielten leikissa, helisemisella.	</div>
 
-<div class="versenum">4.</div> Silla Herran sana on totinen, ja mita han lupaa, sen han vahvana pitaa.	
+<div class="theverse"><div class="versenum">4.</div> Silla Herran sana on totinen, ja mita han lupaa, sen han vahvana pitaa.	</div>
 
-<div class="versenum">5.</div> Han rakastaa vanhurskautta ja tuomiota; maa on taynnansa Herran laupiutta.	
+<div class="theverse"><div class="versenum">5.</div> Han rakastaa vanhurskautta ja tuomiota; maa on taynnansa Herran laupiutta.	</div>
 
-<div class="versenum">6.</div> Herran sanalla ovat taivaat tehdyt, ja kaikki heidan joukkonsa hanen suunsa hengella.	
+<div class="theverse"><div class="versenum">6.</div> Herran sanalla ovat taivaat tehdyt, ja kaikki heidan joukkonsa hanen suunsa hengella.	</div>
 
-<div class="versenum">7.</div> Han pitaa koossa veden meressa niinkuin roukkiossa, ja katkee syvyydet.	
+<div class="theverse"><div class="versenum">7.</div> Han pitaa koossa veden meressa niinkuin roukkiossa, ja katkee syvyydet.	</div>
 
-<div class="versenum">8.</div> Peljatkoon Herraa kaikki maa; hanta peljatkoon kaikki maan piirin asuvaiset.	
+<div class="theverse"><div class="versenum">8.</div> Peljatkoon Herraa kaikki maa; hanta peljatkoon kaikki maan piirin asuvaiset.	</div>
 
-<div class="versenum">9.</div> Silla koska han sanoo, niin se tapahtuu; jos han kaskee, niin se on tehty.	
+<div class="theverse"><div class="versenum">9.</div> Silla koska han sanoo, niin se tapahtuu; jos han kaskee, niin se on tehty.	</div>
 
-<div class="versenum">10.</div> Herra tekee pakanain neuvot tyhjaksi; han saattaa kansain ajatukset turhaksi.	
+<div class="theverse"><div class="versenum">10.</div> Herra tekee pakanain neuvot tyhjaksi; han saattaa kansain ajatukset turhaksi.	</div>
 
-<div class="versenum">11.</div> Mutta Herran neuvo pysyy ijankaikkisesti, hanen sydamensa ajatukset sukukunnasta sukukuntaan.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Herran neuvo pysyy ijankaikkisesti, hanen sydamensa ajatukset sukukunnasta sukukuntaan.	</div>
 
-<div class="versenum">12.</div> Autuas on se kansa, jonka Herra on Jumala, se kansa, jonka han itsellensa on perinnoksi valinnut.	
+<div class="theverse"><div class="versenum">12.</div> Autuas on se kansa, jonka Herra on Jumala, se kansa, jonka han itsellensa on perinnoksi valinnut.	</div>
 
-<div class="versenum">13.</div> Herra katsoi taivaasta alas, ja naki kaikki ihmisten lapset.	
+<div class="theverse"><div class="versenum">13.</div> Herra katsoi taivaasta alas, ja naki kaikki ihmisten lapset.	</div>
 
-<div class="versenum">14.</div> Vahvalta istuimeltansa katsoi han kaikkia, jotka maan paalla asuvat.	
+<div class="theverse"><div class="versenum">14.</div> Vahvalta istuimeltansa katsoi han kaikkia, jotka maan paalla asuvat.	</div>
 
-<div class="versenum">15.</div> Han valmistaa kaikkein heidan sydamensa: han ymmartaa kaikki heidan tyonsa.	
+<div class="theverse"><div class="versenum">15.</div> Han valmistaa kaikkein heidan sydamensa: han ymmartaa kaikki heidan tyonsa.	</div>
 
-<div class="versenum">16.</div> Ei kuningasta auta hanen suuri vakensa, eika sankari vapahdeta suurella voimallansa.	
+<div class="theverse"><div class="versenum">16.</div> Ei kuningasta auta hanen suuri vakensa, eika sankari vapahdeta suurella voimallansa.	</div>
 
-<div class="versenum">17.</div> Orhiit ei myos auta; ja heidan suuri vakevyytensa ei pelasta.	
+<div class="theverse"><div class="versenum">17.</div> Orhiit ei myos auta; ja heidan suuri vakevyytensa ei pelasta.	</div>
 
-<div class="versenum">18.</div> Katso, Herran silmat katsovat niita, jotka hanta pelkaavat, jotka hanen laupiuteensa toivovat,	
+<div class="theverse"><div class="versenum">18.</div> Katso, Herran silmat katsovat niita, jotka hanta pelkaavat, jotka hanen laupiuteensa toivovat,	</div>
 
-<div class="versenum">19.</div> Etta han pelastais heidan sielunsa kuolemasta, ja elattais heita nalan aikana.	
+<div class="theverse"><div class="versenum">19.</div> Etta han pelastais heidan sielunsa kuolemasta, ja elattais heita nalan aikana.	</div>
 
-<div class="versenum">20.</div> Meidan sielumme odottaa Herraa, joka on meidan apumme ja kilpemme!	
+<div class="theverse"><div class="versenum">20.</div> Meidan sielumme odottaa Herraa, joka on meidan apumme ja kilpemme!	</div>
 
-<div class="versenum">21.</div> Silla meidan sydamemme iloitsee hanessa, ja me toivomme hanen pyhaan nimeensa.	
+<div class="theverse"><div class="versenum">21.</div> Silla meidan sydamemme iloitsee hanessa, ja me toivomme hanen pyhaan nimeensa.	</div>
 
-<div class="versenum">22.</div> Olkoon sinun laupiutes, Herra, meidan paallamme, niinkuin me sinuun uskallamme!	
+<div class="theverse"><div class="versenum">22.</div> Olkoon sinun laupiutes, Herra, meidan paallamme, niinkuin me sinuun uskallamme!	</div>
 </body>
 </html>

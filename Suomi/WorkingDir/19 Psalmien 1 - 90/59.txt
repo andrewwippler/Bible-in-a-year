@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Psalmien 59	</div>
 	
-<div class="versenum">1.</div> Davidin kultainen kappale, ettei han hukkunut, kuin Saul lahetti hanen huonettansa piirittamaan, saadaksensa hanta tappaa. (H59:2) Pelasta minua vihollisistani, Jumala, ja varjele minua niista, jotka itseansa asettavat minua vastaan.	
+<div class="theverse"><div class="versenum">1.</div> Davidin kultainen kappale, ettei han hukkunut, kuin Saul lahetti hanen huonettansa piirittamaan, saadaksensa hanta tappaa. (H59:2) Pelasta minua vihollisistani, Jumala, ja varjele minua niista, jotka itseansa asettavat minua vastaan.	</div>
 
-<div class="versenum">2.</div> Pelasta minua pahointekioista, ja auta minua murhamiehista;	
+<div class="theverse"><div class="versenum">2.</div> Pelasta minua pahointekioista, ja auta minua murhamiehista;	</div>
 
-<div class="versenum">3.</div> Silla katso, Herra, he vaijyvat sieluani: vakevat kokoontuvat minua vastaan, ilman minun syytani ja rikostani.	
+<div class="theverse"><div class="versenum">3.</div> Silla katso, Herra, he vaijyvat sieluani: vakevat kokoontuvat minua vastaan, ilman minun syytani ja rikostani.	</div>
 
-<div class="versenum">4.</div> He juoksevat ilman syyta, ja valmistavat itseansa: nouse tulemaan minua vastaan ja katsomaan.	
+<div class="theverse"><div class="versenum">4.</div> He juoksevat ilman syyta, ja valmistavat itseansa: nouse tulemaan minua vastaan ja katsomaan.	</div>
 
-<div class="versenum">5.</div> Ja sina, Herra Jumala Zebaot, Israelin Jumala, heraa etsimaan kaikkia pakanoita: ala ketaan heista armahda, jotka niin vakivaltaisesti vaaryytta tekevat, Sela!	
+<div class="theverse"><div class="versenum">5.</div> Ja sina, Herra Jumala Zebaot, Israelin Jumala, heraa etsimaan kaikkia pakanoita: ala ketaan heista armahda, jotka niin vakivaltaisesti vaaryytta tekevat, Sela!	</div>
 
-<div class="versenum">6.</div> He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympari kaupungin.	
+<div class="theverse"><div class="versenum">6.</div> He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympari kaupungin.	</div>
 
-<div class="versenum">7.</div> Katso, he puhuvat suullansa: miekat ovat heidan huulissansa, kuka sen kuulis.	
+<div class="theverse"><div class="versenum">7.</div> Katso, he puhuvat suullansa: miekat ovat heidan huulissansa, kuka sen kuulis.	</div>
 
-<div class="versenum">8.</div> Mutta sina, Herra, naurat heita, ja pilkkaat kaikkia pakanoita.	
+<div class="theverse"><div class="versenum">8.</div> Mutta sina, Herra, naurat heita, ja pilkkaat kaikkia pakanoita.	</div>
 
-<div class="versenum">9.</div> Heidan vakevyytensa edesta mina turvaan sinun tykos; silla Jumala on minun varjelukseni.	
+<div class="theverse"><div class="versenum">9.</div> Heidan vakevyytensa edesta mina turvaan sinun tykos; silla Jumala on minun varjelukseni.	</div>
 
-<div class="versenum">10.</div> Jumala osoittaa minulle runsaasti laupiutensa, Jumala antaa minun nahda koston vihollisistani.	
+<div class="theverse"><div class="versenum">10.</div> Jumala osoittaa minulle runsaasti laupiutensa, Jumala antaa minun nahda koston vihollisistani.	</div>
 
-<div class="versenum">11.</div> Ala heita tapa, ettei minun kansani sita unohtaisi: hajoita heita voimallas, ja lyo heita maahan, Herra meidan kilpemme.	
+<div class="theverse"><div class="versenum">11.</div> Ala heita tapa, ettei minun kansani sita unohtaisi: hajoita heita voimallas, ja lyo heita maahan, Herra meidan kilpemme.	</div>
 
-<div class="versenum">12.</div> Heidan huultensa puhe on heidan suunsa synti: ja he kasitetaan ylpeydessansa: ja he juttelevat kirouksia ja valhetta.	
+<div class="theverse"><div class="versenum">12.</div> Heidan huultensa puhe on heidan suunsa synti: ja he kasitetaan ylpeydessansa: ja he juttelevat kirouksia ja valhetta.	</div>
 
-<div class="versenum">13.</div> Pyyhi heita pois vihassas, pyyhi heita pois, ettei he olisikaan; etta he ymmartaisivat sen, etta Jumala hallitsee Jakobissa, hamaan maailman aariin asti, Sela!	
+<div class="theverse"><div class="versenum">13.</div> Pyyhi heita pois vihassas, pyyhi heita pois, ettei he olisikaan; etta he ymmartaisivat sen, etta Jumala hallitsee Jakobissa, hamaan maailman aariin asti, Sela!	</div>
 
-<div class="versenum">14.</div> He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympari kaupungin.	
+<div class="theverse"><div class="versenum">14.</div> He tulkoon taas ehtoona, ja ulvokaan niinkuin koira, ja samotkaan ympari kaupungin.	</div>
 
-<div class="versenum">15.</div> Anna heidan juosta sinne ja tanne ruoan tahden; ja ulvokaan, koska ei he ravituksi tule.	
+<div class="theverse"><div class="versenum">15.</div> Anna heidan juosta sinne ja tanne ruoan tahden; ja ulvokaan, koska ei he ravituksi tule.	</div>
 
-<div class="versenum">16.</div> Mutta mina veisaan sinun vakevyyttas, ja varhain kerskaan sinun laupiuttas; silla sina olet minun varjelukseni ja turvani minun hadassani.	
+<div class="theverse"><div class="versenum">16.</div> Mutta mina veisaan sinun vakevyyttas, ja varhain kerskaan sinun laupiuttas; silla sina olet minun varjelukseni ja turvani minun hadassani.	</div>
 
-<div class="versenum">17.</div> Sina olet minun vakevyyteni, sinulle mina kiitosta veisaan; silla sina Jumala olet minun varjelukseni ja minun armollinen Jumalani.	
+<div class="theverse"><div class="versenum">17.</div> Sina olet minun vakevyyteni, sinulle mina kiitosta veisaan; silla sina Jumala olet minun varjelukseni ja minun armollinen Jumalani.	</div>
 </body>
 </html>

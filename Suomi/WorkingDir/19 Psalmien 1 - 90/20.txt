@@ -4,22 +4,22 @@
 </head>
 <body><div class="chaptertitle">Psalmien 20	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H20:2) Herra kuulkoon sinua hadassas, Jakobin Jumalan nimi sinua varjelkoon!	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H20:2) Herra kuulkoon sinua hadassas, Jakobin Jumalan nimi sinua varjelkoon!	</div>
 
-<div class="versenum">2.</div> Han lahettakoon sinulle apua pyhasta ja Zionista sinua vahvistakoon!	
+<div class="theverse"><div class="versenum">2.</div> Han lahettakoon sinulle apua pyhasta ja Zionista sinua vahvistakoon!	</div>
 
-<div class="versenum">3.</div> Han muistakoon kaikki ruokauhris, ja sinun polttouhris olkoon lihavat, Sela!	
+<div class="theverse"><div class="versenum">3.</div> Han muistakoon kaikki ruokauhris, ja sinun polttouhris olkoon lihavat, Sela!	</div>
 
-<div class="versenum">4.</div> Han antakoon sinulle, mita sinun sydames anoo, ja paattakoon kaikki aivoitukses!	
+<div class="theverse"><div class="versenum">4.</div> Han antakoon sinulle, mita sinun sydames anoo, ja paattakoon kaikki aivoitukses!	</div>
 
-<div class="versenum">5.</div> Me kerskaamme sinun avustas, ja meidan Jumalamme nimessa me ylennamme lippumme: Herra tayttakoon kaikki sinun rukoukses!	
+<div class="theverse"><div class="versenum">5.</div> Me kerskaamme sinun avustas, ja meidan Jumalamme nimessa me ylennamme lippumme: Herra tayttakoon kaikki sinun rukoukses!	</div>
 
-<div class="versenum">6.</div> Nyt mina tunnen Herran voideltuansa auttavan, ja hanta kuulevan pyhasta taivaastansa: hanen oikia katensa auttaa voimallisesti.	
+<div class="theverse"><div class="versenum">6.</div> Nyt mina tunnen Herran voideltuansa auttavan, ja hanta kuulevan pyhasta taivaastansa: hanen oikia katensa auttaa voimallisesti.	</div>
 
-<div class="versenum">7.</div> Namat uskaltavat rattaisiin ja oreihin; mutta me muistamme Herran Jumalamme nimea.	
+<div class="theverse"><div class="versenum">7.</div> Namat uskaltavat rattaisiin ja oreihin; mutta me muistamme Herran Jumalamme nimea.	</div>
 
-<div class="versenum">8.</div> He ovat kukistetut ja langenneet; mutta me nousemme ja pystyalla seisomme.	
+<div class="theverse"><div class="versenum">8.</div> He ovat kukistetut ja langenneet; mutta me nousemme ja pystyalla seisomme.	</div>
 
-<div class="versenum">9.</div> Auta Herra! Kuningas meita kuulkaan, kuin me huudamme.	
+<div class="theverse"><div class="versenum">9.</div> Auta Herra! Kuningas meita kuulkaan, kuin me huudamme.	</div>
 </body>
 </html>

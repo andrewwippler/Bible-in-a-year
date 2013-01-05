@@ -4,78 +4,78 @@
 </head>
 <body><div class="chaptertitle">2 Samuelin 15	</div>
 	
-<div class="versenum">1.</div> Ja tapahtui sitte, etta Absalom antoi valmistaa itsellensa vaunut ja hevoset, ja viisikymmenta miesta, jotka olivat hanen edellajuoksiansa.	
+<div class="theverse"><div class="versenum">1.</div> Ja tapahtui sitte, etta Absalom antoi valmistaa itsellensa vaunut ja hevoset, ja viisikymmenta miesta, jotka olivat hanen edellajuoksiansa.	</div>
 
-<div class="versenum">2.</div> Ja Absalom nousi varhain huomeneltain ja seisoi porttitien vieressa, ja kuin jollakin oli asiaa tulla kuninkaan tyko oikeuden eteen, kutsui Absalom sen tykonsa ja sanoi: sinun palvelias on yhdesta Israelin sukukunnista,	
+<div class="theverse"><div class="versenum">2.</div> Ja Absalom nousi varhain huomeneltain ja seisoi porttitien vieressa, ja kuin jollakin oli asiaa tulla kuninkaan tyko oikeuden eteen, kutsui Absalom sen tykonsa ja sanoi: sinun palvelias on yhdesta Israelin sukukunnista,	</div>
 
-<div class="versenum">3.</div> Niin Absalom sanoi hanelle: katso, sinun asias on oikia ja selkia; mutta ei ole yksikaan siella kuninkaalta asetettu, joka sinua kuulis.	
+<div class="theverse"><div class="versenum">3.</div> Niin Absalom sanoi hanelle: katso, sinun asias on oikia ja selkia; mutta ei ole yksikaan siella kuninkaalta asetettu, joka sinua kuulis.	</div>
 
-<div class="versenum">4.</div> Ja Absalom sanoi: kuka minun asettais tuomariksi maalla, etta jokainen tulis minun tykoni jolla jotain asiaa ja kaipaamista on, auttaakseni hanta oikeuteen?	
+<div class="theverse"><div class="versenum">4.</div> Ja Absalom sanoi: kuka minun asettais tuomariksi maalla, etta jokainen tulis minun tykoni jolla jotain asiaa ja kaipaamista on, auttaakseni hanta oikeuteen?	</div>
 
-<div class="versenum">5.</div> Ja kuin joku tuli hanen tykonsa kumartamaan hanta, ojensi han katensa ja tarttui haneen, ja antoi hanen suuta.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin joku tuli hanen tykonsa kumartamaan hanta, ojensi han katensa ja tarttui haneen, ja antoi hanen suuta.	</div>
 
-<div class="versenum">6.</div> Niin teki Absalom kaikelle Israelille, kuin he tulivat oikeuden eteen kuninkaan tyko; ja niin varasti Absalom Israelin miesten sydamet.	
+<div class="theverse"><div class="versenum">6.</div> Niin teki Absalom kaikelle Israelille, kuin he tulivat oikeuden eteen kuninkaan tyko; ja niin varasti Absalom Israelin miesten sydamet.	</div>
 
-<div class="versenum">7.</div> Ja tapahtui neljankymmenen ajastajan perasta, etta Absalom sanoi kuninkaalle: mina menisin ja tayttaisin lupaukseni, jonka mina lupasin Herralle Hebronissa.	
+<div class="theverse"><div class="versenum">7.</div> Ja tapahtui neljankymmenen ajastajan perasta, etta Absalom sanoi kuninkaalle: mina menisin ja tayttaisin lupaukseni, jonka mina lupasin Herralle Hebronissa.	</div>
 
-<div class="versenum">8.</div> Silla silloin kuin mina asuin Gessurissa Syriassa, lupasi sinun palvelias lupauksen ja sanoi: kuin Herra tuo minun kerran Jerusalemiin jalleen, palvelen mina Herraa.	
+<div class="theverse"><div class="versenum">8.</div> Silla silloin kuin mina asuin Gessurissa Syriassa, lupasi sinun palvelias lupauksen ja sanoi: kuin Herra tuo minun kerran Jerusalemiin jalleen, palvelen mina Herraa.	</div>
 
-<div class="versenum">9.</div> Kuningas sanoi hanelle: mene rauhassa! Ja han nousi ja meni Hebroniin.	
+<div class="theverse"><div class="versenum">9.</div> Kuningas sanoi hanelle: mene rauhassa! Ja han nousi ja meni Hebroniin.	</div>
 
-<div class="versenum">10.</div> Mutta Absalom oli lahettanyt vakoojat kaikkiin Israelin sukukuntiin, ja kaski sanoa: kuin saatte kuulla torven aanen, niin sanokaat: Absalom on kuningas Hebronissa.	
+<div class="theverse"><div class="versenum">10.</div> Mutta Absalom oli lahettanyt vakoojat kaikkiin Israelin sukukuntiin, ja kaski sanoa: kuin saatte kuulla torven aanen, niin sanokaat: Absalom on kuningas Hebronissa.	</div>
 
-<div class="versenum">11.</div> Mutta Absalomin kanssa meni kaksisataa miesta Jerusalemista, jotka olivat kutsutut; mutta ne menivat yksinkertaisuudessansa, eika mitaan asiasta tietaneet.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Absalomin kanssa meni kaksisataa miesta Jerusalemista, jotka olivat kutsutut; mutta ne menivat yksinkertaisuudessansa, eika mitaan asiasta tietaneet.	</div>
 
-<div class="versenum">12.</div> Ja Absalom lahetti myos Ahitophelin Gilonilaisen, Davidin neuvonantajan, peraan hanen kaupungistansa Gilosta, kuin han uhria uhrasi; niin tehtiin juuri vahva liitto, ja paljo kansaa lisaantyi ja eneni Absalomin tyko.	
+<div class="theverse"><div class="versenum">12.</div> Ja Absalom lahetti myos Ahitophelin Gilonilaisen, Davidin neuvonantajan, peraan hanen kaupungistansa Gilosta, kuin han uhria uhrasi; niin tehtiin juuri vahva liitto, ja paljo kansaa lisaantyi ja eneni Absalomin tyko.	</div>
 
-<div class="versenum">13.</div> Ja yksi tuli ja ilmoitti sen Davidille, ja sanoi: Israelin miesten sydan on kaantynyt Absalomin jalkeen.	
+<div class="theverse"><div class="versenum">13.</div> Ja yksi tuli ja ilmoitti sen Davidille, ja sanoi: Israelin miesten sydan on kaantynyt Absalomin jalkeen.	</div>
 
-<div class="versenum">14.</div> Ja David sanoi kaikille palvelioillensa, jotka hanen kanssansa Jerusalemissa olivat: nouskaamme ja paetkaamme, silla muutoin ei paase yksikaan meista Absalomin edesta! rientakaat menemaan, ettei han akisti karkaisi meidan paallemme, ja ottaisi meita kiinni, ja vahingoitsisi meita ja loisi kaupunkia miekalla.	
+<div class="theverse"><div class="versenum">14.</div> Ja David sanoi kaikille palvelioillensa, jotka hanen kanssansa Jerusalemissa olivat: nouskaamme ja paetkaamme, silla muutoin ei paase yksikaan meista Absalomin edesta! rientakaat menemaan, ettei han akisti karkaisi meidan paallemme, ja ottaisi meita kiinni, ja vahingoitsisi meita ja loisi kaupunkia miekalla.	</div>
 
-<div class="versenum">15.</div> Kuninkaan palveliat sanoivat kuninkaalle: mita meidan herramme kuningas valitsee, katso tassa me palvelias olemme.	
+<div class="theverse"><div class="versenum">15.</div> Kuninkaan palveliat sanoivat kuninkaalle: mita meidan herramme kuningas valitsee, katso tassa me palvelias olemme.	</div>
 
-<div class="versenum">16.</div> Ja kuningas kavi jalkaisin ulos kaiken huoneensa kanssa; mutta han jatti kymmenen jalkavaimoa huoneita vartioitsemaan.	
+<div class="theverse"><div class="versenum">16.</div> Ja kuningas kavi jalkaisin ulos kaiken huoneensa kanssa; mutta han jatti kymmenen jalkavaimoa huoneita vartioitsemaan.	</div>
 
-<div class="versenum">17.</div> Ja kuin kuningas ja kaikki kansa olivat jalkaisin kayneet ulos, seisoivat he kaukana huoneista.	
+<div class="theverse"><div class="versenum">17.</div> Ja kuin kuningas ja kaikki kansa olivat jalkaisin kayneet ulos, seisoivat he kaukana huoneista.	</div>
 
-<div class="versenum">18.</div> Ja kaikki hanen palveliansa kavivat hanen tykonansa, sitalikin myos kaikki Kretit ja Pletit; ja kaikki Gatilaiset kuusisataa miesta, jotka jalkaisin olivat tulleet Gatista, kavivat kuninkaan edella.	
+<div class="theverse"><div class="versenum">18.</div> Ja kaikki hanen palveliansa kavivat hanen tykonansa, sitalikin myos kaikki Kretit ja Pletit; ja kaikki Gatilaiset kuusisataa miesta, jotka jalkaisin olivat tulleet Gatista, kavivat kuninkaan edella.	</div>
 
-<div class="versenum">19.</div> Ja kuningas sanoi Ittaille Gatilaiselle: miksi sina myos tulet meidan kanssamme? Palaja ja ole kuninkaan tykona; silla sina olet muukalainen, ja olet tanne tullut sinun sialtas.	
+<div class="theverse"><div class="versenum">19.</div> Ja kuningas sanoi Ittaille Gatilaiselle: miksi sina myos tulet meidan kanssamme? Palaja ja ole kuninkaan tykona; silla sina olet muukalainen, ja olet tanne tullut sinun sialtas.	</div>
 
-<div class="versenum">20.</div> Silla eilen sina tulit, ja minun pitais tanapana antaman sinun kayda meidan kanssamme; mutta mina menen, kuhunka mina menen: palaja sina ja vie sinun veljes myotas. Sinun kanssas tapahtukoon armo ja vakuus!	
+<div class="theverse"><div class="versenum">20.</div> Silla eilen sina tulit, ja minun pitais tanapana antaman sinun kayda meidan kanssamme; mutta mina menen, kuhunka mina menen: palaja sina ja vie sinun veljes myotas. Sinun kanssas tapahtukoon armo ja vakuus!	</div>
 
-<div class="versenum">21.</div> Ittai vastasi kuningasta ja sanoi: niin totta kuin Herra elaa, ja niin totta kuin minun herrani kuningas elaa, kussa ikana herrani kuningas on, olisi se kuolemassa eli elamassa, siella pitaa myos sinun palvelias oleman.	
+<div class="theverse"><div class="versenum">21.</div> Ittai vastasi kuningasta ja sanoi: niin totta kuin Herra elaa, ja niin totta kuin minun herrani kuningas elaa, kussa ikana herrani kuningas on, olisi se kuolemassa eli elamassa, siella pitaa myos sinun palvelias oleman.	</div>
 
-<div class="versenum">22.</div> David sanoi Ittaille: tule ja kay meidan kanssamme. Ja niin kavi Ittai Gatilainen, ja kaikki hanen miehensa, ja kaikki lapset jotka hanen kanssansa olivat.	
+<div class="theverse"><div class="versenum">22.</div> David sanoi Ittaille: tule ja kay meidan kanssamme. Ja niin kavi Ittai Gatilainen, ja kaikki hanen miehensa, ja kaikki lapset jotka hanen kanssansa olivat.	</div>
 
-<div class="versenum">23.</div> Ja kaikki maakunta itki suurella aanella, ja kaikki vaki meni kanssa. Ja kuningas kavi Kidronin ojan ylitse, ja kaikki kansa kavi edella korven tieta.	
+<div class="theverse"><div class="versenum">23.</div> Ja kaikki maakunta itki suurella aanella, ja kaikki vaki meni kanssa. Ja kuningas kavi Kidronin ojan ylitse, ja kaikki kansa kavi edella korven tieta.	</div>
 
-<div class="versenum">24.</div> Ja katso, Zadok myos oli siella ja kaikki Levilaiset, jotka hanen kanssansa olivat, ja he kantoivat Jumalan liitonarkin, ja panivat ylos Jumalan arkin. Ja Abjatar meni ylos, siihenasti kuin kaikki vaki tuli kaupungista.	
+<div class="theverse"><div class="versenum">24.</div> Ja katso, Zadok myos oli siella ja kaikki Levilaiset, jotka hanen kanssansa olivat, ja he kantoivat Jumalan liitonarkin, ja panivat ylos Jumalan arkin. Ja Abjatar meni ylos, siihenasti kuin kaikki vaki tuli kaupungista.	</div>
 
-<div class="versenum">25.</div> Niin sanoi kuningas Zadokille: kanna Jumalan arkki kaupunkiin jalleen: jos mina loydan armon Herran edessa, niin han tuo minun jalleen ja antaa minun nahda hanen ja hanen majansa.	
+<div class="theverse"><div class="versenum">25.</div> Niin sanoi kuningas Zadokille: kanna Jumalan arkki kaupunkiin jalleen: jos mina loydan armon Herran edessa, niin han tuo minun jalleen ja antaa minun nahda hanen ja hanen majansa.	</div>
 
-<div class="versenum">26.</div> Mutta jos han niin sanoo: et sina ole minulle otollinen! katso, tassa mina olen: han tehkoon minulle, mita han tahtoo!	
+<div class="theverse"><div class="versenum">26.</div> Mutta jos han niin sanoo: et sina ole minulle otollinen! katso, tassa mina olen: han tehkoon minulle, mita han tahtoo!	</div>
 
-<div class="versenum">27.</div> Ja kuningas sanoi papille Zadokille: sina nakia, palaja rauhassa kaupunkiin, ja molemmat teidan poikanne teidankanssanne, Ahimaats sinun poikas ja Jonatan AbJatarin poika.	
+<div class="theverse"><div class="versenum">27.</div> Ja kuningas sanoi papille Zadokille: sina nakia, palaja rauhassa kaupunkiin, ja molemmat teidan poikanne teidankanssanne, Ahimaats sinun poikas ja Jonatan AbJatarin poika.	</div>
 
-<div class="versenum">28.</div> Katso, mina odotan tasaisella kedolla korvessa siihenasti kuin teilta sana tulee, tekemaan minulle tiettavaksi.	
+<div class="theverse"><div class="versenum">28.</div> Katso, mina odotan tasaisella kedolla korvessa siihenasti kuin teilta sana tulee, tekemaan minulle tiettavaksi.	</div>
 
-<div class="versenum">29.</div> Niin Zadok ja AbJatar kantoivat Jumalan arkin Jerusalemiin, ja olivat siella.	
+<div class="theverse"><div class="versenum">29.</div> Niin Zadok ja AbJatar kantoivat Jumalan arkin Jerusalemiin, ja olivat siella.	</div>
 
-<div class="versenum">30.</div> Mutta David meni ylos oljymaen paltaa myoten ja itki kaydessansa, ja hanen paansa oli peitetty, ja kavi kengitta; niin myos kaikki kansa, jotka hanen kanssansa olivat, peittivat paansa, ja kayden astuivat ylos ja itkivat.	
+<div class="theverse"><div class="versenum">30.</div> Mutta David meni ylos oljymaen paltaa myoten ja itki kaydessansa, ja hanen paansa oli peitetty, ja kavi kengitta; niin myos kaikki kansa, jotka hanen kanssansa olivat, peittivat paansa, ja kayden astuivat ylos ja itkivat.	</div>
 
-<div class="versenum">31.</div> Ja kuin Davidille ilmoitettiin Ahitophelin olevan liitossa Absalomin kanssa, sanoi han: Herra, tee Ahitophelin neuvo tyhmyydeksi!	
+<div class="theverse"><div class="versenum">31.</div> Ja kuin Davidille ilmoitettiin Ahitophelin olevan liitossa Absalomin kanssa, sanoi han: Herra, tee Ahitophelin neuvo tyhmyydeksi!	</div>
 
-<div class="versenum">32.</div> Ja kuin David tuli kukkulalle, kussa Jumalaa rukoiltiin, katso, Husai Arkilainen kohtasi hanta revaistylla hameella, ja multaa hanen paansa paalla.	
+<div class="theverse"><div class="versenum">32.</div> Ja kuin David tuli kukkulalle, kussa Jumalaa rukoiltiin, katso, Husai Arkilainen kohtasi hanta revaistylla hameella, ja multaa hanen paansa paalla.	</div>
 
-<div class="versenum">33.</div> Ja David sanoi: jos seuraat minua, niin sina olet minulle kuormaksi.	
+<div class="theverse"><div class="versenum">33.</div> Ja David sanoi: jos seuraat minua, niin sina olet minulle kuormaksi.	</div>
 
-<div class="versenum">34.</div> Mutta jos palajat kaupunkiin ja sanot AbsalomilIe: mina olen sinun palvelias, kuningas, joka ennen isaas olen kauvan palvellut, ja tahdon olla nyt sinun palvelias: ja nain sina minulle teet Ahitophelin neuvon tyhjaksi.	
+<div class="theverse"><div class="versenum">34.</div> Mutta jos palajat kaupunkiin ja sanot AbsalomilIe: mina olen sinun palvelias, kuningas, joka ennen isaas olen kauvan palvellut, ja tahdon olla nyt sinun palvelias: ja nain sina minulle teet Ahitophelin neuvon tyhjaksi.	</div>
 
-<div class="versenum">35.</div> Eiko Zadok ja AbJatar papit ole sinun kanssas? Ja kaikki, mitas kuulet kuninkaan huoneessa, ilmoita papeille Zadokille ja AbJatarille.	
+<div class="theverse"><div class="versenum">35.</div> Eiko Zadok ja AbJatar papit ole sinun kanssas? Ja kaikki, mitas kuulet kuninkaan huoneessa, ilmoita papeille Zadokille ja AbJatarille.	</div>
 
-<div class="versenum">36.</div> Katso, heidan kaksi poikaansa ovat siella heidan kanssansa, Ahimaats Zadokin poika ja Jonatan AbJatarin poika: niiden kanssa te saatte lahettaa minulle, mita te kuulette.	
+<div class="theverse"><div class="versenum">36.</div> Katso, heidan kaksi poikaansa ovat siella heidan kanssansa, Ahimaats Zadokin poika ja Jonatan AbJatarin poika: niiden kanssa te saatte lahettaa minulle, mita te kuulette.	</div>
 
-<div class="versenum">37.</div> Niin Husai Davidin ystava meni kaupunkiin ja Absalom tuli Jerusalemiin.	
+<div class="theverse"><div class="versenum">37.</div> Niin Husai Davidin ystava meni kaupunkiin ja Absalom tuli Jerusalemiin.	</div>
 </body>
 </html>

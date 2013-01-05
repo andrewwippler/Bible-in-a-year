@@ -4,14 +4,14 @@
 </head>
 <body><div class="chaptertitle">Psalmien 93	</div>
 	
-<div class="versenum">1.</div> Herra on kuningas: han on pukenut yllensa suuren kunnian: Herra on pukenut ja vyottanyt itsensa vakevyydella, ja on vahvistanut maan piirin, ettei sen pida liikkuman.	
+<div class="theverse"><div class="versenum">1.</div> Herra on kuningas: han on pukenut yllensa suuren kunnian: Herra on pukenut ja vyottanyt itsensa vakevyydella, ja on vahvistanut maan piirin, ettei sen pida liikkuman.	</div>
 
-<div class="versenum">2.</div> Siita ajasta pysyy sinun istuimes vahvana: sina olet ijankaikkinen.	
+<div class="theverse"><div class="versenum">2.</div> Siita ajasta pysyy sinun istuimes vahvana: sina olet ijankaikkinen.	</div>
 
-<div class="versenum">3.</div> Herra, vesikosket paisuvat, vesikosket paisuttavat pauhinansa, vesikosket paisuttavat aaltonsa.	
+<div class="theverse"><div class="versenum">3.</div> Herra, vesikosket paisuvat, vesikosket paisuttavat pauhinansa, vesikosket paisuttavat aaltonsa.	</div>
 
-<div class="versenum">4.</div> Aallot meressa ovat suuret ja pauhaavat hirmuisesti; mutta Herra on viela vakevampi korkeudessa.	
+<div class="theverse"><div class="versenum">4.</div> Aallot meressa ovat suuret ja pauhaavat hirmuisesti; mutta Herra on viela vakevampi korkeudessa.	</div>
 
-<div class="versenum">5.</div> Sinun todistukses ovat aivan lujat: pyhyys on sinun huonees kaunistus, Herra, ijankaikkisesti.	
+<div class="theverse"><div class="versenum">5.</div> Sinun todistukses ovat aivan lujat: pyhyys on sinun huonees kaunistus, Herra, ijankaikkisesti.	</div>
 </body>
 </html>

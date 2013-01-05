@@ -4,28 +4,28 @@
 </head>
 <body><div class="chaptertitle">Hoosean 11	</div>
 	
-<div class="versenum">1.</div> Kuin Israel nuori oli, pidin mina hanen rakkaana, ja mina kutsuin Egyptista minun poikani.	
+<div class="theverse"><div class="versenum">1.</div> Kuin Israel nuori oli, pidin mina hanen rakkaana, ja mina kutsuin Egyptista minun poikani.	</div>
 
-<div class="versenum">2.</div> Mutta kuin heita nyt kutsutaan, niin he kaantyvat pois, ja uhraavat Baalimille, ja suitsuttavat kuville.	
+<div class="theverse"><div class="versenum">2.</div> Mutta kuin heita nyt kutsutaan, niin he kaantyvat pois, ja uhraavat Baalimille, ja suitsuttavat kuville.	</div>
 
-<div class="versenum">3.</div> Mina opetin Ephraimin kaymaan, ja talutin hanta kasivarsista, vaan nyt ei he tahdo tietaa, etta mina heita parantanut olen.	
+<div class="theverse"><div class="versenum">3.</div> Mina opetin Ephraimin kaymaan, ja talutin hanta kasivarsista, vaan nyt ei he tahdo tietaa, etta mina heita parantanut olen.	</div>
 
-<div class="versenum">4.</div> Mina annoin heidan vetaa ihmisen ijesta, ja kayda rakkauden ohjissa, ja mina autin heita, otin ikeen heidan kaulastansa, ja annoin heille elatuksen.	
+<div class="theverse"><div class="versenum">4.</div> Mina annoin heidan vetaa ihmisen ijesta, ja kayda rakkauden ohjissa, ja mina autin heita, otin ikeen heidan kaulastansa, ja annoin heille elatuksen.	</div>
 
-<div class="versenum">5.</div> Ei heidan pida palajaman Egyptin maalle, vaan Assur pitaa heidan kuninkaansa oleman; silla ei he tahdo itsiansa kaantaa.	
+<div class="theverse"><div class="versenum">5.</div> Ei heidan pida palajaman Egyptin maalle, vaan Assur pitaa heidan kuninkaansa oleman; silla ei he tahdo itsiansa kaantaa.	</div>
 
-<div class="versenum">6.</div> Sentahden pitaa miekan tuleman heidan kaupunkinsa paalle, ja heidan salpansa tempaaman ylos, ja syoman ne, heidan neuvonsa tahden.	
+<div class="theverse"><div class="versenum">6.</div> Sentahden pitaa miekan tuleman heidan kaupunkinsa paalle, ja heidan salpansa tempaaman ylos, ja syoman ne, heidan neuvonsa tahden.	</div>
 
-<div class="versenum">7.</div> Minun kansani vasyy kaantymasta minun puoleeni; ehka kuinka heille saarnattaisiin, niin ei kenkaan hankitse kuulemaan.	
+<div class="theverse"><div class="versenum">7.</div> Minun kansani vasyy kaantymasta minun puoleeni; ehka kuinka heille saarnattaisiin, niin ei kenkaan hankitse kuulemaan.	</div>
 
-<div class="versenum">8.</div> Mita minun pitaa sinusta tekeman, Ephraim? Varjelenko mina sinua, Israel? Pitaisko minun sinulle tekeman niinkuin Adamalle, ja asettaman sinun niinkuin Zeboimin? Mutta minun sydamellani on toinen mieli, minun laupiuteni on ylen palava:	
+<div class="theverse"><div class="versenum">8.</div> Mita minun pitaa sinusta tekeman, Ephraim? Varjelenko mina sinua, Israel? Pitaisko minun sinulle tekeman niinkuin Adamalle, ja asettaman sinun niinkuin Zeboimin? Mutta minun sydamellani on toinen mieli, minun laupiuteni on ylen palava:	</div>
 
-<div class="versenum">9.</div> Etten mina tee hirmuisen vihani jalkeen, enka palaja Ephraimia kadottamaan; silla mina olen Jumala, ja en ihminen, ja olen pyha teidan keskellanne, ja en tahdo tulla kaupunkiin.	
+<div class="theverse"><div class="versenum">9.</div> Etten mina tee hirmuisen vihani jalkeen, enka palaja Ephraimia kadottamaan; silla mina olen Jumala, ja en ihminen, ja olen pyha teidan keskellanne, ja en tahdo tulla kaupunkiin.	</div>
 
-<div class="versenum">10.</div> Silloin Herraa seurataan, ja han on kiljuva niinkuin jalopeura; ja kuin han kiljuu, niin ne peljastyvat, jotka lannessa ovat.	
+<div class="theverse"><div class="versenum">10.</div> Silloin Herraa seurataan, ja han on kiljuva niinkuin jalopeura; ja kuin han kiljuu, niin ne peljastyvat, jotka lannessa ovat.	</div>
 
-<div class="versenum">11.</div> Ja Egyptissa ne myos peljastyvat niinkuin lintu, ja ne Assurin maasta niinkuin kyhkyinen; ja mina tahdon heita asettaa huoneisiinsa, sanoo Herra.	
+<div class="theverse"><div class="versenum">11.</div> Ja Egyptissa ne myos peljastyvat niinkuin lintu, ja ne Assurin maasta niinkuin kyhkyinen; ja mina tahdon heita asettaa huoneisiinsa, sanoo Herra.	</div>
 
-<div class="versenum">12.</div> (H12:1) Ephraimissa on joka paikassa valhe minua vastaan, ja Israelin huoneessa petos; mutta Juuda hallitsee viela Jumalan kanssa, ja on uskollinen pyhain kanssa.	
+<div class="theverse"><div class="versenum">12.</div> (H12:1) Ephraimissa on joka paikassa valhe minua vastaan, ja Israelin huoneessa petos; mutta Juuda hallitsee viela Jumalan kanssa, ja on uskollinen pyhain kanssa.	</div>
 </body>
 </html>

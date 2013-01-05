@@ -4,102 +4,102 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 4	</div>
 	
-<div class="versenum">1.</div> Ja kuule nyt, Israel, ne saadyt ja oikeudet, jotka mina teille opetan tehdaksenne, etta te elaisitte ja tulisitte ja omistaisitte maan jonka Herra teidan isainne Jumala teille on antava.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuule nyt, Israel, ne saadyt ja oikeudet, jotka mina teille opetan tehdaksenne, etta te elaisitte ja tulisitte ja omistaisitte maan jonka Herra teidan isainne Jumala teille on antava.	</div>
 
-<div class="versenum">2.</div> Ei teidan pida mitaan lisaaman siihen sanaan minka mina teille kasken, eika pida myos teidan mitaan siita ottamanpois, katkeaksenne Herran teidan Jumalanne kaskyja, jotka mina teille kasken.	
+<div class="theverse"><div class="versenum">2.</div> Ei teidan pida mitaan lisaaman siihen sanaan minka mina teille kasken, eika pida myos teidan mitaan siita ottamanpois, katkeaksenne Herran teidan Jumalanne kaskyja, jotka mina teille kasken.	</div>
 
-<div class="versenum">3.</div> Teidan silmanne ovat nahneet, mita Herra tehnyt on BaalPeorille; silla kaikki, jotka seurasivat BaalPeoria, on Herra sinun Jumalas hukuttanut teidan seastanne.	
+<div class="theverse"><div class="versenum">3.</div> Teidan silmanne ovat nahneet, mita Herra tehnyt on BaalPeorille; silla kaikki, jotka seurasivat BaalPeoria, on Herra sinun Jumalas hukuttanut teidan seastanne.	</div>
 
-<div class="versenum">4.</div> Vaan te, jotka riiputte kiinni Herrassa teidan Jumalassanne, te elatte kaikki tanapana.	
+<div class="theverse"><div class="versenum">4.</div> Vaan te, jotka riiputte kiinni Herrassa teidan Jumalassanne, te elatte kaikki tanapana.	</div>
 
-<div class="versenum">5.</div> Katso, mina opetin teille kaskyt ja oikeudet, niinkuin Herra minun Jumalani minulle kaskenyt on, niin tehdaksenne maalla, johonka te tulette, omistamaan sita.	
+<div class="theverse"><div class="versenum">5.</div> Katso, mina opetin teille kaskyt ja oikeudet, niinkuin Herra minun Jumalani minulle kaskenyt on, niin tehdaksenne maalla, johonka te tulette, omistamaan sita.	</div>
 
-<div class="versenum">6.</div> Niin pitakaat siis ja tehkaat ne; silla tama on teidan ymmarryksenne ja toimellisuutenne kaikkein kansain edessa, koska he kuulevat namat kaskyt, niin he sanovat: tama suuri kansa ainoastaan on toimellinen ja kuluisa kansa.	
+<div class="theverse"><div class="versenum">6.</div> Niin pitakaat siis ja tehkaat ne; silla tama on teidan ymmarryksenne ja toimellisuutenne kaikkein kansain edessa, koska he kuulevat namat kaskyt, niin he sanovat: tama suuri kansa ainoastaan on toimellinen ja kuluisa kansa.	</div>
 
-<div class="versenum">7.</div> Silla mika kansa on niin suuri, jota Jumala niin lahestyy, niinkuin Herra meidan Jumalamme, niin usein kuin me hanta rukoilemme?	
+<div class="theverse"><div class="versenum">7.</div> Silla mika kansa on niin suuri, jota Jumala niin lahestyy, niinkuin Herra meidan Jumalamme, niin usein kuin me hanta rukoilemme?	</div>
 
-<div class="versenum">8.</div> Ja mika on niin ylistettava kansa jolla niin hurskaat saadyt ja kaskyt ovat, niinkuin kaikki tama laki on, jonka mina teille tanapana annan?	
+<div class="theverse"><div class="versenum">8.</div> Ja mika on niin ylistettava kansa jolla niin hurskaat saadyt ja kaskyt ovat, niinkuin kaikki tama laki on, jonka mina teille tanapana annan?	</div>
 
-<div class="versenum">9.</div> Niin karta ja varjele sinun sielus sangen visusti, ettet sina unhottaisi niita asioita, jotka sinun silmas ovat nahneet, ja ettei ne laksisi sinun sydamestas kaikkena sinun elinaikanas: ja sinun pitaa niita julistaman lapsilles ja lastes lapsille.	
+<div class="theverse"><div class="versenum">9.</div> Niin karta ja varjele sinun sielus sangen visusti, ettet sina unhottaisi niita asioita, jotka sinun silmas ovat nahneet, ja ettei ne laksisi sinun sydamestas kaikkena sinun elinaikanas: ja sinun pitaa niita julistaman lapsilles ja lastes lapsille.	</div>
 
-<div class="versenum">10.</div> Sita paivaa, jonas seisoit Herran sinun Jumalas edessa Horebissa, kuin Herra sanoi minulle: kokoa minulle kansa, antaakseni heidan kuulla minun sanojani, jotka heidan pitaa oppiman, etta he pelkaisivat minua kaikkena elinaikanansa maan paalla, ja opettaisivat lapsiansa.	
+<div class="theverse"><div class="versenum">10.</div> Sita paivaa, jonas seisoit Herran sinun Jumalas edessa Horebissa, kuin Herra sanoi minulle: kokoa minulle kansa, antaakseni heidan kuulla minun sanojani, jotka heidan pitaa oppiman, etta he pelkaisivat minua kaikkena elinaikanansa maan paalla, ja opettaisivat lapsiansa.	</div>
 
-<div class="versenum">11.</div> Ja te astuitte edes, ja seisoitte alhaalla vuoren tykona, ja vuori paloi taivaasen asti, ja siella oli pimeys, pilvi ja synkeys.	
+<div class="theverse"><div class="versenum">11.</div> Ja te astuitte edes, ja seisoitte alhaalla vuoren tykona, ja vuori paloi taivaasen asti, ja siella oli pimeys, pilvi ja synkeys.	</div>
 
-<div class="versenum">12.</div> Ja Herra puhui teille keskelta tulta: puheen aanen te kuulitte, mutta ette yhtakaan kuvaa nahneet, vaan aanen kuulitte.	
+<div class="theverse"><div class="versenum">12.</div> Ja Herra puhui teille keskelta tulta: puheen aanen te kuulitte, mutta ette yhtakaan kuvaa nahneet, vaan aanen kuulitte.	</div>
 
-<div class="versenum">13.</div> Ja han ilmoitti teille liittonsa, jonka han teidan tehda kaski: ne kymmenet sanat, ja kirjoitti ne kahteen kiviseen tauluun.	
+<div class="theverse"><div class="versenum">13.</div> Ja han ilmoitti teille liittonsa, jonka han teidan tehda kaski: ne kymmenet sanat, ja kirjoitti ne kahteen kiviseen tauluun.	</div>
 
-<div class="versenum">14.</div> Ja Herra kaski minun silloin opettaa teille saadyt ja oikeudet, teidan niita tehdaksenne siina maassa, johon te menette omistamaan sita.	
+<div class="theverse"><div class="versenum">14.</div> Ja Herra kaski minun silloin opettaa teille saadyt ja oikeudet, teidan niita tehdaksenne siina maassa, johon te menette omistamaan sita.	</div>
 
-<div class="versenum">15.</div> Varjelkaat siis sielujanne sangen visusti; silla ette ole yhtakaan kuvaa nahneet sina paivana, jona Herra puhui teille, keskelta tulta, Horebissa,	
+<div class="theverse"><div class="versenum">15.</div> Varjelkaat siis sielujanne sangen visusti; silla ette ole yhtakaan kuvaa nahneet sina paivana, jona Herra puhui teille, keskelta tulta, Horebissa,	</div>
 
-<div class="versenum">16.</div> Ettette turmelisi teitanne, ja tekisi teillenne kuvaa, jonkun muotoista, miehen eli vaimon kaltaista,	
+<div class="theverse"><div class="versenum">16.</div> Ettette turmelisi teitanne, ja tekisi teillenne kuvaa, jonkun muotoista, miehen eli vaimon kaltaista,	</div>
 
-<div class="versenum">17.</div> Jonkun elaimen kaltaista, joka on maan paalla, jonkun linnun kaltaista, joka lentaa taivaan alla;	
+<div class="theverse"><div class="versenum">17.</div> Jonkun elaimen kaltaista, joka on maan paalla, jonkun linnun kaltaista, joka lentaa taivaan alla;	</div>
 
-<div class="versenum">18.</div> Eli jonkun madon muotoa maan paalla, eli jonkun kalan muotoa, joka on vedessa maan alla,	
+<div class="theverse"><div class="versenum">18.</div> Eli jonkun madon muotoa maan paalla, eli jonkun kalan muotoa, joka on vedessa maan alla,	</div>
 
-<div class="versenum">19.</div> Ja ettet sina myos nostaisi silmias taivaasen pain, ja katselisi aurinkoa, ja kuuta, ja tahtia, ja kaikkea taivaan sotajoukkoa, ja tulisi kehoitetuksi kumartamaan ja palvelemaan heita, jotka Herra sinun Jumalas jakanut on kaikille kansoille koko taivaan alla.	
+<div class="theverse"><div class="versenum">19.</div> Ja ettet sina myos nostaisi silmias taivaasen pain, ja katselisi aurinkoa, ja kuuta, ja tahtia, ja kaikkea taivaan sotajoukkoa, ja tulisi kehoitetuksi kumartamaan ja palvelemaan heita, jotka Herra sinun Jumalas jakanut on kaikille kansoille koko taivaan alla.	</div>
 
-<div class="versenum">20.</div> Mutta teidat on Herra ottanut ja johdattanut ulos rautapatsista Egyptista, etta olisitte hanelle perintokansa, niinkuin se myos on tanapana.	
+<div class="theverse"><div class="versenum">20.</div> Mutta teidat on Herra ottanut ja johdattanut ulos rautapatsista Egyptista, etta olisitte hanelle perintokansa, niinkuin se myos on tanapana.	</div>
 
-<div class="versenum">21.</div> Ja Herra vihastui minun paalleni teidan puheenne tahden, niin etta han vannoi, ettei minun pitanyt meneman Jordanin ylitse, eli tuleman siihen hyvaan maahan, jonka Herra sinun Jumalas antaa sinulle perinnoksi.	
+<div class="theverse"><div class="versenum">21.</div> Ja Herra vihastui minun paalleni teidan puheenne tahden, niin etta han vannoi, ettei minun pitanyt meneman Jordanin ylitse, eli tuleman siihen hyvaan maahan, jonka Herra sinun Jumalas antaa sinulle perinnoksi.	</div>
 
-<div class="versenum">22.</div> Vaan minun pitaa kuoleman tassa maassa, ja ei minun pida kayman Jordanin ylitse; mutta te kaytte sen ylitse ja omistatte hyvan maan.	
+<div class="theverse"><div class="versenum">22.</div> Vaan minun pitaa kuoleman tassa maassa, ja ei minun pida kayman Jordanin ylitse; mutta te kaytte sen ylitse ja omistatte hyvan maan.	</div>
 
-<div class="versenum">23.</div> Niin kavahtakaat, ettette Herran teidan Jumalanne liittoa unhottaisi, jonka han teidan kansanne on tehnyt: ja alkaat tehko kuvaa jonkun muotoista niinkuin Herra sinun Jumalas sinulta kieltanyt on.	
+<div class="theverse"><div class="versenum">23.</div> Niin kavahtakaat, ettette Herran teidan Jumalanne liittoa unhottaisi, jonka han teidan kansanne on tehnyt: ja alkaat tehko kuvaa jonkun muotoista niinkuin Herra sinun Jumalas sinulta kieltanyt on.	</div>
 
-<div class="versenum">24.</div> Silla Herra sinun Jumalas on kuluttavainen tuli, ja kiivas Jumala.	
+<div class="theverse"><div class="versenum">24.</div> Silla Herra sinun Jumalas on kuluttavainen tuli, ja kiivas Jumala.	</div>
 
-<div class="versenum">25.</div> Kuin sina siitat lapsia, ja lasten lapsia, ja te vanhenette maassa ja turmelette itsenne, ja teette itsellenne kuvia jonkun muotoisia, niin etta te teette pahaa Herran teidan Jumalanne edessa, ja vihoitatte hanen,	
+<div class="theverse"><div class="versenum">25.</div> Kuin sina siitat lapsia, ja lasten lapsia, ja te vanhenette maassa ja turmelette itsenne, ja teette itsellenne kuvia jonkun muotoisia, niin etta te teette pahaa Herran teidan Jumalanne edessa, ja vihoitatte hanen,	</div>
 
-<div class="versenum">26.</div> Niin mina tanapana kutsun taivaat ja maan todistajaksi teita vastaan, etta teidan pitaa akisti perati hukkuman siita maasta, johon te menette Jordanin ylitse, omistamaan sita. Ei teidan pida kauvan elaman siina, vaan te pitaa perati hukutettaman.	
+<div class="theverse"><div class="versenum">26.</div> Niin mina tanapana kutsun taivaat ja maan todistajaksi teita vastaan, etta teidan pitaa akisti perati hukkuman siita maasta, johon te menette Jordanin ylitse, omistamaan sita. Ei teidan pida kauvan elaman siina, vaan te pitaa perati hukutettaman.	</div>
 
-<div class="versenum">27.</div> Ja Herra hajoittaa teita kansain sekaan, ja te tulette vahaksi kansaksi, jatetyksi pakanain sekaan, kuhunka Herra vie teidat.	
+<div class="theverse"><div class="versenum">27.</div> Ja Herra hajoittaa teita kansain sekaan, ja te tulette vahaksi kansaksi, jatetyksi pakanain sekaan, kuhunka Herra vie teidat.	</div>
 
-<div class="versenum">28.</div> Siella pitaa teidan palveleman epajumalia, jotka ihmisten kasialat ovat: puita ja kivia, jotka ei nae, eika kuule, eika syo, eika haista.	
+<div class="theverse"><div class="versenum">28.</div> Siella pitaa teidan palveleman epajumalia, jotka ihmisten kasialat ovat: puita ja kivia, jotka ei nae, eika kuule, eika syo, eika haista.	</div>
 
-<div class="versenum">29.</div> Jos sina silloin siella etsit Herraa sinun Jumalaas, niin sina loydat hanen, koska sina etsit hanta kaikesta sydamestas, ja kaikesta sielustas.	
+<div class="theverse"><div class="versenum">29.</div> Jos sina silloin siella etsit Herraa sinun Jumalaas, niin sina loydat hanen, koska sina etsit hanta kaikesta sydamestas, ja kaikesta sielustas.	</div>
 
-<div class="versenum">30.</div> Koskas ahdistetaan, ja namat kaikki sinun paalles tulevat, niin sina viimeisina paivina palajat Herran sinun Jumalas tyko ja kuulet hanen aantansa.	
+<div class="theverse"><div class="versenum">30.</div> Koskas ahdistetaan, ja namat kaikki sinun paalles tulevat, niin sina viimeisina paivina palajat Herran sinun Jumalas tyko ja kuulet hanen aantansa.	</div>
 
-<div class="versenum">31.</div> Silla Herra sinun Jumalas on armollinen Jumala: ei han sinua hylkaa, eika kadota sinua, ja ei han unhota sinun isais liittoa, jonka han heille vannonut on.	
+<div class="theverse"><div class="versenum">31.</div> Silla Herra sinun Jumalas on armollinen Jumala: ei han sinua hylkaa, eika kadota sinua, ja ei han unhota sinun isais liittoa, jonka han heille vannonut on.	</div>
 
-<div class="versenum">32.</div> Kysele entisia aikoja, jotka ovat olleet sinun edellas, siita paivasta, jona Jumala loi ihmisen maan paalle, ja yhdesta taivaan aaresta niin toiseen aareen: jos ikana niin suuri asia tapahtunut on, eli senkaltaista on ikana kuultu?	
+<div class="theverse"><div class="versenum">32.</div> Kysele entisia aikoja, jotka ovat olleet sinun edellas, siita paivasta, jona Jumala loi ihmisen maan paalle, ja yhdesta taivaan aaresta niin toiseen aareen: jos ikana niin suuri asia tapahtunut on, eli senkaltaista on ikana kuultu?	</div>
 
-<div class="versenum">33.</div> Onko joku kansa kuullut Jumalan aanen puhuvan tulen keskelta, niinkuin sina kuullut olet, ja on elanyt?	
+<div class="theverse"><div class="versenum">33.</div> Onko joku kansa kuullut Jumalan aanen puhuvan tulen keskelta, niinkuin sina kuullut olet, ja on elanyt?	</div>
 
-<div class="versenum">34.</div> Eli onko Jumala koetellut mennaksensa ottamaan itsellensa kansaa kansan seasta, kiusauksilla, ja tunnustahdeilla, ja ihmeilla, ja sodalla, ja vakevalla kadella, ja ojetulla kasivarrella ja suurilla peljastyksilla, niinkuin Herra teidan Jumalanne kaikki namat tehnyt on teille Egyptista sinun silmais edessa.	
+<div class="theverse"><div class="versenum">34.</div> Eli onko Jumala koetellut mennaksensa ottamaan itsellensa kansaa kansan seasta, kiusauksilla, ja tunnustahdeilla, ja ihmeilla, ja sodalla, ja vakevalla kadella, ja ojetulla kasivarrella ja suurilla peljastyksilla, niinkuin Herra teidan Jumalanne kaikki namat tehnyt on teille Egyptista sinun silmais edessa.	</div>
 
-<div class="versenum">35.</div> Namat olet sina nahnyt, tietaakses, etta Herra on ainoastaan Jumala; ja paitsi hanta ei yksikaan muu.	
+<div class="theverse"><div class="versenum">35.</div> Namat olet sina nahnyt, tietaakses, etta Herra on ainoastaan Jumala; ja paitsi hanta ei yksikaan muu.	</div>
 
-<div class="versenum">36.</div> Taivaasta on han antanut sinun kuulla aanensa, opettaaksensa sinua, ja maalla on han antanut sinun nahda suuren tulensa, ja tulen keskelta olet sina kuullut hanen sanansa.	
+<div class="theverse"><div class="versenum">36.</div> Taivaasta on han antanut sinun kuulla aanensa, opettaaksensa sinua, ja maalla on han antanut sinun nahda suuren tulensa, ja tulen keskelta olet sina kuullut hanen sanansa.	</div>
 
-<div class="versenum">37.</div> Etta han sinun isias on rakastanut, ja heidan siemenensa on valinnut heidan jalkeensa, ja vienyt ulos sinun Egyptin maasta kasvoillansa, ja suurela voimallansa,	
+<div class="theverse"><div class="versenum">37.</div> Etta han sinun isias on rakastanut, ja heidan siemenensa on valinnut heidan jalkeensa, ja vienyt ulos sinun Egyptin maasta kasvoillansa, ja suurela voimallansa,	</div>
 
-<div class="versenum">38.</div> Ajamaan ulos sinun edestas suuret kansat, vakevammat sinua, johdattaaksensa sinun siihen, ja antaaksensa sinulle heidan maansa perinnoksi, niinkuin se tanapana tapahtunut on.	
+<div class="theverse"><div class="versenum">38.</div> Ajamaan ulos sinun edestas suuret kansat, vakevammat sinua, johdattaaksensa sinun siihen, ja antaaksensa sinulle heidan maansa perinnoksi, niinkuin se tanapana tapahtunut on.	</div>
 
-<div class="versenum">39.</div> Niin tieda siis tanapana, ja pane mielees, etta Herra on Jumala ylhaalla taivaassa, ja alhaalla maassa, ja ei yksikaan muu,	
+<div class="theverse"><div class="versenum">39.</div> Niin tieda siis tanapana, ja pane mielees, etta Herra on Jumala ylhaalla taivaassa, ja alhaalla maassa, ja ei yksikaan muu,	</div>
 
-<div class="versenum">40.</div> Ettas pidat hanen saatynsa ja kaskynsa, jotka mina tanapana sinulle kasken, etta sinun ja sinun lapsilles sinun jalkees hyvin kavis, ja ettas olisit pitka-ijallinen maassa, jonka Herra sinun Jumalas sinulle antaa ikapaivikses.	
+<div class="theverse"><div class="versenum">40.</div> Ettas pidat hanen saatynsa ja kaskynsa, jotka mina tanapana sinulle kasken, etta sinun ja sinun lapsilles sinun jalkees hyvin kavis, ja ettas olisit pitka-ijallinen maassa, jonka Herra sinun Jumalas sinulle antaa ikapaivikses.	</div>
 
-<div class="versenum">41.</div> Silloin eroitti Moses kolme kaupunkia, silla puolella Jordania auringon nousemisen puoleen,	
+<div class="theverse"><div class="versenum">41.</div> Silloin eroitti Moses kolme kaupunkia, silla puolella Jordania auringon nousemisen puoleen,	</div>
 
-<div class="versenum">42.</div> Etta sinne pakenis, tietamata lahimmaisensa kuoliaaksi lois ja ei ennen ole ollut hanen vihamiehensa; etta han pakenis yhteen niista kaupungeista, ja elais,	
+<div class="theverse"><div class="versenum">42.</div> Etta sinne pakenis, tietamata lahimmaisensa kuoliaaksi lois ja ei ennen ole ollut hanen vihamiehensa; etta han pakenis yhteen niista kaupungeista, ja elais,	</div>
 
-<div class="versenum">43.</div> Kuin oli Betser korvessa, lakialla maalla Rubenilaisten seassa, ja Ramot Gileadissa Gadilaisten seassa, ja Goan Basanissa Manasselaisten seassa.	
+<div class="theverse"><div class="versenum">43.</div> Kuin oli Betser korvessa, lakialla maalla Rubenilaisten seassa, ja Ramot Gileadissa Gadilaisten seassa, ja Goan Basanissa Manasselaisten seassa.	</div>
 
-<div class="versenum">44.</div> Tama on se laki, jonka Moses Israelin lasten eteen pani.	
+<div class="theverse"><div class="versenum">44.</div> Tama on se laki, jonka Moses Israelin lasten eteen pani.	</div>
 
-<div class="versenum">45.</div> Ja namat ovat todistukset, saadyt ja oikeudet, jotka Moses sanoi Israelin lapsille, lahdettyansa Egyptista,	
+<div class="theverse"><div class="versenum">45.</div> Ja namat ovat todistukset, saadyt ja oikeudet, jotka Moses sanoi Israelin lapsille, lahdettyansa Egyptista,	</div>
 
-<div class="versenum">46.</div> Silla puolella Jordania, laaksossa BetPeorin kohdalla, Sihorin Amorilaisten kuninkaan maalla joka Hesbonissa asui, jonka Moses ja Israelin lapset loivat lahdettyansa Egyptista,	
+<div class="theverse"><div class="versenum">46.</div> Silla puolella Jordania, laaksossa BetPeorin kohdalla, Sihorin Amorilaisten kuninkaan maalla joka Hesbonissa asui, jonka Moses ja Israelin lapset loivat lahdettyansa Egyptista,	</div>
 
-<div class="versenum">47.</div> Ja omistivat hanen maansa, niin myos Ogin Basanin kuninkaan maan, kahden Amorilaisten kuninkaan, jotka silla puolella Jordania asuivat, auringon ylenemista pain,	
+<div class="theverse"><div class="versenum">47.</div> Ja omistivat hanen maansa, niin myos Ogin Basanin kuninkaan maan, kahden Amorilaisten kuninkaan, jotka silla puolella Jordania asuivat, auringon ylenemista pain,	</div>
 
-<div class="versenum">48.</div> Aroerista Arnonin ojan reunalla, Sionin vuoreen asti, se on Hermon.	
+<div class="theverse"><div class="versenum">48.</div> Aroerista Arnonin ojan reunalla, Sionin vuoreen asti, se on Hermon.	</div>
 
-<div class="versenum">49.</div> Ja kaiken lakian maan silla puolella Jordania itaan pain, lakeuden mereen asti, Pisgan vuoren alaisella puolella.	
+<div class="theverse"><div class="versenum">49.</div> Ja kaiken lakian maan silla puolella Jordania itaan pain, lakeuden mereen asti, Pisgan vuoren alaisella puolella.	</div>
 </body>
 </html>

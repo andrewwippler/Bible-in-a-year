@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Hesekielin 6	</div>
 	
-<div class="versenum">1.</div> Ja Herran sana tapahtui minulle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herran sana tapahtui minulle, sanoen:	</div>
 
-<div class="versenum">2.</div> Sina ihmisen lapsi, kaanna kasvos Israelin vuoria pain, ja ennusta heita vastaan,	
+<div class="theverse"><div class="versenum">2.</div> Sina ihmisen lapsi, kaanna kasvos Israelin vuoria pain, ja ennusta heita vastaan,	</div>
 
-<div class="versenum">3.</div> Ja sano: te Israelin vuoret, kuulkaat Herran, Herran sanaa: nain sanoo Herra, Herra seka vuorille etta maille, seka ojille etta laaksoille: katso, mina, mina tahdon antaa tulla miekan teidan paallenne, ja lyoda teidan kukkulanne maahan;	
+<div class="theverse"><div class="versenum">3.</div> Ja sano: te Israelin vuoret, kuulkaat Herran, Herran sanaa: nain sanoo Herra, Herra seka vuorille etta maille, seka ojille etta laaksoille: katso, mina, mina tahdon antaa tulla miekan teidan paallenne, ja lyoda teidan kukkulanne maahan;	</div>
 
-<div class="versenum">4.</div> Etta teidan alttarinne pitaa kukistetuiksi tuleman, ja teidan epajumalanne rikki lyodyksi; ja mina tahdon antaa teidan ruumiinne tapettaa kuvainne eteen,	
+<div class="theverse"><div class="versenum">4.</div> Etta teidan alttarinne pitaa kukistetuiksi tuleman, ja teidan epajumalanne rikki lyodyksi; ja mina tahdon antaa teidan ruumiinne tapettaa kuvainne eteen,	</div>
 
-<div class="versenum">5.</div> Ja lyoda maahan Israelin lasten ruumiit teidan kuvainne eteen, ja hajoittaa teidan luunne ympari teidan alttareitanne.	
+<div class="theverse"><div class="versenum">5.</div> Ja lyoda maahan Israelin lasten ruumiit teidan kuvainne eteen, ja hajoittaa teidan luunne ympari teidan alttareitanne.	</div>
 
-<div class="versenum">6.</div> Kussa te ikana asutte, pitaa kaupungit kylmille tuleman, ja kukkulat havitettaman, etta teidan alttarinne pitaa lyotaman maahan ja autioksi tehtaman, ja rikottaman teidan epajumalanne ja havitettaman, ja sarjettaman teidan kuvanne ja teidan tyonne tyhjaksi tehtaman.	
+<div class="theverse"><div class="versenum">6.</div> Kussa te ikana asutte, pitaa kaupungit kylmille tuleman, ja kukkulat havitettaman, etta teidan alttarinne pitaa lyotaman maahan ja autioksi tehtaman, ja rikottaman teidan epajumalanne ja havitettaman, ja sarjettaman teidan kuvanne ja teidan tyonne tyhjaksi tehtaman.	</div>
 
-<div class="versenum">7.</div> Ja maahan lyodyt pitaa makaaman teidan seassanne, etta teidan tietaman pitaa minun olevan Herran.	
+<div class="theverse"><div class="versenum">7.</div> Ja maahan lyodyt pitaa makaaman teidan seassanne, etta teidan tietaman pitaa minun olevan Herran.	</div>
 
-<div class="versenum">8.</div> Mutta mina tahdon antaa muutamat teista jaada, jotka pitaa miekalta jaaman pakanain sekaan, kuin mina teita maakuntiin hajoittanut olen.	
+<div class="theverse"><div class="versenum">8.</div> Mutta mina tahdon antaa muutamat teista jaada, jotka pitaa miekalta jaaman pakanain sekaan, kuin mina teita maakuntiin hajoittanut olen.	</div>
 
-<div class="versenum">9.</div> Jaaneet teista pitaa muistaman minua pakanain seassa, kussa heidan vankina oleman pitaa, etta mina olen sarjetty heidan haureellisen sydamensa tahden, joka minusta luopunut on, ja heidan kiiluvain silmainsa tahden, jotka ovat katsoneet epajumaltensa jalkeen; ja niiden pitaa suuttuman itseensa sen pahuuden tahden, jotka he kaikkein kauhistustensa kautta tehneet ovat.	
+<div class="theverse"><div class="versenum">9.</div> Jaaneet teista pitaa muistaman minua pakanain seassa, kussa heidan vankina oleman pitaa, etta mina olen sarjetty heidan haureellisen sydamensa tahden, joka minusta luopunut on, ja heidan kiiluvain silmainsa tahden, jotka ovat katsoneet epajumaltensa jalkeen; ja niiden pitaa suuttuman itseensa sen pahuuden tahden, jotka he kaikkein kauhistustensa kautta tehneet ovat.	</div>
 
-<div class="versenum">10.</div> Ja heidan pitaa tietaman, etta mina olen Herra; ja en ole hukkaan puhunut, tehdakseni heille tata pahaa.	
+<div class="theverse"><div class="versenum">10.</div> Ja heidan pitaa tietaman, etta mina olen Herra; ja en ole hukkaan puhunut, tehdakseni heille tata pahaa.	</div>
 
-<div class="versenum">11.</div> Nain sanoo Herra, Herra: lyo kasias yhteen, ja tomista jalkojas, ja sano: voi! kaikkea pahuuden kauhistusta Israelin huoneessa, jonka tahden he miekan, nalan ja ruton kautta lankeeman pitaa.	
+<div class="theverse"><div class="versenum">11.</div> Nain sanoo Herra, Herra: lyo kasias yhteen, ja tomista jalkojas, ja sano: voi! kaikkea pahuuden kauhistusta Israelin huoneessa, jonka tahden he miekan, nalan ja ruton kautta lankeeman pitaa.	</div>
 
-<div class="versenum">12.</div> Se joka kaukana on, hanen pitaa ruttoon kuoleman, ja se joka juuri lasna on, hanen pitaa miekalla lankeeman; mutta se joka jaa ja niista paassyt on, sen pitaa nalkaan kuoleman. Nain tahdon mina tayttaa minun hirmuisuuteni heidan seassansa.	
+<div class="theverse"><div class="versenum">12.</div> Se joka kaukana on, hanen pitaa ruttoon kuoleman, ja se joka juuri lasna on, hanen pitaa miekalla lankeeman; mutta se joka jaa ja niista paassyt on, sen pitaa nalkaan kuoleman. Nain tahdon mina tayttaa minun hirmuisuuteni heidan seassansa.	</div>
 
-<div class="versenum">13.</div> Ja teidan pitaa tietaman, etta mina olen Herra, kuin heidan tapettunsa pitaa makaaman heidan epajumaltensa seassa ympari heidan alttareitansa, kaikilla vuorten kukkuloilla, ja kaikkein viheriaisten puiden alla, ja kaikkein paksuin tammien alla, joissa paikoissa he kaikille epajumalillensa makiaa savu-uhria tehneet ovat.	
+<div class="theverse"><div class="versenum">13.</div> Ja teidan pitaa tietaman, etta mina olen Herra, kuin heidan tapettunsa pitaa makaaman heidan epajumaltensa seassa ympari heidan alttareitansa, kaikilla vuorten kukkuloilla, ja kaikkein viheriaisten puiden alla, ja kaikkein paksuin tammien alla, joissa paikoissa he kaikille epajumalillensa makiaa savu-uhria tehneet ovat.	</div>
 
-<div class="versenum">14.</div> Mina tahdon ojentaa kateni heita vastaan ja tehda heidan maansa tyhjaksi ja autioksi, hamasta Diblatin korvesta, kaikissa heidan asumasioissansa; ja heidan pitaa tietaman, etta mina olen Herra.	
+<div class="theverse"><div class="versenum">14.</div> Mina tahdon ojentaa kateni heita vastaan ja tehda heidan maansa tyhjaksi ja autioksi, hamasta Diblatin korvesta, kaikissa heidan asumasioissansa; ja heidan pitaa tietaman, etta mina olen Herra.	</div>
 </body>
 </html>

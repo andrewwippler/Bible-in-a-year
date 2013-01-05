@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 12	</div>
 	
-<div class="versenum">1.</div> Ja suuri ihme ilmestyi taivaassa: vaimo oli puetettu auringolla, ja kuu hanen jalkainsa alla, ja hanen paassansa kruunu kahdestatoistakymmenesta tahdesta.	
+<div class="theverse"><div class="versenum">1.</div> Ja suuri ihme ilmestyi taivaassa: vaimo oli puetettu auringolla, ja kuu hanen jalkainsa alla, ja hanen paassansa kruunu kahdestatoistakymmenesta tahdesta.	</div>
 
-<div class="versenum">2.</div> Ja han oli raskas, ja huusi synnyttaissansa, ja hanella oli suuri vaiva synnyttaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja han oli raskas, ja huusi synnyttaissansa, ja hanella oli suuri vaiva synnyttaa.	</div>
 
-<div class="versenum">3.</div> Ja toinen ihme nakyi taivaassa, katso: suuri ruskia lohikarme, jolla oli seitseman paata ja kymmenen sarvea, ja hanen paissansa seitseman kruunua.	
+<div class="theverse"><div class="versenum">3.</div> Ja toinen ihme nakyi taivaassa, katso: suuri ruskia lohikarme, jolla oli seitseman paata ja kymmenen sarvea, ja hanen paissansa seitseman kruunua.	</div>
 
-<div class="versenum">4.</div> Ja hanen pyrstonsa veti kolmannen osan taivaan tahdista, ja heitti ne maan paalle. Ja lohikarme seisoi vaimon edessa, joka oli synnyttamallansa, etta kuin han olis synnyttanyt, se olisi syonyt hanen lapsensa.	
+<div class="theverse"><div class="versenum">4.</div> Ja hanen pyrstonsa veti kolmannen osan taivaan tahdista, ja heitti ne maan paalle. Ja lohikarme seisoi vaimon edessa, joka oli synnyttamallansa, etta kuin han olis synnyttanyt, se olisi syonyt hanen lapsensa.	</div>
 
-<div class="versenum">5.</div> Ja han synnytti poikalapsen, joka oli kaikki pakanat hallitseva rautaisella vitsalla. Ja hanen poikansa temmattiin Jumalan tyko ja hanen istuimensa tyko.	
+<div class="theverse"><div class="versenum">5.</div> Ja han synnytti poikalapsen, joka oli kaikki pakanat hallitseva rautaisella vitsalla. Ja hanen poikansa temmattiin Jumalan tyko ja hanen istuimensa tyko.	</div>
 
-<div class="versenum">6.</div> Ja vaimo pakeni korpeen, kussa hanelle oli sia Jumalalta valmistettu, siina ruokittaa tuhannen kaksisataa ja kuusikymmenta paivaa.	
+<div class="theverse"><div class="versenum">6.</div> Ja vaimo pakeni korpeen, kussa hanelle oli sia Jumalalta valmistettu, siina ruokittaa tuhannen kaksisataa ja kuusikymmenta paivaa.	</div>
 
-<div class="versenum">7.</div> Ja (suuri) sota tapahtui taivaassa: Mikael ja hanen enkelinsa sotivat lohikarmeen kanssa, ja lohikarme soti ja hanen enkelinsa.	
+<div class="theverse"><div class="versenum">7.</div> Ja (suuri) sota tapahtui taivaassa: Mikael ja hanen enkelinsa sotivat lohikarmeen kanssa, ja lohikarme soti ja hanen enkelinsa.	</div>
 
-<div class="versenum">8.</div> Ja ei he voittaneet, eika heidan siaansa enaa loydetty taivaassa.	
+<div class="theverse"><div class="versenum">8.</div> Ja ei he voittaneet, eika heidan siaansa enaa loydetty taivaassa.	</div>
 
-<div class="versenum">9.</div> Ja suuri lohikarme, vanha mato, joka perkeleeksi ja saatanaksi kutsutaan, heitettiin ulos, joka koko maan piirin viettelee, han heitettiin maan paalle, ja hanen enkelinsa myos hanen kanssansa heitettiin sinne.	
+<div class="theverse"><div class="versenum">9.</div> Ja suuri lohikarme, vanha mato, joka perkeleeksi ja saatanaksi kutsutaan, heitettiin ulos, joka koko maan piirin viettelee, han heitettiin maan paalle, ja hanen enkelinsa myos hanen kanssansa heitettiin sinne.	</div>
 
-<div class="versenum">10.</div> Ja mina kuulin suuren aanen taivaassa sanovan: nyt on autuus, ja voima, ja valtakunta, ja vaki meidan Jumalamme, ja valta hanen Kristuksensa: etta meidan veljiemme paallekantaja on heitetty ulos, joka heidan paallensa yota ja paivaa Jumalan edessa kantoi.	
+<div class="theverse"><div class="versenum">10.</div> Ja mina kuulin suuren aanen taivaassa sanovan: nyt on autuus, ja voima, ja valtakunta, ja vaki meidan Jumalamme, ja valta hanen Kristuksensa: etta meidan veljiemme paallekantaja on heitetty ulos, joka heidan paallensa yota ja paivaa Jumalan edessa kantoi.	</div>
 
-<div class="versenum">11.</div> Ja he ovat hanen voittaneet Karitsan veren kautta, ja heidan todistuksensa sanan kautta; ja ei he henkeansa kuolemaan asti rakastaneet.	
+<div class="theverse"><div class="versenum">11.</div> Ja he ovat hanen voittaneet Karitsan veren kautta, ja heidan todistuksensa sanan kautta; ja ei he henkeansa kuolemaan asti rakastaneet.	</div>
 
-<div class="versenum">12.</div> Sentahden te, taivaat, iloitkaat, ja jotka niissa asutte. Voi maan ja meren asuvia! silla perkele astuu alas teidan tykonne, pitain suurta vihaa, tietaen itsellansa vahan aikaa olevan.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden te, taivaat, iloitkaat, ja jotka niissa asutte. Voi maan ja meren asuvia! silla perkele astuu alas teidan tykonne, pitain suurta vihaa, tietaen itsellansa vahan aikaa olevan.	</div>
 
-<div class="versenum">13.</div> Ja kuin lohikarme naki itsensa maahan heitetyksi, vainosi han vaimoa, joka pojan synnytti.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuin lohikarme naki itsensa maahan heitetyksi, vainosi han vaimoa, joka pojan synnytti.	</div>
 
-<div class="versenum">14.</div> Ja vaimolle annettiin kaksi suuren kotkan siipea, etta han olis korpeen siaansa lentanyt, kussa han elatetaan ajan, ja kaksi aikaa, ja puolen aikaa, karmeen kasvoin edesta.	
+<div class="theverse"><div class="versenum">14.</div> Ja vaimolle annettiin kaksi suuren kotkan siipea, etta han olis korpeen siaansa lentanyt, kussa han elatetaan ajan, ja kaksi aikaa, ja puolen aikaa, karmeen kasvoin edesta.	</div>
 
-<div class="versenum">15.</div> Ja karme puuskasi vaimon jalkeen suustansa vetta niinkuin kosken, upottaaksensa hanta.	
+<div class="theverse"><div class="versenum">15.</div> Ja karme puuskasi vaimon jalkeen suustansa vetta niinkuin kosken, upottaaksensa hanta.	</div>
 
-<div class="versenum">16.</div> Mutta maa autti vaimoa, ja maa avasi suunsa, ja sarpi veden, jonka lohikarme suustansa puuskannut oli.	
+<div class="theverse"><div class="versenum">16.</div> Mutta maa autti vaimoa, ja maa avasi suunsa, ja sarpi veden, jonka lohikarme suustansa puuskannut oli.	</div>
 
-<div class="versenum">17.</div> Ja lohikarme vihastui vaimon paalle, ja meni sotimaan muiden kanssa hanen siemenestansa, jotka Jumalan kaskyt katkevat ja Jesuksen Kristuksen todistuksen pitavat.	
+<div class="theverse"><div class="versenum">17.</div> Ja lohikarme vihastui vaimon paalle, ja meni sotimaan muiden kanssa hanen siemenestansa, jotka Jumalan kaskyt katkevat ja Jesuksen Kristuksen todistuksen pitavat.	</div>
 </body>
 </html>

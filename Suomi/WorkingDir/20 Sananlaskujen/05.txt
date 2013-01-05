@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 5	</div>
 	
-<div class="versenum">1.</div> Poikani, ota vaari viisaudestani: kallista korvas oppiini,	
+<div class="theverse"><div class="versenum">1.</div> Poikani, ota vaari viisaudestani: kallista korvas oppiini,	</div>
 
-<div class="versenum">2.</div> Ettas pitaisit hyvan neuvon, ja sinun huules pitais toimen.	
+<div class="theverse"><div class="versenum">2.</div> Ettas pitaisit hyvan neuvon, ja sinun huules pitais toimen.	</div>
 
-<div class="versenum">3.</div> Silla porton huulet ovat niin kuin mesileipa, ja hanen kitansa liukkaampi kuin oljy;	
+<div class="theverse"><div class="versenum">3.</div> Silla porton huulet ovat niin kuin mesileipa, ja hanen kitansa liukkaampi kuin oljy;	</div>
 
-<div class="versenum">4.</div> Mutta viimeiselta karvas kuin koiruoho, ja terava kuin kaksiterainen miekka.	
+<div class="theverse"><div class="versenum">4.</div> Mutta viimeiselta karvas kuin koiruoho, ja terava kuin kaksiterainen miekka.	</div>
 
-<div class="versenum">5.</div> Hanen jalkansa menevat alas kuolemaan, ja hanen askeleensa joutuvat helvettiin.	
+<div class="theverse"><div class="versenum">5.</div> Hanen jalkansa menevat alas kuolemaan, ja hanen askeleensa joutuvat helvettiin.	</div>
 
-<div class="versenum">6.</div> Ei han kay kohdastansa elaman tielle: huikentelevaiset ovat hanen astumisensa, niin ettei han tieda, kuhunka han menee.	
+<div class="theverse"><div class="versenum">6.</div> Ei han kay kohdastansa elaman tielle: huikentelevaiset ovat hanen astumisensa, niin ettei han tieda, kuhunka han menee.	</div>
 
-<div class="versenum">7.</div> Niin kuulkaat nyt minua, lapseni, ja alkaat poiketko minun puheistani.	
+<div class="theverse"><div class="versenum">7.</div> Niin kuulkaat nyt minua, lapseni, ja alkaat poiketko minun puheistani.	</div>
 
-<div class="versenum">8.</div> Olkoon sinun ties kaukana hanesta, ja ala lahesty hanen hanen huoneensa ovea,	
+<div class="theverse"><div class="versenum">8.</div> Olkoon sinun ties kaukana hanesta, ja ala lahesty hanen hanen huoneensa ovea,	</div>
 
-<div class="versenum">9.</div> Ettes antaisi kunniaas muukalaisille, ja vuosias julmille;	
+<div class="theverse"><div class="versenum">9.</div> Ettes antaisi kunniaas muukalaisille, ja vuosias julmille;	</div>
 
-<div class="versenum">10.</div> Ettei muukalaiset ravittaisi sinun varastas, ja sinun tyos olis toisen huoneessa,	
+<div class="theverse"><div class="versenum">10.</div> Ettei muukalaiset ravittaisi sinun varastas, ja sinun tyos olis toisen huoneessa,	</div>
 
-<div class="versenum">11.</div> Ja sina viimein huokaisit, koska elamas ja hyvyytes tuhlannut olet,	
+<div class="theverse"><div class="versenum">11.</div> Ja sina viimein huokaisit, koska elamas ja hyvyytes tuhlannut olet,	</div>
 
-<div class="versenum">12.</div> Ja sanoisit: voi! kuinka mina olen vihannut hyvaa neuvoa, ja sydameni on hyljannyt kurituksen!	
+<div class="theverse"><div class="versenum">12.</div> Ja sanoisit: voi! kuinka mina olen vihannut hyvaa neuvoa, ja sydameni on hyljannyt kurituksen!	</div>
 
-<div class="versenum">13.</div> Ja en kuullut opettajani aanta, enka kallistanut korvaani opettajaini puoleen!	
+<div class="theverse"><div class="versenum">13.</div> Ja en kuullut opettajani aanta, enka kallistanut korvaani opettajaini puoleen!	</div>
 
-<div class="versenum">14.</div> Mina olen lahes kaikkeen pahuuteen joutunut, kaiken kansan ja seurakunnan keskella.	
+<div class="theverse"><div class="versenum">14.</div> Mina olen lahes kaikkeen pahuuteen joutunut, kaiken kansan ja seurakunnan keskella.	</div>
 
-<div class="versenum">15.</div> Juo vetta kaivostas, ja mita lahteestas vuotaa.	
+<div class="theverse"><div class="versenum">15.</div> Juo vetta kaivostas, ja mita lahteestas vuotaa.	</div>
 
-<div class="versenum">16.</div> Anna luontolahtees vuotaa ulos, ja vesiojas kujille.	
+<div class="theverse"><div class="versenum">16.</div> Anna luontolahtees vuotaa ulos, ja vesiojas kujille.	</div>
 
-<div class="versenum">17.</div> Mutta pida ne yksinas, ja ei yksikaan muukalainen sinun kanssas.	
+<div class="theverse"><div class="versenum">17.</div> Mutta pida ne yksinas, ja ei yksikaan muukalainen sinun kanssas.	</div>
 
-<div class="versenum">18.</div> Sinun kaivos olkoon siunattu, ja iloitse nuoruutes vaimosta.	
+<div class="theverse"><div class="versenum">18.</div> Sinun kaivos olkoon siunattu, ja iloitse nuoruutes vaimosta.	</div>
 
-<div class="versenum">19.</div> Se on suloinen niinkuin naaras hirvi, ja otollinen niinkuin metsavuohi: hanen rakkautensa sinua aina ravitkoon; ja iloita itseas aina hanen rakkaudestansa.	
+<div class="theverse"><div class="versenum">19.</div> Se on suloinen niinkuin naaras hirvi, ja otollinen niinkuin metsavuohi: hanen rakkautensa sinua aina ravitkoon; ja iloita itseas aina hanen rakkaudestansa.	</div>
 
-<div class="versenum">20.</div> Poikani, miksis annat muukalaisen sinuas pettaa, ja halajat vierasta sylia?	
+<div class="theverse"><div class="versenum">20.</div> Poikani, miksis annat muukalaisen sinuas pettaa, ja halajat vierasta sylia?	</div>
 
-<div class="versenum">21.</div> Silla Herran edessa ovat kaikkien ihmisten tiet, ja han tutkii kaikki heidan askeleensa.	
+<div class="theverse"><div class="versenum">21.</div> Silla Herran edessa ovat kaikkien ihmisten tiet, ja han tutkii kaikki heidan askeleensa.	</div>
 
-<div class="versenum">22.</div> Jumalattoman vaaryys kasittaa hanen, ja hanen syntinsa paulat ottavat hanet kiinni.	
+<div class="theverse"><div class="versenum">22.</div> Jumalattoman vaaryys kasittaa hanen, ja hanen syntinsa paulat ottavat hanet kiinni.	</div>
 
-<div class="versenum">23.</div> Hanen pitaa kuoleman, ettei han antanut opettaa itsiansa, ja suuressa tyhmyydessansa tulee han petetyksi.	
+<div class="theverse"><div class="versenum">23.</div> Hanen pitaa kuoleman, ettei han antanut opettaa itsiansa, ja suuressa tyhmyydessansa tulee han petetyksi.	</div>
 </body>
 </html>

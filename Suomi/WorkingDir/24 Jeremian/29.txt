@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">Jeremian 29	</div>
 	
-<div class="versenum">1.</div> Namat ovat kirjoituksen sanat, jotka Jeremia propheta lahetti Jerusalemista jaaneille vanhimmille, jotka olivat viedyt pois, ja papeille, ja prophetaille ja kaikelle kansalle, jotka Nebukadnetsar oli vienyt Jerusalemista Babeliin,	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat kirjoituksen sanat, jotka Jeremia propheta lahetti Jerusalemista jaaneille vanhimmille, jotka olivat viedyt pois, ja papeille, ja prophetaille ja kaikelle kansalle, jotka Nebukadnetsar oli vienyt Jerusalemista Babeliin,	</div>
 
-<div class="versenum">2.</div> Sittekuin kuningas Jekonia ja kuningatar, kamaripalveliat, ja Juudan ja Jerusalemin paamiehet seka puuseppain ja seppain kanssa olivat pois Jerusalemista,	
+<div class="theverse"><div class="versenum">2.</div> Sittekuin kuningas Jekonia ja kuningatar, kamaripalveliat, ja Juudan ja Jerusalemin paamiehet seka puuseppain ja seppain kanssa olivat pois Jerusalemista,	</div>
 
-<div class="versenum">3.</div> Elasan Saphanin pojan ja Gemarjan Hilkian pojan kautta, jotka Juudan kuningas Zedekia lahetti Nebukadnetsarin, Babelin kuninkaan, tyko Babeliin; sanoen:	
+<div class="theverse"><div class="versenum">3.</div> Elasan Saphanin pojan ja Gemarjan Hilkian pojan kautta, jotka Juudan kuningas Zedekia lahetti Nebukadnetsarin, Babelin kuninkaan, tyko Babeliin; sanoen:	</div>
 
-<div class="versenum">4.</div> Nain sanoo Herra Zebaot, Israelin Jumala, kaikille vangeille, jotka mina olen antanut vieda pois Jerusalemista Babeliin:	
+<div class="theverse"><div class="versenum">4.</div> Nain sanoo Herra Zebaot, Israelin Jumala, kaikille vangeille, jotka mina olen antanut vieda pois Jerusalemista Babeliin:	</div>
 
-<div class="versenum">5.</div> Rakentakaat huoneita, joissa te taidatte asua, istuttakaat puutarhoja, joissa te saisitte syoda hedelmia.	
+<div class="theverse"><div class="versenum">5.</div> Rakentakaat huoneita, joissa te taidatte asua, istuttakaat puutarhoja, joissa te saisitte syoda hedelmia.	</div>
 
-<div class="versenum">6.</div> Naikaat emantia, ja siittakaat poikia ja tyttaria, ja antakaat pojillenne emantia, ja naittakaat tyttarenne miehille, etta he synnyttaisivat poikia ja tyttaria; enentakaat itsianne siella, ettette vahenisi.	
+<div class="theverse"><div class="versenum">6.</div> Naikaat emantia, ja siittakaat poikia ja tyttaria, ja antakaat pojillenne emantia, ja naittakaat tyttarenne miehille, etta he synnyttaisivat poikia ja tyttaria; enentakaat itsianne siella, ettette vahenisi.	</div>
 
-<div class="versenum">7.</div> Katsokaat sen kaupungin parasta, johonka mina olen teita antanut vietaa, ja rukoilkaat sen edesta Herraa; silla kuin se menestyy, niin myos te menestytte.	
+<div class="theverse"><div class="versenum">7.</div> Katsokaat sen kaupungin parasta, johonka mina olen teita antanut vietaa, ja rukoilkaat sen edesta Herraa; silla kuin se menestyy, niin myos te menestytte.	</div>
 
-<div class="versenum">8.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala: alkaat antako prophetainne, jotka teidan tykonanne ovat, ja tietajanne pettaa teita, ja alkaat totelko unianne, joita te unissanne naette.	
+<div class="theverse"><div class="versenum">8.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala: alkaat antako prophetainne, jotka teidan tykonanne ovat, ja tietajanne pettaa teita, ja alkaat totelko unianne, joita te unissanne naette.	</div>
 
-<div class="versenum">9.</div> Silla he ennustavat teille valhetta minun nimeeni: en mina ole heita lahettanyt, sanoo Herra.	
+<div class="theverse"><div class="versenum">9.</div> Silla he ennustavat teille valhetta minun nimeeni: en mina ole heita lahettanyt, sanoo Herra.	</div>
 
-<div class="versenum">10.</div> Silla nain sanoo Herra: kuin Babelissa seitsemankymmenta vuotta ovat kuluneet, niin mina tahdon etsia teita, ja herattaa armollisen sanani teidan paallenne, niin etta mina tahdon antaa teidan tulla tahan paikkaan jallensa.	
+<div class="theverse"><div class="versenum">10.</div> Silla nain sanoo Herra: kuin Babelissa seitsemankymmenta vuotta ovat kuluneet, niin mina tahdon etsia teita, ja herattaa armollisen sanani teidan paallenne, niin etta mina tahdon antaa teidan tulla tahan paikkaan jallensa.	</div>
 
-<div class="versenum">11.</div> Silla mina kylla tiedan, mitka teista minun ajatukseni ovat, sanoo Herra: rauhan ja ei murheen ajatukset; etta mina olen antava teille sen lopun, jonka te toivotte.	
+<div class="theverse"><div class="versenum">11.</div> Silla mina kylla tiedan, mitka teista minun ajatukseni ovat, sanoo Herra: rauhan ja ei murheen ajatukset; etta mina olen antava teille sen lopun, jonka te toivotte.	</div>
 
-<div class="versenum">12.</div> Ja teidan pitaa minua rukoileman, kayman ja anoman minulta, ja mina kuulen teita.	
+<div class="theverse"><div class="versenum">12.</div> Ja teidan pitaa minua rukoileman, kayman ja anoman minulta, ja mina kuulen teita.	</div>
 
-<div class="versenum">13.</div> Teidan pitaa etsiman minua ja loytaman minun: silla jos te etsitte minua kaikesta sydamestanne,	
+<div class="theverse"><div class="versenum">13.</div> Teidan pitaa etsiman minua ja loytaman minun: silla jos te etsitte minua kaikesta sydamestanne,	</div>
 
-<div class="versenum">14.</div> Niin mina tahdon antaa itseni loytaa teilta, sanoo Herra, ja kaantaa teidan vankiutenne, ja koota teidan kaikesta kansasta ja kaikista paikoista, joihin mina teidat ajanut olin, sanoo Herra; ja tahdon antaa teidan tulla jallensa tahan paikkaan, josta mina olen antanut vieda teita pois.	
+<div class="theverse"><div class="versenum">14.</div> Niin mina tahdon antaa itseni loytaa teilta, sanoo Herra, ja kaantaa teidan vankiutenne, ja koota teidan kaikesta kansasta ja kaikista paikoista, joihin mina teidat ajanut olin, sanoo Herra; ja tahdon antaa teidan tulla jallensa tahan paikkaan, josta mina olen antanut vieda teita pois.	</div>
 
-<div class="versenum">15.</div> Mutta jos te ajattelette: Herra on herattanyt meille prophetaita Babelissa;	
+<div class="theverse"><div class="versenum">15.</div> Mutta jos te ajattelette: Herra on herattanyt meille prophetaita Babelissa;	</div>
 
-<div class="versenum">16.</div> Niin sanoo Herra nain siita kuninkaasta, joka istuu Davidin istuimella, ja kaikesta kansasta, joka tassa kaupungissa asuu, teidan veljistanne, jotka ei teidan kanssanne lahteneet vankiuteen,	
+<div class="theverse"><div class="versenum">16.</div> Niin sanoo Herra nain siita kuninkaasta, joka istuu Davidin istuimella, ja kaikesta kansasta, joka tassa kaupungissa asuu, teidan veljistanne, jotka ei teidan kanssanne lahteneet vankiuteen,	</div>
 
-<div class="versenum">17.</div> Nain tosin sanoo Herra Zebaot: katso, mina lahetan heidan sekaansa miekan, nalan ja ruton, ja teen heille niinkuin pahoille fikunoille, joita ei syoda taideta, etta ne niin pahat ovat.	
+<div class="theverse"><div class="versenum">17.</div> Nain tosin sanoo Herra Zebaot: katso, mina lahetan heidan sekaansa miekan, nalan ja ruton, ja teen heille niinkuin pahoille fikunoille, joita ei syoda taideta, etta ne niin pahat ovat.	</div>
 
-<div class="versenum">18.</div> Ja vainoon heita miekalla, nalalla ja rutolla, ja panen heidat kulkiaksi kaikissa valtakunnissa maan paalla, etta heidan pitaa tuleman kiroukseksi, ihmeeksi, havaistykseksi ja pilkaksi kaikkein kansain seassa, kuhunka mina heidat ajava olen;	
+<div class="theverse"><div class="versenum">18.</div> Ja vainoon heita miekalla, nalalla ja rutolla, ja panen heidat kulkiaksi kaikissa valtakunnissa maan paalla, etta heidan pitaa tuleman kiroukseksi, ihmeeksi, havaistykseksi ja pilkaksi kaikkein kansain seassa, kuhunka mina heidat ajava olen;	</div>
 
-<div class="versenum">19.</div> Ettei he kuulleet minun sanojani, sanoo Herra, joita mina varhain minun palveliaini prophetain kanssa heille lahettanyt olen; mutta ette tahtoneet kuulla, sanoo Herra.	
+<div class="theverse"><div class="versenum">19.</div> Ettei he kuulleet minun sanojani, sanoo Herra, joita mina varhain minun palveliaini prophetain kanssa heille lahettanyt olen; mutta ette tahtoneet kuulla, sanoo Herra.	</div>
 
-<div class="versenum">20.</div> Mutta te kaikki, jotka vangittuina olette viedyt pois, jotka mina olen Jerusalemista antanut menna Babeliin, kuulkaat Herran sanaa:	
+<div class="theverse"><div class="versenum">20.</div> Mutta te kaikki, jotka vangittuina olette viedyt pois, jotka mina olen Jerusalemista antanut menna Babeliin, kuulkaat Herran sanaa:	</div>
 
-<div class="versenum">21.</div> Nain sanoo Herra Zebaot, Israelin Jumala, Ahabia Kolajan poikaa ja Zedekiaa Maasejan poikaa vastaan, jotka teille minun nimeeni valhetta ennustavat: katso, mina annan heidat Nebukadnetsarin, Babelin kuninkaan, kasiin, hanen pitaa antaman heita lyoda teidan silmainne edessa.	
+<div class="theverse"><div class="versenum">21.</div> Nain sanoo Herra Zebaot, Israelin Jumala, Ahabia Kolajan poikaa ja Zedekiaa Maasejan poikaa vastaan, jotka teille minun nimeeni valhetta ennustavat: katso, mina annan heidat Nebukadnetsarin, Babelin kuninkaan, kasiin, hanen pitaa antaman heita lyoda teidan silmainne edessa.	</div>
 
-<div class="versenum">22.</div> Ja heita pitaa sadateltaman kaikkein Juudan vankein seassa, jotka ovat Babelissa, ja sanottaman: Herra tehkoon sinulle niinkuin Zedekialle ja Ahabille, jotka Babelin kuningas antoi tulessa paistaa:	
+<div class="theverse"><div class="versenum">22.</div> Ja heita pitaa sadateltaman kaikkein Juudan vankein seassa, jotka ovat Babelissa, ja sanottaman: Herra tehkoon sinulle niinkuin Zedekialle ja Ahabille, jotka Babelin kuningas antoi tulessa paistaa:	</div>
 
-<div class="versenum">23.</div> Etta he tekivat hulluuden Israelissa, ja makasivat muiden emantia, ja saarnasivat valhetta minun nimeeni, jota en mina ollut heille kaskenyt. Ja mina sen tiedan ja todistan, sanoo Herra.	
+<div class="theverse"><div class="versenum">23.</div> Etta he tekivat hulluuden Israelissa, ja makasivat muiden emantia, ja saarnasivat valhetta minun nimeeni, jota en mina ollut heille kaskenyt. Ja mina sen tiedan ja todistan, sanoo Herra.	</div>
 
-<div class="versenum">24.</div> Ja Semajaa vastaan Nehalamista pitaa sinun puhuman, sanoen:	
+<div class="theverse"><div class="versenum">24.</div> Ja Semajaa vastaan Nehalamista pitaa sinun puhuman, sanoen:	</div>
 
-<div class="versenum">25.</div> Nain puhuu Herra Zebaot, Israelin Jumala, sanoen: etta sina sinun nimellas olet lahettanyt kirjoituksen kaikelle kansalle, joka on Jerusalemissa, ja papille Zephanialle Maasejan pojalle, ja kaikille papeille, ja sanonut:	
+<div class="theverse"><div class="versenum">25.</div> Nain puhuu Herra Zebaot, Israelin Jumala, sanoen: etta sina sinun nimellas olet lahettanyt kirjoituksen kaikelle kansalle, joka on Jerusalemissa, ja papille Zephanialle Maasejan pojalle, ja kaikille papeille, ja sanonut:	</div>
 
-<div class="versenum">26.</div> Herra on asettanut sinun papiksi, papin Jehojadan siaan, olemaan esimiehet Herran huoneessa, ylitse kaikkein mielipuolten ennustajain, panemaan heita vankiuteen ja jalkapuuhun.	
+<div class="theverse"><div class="versenum">26.</div> Herra on asettanut sinun papiksi, papin Jehojadan siaan, olemaan esimiehet Herran huoneessa, ylitse kaikkein mielipuolten ennustajain, panemaan heita vankiuteen ja jalkapuuhun.	</div>
 
-<div class="versenum">27.</div> Miksi et sina siis nuhtele Jeremiaa Anatotista, joka teille ennustaa?	
+<div class="theverse"><div class="versenum">27.</div> Miksi et sina siis nuhtele Jeremiaa Anatotista, joka teille ennustaa?	</div>
 
-<div class="versenum">28.</div> Silla han on lahettanyt meidan tykomme Babeliin, ja antanut meille sanoa: viela nyt pitaa oleman aikaa, rakentakaat huoneita ja asukaat niissa, ja istuttakaat puutarhoja, syodaksenne niista hedelmia.	
+<div class="theverse"><div class="versenum">28.</div> Silla han on lahettanyt meidan tykomme Babeliin, ja antanut meille sanoa: viela nyt pitaa oleman aikaa, rakentakaat huoneita ja asukaat niissa, ja istuttakaat puutarhoja, syodaksenne niista hedelmia.	</div>
 
-<div class="versenum">29.</div> Ja kuin pappi Zephania oli lukenut sen kirjoituksen Jeremian prophetan kuullen,	
+<div class="theverse"><div class="versenum">29.</div> Ja kuin pappi Zephania oli lukenut sen kirjoituksen Jeremian prophetan kuullen,	</div>
 
-<div class="versenum">30.</div> Niin tapahtui Herran sana Jeremialle ja sanoi:	
+<div class="theverse"><div class="versenum">30.</div> Niin tapahtui Herran sana Jeremialle ja sanoi:	</div>
 
-<div class="versenum">31.</div> Laheta kaikkein vankein tyko ja anna heille sanoa: nain sanoo Herra Semajaa vastaan Nehalamista: etta Semaja ennustaa teille, ja en kuitenkaan mina ole hanta lahettanyt, ja on tehnyt, etta te luotatte valheesen,	
+<div class="theverse"><div class="versenum">31.</div> Laheta kaikkein vankein tyko ja anna heille sanoa: nain sanoo Herra Semajaa vastaan Nehalamista: etta Semaja ennustaa teille, ja en kuitenkaan mina ole hanta lahettanyt, ja on tehnyt, etta te luotatte valheesen,	</div>
 
-<div class="versenum">32.</div> Sentahden sanoo Herra nain: katso, mina tahdon kostaa Semajalle Nehalamista ja hanen siemenellensa, niin ettei yhdenkaan pida hanen omistansa pysyman taman kansan seassa, eika pida nakeman sita hyvaa, jonka mina tahdon tehda kansalleni, sanoo Herra; silla han on puheellansa kaantanyt heidat pois Herrasta.	
+<div class="theverse"><div class="versenum">32.</div> Sentahden sanoo Herra nain: katso, mina tahdon kostaa Semajalle Nehalamista ja hanen siemenellensa, niin ettei yhdenkaan pida hanen omistansa pysyman taman kansan seassa, eika pida nakeman sita hyvaa, jonka mina tahdon tehda kansalleni, sanoo Herra; silla han on puheellansa kaantanyt heidat pois Herrasta.	</div>
 </body>
 </html>

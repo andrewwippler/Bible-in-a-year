@@ -4,80 +4,80 @@
 </head>
 <body><div class="chaptertitle">Markuksen 8	</div>
 	
-<div class="versenum">1.</div> Niina paivina, koska sangen paljo kansaa oli, eika ollut heilla mitaan syomista, kutsui Jesus opetuslapsensa tykonsa ja sanoi heille:	
+<div class="theverse"><div class="versenum">1.</div> Niina paivina, koska sangen paljo kansaa oli, eika ollut heilla mitaan syomista, kutsui Jesus opetuslapsensa tykonsa ja sanoi heille:	</div>
 
-<div class="versenum">2.</div> Mina surkuttelen kansaa; silla he ovat jo kolme paivaa viipyneet minun tykonani, ja ei ole heilla, mita he soisivat.	
+<div class="theverse"><div class="versenum">2.</div> Mina surkuttelen kansaa; silla he ovat jo kolme paivaa viipyneet minun tykonani, ja ei ole heilla, mita he soisivat.	</div>
 
-<div class="versenum">3.</div> Ja jos mina paastan heidat kotiansa syomatta, niin he vaipuvat tiella; silla muutamat heista olivat kaukaa tulleet.	
+<div class="theverse"><div class="versenum">3.</div> Ja jos mina paastan heidat kotiansa syomatta, niin he vaipuvat tiella; silla muutamat heista olivat kaukaa tulleet.	</div>
 
-<div class="versenum">4.</div> Niin vastasivat hanta hanen opetuslapsensa: kusta joku voi naita ravita leivilla tassa eramaassa?	
+<div class="theverse"><div class="versenum">4.</div> Niin vastasivat hanta hanen opetuslapsensa: kusta joku voi naita ravita leivilla tassa eramaassa?	</div>
 
-<div class="versenum">5.</div> Ja han kysyi heilta: kuinka monta leipaa teilla on? He sanoivat: seitseman.	
+<div class="theverse"><div class="versenum">5.</div> Ja han kysyi heilta: kuinka monta leipaa teilla on? He sanoivat: seitseman.	</div>
 
-<div class="versenum">6.</div> Ja han kaski kansan istua atrioitsemaan maan paalle. Ja han otti ne seitseman leipaa, kuin han kiittanyt oli, mursi ja antoi opetuslapsillensa, etta he olisivat panneet eteen; ja he panivat kansan eteen.	
+<div class="theverse"><div class="versenum">6.</div> Ja han kaski kansan istua atrioitsemaan maan paalle. Ja han otti ne seitseman leipaa, kuin han kiittanyt oli, mursi ja antoi opetuslapsillensa, etta he olisivat panneet eteen; ja he panivat kansan eteen.	</div>
 
-<div class="versenum">7.</div> Ja heilla oli myos vaha kalasia; ja han kiitti, ja kaski ne myos pantaa eteen.	
+<div class="theverse"><div class="versenum">7.</div> Ja heilla oli myos vaha kalasia; ja han kiitti, ja kaski ne myos pantaa eteen.	</div>
 
-<div class="versenum">8.</div> Niin he soivat ja ravittiin; ja he korjasivat tahteet, jotka jaaneet olivat, seitseman koria muruja.	
+<div class="theverse"><div class="versenum">8.</div> Niin he soivat ja ravittiin; ja he korjasivat tahteet, jotka jaaneet olivat, seitseman koria muruja.	</div>
 
-<div class="versenum">9.</div> Ja niita jotka soivat, oli liki neljatuhatta; ja han paasti heidat.	
+<div class="theverse"><div class="versenum">9.</div> Ja niita jotka soivat, oli liki neljatuhatta; ja han paasti heidat.	</div>
 
-<div class="versenum">10.</div> Ja han astui kohta opetuslastensa kanssa haahteen, ja tuli Dalmanutan maan aariin.	
+<div class="theverse"><div class="versenum">10.</div> Ja han astui kohta opetuslastensa kanssa haahteen, ja tuli Dalmanutan maan aariin.	</div>
 
-<div class="versenum">11.</div> Ja Pharisealaiset tulivat ja rupesivat kamppailemaan hanen kanssansa, pyytaen hanelta merkkia taivaasta, kiusaten hanta.	
+<div class="theverse"><div class="versenum">11.</div> Ja Pharisealaiset tulivat ja rupesivat kamppailemaan hanen kanssansa, pyytaen hanelta merkkia taivaasta, kiusaten hanta.	</div>
 
-<div class="versenum">12.</div> Ja han huokasi hengessansa ja sanoi: miksi tama suku merkkia pyytaa? Totisesti sanon mina teille: ei talle sukukunnalle anneta merkkia.	
+<div class="theverse"><div class="versenum">12.</div> Ja han huokasi hengessansa ja sanoi: miksi tama suku merkkia pyytaa? Totisesti sanon mina teille: ei talle sukukunnalle anneta merkkia.	</div>
 
-<div class="versenum">13.</div> Ja han jatti heidat, ja astui taas haahteen, ja meni ylitse.	
+<div class="theverse"><div class="versenum">13.</div> Ja han jatti heidat, ja astui taas haahteen, ja meni ylitse.	</div>
 
-<div class="versenum">14.</div> Ja he olivat unohtaneet ottaa leipia, eika ollut heilla enempi kuin yksi leipa haahdessa myotansa.	
+<div class="theverse"><div class="versenum">14.</div> Ja he olivat unohtaneet ottaa leipia, eika ollut heilla enempi kuin yksi leipa haahdessa myotansa.	</div>
 
-<div class="versenum">15.</div> Ja han kaski heita, sanoen: katsokaat ja karttakaat teitanne Pharisealaisten hapatuksesta ja Herodeksen hapatuksesta.	
+<div class="theverse"><div class="versenum">15.</div> Ja han kaski heita, sanoen: katsokaat ja karttakaat teitanne Pharisealaisten hapatuksesta ja Herodeksen hapatuksesta.	</div>
 
-<div class="versenum">16.</div> Ja he ajattelivat keskenansa, sanoen: ei meilla ole leipia.	
+<div class="theverse"><div class="versenum">16.</div> Ja he ajattelivat keskenansa, sanoen: ei meilla ole leipia.	</div>
 
-<div class="versenum">17.</div> Ja kun Jesus sen ymmarsi, sanoi han heille: mita te ajattelette, ettei teilla ole leipaa? etteko te viela huomaitse, etteka ymmarra? vielako teilla nyt on paatunut sydan?	
+<div class="theverse"><div class="versenum">17.</div> Ja kun Jesus sen ymmarsi, sanoi han heille: mita te ajattelette, ettei teilla ole leipaa? etteko te viela huomaitse, etteka ymmarra? vielako teilla nyt on paatunut sydan?	</div>
 
-<div class="versenum">18.</div> Silmat teilla on ja ette nae? ja korvat teilla on, ja ette kuule? etteko myos muista?	
+<div class="theverse"><div class="versenum">18.</div> Silmat teilla on ja ette nae? ja korvat teilla on, ja ette kuule? etteko myos muista?	</div>
 
-<div class="versenum">19.</div> Kuin mina viisi leipaa mursin viidelletuhannelle, kuinka monta taysinaista koria te tahteita korjasitte? He sanoivat: kaksitoistakymmenta.	
+<div class="theverse"><div class="versenum">19.</div> Kuin mina viisi leipaa mursin viidelletuhannelle, kuinka monta taysinaista koria te tahteita korjasitte? He sanoivat: kaksitoistakymmenta.	</div>
 
-<div class="versenum">20.</div> Niin myos kuin mina ne seitseman mursin neljalletuhannelle, kuinka monta taysinaista koria tahteita te korjasitte? he sanoivat: seitseman.	
+<div class="theverse"><div class="versenum">20.</div> Niin myos kuin mina ne seitseman mursin neljalletuhannelle, kuinka monta taysinaista koria tahteita te korjasitte? he sanoivat: seitseman.	</div>
 
-<div class="versenum">21.</div> Ja han sanoi heille: miksi ette siis ymmarra?	
+<div class="theverse"><div class="versenum">21.</div> Ja han sanoi heille: miksi ette siis ymmarra?	</div>
 
-<div class="versenum">22.</div> Ja han tuli Betsaidaan, ja he toivat sokian ja rukoilivat hanta, etta han rupeais haneen.	
+<div class="theverse"><div class="versenum">22.</div> Ja han tuli Betsaidaan, ja he toivat sokian ja rukoilivat hanta, etta han rupeais haneen.	</div>
 
-<div class="versenum">23.</div> Ja han tarttui sokian kateen, ja vei ulos hanen kylasta, ja sylki hanen silmiinsa, ja pani katensa hanen paallensa, ja kysyi hanelta, josko han jotakin nakis.	
+<div class="theverse"><div class="versenum">23.</div> Ja han tarttui sokian kateen, ja vei ulos hanen kylasta, ja sylki hanen silmiinsa, ja pani katensa hanen paallensa, ja kysyi hanelta, josko han jotakin nakis.	</div>
 
-<div class="versenum">24.</div> Niin han katsoi ylos ja sanoi: mina naen ihmiset niinkuin puut kayskentelevan.	
+<div class="theverse"><div class="versenum">24.</div> Niin han katsoi ylos ja sanoi: mina naen ihmiset niinkuin puut kayskentelevan.	</div>
 
-<div class="versenum">25.</div> Sitte han taas pani katensa hanen silmainsa paalle, ja antoi hanen taas katsoa. Ja se tuli parannetuksi, niin etta han naki kaikki kaukaa ja selkiasti.	
+<div class="theverse"><div class="versenum">25.</div> Sitte han taas pani katensa hanen silmainsa paalle, ja antoi hanen taas katsoa. Ja se tuli parannetuksi, niin etta han naki kaikki kaukaa ja selkiasti.	</div>
 
-<div class="versenum">26.</div> Ja han lahetti hanen kotiansa, sanoen: ala mene kylaan sisalle, ala myos kellenkaan tata kylassa sano.	
+<div class="theverse"><div class="versenum">26.</div> Ja han lahetti hanen kotiansa, sanoen: ala mene kylaan sisalle, ala myos kellenkaan tata kylassa sano.	</div>
 
-<div class="versenum">27.</div> Ja Jesus meni ulos ja hanen opetuslapsensa Kesarean kyliin, joka kutsutaan Philippi; ja han kysyi tiella opetuslapsiltansa, sanoen heille: kenenka sanovat ihmiset minun olevan?	
+<div class="theverse"><div class="versenum">27.</div> Ja Jesus meni ulos ja hanen opetuslapsensa Kesarean kyliin, joka kutsutaan Philippi; ja han kysyi tiella opetuslapsiltansa, sanoen heille: kenenka sanovat ihmiset minun olevan?	</div>
 
-<div class="versenum">28.</div> Niin he vastasivat: Johannes Kastajan, ja muutamat Eliaan, vaan muutamat jonkun prophetaista.	
+<div class="theverse"><div class="versenum">28.</div> Niin he vastasivat: Johannes Kastajan, ja muutamat Eliaan, vaan muutamat jonkun prophetaista.	</div>
 
-<div class="versenum">29.</div> Ja han sanoi heille: kenenkas te sanotte minun olevan? Pietari vastasi ja sanoi hanelle: sina olet Kristus.	
+<div class="theverse"><div class="versenum">29.</div> Ja han sanoi heille: kenenkas te sanotte minun olevan? Pietari vastasi ja sanoi hanelle: sina olet Kristus.	</div>
 
-<div class="versenum">30.</div> Ja han haasti heita kellenkaan hanesta sanomasta.	
+<div class="theverse"><div class="versenum">30.</div> Ja han haasti heita kellenkaan hanesta sanomasta.	</div>
 
-<div class="versenum">31.</div> Ja han rupesi heita opettamaan, etta Ihmisen Pojan pitaa paljo karsiman, ja hyljattaman vanhimmilta ja ylimmaisilta papeilta ja kirjanoppineilta, ja tapettaman, ja kolmantena paivana ylosnouseman.	
+<div class="theverse"><div class="versenum">31.</div> Ja han rupesi heita opettamaan, etta Ihmisen Pojan pitaa paljo karsiman, ja hyljattaman vanhimmilta ja ylimmaisilta papeilta ja kirjanoppineilta, ja tapettaman, ja kolmantena paivana ylosnouseman.	</div>
 
-<div class="versenum">32.</div> Ja han puhui sen puheen julki rohkiasti. Ja Pietari otti hanen tykonsa, rupesi hanta nuhtelemaan.	
+<div class="theverse"><div class="versenum">32.</div> Ja han puhui sen puheen julki rohkiasti. Ja Pietari otti hanen tykonsa, rupesi hanta nuhtelemaan.	</div>
 
-<div class="versenum">33.</div> Mutta han kaansi itsensa ja katsoi opetuslastensa puoleen, nuhteli Pietaria, sanoen: mene pois minun tykoani, saatana; silla et sina ymmarra niita, mitka Jumalan ovat, vaan niita, mitka ihmisten ovat.	
+<div class="theverse"><div class="versenum">33.</div> Mutta han kaansi itsensa ja katsoi opetuslastensa puoleen, nuhteli Pietaria, sanoen: mene pois minun tykoani, saatana; silla et sina ymmarra niita, mitka Jumalan ovat, vaan niita, mitka ihmisten ovat.	</div>
 
-<div class="versenum">34.</div> Ja han kutsui tykonsa kansan ja opetuslapsensa, ja sanoi heille: kuka ikana tahtoo tulla minun perassani, han kieltakoon itsensa, ja ottakoon ristinsa, ja seuratkoon minua.	
+<div class="theverse"><div class="versenum">34.</div> Ja han kutsui tykonsa kansan ja opetuslapsensa, ja sanoi heille: kuka ikana tahtoo tulla minun perassani, han kieltakoon itsensa, ja ottakoon ristinsa, ja seuratkoon minua.	</div>
 
-<div class="versenum">35.</div> Silla kuka ikana tahtoo henkensa vapahtaa, han hukuttaa sen; mutta joka ikana henkensa hukuttaa minun ja evankeliumin tahden, han vapahtaa sen.	
+<div class="theverse"><div class="versenum">35.</div> Silla kuka ikana tahtoo henkensa vapahtaa, han hukuttaa sen; mutta joka ikana henkensa hukuttaa minun ja evankeliumin tahden, han vapahtaa sen.	</div>
 
-<div class="versenum">36.</div> Silla mita se auttaa ihmista, jos han voittais kaiken maailman, ja sais sielullensa vahingon?	
+<div class="theverse"><div class="versenum">36.</div> Silla mita se auttaa ihmista, jos han voittais kaiken maailman, ja sais sielullensa vahingon?	</div>
 
-<div class="versenum">37.</div> Eli mita ihminen antaa sielunsa lunastukseksi?	
+<div class="theverse"><div class="versenum">37.</div> Eli mita ihminen antaa sielunsa lunastukseksi?	</div>
 
-<div class="versenum">38.</div> Silla joka hapee minua ja minun sanojani tassa huorintekiassa ja syntisessa suvussa, sita myos pitaa Ihmisen Pojan hapeeman, koska han tulee Isansa kunniassa pyhain enkelien kanssa.	
+<div class="theverse"><div class="versenum">38.</div> Silla joka hapee minua ja minun sanojani tassa huorintekiassa ja syntisessa suvussa, sita myos pitaa Ihmisen Pojan hapeeman, koska han tulee Isansa kunniassa pyhain enkelien kanssa.	</div>
 </body>
 </html>

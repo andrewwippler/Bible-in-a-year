@@ -4,86 +4,86 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 22	</div>
 	
-<div class="versenum">1.</div> Sitte menivat Israelin lapset sielta, ja sioittivat heitansa Moabin kedoille, toiselle puolelle Jordania, Jerihon kohdalla.	
+<div class="theverse"><div class="versenum">1.</div> Sitte menivat Israelin lapset sielta, ja sioittivat heitansa Moabin kedoille, toiselle puolelle Jordania, Jerihon kohdalla.	</div>
 
-<div class="versenum">2.</div> Ja koska Balak Zipporin poika naki kaikki, mita Israel teki Amorilaisille,	
+<div class="theverse"><div class="versenum">2.</div> Ja koska Balak Zipporin poika naki kaikki, mita Israel teki Amorilaisille,	</div>
 
-<div class="versenum">3.</div> Ja etta Moabilaiset sangen suuresti pelkasivat sita kansaa heidan paljoutensa tahden, ja etta Moabilaiset kauhistuivat Israelin lapsia,	
+<div class="theverse"><div class="versenum">3.</div> Ja etta Moabilaiset sangen suuresti pelkasivat sita kansaa heidan paljoutensa tahden, ja etta Moabilaiset kauhistuivat Israelin lapsia,	</div>
 
-<div class="versenum">4.</div> Niin sanoivat he Midianilaisten vanhimmille: Tama kansa syo puhtaaksi kaikki, mita ymparistollamme on, niinkuin harka syo vihannon laitumelta. Ja Balak Zipporin poika oli siihen aikaan Moabilaisten kuningas.	
+<div class="theverse"><div class="versenum">4.</div> Niin sanoivat he Midianilaisten vanhimmille: Tama kansa syo puhtaaksi kaikki, mita ymparistollamme on, niinkuin harka syo vihannon laitumelta. Ja Balak Zipporin poika oli siihen aikaan Moabilaisten kuningas.	</div>
 
-<div class="versenum">5.</div> Ja han lahetti sanan Petoriin, Bileamille Beorin pojalle, joka asui virran tykona, kansansa lasten maalla, kutsumaan hanta, sanoen: katso, kansa on lahtenyt Egyptista, katso, se peittaa maan piirin, ja asettaa leirinsa minua vastaan.	
+<div class="theverse"><div class="versenum">5.</div> Ja han lahetti sanan Petoriin, Bileamille Beorin pojalle, joka asui virran tykona, kansansa lasten maalla, kutsumaan hanta, sanoen: katso, kansa on lahtenyt Egyptista, katso, se peittaa maan piirin, ja asettaa leirinsa minua vastaan.	</div>
 
-<div class="versenum">6.</div> Tule siis nyt ja kiroo minulle tama kansa; silla se on minua vakevampi, etta mina loisin hanta, ja hanen maaltani karkottaisin ulos; silla mina tiedan, keta sina siunaat, se on siunattu, ja jota sina kiroot, se on kirottu.	
+<div class="theverse"><div class="versenum">6.</div> Tule siis nyt ja kiroo minulle tama kansa; silla se on minua vakevampi, etta mina loisin hanta, ja hanen maaltani karkottaisin ulos; silla mina tiedan, keta sina siunaat, se on siunattu, ja jota sina kiroot, se on kirottu.	</div>
 
-<div class="versenum">7.</div> Ja Moabilaisten vanhimmat ynna Midianilaisten vanhimpain kanssa menivat sinne, ja heilla oli noitumisen palkka kadessansa. Ja koska he tulivat Bileamin tyko, sanoivat he hanelle Balakin sanat.	
+<div class="theverse"><div class="versenum">7.</div> Ja Moabilaisten vanhimmat ynna Midianilaisten vanhimpain kanssa menivat sinne, ja heilla oli noitumisen palkka kadessansa. Ja koska he tulivat Bileamin tyko, sanoivat he hanelle Balakin sanat.	</div>
 
-<div class="versenum">8.</div> Ja han sanoi heille: olkaat tassa yo, niin mina sanon teille vastauksen, mita Herra minulle sanova on. Niin olivat Moabilaisten paamiehet Bileamin tykona.	
+<div class="theverse"><div class="versenum">8.</div> Ja han sanoi heille: olkaat tassa yo, niin mina sanon teille vastauksen, mita Herra minulle sanova on. Niin olivat Moabilaisten paamiehet Bileamin tykona.	</div>
 
-<div class="versenum">9.</div> Ja Jumala tuli Bileamin tyko ja sanoi: mitka miehet ne sinun tykonas ovat?	
+<div class="theverse"><div class="versenum">9.</div> Ja Jumala tuli Bileamin tyko ja sanoi: mitka miehet ne sinun tykonas ovat?	</div>
 
-<div class="versenum">10.</div> Ja Bileam sanoi Jumalalle: Balak Zipporin poika, Moabilaisten kuningas, lahetti minun tykoni:	
+<div class="theverse"><div class="versenum">10.</div> Ja Bileam sanoi Jumalalle: Balak Zipporin poika, Moabilaisten kuningas, lahetti minun tykoni:	</div>
 
-<div class="versenum">11.</div> Katso, kansa laksi Egyptista ja peittaa maan piirin: tule siis ja kiroo heita minulle, etta mina voisin sotia heita vastaan ja karkottaisin heita pois.	
+<div class="theverse"><div class="versenum">11.</div> Katso, kansa laksi Egyptista ja peittaa maan piirin: tule siis ja kiroo heita minulle, etta mina voisin sotia heita vastaan ja karkottaisin heita pois.	</div>
 
-<div class="versenum">12.</div> Mutta Jumala sanoi Bileamille: ala mene heidan kanssansa, alaka kiroo kansaa, silla se on siunattu.	
+<div class="theverse"><div class="versenum">12.</div> Mutta Jumala sanoi Bileamille: ala mene heidan kanssansa, alaka kiroo kansaa, silla se on siunattu.	</div>
 
-<div class="versenum">13.</div> Silloin Bileam nousi varhain aamulla ja sanoi Balakin paamiehille: menkaat maallenne; silla ei Herra salli minun teidan kanssanne menna.	
+<div class="theverse"><div class="versenum">13.</div> Silloin Bileam nousi varhain aamulla ja sanoi Balakin paamiehille: menkaat maallenne; silla ei Herra salli minun teidan kanssanne menna.	</div>
 
-<div class="versenum">14.</div> Ja Moabilaisten paamiehet nousivat ja tulivat Balakin tyko, ja sanoivat: ei Bileam tahdo tulla meidan kanssamme.	
+<div class="theverse"><div class="versenum">14.</div> Ja Moabilaisten paamiehet nousivat ja tulivat Balakin tyko, ja sanoivat: ei Bileam tahdo tulla meidan kanssamme.	</div>
 
-<div class="versenum">15.</div> Niin lahetti Balak paamiehet, viela usiammat ja jalommat entisia,	
+<div class="theverse"><div class="versenum">15.</div> Niin lahetti Balak paamiehet, viela usiammat ja jalommat entisia,	</div>
 
-<div class="versenum">16.</div> Jotka tultuansa Bileamin tyko sanoivat hanelle: Nain Balak Zipporin poika sanoo sinulle: ala estele tulemasta minun tykoni;	
+<div class="theverse"><div class="versenum">16.</div> Jotka tultuansa Bileamin tyko sanoivat hanelle: Nain Balak Zipporin poika sanoo sinulle: ala estele tulemasta minun tykoni;	</div>
 
-<div class="versenum">17.</div> Silla mina teen sinulle suuren kunnian, ja mitas sanot minulle, sen mina myos teen: tule siis ja kiroo minulle tama kansa.	
+<div class="theverse"><div class="versenum">17.</div> Silla mina teen sinulle suuren kunnian, ja mitas sanot minulle, sen mina myos teen: tule siis ja kiroo minulle tama kansa.	</div>
 
-<div class="versenum">18.</div> Niin vastasi Bileam, ja sanoi Balakin palvelioille: jos Balak antais minulle huoneensa tayden hopiaa ja kultaa, niin en mina sittenkaan taida Herran minun Jumalani sanaa kayda ylitse tekemaan vahaa elikka paljoa.	
+<div class="theverse"><div class="versenum">18.</div> Niin vastasi Bileam, ja sanoi Balakin palvelioille: jos Balak antais minulle huoneensa tayden hopiaa ja kultaa, niin en mina sittenkaan taida Herran minun Jumalani sanaa kayda ylitse tekemaan vahaa elikka paljoa.	</div>
 
-<div class="versenum">19.</div> Vaan olkaat kuitenkin tekin tama yo tassa, niin mina tahdon tiedustaa, mita Herra viela minun kanssani puhuva on.	
+<div class="theverse"><div class="versenum">19.</div> Vaan olkaat kuitenkin tekin tama yo tassa, niin mina tahdon tiedustaa, mita Herra viela minun kanssani puhuva on.	</div>
 
-<div class="versenum">20.</div> Silloin Jumala tuli yolla Bileamin tyko ja sanoi hanelle: jos ne miehet ovat tulleet kutsumaan sinua, niin nouse ja mene heidan kanssansa, vaan kuitenkin, mita mina sinulle sanon, sen pitaa sinun tekeman.	
+<div class="theverse"><div class="versenum">20.</div> Silloin Jumala tuli yolla Bileamin tyko ja sanoi hanelle: jos ne miehet ovat tulleet kutsumaan sinua, niin nouse ja mene heidan kanssansa, vaan kuitenkin, mita mina sinulle sanon, sen pitaa sinun tekeman.	</div>
 
-<div class="versenum">21.</div> Niin Bileam nousi varhain aamulla, valjasti aasinsa ja seurasi Moabilaisten paamiehia.	
+<div class="theverse"><div class="versenum">21.</div> Niin Bileam nousi varhain aamulla, valjasti aasinsa ja seurasi Moabilaisten paamiehia.	</div>
 
-<div class="versenum">22.</div> Mutta Jumalan viha julmistui, etta han sinne meni. Ja Herran enkeli seisoi tiella hanta vastassa, mutta han ajoi aasillansa ja kaksi hanen palveliaansa oli hanen kanssansa.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Jumalan viha julmistui, etta han sinne meni. Ja Herran enkeli seisoi tiella hanta vastassa, mutta han ajoi aasillansa ja kaksi hanen palveliaansa oli hanen kanssansa.	</div>
 
-<div class="versenum">23.</div> Ja aasi naki Herran enkelin seisovan tiella ja hanen miekkansa vedetyn ulos hanen kadessansa, niin aasi poikkesi tielta ja meni kedolle: vaan Bileam loi aasia ohjataksensa hanta tielle.	
+<div class="theverse"><div class="versenum">23.</div> Ja aasi naki Herran enkelin seisovan tiella ja hanen miekkansa vedetyn ulos hanen kadessansa, niin aasi poikkesi tielta ja meni kedolle: vaan Bileam loi aasia ohjataksensa hanta tielle.	</div>
 
-<div class="versenum">24.</div> Niin Herran enkeli astui ahtaasen tanhuaan, viinamaen vaiheelle, jossa aidat molemmin puolin olivat.	
+<div class="theverse"><div class="versenum">24.</div> Niin Herran enkeli astui ahtaasen tanhuaan, viinamaen vaiheelle, jossa aidat molemmin puolin olivat.	</div>
 
-<div class="versenum">25.</div> Ja koska aasi naki Herran enkelin, ahdisti han itsensa aitaa vastaan, ja likisti Bileamin jalan aitaa vastaan, ja sitte han kovemmin loi hanta.	
+<div class="theverse"><div class="versenum">25.</div> Ja koska aasi naki Herran enkelin, ahdisti han itsensa aitaa vastaan, ja likisti Bileamin jalan aitaa vastaan, ja sitte han kovemmin loi hanta.	</div>
 
-<div class="versenum">26.</div> Niin Herran enkeli meni edespain ja seisoi ahtaassa paikassa, kussa ei ollut varaa poiketa oikialle eli vasemmalle puolelle.	
+<div class="theverse"><div class="versenum">26.</div> Niin Herran enkeli meni edespain ja seisoi ahtaassa paikassa, kussa ei ollut varaa poiketa oikialle eli vasemmalle puolelle.	</div>
 
-<div class="versenum">27.</div> Ja kuin aasi naki Herran enkelin, laski han Bileamin alla polvillensa; niin Bileam sangen suuresti vihastui ja loi aasia sauvallansa.	
+<div class="theverse"><div class="versenum">27.</div> Ja kuin aasi naki Herran enkelin, laski han Bileamin alla polvillensa; niin Bileam sangen suuresti vihastui ja loi aasia sauvallansa.	</div>
 
-<div class="versenum">28.</div> Silloin Herra avasi aasin suun, ja se sanoi Bileamille: mita mina olen rikkonut sinua vastaan, ettas minua kolmasti hosunut olet?	
+<div class="theverse"><div class="versenum">28.</div> Silloin Herra avasi aasin suun, ja se sanoi Bileamille: mita mina olen rikkonut sinua vastaan, ettas minua kolmasti hosunut olet?	</div>
 
-<div class="versenum">29.</div> Bileam sanoi aasille: ettas pilkkasit minua. Jos minun kadessani miekka olis, niin mina sinun tappaisin.	
+<div class="theverse"><div class="versenum">29.</div> Bileam sanoi aasille: ettas pilkkasit minua. Jos minun kadessani miekka olis, niin mina sinun tappaisin.	</div>
 
-<div class="versenum">30.</div> Sanoi aasi Bileamille: enko mina ole sinun aasis, jolla sina tahan asti ajanut olet? olenko siis mina ikana ennen niin tehnyt sinua vastaan ? Han vastasi: et.	
+<div class="theverse"><div class="versenum">30.</div> Sanoi aasi Bileamille: enko mina ole sinun aasis, jolla sina tahan asti ajanut olet? olenko siis mina ikana ennen niin tehnyt sinua vastaan ? Han vastasi: et.	</div>
 
-<div class="versenum">31.</div> Silloin avasi Herra Bileamin silmat, etta han naki Herran enkelin seisovan tiella, ja avoimen miekan hanen kadessansa; ja han kumarsi, ja lankesi kasvoillensa.	
+<div class="theverse"><div class="versenum">31.</div> Silloin avasi Herra Bileamin silmat, etta han naki Herran enkelin seisovan tiella, ja avoimen miekan hanen kadessansa; ja han kumarsi, ja lankesi kasvoillensa.	</div>
 
-<div class="versenum">32.</div> Niin sanoi Herran enkeli hanelle: miksi sina jo kolmasti sinun aasias hosuit? katsos, mina laksin sinua vastoin seisomaan; silla tama tie on nurja minun edessani.	
+<div class="theverse"><div class="versenum">32.</div> Niin sanoi Herran enkeli hanelle: miksi sina jo kolmasti sinun aasias hosuit? katsos, mina laksin sinua vastoin seisomaan; silla tama tie on nurja minun edessani.	</div>
 
-<div class="versenum">33.</div> Ja aasi naki minun, ja poikkesi jo kolme eraa minun edestani; vaan jollei han olisi minun edestani poikennut, niin mina nyt sinun tappaisin ja jattaisin aasin elamaan.	
+<div class="theverse"><div class="versenum">33.</div> Ja aasi naki minun, ja poikkesi jo kolme eraa minun edestani; vaan jollei han olisi minun edestani poikennut, niin mina nyt sinun tappaisin ja jattaisin aasin elamaan.	</div>
 
-<div class="versenum">34.</div> Niin Bileam sanoi Herran enkelille: mina olen syntia tehnyt; silla en mina tietanyt, etta sina seisoit minun vastassani tiella. Nyt siis, jollei se sinulle kelpaa, niin mina palajan takaperin.	
+<div class="theverse"><div class="versenum">34.</div> Niin Bileam sanoi Herran enkelille: mina olen syntia tehnyt; silla en mina tietanyt, etta sina seisoit minun vastassani tiella. Nyt siis, jollei se sinulle kelpaa, niin mina palajan takaperin.	</div>
 
-<div class="versenum">35.</div> Ja Herran enkeli sanoi Bileamille: mene miesten kanssa, vaan ei sinun pida puhuman muuta, kuin mina sinulle sanon: ja Bileam seurasi Balakin paamiehia.	
+<div class="theverse"><div class="versenum">35.</div> Ja Herran enkeli sanoi Bileamille: mene miesten kanssa, vaan ei sinun pida puhuman muuta, kuin mina sinulle sanon: ja Bileam seurasi Balakin paamiehia.	</div>
 
-<div class="versenum">36.</div> Koska Balak kuuli Bileamin tulevan, laksi han hanta vastaan Moabilaisten kaupunkiin, joka Arnonin rajoissa on, juuri rajan aarella.	
+<div class="theverse"><div class="versenum">36.</div> Koska Balak kuuli Bileamin tulevan, laksi han hanta vastaan Moabilaisten kaupunkiin, joka Arnonin rajoissa on, juuri rajan aarella.	</div>
 
-<div class="versenum">37.</div> Ja balak sanoi Bileamille: enko mina sanaa lahettanyt sinun peraas, kutsumaan sinua? miksi siis et sina tullut minun tykoni? vai luulitkos, etten mina olisi sen edesta sinua taitanut kunnioittaa?	
+<div class="theverse"><div class="versenum">37.</div> Ja balak sanoi Bileamille: enko mina sanaa lahettanyt sinun peraas, kutsumaan sinua? miksi siis et sina tullut minun tykoni? vai luulitkos, etten mina olisi sen edesta sinua taitanut kunnioittaa?	</div>
 
-<div class="versenum">38.</div> Ja Bileam vastasi hanta: katso, mina tulin nyt sinun tykos; vaan onko minulla voimaa mitaan puhua? Sen minka Jumala minun suuhuni antaa, sen mina puhun.	
+<div class="theverse"><div class="versenum">38.</div> Ja Bileam vastasi hanta: katso, mina tulin nyt sinun tykos; vaan onko minulla voimaa mitaan puhua? Sen minka Jumala minun suuhuni antaa, sen mina puhun.	</div>
 
-<div class="versenum">39.</div> Ja niin Bileam meni Balakin kanssa, ja he tulivat Kujakaupunkiin,	
+<div class="theverse"><div class="versenum">39.</div> Ja niin Bileam meni Balakin kanssa, ja he tulivat Kujakaupunkiin,	</div>
 
-<div class="versenum">40.</div> Ja Balak uhrasi karjaa ja lampaita, ja lahetti Bileamin ja paamiesten peraan, jotka hanen kanssansa olivat.	
+<div class="theverse"><div class="versenum">40.</div> Ja Balak uhrasi karjaa ja lampaita, ja lahetti Bileamin ja paamiesten peraan, jotka hanen kanssansa olivat.	</div>
 
-<div class="versenum">41.</div> Mutta huomeneltain tapahtui, etta Balak otti Bileamin, ja vei hanen Baalin kukkulalle, nakemaan sielta kansan aareen.	
+<div class="theverse"><div class="versenum">41.</div> Mutta huomeneltain tapahtui, etta Balak otti Bileamin, ja vei hanen Baalin kukkulalle, nakemaan sielta kansan aareen.	</div>
 </body>
 </html>

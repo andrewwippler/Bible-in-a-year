@@ -4,150 +4,150 @@
 </head>
 <body><div class="chaptertitle">Nehemian 7	</div>
 	
-<div class="versenum">1.</div> Mutta sittekuin muurit olivat rakennetut, panin mina portit; ja toimitettiin ovenvartiat, veisaajat ja Levilaiset.	
+<div class="theverse"><div class="versenum">1.</div> Mutta sittekuin muurit olivat rakennetut, panin mina portit; ja toimitettiin ovenvartiat, veisaajat ja Levilaiset.	</div>
 
-<div class="versenum">2.</div> Ja mina kaskin veljeani Hanania, ja Hananiaa, linnan vanhinta Jerusalemissa (silla han oli uskollinen ja Jumalaa pelkaavainen mies monen suhteen),	
+<div class="theverse"><div class="versenum">2.</div> Ja mina kaskin veljeani Hanania, ja Hananiaa, linnan vanhinta Jerusalemissa (silla han oli uskollinen ja Jumalaa pelkaavainen mies monen suhteen),	</div>
 
-<div class="versenum">3.</div> Ja sanoin heille: ei Jerusalemin portteja ennen pida avattaman, kuin aurinko lampiaa, ja kuin viela tyota tehdaan, niin pitaa portit pantaman kiinni ja teljettaman. Ja vartiat asetettiin Jerusalemin asuvaisista jokainen paikkaansa, ja kukin oman huoneensa kohdalle;	
+<div class="theverse"><div class="versenum">3.</div> Ja sanoin heille: ei Jerusalemin portteja ennen pida avattaman, kuin aurinko lampiaa, ja kuin viela tyota tehdaan, niin pitaa portit pantaman kiinni ja teljettaman. Ja vartiat asetettiin Jerusalemin asuvaisista jokainen paikkaansa, ja kukin oman huoneensa kohdalle;	</div>
 
-<div class="versenum">4.</div> Silla kaupunki oli avara ja suuri, mutta kansaa oli siina vahan; ja ei olleet huoneet rakennetut.	
+<div class="theverse"><div class="versenum">4.</div> Silla kaupunki oli avara ja suuri, mutta kansaa oli siina vahan; ja ei olleet huoneet rakennetut.	</div>
 
-<div class="versenum">5.</div> Ja minun Jumalani lykkasi mieleeni, etta mina kokosin ylimmaiset ja paamiehet ja kansan, ja luin heidat; ja mina loysin heidan mieslukunsa kirjan, jotka ennen olivat tulleet vankeudesta, ja mina loysin siina kirjoitettuna.	
+<div class="theverse"><div class="versenum">5.</div> Ja minun Jumalani lykkasi mieleeni, etta mina kokosin ylimmaiset ja paamiehet ja kansan, ja luin heidat; ja mina loysin heidan mieslukunsa kirjan, jotka ennen olivat tulleet vankeudesta, ja mina loysin siina kirjoitettuna.	</div>
 
-<div class="versenum">6.</div> Namat ovat maakunnan lapset, jotka palasivat poisviedyista vangeista, jotka Nebukadnetsar Babelin kuningas oli vienyt pois; ja he palasivat Jerusalemiin ja Juudaan, jokainen kaupunkiinsa,	
+<div class="theverse"><div class="versenum">6.</div> Namat ovat maakunnan lapset, jotka palasivat poisviedyista vangeista, jotka Nebukadnetsar Babelin kuningas oli vienyt pois; ja he palasivat Jerusalemiin ja Juudaan, jokainen kaupunkiinsa,	</div>
 
-<div class="versenum">7.</div> Jotka tulivat Serubbabelin, Jesuan, Nehemia, Asarian, Raamian, Nahamanin, Mordekain, Bilsan, Misperetin, Bigvain, Nehumin ja Baenan kanssa. Tama on Israelin miesten luku:	
+<div class="theverse"><div class="versenum">7.</div> Jotka tulivat Serubbabelin, Jesuan, Nehemia, Asarian, Raamian, Nahamanin, Mordekain, Bilsan, Misperetin, Bigvain, Nehumin ja Baenan kanssa. Tama on Israelin miesten luku:	</div>
 
-<div class="versenum">8.</div> Baroksen lapsia, kaksituhatta, sata ja kaksikahdeksattakymmenta;	
+<div class="theverse"><div class="versenum">8.</div> Baroksen lapsia, kaksituhatta, sata ja kaksikahdeksattakymmenta;	</div>
 
-<div class="versenum">9.</div> Sephatian lapsia, kolmesataa ja kaksikahdeksattakymmenta;	
+<div class="theverse"><div class="versenum">9.</div> Sephatian lapsia, kolmesataa ja kaksikahdeksattakymmenta;	</div>
 
-<div class="versenum">10.</div> Aran lapsia, kuusisataa ja kaksikuudettakymmenta;	
+<div class="theverse"><div class="versenum">10.</div> Aran lapsia, kuusisataa ja kaksikuudettakymmenta;	</div>
 
-<div class="versenum">11.</div> Pahatmoabin lapsia, Jesuan ja Joabin lasten seassa, kaksituhatta, kahdeksansataa ja kahdeksantoistakymmenta;	
+<div class="theverse"><div class="versenum">11.</div> Pahatmoabin lapsia, Jesuan ja Joabin lasten seassa, kaksituhatta, kahdeksansataa ja kahdeksantoistakymmenta;	</div>
 
-<div class="versenum">12.</div> Elamin lapsia, tuhannen, kaksisataa ja neljakuudettakymmenta;	
+<div class="theverse"><div class="versenum">12.</div> Elamin lapsia, tuhannen, kaksisataa ja neljakuudettakymmenta;	</div>
 
-<div class="versenum">13.</div> Sattun lapsia, kahdeksansataa ja viisiviidettakymmenta;	
+<div class="theverse"><div class="versenum">13.</div> Sattun lapsia, kahdeksansataa ja viisiviidettakymmenta;	</div>
 
-<div class="versenum">14.</div> Sakkain lapsia seitsemansataa ja kuusikymmenta;	
+<div class="theverse"><div class="versenum">14.</div> Sakkain lapsia seitsemansataa ja kuusikymmenta;	</div>
 
-<div class="versenum">15.</div> Binnuin lapsia, kuusisataa ja kahdeksanviidettakymmenta;	
+<div class="theverse"><div class="versenum">15.</div> Binnuin lapsia, kuusisataa ja kahdeksanviidettakymmenta;	</div>
 
-<div class="versenum">16.</div> Bebain lapsia, kuusisataa ja kahdeksankolmattakymmenta;	
+<div class="theverse"><div class="versenum">16.</div> Bebain lapsia, kuusisataa ja kahdeksankolmattakymmenta;	</div>
 
-<div class="versenum">17.</div> Asgadin lapsia, kaksituhatta, kolmesataa ja kaksikolmattakymmenta;	
+<div class="theverse"><div class="versenum">17.</div> Asgadin lapsia, kaksituhatta, kolmesataa ja kaksikolmattakymmenta;	</div>
 
-<div class="versenum">18.</div> Adonikamin lapsia, kuusisataa ja seitsemanseitsemattakymmenta;	
+<div class="theverse"><div class="versenum">18.</div> Adonikamin lapsia, kuusisataa ja seitsemanseitsemattakymmenta;	</div>
 
-<div class="versenum">19.</div> Bigvain lapsia, kaksituhatta ja seitsemanseitsemattakymmenta;	
+<div class="theverse"><div class="versenum">19.</div> Bigvain lapsia, kaksituhatta ja seitsemanseitsemattakymmenta;	</div>
 
-<div class="versenum">20.</div> Adinin lapsia, kuusisataa ja viisikuudettakymmenta;	
+<div class="theverse"><div class="versenum">20.</div> Adinin lapsia, kuusisataa ja viisikuudettakymmenta;	</div>
 
-<div class="versenum">21.</div> Aterin lapsia Hiskiasta, yhdeksankymmenta ja kahdeksan;	
+<div class="theverse"><div class="versenum">21.</div> Aterin lapsia Hiskiasta, yhdeksankymmenta ja kahdeksan;	</div>
 
-<div class="versenum">22.</div> Hasumin lapsia, kolmesataa ja kahdeksankolmattakymmenta;	
+<div class="theverse"><div class="versenum">22.</div> Hasumin lapsia, kolmesataa ja kahdeksankolmattakymmenta;	</div>
 
-<div class="versenum">23.</div> Besain lapsia, kolmesataa ja neljakolmattakymmenta;	
+<div class="theverse"><div class="versenum">23.</div> Besain lapsia, kolmesataa ja neljakolmattakymmenta;	</div>
 
-<div class="versenum">24.</div> Hariphin lapsia, sata ja kaksitoistakymmenta;	
+<div class="theverse"><div class="versenum">24.</div> Hariphin lapsia, sata ja kaksitoistakymmenta;	</div>
 
-<div class="versenum">25.</div> Gibeonin lapsia, yhdeksankymmenta ja viisi;	
+<div class="theverse"><div class="versenum">25.</div> Gibeonin lapsia, yhdeksankymmenta ja viisi;	</div>
 
-<div class="versenum">26.</div> Betlehemin ja Netophan miehia sata ja kahdeksanyhdeksattakymmenta;	
+<div class="theverse"><div class="versenum">26.</div> Betlehemin ja Netophan miehia sata ja kahdeksanyhdeksattakymmenta;	</div>
 
-<div class="versenum">27.</div> Anatotin miehia, sata ja kahdeksankolmattakymmenta;	
+<div class="theverse"><div class="versenum">27.</div> Anatotin miehia, sata ja kahdeksankolmattakymmenta;	</div>
 
-<div class="versenum">28.</div> Betasmavetin miehia, kaksiviidettakymmenta;	
+<div class="theverse"><div class="versenum">28.</div> Betasmavetin miehia, kaksiviidettakymmenta;	</div>
 
-<div class="versenum">29.</div> Kirjatjearimin, Kaphiran ja Beerotin miehia, seitsemansataa ja kolmeviidettakymmenta;	
+<div class="theverse"><div class="versenum">29.</div> Kirjatjearimin, Kaphiran ja Beerotin miehia, seitsemansataa ja kolmeviidettakymmenta;	</div>
 
-<div class="versenum">30.</div> Raman ja Gabaan miehia, kuusisataa ja yksikolmattakymmenta;	
+<div class="theverse"><div class="versenum">30.</div> Raman ja Gabaan miehia, kuusisataa ja yksikolmattakymmenta;	</div>
 
-<div class="versenum">31.</div> Mikmaan miehia, sata ja kaksikolmattakymmenta;	
+<div class="theverse"><div class="versenum">31.</div> Mikmaan miehia, sata ja kaksikolmattakymmenta;	</div>
 
-<div class="versenum">32.</div> Betelin ja Ain miehia, sata ja kolmekolmattakymmenta;	
+<div class="theverse"><div class="versenum">32.</div> Betelin ja Ain miehia, sata ja kolmekolmattakymmenta;	</div>
 
-<div class="versenum">33.</div> Toisen Nebon miehia, kaksikuudettakymmenta;	
+<div class="theverse"><div class="versenum">33.</div> Toisen Nebon miehia, kaksikuudettakymmenta;	</div>
 
-<div class="versenum">34.</div> Toisen Elamin lapsia, tuhannen, kaksisataa ja neljakuudettakymmenta;	
+<div class="theverse"><div class="versenum">34.</div> Toisen Elamin lapsia, tuhannen, kaksisataa ja neljakuudettakymmenta;	</div>
 
-<div class="versenum">35.</div> Harimin lapsia, kolmesataa ja kaksikymmenta;	
+<div class="theverse"><div class="versenum">35.</div> Harimin lapsia, kolmesataa ja kaksikymmenta;	</div>
 
-<div class="versenum">36.</div> Jerihon lapsia, kolmesataa ja viisiviidettakymmenta;	
+<div class="theverse"><div class="versenum">36.</div> Jerihon lapsia, kolmesataa ja viisiviidettakymmenta;	</div>
 
-<div class="versenum">37.</div> Lodin, Hadadin ja Onon lapsia, seitsemansataa ja yksikolmattakymmenta;	
+<div class="theverse"><div class="versenum">37.</div> Lodin, Hadadin ja Onon lapsia, seitsemansataa ja yksikolmattakymmenta;	</div>
 
-<div class="versenum">38.</div> Senaan lapsia, kolmetuhatta, yhdeksansataa ja kolmekymmenta;	
+<div class="theverse"><div class="versenum">38.</div> Senaan lapsia, kolmetuhatta, yhdeksansataa ja kolmekymmenta;	</div>
 
-<div class="versenum">39.</div> Papit: Jedajan lapsia Jesuan huoneesta, yhdeksansataa ja kolmekahdeksattakymmenta;	
+<div class="theverse"><div class="versenum">39.</div> Papit: Jedajan lapsia Jesuan huoneesta, yhdeksansataa ja kolmekahdeksattakymmenta;	</div>
 
-<div class="versenum">40.</div> Immerin lapsia, tuhannen ja kaksikuudettakymmenta;	
+<div class="theverse"><div class="versenum">40.</div> Immerin lapsia, tuhannen ja kaksikuudettakymmenta;	</div>
 
-<div class="versenum">41.</div> Pashurin lapsia, tuhannen, kaksisataa ja seitsemanviidettakymmenta;	
+<div class="theverse"><div class="versenum">41.</div> Pashurin lapsia, tuhannen, kaksisataa ja seitsemanviidettakymmenta;	</div>
 
-<div class="versenum">42.</div> Harimin lapsia, tuhannen ja seitsemantoistakymmenta;	
+<div class="theverse"><div class="versenum">42.</div> Harimin lapsia, tuhannen ja seitsemantoistakymmenta;	</div>
 
-<div class="versenum">43.</div> Levilaiset: Jesuan lapsia Kadmielista Hodevan lasten seasta, neljakahdeksattakymmenta;	
+<div class="theverse"><div class="versenum">43.</div> Levilaiset: Jesuan lapsia Kadmielista Hodevan lasten seasta, neljakahdeksattakymmenta;	</div>
 
-<div class="versenum">44.</div> Veisaajat: Asaphin lapsia, sata ja kahdeksanviidettakymmenta;	
+<div class="theverse"><div class="versenum">44.</div> Veisaajat: Asaphin lapsia, sata ja kahdeksanviidettakymmenta;	</div>
 
-<div class="versenum">45.</div> Ovenvartiat olivat Sallumin lapset, Aterin lapset, Talmonin lapset, Akkubin lapset, Hatitan lapset, Sobain lapset, (kaikki yhteen) sata ja kahdeksanneljattakymmenta;	
+<div class="theverse"><div class="versenum">45.</div> Ovenvartiat olivat Sallumin lapset, Aterin lapset, Talmonin lapset, Akkubin lapset, Hatitan lapset, Sobain lapset, (kaikki yhteen) sata ja kahdeksanneljattakymmenta;	</div>
 
-<div class="versenum">46.</div> Netinimit: Zihan lapset, Hasuphan lapset, Taboatin lapset,	
+<div class="theverse"><div class="versenum">46.</div> Netinimit: Zihan lapset, Hasuphan lapset, Taboatin lapset,	</div>
 
-<div class="versenum">47.</div> Keroksen lapset, Sian lapset, Padonin lapset,	
+<div class="theverse"><div class="versenum">47.</div> Keroksen lapset, Sian lapset, Padonin lapset,	</div>
 
-<div class="versenum">48.</div> Libanan lapset, Hagaban lapset, Salmain lapset,	
+<div class="theverse"><div class="versenum">48.</div> Libanan lapset, Hagaban lapset, Salmain lapset,	</div>
 
-<div class="versenum">49.</div> Hananin lapset, Giddelin lapset, Gaharin lapset,	
+<div class="theverse"><div class="versenum">49.</div> Hananin lapset, Giddelin lapset, Gaharin lapset,	</div>
 
-<div class="versenum">50.</div> Reajan lapset, Resinin lapset, Nekodan lapset,	
+<div class="theverse"><div class="versenum">50.</div> Reajan lapset, Resinin lapset, Nekodan lapset,	</div>
 
-<div class="versenum">51.</div> Gassamin lapset, Ussan lapset, Passean lapset,	
+<div class="theverse"><div class="versenum">51.</div> Gassamin lapset, Ussan lapset, Passean lapset,	</div>
 
-<div class="versenum">52.</div> Besain lapset, Megunimin lapset, Nephusesimin lapset,	
+<div class="theverse"><div class="versenum">52.</div> Besain lapset, Megunimin lapset, Nephusesimin lapset,	</div>
 
-<div class="versenum">53.</div> Bakbukin lapset, Haguphan lapset, Harhurin lapset,	
+<div class="theverse"><div class="versenum">53.</div> Bakbukin lapset, Haguphan lapset, Harhurin lapset,	</div>
 
-<div class="versenum">54.</div> Batslitin lapset, Mehidan lapset, Harsan lapset,	
+<div class="theverse"><div class="versenum">54.</div> Batslitin lapset, Mehidan lapset, Harsan lapset,	</div>
 
-<div class="versenum">55.</div> Barkoksen lapset, Siseran lapset, Thaman lapset,	
+<div class="theverse"><div class="versenum">55.</div> Barkoksen lapset, Siseran lapset, Thaman lapset,	</div>
 
-<div class="versenum">56.</div> Netsian lapset, Hatiphan lapset.	
+<div class="theverse"><div class="versenum">56.</div> Netsian lapset, Hatiphan lapset.	</div>
 
-<div class="versenum">57.</div> Salomon palveliain lapsia oli: Sotain lapset, Sopheretin lapset, Peridan lapset,	
+<div class="theverse"><div class="versenum">57.</div> Salomon palveliain lapsia oli: Sotain lapset, Sopheretin lapset, Peridan lapset,	</div>
 
-<div class="versenum">58.</div> Jaelan lapset, Darkonin lapset, Giddelin lapset,	
+<div class="theverse"><div class="versenum">58.</div> Jaelan lapset, Darkonin lapset, Giddelin lapset,	</div>
 
-<div class="versenum">59.</div> Sephatian lapset, Hattilin lapset, PokeretZebaimin lapset, Amonin lapset.	
+<div class="theverse"><div class="versenum">59.</div> Sephatian lapset, Hattilin lapset, PokeretZebaimin lapset, Amonin lapset.	</div>
 
-<div class="versenum">60.</div> Kaikkia Netinimein ja Salomon palveliain lapsia oli (yhteen) kolmesataa, yhdeksankymmenta ja kaksi.	
+<div class="theverse"><div class="versenum">60.</div> Kaikkia Netinimein ja Salomon palveliain lapsia oli (yhteen) kolmesataa, yhdeksankymmenta ja kaksi.	</div>
 
-<div class="versenum">61.</div> Ja nama menivat ylos Telmelasta, Telharsasta: Kerubi, Addon ja Immer; mutta ei he tietaneet isainsa huonetta taikka siementansa, olivatko he Israelista:	
+<div class="theverse"><div class="versenum">61.</div> Ja nama menivat ylos Telmelasta, Telharsasta: Kerubi, Addon ja Immer; mutta ei he tietaneet isainsa huonetta taikka siementansa, olivatko he Israelista:	</div>
 
-<div class="versenum">62.</div> Delajan lapset, Tobian lapset, Nekodan lapset, kuusisataa ja kaksiviidettakymmenta;	
+<div class="theverse"><div class="versenum">62.</div> Delajan lapset, Tobian lapset, Nekodan lapset, kuusisataa ja kaksiviidettakymmenta;	</div>
 
-<div class="versenum">63.</div> Ja papeista: Hobajan lapset, Hakkotsin lapset, Barsillain lapset, joka otti emannan Barsillain Gileadilaisen tyttarista, ja kutsuttiin sitte heidan nimellansa.	
+<div class="theverse"><div class="versenum">63.</div> Ja papeista: Hobajan lapset, Hakkotsin lapset, Barsillain lapset, joka otti emannan Barsillain Gileadilaisen tyttarista, ja kutsuttiin sitte heidan nimellansa.	</div>
 
-<div class="versenum">64.</div> Nama etsivat sukukuntansa polvilukukirjaa; ja ettei sita loydetty, hyljattiin he pappeudesta.	
+<div class="theverse"><div class="versenum">64.</div> Nama etsivat sukukuntansa polvilukukirjaa; ja ettei sita loydetty, hyljattiin he pappeudesta.	</div>
 
-<div class="versenum">65.</div> Ja Tirsata sanoi heille, ettei heidan pitanyt syoman siita kaikkein pyhimmasta, ennenkuin pappi seisois valkeudessa ja taydellisyydessa.	
+<div class="theverse"><div class="versenum">65.</div> Ja Tirsata sanoi heille, ettei heidan pitanyt syoman siita kaikkein pyhimmasta, ennenkuin pappi seisois valkeudessa ja taydellisyydessa.	</div>
 
-<div class="versenum">66.</div> Koko joukko yhteen oli kaksiviidettakymmenta tuhatta, kolmesataa ja kuusikymmenta,	
+<div class="theverse"><div class="versenum">66.</div> Koko joukko yhteen oli kaksiviidettakymmenta tuhatta, kolmesataa ja kuusikymmenta,	</div>
 
-<div class="versenum">67.</div> Paitsi heidan palvelioitansa ja piikojansa, joita oli seitsemantuhatta, kolmesataa ja seitsemanneljattakymmenta. Niin myos heidan seassansa oli veisaajia, miehia ja vaimoja, kaksisataa ja viisiviidettakymmenta;	
+<div class="theverse"><div class="versenum">67.</div> Paitsi heidan palvelioitansa ja piikojansa, joita oli seitsemantuhatta, kolmesataa ja seitsemanneljattakymmenta. Niin myos heidan seassansa oli veisaajia, miehia ja vaimoja, kaksisataa ja viisiviidettakymmenta;	</div>
 
-<div class="versenum">68.</div> Seitsemansataa ja kuusineljattakymmenta hevoista; kaksisataa ja viisiviidettakymmenta muulia;	
+<div class="theverse"><div class="versenum">68.</div> Seitsemansataa ja kuusineljattakymmenta hevoista; kaksisataa ja viisiviidettakymmenta muulia;	</div>
 
-<div class="versenum">69.</div> Neljasataa ja viisineljattakymmenta kamelia; kuusituhatta, seitsemansataa ja kaksikymmenta aasia.	
+<div class="theverse"><div class="versenum">69.</div> Neljasataa ja viisineljattakymmenta kamelia; kuusituhatta, seitsemansataa ja kaksikymmenta aasia.	</div>
 
-<div class="versenum">70.</div> Ja muutamat ylimmaista isista antoivat rakennukseen: Tirsata antoi tavaraksi tuhannen kultapenninkia, viisikymmenta maljaa, viisisataa ja kolmekymmenta papin hametta.	
+<div class="theverse"><div class="versenum">70.</div> Ja muutamat ylimmaista isista antoivat rakennukseen: Tirsata antoi tavaraksi tuhannen kultapenninkia, viisikymmenta maljaa, viisisataa ja kolmekymmenta papin hametta.	</div>
 
-<div class="versenum">71.</div> Ja muutamat ylimmaisista isista antoivat rakennuksen tavaraksi kaksikymmenta tuhatta kultapenninkia, kaksituhatta ja kaksisataa leiviskaa hopiaa.	
+<div class="theverse"><div class="versenum">71.</div> Ja muutamat ylimmaisista isista antoivat rakennuksen tavaraksi kaksikymmenta tuhatta kultapenninkia, kaksituhatta ja kaksisataa leiviskaa hopiaa.	</div>
 
-<div class="versenum">72.</div> Ja muu kansa antoi kaksikymmenta tuhatta kultapenninkia, ja kaksituhatta leiviskaa hopiaa, ja seitsemanseitsemattakymmenta papin hametta.	
+<div class="theverse"><div class="versenum">72.</div> Ja muu kansa antoi kaksikymmenta tuhatta kultapenninkia, ja kaksituhatta leiviskaa hopiaa, ja seitsemanseitsemattakymmenta papin hametta.	</div>
 
-<div class="versenum">73.</div> Ja papit, Levilaiset, ovenvartiat, veisaajat, ja muutamat kansasta ja Netinimit ja koko Israel asuivat kaupungeissa. Ja seitsemannen kuukauden lahestyessa olivat Israelin lapset kaupungeissa.	
+<div class="theverse"><div class="versenum">73.</div> Ja papit, Levilaiset, ovenvartiat, veisaajat, ja muutamat kansasta ja Netinimit ja koko Israel asuivat kaupungeissa. Ja seitsemannen kuukauden lahestyessa olivat Israelin lapset kaupungeissa.	</div>
 </body>
 </html>

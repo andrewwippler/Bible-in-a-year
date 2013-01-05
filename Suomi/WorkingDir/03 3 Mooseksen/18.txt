@@ -4,64 +4,64 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 18	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Israelin lapsille, ja sano heille. Mina olen Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">2.</div> Puhu Israelin lapsille, ja sano heille. Mina olen Herra teidan Jumalanne.	</div>
 
-<div class="versenum">3.</div> Ei teidan pida tekeman Egyptin maan tyon jalkeen, joss te asuitte, ei myos teidan pida tekeman Kanaanin maan tyon jakeen, johonka mina tiedan vien, ei teidan myos pida heidan saadyissansa vaeltaman.	
+<div class="theverse"><div class="versenum">3.</div> Ei teidan pida tekeman Egyptin maan tyon jalkeen, joss te asuitte, ei myos teidan pida tekeman Kanaanin maan tyon jakeen, johonka mina tiedan vien, ei teidan myos pida heidan saadyissansa vaeltaman.	</div>
 
-<div class="versenum">4.</div> Vaan tehkaat minun oikeuteni, ja pitakaat minun saatyni, vaeltaaksenne niissa; (silla) mina olen Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">4.</div> Vaan tehkaat minun oikeuteni, ja pitakaat minun saatyni, vaeltaaksenne niissa; (silla) mina olen Herra teidan Jumalanne.	</div>
 
-<div class="versenum">5.</div> Sentahden pitaa teidan minun saatyni pitaman ja minun oikeuteni: se ihminen, joka niita tekee, han elaa niissa; silla mina olen Herra.	
+<div class="theverse"><div class="versenum">5.</div> Sentahden pitaa teidan minun saatyni pitaman ja minun oikeuteni: se ihminen, joka niita tekee, han elaa niissa; silla mina olen Herra.	</div>
 
-<div class="versenum">6.</div> Ei kenenkaan pida lahimmaista lankoansa lahestyman, hanen hapyansa paljastaman; silla mina olen Herra.	
+<div class="theverse"><div class="versenum">6.</div> Ei kenenkaan pida lahimmaista lankoansa lahestyman, hanen hapyansa paljastaman; silla mina olen Herra.	</div>
 
-<div class="versenum">7.</div> Sinun isas hapya, ja aitis hapya ei sinun pida paljastaman. Se on sinun aitis, ala siis hanen hapyansa paljasta.	
+<div class="theverse"><div class="versenum">7.</div> Sinun isas hapya, ja aitis hapya ei sinun pida paljastaman. Se on sinun aitis, ala siis hanen hapyansa paljasta.	</div>
 
-<div class="versenum">8.</div> Ei sinun pida paljastaman isas emannan hapya; silla se on isas hapy.	
+<div class="theverse"><div class="versenum">8.</div> Ei sinun pida paljastaman isas emannan hapya; silla se on isas hapy.	</div>
 
-<div class="versenum">9.</div> Sinun sisares hapya, isas tyttaren, eli aitis tyttaren, kotona taikka ulkona syntyneen, ei sinun pida paljastaman heidan hapyansa.	
+<div class="theverse"><div class="versenum">9.</div> Sinun sisares hapya, isas tyttaren, eli aitis tyttaren, kotona taikka ulkona syntyneen, ei sinun pida paljastaman heidan hapyansa.	</div>
 
-<div class="versenum">10.</div> Ei sinun pida paljastaman poikas tyttaren , eli tyttares tyttaren hapya; silla se on sinun hapys.	
+<div class="theverse"><div class="versenum">10.</div> Ei sinun pida paljastaman poikas tyttaren , eli tyttares tyttaren hapya; silla se on sinun hapys.	</div>
 
-<div class="versenum">11.</div> Ei sinun pida paljastaman aitipuoles tyttaren hapya, joka isalles syntynyt on; silla se on sinun sisares.	
+<div class="theverse"><div class="versenum">11.</div> Ei sinun pida paljastaman aitipuoles tyttaren hapya, joka isalles syntynyt on; silla se on sinun sisares.	</div>
 
-<div class="versenum">12.</div> Ei sinun pida paljastaman isas sisaren hapya; silla se on isas lahimmainen.	
+<div class="theverse"><div class="versenum">12.</div> Ei sinun pida paljastaman isas sisaren hapya; silla se on isas lahimmainen.	</div>
 
-<div class="versenum">13.</div> Ei sinun pida paljastaman aitis sisaren hapya, silla se on sinun aitis lahimmainen.	
+<div class="theverse"><div class="versenum">13.</div> Ei sinun pida paljastaman aitis sisaren hapya, silla se on sinun aitis lahimmainen.	</div>
 
-<div class="versenum">14.</div> Ei sinun pida paljastaman setas hapya, niin ettas lahestyt hanen emantaansa; silla se on sinun setas emanta.	
+<div class="theverse"><div class="versenum">14.</div> Ei sinun pida paljastaman setas hapya, niin ettas lahestyt hanen emantaansa; silla se on sinun setas emanta.	</div>
 
-<div class="versenum">15.</div> Ei sinun pida paljastaman minias hapya; silla han on poikas emanta, sentahden ei sinun pida hanen hapyansa paljastaman.	
+<div class="theverse"><div class="versenum">15.</div> Ei sinun pida paljastaman minias hapya; silla han on poikas emanta, sentahden ei sinun pida hanen hapyansa paljastaman.	</div>
 
-<div class="versenum">16.</div> Ei sinun pida paljastaman veljes emannan hapya; silla se on sinun veljes hapy.	
+<div class="theverse"><div class="versenum">16.</div> Ei sinun pida paljastaman veljes emannan hapya; silla se on sinun veljes hapy.	</div>
 
-<div class="versenum">17.</div> Ei sinun pida sinun emantas ynna hanen tyttarensa hapya paljastaman, eika hanen poikansa tytarta, eli tyttaren tytarta ottaman, heidan hapyansa paljastamaan; silla ne ovat hanen lahimmaisensa, ja se on kauhistus.	
+<div class="theverse"><div class="versenum">17.</div> Ei sinun pida sinun emantas ynna hanen tyttarensa hapya paljastaman, eika hanen poikansa tytarta, eli tyttaren tytarta ottaman, heidan hapyansa paljastamaan; silla ne ovat hanen lahimmaisensa, ja se on kauhistus.	</div>
 
-<div class="versenum">18.</div> Ei sinun pida myos ottaman sinun emantas sisarta, hanta vaivaamaan, hanen hapyansa paljastamaan, veila hanen elaissansa.	
+<div class="theverse"><div class="versenum">18.</div> Ei sinun pida myos ottaman sinun emantas sisarta, hanta vaivaamaan, hanen hapyansa paljastamaan, veila hanen elaissansa.	</div>
 
-<div class="versenum">19.</div> Vaimon tyko, niin kauvan kuin han saastaisuutensa sairautta karsii, ei sinun pida lahestyman, hanen hapynsa paljastamaan.	
+<div class="theverse"><div class="versenum">19.</div> Vaimon tyko, niin kauvan kuin han saastaisuutensa sairautta karsii, ei sinun pida lahestyman, hanen hapynsa paljastamaan.	</div>
 
-<div class="versenum">20.</div> Ei sinun pida myos makaaman lahimmaises emannan tykona, haneen ryhtyman, jolla itses haneen saastutat.	
+<div class="theverse"><div class="versenum">20.</div> Ei sinun pida myos makaaman lahimmaises emannan tykona, haneen ryhtyman, jolla itses haneen saastutat.	</div>
 
-<div class="versenum">21.</div> Ei sinun pida siemenestas antaman Molekille poltettaa, ettes hapaisisi sinun Jumalas nimea; silla mina olen Herra.	
+<div class="theverse"><div class="versenum">21.</div> Ei sinun pida siemenestas antaman Molekille poltettaa, ettes hapaisisi sinun Jumalas nimea; silla mina olen Herra.	</div>
 
-<div class="versenum">22.</div> Ei sinun pida miehenpuolen kanssa makaaman, niinkuin vaimon kanssa; silla se on kauhistus.	
+<div class="theverse"><div class="versenum">22.</div> Ei sinun pida miehenpuolen kanssa makaaman, niinkuin vaimon kanssa; silla se on kauhistus.	</div>
 
-<div class="versenum">23.</div> Ei sinun pida myos elaimen kanssa makaaman, ettes itsias sen kanssa saastuttais. Ja ei yksikaan vaimo pida elaimeen ryhtyman, yhdistymaan sen kanssa; silla se on kauhistus.	
+<div class="theverse"><div class="versenum">23.</div> Ei sinun pida myos elaimen kanssa makaaman, ettes itsias sen kanssa saastuttais. Ja ei yksikaan vaimo pida elaimeen ryhtyman, yhdistymaan sen kanssa; silla se on kauhistus.	</div>
 
-<div class="versenum">24.</div> Ei teidan pida yhdessakaan naissa itsianne saastuttaman; silla naissa kaikissa ovat pakanat heitansa saastuttaneet, jotka mina ajan pois teidan edestanne.	
+<div class="theverse"><div class="versenum">24.</div> Ei teidan pida yhdessakaan naissa itsianne saastuttaman; silla naissa kaikissa ovat pakanat heitansa saastuttaneet, jotka mina ajan pois teidan edestanne.	</div>
 
-<div class="versenum">25.</div> Ja maa on silla saastutettu, ja mina etsiskelen sen pahat teot, niin etta sen maan pitaa asujansa oksentaman.	
+<div class="theverse"><div class="versenum">25.</div> Ja maa on silla saastutettu, ja mina etsiskelen sen pahat teot, niin etta sen maan pitaa asujansa oksentaman.	</div>
 
-<div class="versenum">26.</div> Sentahden pitakaat minun saatyni ja oikeuteni, ja alkaat naista kauhistuksista yhtakaan tehko: ei omainen, eika vieras, joka teidan seassanne muukalainen on.	
+<div class="theverse"><div class="versenum">26.</div> Sentahden pitakaat minun saatyni ja oikeuteni, ja alkaat naista kauhistuksista yhtakaan tehko: ei omainen, eika vieras, joka teidan seassanne muukalainen on.	</div>
 
-<div class="versenum">27.</div> Silla kaikkia naita kauhistuksia ovat taman maan kansat tehneet, jotka teidan edellanne olivat, ja ovat maan saastuttaneet,	
+<div class="theverse"><div class="versenum">27.</div> Silla kaikkia naita kauhistuksia ovat taman maan kansat tehneet, jotka teidan edellanne olivat, ja ovat maan saastuttaneet,	</div>
 
-<div class="versenum">28.</div> Ettei se maa myos teita oksentaisi, jos te sita saastutatte, niinkuin se on oksentanut kansan, joka teidan edellanne oli.	
+<div class="theverse"><div class="versenum">28.</div> Ettei se maa myos teita oksentaisi, jos te sita saastutatte, niinkuin se on oksentanut kansan, joka teidan edellanne oli.	</div>
 
-<div class="versenum">29.</div> Silla kuka ikanansa naita kauhistuksia tekee, sen sielu pitaa havitettaman kansastansa.	
+<div class="theverse"><div class="versenum">29.</div> Silla kuka ikanansa naita kauhistuksia tekee, sen sielu pitaa havitettaman kansastansa.	</div>
 
-<div class="versenum">30.</div> Sentahden pitakaat minun kaskyni, ettette tekisi kauhistavaisten tapain jalkeen, joita ne tekivat, jotka teidan edellanne olivat: ettette itsianne niilla saastutaisi; silla mina olen Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">30.</div> Sentahden pitakaat minun kaskyni, ettette tekisi kauhistavaisten tapain jalkeen, joita ne tekivat, jotka teidan edellanne olivat: ettette itsianne niilla saastutaisi; silla mina olen Herra teidan Jumalanne.	</div>
 </body>
 </html>

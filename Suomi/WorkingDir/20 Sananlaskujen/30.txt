@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 30	</div>
 	
-<div class="versenum">1.</div> Agurin Jakenin pojan pojan sanat ja opetus, jonka se mies pujui Itielille, Itielille ja Ukkalille.	
+<div class="theverse"><div class="versenum">1.</div> Agurin Jakenin pojan pojan sanat ja opetus, jonka se mies pujui Itielille, Itielille ja Ukkalille.	</div>
 
-<div class="versenum">2.</div> Mina olen kaikkein hulluin, ja ihmisten ymmarrys ei ole minussa.	
+<div class="theverse"><div class="versenum">2.</div> Mina olen kaikkein hulluin, ja ihmisten ymmarrys ei ole minussa.	</div>
 
-<div class="versenum">3.</div> En mina ole oppinut viisautta, ja en tieda pyhain taitoa.	
+<div class="theverse"><div class="versenum">3.</div> En mina ole oppinut viisautta, ja en tieda pyhain taitoa.	</div>
 
-<div class="versenum">4.</div> Kuka taivaaseen menee ylos ja tulee alas? kuka kasittaa tuulen pivoonsa? kuka sitoo veden vaatteeseen? kuka 0n asttanut kaikki maan aaret? mika on hanen nimensa? kuinka hanen poikansa kutsutaan? tiedatkos?	
+<div class="theverse"><div class="versenum">4.</div> Kuka taivaaseen menee ylos ja tulee alas? kuka kasittaa tuulen pivoonsa? kuka sitoo veden vaatteeseen? kuka 0n asttanut kaikki maan aaret? mika on hanen nimensa? kuinka hanen poikansa kutsutaan? tiedatkos?	</div>
 
-<div class="versenum">5.</div> Kaikki Jumalan sanat ovat kirkastetut, ja ovat kilpi niille, jotka uskovat hanen paallensa.	
+<div class="theverse"><div class="versenum">5.</div> Kaikki Jumalan sanat ovat kirkastetut, ja ovat kilpi niille, jotka uskovat hanen paallensa.	</div>
 
-<div class="versenum">6.</div> Ala lisaa hanen sanoihinsa, ettei han sinua rankaisisi, ja sina loyttaisiin valehteliaksi.	
+<div class="theverse"><div class="versenum">6.</div> Ala lisaa hanen sanoihinsa, ettei han sinua rankaisisi, ja sina loyttaisiin valehteliaksi.	</div>
 
-<div class="versenum">7.</div> Kahta mina sinulta anon, ettes minulta niita kieltaisi, ennenkuin mina kuolen:	
+<div class="theverse"><div class="versenum">7.</div> Kahta mina sinulta anon, ettes minulta niita kieltaisi, ennenkuin mina kuolen:	</div>
 
-<div class="versenum">8.</div> Vaara oppi ja valhe olkoon minusta kaukana: koyhyytta ja rikkautta ala minulle anna; vaan anna minun saada maaratty osani ravinnosta.	
+<div class="theverse"><div class="versenum">8.</div> Vaara oppi ja valhe olkoon minusta kaukana: koyhyytta ja rikkautta ala minulle anna; vaan anna minun saada maaratty osani ravinnosta.	</div>
 
-<div class="versenum">9.</div> Etten mina, jos mina ylen ravituksi tulisin, kieltaisi sinua ja sanoisi: kuka on Herra? eli, jos mina ylen koyhaksi tulisin, varastaisi, ja syntia tekisi Jumalani nimea vastaan.	
+<div class="theverse"><div class="versenum">9.</div> Etten mina, jos mina ylen ravituksi tulisin, kieltaisi sinua ja sanoisi: kuka on Herra? eli, jos mina ylen koyhaksi tulisin, varastaisi, ja syntia tekisi Jumalani nimea vastaan.	</div>
 
-<div class="versenum">10.</div> Ala kanna palvelian paalle hanen isantansa edessa, ettei han sinua kiroilisi ja sina niin nuhteeseen tulet.	
+<div class="theverse"><div class="versenum">10.</div> Ala kanna palvelian paalle hanen isantansa edessa, ettei han sinua kiroilisi ja sina niin nuhteeseen tulet.	</div>
 
-<div class="versenum">11.</div> On niita, jotka kiroilevat isaansa ja ei siunaa aitiansa.	
+<div class="theverse"><div class="versenum">11.</div> On niita, jotka kiroilevat isaansa ja ei siunaa aitiansa.	</div>
 
-<div class="versenum">12.</div> On niitakin, jotka luulevat itsensa puhtaaksi, ja ei ole kuitenkaan saastaisuudestansa pestyt.	
+<div class="theverse"><div class="versenum">12.</div> On niitakin, jotka luulevat itsensa puhtaaksi, ja ei ole kuitenkaan saastaisuudestansa pestyt.	</div>
 
-<div class="versenum">13.</div> Ovat myos, jotka silmansa nostavat, ja silmalautansa korottavat;	
+<div class="theverse"><div class="versenum">13.</div> Ovat myos, jotka silmansa nostavat, ja silmalautansa korottavat;	</div>
 
-<div class="versenum">14.</div> Ja ovat, joilla on miekka hammasten siassa, ja veitset heidan syomahampainansa, ja syovat vaivaiset maan paalta, ja koyhat ihmisten seasta.	
+<div class="theverse"><div class="versenum">14.</div> Ja ovat, joilla on miekka hammasten siassa, ja veitset heidan syomahampainansa, ja syovat vaivaiset maan paalta, ja koyhat ihmisten seasta.	</div>
 
-<div class="versenum">15.</div> Verenimijalla on kaksi tytarta: tuo tanne, tuo tanne. Kolme on tyytymatointa, ja tosin nelja ei sano kylla olevan:	
+<div class="theverse"><div class="versenum">15.</div> Verenimijalla on kaksi tytarta: tuo tanne, tuo tanne. Kolme on tyytymatointa, ja tosin nelja ei sano kylla olevan:	</div>
 
-<div class="versenum">16.</div> Helvetti, vaimon suljettu kohtu, maa, joka ei vedella tayteta: ja tuli ei sano: jo kylla on.	
+<div class="theverse"><div class="versenum">16.</div> Helvetti, vaimon suljettu kohtu, maa, joka ei vedella tayteta: ja tuli ei sano: jo kylla on.	</div>
 
-<div class="versenum">17.</div> Silma joka hapaisee isaansa, ja katsoo ylon totella aitiansa, sen kaarneet ojan tykona hakkaavat ulos, ja kotkan pojat syovat.	
+<div class="theverse"><div class="versenum">17.</div> Silma joka hapaisee isaansa, ja katsoo ylon totella aitiansa, sen kaarneet ojan tykona hakkaavat ulos, ja kotkan pojat syovat.	</div>
 
-<div class="versenum">18.</div> Kolme minulle ovat ihmeelliset, ja neljaa en mina tieda:	
+<div class="theverse"><div class="versenum">18.</div> Kolme minulle ovat ihmeelliset, ja neljaa en mina tieda:	</div>
 
-<div class="versenum">19.</div> Kotkan tiet taivaan alla, kaarmeen retket kalliolla, haahden jaljet meren keskella, ja miehen jaljet piian tyko.	
+<div class="theverse"><div class="versenum">19.</div> Kotkan tiet taivaan alla, kaarmeen retket kalliolla, haahden jaljet meren keskella, ja miehen jaljet piian tyko.	</div>
 
-<div class="versenum">20.</div> Niin on myos porton polut: han syo ja pyyhkii suunsa, ja sanoo: en mina mitaan pahaa ole tehnyt.	
+<div class="theverse"><div class="versenum">20.</div> Niin on myos porton polut: han syo ja pyyhkii suunsa, ja sanoo: en mina mitaan pahaa ole tehnyt.	</div>
 
-<div class="versenum">21.</div> Kolmen kautta maakunta tulee levottomuuteen, ja tosin neljaa han ei voi karsia:	
+<div class="theverse"><div class="versenum">21.</div> Kolmen kautta maakunta tulee levottomuuteen, ja tosin neljaa han ei voi karsia:	</div>
 
-<div class="versenum">22.</div> Kuin palvelia rupee hallitsemaan, kuin hullu ylen ravituksi tulee,	
+<div class="theverse"><div class="versenum">22.</div> Kuin palvelia rupee hallitsemaan, kuin hullu ylen ravituksi tulee,	</div>
 
-<div class="versenum">23.</div> Kuin ilkia naitetaan, ja kuin piika tulee emantansa perilliseksi.	
+<div class="theverse"><div class="versenum">23.</div> Kuin ilkia naitetaan, ja kuin piika tulee emantansa perilliseksi.	</div>
 
-<div class="versenum">24.</div> Nelja on pienta maan paalla, ja ovat toimellisemmat viisaita.	
+<div class="theverse"><div class="versenum">24.</div> Nelja on pienta maan paalla, ja ovat toimellisemmat viisaita.	</div>
 
-<div class="versenum">25.</div> Myyriaiset, heikko vaki, jotka kuitenkin elatuksensa suvella toimittavat;	
+<div class="theverse"><div class="versenum">25.</div> Myyriaiset, heikko vaki, jotka kuitenkin elatuksensa suvella toimittavat;	</div>
 
-<div class="versenum">26.</div> Kaninit, heikko vaki, jotka kuitenkin pesansa kalliolle tekevat;	
+<div class="theverse"><div class="versenum">26.</div> Kaninit, heikko vaki, jotka kuitenkin pesansa kalliolle tekevat;	</div>
 
-<div class="versenum">27.</div> Heinasirkoilla ei ole kuningasta, kuitenkin he lahtevat kaikki ylos joukossansa;	
+<div class="theverse"><div class="versenum">27.</div> Heinasirkoilla ei ole kuningasta, kuitenkin he lahtevat kaikki ylos joukossansa;	</div>
 
-<div class="versenum">28.</div> Hamahakki kehraa kasillansa, ja on kuninkaan linnoissa.	
+<div class="theverse"><div class="versenum">28.</div> Hamahakki kehraa kasillansa, ja on kuninkaan linnoissa.	</div>
 
-<div class="versenum">29.</div> Kolmella on jalo kaynto, ja tosin nelja astuu hyvin:	
+<div class="theverse"><div class="versenum">29.</div> Kolmella on jalo kaynto, ja tosin nelja astuu hyvin:	</div>
 
-<div class="versenum">30.</div> Jalopeura, voimallinen petoin seassa, joka ei palaja kenenkaan edesta;	
+<div class="theverse"><div class="versenum">30.</div> Jalopeura, voimallinen petoin seassa, joka ei palaja kenenkaan edesta;	</div>
 
-<div class="versenum">31.</div> Hurtta, jolla vahvat sivut ovat, ja kauris, ja kuningas, jota vastaan ei kenkaan tohdi.	
+<div class="theverse"><div class="versenum">31.</div> Hurtta, jolla vahvat sivut ovat, ja kauris, ja kuningas, jota vastaan ei kenkaan tohdi.	</div>
 
-<div class="versenum">32.</div> Jos sina olet tyhmasti tehnyt, ja korottanut sinuas, ja jos sina olet jotakin pahaa ajatellut, niin laske kasi suus paalle.	
+<div class="theverse"><div class="versenum">32.</div> Jos sina olet tyhmasti tehnyt, ja korottanut sinuas, ja jos sina olet jotakin pahaa ajatellut, niin laske kasi suus paalle.	</div>
 
-<div class="versenum">33.</div> Joka rieskaa kirnuu, han tekee voita: ja jokaa nenaa pusertaa, han vaatii ulos veren: ja joka vihaa kehoittaa, han vaatii riitaan.	
+<div class="theverse"><div class="versenum">33.</div> Joka rieskaa kirnuu, han tekee voita: ja jokaa nenaa pusertaa, han vaatii ulos veren: ja joka vihaa kehoittaa, han vaatii riitaan.	</div>
 </body>
 </html>

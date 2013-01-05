@@ -4,96 +4,96 @@
 </head>
 <body><div class="chaptertitle">Jeremian 50	</div>
 	
-<div class="versenum">1.</div> Namat ovat ne sanat, jotka Herra on propheta Jeremian kautta puhunut Babelin ja Kaldealaisten maata vastaan.	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat ne sanat, jotka Herra on propheta Jeremian kautta puhunut Babelin ja Kaldealaisten maata vastaan.	</div>
 
-<div class="versenum">2.</div> Julistakaat pakanain seassa ja tiettavaksi tehkaat, nostakaat lippu ylos, kuuluttakaat ja alkaat sita salatko, ja sanokaat: Babel on voitettu, Bel on hapiaan joutunut, Merodak on rikottu, hanen epajumalansa ovat hapiaan tulleet, ja hanen jumalansa ovat murskaksi lyodyt.	
+<div class="theverse"><div class="versenum">2.</div> Julistakaat pakanain seassa ja tiettavaksi tehkaat, nostakaat lippu ylos, kuuluttakaat ja alkaat sita salatko, ja sanokaat: Babel on voitettu, Bel on hapiaan joutunut, Merodak on rikottu, hanen epajumalansa ovat hapiaan tulleet, ja hanen jumalansa ovat murskaksi lyodyt.	</div>
 
-<div class="versenum">3.</div> Silla pohjoisesta nousee kansa heita vastaan, jonka pitaa heidan maansa havittaman, niin ettei kenenkaan pida siina asuman, vaan seka ihmiset etta elaimet sielta pakeneman.	
+<div class="theverse"><div class="versenum">3.</div> Silla pohjoisesta nousee kansa heita vastaan, jonka pitaa heidan maansa havittaman, niin ettei kenenkaan pida siina asuman, vaan seka ihmiset etta elaimet sielta pakeneman.	</div>
 
-<div class="versenum">4.</div> Niina paivina ja siihen aikaan, sanoo Herra, pitaa Israelin lasten Juudan lasten kanssa tuleman, ja pitaa joudukkaasti kayman ja itkeman, ja etsiman Herraa Jumalaansa.	
+<div class="theverse"><div class="versenum">4.</div> Niina paivina ja siihen aikaan, sanoo Herra, pitaa Israelin lasten Juudan lasten kanssa tuleman, ja pitaa joudukkaasti kayman ja itkeman, ja etsiman Herraa Jumalaansa.	</div>
 
-<div class="versenum">5.</div> Heidan pitaa kysyman tieta Zioniin ja kaantaman itsensa sinne: tulkaat, ja me tahdomme pysya Herrassa ijankaikkisella liitolla, joka ei ikana pida unhotettaman.	
+<div class="theverse"><div class="versenum">5.</div> Heidan pitaa kysyman tieta Zioniin ja kaantaman itsensa sinne: tulkaat, ja me tahdomme pysya Herrassa ijankaikkisella liitolla, joka ei ikana pida unhotettaman.	</div>
 
-<div class="versenum">6.</div> Minun kansani on tullut kadonneeksi laumaksi; heidan paimenensa ovat heidat vietelleet ja antaneet heidan eksyksissa kavella vuorilla, niin etta he ovat vuorilta menneet kukkuloille, ja ovat unhottaneet majansa.	
+<div class="theverse"><div class="versenum">6.</div> Minun kansani on tullut kadonneeksi laumaksi; heidan paimenensa ovat heidat vietelleet ja antaneet heidan eksyksissa kavella vuorilla, niin etta he ovat vuorilta menneet kukkuloille, ja ovat unhottaneet majansa.	</div>
 
-<div class="versenum">7.</div> Kuka ikana heidan tykonsa tuli, se soi heita, ja heidan vihollisensa sanoivat: emmepa me tee vaarin, silla he ovat rikkoneet Herraa vastaan vanhurskauden asumuksessa, ja Herraa vastaan, joka heidan isansa toivo on.	
+<div class="theverse"><div class="versenum">7.</div> Kuka ikana heidan tykonsa tuli, se soi heita, ja heidan vihollisensa sanoivat: emmepa me tee vaarin, silla he ovat rikkoneet Herraa vastaan vanhurskauden asumuksessa, ja Herraa vastaan, joka heidan isansa toivo on.	</div>
 
-<div class="versenum">8.</div> Paetkaat Babelista ja lahtekaat pois Kaldealaisten maasta ulos, ja laittakaat teitanne niinkuin kauriit lauman edella.	
+<div class="theverse"><div class="versenum">8.</div> Paetkaat Babelista ja lahtekaat pois Kaldealaisten maasta ulos, ja laittakaat teitanne niinkuin kauriit lauman edella.	</div>
 
-<div class="versenum">9.</div> Silla katso, mina nostan suuren vaen joukoittain pohjan maalta, ja annan heidan tulla Babelin eteen; heidan pitaa varustaman itsensa hanta vastaan, ja voittaman hanen. Heidan nuolensa ovat niinkuin taitavan sotamiehen, joka ei tyhjaan ammu.	
+<div class="theverse"><div class="versenum">9.</div> Silla katso, mina nostan suuren vaen joukoittain pohjan maalta, ja annan heidan tulla Babelin eteen; heidan pitaa varustaman itsensa hanta vastaan, ja voittaman hanen. Heidan nuolensa ovat niinkuin taitavan sotamiehen, joka ei tyhjaan ammu.	</div>
 
-<div class="versenum">10.</div> Ja Kaldean maa pitaa tuleman saaliiksi, niin etta kaikkein, jotka sita ryostavat, pitaa siita kylla saaman, sanoo Herra.	
+<div class="theverse"><div class="versenum">10.</div> Ja Kaldean maa pitaa tuleman saaliiksi, niin etta kaikkein, jotka sita ryostavat, pitaa siita kylla saaman, sanoo Herra.	</div>
 
-<div class="versenum">11.</div> Etta te iloitsette siita ja kerskaatte itsianne, etta te olette minun perintoni ryostaneet, ja hyppelette niinkuin lihavat vasikat, ja hirnutte niinkuin vakevat (hevoset).	
+<div class="theverse"><div class="versenum">11.</div> Etta te iloitsette siita ja kerskaatte itsianne, etta te olette minun perintoni ryostaneet, ja hyppelette niinkuin lihavat vasikat, ja hirnutte niinkuin vakevat (hevoset).	</div>
 
-<div class="versenum">12.</div> Teidan aitinne on suureen hapiaan joutunut, ja se hapee, joka teidat on synnyttanyt; katso, han on pakanain seassa kaikkein huonoin, autio, kuiva ja havinnyt.	
+<div class="theverse"><div class="versenum">12.</div> Teidan aitinne on suureen hapiaan joutunut, ja se hapee, joka teidat on synnyttanyt; katso, han on pakanain seassa kaikkein huonoin, autio, kuiva ja havinnyt.	</div>
 
-<div class="versenum">13.</div> Herran vihan tahden ei pida siina asuttaman, vaan se kokonansa autiona oleman; niin etta kaikkein, jotka menevat ohitie Babelia, pitaa ihmetteleman ja viheltaman kaikkein hanen vaivainsa tahden.	
+<div class="theverse"><div class="versenum">13.</div> Herran vihan tahden ei pida siina asuttaman, vaan se kokonansa autiona oleman; niin etta kaikkein, jotka menevat ohitie Babelia, pitaa ihmetteleman ja viheltaman kaikkein hanen vaivainsa tahden.	</div>
 
-<div class="versenum">14.</div> Varustakaat teitanne Babelia vastaan, joka taholta kaikki ampujat, ampukaat hanta, alkaat saastako nuolia; silla han on rikkonut Herraa vastaan.	
+<div class="theverse"><div class="versenum">14.</div> Varustakaat teitanne Babelia vastaan, joka taholta kaikki ampujat, ampukaat hanta, alkaat saastako nuolia; silla han on rikkonut Herraa vastaan.	</div>
 
-<div class="versenum">15.</div> Riekukaat hanta vastaan joka taholta; hanen pitaa myota antaman, hanen perustuksensa ovat langenneet, ja hanen muurinsa hajonneet; silla se on Herran kosto, kostakaat hanelle, ja tehkaat hanelle niinkuin han on tehnyt.	
+<div class="theverse"><div class="versenum">15.</div> Riekukaat hanta vastaan joka taholta; hanen pitaa myota antaman, hanen perustuksensa ovat langenneet, ja hanen muurinsa hajonneet; silla se on Herran kosto, kostakaat hanelle, ja tehkaat hanelle niinkuin han on tehnyt.	</div>
 
-<div class="versenum">16.</div> Havittakaat seka kylvaja etta se, joka sirppiin rupee elonaikana; niin etta jokainen kaantaa itsensa kansansa tyko havittajan miekan tahden, ja jokainen pakenee maallensa.	
+<div class="theverse"><div class="versenum">16.</div> Havittakaat seka kylvaja etta se, joka sirppiin rupee elonaikana; niin etta jokainen kaantaa itsensa kansansa tyko havittajan miekan tahden, ja jokainen pakenee maallensa.	</div>
 
-<div class="versenum">17.</div> Israelin taytyy olla hajoitetun lammaslauman, jonka jalopeurat ovat hajoittaneet. Ensisti soi Assurian kuningas hanen, sitte sarki Nebukadnetsar, Babelin kuningas, hanen luunsa.	
+<div class="theverse"><div class="versenum">17.</div> Israelin taytyy olla hajoitetun lammaslauman, jonka jalopeurat ovat hajoittaneet. Ensisti soi Assurian kuningas hanen, sitte sarki Nebukadnetsar, Babelin kuningas, hanen luunsa.	</div>
 
-<div class="versenum">18.</div> Sentahden sanoo Herra Zebaot, Israelin Jumala, nain: mina etsin Babelin kuninkaan ja hanen maansa, niinkuin mina olen Assurian kuninkaan etsinyt.	
+<div class="theverse"><div class="versenum">18.</div> Sentahden sanoo Herra Zebaot, Israelin Jumala, nain: mina etsin Babelin kuninkaan ja hanen maansa, niinkuin mina olen Assurian kuninkaan etsinyt.	</div>
 
-<div class="versenum">19.</div> Mutta Israelin mina annan tulla jalleen kotia asumasiaansa, niin etta hanen pitaa itsensa elattaman Karmelissa ja Basanissa, ja Ephraimin vuorella, ja Gileadissa pitaa hanen sielunsa ravituksi tuleman.	
+<div class="theverse"><div class="versenum">19.</div> Mutta Israelin mina annan tulla jalleen kotia asumasiaansa, niin etta hanen pitaa itsensa elattaman Karmelissa ja Basanissa, ja Ephraimin vuorella, ja Gileadissa pitaa hanen sielunsa ravituksi tuleman.	</div>
 
-<div class="versenum">20.</div> Niina paivina ja siihen aikaan, sanoo Herra, pitaa Israelin pahateko etsittaman, ja ei loyttaman, ja Juudan synti, ja ei pida loyttaman; silla mina olen armollinen niille, jotka mina jatan.	
+<div class="theverse"><div class="versenum">20.</div> Niina paivina ja siihen aikaan, sanoo Herra, pitaa Israelin pahateko etsittaman, ja ei loyttaman, ja Juudan synti, ja ei pida loyttaman; silla mina olen armollinen niille, jotka mina jatan.	</div>
 
-<div class="versenum">21.</div> Mene kapinan nostajain maahan, mene sinne ylos, ja etsi etsikon asuvaisia; havita ja tapa heidan jalkeentulevaisensa, sanoo Herra, ja tee kaikki, mita mina olen kaskenyt sinulle.	
+<div class="theverse"><div class="versenum">21.</div> Mene kapinan nostajain maahan, mene sinne ylos, ja etsi etsikon asuvaisia; havita ja tapa heidan jalkeentulevaisensa, sanoo Herra, ja tee kaikki, mita mina olen kaskenyt sinulle.	</div>
 
-<div class="versenum">22.</div> Maalla on sodanriekuna ja iso suru.	
+<div class="theverse"><div class="versenum">22.</div> Maalla on sodanriekuna ja iso suru.	</div>
 
-<div class="versenum">23.</div> Kuinka se on tullut, etta koko maailman vasara on taitettu ja rikottu? Kuinka Babel on autioksi joutunut pakanain seassa?	
+<div class="theverse"><div class="versenum">23.</div> Kuinka se on tullut, etta koko maailman vasara on taitettu ja rikottu? Kuinka Babel on autioksi joutunut pakanain seassa?	</div>
 
-<div class="versenum">24.</div> Mina olen virittanyt paulan sinun etees, Babel, sentahden olet sina myos vangittu, ennen kuin sina havaitsitkaan; sina olet osattu ja olet kasitetty, silla sina olet kehoittanut Herran.	
+<div class="theverse"><div class="versenum">24.</div> Mina olen virittanyt paulan sinun etees, Babel, sentahden olet sina myos vangittu, ennen kuin sina havaitsitkaan; sina olet osattu ja olet kasitetty, silla sina olet kehoittanut Herran.	</div>
 
-<div class="versenum">25.</div> Herra on avannut tavarahuoneensa, ja vetanyt edes vihansa aseet; silla tama on Herran, Herran Zebaotin tyo Kaldealaisten maalla.	
+<div class="theverse"><div class="versenum">25.</div> Herra on avannut tavarahuoneensa, ja vetanyt edes vihansa aseet; silla tama on Herran, Herran Zebaotin tyo Kaldealaisten maalla.	</div>
 
-<div class="versenum">26.</div> Tulkaat tanne hanta vastaan, te viimeisista aarista, avatkaa hanen jyvahuoneensa, paiskatkaat hanta kokoon, ja tappakaat hanta, niin ettei hanelle mitaan jaa.	
+<div class="theverse"><div class="versenum">26.</div> Tulkaat tanne hanta vastaan, te viimeisista aarista, avatkaa hanen jyvahuoneensa, paiskatkaat hanta kokoon, ja tappakaat hanta, niin ettei hanelle mitaan jaa.	</div>
 
-<div class="versenum">27.</div> Surettakaat kaikki hanen mullinsa, viekaat hanta alas teurastettaa; voi heita! silla paiva on tullut, heidan etsikkonsa aika.	
+<div class="theverse"><div class="versenum">27.</div> Surettakaat kaikki hanen mullinsa, viekaat hanta alas teurastettaa; voi heita! silla paiva on tullut, heidan etsikkonsa aika.	</div>
 
-<div class="versenum">28.</div> Huuto kuuluu paenneilta ja paasseilta Babelin maasta, etta heidan pitaa julistaman Zionissa Herran meidan Jumalamme kostoa ja hanen kirkkonsa kostoa.	
+<div class="theverse"><div class="versenum">28.</div> Huuto kuuluu paenneilta ja paasseilta Babelin maasta, etta heidan pitaa julistaman Zionissa Herran meidan Jumalamme kostoa ja hanen kirkkonsa kostoa.	</div>
 
-<div class="versenum">29.</div> Kutsukaat monta Babelia vastaan, piirittakaat hanta kaikki joutsenampujat joka taholta ympari, ja alkaat yhtaan paastako; kostakaat hanelle niin kuin han on ansainnut; kaiken sen jalkeen kuin han on tehnyt, niin tehkaat hanelle jalleen; silla han on ylpiasti tehnyt Herraa vastaan, Pyhaa Israelissa.	
+<div class="theverse"><div class="versenum">29.</div> Kutsukaat monta Babelia vastaan, piirittakaat hanta kaikki joutsenampujat joka taholta ympari, ja alkaat yhtaan paastako; kostakaat hanelle niin kuin han on ansainnut; kaiken sen jalkeen kuin han on tehnyt, niin tehkaat hanelle jalleen; silla han on ylpiasti tehnyt Herraa vastaan, Pyhaa Israelissa.	</div>
 
-<div class="versenum">30.</div> Sentahden pitaa hanen nuorukaisensa lankeeman hanen kaduillansa, ja kaikki hanen sotamiehensa hukkuman siihen aikaan, sanoo Herra.	
+<div class="theverse"><div class="versenum">30.</div> Sentahden pitaa hanen nuorukaisensa lankeeman hanen kaduillansa, ja kaikki hanen sotamiehensa hukkuman siihen aikaan, sanoo Herra.	</div>
 
-<div class="versenum">31.</div> Katso, sina ylpea, mina tahdon sinun kimppuus, sanoo Herra, Herra Zebaot: silla sinun paivas on tullut, sinun etsikkos aika.	
+<div class="theverse"><div class="versenum">31.</div> Katso, sina ylpea, mina tahdon sinun kimppuus, sanoo Herra, Herra Zebaot: silla sinun paivas on tullut, sinun etsikkos aika.	</div>
 
-<div class="versenum">32.</div> Silloin pitaa ylpean itsensa loukkaaman ja lankeeman, niin ettei kenenkaan pida hanta auttaman ylos; ja mina sytytan hanen kaupunkinsa palamaan tulella, jonka pitaa kuluttaman kaikki, mita siina ymparilla on.	
+<div class="theverse"><div class="versenum">32.</div> Silloin pitaa ylpean itsensa loukkaaman ja lankeeman, niin ettei kenenkaan pida hanta auttaman ylos; ja mina sytytan hanen kaupunkinsa palamaan tulella, jonka pitaa kuluttaman kaikki, mita siina ymparilla on.	</div>
 
-<div class="versenum">33.</div> Nain sanoo Herra Zebaot: katso, Israelin lasten ja Juudan lasten pitaa ynna vakivaltaa ja vaaryytta karsiman; kaikki ne, jotka heidan ovat vankina vieneet, pitavat heidat, ja ei tahdo heita paastaa vallallensa.	
+<div class="theverse"><div class="versenum">33.</div> Nain sanoo Herra Zebaot: katso, Israelin lasten ja Juudan lasten pitaa ynna vakivaltaa ja vaaryytta karsiman; kaikki ne, jotka heidan ovat vankina vieneet, pitavat heidat, ja ei tahdo heita paastaa vallallensa.	</div>
 
-<div class="versenum">34.</div> Mutta heidan vapahtajansa on vakeva, Herra Zebaot on hanen nimensa, han on niin toimittava heidan asiansa, etta han saattaa maan lepaamaan ja Babelin asuvaiset varisemaan.	
+<div class="theverse"><div class="versenum">34.</div> Mutta heidan vapahtajansa on vakeva, Herra Zebaot on hanen nimensa, han on niin toimittava heidan asiansa, etta han saattaa maan lepaamaan ja Babelin asuvaiset varisemaan.	</div>
 
-<div class="versenum">35.</div> Miekan pitaa tuleman, sanoo Herra, Kaldealaisten paalle, ja Babelin asuvaisten paalle, ja hanen ruhtinastensa paalle, ja hanen tietajainsa paalle.	
+<div class="theverse"><div class="versenum">35.</div> Miekan pitaa tuleman, sanoo Herra, Kaldealaisten paalle, ja Babelin asuvaisten paalle, ja hanen ruhtinastensa paalle, ja hanen tietajainsa paalle.	</div>
 
-<div class="versenum">36.</div> Miekan pitaa tuleman hanen noitainsa paalle, niin etta heidan pitaa tyhmaksi tuleman; miekan pitaa tuleman hanen vakevainsa paalle, etta heidan pitaa epaileman.	
+<div class="theverse"><div class="versenum">36.</div> Miekan pitaa tuleman hanen noitainsa paalle, niin etta heidan pitaa tyhmaksi tuleman; miekan pitaa tuleman hanen vakevainsa paalle, etta heidan pitaa epaileman.	</div>
 
-<div class="versenum">37.</div> Miekan pitaa tuleman hanen hevostensa ja ratastensa paalle ja kaiken yhteisen kansan paalle, joka hanen keskellansa on, niin etta heidan pitaa tuleman niinkuin vaimot; miekan pitaa tuleman hanen riistahuoneensa paalle, niin etta ne pitaa ryostetyksi tuleman.	
+<div class="theverse"><div class="versenum">37.</div> Miekan pitaa tuleman hanen hevostensa ja ratastensa paalle ja kaiken yhteisen kansan paalle, joka hanen keskellansa on, niin etta heidan pitaa tuleman niinkuin vaimot; miekan pitaa tuleman hanen riistahuoneensa paalle, niin etta ne pitaa ryostetyksi tuleman.	</div>
 
-<div class="versenum">38.</div> Kuivuuden pitaa tuleman hanen vettensa paalle, niin etta ne pitaa kuivuman; silla se on epajumalain maa, ja he royhkeilevat kauheista epajumalistansa.	
+<div class="theverse"><div class="versenum">38.</div> Kuivuuden pitaa tuleman hanen vettensa paalle, niin etta ne pitaa kuivuman; silla se on epajumalain maa, ja he royhkeilevat kauheista epajumalistansa.	</div>
 
-<div class="versenum">39.</div> Sentahden pitaa petoin ja julmain lintuin siella asuman, ja yokkoin pitaa myos siella asuman; ja ei pida ikana enaan siina asuttaman, eika jonkun siina oleman suvusta sukuun.	
+<div class="theverse"><div class="versenum">39.</div> Sentahden pitaa petoin ja julmain lintuin siella asuman, ja yokkoin pitaa myos siella asuman; ja ei pida ikana enaan siina asuttaman, eika jonkun siina oleman suvusta sukuun.	</div>
 
-<div class="versenum">40.</div> Niinkuin Herra Sodoman ja Gomorran lahikylainsa kanssa kukistanut on, sanoo Herra, niin ei siella kenenkaan asuman pida, eli jonkun ihmisen siella oleman.	
+<div class="theverse"><div class="versenum">40.</div> Niinkuin Herra Sodoman ja Gomorran lahikylainsa kanssa kukistanut on, sanoo Herra, niin ei siella kenenkaan asuman pida, eli jonkun ihmisen siella oleman.	</div>
 
-<div class="versenum">41.</div> Katso, kansa tulee pohjoisesta; monta pakanaa ja monta kuningasta pitaa nouseman maan aarista.	
+<div class="theverse"><div class="versenum">41.</div> Katso, kansa tulee pohjoisesta; monta pakanaa ja monta kuningasta pitaa nouseman maan aarista.	</div>
 
-<div class="versenum">42.</div> Heilla on joutsi ja kilpi, he ovat julmat ja armottomat; heidan huutonsa on niinkuin meren pauhina; he ajavat hevosilla niinkuin sotamiehet, varustetut sinua vastaan, sina Babelin tytar.	
+<div class="theverse"><div class="versenum">42.</div> Heilla on joutsi ja kilpi, he ovat julmat ja armottomat; heidan huutonsa on niinkuin meren pauhina; he ajavat hevosilla niinkuin sotamiehet, varustetut sinua vastaan, sina Babelin tytar.	</div>
 
-<div class="versenum">43.</div> Kuin Babelin kuningas on kuuleva heidan sanomansa, silloin pitaa hanen katensa maahan putooman; ahdistus pitaa tuleman hanen paallensa, niinkuin synnyttavaisen vaiva.	
+<div class="theverse"><div class="versenum">43.</div> Kuin Babelin kuningas on kuuleva heidan sanomansa, silloin pitaa hanen katensa maahan putooman; ahdistus pitaa tuleman hanen paallensa, niinkuin synnyttavaisen vaiva.	</div>
 
-<div class="versenum">44.</div> Katso, han nousee ylos niinkuin jalopeura ylpeasta Jordanista vahvoja majoja vastaan, silla mina annan hanen nopiasti juosta sielta; ja kuka tietaa sen nuorukaisen, jonka mina olen varustava heita vastaan? Silla kuka on minun vertaiseni? kuka tahtoo minulle ajan maarata? ja kuka on se paimen, joka voi olla minua vastaan?	
+<div class="theverse"><div class="versenum">44.</div> Katso, han nousee ylos niinkuin jalopeura ylpeasta Jordanista vahvoja majoja vastaan, silla mina annan hanen nopiasti juosta sielta; ja kuka tietaa sen nuorukaisen, jonka mina olen varustava heita vastaan? Silla kuka on minun vertaiseni? kuka tahtoo minulle ajan maarata? ja kuka on se paimen, joka voi olla minua vastaan?	</div>
 
-<div class="versenum">45.</div> Kuulkaat siis nyt Herran neuvoa, jonka han piti Babelista, ja hanen ajatuksiansa, jotka han ajatteli Kaldean maan asuvaisista: mitamaks etta karjalaisten pitaa riepoittaman heita, ja kukistaman heidan asumansa.	
+<div class="theverse"><div class="versenum">45.</div> Kuulkaat siis nyt Herran neuvoa, jonka han piti Babelista, ja hanen ajatuksiansa, jotka han ajatteli Kaldean maan asuvaisista: mitamaks etta karjalaisten pitaa riepoittaman heita, ja kukistaman heidan asumansa.	</div>
 
-<div class="versenum">46.</div> Ja maan pitaa vapiseman riekunasta, ja pitaa kuuluman pakanain seassa, kuin Babel voitetaan.	
+<div class="theverse"><div class="versenum">46.</div> Ja maan pitaa vapiseman riekunasta, ja pitaa kuuluman pakanain seassa, kuin Babel voitetaan.	</div>
 </body>
 </html>

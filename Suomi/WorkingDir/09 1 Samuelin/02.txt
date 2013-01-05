@@ -4,76 +4,76 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 2	</div>
 	
-<div class="versenum">1.</div> Ja Hanna rukoili ja sanoi: minun sydameni riemuitsee Herrassa, minun sarveni on ylennetty Herrassa. Minun suuni on levialta auvennut minun vihollisteni ylitse; silla mina riemuitsen sinun autuudestas.	
+<div class="theverse"><div class="versenum">1.</div> Ja Hanna rukoili ja sanoi: minun sydameni riemuitsee Herrassa, minun sarveni on ylennetty Herrassa. Minun suuni on levialta auvennut minun vihollisteni ylitse; silla mina riemuitsen sinun autuudestas.	</div>
 
-<div class="versenum">2.</div> Ei kenkaan niin pyha ole kuin Herra; silla ei yksikaan ole paitsi sinua, ja ei yhtaan kalliota ole niinkuin meidan Jumalamme.	
+<div class="theverse"><div class="versenum">2.</div> Ei kenkaan niin pyha ole kuin Herra; silla ei yksikaan ole paitsi sinua, ja ei yhtaan kalliota ole niinkuin meidan Jumalamme.	</div>
 
-<div class="versenum">3.</div> Lakatkaat suuresta kerskaamisestanne, pankaat pois teidan suustanne se vanha; silla Herra on kaikkitietava Jumala, ja ei anna senkaltaisia aivoituksia menestya.	
+<div class="theverse"><div class="versenum">3.</div> Lakatkaat suuresta kerskaamisestanne, pankaat pois teidan suustanne se vanha; silla Herra on kaikkitietava Jumala, ja ei anna senkaltaisia aivoituksia menestya.	</div>
 
-<div class="versenum">4.</div> Vakevain joutset ovat sarjetyt, ja heikot ovat vakevyydella vyotetyt.	
+<div class="theverse"><div class="versenum">4.</div> Vakevain joutset ovat sarjetyt, ja heikot ovat vakevyydella vyotetyt.	</div>
 
-<div class="versenum">5.</div> Jotka ennen ravitut olivat, ne ovat itsensa myyneet leivan edesta, jotka nalkaa karsivat, ei silleen isoa, siihen asti etta hedelmatoin seitseman synnytti, ja jolla monta lasta oli, tuli heikoksi.	
+<div class="theverse"><div class="versenum">5.</div> Jotka ennen ravitut olivat, ne ovat itsensa myyneet leivan edesta, jotka nalkaa karsivat, ei silleen isoa, siihen asti etta hedelmatoin seitseman synnytti, ja jolla monta lasta oli, tuli heikoksi.	</div>
 
-<div class="versenum">6.</div> Herra kuolettaa ja virvoittaa, vie suureen ahdistukseen ja siita ulos jalleen.	
+<div class="theverse"><div class="versenum">6.</div> Herra kuolettaa ja virvoittaa, vie suureen ahdistukseen ja siita ulos jalleen.	</div>
 
-<div class="versenum">7.</div> Herra tekee koyhaksi ja rikkaaksi, han alentaa ja ylentaa.	
+<div class="theverse"><div class="versenum">7.</div> Herra tekee koyhaksi ja rikkaaksi, han alentaa ja ylentaa.	</div>
 
-<div class="versenum">8.</div> Han nostaa tomusta koyhan ja ylentaa vaivaisen loasta, istuttaaksensa hanta paamiesten sekaan ja antaaksensa hanen kunnian istuimen peria; silla maan perustukset ovat Herran, ja maan piirin on han asettanut niiden paalle.	
+<div class="theverse"><div class="versenum">8.</div> Han nostaa tomusta koyhan ja ylentaa vaivaisen loasta, istuttaaksensa hanta paamiesten sekaan ja antaaksensa hanen kunnian istuimen peria; silla maan perustukset ovat Herran, ja maan piirin on han asettanut niiden paalle.	</div>
 
-<div class="versenum">9.</div> Han varjelee pyhain jalat, mutta jumalattomat pitaa vaikenemaan pimeydessa; silla oma suuri voima ei mitaan auta.	
+<div class="theverse"><div class="versenum">9.</div> Han varjelee pyhain jalat, mutta jumalattomat pitaa vaikenemaan pimeydessa; silla oma suuri voima ei mitaan auta.	</div>
 
-<div class="versenum">10.</div> Ne, jotka riitelevat Herran kanssa, pitaa muserrettaman rikki, han jylisee taivaassa heidan ylitsensa. Herra tuomitsee maan aaret, ja antaa kuninkaallensa vakevyyden, ja ylentaa voideltunsa sarven.	
+<div class="theverse"><div class="versenum">10.</div> Ne, jotka riitelevat Herran kanssa, pitaa muserrettaman rikki, han jylisee taivaassa heidan ylitsensa. Herra tuomitsee maan aaret, ja antaa kuninkaallensa vakevyyden, ja ylentaa voideltunsa sarven.	</div>
 
-<div class="versenum">11.</div> Ja Elkana meni Ramaan huoneesensa; vaan nuorukainen palveli Herraa papin Elin edessa.	
+<div class="theverse"><div class="versenum">11.</div> Ja Elkana meni Ramaan huoneesensa; vaan nuorukainen palveli Herraa papin Elin edessa.	</div>
 
-<div class="versenum">12.</div> Mutta Elin pojat olivat ilkiat ja ei totelleet Herraa,	
+<div class="theverse"><div class="versenum">12.</div> Mutta Elin pojat olivat ilkiat ja ei totelleet Herraa,	</div>
 
-<div class="versenum">13.</div> Eika myos pappein oikeutta kansan edessa: kuin joku uhrin uhrasi, tuli papin palvelia, kuin liha keitettiin, ja oli kolmehaarainen hanko kadessa,	
+<div class="theverse"><div class="versenum">13.</div> Eika myos pappein oikeutta kansan edessa: kuin joku uhrin uhrasi, tuli papin palvelia, kuin liha keitettiin, ja oli kolmehaarainen hanko kadessa,	</div>
 
-<div class="versenum">14.</div> Ja pisti sen kattilaan, eli pataan, eli kruusiin, eli pannuun, ja kaikki mita han veti ylos hangolla, sen pappi otti siita; ja niin tekivat he kaikelle Israelille, jotka tulivat sinne Siloon.	
+<div class="theverse"><div class="versenum">14.</div> Ja pisti sen kattilaan, eli pataan, eli kruusiin, eli pannuun, ja kaikki mita han veti ylos hangolla, sen pappi otti siita; ja niin tekivat he kaikelle Israelille, jotka tulivat sinne Siloon.	</div>
 
-<div class="versenum">15.</div> Niin myos ennenkuin he polttivat lihavuuden, tuli papin palvelia ja sanoi niille, jotka uhria kantoivat: anna lihaa paistettaa papille, silla ei han ota keitettya lihaa sinulta vaan uutta.	
+<div class="theverse"><div class="versenum">15.</div> Niin myos ennenkuin he polttivat lihavuuden, tuli papin palvelia ja sanoi niille, jotka uhria kantoivat: anna lihaa paistettaa papille, silla ei han ota keitettya lihaa sinulta vaan uutta.	</div>
 
-<div class="versenum">16.</div> Kuin joku sanoi hanelle: polttakaat lihavuus tanapana niinkuin pitaa, ota sitte sinulles, mita sydames himoitsee. Niin sanoi han hanelle: nyt pitaa sinun antaman, jolles anna, niin mina otan vakisin.	
+<div class="theverse"><div class="versenum">16.</div> Kuin joku sanoi hanelle: polttakaat lihavuus tanapana niinkuin pitaa, ota sitte sinulles, mita sydames himoitsee. Niin sanoi han hanelle: nyt pitaa sinun antaman, jolles anna, niin mina otan vakisin.	</div>
 
-<div class="versenum">17.</div> Ja sentahden oli nuorukaisten rikos sangen suuri Herran edessa; silla kansa katsoi Herran ruokauhrin ylon.	
+<div class="theverse"><div class="versenum">17.</div> Ja sentahden oli nuorukaisten rikos sangen suuri Herran edessa; silla kansa katsoi Herran ruokauhrin ylon.	</div>
 
-<div class="versenum">18.</div> Mutta Samuel palveli Herran edessa, ja nuorukainen oli vyotetty liinaisella paallisvaatteella.	
+<div class="theverse"><div class="versenum">18.</div> Mutta Samuel palveli Herran edessa, ja nuorukainen oli vyotetty liinaisella paallisvaatteella.	</div>
 
-<div class="versenum">19.</div> Ja hanen aitinsa oli tehnyt hanelle vahan hameen, ja vei sen hanelle joka vuosi, kuin han meni ylos miehensa kanssa uhraamaan vuosiuhria.	
+<div class="theverse"><div class="versenum">19.</div> Ja hanen aitinsa oli tehnyt hanelle vahan hameen, ja vei sen hanelle joka vuosi, kuin han meni ylos miehensa kanssa uhraamaan vuosiuhria.	</div>
 
-<div class="versenum">20.</div> Ja Eli siunasi Elkanan ja hanen emantansa ja sanoi: Herra antakoon sinulle siemenen tasta vaimosta sen rukouksen tahden, jonka han on rukoillut Herralta; ja he menivat siallensa.	
+<div class="theverse"><div class="versenum">20.</div> Ja Eli siunasi Elkanan ja hanen emantansa ja sanoi: Herra antakoon sinulle siemenen tasta vaimosta sen rukouksen tahden, jonka han on rukoillut Herralta; ja he menivat siallensa.	</div>
 
-<div class="versenum">21.</div> Ja Herra oppi Hannaa, ja han tuli raskaaksi ja synnytti kolme poikaa ja kaksi tytarta; ja nuorukainen Samuel kasvoi Herran edessa.	
+<div class="theverse"><div class="versenum">21.</div> Ja Herra oppi Hannaa, ja han tuli raskaaksi ja synnytti kolme poikaa ja kaksi tytarta; ja nuorukainen Samuel kasvoi Herran edessa.	</div>
 
-<div class="versenum">22.</div> Mutta Eli oli juuri vanha, ja kuuli, mita hanen poikansa tekivat kaikelle Israelille ja etta he makasivat vaimoin kanssa, jotka palvelivat seurakunnan majan ovella,	
+<div class="theverse"><div class="versenum">22.</div> Mutta Eli oli juuri vanha, ja kuuli, mita hanen poikansa tekivat kaikelle Israelille ja etta he makasivat vaimoin kanssa, jotka palvelivat seurakunnan majan ovella,	</div>
 
-<div class="versenum">23.</div> Ja sanoi heille: miksi te teette senkaltaisia? silla mina kuulen teidan pahoja tekojanne kaikelta talta kansalta.	
+<div class="theverse"><div class="versenum">23.</div> Ja sanoi heille: miksi te teette senkaltaisia? silla mina kuulen teidan pahoja tekojanne kaikelta talta kansalta.	</div>
 
-<div class="versenum">24.</div> Ei niin, minun poikani! ei ole se hyva sanoma, jonka mina kuulen, etta te saatatte Herran kansan syntia tekemaan.	
+<div class="theverse"><div class="versenum">24.</div> Ei niin, minun poikani! ei ole se hyva sanoma, jonka mina kuulen, etta te saatatte Herran kansan syntia tekemaan.	</div>
 
-<div class="versenum">25.</div> Jos joku rikkoo ihmista vastaan, niin tuomarit sen sovittavat; mutta jos joku rikkoo Herraa vastaan, kuka sen edesta rukoilee? Ja ei he kuulleet Isansa aanta, sentahden Herra tahtoi heidat tappaa.	
+<div class="theverse"><div class="versenum">25.</div> Jos joku rikkoo ihmista vastaan, niin tuomarit sen sovittavat; mutta jos joku rikkoo Herraa vastaan, kuka sen edesta rukoilee? Ja ei he kuulleet Isansa aanta, sentahden Herra tahtoi heidat tappaa.	</div>
 
-<div class="versenum">26.</div> Mutta nuorukainen Samuel vaelsi ja kasvoi, ja oli otollinen seka Herran etta ihmisten edessa.	
+<div class="theverse"><div class="versenum">26.</div> Mutta nuorukainen Samuel vaelsi ja kasvoi, ja oli otollinen seka Herran etta ihmisten edessa.	</div>
 
-<div class="versenum">27.</div> Ja Jumalan mies tuli Elin tyko ja sanoi hanelle: nain sanoo Herra: enko mina ilmeisesti ilmoittanut minuani sinun isas huoneelle, kuin he viela olivat Egyptissa Pharaon huoneessa?	
+<div class="theverse"><div class="versenum">27.</div> Ja Jumalan mies tuli Elin tyko ja sanoi hanelle: nain sanoo Herra: enko mina ilmeisesti ilmoittanut minuani sinun isas huoneelle, kuin he viela olivat Egyptissa Pharaon huoneessa?	</div>
 
-<div class="versenum">28.</div> Ja mina valitsin hanen minulle papiksi kaikista Israelin sukukunnista uhraamaan minun alttarilleni, ja sytyttamaan suitsutusta, ja kantamaan paallisvaatetta minun edessani: ja mina olen antanut sinun isas huoneelle kaikki Israelin lasten tulet.	
+<div class="theverse"><div class="versenum">28.</div> Ja mina valitsin hanen minulle papiksi kaikista Israelin sukukunnista uhraamaan minun alttarilleni, ja sytyttamaan suitsutusta, ja kantamaan paallisvaatetta minun edessani: ja mina olen antanut sinun isas huoneelle kaikki Israelin lasten tulet.	</div>
 
-<div class="versenum">29.</div> Miksi siis te potkitte minun uhriani vastaan ja ruokauhriani, jonka mina olen kaskenyt uhrata seurakunnan majassa, ja enemman kunnioitit poikias kuin minua, lihoittaaksenne teitanne kaikista minun kansani Israelin ruokauhrein uutisista?	
+<div class="theverse"><div class="versenum">29.</div> Miksi siis te potkitte minun uhriani vastaan ja ruokauhriani, jonka mina olen kaskenyt uhrata seurakunnan majassa, ja enemman kunnioitit poikias kuin minua, lihoittaaksenne teitanne kaikista minun kansani Israelin ruokauhrein uutisista?	</div>
 
-<div class="versenum">30.</div> Sentahden sanoo Herra Israelin Jumala: mina olen vakaisesti puhunut, etta sinun huonees ja sinun isas huone pitaa vaeltaman minun edessani ijankaikkisesti; mutta nyt sanoo Herra: olkoon se kaukana minusta: silla jotka minua kunnioittavat, niita mina tahdon kunnioittaa, vaan jotka minua katsovat ylon, ne pitaa katsottaman ylon.	
+<div class="theverse"><div class="versenum">30.</div> Sentahden sanoo Herra Israelin Jumala: mina olen vakaisesti puhunut, etta sinun huonees ja sinun isas huone pitaa vaeltaman minun edessani ijankaikkisesti; mutta nyt sanoo Herra: olkoon se kaukana minusta: silla jotka minua kunnioittavat, niita mina tahdon kunnioittaa, vaan jotka minua katsovat ylon, ne pitaa katsottaman ylon.	</div>
 
-<div class="versenum">31.</div> Katso, se aika tulee, etta mina murran sinun kasivartes ja sinun isas huoneen kasivarren, ettei yksikaan vanha pida sinun huoneessas oleman.	
+<div class="theverse"><div class="versenum">31.</div> Katso, se aika tulee, etta mina murran sinun kasivartes ja sinun isas huoneen kasivarren, ettei yksikaan vanha pida sinun huoneessas oleman.	</div>
 
-<div class="versenum">32.</div> Ja sinun pitaa nakeman sinun vastaanseisojas majassa, kaikessa hyvyydessa, mika Israelille tapahtuu; ja ei yksikaan vanha pida oleman sinun huoneessas ijankaikkisesti.	
+<div class="theverse"><div class="versenum">32.</div> Ja sinun pitaa nakeman sinun vastaanseisojas majassa, kaikessa hyvyydessa, mika Israelille tapahtuu; ja ei yksikaan vanha pida oleman sinun huoneessas ijankaikkisesti.	</div>
 
-<div class="versenum">33.</div> En mina kuitenkaan havita kaikkia lapsias minun alttariltani, etta mina kulutan sinun silmas, ja sinun sielus murheesen saatan; mutta kaikki sinun huonees paljous pitaa kuoleman, kuin ne ovat mieheksi tulleet.	
+<div class="theverse"><div class="versenum">33.</div> En mina kuitenkaan havita kaikkia lapsias minun alttariltani, etta mina kulutan sinun silmas, ja sinun sielus murheesen saatan; mutta kaikki sinun huonees paljous pitaa kuoleman, kuin ne ovat mieheksi tulleet.	</div>
 
-<div class="versenum">34.</div> Ja tama pitaa oleman sinulle merkiksi, mika sinun poikais Hophnin ja Pinehaan paalle pitaa tuleman: yhtena paivana pitaa molemmat kuoleman.	
+<div class="theverse"><div class="versenum">34.</div> Ja tama pitaa oleman sinulle merkiksi, mika sinun poikais Hophnin ja Pinehaan paalle pitaa tuleman: yhtena paivana pitaa molemmat kuoleman.	</div>
 
-<div class="versenum">35.</div> Ja mina heratan minulleni uskollisen papin: se tekee niinkuin minun sydamessani ja mielessani on. Ja mina rakennan hanelle vahvan huoneen, vaeltaaksensa minun voideltuni edessa hanen elinaikanansa.	
+<div class="theverse"><div class="versenum">35.</div> Ja mina heratan minulleni uskollisen papin: se tekee niinkuin minun sydamessani ja mielessani on. Ja mina rakennan hanelle vahvan huoneen, vaeltaaksensa minun voideltuni edessa hanen elinaikanansa.	</div>
 
-<div class="versenum">36.</div> Ja tapahtuu, etta se joka jaa jalkeen sinun huoneeses, pitaa tuleman ja kumartaman hanta hopiapenningin ja leivan kappaleen edesta, ja pitaa sanoman: paasta minua nyt yhden papin osaan, etta mina saisin syoda palan leipaa.	
+<div class="theverse"><div class="versenum">36.</div> Ja tapahtuu, etta se joka jaa jalkeen sinun huoneeses, pitaa tuleman ja kumartaman hanta hopiapenningin ja leivan kappaleen edesta, ja pitaa sanoman: paasta minua nyt yhden papin osaan, etta mina saisin syoda palan leipaa.	</div>
 </body>
 </html>

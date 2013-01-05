@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Efesolaisille 2	</div>
 	
-<div class="versenum">1.</div> Ja myos (heratti) teidat, kuin te kuolleet olitte ylitsekaymisten ja syntein tahden,	
+<div class="theverse"><div class="versenum">1.</div> Ja myos (heratti) teidat, kuin te kuolleet olitte ylitsekaymisten ja syntein tahden,	</div>
 
-<div class="versenum">2.</div> Joissa te muinen vaelsitte, taman maailman juoksun jalkeen ja sen paaruhtinaan, jolla tuulessa valta on, nimittain sen hengen jalkeen, joka nyt epauskoisissa lapsissa vaikuttaa,	
+<div class="theverse"><div class="versenum">2.</div> Joissa te muinen vaelsitte, taman maailman juoksun jalkeen ja sen paaruhtinaan, jolla tuulessa valta on, nimittain sen hengen jalkeen, joka nyt epauskoisissa lapsissa vaikuttaa,	</div>
 
-<div class="versenum">3.</div> Joiden seassa me myos kaikki muinen meidan lihamme himoissa vaelsimme ja teimme lihan ja toimen tahdon jalkeen, ja me olimme luonnostamme vihan lapset niinkuin muutkin.	
+<div class="theverse"><div class="versenum">3.</div> Joiden seassa me myos kaikki muinen meidan lihamme himoissa vaelsimme ja teimme lihan ja toimen tahdon jalkeen, ja me olimme luonnostamme vihan lapset niinkuin muutkin.	</div>
 
-<div class="versenum">4.</div> Mutta Jumala, joka rikas on laupiudesta, suuren rakkautensa tahden, jolla han on meita rakastanut,	
+<div class="theverse"><div class="versenum">4.</div> Mutta Jumala, joka rikas on laupiudesta, suuren rakkautensa tahden, jolla han on meita rakastanut,	</div>
 
-<div class="versenum">5.</div> Ja kuin me viela synnissa kuolleet olimme, on han meita Kristuksen kanssa elavaksi tehnyt; (silla armosta olette te autuaiksi tulleet:)	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin me viela synnissa kuolleet olimme, on han meita Kristuksen kanssa elavaksi tehnyt; (silla armosta olette te autuaiksi tulleet:)	</div>
 
-<div class="versenum">6.</div> Ja on meidat ynna hanen kanssansa herattanyt, ja istuttanut taivaallisiin menoihin Kristuksessa Jesuksessa,	
+<div class="theverse"><div class="versenum">6.</div> Ja on meidat ynna hanen kanssansa herattanyt, ja istuttanut taivaallisiin menoihin Kristuksessa Jesuksessa,	</div>
 
-<div class="versenum">7.</div> Etta han tulevaisilla ajoilla ylonpalttisen armonsa rikkauden hyvyydestansa meidan kohtaamme Kristuksessa Jesuksessa osoittais.	
+<div class="theverse"><div class="versenum">7.</div> Etta han tulevaisilla ajoilla ylonpalttisen armonsa rikkauden hyvyydestansa meidan kohtaamme Kristuksessa Jesuksessa osoittais.	</div>
 
-<div class="versenum">8.</div> Silla armosta te olette autuaiksi tulleet, uskon kautta, ja ette itse teissanne: Jumalan lahja se on:	
+<div class="theverse"><div class="versenum">8.</div> Silla armosta te olette autuaiksi tulleet, uskon kautta, ja ette itse teissanne: Jumalan lahja se on:	</div>
 
-<div class="versenum">9.</div> Ei toista, ettei yksikaan kerskaisi.	
+<div class="theverse"><div class="versenum">9.</div> Ei toista, ettei yksikaan kerskaisi.	</div>
 
-<div class="versenum">10.</div> Silla me olemme hanen tekonsa, luodut Kristuksessa Jesuksessa hyviin toihin, joihin Jumala meidat on jo ennen vaeltamaan valmistanut.	
+<div class="theverse"><div class="versenum">10.</div> Silla me olemme hanen tekonsa, luodut Kristuksessa Jesuksessa hyviin toihin, joihin Jumala meidat on jo ennen vaeltamaan valmistanut.	</div>
 
-<div class="versenum">11.</div> Sentahden muistakaat, etta te olitte muinen pakanat lihan jalkeen, ja niilta kutsuttiin esinahaksi, jotka lihan jalkeen ymparileikkaukseksi kutsuttiin, joka kasilla tehdaan,	
+<div class="theverse"><div class="versenum">11.</div> Sentahden muistakaat, etta te olitte muinen pakanat lihan jalkeen, ja niilta kutsuttiin esinahaksi, jotka lihan jalkeen ymparileikkaukseksi kutsuttiin, joka kasilla tehdaan,	</div>
 
-<div class="versenum">12.</div> Etta te siihen aikaan ilman Kristusta olitte muukalaiset Israelin kylakunnasta, ja vieraat lupauksen Testamentista, ja ei teilla toivoakaan ollut, ja olitte maailmassa ilman Jumalaa;	
+<div class="theverse"><div class="versenum">12.</div> Etta te siihen aikaan ilman Kristusta olitte muukalaiset Israelin kylakunnasta, ja vieraat lupauksen Testamentista, ja ei teilla toivoakaan ollut, ja olitte maailmassa ilman Jumalaa;	</div>
 
-<div class="versenum">13.</div> Mutta nyt te Kristuksessa Jesuksessa olette. Jotka muinen taampana olitte, nyt te Kristuksen veren kautta olette lahes paasseet;	
+<div class="theverse"><div class="versenum">13.</div> Mutta nyt te Kristuksessa Jesuksessa olette. Jotka muinen taampana olitte, nyt te Kristuksen veren kautta olette lahes paasseet;	</div>
 
-<div class="versenum">14.</div> Silla han on meidan rauhamme, joka molemmista on yhden tehnyt ja vaihe-aidan sarkenyt,	
+<div class="theverse"><div class="versenum">14.</div> Silla han on meidan rauhamme, joka molemmista on yhden tehnyt ja vaihe-aidan sarkenyt,	</div>
 
-<div class="versenum">15.</div> Etta han lihansa kautta vihan otti pois, nimittain lain, joka kaskyihin paatetty oli; etta han kahdesta yhden uuden ihmisen lois itsessansa, ja tekis rauhan,	
+<div class="theverse"><div class="versenum">15.</div> Etta han lihansa kautta vihan otti pois, nimittain lain, joka kaskyihin paatetty oli; etta han kahdesta yhden uuden ihmisen lois itsessansa, ja tekis rauhan,	</div>
 
-<div class="versenum">16.</div> Ja etta han ne molemmat Jumalan kanssa yhdessa ruumiissa ristin kautta sovittais, ja on vihan itse kauttansa kuolettanut,	
+<div class="theverse"><div class="versenum">16.</div> Ja etta han ne molemmat Jumalan kanssa yhdessa ruumiissa ristin kautta sovittais, ja on vihan itse kauttansa kuolettanut,	</div>
 
-<div class="versenum">17.</div> Ja on tullut evankeliumin kautta rauhaa ilmoittamaan teille, jotka taampana olitte, ja niille, jotka lasna olivat.	
+<div class="theverse"><div class="versenum">17.</div> Ja on tullut evankeliumin kautta rauhaa ilmoittamaan teille, jotka taampana olitte, ja niille, jotka lasna olivat.	</div>
 
-<div class="versenum">18.</div> Silla hanen kauttansa me molemmin yhdessa hengessa saamme Isaa lahestya.	
+<div class="theverse"><div class="versenum">18.</div> Silla hanen kauttansa me molemmin yhdessa hengessa saamme Isaa lahestya.	</div>
 
-<div class="versenum">19.</div> Niin ettepa te silleen ole vieraat ja muukalaiset, vaan pyhain kylanmiehet ja Jumalan perhe,	
+<div class="theverse"><div class="versenum">19.</div> Niin ettepa te silleen ole vieraat ja muukalaiset, vaan pyhain kylanmiehet ja Jumalan perhe,	</div>
 
-<div class="versenum">20.</div> Apostolein ja prophetain perustuksen paalle rakennetut, jossa Jesus Kristus paras kulmakivi on,	
+<div class="theverse"><div class="versenum">20.</div> Apostolein ja prophetain perustuksen paalle rakennetut, jossa Jesus Kristus paras kulmakivi on,	</div>
 
-<div class="versenum">21.</div> Jonka paalle kaikki rakennus toinen toiseensa liitetaan ja kasvaa pyhaksi templiksi Herrassa,	
+<div class="theverse"><div class="versenum">21.</div> Jonka paalle kaikki rakennus toinen toiseensa liitetaan ja kasvaa pyhaksi templiksi Herrassa,	</div>
 
-<div class="versenum">22.</div> Jonka paalle te myos rakennetaan Jumalalle asuinsiaksi Hengessa.	
+<div class="theverse"><div class="versenum">22.</div> Jonka paalle te myos rakennetaan Jumalalle asuinsiaksi Hengessa.	</div>
 </body>
 </html>

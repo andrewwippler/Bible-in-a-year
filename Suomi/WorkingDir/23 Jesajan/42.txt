@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Jesajan 42	</div>
 	
-<div class="versenum">1.</div> Katso, minun palveliani, mina hanta tuen, ja minun valittuni, jossa minun sieluni mielistyi. Mina olen hanelle minun Henkeni antanut, hanen pitaa oikeuden saattaman pakanoille.	
+<div class="theverse"><div class="versenum">1.</div> Katso, minun palveliani, mina hanta tuen, ja minun valittuni, jossa minun sieluni mielistyi. Mina olen hanelle minun Henkeni antanut, hanen pitaa oikeuden saattaman pakanoille.	</div>
 
-<div class="versenum">2.</div> Ei han huuda, eika riitele, ja hanen aantansa ei kuulla kaduilla.	
+<div class="theverse"><div class="versenum">2.</div> Ei han huuda, eika riitele, ja hanen aantansa ei kuulla kaduilla.	</div>
 
-<div class="versenum">3.</div> Sarjettya ruokoa ei hanen pida murentaman, ja suitsevaista kynttilan sydanta ei pida hanen sammuttaman; han saattaa oikeuden totuudella.	
+<div class="theverse"><div class="versenum">3.</div> Sarjettya ruokoa ei hanen pida murentaman, ja suitsevaista kynttilan sydanta ei pida hanen sammuttaman; han saattaa oikeuden totuudella.	</div>
 
-<div class="versenum">4.</div> Ei hanen pida nurjan eika hirmuisen oleman, silla hanen pitaa oikeuden maan paalle saataman; ja luodotkin pitaa hanen lakiansa odottaman.	
+<div class="theverse"><div class="versenum">4.</div> Ei hanen pida nurjan eika hirmuisen oleman, silla hanen pitaa oikeuden maan paalle saataman; ja luodotkin pitaa hanen lakiansa odottaman.	</div>
 
-<div class="versenum">5.</div> Naita sanoo Herra Jumala, joka luo taivaat, ja venyttaa ne, joka levittaa maan, ja hanen kasvonsa; joka kansalle, joka sen paalla on, hengittamisen antaa, ja hengen niille, jotka siina kayvat.	
+<div class="theverse"><div class="versenum">5.</div> Naita sanoo Herra Jumala, joka luo taivaat, ja venyttaa ne, joka levittaa maan, ja hanen kasvonsa; joka kansalle, joka sen paalla on, hengittamisen antaa, ja hengen niille, jotka siina kayvat.	</div>
 
-<div class="versenum">6.</div> Mina Herra olen sinun kutsunut vanhurskaudessa, ja rupesin sinun katees, ja varjelin sinua, ja olen sinun antanut kansoille liitoksi ja pakanoille valkeudeksi.	
+<div class="theverse"><div class="versenum">6.</div> Mina Herra olen sinun kutsunut vanhurskaudessa, ja rupesin sinun katees, ja varjelin sinua, ja olen sinun antanut kansoille liitoksi ja pakanoille valkeudeksi.	</div>
 
-<div class="versenum">7.</div> Avaamaan sokiain silmia, ja vankeja pelastamaan vankeudesta, ja tornista niita, jotka pimeydessa istuvat.	
+<div class="theverse"><div class="versenum">7.</div> Avaamaan sokiain silmia, ja vankeja pelastamaan vankeudesta, ja tornista niita, jotka pimeydessa istuvat.	</div>
 
-<div class="versenum">8.</div> Mina Herra, se on minun nimeni: en mina anna toiselle kunniaani, enka ylistystani epajumalille.	
+<div class="theverse"><div class="versenum">8.</div> Mina Herra, se on minun nimeni: en mina anna toiselle kunniaani, enka ylistystani epajumalille.	</div>
 
-<div class="versenum">9.</div> Katso, entiset ovat tapahtuneet, ja vastuutista mina ilmoitan; ennenkuin se tapahtuu, annan mina teidan sen kuulla.	
+<div class="theverse"><div class="versenum">9.</div> Katso, entiset ovat tapahtuneet, ja vastuutista mina ilmoitan; ennenkuin se tapahtuu, annan mina teidan sen kuulla.	</div>
 
-<div class="versenum">10.</div> Veisatkaat Herralle uutta veisua; hanen ylistyksensa on maailman aaresta, jotka meressa vaellatte, ja mita siina on, luodot, ja jotka niissa asutte.	
+<div class="theverse"><div class="versenum">10.</div> Veisatkaat Herralle uutta veisua; hanen ylistyksensa on maailman aaresta, jotka meressa vaellatte, ja mita siina on, luodot, ja jotka niissa asutte.	</div>
 
-<div class="versenum">11.</div> Huutakaat korkiasti, te korvet ja kaupungit niissa, ja ne kylat, joissa Kedar asuu; riemuitkaan ne, jotka kallioissa asuvat, ja huutakaan vuorten kukkuloilta.	
+<div class="theverse"><div class="versenum">11.</div> Huutakaat korkiasti, te korvet ja kaupungit niissa, ja ne kylat, joissa Kedar asuu; riemuitkaan ne, jotka kallioissa asuvat, ja huutakaan vuorten kukkuloilta.	</div>
 
-<div class="versenum">12.</div> Antakaan Herralle kunnia, ja hanen nimensa luodoissa ilmoittakaan.	
+<div class="theverse"><div class="versenum">12.</div> Antakaan Herralle kunnia, ja hanen nimensa luodoissa ilmoittakaan.	</div>
 
-<div class="versenum">13.</div> Herra kay niinkuin sankari ulos, han herattaa kiivautensa niinkuin sotamies; han riemuitsee ja huutaa, han voittaa vihollisensa.	
+<div class="theverse"><div class="versenum">13.</div> Herra kay niinkuin sankari ulos, han herattaa kiivautensa niinkuin sotamies; han riemuitsee ja huutaa, han voittaa vihollisensa.	</div>
 
-<div class="versenum">14.</div> Vanhasta mina olen vaiti ollut, olin hiljainen ja pidatin itseni; mutta nyt mina tahdon huutaa niinkuin synnyttaja, mina tahdon havittaa ja kaikki niella.	
+<div class="theverse"><div class="versenum">14.</div> Vanhasta mina olen vaiti ollut, olin hiljainen ja pidatin itseni; mutta nyt mina tahdon huutaa niinkuin synnyttaja, mina tahdon havittaa ja kaikki niella.	</div>
 
-<div class="versenum">15.</div> Mina havitan vuoret ja kukkulat, ja annan kaikki heidan ruohonsa kuivua; mina teen virrat luodoiksi, ja jarvet kuivaan pois.	
+<div class="theverse"><div class="versenum">15.</div> Mina havitan vuoret ja kukkulat, ja annan kaikki heidan ruohonsa kuivua; mina teen virrat luodoiksi, ja jarvet kuivaan pois.	</div>
 
-<div class="versenum">16.</div> Mutta sokiat mina johdatan sita tieta, jota ei he tieda, mina vien heidat niita polkuja, joita ei he tunne; mina teen heille pimeyden valkeudeksi ja kolian tasaiseksi, naita tahdon mina heille tehda, ja en hylkaa heita.	
+<div class="theverse"><div class="versenum">16.</div> Mutta sokiat mina johdatan sita tieta, jota ei he tieda, mina vien heidat niita polkuja, joita ei he tunne; mina teen heille pimeyden valkeudeksi ja kolian tasaiseksi, naita tahdon mina heille tehda, ja en hylkaa heita.	</div>
 
-<div class="versenum">17.</div> Mutta niiden pitaa kaantyman takaperin, ja hapiaan tuleman, jotka uskaltavat epajumaliin ja sanovat valetuille kuville: te olette meidan Jumalamme.	
+<div class="theverse"><div class="versenum">17.</div> Mutta niiden pitaa kaantyman takaperin, ja hapiaan tuleman, jotka uskaltavat epajumaliin ja sanovat valetuille kuville: te olette meidan Jumalamme.	</div>
 
-<div class="versenum">18.</div> Kuulkaat, te kuurot, ja katsokaat, te sokiat, etta te nakisitte.	
+<div class="theverse"><div class="versenum">18.</div> Kuulkaat, te kuurot, ja katsokaat, te sokiat, etta te nakisitte.	</div>
 
-<div class="versenum">19.</div> Kuka on niin sokia kuin minun palveliani? ja kuka on niin kuuro kuin minun kaskylaiseni, jonka mina lahetan? Kuka on niin sokia kuin se taydellinen? ja niin sokia kuin Herran palvelia?	
+<div class="theverse"><div class="versenum">19.</div> Kuka on niin sokia kuin minun palveliani? ja kuka on niin kuuro kuin minun kaskylaiseni, jonka mina lahetan? Kuka on niin sokia kuin se taydellinen? ja niin sokia kuin Herran palvelia?	</div>
 
-<div class="versenum">20.</div> Sina naet paljon, ja et kuitenkaan pida; korvat ovat avoimet, ja ei kenkaan kuule.	
+<div class="theverse"><div class="versenum">20.</div> Sina naet paljon, ja et kuitenkaan pida; korvat ovat avoimet, ja ei kenkaan kuule.	</div>
 
-<div class="versenum">21.</div> Kuitenkin suo Herra heille hyvaa vanhurskautensa tahden, han tekee lakinsa suureksi ja kunnialliseksi.	
+<div class="theverse"><div class="versenum">21.</div> Kuitenkin suo Herra heille hyvaa vanhurskautensa tahden, han tekee lakinsa suureksi ja kunnialliseksi.	</div>
 
-<div class="versenum">22.</div> Mutta se on raadeltu ja ryostetty kansa; he ovat kaikki saadut kiinni kuopasta, ja vankein huoneeseen lymytetyt; he ovat tehdyt saaliiksi, eika ole yhtaan auttajaa, raadellut, ja ei kuitenkaan sano: tuo ne jalleen.	
+<div class="theverse"><div class="versenum">22.</div> Mutta se on raadeltu ja ryostetty kansa; he ovat kaikki saadut kiinni kuopasta, ja vankein huoneeseen lymytetyt; he ovat tehdyt saaliiksi, eika ole yhtaan auttajaa, raadellut, ja ei kuitenkaan sano: tuo ne jalleen.	</div>
 
-<div class="versenum">23.</div> Kuka on teidan seassanne, joka naita ottaa korviinsa? han havaitkaan ja kuulkaan, mita tastedes tulee.	
+<div class="theverse"><div class="versenum">23.</div> Kuka on teidan seassanne, joka naita ottaa korviinsa? han havaitkaan ja kuulkaan, mita tastedes tulee.	</div>
 
-<div class="versenum">24.</div> Kuka on Jakobin raatelukseksi antanut, ja Israelin ryovareille? Eiko Herra itse, jota vastaan me syntia tehneet olemme? Ja ei he tahtoneet hanen teillansa vaeltaa, eika totelleet hanen lakiansa.	
+<div class="theverse"><div class="versenum">24.</div> Kuka on Jakobin raatelukseksi antanut, ja Israelin ryovareille? Eiko Herra itse, jota vastaan me syntia tehneet olemme? Ja ei he tahtoneet hanen teillansa vaeltaa, eika totelleet hanen lakiansa.	</div>
 
-<div class="versenum">25.</div> Sentahden on han heidan paallensa vuodattanut vihansa hirmuisuuden ja vakevan sodan: ja on heidat sytyttanyt ympari, mutta ei he tunteneet, ja han sytytti heita, mutta ei he sita ottaneet mieleensa.	
+<div class="theverse"><div class="versenum">25.</div> Sentahden on han heidan paallensa vuodattanut vihansa hirmuisuuden ja vakevan sodan: ja on heidat sytyttanyt ympari, mutta ei he tunteneet, ja han sytytti heita, mutta ei he sita ottaneet mieleensa.	</div>
 </body>
 </html>

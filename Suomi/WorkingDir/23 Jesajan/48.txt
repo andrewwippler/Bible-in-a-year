@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Jesajan 48	</div>
 	
-<div class="versenum">1.</div> Kuulkaat tata, te Jakobin huone, te, joita kutsutaan Israelin nimella, ja olette kulkeneet Juudan vedesta, te, jotka vannotte Herran nimeen, ja muistatte Israelin Jumalaa, ei kuitenkaan totuudessa eika vanhurskaudessa.	
+<div class="theverse"><div class="versenum">1.</div> Kuulkaat tata, te Jakobin huone, te, joita kutsutaan Israelin nimella, ja olette kulkeneet Juudan vedesta, te, jotka vannotte Herran nimeen, ja muistatte Israelin Jumalaa, ei kuitenkaan totuudessa eika vanhurskaudessa.	</div>
 
-<div class="versenum">2.</div> Silla he nimittavat itsensa pyhasta kaupungista, ja luottavat Israelin Jumalaan, jonka nimi on Herra Zebaot.	
+<div class="theverse"><div class="versenum">2.</div> Silla he nimittavat itsensa pyhasta kaupungista, ja luottavat Israelin Jumalaan, jonka nimi on Herra Zebaot.	</div>
 
-<div class="versenum">3.</div> Mina olen ennen ilmoittanut tulevaisia, minun suustani on se lahtenyt, ja mina olen antanut sita kuulla, ja teen sen myos akisti, etta se tulee.	
+<div class="theverse"><div class="versenum">3.</div> Mina olen ennen ilmoittanut tulevaisia, minun suustani on se lahtenyt, ja mina olen antanut sita kuulla, ja teen sen myos akisti, etta se tulee.	</div>
 
-<div class="versenum">4.</div> Silla mina tiedan sinun kovaksi, ja sinun niskas on rautasuoni, ja sinun otsas on vaskesta.	
+<div class="theverse"><div class="versenum">4.</div> Silla mina tiedan sinun kovaksi, ja sinun niskas on rautasuoni, ja sinun otsas on vaskesta.	</div>
 
-<div class="versenum">5.</div> Mina olen sen ilmoittanut ennen, ja olen sinun antanut kuulla, ennenkuin se tulikaan, ettes sasnoisi: epajumalani sen tekee, ja kuvani ja epajumalani on sen kaskenyt.	
+<div class="theverse"><div class="versenum">5.</div> Mina olen sen ilmoittanut ennen, ja olen sinun antanut kuulla, ennenkuin se tulikaan, ettes sasnoisi: epajumalani sen tekee, ja kuvani ja epajumalani on sen kaskenyt.	</div>
 
-<div class="versenum">6.</div> Kaikki namat sina kuulit ja nait, ja ette ole sita ilmoittaneet; silla mina olen edella antanut sinun kuulla uusia ja salaisia, joita et sina tietanyt.	
+<div class="theverse"><div class="versenum">6.</div> Kaikki namat sina kuulit ja nait, ja ette ole sita ilmoittaneet; silla mina olen edella antanut sinun kuulla uusia ja salaisia, joita et sina tietanyt.	</div>
 
-<div class="versenum">7.</div> Mutta nyt on se luotu, ja ei siihen aikaan; ja et sina ole kuullut paivaakaan ennen, ettei sinun pitaisi sanoman: katso, sen mina hyvin tiesin;	
+<div class="theverse"><div class="versenum">7.</div> Mutta nyt on se luotu, ja ei siihen aikaan; ja et sina ole kuullut paivaakaan ennen, ettei sinun pitaisi sanoman: katso, sen mina hyvin tiesin;	</div>
 
-<div class="versenum">8.</div> Silla et sina sita kuullut, etka sina tietanyt, ja sinun korvas ei ollut siihen aikaan avattu; silla mina kylla tiesin sinun perati sen katsovan ylon, joka olet nimitetty rikkojaksi sinun aitis kohdusta.	
+<div class="theverse"><div class="versenum">8.</div> Silla et sina sita kuullut, etka sina tietanyt, ja sinun korvas ei ollut siihen aikaan avattu; silla mina kylla tiesin sinun perati sen katsovan ylon, joka olet nimitetty rikkojaksi sinun aitis kohdusta.	</div>
 
-<div class="versenum">9.</div> Minun nimeni tahden olen mina pitkamielinen, ja minun ylistykseni tahden tahdon mina saastaa sinua, ettes tulisi havitetyksi.	
+<div class="theverse"><div class="versenum">9.</div> Minun nimeni tahden olen mina pitkamielinen, ja minun ylistykseni tahden tahdon mina saastaa sinua, ettes tulisi havitetyksi.	</div>
 
-<div class="versenum">10.</div> Katso, mina tahdon koetella sinua, mutta ei niinkuin hopiata, vaan mina teen sinun valituksi murheen patsissa.	
+<div class="theverse"><div class="versenum">10.</div> Katso, mina tahdon koetella sinua, mutta ei niinkuin hopiata, vaan mina teen sinun valituksi murheen patsissa.	</div>
 
-<div class="versenum">11.</div> Minun tahteni, tosin minun tahteni tahdon mina tehda, etten mina havaistyksi tulisi; silla en mina anna kunniatani toiselle.	
+<div class="theverse"><div class="versenum">11.</div> Minun tahteni, tosin minun tahteni tahdon mina tehda, etten mina havaistyksi tulisi; silla en mina anna kunniatani toiselle.	</div>
 
-<div class="versenum">12.</div> Kuule minua, Jakob, ja sina minun kutsuttuni Israel: mina olen, mina olen ensimmainen ja viimeinen.	
+<div class="theverse"><div class="versenum">12.</div> Kuule minua, Jakob, ja sina minun kutsuttuni Israel: mina olen, mina olen ensimmainen ja viimeinen.	</div>
 
-<div class="versenum">13.</div> Minun kateni on myos perustanut maan ja minun oikia kateni on kammenella mitannut taivaan: mita mina kutsun, se on kohta valmis.	
+<div class="theverse"><div class="versenum">13.</div> Minun kateni on myos perustanut maan ja minun oikia kateni on kammenella mitannut taivaan: mita mina kutsun, se on kohta valmis.	</div>
 
-<div class="versenum">14.</div> Kootkaat teitanne kaiki ja kuulkaat, kuka on heidan seassansa naita ilmoittanut? Herra rakastaa hanta, sentahden on han osoittava tahtonsa Babelissa, ja kasivartensa Kaldealaisissa.	
+<div class="theverse"><div class="versenum">14.</div> Kootkaat teitanne kaiki ja kuulkaat, kuka on heidan seassansa naita ilmoittanut? Herra rakastaa hanta, sentahden on han osoittava tahtonsa Babelissa, ja kasivartensa Kaldealaisissa.	</div>
 
-<div class="versenum">15.</div> Mina, mina olen sen sanonut; mina olen hanen kutsunut, ja hanen johdattanut, ja hanen tiensa menestyy hanelle.	
+<div class="theverse"><div class="versenum">15.</div> Mina, mina olen sen sanonut; mina olen hanen kutsunut, ja hanen johdattanut, ja hanen tiensa menestyy hanelle.	</div>
 
-<div class="versenum">16.</div> Tulkaat tanne minun tykoni, ja kuulkaat tata: en mina ole ennen salaa puhunut, siita ajasta, kuin se oli puhuttu, olin mina siella; ja nyt lahetti minun Herra, Herra, ja hanen henkensa.	
+<div class="theverse"><div class="versenum">16.</div> Tulkaat tanne minun tykoni, ja kuulkaat tata: en mina ole ennen salaa puhunut, siita ajasta, kuin se oli puhuttu, olin mina siella; ja nyt lahetti minun Herra, Herra, ja hanen henkensa.	</div>
 
-<div class="versenum">17.</div> Nain sanoo Herra sinun pelastajas, Israelin Pyha: mina olen Herra sinun Jumalas, joka sinulle opetan mika tarpeellinen on, ja johdatan sinua tieta, jotas kayt.	
+<div class="theverse"><div class="versenum">17.</div> Nain sanoo Herra sinun pelastajas, Israelin Pyha: mina olen Herra sinun Jumalas, joka sinulle opetan mika tarpeellinen on, ja johdatan sinua tieta, jotas kayt.	</div>
 
-<div class="versenum">18.</div> O jospa sina pitaisit minun kaskyistani vaarin! niin sinun rauhas olis niinkuin virta, ja vanhurskautes niinkuin meren aalto.	
+<div class="theverse"><div class="versenum">18.</div> O jospa sina pitaisit minun kaskyistani vaarin! niin sinun rauhas olis niinkuin virta, ja vanhurskautes niinkuin meren aalto.	</div>
 
-<div class="versenum">19.</div> Ja sinun siemenes olis niinkuin santa ja kohtus hedelma niinkuin hanen someronsa; joiden nimea ei pitaisi havitettaman eli pyyhittaman pois minun edestani.	
+<div class="theverse"><div class="versenum">19.</div> Ja sinun siemenes olis niinkuin santa ja kohtus hedelma niinkuin hanen someronsa; joiden nimea ei pitaisi havitettaman eli pyyhittaman pois minun edestani.	</div>
 
-<div class="versenum">20.</div> Lahtekaat Babelista, paetkaat Kaldealaisten tykoa iloisella aanella, ilmoittakaat ja kuuluttakaat tata, viekaat se aina maailman aariin, ja sanokaat: Herra on pelastanut palveliansa Jakobin.	
+<div class="theverse"><div class="versenum">20.</div> Lahtekaat Babelista, paetkaat Kaldealaisten tykoa iloisella aanella, ilmoittakaat ja kuuluttakaat tata, viekaat se aina maailman aariin, ja sanokaat: Herra on pelastanut palveliansa Jakobin.	</div>
 
-<div class="versenum">21.</div> Ei heita jano vaivannut, kuin han johdatti heita korvessa, han antoi heille vuotaa vetta kalliosta; han halkasi kallion, ja siita vuosi vesi.	
+<div class="theverse"><div class="versenum">21.</div> Ei heita jano vaivannut, kuin han johdatti heita korvessa, han antoi heille vuotaa vetta kalliosta; han halkasi kallion, ja siita vuosi vesi.	</div>
 
-<div class="versenum">22.</div> Mutta jumalattomalla, sanoo Herra, ei ole rauhaa.	
+<div class="theverse"><div class="versenum">22.</div> Mutta jumalattomalla, sanoo Herra, ei ole rauhaa.	</div>
 </body>
 </html>

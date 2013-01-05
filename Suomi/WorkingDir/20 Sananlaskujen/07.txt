@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 7	</div>
 	
-<div class="versenum">1.</div> Poikani! katke minun sanani, ja pida tykonas minun kaskyni.	
+<div class="theverse"><div class="versenum">1.</div> Poikani! katke minun sanani, ja pida tykonas minun kaskyni.	</div>
 
-<div class="versenum">2.</div> Ota vaari minun kaskyistani, niin sina elaa saat, ja minun laistani, niinkuin silmas terasta.	
+<div class="theverse"><div class="versenum">2.</div> Ota vaari minun kaskyistani, niin sina elaa saat, ja minun laistani, niinkuin silmas terasta.	</div>
 
-<div class="versenum">3.</div> Sido ne sormiis, kirjoita ne sydames tauluun.	
+<div class="theverse"><div class="versenum">3.</div> Sido ne sormiis, kirjoita ne sydames tauluun.	</div>
 
-<div class="versenum">4.</div> Sano viiisaudelle: sina olet sisareni, ja kutsu toimi ystavakses,	
+<div class="theverse"><div class="versenum">4.</div> Sano viiisaudelle: sina olet sisareni, ja kutsu toimi ystavakses,	</div>
 
-<div class="versenum">5.</div> Etta han sinua varjelis muukalaisesta vaimosta, ja vieraasta, jonka sanat sileat ovat.	
+<div class="theverse"><div class="versenum">5.</div> Etta han sinua varjelis muukalaisesta vaimosta, ja vieraasta, jonka sanat sileat ovat.	</div>
 
-<div class="versenum">6.</div> Silla mina kurkistelin huoneeni akkunasta lapi hakin.	
+<div class="theverse"><div class="versenum">6.</div> Silla mina kurkistelin huoneeni akkunasta lapi hakin.	</div>
 
-<div class="versenum">7.</div> Ja nain tyhman nuorukaisen taitamattomain seassa, ja akkasin hanen poikain joukossa;	
+<div class="theverse"><div class="versenum">7.</div> Ja nain tyhman nuorukaisen taitamattomain seassa, ja akkasin hanen poikain joukossa;	</div>
 
-<div class="versenum">8.</div> Joka kaveli kaduilla hanen nurkkainsa taitse, ja asteli sita tieta, joka meni hanen huoneeseensa.	
+<div class="theverse"><div class="versenum">8.</div> Joka kaveli kaduilla hanen nurkkainsa taitse, ja asteli sita tieta, joka meni hanen huoneeseensa.	</div>
 
-<div class="versenum">9.</div> Hamarissa, kuin paiva ehtoolla oli, ja jo yo ja pimia tuli:	
+<div class="theverse"><div class="versenum">9.</div> Hamarissa, kuin paiva ehtoolla oli, ja jo yo ja pimia tuli:	</div>
 
-<div class="versenum">10.</div> Ja katso, hanta kohtasi vaimo porton vaatteilla, kavala,	
+<div class="theverse"><div class="versenum">10.</div> Ja katso, hanta kohtasi vaimo porton vaatteilla, kavala,	</div>
 
-<div class="versenum">11.</div> Tuima ja hillimatoin, jonka jalat ei pysyneet huoneessansa.	
+<div class="theverse"><div class="versenum">11.</div> Tuima ja hillimatoin, jonka jalat ei pysyneet huoneessansa.	</div>
 
-<div class="versenum">12.</div> Nyt on han ulkona, nyt kaduilla, ja vaijyy joka nurkassa.	
+<div class="theverse"><div class="versenum">12.</div> Nyt on han ulkona, nyt kaduilla, ja vaijyy joka nurkassa.	</div>
 
-<div class="versenum">13.</div> Han otti hanen kiinni, ja suuta antoi hanen ja sanoi hapeematta:	
+<div class="theverse"><div class="versenum">13.</div> Han otti hanen kiinni, ja suuta antoi hanen ja sanoi hapeematta:	</div>
 
-<div class="versenum">14.</div> Mina olen tehnyt kiitosuhrin, ja olen tatapana tayttanyt lupaukseni:	
+<div class="theverse"><div class="versenum">14.</div> Mina olen tehnyt kiitosuhrin, ja olen tatapana tayttanyt lupaukseni:	</div>
 
-<div class="versenum">15.</div> Sentahden olen mina tullut sinua vastaan, varhain sinua etsimaan, ja olen nyt sinut loytanyt.	
+<div class="theverse"><div class="versenum">15.</div> Sentahden olen mina tullut sinua vastaan, varhain sinua etsimaan, ja olen nyt sinut loytanyt.	</div>
 
-<div class="versenum">16.</div> Mina olen koreasti valmistanut vuoteeni Egyptin kirjavalla vaatteella,	
+<div class="theverse"><div class="versenum">16.</div> Mina olen koreasti valmistanut vuoteeni Egyptin kirjavalla vaatteella,	</div>
 
-<div class="versenum">17.</div> Ja olen hyvanhajuiseksi tehnyt kammioni mirhamilla, aloella ja kanelilla.	
+<div class="theverse"><div class="versenum">17.</div> Ja olen hyvanhajuiseksi tehnyt kammioni mirhamilla, aloella ja kanelilla.	</div>
 
-<div class="versenum">18.</div> Tule, harjoittakaamme kyllin hekumaa aamuun asti, ja huvitelkaammme meitamme keskenamme rakkaudella.	
+<div class="theverse"><div class="versenum">18.</div> Tule, harjoittakaamme kyllin hekumaa aamuun asti, ja huvitelkaammme meitamme keskenamme rakkaudella.	</div>
 
-<div class="versenum">19.</div> Silla mies ei ole kotona: han on pitkalle matkalle mennyt.	
+<div class="theverse"><div class="versenum">19.</div> Silla mies ei ole kotona: han on pitkalle matkalle mennyt.	</div>
 
-<div class="versenum">20.</div> Han on ottanut rahasakin myotansa, ja tulee kotia asken maaratylla paivalla.	
+<div class="theverse"><div class="versenum">20.</div> Han on ottanut rahasakin myotansa, ja tulee kotia asken maaratylla paivalla.	</div>
 
-<div class="versenum">21.</div> Ja niin han houkutteli monelola sanalla, ja vaati hanta makialla puheella.	
+<div class="theverse"><div class="versenum">21.</div> Ja niin han houkutteli monelola sanalla, ja vaati hanta makialla puheella.	</div>
 
-<div class="versenum">22.</div> Han meni hanen kanssansa nopiasti, niinkuin teurastettava harka, ja niinkuin jalkapuuhun, jolla tyhmat rangoitaan.	
+<div class="theverse"><div class="versenum">22.</div> Han meni hanen kanssansa nopiasti, niinkuin teurastettava harka, ja niinkuin jalkapuuhun, jolla tyhmat rangoitaan.	</div>
 
-<div class="versenum">23.</div> Siihenasti kuin han nuolilla ampuu hanen maksansa lavitse: ja niinkuin lintu itsensa kiiruhtaa paulaan, ja ei tieda sita hengellensa vaaralliseksi.	
+<div class="theverse"><div class="versenum">23.</div> Siihenasti kuin han nuolilla ampuu hanen maksansa lavitse: ja niinkuin lintu itsensa kiiruhtaa paulaan, ja ei tieda sita hengellensa vaaralliseksi.	</div>
 
-<div class="versenum">24.</div> Niin kuulkaat siis minua, minun lapseni, ja ottakaat vaari minun suuni sanoista.	
+<div class="theverse"><div class="versenum">24.</div> Niin kuulkaat siis minua, minun lapseni, ja ottakaat vaari minun suuni sanoista.	</div>
 
-<div class="versenum">25.</div> Alkoon sydames poiketko hanen tiellensa: ala salli sinuas vietella hanen retkillensa.	
+<div class="theverse"><div class="versenum">25.</div> Alkoon sydames poiketko hanen tiellensa: ala salli sinuas vietella hanen retkillensa.	</div>
 
-<div class="versenum">26.</div> Silla han on monta haavoittanut ja langettanut, ja kaikkinaiset voimalliset ovat hanelta tapetut.	
+<div class="theverse"><div class="versenum">26.</div> Silla han on monta haavoittanut ja langettanut, ja kaikkinaiset voimalliset ovat hanelta tapetut.	</div>
 
-<div class="versenum">27.</div> Hanen huoneensa ovat helvetin tiet, jotka menevat alas kuoleman kammioihin.	
+<div class="theverse"><div class="versenum">27.</div> Hanen huoneensa ovat helvetin tiet, jotka menevat alas kuoleman kammioihin.	</div>
 </body>
 </html>

@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Tuomarien 2	</div>
 	
-<div class="versenum">1.</div> Ja Herran enkeli astui ylos Gilgalista Bokimiin ja sanoi: mina johdatin teidat tanne Egyptista ja toin teidat siihen maahan, jonka mina vannoin teidan isillenne ja sanoin: en mina tee liittoani teidan kanssanne tyhjaksi ijankaikkisesti,	
+<div class="theverse"><div class="versenum">1.</div> Ja Herran enkeli astui ylos Gilgalista Bokimiin ja sanoi: mina johdatin teidat tanne Egyptista ja toin teidat siihen maahan, jonka mina vannoin teidan isillenne ja sanoin: en mina tee liittoani teidan kanssanne tyhjaksi ijankaikkisesti,	</div>
 
-<div class="versenum">2.</div> Ja ei teidan pida ikana tekeman liittoa taman maan asuvaisten kanssa: teidan pitaa maahan kukistaman heidan alttarinsa; mutta ette totelleet minun aantani. Miksi te sen olette tehneet?	
+<div class="theverse"><div class="versenum">2.</div> Ja ei teidan pida ikana tekeman liittoa taman maan asuvaisten kanssa: teidan pitaa maahan kukistaman heidan alttarinsa; mutta ette totelleet minun aantani. Miksi te sen olette tehneet?	</div>
 
-<div class="versenum">3.</div> Sanoin mina myos: en mina heita teidan edestanne aja pois, vaan heidan pitaa oleman teille paulaksi, ja heidan Jumalansa teille verkoksi.	
+<div class="theverse"><div class="versenum">3.</div> Sanoin mina myos: en mina heita teidan edestanne aja pois, vaan heidan pitaa oleman teille paulaksi, ja heidan Jumalansa teille verkoksi.	</div>
 
-<div class="versenum">4.</div> Ja kuin Herran enkeli namat sanat puhunut oli kaikille Israelin lapsille, korotti kansa aanensa ja itki;	
+<div class="theverse"><div class="versenum">4.</div> Ja kuin Herran enkeli namat sanat puhunut oli kaikille Israelin lapsille, korotti kansa aanensa ja itki;	</div>
 
-<div class="versenum">5.</div> Ja kutsuivat sen paikan Bokim, ja uhrasivat siina Herralle.	
+<div class="theverse"><div class="versenum">5.</div> Ja kutsuivat sen paikan Bokim, ja uhrasivat siina Herralle.	</div>
 
-<div class="versenum">6.</div> Ja kuin Josua oli paastanyt kansan tykoansa, ja Israelin lapset menneet itsekukin perintoonsa, maata omistamaan,	
+<div class="theverse"><div class="versenum">6.</div> Ja kuin Josua oli paastanyt kansan tykoansa, ja Israelin lapset menneet itsekukin perintoonsa, maata omistamaan,	</div>
 
-<div class="versenum">7.</div> Palveli kansa Jumalaa niinkauvan kuin Josua eli, ja koko vanhimpain aikana, jotka Josuan perassa kauvan elivat ja olivat nahneet kaikkia Herran suuria toita, jotka han Israelille tehnyt oli.	
+<div class="theverse"><div class="versenum">7.</div> Palveli kansa Jumalaa niinkauvan kuin Josua eli, ja koko vanhimpain aikana, jotka Josuan perassa kauvan elivat ja olivat nahneet kaikkia Herran suuria toita, jotka han Israelille tehnyt oli.	</div>
 
-<div class="versenum">8.</div> Mutta kuin Josua Nunin poika Herran palvelia kuoli, sadan ja kymmenen ajastaikaisena,	
+<div class="theverse"><div class="versenum">8.</div> Mutta kuin Josua Nunin poika Herran palvelia kuoli, sadan ja kymmenen ajastaikaisena,	</div>
 
-<div class="versenum">9.</div> Ja he olivat haudanneet hanet perintomaansa rajoihin, TimnatHerekseen, Ephraimin vuorelle pohjan puolelle Gaasin vuorta;	
+<div class="theverse"><div class="versenum">9.</div> Ja he olivat haudanneet hanet perintomaansa rajoihin, TimnatHerekseen, Ephraimin vuorelle pohjan puolelle Gaasin vuorta;	</div>
 
-<div class="versenum">10.</div> Kuin myos kaikki se sukukunta oli koottu isainsa tyko, tuli toinen sukukunta heidan jalkeensa, jotka ei tunteneet Herraa eika niita toita, jotka han Israelille tehnyt oli.	
+<div class="theverse"><div class="versenum">10.</div> Kuin myos kaikki se sukukunta oli koottu isainsa tyko, tuli toinen sukukunta heidan jalkeensa, jotka ei tunteneet Herraa eika niita toita, jotka han Israelille tehnyt oli.	</div>
 
-<div class="versenum">11.</div> Ja Israelin lapset tekivat pahaa Herran edessa ja palvelivat Baalia,	
+<div class="theverse"><div class="versenum">11.</div> Ja Israelin lapset tekivat pahaa Herran edessa ja palvelivat Baalia,	</div>
 
-<div class="versenum">12.</div> Ja hylkasivat Herran, isainsa Jumalan, joka heidat Egyptin maalta oli johdattanut ulos, ja seurasivat vieraita jumalia niiden kansain jumalista, jotka heidan ymparillansa asuivat, ja kumarsivat niita, ja vihoittivat Herran;	
+<div class="theverse"><div class="versenum">12.</div> Ja hylkasivat Herran, isainsa Jumalan, joka heidat Egyptin maalta oli johdattanut ulos, ja seurasivat vieraita jumalia niiden kansain jumalista, jotka heidan ymparillansa asuivat, ja kumarsivat niita, ja vihoittivat Herran;	</div>
 
-<div class="versenum">13.</div> Ja hylkasivat Herran, ja palvelivat Baalia ja Astarotia.	
+<div class="theverse"><div class="versenum">13.</div> Ja hylkasivat Herran, ja palvelivat Baalia ja Astarotia.	</div>
 
-<div class="versenum">14.</div> Niin julmistui Herran viha Israeliin, ja antoi heidat ryovarien kasiin, jotka heita ryostivat, ja myi heita vihollistensa kasiin ymparistolle; ja ei he taitaneet enaa seisoa vihollisiansa vastaan,	
+<div class="theverse"><div class="versenum">14.</div> Niin julmistui Herran viha Israeliin, ja antoi heidat ryovarien kasiin, jotka heita ryostivat, ja myi heita vihollistensa kasiin ymparistolle; ja ei he taitaneet enaa seisoa vihollisiansa vastaan,	</div>
 
-<div class="versenum">15.</div> Mutta kuhunka ikana he itsensa kaansivat, oli Herran kasi heita vastaan onnettomuudeksi, niinkuin Herra heille sanonut ja niinkuin Herra heille vannonut oli; ja he aivan kovin ahdistettiin.	
+<div class="theverse"><div class="versenum">15.</div> Mutta kuhunka ikana he itsensa kaansivat, oli Herran kasi heita vastaan onnettomuudeksi, niinkuin Herra heille sanonut ja niinkuin Herra heille vannonut oli; ja he aivan kovin ahdistettiin.	</div>
 
-<div class="versenum">16.</div> Ja Herra heratti tuomarit, jotka heita vapahtivat niiden kasista, jotka heita ryostivat.	
+<div class="theverse"><div class="versenum">16.</div> Ja Herra heratti tuomarit, jotka heita vapahtivat niiden kasista, jotka heita ryostivat.	</div>
 
-<div class="versenum">17.</div> Niin ei he tuomareitansakaan totelleet, vaan huorin tekivat vierasten jumalain kanssa, ja kumarsivat niita; he harhailivat nopiasti silta tielta, jota heidan isansa olivat vaeltaneet, kuullaksensa Herran kaskyja: ei he niin tehneet.	
+<div class="theverse"><div class="versenum">17.</div> Niin ei he tuomareitansakaan totelleet, vaan huorin tekivat vierasten jumalain kanssa, ja kumarsivat niita; he harhailivat nopiasti silta tielta, jota heidan isansa olivat vaeltaneet, kuullaksensa Herran kaskyja: ei he niin tehneet.	</div>
 
-<div class="versenum">18.</div> Kuin Herra heratti heille tuomarit, niin oli Herra tuomarein kanssa ja varjeli heita heidan vihollistensa kasista niinkauvan kuin tuomari eli; silla Herra armahti heidan huokauksensa paalle niiden tahden, jotka heita vaivasivat ja ahdistivat.	
+<div class="theverse"><div class="versenum">18.</div> Kuin Herra heratti heille tuomarit, niin oli Herra tuomarein kanssa ja varjeli heita heidan vihollistensa kasista niinkauvan kuin tuomari eli; silla Herra armahti heidan huokauksensa paalle niiden tahden, jotka heita vaivasivat ja ahdistivat.	</div>
 
-<div class="versenum">19.</div> Mutta kuin tuomari kuollut oli, palasivat he, ja turmelivat sen enemmin kuin heidan isansa, seuraten vieraita jumalia, palvellen ja kumartain niita; ei he luopuneet teoistansa eika kovasta tiestansa.	
+<div class="theverse"><div class="versenum">19.</div> Mutta kuin tuomari kuollut oli, palasivat he, ja turmelivat sen enemmin kuin heidan isansa, seuraten vieraita jumalia, palvellen ja kumartain niita; ei he luopuneet teoistansa eika kovasta tiestansa.	</div>
 
-<div class="versenum">20.</div> Sentahden julmistui Herran viha niin Israelin paalle, etta han sanoi: etta tama kansa rikkoi minun liittoni, jonka mina kaskin heidan isillensa, ja ei kuullut minun aantani.	
+<div class="theverse"><div class="versenum">20.</div> Sentahden julmistui Herran viha niin Israelin paalle, etta han sanoi: etta tama kansa rikkoi minun liittoni, jonka mina kaskin heidan isillensa, ja ei kuullut minun aantani.	</div>
 
-<div class="versenum">21.</div> Niin en minakaan tastedes aja pois heidan edestansa yhtakaan niista pakanoista, jotka Josua jatti kuoltuansa;	
+<div class="theverse"><div class="versenum">21.</div> Niin en minakaan tastedes aja pois heidan edestansa yhtakaan niista pakanoista, jotka Josua jatti kuoltuansa;	</div>
 
-<div class="versenum">22.</div> Etta mina koettelisin Israelia heidan kauttansa, pysyvatko he Herran teilla ja vaeltavat niissa, niinkuin heidan isansa ovat pysyneet, vai eiko.	
+<div class="theverse"><div class="versenum">22.</div> Etta mina koettelisin Israelia heidan kauttansa, pysyvatko he Herran teilla ja vaeltavat niissa, niinkuin heidan isansa ovat pysyneet, vai eiko.	</div>
 
-<div class="versenum">23.</div> Ja Herra jatti namat pakanat, ettei han nopiasti heita ajanut ulos, ja ei antanut heita Josuan kateen.	
+<div class="theverse"><div class="versenum">23.</div> Ja Herra jatti namat pakanat, ettei han nopiasti heita ajanut ulos, ja ei antanut heita Josuan kateen.	</div>
 </body>
 </html>

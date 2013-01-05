@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">Saarnaajan 4	</div>
 	
-<div class="versenum">1.</div> Taas mina katselin kaikkea sortoa, jota harjoitetaan auringon alla, ja katso, siina on sorrettujen kyyneleet, eika ole heilla lohduttajaa; vakivaltaa tekee heidan sortajainsa kasi, eika ole heilla lohduttajaa.	
+<div class="theverse"><div class="versenum">1.</div> Taas mina katselin kaikkea sortoa, jota harjoitetaan auringon alla, ja katso, siina on sorrettujen kyyneleet, eika ole heilla lohduttajaa; vakivaltaa tekee heidan sortajainsa kasi, eika ole heilla lohduttajaa.	</div>
 
-<div class="versenum">2.</div> Ja mina ylistin vainajia, jotka ovat jo kuolleet, onnellisemmiksi kuin elavia, jotka viela ovat elossa,	
+<div class="theverse"><div class="versenum">2.</div> Ja mina ylistin vainajia, jotka ovat jo kuolleet, onnellisemmiksi kuin elavia, jotka viela ovat elossa,	</div>
 
-<div class="versenum">3.</div> ja onnellisemmaksi kuin nama kumpikaan sita, joka ei viela ole olemassa eika ole nahnyt sita pahaa, mika tapahtuu auringon alla.	
+<div class="theverse"><div class="versenum">3.</div> ja onnellisemmaksi kuin nama kumpikaan sita, joka ei viela ole olemassa eika ole nahnyt sita pahaa, mika tapahtuu auringon alla.	</div>
 
-<div class="versenum">4.</div> Ja mina nain kaikesta vaivannaosta ja tyon kunnollisuudesta, etta se on toisen kateutta toista kohtaan.	
+<div class="theverse"><div class="versenum">4.</div> Ja mina nain kaikesta vaivannaosta ja tyon kunnollisuudesta, etta se on toisen kateutta toista kohtaan.	</div>
 
-<div class="versenum">5.</div> Sekin on turhuutta ja tuulen tavoittelua. Tyhma panee kadet ristiin ja kalvaa omaa lihaansa.	
+<div class="theverse"><div class="versenum">5.</div> Sekin on turhuutta ja tuulen tavoittelua. Tyhma panee kadet ristiin ja kalvaa omaa lihaansa.	</div>
 
-<div class="versenum">6.</div> Parempi on pivollinen lepoa kuin kahmalollinen vaivannakoa ja tuulen tavoittelua.	
+<div class="theverse"><div class="versenum">6.</div> Parempi on pivollinen lepoa kuin kahmalollinen vaivannakoa ja tuulen tavoittelua.	</div>
 
-<div class="versenum">7.</div> Taas mina nain turhuuden auringon alla:	
+<div class="theverse"><div class="versenum">7.</div> Taas mina nain turhuuden auringon alla:	</div>
 
-<div class="versenum">8.</div> Tuossa on yksinainen, ei ole hanella toista, ei poikaa, ei veljeakaan ole hanella; mutta ei ole loppua kaikella hanen vaivannaollansa, eika hanen silmansa saa kyllaansa rikkaudesta. Ja kenen hyvaksi mina sitten vaivaa naen ja pidatan itseni nautinnoista? Tamakin on turhuutta ja on paha asia.	
+<div class="theverse"><div class="versenum">8.</div> Tuossa on yksinainen, ei ole hanella toista, ei poikaa, ei veljeakaan ole hanella; mutta ei ole loppua kaikella hanen vaivannaollansa, eika hanen silmansa saa kyllaansa rikkaudesta. Ja kenen hyvaksi mina sitten vaivaa naen ja pidatan itseni nautinnoista? Tamakin on turhuutta ja on paha asia.	</div>
 
-<div class="versenum">9.</div> Kahden on parempi kuin yksin, silla heilla on vaivannaostansa hyva palkka.	
+<div class="theverse"><div class="versenum">9.</div> Kahden on parempi kuin yksin, silla heilla on vaivannaostansa hyva palkka.	</div>
 
-<div class="versenum">10.</div> Jos he lankeavat, niin toinen nostaa ylos toverinsa; mutta voi yksinaista, jos han lankeaa! Ei ole toista nostamassa hanta ylos.	
+<div class="theverse"><div class="versenum">10.</div> Jos he lankeavat, niin toinen nostaa ylos toverinsa; mutta voi yksinaista, jos han lankeaa! Ei ole toista nostamassa hanta ylos.	</div>
 
-<div class="versenum">11.</div> Myos, jos kaksi makaa yhdessa, on heilla lammin; mutta kuinka voisi yksinaisella olla lammin?	
+<div class="theverse"><div class="versenum">11.</div> Myos, jos kaksi makaa yhdessa, on heilla lammin; mutta kuinka voisi yksinaisella olla lammin?	</div>
 
-<div class="versenum">12.</div> Ja yksinaisen kimppuun voi joku kayda, mutta kaksi pitaa sille puolensa. Eika kolmisainen lanka pian katkea.	
+<div class="theverse"><div class="versenum">12.</div> Ja yksinaisen kimppuun voi joku kayda, mutta kaksi pitaa sille puolensa. Eika kolmisainen lanka pian katkea.	</div>
 
-<div class="versenum">13.</div> Parempi on koyha, mutta viisas nuorukainen kuin vanha ja tyhma kuningas, joka ei enaa ymmarra ottaa varoituksesta vaaria.	
+<div class="theverse"><div class="versenum">13.</div> Parempi on koyha, mutta viisas nuorukainen kuin vanha ja tyhma kuningas, joka ei enaa ymmarra ottaa varoituksesta vaaria.	</div>
 
-<div class="versenum">14.</div> Silla vankilasta tuo toinen lahti tullaksensa kuninkaaksi, vaikka oli hanen kuninkaana ollessaan syntynyt koyhana.	
+<div class="theverse"><div class="versenum">14.</div> Silla vankilasta tuo toinen lahti tullaksensa kuninkaaksi, vaikka oli hanen kuninkaana ollessaan syntynyt koyhana.	</div>
 
-<div class="versenum">15.</div> Mina nain kaikkien, jotka elivat ja vaelsivat auringon alla, olevan nuorukaisen puolella, tuon toisen, joka oli astuva hanen sijaansa.	
+<div class="theverse"><div class="versenum">15.</div> Mina nain kaikkien, jotka elivat ja vaelsivat auringon alla, olevan nuorukaisen puolella, tuon toisen, joka oli astuva hanen sijaansa.	</div>
 
-<div class="versenum">16.</div> Ei ollut loppua kaikella silla vaella, niilla kaikilla, joita han johti; mutta jalkipolvet eivat hanesta iloitse. Silla sekin on turhuutta ja tuulen tavoittelemista.	
+<div class="theverse"><div class="versenum">16.</div> Ei ollut loppua kaikella silla vaella, niilla kaikilla, joita han johti; mutta jalkipolvet eivat hanesta iloitse. Silla sekin on turhuutta ja tuulen tavoittelemista.	</div>
 </body>
 </html>

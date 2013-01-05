@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Jeremian 3	</div>
 	
-<div class="versenum">1.</div> Sananlasku on: katso, kuin mies eroittaa vaimonsa tykoansa, ja se menee pois hanen tykoansa, ja ottaa toisen miehen, ottaako han hanen jalleen? eiko maa niin perati saastutettaisi? Mutta sina olet huorin tehnyt monen ystavas kanssa; mutta tule kuitenkin jalleen minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">1.</div> Sananlasku on: katso, kuin mies eroittaa vaimonsa tykoansa, ja se menee pois hanen tykoansa, ja ottaa toisen miehen, ottaako han hanen jalleen? eiko maa niin perati saastutettaisi? Mutta sina olet huorin tehnyt monen ystavas kanssa; mutta tule kuitenkin jalleen minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">2.</div> Nosta silmas ylos korkeuteen ja katso, kuinka sina jokapaikassa huorin teet. Sina istut tiella, ja odotat heita niinkuin ryovari korvessa, ja saastutat maan huoruudellas ja pahuudellas.	
+<div class="theverse"><div class="versenum">2.</div> Nosta silmas ylos korkeuteen ja katso, kuinka sina jokapaikassa huorin teet. Sina istut tiella, ja odotat heita niinkuin ryovari korvessa, ja saastutat maan huoruudellas ja pahuudellas.	</div>
 
-<div class="versenum">3.</div> Sentahden pitaa aamusateen tuleman pois, eika ehtoosateen tuleman; sinulla on porton kasvot, et sina tahdo ensinkaan haveta.	
+<div class="theverse"><div class="versenum">3.</div> Sentahden pitaa aamusateen tuleman pois, eika ehtoosateen tuleman; sinulla on porton kasvot, et sina tahdo ensinkaan haveta.	</div>
 
-<div class="versenum">4.</div> Ja kuitenkin sina siita ajasta huudat minua: minun Isani, - minun nuoruuteni johdattaja.	
+<div class="theverse"><div class="versenum">4.</div> Ja kuitenkin sina siita ajasta huudat minua: minun Isani, - minun nuoruuteni johdattaja.	</div>
 
-<div class="versenum">5.</div> Vihastuuko han ijankaikkisesti, ja ei kaanny julmuudestansa? Katso, sina opetat, ja teet pahaa ja ei sinua taideta hillita.	
+<div class="theverse"><div class="versenum">5.</div> Vihastuuko han ijankaikkisesti, ja ei kaanny julmuudestansa? Katso, sina opetat, ja teet pahaa ja ei sinua taideta hillita.	</div>
 
-<div class="versenum">6.</div> Ja Herra sanoi minulle, kuningas Josian aikana: oletko sina nahnyt, mita vastahakoinen Israel teki? Han meni kaikille korkeille vuorille, ja jokaisen viheriaisen puun alle, ja teki siella huoruutta.	
+<div class="theverse"><div class="versenum">6.</div> Ja Herra sanoi minulle, kuningas Josian aikana: oletko sina nahnyt, mita vastahakoinen Israel teki? Han meni kaikille korkeille vuorille, ja jokaisen viheriaisen puun alle, ja teki siella huoruutta.	</div>
 
-<div class="versenum">7.</div> Ja kuin han naita kaikkia tehnyt oli, sanoin mina: kaannyt minun tykoni; mutta ei han kaantynytkaan; ja hanen petollinen sisarensa Juuda naki sen.	
+<div class="theverse"><div class="versenum">7.</div> Ja kuin han naita kaikkia tehnyt oli, sanoin mina: kaannyt minun tykoni; mutta ei han kaantynytkaan; ja hanen petollinen sisarensa Juuda naki sen.	</div>
 
-<div class="versenum">8.</div> Ja mina nain, etta vastahakoinen Israel kaikissa teki huorin, ja mina hylkasin hanen, ja annoin hanelle erokirjan; ja ei hanen petollinen Juuda sita peljannyt, vaan meni ja teki myos huorin.	
+<div class="theverse"><div class="versenum">8.</div> Ja mina nain, etta vastahakoinen Israel kaikissa teki huorin, ja mina hylkasin hanen, ja annoin hanelle erokirjan; ja ei hanen petollinen Juuda sita peljannyt, vaan meni ja teki myos huorin.	</div>
 
-<div class="versenum">9.</div> Ja hanen huoruutensa sanomasta on maakunta saastutettu; silla han tekee huoruutta kiven ja puun kanssa.	
+<div class="theverse"><div class="versenum">9.</div> Ja hanen huoruutensa sanomasta on maakunta saastutettu; silla han tekee huoruutta kiven ja puun kanssa.	</div>
 
-<div class="versenum">10.</div> Ja kaikissa naissa ei hanen petollinen sisarensa Juuda kaantynyt minun tykoni kaikesta sydamestansa, vaan petollisesti, sanoo Herra.	
+<div class="theverse"><div class="versenum">10.</div> Ja kaikissa naissa ei hanen petollinen sisarensa Juuda kaantynyt minun tykoni kaikesta sydamestansa, vaan petollisesti, sanoo Herra.	</div>
 
-<div class="versenum">11.</div> Ja Herra sanoi minulle: vastahakoinen Israel on jaloksi luettava petollisen Juudan suhteen.	
+<div class="theverse"><div class="versenum">11.</div> Ja Herra sanoi minulle: vastahakoinen Israel on jaloksi luettava petollisen Juudan suhteen.	</div>
 
-<div class="versenum">12.</div> Mene ja saarnaa namat sanat pohjaan pain, ja sano: kaanny, sina vastahakoinen Israel, sanoo Herra, niin en mina kaanna kasvojani teista pois; silla mina olen laupias, sanoo Herra, ja en vihastu ijankaikkisesti.	
+<div class="theverse"><div class="versenum">12.</div> Mene ja saarnaa namat sanat pohjaan pain, ja sano: kaanny, sina vastahakoinen Israel, sanoo Herra, niin en mina kaanna kasvojani teista pois; silla mina olen laupias, sanoo Herra, ja en vihastu ijankaikkisesti.	</div>
 
-<div class="versenum">13.</div> Tunne ainoastaan sinun pahat tekos, ja ettas olet Herraa sinun Jumalaas vastaan syntia tehnyt, ja juossut sinne tanne vierasten jumalain tyko, kaikkein viheriaisten puiden alle; ja ette kuulleet minun aantani, sanoo Herra.	
+<div class="theverse"><div class="versenum">13.</div> Tunne ainoastaan sinun pahat tekos, ja ettas olet Herraa sinun Jumalaas vastaan syntia tehnyt, ja juossut sinne tanne vierasten jumalain tyko, kaikkein viheriaisten puiden alle; ja ette kuulleet minun aantani, sanoo Herra.	</div>
 
-<div class="versenum">14.</div> Kaantykaat, te vastahakoiset lapset, sanoo Herra; silla mina kihlaan teidat minulleni, ja otan teidat yhden kaupungista ja kaksi koko sukukunnasta, ja tahdon teidat vieda Zioniin.	
+<div class="theverse"><div class="versenum">14.</div> Kaantykaat, te vastahakoiset lapset, sanoo Herra; silla mina kihlaan teidat minulleni, ja otan teidat yhden kaupungista ja kaksi koko sukukunnasta, ja tahdon teidat vieda Zioniin.	</div>
 
-<div class="versenum">15.</div> Ja annan teille paimenet minun sydameni jalkeen, jotka teita pitaa ravitseman opilla ja viisaudella.	
+<div class="theverse"><div class="versenum">15.</div> Ja annan teille paimenet minun sydameni jalkeen, jotka teita pitaa ravitseman opilla ja viisaudella.	</div>
 
-<div class="versenum">16.</div> Ja se on silloin tapahtuva, kuin te moneksi tulette ja kasvatte maassa, ettei siihen aikaan, sanoo Herra, pida enaan puhuttaman Herran liitonarkista, eika ajateltaman, ei myos sita enaan muistettaman, eli etsittaman, taikka enaan tehtaman.	
+<div class="theverse"><div class="versenum">16.</div> Ja se on silloin tapahtuva, kuin te moneksi tulette ja kasvatte maassa, ettei siihen aikaan, sanoo Herra, pida enaan puhuttaman Herran liitonarkista, eika ajateltaman, ei myos sita enaan muistettaman, eli etsittaman, taikka enaan tehtaman.	</div>
 
-<div class="versenum">17.</div> Mutta Jerusalem pitaa siihen aikaan kutsuttaman Herran istuimeksi, ja kaikki pakanat pitaa sinne kokoontuman Herran nimeen Jerusalemiin: eika heidan pida enaa vaeltaman pahan sydamensa ajatusten jalkeen.	
+<div class="theverse"><div class="versenum">17.</div> Mutta Jerusalem pitaa siihen aikaan kutsuttaman Herran istuimeksi, ja kaikki pakanat pitaa sinne kokoontuman Herran nimeen Jerusalemiin: eika heidan pida enaa vaeltaman pahan sydamensa ajatusten jalkeen.	</div>
 
-<div class="versenum">18.</div> Siihen aikaan pitaa Juudan huoneen meneman Israelin huoneen tyko, ja pitaa ynna tuleman pohjan puoliselta maalta siihen maahan, jonka mina olen antanut teidan isillenne perinnoksi.	
+<div class="theverse"><div class="versenum">18.</div> Siihen aikaan pitaa Juudan huoneen meneman Israelin huoneen tyko, ja pitaa ynna tuleman pohjan puoliselta maalta siihen maahan, jonka mina olen antanut teidan isillenne perinnoksi.	</div>
 
-<div class="versenum">19.</div> Ja mina sanon: kuinka mina olen monta lasta antava sinulle, ja sen hyvan maan ja ihanaisen perinnon, pakanain joukon. Ja mina sanon: sina olet kutsuva minun Isakses, etka luovu minusta.	
+<div class="theverse"><div class="versenum">19.</div> Ja mina sanon: kuinka mina olen monta lasta antava sinulle, ja sen hyvan maan ja ihanaisen perinnon, pakanain joukon. Ja mina sanon: sina olet kutsuva minun Isakses, etka luovu minusta.	</div>
 
-<div class="versenum">20.</div> Kuitenkin, niinkuin vaimo pettaa rakastajansa, niin olette te minusta luopuneet, te Israelin huone, sanoo Herra.	
+<div class="theverse"><div class="versenum">20.</div> Kuitenkin, niinkuin vaimo pettaa rakastajansa, niin olette te minusta luopuneet, te Israelin huone, sanoo Herra.	</div>
 
-<div class="versenum">21.</div> Sentahden pitaa kuuluman valitus, itku ja parku Israelin lapsilta korkeissa paikoissa; silla he ovat tiensa turmelleet, ja Herran Jumalansa unohtaneet.	
+<div class="theverse"><div class="versenum">21.</div> Sentahden pitaa kuuluman valitus, itku ja parku Israelin lapsilta korkeissa paikoissa; silla he ovat tiensa turmelleet, ja Herran Jumalansa unohtaneet.	</div>
 
-<div class="versenum">22.</div> Niin palatkaat, te vastahakoiset lapset niin mina parannan teita teidan tottelemattomuudestanne. Katso, me tulemme sinun tykos; silla sina olet Herra meidan Jumalamme.	
+<div class="theverse"><div class="versenum">22.</div> Niin palatkaat, te vastahakoiset lapset niin mina parannan teita teidan tottelemattomuudestanne. Katso, me tulemme sinun tykos; silla sina olet Herra meidan Jumalamme.	</div>
 
-<div class="versenum">23.</div> Totisesti on sula petos kukkuloilla ja kaikilla vuorilla: totisesti on Israelin autuus (ainoassa) Herrassa meidan Jumalassamme.	
+<div class="theverse"><div class="versenum">23.</div> Totisesti on sula petos kukkuloilla ja kaikilla vuorilla: totisesti on Israelin autuus (ainoassa) Herrassa meidan Jumalassamme.	</div>
 
-<div class="versenum">24.</div> Ja meidan isaimme asetukset, jotka me nuoruudesta olemme pitaneet, pitaa hapialla kayman pois, ynna heidan lammastensa, karjansa, poikainsa ja tytartensa kanssa.	
+<div class="theverse"><div class="versenum">24.</div> Ja meidan isaimme asetukset, jotka me nuoruudesta olemme pitaneet, pitaa hapialla kayman pois, ynna heidan lammastensa, karjansa, poikainsa ja tytartensa kanssa.	</div>
 
-<div class="versenum">25.</div> Meidan taytyy maata hapiassamme, ja meidan ylonkatseemme peittaa meidat; silla me teimme syntia Herraa meidan Jumalaamme vastaan, seka me etta meidan isamme, meidan hamasta nuoruudestamme niin tahan paivaan asti, ja emme totelleet Herran meidan Jumalamme aanta.	
+<div class="theverse"><div class="versenum">25.</div> Meidan taytyy maata hapiassamme, ja meidan ylonkatseemme peittaa meidat; silla me teimme syntia Herraa meidan Jumalaamme vastaan, seka me etta meidan isamme, meidan hamasta nuoruudestamme niin tahan paivaan asti, ja emme totelleet Herran meidan Jumalamme aanta.	</div>
 </body>
 </html>

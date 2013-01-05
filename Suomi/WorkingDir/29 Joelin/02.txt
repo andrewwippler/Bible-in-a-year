@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">Joelin 2	</div>
 	
-<div class="versenum">1.</div> Soittakaat basunalla Zionissa, huutakaat minun pyhalla vuorellani, vaviskaat kaikki maan asuvaiset; silla Herran paiva tulee ja on lasna:	
+<div class="theverse"><div class="versenum">1.</div> Soittakaat basunalla Zionissa, huutakaat minun pyhalla vuorellani, vaviskaat kaikki maan asuvaiset; silla Herran paiva tulee ja on lasna:	</div>
 
-<div class="versenum">2.</div> Pimia paiva, synkia paiva, sumuinen paiva ja utuinen paiva; niinkuin aamurusko itsensa levittaa vuorten ylitse; suuri ja vakeva kansa, jonka kaltaista ei ikana ole ollut, eika vasta tule ijankaikkiseen aikaan.	
+<div class="theverse"><div class="versenum">2.</div> Pimia paiva, synkia paiva, sumuinen paiva ja utuinen paiva; niinkuin aamurusko itsensa levittaa vuorten ylitse; suuri ja vakeva kansa, jonka kaltaista ei ikana ole ollut, eika vasta tule ijankaikkiseen aikaan.	</div>
 
-<div class="versenum">3.</div> Hanen edellansa kay kuluttavainen tuli, ja hanen jalissansa polttavainen liekki. Maa on hanen edessansa niinkuin Edenin puutarha, mutta hanen jalissansa niinkuin autio eramaa, ja ei pida kenenkaan paaseman hanelta pois.	
+<div class="theverse"><div class="versenum">3.</div> Hanen edellansa kay kuluttavainen tuli, ja hanen jalissansa polttavainen liekki. Maa on hanen edessansa niinkuin Edenin puutarha, mutta hanen jalissansa niinkuin autio eramaa, ja ei pida kenenkaan paaseman hanelta pois.	</div>
 
-<div class="versenum">4.</div> Hanen muotonsa on niinkuin hevosten muoto; ja he karkaavat niinkuin ratsasmiehet.	
+<div class="theverse"><div class="versenum">4.</div> Hanen muotonsa on niinkuin hevosten muoto; ja he karkaavat niinkuin ratsasmiehet.	</div>
 
-<div class="versenum">5.</div> He hyppaavat ylhaalla vuorten kukkuloilla niinkuin rattaat kitisevat, niinkuin liekki korsissa kihisis; niinkuin vakeva kansa, joka sotaan on hankittu.	
+<div class="theverse"><div class="versenum">5.</div> He hyppaavat ylhaalla vuorten kukkuloilla niinkuin rattaat kitisevat, niinkuin liekki korsissa kihisis; niinkuin vakeva kansa, joka sotaan on hankittu.	</div>
 
-<div class="versenum">6.</div> Kansat pitaa hanen edessansa hammastyman, etta kaikki kasvot valjuksi muuttuvat.	
+<div class="theverse"><div class="versenum">6.</div> Kansat pitaa hanen edessansa hammastyman, etta kaikki kasvot valjuksi muuttuvat.	</div>
 
-<div class="versenum">7.</div> He juoksevat niinkuin uljaat, ja karkaavat muurien ylitse niinkuin sotamiehet; ja kukin kay kohdastansa edes, ja ei poikkee ulos tiestansa.	
+<div class="theverse"><div class="versenum">7.</div> He juoksevat niinkuin uljaat, ja karkaavat muurien ylitse niinkuin sotamiehet; ja kukin kay kohdastansa edes, ja ei poikkee ulos tiestansa.	</div>
 
-<div class="versenum">8.</div> Ei esta kenkaan kumppaniansa, vaan kukin matkustaa asetuksessansa; ja kuin he sota-aseiden valista tunkevat sisalle, niin ei heita haavoiteta.	
+<div class="theverse"><div class="versenum">8.</div> Ei esta kenkaan kumppaniansa, vaan kukin matkustaa asetuksessansa; ja kuin he sota-aseiden valista tunkevat sisalle, niin ei heita haavoiteta.	</div>
 
-<div class="versenum">9.</div> He ajelevat ympari kaupungissa, ja muurien paalla juoksevat, ja kiipeevat huoneisiin, ja tulevat akkunoista sisalle, niinkuin varas.	
+<div class="theverse"><div class="versenum">9.</div> He ajelevat ympari kaupungissa, ja muurien paalla juoksevat, ja kiipeevat huoneisiin, ja tulevat akkunoista sisalle, niinkuin varas.	</div>
 
-<div class="versenum">10.</div> Hanen edessansa vapisee maa, ja taivas varisee: aurinko ja kuu pimenevat, ja tahdet peittavat valkeutensa.	
+<div class="theverse"><div class="versenum">10.</div> Hanen edessansa vapisee maa, ja taivas varisee: aurinko ja kuu pimenevat, ja tahdet peittavat valkeutensa.	</div>
 
-<div class="versenum">11.</div> Silla Herra on paneva jylinansa hanen sotavakensa edella; silla hanen sotavakensa on sangen suuri ja vakeva, joka hanen kaskynsa toimittaa; silla Herran paiva on suuri ja sangen hirmuinen, kuka sita voi karsia?	
+<div class="theverse"><div class="versenum">11.</div> Silla Herra on paneva jylinansa hanen sotavakensa edella; silla hanen sotavakensa on sangen suuri ja vakeva, joka hanen kaskynsa toimittaa; silla Herran paiva on suuri ja sangen hirmuinen, kuka sita voi karsia?	</div>
 
-<div class="versenum">12.</div> Niin sanoo nyt Herra: kaantykaat kaikesta sydamestanne minun tykoni, paastolla, itkulla ja murheella.	
+<div class="theverse"><div class="versenum">12.</div> Niin sanoo nyt Herra: kaantykaat kaikesta sydamestanne minun tykoni, paastolla, itkulla ja murheella.	</div>
 
-<div class="versenum">13.</div> Leikatkaat teidan sydamenne, ja alkaat teidan vaatteitannne, ja palatkaat Herran teidan Jumalanne tyko; silla han on armollinen ja laupias, pitkamielinen ja suuresta hyvyydesta, ja katuu rangaistusta.	
+<div class="theverse"><div class="versenum">13.</div> Leikatkaat teidan sydamenne, ja alkaat teidan vaatteitannne, ja palatkaat Herran teidan Jumalanne tyko; silla han on armollinen ja laupias, pitkamielinen ja suuresta hyvyydesta, ja katuu rangaistusta.	</div>
 
-<div class="versenum">14.</div> Kukaties han kaantyy ja katuu, ja jattaa jalkeensa siunauksen, ruokauhrin ja juomauhrin Herralle teidan Jumalallenne.	
+<div class="theverse"><div class="versenum">14.</div> Kukaties han kaantyy ja katuu, ja jattaa jalkeensa siunauksen, ruokauhrin ja juomauhrin Herralle teidan Jumalallenne.	</div>
 
-<div class="versenum">15.</div> Soittakaat basunalla Zionissa, pyhittakaat paasto, kutsukaat seurakunta kokoon.	
+<div class="theverse"><div class="versenum">15.</div> Soittakaat basunalla Zionissa, pyhittakaat paasto, kutsukaat seurakunta kokoon.	</div>
 
-<div class="versenum">16.</div> Kootkaat kansa, pyhittakaat kokous, kutsukaat yhteen vanhimmat, saattakaat yhteen nuorukaiset ja imevaiset; ylka lahtekaan kammiostansa, ja morsian makaushuoneestansa.	
+<div class="theverse"><div class="versenum">16.</div> Kootkaat kansa, pyhittakaat kokous, kutsukaat yhteen vanhimmat, saattakaat yhteen nuorukaiset ja imevaiset; ylka lahtekaan kammiostansa, ja morsian makaushuoneestansa.	</div>
 
-<div class="versenum">17.</div> Papit, Herran palveliat, itkekaan esihuoneen ja alttarin valilla, ja sanokaan: armahda, Herra, sinun kansaas, ja ala laske sinun perikuntaas pilkkaan, niin ettei pakanat saisi valtaa heidan paallensa! miksi pitais sanottaman kansain seassa: kussa on nyt heidan Jumalansa?	
+<div class="theverse"><div class="versenum">17.</div> Papit, Herran palveliat, itkekaan esihuoneen ja alttarin valilla, ja sanokaan: armahda, Herra, sinun kansaas, ja ala laske sinun perikuntaas pilkkaan, niin ettei pakanat saisi valtaa heidan paallensa! miksi pitais sanottaman kansain seassa: kussa on nyt heidan Jumalansa?	</div>
 
-<div class="versenum">18.</div> Niin Herralla on kiivaus maastansa; ja han armahtaa kansaansa.	
+<div class="theverse"><div class="versenum">18.</div> Niin Herralla on kiivaus maastansa; ja han armahtaa kansaansa.	</div>
 
-<div class="versenum">19.</div> Ja Herra vastaa ja sanoo kansallensa: katso, mina lahetin teille jyvia, viinaa ja oljya, etta teilla piti niista kylla oleman; ja en salli teita enaan hapiaan tulla pakanain sekaan.	
+<div class="theverse"><div class="versenum">19.</div> Ja Herra vastaa ja sanoo kansallensa: katso, mina lahetin teille jyvia, viinaa ja oljya, etta teilla piti niista kylla oleman; ja en salli teita enaan hapiaan tulla pakanain sekaan.	</div>
 
-<div class="versenum">20.</div> Ja tahdon sen, joka pohjoisesta tullut on, teilta kauvas saattaa, ja ajaa hanen pois korkiaan ja havitettyyn maahan, hanen kasvonsa itaista merta pain, ja hanen lopppunsa aarimaisen meren puoleen; ja hanen pitaa mataneman ja haiseman; silla han on suuria tehnyt.	
+<div class="theverse"><div class="versenum">20.</div> Ja tahdon sen, joka pohjoisesta tullut on, teilta kauvas saattaa, ja ajaa hanen pois korkiaan ja havitettyyn maahan, hanen kasvonsa itaista merta pain, ja hanen lopppunsa aarimaisen meren puoleen; ja hanen pitaa mataneman ja haiseman; silla han on suuria tehnyt.	</div>
 
-<div class="versenum">21.</div> Ala pelkaa, sina maa, vaan iloise ja riemuitse; silla Herra taitaa myos suuria tehda.	
+<div class="theverse"><div class="versenum">21.</div> Ala pelkaa, sina maa, vaan iloise ja riemuitse; silla Herra taitaa myos suuria tehda.	</div>
 
-<div class="versenum">22.</div> Alkaat peljatko, te pedot kedolla; silla laitumet korvessa pitaa viherioitseman, ja puut hedelmansa kantaman, fikunapuut ja viinapuut kylla hedelmoitseman.	
+<div class="theverse"><div class="versenum">22.</div> Alkaat peljatko, te pedot kedolla; silla laitumet korvessa pitaa viherioitseman, ja puut hedelmansa kantaman, fikunapuut ja viinapuut kylla hedelmoitseman.	</div>
 
-<div class="versenum">23.</div> Ja te, Zionin lapset, iloitkaat ja riemuitkaat Herrassa teidan Jumalassanne, joka teille antaa vanhurskauden opettajan, ja laskee alas teille aamu- ja ehtoosateen niinkuin ennenkin;	
+<div class="theverse"><div class="versenum">23.</div> Ja te, Zionin lapset, iloitkaat ja riemuitkaat Herrassa teidan Jumalassanne, joka teille antaa vanhurskauden opettajan, ja laskee alas teille aamu- ja ehtoosateen niinkuin ennenkin;	</div>
 
-<div class="versenum">24.</div> Etta aitat jyvia taynna olisivat, ja kuurnat nuoresta viinasta ja oljysta ylitse vuotaisivat.	
+<div class="theverse"><div class="versenum">24.</div> Etta aitat jyvia taynna olisivat, ja kuurnat nuoresta viinasta ja oljysta ylitse vuotaisivat.	</div>
 
-<div class="versenum">25.</div> Ja mina saatan teille jalleen ne vuodet, jotka heinasirkka, lehtimato, jyvamato ja ruohomato soi; se minun suuri sotavakeni, jonka mina teidan sekaanne lahetin;	
+<div class="theverse"><div class="versenum">25.</div> Ja mina saatan teille jalleen ne vuodet, jotka heinasirkka, lehtimato, jyvamato ja ruohomato soi; se minun suuri sotavakeni, jonka mina teidan sekaanne lahetin;	</div>
 
-<div class="versenum">26.</div> Etta teidan pitaa kylla syoman ja ravituksi tuleman, ja ylistaman Herran teidan Jumalanne nimea, joka teidan seassanne on ihmeita tehnyt; ja ei minun kansani pida ikana hapiaan tuleman.	
+<div class="theverse"><div class="versenum">26.</div> Etta teidan pitaa kylla syoman ja ravituksi tuleman, ja ylistaman Herran teidan Jumalanne nimea, joka teidan seassanne on ihmeita tehnyt; ja ei minun kansani pida ikana hapiaan tuleman.	</div>
 
-<div class="versenum">27.</div> Ja teidan pitaa ymmartaman, etta mina olen Israelin keskella, ja etta mina olen Herra teidan Jumalanne ja ei kenkaan muu; eika minun kansani pida ikana hapiaan tuleman.	
+<div class="theverse"><div class="versenum">27.</div> Ja teidan pitaa ymmartaman, etta mina olen Israelin keskella, ja etta mina olen Herra teidan Jumalanne ja ei kenkaan muu; eika minun kansani pida ikana hapiaan tuleman.	</div>
 
-<div class="versenum">28.</div> Ja sitte pitaa tapahtuman, etta mina tahdon vuodattaa minun Henkeni kaiken lihan paalle; ja teidan poikanne ja tyttarenne pitaa ennustaman, teidan vanhimpanne pitaa unia uneksuman, ja teidan nuorukaisenne pitaa nakyja nakeman.	
+<div class="theverse"><div class="versenum">28.</div> Ja sitte pitaa tapahtuman, etta mina tahdon vuodattaa minun Henkeni kaiken lihan paalle; ja teidan poikanne ja tyttarenne pitaa ennustaman, teidan vanhimpanne pitaa unia uneksuman, ja teidan nuorukaisenne pitaa nakyja nakeman.	</div>
 
-<div class="versenum">29.</div> Ja myos niina paivina tahdon mina palveliain ja piikain paalle vuodattaa minun Henkeni.	
+<div class="theverse"><div class="versenum">29.</div> Ja myos niina paivina tahdon mina palveliain ja piikain paalle vuodattaa minun Henkeni.	</div>
 
-<div class="versenum">30.</div> Ja tahdon antaa tapahtua tunnustahdet taivaassa ja maassa, veren, tulen ja savun suitsun.	
+<div class="theverse"><div class="versenum">30.</div> Ja tahdon antaa tapahtua tunnustahdet taivaassa ja maassa, veren, tulen ja savun suitsun.	</div>
 
-<div class="versenum">31.</div> Auringon pitaa muuttuman pimiaksi, ja kuun vereksi; ennenkuin se suuri ja hirmuinen Herran paiva tulee.	
+<div class="theverse"><div class="versenum">31.</div> Auringon pitaa muuttuman pimiaksi, ja kuun vereksi; ennenkuin se suuri ja hirmuinen Herran paiva tulee.	</div>
 
-<div class="versenum">32.</div> Ja on tapahtuva, etta jokainen, joka Herran nimea avuksensa huutaa, se tulee autuaaksi; silla Zionin vuorella ja Jerusalemissa on vapaus oleva, niinkuin Herra on luvannut, ja jaaneiden tykona, jotka Herra kutsuva on.	
+<div class="theverse"><div class="versenum">32.</div> Ja on tapahtuva, etta jokainen, joka Herran nimea avuksensa huutaa, se tulee autuaaksi; silla Zionin vuorella ja Jerusalemissa on vapaus oleva, niinkuin Herra on luvannut, ja jaaneiden tykona, jotka Herra kutsuva on.	</div>
 </body>
 </html>

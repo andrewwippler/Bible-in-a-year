@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Psalmien 48	</div>
 	
-<div class="versenum">1.</div> Koran lasten Veisu-Psalmi. (H48:2) Suuri on Herra, ja sangen kiitettava, meidan Jumalamme kaupungissa, pyhalla vuorellansa.	
+<div class="theverse"><div class="versenum">1.</div> Koran lasten Veisu-Psalmi. (H48:2) Suuri on Herra, ja sangen kiitettava, meidan Jumalamme kaupungissa, pyhalla vuorellansa.	</div>
 
-<div class="versenum">2.</div> Zionin vuori on kauniilla paikalla, koko maan ilo, pohjan puolella, suuren kuninkaan kaupunki.	
+<div class="theverse"><div class="versenum">2.</div> Zionin vuori on kauniilla paikalla, koko maan ilo, pohjan puolella, suuren kuninkaan kaupunki.	</div>
 
-<div class="versenum">3.</div> Jumala on tunnettu huoneessansa, etta han sen varjelia on.	
+<div class="theverse"><div class="versenum">3.</div> Jumala on tunnettu huoneessansa, etta han sen varjelia on.	</div>
 
-<div class="versenum">4.</div> Silla katso, kuninkaat olivat kokoontuneet, ja ynna menivat ohitse.	
+<div class="theverse"><div class="versenum">4.</div> Silla katso, kuninkaat olivat kokoontuneet, ja ynna menivat ohitse.	</div>
 
-<div class="versenum">5.</div> He ihmettelivat, kuin he taman nakivat: he hammastyivat, ja kiiruhtivat pois,	
+<div class="theverse"><div class="versenum">5.</div> He ihmettelivat, kuin he taman nakivat: he hammastyivat, ja kiiruhtivat pois,	</div>
 
-<div class="versenum">6.</div> Vavistus on heidat siella kasittanyt, ahdistus niinkuin synnyttavaisen.	
+<div class="theverse"><div class="versenum">6.</div> Vavistus on heidat siella kasittanyt, ahdistus niinkuin synnyttavaisen.	</div>
 
-<div class="versenum">7.</div> Sina sarjet haahdet meressa itatuulella.	
+<div class="theverse"><div class="versenum">7.</div> Sina sarjet haahdet meressa itatuulella.	</div>
 
-<div class="versenum">8.</div> Niinkuin me kuulimme, niin me sen naemme Herran Zebaotin kaupungissa, meidan Jumalamme kaupungissa: Jumala sen vahvistaa ijankaikkisesti, Sela!	
+<div class="theverse"><div class="versenum">8.</div> Niinkuin me kuulimme, niin me sen naemme Herran Zebaotin kaupungissa, meidan Jumalamme kaupungissa: Jumala sen vahvistaa ijankaikkisesti, Sela!	</div>
 
-<div class="versenum">9.</div> Jumala! me odotamme sinun hyvyyttas sinun templissas.	
+<div class="theverse"><div class="versenum">9.</div> Jumala! me odotamme sinun hyvyyttas sinun templissas.	</div>
 
-<div class="versenum">10.</div> Jumala! niinkuin sinun nimes on, niin myos on sinun kiitokses hamaan maailman aareen: sinun oikia kates on taynna vanhurskautta.	
+<div class="theverse"><div class="versenum">10.</div> Jumala! niinkuin sinun nimes on, niin myos on sinun kiitokses hamaan maailman aareen: sinun oikia kates on taynna vanhurskautta.	</div>
 
-<div class="versenum">11.</div> Riemuitkaan Zionin vuori, ja Juudan tyttaret iloitkaan sinun oikeuttes tahden.	
+<div class="theverse"><div class="versenum">11.</div> Riemuitkaan Zionin vuori, ja Juudan tyttaret iloitkaan sinun oikeuttes tahden.	</div>
 
-<div class="versenum">12.</div> Menkaat Zionin ympari ja piirittakaat hanta: lukekaat hanen torninsa.	
+<div class="theverse"><div class="versenum">12.</div> Menkaat Zionin ympari ja piirittakaat hanta: lukekaat hanen torninsa.	</div>
 
-<div class="versenum">13.</div> Turvatkaat hanen muurinsa, vahvistakaat hanen salinsa, etta te sita juttelisitte tulevaisille sukukunnille.	
+<div class="theverse"><div class="versenum">13.</div> Turvatkaat hanen muurinsa, vahvistakaat hanen salinsa, etta te sita juttelisitte tulevaisille sukukunnille.	</div>
 
-<div class="versenum">14.</div> Silla tama Jumala on meidan Jumalamme aina ja ijankaikkisesti: han johdattaa meita kuolemaan asti.	
+<div class="theverse"><div class="versenum">14.</div> Silla tama Jumala on meidan Jumalamme aina ja ijankaikkisesti: han johdattaa meita kuolemaan asti.	</div>
 </body>
 </html>

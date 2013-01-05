@@ -4,110 +4,110 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 1	</div>
 	
-<div class="versenum">1.</div> Ja kuin kuningas David oli vanhentunut ja ijalliseksi joutunut, ei han voinut itsiansa lammittaa, ehka han vaatteilla peitettiin.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin kuningas David oli vanhentunut ja ijalliseksi joutunut, ei han voinut itsiansa lammittaa, ehka han vaatteilla peitettiin.	</div>
 
-<div class="versenum">2.</div> Niin sanoivat hanen palveliansa hanelle: anna heidan etsia herralleni kuninkaalle piika, joka neitsy on, joka seisois kuninkaan edessa, ja korjaisi hanta ja makais hanen sylissansa, ja lammittais herraani, kuningasta.	
+<div class="theverse"><div class="versenum">2.</div> Niin sanoivat hanen palveliansa hanelle: anna heidan etsia herralleni kuninkaalle piika, joka neitsy on, joka seisois kuninkaan edessa, ja korjaisi hanta ja makais hanen sylissansa, ja lammittais herraani, kuningasta.	</div>
 
-<div class="versenum">3.</div> Ja he etsivat ihanan piian kaikista Israelin rajoista; ja he loysivat Abisagin Sunemista, ja veivat hanet kuninkaan tyko.	
+<div class="theverse"><div class="versenum">3.</div> Ja he etsivat ihanan piian kaikista Israelin rajoista; ja he loysivat Abisagin Sunemista, ja veivat hanet kuninkaan tyko.	</div>
 
-<div class="versenum">4.</div> Ja se oli sangen ihanainen piika, ja han korjasi kuningasta ja palveli hanta, vaan ei kuningas tuntenut hanta.	
+<div class="theverse"><div class="versenum">4.</div> Ja se oli sangen ihanainen piika, ja han korjasi kuningasta ja palveli hanta, vaan ei kuningas tuntenut hanta.	</div>
 
-<div class="versenum">5.</div> Mutta Adonia Haggitin poika korotti itsensa ja sanoi: mina tahdon olla kuningas; ja rakensi itsellensa vaunut ja hevosmiehia, ja viisikymmenta miesta juoksemaan edellansa.	
+<div class="theverse"><div class="versenum">5.</div> Mutta Adonia Haggitin poika korotti itsensa ja sanoi: mina tahdon olla kuningas; ja rakensi itsellensa vaunut ja hevosmiehia, ja viisikymmenta miesta juoksemaan edellansa.	</div>
 
-<div class="versenum">6.</div> Ja hanen isansa ei tahtonut tehda hanta surulliseksi elaissansa, etta han olis sanonut: kuinkas niin teet? Ja han oli myos sangen ihanainen; ja oli hanen synnyttanyt Absalomin jalkeen.	
+<div class="theverse"><div class="versenum">6.</div> Ja hanen isansa ei tahtonut tehda hanta surulliseksi elaissansa, etta han olis sanonut: kuinkas niin teet? Ja han oli myos sangen ihanainen; ja oli hanen synnyttanyt Absalomin jalkeen.	</div>
 
-<div class="versenum">7.</div> Ja han puhui Joabin ZeruJan pojan kanssa ja papin Abjatarin kanssa; ja he auttivat Adoniaa.	
+<div class="theverse"><div class="versenum">7.</div> Ja han puhui Joabin ZeruJan pojan kanssa ja papin Abjatarin kanssa; ja he auttivat Adoniaa.	</div>
 
-<div class="versenum">8.</div> Mutta Zadok pappi, ja BenaJa Jojadan poika, ja Natan propheta, ja Simei, ja Rei, ja Davidin sankarit ei olleet Adonian kanssa.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Zadok pappi, ja BenaJa Jojadan poika, ja Natan propheta, ja Simei, ja Rei, ja Davidin sankarit ei olleet Adonian kanssa.	</div>
 
-<div class="versenum">9.</div> Ja kuin Adonia uhrasi lampaita ja harkia ja myos syotettya karjaa Soheletin kiven tykona, joka on lasna Rogelin kaivoa, kutsui han kaikki veljensa, kuninkaan pojat, ja kaikki Juudan miehet kuninkaan palveliat.	
+<div class="theverse"><div class="versenum">9.</div> Ja kuin Adonia uhrasi lampaita ja harkia ja myos syotettya karjaa Soheletin kiven tykona, joka on lasna Rogelin kaivoa, kutsui han kaikki veljensa, kuninkaan pojat, ja kaikki Juudan miehet kuninkaan palveliat.	</div>
 
-<div class="versenum">10.</div> Mutta Natan prophetaa, ja Benajaa ja sankareita, ja veljeansa Salomoa han ei kutsunut.	
+<div class="theverse"><div class="versenum">10.</div> Mutta Natan prophetaa, ja Benajaa ja sankareita, ja veljeansa Salomoa han ei kutsunut.	</div>
 
-<div class="versenum">11.</div> Niin puhui Natan BatSeballe Salomon aidille, sanoen: etkos ole kuullut Adoniaa Haggitin poikaa tulleeksi kuninkaaksi? ja herramme David ei siita mitaan tieda;	
+<div class="theverse"><div class="versenum">11.</div> Niin puhui Natan BatSeballe Salomon aidille, sanoen: etkos ole kuullut Adoniaa Haggitin poikaa tulleeksi kuninkaaksi? ja herramme David ei siita mitaan tieda;	</div>
 
-<div class="versenum">12.</div> Niin tule nyt, mina annan sinulle neuvoa, ettas vapahtaisit sielus ja poikas Salomon sielun.	
+<div class="theverse"><div class="versenum">12.</div> Niin tule nyt, mina annan sinulle neuvoa, ettas vapahtaisit sielus ja poikas Salomon sielun.	</div>
 
-<div class="versenum">13.</div> Mene ja kay kuningas Davidin tyko, ja sano hanelle: herrani kuningas, etkos ole vannonut ja sanonut piialles: sinun poikas Salomo pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani? Miksi siis Adonia on kuninkaaksi tullut?	
+<div class="theverse"><div class="versenum">13.</div> Mene ja kay kuningas Davidin tyko, ja sano hanelle: herrani kuningas, etkos ole vannonut ja sanonut piialles: sinun poikas Salomo pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani? Miksi siis Adonia on kuninkaaksi tullut?	</div>
 
-<div class="versenum">14.</div> Katso, sinun viela siella puhuissas kuninkaan kanssa, tulen mina myos perassas ja taytan puhees.	
+<div class="theverse"><div class="versenum">14.</div> Katso, sinun viela siella puhuissas kuninkaan kanssa, tulen mina myos perassas ja taytan puhees.	</div>
 
-<div class="versenum">15.</div> Ja BatSeba meni kamariin kuninkaan tyko, ja kuningas oli juuri vanha; ja Abisag Sunemista palveli Kuningasta.	
+<div class="theverse"><div class="versenum">15.</div> Ja BatSeba meni kamariin kuninkaan tyko, ja kuningas oli juuri vanha; ja Abisag Sunemista palveli Kuningasta.	</div>
 
-<div class="versenum">16.</div> Ja BatSeba noyryytti itsensa ja kumarsi kuningasta. Kuningas sanoi: mitas tahdot?	
+<div class="theverse"><div class="versenum">16.</div> Ja BatSeba noyryytti itsensa ja kumarsi kuningasta. Kuningas sanoi: mitas tahdot?	</div>
 
-<div class="versenum">17.</div> Han sanoi hanelle: herrani, sina vannoit piialles Herran sinun Jumalas kautta: sinun poikas Salomo pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani?	
+<div class="theverse"><div class="versenum">17.</div> Han sanoi hanelle: herrani, sina vannoit piialles Herran sinun Jumalas kautta: sinun poikas Salomo pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani?	</div>
 
-<div class="versenum">18.</div> Mutta nyt, katso, Adonia on tullut kuninkaaksi, ja herrani kuningas, et sina siita mitaan tieda.	
+<div class="theverse"><div class="versenum">18.</div> Mutta nyt, katso, Adonia on tullut kuninkaaksi, ja herrani kuningas, et sina siita mitaan tieda.	</div>
 
-<div class="versenum">19.</div> Han on uhrannut harkia ja syotettya karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan pojat, ja papin AbJatarin, ja Joabin sodanpaamiehen; mutta palveliaas Salomoa ei han kutsunut.	
+<div class="theverse"><div class="versenum">19.</div> Han on uhrannut harkia ja syotettya karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan pojat, ja papin AbJatarin, ja Joabin sodanpaamiehen; mutta palveliaas Salomoa ei han kutsunut.	</div>
 
-<div class="versenum">20.</div> Mutta sina, Herrani kuningas, koko Israelin silmat katsovat sinun paalles, ettas ilmoittaisit heidan edessansa, kuka on istuva herrani kuninkaan istuimella hanen jalkeensa.	
+<div class="theverse"><div class="versenum">20.</div> Mutta sina, Herrani kuningas, koko Israelin silmat katsovat sinun paalles, ettas ilmoittaisit heidan edessansa, kuka on istuva herrani kuninkaan istuimella hanen jalkeensa.	</div>
 
-<div class="versenum">21.</div> Muutoin tapahtuu, kuin herrani kuningas isainsa kanssa nukkunut on, niin taytyy minun ja poikani Salomon vialliset olla.	
+<div class="theverse"><div class="versenum">21.</div> Muutoin tapahtuu, kuin herrani kuningas isainsa kanssa nukkunut on, niin taytyy minun ja poikani Salomon vialliset olla.	</div>
 
-<div class="versenum">22.</div> Ja katso, viela hanen puhuissansa kuninkaan kanssa, tuli Natan propheta.	
+<div class="theverse"><div class="versenum">22.</div> Ja katso, viela hanen puhuissansa kuninkaan kanssa, tuli Natan propheta.	</div>
 
-<div class="versenum">23.</div> Ja he ilmoittivat kuninkaalle sanoen: katso, Natan propheta on taalla. Ja kuin han tuli sisalle kuninkaan eteen, lankesi han maahan kasvoillensa kuninkaan eteen.	
+<div class="theverse"><div class="versenum">23.</div> Ja he ilmoittivat kuninkaalle sanoen: katso, Natan propheta on taalla. Ja kuin han tuli sisalle kuninkaan eteen, lankesi han maahan kasvoillensa kuninkaan eteen.	</div>
 
-<div class="versenum">24.</div> Ja Natan sanoi: herrani kuningas, sanoitkos: Adonia pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani?	
+<div class="theverse"><div class="versenum">24.</div> Ja Natan sanoi: herrani kuningas, sanoitkos: Adonia pitaa oleman kuningas minun jalkeeni ja istuman minun istuimellani?	</div>
 
-<div class="versenum">25.</div> Silla han on tanapana mennyt ja uhrannut harkia, ja syotettyja karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan pojat ja sodanpaamiehet, niin myos papin AbJatarin, ja katso, he syovat ja juovat hanen edessansa, ja sanovat: onneksi kuninkaalle Adonialle!	
+<div class="theverse"><div class="versenum">25.</div> Silla han on tanapana mennyt ja uhrannut harkia, ja syotettyja karjaa, ja monta lammasta, ja on kutsunut kaikki kuninkaan pojat ja sodanpaamiehet, niin myos papin AbJatarin, ja katso, he syovat ja juovat hanen edessansa, ja sanovat: onneksi kuninkaalle Adonialle!	</div>
 
-<div class="versenum">26.</div> Mutta minua sinun palveliaas, ja pappia Zadokia, ja BenaJaa Jojadan poikaa, ja palveliaas Salomoa ei ole han kutsunut.	
+<div class="theverse"><div class="versenum">26.</div> Mutta minua sinun palveliaas, ja pappia Zadokia, ja BenaJaa Jojadan poikaa, ja palveliaas Salomoa ei ole han kutsunut.	</div>
 
-<div class="versenum">27.</div> Onko se niin herraltani kuninkaalta kasketty, ja et sina ole sita asiata antanut tietaa palvelialles, kuka herrani kuninkaan istuimella hanen jalkeensa on istuva?	
+<div class="theverse"><div class="versenum">27.</div> Onko se niin herraltani kuninkaalta kasketty, ja et sina ole sita asiata antanut tietaa palvelialles, kuka herrani kuninkaan istuimella hanen jalkeensa on istuva?	</div>
 
-<div class="versenum">28.</div> Kuningas David vastasi ja sanoi: kutsukaat minulle BatSeba. Ja han tuli kuninkaan eteen ja seisoi kuninkaan edessa.	
+<div class="theverse"><div class="versenum">28.</div> Kuningas David vastasi ja sanoi: kutsukaat minulle BatSeba. Ja han tuli kuninkaan eteen ja seisoi kuninkaan edessa.	</div>
 
-<div class="versenum">29.</div> Ja kuningas vannoi ja sanoi: niin totta kuin Herra elaa, joka minun sieluni on paastanyt kaikkinaisesta ahdistuksesta;	
+<div class="theverse"><div class="versenum">29.</div> Ja kuningas vannoi ja sanoi: niin totta kuin Herra elaa, joka minun sieluni on paastanyt kaikkinaisesta ahdistuksesta;	</div>
 
-<div class="versenum">30.</div> Niinkuin mina sinulle Herran Israelin Jumalan edessa vannonut olen ja sanonut: Salomo sinun poikas pitaa oleman kuningas minun jalkeeni, ja han pitaa istuman minun istuimellani minun edestani; niin mina teen tanapana.	
+<div class="theverse"><div class="versenum">30.</div> Niinkuin mina sinulle Herran Israelin Jumalan edessa vannonut olen ja sanonut: Salomo sinun poikas pitaa oleman kuningas minun jalkeeni, ja han pitaa istuman minun istuimellani minun edestani; niin mina teen tanapana.	</div>
 
-<div class="versenum">31.</div> Niin BatSeba lankesi kasvoillensa maahan ja kumarsi kuningasta, sanoen: onneksi herralleni kuningas Davidille ijankaikkisesti!	
+<div class="theverse"><div class="versenum">31.</div> Niin BatSeba lankesi kasvoillensa maahan ja kumarsi kuningasta, sanoen: onneksi herralleni kuningas Davidille ijankaikkisesti!	</div>
 
-<div class="versenum">32.</div> Ja kuningas David sanoi: kutsukaat Zadok pappi, Natan propheta ja BenaJa Jojadan poika. Ja he tulivat kuninkaan eteen.	
+<div class="theverse"><div class="versenum">32.</div> Ja kuningas David sanoi: kutsukaat Zadok pappi, Natan propheta ja BenaJa Jojadan poika. Ja he tulivat kuninkaan eteen.	</div>
 
-<div class="versenum">33.</div> Ja kuningas sanoi heille: ottakaat kanssanne teidan herranne palveliat, ja asettakaat poikani Salomo minun muulini paalle, ja viekaat hanta Gihoniin,	
+<div class="theverse"><div class="versenum">33.</div> Ja kuningas sanoi heille: ottakaat kanssanne teidan herranne palveliat, ja asettakaat poikani Salomo minun muulini paalle, ja viekaat hanta Gihoniin,	</div>
 
-<div class="versenum">34.</div> Ja Zadok pappi ja Natan propheta voidelkaan hanen Israelin kuninkaaksi. Ja soittakaat basunalla ja sanokaat: onneksi kuninkaalle Salomolle!	
+<div class="theverse"><div class="versenum">34.</div> Ja Zadok pappi ja Natan propheta voidelkaan hanen Israelin kuninkaaksi. Ja soittakaat basunalla ja sanokaat: onneksi kuninkaalle Salomolle!	</div>
 
-<div class="versenum">35.</div> Ja menkaat ylos hanen perassansa, etta han tulis ja istuis minun istuimellani, ja olis kuningas minun edestani: ja mina kasken hanen olla Israelin ja Juudan paamiehena.	
+<div class="theverse"><div class="versenum">35.</div> Ja menkaat ylos hanen perassansa, etta han tulis ja istuis minun istuimellani, ja olis kuningas minun edestani: ja mina kasken hanen olla Israelin ja Juudan paamiehena.	</div>
 
-<div class="versenum">36.</div> Niin vastasi BenaJa Jojadan poika kuninkaalle ja sanoi: Amen! Sanokaan myos niin Herra, herrani kuninkaan Jumala!	
+<div class="theverse"><div class="versenum">36.</div> Niin vastasi BenaJa Jojadan poika kuninkaalle ja sanoi: Amen! Sanokaan myos niin Herra, herrani kuninkaan Jumala!	</div>
 
-<div class="versenum">37.</div> Niinkuin Herra on ollut herrani kuninkaan kanssa, niin olkoon han myos Salomon kanssa, ja tehkoon hanen istuimensa suuremmaksi herrani, kuningas Davidin, istuinta.	
+<div class="theverse"><div class="versenum">37.</div> Niinkuin Herra on ollut herrani kuninkaan kanssa, niin olkoon han myos Salomon kanssa, ja tehkoon hanen istuimensa suuremmaksi herrani, kuningas Davidin, istuinta.	</div>
 
-<div class="versenum">38.</div> Ja pappi Zadok, ja Natan propheta ja BenaJa Jojadan poika ja Kreti ja Pleti menivat alas, ja asettivat Salomon kuningas Davidin muulin paalle ja veivat hanen Gihoniin.	
+<div class="theverse"><div class="versenum">38.</div> Ja pappi Zadok, ja Natan propheta ja BenaJa Jojadan poika ja Kreti ja Pleti menivat alas, ja asettivat Salomon kuningas Davidin muulin paalle ja veivat hanen Gihoniin.	</div>
 
-<div class="versenum">39.</div> ja pappi Zadok otti oljysarven majasta ja voiteli Salomon, ja he soittivat basunalla, ja kaikki kansa sanoi: onneksi kuningas Salomolle!	
+<div class="theverse"><div class="versenum">39.</div> ja pappi Zadok otti oljysarven majasta ja voiteli Salomon, ja he soittivat basunalla, ja kaikki kansa sanoi: onneksi kuningas Salomolle!	</div>
 
-<div class="versenum">40.</div> Ja kaikki kansa meni ylos hanen jalkeensa, ja kansa soitti huilulla, ja he olivat sangen suuresti iloissansa, etta maa vapisi heidan aanestansa.	
+<div class="theverse"><div class="versenum">40.</div> Ja kaikki kansa meni ylos hanen jalkeensa, ja kansa soitti huilulla, ja he olivat sangen suuresti iloissansa, etta maa vapisi heidan aanestansa.	</div>
 
-<div class="versenum">41.</div> Ja Adonia ja kaikki kutsutut, jotka hanen kanssansa olivat, kuulivat sen, ja he olivat jo atrioineet; ja kuin Joab kuuli basunan aanen, sanoi han: mita se meteli ja tomina tietaa kaupungissa?	
+<div class="theverse"><div class="versenum">41.</div> Ja Adonia ja kaikki kutsutut, jotka hanen kanssansa olivat, kuulivat sen, ja he olivat jo atrioineet; ja kuin Joab kuuli basunan aanen, sanoi han: mita se meteli ja tomina tietaa kaupungissa?	</div>
 
-<div class="versenum">42.</div> Ja kuin han viela puhui, katso, niin tuli Jonatan papin AbJatarin poika. Ja Adonia sanoi: tule, silla sina olet luja mies ja tuot hyvia sanomia.	
+<div class="theverse"><div class="versenum">42.</div> Ja kuin han viela puhui, katso, niin tuli Jonatan papin AbJatarin poika. Ja Adonia sanoi: tule, silla sina olet luja mies ja tuot hyvia sanomia.	</div>
 
-<div class="versenum">43.</div> Jonatan vastasi ja sanoi Adonialle: totisesti, herramme kuningas David on tehnyt Salomon kuninkaaksi.	
+<div class="theverse"><div class="versenum">43.</div> Jonatan vastasi ja sanoi Adonialle: totisesti, herramme kuningas David on tehnyt Salomon kuninkaaksi.	</div>
 
-<div class="versenum">44.</div> Ja kuningas on lahettanyt hanen kanssansa papin Zadokin, ja prophetan Natanin, ja BenaJan Jojadan pojan, ja Kretit ja Pletit: he ovat hanen istuttaneet kuninkaan muulin paalle.	
+<div class="theverse"><div class="versenum">44.</div> Ja kuningas on lahettanyt hanen kanssansa papin Zadokin, ja prophetan Natanin, ja BenaJan Jojadan pojan, ja Kretit ja Pletit: he ovat hanen istuttaneet kuninkaan muulin paalle.	</div>
 
-<div class="versenum">45.</div> Ja Zadok pappi ja Natan propheta ovat voidelleet hanen kuninkaaksi Gihonissa, ja he ovat sielta menneet ylos iloissansa, niin etta kaupunki tomisi. Se oli se meteli, kuin te kuulitte.	
+<div class="theverse"><div class="versenum">45.</div> Ja Zadok pappi ja Natan propheta ovat voidelleet hanen kuninkaaksi Gihonissa, ja he ovat sielta menneet ylos iloissansa, niin etta kaupunki tomisi. Se oli se meteli, kuin te kuulitte.	</div>
 
-<div class="versenum">46.</div> Viela sitte istuu Salomo valtakunnan istuimella.	
+<div class="theverse"><div class="versenum">46.</div> Viela sitte istuu Salomo valtakunnan istuimella.	</div>
 
-<div class="versenum">47.</div> Ja kuninkaan palveliat ovat myos menneet siunaamaan herraamme kuningas Davidia, sanoen: antakoon sinun Jumalas Salomolle paremman nimen kuin sinun nimes on, ja tehkoon hanen istuimensa suuremmaksi kuin sinun istuimes on! Ja kuningas rukoili vuoteessansa.	
+<div class="theverse"><div class="versenum">47.</div> Ja kuninkaan palveliat ovat myos menneet siunaamaan herraamme kuningas Davidia, sanoen: antakoon sinun Jumalas Salomolle paremman nimen kuin sinun nimes on, ja tehkoon hanen istuimensa suuremmaksi kuin sinun istuimes on! Ja kuningas rukoili vuoteessansa.	</div>
 
-<div class="versenum">48.</div> On myos kuningas nain sanonut: kiitetty olkoon Herra Israelin Jumala, joka tanapana on antanut viela istuvan minun istuimellani, etta minun silmani sen nahneet ovat!	
+<div class="theverse"><div class="versenum">48.</div> On myos kuningas nain sanonut: kiitetty olkoon Herra Israelin Jumala, joka tanapana on antanut viela istuvan minun istuimellani, etta minun silmani sen nahneet ovat!	</div>
 
-<div class="versenum">49.</div> Niin hammastyivat ja nousivat kaikki jotka Adonia kutsunut oli, ja menivat itsekukin tiellensa.	
+<div class="theverse"><div class="versenum">49.</div> Niin hammastyivat ja nousivat kaikki jotka Adonia kutsunut oli, ja menivat itsekukin tiellensa.	</div>
 
-<div class="versenum">50.</div> Vaan Adonia pelkasi Salomoa, nousi ja meni ja tarttui alttarin sarviin.	
+<div class="theverse"><div class="versenum">50.</div> Vaan Adonia pelkasi Salomoa, nousi ja meni ja tarttui alttarin sarviin.	</div>
 
-<div class="versenum">51.</div> Ja se ilmoitettiin Salomolle, sanoen: katso, Adonia pelkaa kuningas Salomoa, ja katso, han tarttui alttarin sarviin ja sanoi: vannokaan kuningas Salomo minulle tanapana, ettei han lyo palveliaansa kuoliaaksi miekalla.	
+<div class="theverse"><div class="versenum">51.</div> Ja se ilmoitettiin Salomolle, sanoen: katso, Adonia pelkaa kuningas Salomoa, ja katso, han tarttui alttarin sarviin ja sanoi: vannokaan kuningas Salomo minulle tanapana, ettei han lyo palveliaansa kuoliaaksi miekalla.	</div>
 
-<div class="versenum">52.</div> Salomo sanoi: jos han tahtoo olla toimellinen mies, niin ei pida yksikaan karva hanesta lankeeman maan paalle; mutta jos jotain pahuutta hanessa loydetaan, niin hanen pitaa kuoleman.	
+<div class="theverse"><div class="versenum">52.</div> Salomo sanoi: jos han tahtoo olla toimellinen mies, niin ei pida yksikaan karva hanesta lankeeman maan paalle; mutta jos jotain pahuutta hanessa loydetaan, niin hanen pitaa kuoleman.	</div>
 
-<div class="versenum">53.</div> Ja kuningas Salomo lahetti ja tuotti hanen alas alttarilta, ja kuin han tuli, rukoili han kuningas Salomoa; mutta Salomo sanoi hanelle: mene huoneeses.	
+<div class="theverse"><div class="versenum">53.</div> Ja kuningas Salomo lahetti ja tuotti hanen alas alttarilta, ja kuin han tuli, rukoili han kuningas Salomoa; mutta Salomo sanoi hanelle: mene huoneeses.	</div>
 </body>
 </html>

@@ -4,88 +4,88 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 10	</div>
 	
-<div class="versenum">1.</div> Ja han kutsui tykonsa kaksitoistakymmenta opetuslastansa, ja antoi heille vallan riettaisia henkia vastaan, niita ajaa ulos, ja parantaa kaikkinaisia tauteja ja kaikkea sairautta.	
+<div class="theverse"><div class="versenum">1.</div> Ja han kutsui tykonsa kaksitoistakymmenta opetuslastansa, ja antoi heille vallan riettaisia henkia vastaan, niita ajaa ulos, ja parantaa kaikkinaisia tauteja ja kaikkea sairautta.	</div>
 
-<div class="versenum">2.</div> Mutta namat ovat kahdentoistakymmenen apostolin nimet: ensimmainen Simon, joka Pietariksi kutsutaan, ja Andreas, hanen veljensa, Jakobus Zebedeuksen poika, ja Johannes, hanen veljensa,	
+<div class="theverse"><div class="versenum">2.</div> Mutta namat ovat kahdentoistakymmenen apostolin nimet: ensimmainen Simon, joka Pietariksi kutsutaan, ja Andreas, hanen veljensa, Jakobus Zebedeuksen poika, ja Johannes, hanen veljensa,	</div>
 
-<div class="versenum">3.</div> Philippus ja Bartolomeus, Tomas ja Matteus, Publikani, Jakobus Alpheuksen poika, ja Lebbeus, liialta nimelta Taddeus,	
+<div class="theverse"><div class="versenum">3.</div> Philippus ja Bartolomeus, Tomas ja Matteus, Publikani, Jakobus Alpheuksen poika, ja Lebbeus, liialta nimelta Taddeus,	</div>
 
-<div class="versenum">4.</div> Simon Kananeus ja Juudas Iskariot, joka myos hanen petti.	
+<div class="theverse"><div class="versenum">4.</div> Simon Kananeus ja Juudas Iskariot, joka myos hanen petti.	</div>
 
-<div class="versenum">5.</div> Namat kaksitoistakymmenta lahetti Jesus, joille han oli kaskenyt, sanoen: alkaat menko pakanain teille, ja Samarialaisten kaupunkiin alkaat sisalle menko;	
+<div class="theverse"><div class="versenum">5.</div> Namat kaksitoistakymmenta lahetti Jesus, joille han oli kaskenyt, sanoen: alkaat menko pakanain teille, ja Samarialaisten kaupunkiin alkaat sisalle menko;	</div>
 
-<div class="versenum">6.</div> Mutta menkaat paremmin kadotettuin lammasten tyko Israelin huoneesta.	
+<div class="theverse"><div class="versenum">6.</div> Mutta menkaat paremmin kadotettuin lammasten tyko Israelin huoneesta.	</div>
 
-<div class="versenum">7.</div> Niin menkaat ja saarnatkaat, sanoen: taivaan valtakunta on lahestynyt.	
+<div class="theverse"><div class="versenum">7.</div> Niin menkaat ja saarnatkaat, sanoen: taivaan valtakunta on lahestynyt.	</div>
 
-<div class="versenum">8.</div> Sairaita parantakaat, spitalisia puhdistakaat, kuolleita herattakaat, perkeleita ajakaat ulos. Lahjaksi te saitte, niin myos lahjaksi antakaat.	
+<div class="theverse"><div class="versenum">8.</div> Sairaita parantakaat, spitalisia puhdistakaat, kuolleita herattakaat, perkeleita ajakaat ulos. Lahjaksi te saitte, niin myos lahjaksi antakaat.	</div>
 
-<div class="versenum">9.</div> Ei teidan pida varustaman itsianne kullalla eika hopialla, eika vaskella teidan vyollenne,	
+<div class="theverse"><div class="versenum">9.</div> Ei teidan pida varustaman itsianne kullalla eika hopialla, eika vaskella teidan vyollenne,	</div>
 
-<div class="versenum">10.</div> Eika evassakilla matkalle, eika kahdella hameella, eika kengilla, eika sauvalla; silla tyomies on ruokansa ansainnut.	
+<div class="theverse"><div class="versenum">10.</div> Eika evassakilla matkalle, eika kahdella hameella, eika kengilla, eika sauvalla; silla tyomies on ruokansa ansainnut.	</div>
 
-<div class="versenum">11.</div> Vaan kuhunka ikana kaupunkiin taikka kylaan te sisalle menette, niin kyselkaat, kuka siina on mahdollinen, ja olkaat siella siihenasti kuin te lahdette.	
+<div class="theverse"><div class="versenum">11.</div> Vaan kuhunka ikana kaupunkiin taikka kylaan te sisalle menette, niin kyselkaat, kuka siina on mahdollinen, ja olkaat siella siihenasti kuin te lahdette.	</div>
 
-<div class="versenum">12.</div> Mutta kuin te huoneeseen sisalle menette, niin tervehtikaat sita (ja sanokaat: rauha olkoon talle huoneelle!)	
+<div class="theverse"><div class="versenum">12.</div> Mutta kuin te huoneeseen sisalle menette, niin tervehtikaat sita (ja sanokaat: rauha olkoon talle huoneelle!)	</div>
 
-<div class="versenum">13.</div> Ja jos huone on mahdollinen, niin tulkaan teidan rauhanne hanelle; jollei han ole mahdollinen, niin teidan rauhanne teille palajaa.	
+<div class="theverse"><div class="versenum">13.</div> Ja jos huone on mahdollinen, niin tulkaan teidan rauhanne hanelle; jollei han ole mahdollinen, niin teidan rauhanne teille palajaa.	</div>
 
-<div class="versenum">14.</div> Ja kussa ei kenkaan ota teita vastaan eika kuule teidan sanojanne, niin menkaat ulos siita huoneesta taikka siita kaupungista, ja puhdistakaat tomu jaloistanne.	
+<div class="theverse"><div class="versenum">14.</div> Ja kussa ei kenkaan ota teita vastaan eika kuule teidan sanojanne, niin menkaat ulos siita huoneesta taikka siita kaupungista, ja puhdistakaat tomu jaloistanne.	</div>
 
-<div class="versenum">15.</div> Totisesti sanon mina teille: huokeampi pitaa oleman Sodoman ja Gomorran maalle tuomiopaivana kuin sille kaupungille.	
+<div class="theverse"><div class="versenum">15.</div> Totisesti sanon mina teille: huokeampi pitaa oleman Sodoman ja Gomorran maalle tuomiopaivana kuin sille kaupungille.	</div>
 
-<div class="versenum">16.</div> Katso, mina lahetan teidat niinkuin lampaat sutten keskelle: olkaat sentahden taitavat niinkuin kaarmeet, ja vakaat niinkuin kyyhkyiset.	
+<div class="theverse"><div class="versenum">16.</div> Katso, mina lahetan teidat niinkuin lampaat sutten keskelle: olkaat sentahden taitavat niinkuin kaarmeet, ja vakaat niinkuin kyyhkyiset.	</div>
 
-<div class="versenum">17.</div> Mutta kavahtakaat ihmisia; silla he ylonantavat teidat raastupiinsa, ja synagogissansa he hosuvat teita.	
+<div class="theverse"><div class="versenum">17.</div> Mutta kavahtakaat ihmisia; silla he ylonantavat teidat raastupiinsa, ja synagogissansa he hosuvat teita.	</div>
 
-<div class="versenum">18.</div> Te viedaan myos paamiesten ja kuningasten eteen minun tahteni, heille ja pakanoille todistukseksi.	
+<div class="theverse"><div class="versenum">18.</div> Te viedaan myos paamiesten ja kuningasten eteen minun tahteni, heille ja pakanoille todistukseksi.	</div>
 
-<div class="versenum">19.</div> Kuin he teita ylonantavat, alkaat murehtiko, kuinka eli mita teidan pitaa puhuman; silla teille annetaan silla hetkella, mita teidan pitaa puhuman.	
+<div class="theverse"><div class="versenum">19.</div> Kuin he teita ylonantavat, alkaat murehtiko, kuinka eli mita teidan pitaa puhuman; silla teille annetaan silla hetkella, mita teidan pitaa puhuman.	</div>
 
-<div class="versenum">20.</div> Silla ette te ole, jotka puhutte, vaan teidan Isanne Henki, joka teissa puhuu.	
+<div class="theverse"><div class="versenum">20.</div> Silla ette te ole, jotka puhutte, vaan teidan Isanne Henki, joka teissa puhuu.	</div>
 
-<div class="versenum">21.</div> Mutta veli antaa ylon veljensa kuolemaan, ja isa pojan, ja lapset karkaavat vanhempia vastaan, ja antavat tappaa heita,	
+<div class="theverse"><div class="versenum">21.</div> Mutta veli antaa ylon veljensa kuolemaan, ja isa pojan, ja lapset karkaavat vanhempia vastaan, ja antavat tappaa heita,	</div>
 
-<div class="versenum">22.</div> Ja te tulette vihattavaksi kaikilta minun nimeni tahden. Mutta joka loppuun asti vahvana pysyy, han tulee autuaaksi.	
+<div class="theverse"><div class="versenum">22.</div> Ja te tulette vihattavaksi kaikilta minun nimeni tahden. Mutta joka loppuun asti vahvana pysyy, han tulee autuaaksi.	</div>
 
-<div class="versenum">23.</div> Mutta koska he teita siina kaupungissa vainoovat, niin paetkaat toiseen. Totisesti sanon mina teille: ette ehdi kaikkia Israelin kaupungeita toimittaa, siihenasti kuin Ihmisen Poika tulee.	
+<div class="theverse"><div class="versenum">23.</div> Mutta koska he teita siina kaupungissa vainoovat, niin paetkaat toiseen. Totisesti sanon mina teille: ette ehdi kaikkia Israelin kaupungeita toimittaa, siihenasti kuin Ihmisen Poika tulee.	</div>
 
-<div class="versenum">24.</div> Ei ole opetuslapsi parempi opettajaansa, eika palvelia parempi isantaansa.	
+<div class="theverse"><div class="versenum">24.</div> Ei ole opetuslapsi parempi opettajaansa, eika palvelia parempi isantaansa.	</div>
 
-<div class="versenum">25.</div> Siina on opetuslapselle kylla, etta han on niinkuin hanen opettajansa, ja palvelia niinkuin hanen isantansa. Jos he ovat itse isannan beelsebubiksi kutsuneet, kuinka paljoa ennemmin he hanen perheensa kutsuvat?	
+<div class="theverse"><div class="versenum">25.</div> Siina on opetuslapselle kylla, etta han on niinkuin hanen opettajansa, ja palvelia niinkuin hanen isantansa. Jos he ovat itse isannan beelsebubiksi kutsuneet, kuinka paljoa ennemmin he hanen perheensa kutsuvat?	</div>
 
-<div class="versenum">26.</div> Alkaat sentahden heita peljatko; silla ei ole mitaan peitetty, joka ei pida ilmoitettaman, ja salattu, joka ei tule tiettavaksi.	
+<div class="theverse"><div class="versenum">26.</div> Alkaat sentahden heita peljatko; silla ei ole mitaan peitetty, joka ei pida ilmoitettaman, ja salattu, joka ei tule tiettavaksi.	</div>
 
-<div class="versenum">27.</div> Jota mina teille pimeissa sanon, sita sanokaat valkeudessa, ja mita te korvissanne kuulette, sita saarnatkaat kattoin paalla.	
+<div class="theverse"><div class="versenum">27.</div> Jota mina teille pimeissa sanon, sita sanokaat valkeudessa, ja mita te korvissanne kuulette, sita saarnatkaat kattoin paalla.	</div>
 
-<div class="versenum">28.</div> Ja alkaat peljatko niita, jotka ruumiin tappavat, ja ei voi sielua tappaa; mutta peljatkaat enemmin sita, joka voi seka sielun etta ruumiin helvetissa hukuttaa.	
+<div class="theverse"><div class="versenum">28.</div> Ja alkaat peljatko niita, jotka ruumiin tappavat, ja ei voi sielua tappaa; mutta peljatkaat enemmin sita, joka voi seka sielun etta ruumiin helvetissa hukuttaa.	</div>
 
-<div class="versenum">29.</div> Eiko kaksi varpusta yhteen ropoon myyda? ja yksi heista ei putoo maan paalle ilman teidan Isattanne;	
+<div class="theverse"><div class="versenum">29.</div> Eiko kaksi varpusta yhteen ropoon myyda? ja yksi heista ei putoo maan paalle ilman teidan Isattanne;	</div>
 
-<div class="versenum">30.</div> Niin ovat myos kaikki teidan paanne hiukset luetut.	
+<div class="theverse"><div class="versenum">30.</div> Niin ovat myos kaikki teidan paanne hiukset luetut.	</div>
 
-<div class="versenum">31.</div> Alkaat siis peljatko: te olette paremmat, kuin monta varpusta.	
+<div class="theverse"><div class="versenum">31.</div> Alkaat siis peljatko: te olette paremmat, kuin monta varpusta.	</div>
 
-<div class="versenum">32.</div> Sentahden jokainen joka minun tunnustaa ihmisten edessa, sen tunnustan myos mina Isani edessa, joka on taivaissa.	
+<div class="theverse"><div class="versenum">32.</div> Sentahden jokainen joka minun tunnustaa ihmisten edessa, sen tunnustan myos mina Isani edessa, joka on taivaissa.	</div>
 
-<div class="versenum">33.</div> Mutta joka minun kieltaa ihmisten edessa, hanen mina myos kiellan Isani edessa, joka on taivaissa.	
+<div class="theverse"><div class="versenum">33.</div> Mutta joka minun kieltaa ihmisten edessa, hanen mina myos kiellan Isani edessa, joka on taivaissa.	</div>
 
-<div class="versenum">34.</div> Alkaat luulko, etta mina olen tullut rauhaa lahettamaan maan paalle: en ole mina tullut rauhaa, vaan miekkaa lahettamaan.	
+<div class="theverse"><div class="versenum">34.</div> Alkaat luulko, etta mina olen tullut rauhaa lahettamaan maan paalle: en ole mina tullut rauhaa, vaan miekkaa lahettamaan.	</div>
 
-<div class="versenum">35.</div> Silla mina tulin ihmista isaansa vastaan riitaiseksi tekemaan, ja tytarta aitiansa vastaan ja miniaa anoppiansa vastaan.	
+<div class="theverse"><div class="versenum">35.</div> Silla mina tulin ihmista isaansa vastaan riitaiseksi tekemaan, ja tytarta aitiansa vastaan ja miniaa anoppiansa vastaan.	</div>
 
-<div class="versenum">36.</div> Ja ihmisen vihamiehet on hanen perheensa.	
+<div class="theverse"><div class="versenum">36.</div> Ja ihmisen vihamiehet on hanen perheensa.	</div>
 
-<div class="versenum">37.</div> Joka rakastaa isaansa taikka aitiansa enempi kuin minua, ei se ole minulle sovelias; joka rakastaa poikaansa taikka tytartansa enempi kuin minua, ei se ole minulle sovelias.	
+<div class="theverse"><div class="versenum">37.</div> Joka rakastaa isaansa taikka aitiansa enempi kuin minua, ei se ole minulle sovelias; joka rakastaa poikaansa taikka tytartansa enempi kuin minua, ei se ole minulle sovelias.	</div>
 
-<div class="versenum">38.</div> Ja kuka ei ota ristiansa ja seuraa minua, ei se ole minulle sovelias;	
+<div class="theverse"><div class="versenum">38.</div> Ja kuka ei ota ristiansa ja seuraa minua, ei se ole minulle sovelias;	</div>
 
-<div class="versenum">39.</div> Joka loytaa henkensa, hanen pitaa sen hukuttaman, ja joka henkensa hukuttaa minun tahteni, hanen pitaa sen loytaman.	
+<div class="theverse"><div class="versenum">39.</div> Joka loytaa henkensa, hanen pitaa sen hukuttaman, ja joka henkensa hukuttaa minun tahteni, hanen pitaa sen loytaman.	</div>
 
-<div class="versenum">40.</div> Joka teita holhoo, han holhoo minua, ja joka minua holhoo, han holhoo sita, joka minun lahetti.	
+<div class="theverse"><div class="versenum">40.</div> Joka teita holhoo, han holhoo minua, ja joka minua holhoo, han holhoo sita, joka minun lahetti.	</div>
 
-<div class="versenum">41.</div> Joka prophetaa holhoo prophetan nimella, han saa prophetan palkan, ja joka vanhurskasta holhoo vanhurskaan nimella, han saa vanhurskaan palkan.	
+<div class="theverse"><div class="versenum">41.</div> Joka prophetaa holhoo prophetan nimella, han saa prophetan palkan, ja joka vanhurskasta holhoo vanhurskaan nimella, han saa vanhurskaan palkan.	</div>
 
-<div class="versenum">42.</div> Ja kuka ikana juottaa yhden naista vahimmista kylmalla vesipikarilla ainoastaan, opetuslapsen nimella, totisesti sanon mina teille: ei han pida palkatta oleman.	
+<div class="theverse"><div class="versenum">42.</div> Ja kuka ikana juottaa yhden naista vahimmista kylmalla vesipikarilla ainoastaan, opetuslapsen nimella, totisesti sanon mina teille: ei han pida palkatta oleman.	</div>
 </body>
 </html>

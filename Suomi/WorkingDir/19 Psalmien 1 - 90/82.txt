@@ -4,20 +4,20 @@
 </head>
 <body><div class="chaptertitle">Psalmien 82	</div>
 	
-<div class="versenum">1.</div> Asaphin Psalmi. Jumala seisoo Jumalan seurakunnassa: han on tuomari Jumalain seassa.	
+<div class="theverse"><div class="versenum">1.</div> Asaphin Psalmi. Jumala seisoo Jumalan seurakunnassa: han on tuomari Jumalain seassa.	</div>
 
-<div class="versenum">2.</div> Kuinka kauvan te vaarin tuomitsette, ja jumalattoman muotoa katsotte? Sela!	
+<div class="theverse"><div class="versenum">2.</div> Kuinka kauvan te vaarin tuomitsette, ja jumalattoman muotoa katsotte? Sela!	</div>
 
-<div class="versenum">3.</div> Tehkaa oikeus koyhalle ja orvolle, ja auttakaat raadolliset ja vaivaiset oikeudelle.	
+<div class="theverse"><div class="versenum">3.</div> Tehkaa oikeus koyhalle ja orvolle, ja auttakaat raadolliset ja vaivaiset oikeudelle.	</div>
 
-<div class="versenum">4.</div> Pelastakaat ylonkatsottua ja koyhaa, ja paastakaat hanta jumalattoman kadesta.	
+<div class="theverse"><div class="versenum">4.</div> Pelastakaat ylonkatsottua ja koyhaa, ja paastakaat hanta jumalattoman kadesta.	</div>
 
-<div class="versenum">5.</div> Mutta ei he tottele eika lukua pida: he kayvat lakkaamata pimeassa: sentahden taytyy kaikki maan perustukset kaatua.	
+<div class="theverse"><div class="versenum">5.</div> Mutta ei he tottele eika lukua pida: he kayvat lakkaamata pimeassa: sentahden taytyy kaikki maan perustukset kaatua.	</div>
 
-<div class="versenum">6.</div> Mina tosin sanoin: te olette jumalat, ja kaikki Korkeimman lapset;	
+<div class="theverse"><div class="versenum">6.</div> Mina tosin sanoin: te olette jumalat, ja kaikki Korkeimman lapset;	</div>
 
-<div class="versenum">7.</div> Kuitenkin taytyy teidan kuolla niinkuin ihmiset, ja niinkuin tyrannit hukkua.	
+<div class="theverse"><div class="versenum">7.</div> Kuitenkin taytyy teidan kuolla niinkuin ihmiset, ja niinkuin tyrannit hukkua.	</div>
 
-<div class="versenum">8.</div> Nouse, Jumala, ja tuomitse maa; silla kaikki pakanat ovat sinun omas.	
+<div class="theverse"><div class="versenum">8.</div> Nouse, Jumala, ja tuomitse maa; silla kaikki pakanat ovat sinun omas.	</div>
 </body>
 </html>

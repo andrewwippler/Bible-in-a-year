@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 10	</div>
 	
-<div class="versenum">1.</div> Tama on Noan lasten sukukunta: Semin, Hamin ja Japhetin: ja heille syntyi lapsia vedenpaisumisen jalkeen.	
+<div class="theverse"><div class="versenum">1.</div> Tama on Noan lasten sukukunta: Semin, Hamin ja Japhetin: ja heille syntyi lapsia vedenpaisumisen jalkeen.	</div>
 
-<div class="versenum">2.</div> Japhetin lapset: Gomer, Magog, Madai, Javan ja Tubal: Mesek ja Tiras.	
+<div class="theverse"><div class="versenum">2.</div> Japhetin lapset: Gomer, Magog, Madai, Javan ja Tubal: Mesek ja Tiras.	</div>
 
-<div class="versenum">3.</div> Mutta Gomerin lapset: Askenas, Riphad ja Togarma.	
+<div class="theverse"><div class="versenum">3.</div> Mutta Gomerin lapset: Askenas, Riphad ja Togarma.	</div>
 
-<div class="versenum">4.</div> Javanin lapset: Elisa ja Tarsis: Kittim ja Dodanim.	
+<div class="theverse"><div class="versenum">4.</div> Javanin lapset: Elisa ja Tarsis: Kittim ja Dodanim.	</div>
 
-<div class="versenum">5.</div> Naista ovat hajoitetut pakanain luodot, heidan maakunnissansa, itsekukin oman kielensa jalkeen: heidan sukukuntainsa jalkeen, heidan kansoissansa.	
+<div class="theverse"><div class="versenum">5.</div> Naista ovat hajoitetut pakanain luodot, heidan maakunnissansa, itsekukin oman kielensa jalkeen: heidan sukukuntainsa jalkeen, heidan kansoissansa.	</div>
 
-<div class="versenum">6.</div> Hamin lapset: Kus, Misraim, Put ja Kanaan.	
+<div class="theverse"><div class="versenum">6.</div> Hamin lapset: Kus, Misraim, Put ja Kanaan.	</div>
 
-<div class="versenum">7.</div> Kuksen lapset: Seba, Hevila, Sabta, Naema ja Sabteka. Naeman lapset: Skepa ja Dedan.	
+<div class="theverse"><div class="versenum">7.</div> Kuksen lapset: Seba, Hevila, Sabta, Naema ja Sabteka. Naeman lapset: Skepa ja Dedan.	</div>
 
-<div class="versenum">8.</div> Mutta Kus siitti Nimrodin: han rupesi olemaan valtias maalla.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Kus siitti Nimrodin: han rupesi olemaan valtias maalla.	</div>
 
-<div class="versenum">9.</div> Ja han oli jalo metsamies Herran edessa. Siita on sananlasku: se on jalo metsamies Herran edessa, niinkuin Nimrod.	
+<div class="theverse"><div class="versenum">9.</div> Ja han oli jalo metsamies Herran edessa. Siita on sananlasku: se on jalo metsamies Herran edessa, niinkuin Nimrod.	</div>
 
-<div class="versenum">10.</div> Ja hanen valtakuntansa alku oli Babel, Erek, Akad ja Kalne, Sinearin maalla.	
+<div class="theverse"><div class="versenum">10.</div> Ja hanen valtakuntansa alku oli Babel, Erek, Akad ja Kalne, Sinearin maalla.	</div>
 
-<div class="versenum">11.</div> Siita maakunnasta tuli han Assyriaan: ja rakensi Niniven, ja Rehobotin kaupungin, ja Kalan.	
+<div class="theverse"><div class="versenum">11.</div> Siita maakunnasta tuli han Assyriaan: ja rakensi Niniven, ja Rehobotin kaupungin, ja Kalan.	</div>
 
-<div class="versenum">12.</div> Ja myos Ressen, Niniven ja Kalan vaiheelle: joka on suuri kaupunki.	
+<div class="theverse"><div class="versenum">12.</div> Ja myos Ressen, Niniven ja Kalan vaiheelle: joka on suuri kaupunki.	</div>
 
-<div class="versenum">13.</div> Misraim siitti Ludimin, Anamimin, Leabimin, Naphtuhimin.	
+<div class="theverse"><div class="versenum">13.</div> Misraim siitti Ludimin, Anamimin, Leabimin, Naphtuhimin.	</div>
 
-<div class="versenum">14.</div> Patrusimin ja Kasluhimin; joista tulleet ovat Philistim ja Kaphtorim.	
+<div class="theverse"><div class="versenum">14.</div> Patrusimin ja Kasluhimin; joista tulleet ovat Philistim ja Kaphtorim.	</div>
 
-<div class="versenum">15.</div> Mutta Kanaan siitti esikoisensa Sidonin ja Hetin.	
+<div class="theverse"><div class="versenum">15.</div> Mutta Kanaan siitti esikoisensa Sidonin ja Hetin.	</div>
 
-<div class="versenum">16.</div> Ja Jebusin, Emorin, Girgosin.	
+<div class="theverse"><div class="versenum">16.</div> Ja Jebusin, Emorin, Girgosin.	</div>
 
-<div class="versenum">17.</div> Hivin, Arkin, Sinin,	
+<div class="theverse"><div class="versenum">17.</div> Hivin, Arkin, Sinin,	</div>
 
-<div class="versenum">18.</div> Ja Arvadin, Semarin ja Hamatin. Sitten ovat hajoitetut Kanaanealaisten suvut.	
+<div class="theverse"><div class="versenum">18.</div> Ja Arvadin, Semarin ja Hamatin. Sitten ovat hajoitetut Kanaanealaisten suvut.	</div>
 
-<div class="versenum">19.</div> Ja Kanaanealaisten rajat olivat Sidonista Gerarin kautta hamaan Gatsaan: Sodomaan, ja Gomorraan, ja Adamaan, Seboimiin pain, Lasaan asti.	
+<div class="theverse"><div class="versenum">19.</div> Ja Kanaanealaisten rajat olivat Sidonista Gerarin kautta hamaan Gatsaan: Sodomaan, ja Gomorraan, ja Adamaan, Seboimiin pain, Lasaan asti.	</div>
 
-<div class="versenum">20.</div> Namat ovat Hamin lapset heidan sukukuntainsa ja kieltensa jalkeen: heidan maakunnissansa ja kansoissansa.	
+<div class="theverse"><div class="versenum">20.</div> Namat ovat Hamin lapset heidan sukukuntainsa ja kieltensa jalkeen: heidan maakunnissansa ja kansoissansa.	</div>
 
-<div class="versenum">21.</div> Mutta myos itse Semille syntyi lapsia: han oli kaikkein Eberin lasten isa: Japhetin sen vanhimman veli.	
+<div class="theverse"><div class="versenum">21.</div> Mutta myos itse Semille syntyi lapsia: han oli kaikkein Eberin lasten isa: Japhetin sen vanhimman veli.	</div>
 
-<div class="versenum">22.</div> (Ja namat ovat) Semin lapset: Elam ja Assur: Arphaksad, Lud ja Aram.	
+<div class="theverse"><div class="versenum">22.</div> (Ja namat ovat) Semin lapset: Elam ja Assur: Arphaksad, Lud ja Aram.	</div>
 
-<div class="versenum">23.</div> Ja Aramin lapset: Uts, Hul, Geter ja Mas.	
+<div class="theverse"><div class="versenum">23.</div> Ja Aramin lapset: Uts, Hul, Geter ja Mas.	</div>
 
-<div class="versenum">24.</div> Mutta Arphaksad siitti Salan: Sala siitti Eberin.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Arphaksad siitti Salan: Sala siitti Eberin.	</div>
 
-<div class="versenum">25.</div> Eberille syntyi kaksi poikaa: yksi kutsuttiin Peleg, etta hanen aikanansa maailma jaettiin: hanen veljensa kutsuttiin Joktan.	
+<div class="theverse"><div class="versenum">25.</div> Eberille syntyi kaksi poikaa: yksi kutsuttiin Peleg, etta hanen aikanansa maailma jaettiin: hanen veljensa kutsuttiin Joktan.	</div>
 
-<div class="versenum">26.</div> Joktan siitti Almodadin ja Salephin: Hasarmavetin ja Jaran.	
+<div class="theverse"><div class="versenum">26.</div> Joktan siitti Almodadin ja Salephin: Hasarmavetin ja Jaran.	</div>
 
-<div class="versenum">27.</div> Hadoramin, Usalin, Dikelan.	
+<div class="theverse"><div class="versenum">27.</div> Hadoramin, Usalin, Dikelan.	</div>
 
-<div class="versenum">28.</div> Obalin, Abimaelin, Seban.	
+<div class="theverse"><div class="versenum">28.</div> Obalin, Abimaelin, Seban.	</div>
 
-<div class="versenum">29.</div> Ophirin, Hevilan ja Jobabin. Kaikki nama ovat Joktanin pojat.	
+<div class="theverse"><div class="versenum">29.</div> Ophirin, Hevilan ja Jobabin. Kaikki nama ovat Joktanin pojat.	</div>
 
-<div class="versenum">30.</div> Ja heidan asumasiansa oli Mesasta: siihen asti kuin Sephariin tullaan, vuoren tyko, itaan pain.	
+<div class="theverse"><div class="versenum">30.</div> Ja heidan asumasiansa oli Mesasta: siihen asti kuin Sephariin tullaan, vuoren tyko, itaan pain.	</div>
 
-<div class="versenum">31.</div> Namat ovat Semin lapset, sukukuntainsa ja kieltensa jalkeen: heidan maakunnissansa, kansainsa jalkeen.	
+<div class="theverse"><div class="versenum">31.</div> Namat ovat Semin lapset, sukukuntainsa ja kieltensa jalkeen: heidan maakunnissansa, kansainsa jalkeen.	</div>
 
-<div class="versenum">32.</div> Namat ovat Noan lasten sukukunnat, heidan heimokuntainsa jalkeen, heidan kansoissansa. Ja naista ovat kansat jaetut maan paalle vedenpaisumisen jalkeen.	
+<div class="theverse"><div class="versenum">32.</div> Namat ovat Noan lasten sukukunnat, heidan heimokuntainsa jalkeen, heidan kansoissansa. Ja naista ovat kansat jaetut maan paalle vedenpaisumisen jalkeen.	</div>
 </body>
 </html>

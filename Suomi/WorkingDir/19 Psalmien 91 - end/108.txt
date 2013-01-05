@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Psalmien 108	</div>
 	
-<div class="versenum">1.</div> Psalmi, Davidin veisu. (H108:2) Jumala! minun sydameni on valmis: mina veisaan ja kiitan, niin myos minun kunniani.	
+<div class="theverse"><div class="versenum">1.</div> Psalmi, Davidin veisu. (H108:2) Jumala! minun sydameni on valmis: mina veisaan ja kiitan, niin myos minun kunniani.	</div>
 
-<div class="versenum">2.</div> Nouse, psaltari ja kantele; mina nousen varhain.	
+<div class="theverse"><div class="versenum">2.</div> Nouse, psaltari ja kantele; mina nousen varhain.	</div>
 
-<div class="versenum">3.</div> Sinua, Herra, mina kiitan kansain seassa: mina veisaan sinulle kiitosta sukukunnissa.	
+<div class="theverse"><div class="versenum">3.</div> Sinua, Herra, mina kiitan kansain seassa: mina veisaan sinulle kiitosta sukukunnissa.	</div>
 
-<div class="versenum">4.</div> Silla sinun armos on suuri ylitse taivasten, ja sinun totuutes hamaan pilviin asti.	
+<div class="theverse"><div class="versenum">4.</div> Silla sinun armos on suuri ylitse taivasten, ja sinun totuutes hamaan pilviin asti.	</div>
 
-<div class="versenum">5.</div> Korota sinuas, Jumala, taivasten ylitse ja kunnias kaiken maan ylitse,	
+<div class="theverse"><div class="versenum">5.</div> Korota sinuas, Jumala, taivasten ylitse ja kunnias kaiken maan ylitse,	</div>
 
-<div class="versenum">6.</div> Etta sinun rakkaat ystavas vapaaksi tulisivat; auta oikialla kadellas, ja kuule minun rukoukseni.	
+<div class="theverse"><div class="versenum">6.</div> Etta sinun rakkaat ystavas vapaaksi tulisivat; auta oikialla kadellas, ja kuule minun rukoukseni.	</div>
 
-<div class="versenum">7.</div> Jumala on puhunut pyhassansa, siita mina iloitsen: mina jaan Sikemin, ja mittaan Sukkotin laakson.	
+<div class="theverse"><div class="versenum">7.</div> Jumala on puhunut pyhassansa, siita mina iloitsen: mina jaan Sikemin, ja mittaan Sukkotin laakson.	</div>
 
-<div class="versenum">8.</div> Gilead on minun, Manasse on myos minun, ja Ephraim on minun paani vakevyys: Juuda on minun paamieheni;	
+<div class="theverse"><div class="versenum">8.</div> Gilead on minun, Manasse on myos minun, ja Ephraim on minun paani vakevyys: Juuda on minun paamieheni;	</div>
 
-<div class="versenum">9.</div> Moab on minun pesinastiani, mina venytan kenkani Edomin paalle: Philistealaisten ylitse mina iloitsen.	
+<div class="theverse"><div class="versenum">9.</div> Moab on minun pesinastiani, mina venytan kenkani Edomin paalle: Philistealaisten ylitse mina iloitsen.	</div>
 
-<div class="versenum">10.</div> Kuka vie minua vahvaan kaupunkiin? kuka vie minua Edomiin?	
+<div class="theverse"><div class="versenum">10.</div> Kuka vie minua vahvaan kaupunkiin? kuka vie minua Edomiin?	</div>
 
-<div class="versenum">11.</div> Etkos sina, Jumala, joka meita heittanyt olet pois? Ja etkos mene ulos, Jumala, meidan sotavakemme kanssa?	
+<div class="theverse"><div class="versenum">11.</div> Etkos sina, Jumala, joka meita heittanyt olet pois? Ja etkos mene ulos, Jumala, meidan sotavakemme kanssa?	</div>
 
-<div class="versenum">12.</div> Saata meille apua tuskissamme; silla ihmisten apu on turha.	
+<div class="theverse"><div class="versenum">12.</div> Saata meille apua tuskissamme; silla ihmisten apu on turha.	</div>
 
-<div class="versenum">13.</div> Jumalassa me tahdomme urhoollisia toita tehda; ja han polkee meidan vihollisemme alas.	
+<div class="theverse"><div class="versenum">13.</div> Jumalassa me tahdomme urhoollisia toita tehda; ja han polkee meidan vihollisemme alas.	</div>
 </body>
 </html>

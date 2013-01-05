@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 47	</div>
 	
-<div class="versenum">1.</div> Niin Joseph tuli ja ilmoitti Pharaolle, ja sanoi: minun isani ja minun veljeni, heidan karjansa, pienet ja suuret, ja kaikki, mita heilla on, ovat tulleet Kanaanin maalta; ja katso, he ovat Gosenin maalla.	
+<div class="theverse"><div class="versenum">1.</div> Niin Joseph tuli ja ilmoitti Pharaolle, ja sanoi: minun isani ja minun veljeni, heidan karjansa, pienet ja suuret, ja kaikki, mita heilla on, ovat tulleet Kanaanin maalta; ja katso, he ovat Gosenin maalla.	</div>
 
-<div class="versenum">2.</div> Ja han otti viisi nuorimmista veljistansa, ja asetti Pharaon eteen.	
+<div class="theverse"><div class="versenum">2.</div> Ja han otti viisi nuorimmista veljistansa, ja asetti Pharaon eteen.	</div>
 
-<div class="versenum">3.</div> Niin Pharao sanoi hanen veljillensa: mika teidan virkanne on? He vastasivat: sinun palvelias ovat paimenet, seka me etta meidan isamme.	
+<div class="theverse"><div class="versenum">3.</div> Niin Pharao sanoi hanen veljillensa: mika teidan virkanne on? He vastasivat: sinun palvelias ovat paimenet, seka me etta meidan isamme.	</div>
 
-<div class="versenum">4.</div> Ja sanoivat viela Pharaolle: me olemme tulleet asumaan teidan kanssanne talle maalle; silla sinun palvelioillas ei ole laidunta karjallensa, niin kova nalka on Kanaanin maalla. Niin suo sinun palvelias asua Gosenin maalla.	
+<div class="theverse"><div class="versenum">4.</div> Ja sanoivat viela Pharaolle: me olemme tulleet asumaan teidan kanssanne talle maalle; silla sinun palvelioillas ei ole laidunta karjallensa, niin kova nalka on Kanaanin maalla. Niin suo sinun palvelias asua Gosenin maalla.	</div>
 
-<div class="versenum">5.</div> Niin Pharao puhui Josephille, sanoen: sinun isas ja veljes ovat tulleet sinun tykos.	
+<div class="theverse"><div class="versenum">5.</div> Niin Pharao puhui Josephille, sanoen: sinun isas ja veljes ovat tulleet sinun tykos.	</div>
 
-<div class="versenum">6.</div> Egyptin maa on altis sinun edessas; aseta isas asumaan ja veljes kaikkein parhaasen paikkaan tassa maassa: asukaan Gosenin maalla. Ja jos sina ymmarrat, etta heidan seassansa on kelvollisia miehia, niin aseta heita minun karjani paalle.	
+<div class="theverse"><div class="versenum">6.</div> Egyptin maa on altis sinun edessas; aseta isas asumaan ja veljes kaikkein parhaasen paikkaan tassa maassa: asukaan Gosenin maalla. Ja jos sina ymmarrat, etta heidan seassansa on kelvollisia miehia, niin aseta heita minun karjani paalle.	</div>
 
-<div class="versenum">7.</div> Ja Joseph toi isansa, Jakobin, sisalle, ja asetti hanen Pharaon eteen. Ja Jakob siunasi Pharaota.	
+<div class="theverse"><div class="versenum">7.</div> Ja Joseph toi isansa, Jakobin, sisalle, ja asetti hanen Pharaon eteen. Ja Jakob siunasi Pharaota.	</div>
 
-<div class="versenum">8.</div> Niin Pharao sanoi Jakobille: kuinka vanha sina olet?	
+<div class="theverse"><div class="versenum">8.</div> Niin Pharao sanoi Jakobille: kuinka vanha sina olet?	</div>
 
-<div class="versenum">9.</div> Jakob sanoi Pharaolle: minun kulkemiseni aika on sata ja kolmekymmenta ajastaikaa: vaha ja paha on minun elamani aika ja ei ulotu minun isaini kulkemisen aikaan.	
+<div class="theverse"><div class="versenum">9.</div> Jakob sanoi Pharaolle: minun kulkemiseni aika on sata ja kolmekymmenta ajastaikaa: vaha ja paha on minun elamani aika ja ei ulotu minun isaini kulkemisen aikaan.	</div>
 
-<div class="versenum">10.</div> Ja Jakob siunasi Pharaota, ja laksi hanen tykoansa.	
+<div class="theverse"><div class="versenum">10.</div> Ja Jakob siunasi Pharaota, ja laksi hanen tykoansa.	</div>
 
-<div class="versenum">11.</div> Niin Joseph toimitti isansa ja veljensa asumaan, ja antoi heille omaisuuden Egyptin maalla, parhaassa maan paikassa; nimittain Rameseksen maalla, niinkuin Pharao oli kaskenyt.	
+<div class="theverse"><div class="versenum">11.</div> Niin Joseph toimitti isansa ja veljensa asumaan, ja antoi heille omaisuuden Egyptin maalla, parhaassa maan paikassa; nimittain Rameseksen maalla, niinkuin Pharao oli kaskenyt.	</div>
 
-<div class="versenum">12.</div> Ja Joseph elatti isansa, veljensa ja koko isansa huoneen, sen jalkeen kuin heilla lapsia oli.	
+<div class="theverse"><div class="versenum">12.</div> Ja Joseph elatti isansa, veljensa ja koko isansa huoneen, sen jalkeen kuin heilla lapsia oli.	</div>
 
-<div class="versenum">13.</div> Ja ei ollut leipaa kaikessa maassa; silla sangen raskas nalka oli, niin etta Egyptin ja Kanaanin maa naantyi naljan tahden.	
+<div class="theverse"><div class="versenum">13.</div> Ja ei ollut leipaa kaikessa maassa; silla sangen raskas nalka oli, niin etta Egyptin ja Kanaanin maa naantyi naljan tahden.	</div>
 
-<div class="versenum">14.</div> Ja Joseph kokosi kaiken rahan kuin loytiin Egyptin ja Kanaanin maalla, jyvain edesta kuin he ostivat. Ja Joseph vei rahan Pharaon huoneesen.	
+<div class="theverse"><div class="versenum">14.</div> Ja Joseph kokosi kaiken rahan kuin loytiin Egyptin ja Kanaanin maalla, jyvain edesta kuin he ostivat. Ja Joseph vei rahan Pharaon huoneesen.	</div>
 
-<div class="versenum">15.</div> Koska raha oli kulunut Egyptin ja Kanaanin maalta, niin tulivat kaikki Egyptilaiset Josephin tyko, sanoen: anna meille leipaa, miksi meidan pitaa kuoleman edessas, etta raha on puuttunut?	
+<div class="theverse"><div class="versenum">15.</div> Koska raha oli kulunut Egyptin ja Kanaanin maalta, niin tulivat kaikki Egyptilaiset Josephin tyko, sanoen: anna meille leipaa, miksi meidan pitaa kuoleman edessas, etta raha on puuttunut?	</div>
 
-<div class="versenum">16.</div> Joseph sanoi: tuokaat teidan karjanne, ja mina annan teille karjanne edesta, jos raha on puuttunut?	
+<div class="theverse"><div class="versenum">16.</div> Joseph sanoi: tuokaat teidan karjanne, ja mina annan teille karjanne edesta, jos raha on puuttunut?	</div>
 
-<div class="versenum">17.</div> Ja he toivat karjansa Josephille, ja Joseph antoi heille leipaa hevosten, ja lammasten, ja karjan ja aasein edesta. Niin han ruokki heita leivalla sen vuoden, kaiken heidan karjansa edesta.	
+<div class="theverse"><div class="versenum">17.</div> Ja he toivat karjansa Josephille, ja Joseph antoi heille leipaa hevosten, ja lammasten, ja karjan ja aasein edesta. Niin han ruokki heita leivalla sen vuoden, kaiken heidan karjansa edesta.	</div>
 
-<div class="versenum">18.</div> Koska se vuosi oli kulunut, tulivat he hanen tykonsa toisna vuonna, ja sanoivat hanelle: emme taida salata meidan herraltamme, ettei ainoastansa raha ole kulunut, mutta myos kaikki karja on meidan herrallamme, ja ei ole mitaan jaanyt meidan herramme edessa, paitsi meidan ruumistamme ja meidan peltoamme.	
+<div class="theverse"><div class="versenum">18.</div> Koska se vuosi oli kulunut, tulivat he hanen tykonsa toisna vuonna, ja sanoivat hanelle: emme taida salata meidan herraltamme, ettei ainoastansa raha ole kulunut, mutta myos kaikki karja on meidan herrallamme, ja ei ole mitaan jaanyt meidan herramme edessa, paitsi meidan ruumistamme ja meidan peltoamme.	</div>
 
-<div class="versenum">19.</div> Miksi meidan pitaa kuoleman edessas ja meidan peltomme tulee kylmille? Osta meita ja meidan maamme leivan edesta, niin me ja meidan maamme tulemme Pharaon oamksi. Anna siemenia, etta me elaisimme ja emme kuolisi, ja ei maa tulisi kylmille.	
+<div class="theverse"><div class="versenum">19.</div> Miksi meidan pitaa kuoleman edessas ja meidan peltomme tulee kylmille? Osta meita ja meidan maamme leivan edesta, niin me ja meidan maamme tulemme Pharaon oamksi. Anna siemenia, etta me elaisimme ja emme kuolisi, ja ei maa tulisi kylmille.	</div>
 
-<div class="versenum">20.</div> Niin Joseph osti koko Egyptin maan Pharaolle; silla Egyptilaiset myivat itsekukin peltonsa, etta nalka heita niin kovin ahdisti: ja maa tuli Pharaon omaksi.	
+<div class="theverse"><div class="versenum">20.</div> Niin Joseph osti koko Egyptin maan Pharaolle; silla Egyptilaiset myivat itsekukin peltonsa, etta nalka heita niin kovin ahdisti: ja maa tuli Pharaon omaksi.	</div>
 
-<div class="versenum">21.</div> Ja han siirsi kansan kaupunkeihin yhdesta Egyptin aaresta niin toiseen.	
+<div class="theverse"><div class="versenum">21.</div> Ja han siirsi kansan kaupunkeihin yhdesta Egyptin aaresta niin toiseen.	</div>
 
-<div class="versenum">22.</div> Paitsi pappein peltoa, jota ei han ostanut: silla se oli saatty Pharaolta, etta papit soisivat sen nimitetyn osan, kuin Pharao heille antoi: sentahden ei he myyneet maatansa.	
+<div class="theverse"><div class="versenum">22.</div> Paitsi pappein peltoa, jota ei han ostanut: silla se oli saatty Pharaolta, etta papit soisivat sen nimitetyn osan, kuin Pharao heille antoi: sentahden ei he myyneet maatansa.	</div>
 
-<div class="versenum">23.</div> Niin Joseph sanoi kansalle: katso, mina olen ostanut tanapana teidan ja teidan maanne Pharaolle: katso, tassa on teille siemenet, kylvakaat teidan maanne.	
+<div class="theverse"><div class="versenum">23.</div> Niin Joseph sanoi kansalle: katso, mina olen ostanut tanapana teidan ja teidan maanne Pharaolle: katso, tassa on teille siemenet, kylvakaat teidan maanne.	</div>
 
-<div class="versenum">24.</div> Ja teidan pitaa antaman tulosta viidennen osan Pharaolle; mutta nelja osaa pitaa oleman teille pellon siemeneksi, ja teille ravinnoksi, ja niille, jotka ovat teidan huoneessanne, ja ruaksi teidan lapsillenne.	
+<div class="theverse"><div class="versenum">24.</div> Ja teidan pitaa antaman tulosta viidennen osan Pharaolle; mutta nelja osaa pitaa oleman teille pellon siemeneksi, ja teille ravinnoksi, ja niille, jotka ovat teidan huoneessanne, ja ruaksi teidan lapsillenne.	</div>
 
-<div class="versenum">25.</div> Niin he sanoivat: sina olet meita elamassa pitanyt: anna ainoastansa meidan loytaa armo sinun meidan herramme edessa, ja me tahdomme olla Pharaon orjat.	
+<div class="theverse"><div class="versenum">25.</div> Niin he sanoivat: sina olet meita elamassa pitanyt: anna ainoastansa meidan loytaa armo sinun meidan herramme edessa, ja me tahdomme olla Pharaon orjat.	</div>
 
-<div class="versenum">26.</div> Ja Joseph teki sen maaran koko Egyptin maalle, hamaan tahan paivaan asti, etta Pharaolle piti annettaman viides osa; paitsi pappein maata, se ei tullut Pharaon oamksi.	
+<div class="theverse"><div class="versenum">26.</div> Ja Joseph teki sen maaran koko Egyptin maalle, hamaan tahan paivaan asti, etta Pharaolle piti annettaman viides osa; paitsi pappein maata, se ei tullut Pharaon oamksi.	</div>
 
-<div class="versenum">27.</div> Niin Israel asui Egyptissa Gosenin maalla; ja he omistivat sen, ja kasvoivat ja suuresti lisaantyivat.	
+<div class="theverse"><div class="versenum">27.</div> Niin Israel asui Egyptissa Gosenin maalla; ja he omistivat sen, ja kasvoivat ja suuresti lisaantyivat.	</div>
 
-<div class="versenum">28.</div> Ja Jakob eli Egyptin maalla, seitsemantoistakymmenta ajastaikaa, ja koko hanen ikansa oli sata ja seitsemanviidettakymmenta ajastaikaa.	
+<div class="theverse"><div class="versenum">28.</div> Ja Jakob eli Egyptin maalla, seitsemantoistakymmenta ajastaikaa, ja koko hanen ikansa oli sata ja seitsemanviidettakymmenta ajastaikaa.	</div>
 
-<div class="versenum">29.</div> Ja koska Israelin paivat joutuivat kuolla, kutsui han poikansa Josephin, ja sanoi hanelle: jos mina olen loytanyt armon sinun edessas, niin laske nyt kates minun kupeeni alle, ettas tekisit laupiuden ja totuuden minun kanssani, ettes hautaisi minua Egyptiin.	
+<div class="theverse"><div class="versenum">29.</div> Ja koska Israelin paivat joutuivat kuolla, kutsui han poikansa Josephin, ja sanoi hanelle: jos mina olen loytanyt armon sinun edessas, niin laske nyt kates minun kupeeni alle, ettas tekisit laupiuden ja totuuden minun kanssani, ettes hautaisi minua Egyptiin.	</div>
 
-<div class="versenum">30.</div> Mutta mina tahdon maata minun isaini tykona, ja sinun pitaa vieman minua Egyptista, ja hautaaman minua heidan hautaansa. Ja han sanoi: mina teen sinun sanas jalkeen.	
+<div class="theverse"><div class="versenum">30.</div> Mutta mina tahdon maata minun isaini tykona, ja sinun pitaa vieman minua Egyptista, ja hautaaman minua heidan hautaansa. Ja han sanoi: mina teen sinun sanas jalkeen.	</div>
 
-<div class="versenum">31.</div> Han sanoi: vanno minulle. Ja han vannoi hanelle. Ja Israel kallisti itsensa paanalaiselle.	
+<div class="theverse"><div class="versenum">31.</div> Han sanoi: vanno minulle. Ja han vannoi hanelle. Ja Israel kallisti itsensa paanalaiselle.	</div>
 </body>
 </html>

@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">1 Korinttilaisille 12	</div>
 	
-<div class="versenum">1.</div> Mutta hengellisista lahjoista, rakkaat veljet, en mina tahdo teilta salata.	
+<div class="theverse"><div class="versenum">1.</div> Mutta hengellisista lahjoista, rakkaat veljet, en mina tahdo teilta salata.	</div>
 
-<div class="versenum">2.</div> Te tiedatte, etta te olette pakanat olleet ja kayneet mykkain epajumalain tyko, niinkuin te viedyt olitte.	
+<div class="theverse"><div class="versenum">2.</div> Te tiedatte, etta te olette pakanat olleet ja kayneet mykkain epajumalain tyko, niinkuin te viedyt olitte.	</div>
 
-<div class="versenum">3.</div> Sentahden teen mina teille tiettavaksi, ettei yksikaan, joka Jumalan Hengen kautta puhuu, Jesusta kiroile: ja ei yksikaan taida Jesusta kutsua Herraksi, vaan Pyhan Hengen kautta.	
+<div class="theverse"><div class="versenum">3.</div> Sentahden teen mina teille tiettavaksi, ettei yksikaan, joka Jumalan Hengen kautta puhuu, Jesusta kiroile: ja ei yksikaan taida Jesusta kutsua Herraksi, vaan Pyhan Hengen kautta.	</div>
 
-<div class="versenum">4.</div> Lahjat ovat moninaiset, mutta yksi on Henki;	
+<div class="theverse"><div class="versenum">4.</div> Lahjat ovat moninaiset, mutta yksi on Henki;	</div>
 
-<div class="versenum">5.</div> Ja virat ovat moninaiset, mutta yksi on Herra.	
+<div class="theverse"><div class="versenum">5.</div> Ja virat ovat moninaiset, mutta yksi on Herra.	</div>
 
-<div class="versenum">6.</div> Ja voimat ovat moninaiset, mutta yksi on Jumala, joka kaikki kaikissa vaikuttaa.	
+<div class="theverse"><div class="versenum">6.</div> Ja voimat ovat moninaiset, mutta yksi on Jumala, joka kaikki kaikissa vaikuttaa.	</div>
 
-<div class="versenum">7.</div> Mutta jokaiselle annetaan Hengen ilmoitus hyodytykseksi.	
+<div class="theverse"><div class="versenum">7.</div> Mutta jokaiselle annetaan Hengen ilmoitus hyodytykseksi.	</div>
 
-<div class="versenum">8.</div> Silla yhdelle annetaan Hengen kautta puhua viisaudesta, toiselle puhua tiedosta, sen yhden Hengen kautta:	
+<div class="theverse"><div class="versenum">8.</div> Silla yhdelle annetaan Hengen kautta puhua viisaudesta, toiselle puhua tiedosta, sen yhden Hengen kautta:	</div>
 
-<div class="versenum">9.</div> Mutta toiselle usko siita yhdesta Hengesta: toiselle lahjat terveeksi tehda siina yhdessa Hengessa:	
+<div class="theverse"><div class="versenum">9.</div> Mutta toiselle usko siita yhdesta Hengesta: toiselle lahjat terveeksi tehda siina yhdessa Hengessa:	</div>
 
-<div class="versenum">10.</div> Toiselle voimallisia toita tehda, toiselle ennustus, toiselle henget eroittaa, toiselle moninaiset kielet, toiselle moninaisten kielten selitys.	
+<div class="theverse"><div class="versenum">10.</div> Toiselle voimallisia toita tehda, toiselle ennustus, toiselle henget eroittaa, toiselle moninaiset kielet, toiselle moninaisten kielten selitys.	</div>
 
-<div class="versenum">11.</div> Mutta namat kaikki se yksi Henki vaikuttaa, jakaen kullekin omansa niinkuin han tahtoo.	
+<div class="theverse"><div class="versenum">11.</div> Mutta namat kaikki se yksi Henki vaikuttaa, jakaen kullekin omansa niinkuin han tahtoo.	</div>
 
-<div class="versenum">12.</div> Silla niinkuin ruumis on yksi, ja hanella on monta jasenta, mutta kaikki ruumiin jasenet, ehka heita on usia, ovat kuitenkin yksi ruumis; niin on myos Kristus.	
+<div class="theverse"><div class="versenum">12.</div> Silla niinkuin ruumis on yksi, ja hanella on monta jasenta, mutta kaikki ruumiin jasenet, ehka heita on usia, ovat kuitenkin yksi ruumis; niin on myos Kristus.	</div>
 
-<div class="versenum">13.</div> Silla me olemme myos yhdessa Hengessa kaikki yhdeksi ruumiiksi kastetut, seka Juudalaiset etta Grekilaiset, seka orjat etta vapaat, ja kaikki me olemme yhteen Henkeen juotetut.	
+<div class="theverse"><div class="versenum">13.</div> Silla me olemme myos yhdessa Hengessa kaikki yhdeksi ruumiiksi kastetut, seka Juudalaiset etta Grekilaiset, seka orjat etta vapaat, ja kaikki me olemme yhteen Henkeen juotetut.	</div>
 
-<div class="versenum">14.</div> Silla ei ruumis ole yksi jasen, vaan usia.	
+<div class="theverse"><div class="versenum">14.</div> Silla ei ruumis ole yksi jasen, vaan usia.	</div>
 
-<div class="versenum">15.</div> Jos jalka sanois: en mina ole kasi, sentahden en mina ole ruumiista: eiko han senvuoksi ole ruumiista?	
+<div class="theverse"><div class="versenum">15.</div> Jos jalka sanois: en mina ole kasi, sentahden en mina ole ruumiista: eiko han senvuoksi ole ruumiista?	</div>
 
-<div class="versenum">16.</div> Ja jos korva sanois: en mina ole silma, sentahden en mina ole ruumiista: eiko han senvuoksi ruumiista ole?	
+<div class="theverse"><div class="versenum">16.</div> Ja jos korva sanois: en mina ole silma, sentahden en mina ole ruumiista: eiko han senvuoksi ruumiista ole?	</div>
 
-<div class="versenum">17.</div> Jos koko ruumis silmana olis, kussas siis kuulo? Jos se kaikki kuulona, kussas siis haisto?	
+<div class="theverse"><div class="versenum">17.</div> Jos koko ruumis silmana olis, kussas siis kuulo? Jos se kaikki kuulona, kussas siis haisto?	</div>
 
-<div class="versenum">18.</div> Mutta nyt on Jumala pannut jasenet erinansa itsekunkin ruumiissa niinkuin han on tahtonut.	
+<div class="theverse"><div class="versenum">18.</div> Mutta nyt on Jumala pannut jasenet erinansa itsekunkin ruumiissa niinkuin han on tahtonut.	</div>
 
-<div class="versenum">19.</div> Vai jos kaikki olisivat yksi jasen, kussa sitte ruumis olis?	
+<div class="theverse"><div class="versenum">19.</div> Vai jos kaikki olisivat yksi jasen, kussa sitte ruumis olis?	</div>
 
-<div class="versenum">20.</div> Mutta nyt on monta jasenta, vaan yksi ruumis.	
+<div class="theverse"><div class="versenum">20.</div> Mutta nyt on monta jasenta, vaan yksi ruumis.	</div>
 
-<div class="versenum">21.</div> Mutta ei silma taida kadelle sanoa: en mina sinua tarvitse, eli taas paa jaloille: en mina teita tarvitse.	
+<div class="theverse"><div class="versenum">21.</div> Mutta ei silma taida kadelle sanoa: en mina sinua tarvitse, eli taas paa jaloille: en mina teita tarvitse.	</div>
 
-<div class="versenum">22.</div> Vaan paljoa enemmin ne ruumiin jasenet, jotka heikommaksi nakyvat, ovat tarpeelliset.	
+<div class="theverse"><div class="versenum">22.</div> Vaan paljoa enemmin ne ruumiin jasenet, jotka heikommaksi nakyvat, ovat tarpeelliset.	</div>
 
-<div class="versenum">23.</div> Ja jotka me luulemme hapiallisemmaksi ruumiissa, niiden paalle me enimman kunnian panemme; ja jotka haijymmaksi nakyvat, niilla on enin kaunistusta:	
+<div class="theverse"><div class="versenum">23.</div> Ja jotka me luulemme hapiallisemmaksi ruumiissa, niiden paalle me enimman kunnian panemme; ja jotka haijymmaksi nakyvat, niilla on enin kaunistusta:	</div>
 
-<div class="versenum">24.</div> Silla jotka meissa kauniit ovat, ei ne mitaan tarvitse; mutta Jumala on ruumiin kokoon liittanyt ja sille puuttuvaiselle enemman kunnian antanut,	
+<div class="theverse"><div class="versenum">24.</div> Silla jotka meissa kauniit ovat, ei ne mitaan tarvitse; mutta Jumala on ruumiin kokoon liittanyt ja sille puuttuvaiselle enemman kunnian antanut,	</div>
 
-<div class="versenum">25.</div> Ettei eripuraisuutta ruumiissa olisi; vaan kaikki jasenet pitaa toinen toisestansa surun pitaman.	
+<div class="theverse"><div class="versenum">25.</div> Ettei eripuraisuutta ruumiissa olisi; vaan kaikki jasenet pitaa toinen toisestansa surun pitaman.	</div>
 
-<div class="versenum">26.</div> Ja jos yksi jasen karsii jotakin, niin kaikki muut jasenet kanssa karsivat, ja jos yksi jasen kunniassa pidetaan, niin kaikki jasenet myos riemuitsevat.	
+<div class="theverse"><div class="versenum">26.</div> Ja jos yksi jasen karsii jotakin, niin kaikki muut jasenet kanssa karsivat, ja jos yksi jasen kunniassa pidetaan, niin kaikki jasenet myos riemuitsevat.	</div>
 
-<div class="versenum">27.</div> Mutta te olette Kristuksen ruumis ja jasenet, jokainen osansa jalkeen.	
+<div class="theverse"><div class="versenum">27.</div> Mutta te olette Kristuksen ruumis ja jasenet, jokainen osansa jalkeen.	</div>
 
-<div class="versenum">28.</div> Ja Jumala on pannut seurakuntaan ensin apostolit, sitte prophetat, senjalkeen opettajat, sitte voimalliset tyot, jalleen parantamisen lahjat, avut, hallitukset, moninaiset kielet.	
+<div class="theverse"><div class="versenum">28.</div> Ja Jumala on pannut seurakuntaan ensin apostolit, sitte prophetat, senjalkeen opettajat, sitte voimalliset tyot, jalleen parantamisen lahjat, avut, hallitukset, moninaiset kielet.	</div>
 
-<div class="versenum">29.</div> Ovatko kaikki apostolit? Ovatko kaikki prophetat? Ovatko kaikki opettajat? Onko kaikilla voimalliset tyot?	
+<div class="theverse"><div class="versenum">29.</div> Ovatko kaikki apostolit? Ovatko kaikki prophetat? Ovatko kaikki opettajat? Onko kaikilla voimalliset tyot?	</div>
 
-<div class="versenum">30.</div> Onko kaikilla parantamisen lahjat? Puhuvatko kaikki moninaisilla kielilla? Taitavatko kaikki selittaa?	
+<div class="theverse"><div class="versenum">30.</div> Onko kaikilla parantamisen lahjat? Puhuvatko kaikki moninaisilla kielilla? Taitavatko kaikki selittaa?	</div>
 
-<div class="versenum">31.</div> Mutta noudattakaat te paraita lahjoja. Ja viela mina teille korkiamman tien osoitan.	
+<div class="theverse"><div class="versenum">31.</div> Mutta noudattakaat te paraita lahjoja. Ja viela mina teille korkiamman tien osoitan.	</div>
 </body>
 </html>

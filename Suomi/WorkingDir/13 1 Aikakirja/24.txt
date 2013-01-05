@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 24	</div>
 	
-<div class="versenum">1.</div> Mutta tama oli Aaronin lasten jarjestys: Aaronin pojat oli: Nadab, Abihu, Eleasar ja Itamar.	
+<div class="theverse"><div class="versenum">1.</div> Mutta tama oli Aaronin lasten jarjestys: Aaronin pojat oli: Nadab, Abihu, Eleasar ja Itamar.	</div>
 
-<div class="versenum">2.</div> Mutta Nadab ja Abihu kuolivat isansa edessa, ja ei heilla ollut lasta. Ja Eleasar ja Itamar tulivat papeiksi.	
+<div class="theverse"><div class="versenum">2.</div> Mutta Nadab ja Abihu kuolivat isansa edessa, ja ei heilla ollut lasta. Ja Eleasar ja Itamar tulivat papeiksi.	</div>
 
-<div class="versenum">3.</div> Ja David maarasi heita nain: Zadokin Eleasarin lapsista ja Ahimelekin Itamarin lapsista, heidan virkansa jalkeen heidan palveluksessansa.	
+<div class="theverse"><div class="versenum">3.</div> Ja David maarasi heita nain: Zadokin Eleasarin lapsista ja Ahimelekin Itamarin lapsista, heidan virkansa jalkeen heidan palveluksessansa.	</div>
 
-<div class="versenum">4.</div> Ja usiammat vakevat paamiehet loydettiin Eleasarin kuin Itamarin lapsista, koska he heita niin maarasivat: Eleasarin lapsista oli siella kuusitoistakymmenta ylimmaista heidan isainsa huoneessa, ja kahdeksan Itamarin lapsista, heidan isainsa huoneessa.	
+<div class="theverse"><div class="versenum">4.</div> Ja usiammat vakevat paamiehet loydettiin Eleasarin kuin Itamarin lapsista, koska he heita niin maarasivat: Eleasarin lapsista oli siella kuusitoistakymmenta ylimmaista heidan isainsa huoneessa, ja kahdeksan Itamarin lapsista, heidan isainsa huoneessa.	</div>
 
-<div class="versenum">5.</div> Ja he maarasivat heita arvalla seka naita etta niita; silla molemmat Eleasarin ja Itamarin lapset olivat paamiehet pyhassa ja paamiehet Jumalan edessa.	
+<div class="theverse"><div class="versenum">5.</div> Ja he maarasivat heita arvalla seka naita etta niita; silla molemmat Eleasarin ja Itamarin lapset olivat paamiehet pyhassa ja paamiehet Jumalan edessa.	</div>
 
-<div class="versenum">6.</div> Ja Semaja kirjoittaja, Netaneelin poika Levilaisista, kirjoitti heidat kuninkaan edessa, ja paamiesten ja papin Zadokin, ja Ahimelekin Abjatarin pojan, ja pappein ja Levilaisten, ja ylimmaisten isain edessa: yksi isan huone otettiin Eleasarin edesta ja toinen otettiin sitte Itamarin edesta.	
+<div class="theverse"><div class="versenum">6.</div> Ja Semaja kirjoittaja, Netaneelin poika Levilaisista, kirjoitti heidat kuninkaan edessa, ja paamiesten ja papin Zadokin, ja Ahimelekin Abjatarin pojan, ja pappein ja Levilaisten, ja ylimmaisten isain edessa: yksi isan huone otettiin Eleasarin edesta ja toinen otettiin sitte Itamarin edesta.	</div>
 
-<div class="versenum">7.</div> Ja ensimainen arpa lankesi Jojaribin paalle, toinen Jedatjan,	
+<div class="theverse"><div class="versenum">7.</div> Ja ensimainen arpa lankesi Jojaribin paalle, toinen Jedatjan,	</div>
 
-<div class="versenum">8.</div> Kolmas Harimin, neljas Seorimin,	
+<div class="theverse"><div class="versenum">8.</div> Kolmas Harimin, neljas Seorimin,	</div>
 
-<div class="versenum">9.</div> Viides Malkian, kuudes Mijamin,	
+<div class="theverse"><div class="versenum">9.</div> Viides Malkian, kuudes Mijamin,	</div>
 
-<div class="versenum">10.</div> Seitsemas Hakkotsin, kahdeksas Abian,	
+<div class="theverse"><div class="versenum">10.</div> Seitsemas Hakkotsin, kahdeksas Abian,	</div>
 
-<div class="versenum">11.</div> Yhdeksas Jesuan, kymmenes Sekanian,	
+<div class="theverse"><div class="versenum">11.</div> Yhdeksas Jesuan, kymmenes Sekanian,	</div>
 
-<div class="versenum">12.</div> Yksitoistakymmenes Eliasibin, kaksitoistakymmenes Jakimin,	
+<div class="theverse"><div class="versenum">12.</div> Yksitoistakymmenes Eliasibin, kaksitoistakymmenes Jakimin,	</div>
 
-<div class="versenum">13.</div> Kolmastoistakymmenes Huppan, neljastoistakymmenes Jesebabin,	
+<div class="theverse"><div class="versenum">13.</div> Kolmastoistakymmenes Huppan, neljastoistakymmenes Jesebabin,	</div>
 
-<div class="versenum">14.</div> Viidestoistakymmenes Bilgan, kuudestoistakymmenes Immerin,	
+<div class="theverse"><div class="versenum">14.</div> Viidestoistakymmenes Bilgan, kuudestoistakymmenes Immerin,	</div>
 
-<div class="versenum">15.</div> Seitsemastoistakymmenes Hesirin, kahdeksastoistakymmenes Happitsetsin,	
+<div class="theverse"><div class="versenum">15.</div> Seitsemastoistakymmenes Hesirin, kahdeksastoistakymmenes Happitsetsin,	</div>
 
-<div class="versenum">16.</div> Yhdeksastoistakymmenes Petahian, kahdeskymmenes Jeheskelin,	
+<div class="theverse"><div class="versenum">16.</div> Yhdeksastoistakymmenes Petahian, kahdeskymmenes Jeheskelin,	</div>
 
-<div class="versenum">17.</div> Ensimainenkolmattakymmenta Jakinin, toinenkolmattakymmenta Gamulin,	
+<div class="theverse"><div class="versenum">17.</div> Ensimainenkolmattakymmenta Jakinin, toinenkolmattakymmenta Gamulin,	</div>
 
-<div class="versenum">18.</div> Kolmaskolmattakymmenta Delajan, neljaskolmattakymmenta Maasian.	
+<div class="theverse"><div class="versenum">18.</div> Kolmaskolmattakymmenta Delajan, neljaskolmattakymmenta Maasian.	</div>
 
-<div class="versenum">19.</div> Tama on heidan jarjestyksensa heidan virkansa jalkeen, menemaan Herran huoneesen tapansa jalkeen, isansa Aaronin kaden alla; niinkuin Herra Israelin Jumala heidan oli kaskenyt.	
+<div class="theverse"><div class="versenum">19.</div> Tama on heidan jarjestyksensa heidan virkansa jalkeen, menemaan Herran huoneesen tapansa jalkeen, isansa Aaronin kaden alla; niinkuin Herra Israelin Jumala heidan oli kaskenyt.	</div>
 
-<div class="versenum">20.</div> Muiden Levin lasten seassa oli Amramin lapsista Subael, Subaelin lapsista Jehdeja.	
+<div class="theverse"><div class="versenum">20.</div> Muiden Levin lasten seassa oli Amramin lapsista Subael, Subaelin lapsista Jehdeja.	</div>
 
-<div class="versenum">21.</div> Rehabian lapsista: Jissia oli heista ensimainen.	
+<div class="theverse"><div class="versenum">21.</div> Rehabian lapsista: Jissia oli heista ensimainen.	</div>
 
-<div class="versenum">22.</div> Mutta Jitseharilaisista oli Selomot, Selomotin lapsista Jahat.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Jitseharilaisista oli Selomot, Selomotin lapsista Jahat.	</div>
 
-<div class="versenum">23.</div> (Hebronin lapset) Jerija ensimainen, Amaria toinen, Jahasiel kolmas, Jekameam neljas.	
+<div class="theverse"><div class="versenum">23.</div> (Hebronin lapset) Jerija ensimainen, Amaria toinen, Jahasiel kolmas, Jekameam neljas.	</div>
 
-<div class="versenum">24.</div> Ussielin lapset: Miika. Miikan lapsista Samir.	
+<div class="theverse"><div class="versenum">24.</div> Ussielin lapset: Miika. Miikan lapsista Samir.	</div>
 
-<div class="versenum">25.</div> Jesija oli Miikan veli; Jesijan lapsista Sakaria.	
+<div class="theverse"><div class="versenum">25.</div> Jesija oli Miikan veli; Jesijan lapsista Sakaria.	</div>
 
-<div class="versenum">26.</div> Merarin lapset: Maheli ja Musi; Jaesijan hanen poikansa lapset.	
+<div class="theverse"><div class="versenum">26.</div> Merarin lapset: Maheli ja Musi; Jaesijan hanen poikansa lapset.	</div>
 
-<div class="versenum">27.</div> Merarin lapset Jaesijasta, hanen poikansa oli Soham, Sakkur ja Ibri.	
+<div class="theverse"><div class="versenum">27.</div> Merarin lapset Jaesijasta, hanen poikansa oli Soham, Sakkur ja Ibri.	</div>
 
-<div class="versenum">28.</div> Mutta Mahelilla oli Eleasar, ja hanella ei ollut yhtaan poikaa.	
+<div class="theverse"><div class="versenum">28.</div> Mutta Mahelilla oli Eleasar, ja hanella ei ollut yhtaan poikaa.	</div>
 
-<div class="versenum">29.</div> Kisista, Kisin lapset: Jerahmeel.	
+<div class="theverse"><div class="versenum">29.</div> Kisista, Kisin lapset: Jerahmeel.	</div>
 
-<div class="versenum">30.</div> Musin lapset: Maheli, Eder ja Jeremot. Ne ovat Levilaisten lapset heidan isainsa huoneen jalkeen.	
+<div class="theverse"><div class="versenum">30.</div> Musin lapset: Maheli, Eder ja Jeremot. Ne ovat Levilaisten lapset heidan isainsa huoneen jalkeen.	</div>
 
-<div class="versenum">31.</div> Ja namat myos heittivat arpaa veljeinsa Aaronin lasten kanssa kuningas Davidin edessa, ja Zadokin ja Ahimelekin, ja ylimmaisten isain edessa, pappein ja Levilaisten seassa; ylimmainen isain seassa pienimmankin veljensa kanssa.	
+<div class="theverse"><div class="versenum">31.</div> Ja namat myos heittivat arpaa veljeinsa Aaronin lasten kanssa kuningas Davidin edessa, ja Zadokin ja Ahimelekin, ja ylimmaisten isain edessa, pappein ja Levilaisten seassa; ylimmainen isain seassa pienimmankin veljensa kanssa.	</div>
 </body>
 </html>

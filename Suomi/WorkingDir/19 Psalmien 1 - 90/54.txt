@@ -4,18 +4,18 @@
 </head>
 <body><div class="chaptertitle">Psalmien 54	</div>
 	
-<div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, kanteleilla, (H54:2) Kuin Siphilaiset tulivat ja sanoivat Saulille: David on lymyttanyt itsensa meidan tykonamme. (H52:3) Auta minua Jumala sinun nimellas, ja saata minulle oikeus sinun vakevyydellas.	
+<div class="theverse"><div class="versenum">1.</div> Davidin opetus, edellaveisaajalle, kanteleilla, (H54:2) Kuin Siphilaiset tulivat ja sanoivat Saulille: David on lymyttanyt itsensa meidan tykonamme. (H52:3) Auta minua Jumala sinun nimellas, ja saata minulle oikeus sinun vakevyydellas.	</div>
 
-<div class="versenum">2.</div> Jumala, kuule minun rukoukseni, ota korviis minun suuni sanat.	
+<div class="theverse"><div class="versenum">2.</div> Jumala, kuule minun rukoukseni, ota korviis minun suuni sanat.	</div>
 
-<div class="versenum">3.</div> Silla muukalaiset karkasivat minua vastaan, ja vakivaltaiset vaijyivat minun sieluani: ei he pitaneet Jumalaa silmainsa edessa, Sela!	
+<div class="theverse"><div class="versenum">3.</div> Silla muukalaiset karkasivat minua vastaan, ja vakivaltaiset vaijyivat minun sieluani: ei he pitaneet Jumalaa silmainsa edessa, Sela!	</div>
 
-<div class="versenum">4.</div> Katso, Jumala auttaa minua: Herra tukee minun sieluani.	
+<div class="theverse"><div class="versenum">4.</div> Katso, Jumala auttaa minua: Herra tukee minun sieluani.	</div>
 
-<div class="versenum">5.</div> Han kostaa minun vihollisteni pahuuden: hajoita ne totuudessas.	
+<div class="theverse"><div class="versenum">5.</div> Han kostaa minun vihollisteni pahuuden: hajoita ne totuudessas.	</div>
 
-<div class="versenum">6.</div> Niin mina mielellani sinulle uhraan: mina kiitan, Herra, sinun nimeas, silla se on hyva.	
+<div class="theverse"><div class="versenum">6.</div> Niin mina mielellani sinulle uhraan: mina kiitan, Herra, sinun nimeas, silla se on hyva.	</div>
 
-<div class="versenum">7.</div> Silla han on pelastanut minun kaikesta hadasta; ja minun silmani ovat nahneet minun viholiseni.	
+<div class="theverse"><div class="versenum">7.</div> Silla han on pelastanut minun kaikesta hadasta; ja minun silmani ovat nahneet minun viholiseni.	</div>
 </body>
 </html>

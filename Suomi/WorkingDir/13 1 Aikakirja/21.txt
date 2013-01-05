@@ -4,64 +4,64 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 21	</div>
 	
-<div class="versenum">1.</div> Ja saatana seisoi Israelia vastaan ja kehoitti Davidin lukemaan Israelia.	
+<div class="theverse"><div class="versenum">1.</div> Ja saatana seisoi Israelia vastaan ja kehoitti Davidin lukemaan Israelia.	</div>
 
-<div class="versenum">2.</div> Ja David sanoi Joabille ja kansan ylimmaisille: menkaat ja lukekaat Israel Bersebasta Daniin saakka, ja tuokaat minulle, etta mina tietaisin heidan lukunsa.	
+<div class="theverse"><div class="versenum">2.</div> Ja David sanoi Joabille ja kansan ylimmaisille: menkaat ja lukekaat Israel Bersebasta Daniin saakka, ja tuokaat minulle, etta mina tietaisin heidan lukunsa.	</div>
 
-<div class="versenum">3.</div> Joab sanoi: Herra enentakoon kansansa sata kertaa suuremmaksi kuin se nyt on. Herrani kuningas, eiko namat kaikki ole herrani palveliat? miksi siis herrani kysyy sita? miksi se tulis synniksi Israelille?	
+<div class="theverse"><div class="versenum">3.</div> Joab sanoi: Herra enentakoon kansansa sata kertaa suuremmaksi kuin se nyt on. Herrani kuningas, eiko namat kaikki ole herrani palveliat? miksi siis herrani kysyy sita? miksi se tulis synniksi Israelille?	</div>
 
-<div class="versenum">4.</div> Mutta kuninkaan sana voitti Joabin. Ja Joab meni ja vaelsi koko Israelin ympari, ja tuli Jerusalemiin.	
+<div class="theverse"><div class="versenum">4.</div> Mutta kuninkaan sana voitti Joabin. Ja Joab meni ja vaelsi koko Israelin ympari, ja tuli Jerusalemiin.	</div>
 
-<div class="versenum">5.</div> Ja Joab antoi Davidille luetun kansan luvun: ja koko Israelissa oli yksitoistakymmenta kertaa satatuhatta miesta, jotka miekkaa ulos vetivat. Ja Juudassa neljasataa tuhatta ja seitsemankymmenta tuhatta miekan vetavaa miesta.	
+<div class="theverse"><div class="versenum">5.</div> Ja Joab antoi Davidille luetun kansan luvun: ja koko Israelissa oli yksitoistakymmenta kertaa satatuhatta miesta, jotka miekkaa ulos vetivat. Ja Juudassa neljasataa tuhatta ja seitsemankymmenta tuhatta miekan vetavaa miesta.	</div>
 
-<div class="versenum">6.</div> Mutta Levia ja BenJaminia ei han naiden sekaan lukenut; silla Joab kauhistui kuninkaan sanasta.	
+<div class="theverse"><div class="versenum">6.</div> Mutta Levia ja BenJaminia ei han naiden sekaan lukenut; silla Joab kauhistui kuninkaan sanasta.	</div>
 
-<div class="versenum">7.</div> Mutta asia oli paha Jumalan silmain edessa; ja han loi Israelin.	
+<div class="theverse"><div class="versenum">7.</div> Mutta asia oli paha Jumalan silmain edessa; ja han loi Israelin.	</div>
 
-<div class="versenum">8.</div> Ja David sanoi Jumalalle: mina olen raskaasti syntia tehnyt, etta mina sen tehnyt olen: mutta ota palvelias vaaryys pois; silla mina olen sangen tyhmasti tehnyt.	
+<div class="theverse"><div class="versenum">8.</div> Ja David sanoi Jumalalle: mina olen raskaasti syntia tehnyt, etta mina sen tehnyt olen: mutta ota palvelias vaaryys pois; silla mina olen sangen tyhmasti tehnyt.	</div>
 
-<div class="versenum">9.</div> Ja Herra puhui Gadille, Davidin nakialle, sanoen:	
+<div class="theverse"><div class="versenum">9.</div> Ja Herra puhui Gadille, Davidin nakialle, sanoen:	</div>
 
-<div class="versenum">10.</div> Mene ja puhu Davidille, sanoen: nain sanoo Herra: kolme mina panen sinun etees: valitse yksi niista, ja mina teen sen sinulle.	
+<div class="theverse"><div class="versenum">10.</div> Mene ja puhu Davidille, sanoen: nain sanoo Herra: kolme mina panen sinun etees: valitse yksi niista, ja mina teen sen sinulle.	</div>
 
-<div class="versenum">11.</div> Ja kuin Gad tuli Davidin tyko, sanoi han hanelle: nain sanoo Herra: valitse sinulles:	
+<div class="theverse"><div class="versenum">11.</div> Ja kuin Gad tuli Davidin tyko, sanoi han hanelle: nain sanoo Herra: valitse sinulles:	</div>
 
-<div class="versenum">12.</div> Taikka kolme nalkavuotta, taikka kolmen kuukauden pako vihollistes edessa ja vainollises miekan edessa, etta se on kasittava sinun, eli kolmeksi paivaksi Herran miekka ja ruttotauti maalle, niin etta Herran enkeli kadottaa kaikki Israelin rajoilla. Niin ajattele siis nyt, mita minun pitaa hanta vastaamaan, joka minun on lahettanyt.	
+<div class="theverse"><div class="versenum">12.</div> Taikka kolme nalkavuotta, taikka kolmen kuukauden pako vihollistes edessa ja vainollises miekan edessa, etta se on kasittava sinun, eli kolmeksi paivaksi Herran miekka ja ruttotauti maalle, niin etta Herran enkeli kadottaa kaikki Israelin rajoilla. Niin ajattele siis nyt, mita minun pitaa hanta vastaamaan, joka minun on lahettanyt.	</div>
 
-<div class="versenum">13.</div> David sanoi Gadille: minulla on suuri ahdistus; kuitenkin tahdon mina langeta Herran kasiin, silla hanen laupiutensa on sangen suuri, en tahdo langeta ihmisten kasiin.	
+<div class="theverse"><div class="versenum">13.</div> David sanoi Gadille: minulla on suuri ahdistus; kuitenkin tahdon mina langeta Herran kasiin, silla hanen laupiutensa on sangen suuri, en tahdo langeta ihmisten kasiin.	</div>
 
-<div class="versenum">14.</div> Ja Herra antoi ruttotaudin tulla Israeliin, niin etta Israelista lankesi seitsemankymmenta tuhatta miesta.	
+<div class="theverse"><div class="versenum">14.</div> Ja Herra antoi ruttotaudin tulla Israeliin, niin etta Israelista lankesi seitsemankymmenta tuhatta miesta.	</div>
 
-<div class="versenum">15.</div> Ja Jumala lahetti enkelin Jerusalemiin hukuttamaan sita; ja hukuttaissa katsoi Herra siihen ja katui sita pahaa, ja sanoi enkelille, joka hukutti: nyt on kylla, pida kates ylos! Mutta Herran enkeli seisoi Ornanin Jebusilaisen riihen tykona.	
+<div class="theverse"><div class="versenum">15.</div> Ja Jumala lahetti enkelin Jerusalemiin hukuttamaan sita; ja hukuttaissa katsoi Herra siihen ja katui sita pahaa, ja sanoi enkelille, joka hukutti: nyt on kylla, pida kates ylos! Mutta Herran enkeli seisoi Ornanin Jebusilaisen riihen tykona.	</div>
 
-<div class="versenum">16.</div> Ja David nosti silmansa ja sai nahda Herran enkelin seisovan maan ja taivaan valilla, ja ulosvedetyn miekan hanen kadessansa ojennetun Jerusalemin paalle. Niin lankesi David ja vanhimmat kasvoillensa, puetetut sakeilla.	
+<div class="theverse"><div class="versenum">16.</div> Ja David nosti silmansa ja sai nahda Herran enkelin seisovan maan ja taivaan valilla, ja ulosvedetyn miekan hanen kadessansa ojennetun Jerusalemin paalle. Niin lankesi David ja vanhimmat kasvoillensa, puetetut sakeilla.	</div>
 
-<div class="versenum">17.</div> Ja David sanoi Jumalalle: enko mina se ole, joka annoin lukea kansan? mina se olen, joka syntia tein ja aivan pahoin tein. Mita namat lampaat tehneet ovat? Herra Jumalani, anna kates olla minun ja minun isani huoneen paalle, ja ei sinun kansalles vaivaksi.	
+<div class="theverse"><div class="versenum">17.</div> Ja David sanoi Jumalalle: enko mina se ole, joka annoin lukea kansan? mina se olen, joka syntia tein ja aivan pahoin tein. Mita namat lampaat tehneet ovat? Herra Jumalani, anna kates olla minun ja minun isani huoneen paalle, ja ei sinun kansalles vaivaksi.	</div>
 
-<div class="versenum">18.</div> Ja Herran enkeli sanoi Gadille etta han sanois Davidille, etta David menis ja rakentais Herralle alttarin Ornanin Jebusilaisen riiheen.	
+<div class="theverse"><div class="versenum">18.</div> Ja Herran enkeli sanoi Gadille etta han sanois Davidille, etta David menis ja rakentais Herralle alttarin Ornanin Jebusilaisen riiheen.	</div>
 
-<div class="versenum">19.</div> Ja David meni Gadin sanan jalkeen, jonka han Herran nimeen puhunut oli.	
+<div class="theverse"><div class="versenum">19.</div> Ja David meni Gadin sanan jalkeen, jonka han Herran nimeen puhunut oli.	</div>
 
-<div class="versenum">20.</div> Vaan kuin Ornan kaansi itsensa ja naki neljan poikansa kanssa enkelin, lymyttivat he heitansa; silla Ornan tappoi nisuja.	
+<div class="theverse"><div class="versenum">20.</div> Vaan kuin Ornan kaansi itsensa ja naki neljan poikansa kanssa enkelin, lymyttivat he heitansa; silla Ornan tappoi nisuja.	</div>
 
-<div class="versenum">21.</div> Kuin David meni Ornanin tyko, naki Ornan ja havaitsi Davidin, ja meni riihesta ulos ja lankesi kasvoillensa Davidin eteen maahan.	
+<div class="theverse"><div class="versenum">21.</div> Kuin David meni Ornanin tyko, naki Ornan ja havaitsi Davidin, ja meni riihesta ulos ja lankesi kasvoillensa Davidin eteen maahan.	</div>
 
-<div class="versenum">22.</div> Ja David sanoi Ornanille: anna minulle sen riihen sia, rakentaakseni siihen Herralle alttarin; anna se minulle tayden rahan edesta, etta vitsaus lakkais kansasta.	
+<div class="theverse"><div class="versenum">22.</div> Ja David sanoi Ornanille: anna minulle sen riihen sia, rakentaakseni siihen Herralle alttarin; anna se minulle tayden rahan edesta, etta vitsaus lakkais kansasta.	</div>
 
-<div class="versenum">23.</div> Ja Ornan sanoi Davidille: ota sinulles ja tee, herrani kuningas, kuin sinulle kelpaa. Katso, mina annan myos harkia polttouhriksi ja aseita puiksi, ja nisuja ruokauhriksi: kaikki mina annan.	
+<div class="theverse"><div class="versenum">23.</div> Ja Ornan sanoi Davidille: ota sinulles ja tee, herrani kuningas, kuin sinulle kelpaa. Katso, mina annan myos harkia polttouhriksi ja aseita puiksi, ja nisuja ruokauhriksi: kaikki mina annan.	</div>
 
-<div class="versenum">24.</div> Mutta kuningas David sanoi Ornanille: ei niin, vaan mina tahdon perati ostaa sen taydella rahalla; silla en mina ota sita, mika sinun on, Herralle ja tee polttouhria maksamata.	
+<div class="theverse"><div class="versenum">24.</div> Mutta kuningas David sanoi Ornanille: ei niin, vaan mina tahdon perati ostaa sen taydella rahalla; silla en mina ota sita, mika sinun on, Herralle ja tee polttouhria maksamata.	</div>
 
-<div class="versenum">25.</div> Niin David antoi Ornanille sen sian edesta kuudensadan siklin painon kultaa.	
+<div class="theverse"><div class="versenum">25.</div> Niin David antoi Ornanille sen sian edesta kuudensadan siklin painon kultaa.	</div>
 
-<div class="versenum">26.</div> Ja David rakensi siina Herralle alttarin ja uhrasi polttouhria ja kiitosuhria, ja rukoili Herraa; ja han kuuli hanen tulella taivaasta polttouhrin alttarilla.	
+<div class="theverse"><div class="versenum">26.</div> Ja David rakensi siina Herralle alttarin ja uhrasi polttouhria ja kiitosuhria, ja rukoili Herraa; ja han kuuli hanen tulella taivaasta polttouhrin alttarilla.	</div>
 
-<div class="versenum">27.</div> Ja Herra sanoi enkelille, etta han pistais miekkansa tuppeensa.	
+<div class="theverse"><div class="versenum">27.</div> Ja Herra sanoi enkelille, etta han pistais miekkansa tuppeensa.	</div>
 
-<div class="versenum">28.</div> Kuin David naki Herran kuulleeksi hanta Ornanin Jebusilaisen riihessa, uhrasi han siella.	
+<div class="theverse"><div class="versenum">28.</div> Kuin David naki Herran kuulleeksi hanta Ornanin Jebusilaisen riihessa, uhrasi han siella.	</div>
 
-<div class="versenum">29.</div> Silla Herran maja, jonka Moses oli tehnyt korvessa, ja polttouhrin alttari olivat silloin Gibeonin korkeudella.	
+<div class="theverse"><div class="versenum">29.</div> Silla Herran maja, jonka Moses oli tehnyt korvessa, ja polttouhrin alttari olivat silloin Gibeonin korkeudella.	</div>
 
-<div class="versenum">30.</div> Ja ei David taitanut menna sen eteen kysymaan Jumalaa; silla han oli peljastynyt Herran enkelin miekkaa.	
+<div class="theverse"><div class="versenum">30.</div> Ja ei David taitanut menna sen eteen kysymaan Jumalaa; silla han oli peljastynyt Herran enkelin miekkaa.	</div>
 </body>
 </html>

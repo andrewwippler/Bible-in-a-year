@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">Nahumin 3	</div>
 	
-<div class="versenum">1.</div> Voi sita murhakaupunkia, joka on taynna valhetta ja ryostoa, eika tahdo ryostostansa lakata!	
+<div class="theverse"><div class="versenum">1.</div> Voi sita murhakaupunkia, joka on taynna valhetta ja ryostoa, eika tahdo ryostostansa lakata!	</div>
 
-<div class="versenum">2.</div> Silla siina kuullaan ruoskat vinkuvan ja ratasten pyorat kitisevan, hevoset hirnuvan ja rattaat vierivan.	
+<div class="theverse"><div class="versenum">2.</div> Silla siina kuullaan ruoskat vinkuvan ja ratasten pyorat kitisevan, hevoset hirnuvan ja rattaat vierivan.	</div>
 
-<div class="versenum">3.</div> Han vie ratsastajat valkkyvaisilla miekoilla, ja kiiltavilla keihailla; siina monta tapettua makaa, ja suuret ruumisten lajat, niin etta ruumiit ovat lukemattomat ja niihin taytyy langeta.	
+<div class="theverse"><div class="versenum">3.</div> Han vie ratsastajat valkkyvaisilla miekoilla, ja kiiltavilla keihailla; siina monta tapettua makaa, ja suuret ruumisten lajat, niin etta ruumiit ovat lukemattomat ja niihin taytyy langeta.	</div>
 
-<div class="versenum">4.</div> Kaikki namat sen kauniin ja rakkaan porton suuren huoruuden tahden, joka on taitava noita, joka huoruudellansa pakanat, ja velhoudellansa maat ja kansat myynyt on.	
+<div class="theverse"><div class="versenum">4.</div> Kaikki namat sen kauniin ja rakkaan porton suuren huoruuden tahden, joka on taitava noita, joka huoruudellansa pakanat, ja velhoudellansa maat ja kansat myynyt on.	</div>
 
-<div class="versenum">5.</div> Katso, mina tulen sinun kimppuus, sanoo Herra Zebaot, mina avaan sinun vaattees palteen sinun kasvoistas, ja naytan sinun hapys pakanoille, ja sinun hapias valtakunnille osoitan.	
+<div class="theverse"><div class="versenum">5.</div> Katso, mina tulen sinun kimppuus, sanoo Herra Zebaot, mina avaan sinun vaattees palteen sinun kasvoistas, ja naytan sinun hapys pakanoille, ja sinun hapias valtakunnille osoitan.	</div>
 
-<div class="versenum">6.</div> Ja teen sinun sangen kauhistavaiseksi, ja hapaisen sinun, ja teen sinun saastaisuudeksi.	
+<div class="theverse"><div class="versenum">6.</div> Ja teen sinun sangen kauhistavaiseksi, ja hapaisen sinun, ja teen sinun saastaisuudeksi.	</div>
 
-<div class="versenum">7.</div> Ja pitaa tapahtuman, etta kaikki, jotka sinun nakevat, pitaa sinua pakeneman, ja sanoman: Ninive on raadeltu, ja kuka tahtoo hanta armahtaa, ja kusta minun pitais sinulle lohduttajaa etsiman?	
+<div class="theverse"><div class="versenum">7.</div> Ja pitaa tapahtuman, etta kaikki, jotka sinun nakevat, pitaa sinua pakeneman, ja sanoman: Ninive on raadeltu, ja kuka tahtoo hanta armahtaa, ja kusta minun pitais sinulle lohduttajaa etsiman?	</div>
 
-<div class="versenum">8.</div> Oletkos parempi kuin hallitsiain kaupunki No? joka virtain keskella oli, ja vesi juoksi hanen ymparillansa, jonka muurit ja vahvistukset olivat meren reunassa.	
+<div class="theverse"><div class="versenum">8.</div> Oletkos parempi kuin hallitsiain kaupunki No? joka virtain keskella oli, ja vesi juoksi hanen ymparillansa, jonka muurit ja vahvistukset olivat meren reunassa.	</div>
 
-<div class="versenum">9.</div> Etiopia ja Egypti oli hanen lukematoin vakensa; Put ja Lybia olivat sinun apunas.	
+<div class="theverse"><div class="versenum">9.</div> Etiopia ja Egypti oli hanen lukematoin vakensa; Put ja Lybia olivat sinun apunas.	</div>
 
-<div class="versenum">10.</div> Ja kuitenkin hanen taytyi pois ajettuna olla, ja menna pois vangittuna; ja hanen lapsensa ovat kaikkein katuin suissa lyodyt, ja hanen kunniallisistansa heitettiin arpaa, ja kaikki hanen ylimmaisensa pantiin kahleisiin.	
+<div class="theverse"><div class="versenum">10.</div> Ja kuitenkin hanen taytyi pois ajettuna olla, ja menna pois vangittuna; ja hanen lapsensa ovat kaikkein katuin suissa lyodyt, ja hanen kunniallisistansa heitettiin arpaa, ja kaikki hanen ylimmaisensa pantiin kahleisiin.	</div>
 
-<div class="versenum">11.</div> Juuri niin taytyy sinun myos juopua, ja sinuas lymyttaa, ja turvaa vihollistes edesta etsia.	
+<div class="theverse"><div class="versenum">11.</div> Juuri niin taytyy sinun myos juopua, ja sinuas lymyttaa, ja turvaa vihollistes edesta etsia.	</div>
 
-<div class="versenum">12.</div> Kaikki sinun vahvat kaupunkis ovat niinkuin fikunapuut, joissa kypsat fikunat ovat: kuin niita pudistetaan, niin he putoovat sen suuhun, joka niita syoda tahtoo.	
+<div class="theverse"><div class="versenum">12.</div> Kaikki sinun vahvat kaupunkis ovat niinkuin fikunapuut, joissa kypsat fikunat ovat: kuin niita pudistetaan, niin he putoovat sen suuhun, joka niita syoda tahtoo.	</div>
 
-<div class="versenum">13.</div> Katso, sinun kansas pitaa tuleman niinkuin vaimot, ja sinun maas ovet pitaa sinun vihollisilles kokonansa aukeneman, ja tulen pitaa sinun salpas syoman.	
+<div class="theverse"><div class="versenum">13.</div> Katso, sinun kansas pitaa tuleman niinkuin vaimot, ja sinun maas ovet pitaa sinun vihollisilles kokonansa aukeneman, ja tulen pitaa sinun salpas syoman.	</div>
 
-<div class="versenum">14.</div> Ammunna sinulles vetta siina, missa sina piiritetaan; vahvista sinun linnas, mene saveen ja sotke sita, ja tee vahvoja tiileja.	
+<div class="theverse"><div class="versenum">14.</div> Ammunna sinulles vetta siina, missa sina piiritetaan; vahvista sinun linnas, mene saveen ja sotke sita, ja tee vahvoja tiileja.	</div>
 
-<div class="versenum">15.</div> Mutta tulen pitaa sinua syoman, ja miekan sinua surmaaman; sen pitaa sinun syoman niinkuin paarmat; sen pitaa lankeeman sinun paalles niinkuin ruohomadot.	
+<div class="theverse"><div class="versenum">15.</div> Mutta tulen pitaa sinua syoman, ja miekan sinua surmaaman; sen pitaa sinun syoman niinkuin paarmat; sen pitaa lankeeman sinun paalles niinkuin ruohomadot.	</div>
 
-<div class="versenum">16.</div> Enempi sinulla on kauppamiehia kuin tahtia taivaassa; mutta nyt heidan pitaa itsensa hajoittaman niinkuin paarmat, ja lentaman siita pois.	
+<div class="theverse"><div class="versenum">16.</div> Enempi sinulla on kauppamiehia kuin tahtia taivaassa; mutta nyt heidan pitaa itsensa hajoittaman niinkuin paarmat, ja lentaman siita pois.	</div>
 
-<div class="versenum">17.</div> Sinun ylimmaistas on niin monta niinkuin ruohomatoja, ja paamiehias niinkuin paarmoja, jotka heitansa aidoille vilun aikana sioittavat; mutta kuin aurinko nousee, niin he sielta lahtevat, ettei siaakaan tuta, kussa he olivat.	
+<div class="theverse"><div class="versenum">17.</div> Sinun ylimmaistas on niin monta niinkuin ruohomatoja, ja paamiehias niinkuin paarmoja, jotka heitansa aidoille vilun aikana sioittavat; mutta kuin aurinko nousee, niin he sielta lahtevat, ettei siaakaan tuta, kussa he olivat.	</div>
 
-<div class="versenum">18.</div> Sinun paimenes, sina Assurin kunigas, pitaa makaaman, ja sinun voimallises pitaa maata paneman; sinun kansas pitaa vuorille hajoitettaman, ja ei pida kenenkaan heita kokooman.	
+<div class="theverse"><div class="versenum">18.</div> Sinun paimenes, sina Assurin kunigas, pitaa makaaman, ja sinun voimallises pitaa maata paneman; sinun kansas pitaa vuorille hajoitettaman, ja ei pida kenenkaan heita kokooman.	</div>
 
-<div class="versenum">19.</div> Ei pida kenenkaan sinun vahinkoas parantaman, eika sinun rangaistuksestas sureman; vaan kaikki, jotka naita sinusta kuulevat, pitaa kasiansa sinusta yhteen lyoman; silla keta ei ole sinun pahuutes ilman lakkaamata kohdannut.	
+<div class="theverse"><div class="versenum">19.</div> Ei pida kenenkaan sinun vahinkoas parantaman, eika sinun rangaistuksestas sureman; vaan kaikki, jotka naita sinusta kuulevat, pitaa kasiansa sinusta yhteen lyoman; silla keta ei ole sinun pahuutes ilman lakkaamata kohdannut.	</div>
 </body>
 </html>

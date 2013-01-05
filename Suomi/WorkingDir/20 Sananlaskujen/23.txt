@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 23	</div>
 	
-<div class="versenum">1.</div> Koskas istus ja syot jonkun herran kanssa, niin ota visu vaari, kuka edessas on.	
+<div class="theverse"><div class="versenum">1.</div> Koskas istus ja syot jonkun herran kanssa, niin ota visu vaari, kuka edessas on.	</div>
 
-<div class="versenum">2.</div> Ja pane veitsi kaulaas, jos sina tahdot henkes pitaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja pane veitsi kaulaas, jos sina tahdot henkes pitaa.	</div>
 
-<div class="versenum">3.</div> Ala himoitse hanen herkustansa; silla se on petollinen leipa.	
+<div class="theverse"><div class="versenum">3.</div> Ala himoitse hanen herkustansa; silla se on petollinen leipa.	</div>
 
-<div class="versenum">4.</div> Ala vaivaa sinuas tullakses rikkaksi, ja lakkaa sinun viisaudesta.	
+<div class="theverse"><div class="versenum">4.</div> Ala vaivaa sinuas tullakses rikkaksi, ja lakkaa sinun viisaudesta.	</div>
 
-<div class="versenum">5.</div> Ala lennata silmias sen jalkeen, jota et sina taida saada; silla se tekee itsellensa siivet niinkuin kotka, ja lentaa taivasta pain.	
+<div class="theverse"><div class="versenum">5.</div> Ala lennata silmias sen jalkeen, jota et sina taida saada; silla se tekee itsellensa siivet niinkuin kotka, ja lentaa taivasta pain.	</div>
 
-<div class="versenum">6.</div> Ala syo leipaa kateen kanssa, ja ala himoitse hanen hanen herkkuansa.	
+<div class="theverse"><div class="versenum">6.</div> Ala syo leipaa kateen kanssa, ja ala himoitse hanen hanen herkkuansa.	</div>
 
-<div class="versenum">7.</div> Silla niinkuin han itse sydamessansa ajattelee, niin se on; han sanoo sinulle: syo ja juo, ja ei kuitenkaan ole hanen mielensa sinun kanssas.	
+<div class="theverse"><div class="versenum">7.</div> Silla niinkuin han itse sydamessansa ajattelee, niin se on; han sanoo sinulle: syo ja juo, ja ei kuitenkaan ole hanen mielensa sinun kanssas.	</div>
 
-<div class="versenum">8.</div> Sinun palas, jotka syonyt olet, pitaa sinun oksentaman, ja sinun ystavalliset puhees pitaa hukkaan tuleman.	
+<div class="theverse"><div class="versenum">8.</div> Sinun palas, jotka syonyt olet, pitaa sinun oksentaman, ja sinun ystavalliset puhees pitaa hukkaan tuleman.	</div>
 
-<div class="versenum">9.</div> Ala puhu hullun korvissa; silla han katsoo sinun toimellisen puheen ylon.	
+<div class="theverse"><div class="versenum">9.</div> Ala puhu hullun korvissa; silla han katsoo sinun toimellisen puheen ylon.	</div>
 
-<div class="versenum">10.</div> Ala siirra takaperin entisia rajoja,ja ala mene orpoin pellolle.	
+<div class="theverse"><div class="versenum">10.</div> Ala siirra takaperin entisia rajoja,ja ala mene orpoin pellolle.	</div>
 
-<div class="versenum">11.</div> Silla heidan lunastajansa on voimallinen: han toimittaa heidan asiansa sinua vastaan.	
+<div class="theverse"><div class="versenum">11.</div> Silla heidan lunastajansa on voimallinen: han toimittaa heidan asiansa sinua vastaan.	</div>
 
-<div class="versenum">12.</div> Anna sydames kuritukseen, ja korvas toimelliseen puheesen.	
+<div class="theverse"><div class="versenum">12.</div> Anna sydames kuritukseen, ja korvas toimelliseen puheesen.	</div>
 
-<div class="versenum">13.</div> Ala lakkaa lasta kurittamasta; silla jos sina hanta vitsalla lyot, niin ei han kuole.	
+<div class="theverse"><div class="versenum">13.</div> Ala lakkaa lasta kurittamasta; silla jos sina hanta vitsalla lyot, niin ei han kuole.	</div>
 
-<div class="versenum">14.</div> Sina lyot hanta vitsalla, vaan sina vapahdat hanen sielunsa helvetista.	
+<div class="theverse"><div class="versenum">14.</div> Sina lyot hanta vitsalla, vaan sina vapahdat hanen sielunsa helvetista.	</div>
 
-<div class="versenum">15.</div> Poikani, jos sina viisas olet, niin myos sydameni iloitsee.	
+<div class="theverse"><div class="versenum">15.</div> Poikani, jos sina viisas olet, niin myos sydameni iloitsee.	</div>
 
-<div class="versenum">16.</div> Ja minun munaskuuni ovat riemuiset, koska sinun huules puhuvat, mika oikia on.	
+<div class="theverse"><div class="versenum">16.</div> Ja minun munaskuuni ovat riemuiset, koska sinun huules puhuvat, mika oikia on.	</div>
 
-<div class="versenum">17.</div> Alkoon sinun sydames kiivoitelko syntisia, vaan olkoon Herran pelvossa joka paiva.	
+<div class="theverse"><div class="versenum">17.</div> Alkoon sinun sydames kiivoitelko syntisia, vaan olkoon Herran pelvossa joka paiva.	</div>
 
-<div class="versenum">18.</div> Silla se on sinulle viimein hyvaksi, ja ei sinun odottamises puutu.	
+<div class="theverse"><div class="versenum">18.</div> Silla se on sinulle viimein hyvaksi, ja ei sinun odottamises puutu.	</div>
 
-<div class="versenum">19.</div> Kuule, poikani, ja ole viisas, ja johdata sydames tielle.	
+<div class="theverse"><div class="versenum">19.</div> Kuule, poikani, ja ole viisas, ja johdata sydames tielle.	</div>
 
-<div class="versenum">20.</div> Ala ole juomarien ja syomarien seassa.	
+<div class="theverse"><div class="versenum">20.</div> Ala ole juomarien ja syomarien seassa.	</div>
 
-<div class="versenum">21.</div> Silla juomarit ja syomarit koyhtyvat, ja unikeko pitaa ryysyissa kayman.	
+<div class="theverse"><div class="versenum">21.</div> Silla juomarit ja syomarit koyhtyvat, ja unikeko pitaa ryysyissa kayman.	</div>
 
-<div class="versenum">22.</div> Kuule isaas, joka sinun siittanyt on, ja ala katso aitias ylon, kuin han vanhaksi tulee.	
+<div class="theverse"><div class="versenum">22.</div> Kuule isaas, joka sinun siittanyt on, ja ala katso aitias ylon, kuin han vanhaksi tulee.	</div>
 
-<div class="versenum">23.</div> Osta totuutta, ja ala sita myy, niin myos viisautta, oppia ja ymmarrysta.	
+<div class="theverse"><div class="versenum">23.</div> Osta totuutta, ja ala sita myy, niin myos viisautta, oppia ja ymmarrysta.	</div>
 
-<div class="versenum">24.</div> Vanhurskaan isa suuresti riemuitsee; ja joka viisaan siittanyt on, han iloitsee hanesta.	
+<div class="theverse"><div class="versenum">24.</div> Vanhurskaan isa suuresti riemuitsee; ja joka viisaan siittanyt on, han iloitsee hanesta.	</div>
 
-<div class="versenum">25.</div> Anna isas ja aitis iloita; ja riemuitkaan se, joka sinun synnyttanyt on.	
+<div class="theverse"><div class="versenum">25.</div> Anna isas ja aitis iloita; ja riemuitkaan se, joka sinun synnyttanyt on.	</div>
 
-<div class="versenum">26.</div> Anna minulle, poikani, sydames, ja sinun silmas pitakoon minun tieni.	
+<div class="theverse"><div class="versenum">26.</div> Anna minulle, poikani, sydames, ja sinun silmas pitakoon minun tieni.	</div>
 
-<div class="versenum">27.</div> Silla portto on syva kuoppa, ja vieras vaimo on ahdas kaivo.	
+<div class="theverse"><div class="versenum">27.</div> Silla portto on syva kuoppa, ja vieras vaimo on ahdas kaivo.	</div>
 
-<div class="versenum">28.</div> Ja han vaijyy niinkuin saalista, ja saattaa monta tottelemattomaksi ihmisten seassa.	
+<div class="theverse"><div class="versenum">28.</div> Ja han vaijyy niinkuin saalista, ja saattaa monta tottelemattomaksi ihmisten seassa.	</div>
 
-<div class="versenum">29.</div> Kussa on kipu? kussa murhe? kussa tora? kussa valitus? kenella haavat ilman syyta? kenella punaiset silmat?	
+<div class="theverse"><div class="versenum">29.</div> Kussa on kipu? kussa murhe? kussa tora? kussa valitus? kenella haavat ilman syyta? kenella punaiset silmat?	</div>
 
-<div class="versenum">30.</div> Siina, kussa viinan tykona viivytaan, ja tullaan tyhjentamaan, mita sisalle pantu on.	
+<div class="theverse"><div class="versenum">30.</div> Siina, kussa viinan tykona viivytaan, ja tullaan tyhjentamaan, mita sisalle pantu on.	</div>
 
-<div class="versenum">31.</div> Ala katsele viinaa, vaikka se punoittaa, ja on selkiana lasissa, ja huokiasti menee alas;	
+<div class="theverse"><div class="versenum">31.</div> Ala katsele viinaa, vaikka se punoittaa, ja on selkiana lasissa, ja huokiasti menee alas;	</div>
 
-<div class="versenum">32.</div> Vaan viimeiselta puree se niinkuin kaarme, ja pistaa niinkuin kyykaarme.	
+<div class="theverse"><div class="versenum">32.</div> Vaan viimeiselta puree se niinkuin kaarme, ja pistaa niinkuin kyykaarme.	</div>
 
-<div class="versenum">33.</div> Niin katsovat sinun silmas muita vaimoja, ja sinun sydames puhuu toimettomia asioita,	
+<div class="theverse"><div class="versenum">33.</div> Niin katsovat sinun silmas muita vaimoja, ja sinun sydames puhuu toimettomia asioita,	</div>
 
-<div class="versenum">34.</div> Ja sina tulet niinkuin se, joka makaa keskella merta, ja niinkuin se joka makaa ylhaalla haahden pielen paassa.	
+<div class="theverse"><div class="versenum">34.</div> Ja sina tulet niinkuin se, joka makaa keskella merta, ja niinkuin se joka makaa ylhaalla haahden pielen paassa.	</div>
 
-<div class="versenum">35.</div> Sina sanot; he loivat minua, vaan en mina kipua tuntenut; he sysivat minua, ja en mina tiennyt. Kuin mina heraan, niin tahdon mina viela niin tehda, ja sita enempi etsia.	
+<div class="theverse"><div class="versenum">35.</div> Sina sanot; he loivat minua, vaan en mina kipua tuntenut; he sysivat minua, ja en mina tiennyt. Kuin mina heraan, niin tahdon mina viela niin tehda, ja sita enempi etsia.	</div>
 </body>
 </html>

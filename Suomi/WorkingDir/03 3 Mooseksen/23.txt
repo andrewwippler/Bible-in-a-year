@@ -4,92 +4,92 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 23	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: namat ovat Herran juhlat, jotka teidan pitaa kutsuman pyhiksi kokouksiksi: ne ovat minun juhlani.	
+<div class="theverse"><div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: namat ovat Herran juhlat, jotka teidan pitaa kutsuman pyhiksi kokouksiksi: ne ovat minun juhlani.	</div>
 
-<div class="versenum">3.</div> Kuusi pavaa pitaa sinun tyota tekeman, vaan seitsemantena paivana on se suuri sabbati, pyha kokous, jona ei teidan pida yhtaan tyota tekeman; silla se on Herran sabbati kaikissa teidan asuinsioissanne.	
+<div class="theverse"><div class="versenum">3.</div> Kuusi pavaa pitaa sinun tyota tekeman, vaan seitsemantena paivana on se suuri sabbati, pyha kokous, jona ei teidan pida yhtaan tyota tekeman; silla se on Herran sabbati kaikissa teidan asuinsioissanne.	</div>
 
-<div class="versenum">4.</div> Namat ovat Herran juhlapaivat, pyhat kokoukset, jotka teidan pitaa pitaman maaratyilla ajallansa:	
+<div class="theverse"><div class="versenum">4.</div> Namat ovat Herran juhlapaivat, pyhat kokoukset, jotka teidan pitaa pitaman maaratyilla ajallansa:	</div>
 
-<div class="versenum">5.</div> Neljantenatoistakymmenentena paivana ensimmaisena kuukautena, kahden ehtoon valilla, on Herran paasiainen.	
+<div class="theverse"><div class="versenum">5.</div> Neljantenatoistakymmenentena paivana ensimmaisena kuukautena, kahden ehtoon valilla, on Herran paasiainen.	</div>
 
-<div class="versenum">6.</div> Ja viidentenatoistakymmenentena paivana sina kuukautena on Herran happamattoman leivan juhla: silloin pitaa teidan syoman happamatointa leipaa seitseman paivaa.	
+<div class="theverse"><div class="versenum">6.</div> Ja viidentenatoistakymmenentena paivana sina kuukautena on Herran happamattoman leivan juhla: silloin pitaa teidan syoman happamatointa leipaa seitseman paivaa.	</div>
 
-<div class="versenum">7.</div> Ensimmaisena paivana olkoon teilla pyha kokous, eika yhtaan raskasta tyota pida teidan silloin tekeman.	
+<div class="theverse"><div class="versenum">7.</div> Ensimmaisena paivana olkoon teilla pyha kokous, eika yhtaan raskasta tyota pida teidan silloin tekeman.	</div>
 
-<div class="versenum">8.</div> Ja teidan pitaa uhraaman Herralle tuliuhria seitseman paivaa. Seitsemantena paivana on pyha kokous. (Ja silloin myos) ei pida teidan yhtakaan raskasta tyota tekeman.	
+<div class="theverse"><div class="versenum">8.</div> Ja teidan pitaa uhraaman Herralle tuliuhria seitseman paivaa. Seitsemantena paivana on pyha kokous. (Ja silloin myos) ei pida teidan yhtakaan raskasta tyota tekeman.	</div>
 
-<div class="versenum">9.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">9.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">10.</div> Puhu Israelin lapsille, ja sano heille: koska te tulette sille maalle, jonka mina annan teille, ja te leikkaatte sen elon, niin teidan pitaa vieman papille lyhteen teidan elostanne uutiseksi.	
+<div class="theverse"><div class="versenum">10.</div> Puhu Israelin lapsille, ja sano heille: koska te tulette sille maalle, jonka mina annan teille, ja te leikkaatte sen elon, niin teidan pitaa vieman papille lyhteen teidan elostanne uutiseksi.	</div>
 
-<div class="versenum">11.</div> Ja sen lyhteen pitaa hanen haalyttaman Herran edessa, etta se olis otollinen teilta: paivaa jalkeen sabbatin pitaa papin sen haalyttaman.	
+<div class="theverse"><div class="versenum">11.</div> Ja sen lyhteen pitaa hanen haalyttaman Herran edessa, etta se olis otollinen teilta: paivaa jalkeen sabbatin pitaa papin sen haalyttaman.	</div>
 
-<div class="versenum">12.</div> Ja teidan pitaa sina paivana, jona teidan lyhteenne haalytetaan, uhraaman virheettoman vuosikuntaisen karitsan polttouhriksi Herralle.	
+<div class="theverse"><div class="versenum">12.</div> Ja teidan pitaa sina paivana, jona teidan lyhteenne haalytetaan, uhraaman virheettoman vuosikuntaisen karitsan polttouhriksi Herralle.	</div>
 
-<div class="versenum">13.</div> Ja ruokauhriksi kaksi kymmenesta sampylajauhoja, sekoitetut oljylla, tuliuhriksi ja lepytyshajuksi Herralle, niin myos juomauhriksi neljannes hinni viinaa.	
+<div class="theverse"><div class="versenum">13.</div> Ja ruokauhriksi kaksi kymmenesta sampylajauhoja, sekoitetut oljylla, tuliuhriksi ja lepytyshajuksi Herralle, niin myos juomauhriksi neljannes hinni viinaa.	</div>
 
-<div class="versenum">14.</div> Ja ei pida teidan syoman uudisleipaa, kuivattua tahkapaata eli jyvia, siihen paivaan asti, jona te kannatte teidan Jumalallenne uhrin. Sen pitaa oleman ijankaikkisen saadyn teidan sukukunnillenne kaikissa teidan asuinsioissanne.	
+<div class="theverse"><div class="versenum">14.</div> Ja ei pida teidan syoman uudisleipaa, kuivattua tahkapaata eli jyvia, siihen paivaan asti, jona te kannatte teidan Jumalallenne uhrin. Sen pitaa oleman ijankaikkisen saadyn teidan sukukunnillenne kaikissa teidan asuinsioissanne.	</div>
 
-<div class="versenum">15.</div> Sitte pitaa teidan lukeman toisesta sabbatin paivasta, koska te kannoitte haalytyslyhteen edes: seitseman taysinaista viikkoa ne pitaa oleman,	
+<div class="theverse"><div class="versenum">15.</div> Sitte pitaa teidan lukeman toisesta sabbatin paivasta, koska te kannoitte haalytyslyhteen edes: seitseman taysinaista viikkoa ne pitaa oleman,	</div>
 
-<div class="versenum">16.</div> Toiseen paivaan asti, seitsemannen viikon jalkeen, (se on) viisikymmenta paivaa pitaa teidan lukeman, ja sitte uhraaman Herralle uutta ruokauhria.	
+<div class="theverse"><div class="versenum">16.</div> Toiseen paivaan asti, seitsemannen viikon jalkeen, (se on) viisikymmenta paivaa pitaa teidan lukeman, ja sitte uhraaman Herralle uutta ruokauhria.	</div>
 
-<div class="versenum">17.</div> Ja uhraaman kaikista teidan asumasioistanne kaksi haalytysleipaa, kahdesta kymmeneksesta sampylajauhoja, hapatettuina pitaa ne kypsettaman, Herranne uutiseksi.	
+<div class="theverse"><div class="versenum">17.</div> Ja uhraaman kaikista teidan asumasioistanne kaksi haalytysleipaa, kahdesta kymmeneksesta sampylajauhoja, hapatettuina pitaa ne kypsettaman, Herranne uutiseksi.	</div>
 
-<div class="versenum">18.</div> Ja pitaa tuoman teidan leipanne kanssa seitseman vuosikuntaista ja virheetointa karitsaa, ja yhden nuoren mullin, ja kaksi oinasta: sen pitaa oleman Herran polttouhrin, ja heidan ruokauhrinsa ja juomauhrinsa, se on makian hajun tuli Herralle.	
+<div class="theverse"><div class="versenum">18.</div> Ja pitaa tuoman teidan leipanne kanssa seitseman vuosikuntaista ja virheetointa karitsaa, ja yhden nuoren mullin, ja kaksi oinasta: sen pitaa oleman Herran polttouhrin, ja heidan ruokauhrinsa ja juomauhrinsa, se on makian hajun tuli Herralle.	</div>
 
-<div class="versenum">19.</div> Niin myos pitaa teidan valmistaman kauriin rikosuhriksi, niin myos kaksi vuosikuntaista karitsaa kiitosuhriksi.	
+<div class="theverse"><div class="versenum">19.</div> Niin myos pitaa teidan valmistaman kauriin rikosuhriksi, niin myos kaksi vuosikuntaista karitsaa kiitosuhriksi.	</div>
 
-<div class="versenum">20.</div> Ja papin pitaa haalyttaman ne uudisleivan kanssa haalytykseksi Herran edessa, kahden karitsan kanssa. Ja pitaa oleman Herralle pyhat, ja papin omat.	
+<div class="theverse"><div class="versenum">20.</div> Ja papin pitaa haalyttaman ne uudisleivan kanssa haalytykseksi Herran edessa, kahden karitsan kanssa. Ja pitaa oleman Herralle pyhat, ja papin omat.	</div>
 
-<div class="versenum">21.</div> Ja teidan pitaa kuuluttaman taman paivan: tama pitaa teille pyha kokous oleman. Ei teidan pida (silloin) yhtakaan raskasta tyota tekeman: ijankaikkisen saadyn pitaa sen oleman teidan sukukunnissanne, kaikissa teidan asuinsioissanne.	
+<div class="theverse"><div class="versenum">21.</div> Ja teidan pitaa kuuluttaman taman paivan: tama pitaa teille pyha kokous oleman. Ei teidan pida (silloin) yhtakaan raskasta tyota tekeman: ijankaikkisen saadyn pitaa sen oleman teidan sukukunnissanne, kaikissa teidan asuinsioissanne.	</div>
 
-<div class="versenum">22.</div> Koska te leikkaatte elon teidan maastanne, ei sinun pida ylen tyynni peltos kulmia leikkaaman, eika elon paita noukkiman, vaan jattaman ne vaivaisille ja muukalaisille. Mina olen Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">22.</div> Koska te leikkaatte elon teidan maastanne, ei sinun pida ylen tyynni peltos kulmia leikkaaman, eika elon paita noukkiman, vaan jattaman ne vaivaisille ja muukalaisille. Mina olen Herra teidan Jumalanne.	</div>
 
-<div class="versenum">23.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">23.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">24.</div> Puhu Israelin lapsille, ja sano: ensimaisena paivana seitsemantena kuukautena pitaa teidan pitaman sabbatin, soittamisen muistoksi: se on pyha kokous.	
+<div class="theverse"><div class="versenum">24.</div> Puhu Israelin lapsille, ja sano: ensimaisena paivana seitsemantena kuukautena pitaa teidan pitaman sabbatin, soittamisen muistoksi: se on pyha kokous.	</div>
 
-<div class="versenum">25.</div> Silloin ei pida teidan yhtaan raskasta tyota tekeman, ja teidan pitaa uhraaman tuliuhri Herralle.	
+<div class="theverse"><div class="versenum">25.</div> Silloin ei pida teidan yhtaan raskasta tyota tekeman, ja teidan pitaa uhraaman tuliuhri Herralle.	</div>
 
-<div class="versenum">26.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">26.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">27.</div> Kymmenentena paivana tana seitsemantena kuuna on sovintopaiva, se pitaa oleman teille pyha kokous: silloin vaivatkaat sielujanne, ja uhratkaat Herralle tuliuhri.	
+<div class="theverse"><div class="versenum">27.</div> Kymmenentena paivana tana seitsemantena kuuna on sovintopaiva, se pitaa oleman teille pyha kokous: silloin vaivatkaat sielujanne, ja uhratkaat Herralle tuliuhri.	</div>
 
-<div class="versenum">28.</div> Ja ei pida teidan yhtaan tyota tekeman sina paivana; silla se on sovintopaiva, etta te sovitettaisiin Herran teidan Jumalanne edessa.	
+<div class="theverse"><div class="versenum">28.</div> Ja ei pida teidan yhtaan tyota tekeman sina paivana; silla se on sovintopaiva, etta te sovitettaisiin Herran teidan Jumalanne edessa.	</div>
 
-<div class="versenum">29.</div> Silla jokainen sielu, jota ei sina paivana vaivata, pitaa havitettaman kansastansa.	
+<div class="theverse"><div class="versenum">29.</div> Silla jokainen sielu, jota ei sina paivana vaivata, pitaa havitettaman kansastansa.	</div>
 
-<div class="versenum">30.</div> Ja jokainen sielu, joka sina paivana jotakin tyota tekee, sen mina hukutan kansastansa.	
+<div class="theverse"><div class="versenum">30.</div> Ja jokainen sielu, joka sina paivana jotakin tyota tekee, sen mina hukutan kansastansa.	</div>
 
-<div class="versenum">31.</div> Sentahden ei pida teidan (silloin) mitaan tyota tekeman: sen pitaa oleman ijankaikkisen saadyn teidan sukukunnillenne kaikissa teidan asuinsioissanne.	
+<div class="theverse"><div class="versenum">31.</div> Sentahden ei pida teidan (silloin) mitaan tyota tekeman: sen pitaa oleman ijankaikkisen saadyn teidan sukukunnillenne kaikissa teidan asuinsioissanne.	</div>
 
-<div class="versenum">32.</div> Se on teidan suuri sabbatinne, ja teidan pitaa vaivaaman sielujanne: yhdeksantena paivana kuusta ehtoona pitaa teidan pitaman taman sabbatin, ehtoosta niin ehtoosen.	
+<div class="theverse"><div class="versenum">32.</div> Se on teidan suuri sabbatinne, ja teidan pitaa vaivaaman sielujanne: yhdeksantena paivana kuusta ehtoona pitaa teidan pitaman taman sabbatin, ehtoosta niin ehtoosen.	</div>
 
-<div class="versenum">33.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">33.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">34.</div> Puhu Israelin lapsille, sanoen: viidentenatoistakymmenentena paivana tana seitsemantena kuukautena on lehtimajan juhla, seitseman paivaa Herralle.	
+<div class="theverse"><div class="versenum">34.</div> Puhu Israelin lapsille, sanoen: viidentenatoistakymmenentena paivana tana seitsemantena kuukautena on lehtimajan juhla, seitseman paivaa Herralle.	</div>
 
-<div class="versenum">35.</div> Ensimaisena paivana pitaa oleman pyha kokous: ei teidan pida yhtaan raskasta tyota (silloin) tekeman.	
+<div class="theverse"><div class="versenum">35.</div> Ensimaisena paivana pitaa oleman pyha kokous: ei teidan pida yhtaan raskasta tyota (silloin) tekeman.	</div>
 
-<div class="versenum">36.</div> Seitseman paivaa pitaa teidan uhraaman tuliuhria Herralle, kahdeksantena paivana pitaa teilla pyha kokous oleman, ja teidan pitaa tekeman tuliuhri Herralle; silla se on paatospaiva: ei pida teidan yhtaan raskasta tyota (silloin) tekeman.	
+<div class="theverse"><div class="versenum">36.</div> Seitseman paivaa pitaa teidan uhraaman tuliuhria Herralle, kahdeksantena paivana pitaa teilla pyha kokous oleman, ja teidan pitaa tekeman tuliuhri Herralle; silla se on paatospaiva: ei pida teidan yhtaan raskasta tyota (silloin) tekeman.	</div>
 
-<div class="versenum">37.</div> Namat ovat Herran juhlapaivat, jotka teidan pitaa kutsuman pyhaksi kokoukseksi, ja uhraaman Herralle tuliuhria, polttouhria, ruokauhria, juomauhria, ja muita uhreja, jokaisen paivanansa.	
+<div class="theverse"><div class="versenum">37.</div> Namat ovat Herran juhlapaivat, jotka teidan pitaa kutsuman pyhaksi kokoukseksi, ja uhraaman Herralle tuliuhria, polttouhria, ruokauhria, juomauhria, ja muita uhreja, jokaisen paivanansa.	</div>
 
-<div class="versenum">38.</div> Ilman Herran sabbatia, ja ilman teidan lahjojanne ja ilman kaikkia lupauksianne, ja ilman kaikkia mielellisia antimianne, joita teidan pitaa antaman Herralle.	
+<div class="theverse"><div class="versenum">38.</div> Ilman Herran sabbatia, ja ilman teidan lahjojanne ja ilman kaikkia lupauksianne, ja ilman kaikkia mielellisia antimianne, joita teidan pitaa antaman Herralle.	</div>
 
-<div class="versenum">39.</div> Niin pitaa nyt teidan viidentenatoistakymmenentena paivana seitsemantena kuukautena, koottuanne vuoden tulon maalta, juhlallisesti viettaman Herran riemujuhlaa, seitseman paivaa: ensimaisena paivana on sabbati, ja kahdeksantena paivana on myos sabbati.	
+<div class="theverse"><div class="versenum">39.</div> Niin pitaa nyt teidan viidentenatoistakymmenentena paivana seitsemantena kuukautena, koottuanne vuoden tulon maalta, juhlallisesti viettaman Herran riemujuhlaa, seitseman paivaa: ensimaisena paivana on sabbati, ja kahdeksantena paivana on myos sabbati.	</div>
 
-<div class="versenum">40.</div> Ja teidan pitaa ensimaisena paivana ottaman teillenne hedelmia ihanasta puusta, palmun versoja, ja oksia paksu-oksaisista puista ja pajuja ojista, ja oleman riemuiset seitseman paivaa, Herran teidan Jumalanne edessa.	
+<div class="theverse"><div class="versenum">40.</div> Ja teidan pitaa ensimaisena paivana ottaman teillenne hedelmia ihanasta puusta, palmun versoja, ja oksia paksu-oksaisista puista ja pajuja ojista, ja oleman riemuiset seitseman paivaa, Herran teidan Jumalanne edessa.	</div>
 
-<div class="versenum">41.</div> Ja pitaa niin pitaman Herralle sita riemujuhlaa vuodessa seitseman paivaa: sen pitaa oleman ijankaikkisen saadyn teidan sukukunnissanne, etta teidan niin pitaa pyhaa riemujuhlaa pitaman seitsemantena kuukautena.	
+<div class="theverse"><div class="versenum">41.</div> Ja pitaa niin pitaman Herralle sita riemujuhlaa vuodessa seitseman paivaa: sen pitaa oleman ijankaikkisen saadyn teidan sukukunnissanne, etta teidan niin pitaa pyhaa riemujuhlaa pitaman seitsemantena kuukautena.	</div>
 
-<div class="versenum">42.</div> Seitseman paivaa pitaa teidan asuman lehtimajoissa: joka omainen on Israelissa, hanen pitaa asuman lehtimajoissa,	
+<div class="theverse"><div class="versenum">42.</div> Seitseman paivaa pitaa teidan asuman lehtimajoissa: joka omainen on Israelissa, hanen pitaa asuman lehtimajoissa,	</div>
 
-<div class="versenum">43.</div> Etta teidan sukunne tietaisivat, kuinka mina olen antanut Israelin lapset asua majoissa, koska mina johdatin heita Egyptin maalta: Mina Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">43.</div> Etta teidan sukunne tietaisivat, kuinka mina olen antanut Israelin lapset asua majoissa, koska mina johdatin heita Egyptin maalta: Mina Herra teidan Jumalanne.	</div>
 
-<div class="versenum">44.</div> Ja Moses sanoi namat Herran juhlapaivat Israelin lapsille.	
+<div class="theverse"><div class="versenum">44.</div> Ja Moses sanoi namat Herran juhlapaivat Israelin lapsille.	</div>
 </body>
 </html>

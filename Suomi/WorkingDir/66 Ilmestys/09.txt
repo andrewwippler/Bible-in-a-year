@@ -4,46 +4,46 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 9	</div>
 	
-<div class="versenum">1.</div> Ja viides enkeli soitti basunalla, ja mina nain tahden taivaasta maan paalle putoovan, ja hanelle annettiin syvyyden kaivon avain.	
+<div class="theverse"><div class="versenum">1.</div> Ja viides enkeli soitti basunalla, ja mina nain tahden taivaasta maan paalle putoovan, ja hanelle annettiin syvyyden kaivon avain.	</div>
 
-<div class="versenum">2.</div> Ja han avasi syvyyden kaivon, ja kaivon savu kavi ylos niinkuin suuren patsin savu, ja aurinko ja ilma pimisi kaivon savusta.	
+<div class="theverse"><div class="versenum">2.</div> Ja han avasi syvyyden kaivon, ja kaivon savu kavi ylos niinkuin suuren patsin savu, ja aurinko ja ilma pimisi kaivon savusta.	</div>
 
-<div class="versenum">3.</div> Ja savusta laksivat metsasirkat maan paalle, ja heille annettiin voima, niinkuin skorpionilla on voima maan paalla.	
+<div class="theverse"><div class="versenum">3.</div> Ja savusta laksivat metsasirkat maan paalle, ja heille annettiin voima, niinkuin skorpionilla on voima maan paalla.	</div>
 
-<div class="versenum">4.</div> Ja heille sanottiin, ettei heidan pitanyt vahingoittaman maan ruohoa eika mitaan viheriaista, ei myos yhtaan puuta, vaan ainoastaan ihmisia, joiden otsissa ei Jumalan sinetti ole.	
+<div class="theverse"><div class="versenum">4.</div> Ja heille sanottiin, ettei heidan pitanyt vahingoittaman maan ruohoa eika mitaan viheriaista, ei myos yhtaan puuta, vaan ainoastaan ihmisia, joiden otsissa ei Jumalan sinetti ole.	</div>
 
-<div class="versenum">5.</div> Ja se annettiin heille, ettei heidan pitanyt heita tappaman, vaan viisi kuukautta vaivaaman, ja heidan vaivaamisensa oli niinkuin skorpionin vaivaaminen, kuin han on ihmista pistanyt.	
+<div class="theverse"><div class="versenum">5.</div> Ja se annettiin heille, ettei heidan pitanyt heita tappaman, vaan viisi kuukautta vaivaaman, ja heidan vaivaamisensa oli niinkuin skorpionin vaivaaminen, kuin han on ihmista pistanyt.	</div>
 
-<div class="versenum">6.</div> Ja niina paivina ihmiset etsivat kuolemaa, ja ei loyda hanta, ja pyytaa kuolla, vaan kuolema pakenee heita.	
+<div class="theverse"><div class="versenum">6.</div> Ja niina paivina ihmiset etsivat kuolemaa, ja ei loyda hanta, ja pyytaa kuolla, vaan kuolema pakenee heita.	</div>
 
-<div class="versenum">7.</div> Ja metsasirkat ovat orhitten kaltaiset, jotka sotaan valmistetut ovat, ja heidan paassansa niinkuin kruunut, kullan muotoiset, ja heidan kasvonsa niinihmisten kasvot.	
+<div class="theverse"><div class="versenum">7.</div> Ja metsasirkat ovat orhitten kaltaiset, jotka sotaan valmistetut ovat, ja heidan paassansa niinkuin kruunut, kullan muotoiset, ja heidan kasvonsa niinihmisten kasvot.	</div>
 
-<div class="versenum">8.</div> Ja heilla olivat hiukset, ja heidan hampaansa olivat niinkuin jalopeuran.	
+<div class="theverse"><div class="versenum">8.</div> Ja heilla olivat hiukset, ja heidan hampaansa olivat niinkuin jalopeuran.	</div>
 
-<div class="versenum">9.</div> Ja heilla oli pantsari niinkuin rautapantsarit; ja heidan siipiensa havina niinkuin ratasten kituma, kussa monta hevosta sotaan juoksee.	
+<div class="theverse"><div class="versenum">9.</div> Ja heilla oli pantsari niinkuin rautapantsarit; ja heidan siipiensa havina niinkuin ratasten kituma, kussa monta hevosta sotaan juoksee.	</div>
 
-<div class="versenum">10.</div> Ja heilla oli pyrstot niinkuin skorpionilla, ja heidan pyrstoissansa olivat neulaiset, ja heidan voimansa oli ihmisia viisi kuukautta vahingoittaa.	
+<div class="theverse"><div class="versenum">10.</div> Ja heilla oli pyrstot niinkuin skorpionilla, ja heidan pyrstoissansa olivat neulaiset, ja heidan voimansa oli ihmisia viisi kuukautta vahingoittaa.	</div>
 
-<div class="versenum">11.</div> Ja heidan kuninkaansa on syvyyden enkeli, jonka nimi Hebrean kielella on Abaddon, ja Grekan kielella on hanen nimensa Apollyon.	
+<div class="theverse"><div class="versenum">11.</div> Ja heidan kuninkaansa on syvyyden enkeli, jonka nimi Hebrean kielella on Abaddon, ja Grekan kielella on hanen nimensa Apollyon.	</div>
 
-<div class="versenum">12.</div> Yksi voi on mennyt edes, katso, viela kaksi voita sen jalkeen tulevat.	
+<div class="theverse"><div class="versenum">12.</div> Yksi voi on mennyt edes, katso, viela kaksi voita sen jalkeen tulevat.	</div>
 
-<div class="versenum">13.</div> Ja kuudes enkeli soitti basunalla, ja mina kuulin aanen neljasta kultaisen alttarin sarvesta, joka Jumalan edessa on,	
+<div class="theverse"><div class="versenum">13.</div> Ja kuudes enkeli soitti basunalla, ja mina kuulin aanen neljasta kultaisen alttarin sarvesta, joka Jumalan edessa on,	</div>
 
-<div class="versenum">14.</div> Sanovan sille kuudennelle enkelille, jolla basuna oli: paasta ne nelja enkelia, jotka suuressa Euphratin virrassa sidottuna ovat.	
+<div class="theverse"><div class="versenum">14.</div> Sanovan sille kuudennelle enkelille, jolla basuna oli: paasta ne nelja enkelia, jotka suuressa Euphratin virrassa sidottuna ovat.	</div>
 
-<div class="versenum">15.</div> Ja ne nelja enkelia paastettiin, jotka olivat valmiit hetkeksi, ja paivaksi, ja kuukaudeksi ja vuodeksi, tappamaan kolmatta osaa ihmisista.	
+<div class="theverse"><div class="versenum">15.</div> Ja ne nelja enkelia paastettiin, jotka olivat valmiit hetkeksi, ja paivaksi, ja kuukaudeksi ja vuodeksi, tappamaan kolmatta osaa ihmisista.	</div>
 
-<div class="versenum">16.</div> Ja ratsasmiesten sotajoukon luku oli kaksin kerroin kymmentuhatta kertaa kymmenentuhatta, ja mina kuulin heidan lukunsa.	
+<div class="theverse"><div class="versenum">16.</div> Ja ratsasmiesten sotajoukon luku oli kaksin kerroin kymmentuhatta kertaa kymmenentuhatta, ja mina kuulin heidan lukunsa.	</div>
 
-<div class="versenum">17.</div> Ja niin mina nain ne orhiit nayssa, ja niilla, jotka heidan paallansa istuivat, olivat tuliset ja keltaiset ja tulikiviset pantsarit , ja orhitten paat olivat niinkuin jalopeurain paat, ja heidan suustansa kavi ulos tuli, ja savu, ja tulikivi.	
+<div class="theverse"><div class="versenum">17.</div> Ja niin mina nain ne orhiit nayssa, ja niilla, jotka heidan paallansa istuivat, olivat tuliset ja keltaiset ja tulikiviset pantsarit , ja orhitten paat olivat niinkuin jalopeurain paat, ja heidan suustansa kavi ulos tuli, ja savu, ja tulikivi.	</div>
 
-<div class="versenum">18.</div> Nailla kolmella vitsauksella tapettiin kolmas osa ihmisista, tulella, savulla ja tulikivella, jotka kavivat ulos heidan suustansa.	
+<div class="theverse"><div class="versenum">18.</div> Nailla kolmella vitsauksella tapettiin kolmas osa ihmisista, tulella, savulla ja tulikivella, jotka kavivat ulos heidan suustansa.	</div>
 
-<div class="versenum">19.</div> Silla heidan voimansa oli heidan suussansa ja heidan pyrstoissansa, ja heidan pyrstonsa olivat karmetten muotoiset, heilla olivat paat ja niilla he vahingoitsivat.	
+<div class="theverse"><div class="versenum">19.</div> Silla heidan voimansa oli heidan suussansa ja heidan pyrstoissansa, ja heidan pyrstonsa olivat karmetten muotoiset, heilla olivat paat ja niilla he vahingoitsivat.	</div>
 
-<div class="versenum">20.</div> Ja muut ihmiset, jotka ei nailla vitsauksilla ole tapetut, ei heidan kattensa toista parannusta tehneet: ettei he olisi perkeleita kumartaneet ja kultaisia, ja hopiaisia, ja vaskisia, ja kivisia ja puisia epajumalia, jotka ei nahda taida, eika kuulla, ei myos kayda.	
+<div class="theverse"><div class="versenum">20.</div> Ja muut ihmiset, jotka ei nailla vitsauksilla ole tapetut, ei heidan kattensa toista parannusta tehneet: ettei he olisi perkeleita kumartaneet ja kultaisia, ja hopiaisia, ja vaskisia, ja kivisia ja puisia epajumalia, jotka ei nahda taida, eika kuulla, ei myos kayda.	</div>
 
-<div class="versenum">21.</div> Ja ei tehneet parannusta murhistansa, eika velhoudestansa, eika huoruudestansa, ei myos varkaudestansa.	
+<div class="theverse"><div class="versenum">21.</div> Ja ei tehneet parannusta murhistansa, eika velhoudestansa, eika huoruudestansa, ei myos varkaudestansa.	</div>
 </body>
 </html>

@@ -4,136 +4,136 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 27	</div>
 	
-<div class="versenum">1.</div> Mutta kuin aamu tuli, pitivat kaikki pappein paamiehet ja kansan vanhimmat neuvoa Jesusta vastaan, hanta kuolettaaksensa,	
+<div class="theverse"><div class="versenum">1.</div> Mutta kuin aamu tuli, pitivat kaikki pappein paamiehet ja kansan vanhimmat neuvoa Jesusta vastaan, hanta kuolettaaksensa,	</div>
 
-<div class="versenum">2.</div> Ja sitoivat hanen, menivat pois ja ylonantoivat hanen maaherralle Pontius Pilatukselle.	
+<div class="theverse"><div class="versenum">2.</div> Ja sitoivat hanen, menivat pois ja ylonantoivat hanen maaherralle Pontius Pilatukselle.	</div>
 
-<div class="versenum">3.</div> Kuin Juudas, joka hanen petti, naki hanen kuolemaan tuomituksi, katui han, ja toi jalleen ne kolmekymmenta hopiapenninkia pappein paamiehille ja vanhimmille,	
+<div class="theverse"><div class="versenum">3.</div> Kuin Juudas, joka hanen petti, naki hanen kuolemaan tuomituksi, katui han, ja toi jalleen ne kolmekymmenta hopiapenninkia pappein paamiehille ja vanhimmille,	</div>
 
-<div class="versenum">4.</div> Sanoen: mina pahasti tein, etta mina petin viattoman veren. Mutta he sanoivat: mita meidan siihen tulee? katso itsias.	
+<div class="theverse"><div class="versenum">4.</div> Sanoen: mina pahasti tein, etta mina petin viattoman veren. Mutta he sanoivat: mita meidan siihen tulee? katso itsias.	</div>
 
-<div class="versenum">5.</div> Ja han heitti hopiapenningit templiin, laksi sielta, meni pois ja hirtti itsensa.	
+<div class="theverse"><div class="versenum">5.</div> Ja han heitti hopiapenningit templiin, laksi sielta, meni pois ja hirtti itsensa.	</div>
 
-<div class="versenum">6.</div> Mutta pappein paamiehet ottivat hopiapenningit ja sanoivat: ei naita sovi panna uhriarkkuun; silla se on veren hinta.	
+<div class="theverse"><div class="versenum">6.</div> Mutta pappein paamiehet ottivat hopiapenningit ja sanoivat: ei naita sovi panna uhriarkkuun; silla se on veren hinta.	</div>
 
-<div class="versenum">7.</div> Niin he pitivat neuvoa, ja ostivat niilla savenvalajan pellon, vierasten hautaamiseksi.	
+<div class="theverse"><div class="versenum">7.</div> Niin he pitivat neuvoa, ja ostivat niilla savenvalajan pellon, vierasten hautaamiseksi.	</div>
 
-<div class="versenum">8.</div> Sentahden se pelto on kutsuttu tahan paivaan asti veripelloksi.	
+<div class="theverse"><div class="versenum">8.</div> Sentahden se pelto on kutsuttu tahan paivaan asti veripelloksi.	</div>
 
-<div class="versenum">9.</div> Silloin taytettiin se mika sanottu oli Jeremias prophetalta, joka sanoo: ja he ottivat kolmekymmenta hopiapenninkia, sen arvatun hinnan, jonka he arvasivat Israelin lapsilta,	
+<div class="theverse"><div class="versenum">9.</div> Silloin taytettiin se mika sanottu oli Jeremias prophetalta, joka sanoo: ja he ottivat kolmekymmenta hopiapenninkia, sen arvatun hinnan, jonka he arvasivat Israelin lapsilta,	</div>
 
-<div class="versenum">10.</div> Ja antoivat ne savenvalajan pellosta, niinkuin Herra on minun kaskenyt.	
+<div class="theverse"><div class="versenum">10.</div> Ja antoivat ne savenvalajan pellosta, niinkuin Herra on minun kaskenyt.	</div>
 
-<div class="versenum">11.</div> Mutta Jesus seisoi maaherran edessa. Niin maaherra kysyi hanelta, sanoen: oletkos sina Juudalaisten kuningas? Jesus sanoi hanelle: sinapa sen sanot.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Jesus seisoi maaherran edessa. Niin maaherra kysyi hanelta, sanoen: oletkos sina Juudalaisten kuningas? Jesus sanoi hanelle: sinapa sen sanot.	</div>
 
-<div class="versenum">12.</div> Ja kuin hanen paallensa kannettiin pappein paamiehilta ja vanhimmilta, ei han mitaan vastannut.	
+<div class="theverse"><div class="versenum">12.</div> Ja kuin hanen paallensa kannettiin pappein paamiehilta ja vanhimmilta, ei han mitaan vastannut.	</div>
 
-<div class="versenum">13.</div> Silloin sanoi Pilatus hanelle: etkos kuule, kuinka paljon he sinua vastaan todistavat?	
+<div class="theverse"><div class="versenum">13.</div> Silloin sanoi Pilatus hanelle: etkos kuule, kuinka paljon he sinua vastaan todistavat?	</div>
 
-<div class="versenum">14.</div> Ja ei han vastannut hanta yhtakaan sanaa, niin etta maaherra suuresti ihmetteli.	
+<div class="theverse"><div class="versenum">14.</div> Ja ei han vastannut hanta yhtakaan sanaa, niin etta maaherra suuresti ihmetteli.	</div>
 
-<div class="versenum">15.</div> Mutta juhlana oli maaherra tottunut paastamaan kansalle jonkun vangin irralle, jonka he tahtoivat.	
+<div class="theverse"><div class="versenum">15.</div> Mutta juhlana oli maaherra tottunut paastamaan kansalle jonkun vangin irralle, jonka he tahtoivat.	</div>
 
-<div class="versenum">16.</div> Niin oli heilla silloin yksi kuuluisa vanki sidottuna, joka kutsuttiin Barabbas.	
+<div class="theverse"><div class="versenum">16.</div> Niin oli heilla silloin yksi kuuluisa vanki sidottuna, joka kutsuttiin Barabbas.	</div>
 
-<div class="versenum">17.</div> Kuin he siis koossa olivat, sanoi Pilatus heille: kumman te tahdotte, etta mina paastan teille? Barabbaan, taikka Jesuksen, joka kutsutaan Kristus?	
+<div class="theverse"><div class="versenum">17.</div> Kuin he siis koossa olivat, sanoi Pilatus heille: kumman te tahdotte, etta mina paastan teille? Barabbaan, taikka Jesuksen, joka kutsutaan Kristus?	</div>
 
-<div class="versenum">18.</div> Silla han tiesi, etta he hanen kateuden tahden olivat antaneet ylon.	
+<div class="theverse"><div class="versenum">18.</div> Silla han tiesi, etta he hanen kateuden tahden olivat antaneet ylon.	</div>
 
-<div class="versenum">19.</div> Mutta kuin han tuomio-istuimelle istui, lahetti hanen emantansa hanen tykonsa, sanoen: ala sina mitaan tee sille vanhurskaalle; silla mina olen paljon karsinyt tanapana unessani hanen tahtensa.	
+<div class="theverse"><div class="versenum">19.</div> Mutta kuin han tuomio-istuimelle istui, lahetti hanen emantansa hanen tykonsa, sanoen: ala sina mitaan tee sille vanhurskaalle; silla mina olen paljon karsinyt tanapana unessani hanen tahtensa.	</div>
 
-<div class="versenum">20.</div> Mutta pappein paamiehet ja vanhimmat yllyttivat kansaa anomaan Barabbasta, mutta Jesusta hukkaamaan.	
+<div class="theverse"><div class="versenum">20.</div> Mutta pappein paamiehet ja vanhimmat yllyttivat kansaa anomaan Barabbasta, mutta Jesusta hukkaamaan.	</div>
 
-<div class="versenum">21.</div> Niin vastasi maaherra ja sanoi heille: kumman naista kahdesta te tahdotte, etta mina paastan teille? mutta he sanoivat: Barabbaan.	
+<div class="theverse"><div class="versenum">21.</div> Niin vastasi maaherra ja sanoi heille: kumman naista kahdesta te tahdotte, etta mina paastan teille? mutta he sanoivat: Barabbaan.	</div>
 
-<div class="versenum">22.</div> Pilatus sanoi heille: mita siis minun pitaa tekeman Jesukselle, joka kutsutaan Kristus? Sanoivat he kaikki hanelle: ristiinnaulittakaan.	
+<div class="theverse"><div class="versenum">22.</div> Pilatus sanoi heille: mita siis minun pitaa tekeman Jesukselle, joka kutsutaan Kristus? Sanoivat he kaikki hanelle: ristiinnaulittakaan.	</div>
 
-<div class="versenum">23.</div> Niin sanoi maaherra: mita han pahaa teki? Mutta he huusivat sita enemmin ja sanoivat: ristiinnaulittakaan.	
+<div class="theverse"><div class="versenum">23.</div> Niin sanoi maaherra: mita han pahaa teki? Mutta he huusivat sita enemmin ja sanoivat: ristiinnaulittakaan.	</div>
 
-<div class="versenum">24.</div> Kuin Pilatus naki, ettei han mitaan auttaa taitanut, mutta enempi pauhina tuli, otti han vetta ja pesi katensa kansan edessa, sanoen: viatoin olen mina taman vanhurskaan vereen: katsokaat itsianne.	
+<div class="theverse"><div class="versenum">24.</div> Kuin Pilatus naki, ettei han mitaan auttaa taitanut, mutta enempi pauhina tuli, otti han vetta ja pesi katensa kansan edessa, sanoen: viatoin olen mina taman vanhurskaan vereen: katsokaat itsianne.	</div>
 
-<div class="versenum">25.</div> Ja kaikki kansa vastasi ja sanoi: hanen verensa tulkaan meidan paallemme ja lastemme paalle.	
+<div class="theverse"><div class="versenum">25.</div> Ja kaikki kansa vastasi ja sanoi: hanen verensa tulkaan meidan paallemme ja lastemme paalle.	</div>
 
-<div class="versenum">26.</div> Silloin paasti han heille Barabbaan; mutta Jesuksen, kuin han hanen ruoskinut oli, antoi han ylon ristiinnaulittaa.	
+<div class="theverse"><div class="versenum">26.</div> Silloin paasti han heille Barabbaan; mutta Jesuksen, kuin han hanen ruoskinut oli, antoi han ylon ristiinnaulittaa.	</div>
 
-<div class="versenum">27.</div> Silloin maaherran huovit veivat Jesuksen raastupaan, ja kokosivat hanen tykonsa kaiken joukon.	
+<div class="theverse"><div class="versenum">27.</div> Silloin maaherran huovit veivat Jesuksen raastupaan, ja kokosivat hanen tykonsa kaiken joukon.	</div>
 
-<div class="versenum">28.</div> Ja kuin he olivat hanen riisuneet, puettivat he hanen purpuraiseen kaapuun,	
+<div class="theverse"><div class="versenum">28.</div> Ja kuin he olivat hanen riisuneet, puettivat he hanen purpuraiseen kaapuun,	</div>
 
-<div class="versenum">29.</div> Ja tekivat orjantappuroista kruunun ja panivat hanen paahansa ja ruovon hanen oikiaan kateensa, ja kumarsivat polviansa hanen edessansa, pilkkasivat hanta ja sanoivat: terve, Juudalaisten kuningas!	
+<div class="theverse"><div class="versenum">29.</div> Ja tekivat orjantappuroista kruunun ja panivat hanen paahansa ja ruovon hanen oikiaan kateensa, ja kumarsivat polviansa hanen edessansa, pilkkasivat hanta ja sanoivat: terve, Juudalaisten kuningas!	</div>
 
-<div class="versenum">30.</div> Ja kuin he olivat sylkeneet hanen paallensa, ottivat he ruovon ja loivat hanta paahan.	
+<div class="theverse"><div class="versenum">30.</div> Ja kuin he olivat sylkeneet hanen paallensa, ottivat he ruovon ja loivat hanta paahan.	</div>
 
-<div class="versenum">31.</div> Ja sittekuin he olivat hanta pilkanneet, riisuivat he hanelta kaapun, ja puettivat hanen omiin vaatteisiinsa, ja veivat hanen ristiinnaulittaa.	
+<div class="theverse"><div class="versenum">31.</div> Ja sittekuin he olivat hanta pilkanneet, riisuivat he hanelta kaapun, ja puettivat hanen omiin vaatteisiinsa, ja veivat hanen ristiinnaulittaa.	</div>
 
-<div class="versenum">32.</div> Mutta kuin he menivat ulos, loysivat he yhden miehen Kyrenista, nimelta Simon: sen he vaativat hanen ristiansa kantamaan.	
+<div class="theverse"><div class="versenum">32.</div> Mutta kuin he menivat ulos, loysivat he yhden miehen Kyrenista, nimelta Simon: sen he vaativat hanen ristiansa kantamaan.	</div>
 
-<div class="versenum">33.</div> Ja tulivat siihen paikkaan, joka kutsutaan Golgata, se on: paakallon paikka.	
+<div class="theverse"><div class="versenum">33.</div> Ja tulivat siihen paikkaan, joka kutsutaan Golgata, se on: paakallon paikka.	</div>
 
-<div class="versenum">34.</div> He antoivat hanelle etikkaa juoda sapella sekoitettua; ja kuin han maisti, niin ei han tahtonut juoda.	
+<div class="theverse"><div class="versenum">34.</div> He antoivat hanelle etikkaa juoda sapella sekoitettua; ja kuin han maisti, niin ei han tahtonut juoda.	</div>
 
-<div class="versenum">35.</div> Mutta sitte kuin he olivat hanen ristiinnaulinneet, jakoivat he hanen vaatteensa ja heittivat arpaa, etta taytettaisiin, mita sanottu oli prophetan kautta; he ovat minun vaatteeni jakaneet, ja minun vaatteistani ovat he heittaneet arpaa.	
+<div class="theverse"><div class="versenum">35.</div> Mutta sitte kuin he olivat hanen ristiinnaulinneet, jakoivat he hanen vaatteensa ja heittivat arpaa, etta taytettaisiin, mita sanottu oli prophetan kautta; he ovat minun vaatteeni jakaneet, ja minun vaatteistani ovat he heittaneet arpaa.	</div>
 
-<div class="versenum">36.</div> Ja istuen he vartioitsivat hanta siina.	
+<div class="theverse"><div class="versenum">36.</div> Ja istuen he vartioitsivat hanta siina.	</div>
 
-<div class="versenum">37.</div> Ja he panivat hanen paansa paalle hanen syynsa kirjoitetun: TAMA ON JESUS, JUUDALAISTEN KUNINGAS.	
+<div class="theverse"><div class="versenum">37.</div> Ja he panivat hanen paansa paalle hanen syynsa kirjoitetun: TAMA ON JESUS, JUUDALAISTEN KUNINGAS.	</div>
 
-<div class="versenum">38.</div> Silloin ristiinnaulittiin kaksi ryovaria hanen kanssansa, yksi oikialle puolelle ja toinen vasemmalle.	
+<div class="theverse"><div class="versenum">38.</div> Silloin ristiinnaulittiin kaksi ryovaria hanen kanssansa, yksi oikialle puolelle ja toinen vasemmalle.	</div>
 
-<div class="versenum">39.</div> Mutta ohitsekayvaiset pilkkasivat hanta, vaantelivat paatansa,	
+<div class="theverse"><div class="versenum">39.</div> Mutta ohitsekayvaiset pilkkasivat hanta, vaantelivat paatansa,	</div>
 
-<div class="versenum">40.</div> Ja sanoivat: sina joka maahan jaotat Jumalan templin ja kolmena paivana sen rakennat, auta itsias: jos olet Jumalan Poika, niin astu alas ristista.	
+<div class="theverse"><div class="versenum">40.</div> Ja sanoivat: sina joka maahan jaotat Jumalan templin ja kolmena paivana sen rakennat, auta itsias: jos olet Jumalan Poika, niin astu alas ristista.	</div>
 
-<div class="versenum">41.</div> Niin myos pappein paamiehet, kirjanoppineitten ja vanhimmitten kanssa, pilkkasivat hanta ja sanoivat:	
+<div class="theverse"><div class="versenum">41.</div> Niin myos pappein paamiehet, kirjanoppineitten ja vanhimmitten kanssa, pilkkasivat hanta ja sanoivat:	</div>
 
-<div class="versenum">42.</div> Muita han on auttanut, itsiansa ei han voi auttaa. Jos han on Israelin kuningas, niin astukaan nyt alas ristista, niin me uskomme hanen.	
+<div class="theverse"><div class="versenum">42.</div> Muita han on auttanut, itsiansa ei han voi auttaa. Jos han on Israelin kuningas, niin astukaan nyt alas ristista, niin me uskomme hanen.	</div>
 
-<div class="versenum">43.</div> Han turvasi Jumalaan: paastakoon nyt hanen, jos han mielistyy haneen. Silla han sanoi: Jumalan Poika mina olen.	
+<div class="theverse"><div class="versenum">43.</div> Han turvasi Jumalaan: paastakoon nyt hanen, jos han mielistyy haneen. Silla han sanoi: Jumalan Poika mina olen.	</div>
 
-<div class="versenum">44.</div> Sita myos ryovarit hanelle soimasivat, jotka olivat ristiinnaulitut hanen kanssansa.	
+<div class="theverse"><div class="versenum">44.</div> Sita myos ryovarit hanelle soimasivat, jotka olivat ristiinnaulitut hanen kanssansa.	</div>
 
-<div class="versenum">45.</div> Mutta kuudennesta hetkesta hamaan yhdeksanteen asti oli pimia kaikessa maassa.	
+<div class="theverse"><div class="versenum">45.</div> Mutta kuudennesta hetkesta hamaan yhdeksanteen asti oli pimia kaikessa maassa.	</div>
 
-<div class="versenum">46.</div> Ja liki yhdeksatta hetkea huusi Jesus suurella aanella, sanoen: Eli, Eli, lamma sabaktani? se on: minun Jumalani, minun Jumalani, miksis minun ylenannoit?	
+<div class="theverse"><div class="versenum">46.</div> Ja liki yhdeksatta hetkea huusi Jesus suurella aanella, sanoen: Eli, Eli, lamma sabaktani? se on: minun Jumalani, minun Jumalani, miksis minun ylenannoit?	</div>
 
-<div class="versenum">47.</div> Mutta muutamat niista, jotka siina seisoivat, kuin he sen kuulivat, sanoivat: Eliasta han huutaa.	
+<div class="theverse"><div class="versenum">47.</div> Mutta muutamat niista, jotka siina seisoivat, kuin he sen kuulivat, sanoivat: Eliasta han huutaa.	</div>
 
-<div class="versenum">48.</div> Ja kohta juoksi yksi heista ja otti sienen, ja taytti sen etikalla, pani sen ruovon paahan, ja antoi hanen juoda.	
+<div class="theverse"><div class="versenum">48.</div> Ja kohta juoksi yksi heista ja otti sienen, ja taytti sen etikalla, pani sen ruovon paahan, ja antoi hanen juoda.	</div>
 
-<div class="versenum">49.</div> Mutta muut sanoivat: pidas, katsokaamme, jos Elias tulee hanta paastamaan.	
+<div class="theverse"><div class="versenum">49.</div> Mutta muut sanoivat: pidas, katsokaamme, jos Elias tulee hanta paastamaan.	</div>
 
-<div class="versenum">50.</div> Niin Jesus taas huusi suurella aanella, ja antoi henkensa.	
+<div class="theverse"><div class="versenum">50.</div> Niin Jesus taas huusi suurella aanella, ja antoi henkensa.	</div>
 
-<div class="versenum">51.</div> Ja katso, templin esivaate repesi kahtia ylhaalta hamaan alas, ja maa jarisi, ja kalliot halkesivat,	
+<div class="theverse"><div class="versenum">51.</div> Ja katso, templin esivaate repesi kahtia ylhaalta hamaan alas, ja maa jarisi, ja kalliot halkesivat,	</div>
 
-<div class="versenum">52.</div> Ja haudat aukenivat, ja monta pyhain ruumista, jotka maanneet olivat, nousi ylos,	
+<div class="theverse"><div class="versenum">52.</div> Ja haudat aukenivat, ja monta pyhain ruumista, jotka maanneet olivat, nousi ylos,	</div>
 
-<div class="versenum">53.</div> Ja laksivat ulos haudoista, hanen ylosnousemisensa jalkeen, tulivat pyhaan kaupunkiin, ja ilmestyivat monelle.	
+<div class="theverse"><div class="versenum">53.</div> Ja laksivat ulos haudoista, hanen ylosnousemisensa jalkeen, tulivat pyhaan kaupunkiin, ja ilmestyivat monelle.	</div>
 
-<div class="versenum">54.</div> Mutta kuin sadanpaamies ja ne, jotka hanen kanssansa olivat vartioitsemassa Jesusta, nakivat maan jarinan ja ne, mitka tapahtuivat, pelkasivat he suuresti ja sanoivat: totisesti oli tama Jumalan Poika.	
+<div class="theverse"><div class="versenum">54.</div> Mutta kuin sadanpaamies ja ne, jotka hanen kanssansa olivat vartioitsemassa Jesusta, nakivat maan jarinan ja ne, mitka tapahtuivat, pelkasivat he suuresti ja sanoivat: totisesti oli tama Jumalan Poika.	</div>
 
-<div class="versenum">55.</div> Mutta siella oli paljo vaimoja taampana katselemassa, jotka Jesusta olivat seuranneet Galileasta, palvellen hanta,	
+<div class="theverse"><div class="versenum">55.</div> Mutta siella oli paljo vaimoja taampana katselemassa, jotka Jesusta olivat seuranneet Galileasta, palvellen hanta,	</div>
 
-<div class="versenum">56.</div> Joiden seassa oli Maria Magdalena, ja Maria Jakobin ja Joseen aiti, ja Zebedeuksen poikain aiti.	
+<div class="theverse"><div class="versenum">56.</div> Joiden seassa oli Maria Magdalena, ja Maria Jakobin ja Joseen aiti, ja Zebedeuksen poikain aiti.	</div>
 
-<div class="versenum">57.</div> Mutta kuin ehtoo tuli, tuli yksi rikas mies Arimatiasta, jonka nimi oli Joseph, joka myos itse oli Jesuksen opetuslapsi.	
+<div class="theverse"><div class="versenum">57.</div> Mutta kuin ehtoo tuli, tuli yksi rikas mies Arimatiasta, jonka nimi oli Joseph, joka myos itse oli Jesuksen opetuslapsi.	</div>
 
-<div class="versenum">58.</div> Tama meni Pilatuksen tyko ja pyysi Jesuksen ruumista. Silloin Pilatus kaski annettaa ruumiin.	
+<div class="theverse"><div class="versenum">58.</div> Tama meni Pilatuksen tyko ja pyysi Jesuksen ruumista. Silloin Pilatus kaski annettaa ruumiin.	</div>
 
-<div class="versenum">59.</div> Ja kuin Joseph oli ruumiin ottanut, kaari han sen puhtaasen liinaan,	
+<div class="theverse"><div class="versenum">59.</div> Ja kuin Joseph oli ruumiin ottanut, kaari han sen puhtaasen liinaan,	</div>
 
-<div class="versenum">60.</div> Ja pani omaan uuteen hautaansa, jonka han oli hakannut kallioon, ja vieritti suuren kiven haudan ovelle, ja meni pois.	
+<div class="theverse"><div class="versenum">60.</div> Ja pani omaan uuteen hautaansa, jonka han oli hakannut kallioon, ja vieritti suuren kiven haudan ovelle, ja meni pois.	</div>
 
-<div class="versenum">61.</div> Silloin olivat siella Maria Magdalena ja toinen Maria, ja istuivat haudan kohdalla.	
+<div class="theverse"><div class="versenum">61.</div> Silloin olivat siella Maria Magdalena ja toinen Maria, ja istuivat haudan kohdalla.	</div>
 
-<div class="versenum">62.</div> Mutta toisena paivana valmistuksen paivasta kokoontuivat pappein paamiehet ja Pharisealaiset Pilatuksen tyko,	
+<div class="theverse"><div class="versenum">62.</div> Mutta toisena paivana valmistuksen paivasta kokoontuivat pappein paamiehet ja Pharisealaiset Pilatuksen tyko,	</div>
 
-<div class="versenum">63.</div> Sanoen: herra, me muistamme sen viettelian sanoneen elaissansa: kolmen paivan perasta mina nousen.	
+<div class="theverse"><div class="versenum">63.</div> Sanoen: herra, me muistamme sen viettelian sanoneen elaissansa: kolmen paivan perasta mina nousen.	</div>
 
-<div class="versenum">64.</div> Kaske siis varjeltaa hautaa kolmanteen paivaan asti, ettei hanen opetuslapsensa tulisi yolla ja varastaisi hanta, ja sanoisi kansalle: han nousi kuolleista: ja niin jalkimainen villitys tulee pahemmaksi kuin ensimainen.	
+<div class="theverse"><div class="versenum">64.</div> Kaske siis varjeltaa hautaa kolmanteen paivaan asti, ettei hanen opetuslapsensa tulisi yolla ja varastaisi hanta, ja sanoisi kansalle: han nousi kuolleista: ja niin jalkimainen villitys tulee pahemmaksi kuin ensimainen.	</div>
 
-<div class="versenum">65.</div> Pilatus sanoi heille: teilla on vartiat: menkaat, vartioitkaat niinkuin te tiedatte.	
+<div class="theverse"><div class="versenum">65.</div> Pilatus sanoi heille: teilla on vartiat: menkaat, vartioitkaat niinkuin te tiedatte.	</div>
 
-<div class="versenum">66.</div> Mutta he menivat pois, ja vahvistivat haudan vartiain kanssa, ja lukitsivat kiven sinetillansa.	
+<div class="theverse"><div class="versenum">66.</div> Mutta he menivat pois, ja vahvistivat haudan vartiain kanssa, ja lukitsivat kiven sinetillansa.	</div>
 </body>
 </html>

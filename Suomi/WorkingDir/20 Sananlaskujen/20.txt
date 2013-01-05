@@ -4,64 +4,64 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 20	</div>
 	
-<div class="versenum">1.</div> Viina tekee pilkkaajaksi, ja vakevat juotavat tekevat tyhmaksi: joka niita halajaa, ei han ikina viisaaksi tule.	
+<div class="theverse"><div class="versenum">1.</div> Viina tekee pilkkaajaksi, ja vakevat juotavat tekevat tyhmaksi: joka niita halajaa, ei han ikina viisaaksi tule.	</div>
 
-<div class="versenum">2.</div> Kuninkaan peljattamys on niinkuin nuoren jalopeuran kiljuminen: joka hanen vihoittaa, han tekee omaa henkeansa vastoin.	
+<div class="theverse"><div class="versenum">2.</div> Kuninkaan peljattamys on niinkuin nuoren jalopeuran kiljuminen: joka hanen vihoittaa, han tekee omaa henkeansa vastoin.	</div>
 
-<div class="versenum">3.</div> Miehen kunnia on olla ilman riitaa; vaan jotka mielellansa riitelevat, ovat kaikki tyhmat.	
+<div class="theverse"><div class="versenum">3.</div> Miehen kunnia on olla ilman riitaa; vaan jotka mielellansa riitelevat, ovat kaikki tyhmat.	</div>
 
-<div class="versenum">4.</div> Kylman tahden ei tahdo laiska kyntaa; sentahden han elonaikana kerjaa, ja ei saa mitaan.	
+<div class="theverse"><div class="versenum">4.</div> Kylman tahden ei tahdo laiska kyntaa; sentahden han elonaikana kerjaa, ja ei saa mitaan.	</div>
 
-<div class="versenum">5.</div> Neuvo on miehen sydamessa niinkuin syva vesi; mutta toimellinen ammuntaa sen ylos.	
+<div class="theverse"><div class="versenum">5.</div> Neuvo on miehen sydamessa niinkuin syva vesi; mutta toimellinen ammuntaa sen ylos.	</div>
 
-<div class="versenum">6.</div> Monta ihmista kerskataan hyvaksi; vaan kuka loytaa jonkun, joka todella hyva on?	
+<div class="theverse"><div class="versenum">6.</div> Monta ihmista kerskataan hyvaksi; vaan kuka loytaa jonkun, joka todella hyva on?	</div>
 
-<div class="versenum">7.</div> Vanhurskas siveydessa vaeltaa; hanen lastensa kay hyvin hanen perassansa.	
+<div class="theverse"><div class="versenum">7.</div> Vanhurskas siveydessa vaeltaa; hanen lastensa kay hyvin hanen perassansa.	</div>
 
-<div class="versenum">8.</div> Kuningas, joka istuu istuimella tuomitsemaan, hajoittaa kaikki, jotka pahat ovat, silmillansa.	
+<div class="theverse"><div class="versenum">8.</div> Kuningas, joka istuu istuimella tuomitsemaan, hajoittaa kaikki, jotka pahat ovat, silmillansa.	</div>
 
-<div class="versenum">9.</div> Kuka sanoo: mina olen puhdas sydamessani, ja vapaa synnistani?	
+<div class="theverse"><div class="versenum">9.</div> Kuka sanoo: mina olen puhdas sydamessani, ja vapaa synnistani?	</div>
 
-<div class="versenum">10.</div> Monenlainen vaaka ja mitta ovat molemmat kauhistus herralle.	
+<div class="theverse"><div class="versenum">10.</div> Monenlainen vaaka ja mitta ovat molemmat kauhistus herralle.	</div>
 
-<div class="versenum">11.</div> Nuorukainen tunnetaan menostansa, jos han siviaksi ja toimelliseksi tuleva on.	
+<div class="theverse"><div class="versenum">11.</div> Nuorukainen tunnetaan menostansa, jos han siviaksi ja toimelliseksi tuleva on.	</div>
 
-<div class="versenum">12.</div> Kuulevaisen korvan ja nakevaisen silman on Herra molemmat tehnyt.	
+<div class="theverse"><div class="versenum">12.</div> Kuulevaisen korvan ja nakevaisen silman on Herra molemmat tehnyt.	</div>
 
-<div class="versenum">13.</div> Ala rakasta unta, ettes koyhtyisi: avaa silmas, niin sina saat kyllan leipaa.	
+<div class="theverse"><div class="versenum">13.</div> Ala rakasta unta, ettes koyhtyisi: avaa silmas, niin sina saat kyllan leipaa.	</div>
 
-<div class="versenum">14.</div> Paha, paha, sanoo ostaja; mutta mentyansa pois han kerskaa.	
+<div class="theverse"><div class="versenum">14.</div> Paha, paha, sanoo ostaja; mutta mentyansa pois han kerskaa.	</div>
 
-<div class="versenum">15.</div> Kultaa ja kalliita kivia loydetaan kylla, vaan toimellinen suu on kallis kappale.	
+<div class="theverse"><div class="versenum">15.</div> Kultaa ja kalliita kivia loydetaan kylla, vaan toimellinen suu on kallis kappale.	</div>
 
-<div class="versenum">16.</div> Ota hanen vaattensa joka muukaisen takaa: ja ota hanelta pantti tuntemattoman edesta.	
+<div class="theverse"><div class="versenum">16.</div> Ota hanen vaattensa joka muukaisen takaa: ja ota hanelta pantti tuntemattoman edesta.	</div>
 
-<div class="versenum">17.</div> Varastettu leipa maistuu miehelle hyvin; vaan sitte pitaa hanen suunsa oleman taynna teravia kivia.	
+<div class="theverse"><div class="versenum">17.</div> Varastettu leipa maistuu miehelle hyvin; vaan sitte pitaa hanen suunsa oleman taynna teravia kivia.	</div>
 
-<div class="versenum">18.</div> Aivoitukset menestyvat, kuin ne neuvotella toimitetaan, ja sodat myos pitaa toimella pidettaman.	
+<div class="theverse"><div class="versenum">18.</div> Aivoitukset menestyvat, kuin ne neuvotella toimitetaan, ja sodat myos pitaa toimella pidettaman.	</div>
 
-<div class="versenum">19.</div> Ala sekoita sinuas sen kanssa, joka salaisuuden ilmoittaa, ja joka panettelee, ja jolla petollinen suu on.	
+<div class="theverse"><div class="versenum">19.</div> Ala sekoita sinuas sen kanssa, joka salaisuuden ilmoittaa, ja joka panettelee, ja jolla petollinen suu on.	</div>
 
-<div class="versenum">20.</div> Joka isaansa ja aitiansa kiroilee, hanen kynttilansa pitaa sammuman synkiassa pimeydessa.	
+<div class="theverse"><div class="versenum">20.</div> Joka isaansa ja aitiansa kiroilee, hanen kynttilansa pitaa sammuman synkiassa pimeydessa.	</div>
 
-<div class="versenum">21.</div> Perinto, johon varhain kiiruhdetaan, on viimeiselta ilman siunausta.	
+<div class="theverse"><div class="versenum">21.</div> Perinto, johon varhain kiiruhdetaan, on viimeiselta ilman siunausta.	</div>
 
-<div class="versenum">22.</div> Ala sano: mina kostan pahan; odota Herraa, han auttaa sinua.	
+<div class="theverse"><div class="versenum">22.</div> Ala sano: mina kostan pahan; odota Herraa, han auttaa sinua.	</div>
 
-<div class="versenum">23.</div> Monenlaiset puntarit ovat Herralle kauhistus, ja vaara vaaka ei ole hyva.	
+<div class="theverse"><div class="versenum">23.</div> Monenlaiset puntarit ovat Herralle kauhistus, ja vaara vaaka ei ole hyva.	</div>
 
-<div class="versenum">24.</div> Jokaisen retket tulevat Herralta: kuka ihminen taitaa ymmartaa tiensa?	
+<div class="theverse"><div class="versenum">24.</div> Jokaisen retket tulevat Herralta: kuka ihminen taitaa ymmartaa tiensa?	</div>
 
-<div class="versenum">25.</div> Se on ihmiselle paula, kuin han pilkkaa pyhaa, ja etsii sitte lupauksia.	
+<div class="theverse"><div class="versenum">25.</div> Se on ihmiselle paula, kuin han pilkkaa pyhaa, ja etsii sitte lupauksia.	</div>
 
-<div class="versenum">26.</div> Viisas kuningas hajoittaa jumalattomat, ja antaa ratasten kayda heidan paallitsensa.	
+<div class="theverse"><div class="versenum">26.</div> Viisas kuningas hajoittaa jumalattomat, ja antaa ratasten kayda heidan paallitsensa.	</div>
 
-<div class="versenum">27.</div> Herran kynttila on ihmisen henki: han kay lapi koko sydamen.	
+<div class="theverse"><div class="versenum">27.</div> Herran kynttila on ihmisen henki: han kay lapi koko sydamen.	</div>
 
-<div class="versenum">28.</div> Laupius ja totuus varjelee kuninkaan, ja han vahvistaa istuimensa laupiudella.	
+<div class="theverse"><div class="versenum">28.</div> Laupius ja totuus varjelee kuninkaan, ja han vahvistaa istuimensa laupiudella.	</div>
 
-<div class="versenum">29.</div> Nuorten miesten vakevyys on heidan kunniansa, ja harmaat karvat on vanhain kaunistus.	
+<div class="theverse"><div class="versenum">29.</div> Nuorten miesten vakevyys on heidan kunniansa, ja harmaat karvat on vanhain kaunistus.	</div>
 
-<div class="versenum">30.</div> Haavoilla pitaa pahuus ajettaman pois, ja koko sydamen kivulla.	
+<div class="theverse"><div class="versenum">30.</div> Haavoilla pitaa pahuus ajettaman pois, ja koko sydamen kivulla.	</div>
 </body>
 </html>

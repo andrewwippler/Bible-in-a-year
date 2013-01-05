@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Psalmien 32	</div>
 	
-<div class="versenum">1.</div> Davidin opetus. Autuas on se, jonka pahat teot ovat annetut anteeksi ja jonka synnit peitetyt ovat.	
+<div class="theverse"><div class="versenum">1.</div> Davidin opetus. Autuas on se, jonka pahat teot ovat annetut anteeksi ja jonka synnit peitetyt ovat.	</div>
 
-<div class="versenum">2.</div> Autuas on se ihminen, jolle Herra ei soimaa vaaryytta, jonka hengessa ei vilppia ole.	
+<div class="theverse"><div class="versenum">2.</div> Autuas on se ihminen, jolle Herra ei soimaa vaaryytta, jonka hengessa ei vilppia ole.	</div>
 
-<div class="versenum">3.</div> Silla koska mina tahdoin sita vaieta, musertuivat minun luuni jokapaivaisesta itkustani,	
+<div class="theverse"><div class="versenum">3.</div> Silla koska mina tahdoin sita vaieta, musertuivat minun luuni jokapaivaisesta itkustani,	</div>
 
-<div class="versenum">4.</div> Silla sinun kates oli yolla ja paivalla raskas minun paallani, niin etta nesteeni kuivui: niinkuin kesalla kuivuu, Sela!	
+<div class="theverse"><div class="versenum">4.</div> Silla sinun kates oli yolla ja paivalla raskas minun paallani, niin etta nesteeni kuivui: niinkuin kesalla kuivuu, Sela!	</div>
 
-<div class="versenum">5.</div> Sentahden mina tunnustan sinun edessas syntini, ja en peita pahoja tekojani. Mina sanoin: mina tunnustan Herralle pahat tekoni; niin sina annoit anteeksi syntini vaaryyden, Sela!	
+<div class="theverse"><div class="versenum">5.</div> Sentahden mina tunnustan sinun edessas syntini, ja en peita pahoja tekojani. Mina sanoin: mina tunnustan Herralle pahat tekoni; niin sina annoit anteeksi syntini vaaryyden, Sela!	</div>
 
-<div class="versenum">6.</div> Taman tahden pitaa kaikkein pyhain sinua rukoileman oikialla ajalla: sentahden kuin suuret vedenpaisumiset tulevat, ei he niihin ulotu.	
+<div class="theverse"><div class="versenum">6.</div> Taman tahden pitaa kaikkein pyhain sinua rukoileman oikialla ajalla: sentahden kuin suuret vedenpaisumiset tulevat, ei he niihin ulotu.	</div>
 
-<div class="versenum">7.</div> Sina olet minun varjelukseni, katke minua murheesta, etta mina pelastettuna sangen riemuisesti kerskaisin, Sela!	
+<div class="theverse"><div class="versenum">7.</div> Sina olet minun varjelukseni, katke minua murheesta, etta mina pelastettuna sangen riemuisesti kerskaisin, Sela!	</div>
 
-<div class="versenum">8.</div> Mina neuvon sinua ja osoitan sinulle tien, jotas vaellat: mina johdatan sinun silmillani.	
+<div class="theverse"><div class="versenum">8.</div> Mina neuvon sinua ja osoitan sinulle tien, jotas vaellat: mina johdatan sinun silmillani.	</div>
 
-<div class="versenum">9.</div> Alkaat olko niinkuin orhiit ja muulit, joilla ei ymmarrysta ole, joille pitaa suitset ja ohjat suuhun pantaman, ellei he lahene sinua.	
+<div class="theverse"><div class="versenum">9.</div> Alkaat olko niinkuin orhiit ja muulit, joilla ei ymmarrysta ole, joille pitaa suitset ja ohjat suuhun pantaman, ellei he lahene sinua.	</div>
 
-<div class="versenum">10.</div> Jumalattomalla on monta vitsausta; mutta joka Herraan toivoo, hanen hyvyys ympari piirittaa.	
+<div class="theverse"><div class="versenum">10.</div> Jumalattomalla on monta vitsausta; mutta joka Herraan toivoo, hanen hyvyys ympari piirittaa.	</div>
 
-<div class="versenum">11.</div> Riemuitkaat teitanne Herrassa, ja olkaat iloiset, te vanhurskaat, ja kerskatkaat, kaikki te yksivakaiset.	
+<div class="theverse"><div class="versenum">11.</div> Riemuitkaat teitanne Herrassa, ja olkaat iloiset, te vanhurskaat, ja kerskatkaat, kaikki te yksivakaiset.	</div>
 </body>
 </html>

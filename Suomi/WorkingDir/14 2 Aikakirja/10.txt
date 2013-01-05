@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 10	</div>
 	
-<div class="versenum">1.</div> Ja Rehabeam meni Sikemiin; silla kaikki Israel oli tullut Sikemiin tekemaan hanta kuninkaaksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja Rehabeam meni Sikemiin; silla kaikki Israel oli tullut Sikemiin tekemaan hanta kuninkaaksi.	</div>
 
-<div class="versenum">2.</div> Ja kuin Jerobeam, Nebatin poika sen kuuli joka oli Egyptissa, johonka han oli paennut kuningas Salomon edesta, niin han tuli Egyptista jalleen.	
+<div class="theverse"><div class="versenum">2.</div> Ja kuin Jerobeam, Nebatin poika sen kuuli joka oli Egyptissa, johonka han oli paennut kuningas Salomon edesta, niin han tuli Egyptista jalleen.	</div>
 
-<div class="versenum">3.</div> Silla he lahettivat ja antoivat hanen kutsuttaa. Ja Jerobeam tuli ja kaikki Israel; ja he puhuivat Rehabeamille ja sanoivat:	
+<div class="theverse"><div class="versenum">3.</div> Silla he lahettivat ja antoivat hanen kutsuttaa. Ja Jerobeam tuli ja kaikki Israel; ja he puhuivat Rehabeamille ja sanoivat:	</div>
 
-<div class="versenum">4.</div> Sinun isas teki meidan ikeemme ylen kovaksi; niin huojenna nyt isas kova palvelus ja se raskas ijes, jonka han laski meidan paallemme, niin me olemme sinun alamaises.	
+<div class="theverse"><div class="versenum">4.</div> Sinun isas teki meidan ikeemme ylen kovaksi; niin huojenna nyt isas kova palvelus ja se raskas ijes, jonka han laski meidan paallemme, niin me olemme sinun alamaises.	</div>
 
-<div class="versenum">5.</div> Ja han sanoi heille: tulkaat minun tykoni jalleen kolmantena paivana; ja kansa meni pois.	
+<div class="theverse"><div class="versenum">5.</div> Ja han sanoi heille: tulkaat minun tykoni jalleen kolmantena paivana; ja kansa meni pois.	</div>
 
-<div class="versenum">6.</div> Ja kuningas Rehabeam kysyi neuvoa vanhimmilta, jotka seisoivat hanen isansa Salomon edessa hanen elaissansa, ja sanoi: mita te neuvotte vastaamaan tata kansaa?	
+<div class="theverse"><div class="versenum">6.</div> Ja kuningas Rehabeam kysyi neuvoa vanhimmilta, jotka seisoivat hanen isansa Salomon edessa hanen elaissansa, ja sanoi: mita te neuvotte vastaamaan tata kansaa?	</div>
 
-<div class="versenum">7.</div> He puhuivat hanen kanssansa ja sanoivat: jos olet talle kansalle ystavallinen ja suosittelet heita, puhutellen heita hyvilla sanoilla, niin he ovat aina sinulle alamaiset.	
+<div class="theverse"><div class="versenum">7.</div> He puhuivat hanen kanssansa ja sanoivat: jos olet talle kansalle ystavallinen ja suosittelet heita, puhutellen heita hyvilla sanoilla, niin he ovat aina sinulle alamaiset.	</div>
 
-<div class="versenum">8.</div> Mutta han hylkasi vanhimpain neuvon, jonka he antoivat hanelle, ja piti neuvoa nuorukaisten kanssa, jotka hanen kanssansa kasvaneet olivat ja seisoivat hanen edessansa,	
+<div class="theverse"><div class="versenum">8.</div> Mutta han hylkasi vanhimpain neuvon, jonka he antoivat hanelle, ja piti neuvoa nuorukaisten kanssa, jotka hanen kanssansa kasvaneet olivat ja seisoivat hanen edessansa,	</div>
 
-<div class="versenum">9.</div> Ja sanoi heille: mita te neuvotte vastaamaan tata kansaa, joka minun kanssani puhui ja sanoi: huojenna se ijes, jonka isas laski meidan paallemme?	
+<div class="theverse"><div class="versenum">9.</div> Ja sanoi heille: mita te neuvotte vastaamaan tata kansaa, joka minun kanssani puhui ja sanoi: huojenna se ijes, jonka isas laski meidan paallemme?	</div>
 
-<div class="versenum">10.</div> Ja nuorukaiset, jotka olivat kasvaneet hanen kanssansa, puhuivat hanelle ja sanoivat: sano nain kansalle, joka puhui kanssas ja sanoi: isas teki meidan ikeemme ylen raskaaksi, huojenna sina se; ja sano heille: minun pienin sormeni pitaa oleman paksumpi isani kupeita.	
+<div class="theverse"><div class="versenum">10.</div> Ja nuorukaiset, jotka olivat kasvaneet hanen kanssansa, puhuivat hanelle ja sanoivat: sano nain kansalle, joka puhui kanssas ja sanoi: isas teki meidan ikeemme ylen raskaaksi, huojenna sina se; ja sano heille: minun pienin sormeni pitaa oleman paksumpi isani kupeita.	</div>
 
-<div class="versenum">11.</div> Jos minun isani on laskenut raskaan ikeen teidan paallenne, niin mina viela lisaan teidan ikeesenne: minun isani rankaisi teita ruoskilla, mutta mina skorpioneilla.	
+<div class="theverse"><div class="versenum">11.</div> Jos minun isani on laskenut raskaan ikeen teidan paallenne, niin mina viela lisaan teidan ikeesenne: minun isani rankaisi teita ruoskilla, mutta mina skorpioneilla.	</div>
 
-<div class="versenum">12.</div> Kuin Jerobeam ja kaikki kansa tulivat jalleen Rehabeamin tyko kolmantena paivana, niinkuin kuningas puhunut oli, sanoen: tulkaat minun tykoni kolmantena paivana jalleen;	
+<div class="theverse"><div class="versenum">12.</div> Kuin Jerobeam ja kaikki kansa tulivat jalleen Rehabeamin tyko kolmantena paivana, niinkuin kuningas puhunut oli, sanoen: tulkaat minun tykoni kolmantena paivana jalleen;	</div>
 
-<div class="versenum">13.</div> Niin kuningas vastasi heita kovasti; ja kuningas Rehabeam hylkasi vanhimpain neuvon,	
+<div class="theverse"><div class="versenum">13.</div> Niin kuningas vastasi heita kovasti; ja kuningas Rehabeam hylkasi vanhimpain neuvon,	</div>
 
-<div class="versenum">14.</div> Ja puhui heidan kanssansa nuorukaisten neuvon jalkeen ja sanoi: isani on teidan ikeenne raskaaksi tehnyt, mutta mina lisaan siihen: isani on rangaissut teita ruoskilla, mutta mina skorpioneilla.	
+<div class="theverse"><div class="versenum">14.</div> Ja puhui heidan kanssansa nuorukaisten neuvon jalkeen ja sanoi: isani on teidan ikeenne raskaaksi tehnyt, mutta mina lisaan siihen: isani on rangaissut teita ruoskilla, mutta mina skorpioneilla.	</div>
 
-<div class="versenum">15.</div> Ja ei kuningas kuullut kansaa; silla se oli niin asetettu Jumalalta, etta Herra tahtoi vahvistaa sanansa, jonka han puhui Ahian Silonilaisen kautta Jerobeamille Nebatin pojalle.	
+<div class="theverse"><div class="versenum">15.</div> Ja ei kuningas kuullut kansaa; silla se oli niin asetettu Jumalalta, etta Herra tahtoi vahvistaa sanansa, jonka han puhui Ahian Silonilaisen kautta Jerobeamille Nebatin pojalle.	</div>
 
-<div class="versenum">16.</div> Ja kuin kaikki Israel naki, ettei kuningas kuullut heita, niin vastasi kansa kuningasta ja sanoi: mika osa meilla on Davidissa? Ei meilla ole yhtaan perimysta Isain pojassa: kukin majaansa, Israel! niin katso nyt David huonettas! Ja kaikki Israel meni majoillensa.	
+<div class="theverse"><div class="versenum">16.</div> Ja kuin kaikki Israel naki, ettei kuningas kuullut heita, niin vastasi kansa kuningasta ja sanoi: mika osa meilla on Davidissa? Ei meilla ole yhtaan perimysta Isain pojassa: kukin majaansa, Israel! niin katso nyt David huonettas! Ja kaikki Israel meni majoillensa.	</div>
 
-<div class="versenum">17.</div> Ja Rehabeam hallitsi ainoastaan niita Israelin lapsia, jotka asuivat Juudan kaupungeissa.	
+<div class="theverse"><div class="versenum">17.</div> Ja Rehabeam hallitsi ainoastaan niita Israelin lapsia, jotka asuivat Juudan kaupungeissa.	</div>
 
-<div class="versenum">18.</div> Ja kuningas Rehabeam lahetti Hadoramin matkaan, joka oli veron paalla; mutta Israelin lapset kivittivat hanen kuoliaaksi. Ja kuningas Rehabeam astui nopiasti vaunuun pakenemaan Jerusalemiin.	
+<div class="theverse"><div class="versenum">18.</div> Ja kuningas Rehabeam lahetti Hadoramin matkaan, joka oli veron paalla; mutta Israelin lapset kivittivat hanen kuoliaaksi. Ja kuningas Rehabeam astui nopiasti vaunuun pakenemaan Jerusalemiin.	</div>
 
-<div class="versenum">19.</div> Niin luopui Israel Davidin huoneesta tahan paivaan asti.	
+<div class="theverse"><div class="versenum">19.</div> Niin luopui Israel Davidin huoneesta tahan paivaan asti.	</div>
 </body>
 </html>

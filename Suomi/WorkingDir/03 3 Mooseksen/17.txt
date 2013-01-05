@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 17	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Aaronille ja hanen pojillensa, ja kaikille Israelin lapsille, ja sano heille: tama on se, minka Herra kaskenyt on, sanoen:	
+<div class="theverse"><div class="versenum">2.</div> Puhu Aaronille ja hanen pojillensa, ja kaikille Israelin lapsille, ja sano heille: tama on se, minka Herra kaskenyt on, sanoen:	</div>
 
-<div class="versenum">3.</div> Kuka ikanansa Israelin huoneesta teurastaa harjan, eli karitsan, eli vuohen leirissa, taikka joka teurastaa ulkona leirista,	
+<div class="theverse"><div class="versenum">3.</div> Kuka ikanansa Israelin huoneesta teurastaa harjan, eli karitsan, eli vuohen leirissa, taikka joka teurastaa ulkona leirista,	</div>
 
-<div class="versenum">4.</div> Ja ei kanna seurakunnan majan oven eteen sita, mika Herralle uhriksi pitaa tuotaman, Herran majan eteen, hanen pitaa vereen vikapaa oleman, niinkuin se, jonka veren vuodattanut on, ja se ihminen pitaa havitettaman kansastansa.	
+<div class="theverse"><div class="versenum">4.</div> Ja ei kanna seurakunnan majan oven eteen sita, mika Herralle uhriksi pitaa tuotaman, Herran majan eteen, hanen pitaa vereen vikapaa oleman, niinkuin se, jonka veren vuodattanut on, ja se ihminen pitaa havitettaman kansastansa.	</div>
 
-<div class="versenum">5.</div> Sentahden pitaa Israelin lapset uhrinsa, jonka he kedolla uhrata tahtovat, Herran eteen kantaman seurakunnan majan ovella papille, ja siella uhraaman ne kiitosuhriksi Herralle.	
+<div class="theverse"><div class="versenum">5.</div> Sentahden pitaa Israelin lapset uhrinsa, jonka he kedolla uhrata tahtovat, Herran eteen kantaman seurakunnan majan ovella papille, ja siella uhraaman ne kiitosuhriksi Herralle.	</div>
 
-<div class="versenum">6.</div> Ja papin pitaa priiskottaman veren Herran alttarille seurakunnan majan oven edessa, ja polttaman lihavuuden Herralle lepytyshajuksi,	
+<div class="theverse"><div class="versenum">6.</div> Ja papin pitaa priiskottaman veren Herran alttarille seurakunnan majan oven edessa, ja polttaman lihavuuden Herralle lepytyshajuksi,	</div>
 
-<div class="versenum">7.</div> Ja ei millaan muotoa enaa uhriansa uhraaman ajattaroille, joiden kanssa he huorin tehneet ovat. Se pitaa oleman heille heidan sukukunnissansa ijankaikkinen saaty.	
+<div class="theverse"><div class="versenum">7.</div> Ja ei millaan muotoa enaa uhriansa uhraaman ajattaroille, joiden kanssa he huorin tehneet ovat. Se pitaa oleman heille heidan sukukunnissansa ijankaikkinen saaty.	</div>
 
-<div class="versenum">8.</div> Sentahden pitaa sinun sanoman heille: kuka ikanansa ihminen Israelin huoneesta, eli vieras, joka teidan seassanne on muukalainen, teki uhrin eli polttouhrin,	
+<div class="theverse"><div class="versenum">8.</div> Sentahden pitaa sinun sanoman heille: kuka ikanansa ihminen Israelin huoneesta, eli vieras, joka teidan seassanne on muukalainen, teki uhrin eli polttouhrin,	</div>
 
-<div class="versenum">9.</div> Eika sita kanna seurakunnan majan oven eteen, etta hanen Herralle sen tekeman pitais, se ihminen pitaa havitettaman kansastansa.	
+<div class="theverse"><div class="versenum">9.</div> Eika sita kanna seurakunnan majan oven eteen, etta hanen Herralle sen tekeman pitais, se ihminen pitaa havitettaman kansastansa.	</div>
 
-<div class="versenum">10.</div> Ja kuka ikanansa ihminen Israelin huoneesta, eli muukalaisista, jotka teidan seassanne asuvat, syo jotakin verta, hanta vastoin mina panen minun kasvoni, ja havitan hanen kansastansa	
+<div class="theverse"><div class="versenum">10.</div> Ja kuka ikanansa ihminen Israelin huoneesta, eli muukalaisista, jotka teidan seassanne asuvat, syo jotakin verta, hanta vastoin mina panen minun kasvoni, ja havitan hanen kansastansa	</div>
 
-<div class="versenum">11.</div> Silla lihan sielu on veressa, ja mina olen sen teille antanut alttarille, etta teidan sielunne pitais sen kautta sovitettaman; silla veri on sielun sovinto.	
+<div class="theverse"><div class="versenum">11.</div> Silla lihan sielu on veressa, ja mina olen sen teille antanut alttarille, etta teidan sielunne pitais sen kautta sovitettaman; silla veri on sielun sovinto.	</div>
 
-<div class="versenum">12.</div> Sentahden mina olen sanonut Israelin lapsille: ei yksikaan henki teidan seassanne pida verta syoman: eika yksikaan muukalainen, joka teidan seassanne asuu, pida verta syoman.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden mina olen sanonut Israelin lapsille: ei yksikaan henki teidan seassanne pida verta syoman: eika yksikaan muukalainen, joka teidan seassanne asuu, pida verta syoman.	</div>
 
-<div class="versenum">13.</div> Ja kuka ikana ihminen Israelin lapsista, taikka muukalainen teidan seassanne, joka saa metsan elaimen eli linnun pyydyksella, jota syodaan, hanen pitaa vuodattaman sen veren, ja peittaman sen multaan.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuka ikana ihminen Israelin lapsista, taikka muukalainen teidan seassanne, joka saa metsan elaimen eli linnun pyydyksella, jota syodaan, hanen pitaa vuodattaman sen veren, ja peittaman sen multaan.	</div>
 
-<div class="versenum">14.</div> Silla kaiken lihan henki on hanen verensa niinkauvan kuin se elaa. Ja mina olen sanonut Israelin lapsille: ei teidan pida yhdenkaan lihan verta syoman; silla kaiken lihan henki on hanen verensa: kuka ikanansa sen syo, se pitaa hukutettaman.	
+<div class="theverse"><div class="versenum">14.</div> Silla kaiken lihan henki on hanen verensa niinkauvan kuin se elaa. Ja mina olen sanonut Israelin lapsille: ei teidan pida yhdenkaan lihan verta syoman; silla kaiken lihan henki on hanen verensa: kuka ikanansa sen syo, se pitaa hukutettaman.	</div>
 
-<div class="versenum">15.</div> Ja kuka ikana henki syo raatoa, taikka sita, joka revitty on, olkoon han kotolainen eli muukalainen, hanen pitaa peseman vaatteensa, ja viruttaman hanensa vedella, ja oleman saastaisen ehtoosen asti: niin han tulee puhtaaksi.	
+<div class="theverse"><div class="versenum">15.</div> Ja kuka ikana henki syo raatoa, taikka sita, joka revitty on, olkoon han kotolainen eli muukalainen, hanen pitaa peseman vaatteensa, ja viruttaman hanensa vedella, ja oleman saastaisen ehtoosen asti: niin han tulee puhtaaksi.	</div>
 
-<div class="versenum">16.</div> Jollei han pese itsiansa ja ihoansa viruta, niin hanen pitaa itse kantaman vaaryytensa.	
+<div class="theverse"><div class="versenum">16.</div> Jollei han pese itsiansa ja ihoansa viruta, niin hanen pitaa itse kantaman vaaryytensa.	</div>
 </body>
 </html>

@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Sakarjan 4	</div>
 	
-<div class="versenum">1.</div> Ja enkeli, joka minun kanssani puhui, tuli jalleen ja heratti minun, niinkuin joku unestansa heratettaisiin.	
+<div class="theverse"><div class="versenum">1.</div> Ja enkeli, joka minun kanssani puhui, tuli jalleen ja heratti minun, niinkuin joku unestansa heratettaisiin.	</div>
 
-<div class="versenum">2.</div> Ja sanoi minulle: mitas naet? Mutta mina sanoin: mina naen, ja katso, kynttilajalka seisoi kokonansa kullasta, ja malja sen paan paalla, ja seitseman lamppua oli hanessa, ja seitseman kauhaa kussakin lampussa, jotka olivat sen paan paalla.	
+<div class="theverse"><div class="versenum">2.</div> Ja sanoi minulle: mitas naet? Mutta mina sanoin: mina naen, ja katso, kynttilajalka seisoi kokonansa kullasta, ja malja sen paan paalla, ja seitseman lamppua oli hanessa, ja seitseman kauhaa kussakin lampussa, jotka olivat sen paan paalla.	</div>
 
-<div class="versenum">3.</div> Oli myos sen tykona kaksi oljypuuta: yksi maljan oikialla puolella ja toinen vasemmalla.	
+<div class="theverse"><div class="versenum">3.</div> Oli myos sen tykona kaksi oljypuuta: yksi maljan oikialla puolella ja toinen vasemmalla.	</div>
 
-<div class="versenum">4.</div> Ja mina vastasin ja sanoin sille enkelille, joka minun kanssani puhui, sanoen: minun herrani, mika se on?	
+<div class="theverse"><div class="versenum">4.</div> Ja mina vastasin ja sanoin sille enkelille, joka minun kanssani puhui, sanoen: minun herrani, mika se on?	</div>
 
-<div class="versenum">5.</div> Ja enkeli, joka minun kanssani puhui, vastasi ja sanoi minulle: etkos tieda, mika se on? Mutta mina sanoin: en, minun herrani.	
+<div class="theverse"><div class="versenum">5.</div> Ja enkeli, joka minun kanssani puhui, vastasi ja sanoi minulle: etkos tieda, mika se on? Mutta mina sanoin: en, minun herrani.	</div>
 
-<div class="versenum">6.</div> Ja han vastasi ja puhui minulle, sanoen: se on Herran sana Serubbabelista, joka sanoo: ei se pida tapahtuman sotavaella eika voimalla, vaan minun hengellani, sanoo Herra Zebaot.	
+<div class="theverse"><div class="versenum">6.</div> Ja han vastasi ja puhui minulle, sanoen: se on Herran sana Serubbabelista, joka sanoo: ei se pida tapahtuman sotavaella eika voimalla, vaan minun hengellani, sanoo Herra Zebaot.	</div>
 
-<div class="versenum">7.</div> Kuka sina olet, suuri vuori? jonka kuitenkin taytyy Serubbabelin edessa tasaiseksi kedoksi tulla; ja hanen pitaa ensimaisen kiven laskeman, ja pitaa huutaman: armo, armo olkoon hanelle!	
+<div class="theverse"><div class="versenum">7.</div> Kuka sina olet, suuri vuori? jonka kuitenkin taytyy Serubbabelin edessa tasaiseksi kedoksi tulla; ja hanen pitaa ensimaisen kiven laskeman, ja pitaa huutaman: armo, armo olkoon hanelle!	</div>
 
-<div class="versenum">8.</div> Ja Herran sana tapahtui minulle ja sanoi:	
+<div class="theverse"><div class="versenum">8.</div> Ja Herran sana tapahtui minulle ja sanoi:	</div>
 
-<div class="versenum">9.</div> Serubbabelin kadet ovat taman huoneen perustaneet, hanen katensa pitaa myos sen paattaman, tietaakses, etta Herra on minun lahettanyt teidan tykonne.	
+<div class="theverse"><div class="versenum">9.</div> Serubbabelin kadet ovat taman huoneen perustaneet, hanen katensa pitaa myos sen paattaman, tietaakses, etta Herra on minun lahettanyt teidan tykonne.	</div>
 
-<div class="versenum">10.</div> Silla kuka on se, joka namat halvat paivat katsoo ylon? jossa kuitenkin pitaa iloittaman, ja nahtaman muurin luoti Serubbabelin kadessa, ja ne seitseman Herran silmaa, jotka katselevat kaikkea maata.	
+<div class="theverse"><div class="versenum">10.</div> Silla kuka on se, joka namat halvat paivat katsoo ylon? jossa kuitenkin pitaa iloittaman, ja nahtaman muurin luoti Serubbabelin kadessa, ja ne seitseman Herran silmaa, jotka katselevat kaikkea maata.	</div>
 
-<div class="versenum">11.</div> Ja mina vastasin ja sanoin hanelle: mita namat kaksi oljypuuta, jotka ovat oikialla ja vasemmalla puolella kynttilanjalkaa?	
+<div class="theverse"><div class="versenum">11.</div> Ja mina vastasin ja sanoin hanelle: mita namat kaksi oljypuuta, jotka ovat oikialla ja vasemmalla puolella kynttilanjalkaa?	</div>
 
-<div class="versenum">12.</div> Ja mina vastasin toisen kerran ja sanoin hanelle: mita namat kaksi oljypuun oksaa, jotka ovat kahden kultaisen piipun keskella, joista kultainen oljy vuotaa?	
+<div class="theverse"><div class="versenum">12.</div> Ja mina vastasin toisen kerran ja sanoin hanelle: mita namat kaksi oljypuun oksaa, jotka ovat kahden kultaisen piipun keskella, joista kultainen oljy vuotaa?	</div>
 
-<div class="versenum">13.</div> Ja han sanoi minulle: etkos tieda, mita namat ovat? Ja mina sanoin; en, minun herrani.	
+<div class="theverse"><div class="versenum">13.</div> Ja han sanoi minulle: etkos tieda, mita namat ovat? Ja mina sanoin; en, minun herrani.	</div>
 
-<div class="versenum">14.</div> Ja han sanoi: ne ovat kaksi oljypuuta taynna oljya, jotka aina seisovat kaiken maan Herran tykona.	
+<div class="theverse"><div class="versenum">14.</div> Ja han sanoi: ne ovat kaksi oljypuuta taynna oljya, jotka aina seisovat kaiken maan Herran tykona.	</div>
 </body>
 </html>

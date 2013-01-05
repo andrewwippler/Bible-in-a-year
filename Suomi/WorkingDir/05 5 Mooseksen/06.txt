@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 6	</div>
 	
-<div class="versenum">1.</div> Namat ovat ne kaskyt, saadyt ja oikeudet, jotka Herra teidan Jumalanne kaski opettaa teille tehdaksenne siina maassa, kuhunka te menette omistamaan sita.	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat ne kaskyt, saadyt ja oikeudet, jotka Herra teidan Jumalanne kaski opettaa teille tehdaksenne siina maassa, kuhunka te menette omistamaan sita.	</div>
 
-<div class="versenum">2.</div> Ettas pelkaisit Herraa sinun Jumalaas, ja pitaisit kaikki hanen saatynsa ja kaskynsa, jotka mina kasken sinulle, sina ja sinun lapses ja sinun lastes lapset, kaikkena sinun elinaikanas, ettas kauvan elaisit.	
+<div class="theverse"><div class="versenum">2.</div> Ettas pelkaisit Herraa sinun Jumalaas, ja pitaisit kaikki hanen saatynsa ja kaskynsa, jotka mina kasken sinulle, sina ja sinun lapses ja sinun lastes lapset, kaikkena sinun elinaikanas, ettas kauvan elaisit.	</div>
 
-<div class="versenum">3.</div> Israel, sinun pitaa kuuleman ja pitaman, niin etta sina myos teet sen jalkeen, etta sinulle hyvin kavis, ja te tulisitte paljon lisatyksi; niinkuin Herra sinun isais Jumala sinulle on luvannut maan, joka rieskaa ja hunajaa vuotaa.	
+<div class="theverse"><div class="versenum">3.</div> Israel, sinun pitaa kuuleman ja pitaman, niin etta sina myos teet sen jalkeen, etta sinulle hyvin kavis, ja te tulisitte paljon lisatyksi; niinkuin Herra sinun isais Jumala sinulle on luvannut maan, joka rieskaa ja hunajaa vuotaa.	</div>
 
-<div class="versenum">4.</div> Kuule Israel, Herra meidan Jumalamme on yksi (ainoa) Herra,	
+<div class="theverse"><div class="versenum">4.</div> Kuule Israel, Herra meidan Jumalamme on yksi (ainoa) Herra,	</div>
 
-<div class="versenum">5.</div> Ja sinun pitaa rakastaman Herraa sinun Jumalaas, kaikesta sydamestas, ja kaikesta sielustas ja kaikesta voimastas.	
+<div class="theverse"><div class="versenum">5.</div> Ja sinun pitaa rakastaman Herraa sinun Jumalaas, kaikesta sydamestas, ja kaikesta sielustas ja kaikesta voimastas.	</div>
 
-<div class="versenum">6.</div> Ja namat sanat, jotka mina kasken sinulle tanapana, pitaa sinun paneman sydamees,	
+<div class="theverse"><div class="versenum">6.</div> Ja namat sanat, jotka mina kasken sinulle tanapana, pitaa sinun paneman sydamees,	</div>
 
-<div class="versenum">7.</div> Ja teroittaman ne sinun lapsilles, ja niista puhuman, huoneessa istuissas ja tiella kaydessas, maata pannessas ja noustessas.	
+<div class="theverse"><div class="versenum">7.</div> Ja teroittaman ne sinun lapsilles, ja niista puhuman, huoneessa istuissas ja tiella kaydessas, maata pannessas ja noustessas.	</div>
 
-<div class="versenum">8.</div> Ja sinun pitaa sitoman ne merkiksi katees, ja ne pitaa oleman sinulle muistoksi sinun silmais edessa.	
+<div class="theverse"><div class="versenum">8.</div> Ja sinun pitaa sitoman ne merkiksi katees, ja ne pitaa oleman sinulle muistoksi sinun silmais edessa.	</div>
 
-<div class="versenum">9.</div> Ja sinun pitaa kirjoittaman ne huonees pihtipieliin ja portteihis,	
+<div class="theverse"><div class="versenum">9.</div> Ja sinun pitaa kirjoittaman ne huonees pihtipieliin ja portteihis,	</div>
 
-<div class="versenum">10.</div> Kuin Herra sinun Jumalas johdattaa sinun sille maalle, jonka han sinun isilles, Abrahamille, Isaakille ja Jakobille on vannonut sinulle antaaksensa, suuret ja jalot kaupungit, joita et sina rakentanut,	
+<div class="theverse"><div class="versenum">10.</div> Kuin Herra sinun Jumalas johdattaa sinun sille maalle, jonka han sinun isilles, Abrahamille, Isaakille ja Jakobille on vannonut sinulle antaaksensa, suuret ja jalot kaupungit, joita et sina rakentanut,	</div>
 
-<div class="versenum">11.</div> Ja huoneet taynna kaikkea hyvyytta, joita et sina itse tayttanyt, ja vuojonkiviset kaivot, joita et sina itse kaivanut, ja viinamaet ja oljymaet, joita et sina itse istuttanut, etta sina syot ja ravitaan.	
+<div class="theverse"><div class="versenum">11.</div> Ja huoneet taynna kaikkea hyvyytta, joita et sina itse tayttanyt, ja vuojonkiviset kaivot, joita et sina itse kaivanut, ja viinamaet ja oljymaet, joita et sina itse istuttanut, etta sina syot ja ravitaan.	</div>
 
-<div class="versenum">12.</div> Niin ota vaari, ettet sina unhota Herraa, joka sinun Egyptin maalta, orjuuden huoneesta on johdattanut ulos.	
+<div class="theverse"><div class="versenum">12.</div> Niin ota vaari, ettet sina unhota Herraa, joka sinun Egyptin maalta, orjuuden huoneesta on johdattanut ulos.	</div>
 
-<div class="versenum">13.</div> Mutta sinun pitaa pelkaaman Herraa sinun Jumalaas ja palveleman hanta, ja hanen nimensa kautta pitaa sinun vannoman.	
+<div class="theverse"><div class="versenum">13.</div> Mutta sinun pitaa pelkaaman Herraa sinun Jumalaas ja palveleman hanta, ja hanen nimensa kautta pitaa sinun vannoman.	</div>
 
-<div class="versenum">14.</div> Ei teidan pida seuraaman muukalaisia jumalia, niiden kansain jumalia, jotka teidan ymparillanne ovat.	
+<div class="theverse"><div class="versenum">14.</div> Ei teidan pida seuraaman muukalaisia jumalia, niiden kansain jumalia, jotka teidan ymparillanne ovat.	</div>
 
-<div class="versenum">15.</div> Silla Herra sinun Jumalas on kiivas Jumala teidan keskellanne, ettei Herran sinun Jumalas viha julmistuisi sinun paalles, ja hukuttaisi sinua maasta.	
+<div class="theverse"><div class="versenum">15.</div> Silla Herra sinun Jumalas on kiivas Jumala teidan keskellanne, ettei Herran sinun Jumalas viha julmistuisi sinun paalles, ja hukuttaisi sinua maasta.	</div>
 
-<div class="versenum">16.</div> Ei teidan pida kiusaaman Herraa teidan Jumalaanne, niinkuin te hanta kiusasitte Massassa;	
+<div class="theverse"><div class="versenum">16.</div> Ei teidan pida kiusaaman Herraa teidan Jumalaanne, niinkuin te hanta kiusasitte Massassa;	</div>
 
-<div class="versenum">17.</div> Mutta pitaman uskollisesti Herran teidan Jumalanne kaskyt, niin myos hanen todistuksensa ja hanen saatynsa, jotka han sinulle kaskenyt on,	
+<div class="theverse"><div class="versenum">17.</div> Mutta pitaman uskollisesti Herran teidan Jumalanne kaskyt, niin myos hanen todistuksensa ja hanen saatynsa, jotka han sinulle kaskenyt on,	</div>
 
-<div class="versenum">18.</div> Ettas teet sita mika oikia ja hyva on Herran edessa, etta sinulle hyvin kavis, ja tulisit sisalle ja omistaisit sen hyvan maan, josta Herra vannoi sinun isilles,	
+<div class="theverse"><div class="versenum">18.</div> Ettas teet sita mika oikia ja hyva on Herran edessa, etta sinulle hyvin kavis, ja tulisit sisalle ja omistaisit sen hyvan maan, josta Herra vannoi sinun isilles,	</div>
 
-<div class="versenum">19.</div> Etta han karkottais kaikki viholliset sinun edestas, niinkuin Herra sanonut on.	
+<div class="theverse"><div class="versenum">19.</div> Etta han karkottais kaikki viholliset sinun edestas, niinkuin Herra sanonut on.	</div>
 
-<div class="versenum">20.</div> Kuin poikas tastalahin kysyy sinulta, sanoen: mitka todistukset ja saadyt ja oikeudet namat ovat, jotka Herra meidan Jumalamme teille kaskenyt on?	
+<div class="theverse"><div class="versenum">20.</div> Kuin poikas tastalahin kysyy sinulta, sanoen: mitka todistukset ja saadyt ja oikeudet namat ovat, jotka Herra meidan Jumalamme teille kaskenyt on?	</div>
 
-<div class="versenum">21.</div> Niin sinun pitaa sanoman pojalles: me olimme Pharaon orjat Egyptissa; mutta Herra johdatti meidat ulos Egyptista vakevalla kadella.	
+<div class="theverse"><div class="versenum">21.</div> Niin sinun pitaa sanoman pojalles: me olimme Pharaon orjat Egyptissa; mutta Herra johdatti meidat ulos Egyptista vakevalla kadella.	</div>
 
-<div class="versenum">22.</div> Ja Herra teki suuria ja pahoja tuunustahteja, ja ilmeita Egyptille, Pharaolle, ja kaikelle hanen huoneellensa, meidan silmaimme edessa.	
+<div class="theverse"><div class="versenum">22.</div> Ja Herra teki suuria ja pahoja tuunustahteja, ja ilmeita Egyptille, Pharaolle, ja kaikelle hanen huoneellensa, meidan silmaimme edessa.	</div>
 
-<div class="versenum">23.</div> Ja johdatti meidat sielta, etta han veis meita, ja antais meille sen maan, josta han vannoi meidan isillemme.	
+<div class="theverse"><div class="versenum">23.</div> Ja johdatti meidat sielta, etta han veis meita, ja antais meille sen maan, josta han vannoi meidan isillemme.	</div>
 
-<div class="versenum">24.</div> Ja Herra kaski meita tekemaan kaikkein naiden saatyin jalkeen, peljaten Herraa meidan Jumalaamme, etta meille hyvin kavis kaikkena meidan elinaikanamme, niinkuin myos tanapana kay.	
+<div class="theverse"><div class="versenum">24.</div> Ja Herra kaski meita tekemaan kaikkein naiden saatyin jalkeen, peljaten Herraa meidan Jumalaamme, etta meille hyvin kavis kaikkena meidan elinaikanamme, niinkuin myos tanapana kay.	</div>
 
-<div class="versenum">25.</div> Ja sen pitaa oleman meille vanhurskaudeksi, jos me pidamme ja teemme kaikki namat kaskyt Herran meidan Jumalamme edessa, niinkuin han meille on kaskenyt.	
+<div class="theverse"><div class="versenum">25.</div> Ja sen pitaa oleman meille vanhurskaudeksi, jos me pidamme ja teemme kaikki namat kaskyt Herran meidan Jumalamme edessa, niinkuin han meille on kaskenyt.	</div>
 </body>
 </html>

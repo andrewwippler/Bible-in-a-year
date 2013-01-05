@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">Jesajan 29	</div>
 	
-<div class="versenum">1.</div> Voi Ariel, Ariel! sina Davidin leirin kaupunki! te pidatte vuoden ajat ja pyhapaivat.	
+<div class="theverse"><div class="versenum">1.</div> Voi Ariel, Ariel! sina Davidin leirin kaupunki! te pidatte vuoden ajat ja pyhapaivat.	</div>
 
-<div class="versenum">2.</div> Mutta mina vaivaan Arielia, niin etta hanen pitaa murehtiman ja sureman ja oleman minulle oikia Ariel.	
+<div class="theverse"><div class="versenum">2.</div> Mutta mina vaivaan Arielia, niin etta hanen pitaa murehtiman ja sureman ja oleman minulle oikia Ariel.	</div>
 
-<div class="versenum">3.</div> Silla mina piiritan sinun joka kulmalta, ja ahdistan sinun saarrolla, ja annan panna vallit sinun ymparilles.	
+<div class="theverse"><div class="versenum">3.</div> Silla mina piiritan sinun joka kulmalta, ja ahdistan sinun saarrolla, ja annan panna vallit sinun ymparilles.	</div>
 
-<div class="versenum">4.</div> Silloin pitaa sinun itses alentaman, ja maasta puhuman, ja mutiseman puheellas tomusta; etta sinun aanes on niinkuin noidan maasta, ja sinun puhees pitaa oleman niinkuin tomusta haisevaisen.	
+<div class="theverse"><div class="versenum">4.</div> Silloin pitaa sinun itses alentaman, ja maasta puhuman, ja mutiseman puheellas tomusta; etta sinun aanes on niinkuin noidan maasta, ja sinun puhees pitaa oleman niinkuin tomusta haisevaisen.	</div>
 
-<div class="versenum">5.</div> Ja niita, jotka sinua hajoittavat, pitaa oleman niin monta kuin pienta tomua, ja tyranneja niin monta kuin lentavia akanoita; ja sen pitaa ratki akisti tapahtuman.	
+<div class="theverse"><div class="versenum">5.</div> Ja niita, jotka sinua hajoittavat, pitaa oleman niin monta kuin pienta tomua, ja tyranneja niin monta kuin lentavia akanoita; ja sen pitaa ratki akisti tapahtuman.	</div>
 
-<div class="versenum">6.</div> Silla sinun pitaa Herralta Zebaotilta etsityksi tuleman pitkaisen jylinalla, maan jarinalla, suurella aanella, tuulen pyoriaisella, raju-ilmalla ja kuluttavaisen tulen liekilla.	
+<div class="theverse"><div class="versenum">6.</div> Silla sinun pitaa Herralta Zebaotilta etsityksi tuleman pitkaisen jylinalla, maan jarinalla, suurella aanella, tuulen pyoriaisella, raju-ilmalla ja kuluttavaisen tulen liekilla.	</div>
 
-<div class="versenum">7.</div> Mutta niinkuin yon nako unessa, niin pitaa kaikkein pakanain joukko oleman, jotka sotivat Arielia vastaan, kaiken joukkonsa ja saartonsa kanssa, ja niita, jotka hanta ahdistavat.	
+<div class="theverse"><div class="versenum">7.</div> Mutta niinkuin yon nako unessa, niin pitaa kaikkein pakanain joukko oleman, jotka sotivat Arielia vastaan, kaiken joukkonsa ja saartonsa kanssa, ja niita, jotka hanta ahdistavat.	</div>
 
-<div class="versenum">8.</div> Silla niinkuin isoovainen on unessa syovinansa, mutta herattyansa on hanen sielunsa viela tyhja; ja niinkuin janoova on unessa juovinansa, mutta herattyansa on han voimatoin ja janoissansa: juuri niin pitaa myos kaikkein pakanain joukko oleman, jotka sotivat Zionin vuorta vastaan.	
+<div class="theverse"><div class="versenum">8.</div> Silla niinkuin isoovainen on unessa syovinansa, mutta herattyansa on hanen sielunsa viela tyhja; ja niinkuin janoova on unessa juovinansa, mutta herattyansa on han voimatoin ja janoissansa: juuri niin pitaa myos kaikkein pakanain joukko oleman, jotka sotivat Zionin vuorta vastaan.	</div>
 
-<div class="versenum">9.</div> Olkaat hitaat ja ihmetelkaat, elakaat hekumassa, huutakaat, ja juopukaat, ei kuitenkaan viinasta; horjukaat, ei kuitenkaan vakevasta juomasta.	
+<div class="theverse"><div class="versenum">9.</div> Olkaat hitaat ja ihmetelkaat, elakaat hekumassa, huutakaat, ja juopukaat, ei kuitenkaan viinasta; horjukaat, ei kuitenkaan vakevasta juomasta.	</div>
 
-<div class="versenum">10.</div> Silla Herra on teille raskaan unen hengen lahettanyt, ja teidan silmanne sulkenut; teidan prophetanne, paamiehenne ja nakianne on han sokaissut;	
+<div class="theverse"><div class="versenum">10.</div> Silla Herra on teille raskaan unen hengen lahettanyt, ja teidan silmanne sulkenut; teidan prophetanne, paamiehenne ja nakianne on han sokaissut;	</div>
 
-<div class="versenum">11.</div> Niin etta kaikkein prophetain nayt ovat heille niinkuin lukitun kirjan sanat. Jos joku sen antais sille, joka lukea taitaa, ja sanois: lue tata, ja han vastaa: en mina taida, silla se on lukittu.	
+<div class="theverse"><div class="versenum">11.</div> Niin etta kaikkein prophetain nayt ovat heille niinkuin lukitun kirjan sanat. Jos joku sen antais sille, joka lukea taitaa, ja sanois: lue tata, ja han vastaa: en mina taida, silla se on lukittu.	</div>
 
-<div class="versenum">12.</div> Eli jos joku antais sille, joka ei lukea taida, ja sanois: lues tata, ja han vastaa: en mina taida ensinkaan lukea.	
+<div class="theverse"><div class="versenum">12.</div> Eli jos joku antais sille, joka ei lukea taida, ja sanois: lues tata, ja han vastaa: en mina taida ensinkaan lukea.	</div>
 
-<div class="versenum">13.</div> Ja Herra sanoo: etta tama kansa lahestyy minua suullansa, ja kunnioittaa minua huulillansa; mutta heidan sydamensa on kaukana minusta, ja pelkaavat minua ihmisten kaskyin jalkeen, joita he opettavat;	
+<div class="theverse"><div class="versenum">13.</div> Ja Herra sanoo: etta tama kansa lahestyy minua suullansa, ja kunnioittaa minua huulillansa; mutta heidan sydamensa on kaukana minusta, ja pelkaavat minua ihmisten kaskyin jalkeen, joita he opettavat;	</div>
 
-<div class="versenum">14.</div> Niin mina myos teen talle kansalle ihmeellisesti, hirmuisesti,ja kamalasti, etta heidan viisastensa viisaus hukkuu, ja heidan ymmartavaistensa ymmarrys katketaan.	
+<div class="theverse"><div class="versenum">14.</div> Niin mina myos teen talle kansalle ihmeellisesti, hirmuisesti,ja kamalasti, etta heidan viisastensa viisaus hukkuu, ja heidan ymmartavaistensa ymmarrys katketaan.	</div>
 
-<div class="versenum">15.</div> Voi niita, jotka tahtovat olla salatut Herran edessa, ja peittaa aivoituksensa, ja tekonsa pimeydessa pitaa, ja sanovat: kukapa meidat nakee? eli kuka tuntee meita?	
+<div class="theverse"><div class="versenum">15.</div> Voi niita, jotka tahtovat olla salatut Herran edessa, ja peittaa aivoituksensa, ja tekonsa pimeydessa pitaa, ja sanovat: kukapa meidat nakee? eli kuka tuntee meita?	</div>
 
-<div class="versenum">16.</div> Miksi te niin nurjat olette? Niinkuin savenvalaja pidettaisiin savena; kasiala puhuis tekiastansa: ei han ole minua tehnyt, ja teko sanois tekiastansa: ei han minua tunne.	
+<div class="theverse"><div class="versenum">16.</div> Miksi te niin nurjat olette? Niinkuin savenvalaja pidettaisiin savena; kasiala puhuis tekiastansa: ei han ole minua tehnyt, ja teko sanois tekiastansa: ei han minua tunne.	</div>
 
-<div class="versenum">17.</div> Eiko vahan hetken perasta Libanonin pida hedelmalliseksi kedoksi tuleman, ja hedelmallinen keto metsaksi luettaman?	
+<div class="theverse"><div class="versenum">17.</div> Eiko vahan hetken perasta Libanonin pida hedelmalliseksi kedoksi tuleman, ja hedelmallinen keto metsaksi luettaman?	</div>
 
-<div class="versenum">18.</div> Silloin kuulevat kuurot taman kirjan sanoja; ja sokian silmat nakevat synkeydessa ja pimeydessa.	
+<div class="theverse"><div class="versenum">18.</div> Silloin kuulevat kuurot taman kirjan sanoja; ja sokian silmat nakevat synkeydessa ja pimeydessa.	</div>
 
-<div class="versenum">19.</div> Ja raadolliset saavat ilon Herrasta; ja koyhat ihmisten seassa riemuitsevat Israelin Pyhassa,	
+<div class="theverse"><div class="versenum">19.</div> Ja raadolliset saavat ilon Herrasta; ja koyhat ihmisten seassa riemuitsevat Israelin Pyhassa,	</div>
 
-<div class="versenum">20.</div> Koska tyrannit hukkuvat, ja pilkkaajat loppuvat, ja ne kaikki teloitetaan, jotka valvovat pahaa tehdaksensa,	
+<div class="theverse"><div class="versenum">20.</div> Koska tyrannit hukkuvat, ja pilkkaajat loppuvat, ja ne kaikki teloitetaan, jotka valvovat pahaa tehdaksensa,	</div>
 
-<div class="versenum">21.</div> Jotka ihmisen tekevat syntiseksi sanan tahden, ja vainoovat rankaisiaansa portissa, ja pokkeevat oikeudesta valheen kautta.	
+<div class="theverse"><div class="versenum">21.</div> Jotka ihmisen tekevat syntiseksi sanan tahden, ja vainoovat rankaisiaansa portissa, ja pokkeevat oikeudesta valheen kautta.	</div>
 
-<div class="versenum">22.</div> Sentahden sanoo Herra, Abrahamin lunastaja, Jakobin huoneelle nain: ei Jakob tule enaa hapiaan, eika hanen kasvonsa ole enaa hapeeva.	
+<div class="theverse"><div class="versenum">22.</div> Sentahden sanoo Herra, Abrahamin lunastaja, Jakobin huoneelle nain: ei Jakob tule enaa hapiaan, eika hanen kasvonsa ole enaa hapeeva.	</div>
 
-<div class="versenum">23.</div> Silla koska he saavat lapsensa nahda, minun kasialani heidan seassansa, niin he pyhittavat minun nimeni; ja heidan pitaa Jakobin Pyhan pyhittaman, ja Israelin Jumalaa pelkaaman.	
+<div class="theverse"><div class="versenum">23.</div> Silla koska he saavat lapsensa nahda, minun kasialani heidan seassansa, niin he pyhittavat minun nimeni; ja heidan pitaa Jakobin Pyhan pyhittaman, ja Israelin Jumalaa pelkaaman.	</div>
 
-<div class="versenum">24.</div> Silla joilla eksyvainen henki on, ne ottavat ymmarryksen; turhan puhujat sallivat heitansa opetettaa.	
+<div class="theverse"><div class="versenum">24.</div> Silla joilla eksyvainen henki on, ne ottavat ymmarryksen; turhan puhujat sallivat heitansa opetettaa.	</div>
 </body>
 </html>

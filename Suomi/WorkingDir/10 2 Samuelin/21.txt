@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">2 Samuelin 21	</div>
 	
-<div class="versenum">1.</div> Ja Davidin aikana oli kallis aika kolme vuotta jarjestansa: ja David etsi Herran kasvoja. Ja Herra sanoi, Saulin tahden ja sen verihuoneen tahden, etta han tappoi Gibeonilaiset.	
+<div class="theverse"><div class="versenum">1.</div> Ja Davidin aikana oli kallis aika kolme vuotta jarjestansa: ja David etsi Herran kasvoja. Ja Herra sanoi, Saulin tahden ja sen verihuoneen tahden, etta han tappoi Gibeonilaiset.	</div>
 
-<div class="versenum">2.</div> Niin kuningas antoi kutsua Gibeonilaiset ja sanoi heille. Mutta Gibeonilaiset ei olleet Israelin lapsista, vaan jaaneista Amorilaisista: ja Israelin lapset olivat vannoneet heille, ja Saul etsi heita lyodaksensa vihansa kiivaudessa Israelin ja Juudan lasten edessa.	
+<div class="theverse"><div class="versenum">2.</div> Niin kuningas antoi kutsua Gibeonilaiset ja sanoi heille. Mutta Gibeonilaiset ei olleet Israelin lapsista, vaan jaaneista Amorilaisista: ja Israelin lapset olivat vannoneet heille, ja Saul etsi heita lyodaksensa vihansa kiivaudessa Israelin ja Juudan lasten edessa.	</div>
 
-<div class="versenum">3.</div> Niin sanoi David Gibeonilaisille, mita minun pitaa teille tekeman? ja milla minun pitaa sen sovittaman, etta te siunaisitte Herran perikuntaa?	
+<div class="theverse"><div class="versenum">3.</div> Niin sanoi David Gibeonilaisille, mita minun pitaa teille tekeman? ja milla minun pitaa sen sovittaman, etta te siunaisitte Herran perikuntaa?	</div>
 
-<div class="versenum">4.</div> Niin vastasivat hanta Gibeonilaiset, ei ole meilla tekemista hopiasta eli kullasta Saulin ja hanen huoneensa kanssa, eika myos etta joku surmattaisiin Israelista. Han sanoi, mita te tahdotte, etta mina teille tekisin?	
+<div class="theverse"><div class="versenum">4.</div> Niin vastasivat hanta Gibeonilaiset, ei ole meilla tekemista hopiasta eli kullasta Saulin ja hanen huoneensa kanssa, eika myos etta joku surmattaisiin Israelista. Han sanoi, mita te tahdotte, etta mina teille tekisin?	</div>
 
-<div class="versenum">5.</div> He sanoivat kuninkaalle, sen miehen, joka meita hukutti ja aikoi semmoista meita vastaan, etta meidan piti tuleman niin havitetyksi, ettei meidan pitanyt seisovaiset oleman kaikissa Israelin maan rajoissa.	
+<div class="theverse"><div class="versenum">5.</div> He sanoivat kuninkaalle, sen miehen, joka meita hukutti ja aikoi semmoista meita vastaan, etta meidan piti tuleman niin havitetyksi, ettei meidan pitanyt seisovaiset oleman kaikissa Israelin maan rajoissa.	</div>
 
-<div class="versenum">6.</div> Hanen huoneestansa annettakaan meille seitseman miesta hirttaaksemme heita Herran edessa Saulin Gibeassa, Herran valitun. Kuningas sanoi, mina annan heidat teille.	
+<div class="theverse"><div class="versenum">6.</div> Hanen huoneestansa annettakaan meille seitseman miesta hirttaaksemme heita Herran edessa Saulin Gibeassa, Herran valitun. Kuningas sanoi, mina annan heidat teille.	</div>
 
-<div class="versenum">7.</div> Mutta kuningas armahti MephiBosetia, Jonatanin Saulin pojan poikaa, sen Herran valan tahden, joka oli heidan valillansa, Davidin ja Jonatanin Saulin pojan valilla.	
+<div class="theverse"><div class="versenum">7.</div> Mutta kuningas armahti MephiBosetia, Jonatanin Saulin pojan poikaa, sen Herran valan tahden, joka oli heidan valillansa, Davidin ja Jonatanin Saulin pojan valilla.	</div>
 
-<div class="versenum">8.</div> Mutta kuningas otti ne kaksi Ritspan Aijan tyttaren poikaa, jotka han Saulille synnyttanyt oli, Armonin ja MephiBosetin, ja viisi Mikalin Saulin tyttaren poikaa, jotka han Hadrielille Barsillain pojalle synnyttanyt oli, joka oli Meholatilainen.	
+<div class="theverse"><div class="versenum">8.</div> Mutta kuningas otti ne kaksi Ritspan Aijan tyttaren poikaa, jotka han Saulille synnyttanyt oli, Armonin ja MephiBosetin, ja viisi Mikalin Saulin tyttaren poikaa, jotka han Hadrielille Barsillain pojalle synnyttanyt oli, joka oli Meholatilainen.	</div>
 
-<div class="versenum">9.</div> Ja han antoi ne Gibeonilaisten kasiin, ja he hirttivat ne vuorella Herran eteen. Ja ne seitseman lankesivat yhdella haavalla: ja niin he surmattiin ensimaisina paivina elonajasta, ohran leikkaamisen alussa.	
+<div class="theverse"><div class="versenum">9.</div> Ja han antoi ne Gibeonilaisten kasiin, ja he hirttivat ne vuorella Herran eteen. Ja ne seitseman lankesivat yhdella haavalla: ja niin he surmattiin ensimaisina paivina elonajasta, ohran leikkaamisen alussa.	</div>
 
-<div class="versenum">10.</div> Niin Ritspa Aijan tytar otti sakin ja levitti sen kalliolle elon alusta, siihenasti etta vesi olis pisaroinnut taivaasta heidan paallensa, eika sallinut taivaan lintuja tulla heidan paallensa paivalla, eika metsan petoja yolla.	
+<div class="theverse"><div class="versenum">10.</div> Niin Ritspa Aijan tytar otti sakin ja levitti sen kalliolle elon alusta, siihenasti etta vesi olis pisaroinnut taivaasta heidan paallensa, eika sallinut taivaan lintuja tulla heidan paallensa paivalla, eika metsan petoja yolla.	</div>
 
-<div class="versenum">11.</div> Ja ilmoitettiin Davidille, mita Ritspa, Aijan tytar, Saulin jalkavaimo, tehnyt oli.	
+<div class="theverse"><div class="versenum">11.</div> Ja ilmoitettiin Davidille, mita Ritspa, Aijan tytar, Saulin jalkavaimo, tehnyt oli.	</div>
 
-<div class="versenum">12.</div> Ja David laksi matkaan ja otti Saulin ja hanen poikansa Jonatanin luut Jabeksen asuvilta Gileadissa, jotka he Betsanin kadulta varastaneet olivat, jossa Philistealaiset heita ripustaneet olivat siihen aikaan, kuin he surmasivat Saulin Gilboassa;	
+<div class="theverse"><div class="versenum">12.</div> Ja David laksi matkaan ja otti Saulin ja hanen poikansa Jonatanin luut Jabeksen asuvilta Gileadissa, jotka he Betsanin kadulta varastaneet olivat, jossa Philistealaiset heita ripustaneet olivat siihen aikaan, kuin he surmasivat Saulin Gilboassa;	</div>
 
-<div class="versenum">13.</div> Ja otti sielta Saulin luut ja hanen poikansa Jonatanin luut; ja he kokosivat myos niiden luut, jotka ripustetut olivat;	
+<div class="theverse"><div class="versenum">13.</div> Ja otti sielta Saulin luut ja hanen poikansa Jonatanin luut; ja he kokosivat myos niiden luut, jotka ripustetut olivat;	</div>
 
-<div class="versenum">14.</div> Ja he hautasivat Saulin ja hanen poikansa Jonatanin luut BenJaminin maahan Zelaan, hanen isansa Kisin hautaan, ja he tekivat kaikki niinkuin kuningas heille kaskenyt oli: ja niin Jumala sovitettiin sitte maakunnalle.	
+<div class="theverse"><div class="versenum">14.</div> Ja he hautasivat Saulin ja hanen poikansa Jonatanin luut BenJaminin maahan Zelaan, hanen isansa Kisin hautaan, ja he tekivat kaikki niinkuin kuningas heille kaskenyt oli: ja niin Jumala sovitettiin sitte maakunnalle.	</div>
 
-<div class="versenum">15.</div> Niin taas nousi Philistealaisten sota Israelia vastaan. Ja David meni sotimaan palvelioinensa Philistealaisia vastaan; ja David vasyi.	
+<div class="theverse"><div class="versenum">15.</div> Niin taas nousi Philistealaisten sota Israelia vastaan. Ja David meni sotimaan palvelioinensa Philistealaisia vastaan; ja David vasyi.	</div>
 
-<div class="versenum">16.</div> Niin Jesbibenob, joka oli Raphan lapsia, jonka keihaan ota painoi kolmesataa siklia vaskea, ja jolla oli uudet sota-aseet, alkoi surmata Davidin.	
+<div class="theverse"><div class="versenum">16.</div> Niin Jesbibenob, joka oli Raphan lapsia, jonka keihaan ota painoi kolmesataa siklia vaskea, ja jolla oli uudet sota-aseet, alkoi surmata Davidin.	</div>
 
-<div class="versenum">17.</div> Mutta Abisai ZeruJan poika autti hanta, ja loi Philistealaisen, ja tappoi hanen. Niin Davidin palveliat vannoivat hanelle ja sanoivat: ei sinun pida enaa meneman meidan kanssamme sotaan, ettet valkeutta Israelissa sammuttaisi.	
+<div class="theverse"><div class="versenum">17.</div> Mutta Abisai ZeruJan poika autti hanta, ja loi Philistealaisen, ja tappoi hanen. Niin Davidin palveliat vannoivat hanelle ja sanoivat: ei sinun pida enaa meneman meidan kanssamme sotaan, ettet valkeutta Israelissa sammuttaisi.	</div>
 
-<div class="versenum">18.</div> Ja sen jalkeen tapahtui, etta sota taas nousi Gobissa Philistealaista vastaan; ja Sibekai Husathilainen loi Saphan, joka myos oli Raphan lapsia.	
+<div class="theverse"><div class="versenum">18.</div> Ja sen jalkeen tapahtui, etta sota taas nousi Gobissa Philistealaista vastaan; ja Sibekai Husathilainen loi Saphan, joka myos oli Raphan lapsia.	</div>
 
-<div class="versenum">19.</div> Niin sota viela nousi Gobissa Philistealaisia vastaan; ja Elhanan Jaere Oregiminin poika Betlehemilainen loi Gatilaisen Goljatin, jonka keihaan varsi oli niinkuin joku kangasorsi.	
+<div class="theverse"><div class="versenum">19.</div> Niin sota viela nousi Gobissa Philistealaisia vastaan; ja Elhanan Jaere Oregiminin poika Betlehemilainen loi Gatilaisen Goljatin, jonka keihaan varsi oli niinkuin joku kangasorsi.	</div>
 
-<div class="versenum">20.</div> Sitalahin nousi viela sota Gatissa; ja siella oli pitka mies, jolla oli kuusi sormea kasissa ja kuusi varvasta jaloissa, se on yhteen lukien neljakolmattakymmenta; han oli myos syntynyt Raphalle.	
+<div class="theverse"><div class="versenum">20.</div> Sitalahin nousi viela sota Gatissa; ja siella oli pitka mies, jolla oli kuusi sormea kasissa ja kuusi varvasta jaloissa, se on yhteen lukien neljakolmattakymmenta; han oli myos syntynyt Raphalle.	</div>
 
-<div class="versenum">21.</div> Ja kuin han pilkkasi Israelia, loi hanen Jonatan Davidin veljen Simean poika.	
+<div class="theverse"><div class="versenum">21.</div> Ja kuin han pilkkasi Israelia, loi hanen Jonatan Davidin veljen Simean poika.	</div>
 
-<div class="versenum">22.</div> Namat nelja olivat syntyneet Raphalle Gatissa; ja he lankesivat Davidin ja hanen palveliainsa katten kautta.	
+<div class="theverse"><div class="versenum">22.</div> Namat nelja olivat syntyneet Raphalle Gatissa; ja he lankesivat Davidin ja hanen palveliainsa katten kautta.	</div>
 </body>
 </html>

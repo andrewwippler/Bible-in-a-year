@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Miikan 2	</div>
 	
-<div class="versenum">1.</div> Voi niita, jotka vahinkoa ajattelevat, ja pahoja juonia vuoteissansa ahkeroitsevat! etta he sen tayttaisivat kuin aamu valistaa; silla heillapa valta on.	
+<div class="theverse"><div class="versenum">1.</div> Voi niita, jotka vahinkoa ajattelevat, ja pahoja juonia vuoteissansa ahkeroitsevat! etta he sen tayttaisivat kuin aamu valistaa; silla heillapa valta on.	</div>
 
-<div class="versenum">2.</div> He ahnehtivat peltoja, jotka he vakivallalla ottavat, ja huoneita, jotka he omistavat; ja tekevat ylollista jokaisen huoneen kanssa ja jokaisen perinnon kanssa.	
+<div class="theverse"><div class="versenum">2.</div> He ahnehtivat peltoja, jotka he vakivallalla ottavat, ja huoneita, jotka he omistavat; ja tekevat ylollista jokaisen huoneen kanssa ja jokaisen perinnon kanssa.	</div>
 
-<div class="versenum">3.</div> Sentahden sanoo Herra nain: katso, mina ajattelen talle sukukunnalle pahaa, josta ei teidan pida voiman vetaa pois teidan kansaanne, eika teidan pida niin ylpiasti kayman; silla paha aika tulee.	
+<div class="theverse"><div class="versenum">3.</div> Sentahden sanoo Herra nain: katso, mina ajattelen talle sukukunnalle pahaa, josta ei teidan pida voiman vetaa pois teidan kansaanne, eika teidan pida niin ylpiasti kayman; silla paha aika tulee.	</div>
 
-<div class="versenum">4.</div> Silla ajalla pitaa teista sananlasku otettaman, ja surkia valitus valitettaman, sanoen: me olemme perati havitetyt; minun kansani osa on muutettu; kuinka han meilta pellot ottaa pois, ja ne jakaa.	
+<div class="theverse"><div class="versenum">4.</div> Silla ajalla pitaa teista sananlasku otettaman, ja surkia valitus valitettaman, sanoen: me olemme perati havitetyt; minun kansani osa on muutettu; kuinka han meilta pellot ottaa pois, ja ne jakaa.	</div>
 
-<div class="versenum">5.</div> Ja tosin ei teilla pida osaa Herran seurakunnassa oleman.	
+<div class="theverse"><div class="versenum">5.</div> Ja tosin ei teilla pida osaa Herran seurakunnassa oleman.	</div>
 
-<div class="versenum">6.</div> Ei teidan pida (sanovat he) saarnaaman, muiden pitaa saarnaaman; ei niiden pida saarnaaman niinkuin te: emme niin ratki hapiaan tule.	
+<div class="theverse"><div class="versenum">6.</div> Ei teidan pida (sanovat he) saarnaaman, muiden pitaa saarnaaman; ei niiden pida saarnaaman niinkuin te: emme niin ratki hapiaan tule.	</div>
 
-<div class="versenum">7.</div> Niin Jakobin huone itsensa lohduttaa: luuletkos Herran hengen lyhennetyksi? eiko hanen naita pitaisi tekeman? eiko minun puheeni ole hyva sille, joka oikein vaeltaa?	
+<div class="theverse"><div class="versenum">7.</div> Niin Jakobin huone itsensa lohduttaa: luuletkos Herran hengen lyhennetyksi? eiko hanen naita pitaisi tekeman? eiko minun puheeni ole hyva sille, joka oikein vaeltaa?	</div>
 
-<div class="versenum">8.</div> Mutta minun kansani on jo ennen tata hankkinut niinkuin vihollinen; he ryostavat seka hameen etta paallisvaatteen niinkuin sodassa niilta, jotka suruttomasti vaeltavat.	
+<div class="theverse"><div class="versenum">8.</div> Mutta minun kansani on jo ennen tata hankkinut niinkuin vihollinen; he ryostavat seka hameen etta paallisvaatteen niinkuin sodassa niilta, jotka suruttomasti vaeltavat.	</div>
 
-<div class="versenum">9.</div> Te ajatte pois minun kansani vaimot kauniista huoneistansa, ja alati otatte pois heidan nuorukaisiltansa minun kaunistukseni.	
+<div class="theverse"><div class="versenum">9.</div> Te ajatte pois minun kansani vaimot kauniista huoneistansa, ja alati otatte pois heidan nuorukaisiltansa minun kaunistukseni.	</div>
 
-<div class="versenum">10.</div> Sentahden nouskaat ja menkaat pois; silla ette saa tassa olla; saastaisuutensa tahden pitaa heidan armottomasti haviaman.	
+<div class="theverse"><div class="versenum">10.</div> Sentahden nouskaat ja menkaat pois; silla ette saa tassa olla; saastaisuutensa tahden pitaa heidan armottomasti haviaman.	</div>
 
-<div class="versenum">11.</div> Jos joku lipilaari olis ja valheen saarnaaja, (joka sanois:) mina tahdon saarnata, kuinka teidan pitaa viinaa ja vakevaa juomaa juoman; senkaltainen saarnaaja olis talle kansalle sovelias.	
+<div class="theverse"><div class="versenum">11.</div> Jos joku lipilaari olis ja valheen saarnaaja, (joka sanois:) mina tahdon saarnata, kuinka teidan pitaa viinaa ja vakevaa juomaa juoman; senkaltainen saarnaaja olis talle kansalle sovelias.	</div>
 
-<div class="versenum">12.</div> Mutta mina tahdon sinua, Jadob, kokonansa koota, ja jaaneet Israelissa saattaa kokoon, ja tahdon heita, niinkuin Botsran lauman, yhteen saattaa; niinkuin lauma pihatossa, niin myos sen pitaa ihmisista kopiseman.	
+<div class="theverse"><div class="versenum">12.</div> Mutta mina tahdon sinua, Jadob, kokonansa koota, ja jaaneet Israelissa saattaa kokoon, ja tahdon heita, niinkuin Botsran lauman, yhteen saattaa; niinkuin lauma pihatossa, niin myos sen pitaa ihmisista kopiseman.	</div>
 
-<div class="versenum">13.</div> Yksi sarkia pitaa astuman ylos heidan edellansa; heidan pitaa sarkeman lavitse, ja kayman portista ulos ja sisalle; ja heidan kuninkaansa pitaa kayman heidan edellansa, ja Herra kaikkein esin heita.	
+<div class="theverse"><div class="versenum">13.</div> Yksi sarkia pitaa astuman ylos heidan edellansa; heidan pitaa sarkeman lavitse, ja kayman portista ulos ja sisalle; ja heidan kuninkaansa pitaa kayman heidan edellansa, ja Herra kaikkein esin heita.	</div>
 </body>
 </html>

@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">2 Samuelin 8	</div>
 	
-<div class="versenum">1.</div> Ja sitte tapahtui, etta David loi Philistealaiset ja alensi heita; ja David otti orjuuden suitset Philistealaisten kadesta	
+<div class="theverse"><div class="versenum">1.</div> Ja sitte tapahtui, etta David loi Philistealaiset ja alensi heita; ja David otti orjuuden suitset Philistealaisten kadesta	</div>
 
-<div class="versenum">2.</div> Ja han loi Moabilaiset, pani heidat maahan makaamaan ja mittasi heita nuoralla: ja han mittasi kaksi nuoraa tapettavaksi ja yhden nuoran elamaan jatettavaksi, ja Moabilaiset tulivat Davidin palveliaksi, ja he kantoivat hanelle lahjoja.	
+<div class="theverse"><div class="versenum">2.</div> Ja han loi Moabilaiset, pani heidat maahan makaamaan ja mittasi heita nuoralla: ja han mittasi kaksi nuoraa tapettavaksi ja yhden nuoran elamaan jatettavaksi, ja Moabilaiset tulivat Davidin palveliaksi, ja he kantoivat hanelle lahjoja.	</div>
 
-<div class="versenum">3.</div> David loi myos HadadEserin, Rehobin pojan Zoban kuninkaan, hanen mennessa asettamaan kattansa Euphratin virran tyko.	
+<div class="theverse"><div class="versenum">3.</div> David loi myos HadadEserin, Rehobin pojan Zoban kuninkaan, hanen mennessa asettamaan kattansa Euphratin virran tyko.	</div>
 
-<div class="versenum">4.</div> Ja David otti heista tuhannen ja seitsemansataa hevosmiesta ja kaksikymmenta tuhatta jalkamiesta kiinni, ja raiskasi kaikki vaunuhevoset, ja sata vaunua jatti heista.	
+<div class="theverse"><div class="versenum">4.</div> Ja David otti heista tuhannen ja seitsemansataa hevosmiesta ja kaksikymmenta tuhatta jalkamiesta kiinni, ja raiskasi kaikki vaunuhevoset, ja sata vaunua jatti heista.	</div>
 
-<div class="versenum">5.</div> Niin tulivat Syrialaiset Damaskusta auttamaan HadadEseria, Zoban kuningasta; ja David loi Syrialaisista kaksikolmattakymmenta tuhatta miesta.	
+<div class="theverse"><div class="versenum">5.</div> Niin tulivat Syrialaiset Damaskusta auttamaan HadadEseria, Zoban kuningasta; ja David loi Syrialaisista kaksikolmattakymmenta tuhatta miesta.	</div>
 
-<div class="versenum">6.</div> Ja David asetti vartiat Syrian Damaskuun. Nain tulivat Syrialaiset Davidin palveliaksi ja kantoivat hanelle lahjoja; silla Herra autti Davidia, kuhunka ikana han meni.	
+<div class="theverse"><div class="versenum">6.</div> Ja David asetti vartiat Syrian Damaskuun. Nain tulivat Syrialaiset Davidin palveliaksi ja kantoivat hanelle lahjoja; silla Herra autti Davidia, kuhunka ikana han meni.	</div>
 
-<div class="versenum">7.</div> Ja David otti HadadEserin palveliain kultaiset kilvet ja vei ne Jerusalemiin.	
+<div class="theverse"><div class="versenum">7.</div> Ja David otti HadadEserin palveliain kultaiset kilvet ja vei ne Jerusalemiin.	</div>
 
-<div class="versenum">8.</div> Mutta Betasta ja Berotaista, HadadEserin kaupungeista, otti kuningas David ylen paljon vaskea.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Betasta ja Berotaista, HadadEserin kaupungeista, otti kuningas David ylen paljon vaskea.	</div>
 
-<div class="versenum">9.</div> Kuin Toi, Hamatin kuningas kuuli Davidin lyoneen kaikki HadadEserin sotavaen,	
+<div class="theverse"><div class="versenum">9.</div> Kuin Toi, Hamatin kuningas kuuli Davidin lyoneen kaikki HadadEserin sotavaen,	</div>
 
-<div class="versenum">10.</div> Lahetti han poikansa Joramin kuningas Davidin tyko, tervehtimaan hanta ystavallisesti ja siunaamaan hanta, etta han soti HadadEserin kanssa ja loi hanen; silla Toi soti HadadEserin kanssa; ja hanen kadessansa olivat hopiaiset, kultaiset ja vaskiset astiat.	
+<div class="theverse"><div class="versenum">10.</div> Lahetti han poikansa Joramin kuningas Davidin tyko, tervehtimaan hanta ystavallisesti ja siunaamaan hanta, etta han soti HadadEserin kanssa ja loi hanen; silla Toi soti HadadEserin kanssa; ja hanen kadessansa olivat hopiaiset, kultaiset ja vaskiset astiat.	</div>
 
-<div class="versenum">11.</div> Ne myos kuningas David pyhitti Herralle, sen hopian ja kullan kanssa, jonka han pyhitti Herralle kaikilta pakanoilta, jotka han vaatinut oli allensa:	
+<div class="theverse"><div class="versenum">11.</div> Ne myos kuningas David pyhitti Herralle, sen hopian ja kullan kanssa, jonka han pyhitti Herralle kaikilta pakanoilta, jotka han vaatinut oli allensa:	</div>
 
-<div class="versenum">12.</div> Syriasta ja Moabista, Ammonin lapsilta, Philistealaisilta, Amalekilaisilta, niin myos HadadEserin, Rehobin pojan, Zoban kuninkaan saaliista.	
+<div class="theverse"><div class="versenum">12.</div> Syriasta ja Moabista, Ammonin lapsilta, Philistealaisilta, Amalekilaisilta, niin myos HadadEserin, Rehobin pojan, Zoban kuninkaan saaliista.	</div>
 
-<div class="versenum">13.</div> Ja David teki itsensa kuuluisaksi, kuin han palasi lyomasta Syrialaisia Suolalaaksossa, kahdeksantoistakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">13.</div> Ja David teki itsensa kuuluisaksi, kuin han palasi lyomasta Syrialaisia Suolalaaksossa, kahdeksantoistakymmenta tuhatta.	</div>
 
-<div class="versenum">14.</div> Ja han asetti vartiat koko Edomiin, ja koko Edom oli Davidin alla; silla Herra autti Davidia, kuhunka ikana han meni.	
+<div class="theverse"><div class="versenum">14.</div> Ja han asetti vartiat koko Edomiin, ja koko Edom oli Davidin alla; silla Herra autti Davidia, kuhunka ikana han meni.	</div>
 
-<div class="versenum">15.</div> Niin oli David kaiken Israelin kuningas, ja han toimitti lain ja oikeuden kaikelle kansallensa.	
+<div class="theverse"><div class="versenum">15.</div> Niin oli David kaiken Israelin kuningas, ja han toimitti lain ja oikeuden kaikelle kansallensa.	</div>
 
-<div class="versenum">16.</div> Ja Joab, ZeruJan poika oli sotajoukon paalla, mutta Josaphat, Ahiludin poika oli kansleri.	
+<div class="theverse"><div class="versenum">16.</div> Ja Joab, ZeruJan poika oli sotajoukon paalla, mutta Josaphat, Ahiludin poika oli kansleri.	</div>
 
-<div class="versenum">17.</div> Zadok, Ahitobin poika ja Ahimelek, AbJatarin poika olivat papit; Seraja oli kirjoittaja.	
+<div class="theverse"><div class="versenum">17.</div> Zadok, Ahitobin poika ja Ahimelek, AbJatarin poika olivat papit; Seraja oli kirjoittaja.	</div>
 
-<div class="versenum">18.</div> Benaja, Jojadan poika oli Kretin ja Pletin paalla; ja Davidin pojat olivat papit.	
+<div class="theverse"><div class="versenum">18.</div> Benaja, Jojadan poika oli Kretin ja Pletin paalla; ja Davidin pojat olivat papit.	</div>
 </body>
 </html>

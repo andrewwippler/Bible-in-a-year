@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Aamoksen 8	</div>
 	
-<div class="versenum">1.</div> Herra, Herra osoitti minulle nayssa, ja katso, siella oli kori suvituloa.	
+<div class="theverse"><div class="versenum">1.</div> Herra, Herra osoitti minulle nayssa, ja katso, siella oli kori suvituloa.	</div>
 
-<div class="versenum">2.</div> Ja han sanoi: mitas naet, Amos? mina vastasin: korin suvituloa. Niin Herra sanoi minulle: minun kansani Israelin loppu on tullut, en mina tahdo enaan menna hanta ohitse.	
+<div class="theverse"><div class="versenum">2.</div> Ja han sanoi: mitas naet, Amos? mina vastasin: korin suvituloa. Niin Herra sanoi minulle: minun kansani Israelin loppu on tullut, en mina tahdo enaan menna hanta ohitse.	</div>
 
-<div class="versenum">3.</div> Ja sina paivana pitaa veisut templissa itkuksi kaantyman, sanoo Herra, Herra; monta kuollutta ruumista pitaa joka paikassa makaaman, jotka viedaan salassa pois.	
+<div class="theverse"><div class="versenum">3.</div> Ja sina paivana pitaa veisut templissa itkuksi kaantyman, sanoo Herra, Herra; monta kuollutta ruumista pitaa joka paikassa makaaman, jotka viedaan salassa pois.	</div>
 
-<div class="versenum">4.</div> Kuulkaat tata te, jotka koyhaa sorratte, ja vaivaisia maakunnassa havitatte,	
+<div class="theverse"><div class="versenum">4.</div> Kuulkaat tata te, jotka koyhaa sorratte, ja vaivaisia maakunnassa havitatte,	</div>
 
-<div class="versenum">5.</div> Ja sanotte: koska uusi kuu loppuu, etta me saisimme jyvia myyda; ja sabbati, etta me ohria kauppaisimme, ja mitan vahentaisimme, ja hinnan korottaisimme, ja vaa'at vaariksi tekisimme;	
+<div class="theverse"><div class="versenum">5.</div> Ja sanotte: koska uusi kuu loppuu, etta me saisimme jyvia myyda; ja sabbati, etta me ohria kauppaisimme, ja mitan vahentaisimme, ja hinnan korottaisimme, ja vaa'at vaariksi tekisimme;	</div>
 
-<div class="versenum">6.</div> Etta me saisimme koyhat rahallamme haltuumme ja hataytyneet kenkaparilla, ja myisimme akanat jyvain edesta?	
+<div class="theverse"><div class="versenum">6.</div> Etta me saisimme koyhat rahallamme haltuumme ja hataytyneet kenkaparilla, ja myisimme akanat jyvain edesta?	</div>
 
-<div class="versenum">7.</div> Herra on vannonut Jakobin korkeutta vastaan: mitamaks, jos mina ikana kaikki ne heidan tyonsa unohdan.	
+<div class="theverse"><div class="versenum">7.</div> Herra on vannonut Jakobin korkeutta vastaan: mitamaks, jos mina ikana kaikki ne heidan tyonsa unohdan.	</div>
 
-<div class="versenum">8.</div> Eiko maan sentahden pitaisi vapiseman, ja kaikki sen asuvaiset murehtiman? Ja pitaa nouseman kaiken sen paalle niinkuin virta, vietaman pois ja upotettaman niinkuin Egyptin virralla.	
+<div class="theverse"><div class="versenum">8.</div> Eiko maan sentahden pitaisi vapiseman, ja kaikki sen asuvaiset murehtiman? Ja pitaa nouseman kaiken sen paalle niinkuin virta, vietaman pois ja upotettaman niinkuin Egyptin virralla.	</div>
 
-<div class="versenum">9.</div> Silla ajalla, sanoo Herra, Herra, tahdon mina laskea auringon alas puolipaivasta, ja pimittaa maan valkialla paivalla.	
+<div class="theverse"><div class="versenum">9.</div> Silla ajalla, sanoo Herra, Herra, tahdon mina laskea auringon alas puolipaivasta, ja pimittaa maan valkialla paivalla.	</div>
 
-<div class="versenum">10.</div> Mina tahdon teidan juhlapaivanne kaantaa murheeksi, ja kaikki teidan veisunne valitukseksi, ja tahdon antaa sakin jokaisen kupeisiin tulla, ja kaikki paat paljaaksi tehda; ja tahdon heille murheen saattaa, niinkuin joku ainoaa poikaa murehtii; ja heidan pitaa surkian lopun saaman.	
+<div class="theverse"><div class="versenum">10.</div> Mina tahdon teidan juhlapaivanne kaantaa murheeksi, ja kaikki teidan veisunne valitukseksi, ja tahdon antaa sakin jokaisen kupeisiin tulla, ja kaikki paat paljaaksi tehda; ja tahdon heille murheen saattaa, niinkuin joku ainoaa poikaa murehtii; ja heidan pitaa surkian lopun saaman.	</div>
 
-<div class="versenum">11.</div> Katso, ne paivat tulevat, sanoo Herra, Herra, etta mina lahetan nalan maan paalle; ei nalkaa leivan peraan, eli janoa veden peraan, vaan Herran sanan kuulemisen jalkeen,	
+<div class="theverse"><div class="versenum">11.</div> Katso, ne paivat tulevat, sanoo Herra, Herra, etta mina lahetan nalan maan paalle; ei nalkaa leivan peraan, eli janoa veden peraan, vaan Herran sanan kuulemisen jalkeen,	</div>
 
-<div class="versenum">12.</div> Niin etta heidan pitaa juokseman yhdesta meresta niin toiseen, pohjasta niin itaan; heidan pitaa juoksenteleman etsimaan Herran sanaa, ja ei kuitenkaan pida loytaman.	
+<div class="theverse"><div class="versenum">12.</div> Niin etta heidan pitaa juokseman yhdesta meresta niin toiseen, pohjasta niin itaan; heidan pitaa juoksenteleman etsimaan Herran sanaa, ja ei kuitenkaan pida loytaman.	</div>
 
-<div class="versenum">13.</div> Sina paivana pitaa kauniit neitseet ja nuorukaiset naantyman janosta.	
+<div class="theverse"><div class="versenum">13.</div> Sina paivana pitaa kauniit neitseet ja nuorukaiset naantyman janosta.	</div>
 
-<div class="versenum">14.</div> Ja jotka nyt Samarian rikoksen kautta vannovat ja sanovat: niin totta kuin sinun jumalas Danissa elaa, niin totta kuin sinun jumalas Bersebassa elaa: niiden pitaa niin lankeeman, ettei he voi jalleen nousta ylos.	
+<div class="theverse"><div class="versenum">14.</div> Ja jotka nyt Samarian rikoksen kautta vannovat ja sanovat: niin totta kuin sinun jumalas Danissa elaa, niin totta kuin sinun jumalas Bersebassa elaa: niiden pitaa niin lankeeman, ettei he voi jalleen nousta ylos.	</div>
 </body>
 </html>

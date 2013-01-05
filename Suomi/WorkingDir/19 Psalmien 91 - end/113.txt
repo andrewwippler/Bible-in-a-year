@@ -4,22 +4,22 @@
 </head>
 <body><div class="chaptertitle">Psalmien 113	</div>
 	
-<div class="versenum">1.</div> Halleluja! Kiittakaat te, Herran palveliat, kiittakaat Herran nimea!	
+<div class="theverse"><div class="versenum">1.</div> Halleluja! Kiittakaat te, Herran palveliat, kiittakaat Herran nimea!	</div>
 
-<div class="versenum">2.</div> Kiitetty olkoon Herran nimi, nyt ja ijankaikkisesti!	
+<div class="theverse"><div class="versenum">2.</div> Kiitetty olkoon Herran nimi, nyt ja ijankaikkisesti!	</div>
 
-<div class="versenum">3.</div> Auringon koitosta hanen laskemiseensa asti olkoon Herran nimi kiitetty!	
+<div class="theverse"><div class="versenum">3.</div> Auringon koitosta hanen laskemiseensa asti olkoon Herran nimi kiitetty!	</div>
 
-<div class="versenum">4.</div> Herra on korkia ylitse kaikkein pakanain, ja hanen kunniansa ylitse taivasten.	
+<div class="theverse"><div class="versenum">4.</div> Herra on korkia ylitse kaikkein pakanain, ja hanen kunniansa ylitse taivasten.	</div>
 
-<div class="versenum">5.</div> Kuka on niinkuin Herra meidan Jumalamme, joka niin korkialla asuu?	
+<div class="theverse"><div class="versenum">5.</div> Kuka on niinkuin Herra meidan Jumalamme, joka niin korkialla asuu?	</div>
 
-<div class="versenum">6.</div> Ja kuitenkin katsoo alimmaisia taivaassa ja maassa;	
+<div class="theverse"><div class="versenum">6.</div> Ja kuitenkin katsoo alimmaisia taivaassa ja maassa;	</div>
 
-<div class="versenum">7.</div> Joka koyhan tomusta ylentaa, ja vaivaisen loasta korottaa,	
+<div class="theverse"><div class="versenum">7.</div> Joka koyhan tomusta ylentaa, ja vaivaisen loasta korottaa,	</div>
 
-<div class="versenum">8.</div> Istuttaaksensa hanta paamiesten sivuun, kansansa paamiesten sivuun;	
+<div class="theverse"><div class="versenum">8.</div> Istuttaaksensa hanta paamiesten sivuun, kansansa paamiesten sivuun;	</div>
 
-<div class="versenum">9.</div> Joka hedelmattomat saattaa huoneesen asumaan, etta han riemuiseksi lasten aidiksi tulee. Halleluja!	
+<div class="theverse"><div class="versenum">9.</div> Joka hedelmattomat saattaa huoneesen asumaan, etta han riemuiseksi lasten aidiksi tulee. Halleluja!	</div>
 </body>
 </html>

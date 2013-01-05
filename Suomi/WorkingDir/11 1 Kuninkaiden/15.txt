@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 15	</div>
 	
-<div class="versenum">1.</div> Niin oli kuningas Jerobeamin Nebatin pojan kahdeksantena vuotena toistakymmenta Abiam kuningas Juudassa,	
+<div class="theverse"><div class="versenum">1.</div> Niin oli kuningas Jerobeamin Nebatin pojan kahdeksantena vuotena toistakymmenta Abiam kuningas Juudassa,	</div>
 
-<div class="versenum">2.</div> Ja hallitsi kolme ajastaikaa Jerusalemissa; hanen aitinsa nimi oli Maeka Abisalomin tytar.	
+<div class="theverse"><div class="versenum">2.</div> Ja hallitsi kolme ajastaikaa Jerusalemissa; hanen aitinsa nimi oli Maeka Abisalomin tytar.	</div>
 
-<div class="versenum">3.</div> Ja han vaelsi kaikissa isansa synneissa, jotka han oli tehnyt hanen edellansa, ja ei ollut hanen sydamensa vakaa Herran hanen Jumalansa edessa, niinkuin Davidin hanen isansa sydan oli.	
+<div class="theverse"><div class="versenum">3.</div> Ja han vaelsi kaikissa isansa synneissa, jotka han oli tehnyt hanen edellansa, ja ei ollut hanen sydamensa vakaa Herran hanen Jumalansa edessa, niinkuin Davidin hanen isansa sydan oli.	</div>
 
-<div class="versenum">4.</div> Mutta Davidin taden antoi Herra hanen Jumalansa hanelle valkeuden Jerusalemissa, herattaaksensa hanelle pojan hanen jalkeensa, ja asettaaksensa Jerusalemiin;	
+<div class="theverse"><div class="versenum">4.</div> Mutta Davidin taden antoi Herra hanen Jumalansa hanelle valkeuden Jerusalemissa, herattaaksensa hanelle pojan hanen jalkeensa, ja asettaaksensa Jerusalemiin;	</div>
 
-<div class="versenum">5.</div> Silla David oli tehnyt mita oikein on Herran edessa, ja ei poikennut kaikista, mita han hanelle kaskenyt oli, kaikkena elinaikanansa, paitsi Urian Hetilaisen asiaa.	
+<div class="theverse"><div class="versenum">5.</div> Silla David oli tehnyt mita oikein on Herran edessa, ja ei poikennut kaikista, mita han hanelle kaskenyt oli, kaikkena elinaikanansa, paitsi Urian Hetilaisen asiaa.	</div>
 
-<div class="versenum">6.</div> Mutta Rehabeam ja Jerobeam sotivat keskenansa kaiken elinaikansa.	
+<div class="theverse"><div class="versenum">6.</div> Mutta Rehabeam ja Jerobeam sotivat keskenansa kaiken elinaikansa.	</div>
 
-<div class="versenum">7.</div> Mita enempi on sanomista Abiamista ja kaikista hanen toistansa, eiko se ole kirjoitettu Juudan kuningasten aikakirjassa? Ja Abiam soti Jerobeamin kanssa.	
+<div class="theverse"><div class="versenum">7.</div> Mita enempi on sanomista Abiamista ja kaikista hanen toistansa, eiko se ole kirjoitettu Juudan kuningasten aikakirjassa? Ja Abiam soti Jerobeamin kanssa.	</div>
 
-<div class="versenum">8.</div> Niin Abiam nukkui isainsa kanssa ja haudattiin Davidin kaupunkiin; ja Asa hanen poikansa hallitsi hanen perassansa.	
+<div class="theverse"><div class="versenum">8.</div> Niin Abiam nukkui isainsa kanssa ja haudattiin Davidin kaupunkiin; ja Asa hanen poikansa hallitsi hanen perassansa.	</div>
 
-<div class="versenum">9.</div> Ja kahdentenakymmenentena Jerobeamin Israelin kuninkaan vuonna oli Asa kuningas Juudassa.	
+<div class="theverse"><div class="versenum">9.</div> Ja kahdentenakymmenentena Jerobeamin Israelin kuninkaan vuonna oli Asa kuningas Juudassa.	</div>
 
-<div class="versenum">10.</div> Ja hallitsi yhden ajastajan viidettakymmenta Jerusalemissa; hanen aitinsa nimi oli Maeka Abisalomin tytar.	
+<div class="theverse"><div class="versenum">10.</div> Ja hallitsi yhden ajastajan viidettakymmenta Jerusalemissa; hanen aitinsa nimi oli Maeka Abisalomin tytar.	</div>
 
-<div class="versenum">11.</div> Ja Asa teki kelvollisesti Herran edessa, niinkuin David hanen isansa,	
+<div class="theverse"><div class="versenum">11.</div> Ja Asa teki kelvollisesti Herran edessa, niinkuin David hanen isansa,	</div>
 
-<div class="versenum">12.</div> Ja karkoitti huorintekijat maalta, ja ajoi pois kaikki epajumalat, jotka hanen isansa tehneet olivat.	
+<div class="theverse"><div class="versenum">12.</div> Ja karkoitti huorintekijat maalta, ja ajoi pois kaikki epajumalat, jotka hanen isansa tehneet olivat.	</div>
 
-<div class="versenum">13.</div> Ja viela sitten pani han aitinsa Maekan viralta pois, etta han oli tehnyt Mipletsetin metsiston; vaan Asa kukisti hanen Mipletsetinsa ja poltti sen Kidronin ojan tykona.	
+<div class="theverse"><div class="versenum">13.</div> Ja viela sitten pani han aitinsa Maekan viralta pois, etta han oli tehnyt Mipletsetin metsiston; vaan Asa kukisti hanen Mipletsetinsa ja poltti sen Kidronin ojan tykona.	</div>
 
-<div class="versenum">14.</div> Mutta kukkuloita ei han kukistanut; kuitenkin Asan sydan oli vakaa Herran edessa kaiken elinaikansa.	
+<div class="theverse"><div class="versenum">14.</div> Mutta kukkuloita ei han kukistanut; kuitenkin Asan sydan oli vakaa Herran edessa kaiken elinaikansa.	</div>
 
-<div class="versenum">15.</div> Ja han vei sisalle mita hanen isansa oli pyhittanyt, ja Herran huoneen pyhat kalut: hopian ja kullan ja astiat.	
+<div class="theverse"><div class="versenum">15.</div> Ja han vei sisalle mita hanen isansa oli pyhittanyt, ja Herran huoneen pyhat kalut: hopian ja kullan ja astiat.	</div>
 
-<div class="versenum">16.</div> Mutta Asan ja Baesan Israelin kuninkaan valilla oli sota kaiken heidan elinaikansa.	
+<div class="theverse"><div class="versenum">16.</div> Mutta Asan ja Baesan Israelin kuninkaan valilla oli sota kaiken heidan elinaikansa.	</div>
 
-<div class="versenum">17.</div> Vaan Baesa Israelin kuningas nousi Juudaa vastaan ja rakensi Raman, ettei yksikaan vaeltaisi ulos taikka sisalle Asan Juudan kuninkaan puolelta.	
+<div class="theverse"><div class="versenum">17.</div> Vaan Baesa Israelin kuningas nousi Juudaa vastaan ja rakensi Raman, ettei yksikaan vaeltaisi ulos taikka sisalle Asan Juudan kuninkaan puolelta.	</div>
 
-<div class="versenum">18.</div> Silloin otti Asa kaiken hopian ja kullan, jotka Herran huoneen tavaroista ja kuninkaan huoneen tavaroista jaaneet olivat, ja antoi ne palveliansa kasiin, jotka kuningas Asa lahetti Benhadadille Tabrimmonin Hesionin pojan pojalle Syrian kuninkaalle, joka asui Damaskussa, ja kaski sanoa hanelle:	
+<div class="theverse"><div class="versenum">18.</div> Silloin otti Asa kaiken hopian ja kullan, jotka Herran huoneen tavaroista ja kuninkaan huoneen tavaroista jaaneet olivat, ja antoi ne palveliansa kasiin, jotka kuningas Asa lahetti Benhadadille Tabrimmonin Hesionin pojan pojalle Syrian kuninkaalle, joka asui Damaskussa, ja kaski sanoa hanelle:	</div>
 
-<div class="versenum">19.</div> Minun ja sinun vaiheella, ja minun isani ja sinun isas vaiheella on liitto: katso mina lahetin sinulle hopiaa ja kultaa lahjaksi, ettas rikkoisit sen liiton, minka sina Baesan Israelin kuninkaan kanssa tehnyt olet, etta han erkanis minusta.	
+<div class="theverse"><div class="versenum">19.</div> Minun ja sinun vaiheella, ja minun isani ja sinun isas vaiheella on liitto: katso mina lahetin sinulle hopiaa ja kultaa lahjaksi, ettas rikkoisit sen liiton, minka sina Baesan Israelin kuninkaan kanssa tehnyt olet, etta han erkanis minusta.	</div>
 
-<div class="versenum">20.</div> Ja Benhadad oli kuuliainen kuningas Asalle, ja lahetti sodanpaamiehet Israelin kaupunkeihin, ja loi Iionin ja Danin ja Abelin Betmaekan, ja koko Kinerotin, ynna kaiken Naphtalin maakunnan kanssa.	
+<div class="theverse"><div class="versenum">20.</div> Ja Benhadad oli kuuliainen kuningas Asalle, ja lahetti sodanpaamiehet Israelin kaupunkeihin, ja loi Iionin ja Danin ja Abelin Betmaekan, ja koko Kinerotin, ynna kaiken Naphtalin maakunnan kanssa.	</div>
 
-<div class="versenum">21.</div> Kuin Baesa sen kuuli, lakkasi han rakentamasta Ramaa, ja meni Tirtsaan.	
+<div class="theverse"><div class="versenum">21.</div> Kuin Baesa sen kuuli, lakkasi han rakentamasta Ramaa, ja meni Tirtsaan.	</div>
 
-<div class="versenum">22.</div> Mutta kuningas Asa lahetti sanoman kaiken Juudan ympari: ei tassa pida yksikaan nuhteetoin oleman. Ja he kukistivat kivet ja puut Ramasta, joita Baesa oli rakentanut; ja kuningas Asa rakensi niista Geban BanJaminista ja Mitspan.	
+<div class="theverse"><div class="versenum">22.</div> Mutta kuningas Asa lahetti sanoman kaiken Juudan ympari: ei tassa pida yksikaan nuhteetoin oleman. Ja he kukistivat kivet ja puut Ramasta, joita Baesa oli rakentanut; ja kuningas Asa rakensi niista Geban BanJaminista ja Mitspan.	</div>
 
-<div class="versenum">23.</div> Mita muuta on kuningas Asasta puhumista, ja kaikesta hanen vallastansa, ja kaikista hanen toistansa, ja kaupungeista, jotka han rakentanut oli: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa? paitsi etta han oli vanhuudellansa sairas jaloista.	
+<div class="theverse"><div class="versenum">23.</div> Mita muuta on kuningas Asasta puhumista, ja kaikesta hanen vallastansa, ja kaikista hanen toistansa, ja kaupungeista, jotka han rakentanut oli: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa? paitsi etta han oli vanhuudellansa sairas jaloista.	</div>
 
-<div class="versenum">24.</div> Ja Asa nukkui isainsa kanssa ja haudatiin isainsa kanssa isansa Davidin kaupunkiin. Ja Josaphat hanen poikansa tuli kuninkaaksi hanen peraansa.	
+<div class="theverse"><div class="versenum">24.</div> Ja Asa nukkui isainsa kanssa ja haudatiin isainsa kanssa isansa Davidin kaupunkiin. Ja Josaphat hanen poikansa tuli kuninkaaksi hanen peraansa.	</div>
 
-<div class="versenum">25.</div> Ja Nadab Jerobeamin poika oli Israelin kuningas toisena Asan Juudan kuninkaan vuonna, ja hallitsi Israelissa kaksi vuotta,	
+<div class="theverse"><div class="versenum">25.</div> Ja Nadab Jerobeamin poika oli Israelin kuningas toisena Asan Juudan kuninkaan vuonna, ja hallitsi Israelissa kaksi vuotta,	</div>
 
-<div class="versenum">26.</div> Ja teki pahaa Herran edessa, ja vaelsi isansa teilla ja hanen synneissansa, joilla han saatti Israelin syntia tekemaan.	
+<div class="theverse"><div class="versenum">26.</div> Ja teki pahaa Herran edessa, ja vaelsi isansa teilla ja hanen synneissansa, joilla han saatti Israelin syntia tekemaan.	</div>
 
-<div class="versenum">27.</div> Ja Baesa Ahian poika Isaskarin huoneesta teki liiton hanta vastaan, ja Baesa loi hanen Philistealaisten Gibetonissa; silla Nadab ja koko Israel piirittivat Gibetonin.	
+<div class="theverse"><div class="versenum">27.</div> Ja Baesa Ahian poika Isaskarin huoneesta teki liiton hanta vastaan, ja Baesa loi hanen Philistealaisten Gibetonissa; silla Nadab ja koko Israel piirittivat Gibetonin.	</div>
 
-<div class="versenum">28.</div> Sitte tappoi Baesa hanen kolmantena Asan Juudan kuninkaan vuonna, ja tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">28.</div> Sitte tappoi Baesa hanen kolmantena Asan Juudan kuninkaan vuonna, ja tuli kuninkaaksi hanen siaansa.	</div>
 
-<div class="versenum">29.</div> Koska han oli kuningas, loi han kuoliaaksi kaiken Jerobeamin huoneen, ja ei jattanyt yhtaan ainoaa henkea Jerobeamin huoneesta, siihenasti etta han havitti hanen, Herran sanan jalkeen, joka oli sanottu hanen palvelialtansa Ahialta Silosta,	
+<div class="theverse"><div class="versenum">29.</div> Koska han oli kuningas, loi han kuoliaaksi kaiken Jerobeamin huoneen, ja ei jattanyt yhtaan ainoaa henkea Jerobeamin huoneesta, siihenasti etta han havitti hanen, Herran sanan jalkeen, joka oli sanottu hanen palvelialtansa Ahialta Silosta,	</div>
 
-<div class="versenum">30.</div> Jerobeamin syntein tahden, jotka han teki, ja jolla han saatti Israelin syntia tekemaan, silla vihoittamisella, jolla han vihaan kehoitti Herran Israelin Jumalan.	
+<div class="theverse"><div class="versenum">30.</div> Jerobeamin syntein tahden, jotka han teki, ja jolla han saatti Israelin syntia tekemaan, silla vihoittamisella, jolla han vihaan kehoitti Herran Israelin Jumalan.	</div>
 
-<div class="versenum">31.</div> Mita enempi Nadabista on sanomista ja kaikista hanen toistansa: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	
+<div class="theverse"><div class="versenum">31.</div> Mita enempi Nadabista on sanomista ja kaikista hanen toistansa: eiko se ole kirjoitettu Israelin kuningasten aikakirjassa?	</div>
 
-<div class="versenum">32.</div> Mutta Asa ja Baesa Israelin kuningas sotivat keskenansa kaiken ikansa.	
+<div class="theverse"><div class="versenum">32.</div> Mutta Asa ja Baesa Israelin kuningas sotivat keskenansa kaiken ikansa.	</div>
 
-<div class="versenum">33.</div> Kolmantena Asan Juudan kuninkaan vuonna oli Baesa Ahian poika koko Israelin kuningas Tirtsassa, neljakolmattakymmenta ajastaikaa.	
+<div class="theverse"><div class="versenum">33.</div> Kolmantena Asan Juudan kuninkaan vuonna oli Baesa Ahian poika koko Israelin kuningas Tirtsassa, neljakolmattakymmenta ajastaikaa.	</div>
 
-<div class="versenum">34.</div> Ja han teki pahaa Herran edessa, ja vaelsi Jerobeamin teilla ja hanen synneissansa, joilla han saatti Israelin syntia tekemaan.	
+<div class="theverse"><div class="versenum">34.</div> Ja han teki pahaa Herran edessa, ja vaelsi Jerobeamin teilla ja hanen synneissansa, joilla han saatti Israelin syntia tekemaan.	</div>
 </body>
 </html>

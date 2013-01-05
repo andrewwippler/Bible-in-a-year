@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">Jesajan 41	</div>
 	
-<div class="versenum">1.</div> Luodot olkaan aaneti minun edessani, ja kansa vahvistukoon; astukaan edes ja puhukaan: kaykaamme oikeudelle toinen toisemme kanssa.	
+<div class="theverse"><div class="versenum">1.</div> Luodot olkaan aaneti minun edessani, ja kansa vahvistukoon; astukaan edes ja puhukaan: kaykaamme oikeudelle toinen toisemme kanssa.	</div>
 
-<div class="versenum">2.</div> Kuka on herattanyt vanhurskaan idasta? kuka hanen kutsui kaymaan? kuka antoi pakanat ja kuninkaat hanen eteensa, etta han tuli voimalliseksi heidan paallensa, ja antoi heidan hanen miekallensa niinkuin tomun, ja hanen joutsellensa niinkuin akanat, jotka hajoitetaan?	
+<div class="theverse"><div class="versenum">2.</div> Kuka on herattanyt vanhurskaan idasta? kuka hanen kutsui kaymaan? kuka antoi pakanat ja kuninkaat hanen eteensa, etta han tuli voimalliseksi heidan paallensa, ja antoi heidan hanen miekallensa niinkuin tomun, ja hanen joutsellensa niinkuin akanat, jotka hajoitetaan?	</div>
 
-<div class="versenum">3.</div> Ja han ajoi heita takaa, ja paasi rauhassa sita tieta, jota ei hanen jalkansa ennen kayneet.	
+<div class="theverse"><div class="versenum">3.</div> Ja han ajoi heita takaa, ja paasi rauhassa sita tieta, jota ei hanen jalkansa ennen kayneet.	</div>
 
-<div class="versenum">4.</div> Kuka tekee ja toimittaa sen, ja kutsuu sukukunnat alusta? Mina Herra olen ensimainen, niin myos viimeinen, itse mina.	
+<div class="theverse"><div class="versenum">4.</div> Kuka tekee ja toimittaa sen, ja kutsuu sukukunnat alusta? Mina Herra olen ensimainen, niin myos viimeinen, itse mina.	</div>
 
-<div class="versenum">5.</div> Kuin luodot nakivat sen, pelkasivat he, ja maan aaret peljastyivat; he lahestyivat ja astuivat edes,	
+<div class="theverse"><div class="versenum">5.</div> Kuin luodot nakivat sen, pelkasivat he, ja maan aaret peljastyivat; he lahestyivat ja astuivat edes,	</div>
 
-<div class="versenum">6.</div> Auttivat toinen toistansa, ja sanoivat lahimmaisellensa: ole hyvassa turvassa.	
+<div class="theverse"><div class="versenum">6.</div> Auttivat toinen toistansa, ja sanoivat lahimmaisellensa: ole hyvassa turvassa.	</div>
 
-<div class="versenum">7.</div> Puuseppa rohkaisi hopiaseppaa, joka tasoitti vasaralla alasimen paalla, ja sanoi: kylla se pysyy, ja he vahvistivat sen nauloilla, ettei se sinne tanne huljuisi.	
+<div class="theverse"><div class="versenum">7.</div> Puuseppa rohkaisi hopiaseppaa, joka tasoitti vasaralla alasimen paalla, ja sanoi: kylla se pysyy, ja he vahvistivat sen nauloilla, ettei se sinne tanne huljuisi.	</div>
 
-<div class="versenum">8.</div> Mutta sina Israel, minun palveliani Jakob, jonka mina olen valinnut, sina Abrahamin minun ystavani siemen.	
+<div class="theverse"><div class="versenum">8.</div> Mutta sina Israel, minun palveliani Jakob, jonka mina olen valinnut, sina Abrahamin minun ystavani siemen.	</div>
 
-<div class="versenum">9.</div> Jonka mina olen ottanut maailman aaresta, ja olen sinun kutsunut hanen voimallisistansa, ja sanoin sinulle: minun palveliani sina olet; silla mina valitsin sinun, ja en hylkaa sinua;	
+<div class="theverse"><div class="versenum">9.</div> Jonka mina olen ottanut maailman aaresta, ja olen sinun kutsunut hanen voimallisistansa, ja sanoin sinulle: minun palveliani sina olet; silla mina valitsin sinun, ja en hylkaa sinua;	</div>
 
-<div class="versenum">10.</div> Ala pelkaa, silla mina olen sinun kanssas; ala harhaile; silla mina olen sinun Jumalas: mina vahvistan sinun, mina autan myos sinua, ja tuen myos sinun vanhurskauteni oikialla kadella.	
+<div class="theverse"><div class="versenum">10.</div> Ala pelkaa, silla mina olen sinun kanssas; ala harhaile; silla mina olen sinun Jumalas: mina vahvistan sinun, mina autan myos sinua, ja tuen myos sinun vanhurskauteni oikialla kadella.	</div>
 
-<div class="versenum">11.</div> Katso, kaikki ne jotka ovat ankarat sinua vastaan, pitaa hapiaan tuleman ja hapeaman; ja ne miehet, jotka sinun kanssas riitelevat, pitaa joutuman niinkuin tyhjaksi ja hukkuman;	
+<div class="theverse"><div class="versenum">11.</div> Katso, kaikki ne jotka ovat ankarat sinua vastaan, pitaa hapiaan tuleman ja hapeaman; ja ne miehet, jotka sinun kanssas riitelevat, pitaa joutuman niinkuin tyhjaksi ja hukkuman;	</div>
 
-<div class="versenum">12.</div> Niin etta sinun pitaa kysyman heita, ja ei loytaman. Ne miehet, jotka sinun kanssas riitelevat, pitaa tuleman niinkuin ei mitaan, ja ne miehet, jotka sotivat sinua vastaan, pitaa saaman loppunsa.	
+<div class="theverse"><div class="versenum">12.</div> Niin etta sinun pitaa kysyman heita, ja ei loytaman. Ne miehet, jotka sinun kanssas riitelevat, pitaa tuleman niinkuin ei mitaan, ja ne miehet, jotka sotivat sinua vastaan, pitaa saaman loppunsa.	</div>
 
-<div class="versenum">13.</div> Silla mina olen Herra sinun Jumalas, joka tartun sinun oikiaan katees ja sanon sinulle: ala pelkaa, mina autan sinua.	
+<div class="theverse"><div class="versenum">13.</div> Silla mina olen Herra sinun Jumalas, joka tartun sinun oikiaan katees ja sanon sinulle: ala pelkaa, mina autan sinua.	</div>
 
-<div class="versenum">14.</div> Ala siis pelkaa, sina mato Jakob, te vaha joukko Israel, mina autan sinua, sanoo Herra ja sinun vapahtajas, Israelin Pyha.	
+<div class="theverse"><div class="versenum">14.</div> Ala siis pelkaa, sina mato Jakob, te vaha joukko Israel, mina autan sinua, sanoo Herra ja sinun vapahtajas, Israelin Pyha.	</div>
 
-<div class="versenum">15.</div> Katso, mina olen sinun tehnyt uudeksi teravaksi rautaiseksi varstaksi, etta sina tapat vuoria, ja muserrat ne, ja teet kukkulat niinkuin akanaksi.	
+<div class="theverse"><div class="versenum">15.</div> Katso, mina olen sinun tehnyt uudeksi teravaksi rautaiseksi varstaksi, etta sina tapat vuoria, ja muserrat ne, ja teet kukkulat niinkuin akanaksi.	</div>
 
-<div class="versenum">16.</div> Sinun pitaa hajoittaman heita, niin etta tuuli vie heidat pois, ja tuulispaa viskoo heidat sinne ja tanne; mutta sina iloitset Herrassa, ja kerskaat Israelin Pyhasta.	
+<div class="theverse"><div class="versenum">16.</div> Sinun pitaa hajoittaman heita, niin etta tuuli vie heidat pois, ja tuulispaa viskoo heidat sinne ja tanne; mutta sina iloitset Herrassa, ja kerskaat Israelin Pyhasta.	</div>
 
-<div class="versenum">17.</div> Raadolliset ja koyhat etsivat vetta; ja ei ole; heidan kielensa kuivettuu janosta; mutta mina, Herra, tahdon heita kuulla, mina Israelin Jumala en tahdo heita hyljata.	
+<div class="theverse"><div class="versenum">17.</div> Raadolliset ja koyhat etsivat vetta; ja ei ole; heidan kielensa kuivettuu janosta; mutta mina, Herra, tahdon heita kuulla, mina Israelin Jumala en tahdo heita hyljata.	</div>
 
-<div class="versenum">18.</div> Vaan mina avaan virrat korkeilla paikoilla, ja lahteet keskella ketoja; mina teen korven vesilammikoksi ja kuivan maan luontolahteiksi.	
+<div class="theverse"><div class="versenum">18.</div> Vaan mina avaan virrat korkeilla paikoilla, ja lahteet keskella ketoja; mina teen korven vesilammikoksi ja kuivan maan luontolahteiksi.	</div>
 
-<div class="versenum">19.</div> Mina annan korvessa sedripuita, sittimipuita, myrtteja, ja oljypuita; mina annan kedolla honkia, bookeja ja buksipuita ynna,	
+<div class="theverse"><div class="versenum">19.</div> Mina annan korvessa sedripuita, sittimipuita, myrtteja, ja oljypuita; mina annan kedolla honkia, bookeja ja buksipuita ynna,	</div>
 
-<div class="versenum">20.</div> Nahtaa, tuta ja ymmartaa ja huomattaa, etta Herran kasi on namat tehnyt, ja Israelin Pyha on namat luonut.	
+<div class="theverse"><div class="versenum">20.</div> Nahtaa, tuta ja ymmartaa ja huomattaa, etta Herran kasi on namat tehnyt, ja Israelin Pyha on namat luonut.	</div>
 
-<div class="versenum">21.</div> Antakaat siis teidan asianne tulla edes, sanoo Herra; antakaat teidan vakevanne tulla edes, sanoo Jakobin kuningas.	
+<div class="theverse"><div class="versenum">21.</div> Antakaat siis teidan asianne tulla edes, sanoo Herra; antakaat teidan vakevanne tulla edes, sanoo Jakobin kuningas.	</div>
 
-<div class="versenum">22.</div> Anna heidan astua edes ja ilmoittaa meille tulevaisia asioita, ilmoittakaat ja ennustakaat jotain edella, ja me tahdomme ottaa sydamellemme vaarin ja ajatella, kuinka tastedes tuleva on, eli antakaat meidan kuulla, mita tuleman pitaa.	
+<div class="theverse"><div class="versenum">22.</div> Anna heidan astua edes ja ilmoittaa meille tulevaisia asioita, ilmoittakaat ja ennustakaat jotain edella, ja me tahdomme ottaa sydamellemme vaarin ja ajatella, kuinka tastedes tuleva on, eli antakaat meidan kuulla, mita tuleman pitaa.	</div>
 
-<div class="versenum">23.</div> Ilmoittakaat, mita tastedes on tuleva, niin me ymmarramme teidan olevan jumalat; tehkaat hyvaa eli pahaa, niin me puhumme siita ja katselemme ynna.	
+<div class="theverse"><div class="versenum">23.</div> Ilmoittakaat, mita tastedes on tuleva, niin me ymmarramme teidan olevan jumalat; tehkaat hyvaa eli pahaa, niin me puhumme siita ja katselemme ynna.	</div>
 
-<div class="versenum">24.</div> Katso, te olette tyhjasta, ja teidan tekonne on myos tyhjasta; ja joka teita valitsee, se on kauhistus.	
+<div class="theverse"><div class="versenum">24.</div> Katso, te olette tyhjasta, ja teidan tekonne on myos tyhjasta; ja joka teita valitsee, se on kauhistus.	</div>
 
-<div class="versenum">25.</div> Mutta mina heratan yhden pohjasta, ja han tulee; idasta han on heille saarnaava minun nimeeni; ja han kay voimallisten paalla niinkuin saven, ja sotkuu savea niinkuin savenvalaja.	
+<div class="theverse"><div class="versenum">25.</div> Mutta mina heratan yhden pohjasta, ja han tulee; idasta han on heille saarnaava minun nimeeni; ja han kay voimallisten paalla niinkuin saven, ja sotkuu savea niinkuin savenvalaja.	</div>
 
-<div class="versenum">26.</div> Kuka taitaa jotain ilmoittaa alusta, etta me ymmartaisimme? eli ennustaa edella, etta me sanoa mahtaisimme: sina olet vanhurskas. Mutta ei tassa ole yhtaan ilmoittajaa, ei yhtaan joka jotain antaa kuulla, ei yhtaan joka teidan sanojanne kuulee.	
+<div class="theverse"><div class="versenum">26.</div> Kuka taitaa jotain ilmoittaa alusta, etta me ymmartaisimme? eli ennustaa edella, etta me sanoa mahtaisimme: sina olet vanhurskas. Mutta ei tassa ole yhtaan ilmoittajaa, ei yhtaan joka jotain antaa kuulla, ei yhtaan joka teidan sanojanne kuulee.	</div>
 
-<div class="versenum">27.</div> Mina olen ensimainen, joka sanon Zionille; katso, siella on se; ja tahdon antaa Jerusalemille suloisen saarnaajan.	
+<div class="theverse"><div class="versenum">27.</div> Mina olen ensimainen, joka sanon Zionille; katso, siella on se; ja tahdon antaa Jerusalemille suloisen saarnaajan.	</div>
 
-<div class="versenum">28.</div> Mutta mina katselen, ei siella ole ketaan, ja katson heidan keskellansa, mutta ei siella ole yhtaan neuvonantajaa; mina kysyn heilta, ja heidan pitais vastaaman minua.	
+<div class="theverse"><div class="versenum">28.</div> Mutta mina katselen, ei siella ole ketaan, ja katson heidan keskellansa, mutta ei siella ole yhtaan neuvonantajaa; mina kysyn heilta, ja heidan pitais vastaaman minua.	</div>
 
-<div class="versenum">29.</div> Katso, se on kaikki vaaryys, heidan tyonsa on turha; heidan epajumalansa ovat tuuli ja tyhjyys.	
+<div class="theverse"><div class="versenum">29.</div> Katso, se on kaikki vaaryys, heidan tyonsa on turha; heidan epajumalansa ovat tuuli ja tyhjyys.	</div>
 </body>
 </html>

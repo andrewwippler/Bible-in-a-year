@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">Efesolaisille 5	</div>
 	
-<div class="versenum">1.</div> Niin olkaat siis Jumalan seuraajat, niinkuin rakkaat lapset,	
+<div class="theverse"><div class="versenum">1.</div> Niin olkaat siis Jumalan seuraajat, niinkuin rakkaat lapset,	</div>
 
-<div class="versenum">2.</div> Ja vaeltakaat rakkaudessa, niinkuin myos Kristus meita rakasti ja antoi itsensa ulos meidan edestamme lahjaksi, uhriksi ja Jumalalle makiaksi hajuksi.	
+<div class="theverse"><div class="versenum">2.</div> Ja vaeltakaat rakkaudessa, niinkuin myos Kristus meita rakasti ja antoi itsensa ulos meidan edestamme lahjaksi, uhriksi ja Jumalalle makiaksi hajuksi.	</div>
 
-<div class="versenum">3.</div> Mutta huoruutta ja kaikkea riettautta eli ahneutta alkaat antako teidan seassanne mainitakaan, niinkuin pyhain sopii,	
+<div class="theverse"><div class="versenum">3.</div> Mutta huoruutta ja kaikkea riettautta eli ahneutta alkaat antako teidan seassanne mainitakaan, niinkuin pyhain sopii,	</div>
 
-<div class="versenum">4.</div> Ja hapiallisia sanoja ja hulluja puheita eli jaarituksia, jotka ei mihinkaan kelpaa, vaan paremmin kiitossanoja.	
+<div class="theverse"><div class="versenum">4.</div> Ja hapiallisia sanoja ja hulluja puheita eli jaarituksia, jotka ei mihinkaan kelpaa, vaan paremmin kiitossanoja.	</div>
 
-<div class="versenum">5.</div> Silla se te tietakaat, ettei yksikaan huorintekia, taikka saastainen, eli ahne, joka epajumalan palvelia on, ole Kristuksen ja Jumalan valtakunnan perillinen.	
+<div class="theverse"><div class="versenum">5.</div> Silla se te tietakaat, ettei yksikaan huorintekia, taikka saastainen, eli ahne, joka epajumalan palvelia on, ole Kristuksen ja Jumalan valtakunnan perillinen.	</div>
 
-<div class="versenum">6.</div> Alkaat antako yhdenkaan pettaa teitanne turhilla puheilla; silla sentahden Jumalan viha epauskoisten paalle tulee.	
+<div class="theverse"><div class="versenum">6.</div> Alkaat antako yhdenkaan pettaa teitanne turhilla puheilla; silla sentahden Jumalan viha epauskoisten paalle tulee.	</div>
 
-<div class="versenum">7.</div> Alkaat sentahden olko heidan osaveljensa.	
+<div class="theverse"><div class="versenum">7.</div> Alkaat sentahden olko heidan osaveljensa.	</div>
 
-<div class="versenum">8.</div> Silla muinen te olitte pimeys, mutta nyt te olette valkeus Herrassa. Vaeltakaat niinkuin valkeuden lapset;	
+<div class="theverse"><div class="versenum">8.</div> Silla muinen te olitte pimeys, mutta nyt te olette valkeus Herrassa. Vaeltakaat niinkuin valkeuden lapset;	</div>
 
-<div class="versenum">9.</div> (Silla Hengen hedelma on kaikessa hyvyydessa ja vanhurskaudessa ja totuudessa,)	
+<div class="theverse"><div class="versenum">9.</div> (Silla Hengen hedelma on kaikessa hyvyydessa ja vanhurskaudessa ja totuudessa,)	</div>
 
-<div class="versenum">10.</div> Ja koetelkaat, mika Herralle otollinen on.	
+<div class="theverse"><div class="versenum">10.</div> Ja koetelkaat, mika Herralle otollinen on.	</div>
 
-<div class="versenum">11.</div> Alkaat olko osalliset pimeyden hedelmattomissa toissa, vaan paremmin nuhdelkaat.	
+<div class="theverse"><div class="versenum">11.</div> Alkaat olko osalliset pimeyden hedelmattomissa toissa, vaan paremmin nuhdelkaat.	</div>
 
-<div class="versenum">12.</div> Silla mita salaa heilta tapahtuu, se on hapia sanoakin;	
+<div class="theverse"><div class="versenum">12.</div> Silla mita salaa heilta tapahtuu, se on hapia sanoakin;	</div>
 
-<div class="versenum">13.</div> Mutta kaikki ne ilmi tulevat, kuin he valkeudelta rangaistaan; silla kaikki, mika ilmi tulee, se on valkeus.	
+<div class="theverse"><div class="versenum">13.</div> Mutta kaikki ne ilmi tulevat, kuin he valkeudelta rangaistaan; silla kaikki, mika ilmi tulee, se on valkeus.	</div>
 
-<div class="versenum">14.</div> Sentahden han sanoo: heraja sina, joka makaat, ja nouse kuolleista, niin Kristus sinua valaisee.	
+<div class="theverse"><div class="versenum">14.</div> Sentahden han sanoo: heraja sina, joka makaat, ja nouse kuolleista, niin Kristus sinua valaisee.	</div>
 
-<div class="versenum">15.</div> Niin katsokaat, etta te visusti vaellatte, ei niinkuin tyhmat, vaan niinkuin viisaat.	
+<div class="theverse"><div class="versenum">15.</div> Niin katsokaat, etta te visusti vaellatte, ei niinkuin tyhmat, vaan niinkuin viisaat.	</div>
 
-<div class="versenum">16.</div> Ja hankitkaat teitanne ajallansa; silla aika on paha.	
+<div class="theverse"><div class="versenum">16.</div> Ja hankitkaat teitanne ajallansa; silla aika on paha.	</div>
 
-<div class="versenum">17.</div> Alkaat sentahden olko taitamattomat, vaan ymmartavaiset, mika Herran tahto on.	
+<div class="theverse"><div class="versenum">17.</div> Alkaat sentahden olko taitamattomat, vaan ymmartavaiset, mika Herran tahto on.	</div>
 
-<div class="versenum">18.</div> Ja alkaat juopuko viinasta, josta paha meno tulee, vaan olkaat taytetyt (Pyhalla) Hengella.	
+<div class="theverse"><div class="versenum">18.</div> Ja alkaat juopuko viinasta, josta paha meno tulee, vaan olkaat taytetyt (Pyhalla) Hengella.	</div>
 
-<div class="versenum">19.</div> Ja puhukaat keskenanne psalmeilla, ja kiitosvirsilla, ja hengellisilla lauluilla, veisaten ja soittain Herralle teidan sydamessanne,	
+<div class="theverse"><div class="versenum">19.</div> Ja puhukaat keskenanne psalmeilla, ja kiitosvirsilla, ja hengellisilla lauluilla, veisaten ja soittain Herralle teidan sydamessanne,	</div>
 
-<div class="versenum">20.</div> Kiittain aina Jumalaa ja Isaa, jokaisen edesta, meidan Herran Jesuksen Kristuksen nimeen.	
+<div class="theverse"><div class="versenum">20.</div> Kiittain aina Jumalaa ja Isaa, jokaisen edesta, meidan Herran Jesuksen Kristuksen nimeen.	</div>
 
-<div class="versenum">21.</div> Ja olkaat toinen toisellenne alamaiset Jumalan pelvossa.	
+<div class="theverse"><div class="versenum">21.</div> Ja olkaat toinen toisellenne alamaiset Jumalan pelvossa.	</div>
 
-<div class="versenum">22.</div> Vaimot olkaat omille miehillenne alamaiset niinkuin Herralle.	
+<div class="theverse"><div class="versenum">22.</div> Vaimot olkaat omille miehillenne alamaiset niinkuin Herralle.	</div>
 
-<div class="versenum">23.</div> Silla mies on vaimon paa, niinkuin Kristus on seurakunnan paa, ja han on ruumiin vapahtaja.	
+<div class="theverse"><div class="versenum">23.</div> Silla mies on vaimon paa, niinkuin Kristus on seurakunnan paa, ja han on ruumiin vapahtaja.	</div>
 
-<div class="versenum">24.</div> Mutta niinkuin seurakunta on Kristukselle alamainen, niin myos vaimot pitaa miehillensa kaikissa alamaiset oleman.	
+<div class="theverse"><div class="versenum">24.</div> Mutta niinkuin seurakunta on Kristukselle alamainen, niin myos vaimot pitaa miehillensa kaikissa alamaiset oleman.	</div>
 
-<div class="versenum">25.</div> Miehet, rakastakaat teidan vaimojanne, niinkuin myos Kristus seurakuntaa rakasti ja antoi ulos itsensa hanen edestansa,	
+<div class="theverse"><div class="versenum">25.</div> Miehet, rakastakaat teidan vaimojanne, niinkuin myos Kristus seurakuntaa rakasti ja antoi ulos itsensa hanen edestansa,	</div>
 
-<div class="versenum">26.</div> Etta han sen pyhittais, ja on sen jo puhdistanut veden pesossa sanan kautta:	
+<div class="theverse"><div class="versenum">26.</div> Etta han sen pyhittais, ja on sen jo puhdistanut veden pesossa sanan kautta:	</div>
 
-<div class="versenum">27.</div> Etta han saattais itsellensa kunniallisen seurakunnan, jolla ei saastaisuutta eika ryppya ole eli jotakuta muuta senkaltaista, vaan etta han pyha ja laittamatoin olis.	
+<div class="theverse"><div class="versenum">27.</div> Etta han saattais itsellensa kunniallisen seurakunnan, jolla ei saastaisuutta eika ryppya ole eli jotakuta muuta senkaltaista, vaan etta han pyha ja laittamatoin olis.	</div>
 
-<div class="versenum">28.</div> Miehet pitaa vaimojansa rakastaman niinkuin omia ruumiitansa; joka vaimoansa rakastaa, se rakastaa itsiansa.	
+<div class="theverse"><div class="versenum">28.</div> Miehet pitaa vaimojansa rakastaman niinkuin omia ruumiitansa; joka vaimoansa rakastaa, se rakastaa itsiansa.	</div>
 
-<div class="versenum">29.</div> Silla ei yksikaan ole omaa lihaansa koskaan vihannut, vaan elattaa ja holhoo sita, niinkuin myos Herra seurakuntaa.	
+<div class="theverse"><div class="versenum">29.</div> Silla ei yksikaan ole omaa lihaansa koskaan vihannut, vaan elattaa ja holhoo sita, niinkuin myos Herra seurakuntaa.	</div>
 
-<div class="versenum">30.</div> Silla me olemme hanen ruumiinsa jasenet, hanen lihastansa ja luistansa.	
+<div class="theverse"><div class="versenum">30.</div> Silla me olemme hanen ruumiinsa jasenet, hanen lihastansa ja luistansa.	</div>
 
-<div class="versenum">31.</div> Sentahden pitaa ihmisen antaman ylon isansa ja aitinsa, ja vaimoonsa sidottu oleman, ja ne kaksi tulevat yhdeksi lihaksi.	
+<div class="theverse"><div class="versenum">31.</div> Sentahden pitaa ihmisen antaman ylon isansa ja aitinsa, ja vaimoonsa sidottu oleman, ja ne kaksi tulevat yhdeksi lihaksi.	</div>
 
-<div class="versenum">32.</div> Tama salaisuus on suuri; mutta mina puhun Kristuksesta ja seurakunnasta.	
+<div class="theverse"><div class="versenum">32.</div> Tama salaisuus on suuri; mutta mina puhun Kristuksesta ja seurakunnasta.	</div>
 
-<div class="versenum">33.</div> Kuitenkin rakastakaan myos kukin teista vaimoansa niinkuin itsiansa; mutta peljatkoon vaimo miestansa.	
+<div class="theverse"><div class="versenum">33.</div> Kuitenkin rakastakaan myos kukin teista vaimoansa niinkuin itsiansa; mutta peljatkoon vaimo miestansa.	</div>
 </body>
 </html>

@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Valitusvirret 5	</div>
 	
-<div class="versenum">1.</div> Muista, Herra, kuinka meille tapahtui: katso ja nae meidan ylonkatsettamme.	
+<div class="theverse"><div class="versenum">1.</div> Muista, Herra, kuinka meille tapahtui: katso ja nae meidan ylonkatsettamme.	</div>
 
-<div class="versenum">2.</div> Meidan perintomme on muukalaisten osaksi tullut, ja huoneemme ulkonaisten omaksi.	
+<div class="theverse"><div class="versenum">2.</div> Meidan perintomme on muukalaisten osaksi tullut, ja huoneemme ulkonaisten omaksi.	</div>
 
-<div class="versenum">3.</div> Me olemme orvot ilman isaa, ja aitimme ovat niinkuin lesket.	
+<div class="theverse"><div class="versenum">3.</div> Me olemme orvot ilman isaa, ja aitimme ovat niinkuin lesket.	</div>
 
-<div class="versenum">4.</div> Vetta, joka meidan omamme oli, me joimme rahalla, omat halot me ostimme hinnalla.	
+<div class="theverse"><div class="versenum">4.</div> Vetta, joka meidan omamme oli, me joimme rahalla, omat halot me ostimme hinnalla.	</div>
 
-<div class="versenum">5.</div> kaulallamme me vaivaa karsimme; ja ehka me jo vasyneet olimme, ei kuitenkaan meille lepoa annettu.	
+<div class="theverse"><div class="versenum">5.</div> kaulallamme me vaivaa karsimme; ja ehka me jo vasyneet olimme, ei kuitenkaan meille lepoa annettu.	</div>
 
-<div class="versenum">6.</div> Meidan piti Egyptin ja Assyrian alle meitamme antaman, etta me sittekin leipaa ravinnoksemme saaneet olisimme.	
+<div class="theverse"><div class="versenum">6.</div> Meidan piti Egyptin ja Assyrian alle meitamme antaman, etta me sittekin leipaa ravinnoksemme saaneet olisimme.	</div>
 
-<div class="versenum">7.</div> Meidan isamme ovat syntia tehneet, ja ei enaan ole kasissa; ja meidan pitaa heidan pahoja tekojansa nautitseman.	
+<div class="theverse"><div class="versenum">7.</div> Meidan isamme ovat syntia tehneet, ja ei enaan ole kasissa; ja meidan pitaa heidan pahoja tekojansa nautitseman.	</div>
 
-<div class="versenum">8.</div> Orjat meita vallitsevat; ja ei ole kenkaan, joka meita heidan kasistansa pelastaa.	
+<div class="theverse"><div class="versenum">8.</div> Orjat meita vallitsevat; ja ei ole kenkaan, joka meita heidan kasistansa pelastaa.	</div>
 
-<div class="versenum">9.</div> Meidan pitaa hakeman leipamme hengen paolla, miekan edessa korvessa.	
+<div class="theverse"><div class="versenum">9.</div> Meidan pitaa hakeman leipamme hengen paolla, miekan edessa korvessa.	</div>
 
-<div class="versenum">10.</div> Meidan ihomme on poltettu, niinkuin patsissa, hirmuisen nalan tahden.	
+<div class="theverse"><div class="versenum">10.</div> Meidan ihomme on poltettu, niinkuin patsissa, hirmuisen nalan tahden.	</div>
 
-<div class="versenum">11.</div> He ovat vaimot Zionissa raiskanneet ja neitseet Juudan kaupungeissa.	
+<div class="theverse"><div class="versenum">11.</div> He ovat vaimot Zionissa raiskanneet ja neitseet Juudan kaupungeissa.	</div>
 
-<div class="versenum">12.</div> Ruhtinaat he ovat hirttaneet, ja vanhimpia ei he kunnioittaneet.	
+<div class="theverse"><div class="versenum">12.</div> Ruhtinaat he ovat hirttaneet, ja vanhimpia ei he kunnioittaneet.	</div>
 
-<div class="versenum">13.</div> Nuorukaiset piti jauhaman, ja piskuisten taytyi puita kantaissansa kompastua.	
+<div class="theverse"><div class="versenum">13.</div> Nuorukaiset piti jauhaman, ja piskuisten taytyi puita kantaissansa kompastua.	</div>
 
-<div class="versenum">14.</div> Vanhat puuttuivat porteista, ja nuorukaiset ei enaan kanteletta soita.	
+<div class="theverse"><div class="versenum">14.</div> Vanhat puuttuivat porteista, ja nuorukaiset ei enaan kanteletta soita.	</div>
 
-<div class="versenum">15.</div> Meidan sydamemme ilo loppui, meidan tanssimme on kaantynyt murheeksi.	
+<div class="theverse"><div class="versenum">15.</div> Meidan sydamemme ilo loppui, meidan tanssimme on kaantynyt murheeksi.	</div>
 
-<div class="versenum">16.</div> Meidan paastamme on kruunu pudonnut; voi nyt meita, etta me niin olemme syntia tehneet!	
+<div class="theverse"><div class="versenum">16.</div> Meidan paastamme on kruunu pudonnut; voi nyt meita, etta me niin olemme syntia tehneet!	</div>
 
-<div class="versenum">17.</div> Sentahden on myos sydamemme murheissansa; niiden tahden ovat meidan silmamme pimenneet;	
+<div class="theverse"><div class="versenum">17.</div> Sentahden on myos sydamemme murheissansa; niiden tahden ovat meidan silmamme pimenneet;	</div>
 
-<div class="versenum">18.</div> Zionin vuoren tahden, etta se niin havitetty on, etta ketut hanessa juoksentelevat.	
+<div class="theverse"><div class="versenum">18.</div> Zionin vuoren tahden, etta se niin havitetty on, etta ketut hanessa juoksentelevat.	</div>
 
-<div class="versenum">19.</div> Mutta sina Herra, joka ijankaikkisesti olet, ja istuimes ijasta ikaan!	
+<div class="theverse"><div class="versenum">19.</div> Mutta sina Herra, joka ijankaikkisesti olet, ja istuimes ijasta ikaan!	</div>
 
-<div class="versenum">20.</div> Miksis meidat ijankaikkisesti unohdat, ja niin kauvan meita perati hylkaat?	
+<div class="theverse"><div class="versenum">20.</div> Miksis meidat ijankaikkisesti unohdat, ja niin kauvan meita perati hylkaat?	</div>
 
-<div class="versenum">21.</div> Palauta, Herra, meita jalleen sinun tykos, etta me taas palaisimme; uudista meidan paivamme niinkuin ne alusta olivat.	
+<div class="theverse"><div class="versenum">21.</div> Palauta, Herra, meita jalleen sinun tykos, etta me taas palaisimme; uudista meidan paivamme niinkuin ne alusta olivat.	</div>
 
-<div class="versenum">22.</div> Oletkos meita perati heittanyt pois, ja sangen suuresti vihastunut meidan paallemme?	
+<div class="theverse"><div class="versenum">22.</div> Oletkos meita perati heittanyt pois, ja sangen suuresti vihastunut meidan paallemme?	</div>
 </body>
 </html>

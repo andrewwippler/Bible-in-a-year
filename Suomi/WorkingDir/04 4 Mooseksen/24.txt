@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 24	</div>
 	
-<div class="versenum">1.</div> Koska Bileam naki kelpaavan Herralle, han siunasi Israelia, ei mennyt han pois, niinkuin ennen, etsimaan ilmoitusta, vaan kaansi kasvonsa korpeen pain.	
+<div class="theverse"><div class="versenum">1.</div> Koska Bileam naki kelpaavan Herralle, han siunasi Israelia, ei mennyt han pois, niinkuin ennen, etsimaan ilmoitusta, vaan kaansi kasvonsa korpeen pain.	</div>
 
-<div class="versenum">2.</div> Ja Bileam nosti silmansa ja naki Israelin sioittaneen itsensa sukukuntainsa jalkeen, ja Jumalan henki tuli hanen paallensa.	
+<div class="theverse"><div class="versenum">2.</div> Ja Bileam nosti silmansa ja naki Israelin sioittaneen itsensa sukukuntainsa jalkeen, ja Jumalan henki tuli hanen paallensa.	</div>
 
-<div class="versenum">3.</div> Ja han toi edes puheensa, ja sanoi: naita sanoo Bileam Beorin poika, naita sanoo se mies, jonka silmat avatut ovat.	
+<div class="theverse"><div class="versenum">3.</div> Ja han toi edes puheensa, ja sanoi: naita sanoo Bileam Beorin poika, naita sanoo se mies, jonka silmat avatut ovat.	</div>
 
-<div class="versenum">4.</div> Naita sanoo se, joka kuulee Jumalan puheet, se, joka Kaikkivaltiaan ilmoitukset nakee, joka lankee maahan, ja hanen silmansa avataan.	
+<div class="theverse"><div class="versenum">4.</div> Naita sanoo se, joka kuulee Jumalan puheet, se, joka Kaikkivaltiaan ilmoitukset nakee, joka lankee maahan, ja hanen silmansa avataan.	</div>
 
-<div class="versenum">5.</div> Kuinka kauniit ovat sinun majas, Jakob, ja sinun asumas, Israel?	
+<div class="theverse"><div class="versenum">5.</div> Kuinka kauniit ovat sinun majas, Jakob, ja sinun asumas, Israel?	</div>
 
-<div class="versenum">6.</div> Niinkuin ojat levitetaan, niinkuin yrttitarha virran vieressa, niinkuin aloes, jonka Herra istuttaa, niinkuin sedripuu veden tykona.	
+<div class="theverse"><div class="versenum">6.</div> Niinkuin ojat levitetaan, niinkuin yrttitarha virran vieressa, niinkuin aloes, jonka Herra istuttaa, niinkuin sedripuu veden tykona.	</div>
 
-<div class="versenum">7.</div> Veden pitaa vuotaman hanen amparistansa, ja hanen siemenensa on paljoissa vesissa. Hanen kuninkaansa pitaa oleman korkiamman Agagia, ja hanen valtakuntansa pitaa korotettaman.	
+<div class="theverse"><div class="versenum">7.</div> Veden pitaa vuotaman hanen amparistansa, ja hanen siemenensa on paljoissa vesissa. Hanen kuninkaansa pitaa oleman korkiamman Agagia, ja hanen valtakuntansa pitaa korotettaman.	</div>
 
-<div class="versenum">8.</div> Jumala johdatti hanen Egyptista, hanen vakevyytensa on niinkuin yksisarvisen vakevyys: hanen pitaa nieleman pakanat vihollisensa, ja heidan luunsa murentaman, ja nuolillansa ampuman lavitse.	
+<div class="theverse"><div class="versenum">8.</div> Jumala johdatti hanen Egyptista, hanen vakevyytensa on niinkuin yksisarvisen vakevyys: hanen pitaa nieleman pakanat vihollisensa, ja heidan luunsa murentaman, ja nuolillansa ampuman lavitse.	</div>
 
-<div class="versenum">9.</div> Han pani maata niinkuin tarkka jalopeura, ja niinkuin syomari jalopeura: kuka tohtii herattaa hanta? Siunattu olkoon se, joka sinua siunaa, kirottu olkoon se, joka sinua kiroo.	
+<div class="theverse"><div class="versenum">9.</div> Han pani maata niinkuin tarkka jalopeura, ja niinkuin syomari jalopeura: kuka tohtii herattaa hanta? Siunattu olkoon se, joka sinua siunaa, kirottu olkoon se, joka sinua kiroo.	</div>
 
-<div class="versenum">10.</div> Silloin Balakin viha julmistui Bileamia vastaan, ja loi kasiansa yhteen, ja sanoi hanelle: mina kutsuin sinua kiroomaan vihollisiani, ja katso, sina jo kolmasti taydellisesti siunasit heita.	
+<div class="theverse"><div class="versenum">10.</div> Silloin Balakin viha julmistui Bileamia vastaan, ja loi kasiansa yhteen, ja sanoi hanelle: mina kutsuin sinua kiroomaan vihollisiani, ja katso, sina jo kolmasti taydellisesti siunasit heita.	</div>
 
-<div class="versenum">11.</div> Pakene kohta sialles. Mina ajattelin kunnioittaa sinua suuresti, ja katso, Herra on sen kunnian estanyt sinulta.	
+<div class="theverse"><div class="versenum">11.</div> Pakene kohta sialles. Mina ajattelin kunnioittaa sinua suuresti, ja katso, Herra on sen kunnian estanyt sinulta.	</div>
 
-<div class="versenum">12.</div> Ja Bileam puhui Balakille: enko mina puhunut sanansaattajilles, kuin sina lahetit minun tykoni, sanoen:	
+<div class="theverse"><div class="versenum">12.</div> Ja Bileam puhui Balakille: enko mina puhunut sanansaattajilles, kuin sina lahetit minun tykoni, sanoen:	</div>
 
-<div class="versenum">13.</div> Jos Balak antais minulle huoneensa tayden hopiaa ja kultaa, en mina taida senvuoksi Herran sanaa kayda ylitse, tekemaan hyvaa eli pahaa minun mieleni jalkeen; vaan mita Herra sanoo, sen pitaa myos minun sanoman.	
+<div class="theverse"><div class="versenum">13.</div> Jos Balak antais minulle huoneensa tayden hopiaa ja kultaa, en mina taida senvuoksi Herran sanaa kayda ylitse, tekemaan hyvaa eli pahaa minun mieleni jalkeen; vaan mita Herra sanoo, sen pitaa myos minun sanoman.	</div>
 
-<div class="versenum">14.</div> Ja nyt katso, koska mina menen kansani tyko, niin tule, mina neuvon sinua, mita tama kansa sinun kansalles tekeva on, viimeisella ajalla.	
+<div class="theverse"><div class="versenum">14.</div> Ja nyt katso, koska mina menen kansani tyko, niin tule, mina neuvon sinua, mita tama kansa sinun kansalles tekeva on, viimeisella ajalla.	</div>
 
-<div class="versenum">15.</div> Ja han piti puheen, ja sanoi: nain sanoo Bileam Beorin poika, nain sanoo se mies, jonka silmat avatut ovat.	
+<div class="theverse"><div class="versenum">15.</div> Ja han piti puheen, ja sanoi: nain sanoo Bileam Beorin poika, nain sanoo se mies, jonka silmat avatut ovat.	</div>
 
-<div class="versenum">16.</div> Sen sanoo se, joka kuulee Jumalan puheen, ja se, jolla Ylimmaisen tieto on, joka nakee Kaikkivaltiaan ilmestyksen, joka lankee maahan, ja hanen silmansa avataan:	
+<div class="theverse"><div class="versenum">16.</div> Sen sanoo se, joka kuulee Jumalan puheen, ja se, jolla Ylimmaisen tieto on, joka nakee Kaikkivaltiaan ilmestyksen, joka lankee maahan, ja hanen silmansa avataan:	</div>
 
-<div class="versenum">17.</div> Mina saan nahda hanen, mutta en nyt: mina katselen hanta, vaan en lahelta. Tahti nousee Jakobista, ja valtikka tulee Israelista, ja musertaa Moabin ruhtinaat, ja havittaa kaikki Setin lapset.	
+<div class="theverse"><div class="versenum">17.</div> Mina saan nahda hanen, mutta en nyt: mina katselen hanta, vaan en lahelta. Tahti nousee Jakobista, ja valtikka tulee Israelista, ja musertaa Moabin ruhtinaat, ja havittaa kaikki Setin lapset.	</div>
 
-<div class="versenum">18.</div> Han omistaa Edomin, ja Seir tulee vihollistensa vallan alle, vaan Israel tekee voimallisia toita.	
+<div class="theverse"><div class="versenum">18.</div> Han omistaa Edomin, ja Seir tulee vihollistensa vallan alle, vaan Israel tekee voimallisia toita.	</div>
 
-<div class="versenum">19.</div> Jakobista tulee hallitsia, ja havittaa mita tahteeksi jaanyt on kaupungeista.	
+<div class="theverse"><div class="versenum">19.</div> Jakobista tulee hallitsia, ja havittaa mita tahteeksi jaanyt on kaupungeista.	</div>
 
-<div class="versenum">20.</div> Ja kuin han naki Amalekilaiset, piti han puheen ja sanoi: Amalek ensimainen pakanain seassa, vaan viimeiselta sina perati havitetaan.	
+<div class="theverse"><div class="versenum">20.</div> Ja kuin han naki Amalekilaiset, piti han puheen ja sanoi: Amalek ensimainen pakanain seassa, vaan viimeiselta sina perati havitetaan.	</div>
 
-<div class="versenum">21.</div> Ja kuin han naki Kenilaiset, piti han puheen, ja sanoi: sinun asumises on vahva, ja sina teit pesas kallioon,	
+<div class="theverse"><div class="versenum">21.</div> Ja kuin han naki Kenilaiset, piti han puheen, ja sanoi: sinun asumises on vahva, ja sina teit pesas kallioon,	</div>
 
-<div class="versenum">22.</div> Vaan sina Kain poltetaan, siihenasti kuin Assur vie sinun vankina pois.	
+<div class="theverse"><div class="versenum">22.</div> Vaan sina Kain poltetaan, siihenasti kuin Assur vie sinun vankina pois.	</div>
 
-<div class="versenum">23.</div> Vihdoin piti han puheen, ja sanoi: voi! kuka elaa silloin, kuin vakeva Jumala naita on tekeva?	
+<div class="theverse"><div class="versenum">23.</div> Vihdoin piti han puheen, ja sanoi: voi! kuka elaa silloin, kuin vakeva Jumala naita on tekeva?	</div>
 
-<div class="versenum">24.</div> Ja haahdet Kittimin rannoilta kukistavat Assurin ja kukistavat Eberin, vaan han itse myos hukkuu.	
+<div class="theverse"><div class="versenum">24.</div> Ja haahdet Kittimin rannoilta kukistavat Assurin ja kukistavat Eberin, vaan han itse myos hukkuu.	</div>
 
-<div class="versenum">25.</div> Ja Bileam nousi ja meni matkaansa, ja tuli jalleen siallensa, ja Balak myos meni tietansa myoten.	
+<div class="theverse"><div class="versenum">25.</div> Ja Bileam nousi ja meni matkaansa, ja tuli jalleen siallensa, ja Balak myos meni tietansa myoten.	</div>
 </body>
 </html>

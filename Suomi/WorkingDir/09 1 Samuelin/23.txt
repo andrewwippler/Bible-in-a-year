@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 23	</div>
 	
-<div class="versenum">1.</div> Ja Davidille ilmoitettiin, sanoen: katso, Philistealaiset sotivat Kegilaa vastaan ja ryostavat heidan riihensa.	
+<div class="theverse"><div class="versenum">1.</div> Ja Davidille ilmoitettiin, sanoen: katso, Philistealaiset sotivat Kegilaa vastaan ja ryostavat heidan riihensa.	</div>
 
-<div class="versenum">2.</div> Niin David kysyi Herralta ja sanoi: pitaako minun meneman ja lyoman naita Philistealaisia? Ja Herra sanoi Davidille: mene, lyo Philistealaiset ja vapahda Kegila.	
+<div class="theverse"><div class="versenum">2.</div> Niin David kysyi Herralta ja sanoi: pitaako minun meneman ja lyoman naita Philistealaisia? Ja Herra sanoi Davidille: mene, lyo Philistealaiset ja vapahda Kegila.	</div>
 
-<div class="versenum">3.</div> Ja Davidin miehet sanoivat hanelle: katso, me pelkaamme taalla Juudassa, ja menemme viela Kegilaan Philistealaisten sotajoukon tyko.	
+<div class="theverse"><div class="versenum">3.</div> Ja Davidin miehet sanoivat hanelle: katso, me pelkaamme taalla Juudassa, ja menemme viela Kegilaan Philistealaisten sotajoukon tyko.	</div>
 
-<div class="versenum">4.</div> Niin David taas kysyi Herralta, ja Herra vastasi hanta ja sanoi: nouse ja mene alas Kegilaan; silla mina annan Philistealaiset sinun kasiis.	
+<div class="theverse"><div class="versenum">4.</div> Niin David taas kysyi Herralta, ja Herra vastasi hanta ja sanoi: nouse ja mene alas Kegilaan; silla mina annan Philistealaiset sinun kasiis.	</div>
 
-<div class="versenum">5.</div> Niin David meni ja hanen miehensa Kegilaan, ja soti Philistealaisia vastaan, ja ajoi heidan karjansa pois, ja tappoi heita suurella tapolla; ja niin David vapahti Kegilan asuvaiset.	
+<div class="theverse"><div class="versenum">5.</div> Niin David meni ja hanen miehensa Kegilaan, ja soti Philistealaisia vastaan, ja ajoi heidan karjansa pois, ja tappoi heita suurella tapolla; ja niin David vapahti Kegilan asuvaiset.	</div>
 
-<div class="versenum">6.</div> Mutta kuin Abjatar Ahimelekin poika pakeni Davidin tyko Kegilaan, vei han sinne myotansa paallisvaatteen.	
+<div class="theverse"><div class="versenum">6.</div> Mutta kuin Abjatar Ahimelekin poika pakeni Davidin tyko Kegilaan, vei han sinne myotansa paallisvaatteen.	</div>
 
-<div class="versenum">7.</div> Niin sanottiin Saulille Davidin tulleeksi Kegilaan; ja Saul sanoi: Jumala on antanut hanen minun kasiini, etta han on salvattu, nyt han on tullut kaupunkiin, joka on varustettu porteilla ja teljilla.	
+<div class="theverse"><div class="versenum">7.</div> Niin sanottiin Saulille Davidin tulleeksi Kegilaan; ja Saul sanoi: Jumala on antanut hanen minun kasiini, etta han on salvattu, nyt han on tullut kaupunkiin, joka on varustettu porteilla ja teljilla.	</div>
 
-<div class="versenum">8.</div> Ja Saul kuulutti kaiken kansan sotaan Kegilaan, piirittamaan Davidia miehinensa.	
+<div class="theverse"><div class="versenum">8.</div> Ja Saul kuulutti kaiken kansan sotaan Kegilaan, piirittamaan Davidia miehinensa.	</div>
 
-<div class="versenum">9.</div> Kuin David ymmarsi Saulin aikovan pahaa hanellensa, sanoi han papille Abjatarille: ota paallisvaate.	
+<div class="theverse"><div class="versenum">9.</div> Kuin David ymmarsi Saulin aikovan pahaa hanellensa, sanoi han papille Abjatarille: ota paallisvaate.	</div>
 
-<div class="versenum">10.</div> Ja David sanoi: Herra Israelin Jumala! sinun palvelias on tosin kuullut Saulin aikovan tulla Kegilaan, havittamaan minun tahteni kaupunkia;	
+<div class="theverse"><div class="versenum">10.</div> Ja David sanoi: Herra Israelin Jumala! sinun palvelias on tosin kuullut Saulin aikovan tulla Kegilaan, havittamaan minun tahteni kaupunkia;	</div>
 
-<div class="versenum">11.</div> Antanevatko Kegilan asuvaiset minun hanen kasiinsa? ja tulleeko Saul tanne niinkuin palvelias on kuullut? Herra Israelin Jumala, ilmoita se palvelialles! Ja Herra sanoi: han tulee alas.	
+<div class="theverse"><div class="versenum">11.</div> Antanevatko Kegilan asuvaiset minun hanen kasiinsa? ja tulleeko Saul tanne niinkuin palvelias on kuullut? Herra Israelin Jumala, ilmoita se palvelialles! Ja Herra sanoi: han tulee alas.	</div>
 
-<div class="versenum">12.</div> Ja David sanoi: antanevatko Kegilan asuvaiset minun ja minun vakeni Saulin kasiin? Herra sanoi: antavat.	
+<div class="theverse"><div class="versenum">12.</div> Ja David sanoi: antanevatko Kegilan asuvaiset minun ja minun vakeni Saulin kasiin? Herra sanoi: antavat.	</div>
 
-<div class="versenum">13.</div> Niin David nousi miehinensa, joita oli liki kuusisataa miesta, ja laksivat Kegilasta ja vaelsivat sinne mihinka he vaaeltaa taisivat. Koska Saulille sanottiin Davidin paenneen Kegilasta, lakkasi han sinne menemasta.	
+<div class="theverse"><div class="versenum">13.</div> Niin David nousi miehinensa, joita oli liki kuusisataa miesta, ja laksivat Kegilasta ja vaelsivat sinne mihinka he vaaeltaa taisivat. Koska Saulille sanottiin Davidin paenneen Kegilasta, lakkasi han sinne menemasta.	</div>
 
-<div class="versenum">14.</div> Ja David pysyi korvessa linnoissa, viipyi myos Siphin korven vuorella. Ja Saul etsi hanta joka aika, mutta ei Jumala antanut hanta hanen kasiinsa.	
+<div class="theverse"><div class="versenum">14.</div> Ja David pysyi korvessa linnoissa, viipyi myos Siphin korven vuorella. Ja Saul etsi hanta joka aika, mutta ei Jumala antanut hanta hanen kasiinsa.	</div>
 
-<div class="versenum">15.</div> Ja David naki Saulin lahteneeksi etsimaan hanen henkensa peraan, vaan David pysyi Siphin korvessa, yhdessa metsassa.	
+<div class="theverse"><div class="versenum">15.</div> Ja David naki Saulin lahteneeksi etsimaan hanen henkensa peraan, vaan David pysyi Siphin korvessa, yhdessa metsassa.	</div>
 
-<div class="versenum">16.</div> Niin Jonatan Saulin poika nousi ja meni Davidin tyko metsaan, ja vahvisti hanen katensa Jumalassa,	
+<div class="theverse"><div class="versenum">16.</div> Niin Jonatan Saulin poika nousi ja meni Davidin tyko metsaan, ja vahvisti hanen katensa Jumalassa,	</div>
 
-<div class="versenum">17.</div> Ja sanoi hanelle: ala pelkaa, silla ei minun isani Saulin kasi loyda sinua, ja sina tule Israelin kuninkaaksi, ja mina olen likin sinua; ja sen myos Saul minun isani kylla tietaa.	
+<div class="theverse"><div class="versenum">17.</div> Ja sanoi hanelle: ala pelkaa, silla ei minun isani Saulin kasi loyda sinua, ja sina tule Israelin kuninkaaksi, ja mina olen likin sinua; ja sen myos Saul minun isani kylla tietaa.	</div>
 
-<div class="versenum">18.</div> Ja he molemmat tekivat liiton keskenansa Herran edessa; ja David pysyi metsassa, mutta Jonatan palasi kotiansa.	
+<div class="theverse"><div class="versenum">18.</div> Ja he molemmat tekivat liiton keskenansa Herran edessa; ja David pysyi metsassa, mutta Jonatan palasi kotiansa.	</div>
 
-<div class="versenum">19.</div> Mutta Siphilaiset menivat ylos Saulin tyko Gibeaan ja sanoivat: eiko David ole katketty meidan tykonamme linnoissa metsassa, Hakilan kukkulalla, liki korpea oikialla puolella?	
+<div class="theverse"><div class="versenum">19.</div> Mutta Siphilaiset menivat ylos Saulin tyko Gibeaan ja sanoivat: eiko David ole katketty meidan tykonamme linnoissa metsassa, Hakilan kukkulalla, liki korpea oikialla puolella?	</div>
 
-<div class="versenum">20.</div> Niin tule nyt kuningas kiiruusti alas kaiken sydames himon jalkeen: ja me annamme hanen kuninkaan kasiin.	
+<div class="theverse"><div class="versenum">20.</div> Niin tule nyt kuningas kiiruusti alas kaiken sydames himon jalkeen: ja me annamme hanen kuninkaan kasiin.	</div>
 
-<div class="versenum">21.</div> Ja Saul sanoi: olkaat te siunatut Herrassa, etta te armahditte minun paalleni.	
+<div class="theverse"><div class="versenum">21.</div> Ja Saul sanoi: olkaat te siunatut Herrassa, etta te armahditte minun paalleni.	</div>
 
-<div class="versenum">22.</div> Menkaat siis ja tutkikaat paremmin, etta te saisitte tietaa ja nahda sen paikan, jossa hanen jalkansa ovat, ja kuka hanen siella on nahnyt; silla minulle on han sanottu sangen kavalaksi.	
+<div class="theverse"><div class="versenum">22.</div> Menkaat siis ja tutkikaat paremmin, etta te saisitte tietaa ja nahda sen paikan, jossa hanen jalkansa ovat, ja kuka hanen siella on nahnyt; silla minulle on han sanottu sangen kavalaksi.	</div>
 
-<div class="versenum">23.</div> Tutkistelkaat ja vaotkaat kaikki salaiset paikat, joihin han lymyttaa itsensa, ja tulkaat jalleen minun tykoni, kuin saatte vahvan tiedon; niin mina menen teidan kanssanne. Jos han talla maalla on, niin mina hanen etsin kaikkein tuhanten seasta Juudassa.	
+<div class="theverse"><div class="versenum">23.</div> Tutkistelkaat ja vaotkaat kaikki salaiset paikat, joihin han lymyttaa itsensa, ja tulkaat jalleen minun tykoni, kuin saatte vahvan tiedon; niin mina menen teidan kanssanne. Jos han talla maalla on, niin mina hanen etsin kaikkein tuhanten seasta Juudassa.	</div>
 
-<div class="versenum">24.</div> Ja he nousivat ja menivat Siphiin Saulin edella. Mutta David ja hanen miehensa olivat Maonin korvessa, oikialla puolella korpea, kedolla.	
+<div class="theverse"><div class="versenum">24.</div> Ja he nousivat ja menivat Siphiin Saulin edella. Mutta David ja hanen miehensa olivat Maonin korvessa, oikialla puolella korpea, kedolla.	</div>
 
-<div class="versenum">25.</div> Kuin Saul matkusti sinne vakinensa etsimaan hanta, ja se ilmoitettiin Davidille, meni han kukkulalta alas, ja oli Maonin korvessa. Ja kuin Saul sen kuuli, ajoi han Davidia takaa Maonin korvessa.	
+<div class="theverse"><div class="versenum">25.</div> Kuin Saul matkusti sinne vakinensa etsimaan hanta, ja se ilmoitettiin Davidille, meni han kukkulalta alas, ja oli Maonin korvessa. Ja kuin Saul sen kuuli, ajoi han Davidia takaa Maonin korvessa.	</div>
 
-<div class="versenum">26.</div> Ja Saul meni yhdelta puolelta vuorta, ja David vakinensa toiselta puolelta vuorta. Ja koska David riensi pakenemaan Saulin edesta, piiritti Saul vakinensa Davidin ja hanen vakensa, ottaaksensa heita kiinni.	
+<div class="theverse"><div class="versenum">26.</div> Ja Saul meni yhdelta puolelta vuorta, ja David vakinensa toiselta puolelta vuorta. Ja koska David riensi pakenemaan Saulin edesta, piiritti Saul vakinensa Davidin ja hanen vakensa, ottaaksensa heita kiinni.	</div>
 
-<div class="versenum">27.</div> Mutta sanansaattaja tuli Saulin tyko ja sanoi: kiiruhda sinuas ja tule nopiasti; silla Philistealaiset ovat maalle tulleet.	
+<div class="theverse"><div class="versenum">27.</div> Mutta sanansaattaja tuli Saulin tyko ja sanoi: kiiruhda sinuas ja tule nopiasti; silla Philistealaiset ovat maalle tulleet.	</div>
 
-<div class="versenum">28.</div> Nin Saul palasi ajamasta Davidia takaa ja meni Philistealaisia vastaan; sentahden kutsutaan se paikka SelaMahelkot.	
+<div class="theverse"><div class="versenum">28.</div> Nin Saul palasi ajamasta Davidia takaa ja meni Philistealaisia vastaan; sentahden kutsutaan se paikka SelaMahelkot.	</div>
 
-<div class="versenum">29.</div> (H24:1) Ja David meni sielta ylos ja asui EnGedin linnoissa.	
+<div class="theverse"><div class="versenum">29.</div> (H24:1) Ja David meni sielta ylos ja asui EnGedin linnoissa.	</div>
 </body>
 </html>

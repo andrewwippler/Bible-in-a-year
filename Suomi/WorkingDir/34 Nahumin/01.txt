@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Nahumin 1	</div>
 	
-<div class="versenum">1.</div> Tama on Niniven kuorma, ja Nahumin Elkosilaisen ennustuskirja.	
+<div class="theverse"><div class="versenum">1.</div> Tama on Niniven kuorma, ja Nahumin Elkosilaisen ennustuskirja.	</div>
 
-<div class="versenum">2.</div> Herra on kiivas Jumala ja kostaja, ja Herra on kostaja ja vihainen; Herra on kostaja vihollisiansa vastaan, joka ei vainollisiansa unohda.	
+<div class="theverse"><div class="versenum">2.</div> Herra on kiivas Jumala ja kostaja, ja Herra on kostaja ja vihainen; Herra on kostaja vihollisiansa vastaan, joka ei vainollisiansa unohda.	</div>
 
-<div class="versenum">3.</div> Herra on pitkamielinen ja suuri voimassa, jonka edessa ei kenkaan ole viatoin; Herran tie on tuulessa ja tuulispaassa jonka jalkain tomu pilvi on.	
+<div class="theverse"><div class="versenum">3.</div> Herra on pitkamielinen ja suuri voimassa, jonka edessa ei kenkaan ole viatoin; Herran tie on tuulessa ja tuulispaassa jonka jalkain tomu pilvi on.	</div>
 
-<div class="versenum">4.</div> Joka nuhtelee merta, ja kuivaa sen, ja tekee kaikki virrat kuivaksi; Basan ja Karmel taipuu, ja se naantyy mita Libanonin vuorella kukoistaa.	
+<div class="theverse"><div class="versenum">4.</div> Joka nuhtelee merta, ja kuivaa sen, ja tekee kaikki virrat kuivaksi; Basan ja Karmel taipuu, ja se naantyy mita Libanonin vuorella kukoistaa.	</div>
 
-<div class="versenum">5.</div> Vuoret vapisevat hanen edessansa, ja kukkulat sulavat; maa palaa hanen edessansa, ja maan piiri, ja kaikki, jotka siina asuvat.	
+<div class="theverse"><div class="versenum">5.</div> Vuoret vapisevat hanen edessansa, ja kukkulat sulavat; maa palaa hanen edessansa, ja maan piiri, ja kaikki, jotka siina asuvat.	</div>
 
-<div class="versenum">6.</div> Ja kuka seisoo hanen vihansa edessa? eli kuka voi pysya hanen hirmuisuutensa edessa? hanen vihansa palaa niinkuin tuli, ja kalliot lohkeevat hanen edessansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuka seisoo hanen vihansa edessa? eli kuka voi pysya hanen hirmuisuutensa edessa? hanen vihansa palaa niinkuin tuli, ja kalliot lohkeevat hanen edessansa.	</div>
 
-<div class="versenum">7.</div> Herra on laupias, ja turva hadan aikana; ja tuntee ne, jotka uskaltavat hanen paallensa.	
+<div class="theverse"><div class="versenum">7.</div> Herra on laupias, ja turva hadan aikana; ja tuntee ne, jotka uskaltavat hanen paallensa.	</div>
 
-<div class="versenum">8.</div> Kuin vedenpaisumus juoksee, niin han sen lopettaa; mutta hanen vihollisiansa han vainoo pimeydella.	
+<div class="theverse"><div class="versenum">8.</div> Kuin vedenpaisumus juoksee, niin han sen lopettaa; mutta hanen vihollisiansa han vainoo pimeydella.	</div>
 
-<div class="versenum">9.</div> Mita te ajattelette Herraa vastaan? Han on se, joka kuitenkin tekee lopun; ei ahdistus kahdesti tule.	
+<div class="theverse"><div class="versenum">9.</div> Mita te ajattelette Herraa vastaan? Han on se, joka kuitenkin tekee lopun; ei ahdistus kahdesti tule.	</div>
 
-<div class="versenum">10.</div> Silla niinkuin orjantappurat, jotka sekaseuraisin kasvavat ja kaikkein tuoreimmat ovat, poltetaan niinkuin kuivat korret;	
+<div class="theverse"><div class="versenum">10.</div> Silla niinkuin orjantappurat, jotka sekaseuraisin kasvavat ja kaikkein tuoreimmat ovat, poltetaan niinkuin kuivat korret;	</div>
 
-<div class="versenum">11.</div> Niin pitaa oleman se kavala juoni, joka sinusta tulee ulos, ja pahaa ajattelee Herraa vastaan.	
+<div class="theverse"><div class="versenum">11.</div> Niin pitaa oleman se kavala juoni, joka sinusta tulee ulos, ja pahaa ajattelee Herraa vastaan.	</div>
 
-<div class="versenum">12.</div> Nain sanoo Herra: vaikka he ovat rauhassa, ja heita on tosin monta, kuitenkin heidan pitaa maahan hakatuksi tuleman ja meneman pois; silla mina olen sinua noyryyttanyt, mutta en tahdo kuitenkaan enempaa vaivata.	
+<div class="theverse"><div class="versenum">12.</div> Nain sanoo Herra: vaikka he ovat rauhassa, ja heita on tosin monta, kuitenkin heidan pitaa maahan hakatuksi tuleman ja meneman pois; silla mina olen sinua noyryyttanyt, mutta en tahdo kuitenkaan enempaa vaivata.	</div>
 
-<div class="versenum">13.</div> Vaan tahdon silloin hanen ikeensa sinusta sarkea, ja revaista rikki sinun sitees.	
+<div class="theverse"><div class="versenum">13.</div> Vaan tahdon silloin hanen ikeensa sinusta sarkea, ja revaista rikki sinun sitees.	</div>
 
-<div class="versenum">14.</div> Mutta sinua vastaan on Herra kaskenyt, ettei yksikaan sinun nimes siemen pysyman pida. Sinun Jumalas huoneesta tahdon mina hukuttaa sinun epajumalas, ja kuvas tahdon mina sinulle haudaksi tehda; silla sina olet tyhjaksi tullut.	
+<div class="theverse"><div class="versenum">14.</div> Mutta sinua vastaan on Herra kaskenyt, ettei yksikaan sinun nimes siemen pysyman pida. Sinun Jumalas huoneesta tahdon mina hukuttaa sinun epajumalas, ja kuvas tahdon mina sinulle haudaksi tehda; silla sina olet tyhjaksi tullut.	</div>
 
-<div class="versenum">15.</div> Katso, suloisten saarnaajain jalat ovat vuorilla, niiden jotka rauhaa julistavat; pida sinun juhlapaivas, Juuda, ja maksa lupaukses; silla ei se jumalatoin pida enaan tuleman sinun paalles, joka on kokonaan havitetty.	
+<div class="theverse"><div class="versenum">15.</div> Katso, suloisten saarnaajain jalat ovat vuorilla, niiden jotka rauhaa julistavat; pida sinun juhlapaivas, Juuda, ja maksa lupaukses; silla ei se jumalatoin pida enaan tuleman sinun paalles, joka on kokonaan havitetty.	</div>
 </body>
 </html>

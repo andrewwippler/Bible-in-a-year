@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 13	</div>
 	
-<div class="versenum">1.</div> Ja katso, Jumalan mies tuli Juudasta Herran sanan kanssa Beteliin; ja Jerobeam seisoi alttarin tykona suitsuttamassa.	
+<div class="theverse"><div class="versenum">1.</div> Ja katso, Jumalan mies tuli Juudasta Herran sanan kanssa Beteliin; ja Jerobeam seisoi alttarin tykona suitsuttamassa.	</div>
 
-<div class="versenum">2.</div> Ja han huusi alttaria vastaan Herran sanan kautta ja sanoi: alttari, alttari! Nain sanoo Herra: katso, Davidin huoneelle on syntyva poika, Josia nimelta: han on uhraava sinun paallas korkeuden pappeja, jotka sinun paallas suitsuttavat, ja on polttava ihmisen luita sinun paallas.	
+<div class="theverse"><div class="versenum">2.</div> Ja han huusi alttaria vastaan Herran sanan kautta ja sanoi: alttari, alttari! Nain sanoo Herra: katso, Davidin huoneelle on syntyva poika, Josia nimelta: han on uhraava sinun paallas korkeuden pappeja, jotka sinun paallas suitsuttavat, ja on polttava ihmisen luita sinun paallas.	</div>
 
-<div class="versenum">3.</div> Ja han antoi sina paivana ihmeen ja sanoi: tama on se ihme, jonka Herra puhunut on: katso, alttarin pitaa halkeaman, ja tuhka, joka sen paalla on, pitaa hajoitettaman.	
+<div class="theverse"><div class="versenum">3.</div> Ja han antoi sina paivana ihmeen ja sanoi: tama on se ihme, jonka Herra puhunut on: katso, alttarin pitaa halkeaman, ja tuhka, joka sen paalla on, pitaa hajoitettaman.	</div>
 
-<div class="versenum">4.</div> Kuin kuningas kuuli sanan silta Jumalan miehelta, joka alttaria vastaan Betelissa huutanut oli, ojensi Jerobeam katensa alttarin tykoa ja sanoi: ottakaat hanta kiinni. Ja hanen katensa kuivettui, jonka han hanta vastaan ojensi, ja ei han taitanut sita vetaa jalleen puoleensa.	
+<div class="theverse"><div class="versenum">4.</div> Kuin kuningas kuuli sanan silta Jumalan miehelta, joka alttaria vastaan Betelissa huutanut oli, ojensi Jerobeam katensa alttarin tykoa ja sanoi: ottakaat hanta kiinni. Ja hanen katensa kuivettui, jonka han hanta vastaan ojensi, ja ei han taitanut sita vetaa jalleen puoleensa.	</div>
 
-<div class="versenum">5.</div> Ja alttari halkesi, ja tuhka hajoitettiin alttarilta, sen ihmeen jalkeen, jonka Jumalan mies Herran sanan kautta antanut oli.	
+<div class="theverse"><div class="versenum">5.</div> Ja alttari halkesi, ja tuhka hajoitettiin alttarilta, sen ihmeen jalkeen, jonka Jumalan mies Herran sanan kautta antanut oli.	</div>
 
-<div class="versenum">6.</div> Ja kuningas vastasi ja sanoi Jumalan miehelle: noyryyta nyt sinus rukouksella Herran Jumalas kasvoin edessa, ja rukoile minun edestani, etta kateni taipuis minun tykoni. Niin Jumalan mies rukoili noyrasti Herraa, ja kuninkaan kasi taipui jalleen hanen puoleensa ja tuli niinkuin se oli ennenkin ollut.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuningas vastasi ja sanoi Jumalan miehelle: noyryyta nyt sinus rukouksella Herran Jumalas kasvoin edessa, ja rukoile minun edestani, etta kateni taipuis minun tykoni. Niin Jumalan mies rukoili noyrasti Herraa, ja kuninkaan kasi taipui jalleen hanen puoleensa ja tuli niinkuin se oli ennenkin ollut.	</div>
 
-<div class="versenum">7.</div> Ja kuningas puhui Jumalan miehelle: tule kotia minun kanssani ja virvoita itses: mina annan sinulle lahjan.	
+<div class="theverse"><div class="versenum">7.</div> Ja kuningas puhui Jumalan miehelle: tule kotia minun kanssani ja virvoita itses: mina annan sinulle lahjan.	</div>
 
-<div class="versenum">8.</div> Mutta Jumalan mies sanoi kuninkaalle: vaikkas antaisit minulle puolen huonettas, en mina sittenkaan tulisi sinun kanssas, enka syo tassa paikassa leipaa enka juo vetta.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Jumalan mies sanoi kuninkaalle: vaikkas antaisit minulle puolen huonettas, en mina sittenkaan tulisi sinun kanssas, enka syo tassa paikassa leipaa enka juo vetta.	</div>
 
-<div class="versenum">9.</div> Silla niin kaski minua Herran sanansa kautta, sanoen: ei sinun pida leipaa syoman eika vetta juoman, eika myos palajaman sita tieta, jota sina mennyt olet.	
+<div class="theverse"><div class="versenum">9.</div> Silla niin kaski minua Herran sanansa kautta, sanoen: ei sinun pida leipaa syoman eika vetta juoman, eika myos palajaman sita tieta, jota sina mennyt olet.	</div>
 
-<div class="versenum">10.</div> Ja han meni toista tieta ja ei palannut sita tieta, jota han Beteliin tullut oli.	
+<div class="theverse"><div class="versenum">10.</div> Ja han meni toista tieta ja ei palannut sita tieta, jota han Beteliin tullut oli.	</div>
 
-<div class="versenum">11.</div> Mutta Betelissa asui vanha propheta; hanen tykonsa tuli hanen poikansa ja jutteli hanelle kaikki, mita Jumalan mies teki sina paivana Betelissa, ja sanat, jotka han kuninkaalle sanonut oli, he juttelivat isallensa.	
+<div class="theverse"><div class="versenum">11.</div> Mutta Betelissa asui vanha propheta; hanen tykonsa tuli hanen poikansa ja jutteli hanelle kaikki, mita Jumalan mies teki sina paivana Betelissa, ja sanat, jotka han kuninkaalle sanonut oli, he juttelivat isallensa.	</div>
 
-<div class="versenum">12.</div> Ja heidan isansa sanoi heille, mita tieta han meni? ja hanen poikansa osoittivat hanelle tien, jota Juudasta tullut Jumalan mies vaeltanut oli.	
+<div class="theverse"><div class="versenum">12.</div> Ja heidan isansa sanoi heille, mita tieta han meni? ja hanen poikansa osoittivat hanelle tien, jota Juudasta tullut Jumalan mies vaeltanut oli.	</div>
 
-<div class="versenum">13.</div> Mutta han sanoi pojillensa: satuloikaat minulle aasi. Ja kuin he olivat satuloineet aasin, istui han sen selkaan.	
+<div class="theverse"><div class="versenum">13.</div> Mutta han sanoi pojillensa: satuloikaat minulle aasi. Ja kuin he olivat satuloineet aasin, istui han sen selkaan.	</div>
 
-<div class="versenum">14.</div> Ja meni sen Jumalan miehen peraan, ja loysi hanen istumassa tammen alla, ja sanoi hanelle, sinako se Jumalan mies olet, joka Juudasta tullut olet? Han sanoi: mina.	
+<div class="theverse"><div class="versenum">14.</div> Ja meni sen Jumalan miehen peraan, ja loysi hanen istumassa tammen alla, ja sanoi hanelle, sinako se Jumalan mies olet, joka Juudasta tullut olet? Han sanoi: mina.	</div>
 
-<div class="versenum">15.</div> Han sanoi hanelle: tule minun kanssani kotia ja syo leipaa.	
+<div class="theverse"><div class="versenum">15.</div> Han sanoi hanelle: tule minun kanssani kotia ja syo leipaa.	</div>
 
-<div class="versenum">16.</div> Han sanoi: en mina taida palata sinun kanssas enka tulla sinun tykos: en mina syo leipaa enka juo vetta sinun kanssas tassa paikassa.	
+<div class="theverse"><div class="versenum">16.</div> Han sanoi: en mina taida palata sinun kanssas enka tulla sinun tykos: en mina syo leipaa enka juo vetta sinun kanssas tassa paikassa.	</div>
 
-<div class="versenum">17.</div> Silla minun kanssani on puhuttu Herran sanan kautta: ei sinun pida siella leipaa syoman eika vetta juoman, ei myos sinun pida palajaman sita tieta, jota sina sinne mennyt olet.	
+<div class="theverse"><div class="versenum">17.</div> Silla minun kanssani on puhuttu Herran sanan kautta: ei sinun pida siella leipaa syoman eika vetta juoman, ei myos sinun pida palajaman sita tieta, jota sina sinne mennyt olet.	</div>
 
-<div class="versenum">18.</div> Han sanoi hanelle: mina olen myos propheta niinkuin sinakin, ja enkeli on puhunut minun kanssani Herran sanan kautta ja sanonut: vie hanta kanssas huoneeses syomaan leipaa ja juomaan vetta. Mutta han valehteli hanen edessansa.	
+<div class="theverse"><div class="versenum">18.</div> Han sanoi hanelle: mina olen myos propheta niinkuin sinakin, ja enkeli on puhunut minun kanssani Herran sanan kautta ja sanonut: vie hanta kanssas huoneeses syomaan leipaa ja juomaan vetta. Mutta han valehteli hanen edessansa.	</div>
 
-<div class="versenum">19.</div> Ja han palasi hanen kanssansa, ja soi leipaa ja joi vetta hanen huoneessansa.	
+<div class="theverse"><div class="versenum">19.</div> Ja han palasi hanen kanssansa, ja soi leipaa ja joi vetta hanen huoneessansa.	</div>
 
-<div class="versenum">20.</div> Ja tapahtui, kuin he istuivat poydan tykona, etta Herran sana tuli prophetan tyo, joka hanen palauttanut oli,	
+<div class="theverse"><div class="versenum">20.</div> Ja tapahtui, kuin he istuivat poydan tykona, etta Herran sana tuli prophetan tyo, joka hanen palauttanut oli,	</div>
 
-<div class="versenum">21.</div> Ja han huusi Jumalan miehelle, joka Juudasta tullut oli, ja sanoi: nain sanoo Herra: ettas olet Herran kaskylle tottelematoin ollut, ja et ole sita kaskya pitanyt, jonka Herra sinun Jumalas kaskenyt on,	
+<div class="theverse"><div class="versenum">21.</div> Ja han huusi Jumalan miehelle, joka Juudasta tullut oli, ja sanoi: nain sanoo Herra: ettas olet Herran kaskylle tottelematoin ollut, ja et ole sita kaskya pitanyt, jonka Herra sinun Jumalas kaskenyt on,	</div>
 
-<div class="versenum">22.</div> Ja olet palannut syomaan leipaa ja juomaan vetta siina paikassa, josta sinulle sanottu oli: ei sinun pida siella leipaa syoman eika vetta juoman: ei pida sinun ruumiis tuleman sinun isais hautaan.	
+<div class="theverse"><div class="versenum">22.</div> Ja olet palannut syomaan leipaa ja juomaan vetta siina paikassa, josta sinulle sanottu oli: ei sinun pida siella leipaa syoman eika vetta juoman: ei pida sinun ruumiis tuleman sinun isais hautaan.	</div>
 
-<div class="versenum">23.</div> Ja kuin han leipaa syonyt ja vetta juonut oli, satuloitsi han aasin prophetalle, jonka han palauttanut oli.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuin han leipaa syonyt ja vetta juonut oli, satuloitsi han aasin prophetalle, jonka han palauttanut oli.	</div>
 
-<div class="versenum">24.</div> Ja koska han meni pois, kohtasi hanen jalopeura tiella ja tappoi hanen. Ja hanen ruumiinsa makasi heitettyna tiella, ja aasi seisoi hanen sivussansa, ja jalopeura seisoi lahinna ruumista.	
+<div class="theverse"><div class="versenum">24.</div> Ja koska han meni pois, kohtasi hanen jalopeura tiella ja tappoi hanen. Ja hanen ruumiinsa makasi heitettyna tiella, ja aasi seisoi hanen sivussansa, ja jalopeura seisoi lahinna ruumista.	</div>
 
-<div class="versenum">25.</div> Ja katso, koska siita kavi ihmisia ohitse, nakivat he ruumiin heitetyksi tielle ja jalopeuran seisovan ruumiin tykona; ja he tulivat ja sanoivat sen kaupungissa, jossa vanha propheta asui.	
+<div class="theverse"><div class="versenum">25.</div> Ja katso, koska siita kavi ihmisia ohitse, nakivat he ruumiin heitetyksi tielle ja jalopeuran seisovan ruumiin tykona; ja he tulivat ja sanoivat sen kaupungissa, jossa vanha propheta asui.	</div>
 
-<div class="versenum">26.</div> Kuin propheta sen kuuli, joka hanen tielta palauttanut oli, sanoi han: se on Jumalan mies, joka Herran kaskylle tottelematoin oli; sentahden on Herra hanen antanut jalopeuralle, ja se on musertanut ja tappanut hanen niiden sanain jalkeen, jotka Herra hanelle sanonut oli.	
+<div class="theverse"><div class="versenum">26.</div> Kuin propheta sen kuuli, joka hanen tielta palauttanut oli, sanoi han: se on Jumalan mies, joka Herran kaskylle tottelematoin oli; sentahden on Herra hanen antanut jalopeuralle, ja se on musertanut ja tappanut hanen niiden sanain jalkeen, jotka Herra hanelle sanonut oli.	</div>
 
-<div class="versenum">27.</div> Ja sanoi pojillensa: satuloikaat minulle aasi. Ja koska he olivat satuloineet,	
+<div class="theverse"><div class="versenum">27.</div> Ja sanoi pojillensa: satuloikaat minulle aasi. Ja koska he olivat satuloineet,	</div>
 
-<div class="versenum">28.</div> Meni han sinne, ja loysi hanen ruumiinsa heitetyksi tielle, ja aasin ja jalopeuran seisovan ruumiin tykona. Ei jalopeura ollut syonyt ruumista eika revaissyt aasia.	
+<div class="theverse"><div class="versenum">28.</div> Meni han sinne, ja loysi hanen ruumiinsa heitetyksi tielle, ja aasin ja jalopeuran seisovan ruumiin tykona. Ei jalopeura ollut syonyt ruumista eika revaissyt aasia.	</div>
 
-<div class="versenum">29.</div> Niin otta propheta sen Jumalan miehen ruumiin ja pani aasinsa paalle, ja vei sen takaperin; ja vanha propheta tuli kaupunkiin itkemaan ja hautaamaan hanta.	
+<div class="theverse"><div class="versenum">29.</div> Niin otta propheta sen Jumalan miehen ruumiin ja pani aasinsa paalle, ja vei sen takaperin; ja vanha propheta tuli kaupunkiin itkemaan ja hautaamaan hanta.	</div>
 
-<div class="versenum">30.</div> Ja han pani ruumiin omaan hautaansa, ja he itkivat hanta: oi minun veljeni!	
+<div class="theverse"><div class="versenum">30.</div> Ja han pani ruumiin omaan hautaansa, ja he itkivat hanta: oi minun veljeni!	</div>
 
-<div class="versenum">31.</div> Ja kuin he olivat haudanneet hanen, puhui han pojillensa, sanoen: koska mina kuolen, niin haudatkaat minua siihen hautaan, johon Jumalan mies haudattu on, ja pankaat minun luuni hanen luidensa sivuun.	
+<div class="theverse"><div class="versenum">31.</div> Ja kuin he olivat haudanneet hanen, puhui han pojillensa, sanoen: koska mina kuolen, niin haudatkaat minua siihen hautaan, johon Jumalan mies haudattu on, ja pankaat minun luuni hanen luidensa sivuun.	</div>
 
-<div class="versenum">32.</div> Silla se on tapahtuva, minka han alttaria ja Betelia vastaan Herran sanan kautta huutanut oli, ja kaikkia korkeuden huoneita vastaan, jotka Samarian kaupungeissa ovat.	
+<div class="theverse"><div class="versenum">32.</div> Silla se on tapahtuva, minka han alttaria ja Betelia vastaan Herran sanan kautta huutanut oli, ja kaikkia korkeuden huoneita vastaan, jotka Samarian kaupungeissa ovat.	</div>
 
-<div class="versenum">33.</div> Mutta kuin namat tapahtuneet olivat, ei Jerobeam kaantanytkaan itseansa pahalta tieltansa pois, mutta meni ja teki taas korkeuden pappeja halvimmista kansan seassa; kenenka han tahtoi, sen kaden han taytti, ja se tuli korkeuden papiksi.	
+<div class="theverse"><div class="versenum">33.</div> Mutta kuin namat tapahtuneet olivat, ei Jerobeam kaantanytkaan itseansa pahalta tieltansa pois, mutta meni ja teki taas korkeuden pappeja halvimmista kansan seassa; kenenka han tahtoi, sen kaden han taytti, ja se tuli korkeuden papiksi.	</div>
 
-<div class="versenum">34.</div> Ja tama asia tapahtui Jerobeamin huoneelle synniksi, ja etta han piti havitettaman ja hukutettaman maan paalta.	
+<div class="theverse"><div class="versenum">34.</div> Ja tama asia tapahtui Jerobeamin huoneelle synniksi, ja etta han piti havitettaman ja hukutettaman maan paalta.	</div>
 </body>
 </html>

@@ -4,88 +4,88 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 20	</div>
 	
-<div class="versenum">1.</div> Ja David pakeni Raman Najotista, tuli ja sanoi Jonatanille: mita mina olen tehnyt? mika on vaaryyteni? eli mika on pahatekoni sinun isaas vastaan, etta han seisoo minun henkeni peraan?	
+<div class="theverse"><div class="versenum">1.</div> Ja David pakeni Raman Najotista, tuli ja sanoi Jonatanille: mita mina olen tehnyt? mika on vaaryyteni? eli mika on pahatekoni sinun isaas vastaan, etta han seisoo minun henkeni peraan?	</div>
 
-<div class="versenum">2.</div> Han sanoi hanelle: pois se, ei sinun pida kuoleman: katso, isani ei tee suurta eli pienta, jota ei han ilmoita minulle, kuinkas isani salaa taman minulta? Ei se pida niin tapahtuman.	
+<div class="theverse"><div class="versenum">2.</div> Han sanoi hanelle: pois se, ei sinun pida kuoleman: katso, isani ei tee suurta eli pienta, jota ei han ilmoita minulle, kuinkas isani salaa taman minulta? Ei se pida niin tapahtuman.	</div>
 
-<div class="versenum">3.</div> Niin David vannoi viela, sanoen: totisesti sinun isas tietaa, etta mina olen loytanyt armon sinun kasvois edessa, sentahden han ajattelee: ei Jonatanin pida tasta mitaan tietamaan, ettei han tulisi murheelliseksi. Totisesti, niin totta kuin Herra ja sinun sielus elaa, etta askele on vaivoin minun ja kuoleman vaiheella.	
+<div class="theverse"><div class="versenum">3.</div> Niin David vannoi viela, sanoen: totisesti sinun isas tietaa, etta mina olen loytanyt armon sinun kasvois edessa, sentahden han ajattelee: ei Jonatanin pida tasta mitaan tietamaan, ettei han tulisi murheelliseksi. Totisesti, niin totta kuin Herra ja sinun sielus elaa, etta askele on vaivoin minun ja kuoleman vaiheella.	</div>
 
-<div class="versenum">4.</div> Jonatan sanoi Davidille: mina teen sinulle kaikki, mita sinun sydames halajaa.	
+<div class="theverse"><div class="versenum">4.</div> Jonatan sanoi Davidille: mina teen sinulle kaikki, mita sinun sydames halajaa.	</div>
 
-<div class="versenum">5.</div> David sanoi hanelle: katso, huomenna on uusikuu, ja minun pitais istuman ja atrioitseman kuninkaan kanssa: salli siis, etta mina katken minuni kedolle kolmannen paivan ehtoosen asti.	
+<div class="theverse"><div class="versenum">5.</div> David sanoi hanelle: katso, huomenna on uusikuu, ja minun pitais istuman ja atrioitseman kuninkaan kanssa: salli siis, etta mina katken minuni kedolle kolmannen paivan ehtoosen asti.	</div>
 
-<div class="versenum">6.</div> Jos isas minua kovasti kaipaa, niin sano: David rukoili suuresti minulta juostaksensa kaupunkiinsa Betlehemiin; silla siella pidetaan ajastaikainen uhri koko sukukunnalta.	
+<div class="theverse"><div class="versenum">6.</div> Jos isas minua kovasti kaipaa, niin sano: David rukoili suuresti minulta juostaksensa kaupunkiinsa Betlehemiin; silla siella pidetaan ajastaikainen uhri koko sukukunnalta.	</div>
 
-<div class="versenum">7.</div> Ja jos han sanoo: se on hyvin, niin on rauha palveliallas; mutta jos han kovin vihastuu, niin sina ymmarrat hanen pahaa aikovan.	
+<div class="theverse"><div class="versenum">7.</div> Ja jos han sanoo: se on hyvin, niin on rauha palveliallas; mutta jos han kovin vihastuu, niin sina ymmarrat hanen pahaa aikovan.	</div>
 
-<div class="versenum">8.</div> Tee siis laupius palvelialles; silla sina olet ottanut palvelias Herran liittoon sinun kanssas. Ja jos joku vaaryys minussa on, niin tapa sina minua: miksis sallit minun tulla isas eteen.	
+<div class="theverse"><div class="versenum">8.</div> Tee siis laupius palvelialles; silla sina olet ottanut palvelias Herran liittoon sinun kanssas. Ja jos joku vaaryys minussa on, niin tapa sina minua: miksis sallit minun tulla isas eteen.	</div>
 
-<div class="versenum">9.</div> Jonatan sanoi: pois se sinusta, silla jos mina ymmartaisin isani aikovan sinulle pahaa tehda, tullaksensa sinun paalles, enko mina naita sinulle ilmoittaisi?	
+<div class="theverse"><div class="versenum">9.</div> Jonatan sanoi: pois se sinusta, silla jos mina ymmartaisin isani aikovan sinulle pahaa tehda, tullaksensa sinun paalles, enko mina naita sinulle ilmoittaisi?	</div>
 
-<div class="versenum">10.</div> David sanoi Jonatanille: kuka minulle ilmoittaa, jos sinun isas vastaa sinua jotakin kovasti?	
+<div class="theverse"><div class="versenum">10.</div> David sanoi Jonatanille: kuka minulle ilmoittaa, jos sinun isas vastaa sinua jotakin kovasti?	</div>
 
-<div class="versenum">11.</div> Jonatan sanoi Davidille: tule, kaykaamme kedolle; ja he menivat molemmat kedolle.	
+<div class="theverse"><div class="versenum">11.</div> Jonatan sanoi Davidille: tule, kaykaamme kedolle; ja he menivat molemmat kedolle.	</div>
 
-<div class="versenum">12.</div> Ja Jonatan sanoi Davidille: Herra, Israelin Jumala! kuin mina kyselen isaltani huomenna ja kolmantena paivana, katso, jos han suo Davidille hyvaa, ja en mina silloin laheta sinun tykos, ja ilmoita sita sinun korviis,	
+<div class="theverse"><div class="versenum">12.</div> Ja Jonatan sanoi Davidille: Herra, Israelin Jumala! kuin mina kyselen isaltani huomenna ja kolmantena paivana, katso, jos han suo Davidille hyvaa, ja en mina silloin laheta sinun tykos, ja ilmoita sita sinun korviis,	</div>
 
-<div class="versenum">13.</div> Niin tehkoon Herra sita ja sita Jonatanille; mutta jos isani taas ajattelee jotakin pahaa sinua vastaan, niin mina sen myos ilmoitan sinun korviis, ja lasken sinun rauhaan menemaan: ja Herra olkoon sinun kanssas, niinkuin han isani kanssa ollut on.	
+<div class="theverse"><div class="versenum">13.</div> Niin tehkoon Herra sita ja sita Jonatanille; mutta jos isani taas ajattelee jotakin pahaa sinua vastaan, niin mina sen myos ilmoitan sinun korviis, ja lasken sinun rauhaan menemaan: ja Herra olkoon sinun kanssas, niinkuin han isani kanssa ollut on.	</div>
 
-<div class="versenum">14.</div> Etkos sinakin, jos viela elan: etkos sinakin ole tekeva Herran armoa minua kohtaani, niin ettei minun pida kuoleman?	
+<div class="theverse"><div class="versenum">14.</div> Etkos sinakin, jos viela elan: etkos sinakin ole tekeva Herran armoa minua kohtaani, niin ettei minun pida kuoleman?	</div>
 
-<div class="versenum">15.</div> Ja et sina ota laupiuttas minun huoneestani pois ijankaikkisesti, et viela sittenkaan, kuin Herra havittaa Davidin vihamiehet, itsekunkin maaltansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja et sina ota laupiuttas minun huoneestani pois ijankaikkisesti, et viela sittenkaan, kuin Herra havittaa Davidin vihamiehet, itsekunkin maaltansa.	</div>
 
-<div class="versenum">16.</div> Nain teki Jonatan liiton Davidin huoneen kanssa, etta Herra sen vaatisi Davidin vihamiesten kadesta.	
+<div class="theverse"><div class="versenum">16.</div> Nain teki Jonatan liiton Davidin huoneen kanssa, etta Herra sen vaatisi Davidin vihamiesten kadesta.	</div>
 
-<div class="versenum">17.</div> Ja Jonatan taas vannoi Davidille; silla niin rakkaana piti han hanen, etta han rakasti hanta niinkuin omaa sieluansa.	
+<div class="theverse"><div class="versenum">17.</div> Ja Jonatan taas vannoi Davidille; silla niin rakkaana piti han hanen, etta han rakasti hanta niinkuin omaa sieluansa.	</div>
 
-<div class="versenum">18.</div> Ja Jonatan sanoi hanelle: huomenna on uusikuu, jona sinua kysytaan ja kaivataan sinua sialtas.	
+<div class="theverse"><div class="versenum">18.</div> Ja Jonatan sanoi hanelle: huomenna on uusikuu, jona sinua kysytaan ja kaivataan sinua sialtas.	</div>
 
-<div class="versenum">19.</div> Ja kuin olet viipynyt kolme paivaa poissa, niin tule kiiruusti alas ja mene siihen paikkaan, johon sina itses katkit sina paivana kuin tama asia tapahtui, ja istu Aselin kiven viereen,	
+<div class="theverse"><div class="versenum">19.</div> Ja kuin olet viipynyt kolme paivaa poissa, niin tule kiiruusti alas ja mene siihen paikkaan, johon sina itses katkit sina paivana kuin tama asia tapahtui, ja istu Aselin kiven viereen,	</div>
 
-<div class="versenum">20.</div> Niin mina ammun kolme nuolta sen sivulle, niinkuin mina ampuisin maaliin.	
+<div class="theverse"><div class="versenum">20.</div> Niin mina ammun kolme nuolta sen sivulle, niinkuin mina ampuisin maaliin.	</div>
 
-<div class="versenum">21.</div> Ja katso, mina lahetan pojan (sanoen hanelle:) mene ja hae nuolet jallensa! jos viela sanon pojalle: katso, nuolet ovat takanas tassa puolessa, ota ylos! niin tule; silla rauha on sinulla ja ei ole mitaan hataa, niin totta kuin Herra elaa.	
+<div class="theverse"><div class="versenum">21.</div> Ja katso, mina lahetan pojan (sanoen hanelle:) mene ja hae nuolet jallensa! jos viela sanon pojalle: katso, nuolet ovat takanas tassa puolessa, ota ylos! niin tule; silla rauha on sinulla ja ei ole mitaan hataa, niin totta kuin Herra elaa.	</div>
 
-<div class="versenum">22.</div> Mutta jos sanon pojalle: katso, nuolet ovat edempana edessas! niin mene pois, silla Herra on paastanyt sinun menemaan.	
+<div class="theverse"><div class="versenum">22.</div> Mutta jos sanon pojalle: katso, nuolet ovat edempana edessas! niin mene pois, silla Herra on paastanyt sinun menemaan.	</div>
 
-<div class="versenum">23.</div> Ja mita sina ja mita mina keskenamme puhuneet olemme, katso, Herra on minun ja sinun vaiheellas ijankaikkisesti.	
+<div class="theverse"><div class="versenum">23.</div> Ja mita sina ja mita mina keskenamme puhuneet olemme, katso, Herra on minun ja sinun vaiheellas ijankaikkisesti.	</div>
 
-<div class="versenum">24.</div> Niin David katki itsensa kedolle. Ja kuin uusikuu tuli, istui kuningas poydan tyko rualle.	
+<div class="theverse"><div class="versenum">24.</div> Niin David katki itsensa kedolle. Ja kuin uusikuu tuli, istui kuningas poydan tyko rualle.	</div>
 
-<div class="versenum">25.</div> Kuin kuningas oli istunut siallensa, entisen tapansa jalkeen, seinan nojalle, nousi Jonatan, ja Abner istui Saulin viereen; ja Davidia kaivattiin siastansa.	
+<div class="theverse"><div class="versenum">25.</div> Kuin kuningas oli istunut siallensa, entisen tapansa jalkeen, seinan nojalle, nousi Jonatan, ja Abner istui Saulin viereen; ja Davidia kaivattiin siastansa.	</div>
 
-<div class="versenum">26.</div> Ja ei puhunut Saul sina paivana mitakaan; silla han ajatteli: hanelle on jotakin tapahtunut, ettei han ole puhdas; ei suinkaan han ole puhdas.	
+<div class="theverse"><div class="versenum">26.</div> Ja ei puhunut Saul sina paivana mitakaan; silla han ajatteli: hanelle on jotakin tapahtunut, ettei han ole puhdas; ei suinkaan han ole puhdas.	</div>
 
-<div class="versenum">27.</div> Ja toisena paivana uudesta kuusta, kuin Davidia kaivattiin siastansa, sanoi Saul pojallensa Jonatanille: Miksi ei Isain poika ole tullut poydan tyko, ei eilen eika myoskaan tanapana?	
+<div class="theverse"><div class="versenum">27.</div> Ja toisena paivana uudesta kuusta, kuin Davidia kaivattiin siastansa, sanoi Saul pojallensa Jonatanille: Miksi ei Isain poika ole tullut poydan tyko, ei eilen eika myoskaan tanapana?	</div>
 
-<div class="versenum">28.</div> Jonatan vastasi Saulia: han rukoili hartaasti minulta mennakseen Betlehemiin,	
+<div class="theverse"><div class="versenum">28.</div> Jonatan vastasi Saulia: han rukoili hartaasti minulta mennakseen Betlehemiin,	</div>
 
-<div class="versenum">29.</div> Ja sanoi: anna minun menna, silla meidan sukukuntamme uhraa kaupungissa ja minun veljeni itse on minua kutsunut: jos nyt olen loytanyt armon sinun silmais edessa, niin salli minun menna katsomaan veljiani; ja sen tahden ei han tullut kuninkaan poydan tyko.	
+<div class="theverse"><div class="versenum">29.</div> Ja sanoi: anna minun menna, silla meidan sukukuntamme uhraa kaupungissa ja minun veljeni itse on minua kutsunut: jos nyt olen loytanyt armon sinun silmais edessa, niin salli minun menna katsomaan veljiani; ja sen tahden ei han tullut kuninkaan poydan tyko.	</div>
 
-<div class="versenum">30.</div> Ja Saul vihastui sangen suuresti Jonatanin paalle ja sanoi hanelle: sina ilkia ja tottelematoin poika! enko mina tieda, ettas olet valinnut Isain pojan sinulles ja aidilles hapiaksi?	
+<div class="theverse"><div class="versenum">30.</div> Ja Saul vihastui sangen suuresti Jonatanin paalle ja sanoi hanelle: sina ilkia ja tottelematoin poika! enko mina tieda, ettas olet valinnut Isain pojan sinulles ja aidilles hapiaksi?	</div>
 
-<div class="versenum">31.</div> Silla niinkauvan kuin Isain poika elaa maan paalla, et sina eika sinun kuninkaanvaltakuntas ole seisova: laheta siis nyt ja anna tuotaa hanta minun tykoni, silla hanen pitaa kuoleman.	
+<div class="theverse"><div class="versenum">31.</div> Silla niinkauvan kuin Isain poika elaa maan paalla, et sina eika sinun kuninkaanvaltakuntas ole seisova: laheta siis nyt ja anna tuotaa hanta minun tykoni, silla hanen pitaa kuoleman.	</div>
 
-<div class="versenum">32.</div> Jonatan vastasi isallensa Saulille ja sanoi hanelle: miksi hanen pitaa kuoleman? mita han on tehnyt?	
+<div class="theverse"><div class="versenum">32.</div> Jonatan vastasi isallensa Saulille ja sanoi hanelle: miksi hanen pitaa kuoleman? mita han on tehnyt?	</div>
 
-<div class="versenum">33.</div> Silloin paiskasi Saul keihaan hanen perassansa syostaksensa hanta; niin ymmarsi Jonatan isansa aikovan Davidin tappaa.	
+<div class="theverse"><div class="versenum">33.</div> Silloin paiskasi Saul keihaan hanen perassansa syostaksensa hanta; niin ymmarsi Jonatan isansa aikovan Davidin tappaa.	</div>
 
-<div class="versenum">34.</div> Ja Jonatan nousi poydan tykoa sangen vihoissansa ja ei syonyt sina toisena paivana uudesta kuusta mitaan leipaa; silla han murehti Davidia, etta hanen isansa oli hanen niin havaissyt.	
+<div class="theverse"><div class="versenum">34.</div> Ja Jonatan nousi poydan tykoa sangen vihoissansa ja ei syonyt sina toisena paivana uudesta kuusta mitaan leipaa; silla han murehti Davidia, etta hanen isansa oli hanen niin havaissyt.	</div>
 
-<div class="versenum">35.</div> Ja Jonatan laksi aamulla kedolle, siihen aikaan kuin han oli maarannyt Davidille, ja vaha poikainen hanen kanssansa.	
+<div class="theverse"><div class="versenum">35.</div> Ja Jonatan laksi aamulla kedolle, siihen aikaan kuin han oli maarannyt Davidille, ja vaha poikainen hanen kanssansa.	</div>
 
-<div class="versenum">36.</div> Ja han sanoi pojalle: juokse noutamaan nuoleni, jotka mina ammun: pojan juostessa laski han nuolen hanen ylitsensa.	
+<div class="theverse"><div class="versenum">36.</div> Ja han sanoi pojalle: juokse noutamaan nuoleni, jotka mina ammun: pojan juostessa laski han nuolen hanen ylitsensa.	</div>
 
-<div class="versenum">37.</div> Ja kuin poika tuli sille paikalle, johon Jonatan nuolen ampunut oli, huusi Jonatan hanen perassansa ja sanoi: eiko nuoli ole edemma sinusta?	
+<div class="theverse"><div class="versenum">37.</div> Ja kuin poika tuli sille paikalle, johon Jonatan nuolen ampunut oli, huusi Jonatan hanen perassansa ja sanoi: eiko nuoli ole edemma sinusta?	</div>
 
-<div class="versenum">38.</div> Ja huusi taas poikaa: joudu, kiiruhda sinuas nopiammin ja ala seisahtele. Niin Jonatanin poika otti nuolet otti nuolet ja kantoi herrallensa.	
+<div class="theverse"><div class="versenum">38.</div> Ja huusi taas poikaa: joudu, kiiruhda sinuas nopiammin ja ala seisahtele. Niin Jonatanin poika otti nuolet otti nuolet ja kantoi herrallensa.	</div>
 
-<div class="versenum">39.</div> Eika poika tietanyt asiasta mitaan; vaan Jonatan ja David ainoastaan asian tiesivat.	
+<div class="theverse"><div class="versenum">39.</div> Eika poika tietanyt asiasta mitaan; vaan Jonatan ja David ainoastaan asian tiesivat.	</div>
 
-<div class="versenum">40.</div> Niin Jonatan antoi aseensa pojalle, joka hanen kanssansa oli, ja sanoi: mene ja vie kaupunkiin.	
+<div class="theverse"><div class="versenum">40.</div> Niin Jonatan antoi aseensa pojalle, joka hanen kanssansa oli, ja sanoi: mene ja vie kaupunkiin.	</div>
 
-<div class="versenum">41.</div> Ja kuin poika oli mennyt, nousi David siastansa meren puolelta ja lankesi maahan kasvoillensa ja rukoili kolme kertaa; ja he antoivat toinen toisellensa suuta ja itkivat toinen toisensa kanssa; vaan David itki hartaammin.	
+<div class="theverse"><div class="versenum">41.</div> Ja kuin poika oli mennyt, nousi David siastansa meren puolelta ja lankesi maahan kasvoillensa ja rukoili kolme kertaa; ja he antoivat toinen toisellensa suuta ja itkivat toinen toisensa kanssa; vaan David itki hartaammin.	</div>
 
-<div class="versenum">42.</div> Ja Jonatan sanoi Davidille: mene rauhaan, (ja muista) mita me olemme vannoneet yhteen Herran nimeen ja sanoneet: Herra olkoon sinun ja minun vaiheellani, minun ja sinun siemenes vaiheella ijankaikkisesti! (H20:43) Ja han nousi ja meni matkaansa; mutta Jonatan palasi kaupunkiin.	
+<div class="theverse"><div class="versenum">42.</div> Ja Jonatan sanoi Davidille: mene rauhaan, (ja muista) mita me olemme vannoneet yhteen Herran nimeen ja sanoneet: Herra olkoon sinun ja minun vaiheellani, minun ja sinun siemenes vaiheella ijankaikkisesti! (H20:43) Ja han nousi ja meni matkaansa; mutta Jonatan palasi kaupunkiin.	</div>
 </body>
 </html>

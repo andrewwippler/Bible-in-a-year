@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">2 Korinttilaisille 6	</div>
 	
-<div class="versenum">1.</div> Mutta me niinkuin apulaiset neuvomme teita, ettette Jumalan armoa hukkaan ottaisi.	
+<div class="theverse"><div class="versenum">1.</div> Mutta me niinkuin apulaiset neuvomme teita, ettette Jumalan armoa hukkaan ottaisi.	</div>
 
-<div class="versenum">2.</div> Silla han sanoo: mina olen otollisella ajalla sinua kuullut ja olen sinua autuuden paivana auttanut. Katso, nyt on otollinen aika, katso, nyt on autuuden paiva.	
+<div class="theverse"><div class="versenum">2.</div> Silla han sanoo: mina olen otollisella ajalla sinua kuullut ja olen sinua autuuden paivana auttanut. Katso, nyt on otollinen aika, katso, nyt on autuuden paiva.	</div>
 
-<div class="versenum">3.</div> Alkaamme kellenkaan jossakussa pahennusta antako, ettei meidan virkaamme laitettaisi;	
+<div class="theverse"><div class="versenum">3.</div> Alkaamme kellenkaan jossakussa pahennusta antako, ettei meidan virkaamme laitettaisi;	</div>
 
-<div class="versenum">4.</div> Vaan osoittakaamme meitamme kaikissa asioissa niinkuin Jumalan palveliat: suuressa karsivallisyydessa, vaivoissa, hadissa, suruissa,	
+<div class="theverse"><div class="versenum">4.</div> Vaan osoittakaamme meitamme kaikissa asioissa niinkuin Jumalan palveliat: suuressa karsivallisyydessa, vaivoissa, hadissa, suruissa,	</div>
 
-<div class="versenum">5.</div> Haavoissa, vankiuksissa, kapinoissa, toissa, valvomisissa, paastoissa,	
+<div class="theverse"><div class="versenum">5.</div> Haavoissa, vankiuksissa, kapinoissa, toissa, valvomisissa, paastoissa,	</div>
 
-<div class="versenum">6.</div> Puhtaassa elamassa, taidossa, pitkamielisyydessa, suloisuudessa, Pyhassa Hengessa, vilpittomassa rakkaudessa.	
+<div class="theverse"><div class="versenum">6.</div> Puhtaassa elamassa, taidossa, pitkamielisyydessa, suloisuudessa, Pyhassa Hengessa, vilpittomassa rakkaudessa.	</div>
 
-<div class="versenum">7.</div> Totuuden sanassa, Jumalan vaessa vanhurskauden sota-aseiden kautta oikialla ja vasemmalla puolella,	
+<div class="theverse"><div class="versenum">7.</div> Totuuden sanassa, Jumalan vaessa vanhurskauden sota-aseiden kautta oikialla ja vasemmalla puolella,	</div>
 
-<div class="versenum">8.</div> Kunnian kautta ja pilkan, panetuksen ja kiitoksen kautta, niinkuin vietteliat ja kuitenkin vakaat,	
+<div class="theverse"><div class="versenum">8.</div> Kunnian kautta ja pilkan, panetuksen ja kiitoksen kautta, niinkuin vietteliat ja kuitenkin vakaat,	</div>
 
-<div class="versenum">9.</div> Niinkuin tuntemattomat ja kuitenkin tutut, niinkuin kuolevaiset ja katso, me elamme, niinkuin rangaistut ja ei kuitenkaan tapetut,	
+<div class="theverse"><div class="versenum">9.</div> Niinkuin tuntemattomat ja kuitenkin tutut, niinkuin kuolevaiset ja katso, me elamme, niinkuin rangaistut ja ei kuitenkaan tapetut,	</div>
 
-<div class="versenum">10.</div> Niinkuin murheelliset ja kuitenkin aina iloiset, niinkuin koyhat, mutta kuitenkin monta rikkaaksi tekevaiset, niinkuin ne, joilla ei mitaan ole ja joiden kuitenkin kaikki omat ovat.	
+<div class="theverse"><div class="versenum">10.</div> Niinkuin murheelliset ja kuitenkin aina iloiset, niinkuin koyhat, mutta kuitenkin monta rikkaaksi tekevaiset, niinkuin ne, joilla ei mitaan ole ja joiden kuitenkin kaikki omat ovat.	</div>
 
-<div class="versenum">11.</div> Te Korintilaiset! meidan suumme on hanensa avannut teidan kohtaanne, meidan sydamemme on levinnyt.	
+<div class="theverse"><div class="versenum">11.</div> Te Korintilaiset! meidan suumme on hanensa avannut teidan kohtaanne, meidan sydamemme on levinnyt.	</div>
 
-<div class="versenum">12.</div> Ette ole ahtaalla meissa; mutta itse teissanne te ahtaalla olette.	
+<div class="theverse"><div class="versenum">12.</div> Ette ole ahtaalla meissa; mutta itse teissanne te ahtaalla olette.	</div>
 
-<div class="versenum">13.</div> Mina sanon niinkuin lapsilleni, etta te myos minua vastaan teitanne niin asettaisitte, ja levittakaat teitanne.	
+<div class="theverse"><div class="versenum">13.</div> Mina sanon niinkuin lapsilleni, etta te myos minua vastaan teitanne niin asettaisitte, ja levittakaat teitanne.	</div>
 
-<div class="versenum">14.</div> Alkaat vetako ijesta epauskoisten kanssa; silla mita oikeuden on vaaryyden kanssa tekemista? eli mita osallisuutta on valkeudella pimeyden kanssa?	
+<div class="theverse"><div class="versenum">14.</div> Alkaat vetako ijesta epauskoisten kanssa; silla mita oikeuden on vaaryyden kanssa tekemista? eli mita osallisuutta on valkeudella pimeyden kanssa?	</div>
 
-<div class="versenum">15.</div> Ja mika sovinto on Kristuksella belialin kanssa? taikka mika osa on uskovaisella uskottoman kanssa?	
+<div class="theverse"><div class="versenum">15.</div> Ja mika sovinto on Kristuksella belialin kanssa? taikka mika osa on uskovaisella uskottoman kanssa?	</div>
 
-<div class="versenum">16.</div> Eli kuinka Jumalan templi sopii epajumalain kanssa? Silla te olette elavan Jumalan templi, niinkuin Jumala sanoo: mina tahdon heissa asua ja heissa vaeltaa, ja mina tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	
+<div class="theverse"><div class="versenum">16.</div> Eli kuinka Jumalan templi sopii epajumalain kanssa? Silla te olette elavan Jumalan templi, niinkuin Jumala sanoo: mina tahdon heissa asua ja heissa vaeltaa, ja mina tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	</div>
 
-<div class="versenum">17.</div> Sentahden paetkaat heidan seastansa ja eroittakaat teitanne, sanoo Herra: ja alkaat saastaiseen ruvetko, ja niin mina korjaan teita,	
+<div class="theverse"><div class="versenum">17.</div> Sentahden paetkaat heidan seastansa ja eroittakaat teitanne, sanoo Herra: ja alkaat saastaiseen ruvetko, ja niin mina korjaan teita,	</div>
 
-<div class="versenum">18.</div> Ja olen teidan Isanne, ja teidan pitaa oleman minun poikani ja tyttareni, sanoo kaikkivaltias Herra.	
+<div class="theverse"><div class="versenum">18.</div> Ja olen teidan Isanne, ja teidan pitaa oleman minun poikani ja tyttareni, sanoo kaikkivaltias Herra.	</div>
 </body>
 </html>

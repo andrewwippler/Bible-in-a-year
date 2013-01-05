@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Miikan 4	</div>
 	
-<div class="versenum">1.</div> Mutta viimeisina paivina pitaa sen vuoren, jolla Herran huone on, vahvistuman, ja oleman korkeimman kaikkia muita vuoria, ja korotettaman kukkulain ylitse; ja kansat pitaa sinne juokseman.	
+<div class="theverse"><div class="versenum">1.</div> Mutta viimeisina paivina pitaa sen vuoren, jolla Herran huone on, vahvistuman, ja oleman korkeimman kaikkia muita vuoria, ja korotettaman kukkulain ylitse; ja kansat pitaa sinne juokseman.	</div>
 
-<div class="versenum">2.</div> Ja moninaiset pakanat sinne meneman ja sanoman: tulkaat ja astukaamme ylos Herran vuorelle ja Jakobin Jumalan huoneen tyko, etta han opettais meille teitansa, ja me vaeltaisimme hanen poluillansa. Silla Zionista on laki tuleva, ja Herran sana Jerusalemista.	
+<div class="theverse"><div class="versenum">2.</div> Ja moninaiset pakanat sinne meneman ja sanoman: tulkaat ja astukaamme ylos Herran vuorelle ja Jakobin Jumalan huoneen tyko, etta han opettais meille teitansa, ja me vaeltaisimme hanen poluillansa. Silla Zionista on laki tuleva, ja Herran sana Jerusalemista.	</div>
 
-<div class="versenum">3.</div> Ja han on tuomitseva paljon kansan seassa, ja rankaiseva vakevat pakanat kaukaisissa maakunnissa; silloin pitaa heidan miekkansa vannaiksi tekeman ja keihaansa viikahteiksi. Ei yhdenkaan kansan pida toista kansaa vastaan miekkaa nostaman, eika enaan tottuman sotimaan.	
+<div class="theverse"><div class="versenum">3.</div> Ja han on tuomitseva paljon kansan seassa, ja rankaiseva vakevat pakanat kaukaisissa maakunnissa; silloin pitaa heidan miekkansa vannaiksi tekeman ja keihaansa viikahteiksi. Ei yhdenkaan kansan pida toista kansaa vastaan miekkaa nostaman, eika enaan tottuman sotimaan.	</div>
 
-<div class="versenum">4.</div> Jokaisen pitaa viinapuunsa ja fikunapuunsa alla pelkaamatta asuman; silla Herran Zebaotin suu on sen puhunut.	
+<div class="theverse"><div class="versenum">4.</div> Jokaisen pitaa viinapuunsa ja fikunapuunsa alla pelkaamatta asuman; silla Herran Zebaotin suu on sen puhunut.	</div>
 
-<div class="versenum">5.</div> Jokainen kansa pitaa Jumalansa nimessa vaeltaman; mutta meidan pitaa vaeltaman Herran meidan Jumalamme nimeen, aina ja ijankaikkisesti.	
+<div class="theverse"><div class="versenum">5.</div> Jokainen kansa pitaa Jumalansa nimessa vaeltaman; mutta meidan pitaa vaeltaman Herran meidan Jumalamme nimeen, aina ja ijankaikkisesti.	</div>
 
-<div class="versenum">6.</div> Silla ajalla, sanoo Herra, tahdon mina ontuvaiset koota, ja saattaa hyljatyt kokoon, ja sen, jota mina vaivannut olen.	
+<div class="theverse"><div class="versenum">6.</div> Silla ajalla, sanoo Herra, tahdon mina ontuvaiset koota, ja saattaa hyljatyt kokoon, ja sen, jota mina vaivannut olen.	</div>
 
-<div class="versenum">7.</div> Ja tahdon ontuvaiselle perillisia saattaa, ja heikon suureksi kansaksi tehda. Ja Herra on itse oleva heidan kuninkaansa Zionin vuorella tasta ajasta hamaan ijankaikkisuuteen.	
+<div class="theverse"><div class="versenum">7.</div> Ja tahdon ontuvaiselle perillisia saattaa, ja heikon suureksi kansaksi tehda. Ja Herra on itse oleva heidan kuninkaansa Zionin vuorella tasta ajasta hamaan ijankaikkisuuteen.	</div>
 
-<div class="versenum">8.</div> Ja sina Ederin torni, Zionin tyttaren linna, sinun tykos pitaa tuleman, ja pitaa tuleman sen entinen esivalta, Jerusalemin tyttaren valtakunta.	
+<div class="theverse"><div class="versenum">8.</div> Ja sina Ederin torni, Zionin tyttaren linna, sinun tykos pitaa tuleman, ja pitaa tuleman sen entinen esivalta, Jerusalemin tyttaren valtakunta.	</div>
 
-<div class="versenum">9.</div> Miksi sina nyt niin lakkaamatta huudat? Eiko kuningas ole sinun kanssas? Ovatko sinun neuvonantajas hukkuneet, etta kipu tarttui sinuun niinkuin synnyttavaiseen?	
+<div class="theverse"><div class="versenum">9.</div> Miksi sina nyt niin lakkaamatta huudat? Eiko kuningas ole sinun kanssas? Ovatko sinun neuvonantajas hukkuneet, etta kipu tarttui sinuun niinkuin synnyttavaiseen?	</div>
 
-<div class="versenum">10.</div> Murehdi ja huokaa sina, Zionin tytar, niinkuin synnyttavainen: silla sinun taytyy menna ulos kaupungista ja kedolla asua, ja menna hamaan Babeliin; mutta sina paastetaan taas sielta, siella on Herra sinun paastava sinun vihollises kadesta.	
+<div class="theverse"><div class="versenum">10.</div> Murehdi ja huokaa sina, Zionin tytar, niinkuin synnyttavainen: silla sinun taytyy menna ulos kaupungista ja kedolla asua, ja menna hamaan Babeliin; mutta sina paastetaan taas sielta, siella on Herra sinun paastava sinun vihollises kadesta.	</div>
 
-<div class="versenum">11.</div> Silla monet pakanat pitaa kokoontuman sinua vastaan, ja sanoman: han on alttiiksi annettu, me tahdomme meidan himomme nahda Zionista.	
+<div class="theverse"><div class="versenum">11.</div> Silla monet pakanat pitaa kokoontuman sinua vastaan, ja sanoman: han on alttiiksi annettu, me tahdomme meidan himomme nahda Zionista.	</div>
 
-<div class="versenum">12.</div> Mutta ei he Herran ajatuksista mitaan tieda, eika ota vaaria hanen neuvostansa; silla han on hakenut heita kokoon, niinkuin lyhteet riiheen.	
+<div class="theverse"><div class="versenum">12.</div> Mutta ei he Herran ajatuksista mitaan tieda, eika ota vaaria hanen neuvostansa; silla han on hakenut heita kokoon, niinkuin lyhteet riiheen.	</div>
 
-<div class="versenum">13.</div> Sentahden nouse ja tapa riihta sina Zionin tytar; silla mina tahdon sinulle tehda rautaiset sarvet ja vaskiset kynnet, ettas paljon kansaa runtelet. Niin mina tahdon myos heidan tavaransa alttiiksi antaa Herralle, ja heidan hyvyytensa kaiken maailman hallitsialle.	
+<div class="theverse"><div class="versenum">13.</div> Sentahden nouse ja tapa riihta sina Zionin tytar; silla mina tahdon sinulle tehda rautaiset sarvet ja vaskiset kynnet, ettas paljon kansaa runtelet. Niin mina tahdon myos heidan tavaransa alttiiksi antaa Herralle, ja heidan hyvyytensa kaiken maailman hallitsialle.	</div>
 </body>
 </html>

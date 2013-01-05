@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Psalmien 49	</div>
 	
-<div class="versenum">1.</div> Koran lasten Psalmi, edellaveisaajalle. (H49:2) Kuulkaat tata, kaikki kansat, ottakaat korviinne, kaikki maan asuvaiset,	
+<div class="theverse"><div class="versenum">1.</div> Koran lasten Psalmi, edellaveisaajalle. (H49:2) Kuulkaat tata, kaikki kansat, ottakaat korviinne, kaikki maan asuvaiset,	</div>
 
-<div class="versenum">2.</div> Seka yhteinen kansa etta herrat, niin rikkaat kuin koyhat.	
+<div class="theverse"><div class="versenum">2.</div> Seka yhteinen kansa etta herrat, niin rikkaat kuin koyhat.	</div>
 
-<div class="versenum">3.</div> Minun suuni puhuu viisautta, ja minun sydameni sanoo ymmarryksen.	
+<div class="theverse"><div class="versenum">3.</div> Minun suuni puhuu viisautta, ja minun sydameni sanoo ymmarryksen.	</div>
 
-<div class="versenum">4.</div> Mina tahdon kallistaa korvani vertauksiin, ja minun tapaukseni kanteleella soittaa.	
+<div class="theverse"><div class="versenum">4.</div> Mina tahdon kallistaa korvani vertauksiin, ja minun tapaukseni kanteleella soittaa.	</div>
 
-<div class="versenum">5.</div> Miksi minun pitais pelkaaman pahoina paivina, kuin minun sortajani vaaryys kay minua ympari?	
+<div class="theverse"><div class="versenum">5.</div> Miksi minun pitais pelkaaman pahoina paivina, kuin minun sortajani vaaryys kay minua ympari?	</div>
 
-<div class="versenum">6.</div> Jotka luottavat tavaroihinsa, ja suuresti kerskaavat paljosta rikkaudestansa.	
+<div class="theverse"><div class="versenum">6.</div> Jotka luottavat tavaroihinsa, ja suuresti kerskaavat paljosta rikkaudestansa.	</div>
 
-<div class="versenum">7.</div> Ei velikaan taida ketaan lunastaa, eika Jumalalle ketaan sovittaa.	
+<div class="theverse"><div class="versenum">7.</div> Ei velikaan taida ketaan lunastaa, eika Jumalalle ketaan sovittaa.	</div>
 
-<div class="versenum">8.</div> Silla heidan sielunsa lunastus on ylen kallis, niin etta se jaa tekematta ijankaikkisesti,	
+<div class="theverse"><div class="versenum">8.</div> Silla heidan sielunsa lunastus on ylen kallis, niin etta se jaa tekematta ijankaikkisesti,	</div>
 
-<div class="versenum">9.</div> Vaikka han viela kauvankin elais ja ei nakisi hautaa.	
+<div class="theverse"><div class="versenum">9.</div> Vaikka han viela kauvankin elais ja ei nakisi hautaa.	</div>
 
-<div class="versenum">10.</div> Silla hanen taytyy nahda, etta viisasten pitaa kuoleman, niin myos tyhman ja taitamattoman pitaa hukkuman, ja pitaa vieraille tavaransa jattaman.	
+<div class="theverse"><div class="versenum">10.</div> Silla hanen taytyy nahda, etta viisasten pitaa kuoleman, niin myos tyhman ja taitamattoman pitaa hukkuman, ja pitaa vieraille tavaransa jattaman.	</div>
 
-<div class="versenum">11.</div> Heidan sydamensa ajatus on, etta heidan huoneensa pitaa ijankaikkisesti pysyman, ja heidan majansa suvusta sukuun, ja heidan nimensa kuuluisaksi tulemaan maan paalla.	
+<div class="theverse"><div class="versenum">11.</div> Heidan sydamensa ajatus on, etta heidan huoneensa pitaa ijankaikkisesti pysyman, ja heidan majansa suvusta sukuun, ja heidan nimensa kuuluisaksi tulemaan maan paalla.	</div>
 
-<div class="versenum">12.</div> Mutta ei ihminen taida pysya kunniassa, vaan verrataan elaimiin, jotka hukkuvat.	
+<div class="theverse"><div class="versenum">12.</div> Mutta ei ihminen taida pysya kunniassa, vaan verrataan elaimiin, jotka hukkuvat.	</div>
 
-<div class="versenum">13.</div> Tama heidan tiensa on sula hulluus; kuitenkin, heidan jalkeentulevaisensa sita suullansa kiittavat, Sela!	
+<div class="theverse"><div class="versenum">13.</div> Tama heidan tiensa on sula hulluus; kuitenkin, heidan jalkeentulevaisensa sita suullansa kiittavat, Sela!	</div>
 
-<div class="versenum">14.</div> He makaavat helvetissa niinkuin lampaat, kuolema heita kalvaa; mutta hurskasten pitaa varhain heita hallitseman, ja heidan oykkayksensa pitaa hukkuman, ja heidan taytyy jaada helvettiin.	
+<div class="theverse"><div class="versenum">14.</div> He makaavat helvetissa niinkuin lampaat, kuolema heita kalvaa; mutta hurskasten pitaa varhain heita hallitseman, ja heidan oykkayksensa pitaa hukkuman, ja heidan taytyy jaada helvettiin.	</div>
 
-<div class="versenum">15.</div> Kuitenkin vapahtaa Jumala minun sieluni helvetin vallasta; silla han korjasi minun, Sela!	
+<div class="theverse"><div class="versenum">15.</div> Kuitenkin vapahtaa Jumala minun sieluni helvetin vallasta; silla han korjasi minun, Sela!	</div>
 
-<div class="versenum">16.</div> Ala sita tottele, koska joku rikastuu, eli jos hanen huoneensa kunnia suureksi tulee.	
+<div class="theverse"><div class="versenum">16.</div> Ala sita tottele, koska joku rikastuu, eli jos hanen huoneensa kunnia suureksi tulee.	</div>
 
-<div class="versenum">17.</div> Silla kuin han kuolee, niin ei han mitaan myotansa vie, eika hanen kunniansa mene alas hanen kanssansa.	
+<div class="theverse"><div class="versenum">17.</div> Silla kuin han kuolee, niin ei han mitaan myotansa vie, eika hanen kunniansa mene alas hanen kanssansa.	</div>
 
-<div class="versenum">18.</div> Silla han kiittaa sieluansa elamastansa: ja he ylistavat sinua, jos sina itselles hyvaa teet.	
+<div class="theverse"><div class="versenum">18.</div> Silla han kiittaa sieluansa elamastansa: ja he ylistavat sinua, jos sina itselles hyvaa teet.	</div>
 
-<div class="versenum">19.</div> Niin he menevat isainsa perasta, ja ei saa nahda ikana valkeutta.	
+<div class="theverse"><div class="versenum">19.</div> Niin he menevat isainsa perasta, ja ei saa nahda ikana valkeutta.	</div>
 
-<div class="versenum">20.</div> Koska ihminen on kunniassa, ja ei ole ymmarrysta, niin han on verrattu elaimiin, jotka hukkuvat.	
+<div class="theverse"><div class="versenum">20.</div> Koska ihminen on kunniassa, ja ei ole ymmarrysta, niin han on verrattu elaimiin, jotka hukkuvat.	</div>
 </body>
 </html>

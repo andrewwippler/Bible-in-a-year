@@ -4,20 +4,20 @@
 </head>
 <body><div class="chaptertitle">Psalmien 61	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kanteleilla. (H61:2) Kuule, Jumala, minun huutoni: ota vaari minun rukouksestani.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kanteleilla. (H61:2) Kuule, Jumala, minun huutoni: ota vaari minun rukouksestani.	</div>
 
-<div class="versenum">2.</div> Maan aaresta mina huudan sinun tykos, koska minun sydameni naannyksissa on: vie minua siis korkialle kalliolle.	
+<div class="theverse"><div class="versenum">2.</div> Maan aaresta mina huudan sinun tykos, koska minun sydameni naannyksissa on: vie minua siis korkialle kalliolle.	</div>
 
-<div class="versenum">3.</div> Silla sina olet minun turvani, vahva torni vihollisten edessa.	
+<div class="theverse"><div class="versenum">3.</div> Silla sina olet minun turvani, vahva torni vihollisten edessa.	</div>
 
-<div class="versenum">4.</div> Mina tahdon asua sinun majassas ijankaikkisesti, ja uskaltaa sinun siipeis varjon alle, Sela!	
+<div class="theverse"><div class="versenum">4.</div> Mina tahdon asua sinun majassas ijankaikkisesti, ja uskaltaa sinun siipeis varjon alle, Sela!	</div>
 
-<div class="versenum">5.</div> Silla sina, Jumala, kuulet minun lupaukseni, ja annat perinnon niille, jotka sinun nimeas pelkaavat.	
+<div class="theverse"><div class="versenum">5.</div> Silla sina, Jumala, kuulet minun lupaukseni, ja annat perinnon niille, jotka sinun nimeas pelkaavat.	</div>
 
-<div class="versenum">6.</div> Sina annat kuninkaalle pitkan ijan, etta hanen vuotensa olisivat suvusta sukuun.	
+<div class="theverse"><div class="versenum">6.</div> Sina annat kuninkaalle pitkan ijan, etta hanen vuotensa olisivat suvusta sukuun.	</div>
 
-<div class="versenum">7.</div> Etta han alati pysyis Jumalan edessa: osoita hanelle laupiutta ja totuutta, jotka hanta varjelisivat.	
+<div class="theverse"><div class="versenum">7.</div> Etta han alati pysyis Jumalan edessa: osoita hanelle laupiutta ja totuutta, jotka hanta varjelisivat.	</div>
 
-<div class="versenum">8.</div> Niin mina veisaan kiitosta sinun nimelles ijankaikkisesti, maksaakseni minun lupaustani paiva paivalta.	
+<div class="theverse"><div class="versenum">8.</div> Niin mina veisaan kiitosta sinun nimelles ijankaikkisesti, maksaakseni minun lupaustani paiva paivalta.	</div>
 </body>
 </html>

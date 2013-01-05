@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">Jobin 33	</div>
 	
-<div class="versenum">1.</div> Kuule siis, Job, minun puhettani, ja ota vaari kaikista sanoistani!	
+<div class="theverse"><div class="versenum">1.</div> Kuule siis, Job, minun puhettani, ja ota vaari kaikista sanoistani!	</div>
 
-<div class="versenum">2.</div> Katso, mina avaan suuni, ja kieleni puhuu minun suussani.	
+<div class="theverse"><div class="versenum">2.</div> Katso, mina avaan suuni, ja kieleni puhuu minun suussani.	</div>
 
-<div class="versenum">3.</div> Minun sydameni puhuu oikeuden, ja minun huuleni sanoo puhtaan ymmarryksen.	
+<div class="theverse"><div class="versenum">3.</div> Minun sydameni puhuu oikeuden, ja minun huuleni sanoo puhtaan ymmarryksen.	</div>
 
-<div class="versenum">4.</div> Jumalan henki on tehnyt minun, ja KaikkivaItiaan henki on minulle antanut elaman.	
+<div class="theverse"><div class="versenum">4.</div> Jumalan henki on tehnyt minun, ja KaikkivaItiaan henki on minulle antanut elaman.	</div>
 
-<div class="versenum">5.</div> Jos taidat, niin vastaa minua; valmista itses, ja tule minun eteeni.	
+<div class="theverse"><div class="versenum">5.</div> Jos taidat, niin vastaa minua; valmista itses, ja tule minun eteeni.	</div>
 
-<div class="versenum">6.</div> Katso, mina olen Jumalan oma niinkuin sinakin, ja savesta olen mina myos tehty.	
+<div class="theverse"><div class="versenum">6.</div> Katso, mina olen Jumalan oma niinkuin sinakin, ja savesta olen mina myos tehty.	</div>
 
-<div class="versenum">7.</div> Katso, ei sinun tarvitse hammastya minua, ja minun kateni ei ole sinulle raskas.	
+<div class="theverse"><div class="versenum">7.</div> Katso, ei sinun tarvitse hammastya minua, ja minun kateni ei ole sinulle raskas.	</div>
 
-<div class="versenum">8.</div> Sina olet puhunut minun korvaini kuullen: sinun aantas taytyy minun kuulla:	
+<div class="theverse"><div class="versenum">8.</div> Sina olet puhunut minun korvaini kuullen: sinun aantas taytyy minun kuulla:	</div>
 
-<div class="versenum">9.</div> Mina olen puhdas ja ilman laitosta, viatoin ja synnitoin.	
+<div class="theverse"><div class="versenum">9.</div> Mina olen puhdas ja ilman laitosta, viatoin ja synnitoin.	</div>
 
-<div class="versenum">10.</div> Katso, han on loytanyt syyn minua vastaan, sentahden pitaa han minun vihollisenansa.	
+<div class="theverse"><div class="versenum">10.</div> Katso, han on loytanyt syyn minua vastaan, sentahden pitaa han minun vihollisenansa.	</div>
 
-<div class="versenum">11.</div> Han on pannut minun jalkani jalkapuuhun, ja katkenyt minun tieni.	
+<div class="theverse"><div class="versenum">11.</div> Han on pannut minun jalkani jalkapuuhun, ja katkenyt minun tieni.	</div>
 
-<div class="versenum">12.</div> Katso, juuri siita mina paatan, ettes ole hurskas; silla Jumala on suurempi kuin yksikaan ihminen.	
+<div class="theverse"><div class="versenum">12.</div> Katso, juuri siita mina paatan, ettes ole hurskas; silla Jumala on suurempi kuin yksikaan ihminen.	</div>
 
-<div class="versenum">13.</div> Miksis riitelet hanen kanssansa, ettei han tee sinulle lukua kaikista toistansa?	
+<div class="theverse"><div class="versenum">13.</div> Miksis riitelet hanen kanssansa, ettei han tee sinulle lukua kaikista toistansa?	</div>
 
-<div class="versenum">14.</div> Jos Jumala vihdoin jotakin kaskee, ei han sita jalista ajattele.	
+<div class="theverse"><div class="versenum">14.</div> Jos Jumala vihdoin jotakin kaskee, ei han sita jalista ajattele.	</div>
 
-<div class="versenum">15.</div> Uninaossa yolla, kuin uni tulee ihmisten paalle, kuin he makaavat vuoteessa,	
+<div class="theverse"><div class="versenum">15.</div> Uninaossa yolla, kuin uni tulee ihmisten paalle, kuin he makaavat vuoteessa,	</div>
 
-<div class="versenum">16.</div> Silloin han ilmoittaa ihmisten korviin, ja vahvistaa sen heidan nuhtelemisellansa,	
+<div class="theverse"><div class="versenum">16.</div> Silloin han ilmoittaa ihmisten korviin, ja vahvistaa sen heidan nuhtelemisellansa,	</div>
 
-<div class="versenum">17.</div> Kaantaaksensa ihmista aivoituksestansa, ja varjellaksensa ylpeydesta.	
+<div class="theverse"><div class="versenum">17.</div> Kaantaaksensa ihmista aivoituksestansa, ja varjellaksensa ylpeydesta.	</div>
 
-<div class="versenum">18.</div> Han saastaa hanen sieluansa turmeluksesta, ja hanen elamaansa, ettei se miekkaan lankeaisi.	
+<div class="theverse"><div class="versenum">18.</div> Han saastaa hanen sieluansa turmeluksesta, ja hanen elamaansa, ettei se miekkaan lankeaisi.	</div>
 
-<div class="versenum">19.</div> Ja kurittaa hanta kivulla vuoteessansa, ja kaikki hanen luunsa vakevalla kivulla,	
+<div class="theverse"><div class="versenum">19.</div> Ja kurittaa hanta kivulla vuoteessansa, ja kaikki hanen luunsa vakevalla kivulla,	</div>
 
-<div class="versenum">20.</div> Ja niin toimittaa hanen kauhistumaan ruokaa, ja hanen mielensa kyylyttamaan ravintoa;	
+<div class="theverse"><div class="versenum">20.</div> Ja niin toimittaa hanen kauhistumaan ruokaa, ja hanen mielensa kyylyttamaan ravintoa;	</div>
 
-<div class="versenum">21.</div> Etta hanen lihansa surkastuu, niin ettei sita nahda, ja hanen luunsa sarkyvat, niin ettei niita mielella katsella;	
+<div class="theverse"><div class="versenum">21.</div> Etta hanen lihansa surkastuu, niin ettei sita nahda, ja hanen luunsa sarkyvat, niin ettei niita mielella katsella;	</div>
 
-<div class="versenum">22.</div> Etta hanen sielunsa lahenee turmelusta, ja hanen elamansa kuolemaa.	
+<div class="theverse"><div class="versenum">22.</div> Etta hanen sielunsa lahenee turmelusta, ja hanen elamansa kuolemaa.	</div>
 
-<div class="versenum">23.</div> Kuin siis hanen tykonsa tulee enkeli, valimies, joka ainoa on enempi tuhansia, ilmoittamaan sille ihmiselle vanhurskauttansa,	
+<div class="theverse"><div class="versenum">23.</div> Kuin siis hanen tykonsa tulee enkeli, valimies, joka ainoa on enempi tuhansia, ilmoittamaan sille ihmiselle vanhurskauttansa,	</div>
 
-<div class="versenum">24.</div> Ja armahtaa hanta, ja sanoo: pelasta hanta menemasta alas turmelukseen; silla mina olen loytanyt sovinnon;	
+<div class="theverse"><div class="versenum">24.</div> Ja armahtaa hanta, ja sanoo: pelasta hanta menemasta alas turmelukseen; silla mina olen loytanyt sovinnon;	</div>
 
-<div class="versenum">25.</div> Niin hanen lihansa tuorehtii enemmin kuin lapsuudessa ja tulee taas niinkuin nuoruutensa aikana.	
+<div class="theverse"><div class="versenum">25.</div> Niin hanen lihansa tuorehtii enemmin kuin lapsuudessa ja tulee taas niinkuin nuoruutensa aikana.	</div>
 
-<div class="versenum">26.</div> Han rukoilee Jumalaa, joka hanelle osoittaa armon: han antaa kasvonsa nahda ilolla, ja maksaa ihmiselle hanen vanhurskautensa.	
+<div class="theverse"><div class="versenum">26.</div> Han rukoilee Jumalaa, joka hanelle osoittaa armon: han antaa kasvonsa nahda ilolla, ja maksaa ihmiselle hanen vanhurskautensa.	</div>
 
-<div class="versenum">27.</div> Han tunnustaa ihmiselle ja sanoo: mina olen syntia tehnyt ja oikeuden vaantanyt; vaan ei se minua auttanut.	
+<div class="theverse"><div class="versenum">27.</div> Han tunnustaa ihmiselle ja sanoo: mina olen syntia tehnyt ja oikeuden vaantanyt; vaan ei se minua auttanut.	</div>
 
-<div class="versenum">28.</div> Han pelasti minun sieluni, ettei se tulisi turmelukseen, vaan etta minun elamani nakis valkeuden.	
+<div class="theverse"><div class="versenum">28.</div> Han pelasti minun sieluni, ettei se tulisi turmelukseen, vaan etta minun elamani nakis valkeuden.	</div>
 
-<div class="versenum">29.</div> Katso, namat kaikki tekee Jumala itsekullekin kolme kertaa,	
+<div class="theverse"><div class="versenum">29.</div> Katso, namat kaikki tekee Jumala itsekullekin kolme kertaa,	</div>
 
-<div class="versenum">30.</div> Tuodaksensa heidan sielunsa jalleen turmeluksesta ja valaistaksensa elavien valkeudella.	
+<div class="theverse"><div class="versenum">30.</div> Tuodaksensa heidan sielunsa jalleen turmeluksesta ja valaistaksensa elavien valkeudella.	</div>
 
-<div class="versenum">31.</div> Job, ota tasta vaari ja kuule, ole myos aaneti, etta mina puhuisin!	
+<div class="theverse"><div class="versenum">31.</div> Job, ota tasta vaari ja kuule, ole myos aaneti, etta mina puhuisin!	</div>
 
-<div class="versenum">32.</div> Mutta jos sinulla on jotakin puhumista, niin vastaa minua. Puhu! silla mina tahdon, ettas olisit vanhurskas.	
+<div class="theverse"><div class="versenum">32.</div> Mutta jos sinulla on jotakin puhumista, niin vastaa minua. Puhu! silla mina tahdon, ettas olisit vanhurskas.	</div>
 
-<div class="versenum">33.</div> Jos ei, niin kuule sina minua, ja ole aaneti; mina opetan sinulle taidon.	
+<div class="theverse"><div class="versenum">33.</div> Jos ei, niin kuule sina minua, ja ole aaneti; mina opetan sinulle taidon.	</div>
 </body>
 </html>

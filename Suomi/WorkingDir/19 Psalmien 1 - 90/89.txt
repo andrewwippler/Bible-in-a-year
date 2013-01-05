@@ -4,108 +4,108 @@
 </head>
 <body><div class="chaptertitle">Psalmien 89	</div>
 	
-<div class="versenum">1.</div> Etanin sen Esrahilaisen opetus. (H89:2) Mina veisaan Herran armoja ijankaikkisesti, ja ilmoitan sinun totuuttas suullani suvusta sukuun,	
+<div class="theverse"><div class="versenum">1.</div> Etanin sen Esrahilaisen opetus. (H89:2) Mina veisaan Herran armoja ijankaikkisesti, ja ilmoitan sinun totuuttas suullani suvusta sukuun,	</div>
 
-<div class="versenum">2.</div> Ja sanon: ijankaikkinen armo kay ylos: sina pidat uskollisesti totuutes taivaissa.	
+<div class="theverse"><div class="versenum">2.</div> Ja sanon: ijankaikkinen armo kay ylos: sina pidat uskollisesti totuutes taivaissa.	</div>
 
-<div class="versenum">3.</div> Mina olen liiton tehnyt valittuini kanssa: mina olen vannonut Davidille palvelialleni:	
+<div class="theverse"><div class="versenum">3.</div> Mina olen liiton tehnyt valittuini kanssa: mina olen vannonut Davidille palvelialleni:	</div>
 
-<div class="versenum">4.</div> Hamaan ijankaikkisuuteen vahvistan mina sinun siemenes, ja rakennan sinun istuimes suvusta sukuun, Sela!	
+<div class="theverse"><div class="versenum">4.</div> Hamaan ijankaikkisuuteen vahvistan mina sinun siemenes, ja rakennan sinun istuimes suvusta sukuun, Sela!	</div>
 
-<div class="versenum">5.</div> Ja taivaat pitaa ylistaman, Herra, sinun ihmeitas, niin myos totuuttas pyhain seurakunnassa.	
+<div class="theverse"><div class="versenum">5.</div> Ja taivaat pitaa ylistaman, Herra, sinun ihmeitas, niin myos totuuttas pyhain seurakunnassa.	</div>
 
-<div class="versenum">6.</div> Silla kuka taidetaan pilvissa verrattaa Herraan? ja kuka on Herran kaltainen jumalain lasten seassa?	
+<div class="theverse"><div class="versenum">6.</div> Silla kuka taidetaan pilvissa verrattaa Herraan? ja kuka on Herran kaltainen jumalain lasten seassa?	</div>
 
-<div class="versenum">7.</div> Jumala on sangen vakeva pyhainsa kokouksissa, ja ihmeellinen kaikkein seassa, jotka ovat hanen ymparillansa.	
+<div class="theverse"><div class="versenum">7.</div> Jumala on sangen vakeva pyhainsa kokouksissa, ja ihmeellinen kaikkein seassa, jotka ovat hanen ymparillansa.	</div>
 
-<div class="versenum">8.</div> Herra Jumala Zebaot, kuka on niinkuin sina, vakeva Jumala? ja sinun totuutes on sinun ymparillas.	
+<div class="theverse"><div class="versenum">8.</div> Herra Jumala Zebaot, kuka on niinkuin sina, vakeva Jumala? ja sinun totuutes on sinun ymparillas.	</div>
 
-<div class="versenum">9.</div> Sina vallitset pauhaavaisen meren: sina hillitset paisuvaiset aallot.	
+<div class="theverse"><div class="versenum">9.</div> Sina vallitset pauhaavaisen meren: sina hillitset paisuvaiset aallot.	</div>
 
-<div class="versenum">10.</div> Sina lyot Rahabin kuoliaaksi: sina hajoitat vihollises urhoollisella kasivarrellas.	
+<div class="theverse"><div class="versenum">10.</div> Sina lyot Rahabin kuoliaaksi: sina hajoitat vihollises urhoollisella kasivarrellas.	</div>
 
-<div class="versenum">11.</div> Taivaat ovat sinun, maa myos on sinun: sina olet perustanut maan piirin, ja mita siina on.	
+<div class="theverse"><div class="versenum">11.</div> Taivaat ovat sinun, maa myos on sinun: sina olet perustanut maan piirin, ja mita siina on.	</div>
 
-<div class="versenum">12.</div> Pohjan ja etelan olet sina luonut: Tabor ja Hermon kiittavat sinun nimeas.	
+<div class="theverse"><div class="versenum">12.</div> Pohjan ja etelan olet sina luonut: Tabor ja Hermon kiittavat sinun nimeas.	</div>
 
-<div class="versenum">13.</div> Sinulla on voimallinen kasivarsi: vakeva on sinun kates, ja korkia on oikia kates.	
+<div class="theverse"><div class="versenum">13.</div> Sinulla on voimallinen kasivarsi: vakeva on sinun kates, ja korkia on oikia kates.	</div>
 
-<div class="versenum">14.</div> Vanhurskaus ja tuomio on istuimes vahvistus: armo ja totuus ovat sinun kasvois edessa.	
+<div class="theverse"><div class="versenum">14.</div> Vanhurskaus ja tuomio on istuimes vahvistus: armo ja totuus ovat sinun kasvois edessa.	</div>
 
-<div class="versenum">15.</div> Autuas on se kansa, joka ihastua taitaa: Herra, heidan pitaa vaeltaman sinun kasvois valkeudessa.	
+<div class="theverse"><div class="versenum">15.</div> Autuas on se kansa, joka ihastua taitaa: Herra, heidan pitaa vaeltaman sinun kasvois valkeudessa.	</div>
 
-<div class="versenum">16.</div> Heidan pitaa iloitseman joka paiva sinun nimestas, ja sinun vanhurskaudessas kunnialliset oleman.	
+<div class="theverse"><div class="versenum">16.</div> Heidan pitaa iloitseman joka paiva sinun nimestas, ja sinun vanhurskaudessas kunnialliset oleman.	</div>
 
-<div class="versenum">17.</div> Silla sina olet heidan vakevyytensa kerskaus, ja sinun armos kautta nostat sina ylos meidan sarvemme.	
+<div class="theverse"><div class="versenum">17.</div> Silla sina olet heidan vakevyytensa kerskaus, ja sinun armos kautta nostat sina ylos meidan sarvemme.	</div>
 
-<div class="versenum">18.</div> Silla Herra on meidan kilpemme, ja pyha Israelissa on meidan kuninkaamme.	
+<div class="theverse"><div class="versenum">18.</div> Silla Herra on meidan kilpemme, ja pyha Israelissa on meidan kuninkaamme.	</div>
 
-<div class="versenum">19.</div> Silloin sina puhuit nayissa pyhilles ja sanoit: mina olen sankarin herattanyt auttamaan: mina olen korottanut valitun kansasta.	
+<div class="theverse"><div class="versenum">19.</div> Silloin sina puhuit nayissa pyhilles ja sanoit: mina olen sankarin herattanyt auttamaan: mina olen korottanut valitun kansasta.	</div>
 
-<div class="versenum">20.</div> Mina olen loytanyt palveliani Davidin: mina olen hanen voidellut pyhalla oljyllani.	
+<div class="theverse"><div class="versenum">20.</div> Mina olen loytanyt palveliani Davidin: mina olen hanen voidellut pyhalla oljyllani.	</div>
 
-<div class="versenum">21.</div> Minun kateni tukee hanta, ja minun kasivarteni vahvistaa hanta.	
+<div class="theverse"><div class="versenum">21.</div> Minun kateni tukee hanta, ja minun kasivarteni vahvistaa hanta.	</div>
 
-<div class="versenum">22.</div> Ei pida viholliset hanta voittaman, ja vaarat ei pida hanta sulloman.	
+<div class="theverse"><div class="versenum">22.</div> Ei pida viholliset hanta voittaman, ja vaarat ei pida hanta sulloman.	</div>
 
-<div class="versenum">23.</div> Vaan mina lyon hanen vihollisensa hanen edestansa; ja niita, jotka hanta vihaavat, tahdon mina vaivata.	
+<div class="theverse"><div class="versenum">23.</div> Vaan mina lyon hanen vihollisensa hanen edestansa; ja niita, jotka hanta vihaavat, tahdon mina vaivata.	</div>
 
-<div class="versenum">24.</div> Mutta minun totuuteni ja armoni pitaa hanen tykonansa oleman, ja hanen sarvensa pitaa minun nimeeni nostettaman ylos.	
+<div class="theverse"><div class="versenum">24.</div> Mutta minun totuuteni ja armoni pitaa hanen tykonansa oleman, ja hanen sarvensa pitaa minun nimeeni nostettaman ylos.	</div>
 
-<div class="versenum">25.</div> Mina asetan hanen katensa mereen, ja hanen oikian katensa virtoihin.	
+<div class="theverse"><div class="versenum">25.</div> Mina asetan hanen katensa mereen, ja hanen oikian katensa virtoihin.	</div>
 
-<div class="versenum">26.</div> Nain hanen pitaa minun kutsuman: sina olet minun Isani, Jumalani ja turvani, joka minua auttaa.	
+<div class="theverse"><div class="versenum">26.</div> Nain hanen pitaa minun kutsuman: sina olet minun Isani, Jumalani ja turvani, joka minua auttaa.	</div>
 
-<div class="versenum">27.</div> Ja mina asetan hanen esikoiseksi, kaikkein korkeimmaksi kuningasten seassa maan paalla.	
+<div class="theverse"><div class="versenum">27.</div> Ja mina asetan hanen esikoiseksi, kaikkein korkeimmaksi kuningasten seassa maan paalla.	</div>
 
-<div class="versenum">28.</div> Mina pidan hanelle armoni tahteella ijankaikkisesti, ja minun liittoni pitaa hanelle vahva oleman.	
+<div class="theverse"><div class="versenum">28.</div> Mina pidan hanelle armoni tahteella ijankaikkisesti, ja minun liittoni pitaa hanelle vahva oleman.	</div>
 
-<div class="versenum">29.</div> Mina annan hanelle ijankaikkisen siemenen, ja vahvistan hanen istuimensa niinkauvan kuin taivaat pysyvat.	
+<div class="theverse"><div class="versenum">29.</div> Mina annan hanelle ijankaikkisen siemenen, ja vahvistan hanen istuimensa niinkauvan kuin taivaat pysyvat.	</div>
 
-<div class="versenum">30.</div> Mutta jos hanen lapsensa minun lakini hylkaavat, ja ei vaella minun oikeudessani,	
+<div class="theverse"><div class="versenum">30.</div> Mutta jos hanen lapsensa minun lakini hylkaavat, ja ei vaella minun oikeudessani,	</div>
 
-<div class="versenum">31.</div> Jos he minun saatyni turmelevat, ja ei minun kaskyjani pida;	
+<div class="theverse"><div class="versenum">31.</div> Jos he minun saatyni turmelevat, ja ei minun kaskyjani pida;	</div>
 
-<div class="versenum">32.</div> Niin mina heidan syntinsa vitsalla rankaisen, ja heidan pahat tekonsa haavoilla.	
+<div class="theverse"><div class="versenum">32.</div> Niin mina heidan syntinsa vitsalla rankaisen, ja heidan pahat tekonsa haavoilla.	</div>
 
-<div class="versenum">33.</div> Mutta armoani en mina hanesta kaanna pois, enka salli totuuteni vilpistella.	
+<div class="theverse"><div class="versenum">33.</div> Mutta armoani en mina hanesta kaanna pois, enka salli totuuteni vilpistella.	</div>
 
-<div class="versenum">34.</div> En mina riko liittoani, ja mita minun suustani kaynyt on, en mina muuta.	
+<div class="theverse"><div class="versenum">34.</div> En mina riko liittoani, ja mita minun suustani kaynyt on, en mina muuta.	</div>
 
-<div class="versenum">35.</div> Mina olen vihdoin vannonut pyhyyteni kautta: en mina Davidille valehtele.	
+<div class="theverse"><div class="versenum">35.</div> Mina olen vihdoin vannonut pyhyyteni kautta: en mina Davidille valehtele.	</div>
 
-<div class="versenum">36.</div> Hanen siemenensa on oleva ijankaikkisesti, ja hanen istuimensa minun edessani niinkuin aurinko.	
+<div class="theverse"><div class="versenum">36.</div> Hanen siemenensa on oleva ijankaikkisesti, ja hanen istuimensa minun edessani niinkuin aurinko.	</div>
 
-<div class="versenum">37.</div> Ja niinkuin kuu, vahvistetaan se ijankaikkisesti, ja on vahvana niinkuin todistus pilvissa, Sela!	
+<div class="theverse"><div class="versenum">37.</div> Ja niinkuin kuu, vahvistetaan se ijankaikkisesti, ja on vahvana niinkuin todistus pilvissa, Sela!	</div>
 
-<div class="versenum">38.</div> Vaan nyt sina syokset ja heitat pois, ja vihastut voidellulles.	
+<div class="theverse"><div class="versenum">38.</div> Vaan nyt sina syokset ja heitat pois, ja vihastut voidellulles.	</div>
 
-<div class="versenum">39.</div> Sina sarjet palvelias liiton, ja tallaat hanen kruununsa maahan.	
+<div class="theverse"><div class="versenum">39.</div> Sina sarjet palvelias liiton, ja tallaat hanen kruununsa maahan.	</div>
 
-<div class="versenum">40.</div> Sina rikot hanen muurinsa, ja annat hanen linnansa sarjettaa.	
+<div class="theverse"><div class="versenum">40.</div> Sina rikot hanen muurinsa, ja annat hanen linnansa sarjettaa.	</div>
 
-<div class="versenum">41.</div> Hanta raatelevat kaikki ohitsekayvaiset: han on tullut lasnaolevaisillensa nauruksi.	
+<div class="theverse"><div class="versenum">41.</div> Hanta raatelevat kaikki ohitsekayvaiset: han on tullut lasnaolevaisillensa nauruksi.	</div>
 
-<div class="versenum">42.</div> Sina korotat hanen vihollistensa oikian kaden, ja ilahutat kaikki hanen vainollisensa.	
+<div class="theverse"><div class="versenum">42.</div> Sina korotat hanen vihollistensa oikian kaden, ja ilahutat kaikki hanen vainollisensa.	</div>
 
-<div class="versenum">43.</div> Hanen miekkansa voiman olet sina myos ottanut pois, ja et salli hanen voittaa sodassa,	
+<div class="theverse"><div class="versenum">43.</div> Hanen miekkansa voiman olet sina myos ottanut pois, ja et salli hanen voittaa sodassa,	</div>
 
-<div class="versenum">44.</div> Sina havitit hanen puhtautensa, ja annoit hanen istuimensa kaatua maahan.	
+<div class="theverse"><div class="versenum">44.</div> Sina havitit hanen puhtautensa, ja annoit hanen istuimensa kaatua maahan.	</div>
 
-<div class="versenum">45.</div> Sina lyhennat hanen nuoruutensa ajat, ja peitat hanen hapialla, Sela!	
+<div class="theverse"><div class="versenum">45.</div> Sina lyhennat hanen nuoruutensa ajat, ja peitat hanen hapialla, Sela!	</div>
 
-<div class="versenum">46.</div> Herra, kuinka kauvan sina sinus niin salaat? ja annat hirmuisuutes palaa niinkuin tulen?	
+<div class="theverse"><div class="versenum">46.</div> Herra, kuinka kauvan sina sinus niin salaat? ja annat hirmuisuutes palaa niinkuin tulen?	</div>
 
-<div class="versenum">47.</div> Muista, kuinka lyhyt minun elamani on: miksis tahdoit kaikki ihmiset hukkaan luoda?	
+<div class="theverse"><div class="versenum">47.</div> Muista, kuinka lyhyt minun elamani on: miksis tahdoit kaikki ihmiset hukkaan luoda?	</div>
 
-<div class="versenum">48.</div> Kuka elaa, ja ei nae kuolemaa? kuka sielunsa tuonelan kasista pelastaa? Sela!	
+<div class="theverse"><div class="versenum">48.</div> Kuka elaa, ja ei nae kuolemaa? kuka sielunsa tuonelan kasista pelastaa? Sela!	</div>
 
-<div class="versenum">49.</div> Herra, kussa ovat sinun entiset armos, jotkas Davidille vannonut olet totuudessas?	
+<div class="theverse"><div class="versenum">49.</div> Herra, kussa ovat sinun entiset armos, jotkas Davidille vannonut olet totuudessas?	</div>
 
-<div class="versenum">50.</div> Muista, Herra, palveliais pilkkaa, jonka mina kannan helmassani, kaikista niin monista kansoista,	
+<div class="theverse"><div class="versenum">50.</div> Muista, Herra, palveliais pilkkaa, jonka mina kannan helmassani, kaikista niin monista kansoista,	</div>
 
-<div class="versenum">51.</div> Joilla, Herra, vihollises pilkkaavat, joilla he pilkkaavat voideltus askelia.	
+<div class="theverse"><div class="versenum">51.</div> Joilla, Herra, vihollises pilkkaavat, joilla he pilkkaavat voideltus askelia.	</div>
 
-<div class="versenum">52.</div> Kiitetty olkoon Herra ijankaikkisesti, amen! ja amen!	
+<div class="theverse"><div class="versenum">52.</div> Kiitetty olkoon Herra ijankaikkisesti, amen! ja amen!	</div>
 </body>
 </html>

@@ -4,136 +4,136 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 8	</div>
 	
-<div class="versenum">1.</div> Silloin kokosi Salomo Israelin vanhimmat, kaikki sukukuntain ylimmaiset ja isain paamiehet Israelin lasten seasta kuningas Salomon tyko Jerusalemiin, viemaan Herran liitonarkkia Davidin kaupungista, se on Zion.	
+<div class="theverse"><div class="versenum">1.</div> Silloin kokosi Salomo Israelin vanhimmat, kaikki sukukuntain ylimmaiset ja isain paamiehet Israelin lasten seasta kuningas Salomon tyko Jerusalemiin, viemaan Herran liitonarkkia Davidin kaupungista, se on Zion.	</div>
 
-<div class="versenum">2.</div> Ja kaikki Israelin miehet kokoontuivat kuningas Salomon tyko Ethanimin kuukaudella, juhlapaivana, se on seitsemas kuukausi.	
+<div class="theverse"><div class="versenum">2.</div> Ja kaikki Israelin miehet kokoontuivat kuningas Salomon tyko Ethanimin kuukaudella, juhlapaivana, se on seitsemas kuukausi.	</div>
 
-<div class="versenum">3.</div> Ja kuin kaikki Israelin vanhimmat tulivat kokoon, nostivat papit arkin,	
+<div class="theverse"><div class="versenum">3.</div> Ja kuin kaikki Israelin vanhimmat tulivat kokoon, nostivat papit arkin,	</div>
 
-<div class="versenum">4.</div> ja kantoivat Herran arkin ja seurakunnan majan, ja kaikki pyhan kalut, jotka majassa olivat: ne veivat papit ja Levilaiset ylos.	
+<div class="theverse"><div class="versenum">4.</div> ja kantoivat Herran arkin ja seurakunnan majan, ja kaikki pyhan kalut, jotka majassa olivat: ne veivat papit ja Levilaiset ylos.	</div>
 
-<div class="versenum">5.</div> Ja kuningas Salomo ja koko Israelin joukko, joka hanen tykonansa itsensa oli koonnut, menivat hanen kanssansa arkin edella, ja uhrasivat lampaita ja karjaa, joita ei arvattu eika luettu paljouden tahden.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuningas Salomo ja koko Israelin joukko, joka hanen tykonansa itsensa oli koonnut, menivat hanen kanssansa arkin edella, ja uhrasivat lampaita ja karjaa, joita ei arvattu eika luettu paljouden tahden.	</div>
 
-<div class="versenum">6.</div> Ja nain kantoivat papit Herran liitonarkin siallensa templin kuoriin, kaikkein pyhimpaan, Kerubimin siipein alle;	
+<div class="theverse"><div class="versenum">6.</div> Ja nain kantoivat papit Herran liitonarkin siallensa templin kuoriin, kaikkein pyhimpaan, Kerubimin siipein alle;	</div>
 
-<div class="versenum">7.</div> Silla Kerubimit hajoittivat siipensa arkin siaan, ja Kerubimit varjosivat arkin ja korennot ylhaalta.	
+<div class="theverse"><div class="versenum">7.</div> Silla Kerubimit hajoittivat siipensa arkin siaan, ja Kerubimit varjosivat arkin ja korennot ylhaalta.	</div>
 
-<div class="versenum">8.</div> Ja korennot vedettiin niin pitkalle ulos, etta niiden paat nakyivat pyhasta kuorin eteen; vaan ulkoapain ne eivat nakyneet; ja ne ovat siella tahan paivaan asti.	
+<div class="theverse"><div class="versenum">8.</div> Ja korennot vedettiin niin pitkalle ulos, etta niiden paat nakyivat pyhasta kuorin eteen; vaan ulkoapain ne eivat nakyneet; ja ne ovat siella tahan paivaan asti.	</div>
 
-<div class="versenum">9.</div> Arkissa ei ollut mitaan, paitsi Moseksen kahta kivista taulua, jotka Moses sinne pani Horebissa, kuin Herra liiton teki Israelin lasten kanssa, heidan lahteissansa Egyptista.	
+<div class="theverse"><div class="versenum">9.</div> Arkissa ei ollut mitaan, paitsi Moseksen kahta kivista taulua, jotka Moses sinne pani Horebissa, kuin Herra liiton teki Israelin lasten kanssa, heidan lahteissansa Egyptista.	</div>
 
-<div class="versenum">10.</div> Ja tapahtui, kun papit menivat pyhasta ulos, niin taytti pilvi Herran huoneen:	
+<div class="theverse"><div class="versenum">10.</div> Ja tapahtui, kun papit menivat pyhasta ulos, niin taytti pilvi Herran huoneen:	</div>
 
-<div class="versenum">11.</div> Niin ettei papit saaneet seisoa ja tehda virkaansa pilven tahden; silla Herran kunnia taytti Herran huoneen.	
+<div class="theverse"><div class="versenum">11.</div> Niin ettei papit saaneet seisoa ja tehda virkaansa pilven tahden; silla Herran kunnia taytti Herran huoneen.	</div>
 
-<div class="versenum">12.</div> Silloin sanoi Salomo: Herra on sanonut asuvansa pimeydessa.	
+<div class="theverse"><div class="versenum">12.</div> Silloin sanoi Salomo: Herra on sanonut asuvansa pimeydessa.	</div>
 
-<div class="versenum">13.</div> Mina olen tosin rakentanut sinulle huoneen asumiseksi ja istuimen, ettas siella asuisit ijankaikkisesti.	
+<div class="theverse"><div class="versenum">13.</div> Mina olen tosin rakentanut sinulle huoneen asumiseksi ja istuimen, ettas siella asuisit ijankaikkisesti.	</div>
 
-<div class="versenum">14.</div> Ja kuningas kaansi kasvonsa ja siunasi koko Israelin joukon. Ja koko Israelin joukko seisoi.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuningas kaansi kasvonsa ja siunasi koko Israelin joukon. Ja koko Israelin joukko seisoi.	</div>
 
-<div class="versenum">15.</div> Ja han sanoi: kiitetty olkoon Herra Israelin Jumala, joka suullansa minun isalleni Davidille puhunut on, ja on tayttanyt kadellansa, ja sanonut:	
+<div class="theverse"><div class="versenum">15.</div> Ja han sanoi: kiitetty olkoon Herra Israelin Jumala, joka suullansa minun isalleni Davidille puhunut on, ja on tayttanyt kadellansa, ja sanonut:	</div>
 
-<div class="versenum">16.</div> Siita paivasta, jona mina johdatin minun kansani Israelin Egyptista, en ole mina yhtaan kaupunkia valinnut kaikesta Israelin sukukunnasta, etta minulle huone rakennettaisiin, niin etta minun nimeni olis siella: mutta Davidin mina olen valinnut minun kansani Israelin paalle.	
+<div class="theverse"><div class="versenum">16.</div> Siita paivasta, jona mina johdatin minun kansani Israelin Egyptista, en ole mina yhtaan kaupunkia valinnut kaikesta Israelin sukukunnasta, etta minulle huone rakennettaisiin, niin etta minun nimeni olis siella: mutta Davidin mina olen valinnut minun kansani Israelin paalle.	</div>
 
-<div class="versenum">17.</div> Ja minun isani David aikoi rakentaa huoneen Herran Israelin Jumalan nimelle.	
+<div class="theverse"><div class="versenum">17.</div> Ja minun isani David aikoi rakentaa huoneen Herran Israelin Jumalan nimelle.	</div>
 
-<div class="versenum">18.</div> Mutta Herra sanoi isalleni Davidille: ettas aioit rakentaa minun nimelleni huonetta, olet sina sen hyvasti tehnyt, ettas sen aioit;	
+<div class="theverse"><div class="versenum">18.</div> Mutta Herra sanoi isalleni Davidille: ettas aioit rakentaa minun nimelleni huonetta, olet sina sen hyvasti tehnyt, ettas sen aioit;	</div>
 
-<div class="versenum">19.</div> Kuitenkin ei sinun pida sita huonetta rakentaman; vaan sinun poikas, joka sinun kupeistas tulee, han on rakentava minun nimelleni huoneen.	
+<div class="theverse"><div class="versenum">19.</div> Kuitenkin ei sinun pida sita huonetta rakentaman; vaan sinun poikas, joka sinun kupeistas tulee, han on rakentava minun nimelleni huoneen.	</div>
 
-<div class="versenum">20.</div> Ja Herra on vahvistanut sanansa, jonka han puhunut on; silla mina olen noussut minun isani Davidin siaan, ja istun Israelin istuimella, niinkuin Herra puhunut on, ja olen rakentanut Herran Israelin Jumalan nimelle huoneen,	
+<div class="theverse"><div class="versenum">20.</div> Ja Herra on vahvistanut sanansa, jonka han puhunut on; silla mina olen noussut minun isani Davidin siaan, ja istun Israelin istuimella, niinkuin Herra puhunut on, ja olen rakentanut Herran Israelin Jumalan nimelle huoneen,	</div>
 
-<div class="versenum">21.</div> Ja olen siella valmistanut arkille sian, kussa Herran liitto on, jonka han teki meidan isillemme, johdattaissansa heita Egyptin maalta.	
+<div class="theverse"><div class="versenum">21.</div> Ja olen siella valmistanut arkille sian, kussa Herran liitto on, jonka han teki meidan isillemme, johdattaissansa heita Egyptin maalta.	</div>
 
-<div class="versenum">22.</div> Ja Salomo seisoi Herran alttarin edessa koko Israelin joukon edessa, ja hajoitti katensa ylos taivaasen pain,	
+<div class="theverse"><div class="versenum">22.</div> Ja Salomo seisoi Herran alttarin edessa koko Israelin joukon edessa, ja hajoitti katensa ylos taivaasen pain,	</div>
 
-<div class="versenum">23.</div> Ja sanoi: Herra Israelin Jumala! ei ole yhtaan Jumalaa sinun vertaistas, ylhaalla taivaasa taikka alhaalla maassa, joka pidat liiton ja laupiuden palvelioilles, jotka sinun edessas kaikesta sydamestansa vaeltavat,	
+<div class="theverse"><div class="versenum">23.</div> Ja sanoi: Herra Israelin Jumala! ei ole yhtaan Jumalaa sinun vertaistas, ylhaalla taivaasa taikka alhaalla maassa, joka pidat liiton ja laupiuden palvelioilles, jotka sinun edessas kaikesta sydamestansa vaeltavat,	</div>
 
-<div class="versenum">24.</div> Joka olet pitanyt sinun palvelialles Davidille, minun isalleni, kaikki mita sina hanelle puhunut olet; sinun suullas sina olet puhunut sen, ja sina olet tayttanyt sen kadellas, niinkuin se tanapana on.	
+<div class="theverse"><div class="versenum">24.</div> Joka olet pitanyt sinun palvelialles Davidille, minun isalleni, kaikki mita sina hanelle puhunut olet; sinun suullas sina olet puhunut sen, ja sina olet tayttanyt sen kadellas, niinkuin se tanapana on.	</div>
 
-<div class="versenum">25.</div> Niin siis, Herra, Israelin Jumala! pida sinun palvelialles Davidille minun isalleni se minka sina hanelle puhunut olet ja sanonut: ei pida sinulta miesta puuttuman minun edessani, joka istuu Israelin istuimella: ainoastaan jos sinun lapses pitavat heidan tiensa, vaeltaaksensa minun edessani, niinkuin sina olet vaeltanut minun edessani.	
+<div class="theverse"><div class="versenum">25.</div> Niin siis, Herra, Israelin Jumala! pida sinun palvelialles Davidille minun isalleni se minka sina hanelle puhunut olet ja sanonut: ei pida sinulta miesta puuttuman minun edessani, joka istuu Israelin istuimella: ainoastaan jos sinun lapses pitavat heidan tiensa, vaeltaaksensa minun edessani, niinkuin sina olet vaeltanut minun edessani.	</div>
 
-<div class="versenum">26.</div> Nyt, Israelin Jumala! anna sanas olla totinen, jonka sina palvelialles Davidille minun isalleni puhunut olet:	
+<div class="theverse"><div class="versenum">26.</div> Nyt, Israelin Jumala! anna sanas olla totinen, jonka sina palvelialles Davidille minun isalleni puhunut olet:	</div>
 
-<div class="versenum">27.</div> Luuletkos Jumalan maan paalla asuvan? Katso taivaat ja taivasten taivaat ei voi sinua kasittaa: kuinka siis tama huone, jonka mina rakensin, sen tekis?	
+<div class="theverse"><div class="versenum">27.</div> Luuletkos Jumalan maan paalla asuvan? Katso taivaat ja taivasten taivaat ei voi sinua kasittaa: kuinka siis tama huone, jonka mina rakensin, sen tekis?	</div>
 
-<div class="versenum">28.</div> Niin kaanna siis sinuas palvelias rukoukseen ja anomiseen, Herra minun Jumalani! ettas kuulisit minun kiitokseni ja rukoukseni, jonka palvelias tanapana rukoilee sinun edessas;	
+<div class="theverse"><div class="versenum">28.</div> Niin kaanna siis sinuas palvelias rukoukseen ja anomiseen, Herra minun Jumalani! ettas kuulisit minun kiitokseni ja rukoukseni, jonka palvelias tanapana rukoilee sinun edessas;	</div>
 
-<div class="versenum">29.</div> Etta sinun silmas avoinna olis taman huoneen puoleen yolla ja paivalla, ja siina paikassa, jostas sanonut olet: minun nimeni pitaa oleman siella; ettas kuulisit sen rukouksen, jonka sinun palvelias rukoilee tassa paikassa,	
+<div class="theverse"><div class="versenum">29.</div> Etta sinun silmas avoinna olis taman huoneen puoleen yolla ja paivalla, ja siina paikassa, jostas sanonut olet: minun nimeni pitaa oleman siella; ettas kuulisit sen rukouksen, jonka sinun palvelias rukoilee tassa paikassa,	</div>
 
-<div class="versenum">30.</div> Ja kuulisit sinun palvelias ja kansas Israelin hartaan rukouksen, jonka he tassa paikassa rukoilevat: ja sina kuulisit sen siella, kussas asut taivaissa, ja koskas sen kuulet, olisit armollinen.	
+<div class="theverse"><div class="versenum">30.</div> Ja kuulisit sinun palvelias ja kansas Israelin hartaan rukouksen, jonka he tassa paikassa rukoilevat: ja sina kuulisit sen siella, kussas asut taivaissa, ja koskas sen kuulet, olisit armollinen.	</div>
 
-<div class="versenum">31.</div> Koska joku rikkoo lahimmaistansa vastaan, ja ottaa valan paallensa, jolla han hanensa velkapaaksi tekee, ja vala tulee sinun alttaris eteen tassa huoneessa:	
+<div class="theverse"><div class="versenum">31.</div> Koska joku rikkoo lahimmaistansa vastaan, ja ottaa valan paallensa, jolla han hanensa velkapaaksi tekee, ja vala tulee sinun alttaris eteen tassa huoneessa:	</div>
 
-<div class="versenum">32.</div> Ettas kuulisit taivaissa, ja saattaisit palvelioilles oikeuden, ettas tuomitsisit jumalattoman ja antaisit hanen tiensa tulla hanen paansa paalle, ja vanhurskaaksi tekisit viattoman, ja tekisit hanelle hanen oikeutensa jalkeen.	
+<div class="theverse"><div class="versenum">32.</div> Ettas kuulisit taivaissa, ja saattaisit palvelioilles oikeuden, ettas tuomitsisit jumalattoman ja antaisit hanen tiensa tulla hanen paansa paalle, ja vanhurskaaksi tekisit viattoman, ja tekisit hanelle hanen oikeutensa jalkeen.	</div>
 
-<div class="versenum">33.</div> Jos sinun kansas Israel lyodaan vihamiestensa edessa, etta he ovat syntia tehneet sinua vastaan, ja he kaantavat itsensa sinun tykos, ja tunnustavat sinun nimes, ja rukoilevat ja anteeksi anovat sinulta tassa huoneessa:	
+<div class="theverse"><div class="versenum">33.</div> Jos sinun kansas Israel lyodaan vihamiestensa edessa, etta he ovat syntia tehneet sinua vastaan, ja he kaantavat itsensa sinun tykos, ja tunnustavat sinun nimes, ja rukoilevat ja anteeksi anovat sinulta tassa huoneessa:	</div>
 
-<div class="versenum">34.</div> Ettas kuulisit taivaissa, ja sinun kansas Israelin synnille armollinen olisit, ja johdattaisit heita sille maalle jalleen, jonka heidan isillensa antanut olet.	
+<div class="theverse"><div class="versenum">34.</div> Ettas kuulisit taivaissa, ja sinun kansas Israelin synnille armollinen olisit, ja johdattaisit heita sille maalle jalleen, jonka heidan isillensa antanut olet.	</div>
 
-<div class="versenum">35.</div> Jos taivaat suljetut ovat, niin ettei sada, etta he sinua vastaan rikkoneet ovat, ja rukoilevat tassa siassa, ja tunnustavat sinun nimes, ja kaantavat itsensa synnistansa, ettas rankaiset heita.	
+<div class="theverse"><div class="versenum">35.</div> Jos taivaat suljetut ovat, niin ettei sada, etta he sinua vastaan rikkoneet ovat, ja rukoilevat tassa siassa, ja tunnustavat sinun nimes, ja kaantavat itsensa synnistansa, ettas rankaiset heita.	</div>
 
-<div class="versenum">36.</div> Ettas kuulisit heita taivaissa, ja olisit sinun palvelias ja kansas Israelin synnille armollinen, etta osoitat heille sen hyvan tien, jota heidan vaeltaman pitaa; ja annat sataa sinun maas paalle, jonka kansalles perimiseksi antanut olet.	
+<div class="theverse"><div class="versenum">36.</div> Ettas kuulisit heita taivaissa, ja olisit sinun palvelias ja kansas Israelin synnille armollinen, etta osoitat heille sen hyvan tien, jota heidan vaeltaman pitaa; ja annat sataa sinun maas paalle, jonka kansalles perimiseksi antanut olet.	</div>
 
-<div class="versenum">37.</div> Jos kallis aika tulee maalle, eli rutto tulee, taikka pouta, eli ruoste, taikka kaskat, eli jyvamadot maan paalle tulevat, taikka vihamiehet piirittavat maakunnassa heidan porttinsa, taikka kaikkinainen vitsaus, eli kaikkinainen sairaus tulee;	
+<div class="theverse"><div class="versenum">37.</div> Jos kallis aika tulee maalle, eli rutto tulee, taikka pouta, eli ruoste, taikka kaskat, eli jyvamadot maan paalle tulevat, taikka vihamiehet piirittavat maakunnassa heidan porttinsa, taikka kaikkinainen vitsaus, eli kaikkinainen sairaus tulee;	</div>
 
-<div class="versenum">38.</div> Kaikki rukoukset, kaikki anteeksi anomiset mitka kaikki ihmiset, kaikki sinun kansas Israel tekevat, koska he ymmartavat vitsauksen itsekukin sydamessansa, ja hajoittavat katensa taman huoneen puoleen:	
+<div class="theverse"><div class="versenum">38.</div> Kaikki rukoukset, kaikki anteeksi anomiset mitka kaikki ihmiset, kaikki sinun kansas Israel tekevat, koska he ymmartavat vitsauksen itsekukin sydamessansa, ja hajoittavat katensa taman huoneen puoleen:	</div>
 
-<div class="versenum">39.</div> Ettas silloin kuulisit taivaissa, siita siasta, kussas asut, ja olisit armollinen ja tekisit sen niin, ettas annat itsekullekin niinkuin han vaeltanut on, niin kuin sina hanen sydamensa tunnet; silla sina ainoastaan tunnet kaikkein ihmisten lasten sydamet.	
+<div class="theverse"><div class="versenum">39.</div> Ettas silloin kuulisit taivaissa, siita siasta, kussas asut, ja olisit armollinen ja tekisit sen niin, ettas annat itsekullekin niinkuin han vaeltanut on, niin kuin sina hanen sydamensa tunnet; silla sina ainoastaan tunnet kaikkein ihmisten lasten sydamet.	</div>
 
-<div class="versenum">40.</div> Etta he aina sinua pelkaisivat, niinkauvan kuin he maan paalla elavat, jonkas meidan isillemme antanut olet.	
+<div class="theverse"><div class="versenum">40.</div> Etta he aina sinua pelkaisivat, niinkauvan kuin he maan paalla elavat, jonkas meidan isillemme antanut olet.	</div>
 
-<div class="versenum">41.</div> Jos myos joku muukalaisista, joka ei ole sinun kansaas Israelia, tulee kaukaiselta maalta sinun nimes tahden;	
+<div class="theverse"><div class="versenum">41.</div> Jos myos joku muukalaisista, joka ei ole sinun kansaas Israelia, tulee kaukaiselta maalta sinun nimes tahden;	</div>
 
-<div class="versenum">42.</div> Silla he saavat kuulla sinun suuresta nimestas, ja voimallisesta kadestas, ja ojetusta kasivarrestas: ja joku tulee rukoilemaan tahan huoneesen:	
+<div class="theverse"><div class="versenum">42.</div> Silla he saavat kuulla sinun suuresta nimestas, ja voimallisesta kadestas, ja ojetusta kasivarrestas: ja joku tulee rukoilemaan tahan huoneesen:	</div>
 
-<div class="versenum">43.</div> Ettas kuulisit taivaissa siita siasta, kussas asut, ja tekisit kaiken sen, minka muukalainen sinulta anoo: etta kaikki kansa maan paalla tuntis sinun nimes, etta he myos pelkaisivat sinua niinkuin sinun kansas Israel, ja tietaisivat, etta sinun nimeas avuksihuudetaan tassa huoneessa, jonka mina rakentanut olen.	
+<div class="theverse"><div class="versenum">43.</div> Ettas kuulisit taivaissa siita siasta, kussas asut, ja tekisit kaiken sen, minka muukalainen sinulta anoo: etta kaikki kansa maan paalla tuntis sinun nimes, etta he myos pelkaisivat sinua niinkuin sinun kansas Israel, ja tietaisivat, etta sinun nimeas avuksihuudetaan tassa huoneessa, jonka mina rakentanut olen.	</div>
 
-<div class="versenum">44.</div> Jos sinun kansas vaeltaa sotaan vihamiehiansa vastaan sita tieta, jota heidan lahetat, ja he rukoilevat Herraa tiella kaupungin puoleen, jonka valinnut olet, ja huoneen puoleen, jonka mina sinun nimelles rakentanut olen:	
+<div class="theverse"><div class="versenum">44.</div> Jos sinun kansas vaeltaa sotaan vihamiehiansa vastaan sita tieta, jota heidan lahetat, ja he rukoilevat Herraa tiella kaupungin puoleen, jonka valinnut olet, ja huoneen puoleen, jonka mina sinun nimelles rakentanut olen:	</div>
 
-<div class="versenum">45.</div> Ettas kuulisit heidan rukouksensa ja anomisensa taivaissa, ja saattaisit heille oikeuden.	
+<div class="theverse"><div class="versenum">45.</div> Ettas kuulisit heidan rukouksensa ja anomisensa taivaissa, ja saattaisit heille oikeuden.	</div>
 
-<div class="versenum">46.</div> Jos he syntia tekevat sinua vastaan (silla ei ole yhtakaan ihmista, joka ei syntia tee) ja sina vihastut heidan paallensa, ja annat heidat vihamiehen kasiin, niin etta he vievat heita vankina vihollisen maalle, taamma eli lahemma;	
+<div class="theverse"><div class="versenum">46.</div> Jos he syntia tekevat sinua vastaan (silla ei ole yhtakaan ihmista, joka ei syntia tee) ja sina vihastut heidan paallensa, ja annat heidat vihamiehen kasiin, niin etta he vievat heita vankina vihollisen maalle, taamma eli lahemma;	</div>
 
-<div class="versenum">47.</div> Ja he tekisivat sydamestansa parannuksen siina maassa, jossa he vankina ovat, ja he palajaisivat sinua rukoilemaan vankeutensa maalla, sanoen: me rikoimme ja teimme pahoin, ja olimme jumalattomat;	
+<div class="theverse"><div class="versenum">47.</div> Ja he tekisivat sydamestansa parannuksen siina maassa, jossa he vankina ovat, ja he palajaisivat sinua rukoilemaan vankeutensa maalla, sanoen: me rikoimme ja teimme pahoin, ja olimme jumalattomat;	</div>
 
-<div class="versenum">48.</div> Ja he niin palajaisivat sinun tykos kaikesta sydamestansa ja kaikesta sielustansa vihamiestensa maalla, jotka heita vangiksi vieneet ovat pois; ja he rukoilevat sinua tiella maansa puoleen, jonka heidan isillensa antanut olet, sen kaupungin puoleen, jonka mina sinun nimelles rakentanut olen:	
+<div class="theverse"><div class="versenum">48.</div> Ja he niin palajaisivat sinun tykos kaikesta sydamestansa ja kaikesta sielustansa vihamiestensa maalla, jotka heita vangiksi vieneet ovat pois; ja he rukoilevat sinua tiella maansa puoleen, jonka heidan isillensa antanut olet, sen kaupungin puoleen, jonka mina sinun nimelles rakentanut olen:	</div>
 
-<div class="versenum">49.</div> Etta kuulisit heidan rukouksensa ja anteeksi anomisensa taivaissa, siita siasta, kussa sina asut, ja saattaisit heille oikeuden,	
+<div class="theverse"><div class="versenum">49.</div> Etta kuulisit heidan rukouksensa ja anteeksi anomisensa taivaissa, siita siasta, kussa sina asut, ja saattaisit heille oikeuden,	</div>
 
-<div class="versenum">50.</div> Ja olisit sinun kansalles armollinen, jotka sinua vastaan syntia tehneet ovat, ja kaikille heidan rikoksillensa, joilla he rikkoneet ovat sinua vastaan: ja antaisit heille armon niilta, jotka heita vankina pitavat, ja he armahtaisivat heidan paallensa.	
+<div class="theverse"><div class="versenum">50.</div> Ja olisit sinun kansalles armollinen, jotka sinua vastaan syntia tehneet ovat, ja kaikille heidan rikoksillensa, joilla he rikkoneet ovat sinua vastaan: ja antaisit heille armon niilta, jotka heita vankina pitavat, ja he armahtaisivat heidan paallensa.	</div>
 
-<div class="versenum">51.</div> Silla he ovat sinun kansas ja sinun perimises, jotka sina Egyptista johdatit rautaisesta patsista;	
+<div class="theverse"><div class="versenum">51.</div> Silla he ovat sinun kansas ja sinun perimises, jotka sina Egyptista johdatit rautaisesta patsista;	</div>
 
-<div class="versenum">52.</div> Etta sinun silmas olisivat avoinna sinun palvelias anomiseen ja sinun kansas Israelin rukoukseen; ettas heita kaikissa kuulisit, joiden tahden he sinun tykos huutavat.	
+<div class="theverse"><div class="versenum">52.</div> Etta sinun silmas olisivat avoinna sinun palvelias anomiseen ja sinun kansas Israelin rukoukseen; ettas heita kaikissa kuulisit, joiden tahden he sinun tykos huutavat.	</div>
 
-<div class="versenum">53.</div> Silla sina olet heidat erottanut sinulles perimiseksi kaikista kansoista maan paalla, niinkuin sina sanonut olet sinun palvelialles Moseksen kautta, kuin sina meidan isamme johdatit Egyptista, Herra, Herra!	
+<div class="theverse"><div class="versenum">53.</div> Silla sina olet heidat erottanut sinulles perimiseksi kaikista kansoista maan paalla, niinkuin sina sanonut olet sinun palvelialles Moseksen kautta, kuin sina meidan isamme johdatit Egyptista, Herra, Herra!	</div>
 
-<div class="versenum">54.</div> Ja koska Salomo oli kaiken taman rukouksen ja anomisen lopettanut Herran edessa, nousi han Herran alttarin edesta polviansa kumartamasta ja hajoittamasta kasiansa taivaasen pain,	
+<div class="theverse"><div class="versenum">54.</div> Ja koska Salomo oli kaiken taman rukouksen ja anomisen lopettanut Herran edessa, nousi han Herran alttarin edesta polviansa kumartamasta ja hajoittamasta kasiansa taivaasen pain,	</div>
 
-<div class="versenum">55.</div> Ja seisoi ja siunasi koko Israelin joukon, korotetulla aanella, ja sanoi:	
+<div class="theverse"><div class="versenum">55.</div> Ja seisoi ja siunasi koko Israelin joukon, korotetulla aanella, ja sanoi:	</div>
 
-<div class="versenum">56.</div> Kiitetty olkoon Herra, joka kansallensa Israelille levon antanut on, kaiken sen jalkeen kuin han puhunut on: ei yhtakaan ole puuttunut hanen hyvista sanoistansa, jotka han palveliansa Moseksen kautta puhunut on.	
+<div class="theverse"><div class="versenum">56.</div> Kiitetty olkoon Herra, joka kansallensa Israelille levon antanut on, kaiken sen jalkeen kuin han puhunut on: ei yhtakaan ole puuttunut hanen hyvista sanoistansa, jotka han palveliansa Moseksen kautta puhunut on.	</div>
 
-<div class="versenum">57.</div> Herra meidan Jumalamme olkoon meidan kanssamme, niinkuin han on ollut meidan isaimme kanssa: alkoon meita hyljatko, eika ylonantako meita,	
+<div class="theverse"><div class="versenum">57.</div> Herra meidan Jumalamme olkoon meidan kanssamme, niinkuin han on ollut meidan isaimme kanssa: alkoon meita hyljatko, eika ylonantako meita,	</div>
 
-<div class="versenum">58.</div> Etta han kaantais meidan sydamemme tykonsa, etta me vaeltaisimme kaikissa hanen teissansa ja pitaisimme hanen kaskynsa, saatynsa ja oikeutensa, jotka han meidan isillemme kaskenyt on;	
+<div class="theverse"><div class="versenum">58.</div> Etta han kaantais meidan sydamemme tykonsa, etta me vaeltaisimme kaikissa hanen teissansa ja pitaisimme hanen kaskynsa, saatynsa ja oikeutensa, jotka han meidan isillemme kaskenyt on;	</div>
 
-<div class="versenum">59.</div> Ja etta namat minun sanani, jotka mina Herran edessa rukoillut olen, olisivat lasna Herran meidan Jumalamme tykona paivalla ja yolla; etta han saattais palveliallensa ja Israelille kansallensa oikeuden, itsekullakin ajallansa;	
+<div class="theverse"><div class="versenum">59.</div> Ja etta namat minun sanani, jotka mina Herran edessa rukoillut olen, olisivat lasna Herran meidan Jumalamme tykona paivalla ja yolla; etta han saattais palveliallensa ja Israelille kansallensa oikeuden, itsekullakin ajallansa;	</div>
 
-<div class="versenum">60.</div> Etta kaikki kansat maan paalla tietaisivat, etta Herra on itse Jumala, ja ei yksikaan muu.	
+<div class="theverse"><div class="versenum">60.</div> Etta kaikki kansat maan paalla tietaisivat, etta Herra on itse Jumala, ja ei yksikaan muu.	</div>
 
-<div class="versenum">61.</div> Ja teidan sydamenne olkoon vakaa Herran meidan Jumalamme edessa, vaeltamaan hanen saadyissansa ja pitamaan hanen kaskynsa, niin kuin se tanapana on.	
+<div class="theverse"><div class="versenum">61.</div> Ja teidan sydamenne olkoon vakaa Herran meidan Jumalamme edessa, vaeltamaan hanen saadyissansa ja pitamaan hanen kaskynsa, niin kuin se tanapana on.	</div>
 
-<div class="versenum">62.</div> Ja kuningas ja koko Israel hanen kanssansa uhrasivat uhria Herran edessa.	
+<div class="theverse"><div class="versenum">62.</div> Ja kuningas ja koko Israel hanen kanssansa uhrasivat uhria Herran edessa.	</div>
 
-<div class="versenum">63.</div> Ja Salomo uhrasi kiitosuhria (jonka han Herralle uhrasi,) kaksikolmattakymmenta tuhatta harkaa ja sata ja kaksikymmenta tuhatta lammasta. Nain he vihkivat Herran huoneen, kuningas ja kaikki Israelin lapset.	
+<div class="theverse"><div class="versenum">63.</div> Ja Salomo uhrasi kiitosuhria (jonka han Herralle uhrasi,) kaksikolmattakymmenta tuhatta harkaa ja sata ja kaksikymmenta tuhatta lammasta. Nain he vihkivat Herran huoneen, kuningas ja kaikki Israelin lapset.	</div>
 
-<div class="versenum">64.</div> Sina paivana pyhitti kuningas keskikartanon, joka oli Herran huoneen edessa; silla han teki siella polttouhrin, ruokauhrin ja kiitosuhrin lihavuuden; silla vaskialttari, joka Herran edessa oli, oli vahainen polttouhriin, ruokauhriin ja kiitosuhrin lihavuuteen.	
+<div class="theverse"><div class="versenum">64.</div> Sina paivana pyhitti kuningas keskikartanon, joka oli Herran huoneen edessa; silla han teki siella polttouhrin, ruokauhrin ja kiitosuhrin lihavuuden; silla vaskialttari, joka Herran edessa oli, oli vahainen polttouhriin, ruokauhriin ja kiitosuhrin lihavuuteen.	</div>
 
-<div class="versenum">65.</div> Ja Salomo piti siihen aikaan juhlaa, ja koko Israel hanen kanssansa, suuressa kokouksessa, Hematin rajasta Egyptin virtaan asti, Herran meidan Jumalamme edessa, seitseman paivaa, ja taas seitseman paivaa: (se on) neljatoistakymmenta paivaa.	
+<div class="theverse"><div class="versenum">65.</div> Ja Salomo piti siihen aikaan juhlaa, ja koko Israel hanen kanssansa, suuressa kokouksessa, Hematin rajasta Egyptin virtaan asti, Herran meidan Jumalamme edessa, seitseman paivaa, ja taas seitseman paivaa: (se on) neljatoistakymmenta paivaa.	</div>
 
-<div class="versenum">66.</div> Ja kahdeksantena paivana paasti han kansan menemaan, ja he siunasivat kuningasta, ja vaelsivat majoillensa, iloiten ja riemuiten kaikesta siita hyvyydesta, minka Herra palveliallensa Davidille ja kansallensa Israelille tehnyt oli.	
+<div class="theverse"><div class="versenum">66.</div> Ja kahdeksantena paivana paasti han kansan menemaan, ja he siunasivat kuningasta, ja vaelsivat majoillensa, iloiten ja riemuiten kaikesta siita hyvyydesta, minka Herra palveliallensa Davidille ja kansallensa Israelille tehnyt oli.	</div>
 </body>
 </html>

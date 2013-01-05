@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">Psalmien 80	</div>
 	
-<div class="versenum">1.</div> Asaphin Psalmi, kultasesta kukkaisesta, edellaveisaajalle. (H80:2) Kuules, Israelin paimen, joka saatat Josephin niinkuin lampaat: ilmoita sinus, joka istut Kerubimin paalla.	
+<div class="theverse"><div class="versenum">1.</div> Asaphin Psalmi, kultasesta kukkaisesta, edellaveisaajalle. (H80:2) Kuules, Israelin paimen, joka saatat Josephin niinkuin lampaat: ilmoita sinus, joka istut Kerubimin paalla.	</div>
 
-<div class="versenum">2.</div> Herata voimas, sina joka Ephraimin, Benjaminin ja Manassen edessa olet, ja tule meidan avuksemme.	
+<div class="theverse"><div class="versenum">2.</div> Herata voimas, sina joka Ephraimin, Benjaminin ja Manassen edessa olet, ja tule meidan avuksemme.	</div>
 
-<div class="versenum">3.</div> Jumala, kaanna meita, ja anna kasvos paistaa, niin me tulemme autetuksi.	
+<div class="theverse"><div class="versenum">3.</div> Jumala, kaanna meita, ja anna kasvos paistaa, niin me tulemme autetuksi.	</div>
 
-<div class="versenum">4.</div> Herra Jumala Zebaot, kuinka kauvan sina vihastut kansas rukouksiin?	
+<div class="theverse"><div class="versenum">4.</div> Herra Jumala Zebaot, kuinka kauvan sina vihastut kansas rukouksiin?	</div>
 
-<div class="versenum">5.</div> Sina ruokit heita kyyneleiden leivalla, ja juotat heita suurella mitalla, taynna kyyneleita,	
+<div class="theverse"><div class="versenum">5.</div> Sina ruokit heita kyyneleiden leivalla, ja juotat heita suurella mitalla, taynna kyyneleita,	</div>
 
-<div class="versenum">6.</div> Sina olet meidat pannut riidaksi lasnaasuvaisillemme; ja meidan vihollisemme pilkkaavat meita.	
+<div class="theverse"><div class="versenum">6.</div> Sina olet meidat pannut riidaksi lasnaasuvaisillemme; ja meidan vihollisemme pilkkaavat meita.	</div>
 
-<div class="versenum">7.</div> Jumala Zebaot, kaanna meita, ja anna kasvos paistaa, niin me autetuksi tulemme.	
+<div class="theverse"><div class="versenum">7.</div> Jumala Zebaot, kaanna meita, ja anna kasvos paistaa, niin me autetuksi tulemme.	</div>
 
-<div class="versenum">8.</div> Sina toit viinapuun Egyptista, olet pakanat karkoittanut ulos, ja sen istuttanut.	
+<div class="theverse"><div class="versenum">8.</div> Sina toit viinapuun Egyptista, olet pakanat karkoittanut ulos, ja sen istuttanut.	</div>
 
-<div class="versenum">9.</div> Sina perkasit tien hanen eteensa, ja annoit hanen hyvasti juurtua, niin etta se taytti maan.	
+<div class="theverse"><div class="versenum">9.</div> Sina perkasit tien hanen eteensa, ja annoit hanen hyvasti juurtua, niin etta se taytti maan.	</div>
 
-<div class="versenum">10.</div> Vuoret ovat sen varjolla peitetyt, ja hanen oksillansa Jumalan sedripuut.	
+<div class="theverse"><div class="versenum">10.</div> Vuoret ovat sen varjolla peitetyt, ja hanen oksillansa Jumalan sedripuut.	</div>
 
-<div class="versenum">11.</div> Sina levitit hanen oksansa hamaan mereen asti, ja hanen haaransa hamaan virran tyko.	
+<div class="theverse"><div class="versenum">11.</div> Sina levitit hanen oksansa hamaan mereen asti, ja hanen haaransa hamaan virran tyko.	</div>
 
-<div class="versenum">12.</div> Miksis siis sarjit hanen aitansa, etta sita kaikki ohitsekayvat repivat.	
+<div class="theverse"><div class="versenum">12.</div> Miksis siis sarjit hanen aitansa, etta sita kaikki ohitsekayvat repivat.	</div>
 
-<div class="versenum">13.</div> Metsasika on sen kaivanut ylos, ja metsan pedot sen syovat.	
+<div class="theverse"><div class="versenum">13.</div> Metsasika on sen kaivanut ylos, ja metsan pedot sen syovat.	</div>
 
-<div class="versenum">14.</div> Jumala Zebaot, kaanna siis sinuas, katso alas taivaasta ja nae, ja etsi sita viinapuuta,	
+<div class="theverse"><div class="versenum">14.</div> Jumala Zebaot, kaanna siis sinuas, katso alas taivaasta ja nae, ja etsi sita viinapuuta,	</div>
 
-<div class="versenum">15.</div> Ja pida se kiintiana, jonka sinun oikia kates on istuttanut, (ihmisen) pojan tahden, jonka sinulles lujasti valinnut olet.	
+<div class="theverse"><div class="versenum">15.</div> Ja pida se kiintiana, jonka sinun oikia kates on istuttanut, (ihmisen) pojan tahden, jonka sinulles lujasti valinnut olet.	</div>
 
-<div class="versenum">16.</div> Se on poltettu tulella ja revitty: sinun uhkauksestas he ovat hukkuneet.	
+<div class="theverse"><div class="versenum">16.</div> Se on poltettu tulella ja revitty: sinun uhkauksestas he ovat hukkuneet.	</div>
 
-<div class="versenum">17.</div> Sinun kates varjelkoon oikian kates kansan, ja ihmisen pojan, jonka sinulles lujasti valinnut olet.	
+<div class="theverse"><div class="versenum">17.</div> Sinun kates varjelkoon oikian kates kansan, ja ihmisen pojan, jonka sinulles lujasti valinnut olet.	</div>
 
-<div class="versenum">18.</div> Niin emme sinusta luovu: suo meidan elaa, niin me sinun nimeas avuksi huudamme.	
+<div class="theverse"><div class="versenum">18.</div> Niin emme sinusta luovu: suo meidan elaa, niin me sinun nimeas avuksi huudamme.	</div>
 
-<div class="versenum">19.</div> Herra Jumala Zebaot, kaanna meita: anna kasvos paistaa, niin me autetuksi tulemme.	
+<div class="theverse"><div class="versenum">19.</div> Herra Jumala Zebaot, kaanna meita: anna kasvos paistaa, niin me autetuksi tulemme.	</div>
 </body>
 </html>

@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">1 Timoteukselle 5	</div>
 	
-<div class="versenum">1.</div> Ala vanhaa kovin nuhtele, vaan neuvo hanta niinkuin isaa, nuoria niinkuin veljia,	
+<div class="theverse"><div class="versenum">1.</div> Ala vanhaa kovin nuhtele, vaan neuvo hanta niinkuin isaa, nuoria niinkuin veljia,	</div>
 
-<div class="versenum">2.</div> Vanhoja vaimoja niinkuin aiteja, nuoria niinkuin sisaria, kaikella puhtaudella.	
+<div class="theverse"><div class="versenum">2.</div> Vanhoja vaimoja niinkuin aiteja, nuoria niinkuin sisaria, kaikella puhtaudella.	</div>
 
-<div class="versenum">3.</div> Kunnioita niita leskia, jotka oikiat lesket ovat.	
+<div class="theverse"><div class="versenum">3.</div> Kunnioita niita leskia, jotka oikiat lesket ovat.	</div>
 
-<div class="versenum">4.</div> Mutta jos jollakulla leskella lapsia on eli lasten lapsia, ne oppikaan ensin oman huoneensa jumalisesti hallitsemaan ja vanhempainsa hyvan tyon maksamaan; silla se on hyvin tehty ja Jumalalle otollinen.	
+<div class="theverse"><div class="versenum">4.</div> Mutta jos jollakulla leskella lapsia on eli lasten lapsia, ne oppikaan ensin oman huoneensa jumalisesti hallitsemaan ja vanhempainsa hyvan tyon maksamaan; silla se on hyvin tehty ja Jumalalle otollinen.	</div>
 
-<div class="versenum">5.</div> Ja se on oikia leski, joka yksinansa on ja asettaa toivonsa Jumalan paalle, pysyin aina rukouksissa ja avuksihuutamisessa yota ja paivaa;	
+<div class="theverse"><div class="versenum">5.</div> Ja se on oikia leski, joka yksinansa on ja asettaa toivonsa Jumalan paalle, pysyin aina rukouksissa ja avuksihuutamisessa yota ja paivaa;	</div>
 
-<div class="versenum">6.</div> Mutta joka hekumassa elaa, se on elavalta kuollut.	
+<div class="theverse"><div class="versenum">6.</div> Mutta joka hekumassa elaa, se on elavalta kuollut.	</div>
 
-<div class="versenum">7.</div> Senkaltaisia neuvo, etta he nuhteettomat olisivat.	
+<div class="theverse"><div class="versenum">7.</div> Senkaltaisia neuvo, etta he nuhteettomat olisivat.	</div>
 
-<div class="versenum">8.</div> Mutta jos ei joku omistansa, liiatenkin perheestansa, murhetta pida, se on uskon kieltanyt ja on pakanaa pahempi.	
+<div class="theverse"><div class="versenum">8.</div> Mutta jos ei joku omistansa, liiatenkin perheestansa, murhetta pida, se on uskon kieltanyt ja on pakanaa pahempi.	</div>
 
-<div class="versenum">9.</div> Ala salli nuorempaa leskea otettaa kuin kuudenkymmenen ajastaikaista, joka yhden miehen emanta on ollut,	
+<div class="theverse"><div class="versenum">9.</div> Ala salli nuorempaa leskea otettaa kuin kuudenkymmenen ajastaikaista, joka yhden miehen emanta on ollut,	</div>
 
-<div class="versenum">10.</div> Ja jolla on hyvista toista todistus, jos han lapsia kasvattanut on, jos han vierasten holhooja ollut on, jos han pyhain jalkoja pessyt on, jos han murheellisia auttanut on, jos han on kaikessa hyvassa tyossa ahkera ollut.	
+<div class="theverse"><div class="versenum">10.</div> Ja jolla on hyvista toista todistus, jos han lapsia kasvattanut on, jos han vierasten holhooja ollut on, jos han pyhain jalkoja pessyt on, jos han murheellisia auttanut on, jos han on kaikessa hyvassa tyossa ahkera ollut.	</div>
 
-<div class="versenum">11.</div> Mutta nuoret lesket hylkaa; silla koska he suuttuvat Kristukseen, niin he tahtovat huolla,	
+<div class="theverse"><div class="versenum">11.</div> Mutta nuoret lesket hylkaa; silla koska he suuttuvat Kristukseen, niin he tahtovat huolla,	</div>
 
-<div class="versenum">12.</div> Joilla on heidan tuomionsa, etta he sen ensimaisen uskon rikkoneet ovat.	
+<div class="theverse"><div class="versenum">12.</div> Joilla on heidan tuomionsa, etta he sen ensimaisen uskon rikkoneet ovat.	</div>
 
-<div class="versenum">13.</div> Niin myos joutilaina ollessansa oppivat he huoneita ymparinsa juoksentelemaan; vaan ei he ainoastaan ole joutilaat, mutta myos kielevat, hempeat ja puhuvat luvattomia.	
+<div class="theverse"><div class="versenum">13.</div> Niin myos joutilaina ollessansa oppivat he huoneita ymparinsa juoksentelemaan; vaan ei he ainoastaan ole joutilaat, mutta myos kielevat, hempeat ja puhuvat luvattomia.	</div>
 
-<div class="versenum">14.</div> Sentahden mina tahdon, etta nuoret lesket huolisivat, lapsia kasvattaisivat, huoneen hallituksesta vaaria pitaisivat, eika antaisi tilaa vastaanseisojille pahoin puhua.	
+<div class="theverse"><div class="versenum">14.</div> Sentahden mina tahdon, etta nuoret lesket huolisivat, lapsia kasvattaisivat, huoneen hallituksesta vaaria pitaisivat, eika antaisi tilaa vastaanseisojille pahoin puhua.	</div>
 
-<div class="versenum">15.</div> Silla muutamat ovat jo saatanan jalkeen palanneet.	
+<div class="theverse"><div class="versenum">15.</div> Silla muutamat ovat jo saatanan jalkeen palanneet.	</div>
 
-<div class="versenum">16.</div> Jos nyt jollakin uskollisella miehella eli vaimolla leskia on, se heita holhokoon ja alkaan seurakuntaa rasittako, etta oikeille leskille taytyis.	
+<div class="theverse"><div class="versenum">16.</div> Jos nyt jollakin uskollisella miehella eli vaimolla leskia on, se heita holhokoon ja alkaan seurakuntaa rasittako, etta oikeille leskille taytyis.	</div>
 
-<div class="versenum">17.</div> Vanhimmat, jotka hyvin hallitsevat, pitaa kaksinkertaisessa kunniassa pidettaman, erinomattain ne, jotka sanassa ja opissa tyota tekevat.	
+<div class="theverse"><div class="versenum">17.</div> Vanhimmat, jotka hyvin hallitsevat, pitaa kaksinkertaisessa kunniassa pidettaman, erinomattain ne, jotka sanassa ja opissa tyota tekevat.	</div>
 
-<div class="versenum">18.</div> Silla Raamattu sanoo: ei sinun pida riihta tappavan harjan suuta sitoman kiinni, ja tyomies on palkkansa ansainnut.	
+<div class="theverse"><div class="versenum">18.</div> Silla Raamattu sanoo: ei sinun pida riihta tappavan harjan suuta sitoman kiinni, ja tyomies on palkkansa ansainnut.	</div>
 
-<div class="versenum">19.</div> Ala salli vanhinta vastaan yhtaan kannetta, vaan kahden eli kolmen todistuksen kautta.	
+<div class="theverse"><div class="versenum">19.</div> Ala salli vanhinta vastaan yhtaan kannetta, vaan kahden eli kolmen todistuksen kautta.	</div>
 
-<div class="versenum">20.</div> Nuhtele niita, jotka syntia tekevat, kaikkein kuullen, etta muutkin pelkaisivat.	
+<div class="theverse"><div class="versenum">20.</div> Nuhtele niita, jotka syntia tekevat, kaikkein kuullen, etta muutkin pelkaisivat.	</div>
 
-<div class="versenum">21.</div> Mina rukoilen Jumalan ja Herran Jesuksen Kristuksen ja valittuin enkelien edessa, ettas namat pidat ilman valitsemista, ja ala mitaan tee toisen puolta pitain.	
+<div class="theverse"><div class="versenum">21.</div> Mina rukoilen Jumalan ja Herran Jesuksen Kristuksen ja valittuin enkelien edessa, ettas namat pidat ilman valitsemista, ja ala mitaan tee toisen puolta pitain.	</div>
 
-<div class="versenum">22.</div> Ala pikaisesti jonkun paalle kasias pane, ja ala ole muiden synneista osallinen: pida itses puhtaana.	
+<div class="theverse"><div class="versenum">22.</div> Ala pikaisesti jonkun paalle kasias pane, ja ala ole muiden synneista osallinen: pida itses puhtaana.	</div>
 
-<div class="versenum">23.</div> Ala silleen vetta juo, vaan nautitse jotakin viinaa sydames tahden ja ettas myos usein sairastat.	
+<div class="theverse"><div class="versenum">23.</div> Ala silleen vetta juo, vaan nautitse jotakin viinaa sydames tahden ja ettas myos usein sairastat.	</div>
 
-<div class="versenum">24.</div> Muutamain ihmisten synnit ovat kylla julkiset, etta ne ennen tuomita taidetaan; mutta muutamain asken jalista julkiseksi tulevat.	
+<div class="theverse"><div class="versenum">24.</div> Muutamain ihmisten synnit ovat kylla julkiset, etta ne ennen tuomita taidetaan; mutta muutamain asken jalista julkiseksi tulevat.	</div>
 
-<div class="versenum">25.</div> Niin myos muutamat hyvat tyot ovat jo ennen julkiset, ja ne mitka muutoin tapahtuvat, ei taideta salattaa.	
+<div class="theverse"><div class="versenum">25.</div> Niin myos muutamat hyvat tyot ovat jo ennen julkiset, ja ne mitka muutoin tapahtuvat, ei taideta salattaa.	</div>
 </body>
 </html>

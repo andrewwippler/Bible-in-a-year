@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Saarnaajan 11	</div>
 	
-<div class="versenum">1.</div> Laheta leipasi vetten yli, silla ajan pitkaan sina saat sen jalleen.	
+<div class="theverse"><div class="versenum">1.</div> Laheta leipasi vetten yli, silla ajan pitkaan sina saat sen jalleen.	</div>
 
-<div class="versenum">2.</div> Anna osa seitsemalle, kahdeksallekin, silla et tieda, mita onnettomuutta voi tulla maahan.	
+<div class="theverse"><div class="versenum">2.</div> Anna osa seitsemalle, kahdeksallekin, silla et tieda, mita onnettomuutta voi tulla maahan.	</div>
 
-<div class="versenum">3.</div> Jos pilvet tulevat tayteen sadetta, valavat ne sen maahan. Ja jos puu kaatuu etelaa kohti tai pohjoista, niin mihin paikkaan puu kaatui, siihen se jaa.	
+<div class="theverse"><div class="versenum">3.</div> Jos pilvet tulevat tayteen sadetta, valavat ne sen maahan. Ja jos puu kaatuu etelaa kohti tai pohjoista, niin mihin paikkaan puu kaatui, siihen se jaa.	</div>
 
-<div class="versenum">4.</div> Joka tuulta tarkkaa, ei kylva; ja joka pilvia palyy, ei leikkaa.	
+<div class="theverse"><div class="versenum">4.</div> Joka tuulta tarkkaa, ei kylva; ja joka pilvia palyy, ei leikkaa.	</div>
 
-<div class="versenum">5.</div> Niinkuin et tieda tuulen teita etka luitten rakentumista raskaana olevan kohdussa, niin et myoskaan tieda Jumalan tekoja, hanen, joka kaikki tekee.	
+<div class="theverse"><div class="versenum">5.</div> Niinkuin et tieda tuulen teita etka luitten rakentumista raskaana olevan kohdussa, niin et myoskaan tieda Jumalan tekoja, hanen, joka kaikki tekee.	</div>
 
-<div class="versenum">6.</div> Kylva siemenesi aamulla alaka hellita kattasi ehtoollakaan; silla et tieda, tuoko onnistuu vai tama vai onko kumpikin yhta hyva.	
+<div class="theverse"><div class="versenum">6.</div> Kylva siemenesi aamulla alaka hellita kattasi ehtoollakaan; silla et tieda, tuoko onnistuu vai tama vai onko kumpikin yhta hyva.	</div>
 
-<div class="versenum">7.</div> Suloinen on valo, ja silmille tekee hyvaa nahda aurinkoa.	
+<div class="theverse"><div class="versenum">7.</div> Suloinen on valo, ja silmille tekee hyvaa nahda aurinkoa.	</div>
 
-<div class="versenum">8.</div> Niin, jos ihminen elaa vuosia paljonkin, iloitkoon han niista kaikista, mutta muistakoon pimeita paivia, silla niita tulee paljon. Kaikki, mika tulee, on turhuutta.	
+<div class="theverse"><div class="versenum">8.</div> Niin, jos ihminen elaa vuosia paljonkin, iloitkoon han niista kaikista, mutta muistakoon pimeita paivia, silla niita tulee paljon. Kaikki, mika tulee, on turhuutta.	</div>
 
-<div class="versenum">9.</div> Iloitse, nuorukainen, nuoruudessasi, ja sydamesi ilahuttakoon sinua nuoruusikasi paivina. Vaella sydamesi teita ja silmiesi halun mukaan; mutta tieda: Jumala tuo sinut tuomiolle kaikesta tasta.	
+<div class="theverse"><div class="versenum">9.</div> Iloitse, nuorukainen, nuoruudessasi, ja sydamesi ilahuttakoon sinua nuoruusikasi paivina. Vaella sydamesi teita ja silmiesi halun mukaan; mutta tieda: Jumala tuo sinut tuomiolle kaikesta tasta.	</div>
 
-<div class="versenum">10.</div> Karkoita suru sydamestasi ja torju karsimys ruumiistasi, silla nuoruus ja aamurusko ovat turhuutta.	
+<div class="theverse"><div class="versenum">10.</div> Karkoita suru sydamestasi ja torju karsimys ruumiistasi, silla nuoruus ja aamurusko ovat turhuutta.	</div>
 </body>
 </html>

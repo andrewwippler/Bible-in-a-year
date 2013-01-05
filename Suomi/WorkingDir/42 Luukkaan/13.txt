@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Luukkaan 13	</div>
 	
-<div class="versenum">1.</div> Ja olivat muutamat silla ajalla siina, jotka ilmoittivat hanelle Galilealaisista, joiden veren Pilatus oli heidan uhriensa kanssa sekoittanut.	
+<div class="theverse"><div class="versenum">1.</div> Ja olivat muutamat silla ajalla siina, jotka ilmoittivat hanelle Galilealaisista, joiden veren Pilatus oli heidan uhriensa kanssa sekoittanut.	</div>
 
-<div class="versenum">2.</div> Ja Jesus vastasi ja sanoi heille: luuletteko, etta namat Galilealaiset olivat syntiset kaikkein Galilealaisten suhteen, etta heidan senkaltaista taytyi karsia?	
+<div class="theverse"><div class="versenum">2.</div> Ja Jesus vastasi ja sanoi heille: luuletteko, etta namat Galilealaiset olivat syntiset kaikkein Galilealaisten suhteen, etta heidan senkaltaista taytyi karsia?	</div>
 
-<div class="versenum">3.</div> Ei suinkaan, sanon mina teille, vaan ellette paranna teitanne, niin te kaikki niin hukkaan tulette.	
+<div class="theverse"><div class="versenum">3.</div> Ei suinkaan, sanon mina teille, vaan ellette paranna teitanne, niin te kaikki niin hukkaan tulette.	</div>
 
-<div class="versenum">4.</div> Taikka luuletteko, etta ne kahdeksantoistakymmenta, joiden paalle Siloan torni lankesi ja tappoi heidat, olivat vialliset kaikkein ihmisten suhteen, jotka Jerusalemissa asuvat?	
+<div class="theverse"><div class="versenum">4.</div> Taikka luuletteko, etta ne kahdeksantoistakymmenta, joiden paalle Siloan torni lankesi ja tappoi heidat, olivat vialliset kaikkein ihmisten suhteen, jotka Jerusalemissa asuvat?	</div>
 
-<div class="versenum">5.</div> Ei suinkaan, sanon mina teille, vaan ellette paranna teitanne, niin te kaikki niin hukkaan tulette.	
+<div class="theverse"><div class="versenum">5.</div> Ei suinkaan, sanon mina teille, vaan ellette paranna teitanne, niin te kaikki niin hukkaan tulette.	</div>
 
-<div class="versenum">6.</div> Mutta han sanoi taman vertauksen: yhdella oli fikunapuu, hanen viinamaessansa istutettu, ja han tuli etsein hedelmaa hanesta ja ei loytanyt.	
+<div class="theverse"><div class="versenum">6.</div> Mutta han sanoi taman vertauksen: yhdella oli fikunapuu, hanen viinamaessansa istutettu, ja han tuli etsein hedelmaa hanesta ja ei loytanyt.	</div>
 
-<div class="versenum">7.</div> Niin han sanoi viinamaen rakentajalle: katso, mina olen kolme vuotta tullut ja etsinyt hedelmaa tasta fikunapuusta, ja en loyda, hakkaa se pois: miksi se myos maata turmelee?	
+<div class="theverse"><div class="versenum">7.</div> Niin han sanoi viinamaen rakentajalle: katso, mina olen kolme vuotta tullut ja etsinyt hedelmaa tasta fikunapuusta, ja en loyda, hakkaa se pois: miksi se myos maata turmelee?	</div>
 
-<div class="versenum">8.</div> Mutta han vastasi ja sanoi hanelle: herra, anna hanen viela tama vuosi olla, niin kauvan kuin mina kaivan hanen ymparinsa ja sonnitan:	
+<div class="theverse"><div class="versenum">8.</div> Mutta han vastasi ja sanoi hanelle: herra, anna hanen viela tama vuosi olla, niin kauvan kuin mina kaivan hanen ymparinsa ja sonnitan:	</div>
 
-<div class="versenum">9.</div> Jos han sittekin hedelman tekis; jollei, niin hakkaa se sitte pois.	
+<div class="theverse"><div class="versenum">9.</div> Jos han sittekin hedelman tekis; jollei, niin hakkaa se sitte pois.	</div>
 
-<div class="versenum">10.</div> Mutta han opetti sabbatina yhdessa synagogassa,	
+<div class="theverse"><div class="versenum">10.</div> Mutta han opetti sabbatina yhdessa synagogassa,	</div>
 
-<div class="versenum">11.</div> Ja katso, siella oli vaimo, jolla oli sairauden henki kahdeksantoistakymmenta vuotta ollu, ja kavi kumarruksissa, eika voinut ikana itsiansa ojentaa.	
+<div class="theverse"><div class="versenum">11.</div> Ja katso, siella oli vaimo, jolla oli sairauden henki kahdeksantoistakymmenta vuotta ollu, ja kavi kumarruksissa, eika voinut ikana itsiansa ojentaa.	</div>
 
-<div class="versenum">12.</div> Mutta kuin Jesus sen naki, kutsui han hanen tykonsa ja sanoi hanelle: vaimo, sina olet paassyt taudistas.	
+<div class="theverse"><div class="versenum">12.</div> Mutta kuin Jesus sen naki, kutsui han hanen tykonsa ja sanoi hanelle: vaimo, sina olet paassyt taudistas.	</div>
 
-<div class="versenum">13.</div> Ja han pani katensa hanen paallensa, ja kohta se ojensi ylos itsensa ja kiitti Jumalaa.	
+<div class="theverse"><div class="versenum">13.</div> Ja han pani katensa hanen paallensa, ja kohta se ojensi ylos itsensa ja kiitti Jumalaa.	</div>
 
-<div class="versenum">14.</div> Niin vastasi synagogan paamies ja narkastyi, etta Jesus paransi sabbatina, ja sanoi kansalle: kuusi paivaa ovat, joina sopii tyota tehda; niina te tulkaat ja antakaat teita parantaa, ja ei sabbatin paivana.	
+<div class="theverse"><div class="versenum">14.</div> Niin vastasi synagogan paamies ja narkastyi, etta Jesus paransi sabbatina, ja sanoi kansalle: kuusi paivaa ovat, joina sopii tyota tehda; niina te tulkaat ja antakaat teita parantaa, ja ei sabbatin paivana.	</div>
 
-<div class="versenum">15.</div> Niin vastasi hanta Herra ja sanoi: sina ulkokullattu! eiko kukin teista paasta nautaansa eli aasiansa sabbatina seimesta ja johdata juomaan?	
+<div class="theverse"><div class="versenum">15.</div> Niin vastasi hanta Herra ja sanoi: sina ulkokullattu! eiko kukin teista paasta nautaansa eli aasiansa sabbatina seimesta ja johdata juomaan?	</div>
 
-<div class="versenum">16.</div> Eiko myos tama Abrahamin tytar pitaisi sabbatina paastettaman tasta siteesta, jonka, katso, saatana on kahdeksantoistakymmenta vuotta sitonut?	
+<div class="theverse"><div class="versenum">16.</div> Eiko myos tama Abrahamin tytar pitaisi sabbatina paastettaman tasta siteesta, jonka, katso, saatana on kahdeksantoistakymmenta vuotta sitonut?	</div>
 
-<div class="versenum">17.</div> Ja kuin han naita sanoi, niin hapesivat kaikki, jotka hanta vastaan olivat. Ja kaikki kansa iloitsi kaikista kunniallisista toista, joita hanelta tehtiin.	
+<div class="theverse"><div class="versenum">17.</div> Ja kuin han naita sanoi, niin hapesivat kaikki, jotka hanta vastaan olivat. Ja kaikki kansa iloitsi kaikista kunniallisista toista, joita hanelta tehtiin.	</div>
 
-<div class="versenum">18.</div> Niin han sanoi: kenenka vertainen on Jumalan valtakunta, ja kenenka kaltaiseksi mina sen teen?	
+<div class="theverse"><div class="versenum">18.</div> Niin han sanoi: kenenka vertainen on Jumalan valtakunta, ja kenenka kaltaiseksi mina sen teen?	</div>
 
-<div class="versenum">19.</div> Se on sinapin siemenen vertainen, jonka ihminen otti ja kylvi yrttitarhaansa; ja se kasvoi ja tuli suureksi puuksi ja taivaan linnut tekivat pesansa sen oksille.	
+<div class="theverse"><div class="versenum">19.</div> Se on sinapin siemenen vertainen, jonka ihminen otti ja kylvi yrttitarhaansa; ja se kasvoi ja tuli suureksi puuksi ja taivaan linnut tekivat pesansa sen oksille.	</div>
 
-<div class="versenum">20.</div> Ja han taas sanoi: kenenka vertaiseksi mina Jumalan valtakunnan teen?	
+<div class="theverse"><div class="versenum">20.</div> Ja han taas sanoi: kenenka vertaiseksi mina Jumalan valtakunnan teen?	</div>
 
-<div class="versenum">21.</div> Se on hapatuksen kaltainen, jonka vaimo otti, ja pani sen kolmeen jauhovakkaan, siihenasti kuin se kaikki happani.	
+<div class="theverse"><div class="versenum">21.</div> Se on hapatuksen kaltainen, jonka vaimo otti, ja pani sen kolmeen jauhovakkaan, siihenasti kuin se kaikki happani.	</div>
 
-<div class="versenum">22.</div> Ja han vaelsi kaupunkien ja kylain kautta opettain, ja matkusti Jerusalemia pain.	
+<div class="theverse"><div class="versenum">22.</div> Ja han vaelsi kaupunkien ja kylain kautta opettain, ja matkusti Jerusalemia pain.	</div>
 
-<div class="versenum">23.</div> Niin sanoi yksi hanelle: Herra, vahako niita on, jotka autuaaksi tulevat? Ja han sanoi heille:	
+<div class="theverse"><div class="versenum">23.</div> Niin sanoi yksi hanelle: Herra, vahako niita on, jotka autuaaksi tulevat? Ja han sanoi heille:	</div>
 
-<div class="versenum">24.</div> Pyytakaat ahtaasta portista menna sisalle, silla monta on, sanon mina teille, jotka pyytavat menna sisalle, ja ei taida.	
+<div class="theverse"><div class="versenum">24.</div> Pyytakaat ahtaasta portista menna sisalle, silla monta on, sanon mina teille, jotka pyytavat menna sisalle, ja ei taida.	</div>
 
-<div class="versenum">25.</div> Kuin perheenisanta on noussut ja oven sulkenut, ja te rupeette ulkona seisomaan ja oven paalle kolkuttamaan ja sanomaan: Herra, Herra, avaa meille! ja han vastaa ja sanoo teille: en mina teita tunne, kusta te olette;	
+<div class="theverse"><div class="versenum">25.</div> Kuin perheenisanta on noussut ja oven sulkenut, ja te rupeette ulkona seisomaan ja oven paalle kolkuttamaan ja sanomaan: Herra, Herra, avaa meille! ja han vastaa ja sanoo teille: en mina teita tunne, kusta te olette;	</div>
 
-<div class="versenum">26.</div> Niin te rupeette sanomaan: me olemme syoneet ja juoneet sinun edessas, ja meidan kaduillamme sina opetit.	
+<div class="theverse"><div class="versenum">26.</div> Niin te rupeette sanomaan: me olemme syoneet ja juoneet sinun edessas, ja meidan kaduillamme sina opetit.	</div>
 
-<div class="versenum">27.</div> Ja han on sanova: mina sanon teille: en mina teita tunne, kusta te olette; menkaat pois minun tykoani, kaikki te vaarintekiat.	
+<div class="theverse"><div class="versenum">27.</div> Ja han on sanova: mina sanon teille: en mina teita tunne, kusta te olette; menkaat pois minun tykoani, kaikki te vaarintekiat.	</div>
 
-<div class="versenum">28.</div> Siella pitaa oleman itku ja hammasten kiristys, kuin te naette Abrahamin ja Isaakin ja Jakobin ja kaikki prophetat Jumalan valtakunnassa, mutta itsenne ajettavan ulos.	
+<div class="theverse"><div class="versenum">28.</div> Siella pitaa oleman itku ja hammasten kiristys, kuin te naette Abrahamin ja Isaakin ja Jakobin ja kaikki prophetat Jumalan valtakunnassa, mutta itsenne ajettavan ulos.	</div>
 
-<div class="versenum">29.</div> Ja heidan pitaa tuleman idasta ja lannesta, pohjoisesta ja etelasta, ja Jumalan valtakunnassa istuman.	
+<div class="theverse"><div class="versenum">29.</div> Ja heidan pitaa tuleman idasta ja lannesta, pohjoisesta ja etelasta, ja Jumalan valtakunnassa istuman.	</div>
 
-<div class="versenum">30.</div> Ja katso, ne ovat viimeiset, jotka tulevat ensimasiksi, ja ne ovat ensimaiset, jotka tulevat viimeisiksi.	
+<div class="theverse"><div class="versenum">30.</div> Ja katso, ne ovat viimeiset, jotka tulevat ensimasiksi, ja ne ovat ensimaiset, jotka tulevat viimeisiksi.	</div>
 
-<div class="versenum">31.</div> Sina paivana tulivat muutamat Pharisealaiset ja sanoivat hanelle: lahde ulos ja mene taalta pois; silla Herodes tahtoo sinua tappaa.	
+<div class="theverse"><div class="versenum">31.</div> Sina paivana tulivat muutamat Pharisealaiset ja sanoivat hanelle: lahde ulos ja mene taalta pois; silla Herodes tahtoo sinua tappaa.	</div>
 
-<div class="versenum">32.</div> Ja han sanoi heille: menkaat ja sanokaat sille ketulle: katso, mina ajan ulos perkeleita, ja parannan tanapana ja huomenna, ja kolmantena paivana mina lopetetaan.	
+<div class="theverse"><div class="versenum">32.</div> Ja han sanoi heille: menkaat ja sanokaat sille ketulle: katso, mina ajan ulos perkeleita, ja parannan tanapana ja huomenna, ja kolmantena paivana mina lopetetaan.	</div>
 
-<div class="versenum">33.</div> Kuitenkin pitaa minun tanapana ja huomenna ja toisena huomenna vaeltaman; silla ei tapahdu, etta propheta muualla hukataan kuin Jerusalemissa.	
+<div class="theverse"><div class="versenum">33.</div> Kuitenkin pitaa minun tanapana ja huomenna ja toisena huomenna vaeltaman; silla ei tapahdu, etta propheta muualla hukataan kuin Jerusalemissa.	</div>
 
-<div class="versenum">34.</div> Jerusalem, Jerusalem, joka tapat prophetat ja kivitat niita, jotka sinun tykos lahetetaan, kuinka usein mina tahdoin koota sinun lapses, niinkuin kana kokoo poikansa siipiensa alle, ja ette tahtoneet?	
+<div class="theverse"><div class="versenum">34.</div> Jerusalem, Jerusalem, joka tapat prophetat ja kivitat niita, jotka sinun tykos lahetetaan, kuinka usein mina tahdoin koota sinun lapses, niinkuin kana kokoo poikansa siipiensa alle, ja ette tahtoneet?	</div>
 
-<div class="versenum">35.</div> Katso, teidan huoneenne jatetaan teille kylmille. Totisesti sanon mina teille: ei teidan pida minua nakeman, siihenasti kuin se aika tulee, jona te sanotte: siunattu olkoon se, joka tulee Herran nimeen!	
+<div class="theverse"><div class="versenum">35.</div> Katso, teidan huoneenne jatetaan teille kylmille. Totisesti sanon mina teille: ei teidan pida minua nakeman, siihenasti kuin se aika tulee, jona te sanotte: siunattu olkoon se, joka tulee Herran nimeen!	</div>
 </body>
 </html>

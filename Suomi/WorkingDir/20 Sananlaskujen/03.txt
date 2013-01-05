@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 3	</div>
 	
-<div class="versenum">1.</div> Poikani, ala unohda minun lakiani, mutta sinun sydames pitakoon kaskyni.	
+<div class="theverse"><div class="versenum">1.</div> Poikani, ala unohda minun lakiani, mutta sinun sydames pitakoon kaskyni.	</div>
 
-<div class="versenum">2.</div> Silla ne saatavat sinulle pitkan ijan, hyvat vuodet ja rauhan.	
+<div class="theverse"><div class="versenum">2.</div> Silla ne saatavat sinulle pitkan ijan, hyvat vuodet ja rauhan.	</div>
 
-<div class="versenum">3.</div> Armo ja totuus ei sinua pida hylkaaman: ripusta ne kaulaas, ja kirjoita sydames tauluun,	
+<div class="theverse"><div class="versenum">3.</div> Armo ja totuus ei sinua pida hylkaaman: ripusta ne kaulaas, ja kirjoita sydames tauluun,	</div>
 
-<div class="versenum">4.</div> Niin sina loydat armon ja hyvan toimen, Jumalan ja ihmisten edessa.	
+<div class="theverse"><div class="versenum">4.</div> Niin sina loydat armon ja hyvan toimen, Jumalan ja ihmisten edessa.	</div>
 
-<div class="versenum">5.</div> Luota Herraan kaikesta sydamestas, ja ala luota ymmarryksees;	
+<div class="theverse"><div class="versenum">5.</div> Luota Herraan kaikesta sydamestas, ja ala luota ymmarryksees;	</div>
 
-<div class="versenum">6.</div> Mutta ajattele hanta kaikissa teissas, niin han sinua oikein johdattaa.	
+<div class="theverse"><div class="versenum">6.</div> Mutta ajattele hanta kaikissa teissas, niin han sinua oikein johdattaa.	</div>
 
-<div class="versenum">7.</div> Ala ole viisas mielestas, vaan pelkaaerraa, ja valta pahaa.	
+<div class="theverse"><div class="versenum">7.</div> Ala ole viisas mielestas, vaan pelkaaerraa, ja valta pahaa.	</div>
 
-<div class="versenum">8.</div> Silla se on navalles terveellinen, ja virvoittaa luus.	
+<div class="theverse"><div class="versenum">8.</div> Silla se on navalles terveellinen, ja virvoittaa luus.	</div>
 
-<div class="versenum">9.</div> Kunnioita Herraa tavarastas, ja kaikista vuoden tulos esikoisista;	
+<div class="theverse"><div class="versenum">9.</div> Kunnioita Herraa tavarastas, ja kaikista vuoden tulos esikoisista;	</div>
 
-<div class="versenum">10.</div> Niin sinun riihes taytetaan kyllyydella, ja sinun viinakuurnas vuotaa ylitse.	
+<div class="theverse"><div class="versenum">10.</div> Niin sinun riihes taytetaan kyllyydella, ja sinun viinakuurnas vuotaa ylitse.	</div>
 
-<div class="versenum">11.</div> Poikani, ala Herran kuritusta hylkaa, ja ala ole karsimaton, kuin han sinua rankaisee,	
+<div class="theverse"><div class="versenum">11.</div> Poikani, ala Herran kuritusta hylkaa, ja ala ole karsimaton, kuin han sinua rankaisee,	</div>
 
-<div class="versenum">12.</div> Silla, jota Herra rakastaa, sita han rankaisee, ja on hanelle otollinen niinkuin poika isallensa.	
+<div class="theverse"><div class="versenum">12.</div> Silla, jota Herra rakastaa, sita han rankaisee, ja on hanelle otollinen niinkuin poika isallensa.	</div>
 
-<div class="versenum">13.</div> Autuas on se ihminen, joka viisauden loytaa, ja se ihminen, joka ymmarryksen kasittaa.	
+<div class="theverse"><div class="versenum">13.</div> Autuas on se ihminen, joka viisauden loytaa, ja se ihminen, joka ymmarryksen kasittaa.	</div>
 
-<div class="versenum">14.</div> Silla parempi on kaupita hanta kuin kaupita hopiaa, ja hanen hedelmansa on parempi kuin kulta.	
+<div class="theverse"><div class="versenum">14.</div> Silla parempi on kaupita hanta kuin kaupita hopiaa, ja hanen hedelmansa on parempi kuin kulta.	</div>
 
-<div class="versenum">15.</div> Han on kalliimpi kuin paarlyt, eika hanen vertaansa mitaan toivottaa taideta.	
+<div class="theverse"><div class="versenum">15.</div> Han on kalliimpi kuin paarlyt, eika hanen vertaansa mitaan toivottaa taideta.	</div>
 
-<div class="versenum">16.</div> Pitka ika on hanen oikialla kadellansa, rikkaus ja kunnia hanen vasemmallansa.	
+<div class="theverse"><div class="versenum">16.</div> Pitka ika on hanen oikialla kadellansa, rikkaus ja kunnia hanen vasemmallansa.	</div>
 
-<div class="versenum">17.</div> Hanen tiensa ovat iloiset, ja kaikki hanen askeleensa rauha.	
+<div class="theverse"><div class="versenum">17.</div> Hanen tiensa ovat iloiset, ja kaikki hanen askeleensa rauha.	</div>
 
-<div class="versenum">18.</div> Han on elaman puu niille, jotka haneen rupeevat; ja autuaat ovat ne, jotka hanen pitavat.	
+<div class="theverse"><div class="versenum">18.</div> Han on elaman puu niille, jotka haneen rupeevat; ja autuaat ovat ne, jotka hanen pitavat.	</div>
 
-<div class="versenum">19.</div> Silla Herra on viisaudella maan perustanut, ja taivaat toimella valmistanut.	
+<div class="theverse"><div class="versenum">19.</div> Silla Herra on viisaudella maan perustanut, ja taivaat toimella valmistanut.	</div>
 
-<div class="versenum">20.</div> Hanen viisaudessansa ovat syvyydet eroitetut, ja pivet pisaroivat kasteen.	
+<div class="theverse"><div class="versenum">20.</div> Hanen viisaudessansa ovat syvyydet eroitetut, ja pivet pisaroivat kasteen.	</div>
 
-<div class="versenum">21.</div> Poikani, ala salli naita silmistas tulla pois, niin sina tulet onnelliseksi ja viisaaksi.	
+<div class="theverse"><div class="versenum">21.</div> Poikani, ala salli naita silmistas tulla pois, niin sina tulet onnelliseksi ja viisaaksi.	</div>
 
-<div class="versenum">22.</div> Se on sinun sielus elama; ja sinun suus on otollinen.	
+<div class="theverse"><div class="versenum">22.</div> Se on sinun sielus elama; ja sinun suus on otollinen.	</div>
 
-<div class="versenum">23.</div> Silloin sina murheetoinna vaellat teissas, ettet jalkaas loukkaa.	
+<div class="theverse"><div class="versenum">23.</div> Silloin sina murheetoinna vaellat teissas, ettet jalkaas loukkaa.	</div>
 
-<div class="versenum">24.</div> Et sina pelkaa maata pantuas, mutta makaat; ja sinun unes on sinulle makia,	
+<div class="theverse"><div class="versenum">24.</div> Et sina pelkaa maata pantuas, mutta makaat; ja sinun unes on sinulle makia,	</div>
 
-<div class="versenum">25.</div> Ettei sinun tarvitse peljata akillista hirmua, eika jumalattomain havitysta, kuin se tulee.	
+<div class="theverse"><div class="versenum">25.</div> Ettei sinun tarvitse peljata akillista hirmua, eika jumalattomain havitysta, kuin se tulee.	</div>
 
-<div class="versenum">26.</div> Silla Herra on sinun lohdutukses; han varjelee sinun jalkas, ettei sita saavuteta.	
+<div class="theverse"><div class="versenum">26.</div> Silla Herra on sinun lohdutukses; han varjelee sinun jalkas, ettei sita saavuteta.	</div>
 
-<div class="versenum">27.</div> Ala estele tarvitsevalle hyvaa tehda, jos sinulla on varaa, ettas sen tehda taidat.	
+<div class="theverse"><div class="versenum">27.</div> Ala estele tarvitsevalle hyvaa tehda, jos sinulla on varaa, ettas sen tehda taidat.	</div>
 
-<div class="versenum">28.</div> Ala sano ystavalle: mene ja tule jalleen, huomenna mina sinulle annan; koska sinulla on.	
+<div class="theverse"><div class="versenum">28.</div> Ala sano ystavalle: mene ja tule jalleen, huomenna mina sinulle annan; koska sinulla on.	</div>
 
-<div class="versenum">29.</div> Ala pyyda sinun ystavas vahinkoa, joka hyvassa toivossa asuu sinun tykonas.	
+<div class="theverse"><div class="versenum">29.</div> Ala pyyda sinun ystavas vahinkoa, joka hyvassa toivossa asuu sinun tykonas.	</div>
 
-<div class="versenum">30.</div> Ala kenenkaan kanssa toru ilman syyta, jos han ei mitaan pahaa sinulle tehnyt ole.	
+<div class="theverse"><div class="versenum">30.</div> Ala kenenkaan kanssa toru ilman syyta, jos han ei mitaan pahaa sinulle tehnyt ole.	</div>
 
-<div class="versenum">31.</div> Ala kiivoittele vaaraa miesta, ala noudata hanen retkiansa.	
+<div class="theverse"><div class="versenum">31.</div> Ala kiivoittele vaaraa miesta, ala noudata hanen retkiansa.	</div>
 
-<div class="versenum">32.</div> Silla pahanilkiset ovat Herralle kauhistus; mutta hanen salaisuutensa on hurskasten tykona.	
+<div class="theverse"><div class="versenum">32.</div> Silla pahanilkiset ovat Herralle kauhistus; mutta hanen salaisuutensa on hurskasten tykona.	</div>
 
-<div class="versenum">33.</div> Jumalattoman huoneessa on Herran kirous; muttavanhurskaan maja siunataan.	
+<div class="theverse"><div class="versenum">33.</div> Jumalattoman huoneessa on Herran kirous; muttavanhurskaan maja siunataan.	</div>
 
-<div class="versenum">34.</div> Han pilkkaa pilkkaajia; mutta noyrille han antaa armon.	
+<div class="theverse"><div class="versenum">34.</div> Han pilkkaa pilkkaajia; mutta noyrille han antaa armon.	</div>
 
-<div class="versenum">35.</div> Viisaat kunnian perivat, mutta tyhmat hapian saavat.	
+<div class="theverse"><div class="versenum">35.</div> Viisaat kunnian perivat, mutta tyhmat hapian saavat.	</div>
 </body>
 </html>

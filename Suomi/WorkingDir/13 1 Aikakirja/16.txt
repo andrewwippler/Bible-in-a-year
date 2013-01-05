@@ -4,90 +4,90 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 16	</div>
 	
-<div class="versenum">1.</div> Kuin he Jumalan arkin olivat kantaneet sisalle, asettivat he sen keskelle majaa, jonka David oli valmistanut, ja uhrasivat polttouhria ja kiitosuhria Jumalan edessa.	
+<div class="theverse"><div class="versenum">1.</div> Kuin he Jumalan arkin olivat kantaneet sisalle, asettivat he sen keskelle majaa, jonka David oli valmistanut, ja uhrasivat polttouhria ja kiitosuhria Jumalan edessa.	</div>
 
-<div class="versenum">2.</div> Ja kuin David oli tayttanyt polttouhrit ja kiitosuhrit, siunasi han kansaa Herran nimeen,	
+<div class="theverse"><div class="versenum">2.</div> Ja kuin David oli tayttanyt polttouhrit ja kiitosuhrit, siunasi han kansaa Herran nimeen,	</div>
 
-<div class="versenum">3.</div> Ja jakoi jokaiselle Israelissa seka miehille etta vaimoille, jokaiselle leivan ja kappaleen lihaa ja mitan viinaa.	
+<div class="theverse"><div class="versenum">3.</div> Ja jakoi jokaiselle Israelissa seka miehille etta vaimoille, jokaiselle leivan ja kappaleen lihaa ja mitan viinaa.	</div>
 
-<div class="versenum">4.</div> Ja han asetti Herran arkin eteen muutamia Levilaisia palveliaksi, ylistamaan, kiittamaan ja kunnioittamaan Herraa Israelin Jumalaa.	
+<div class="theverse"><div class="versenum">4.</div> Ja han asetti Herran arkin eteen muutamia Levilaisia palveliaksi, ylistamaan, kiittamaan ja kunnioittamaan Herraa Israelin Jumalaa.	</div>
 
-<div class="versenum">5.</div> Ne olivat: Asaph ensimainen, Sakaria toinen, Jeiel, Semiramot, Jehiel, Mattitja, Eliab, Benaja, Obededom ja Jeiel, psaltarein ja harppuin kanssa; mutta Asaph kilisevaisten symbalein kanssa;	
+<div class="theverse"><div class="versenum">5.</div> Ne olivat: Asaph ensimainen, Sakaria toinen, Jeiel, Semiramot, Jehiel, Mattitja, Eliab, Benaja, Obededom ja Jeiel, psaltarein ja harppuin kanssa; mutta Asaph kilisevaisten symbalein kanssa;	</div>
 
-<div class="versenum">6.</div> Ja Benaja ja Jehasiel papit, vaskitorvilla, aina Jumalan liitonarkin edessa.	
+<div class="theverse"><div class="versenum">6.</div> Ja Benaja ja Jehasiel papit, vaskitorvilla, aina Jumalan liitonarkin edessa.	</div>
 
-<div class="versenum">7.</div> Sina paivana asetti David ensisti kiittamaan Herraa, Asaphin ja hanen veljeinsa kautta.	
+<div class="theverse"><div class="versenum">7.</div> Sina paivana asetti David ensisti kiittamaan Herraa, Asaphin ja hanen veljeinsa kautta.	</div>
 
-<div class="versenum">8.</div> Kiittakaat Herraa ja saarnatkaat hanen nimeansa, julistakaat hanen toitansa kansain seassa;	
+<div class="theverse"><div class="versenum">8.</div> Kiittakaat Herraa ja saarnatkaat hanen nimeansa, julistakaat hanen toitansa kansain seassa;	</div>
 
-<div class="versenum">9.</div> Veisatkaat hanelle, soittakaat hanelle, puhukaat kaikista hanen ihmeellisista toistansa!	
+<div class="theverse"><div class="versenum">9.</div> Veisatkaat hanelle, soittakaat hanelle, puhukaat kaikista hanen ihmeellisista toistansa!	</div>
 
-<div class="versenum">10.</div> Ylistakaat hanen pyhaa nimeansa, niiden sydan iloitkaan, jotka etsivat Herraa!	
+<div class="theverse"><div class="versenum">10.</div> Ylistakaat hanen pyhaa nimeansa, niiden sydan iloitkaan, jotka etsivat Herraa!	</div>
 
-<div class="versenum">11.</div> Etsikaat Herraa ja hanen voimaansa, etsikaat hanen kasvojansa alati!	
+<div class="theverse"><div class="versenum">11.</div> Etsikaat Herraa ja hanen voimaansa, etsikaat hanen kasvojansa alati!	</div>
 
-<div class="versenum">12.</div> Muistakaat hanen ihmeellisia toitansa, jotka han tehnyt on, hanen ihmeitansa ja suunsa tuomioita,	
+<div class="theverse"><div class="versenum">12.</div> Muistakaat hanen ihmeellisia toitansa, jotka han tehnyt on, hanen ihmeitansa ja suunsa tuomioita,	</div>
 
-<div class="versenum">13.</div> Te Israelin hanen palveliansa siemen, te Jakobin hanen valittunsa lapset!	
+<div class="theverse"><div class="versenum">13.</div> Te Israelin hanen palveliansa siemen, te Jakobin hanen valittunsa lapset!	</div>
 
-<div class="versenum">14.</div> Hanpa on Herra meidan Jumalamme, han tuomitsee kaikessa maailmassa.	
+<div class="theverse"><div class="versenum">14.</div> Hanpa on Herra meidan Jumalamme, han tuomitsee kaikessa maailmassa.	</div>
 
-<div class="versenum">15.</div> Muistakaat ijankaikkisesti hanen liittoansa, mita han on kaskenyt tuhannelle sukukunnalle,	
+<div class="theverse"><div class="versenum">15.</div> Muistakaat ijankaikkisesti hanen liittoansa, mita han on kaskenyt tuhannelle sukukunnalle,	</div>
 
-<div class="versenum">16.</div> Jonka han teki Abrahamin kanssa ja hanen valaansa Isaakin kanssa;	
+<div class="theverse"><div class="versenum">16.</div> Jonka han teki Abrahamin kanssa ja hanen valaansa Isaakin kanssa;	</div>
 
-<div class="versenum">17.</div> Ja saasi sen Jakobille saadyksi ja Israelille ijankaikkiseksi liitoksi,	
+<div class="theverse"><div class="versenum">17.</div> Ja saasi sen Jakobille saadyksi ja Israelille ijankaikkiseksi liitoksi,	</div>
 
-<div class="versenum">18.</div> Ja sanoi: sinulle mina annan Kanaanin maan, teidan perimisenne arvan;	
+<div class="theverse"><div class="versenum">18.</div> Ja sanoi: sinulle mina annan Kanaanin maan, teidan perimisenne arvan;	</div>
 
-<div class="versenum">19.</div> Koska te vahat ja harvat olitte, ja muukalaiset siina.	
+<div class="theverse"><div class="versenum">19.</div> Koska te vahat ja harvat olitte, ja muukalaiset siina.	</div>
 
-<div class="versenum">20.</div> Ja he vaelsivat kansasta kansaan, ja yhdesta valtakunnasta toiseen kansaan.	
+<div class="theverse"><div class="versenum">20.</div> Ja he vaelsivat kansasta kansaan, ja yhdesta valtakunnasta toiseen kansaan.	</div>
 
-<div class="versenum">21.</div> Eipa han sallinut kenenkaan heita vahingoittaa, vaan rankaisi kuninkaat heidan tahtensa.	
+<div class="theverse"><div class="versenum">21.</div> Eipa han sallinut kenenkaan heita vahingoittaa, vaan rankaisi kuninkaat heidan tahtensa.	</div>
 
-<div class="versenum">22.</div> Alkaat ruvetko minun voideltuihini, ja alkaat pahaa tehko minun prophetailleni!	
+<div class="theverse"><div class="versenum">22.</div> Alkaat ruvetko minun voideltuihini, ja alkaat pahaa tehko minun prophetailleni!	</div>
 
-<div class="versenum">23.</div> Veisatkaat Herralle kaikki maa, julistakaat paiva paivalta hanen autuuttansa!	
+<div class="theverse"><div class="versenum">23.</div> Veisatkaat Herralle kaikki maa, julistakaat paiva paivalta hanen autuuttansa!	</div>
 
-<div class="versenum">24.</div> Luetelkaat pakanain seassa hanen kunniaansa, kaikkein kansain seassa hanen ihmeitansa!	
+<div class="theverse"><div class="versenum">24.</div> Luetelkaat pakanain seassa hanen kunniaansa, kaikkein kansain seassa hanen ihmeitansa!	</div>
 
-<div class="versenum">25.</div> Silla Herra on suuri ja sangen kiitettava, peljattava kaikkein jumalain seassa;	
+<div class="theverse"><div class="versenum">25.</div> Silla Herra on suuri ja sangen kiitettava, peljattava kaikkein jumalain seassa;	</div>
 
-<div class="versenum">26.</div> Silla kaikki pakanain jumalat ovat epajumalat; mutta Herra on taivaat tehnyt.	
+<div class="theverse"><div class="versenum">26.</div> Silla kaikki pakanain jumalat ovat epajumalat; mutta Herra on taivaat tehnyt.	</div>
 
-<div class="versenum">27.</div> Kaunistus ja kunnia on hanen edessansa, ja vakevyys ja ilo on hanen siassansa.	
+<div class="theverse"><div class="versenum">27.</div> Kaunistus ja kunnia on hanen edessansa, ja vakevyys ja ilo on hanen siassansa.	</div>
 
-<div class="versenum">28.</div> Te kansain sukukunnat, tuokaat Herralle, tuokaat Herralle kunnia ja voima!	
+<div class="theverse"><div class="versenum">28.</div> Te kansain sukukunnat, tuokaat Herralle, tuokaat Herralle kunnia ja voima!	</div>
 
-<div class="versenum">29.</div> Tuokaat Herralle hanen nimensa kunnia, tuokaat lahjoja ja tulkaat hanen eteensa. Kumartakaat Herraa pyhassa kaunistuksessa!	
+<div class="theverse"><div class="versenum">29.</div> Tuokaat Herralle hanen nimensa kunnia, tuokaat lahjoja ja tulkaat hanen eteensa. Kumartakaat Herraa pyhassa kaunistuksessa!	</div>
 
-<div class="versenum">30.</div> Peljatkaat hanta kaikki maailma; han on maan vahvistanut, ettei se liiku.	
+<div class="theverse"><div class="versenum">30.</div> Peljatkaat hanta kaikki maailma; han on maan vahvistanut, ettei se liiku.	</div>
 
-<div class="versenum">31.</div> Taivaat iloitkaan ja maa riemuitkaan, sanottakaan pakanain seassa, etta Herra hallitsee!	
+<div class="theverse"><div class="versenum">31.</div> Taivaat iloitkaan ja maa riemuitkaan, sanottakaan pakanain seassa, etta Herra hallitsee!	</div>
 
-<div class="versenum">32.</div> Meri pauhatkaan ja mita siina on, kedot iloitkaan ja kaikki, mita sen paalla on.	
+<div class="theverse"><div class="versenum">32.</div> Meri pauhatkaan ja mita siina on, kedot iloitkaan ja kaikki, mita sen paalla on.	</div>
 
-<div class="versenum">33.</div> Ja ihastukaan kaikki puut metsissa Herran edessa; silla han tulee tuomitsemaan maata.	
+<div class="theverse"><div class="versenum">33.</div> Ja ihastukaan kaikki puut metsissa Herran edessa; silla han tulee tuomitsemaan maata.	</div>
 
-<div class="versenum">34.</div> Kiittakaat Herraa, silla han on hyva, ja hanen laupiutensa on ijankaikkinen!	
+<div class="theverse"><div class="versenum">34.</div> Kiittakaat Herraa, silla han on hyva, ja hanen laupiutensa on ijankaikkinen!	</div>
 
-<div class="versenum">35.</div> Ja sanokaat: auta meita Jumala, meidan vapahtajamme, ja kokoa meita ja kehita meita pakanoista, etta me kiittaisimme sinun pyhaa nimeas ja kerskaisimme sinun kiitoksessas.	
+<div class="theverse"><div class="versenum">35.</div> Ja sanokaat: auta meita Jumala, meidan vapahtajamme, ja kokoa meita ja kehita meita pakanoista, etta me kiittaisimme sinun pyhaa nimeas ja kerskaisimme sinun kiitoksessas.	</div>
 
-<div class="versenum">36.</div> Kiitetty olkoon Herra Israelin Jumala ijankaikkisesta ijankaikkiseen; ja kaikki kansa sanokaan: amen! ja kiittakaan Herraa!	
+<div class="theverse"><div class="versenum">36.</div> Kiitetty olkoon Herra Israelin Jumala ijankaikkisesta ijankaikkiseen; ja kaikki kansa sanokaan: amen! ja kiittakaan Herraa!	</div>
 
-<div class="versenum">37.</div> Nain jatti han Herran liitonarkin eteen Asaphin ja hanen veljensa, palvelemaan alinomati arkin edessa jokapaivaisessa tyossa;	
+<div class="theverse"><div class="versenum">37.</div> Nain jatti han Herran liitonarkin eteen Asaphin ja hanen veljensa, palvelemaan alinomati arkin edessa jokapaivaisessa tyossa;	</div>
 
-<div class="versenum">38.</div> Mutta Obededomin ja hanen kahdeksan veljeansa seitsemattakymmenta, ja Obededomin Jeditunin pojan ja Hossan, ovenvartiaksi.	
+<div class="theverse"><div class="versenum">38.</div> Mutta Obededomin ja hanen kahdeksan veljeansa seitsemattakymmenta, ja Obededomin Jeditunin pojan ja Hossan, ovenvartiaksi.	</div>
 
-<div class="versenum">39.</div> Ja papin Zadokin ja papit hanen veljensa pani han Herran majan eteen Gibeonin korkeudelle,	
+<div class="theverse"><div class="versenum">39.</div> Ja papin Zadokin ja papit hanen veljensa pani han Herran majan eteen Gibeonin korkeudelle,	</div>
 
-<div class="versenum">40.</div> Tekemaan paiva paivalta Herralle polttouhria polttouhrin alttarilla aamulla ja ehtoolla; kaiketi niinkuin kirjoitettu on Herran laissa, ja han Israelille kaskenyt oli;	
+<div class="theverse"><div class="versenum">40.</div> Tekemaan paiva paivalta Herralle polttouhria polttouhrin alttarilla aamulla ja ehtoolla; kaiketi niinkuin kirjoitettu on Herran laissa, ja han Israelille kaskenyt oli;	</div>
 
-<div class="versenum">41.</div> Ja Hemanin ja Jedutunin heidan kanssansa, ja muut valitut, nimeltansa nimitetyt, kiittamaan Herraa, etta hanen laupiutensa on ijankaikkisesti;	
+<div class="theverse"><div class="versenum">41.</div> Ja Hemanin ja Jedutunin heidan kanssansa, ja muut valitut, nimeltansa nimitetyt, kiittamaan Herraa, etta hanen laupiutensa on ijankaikkisesti;	</div>
 
-<div class="versenum">42.</div> Ja Hemanin ja Jedutunin heidan kanssansa, vaskitorvilla ja symbaleilla soittamaan, ja Jumalan kanteleilla. Mutta Jedutunin pojat pani han ovenvartiaksi.	
+<div class="theverse"><div class="versenum">42.</div> Ja Hemanin ja Jedutunin heidan kanssansa, vaskitorvilla ja symbaleilla soittamaan, ja Jumalan kanteleilla. Mutta Jedutunin pojat pani han ovenvartiaksi.	</div>
 
-<div class="versenum">43.</div> Ja nain matkusti kaikki kansa kukin kotiansa; David myos palasi siunaamaan huonettansa.	
+<div class="theverse"><div class="versenum">43.</div> Ja nain matkusti kaikki kansa kukin kotiansa; David myos palasi siunaamaan huonettansa.	</div>
 </body>
 </html>

@@ -4,130 +4,130 @@
 </head>
 <body><div class="chaptertitle">Joosuan 15	</div>
 	
-<div class="versenum">1.</div> Juudan lasten suvun arpa heidan huonettensa jalkeen oli Edomin maan rajaan, Sinin korven puoleen, joka etelan puoleen on, lounaan maan aaresta asti;	
+<div class="theverse"><div class="versenum">1.</div> Juudan lasten suvun arpa heidan huonettensa jalkeen oli Edomin maan rajaan, Sinin korven puoleen, joka etelan puoleen on, lounaan maan aaresta asti;	</div>
 
-<div class="versenum">2.</div> Niin etta heidan lounainen maan rajansa oli Suolameren aaresta, se on, siita lahdesta, joka menee etelaan pain,	
+<div class="theverse"><div class="versenum">2.</div> Niin etta heidan lounainen maan rajansa oli Suolameren aaresta, se on, siita lahdesta, joka menee etelaan pain,	</div>
 
-<div class="versenum">3.</div> Ja kay sielta ylospain Akrabiin, ja kay Sinin lavitse, ja menee ylospain meresta KadesBarneaan, ja menee Hetsronin lavitse, ja kay ylos Adariin pain, ja kaantyy ympari Karkaan,	
+<div class="theverse"><div class="versenum">3.</div> Ja kay sielta ylospain Akrabiin, ja kay Sinin lavitse, ja menee ylospain meresta KadesBarneaan, ja menee Hetsronin lavitse, ja kay ylos Adariin pain, ja kaantyy ympari Karkaan,	</div>
 
-<div class="versenum">4.</div> Ja menee Atsmonin ohitse, ja tulee Egyptin ojaan, niin etta sen maan rajan aari on meri. Tama pitaa oleman teille maan raja lounaaseen pain.	
+<div class="theverse"><div class="versenum">4.</div> Ja menee Atsmonin ohitse, ja tulee Egyptin ojaan, niin etta sen maan rajan aari on meri. Tama pitaa oleman teille maan raja lounaaseen pain.	</div>
 
-<div class="versenum">5.</div> Vaan raja itaan pain on Suolainen meri Jordanin suuhun asti; vaan raja pohjan puoleen on siita meren lahdesta, joka on Jordanin aaressa,	
+<div class="theverse"><div class="versenum">5.</div> Vaan raja itaan pain on Suolainen meri Jordanin suuhun asti; vaan raja pohjan puoleen on siita meren lahdesta, joka on Jordanin aaressa,	</div>
 
-<div class="versenum">6.</div> Ja menee ylos BetHoglaan, ja vetaytyy pohjasta BetAraban puoleen, ja menee ylos Rubenin pojan Bohenin kiven tyko.	
+<div class="theverse"><div class="versenum">6.</div> Ja menee ylos BetHoglaan, ja vetaytyy pohjasta BetAraban puoleen, ja menee ylos Rubenin pojan Bohenin kiven tyko.	</div>
 
-<div class="versenum">7.</div> Ja raja kay ylos Debirin tyko Akorin laaksosta, ja pohjan puoleen Gilgaliin pain, joka on Adumimin paltan kohdalla, joka etelan puoleen on ojan vieressa; sitte se menee EnSemeksen vedelle, ja menee Rogelin lahteelle.	
+<div class="theverse"><div class="versenum">7.</div> Ja raja kay ylos Debirin tyko Akorin laaksosta, ja pohjan puoleen Gilgaliin pain, joka on Adumimin paltan kohdalla, joka etelan puoleen on ojan vieressa; sitte se menee EnSemeksen vedelle, ja menee Rogelin lahteelle.	</div>
 
-<div class="versenum">8.</div> Sitte menee raja Hinnomin pojan laaksoon, Jebusilaisen ohitse lounaan pain, se on Jerusalem; ja raja menee vuoren kukkulan ylitse, joka on Hinnomin laakson edessa, meren tyko, joka on Rephaimin laakson aarella pohjaan pain.	
+<div class="theverse"><div class="versenum">8.</div> Sitte menee raja Hinnomin pojan laaksoon, Jebusilaisen ohitse lounaan pain, se on Jerusalem; ja raja menee vuoren kukkulan ylitse, joka on Hinnomin laakson edessa, meren tyko, joka on Rephaimin laakson aarella pohjaan pain.	</div>
 
-<div class="versenum">9.</div> Sitte kay se siita vuoren kukkulasta Nephtoan lahteen tyko, ja menee Ephronin vuoren kaupunkein tyko, ja kaantyy Baalaan pain, joka on KirjatJearim.	
+<div class="theverse"><div class="versenum">9.</div> Sitte kay se siita vuoren kukkulasta Nephtoan lahteen tyko, ja menee Ephronin vuoren kaupunkein tyko, ja kaantyy Baalaan pain, joka on KirjatJearim.	</div>
 
-<div class="versenum">10.</div> Ja menee Baalasta ympari lanteen pain Seirin vuoren tyko, ja menee ulos pohjan puolesta Jearin vuoren vieritse, se on Kessalon, ja tulee alas BetSemeksen tyko, ja menee Timnaan,	
+<div class="theverse"><div class="versenum">10.</div> Ja menee Baalasta ympari lanteen pain Seirin vuoren tyko, ja menee ulos pohjan puolesta Jearin vuoren vieritse, se on Kessalon, ja tulee alas BetSemeksen tyko, ja menee Timnaan,	</div>
 
-<div class="versenum">11.</div> Ja tulee ulos Ekronin vieritse pohjan puolelle, ja vetaa hanensa Sikroniin asti, ja menee Baalan vuoren ylitse, ja tulee Jabneeliin, etta hanen aarensa loppu on meri.	
+<div class="theverse"><div class="versenum">11.</div> Ja tulee ulos Ekronin vieritse pohjan puolelle, ja vetaa hanensa Sikroniin asti, ja menee Baalan vuoren ylitse, ja tulee Jabneeliin, etta hanen aarensa loppu on meri.	</div>
 
-<div class="versenum">12.</div> Mutta raja lanteen pain on suuri meri. Tama on Juudan lasten maan raja, joka taholta ympari heidan sukukunnissansa.	
+<div class="theverse"><div class="versenum">12.</div> Mutta raja lanteen pain on suuri meri. Tama on Juudan lasten maan raja, joka taholta ympari heidan sukukunnissansa.	</div>
 
-<div class="versenum">13.</div> Mutta Kalebille Jephunnen pojalle annettiin osa Juudan lasten keskella, niinkuin Herra oli kaskenyt Josualle, nimittain KirjatArba, Enakilaisten isan kaupunki, se on Hebron.	
+<div class="theverse"><div class="versenum">13.</div> Mutta Kalebille Jephunnen pojalle annettiin osa Juudan lasten keskella, niinkuin Herra oli kaskenyt Josualle, nimittain KirjatArba, Enakilaisten isan kaupunki, se on Hebron.	</div>
 
-<div class="versenum">14.</div> Ja Kaleb ajoi sielta pois kolme Enakin poikaa, Sesain, Akimananin ja Talmain, Enakin sikiat,	
+<div class="theverse"><div class="versenum">14.</div> Ja Kaleb ajoi sielta pois kolme Enakin poikaa, Sesain, Akimananin ja Talmain, Enakin sikiat,	</div>
 
-<div class="versenum">15.</div> Ja meni sielta ylos Debirin asuvaisten tyko; vaan Debir kutsuttiin muinen KirjatSepher.	
+<div class="theverse"><div class="versenum">15.</div> Ja meni sielta ylos Debirin asuvaisten tyko; vaan Debir kutsuttiin muinen KirjatSepher.	</div>
 
-<div class="versenum">16.</div> Ja Kaleb sanoi: joka lyo KirjatSepherin ja voittaa sen, hanelle annan mina tyttareni Aksan emannaksi.	
+<div class="theverse"><div class="versenum">16.</div> Ja Kaleb sanoi: joka lyo KirjatSepherin ja voittaa sen, hanelle annan mina tyttareni Aksan emannaksi.	</div>
 
-<div class="versenum">17.</div> Niin voitti sen Otniel, Kenaksen Kalebin veljen poika; ja han antoi tyttarensa Aksan hanelle emannaksi.	
+<div class="theverse"><div class="versenum">17.</div> Niin voitti sen Otniel, Kenaksen Kalebin veljen poika; ja han antoi tyttarensa Aksan hanelle emannaksi.	</div>
 
-<div class="versenum">18.</div> Ja tapahtui, kuin han tuli, etta han neuvoi miestansa anomaan peltoa isaltansa, ja han astui aasin paalta alas; niin sanoi Kaleb hanelle: mika sinun on?	
+<div class="theverse"><div class="versenum">18.</div> Ja tapahtui, kuin han tuli, etta han neuvoi miestansa anomaan peltoa isaltansa, ja han astui aasin paalta alas; niin sanoi Kaleb hanelle: mika sinun on?	</div>
 
-<div class="versenum">19.</div> Ja han sanoi: anna minulle siunaus, silla sina olet antanut minulle kuivan maan , anna minulle myos vesilahteita; niin antoi han hanelle lahteita seka ylhaalta etta alhaalta.	
+<div class="theverse"><div class="versenum">19.</div> Ja han sanoi: anna minulle siunaus, silla sina olet antanut minulle kuivan maan , anna minulle myos vesilahteita; niin antoi han hanelle lahteita seka ylhaalta etta alhaalta.	</div>
 
-<div class="versenum">20.</div> Tama on Juudan lasten sukukunnan perimys, heidan sukuinsa jalkeen.	
+<div class="theverse"><div class="versenum">20.</div> Tama on Juudan lasten sukukunnan perimys, heidan sukuinsa jalkeen.	</div>
 
-<div class="versenum">21.</div> Ja kaupungit Juudan lasten sukukunnan aaresta, Edomin rajan tykona, lounaaseen kasin olivat: Kabseel, Eder, Jagur,	
+<div class="theverse"><div class="versenum">21.</div> Ja kaupungit Juudan lasten sukukunnan aaresta, Edomin rajan tykona, lounaaseen kasin olivat: Kabseel, Eder, Jagur,	</div>
 
-<div class="versenum">22.</div> Kina, Dimona, Adada;	
+<div class="theverse"><div class="versenum">22.</div> Kina, Dimona, Adada;	</div>
 
-<div class="versenum">23.</div> Kedes, Hatsor, Jitnan;	
+<div class="theverse"><div class="versenum">23.</div> Kedes, Hatsor, Jitnan;	</div>
 
-<div class="versenum">24.</div> Siph, Telem, Bealot;	
+<div class="theverse"><div class="versenum">24.</div> Siph, Telem, Bealot;	</div>
 
-<div class="versenum">25.</div> HatsorHadata, Kerijot, Hetsron, se on Hatsor;	
+<div class="theverse"><div class="versenum">25.</div> HatsorHadata, Kerijot, Hetsron, se on Hatsor;	</div>
 
-<div class="versenum">26.</div> Amam, Sema, Molada;	
+<div class="theverse"><div class="versenum">26.</div> Amam, Sema, Molada;	</div>
 
-<div class="versenum">27.</div> HatsarGadda, Hesmon, BetPalet;	
+<div class="theverse"><div class="versenum">27.</div> HatsarGadda, Hesmon, BetPalet;	</div>
 
-<div class="versenum">28.</div> HatsarSual, BeerSeba, BisJotja;	
+<div class="theverse"><div class="versenum">28.</div> HatsarSual, BeerSeba, BisJotja;	</div>
 
-<div class="versenum">29.</div> Baala, Ijim, Atsem;	
+<div class="theverse"><div class="versenum">29.</div> Baala, Ijim, Atsem;	</div>
 
-<div class="versenum">30.</div> Eltolad, Kesil, Horma;	
+<div class="theverse"><div class="versenum">30.</div> Eltolad, Kesil, Horma;	</div>
 
-<div class="versenum">31.</div> Ziglag, Madmanna, Sansanna;	
+<div class="theverse"><div class="versenum">31.</div> Ziglag, Madmanna, Sansanna;	</div>
 
-<div class="versenum">32.</div> Lebaot, Silhim, Ain, Rimmon; yhdeksankolmattakymmenta kaupunkia kylinensa.	
+<div class="theverse"><div class="versenum">32.</div> Lebaot, Silhim, Ain, Rimmon; yhdeksankolmattakymmenta kaupunkia kylinensa.	</div>
 
-<div class="versenum">33.</div> Vaan lakialla maalla oli Estaol, Zora, Asna;	
+<div class="theverse"><div class="versenum">33.</div> Vaan lakialla maalla oli Estaol, Zora, Asna;	</div>
 
-<div class="versenum">34.</div> Sanoa, EnGannim, Tappua, Enam;	
+<div class="theverse"><div class="versenum">34.</div> Sanoa, EnGannim, Tappua, Enam;	</div>
 
-<div class="versenum">35.</div> Jarmut, Adullam, Soko, Aseka;	
+<div class="theverse"><div class="versenum">35.</div> Jarmut, Adullam, Soko, Aseka;	</div>
 
-<div class="versenum">36.</div> Saaraim, Aditaim, Gedera, Gederotaim: neljatoistakymmenta kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">36.</div> Saaraim, Aditaim, Gedera, Gederotaim: neljatoistakymmenta kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">37.</div> Zenan, Hadasa, Migdalgad;	
+<div class="theverse"><div class="versenum">37.</div> Zenan, Hadasa, Migdalgad;	</div>
 
-<div class="versenum">38.</div> Dilean, Mitspe, Jokteel;	
+<div class="theverse"><div class="versenum">38.</div> Dilean, Mitspe, Jokteel;	</div>
 
-<div class="versenum">39.</div> Lakis, Botskat, Eglon;	
+<div class="theverse"><div class="versenum">39.</div> Lakis, Botskat, Eglon;	</div>
 
-<div class="versenum">40.</div> Kabbon, Lakmas, Kitlis;	
+<div class="theverse"><div class="versenum">40.</div> Kabbon, Lakmas, Kitlis;	</div>
 
-<div class="versenum">41.</div> Gederot, BetDagon, Naama, Makkeda: kuusitoistakymmenta kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">41.</div> Gederot, BetDagon, Naama, Makkeda: kuusitoistakymmenta kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">42.</div> Libna, Eter, Asan;	
+<div class="theverse"><div class="versenum">42.</div> Libna, Eter, Asan;	</div>
 
-<div class="versenum">43.</div> Jephta, Asna, Nesib;	
+<div class="theverse"><div class="versenum">43.</div> Jephta, Asna, Nesib;	</div>
 
-<div class="versenum">44.</div> Kegila, Aksib, Maresa: yhdeksan kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">44.</div> Kegila, Aksib, Maresa: yhdeksan kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">45.</div> Ekron tyttarinensa ja kylinensa;	
+<div class="theverse"><div class="versenum">45.</div> Ekron tyttarinensa ja kylinensa;	</div>
 
-<div class="versenum">46.</div> Ekronista mereen asti, kaikki mika ulottuu Asdodiin, ja heidan kylansa;	
+<div class="theverse"><div class="versenum">46.</div> Ekronista mereen asti, kaikki mika ulottuu Asdodiin, ja heidan kylansa;	</div>
 
-<div class="versenum">47.</div> Asdod tyttarinensa ja kylinensa; Gasa tyttarinensa ja kylinensa, Egyptin veteen asti; ja se suuri meri on hanen rajansa.	
+<div class="theverse"><div class="versenum">47.</div> Asdod tyttarinensa ja kylinensa; Gasa tyttarinensa ja kylinensa, Egyptin veteen asti; ja se suuri meri on hanen rajansa.	</div>
 
-<div class="versenum">48.</div> Mutta vuorella oli: Samir, Jatir, Soko;	
+<div class="theverse"><div class="versenum">48.</div> Mutta vuorella oli: Samir, Jatir, Soko;	</div>
 
-<div class="versenum">49.</div> Danna, KirjatSanna, se on Debir;	
+<div class="theverse"><div class="versenum">49.</div> Danna, KirjatSanna, se on Debir;	</div>
 
-<div class="versenum">50.</div> Anab, Estemo, Anim;	
+<div class="theverse"><div class="versenum">50.</div> Anab, Estemo, Anim;	</div>
 
-<div class="versenum">51.</div> Gosen, Holon, Gilo: yksitoistakymmenta kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">51.</div> Gosen, Holon, Gilo: yksitoistakymmenta kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">52.</div> Arab, Duma, Esean;	
+<div class="theverse"><div class="versenum">52.</div> Arab, Duma, Esean;	</div>
 
-<div class="versenum">53.</div> Janum, BetTapua, Apheka;	
+<div class="theverse"><div class="versenum">53.</div> Janum, BetTapua, Apheka;	</div>
 
-<div class="versenum">54.</div> Humta, KirjatArba, se on Hebron, Zior: yhdeksan kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">54.</div> Humta, KirjatArba, se on Hebron, Zior: yhdeksan kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">55.</div> Maon, Karmel, Siph, Juta;	
+<div class="theverse"><div class="versenum">55.</div> Maon, Karmel, Siph, Juta;	</div>
 
-<div class="versenum">56.</div> Jisreel, Jokdeam, Sanoa;	
+<div class="theverse"><div class="versenum">56.</div> Jisreel, Jokdeam, Sanoa;	</div>
 
-<div class="versenum">57.</div> Kain, Kibea, Timna: kymmenen kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">57.</div> Kain, Kibea, Timna: kymmenen kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">58.</div> Halhul, Betsur, Gedor;	
+<div class="theverse"><div class="versenum">58.</div> Halhul, Betsur, Gedor;	</div>
 
-<div class="versenum">59.</div> Maarat, BetAnot, Eltekon: kuusi kaupunkia ja heidan kylansa;	
+<div class="theverse"><div class="versenum">59.</div> Maarat, BetAnot, Eltekon: kuusi kaupunkia ja heidan kylansa;	</div>
 
-<div class="versenum">60.</div> KirjatBaal, se on KirjatJearim, Harabba: kaksi kaupunkia ja heidan kylansa.	
+<div class="theverse"><div class="versenum">60.</div> KirjatBaal, se on KirjatJearim, Harabba: kaksi kaupunkia ja heidan kylansa.	</div>
 
-<div class="versenum">61.</div> Mutta korvessa oli BetAraba, Middin, Sekaka;	
+<div class="theverse"><div class="versenum">61.</div> Mutta korvessa oli BetAraba, Middin, Sekaka;	</div>
 
-<div class="versenum">62.</div> Nibsan, ja Suolakaupunki, Engedi; kuusi kaupunkia ja heidan kylansa.	
+<div class="theverse"><div class="versenum">62.</div> Nibsan, ja Suolakaupunki, Engedi; kuusi kaupunkia ja heidan kylansa.	</div>
 
-<div class="versenum">63.</div> Mutta Jebusilaiset asuivat Jerusalemissa, ja Juudan lapset ei voineet heita ajaa ulos. Ja silloin jaivat Jebusilaiset asumaan Juudan lasten kanssa Jerusalemissa tahan paivaan asti.	
+<div class="theverse"><div class="versenum">63.</div> Mutta Jebusilaiset asuivat Jerusalemissa, ja Juudan lapset ei voineet heita ajaa ulos. Ja silloin jaivat Jebusilaiset asumaan Juudan lasten kanssa Jerusalemissa tahan paivaan asti.	</div>
 </body>
 </html>

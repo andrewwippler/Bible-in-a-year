@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 21	</div>
 	
-<div class="versenum">1.</div> Ja koska Arad Kanaanealaisten kuningas, joka asui etelan puolessa, kuuli Israelin tulleeksi vakoojain tien kautta, soti han Israelia vastaan ja vei heista monikahtoja vangiksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja koska Arad Kanaanealaisten kuningas, joka asui etelan puolessa, kuuli Israelin tulleeksi vakoojain tien kautta, soti han Israelia vastaan ja vei heista monikahtoja vangiksi.	</div>
 
-<div class="versenum">2.</div> Niin lupasi Israel Herralle lupauksen ja sanoi: jos sina annat taman kansan minun kateni alle, niin mina kiroon heidan kaupunkinsa.	
+<div class="theverse"><div class="versenum">2.</div> Niin lupasi Israel Herralle lupauksen ja sanoi: jos sina annat taman kansan minun kateni alle, niin mina kiroon heidan kaupunkinsa.	</div>
 
-<div class="versenum">3.</div> Ja Herra kuuli Israelin rukouksen: ja antoi heille Kanaanealaiset, ja he kirosivat heita ja heidan kaupungeitansa. Ja kutsui sen paikan Horma.	
+<div class="theverse"><div class="versenum">3.</div> Ja Herra kuuli Israelin rukouksen: ja antoi heille Kanaanealaiset, ja he kirosivat heita ja heidan kaupungeitansa. Ja kutsui sen paikan Horma.	</div>
 
-<div class="versenum">4.</div> Sitte menivat he pois Horin vuoren tykoa, Punaisen meren tieta, vaeltamaan Edomilaisten maata ympari. Ja kansa suuttui matkasta.	
+<div class="theverse"><div class="versenum">4.</div> Sitte menivat he pois Horin vuoren tykoa, Punaisen meren tieta, vaeltamaan Edomilaisten maata ympari. Ja kansa suuttui matkasta.	</div>
 
-<div class="versenum">5.</div> Ja kansa puhui Jumalaa ja Mosesta vastaan: miksi sina toit meita Egyptista korpeen kuolemaan? Silla ei tassa ole leipaa eika vetta, ja meidan sielumme suuttuu tahan huonoon ruokaan.	
+<div class="theverse"><div class="versenum">5.</div> Ja kansa puhui Jumalaa ja Mosesta vastaan: miksi sina toit meita Egyptista korpeen kuolemaan? Silla ei tassa ole leipaa eika vetta, ja meidan sielumme suuttuu tahan huonoon ruokaan.	</div>
 
-<div class="versenum">6.</div> Niin Herra lahetti kansan sekaan tuliset karmeet, jotka kansaa purivat, niin etta paljo kansaa Israelista kuoli.	
+<div class="theverse"><div class="versenum">6.</div> Niin Herra lahetti kansan sekaan tuliset karmeet, jotka kansaa purivat, niin etta paljo kansaa Israelista kuoli.	</div>
 
-<div class="versenum">7.</div> Niin tuli kansa Moseksen tyko, ja sanoivat: me teimme syntia, puhuen Herraa ja sinua vastaan. Rukoile Herraa namat karmeet meidan seastamme ottamaan pois: ja Moses rukoili kansan edesta.	
+<div class="theverse"><div class="versenum">7.</div> Niin tuli kansa Moseksen tyko, ja sanoivat: me teimme syntia, puhuen Herraa ja sinua vastaan. Rukoile Herraa namat karmeet meidan seastamme ottamaan pois: ja Moses rukoili kansan edesta.	</div>
 
-<div class="versenum">8.</div> Niin sanoi Herra Mosekselle: tee sinulles tulinen karme, ja nosta se merkiksi ylos: ja tapahtuu, etta se joka purtu on, kuin han katsoo sen paalle, niin han elaa.	
+<div class="theverse"><div class="versenum">8.</div> Niin sanoi Herra Mosekselle: tee sinulles tulinen karme, ja nosta se merkiksi ylos: ja tapahtuu, etta se joka purtu on, kuin han katsoo sen paalle, niin han elaa.	</div>
 
-<div class="versenum">9.</div> Ja Moses teki vaskikarmeen, ja nosti sen merkiksi ylos: ja tapahtui, etta jos joku karmeelta purtiin, ja katsahti vaskikarmeen paalle, niin han jai elamaan.	
+<div class="theverse"><div class="versenum">9.</div> Ja Moses teki vaskikarmeen, ja nosti sen merkiksi ylos: ja tapahtui, etta jos joku karmeelta purtiin, ja katsahti vaskikarmeen paalle, niin han jai elamaan.	</div>
 
-<div class="versenum">10.</div> Ja Israelin lapset laksivat, ja sioittivat heitansa Obotiin.	
+<div class="theverse"><div class="versenum">10.</div> Ja Israelin lapset laksivat, ja sioittivat heitansa Obotiin.	</div>
 
-<div class="versenum">11.</div> Ja laksivat Obotista, ja sioittivat itsensa Abarimin maen tyko, siihen korpeen, joka Moabin kohdalla on, auringon nousemiseen pain.	
+<div class="theverse"><div class="versenum">11.</div> Ja laksivat Obotista, ja sioittivat itsensa Abarimin maen tyko, siihen korpeen, joka Moabin kohdalla on, auringon nousemiseen pain.	</div>
 
-<div class="versenum">12.</div> Sielta laksivat he, ja sioittivat heitansa Saredin ojan tyko.	
+<div class="theverse"><div class="versenum">12.</div> Sielta laksivat he, ja sioittivat heitansa Saredin ojan tyko.	</div>
 
-<div class="versenum">13.</div> Niin he sielta menivat ulos, ja sioittivat heitansa talle puolen Arnonia, joka korvessa on, ja tulee Amorilaisten maan aarista; silla Arnon on Moabin ja Amorin valilla.	
+<div class="theverse"><div class="versenum">13.</div> Niin he sielta menivat ulos, ja sioittivat heitansa talle puolen Arnonia, joka korvessa on, ja tulee Amorilaisten maan aarista; silla Arnon on Moabin ja Amorin valilla.	</div>
 
-<div class="versenum">14.</div> Siita sanotaan Herran sotain kirjassa: Vaheb Suphassa , ja Arnonin ojat.	
+<div class="theverse"><div class="versenum">14.</div> Siita sanotaan Herran sotain kirjassa: Vaheb Suphassa , ja Arnonin ojat.	</div>
 
-<div class="versenum">15.</div> Ja sen ojan juoksu, joka poikkee Arin asumiseen, ja ulottuu Moabin rajaan.	
+<div class="theverse"><div class="versenum">15.</div> Ja sen ojan juoksu, joka poikkee Arin asumiseen, ja ulottuu Moabin rajaan.	</div>
 
-<div class="versenum">16.</div> Ja sielta laksivat he Beraan , se on se kaivo, josta Herra sanoi Mosekselle: kokoa kansa, ja mina annan heille vetta.	
+<div class="theverse"><div class="versenum">16.</div> Ja sielta laksivat he Beraan , se on se kaivo, josta Herra sanoi Mosekselle: kokoa kansa, ja mina annan heille vetta.	</div>
 
-<div class="versenum">17.</div> Silloin veisasi Israel taman virren: Nouse, kaivo, veisatkaat hanesta toinen toisellenne.	
+<div class="theverse"><div class="versenum">17.</div> Silloin veisasi Israel taman virren: Nouse, kaivo, veisatkaat hanesta toinen toisellenne.	</div>
 
-<div class="versenum">18.</div> Tama on se kaivo, jonka paamiehet kaivoivat, kansan johdattajat kaivoivat, lain opettajan kautta sauvallansa. Tasta korvesta matkustivat he Mattanaan.	
+<div class="theverse"><div class="versenum">18.</div> Tama on se kaivo, jonka paamiehet kaivoivat, kansan johdattajat kaivoivat, lain opettajan kautta sauvallansa. Tasta korvesta matkustivat he Mattanaan.	</div>
 
-<div class="versenum">19.</div> Ja Mattanasta niin Nahalieliin, Ja Nahalielista niin Bamotiin,	
+<div class="theverse"><div class="versenum">19.</div> Ja Mattanasta niin Nahalieliin, Ja Nahalielista niin Bamotiin,	</div>
 
-<div class="versenum">20.</div> Ja Bamotista siihen laaksoon, joka on Moabin kedolla, Pisgan kukkulaa kohden, joka katsahtaa korpeen pain.	
+<div class="theverse"><div class="versenum">20.</div> Ja Bamotista siihen laaksoon, joka on Moabin kedolla, Pisgan kukkulaa kohden, joka katsahtaa korpeen pain.	</div>
 
-<div class="versenum">21.</div> Ja Israel lahetti sanansaattajat Sihonin Amorilaisten kuninkaan tyko, ja kaski sanoa hanelle:	
+<div class="theverse"><div class="versenum">21.</div> Ja Israel lahetti sanansaattajat Sihonin Amorilaisten kuninkaan tyko, ja kaski sanoa hanelle:	</div>
 
-<div class="versenum">22.</div> Salli minun vaeltaa maakuntas lavitse: emme poikkee peltoihin, emmeka viinamakiin, emmeka juo vetta kaivosta; maantieta myoten me vaellamme, siihenasti kuin me tulemme sinun maas aarista ulos.	
+<div class="theverse"><div class="versenum">22.</div> Salli minun vaeltaa maakuntas lavitse: emme poikkee peltoihin, emmeka viinamakiin, emmeka juo vetta kaivosta; maantieta myoten me vaellamme, siihenasti kuin me tulemme sinun maas aarista ulos.	</div>
 
-<div class="versenum">23.</div> Mutta Sihon ei sallinut Israelin vaeltaa maakuntansa lavitse, vaan Sihon kokosi kaiken vakensa, ja meni Israelia vastaan korpeen, ja tuli Jaksaan, ja soti Israelia vastaan.	
+<div class="theverse"><div class="versenum">23.</div> Mutta Sihon ei sallinut Israelin vaeltaa maakuntansa lavitse, vaan Sihon kokosi kaiken vakensa, ja meni Israelia vastaan korpeen, ja tuli Jaksaan, ja soti Israelia vastaan.	</div>
 
-<div class="versenum">24.</div> Mutta Israel loi hanen miekan teralla, ja omisti hanen maansa Arnonista Jabbokiin asti, ja viela Ammonin lapsiin saakka; silla Ammonin maan aaret olivat vahvat.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Israel loi hanen miekan teralla, ja omisti hanen maansa Arnonista Jabbokiin asti, ja viela Ammonin lapsiin saakka; silla Ammonin maan aaret olivat vahvat.	</div>
 
-<div class="versenum">25.</div> Ja nain Israel sai kaikki namat kaupungit, ja Israel asui kaikissa Amorilaisten kaupungeissa, Hesbonissa ja kaikissa sen tyttarissa.	
+<div class="theverse"><div class="versenum">25.</div> Ja nain Israel sai kaikki namat kaupungit, ja Israel asui kaikissa Amorilaisten kaupungeissa, Hesbonissa ja kaikissa sen tyttarissa.	</div>
 
-<div class="versenum">26.</div> Silla Hesbonin kaupunki oli Sihonin Amorilaisten kuninkaan oma, ja han soti ennen Moabilaisten kuninkaan kanssa, ja otti hanelta kaiken hanen maansa Arnoniin asti.	
+<div class="theverse"><div class="versenum">26.</div> Silla Hesbonin kaupunki oli Sihonin Amorilaisten kuninkaan oma, ja han soti ennen Moabilaisten kuninkaan kanssa, ja otti hanelta kaiken hanen maansa Arnoniin asti.	</div>
 
-<div class="versenum">27.</div> Siita sananlaskussa sanotaan: tulkaat Hesboniin: rakennettakoon ja valmistettakoon Sihonin kaupunki;	
+<div class="theverse"><div class="versenum">27.</div> Siita sananlaskussa sanotaan: tulkaat Hesboniin: rakennettakoon ja valmistettakoon Sihonin kaupunki;	</div>
 
-<div class="versenum">28.</div> Silla tuli on kaynyt Hesbonista ulos, ja liekki Sihonin kaupungista: se on kuluttanut Moabin Arin, ja Arnonin korkeuden asuvaiset.	
+<div class="theverse"><div class="versenum">28.</div> Silla tuli on kaynyt Hesbonista ulos, ja liekki Sihonin kaupungista: se on kuluttanut Moabin Arin, ja Arnonin korkeuden asuvaiset.	</div>
 
-<div class="versenum">29.</div> Voi sinuas Moab! sina Kamosin kansa olet hukkunut! Han saatti poikansa pakolaiseksi ja hanen tyttarensa vangiksi, Sihonille Amorilaisten kuninkaalle.	
+<div class="theverse"><div class="versenum">29.</div> Voi sinuas Moab! sina Kamosin kansa olet hukkunut! Han saatti poikansa pakolaiseksi ja hanen tyttarensa vangiksi, Sihonille Amorilaisten kuninkaalle.	</div>
 
-<div class="versenum">30.</div> Me olemme heita ampuneet, Hesbon on kukistettu Diboniin asti: me havitimme heita hamaan Nophaan, joka Medebaan ulottuu.	
+<div class="theverse"><div class="versenum">30.</div> Me olemme heita ampuneet, Hesbon on kukistettu Diboniin asti: me havitimme heita hamaan Nophaan, joka Medebaan ulottuu.	</div>
 
-<div class="versenum">31.</div> Ja niin Israel asui Amorilaisten maakunnassa.	
+<div class="theverse"><div class="versenum">31.</div> Ja niin Israel asui Amorilaisten maakunnassa.	</div>
 
-<div class="versenum">32.</div> Sitte lahetti Moses vakoomaan Jaeseria, ja he voittivat sen tyttarinensa, ja omistivat ne Amorilaiset, jotka siina asuivat.	
+<div class="theverse"><div class="versenum">32.</div> Sitte lahetti Moses vakoomaan Jaeseria, ja he voittivat sen tyttarinensa, ja omistivat ne Amorilaiset, jotka siina asuivat.	</div>
 
-<div class="versenum">33.</div> Ja he palasivat ja menivat ylospain tieta Basaniin. Niin Og, Basanin kuningas, meni heita vastaan, han ja kaikki hanen vakensa, sotimaan Edreissa.	
+<div class="theverse"><div class="versenum">33.</div> Ja he palasivat ja menivat ylospain tieta Basaniin. Niin Og, Basanin kuningas, meni heita vastaan, han ja kaikki hanen vakensa, sotimaan Edreissa.	</div>
 
-<div class="versenum">34.</div> Ja Herra sanoi Mosekselle: ala pelkaa hanta, silla mina annoin hanen sinun kasiis, seka kaiken hanen vakensa, etta hanen maansa: ja sinun pitaa tekeman hanelle niinkuin sina Sihonille Amorilaisten kuninkaalle teit, joka Hesbonissa asui.	
+<div class="theverse"><div class="versenum">34.</div> Ja Herra sanoi Mosekselle: ala pelkaa hanta, silla mina annoin hanen sinun kasiis, seka kaiken hanen vakensa, etta hanen maansa: ja sinun pitaa tekeman hanelle niinkuin sina Sihonille Amorilaisten kuninkaalle teit, joka Hesbonissa asui.	</div>
 
-<div class="versenum">35.</div> Ja he loivat hanen ja hanen poikansa ja hanen vakensa, siihenasti ettei yksikaan elamaan jaanyt, ja he valloittivat hanen maansa.	
+<div class="theverse"><div class="versenum">35.</div> Ja he loivat hanen ja hanen poikansa ja hanen vakensa, siihenasti ettei yksikaan elamaan jaanyt, ja he valloittivat hanen maansa.	</div>
 </body>
 </html>

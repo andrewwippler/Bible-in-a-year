@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Roomalaisille 14	</div>
 	
-<div class="versenum">1.</div> Heikkouskoista korjatkaat, ei kamppausten riidoissa.	
+<div class="theverse"><div class="versenum">1.</div> Heikkouskoista korjatkaat, ei kamppausten riidoissa.	</div>
 
-<div class="versenum">2.</div> Yksi kylla uskoo saavansa kaikkinaista syoda, vaan heikko syo kaalia.	
+<div class="theverse"><div class="versenum">2.</div> Yksi kylla uskoo saavansa kaikkinaista syoda, vaan heikko syo kaalia.	</div>
 
-<div class="versenum">3.</div> Joka syo, alkaan sita katsoko ylon, joka ei syo; ja se, joka ei syo, alkaan tuomitko sita, joka syo; silla Jumala on hanen ottanut vastaan.	
+<div class="theverse"><div class="versenum">3.</div> Joka syo, alkaan sita katsoko ylon, joka ei syo; ja se, joka ei syo, alkaan tuomitko sita, joka syo; silla Jumala on hanen ottanut vastaan.	</div>
 
-<div class="versenum">4.</div> Kuka sina olet, joka toisen palveliaa tuomitse? Omalle isannallensa han seisoo eli lankee. Mutta han taidetaan ojentaa ylos; silla Jumala on voimallinen hanta ojentamaan.	
+<div class="theverse"><div class="versenum">4.</div> Kuka sina olet, joka toisen palveliaa tuomitse? Omalle isannallensa han seisoo eli lankee. Mutta han taidetaan ojentaa ylos; silla Jumala on voimallinen hanta ojentamaan.	</div>
 
-<div class="versenum">5.</div> Yksi eroittaa yhden paivan toisesta, toinen pitaa kaikki paivat yhtalaisena: jokainen olkoon vahva mielessansa.	
+<div class="theverse"><div class="versenum">5.</div> Yksi eroittaa yhden paivan toisesta, toinen pitaa kaikki paivat yhtalaisena: jokainen olkoon vahva mielessansa.	</div>
 
-<div class="versenum">6.</div> Joka paivaa tottelee, sen han Herralle tekee; ja joka ei paivaa tottele, se myos sen Herralle tekee. Joka syo, han syo Herralle; silla han kiittaa Jumalaa: ja joka ei syo, se ei syo Herralle, ja kiittaa Jumalaa.	
+<div class="theverse"><div class="versenum">6.</div> Joka paivaa tottelee, sen han Herralle tekee; ja joka ei paivaa tottele, se myos sen Herralle tekee. Joka syo, han syo Herralle; silla han kiittaa Jumalaa: ja joka ei syo, se ei syo Herralle, ja kiittaa Jumalaa.	</div>
 
-<div class="versenum">7.</div> Silla ei yksikaan meista itsellensa ela, eika yksikaan itsellensa kuole.	
+<div class="theverse"><div class="versenum">7.</div> Silla ei yksikaan meista itsellensa ela, eika yksikaan itsellensa kuole.	</div>
 
-<div class="versenum">8.</div> Silla jos me elamme niin me Herralle elamme; jos me kuolemme, niin me Herralle kuolemme. Sentahden joko me elamme tai kuolemme, niin me Herran omat olemme.	
+<div class="theverse"><div class="versenum">8.</div> Silla jos me elamme niin me Herralle elamme; jos me kuolemme, niin me Herralle kuolemme. Sentahden joko me elamme tai kuolemme, niin me Herran omat olemme.	</div>
 
-<div class="versenum">9.</div> Silla sentahden on myos Kristus kuollut ja noussut ylos ja jalleen elavaksi tullut, etta han olis kuolleiden ja elavien Herra.	
+<div class="theverse"><div class="versenum">9.</div> Silla sentahden on myos Kristus kuollut ja noussut ylos ja jalleen elavaksi tullut, etta han olis kuolleiden ja elavien Herra.	</div>
 
-<div class="versenum">10.</div> Mutta miksi sina veljes tuomitset? Eli miksi sina veljes katsot ylon? silla me asetetaan kaikki Kristuksen tuomio-istuimen eteen.	
+<div class="theverse"><div class="versenum">10.</div> Mutta miksi sina veljes tuomitset? Eli miksi sina veljes katsot ylon? silla me asetetaan kaikki Kristuksen tuomio-istuimen eteen.	</div>
 
-<div class="versenum">11.</div> Silla kirjoitettu on: niin totta kuin mina elan, sanoo Herra, minua pitaa kaikki polvet kumartaman, ja kaikki kielet pitaa Jumalaa tunnustaman.	
+<div class="theverse"><div class="versenum">11.</div> Silla kirjoitettu on: niin totta kuin mina elan, sanoo Herra, minua pitaa kaikki polvet kumartaman, ja kaikki kielet pitaa Jumalaa tunnustaman.	</div>
 
-<div class="versenum">12.</div> Sentahden jokaisen meista pitaa edestansa Jumalalle luvun tekeman.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden jokaisen meista pitaa edestansa Jumalalle luvun tekeman.	</div>
 
-<div class="versenum">13.</div> Alkaamme siis tastedes toinen toistamme tuomitko, vaan tuomitkaat paremmin niin, ettei yksikaan veljensa eteen pane loukkausta eli pahennusta.	
+<div class="theverse"><div class="versenum">13.</div> Alkaamme siis tastedes toinen toistamme tuomitko, vaan tuomitkaat paremmin niin, ettei yksikaan veljensa eteen pane loukkausta eli pahennusta.	</div>
 
-<div class="versenum">14.</div> Mina tiedan ja olen vahva Herrassa Jesuksessa, ettei mitaan itsestansa yhteista ole, vaan joka jotakin yhteiseksi luulee, hanelle se on yhteinen.	
+<div class="theverse"><div class="versenum">14.</div> Mina tiedan ja olen vahva Herrassa Jesuksessa, ettei mitaan itsestansa yhteista ole, vaan joka jotakin yhteiseksi luulee, hanelle se on yhteinen.	</div>
 
-<div class="versenum">15.</div> Mutta jos sinun veljes sinun ruastas surulliseksi tulee, niin et sina enaan vaella rakkaudessa. Ala sita ruallas kadota, jonka tahden Kristus on kuollut.	
+<div class="theverse"><div class="versenum">15.</div> Mutta jos sinun veljes sinun ruastas surulliseksi tulee, niin et sina enaan vaella rakkaudessa. Ala sita ruallas kadota, jonka tahden Kristus on kuollut.	</div>
 
-<div class="versenum">16.</div> Sentahden sovittakaat niin, ettei teidan hyvyyttanne laitettaisi.	
+<div class="theverse"><div class="versenum">16.</div> Sentahden sovittakaat niin, ettei teidan hyvyyttanne laitettaisi.	</div>
 
-<div class="versenum">17.</div> Silla ei Jumalan valtakunta ole ruoka ja juoma, mutta vanhurskaus, ja rauha, ja ilo Pyhassa Hengessa.	
+<div class="theverse"><div class="versenum">17.</div> Silla ei Jumalan valtakunta ole ruoka ja juoma, mutta vanhurskaus, ja rauha, ja ilo Pyhassa Hengessa.	</div>
 
-<div class="versenum">18.</div> Silla joka niissa Kristusta palvelee, han on Jumalalle otollinen ja ihmisille kelvollinen.	
+<div class="theverse"><div class="versenum">18.</div> Silla joka niissa Kristusta palvelee, han on Jumalalle otollinen ja ihmisille kelvollinen.	</div>
 
-<div class="versenum">19.</div> Sentahden noudattakaamme niita, mitka rauhaan sopivat, ja sita, mika keskenamme parannukseksi tulee.	
+<div class="theverse"><div class="versenum">19.</div> Sentahden noudattakaamme niita, mitka rauhaan sopivat, ja sita, mika keskenamme parannukseksi tulee.	</div>
 
-<div class="versenum">20.</div> Ala ruan tahden Jumalan tyota turmele. Kaikki tosin ovat puhtaat; vaan sille ihmiselle on se paha, joka syo omantuntonsa pahennuksen kanssa.	
+<div class="theverse"><div class="versenum">20.</div> Ala ruan tahden Jumalan tyota turmele. Kaikki tosin ovat puhtaat; vaan sille ihmiselle on se paha, joka syo omantuntonsa pahennuksen kanssa.	</div>
 
-<div class="versenum">21.</div> Se on hyva, ettet lihaa soisi etka viinaa joisi eli jotakin, josta veljes loukkaantuu, taikka pahenee, elikka heikoksi tulee.	
+<div class="theverse"><div class="versenum">21.</div> Se on hyva, ettet lihaa soisi etka viinaa joisi eli jotakin, josta veljes loukkaantuu, taikka pahenee, elikka heikoksi tulee.	</div>
 
-<div class="versenum">22.</div> Jos sinulla on usko, niin pida se itsessas Jumalan edessa. Autuas on, joka ei tee itsellensa omaatuntoa niissa, mitka han koettelee.	
+<div class="theverse"><div class="versenum">22.</div> Jos sinulla on usko, niin pida se itsessas Jumalan edessa. Autuas on, joka ei tee itsellensa omaatuntoa niissa, mitka han koettelee.	</div>
 
-<div class="versenum">23.</div> Mutta joka siita epailee ja kuitenkin syo, se on kadotettu; silla ei han syonyt uskossa, mutta kaikki, mika ei uskosta ole, se on synti.	
+<div class="theverse"><div class="versenum">23.</div> Mutta joka siita epailee ja kuitenkin syo, se on kadotettu; silla ei han syonyt uskossa, mutta kaikki, mika ei uskosta ole, se on synti.	</div>
 </body>
 </html>

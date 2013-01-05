@@ -4,16 +4,16 @@
 </head>
 <body><div class="chaptertitle">Psalmien 1	</div>
 	
-<div class="versenum">1.</div> Autuas on se, joka ei vaella jumalattomain neuvossa, eika seiso syntisten tiella, eika istu kussa pilkkaajat istuvat;	
+<div class="theverse"><div class="versenum">1.</div> Autuas on se, joka ei vaella jumalattomain neuvossa, eika seiso syntisten tiella, eika istu kussa pilkkaajat istuvat;	</div>
 
-<div class="versenum">2.</div> Vaan rakastaa Herran lakia, ja ajattelee hanen lakiansa paivat ja yot.	
+<div class="theverse"><div class="versenum">2.</div> Vaan rakastaa Herran lakia, ja ajattelee hanen lakiansa paivat ja yot.	</div>
 
-<div class="versenum">3.</div> Han on niinkuin istutettu puu vesiojain tykona, joka hedelmansa antaa ajallansa, ja hanen lehtensa ei varise, ja kaikki menestyy, mita han tekee.	
+<div class="theverse"><div class="versenum">3.</div> Han on niinkuin istutettu puu vesiojain tykona, joka hedelmansa antaa ajallansa, ja hanen lehtensa ei varise, ja kaikki menestyy, mita han tekee.	</div>
 
-<div class="versenum">4.</div> Mutta jumalattomat ei ole niin, vaan niinkuin akana, jonka tuuli hajoittelee.	
+<div class="theverse"><div class="versenum">4.</div> Mutta jumalattomat ei ole niin, vaan niinkuin akana, jonka tuuli hajoittelee.	</div>
 
-<div class="versenum">5.</div> Sentahden ei jumalattomat kesta tuomiota, eika syntiset vanhurskasten seuraa.	
+<div class="theverse"><div class="versenum">5.</div> Sentahden ei jumalattomat kesta tuomiota, eika syntiset vanhurskasten seuraa.	</div>
 
-<div class="versenum">6.</div> Silla Herra tietaa vanhurskasten tien; mutta jumalattomain tie hukkuu.	
+<div class="theverse"><div class="versenum">6.</div> Silla Herra tietaa vanhurskasten tien; mutta jumalattomain tie hukkuu.	</div>
 </body>
 </html>

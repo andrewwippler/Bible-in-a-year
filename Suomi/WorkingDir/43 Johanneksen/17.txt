@@ -4,56 +4,56 @@
 </head>
 <body><div class="chaptertitle">Johanneksen 17	</div>
 	
-<div class="versenum">1.</div> Naita puhui Jesus, ja nosti silmansa taivasta pain ja sanoi: Isa, hetki tuli, kirkasta sinun Poikas, etta sinun Poikas kirkastais myos sinun!	
+<div class="theverse"><div class="versenum">1.</div> Naita puhui Jesus, ja nosti silmansa taivasta pain ja sanoi: Isa, hetki tuli, kirkasta sinun Poikas, etta sinun Poikas kirkastais myos sinun!	</div>
 
-<div class="versenum">2.</div> Niinkuin sina annoit hanelle vallan kaiken lihan paalle, antaa ijankaikkisen elaman kaikille, jotka sina hanelle annoit.	
+<div class="theverse"><div class="versenum">2.</div> Niinkuin sina annoit hanelle vallan kaiken lihan paalle, antaa ijankaikkisen elaman kaikille, jotka sina hanelle annoit.	</div>
 
-<div class="versenum">3.</div> Mutta tama on ijankaikkinen elama, etta he sinun ainoan totisen Jumalan tuntisivat, ja jonkas lahetit, Jesuksen Kristuksen.	
+<div class="theverse"><div class="versenum">3.</div> Mutta tama on ijankaikkinen elama, etta he sinun ainoan totisen Jumalan tuntisivat, ja jonkas lahetit, Jesuksen Kristuksen.	</div>
 
-<div class="versenum">4.</div> Mina kirkastin sinun maan paalla: mina taytin sen tyon, jonkas minulle annoit tehdakseni.	
+<div class="theverse"><div class="versenum">4.</div> Mina kirkastin sinun maan paalla: mina taytin sen tyon, jonkas minulle annoit tehdakseni.	</div>
 
-<div class="versenum">5.</div> Ja nyt Isa, kirkasta sina minua itse tykanas silla kirkkaudella, joka minulla sinun tykonas oli ennenkuin tama maailma olikaan.	
+<div class="theverse"><div class="versenum">5.</div> Ja nyt Isa, kirkasta sina minua itse tykanas silla kirkkaudella, joka minulla sinun tykonas oli ennenkuin tama maailma olikaan.	</div>
 
-<div class="versenum">6.</div> Mina ilmoitin sinun nimes ihmisille, jotkas minulle maailmasta annoit: he olivat sinun, ja minulle sina ne annoit, ja sinun sanas he katkivat.	
+<div class="theverse"><div class="versenum">6.</div> Mina ilmoitin sinun nimes ihmisille, jotkas minulle maailmasta annoit: he olivat sinun, ja minulle sina ne annoit, ja sinun sanas he katkivat.	</div>
 
-<div class="versenum">7.</div> He tiesivat nyt kaikki olevan sinusta, mitka sina minulle annoit.	
+<div class="theverse"><div class="versenum">7.</div> He tiesivat nyt kaikki olevan sinusta, mitka sina minulle annoit.	</div>
 
-<div class="versenum">8.</div> Silla ne sanat, jotka sina minulle annoit, annoin mina heille; ja he ne ottivat vastaan, ja totisesti tunsivat minun sinusta lahteneen, ja uskoivat, etta sina minun lahetit.	
+<div class="theverse"><div class="versenum">8.</div> Silla ne sanat, jotka sina minulle annoit, annoin mina heille; ja he ne ottivat vastaan, ja totisesti tunsivat minun sinusta lahteneen, ja uskoivat, etta sina minun lahetit.	</div>
 
-<div class="versenum">9.</div> Mina rukoilen heidan edestansa: en mina maailman edesta rukoile, vaan niiden edesta, jotka sina minulle annoit, etta he ovat sinun omas.	
+<div class="theverse"><div class="versenum">9.</div> Mina rukoilen heidan edestansa: en mina maailman edesta rukoile, vaan niiden edesta, jotka sina minulle annoit, etta he ovat sinun omas.	</div>
 
-<div class="versenum">10.</div> Ja kaikki minun omani ovat sinun, ja sinun omas ovat minun: ja mina olen kirkastettu heissa.	
+<div class="theverse"><div class="versenum">10.</div> Ja kaikki minun omani ovat sinun, ja sinun omas ovat minun: ja mina olen kirkastettu heissa.	</div>
 
-<div class="versenum">11.</div> En mina silleen ole maailmassa, mutta he ovat maailmassa, ja mina tulen sinun tykos. Pyha Isa! katke niita, jotka sina minulle annoit, sinun nimes tahden, etta he olisivat yksi niinkuin mekin!	
+<div class="theverse"><div class="versenum">11.</div> En mina silleen ole maailmassa, mutta he ovat maailmassa, ja mina tulen sinun tykos. Pyha Isa! katke niita, jotka sina minulle annoit, sinun nimes tahden, etta he olisivat yksi niinkuin mekin!	</div>
 
-<div class="versenum">12.</div> Kuin mina olin heidan kanssansa maailmassa, niin mina katkin heita sinun nimessas: ne, jotkas minulle annoit, katkin mina, ja ei niista kenkaan kadonnut, vaan se kadotuksen lapsi, etta Raamattu taytettaisiin.	
+<div class="theverse"><div class="versenum">12.</div> Kuin mina olin heidan kanssansa maailmassa, niin mina katkin heita sinun nimessas: ne, jotkas minulle annoit, katkin mina, ja ei niista kenkaan kadonnut, vaan se kadotuksen lapsi, etta Raamattu taytettaisiin.	</div>
 
-<div class="versenum">13.</div> Mutta nyt mina tulen sinun tykos ja puhun naita maailmassa, etta heissa olis minun iloni taydellinen.	
+<div class="theverse"><div class="versenum">13.</div> Mutta nyt mina tulen sinun tykos ja puhun naita maailmassa, etta heissa olis minun iloni taydellinen.	</div>
 
-<div class="versenum">14.</div> Mina annoin heille sinun sanas, ja maailma vihasi heita; silla ei he ole maailmasta, niinkuin en minakaan maailmasta ole.	
+<div class="theverse"><div class="versenum">14.</div> Mina annoin heille sinun sanas, ja maailma vihasi heita; silla ei he ole maailmasta, niinkuin en minakaan maailmasta ole.	</div>
 
-<div class="versenum">15.</div> En mina rukoile, ettas heita ottaisit pois maailasta, vaan ettas heita pahasta varjelisit.	
+<div class="theverse"><div class="versenum">15.</div> En mina rukoile, ettas heita ottaisit pois maailasta, vaan ettas heita pahasta varjelisit.	</div>
 
-<div class="versenum">16.</div> Ei he ole maailmasta, niinkuin en minakaan maailmasta ole.	
+<div class="theverse"><div class="versenum">16.</div> Ei he ole maailmasta, niinkuin en minakaan maailmasta ole.	</div>
 
-<div class="versenum">17.</div> Pyhita heita totuudessas! Sinun puhees on totuus.	
+<div class="theverse"><div class="versenum">17.</div> Pyhita heita totuudessas! Sinun puhees on totuus.	</div>
 
-<div class="versenum">18.</div> Niinkuin sina minun lahetit maailmaan, niin mina myos lahetin heidat maailmaan,	
+<div class="theverse"><div class="versenum">18.</div> Niinkuin sina minun lahetit maailmaan, niin mina myos lahetin heidat maailmaan,	</div>
 
-<div class="versenum">19.</div> Ja mina pyhitan itseni heidan tahtensa, etta hekin olisivat totuudessa pyhitetyt.	
+<div class="theverse"><div class="versenum">19.</div> Ja mina pyhitan itseni heidan tahtensa, etta hekin olisivat totuudessa pyhitetyt.	</div>
 
-<div class="versenum">20.</div> Mutta en mina ainoasti heidan edestansa rukoile, vaan myos niiden edesta, jotka heidan sanansa kautta uskovat minun paalleni:	
+<div class="theverse"><div class="versenum">20.</div> Mutta en mina ainoasti heidan edestansa rukoile, vaan myos niiden edesta, jotka heidan sanansa kautta uskovat minun paalleni:	</div>
 
-<div class="versenum">21.</div> Etta he kaikki yhta olisivat, niinkuin sina Isa minussa olet ja mina sinussa, etta hekin meissa niin yhta olisivat: etta maailma uskois sinun minua lahettaneeksi.	
+<div class="theverse"><div class="versenum">21.</div> Etta he kaikki yhta olisivat, niinkuin sina Isa minussa olet ja mina sinussa, etta hekin meissa niin yhta olisivat: etta maailma uskois sinun minua lahettaneeksi.	</div>
 
-<div class="versenum">22.</div> Ja mina annoin heille sen kunnian, jonka sina minulle annoit, etta he yhta olisivat, niinkuin mekin yhta olemme.	
+<div class="theverse"><div class="versenum">22.</div> Ja mina annoin heille sen kunnian, jonka sina minulle annoit, etta he yhta olisivat, niinkuin mekin yhta olemme.	</div>
 
-<div class="versenum">23.</div> Mina olen heissa ja sina minussa, etta he niin yhdessa taydelliset olisivat, ja maailma tietais, etta sina minun lahetit, ja etta sina heita rakastit, niinkuin sina minua rakastit.	
+<div class="theverse"><div class="versenum">23.</div> Mina olen heissa ja sina minussa, etta he niin yhdessa taydelliset olisivat, ja maailma tietais, etta sina minun lahetit, ja etta sina heita rakastit, niinkuin sina minua rakastit.	</div>
 
-<div class="versenum">24.</div> Isa, mina tahdon, etta kussa mina olen, siella nekin olisivat minun kanssani, jotka sina minulle antanut olet: etta he minun kunniani nakisivat, jonkas minulle annoit; silla sina rakastit minua ennenkuin maailman perustus laskettu oli.	
+<div class="theverse"><div class="versenum">24.</div> Isa, mina tahdon, etta kussa mina olen, siella nekin olisivat minun kanssani, jotka sina minulle antanut olet: etta he minun kunniani nakisivat, jonkas minulle annoit; silla sina rakastit minua ennenkuin maailman perustus laskettu oli.	</div>
 
-<div class="versenum">25.</div> Vanhurskas Isa! ei maailma sinua tuntenut, mutta mina tunsin sinun, ja namat ymmarsivat, etta sina minun lahetit.	
+<div class="theverse"><div class="versenum">25.</div> Vanhurskas Isa! ei maailma sinua tuntenut, mutta mina tunsin sinun, ja namat ymmarsivat, etta sina minun lahetit.	</div>
 
-<div class="versenum">26.</div> Ja mina julistin heille sinun nimes, ja viela julistan: etta se rakkaus, jolla sina minua rakastit, heissa olis, ja mina myos heissa.	
+<div class="theverse"><div class="versenum">26.</div> Ja mina julistin heille sinun nimes, ja viela julistan: etta se rakkaus, jolla sina minua rakastit, heissa olis, ja mina myos heissa.	</div>
 </body>
 </html>

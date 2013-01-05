@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 29	</div>
 	
-<div class="versenum">1.</div> Mutta Philistealaiset kokosivat kaiken sotajoukkonsa Aphekiin; ja Israel sioitti itsensa Ainiin Jisreelissa.	
+<div class="theverse"><div class="versenum">1.</div> Mutta Philistealaiset kokosivat kaiken sotajoukkonsa Aphekiin; ja Israel sioitti itsensa Ainiin Jisreelissa.	</div>
 
-<div class="versenum">2.</div> Ja Philistealaisten paamiehet menivat sadoittain ja tuhansittain; mutta David meni jalista miehinensa, liki Akista.	
+<div class="theverse"><div class="versenum">2.</div> Ja Philistealaisten paamiehet menivat sadoittain ja tuhansittain; mutta David meni jalista miehinensa, liki Akista.	</div>
 
-<div class="versenum">3.</div> Niin sanoivat Philistealaisten paamiehet: mita namat Hebrealaiset tahtovat? Akis sanoi Philistealaisten paamiehille: eiko tama ole David Saulin Israelin kuninkaan palvelia, joka on ollut monta paivaa eli vuoden minun tykonani ja en mina ole loytanyt mitakaan hanen kanssansa siita ajasta, kuin han pakeni minun tykoni, tahan paivaan asti.	
+<div class="theverse"><div class="versenum">3.</div> Niin sanoivat Philistealaisten paamiehet: mita namat Hebrealaiset tahtovat? Akis sanoi Philistealaisten paamiehille: eiko tama ole David Saulin Israelin kuninkaan palvelia, joka on ollut monta paivaa eli vuoden minun tykonani ja en mina ole loytanyt mitakaan hanen kanssansa siita ajasta, kuin han pakeni minun tykoni, tahan paivaan asti.	</div>
 
-<div class="versenum">4.</div> Niin Philistealaisten paamiehet vihastuivat hanen paallensa ja sanoivat hanelle: anna sen miehen palata ja menna jalleen siallensa, kuhunkas hanen asettanut olet, ettei han tulisi meidan kanssamme sotaan ja olisi meidan vihamiehemme sodassa; silla milla taitais han paremmin herrallensa mielinouteen tehda, kuin naiden miesten pailla?	
+<div class="theverse"><div class="versenum">4.</div> Niin Philistealaisten paamiehet vihastuivat hanen paallensa ja sanoivat hanelle: anna sen miehen palata ja menna jalleen siallensa, kuhunkas hanen asettanut olet, ettei han tulisi meidan kanssamme sotaan ja olisi meidan vihamiehemme sodassa; silla milla taitais han paremmin herrallensa mielinouteen tehda, kuin naiden miesten pailla?	</div>
 
-<div class="versenum">5.</div> Eiko tama ole David? josta he veisasivat hypyssa, sanoen: Saul loi tuhannen, mutta David kymmenentuhatta.	
+<div class="theverse"><div class="versenum">5.</div> Eiko tama ole David? josta he veisasivat hypyssa, sanoen: Saul loi tuhannen, mutta David kymmenentuhatta.	</div>
 
-<div class="versenum">6.</div> Niin kutsui Akis Davidin ja sanoi hanelle: niin totta kuin Herra elaa, mina pidan sinun oikiana ja hyvana, ja sinun ulos ja sisalle kaymises minun kanssani sotaleiriin kelpaa minulle, silla en ole mina loytanyt yhtaan pahuutta sinusta siita ajasta, kuin sina tulit minun tykoni, niin tahan paivaan asti; mutta et sina kelpaa paamiehille.	
+<div class="theverse"><div class="versenum">6.</div> Niin kutsui Akis Davidin ja sanoi hanelle: niin totta kuin Herra elaa, mina pidan sinun oikiana ja hyvana, ja sinun ulos ja sisalle kaymises minun kanssani sotaleiriin kelpaa minulle, silla en ole mina loytanyt yhtaan pahuutta sinusta siita ajasta, kuin sina tulit minun tykoni, niin tahan paivaan asti; mutta et sina kelpaa paamiehille.	</div>
 
-<div class="versenum">7.</div> Niin palaja nyt takaperin ja mene rauhaan, ettes pahaa tekisi Philistealaisten paamiesten silmain edessa.	
+<div class="theverse"><div class="versenum">7.</div> Niin palaja nyt takaperin ja mene rauhaan, ettes pahaa tekisi Philistealaisten paamiesten silmain edessa.	</div>
 
-<div class="versenum">8.</div> David sanoi Akikselle: mita mina olen tehnyt? ja mitas olet loytanyt palvelialtas siita ajasta, kuin mina olen ollut sinun tykonas, niin tahan paivaan asti, etten mina saa tulla ja sotia kuninkaan minun herrani vihamiehia vastaan?	
+<div class="theverse"><div class="versenum">8.</div> David sanoi Akikselle: mita mina olen tehnyt? ja mitas olet loytanyt palvelialtas siita ajasta, kuin mina olen ollut sinun tykonas, niin tahan paivaan asti, etten mina saa tulla ja sotia kuninkaan minun herrani vihamiehia vastaan?	</div>
 
-<div class="versenum">9.</div> Akis vastasi ja sanoi Davidille: mina tiedan sinun otolliseksi minun silmaini edessa, niinkuin Jumalan enkelin, mutta Philistealaisten paamiehet ovat sanoneet: ala anna hanen tulla meidan kanssamme sotaan.	
+<div class="theverse"><div class="versenum">9.</div> Akis vastasi ja sanoi Davidille: mina tiedan sinun otolliseksi minun silmaini edessa, niinkuin Jumalan enkelin, mutta Philistealaisten paamiehet ovat sanoneet: ala anna hanen tulla meidan kanssamme sotaan.	</div>
 
-<div class="versenum">10.</div> Niin nouse siis varhain aamulla, ja sinun herras palveliat, jotka sinun kanssas tulleet ovat: ja kuin te olette aamulla varhain nousseet ja paiva teille valkenee, niin menkaat teidan tietanne.	
+<div class="theverse"><div class="versenum">10.</div> Niin nouse siis varhain aamulla, ja sinun herras palveliat, jotka sinun kanssas tulleet ovat: ja kuin te olette aamulla varhain nousseet ja paiva teille valkenee, niin menkaat teidan tietanne.	</div>
 
-<div class="versenum">11.</div> Niin David oli miehinensa aamulla varhain ylhaalla, matkustamaan ja tulemaan Philistealaisten maalle jalleen; mutta Philistealaiset menivat Jisreeliin pain.	
+<div class="theverse"><div class="versenum">11.</div> Niin David oli miehinensa aamulla varhain ylhaalla, matkustamaan ja tulemaan Philistealaisten maalle jalleen; mutta Philistealaiset menivat Jisreeliin pain.	</div>
 </body>
 </html>

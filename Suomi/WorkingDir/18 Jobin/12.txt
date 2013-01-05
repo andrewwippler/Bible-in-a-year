@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Jobin 12	</div>
 	
-<div class="versenum">1.</div> Niin vastasi Job ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Niin vastasi Job ja sanoi:	</div>
 
-<div class="versenum">2.</div> Te olette miehet; taito kuolee teidan kanssanne.	
+<div class="theverse"><div class="versenum">2.</div> Te olette miehet; taito kuolee teidan kanssanne.	</div>
 
-<div class="versenum">3.</div> Minulla on niin sydan kuin teillakin, enka ole alemmaisempi teita: kuka se on, joka ei naita tieda?	
+<div class="theverse"><div class="versenum">3.</div> Minulla on niin sydan kuin teillakin, enka ole alemmaisempi teita: kuka se on, joka ei naita tieda?	</div>
 
-<div class="versenum">4.</div> Joka lahimmaiseltansa pilkataan, niinkuin mina, han rukoilee Jumalaa, ja han kuulee hanta: hurskas ja vakaa pilkataan.	
+<div class="theverse"><div class="versenum">4.</div> Joka lahimmaiseltansa pilkataan, niinkuin mina, han rukoilee Jumalaa, ja han kuulee hanta: hurskas ja vakaa pilkataan.	</div>
 
-<div class="versenum">5.</div> Han on ylonkatsottu kynttilainen ylpeiden ajatuksissa, valmistettu, etta he siihen loukkaavat jalkansa,	
+<div class="theverse"><div class="versenum">5.</div> Han on ylonkatsottu kynttilainen ylpeiden ajatuksissa, valmistettu, etta he siihen loukkaavat jalkansa,	</div>
 
-<div class="versenum">6.</div> Ryovarein majoissa on kylla, ja he harsyttelevat rohkiasti Jumalaa, ehka Jumala on sen antanut heidan kateensa.	
+<div class="theverse"><div class="versenum">6.</div> Ryovarein majoissa on kylla, ja he harsyttelevat rohkiasti Jumalaa, ehka Jumala on sen antanut heidan kateensa.	</div>
 
-<div class="versenum">7.</div> Kysy siis elaimilta, ja he opettavat sinua, ja taivaan linnuilta, ja he sanovat sinulle.	
+<div class="theverse"><div class="versenum">7.</div> Kysy siis elaimilta, ja he opettavat sinua, ja taivaan linnuilta, ja he sanovat sinulle.	</div>
 
-<div class="versenum">8.</div> Taikka puhu maan kanssa, ja han opettaa sinua; ja kalat meressa ilmoittavat sinulle.	
+<div class="theverse"><div class="versenum">8.</div> Taikka puhu maan kanssa, ja han opettaa sinua; ja kalat meressa ilmoittavat sinulle.	</div>
 
-<div class="versenum">9.</div> Kuka se on, joka ei kaikkia naita tieda, etta Herran kasi on ne tehnyt?	
+<div class="theverse"><div class="versenum">9.</div> Kuka se on, joka ei kaikkia naita tieda, etta Herran kasi on ne tehnyt?	</div>
 
-<div class="versenum">10.</div> Etta hanen kadessansa on kaikkein elavien sielu, ja kunkin lihan henki?	
+<div class="theverse"><div class="versenum">10.</div> Etta hanen kadessansa on kaikkein elavien sielu, ja kunkin lihan henki?	</div>
 
-<div class="versenum">11.</div> Eiko korva koettele puhetta, ja suu maista ruokaa?	
+<div class="theverse"><div class="versenum">11.</div> Eiko korva koettele puhetta, ja suu maista ruokaa?	</div>
 
-<div class="versenum">12.</div> Vanhoilla on taito, ja pitka-ijallisilla ymmarrys.	
+<div class="theverse"><div class="versenum">12.</div> Vanhoilla on taito, ja pitka-ijallisilla ymmarrys.	</div>
 
-<div class="versenum">13.</div> Hanen tykonansa on taito ja voima; hanen on neuvo ja ymmarrys.	
+<div class="theverse"><div class="versenum">13.</div> Hanen tykonansa on taito ja voima; hanen on neuvo ja ymmarrys.	</div>
 
-<div class="versenum">14.</div> Katso, koska han kukistaa, niin ei auta rakentamaan: koska han jonkun salpaa, niin ei kenkaan taida avata.	
+<div class="theverse"><div class="versenum">14.</div> Katso, koska han kukistaa, niin ei auta rakentamaan: koska han jonkun salpaa, niin ei kenkaan taida avata.	</div>
 
-<div class="versenum">15.</div> Katso, koska han pidattaa veden, niin kaikki kuivettuu, ja koska han laskee, niin se kaantaa maan.	
+<div class="theverse"><div class="versenum">15.</div> Katso, koska han pidattaa veden, niin kaikki kuivettuu, ja koska han laskee, niin se kaantaa maan.	</div>
 
-<div class="versenum">16.</div> Han on vahva Ja pysyvainen: hanen on se joka eksyy, ja se joka eksyttaa.	
+<div class="theverse"><div class="versenum">16.</div> Han on vahva Ja pysyvainen: hanen on se joka eksyy, ja se joka eksyttaa.	</div>
 
-<div class="versenum">17.</div> Han johdattaa kavalat niinkuin saaliin, ja saattaa tuomarit tyhmaksi.	
+<div class="theverse"><div class="versenum">17.</div> Han johdattaa kavalat niinkuin saaliin, ja saattaa tuomarit tyhmaksi.	</div>
 
-<div class="versenum">18.</div> Han paastaa kuningasten siteet, ja vyottaa heidan kupeensa.	
+<div class="theverse"><div class="versenum">18.</div> Han paastaa kuningasten siteet, ja vyottaa heidan kupeensa.	</div>
 
-<div class="versenum">19.</div> Papit vie han niinkuin saaliin, ja vakevat kukistaa.	
+<div class="theverse"><div class="versenum">19.</div> Papit vie han niinkuin saaliin, ja vakevat kukistaa.	</div>
 
-<div class="versenum">20.</div> Han vaantaa pois totisten huulet, vanhain toimen ottaa han pois.	
+<div class="theverse"><div class="versenum">20.</div> Han vaantaa pois totisten huulet, vanhain toimen ottaa han pois.	</div>
 
-<div class="versenum">21.</div> Han kaataa ylonkatseen paamiesten paalle, ja voimallisten vakevyyden hajoittaa.	
+<div class="theverse"><div class="versenum">21.</div> Han kaataa ylonkatseen paamiesten paalle, ja voimallisten vakevyyden hajoittaa.	</div>
 
-<div class="versenum">22.</div> Han ilmoittaa pimiat perustukset, ja kuoleman varjon saattaa han valkeuteen.	
+<div class="theverse"><div class="versenum">22.</div> Han ilmoittaa pimiat perustukset, ja kuoleman varjon saattaa han valkeuteen.	</div>
 
-<div class="versenum">23.</div> Han saattaa kansat suureksi, ja taas hukuttaa heidat; han levittaa kansan, ja taas vie pois heidat.	
+<div class="theverse"><div class="versenum">23.</div> Han saattaa kansat suureksi, ja taas hukuttaa heidat; han levittaa kansan, ja taas vie pois heidat.	</div>
 
-<div class="versenum">24.</div> Han ottaa pois maan kansan ruhtinasten sydamet, ja eksyttaa heita korvessa, jossa ei tieta ole.	
+<div class="theverse"><div class="versenum">24.</div> Han ottaa pois maan kansan ruhtinasten sydamet, ja eksyttaa heita korvessa, jossa ei tieta ole.	</div>
 
-<div class="versenum">25.</div> Ja he koperoitsevat pimeydessa ilman valkeutta; ja han eksyttaa heita kuin juopuneita.	
+<div class="theverse"><div class="versenum">25.</div> Ja he koperoitsevat pimeydessa ilman valkeutta; ja han eksyttaa heita kuin juopuneita.	</div>
 </body>
 </html>

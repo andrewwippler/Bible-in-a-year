@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Danielin 8	</div>
 	
-<div class="versenum">1.</div> Kolmantena kuningas Belsatsarin valtakunnan vuotena nain mina Daniel nayn sen jalkeen, joka minulle ensin nakynyt oli.	
+<div class="theverse"><div class="versenum">1.</div> Kolmantena kuningas Belsatsarin valtakunnan vuotena nain mina Daniel nayn sen jalkeen, joka minulle ensin nakynyt oli.	</div>
 
-<div class="versenum">2.</div> Mutta kuin mina nayn nain, olin mina Susanin linnassa Elamin maalla; ja mina nain nayssani olevani Ulain virran tykona.	
+<div class="theverse"><div class="versenum">2.</div> Mutta kuin mina nayn nain, olin mina Susanin linnassa Elamin maalla; ja mina nain nayssani olevani Ulain virran tykona.	</div>
 
-<div class="versenum">3.</div> Ja mina nostin silmani ja nain, ja katso, oinas seisoi virran tykona, jolla oli kaksi korkiaa sarvea, toinen korkiampi kuin toinen, ja korkiampi puhkesi jalista ulos.	
+<div class="theverse"><div class="versenum">3.</div> Ja mina nostin silmani ja nain, ja katso, oinas seisoi virran tykona, jolla oli kaksi korkiaa sarvea, toinen korkiampi kuin toinen, ja korkiampi puhkesi jalista ulos.	</div>
 
-<div class="versenum">4.</div> Sitte mina nain oinaan puskevan sarvillansa lanteen pain, pohjaan pain ja etelaan pain, ja ei yksikaan peto taitanut seisoa hanen edessansa, eika hanen kasistansa pelastettaa, vaan han teki, mita han tahtoi ja tuli suureksi.	
+<div class="theverse"><div class="versenum">4.</div> Sitte mina nain oinaan puskevan sarvillansa lanteen pain, pohjaan pain ja etelaan pain, ja ei yksikaan peto taitanut seisoa hanen edessansa, eika hanen kasistansa pelastettaa, vaan han teki, mita han tahtoi ja tuli suureksi.	</div>
 
-<div class="versenum">5.</div> Ja kuin mina naista otin vaarin, katso, niin tuli kauris koko maan paalle, niin ettei han sattunut maahan, ja kauriilla oli jalo sarvi silmainsa valilla.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin mina naista otin vaarin, katso, niin tuli kauris koko maan paalle, niin ettei han sattunut maahan, ja kauriilla oli jalo sarvi silmainsa valilla.	</div>
 
-<div class="versenum">6.</div> Ja han tuli hamaan kaksisarvisen oinaan tyko, jonka mina seisovan nain virran tykona. Ja han juoksi vihoissansa vakevasti hanen tykonsa.	
+<div class="theverse"><div class="versenum">6.</div> Ja han tuli hamaan kaksisarvisen oinaan tyko, jonka mina seisovan nain virran tykona. Ja han juoksi vihoissansa vakevasti hanen tykonsa.	</div>
 
-<div class="versenum">7.</div> Ja mina nain, etta han tuli tuimasti oinaan tyko, ja julmistui hanen paallensa ja puski oinasta ja sarki hanen molemmat sarvensa. Ja oinaalla ei ollut voimaa seisoa hanen edessansa, vaan han heitti hanet maahan ja tallasi hanet. Ja ei kenkaan taitanut oinasta hanen kasistansa pelastaa.	
+<div class="theverse"><div class="versenum">7.</div> Ja mina nain, etta han tuli tuimasti oinaan tyko, ja julmistui hanen paallensa ja puski oinasta ja sarki hanen molemmat sarvensa. Ja oinaalla ei ollut voimaa seisoa hanen edessansa, vaan han heitti hanet maahan ja tallasi hanet. Ja ei kenkaan taitanut oinasta hanen kasistansa pelastaa.	</div>
 
-<div class="versenum">8.</div> Ja kauris tuli sangen suureksi ja kuin han vakevammaksi tullut oli, lohaistiin suuri sarvi, ja sen siaan kasvoi nelja kaunista jalleen neljaa taivaan tuulta kohden.	
+<div class="theverse"><div class="versenum">8.</div> Ja kauris tuli sangen suureksi ja kuin han vakevammaksi tullut oli, lohaistiin suuri sarvi, ja sen siaan kasvoi nelja kaunista jalleen neljaa taivaan tuulta kohden.	</div>
 
-<div class="versenum">9.</div> Ja yhdesta niista kasvoi yksi vaha sarvi: Se tuli sangen suureksi etelaan pain, itaan pain ja ihanaisen maan puoleen.	
+<div class="theverse"><div class="versenum">9.</div> Ja yhdesta niista kasvoi yksi vaha sarvi: Se tuli sangen suureksi etelaan pain, itaan pain ja ihanaisen maan puoleen.	</div>
 
-<div class="versenum">10.</div> Ja se kasvoi taivaan sotajoukkoon asti ja heitti monikahdat sotajoukosta ja tahdeista maahan ja tallasi ne.	
+<div class="theverse"><div class="versenum">10.</div> Ja se kasvoi taivaan sotajoukkoon asti ja heitti monikahdat sotajoukosta ja tahdeista maahan ja tallasi ne.	</div>
 
-<div class="versenum">11.</div> Ja se tuli suureksi sotajoukon paamieheen asti ja otti hanelta pois jokapaivaisen uhrin ja havitti hanen pyhansa huoneen.	
+<div class="theverse"><div class="versenum">11.</div> Ja se tuli suureksi sotajoukon paamieheen asti ja otti hanelta pois jokapaivaisen uhrin ja havitti hanen pyhansa huoneen.	</div>
 
-<div class="versenum">12.</div> Vaan senkaltainen voima oli hanelle annettu jokapaivaista uhria vastaan synnin tahden, etta han totuuden maahan lois. Ja han tekee sen ja menestyy.	
+<div class="theverse"><div class="versenum">12.</div> Vaan senkaltainen voima oli hanelle annettu jokapaivaista uhria vastaan synnin tahden, etta han totuuden maahan lois. Ja han tekee sen ja menestyy.	</div>
 
-<div class="versenum">13.</div> Mutta mina kuulin yhden pyhan puhuvan. Ja se pyha sanoi yhdelle ja puhui: Kuinka kauvan senkaltainen naky jokapaivaisista uhreista viipyman pitaa ja synnista, jonka tahden tama havitys tapahtuu, etta seka pyha ja sotajoukko tallataan?	
+<div class="theverse"><div class="versenum">13.</div> Mutta mina kuulin yhden pyhan puhuvan. Ja se pyha sanoi yhdelle ja puhui: Kuinka kauvan senkaltainen naky jokapaivaisista uhreista viipyman pitaa ja synnista, jonka tahden tama havitys tapahtuu, etta seka pyha ja sotajoukko tallataan?	</div>
 
-<div class="versenum">14.</div> Ja han vastasi minua: Aamusta ehtoosen asti kaksituhatta ja kolmesataa paivaa, niin pyha jalleen vihitaan.	
+<div class="theverse"><div class="versenum">14.</div> Ja han vastasi minua: Aamusta ehtoosen asti kaksituhatta ja kolmesataa paivaa, niin pyha jalleen vihitaan.	</div>
 
-<div class="versenum">15.</div> Ja kuin mina Daniel sen nayn nain ja olisin mielellani ymmartanyt, katso, niin seisoi minun edessani niinkuin miehen muotoinen.	
+<div class="theverse"><div class="versenum">15.</div> Ja kuin mina Daniel sen nayn nain ja olisin mielellani ymmartanyt, katso, niin seisoi minun edessani niinkuin miehen muotoinen.	</div>
 
-<div class="versenum">16.</div> Ja mina kuulin Ulain keskella ihmisen aanen, joka huusi ja sanoi: Gabriel, selita hanelle tama naky, etta han ymmartais.	
+<div class="theverse"><div class="versenum">16.</div> Ja mina kuulin Ulain keskella ihmisen aanen, joka huusi ja sanoi: Gabriel, selita hanelle tama naky, etta han ymmartais.	</div>
 
-<div class="versenum">17.</div> Ja han tuli juuri liki minua, mutta mina hammastyin, kuin han tuli, ja lankesin kasvoilleni. Ja han sanoi minuUe: Ota vaari, ihmisen poika, silla tama naky ajallansa taytetaan.	
+<div class="theverse"><div class="versenum">17.</div> Ja han tuli juuri liki minua, mutta mina hammastyin, kuin han tuli, ja lankesin kasvoilleni. Ja han sanoi minuUe: Ota vaari, ihmisen poika, silla tama naky ajallansa taytetaan.	</div>
 
-<div class="versenum">18.</div> Ja kuin han minun kanssani puhui, putosin mina naannyksiin maahan kasvoilleni. Ja han rupesi minuun, ja nosti minut seisoalle.	
+<div class="theverse"><div class="versenum">18.</div> Ja kuin han minun kanssani puhui, putosin mina naannyksiin maahan kasvoilleni. Ja han rupesi minuun, ja nosti minut seisoalle.	</div>
 
-<div class="versenum">19.</div> Ja sanoi: katso, mina tahdon sinulle osoittaa, kuinka viimeisen vihan aikana kaypa on, silla lopulla on hanen maaratty aikansa.	
+<div class="theverse"><div class="versenum">19.</div> Ja sanoi: katso, mina tahdon sinulle osoittaa, kuinka viimeisen vihan aikana kaypa on, silla lopulla on hanen maaratty aikansa.	</div>
 
-<div class="versenum">20.</div> Kaksisarvinen oinas, jonkas nait, ovat Median ja Persian kuninkaat.	
+<div class="theverse"><div class="versenum">20.</div> Kaksisarvinen oinas, jonkas nait, ovat Median ja Persian kuninkaat.	</div>
 
-<div class="versenum">21.</div> Mutta karvainen kauris on Grekan maan kuningas, ja se suuri sarvi hanen silmainsa valilla on se ensimainen kuningas.	
+<div class="theverse"><div class="versenum">21.</div> Mutta karvainen kauris on Grekan maan kuningas, ja se suuri sarvi hanen silmainsa valilla on se ensimainen kuningas.	</div>
 
-<div class="versenum">22.</div> Mutta etta nelja nousivat sen sarven siaan, kuin se sarjetty oli, ennustaa, etta nelja valtakuntaa siita kansasta tulee, vaan ei niin vakevaa kuin han oli.	
+<div class="theverse"><div class="versenum">22.</div> Mutta etta nelja nousivat sen sarven siaan, kuin se sarjetty oli, ennustaa, etta nelja valtakuntaa siita kansasta tulee, vaan ei niin vakevaa kuin han oli.	</div>
 
-<div class="versenum">23.</div> Naiden valtakuntain jalkeen, kuin pahointekiat vallan saaneet ovat, nousee hapeematon kuningas ja kavala tapauksissa.	
+<div class="theverse"><div class="versenum">23.</div> Naiden valtakuntain jalkeen, kuin pahointekiat vallan saaneet ovat, nousee hapeematon kuningas ja kavala tapauksissa.	</div>
 
-<div class="versenum">24.</div> Se on voimallinen, mutta ei vakensa kautta. Han havittaa ihmeellisesti ja menestyy ja toimittaa. Han hukuttaa vakevat ja pyhan kansan.	
+<div class="theverse"><div class="versenum">24.</div> Se on voimallinen, mutta ei vakensa kautta. Han havittaa ihmeellisesti ja menestyy ja toimittaa. Han hukuttaa vakevat ja pyhan kansan.	</div>
 
-<div class="versenum">25.</div> Ja hanen kavaluutensa kautta menestyy hanen petoksensa. Ja paisuu sydamessansa ja myotakaymisen kautta han monta havittaa. Ja han korottaa itsensa kaikkein ruhtinasten Ruhtinasta vastaan, vaan ilman kasia han pitaa rikottaman.	
+<div class="theverse"><div class="versenum">25.</div> Ja hanen kavaluutensa kautta menestyy hanen petoksensa. Ja paisuu sydamessansa ja myotakaymisen kautta han monta havittaa. Ja han korottaa itsensa kaikkein ruhtinasten Ruhtinasta vastaan, vaan ilman kasia han pitaa rikottaman.	</div>
 
-<div class="versenum">26.</div> Se naky ehtoosta ja aamusta, joka sinulle sanottu oli, on tosi. Vaan sinun pitaa taman nayn salassa pitaman, silla siihen on viela paljo aikaa.	
+<div class="theverse"><div class="versenum">26.</div> Se naky ehtoosta ja aamusta, joka sinulle sanottu oli, on tosi. Vaan sinun pitaa taman nayn salassa pitaman, silla siihen on viela paljo aikaa.	</div>
 
-<div class="versenum">27.</div> Ja mina Daniel vasyin ja sairastin monikahdat paivat. Sen perasta nousin mina ja toimitin kuninkaan askareet. Ja mina ihmettelin sita nakya, ja ei kenkaan ollut, joka minua neuvoi.	
+<div class="theverse"><div class="versenum">27.</div> Ja mina Daniel vasyin ja sairastin monikahdat paivat. Sen perasta nousin mina ja toimitin kuninkaan askareet. Ja mina ihmettelin sita nakya, ja ei kenkaan ollut, joka minua neuvoi.	</div>
 </body>
 </html>

@@ -4,92 +4,92 @@
 </head>
 <body><div class="chaptertitle">2 Kuninkaiden 4	</div>
 	
-<div class="versenum">1.</div> Ja yksi vaimo prophetain poikain emantia huusi Elisan tyko ja sanoi: sinun palvelias minun mieheni kuoli: niin sina tiedat sen, etta sinun palvelias pelkasi Herraa: nyt tuli velkamies, ja tahtoo ottaa kaksi minun poikaani orjaksensa.	
+<div class="theverse"><div class="versenum">1.</div> Ja yksi vaimo prophetain poikain emantia huusi Elisan tyko ja sanoi: sinun palvelias minun mieheni kuoli: niin sina tiedat sen, etta sinun palvelias pelkasi Herraa: nyt tuli velkamies, ja tahtoo ottaa kaksi minun poikaani orjaksensa.	</div>
 
-<div class="versenum">2.</div> Elisa sanoi hanelle: mita minun pitaa tekeman sinulle? sano minulle, mita sinun huoneessas on? Han sanoi: sinun piiallas ei ole muuta mitaan kuin yksi oljyastia.	
+<div class="theverse"><div class="versenum">2.</div> Elisa sanoi hanelle: mita minun pitaa tekeman sinulle? sano minulle, mita sinun huoneessas on? Han sanoi: sinun piiallas ei ole muuta mitaan kuin yksi oljyastia.	</div>
 
-<div class="versenum">3.</div> Han sanoi: mene ja ano koko kylakunnaltas astioita, tyhjia astioita niin monta kuin saat,	
+<div class="theverse"><div class="versenum">3.</div> Han sanoi: mene ja ano koko kylakunnaltas astioita, tyhjia astioita niin monta kuin saat,	</div>
 
-<div class="versenum">4.</div> Ja mene sisalle, ja sulje ovi sinun ja sinun poikais peraan, ja kaada jokaiseen niihin astioihin: ja koskas olet ne tayttanyt, niin anna ne ottaa pois.	
+<div class="theverse"><div class="versenum">4.</div> Ja mene sisalle, ja sulje ovi sinun ja sinun poikais peraan, ja kaada jokaiseen niihin astioihin: ja koskas olet ne tayttanyt, niin anna ne ottaa pois.	</div>
 
-<div class="versenum">5.</div> Han meni pois hanen tykoansa, sulki oven jalkeensa ja poikainsa jalkeen. He kantoivat astiat hanen eteensa, ja han kaasi niihin.	
+<div class="theverse"><div class="versenum">5.</div> Han meni pois hanen tykoansa, sulki oven jalkeensa ja poikainsa jalkeen. He kantoivat astiat hanen eteensa, ja han kaasi niihin.	</div>
 
-<div class="versenum">6.</div> Ja kuin astiat olivat taytetyt, sanoi han pojallensa: tuo minulle viela astia. Han sanoi hanelle: ei ole taalla enaa astiaa; niin oljy seisahti.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuin astiat olivat taytetyt, sanoi han pojallensa: tuo minulle viela astia. Han sanoi hanelle: ei ole taalla enaa astiaa; niin oljy seisahti.	</div>
 
-<div class="versenum">7.</div> Ja han tuli ja ilmoitti sen Jumalan miehelle. Han sanoi: mene ja myy oljy, ja maksa velkamiehes; mutta sina ja sinun poikas elakaat jaaneesta.	
+<div class="theverse"><div class="versenum">7.</div> Ja han tuli ja ilmoitti sen Jumalan miehelle. Han sanoi: mene ja myy oljy, ja maksa velkamiehes; mutta sina ja sinun poikas elakaat jaaneesta.	</div>
 
-<div class="versenum">8.</div> Ja se tapahtui siihen aikaan, etta Elisa meni Sunemiin, ja siella oli varallinen vaimo, joka vaati hanta syomaan tykonansa. Ja niin usein kuin han sen kautta vaelsi, poikkesi han sinne syomaan leipaa.	
+<div class="theverse"><div class="versenum">8.</div> Ja se tapahtui siihen aikaan, etta Elisa meni Sunemiin, ja siella oli varallinen vaimo, joka vaati hanta syomaan tykonansa. Ja niin usein kuin han sen kautta vaelsi, poikkesi han sinne syomaan leipaa.	</div>
 
-<div class="versenum">9.</div> Ja han sanoi miehellensa: katso, mina ymmarran taman Jumalan miehen olevan pyhan, joka tassa meidan kauttamme aina vaeltaa:	
+<div class="theverse"><div class="versenum">9.</div> Ja han sanoi miehellensa: katso, mina ymmarran taman Jumalan miehen olevan pyhan, joka tassa meidan kauttamme aina vaeltaa:	</div>
 
-<div class="versenum">10.</div> Tehkaamme siis tahan ylistupa, ja pankaamme hanelle sinne vuode, poyta, istuin ja kynttilajalka, etta han sinne menis, kuin han meidan tykomme tulee.	
+<div class="theverse"><div class="versenum">10.</div> Tehkaamme siis tahan ylistupa, ja pankaamme hanelle sinne vuode, poyta, istuin ja kynttilajalka, etta han sinne menis, kuin han meidan tykomme tulee.	</div>
 
-<div class="versenum">11.</div> Niin tapahtui siihen aikaan, etta han tuli sinne; ja han meni ylistupaan ja makasi siella.	
+<div class="theverse"><div class="versenum">11.</div> Niin tapahtui siihen aikaan, etta han tuli sinne; ja han meni ylistupaan ja makasi siella.	</div>
 
-<div class="versenum">12.</div> Ja han sanoi palveliallensa Gehatsille: kutsu Sunemin vaimo tanne. Ja kuin han oli kutsunut hanen, astui han hanen eteensa.	
+<div class="theverse"><div class="versenum">12.</div> Ja han sanoi palveliallensa Gehatsille: kutsu Sunemin vaimo tanne. Ja kuin han oli kutsunut hanen, astui han hanen eteensa.	</div>
 
-<div class="versenum">13.</div> Niin han sanoi hanelle: sano hanelle: katso, sina olet tehnyt meille kaiken taman palveluksen, mita minun pitaa sinulle tekeman? Onko sinulla asiaa kuninkaan taikka sodanpaamiehen tyko? Han sanoi: mina asun keskella minun kansaani.	
+<div class="theverse"><div class="versenum">13.</div> Niin han sanoi hanelle: sano hanelle: katso, sina olet tehnyt meille kaiken taman palveluksen, mita minun pitaa sinulle tekeman? Onko sinulla asiaa kuninkaan taikka sodanpaamiehen tyko? Han sanoi: mina asun keskella minun kansaani.	</div>
 
-<div class="versenum">14.</div> Han sanoi hanelle: mitasta siis hanelle pitais tehtaman? Gehatsi sanoi: ei ole hanella poikaa, ja hanen miehensa on vanha.	
+<div class="theverse"><div class="versenum">14.</div> Han sanoi hanelle: mitasta siis hanelle pitais tehtaman? Gehatsi sanoi: ei ole hanella poikaa, ja hanen miehensa on vanha.	</div>
 
-<div class="versenum">15.</div> Han sanoi: kutsu hanta; ja kuin han meni hanta kutsumaan, niin han tuli omissa.	
+<div class="theverse"><div class="versenum">15.</div> Han sanoi: kutsu hanta; ja kuin han meni hanta kutsumaan, niin han tuli omissa.	</div>
 
-<div class="versenum">16.</div> Ja han sanoi: tahan maarattyyn aikaan vuoden perasta pitaa sinun syleileman poikaa. Han sanoi: ei, minun herrani, sina Jumalan mies, ala vaaryttele piikas edessa!	
+<div class="theverse"><div class="versenum">16.</div> Ja han sanoi: tahan maarattyyn aikaan vuoden perasta pitaa sinun syleileman poikaa. Han sanoi: ei, minun herrani, sina Jumalan mies, ala vaaryttele piikas edessa!	</div>
 
-<div class="versenum">17.</div> Ja vaimo tuli raskaaksi ja synnytti pojan maarattyyn aikaan vuoden perasta, niinkuin Elisa oli hanelle sanonut.	
+<div class="theverse"><div class="versenum">17.</div> Ja vaimo tuli raskaaksi ja synnytti pojan maarattyyn aikaan vuoden perasta, niinkuin Elisa oli hanelle sanonut.	</div>
 
-<div class="versenum">18.</div> Ja kuin lapsi jo isoksi tuli, niin tapahtui, etta han meni ulos isansa ja elonleikkaajain tyko.	
+<div class="theverse"><div class="versenum">18.</div> Ja kuin lapsi jo isoksi tuli, niin tapahtui, etta han meni ulos isansa ja elonleikkaajain tyko.	</div>
 
-<div class="versenum">19.</div> Ja han sanoi isallensa: voi-minun paatani, minun paatani! Ja han sanoi palveliallensa: kanna hanta aitinsa tyko!	
+<div class="theverse"><div class="versenum">19.</div> Ja han sanoi isallensa: voi-minun paatani, minun paatani! Ja han sanoi palveliallensa: kanna hanta aitinsa tyko!	</div>
 
-<div class="versenum">20.</div> Ja han otti hanen ja vei aitinsa tyko; ja han istui hanen helmassansa puolipaivaan asti, ja kuoli.	
+<div class="theverse"><div class="versenum">20.</div> Ja han otti hanen ja vei aitinsa tyko; ja han istui hanen helmassansa puolipaivaan asti, ja kuoli.	</div>
 
-<div class="versenum">21.</div> Ja han nousi ja laski hanen Jumalan miehen vuoteelle, laksi ulos ja sulki oven,	
+<div class="theverse"><div class="versenum">21.</div> Ja han nousi ja laski hanen Jumalan miehen vuoteelle, laksi ulos ja sulki oven,	</div>
 
-<div class="versenum">22.</div> Ja kutsui miehensa ja sanoi: laheta minun tykoni yksi palvelioista ja yksi aaseista, silla mina menen Jumalan miehen tyko ja palajan.	
+<div class="theverse"><div class="versenum">22.</div> Ja kutsui miehensa ja sanoi: laheta minun tykoni yksi palvelioista ja yksi aaseista, silla mina menen Jumalan miehen tyko ja palajan.	</div>
 
-<div class="versenum">23.</div> Ja han sanoi: miksi sina hanen tykonsa menet tanapana, silla ei nyt ole uusi kuu taikka sabbati? Han sanoi: rauha.	
+<div class="theverse"><div class="versenum">23.</div> Ja han sanoi: miksi sina hanen tykonsa menet tanapana, silla ei nyt ole uusi kuu taikka sabbati? Han sanoi: rauha.	</div>
 
-<div class="versenum">24.</div> Ja han satuloitsi aasin ja sanoi palveliallensa: aja vahvasti, ala viivyta ajamasta, muutoin kuin mina sanon sinulle.	
+<div class="theverse"><div class="versenum">24.</div> Ja han satuloitsi aasin ja sanoi palveliallensa: aja vahvasti, ala viivyta ajamasta, muutoin kuin mina sanon sinulle.	</div>
 
-<div class="versenum">25.</div> Ja niin han meni pois ja tuli Jumalan miehen tyko Karmelin vuorelle. Kuin Jumalan mies naki hanen tulevan, sanoi han palveliallensa Gehatsille: katso, se on Sunemin vaimo.	
+<div class="theverse"><div class="versenum">25.</div> Ja niin han meni pois ja tuli Jumalan miehen tyko Karmelin vuorelle. Kuin Jumalan mies naki hanen tulevan, sanoi han palveliallensa Gehatsille: katso, se on Sunemin vaimo.	</div>
 
-<div class="versenum">26.</div> Niin juokse nyt hanta vastaan ja sano hanelle: oletkos rauhassa, ja sinun miehes ja sinun poikas? Han vastasi: rauhassa.	
+<div class="theverse"><div class="versenum">26.</div> Niin juokse nyt hanta vastaan ja sano hanelle: oletkos rauhassa, ja sinun miehes ja sinun poikas? Han vastasi: rauhassa.	</div>
 
-<div class="versenum">27.</div> Mutta kuin han tuli vuorelle Jumalan miehen tyko, tarttui han hanen jalkoihinsa. Ja Gehatsi meni sysaamaan hanta pois. Mutta Jumalan mies sanoi: anna hanen olla, silla hanen sielunsa on murheellinen, ja Herra on minulta sen salannut ja ei ilmoittanut minulle.	
+<div class="theverse"><div class="versenum">27.</div> Mutta kuin han tuli vuorelle Jumalan miehen tyko, tarttui han hanen jalkoihinsa. Ja Gehatsi meni sysaamaan hanta pois. Mutta Jumalan mies sanoi: anna hanen olla, silla hanen sielunsa on murheellinen, ja Herra on minulta sen salannut ja ei ilmoittanut minulle.	</div>
 
-<div class="versenum">28.</div> Han sanoi: anoinko mina poikaa minun herraltani? Enko mina sanonut: ala minua peta!	
+<div class="theverse"><div class="versenum">28.</div> Han sanoi: anoinko mina poikaa minun herraltani? Enko mina sanonut: ala minua peta!	</div>
 
-<div class="versenum">29.</div> Ja han sanoi Gehatsille: vyota sinun kupees ja ota minun sauvani katees, ja mene matkaas: jos joku sinun kohtaa, niin ala tervehdi hanta, ja jos joku sinua tervehtii, niin ala vastaa hanta: ja laske minun sauvani pojan kasvoille.	
+<div class="theverse"><div class="versenum">29.</div> Ja han sanoi Gehatsille: vyota sinun kupees ja ota minun sauvani katees, ja mene matkaas: jos joku sinun kohtaa, niin ala tervehdi hanta, ja jos joku sinua tervehtii, niin ala vastaa hanta: ja laske minun sauvani pojan kasvoille.	</div>
 
-<div class="versenum">30.</div> Mutta pojan aiti sanoi: niin totta kuin Herra elaa ja sinun sielus elaa, en mina paasta sinua. Niin han nousi ja seurasi hanta.	
+<div class="theverse"><div class="versenum">30.</div> Mutta pojan aiti sanoi: niin totta kuin Herra elaa ja sinun sielus elaa, en mina paasta sinua. Niin han nousi ja seurasi hanta.	</div>
 
-<div class="versenum">31.</div> Mutta Gehatsi meni pois heidan edellansa, ja laski sauvansa pojan kasvoille, vaan ei ollut aanta eika tuntoa. Niin han palasi ja kohtasi hanen, ilmoitti hanelle ja sanoi: ei poika herannyt.	
+<div class="theverse"><div class="versenum">31.</div> Mutta Gehatsi meni pois heidan edellansa, ja laski sauvansa pojan kasvoille, vaan ei ollut aanta eika tuntoa. Niin han palasi ja kohtasi hanen, ilmoitti hanelle ja sanoi: ei poika herannyt.	</div>
 
-<div class="versenum">32.</div> Ja kuin Elisa tuli huoneesen, katso, poika makasi kuolleena hanen vuoteellansa.	
+<div class="theverse"><div class="versenum">32.</div> Ja kuin Elisa tuli huoneesen, katso, poika makasi kuolleena hanen vuoteellansa.	</div>
 
-<div class="versenum">33.</div> Ja han meni sisalle ja sulki oven molempain peraan; ja han rukoili Herraa,	
+<div class="theverse"><div class="versenum">33.</div> Ja han meni sisalle ja sulki oven molempain peraan; ja han rukoili Herraa,	</div>
 
-<div class="versenum">34.</div> Nousi ja laski itsensa lapsen paalle, ja pani suunsa hanen suunsa paalle, ja silmansa hanen silmainsa paalle, ja katensa hanen kattensa paalle, ja niin ojensi itsensa hanen paallensa, etta lapsen ruumis tuli lampimaksi.	
+<div class="theverse"><div class="versenum">34.</div> Nousi ja laski itsensa lapsen paalle, ja pani suunsa hanen suunsa paalle, ja silmansa hanen silmainsa paalle, ja katensa hanen kattensa paalle, ja niin ojensi itsensa hanen paallensa, etta lapsen ruumis tuli lampimaksi.	</div>
 
-<div class="versenum">35.</div> Ja han nousi jalleen ja kavi kerran sinne ja tanne huoneessa, nousi ja laski itsensa hanen paallensa. Niin poika aivasti seitseman kertaa, sitte avasi poika silmansa.	
+<div class="theverse"><div class="versenum">35.</div> Ja han nousi jalleen ja kavi kerran sinne ja tanne huoneessa, nousi ja laski itsensa hanen paallensa. Niin poika aivasti seitseman kertaa, sitte avasi poika silmansa.	</div>
 
-<div class="versenum">36.</div> Ja han kutsui Gehatsin ja sanoi: kutsu Sunemin vaimo. Ja kuin han oli hanen kutsunut, tuli han sisalle hanen tykonsa. Han sanoi: ota poikas!	
+<div class="theverse"><div class="versenum">36.</div> Ja han kutsui Gehatsin ja sanoi: kutsu Sunemin vaimo. Ja kuin han oli hanen kutsunut, tuli han sisalle hanen tykonsa. Han sanoi: ota poikas!	</div>
 
-<div class="versenum">37.</div> Niin han tuli ja lankesi hanen jalkainsa juureen, kumarsi itsensa maahan, ja otti poikansa ja meni ulos.	
+<div class="theverse"><div class="versenum">37.</div> Niin han tuli ja lankesi hanen jalkainsa juureen, kumarsi itsensa maahan, ja otti poikansa ja meni ulos.	</div>
 
-<div class="versenum">38.</div> Ja Elisa palasi Gilgaliin, ja kallis aika oli maalla, ja prophetain pojat olivat hanen edessansa. Ja han sanoi palveliallensa: ota suuri pata ja keita lienta prophetain pojille.	
+<div class="theverse"><div class="versenum">38.</div> Ja Elisa palasi Gilgaliin, ja kallis aika oli maalla, ja prophetain pojat olivat hanen edessansa. Ja han sanoi palveliallensa: ota suuri pata ja keita lienta prophetain pojille.	</div>
 
-<div class="versenum">39.</div> Niin yksi laksi kedolle hakemaan ruohoja, ja loysi metsaviikunapuun, ja haki siita kolokinteja vaatteensa tayden. Ja kuin han tuli, leikkasi han sen liemipataan; silla ei he tunteneet sita.	
+<div class="theverse"><div class="versenum">39.</div> Niin yksi laksi kedolle hakemaan ruohoja, ja loysi metsaviikunapuun, ja haki siita kolokinteja vaatteensa tayden. Ja kuin han tuli, leikkasi han sen liemipataan; silla ei he tunteneet sita.	</div>
 
-<div class="versenum">40.</div> Ja kuin he sen antoivat miesten eteen syoda, soivat he liemesta ja huusivat, sanoen: Jumalan mies, kuolema on padassa! Silla ei he saaneet syoda.	
+<div class="theverse"><div class="versenum">40.</div> Ja kuin he sen antoivat miesten eteen syoda, soivat he liemesta ja huusivat, sanoen: Jumalan mies, kuolema on padassa! Silla ei he saaneet syoda.	</div>
 
-<div class="versenum">41.</div> Ja han sanoi: tuokaat tanne jauhoja, ja han heitti pataan ja sanoi: antakaat kansalle syoda, ja ei ollut mitaan vahinkoa padassa.	
+<div class="theverse"><div class="versenum">41.</div> Ja han sanoi: tuokaat tanne jauhoja, ja han heitti pataan ja sanoi: antakaat kansalle syoda, ja ei ollut mitaan vahinkoa padassa.	</div>
 
-<div class="versenum">42.</div> Ja yksi mies tuli Baalsalisasta ja kantoi Jumalan miehelle uutisleipia, kaksikymmenta ohraista leipaa ja uutisjyvia vaatteissansa. Mutta han sanoi: anna kansalle, etta he soisivat.	
+<div class="theverse"><div class="versenum">42.</div> Ja yksi mies tuli Baalsalisasta ja kantoi Jumalan miehelle uutisleipia, kaksikymmenta ohraista leipaa ja uutisjyvia vaatteissansa. Mutta han sanoi: anna kansalle, etta he soisivat.	</div>
 
-<div class="versenum">43.</div> Hanen palveliansa sanoi: mita mina siita annan sadalle miehelle? Han sanoi: anna kansalle syoda; silla nain sanoo Herra: he syovat ja viela sittenkin jaa.	
+<div class="theverse"><div class="versenum">43.</div> Hanen palveliansa sanoi: mita mina siita annan sadalle miehelle? Han sanoi: anna kansalle syoda; silla nain sanoo Herra: he syovat ja viela sittenkin jaa.	</div>
 
-<div class="versenum">44.</div> Ja han pani ne heidan eteensa, ja he soivat; ja viela oli liiaksi Herran sanan jalkeen.	
+<div class="theverse"><div class="versenum">44.</div> Ja han pani ne heidan eteensa, ja he soivat; ja viela oli liiaksi Herran sanan jalkeen.	</div>
 </body>
 </html>

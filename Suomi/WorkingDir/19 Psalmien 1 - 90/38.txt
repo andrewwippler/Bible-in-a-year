@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Psalmien 38	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi muistoksi. (H38:2) Herra, ala rankaise minua vihassas, ja ala kurita minua hirmuisuudessas!	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi muistoksi. (H38:2) Herra, ala rankaise minua vihassas, ja ala kurita minua hirmuisuudessas!	</div>
 
-<div class="versenum">2.</div> Silla sinun nuoles ovat minuun kiinnitetyt, ja sinun kates painaa minua.	
+<div class="theverse"><div class="versenum">2.</div> Silla sinun nuoles ovat minuun kiinnitetyt, ja sinun kates painaa minua.	</div>
 
-<div class="versenum">3.</div> Ei ole terveys minun ruumiissani, sinun uhkauksestas: ja ei ole rauhaa minun luissani, minun synteini tahden.	
+<div class="theverse"><div class="versenum">3.</div> Ei ole terveys minun ruumiissani, sinun uhkauksestas: ja ei ole rauhaa minun luissani, minun synteini tahden.	</div>
 
-<div class="versenum">4.</div> Silla minun syntini kayvat paani ylitse; niinkuin raskas kuorma ovat he ylen raskaaksi tulleet.	
+<div class="theverse"><div class="versenum">4.</div> Silla minun syntini kayvat paani ylitse; niinkuin raskas kuorma ovat he ylen raskaaksi tulleet.	</div>
 
-<div class="versenum">5.</div> Minun haavani haisevat ja matanevat minun hulluuteni tahden.	
+<div class="theverse"><div class="versenum">5.</div> Minun haavani haisevat ja matanevat minun hulluuteni tahden.	</div>
 
-<div class="versenum">6.</div> Mina kayn kymarassa ja kumarruksissa: yli paivaa mina kayn murheissani.	
+<div class="theverse"><div class="versenum">6.</div> Mina kayn kymarassa ja kumarruksissa: yli paivaa mina kayn murheissani.	</div>
 
-<div class="versenum">7.</div> Silla minun kupeeni perati kuivettuvat, ja ei ole mitaan tervetta minun ruumiissani.	
+<div class="theverse"><div class="versenum">7.</div> Silla minun kupeeni perati kuivettuvat, ja ei ole mitaan tervetta minun ruumiissani.	</div>
 
-<div class="versenum">8.</div> Mina olen ylen paljon runneltu ja lyoty rikki: mina myrisen minun sydameni kivusta.	
+<div class="theverse"><div class="versenum">8.</div> Mina olen ylen paljon runneltu ja lyoty rikki: mina myrisen minun sydameni kivusta.	</div>
 
-<div class="versenum">9.</div> Herra, sinun edessas on kaikki minun haluni, ja minun huokaukseni ei ole sinulta salattu.	
+<div class="theverse"><div class="versenum">9.</div> Herra, sinun edessas on kaikki minun haluni, ja minun huokaukseni ei ole sinulta salattu.	</div>
 
-<div class="versenum">10.</div> Minun sydameni varisee, minun voimani on minusta luopunut, ja minun silmaini valkeus ei ole minun tykonani.	
+<div class="theverse"><div class="versenum">10.</div> Minun sydameni varisee, minun voimani on minusta luopunut, ja minun silmaini valkeus ei ole minun tykonani.	</div>
 
-<div class="versenum">11.</div> Minun ystavani ja lahimmaiseni ovat kohdastansa minua vastaan, ja minun omaiseni seisovat kaukana.	
+<div class="theverse"><div class="versenum">11.</div> Minun ystavani ja lahimmaiseni ovat kohdastansa minua vastaan, ja minun omaiseni seisovat kaukana.	</div>
 
-<div class="versenum">12.</div> Jotka minun sieluani etsivat, ne virittelevat paulat minun eteeni, ja jotka minulle pahaa suovat, ne puhuvat sulaa pahuutta, ja petosta joka paiva ajattelevat.	
+<div class="theverse"><div class="versenum">12.</div> Jotka minun sieluani etsivat, ne virittelevat paulat minun eteeni, ja jotka minulle pahaa suovat, ne puhuvat sulaa pahuutta, ja petosta joka paiva ajattelevat.	</div>
 
-<div class="versenum">13.</div> Mutta minun taytyy olla niinkuin kuuron, ja ei mitaan kuuleman, ja niinkuin mykan, joka ei avaja suutansa,	
+<div class="theverse"><div class="versenum">13.</div> Mutta minun taytyy olla niinkuin kuuron, ja ei mitaan kuuleman, ja niinkuin mykan, joka ei avaja suutansa,	</div>
 
-<div class="versenum">14.</div> Ja minun taytyy olla niinkuin se, joka ei mitaan kuule, ja jonka suussa ei ole vastausta.	
+<div class="theverse"><div class="versenum">14.</div> Ja minun taytyy olla niinkuin se, joka ei mitaan kuule, ja jonka suussa ei ole vastausta.	</div>
 
-<div class="versenum">15.</div> Mutta mina odotan sinua, Herra; sina, Herra, minun Jumalani, kuultelet minua.	
+<div class="theverse"><div class="versenum">15.</div> Mutta mina odotan sinua, Herra; sina, Herra, minun Jumalani, kuultelet minua.	</div>
 
-<div class="versenum">16.</div> Silla mina ajattelen, ettei heidan suinkaan pida minusta iloitseman: jos minun jalkani kompastuis, niin he kerskaisivat sangen paljon minusta.	
+<div class="theverse"><div class="versenum">16.</div> Silla mina ajattelen, ettei heidan suinkaan pida minusta iloitseman: jos minun jalkani kompastuis, niin he kerskaisivat sangen paljon minusta.	</div>
 
-<div class="versenum">17.</div> Silla mina olen tehty karsimaan, ja minun kipuni on alati minun edessani.	
+<div class="theverse"><div class="versenum">17.</div> Silla mina olen tehty karsimaan, ja minun kipuni on alati minun edessani.	</div>
 
-<div class="versenum">18.</div> Silla mina julistan pahan tekoni, ja murehdin syntini tahden.	
+<div class="theverse"><div class="versenum">18.</div> Silla mina julistan pahan tekoni, ja murehdin syntini tahden.	</div>
 
-<div class="versenum">19.</div> Mutta minun viholliseni elavat ja ovat vakevat: ne ovat suuret, jotka minua syyttomasti vihaavat.	
+<div class="theverse"><div class="versenum">19.</div> Mutta minun viholliseni elavat ja ovat vakevat: ne ovat suuret, jotka minua syyttomasti vihaavat.	</div>
 
-<div class="versenum">20.</div> Ja ne, jotka minulle maksavat pahalla hyvan, asettavat heitansa minua vastaan, etta mina hyvaa noudatan.	
+<div class="theverse"><div class="versenum">20.</div> Ja ne, jotka minulle maksavat pahalla hyvan, asettavat heitansa minua vastaan, etta mina hyvaa noudatan.	</div>
 
-<div class="versenum">21.</div> Ala hylkaa minua, Herra: minun Jumalani, ala ole kaukana minusta!	
+<div class="theverse"><div class="versenum">21.</div> Ala hylkaa minua, Herra: minun Jumalani, ala ole kaukana minusta!	</div>
 
-<div class="versenum">22.</div> Rienna minua auttamaan, Herra, minun autuuteni!	
+<div class="theverse"><div class="versenum">22.</div> Rienna minua auttamaan, Herra, minun autuuteni!	</div>
 </body>
 </html>

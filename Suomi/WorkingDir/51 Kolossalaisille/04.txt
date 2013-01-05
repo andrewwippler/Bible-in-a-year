@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Kolossalaisille 4	</div>
 	
-<div class="versenum">1.</div> Isannat, se mika oikeus ja kohtuus on, osoittakaat palvelioille, tietaen, etta teillakin on Herra taivaissa.	
+<div class="theverse"><div class="versenum">1.</div> Isannat, se mika oikeus ja kohtuus on, osoittakaat palvelioille, tietaen, etta teillakin on Herra taivaissa.	</div>
 
-<div class="versenum">2.</div> Olkaat alinomaisesti rukouksissa, valvoin niissa kiitoksen kanssa,	
+<div class="theverse"><div class="versenum">2.</div> Olkaat alinomaisesti rukouksissa, valvoin niissa kiitoksen kanssa,	</div>
 
-<div class="versenum">3.</div> Rukoillen ynna meidankin edestamme, etta Jumala meille sanansa oven avais, Kristuksen salaisuutta puhumaan, jonka tahden mina myos sidottu olen:	
+<div class="theverse"><div class="versenum">3.</div> Rukoillen ynna meidankin edestamme, etta Jumala meille sanansa oven avais, Kristuksen salaisuutta puhumaan, jonka tahden mina myos sidottu olen:	</div>
 
-<div class="versenum">4.</div> Etta mina sen julistaisin, niinkuin minun puhua tulee.	
+<div class="theverse"><div class="versenum">4.</div> Etta mina sen julistaisin, niinkuin minun puhua tulee.	</div>
 
-<div class="versenum">5.</div> Vaeltakaat viisaasti niiden kanssa, jotka ulkona ovat, ja ottakaat ajasta vaari.	
+<div class="theverse"><div class="versenum">5.</div> Vaeltakaat viisaasti niiden kanssa, jotka ulkona ovat, ja ottakaat ajasta vaari.	</div>
 
-<div class="versenum">6.</div> Teidan puheenne olkoon aina otollinen ja suolalla sekoitettu, etta te tietaisitte, kuinka teidan pitaa jokaista vastaaman.	
+<div class="theverse"><div class="versenum">6.</div> Teidan puheenne olkoon aina otollinen ja suolalla sekoitettu, etta te tietaisitte, kuinka teidan pitaa jokaista vastaaman.	</div>
 
-<div class="versenum">7.</div> Kaikista minun menoistani pitaa Tykikuksen, rakkaan veljen ja uskollisen palvelian ja kanssapalvelian Herrassa, teille tiettavaksi tekeman,	
+<div class="theverse"><div class="versenum">7.</div> Kaikista minun menoistani pitaa Tykikuksen, rakkaan veljen ja uskollisen palvelian ja kanssapalvelian Herrassa, teille tiettavaksi tekeman,	</div>
 
-<div class="versenum">8.</div> Jonka mina sita varten lahetin teidan tykonne, etta mina saisin tietaa teidan tilanne, ja etta han teidan sydamenne lohduttais,	
+<div class="theverse"><div class="versenum">8.</div> Jonka mina sita varten lahetin teidan tykonne, etta mina saisin tietaa teidan tilanne, ja etta han teidan sydamenne lohduttais,	</div>
 
-<div class="versenum">9.</div> Ynna Onesimuksen, uskollisen ja rakkaan veljen kanssa, joka yksi teista on: kuinka kaikki taalla ovat, he teilla tiettavaksi tekevat.	
+<div class="theverse"><div class="versenum">9.</div> Ynna Onesimuksen, uskollisen ja rakkaan veljen kanssa, joka yksi teista on: kuinka kaikki taalla ovat, he teilla tiettavaksi tekevat.	</div>
 
-<div class="versenum">10.</div> Aristarkus, minun kanssavankini, tervehtii teita, ja Markus, Barnabaan nepas, josta te kaskyt saaneet olette: jos han tulee teidan tykonne, niin ottakaat hanta vastaan,	
+<div class="theverse"><div class="versenum">10.</div> Aristarkus, minun kanssavankini, tervehtii teita, ja Markus, Barnabaan nepas, josta te kaskyt saaneet olette: jos han tulee teidan tykonne, niin ottakaat hanta vastaan,	</div>
 
-<div class="versenum">11.</div> Ja Jesus, joka Justukseksi kutsutaan, jotka ymparileikkauksesta ovat: namat ainoat ovat minun auttajani Jumalan valtakuntaan, jotka minulle lohdutukseksi olleet ovat.	
+<div class="theverse"><div class="versenum">11.</div> Ja Jesus, joka Justukseksi kutsutaan, jotka ymparileikkauksesta ovat: namat ainoat ovat minun auttajani Jumalan valtakuntaan, jotka minulle lohdutukseksi olleet ovat.	</div>
 
-<div class="versenum">12.</div> Teita tervehtii Epaphras, joka on teista Kristuksen palvelia, ja rukoilee ahkerasti teidan edestanne, etta te taydelliset olisitte, kaikella Jumalan tahdolla taytetyt.	
+<div class="theverse"><div class="versenum">12.</div> Teita tervehtii Epaphras, joka on teista Kristuksen palvelia, ja rukoilee ahkerasti teidan edestanne, etta te taydelliset olisitte, kaikella Jumalan tahdolla taytetyt.	</div>
 
-<div class="versenum">13.</div> Silla mina todistan hanesta, etta han suuren kiivauden teista pitaa ja niista, jotka Laodikeassa ja Hierapolissa ovat.	
+<div class="theverse"><div class="versenum">13.</div> Silla mina todistan hanesta, etta han suuren kiivauden teista pitaa ja niista, jotka Laodikeassa ja Hierapolissa ovat.	</div>
 
-<div class="versenum">14.</div> Teita tervehtii Luukas laakari, se rakas, ja Demas.	
+<div class="theverse"><div class="versenum">14.</div> Teita tervehtii Luukas laakari, se rakas, ja Demas.	</div>
 
-<div class="versenum">15.</div> Tervehtikaat veljia, jotka ovat Laodikeassa, ja Nymphaa, ja sita seurakuntaa, joka hanen huoneessansa on.	
+<div class="theverse"><div class="versenum">15.</div> Tervehtikaat veljia, jotka ovat Laodikeassa, ja Nymphaa, ja sita seurakuntaa, joka hanen huoneessansa on.	</div>
 
-<div class="versenum">16.</div> Ja kuin tama lahetyskirja on teidan edessanne luettu, niin laittakaat, etta se Laodikeankin seurakunnassa luettaisiin, ja etta tekin sen lukisitte, joka Laodikeasta kirjoitettu on,	
+<div class="theverse"><div class="versenum">16.</div> Ja kuin tama lahetyskirja on teidan edessanne luettu, niin laittakaat, etta se Laodikeankin seurakunnassa luettaisiin, ja etta tekin sen lukisitte, joka Laodikeasta kirjoitettu on,	</div>
 
-<div class="versenum">17.</div> Ja sanokaat Arkippukselle: pida virastas vaaria, jonkas Herrassa saanut olet, ettas sen toimittaisit.	
+<div class="theverse"><div class="versenum">17.</div> Ja sanokaat Arkippukselle: pida virastas vaaria, jonkas Herrassa saanut olet, ettas sen toimittaisit.	</div>
 
-<div class="versenum">18.</div> Tervehdys minun, Paavalin, kadellani. Muistakaat minun siteitani. Armo olkoon teidan kanssanne! Amen.	
+<div class="theverse"><div class="versenum">18.</div> Tervehdys minun, Paavalin, kadellani. Muistakaat minun siteitani. Armo olkoon teidan kanssanne! Amen.	</div>
 </body>
 </html>

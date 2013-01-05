@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">2 Kuninkaiden 24	</div>
 	
-<div class="versenum">1.</div> Hanen aikanansa nousi Nebukadnetsar Babelin kuningas; ja Jojakim tuli hanelle alamaiseksi kolmeksi vuodeksi; mutta han kaansi itsensa ja erkani hanesta.	
+<div class="theverse"><div class="versenum">1.</div> Hanen aikanansa nousi Nebukadnetsar Babelin kuningas; ja Jojakim tuli hanelle alamaiseksi kolmeksi vuodeksi; mutta han kaansi itsensa ja erkani hanesta.	</div>
 
-<div class="versenum">2.</div> Ja Herra antoi tulla hanen paallensa sotavaen Kaldeasta, Syriasta, Moabista ja Ammonin lapsista, ja antoi ne tulla Juudeaan hukuttamaan hanta, Herran sanan jalkeen, niinkuin han oli puhunut palveliainsa prophetain kautta.	
+<div class="theverse"><div class="versenum">2.</div> Ja Herra antoi tulla hanen paallensa sotavaen Kaldeasta, Syriasta, Moabista ja Ammonin lapsista, ja antoi ne tulla Juudeaan hukuttamaan hanta, Herran sanan jalkeen, niinkuin han oli puhunut palveliainsa prophetain kautta.	</div>
 
-<div class="versenum">3.</div> Mutta se tapahtui Juudalle Herran sanan jalkeen, etta han heita heittais pois kasvoinsa edesta Manassen syntein tahden, jotka han tehnyt oli.	
+<div class="theverse"><div class="versenum">3.</div> Mutta se tapahtui Juudalle Herran sanan jalkeen, etta han heita heittais pois kasvoinsa edesta Manassen syntein tahden, jotka han tehnyt oli.	</div>
 
-<div class="versenum">4.</div> Ja myos viattoman veren tahden, jonka han vuodatti, ja taytti Jerusalemin viattomalla verella: sita ei Herra tahtonut antaa anteeksi.	
+<div class="theverse"><div class="versenum">4.</div> Ja myos viattoman veren tahden, jonka han vuodatti, ja taytti Jerusalemin viattomalla verella: sita ei Herra tahtonut antaa anteeksi.	</div>
 
-<div class="versenum">5.</div> Mita enempi Jojakimista sanomista on, ja kaikista hanen teoistansa: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	
+<div class="theverse"><div class="versenum">5.</div> Mita enempi Jojakimista sanomista on, ja kaikista hanen teoistansa: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	</div>
 
-<div class="versenum">6.</div> Ja Jojakim nukkui isainsa kanssa ja hanen poikansa Jojakin tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja Jojakim nukkui isainsa kanssa ja hanen poikansa Jojakin tuli kuninkaaksi hanen siaansa.	</div>
 
-<div class="versenum">7.</div> Ja Egyptin kuningas ei lahtenyt enaan maaltansa; silla Babelin kuningas oli hanelta ottanut kaikki pois, mita Egyptin kuninkaan oma oli, Egyptin ojasta Phratin virtaan asti.	
+<div class="theverse"><div class="versenum">7.</div> Ja Egyptin kuningas ei lahtenyt enaan maaltansa; silla Babelin kuningas oli hanelta ottanut kaikki pois, mita Egyptin kuninkaan oma oli, Egyptin ojasta Phratin virtaan asti.	</div>
 
-<div class="versenum">8.</div> Kahdeksantoistakymmenen vuotinen oli Jojakin tullessansa kuninkaaksi, ja hallitsi kolme kuukautta Jerusalemissa; hanen aitinsa nimi oli Nehusta Elnatanin tytar Jerusalemista.	
+<div class="theverse"><div class="versenum">8.</div> Kahdeksantoistakymmenen vuotinen oli Jojakin tullessansa kuninkaaksi, ja hallitsi kolme kuukautta Jerusalemissa; hanen aitinsa nimi oli Nehusta Elnatanin tytar Jerusalemista.	</div>
 
-<div class="versenum">9.</div> Ja han teki pahaa Herran edessa, niinkuin hanen isansakin tehnyt oli.	
+<div class="theverse"><div class="versenum">9.</div> Ja han teki pahaa Herran edessa, niinkuin hanen isansakin tehnyt oli.	</div>
 
-<div class="versenum">10.</div> Silloin matkustivat Nebukadnetsarin Babelin kuninkaan palveliat ylos Jerusalemiin; ja kaupunki piiritettiin.	
+<div class="theverse"><div class="versenum">10.</div> Silloin matkustivat Nebukadnetsarin Babelin kuninkaan palveliat ylos Jerusalemiin; ja kaupunki piiritettiin.	</div>
 
-<div class="versenum">11.</div> Ja Nebukadnetsar, Babelin kuningas, tuli kaupungin tyko, ja hanen palveliansa piirittivat sen.	
+<div class="theverse"><div class="versenum">11.</div> Ja Nebukadnetsar, Babelin kuningas, tuli kaupungin tyko, ja hanen palveliansa piirittivat sen.	</div>
 
-<div class="versenum">12.</div> Niin Jojakin Juudan kuningas meni aitinensa Babelin kuninkaan tyko, ja hanen palveliansa, ja ylimmaisensa, ja kamaripalveliansa. Ja Babelin kuningas otti hanen valtakuntansa kahdeksantena vuonna.	
+<div class="theverse"><div class="versenum">12.</div> Niin Jojakin Juudan kuningas meni aitinensa Babelin kuninkaan tyko, ja hanen palveliansa, ja ylimmaisensa, ja kamaripalveliansa. Ja Babelin kuningas otti hanen valtakuntansa kahdeksantena vuonna.	</div>
 
-<div class="versenum">13.</div> Ja han otti kaiken tavaran Herran huoneesta ja kuninkaan huoneesta, ja rikkoi kaikki kultaiset astiat, jotka Salomo Israelin kuningas oli Herran templiin antanut tehda niinkuin Herra puhunut oli,	
+<div class="theverse"><div class="versenum">13.</div> Ja han otti kaiken tavaran Herran huoneesta ja kuninkaan huoneesta, ja rikkoi kaikki kultaiset astiat, jotka Salomo Israelin kuningas oli Herran templiin antanut tehda niinkuin Herra puhunut oli,	</div>
 
-<div class="versenum">14.</div> Ja vei koko Jerusalemin, kaikki ylimmaiset, kaikki voimalliset sotamiehet, kymmenentuhatta vankia, ja kaikki puusepat ja rautasepat pois, niin ettei yhtakaan jaanyt, vaan koyhimmat kansasta maalle;	
+<div class="theverse"><div class="versenum">14.</div> Ja vei koko Jerusalemin, kaikki ylimmaiset, kaikki voimalliset sotamiehet, kymmenentuhatta vankia, ja kaikki puusepat ja rautasepat pois, niin ettei yhtakaan jaanyt, vaan koyhimmat kansasta maalle;	</div>
 
-<div class="versenum">15.</div> Ja vei Jojakinin ja kuninkaan aidin, kuninkaan emannat ja hanen kamaripalveliansa pois Babeliin. Ja ne voimalliset maalta vei han myos Jerusalemista vankina Babeliin.	
+<div class="theverse"><div class="versenum">15.</div> Ja vei Jojakinin ja kuninkaan aidin, kuninkaan emannat ja hanen kamaripalveliansa pois Babeliin. Ja ne voimalliset maalta vei han myos Jerusalemista vankina Babeliin.	</div>
 
-<div class="versenum">16.</div> Ja kaikki vakevat miehet, seitsemantuhatta, ja tuhannen puuseppaa ja rautaseppaa, kaikki vakevat sotamiehet; ja Babelin kuningas vei heidat vankina Babeliin.	
+<div class="theverse"><div class="versenum">16.</div> Ja kaikki vakevat miehet, seitsemantuhatta, ja tuhannen puuseppaa ja rautaseppaa, kaikki vakevat sotamiehet; ja Babelin kuningas vei heidat vankina Babeliin.	</div>
 
-<div class="versenum">17.</div> Ja Babelin kuningas asetti Mattanian hanen setansa kuninkaaksi hanen siaansa ja muutti hanen nimensa Zidkiaksi.	
+<div class="theverse"><div class="versenum">17.</div> Ja Babelin kuningas asetti Mattanian hanen setansa kuninkaaksi hanen siaansa ja muutti hanen nimensa Zidkiaksi.	</div>
 
-<div class="versenum">18.</div> Yhden vuoden vanha kolmattakymmenta oli Zidkia tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa. Hanen aitinsa nimi oli Hamutal, Jeremian tytar Libnasta.	
+<div class="theverse"><div class="versenum">18.</div> Yhden vuoden vanha kolmattakymmenta oli Zidkia tullessansa kuninkaaksi, ja hallitsi yksitoistakymmenta vuotta Jerusalemissa. Hanen aitinsa nimi oli Hamutal, Jeremian tytar Libnasta.	</div>
 
-<div class="versenum">19.</div> Ja han teki pahaa Herran edessa, niinkuin Jojakin myos tehnyt oli.	
+<div class="theverse"><div class="versenum">19.</div> Ja han teki pahaa Herran edessa, niinkuin Jojakin myos tehnyt oli.	</div>
 
-<div class="versenum">20.</div> Silla se tapahtui niin Jerusalemin ja Juudan kanssa Herran vihasta, siihen asti etta han heitti heidat pois kasvoinsa edesta. Ja Zidkia erkani Babelin kuninkaasta.	
+<div class="theverse"><div class="versenum">20.</div> Silla se tapahtui niin Jerusalemin ja Juudan kanssa Herran vihasta, siihen asti etta han heitti heidat pois kasvoinsa edesta. Ja Zidkia erkani Babelin kuninkaasta.	</div>
 </body>
 </html>

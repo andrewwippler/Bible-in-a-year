@@ -4,78 +4,78 @@
 </head>
 <body><div class="chaptertitle">Markuksen 7	</div>
 	
-<div class="versenum">1.</div> Ja hanen tykonsa kokoontuivat Pharisealaiset ja muutamat kirjanoppineista, jotka Jerusalemista tulleet olivat.	
+<div class="theverse"><div class="versenum">1.</div> Ja hanen tykonsa kokoontuivat Pharisealaiset ja muutamat kirjanoppineista, jotka Jerusalemista tulleet olivat.	</div>
 
-<div class="versenum">2.</div> Ja kuin he nakivat muutamat hanen opetuslapsistansa yhteisilla (se on: pesemattomilla) kasilla syovan leipaa, laittivat he sita.	
+<div class="theverse"><div class="versenum">2.</div> Ja kuin he nakivat muutamat hanen opetuslapsistansa yhteisilla (se on: pesemattomilla) kasilla syovan leipaa, laittivat he sita.	</div>
 
-<div class="versenum">3.</div> Silla pharisealaiset ja kaikki Juudalaiset ei syo, ellei he usein pese kasiansa, pitain vanhimpain saatya.	
+<div class="theverse"><div class="versenum">3.</div> Silla pharisealaiset ja kaikki Juudalaiset ei syo, ellei he usein pese kasiansa, pitain vanhimpain saatya.	</div>
 
-<div class="versenum">4.</div> Ja kuin he turulta tulevat, ei he syo pesematta. Ja monta muuta on, jotka he ovat ottaneet pitaaksensa, jota on: juoma-astiain, kivi-astiain, ja vaski-astiain ja poytain pesemiset.	
+<div class="theverse"><div class="versenum">4.</div> Ja kuin he turulta tulevat, ei he syo pesematta. Ja monta muuta on, jotka he ovat ottaneet pitaaksensa, jota on: juoma-astiain, kivi-astiain, ja vaski-astiain ja poytain pesemiset.	</div>
 
-<div class="versenum">5.</div> Sitte kysyivat Pharisealaiset ja kirjanoppineet hanelta: miksi ei sinun opetuslapses vaella vanhinpain saadyn jalkeen, vaan syovat pesemattomilla kasilla leipaa?	
+<div class="theverse"><div class="versenum">5.</div> Sitte kysyivat Pharisealaiset ja kirjanoppineet hanelta: miksi ei sinun opetuslapses vaella vanhinpain saadyn jalkeen, vaan syovat pesemattomilla kasilla leipaa?	</div>
 
-<div class="versenum">6.</div> Mutta han vastaten sanoi heille: Jesaias on hyvasti teista ulkokullaisista ennustanut, niinkuin kirjoitettu on: tama kansa kunnioittaa minua huulilla, vaan heidan sydamensa on kaukana minusta.	
+<div class="theverse"><div class="versenum">6.</div> Mutta han vastaten sanoi heille: Jesaias on hyvasti teista ulkokullaisista ennustanut, niinkuin kirjoitettu on: tama kansa kunnioittaa minua huulilla, vaan heidan sydamensa on kaukana minusta.	</div>
 
-<div class="versenum">7.</div> Mutta turhaan he minua palvelevat, opettain sita oppia, joka on ihmisten kaskyja.	
+<div class="theverse"><div class="versenum">7.</div> Mutta turhaan he minua palvelevat, opettain sita oppia, joka on ihmisten kaskyja.	</div>
 
-<div class="versenum">8.</div> Silla te hylkaatte Jumalan kaskyn, ja pidatte ihmisten saadyn, kivi-astiain ja juoma-astiain pesemiset, ja muita senkaltaisia te paljon teette.	
+<div class="theverse"><div class="versenum">8.</div> Silla te hylkaatte Jumalan kaskyn, ja pidatte ihmisten saadyn, kivi-astiain ja juoma-astiain pesemiset, ja muita senkaltaisia te paljon teette.	</div>
 
-<div class="versenum">9.</div> Ja han sanoi heille: hyvin te hylkaatte Jumalan kaskyn, etta te teidan saatynne pitaisitte.	
+<div class="theverse"><div class="versenum">9.</div> Ja han sanoi heille: hyvin te hylkaatte Jumalan kaskyn, etta te teidan saatynne pitaisitte.	</div>
 
-<div class="versenum">10.</div> Silla Moses sanoi: kunnioita isaas ja aitias! ja joka kiroilee isaa eli aitia, hanen pitaa kuolemalla kuoleman.	
+<div class="theverse"><div class="versenum">10.</div> Silla Moses sanoi: kunnioita isaas ja aitias! ja joka kiroilee isaa eli aitia, hanen pitaa kuolemalla kuoleman.	</div>
 
-<div class="versenum">11.</div> Mutta te sanotte: jos ihminen sanoo isalle taikka aidille: korban, (se on uhrattu) jolla sinua piti minulta autettaman.	
+<div class="theverse"><div class="versenum">11.</div> Mutta te sanotte: jos ihminen sanoo isalle taikka aidille: korban, (se on uhrattu) jolla sinua piti minulta autettaman.	</div>
 
-<div class="versenum">12.</div> Ja ette salli hanen mitaan tehda isallensa taikka aidillensa.	
+<div class="theverse"><div class="versenum">12.</div> Ja ette salli hanen mitaan tehda isallensa taikka aidillensa.	</div>
 
-<div class="versenum">13.</div> Ja hylkaatte Jumalan sanan teidan saadyllanne, jonka te saataneet olette, ja senkaltaisia paljon te teette.	
+<div class="theverse"><div class="versenum">13.</div> Ja hylkaatte Jumalan sanan teidan saadyllanne, jonka te saataneet olette, ja senkaltaisia paljon te teette.	</div>
 
-<div class="versenum">14.</div> Ja han kutsui tykonsa kaiken kansan ja sanoi heille: kuulkaat kaikki minua, ja ymmartakaat.	
+<div class="theverse"><div class="versenum">14.</div> Ja han kutsui tykonsa kaiken kansan ja sanoi heille: kuulkaat kaikki minua, ja ymmartakaat.	</div>
 
-<div class="versenum">15.</div> Ei ole ulkona ihmisesta mitaan, joka haneen menee sisalle, ja taitaa hanen saastuttaa; mutta ne, mitka hanesta tulevat ulos, ne ovat ne, jotka saastuttavat ihmisen.	
+<div class="theverse"><div class="versenum">15.</div> Ei ole ulkona ihmisesta mitaan, joka haneen menee sisalle, ja taitaa hanen saastuttaa; mutta ne, mitka hanesta tulevat ulos, ne ovat ne, jotka saastuttavat ihmisen.	</div>
 
-<div class="versenum">16.</div> Jos jollakin on korvat kuulla, se kuulkaan.	
+<div class="theverse"><div class="versenum">16.</div> Jos jollakin on korvat kuulla, se kuulkaan.	</div>
 
-<div class="versenum">17.</div> Ja kuin han kansan tykoa meni huoneeseen, kysyivat hanen opetuslapsensa hanelta tasta vertauksesta.	
+<div class="theverse"><div class="versenum">17.</div> Ja kuin han kansan tykoa meni huoneeseen, kysyivat hanen opetuslapsensa hanelta tasta vertauksesta.	</div>
 
-<div class="versenum">18.</div> Ja han sanoi heille: oletteko tekin niin ymmartamattomat? etteko ymmarra, etta kaikki mika ulkoa menee ihmiseen, ei se hanta taida saastuttaa?	
+<div class="theverse"><div class="versenum">18.</div> Ja han sanoi heille: oletteko tekin niin ymmartamattomat? etteko ymmarra, etta kaikki mika ulkoa menee ihmiseen, ei se hanta taida saastuttaa?	</div>
 
-<div class="versenum">19.</div> Silla ei se mene hanen sydameensa, vaan vatsaan, ja menee luonnollisesti ulos, kaikki ruat puhdistain.	
+<div class="theverse"><div class="versenum">19.</div> Silla ei se mene hanen sydameensa, vaan vatsaan, ja menee luonnollisesti ulos, kaikki ruat puhdistain.	</div>
 
-<div class="versenum">20.</div> Ja han sanoi: mita ihmisesta tulee ulos, se saastuttaa ihmisen.	
+<div class="theverse"><div class="versenum">20.</div> Ja han sanoi: mita ihmisesta tulee ulos, se saastuttaa ihmisen.	</div>
 
-<div class="versenum">21.</div> Silla sisalta ihmisten sydamesta tulevat ulos pahat ajatukset, huoruudet, salavuoteudet, miestapot,	
+<div class="theverse"><div class="versenum">21.</div> Silla sisalta ihmisten sydamesta tulevat ulos pahat ajatukset, huoruudet, salavuoteudet, miestapot,	</div>
 
-<div class="versenum">22.</div> Varkaudet, ahneudet, pahat juonet, petos, irstaisuus, pahansuomuus, Jumalan pilkka, ylpeys, hulluus.	
+<div class="theverse"><div class="versenum">22.</div> Varkaudet, ahneudet, pahat juonet, petos, irstaisuus, pahansuomuus, Jumalan pilkka, ylpeys, hulluus.	</div>
 
-<div class="versenum">23.</div> Kaikki namat pahuudet sisalta tulevat ulos ja saastuttavat ihmisen.	
+<div class="theverse"><div class="versenum">23.</div> Kaikki namat pahuudet sisalta tulevat ulos ja saastuttavat ihmisen.	</div>
 
-<div class="versenum">24.</div> Niin han nousi ja meni sielta Tyron ja Sidonin maan aariin, ja meni sisalle huoneeseen, eika tahtonut sita kenellekaan antaa tietaa: ja ei han taitanut salaa olla.	
+<div class="theverse"><div class="versenum">24.</div> Niin han nousi ja meni sielta Tyron ja Sidonin maan aariin, ja meni sisalle huoneeseen, eika tahtonut sita kenellekaan antaa tietaa: ja ei han taitanut salaa olla.	</div>
 
-<div class="versenum">25.</div> Silla kuin yksi vaimo kuuli hanesta, jonka vahalla tyttarella oli saastainen henki, niin se tuli ja lankesi hanen jalkainsa juureen,	
+<div class="theverse"><div class="versenum">25.</div> Silla kuin yksi vaimo kuuli hanesta, jonka vahalla tyttarella oli saastainen henki, niin se tuli ja lankesi hanen jalkainsa juureen,	</div>
 
-<div class="versenum">26.</div> (Mutta vaimo oli Gregilainen, Syrophenisiassa syntynyt) ja han rukoili hanta ajamaan pois perkeletta hanen tyttarestansa.	
+<div class="theverse"><div class="versenum">26.</div> (Mutta vaimo oli Gregilainen, Syrophenisiassa syntynyt) ja han rukoili hanta ajamaan pois perkeletta hanen tyttarestansa.	</div>
 
-<div class="versenum">27.</div> Niin Jesus sanoi hanelle: salli ensin lapset ravittaa; silla ei se ole kohtuullinen, ottaa lasten leipaa ja heittaa penikoille.	
+<div class="theverse"><div class="versenum">27.</div> Niin Jesus sanoi hanelle: salli ensin lapset ravittaa; silla ei se ole kohtuullinen, ottaa lasten leipaa ja heittaa penikoille.	</div>
 
-<div class="versenum">28.</div> Mutta han vastasi ja sanoi hanelle: tosin Herra: syovat penikatkin poydan alla lasten muruista.	
+<div class="theverse"><div class="versenum">28.</div> Mutta han vastasi ja sanoi hanelle: tosin Herra: syovat penikatkin poydan alla lasten muruista.	</div>
 
-<div class="versenum">29.</div> Ja han sanoi hanelle: taman puheen tahden mene: perkele laksi ulos sinun tyttarestas.	
+<div class="theverse"><div class="versenum">29.</div> Ja han sanoi hanelle: taman puheen tahden mene: perkele laksi ulos sinun tyttarestas.	</div>
 
-<div class="versenum">30.</div> Ja kuin han meni kotiansa, loysi han perkeleen lahteneeksi ulos ja tyttarensa makaavan vuoteessa.	
+<div class="theverse"><div class="versenum">30.</div> Ja kuin han meni kotiansa, loysi han perkeleen lahteneeksi ulos ja tyttarensa makaavan vuoteessa.	</div>
 
-<div class="versenum">31.</div> Ja taas kuin han laksi Tyron ja Sidonin maan aarista, tuli han Galilean meren tyko, kymmenen kaupungin maan aarten keskitse.	
+<div class="theverse"><div class="versenum">31.</div> Ja taas kuin han laksi Tyron ja Sidonin maan aarista, tuli han Galilean meren tyko, kymmenen kaupungin maan aarten keskitse.	</div>
 
-<div class="versenum">32.</div> Ja he toivat hanen tykonsa kuuron, joka myos mykka oli, ja he rukoilivat hanta panemaan katensa hanen paallensa,	
+<div class="theverse"><div class="versenum">32.</div> Ja he toivat hanen tykonsa kuuron, joka myos mykka oli, ja he rukoilivat hanta panemaan katensa hanen paallensa,	</div>
 
-<div class="versenum">33.</div> Ja han otti hanen erinansa kansasta ja pisti sormensa hanen korviinsa, sylki ja rupesi hanen kieleensa,	
+<div class="theverse"><div class="versenum">33.</div> Ja han otti hanen erinansa kansasta ja pisti sormensa hanen korviinsa, sylki ja rupesi hanen kieleensa,	</div>
 
-<div class="versenum">34.</div> Ja katsahtain taivaaseen huokasi, ja sanoi hanelle; ephphata, se on: aukene.	
+<div class="theverse"><div class="versenum">34.</div> Ja katsahtain taivaaseen huokasi, ja sanoi hanelle; ephphata, se on: aukene.	</div>
 
-<div class="versenum">35.</div> Ja kohta aukenivat hanen korvansa, ja hanen kielensa side paasi vallallensa ja puhui selkiasti.	
+<div class="theverse"><div class="versenum">35.</div> Ja kohta aukenivat hanen korvansa, ja hanen kielensa side paasi vallallensa ja puhui selkiasti.	</div>
 
-<div class="versenum">36.</div> Ja han haasti heidat kellenkaan sanomasta. Mutta jota enemman han haasti, sita enemmin he ilmoittivat.	
+<div class="theverse"><div class="versenum">36.</div> Ja han haasti heidat kellenkaan sanomasta. Mutta jota enemman han haasti, sita enemmin he ilmoittivat.	</div>
 
-<div class="versenum">37.</div> Ja he suuresti hammastyivat, sanoen: hyvasti han kaikki teki: kuurot han tekee kuulemaan ja mykat puhumaan.	
+<div class="theverse"><div class="versenum">37.</div> Ja he suuresti hammastyivat, sanoen: hyvasti han kaikki teki: kuurot han tekee kuulemaan ja mykat puhumaan.	</div>
 </body>
 </html>

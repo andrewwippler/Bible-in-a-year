@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Psalmien 39	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, Jedutunilta, edellaveisaajalle. (H39:2) Mina olen sanonut: mina tahdon pitaa vaarin teistani, etten mina tekisi syntia kielellani: mina hallitsen suuni niinkuin suitsilla, niin kauvan kuin mina naen jumalattoman edessani.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, Jedutunilta, edellaveisaajalle. (H39:2) Mina olen sanonut: mina tahdon pitaa vaarin teistani, etten mina tekisi syntia kielellani: mina hallitsen suuni niinkuin suitsilla, niin kauvan kuin mina naen jumalattoman edessani.	</div>
 
-<div class="versenum">2.</div> Mina tulin mykaksi, vaikenemisella vaikenin hyvasta; mutta minun murheeni lisaantyi.	
+<div class="theverse"><div class="versenum">2.</div> Mina tulin mykaksi, vaikenemisella vaikenin hyvasta; mutta minun murheeni lisaantyi.	</div>
 
-<div class="versenum">3.</div> Minun sydameni on palava minussa, ja kuin mina sita ajattelen, niin mina sytyn: mina puhun kielellani.	
+<div class="theverse"><div class="versenum">3.</div> Minun sydameni on palava minussa, ja kuin mina sita ajattelen, niin mina sytyn: mina puhun kielellani.	</div>
 
-<div class="versenum">4.</div> Herra, opeta minua ajattelemaan minun loppuani, ja mika mitta minun elamallani on, tietaakseni, etta mina erkanen taalta.	
+<div class="theverse"><div class="versenum">4.</div> Herra, opeta minua ajattelemaan minun loppuani, ja mika mitta minun elamallani on, tietaakseni, etta mina erkanen taalta.	</div>
 
-<div class="versenum">5.</div> Katso, minun paivani ovat kammenen leveys tykonas, ja minun elamani on niinkuin ei mitaan sinun edessas: kuinka aivan turhat ovat kaikki ihmiset, jotka kuitenkin niin suruttomasti elavat Sela!	
+<div class="theverse"><div class="versenum">5.</div> Katso, minun paivani ovat kammenen leveys tykonas, ja minun elamani on niinkuin ei mitaan sinun edessas: kuinka aivan turhat ovat kaikki ihmiset, jotka kuitenkin niin suruttomasti elavat Sela!	</div>
 
-<div class="versenum">6.</div> Vaan he menevat pois niinkuin varjo, ja tekevat itsellensa hukkaan suuren murheen: he kokoovat ja ei tieda, kuka sen saa.	
+<div class="theverse"><div class="versenum">6.</div> Vaan he menevat pois niinkuin varjo, ja tekevat itsellensa hukkaan suuren murheen: he kokoovat ja ei tieda, kuka sen saa.	</div>
 
-<div class="versenum">7.</div> Ja nyt Herra, mihinka mina luotan? sinuun mina toivon.	
+<div class="theverse"><div class="versenum">7.</div> Ja nyt Herra, mihinka mina luotan? sinuun mina toivon.	</div>
 
-<div class="versenum">8.</div> Vapahda minua kaikista synneistani, ja ala anna minun tulla hulluin pilkaksi.	
+<div class="theverse"><div class="versenum">8.</div> Vapahda minua kaikista synneistani, ja ala anna minun tulla hulluin pilkaksi.	</div>
 
-<div class="versenum">9.</div> Mina vaikenen ja en avaa suutani; kylla sina sen teet.	
+<div class="theverse"><div class="versenum">9.</div> Mina vaikenen ja en avaa suutani; kylla sina sen teet.	</div>
 
-<div class="versenum">10.</div> Kaanna sinun rangaistukses pois minusta; silla mina olen naantynyt sinun kates pieksamisesta.	
+<div class="theverse"><div class="versenum">10.</div> Kaanna sinun rangaistukses pois minusta; silla mina olen naantynyt sinun kates pieksamisesta.	</div>
 
-<div class="versenum">11.</div> Koskas jonkun rankaiset synnin tahden, niin hanen kaunistuksensa kulutetaan niinkuin koilta; tosin aivan turhat ovat kaikki ihmiset, Sela!	
+<div class="theverse"><div class="versenum">11.</div> Koskas jonkun rankaiset synnin tahden, niin hanen kaunistuksensa kulutetaan niinkuin koilta; tosin aivan turhat ovat kaikki ihmiset, Sela!	</div>
 
-<div class="versenum">12.</div> Kuule minun rukoukseni, Herra, ja ota minun huutoni korviis, ja ala vaikene minun kyynelteni tahden; silla mina olen muukalainen sinun tykonas ja vieras, niinkuin kaikki minun isani.	
+<div class="theverse"><div class="versenum">12.</div> Kuule minun rukoukseni, Herra, ja ota minun huutoni korviis, ja ala vaikene minun kyynelteni tahden; silla mina olen muukalainen sinun tykonas ja vieras, niinkuin kaikki minun isani.	</div>
 
-<div class="versenum">13.</div> Luovu minusta, etta mina virkoaisin, ennenkuin mina menen pois, ja en silleen tassa ole.	
+<div class="theverse"><div class="versenum">13.</div> Luovu minusta, etta mina virkoaisin, ennenkuin mina menen pois, ja en silleen tassa ole.	</div>
 </body>
 </html>

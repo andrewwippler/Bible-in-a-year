@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Psalmien 112	</div>
 	
-<div class="versenum">1.</div> Halleluja! Autuas on, joka pelkaa Herraa: joka hanen kaskyjansa sangen himoitsee.	
+<div class="theverse"><div class="versenum">1.</div> Halleluja! Autuas on, joka pelkaa Herraa: joka hanen kaskyjansa sangen himoitsee.	</div>
 
-<div class="versenum">2.</div> Hanen siemenensa on valtias maan paalla: hurskasten suku pitaa siunatuksi tuleman.	
+<div class="theverse"><div class="versenum">2.</div> Hanen siemenensa on valtias maan paalla: hurskasten suku pitaa siunatuksi tuleman.	</div>
 
-<div class="versenum">3.</div> Rikkaus ja runsaus on hanen huoneessansa, ja hanen vanhurskautensa pysyy ijankaikkisesti.	
+<div class="theverse"><div class="versenum">3.</div> Rikkaus ja runsaus on hanen huoneessansa, ja hanen vanhurskautensa pysyy ijankaikkisesti.	</div>
 
-<div class="versenum">4.</div> Hurskaille koittaa valkeus pimeassa, armolliselta, laupiaalta ja vanhurskaalta.	
+<div class="theverse"><div class="versenum">4.</div> Hurskaille koittaa valkeus pimeassa, armolliselta, laupiaalta ja vanhurskaalta.	</div>
 
-<div class="versenum">5.</div> Hyva ihminen on laupias ja mielellansa lainaa, ja toimittaa asiansa toimellisesti.	
+<div class="theverse"><div class="versenum">5.</div> Hyva ihminen on laupias ja mielellansa lainaa, ja toimittaa asiansa toimellisesti.	</div>
 
-<div class="versenum">6.</div> Silla han pysyy ijankaikkisesti: ei vanhurskas ikana unhoteta.	
+<div class="theverse"><div class="versenum">6.</div> Silla han pysyy ijankaikkisesti: ei vanhurskas ikana unhoteta.	</div>
 
-<div class="versenum">7.</div> Koska rangaistus tulee, niin ei han pelkaa: hanen sydamensa uskaltaa lujasti Herran paalle.	
+<div class="theverse"><div class="versenum">7.</div> Koska rangaistus tulee, niin ei han pelkaa: hanen sydamensa uskaltaa lujasti Herran paalle.	</div>
 
-<div class="versenum">8.</div> Hanen sydamensa on vahvistettu ja ei pelkaa, siihenasti kuin han nakee ilonsa vihollisistansa.	
+<div class="theverse"><div class="versenum">8.</div> Hanen sydamensa on vahvistettu ja ei pelkaa, siihenasti kuin han nakee ilonsa vihollisistansa.	</div>
 
-<div class="versenum">9.</div> Han jakaa ja antaa vaivaisille: hanen vanhurskautensa pysyy ijankaikkisesti: hanen sarvensa korotetaan kunnialla.	
+<div class="theverse"><div class="versenum">9.</div> Han jakaa ja antaa vaivaisille: hanen vanhurskautensa pysyy ijankaikkisesti: hanen sarvensa korotetaan kunnialla.	</div>
 
-<div class="versenum">10.</div> Jumalatoin nakee sen ja narkastyy: han pureskelee hampaitansa ja naantyy; silla mita jumalattomat halajavat, se tyhjaksi tulee.	
+<div class="theverse"><div class="versenum">10.</div> Jumalatoin nakee sen ja narkastyy: han pureskelee hampaitansa ja naantyy; silla mita jumalattomat halajavat, se tyhjaksi tulee.	</div>
 </body>
 </html>

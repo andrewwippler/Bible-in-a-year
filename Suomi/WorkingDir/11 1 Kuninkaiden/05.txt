@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 5	</div>
 	
-<div class="versenum">1.</div> Ja Hiram, Tyron kuningas, lahetti palveliansa Salomon tyko; silla han oli kuullut, etta he olivat hanen voidelleet kuninkaaksi isansa siaan; silla Hiram rakasti Davidia niinkauvan kuin han eli.	
+<div class="theverse"><div class="versenum">1.</div> Ja Hiram, Tyron kuningas, lahetti palveliansa Salomon tyko; silla han oli kuullut, etta he olivat hanen voidelleet kuninkaaksi isansa siaan; silla Hiram rakasti Davidia niinkauvan kuin han eli.	</div>
 
-<div class="versenum">2.</div> Ja Salomo lahetti Hiramille, ja kaski hanelle sanoa:	
+<div class="theverse"><div class="versenum">2.</div> Ja Salomo lahetti Hiramille, ja kaski hanelle sanoa:	</div>
 
-<div class="versenum">3.</div> Sina tiedat, ettei isani David taitanut rakentaa Herran Jumalansa nimelle huonetta, sen sodan tahden, joka oli hanen ymparillansa, siihen asti kuin Herra antoi heidat hanen jalkainsa alle.	
+<div class="theverse"><div class="versenum">3.</div> Sina tiedat, ettei isani David taitanut rakentaa Herran Jumalansa nimelle huonetta, sen sodan tahden, joka oli hanen ymparillansa, siihen asti kuin Herra antoi heidat hanen jalkainsa alle.	</div>
 
-<div class="versenum">4.</div> Mutta nyt on Herra minun Jumalani antanut levon ymparistollani, niin ettei vihollista eli pahaa estajaa ole.	
+<div class="theverse"><div class="versenum">4.</div> Mutta nyt on Herra minun Jumalani antanut levon ymparistollani, niin ettei vihollista eli pahaa estajaa ole.	</div>
 
-<div class="versenum">5.</div> Katso, mina aion rakentaa huoneen Herran Jumalani nimelle, niinkuin Herra on puhunut isalleni Davidille, sanoen: sinun poikas, jonka mina sinun siaas asetan istuimelles, pitaa rakentaman minun nimelleni huoneen.	
+<div class="theverse"><div class="versenum">5.</div> Katso, mina aion rakentaa huoneen Herran Jumalani nimelle, niinkuin Herra on puhunut isalleni Davidille, sanoen: sinun poikas, jonka mina sinun siaas asetan istuimelles, pitaa rakentaman minun nimelleni huoneen.	</div>
 
-<div class="versenum">6.</div> Niin kaske nyt hakata minulle sedripuita Libanonista, ja etta minun palveliani olisivat sinun palveliais kanssa: ja mina annan sinulle sinun palveliais palkan kaiken sen jalkeen kuin sina sanot; silla sina tiedat, ettei meilla ole yhtaan miesta, joka taitaa hakata puita niinkuin Zidonilaiset.	
+<div class="theverse"><div class="versenum">6.</div> Niin kaske nyt hakata minulle sedripuita Libanonista, ja etta minun palveliani olisivat sinun palveliais kanssa: ja mina annan sinulle sinun palveliais palkan kaiken sen jalkeen kuin sina sanot; silla sina tiedat, ettei meilla ole yhtaan miesta, joka taitaa hakata puita niinkuin Zidonilaiset.	</div>
 
-<div class="versenum">7.</div> Mutta kuin Hiram kuuli Salomon puheen, iloitsi han suuresti ja sanoi: kiitetty olkoon Herra tanapana, joka on antanut Davidille taitavan pojan taman paljon kansan paalle!	
+<div class="theverse"><div class="versenum">7.</div> Mutta kuin Hiram kuuli Salomon puheen, iloitsi han suuresti ja sanoi: kiitetty olkoon Herra tanapana, joka on antanut Davidille taitavan pojan taman paljon kansan paalle!	</div>
 
-<div class="versenum">8.</div> Ja Hiram lahetti Salomon tyko, sanoen: mina olen kuullut, mita minulle olet lahettanyt, ja mina teen myos kaiken sinun tahtos jalkeen, sedripuissa ja hongissa,	
+<div class="theverse"><div class="versenum">8.</div> Ja Hiram lahetti Salomon tyko, sanoen: mina olen kuullut, mita minulle olet lahettanyt, ja mina teen myos kaiken sinun tahtos jalkeen, sedripuissa ja hongissa,	</div>
 
-<div class="versenum">9.</div> Ja minun palveliani pitaa ne vetaman Libanonista mereen, ja mina annan ne panna lauttoihin merella, ja vien siihen paikkaan, kuhunka sina minun kasket, ja mina hajoittelen ne siella, ja anna sina ne sielta ottaa. Mutta tee sina myos minun tahtoni, ettas annat minun perheelleni leivan ainetta.	
+<div class="theverse"><div class="versenum">9.</div> Ja minun palveliani pitaa ne vetaman Libanonista mereen, ja mina annan ne panna lauttoihin merella, ja vien siihen paikkaan, kuhunka sina minun kasket, ja mina hajoittelen ne siella, ja anna sina ne sielta ottaa. Mutta tee sina myos minun tahtoni, ettas annat minun perheelleni leivan ainetta.	</div>
 
-<div class="versenum">10.</div> Ja niin antoi Hiram Salomolle sedripuita ja honkia, niin paljo kuin han tahtoi.	
+<div class="theverse"><div class="versenum">10.</div> Ja niin antoi Hiram Salomolle sedripuita ja honkia, niin paljo kuin han tahtoi.	</div>
 
-<div class="versenum">11.</div> Ja Salomo antoi Hiramille kaksikymmenta tuhatta koria nisuja, hanen perheellensa ravinnoksi, ja kaksikymmenta koria survottua oljya: niin antoi Salomo Hiramille joka vuosi.	
+<div class="theverse"><div class="versenum">11.</div> Ja Salomo antoi Hiramille kaksikymmenta tuhatta koria nisuja, hanen perheellensa ravinnoksi, ja kaksikymmenta koria survottua oljya: niin antoi Salomo Hiramille joka vuosi.	</div>
 
-<div class="versenum">12.</div> Ja Herra antoi Salomolle taidon, niinkuin han hanelle luvannut oli. Ja Salomon ja Hiramin valilla oli rauha, ja he tekivat myos liiton keskenansa.	
+<div class="theverse"><div class="versenum">12.</div> Ja Herra antoi Salomolle taidon, niinkuin han hanelle luvannut oli. Ja Salomon ja Hiramin valilla oli rauha, ja he tekivat myos liiton keskenansa.	</div>
 
-<div class="versenum">13.</div> Ja Salomo antoi valita miesluvun koko Israelista, ja valittuin luku oli kolmekymmenta tuhatta miesta.	
+<div class="theverse"><div class="versenum">13.</div> Ja Salomo antoi valita miesluvun koko Israelista, ja valittuin luku oli kolmekymmenta tuhatta miesta.	</div>
 
-<div class="versenum">14.</div> Ja han lahetti heidat Libanoniin, kymmenentuhatta kuukaudeksi vuorottain, niin etta he olivat yhden kuukauden Libanonissa ja kaksi kuukautta kotonansa; ja Adoniram oli sen miesluvun paalla.	
+<div class="theverse"><div class="versenum">14.</div> Ja han lahetti heidat Libanoniin, kymmenentuhatta kuukaudeksi vuorottain, niin etta he olivat yhden kuukauden Libanonissa ja kaksi kuukautta kotonansa; ja Adoniram oli sen miesluvun paalla.	</div>
 
-<div class="versenum">15.</div> ja Salomolla oli seitsemankymmenta tuhatta, jotka kuormia kantoivat, ja kahdeksankymmenta tuhatta, jotka vuorella hakkasivat;	
+<div class="theverse"><div class="versenum">15.</div> ja Salomolla oli seitsemankymmenta tuhatta, jotka kuormia kantoivat, ja kahdeksankymmenta tuhatta, jotka vuorella hakkasivat;	</div>
 
-<div class="versenum">16.</div> Ilman ylimmaisia Salomon kaskylaisia, jotka tyon paalle asetetut olivat, kolmetuhatta ja kolmesataa, jotka vallitsivat kansaa joka tyota teki.	
+<div class="theverse"><div class="versenum">16.</div> Ilman ylimmaisia Salomon kaskylaisia, jotka tyon paalle asetetut olivat, kolmetuhatta ja kolmesataa, jotka vallitsivat kansaa joka tyota teki.	</div>
 
-<div class="versenum">17.</div> Ja kuningas kaski heidan vetaa suuria kivia, kalliita kivia, hakatuita kivia huoneen perustukseksi.	
+<div class="theverse"><div class="versenum">17.</div> Ja kuningas kaski heidan vetaa suuria kivia, kalliita kivia, hakatuita kivia huoneen perustukseksi.	</div>
 
-<div class="versenum">18.</div> Ja Salomon rakentajat, ja Hiramin rakentajat ja Giblimilaiset, vuolivat ja valmistivat puita ja kivia huoneen rakennukseksi.	
+<div class="theverse"><div class="versenum">18.</div> Ja Salomon rakentajat, ja Hiramin rakentajat ja Giblimilaiset, vuolivat ja valmistivat puita ja kivia huoneen rakennukseksi.	</div>
 </body>
 </html>

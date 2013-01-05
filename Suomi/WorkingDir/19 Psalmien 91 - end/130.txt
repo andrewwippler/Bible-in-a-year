@@ -4,20 +4,20 @@
 </head>
 <body><div class="chaptertitle">Psalmien 130	</div>
 	
-<div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Syvyydessa mina huudan sinua, Herra.	
+<div class="theverse"><div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Syvyydessa mina huudan sinua, Herra.	</div>
 
-<div class="versenum">2.</div> Herra, kuule minun aaneni: vaarinottakaan korvas rukousteni aanesta.	
+<div class="theverse"><div class="versenum">2.</div> Herra, kuule minun aaneni: vaarinottakaan korvas rukousteni aanesta.	</div>
 
-<div class="versenum">3.</div> Jos sina, Herra, soimaat syntia: Herra, kuka siis pysyy?	
+<div class="theverse"><div class="versenum">3.</div> Jos sina, Herra, soimaat syntia: Herra, kuka siis pysyy?	</div>
 
-<div class="versenum">4.</div> Silla sinun tykonas on anteeksi antamus, etta sinua peljattaisiin.	
+<div class="theverse"><div class="versenum">4.</div> Silla sinun tykonas on anteeksi antamus, etta sinua peljattaisiin.	</div>
 
-<div class="versenum">5.</div> Mina odotan Herraa: sieluni odottaa, ja mina toivon hanen sanansa paalle.	
+<div class="theverse"><div class="versenum">5.</div> Mina odotan Herraa: sieluni odottaa, ja mina toivon hanen sanansa paalle.	</div>
 
-<div class="versenum">6.</div> Sieluni vartioitsee Herraa huomenvartiosta toiseen huomenvartioon asti.	
+<div class="theverse"><div class="versenum">6.</div> Sieluni vartioitsee Herraa huomenvartiosta toiseen huomenvartioon asti.	</div>
 
-<div class="versenum">7.</div> Israel toivokaan Herran paalle; silla Herralla on armo, ja runsas lunastus hanella.	
+<div class="theverse"><div class="versenum">7.</div> Israel toivokaan Herran paalle; silla Herralla on armo, ja runsas lunastus hanella.	</div>
 
-<div class="versenum">8.</div> Ja han lunastaa Israelin kaikista synneistansa.	
+<div class="theverse"><div class="versenum">8.</div> Ja han lunastaa Israelin kaikista synneistansa.	</div>
 </body>
 </html>

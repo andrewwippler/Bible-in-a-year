@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 13	</div>
 	
-<div class="versenum">1.</div> Viisas poika ottaa isansa kurituksen, mutta pilkkaaja ei tottele rangaistusta.	
+<div class="theverse"><div class="versenum">1.</div> Viisas poika ottaa isansa kurituksen, mutta pilkkaaja ei tottele rangaistusta.	</div>
 
-<div class="versenum">2.</div> Suunsa hedelmasta kukin nautitsee hyvaa, vaan jumalattomain sielu vaaryytta.	
+<div class="theverse"><div class="versenum">2.</div> Suunsa hedelmasta kukin nautitsee hyvaa, vaan jumalattomain sielu vaaryytta.	</div>
 
-<div class="versenum">3.</div> Joka suunsa hallitsee, han saa elaa; vaan joka suunsa toimettomasti avajaa, se tulee hammastykseen.	
+<div class="theverse"><div class="versenum">3.</div> Joka suunsa hallitsee, han saa elaa; vaan joka suunsa toimettomasti avajaa, se tulee hammastykseen.	</div>
 
-<div class="versenum">4.</div> Laiska pyytaa ja ei saa, mutta viriat saavat yltakyllaisesti.	
+<div class="theverse"><div class="versenum">4.</div> Laiska pyytaa ja ei saa, mutta viriat saavat yltakyllaisesti.	</div>
 
-<div class="versenum">5.</div> Vanhurskas vihaa valhetta, mutta jumalatoin hapaisee ja pilkkaa itsiansa.	
+<div class="theverse"><div class="versenum">5.</div> Vanhurskas vihaa valhetta, mutta jumalatoin hapaisee ja pilkkaa itsiansa.	</div>
 
-<div class="versenum">6.</div> Vanhurskaus varjelee nuhteettoman, mutta jumalatoin meno kukistaa syntisen.	
+<div class="theverse"><div class="versenum">6.</div> Vanhurskaus varjelee nuhteettoman, mutta jumalatoin meno kukistaa syntisen.	</div>
 
-<div class="versenum">7.</div> Moni on koyha suuressa rikkaudessa, ja moni rikas koyhyydessansa.	
+<div class="theverse"><div class="versenum">7.</div> Moni on koyha suuressa rikkaudessa, ja moni rikas koyhyydessansa.	</div>
 
-<div class="versenum">8.</div> Rikkaudellansa taitaa joku lunastaa henkensa; mutta joka koyha on, ei han kuule kuritusta.	
+<div class="theverse"><div class="versenum">8.</div> Rikkaudellansa taitaa joku lunastaa henkensa; mutta joka koyha on, ei han kuule kuritusta.	</div>
 
-<div class="versenum">9.</div> Vanhurskasten valkeus tekee iloiseksi, vaan jumalattomain kynttila sammuu.	
+<div class="theverse"><div class="versenum">9.</div> Vanhurskasten valkeus tekee iloiseksi, vaan jumalattomain kynttila sammuu.	</div>
 
-<div class="versenum">10.</div> Ylpeiden seassa on aina riita, mutta viisaus saattaa ihmisen toimelliseksi.	
+<div class="theverse"><div class="versenum">10.</div> Ylpeiden seassa on aina riita, mutta viisaus saattaa ihmisen toimelliseksi.	</div>
 
-<div class="versenum">11.</div> Rikkaus vahenee tuhlatessa, vaan koossa pitain se enenee.	
+<div class="theverse"><div class="versenum">11.</div> Rikkaus vahenee tuhlatessa, vaan koossa pitain se enenee.	</div>
 
-<div class="versenum">12.</div> Viivytetty toivo vaivaa sydanta; vaan kuin se tulee, jota han toivoo, se on elaman puu.	
+<div class="theverse"><div class="versenum">12.</div> Viivytetty toivo vaivaa sydanta; vaan kuin se tulee, jota han toivoo, se on elaman puu.	</div>
 
-<div class="versenum">13.</div> Joka sanan katsoo ylon, han turmelee itsensa; mutta joka kaskya pelkaa, han rauhassa vaeltaa.	
+<div class="theverse"><div class="versenum">13.</div> Joka sanan katsoo ylon, han turmelee itsensa; mutta joka kaskya pelkaa, han rauhassa vaeltaa.	</div>
 
-<div class="versenum">14.</div> Viisaan oppi on elaman lahde, Valttamaan kuoleman paulaa.	
+<div class="theverse"><div class="versenum">14.</div> Viisaan oppi on elaman lahde, Valttamaan kuoleman paulaa.	</div>
 
-<div class="versenum">15.</div> Hyva neuvo on otollinen; vaan ylonkatsojain tie on kova.	
+<div class="theverse"><div class="versenum">15.</div> Hyva neuvo on otollinen; vaan ylonkatsojain tie on kova.	</div>
 
-<div class="versenum">16.</div> Viisas tekee kaiken toimellisesti, vaan hullu ilmoittaa tyhmyyden.	
+<div class="theverse"><div class="versenum">16.</div> Viisas tekee kaiken toimellisesti, vaan hullu ilmoittaa tyhmyyden.	</div>
 
-<div class="versenum">17.</div> Jumalatoin sanansaattaja lankee onnettomuuteen, vaan totinen lahetys on terveellinen.	
+<div class="theverse"><div class="versenum">17.</div> Jumalatoin sanansaattaja lankee onnettomuuteen, vaan totinen lahetys on terveellinen.	</div>
 
-<div class="versenum">18.</div> Joka kurituksen hylkaa, hanella on koyhyys ja hapia; vaan joka antaa itsensa rangaista, han tulee kunniaan.	
+<div class="theverse"><div class="versenum">18.</div> Joka kurituksen hylkaa, hanella on koyhyys ja hapia; vaan joka antaa itsensa rangaista, han tulee kunniaan.	</div>
 
-<div class="versenum">19.</div> Kun toivo tulee taytetyksi, niin sydan iloitsee; mutta joka pahuutta valttaa; on hulluille kauhistukseksi.	
+<div class="theverse"><div class="versenum">19.</div> Kun toivo tulee taytetyksi, niin sydan iloitsee; mutta joka pahuutta valttaa; on hulluille kauhistukseksi.	</div>
 
-<div class="versenum">20.</div> Joka viisasten kanssa kayskentelee, han tulee viisaaksi; vaan joka hulluin kumppani on, han tulee vahinkoon.	
+<div class="theverse"><div class="versenum">20.</div> Joka viisasten kanssa kayskentelee, han tulee viisaaksi; vaan joka hulluin kumppani on, han tulee vahinkoon.	</div>
 
-<div class="versenum">21.</div> Pahuus noudattaa syntisia, mutta vanhurskaille kostetaan hyvyydella.	
+<div class="theverse"><div class="versenum">21.</div> Pahuus noudattaa syntisia, mutta vanhurskaille kostetaan hyvyydella.	</div>
 
-<div class="versenum">22.</div> Hyvalla on perilliset lasten lapsissa; vaan syntisen tavara vanhurskaalle saastetaan.	
+<div class="theverse"><div class="versenum">22.</div> Hyvalla on perilliset lasten lapsissa; vaan syntisen tavara vanhurskaalle saastetaan.	</div>
 
-<div class="versenum">23.</div> Paljo ruokaa on koyhan kynnossa; vaan jotka vaaryytta tekevat, ne hukkuvat.	
+<div class="theverse"><div class="versenum">23.</div> Paljo ruokaa on koyhan kynnossa; vaan jotka vaaryytta tekevat, ne hukkuvat.	</div>
 
-<div class="versenum">24.</div> Joka vitsaansa saastaa, han vihaa lastansa; vaan joka hanta rakastaa, han aikanansa sita kurittaa.	
+<div class="theverse"><div class="versenum">24.</div> Joka vitsaansa saastaa, han vihaa lastansa; vaan joka hanta rakastaa, han aikanansa sita kurittaa.	</div>
 
-<div class="versenum">25.</div> Vanhurskas syo, etta hanen sielunsa ravittaisiin; vaan jumalattomain vatsa on tyytymatoin.	
+<div class="theverse"><div class="versenum">25.</div> Vanhurskas syo, etta hanen sielunsa ravittaisiin; vaan jumalattomain vatsa on tyytymatoin.	</div>
 </body>
 </html>

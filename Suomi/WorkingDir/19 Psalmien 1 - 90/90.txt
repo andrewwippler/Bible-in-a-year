@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Psalmien 90	</div>
 	
-<div class="versenum">1.</div> Moseksen Jumalan miehen rukous. Herra, sina olet meidan turvamme, suvusta sukuun.	
+<div class="theverse"><div class="versenum">1.</div> Moseksen Jumalan miehen rukous. Herra, sina olet meidan turvamme, suvusta sukuun.	</div>
 
-<div class="versenum">2.</div> Ennenkuin vuoret olivat, eli maa ja maailma luotiin, olet sina Jumala ijankaikkisesta ijankaikkiseen,	
+<div class="theverse"><div class="versenum">2.</div> Ennenkuin vuoret olivat, eli maa ja maailma luotiin, olet sina Jumala ijankaikkisesta ijankaikkiseen,	</div>
 
-<div class="versenum">3.</div> Sina, joka annat ihmiset kuolla, ja sanot: tulkaat jalleen, te ihmisten lapset.	
+<div class="theverse"><div class="versenum">3.</div> Sina, joka annat ihmiset kuolla, ja sanot: tulkaat jalleen, te ihmisten lapset.	</div>
 
-<div class="versenum">4.</div> Silla tuhat ajastaikaa ovat sinun edessas niinkuin eilinen paiva, joka meni ohitse, ja niinkuin vartio yolla.	
+<div class="theverse"><div class="versenum">4.</div> Silla tuhat ajastaikaa ovat sinun edessas niinkuin eilinen paiva, joka meni ohitse, ja niinkuin vartio yolla.	</div>
 
-<div class="versenum">5.</div> Sina vuodatat heita niinkuin kosken, ja he ovat niinkuin uni, niinkuin ruoho aamulla, joka kohta lakastuu,	
+<div class="theverse"><div class="versenum">5.</div> Sina vuodatat heita niinkuin kosken, ja he ovat niinkuin uni, niinkuin ruoho aamulla, joka kohta lakastuu,	</div>
 
-<div class="versenum">6.</div> Joka aamulla kukoistaa ja nopiasti kuivuu, ja ehtoona leikataan ja kuivettuu.	
+<div class="theverse"><div class="versenum">6.</div> Joka aamulla kukoistaa ja nopiasti kuivuu, ja ehtoona leikataan ja kuivettuu.	</div>
 
-<div class="versenum">7.</div> Sen tekee sinun vihas, etta me niin hukumme, ja sinun hirmuisuutes, etta me niin akisti taalta temmataan.	
+<div class="theverse"><div class="versenum">7.</div> Sen tekee sinun vihas, etta me niin hukumme, ja sinun hirmuisuutes, etta me niin akisti taalta temmataan.	</div>
 
-<div class="versenum">8.</div> Silla meidan pahat tekomme sina asetat etees, meidan tuntemattomat syntimme valkeuteen sinun kasvois eteen.	
+<div class="theverse"><div class="versenum">8.</div> Silla meidan pahat tekomme sina asetat etees, meidan tuntemattomat syntimme valkeuteen sinun kasvois eteen.	</div>
 
-<div class="versenum">9.</div> Sentahden kuluvat kaikki meidan paivamme sinun vihastas: meidan vuotemme loppuvat pikemmin kuin juttu.	
+<div class="theverse"><div class="versenum">9.</div> Sentahden kuluvat kaikki meidan paivamme sinun vihastas: meidan vuotemme loppuvat pikemmin kuin juttu.	</div>
 
-<div class="versenum">10.</div> Meidan elinaikamme on seitsemankymmenta vuotta, taikka enintaan kahdeksankymmenta vuotta: ja kuin se paras on ollut, niin on se tuska ja tyo ollut: silla se leikataan pois. niinkuin me lentaisimme pois.	
+<div class="theverse"><div class="versenum">10.</div> Meidan elinaikamme on seitsemankymmenta vuotta, taikka enintaan kahdeksankymmenta vuotta: ja kuin se paras on ollut, niin on se tuska ja tyo ollut: silla se leikataan pois. niinkuin me lentaisimme pois.	</div>
 
-<div class="versenum">11.</div> Mutta kuka uskoo sinun niin raskaasti vihastuvan? ja kuka pelkaa senkaltaista hirmuisuuttas?	
+<div class="theverse"><div class="versenum">11.</div> Mutta kuka uskoo sinun niin raskaasti vihastuvan? ja kuka pelkaa senkaltaista hirmuisuuttas?	</div>
 
-<div class="versenum">12.</div> Opeta meita ajattelemaan, etta meidan pitaa kuoleman, etta me ymmartavaisiksi tulisimme.	
+<div class="theverse"><div class="versenum">12.</div> Opeta meita ajattelemaan, etta meidan pitaa kuoleman, etta me ymmartavaisiksi tulisimme.	</div>
 
-<div class="versenum">13.</div> Herra! kaanna siis itses taas meidan puoleemme, ja ole palvelioilles armollinen.	
+<div class="theverse"><div class="versenum">13.</div> Herra! kaanna siis itses taas meidan puoleemme, ja ole palvelioilles armollinen.	</div>
 
-<div class="versenum">14.</div> Tayta meita pian armoillas, niin me riemuitsemme ja iloitsemme kaikkena meidan elinaikanamme.	
+<div class="theverse"><div class="versenum">14.</div> Tayta meita pian armoillas, niin me riemuitsemme ja iloitsemme kaikkena meidan elinaikanamme.	</div>
 
-<div class="versenum">15.</div> Ilahuta nyt meita jalleen, ettas meita niin kauvan vaivannut olet, etta me niin kauvan onnettomuutta karsineet olemme.	
+<div class="theverse"><div class="versenum">15.</div> Ilahuta nyt meita jalleen, ettas meita niin kauvan vaivannut olet, etta me niin kauvan onnettomuutta karsineet olemme.	</div>
 
-<div class="versenum">16.</div> Osoita palvelialles sinun tekos, ja kunnias heidan lapsillensa.	
+<div class="theverse"><div class="versenum">16.</div> Osoita palvelialles sinun tekos, ja kunnias heidan lapsillensa.	</div>
 
-<div class="versenum">17.</div> Ja, Herra meidan Jumalamme olkoon meille leppyinen, ja vahvistakoon meidan kattemme teot meissa: jaa, meidan kattemme teot han vahvistakoon!	
+<div class="theverse"><div class="versenum">17.</div> Ja, Herra meidan Jumalamme olkoon meille leppyinen, ja vahvistakoon meidan kattemme teot meissa: jaa, meidan kattemme teot han vahvistakoon!	</div>
 </body>
 </html>

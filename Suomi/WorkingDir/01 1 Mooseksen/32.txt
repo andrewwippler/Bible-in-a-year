@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 32	</div>
 	
-<div class="versenum">1.</div> Mutta Jakob meni tietansa myoten, ja Jumalan enkelit tulivat hanta vastaan.	
+<div class="theverse"><div class="versenum">1.</div> Mutta Jakob meni tietansa myoten, ja Jumalan enkelit tulivat hanta vastaan.	</div>
 
-<div class="versenum">2.</div> Ja koska han naki heidat, sanoi han: Nama ovat Jumalan sotajoukko. Ja han kutsui sen paikan Mahanaim.	
+<div class="theverse"><div class="versenum">2.</div> Ja koska han naki heidat, sanoi han: Nama ovat Jumalan sotajoukko. Ja han kutsui sen paikan Mahanaim.	</div>
 
-<div class="versenum">3.</div> Niin Jakob lahetti sanansaattajat edellansa veljensa Esaun tyko, Seirin maakuntaan, Edomin maalle.	
+<div class="theverse"><div class="versenum">3.</div> Niin Jakob lahetti sanansaattajat edellansa veljensa Esaun tyko, Seirin maakuntaan, Edomin maalle.	</div>
 
-<div class="versenum">4.</div> Ja kaski heita, sanoen: sanokaat nain minun herralleni Esaulle: nain sanoo sinun palvelias Jakob: mina olen ollut muukalainen Labanin tykona, ja viipynyt tahan asti.	
+<div class="theverse"><div class="versenum">4.</div> Ja kaski heita, sanoen: sanokaat nain minun herralleni Esaulle: nain sanoo sinun palvelias Jakob: mina olen ollut muukalainen Labanin tykona, ja viipynyt tahan asti.	</div>
 
-<div class="versenum">5.</div> Ja minulla on karjaa ja aaseja, lampaita, palvelioita ja piikoja: ja lahetin ilmoittamaan minun herralleni, loytaakseni armoa sinun edessas.	
+<div class="theverse"><div class="versenum">5.</div> Ja minulla on karjaa ja aaseja, lampaita, palvelioita ja piikoja: ja lahetin ilmoittamaan minun herralleni, loytaakseni armoa sinun edessas.	</div>
 
-<div class="versenum">6.</div> Sanansaattajat palasivat Jakobin tyko, sanoen: me tulimme Esaun sinun veljes tyko; ja han tulee sinua vastaan, ja neljasataa miesta hanen kanssansa.	
+<div class="theverse"><div class="versenum">6.</div> Sanansaattajat palasivat Jakobin tyko, sanoen: me tulimme Esaun sinun veljes tyko; ja han tulee sinua vastaan, ja neljasataa miesta hanen kanssansa.	</div>
 
-<div class="versenum">7.</div> Niin peljastyi Jakob kovin, ja ahdistus tuli hanen paallensa: ja jakoi vaen, joka oli hanen kanssansa, ja lampaat, ja karjan ja kamelit kahteen joukkoon.	
+<div class="theverse"><div class="versenum">7.</div> Niin peljastyi Jakob kovin, ja ahdistus tuli hanen paallensa: ja jakoi vaen, joka oli hanen kanssansa, ja lampaat, ja karjan ja kamelit kahteen joukkoon.	</div>
 
-<div class="versenum">8.</div> Ja sanoi: jos Esau tulee yhden joukon paalle, ja lyo sen; niin jaanyt joukko paasee.	
+<div class="theverse"><div class="versenum">8.</div> Ja sanoi: jos Esau tulee yhden joukon paalle, ja lyo sen; niin jaanyt joukko paasee.	</div>
 
-<div class="versenum">9.</div> Ja Jakob sanoi: minun isani Abrahamin Jumala, ja minun isani Isaakin Jumala, Herra joka sanoit minulle: palaja maalles ja sukuis tyko, ja mina teen sinulle hyvaa.	
+<div class="theverse"><div class="versenum">9.</div> Ja Jakob sanoi: minun isani Abrahamin Jumala, ja minun isani Isaakin Jumala, Herra joka sanoit minulle: palaja maalles ja sukuis tyko, ja mina teen sinulle hyvaa.	</div>
 
-<div class="versenum">10.</div> Mina olen mahdotoin kaikkeen siihen armoon, ja kaikkeen siihen totuuteen, jonka sina teit palvelialles. Silla koska mina taman Jordanin ylitse menin, ei minulla muuta ollut kuin minun sauvani; mutta nyt minulla on kaksi joukkoa.	
+<div class="theverse"><div class="versenum">10.</div> Mina olen mahdotoin kaikkeen siihen armoon, ja kaikkeen siihen totuuteen, jonka sina teit palvelialles. Silla koska mina taman Jordanin ylitse menin, ei minulla muuta ollut kuin minun sauvani; mutta nyt minulla on kaksi joukkoa.	</div>
 
-<div class="versenum">11.</div> Pelasta siis nyt minua minun veljeni Esaun kasista: silla mina pekaan hanen tulevan ja lyovan minun, ja aidin lapsinensa.	
+<div class="theverse"><div class="versenum">11.</div> Pelasta siis nyt minua minun veljeni Esaun kasista: silla mina pekaan hanen tulevan ja lyovan minun, ja aidin lapsinensa.	</div>
 
-<div class="versenum">12.</div> Sina olet kumminkin sanonut: mina teen kaiketi sinulle hyvaa; ja lisaan sinun siemenes niinkuin sannan meressa, joka paljouden tahden ei luettaa taideta.	
+<div class="theverse"><div class="versenum">12.</div> Sina olet kumminkin sanonut: mina teen kaiketi sinulle hyvaa; ja lisaan sinun siemenes niinkuin sannan meressa, joka paljouden tahden ei luettaa taideta.	</div>
 
-<div class="versenum">13.</div> Ja han yotyi sinne, ja otti niista, kuin olivat kasilla, lahjoja lahettaaksensa veljellensa Esaulle:	
+<div class="theverse"><div class="versenum">13.</div> Ja han yotyi sinne, ja otti niista, kuin olivat kasilla, lahjoja lahettaaksensa veljellensa Esaulle:	</div>
 
-<div class="versenum">14.</div> Kaksisataa vuohta, ja kaksikymmenta kaurista: kaksisataa lammasta ja kaksikymmenta jaaraa:	
+<div class="theverse"><div class="versenum">14.</div> Kaksisataa vuohta, ja kaksikymmenta kaurista: kaksisataa lammasta ja kaksikymmenta jaaraa:	</div>
 
-<div class="versenum">15.</div> Imettavia kameleja varsoinensa kolmekymmenta: neljakymmenta lehmaa ja kymmenen harkaa, kaksikymmenta aasia ja kymmenen varsaa.	
+<div class="theverse"><div class="versenum">15.</div> Imettavia kameleja varsoinensa kolmekymmenta: neljakymmenta lehmaa ja kymmenen harkaa, kaksikymmenta aasia ja kymmenen varsaa.	</div>
 
-<div class="versenum">16.</div> Ja antoi ne palvelioittensa kasiin, itsekunkin lauman erinansa; ja sanoi palvelioillensa: menkaat minun edellani, ja pitakaat vali jokaisen lauman vaiheella.	
+<div class="theverse"><div class="versenum">16.</div> Ja antoi ne palvelioittensa kasiin, itsekunkin lauman erinansa; ja sanoi palvelioillensa: menkaat minun edellani, ja pitakaat vali jokaisen lauman vaiheella.	</div>
 
-<div class="versenum">17.</div> Ja kaski ensimaiselle, sanoen: Koska minun veljeni Esau kohtaa sinun, ja kysyy sinulta, kenenkas olet, ja kuhunkas menet? ja kenenka namat ovat, joitas ajat edellas?	
+<div class="theverse"><div class="versenum">17.</div> Ja kaski ensimaiselle, sanoen: Koska minun veljeni Esau kohtaa sinun, ja kysyy sinulta, kenenkas olet, ja kuhunkas menet? ja kenenka namat ovat, joitas ajat edellas?	</div>
 
-<div class="versenum">18.</div> Niin sano: namat ovat sinun palvelias Jakobin lahjat, lahetetyt minun herralleni Esaulle: ja katso, han tulee myos itse meidan jalissamme.	
+<div class="theverse"><div class="versenum">18.</div> Niin sano: namat ovat sinun palvelias Jakobin lahjat, lahetetyt minun herralleni Esaulle: ja katso, han tulee myos itse meidan jalissamme.	</div>
 
-<div class="versenum">19.</div> Niin kaski han myos toiselle ja kolmannelle, ja kaikille niille, jotka kavivat lauman jalissa, sanoen: taman minun sanani jalkeen puhukaat Esaulle, koska te hanen loydatte.	
+<div class="theverse"><div class="versenum">19.</div> Niin kaski han myos toiselle ja kolmannelle, ja kaikille niille, jotka kavivat lauman jalissa, sanoen: taman minun sanani jalkeen puhukaat Esaulle, koska te hanen loydatte.	</div>
 
-<div class="versenum">20.</div> Ja sanokaat myos: katso, sinun palvelias Jakob on myos meidan jalissamme; silla han ajatteli: mina lepytan hanen lahjoilla, jotka minun edellani menevat; sitte tahdon mina nahda hanen kasvonsa, mitamaks, han ottaa vastaan minun ystavallisesti.	
+<div class="theverse"><div class="versenum">20.</div> Ja sanokaat myos: katso, sinun palvelias Jakob on myos meidan jalissamme; silla han ajatteli: mina lepytan hanen lahjoilla, jotka minun edellani menevat; sitte tahdon mina nahda hanen kasvonsa, mitamaks, han ottaa vastaan minun ystavallisesti.	</div>
 
-<div class="versenum">21.</div> Niin lahjat menivat hanen edellansa; mutta han oli itse siina yota joukkoinensa.	
+<div class="theverse"><div class="versenum">21.</div> Niin lahjat menivat hanen edellansa; mutta han oli itse siina yota joukkoinensa.	</div>
 
-<div class="versenum">22.</div> Ja nousi yolla ja otti kaksi emantaansa, ja ne kaksi piikaansa, ja yksitoistakymmenta lastansa: ja meni ylitse Jabbokin luotuspaikkaan.	
+<div class="theverse"><div class="versenum">22.</div> Ja nousi yolla ja otti kaksi emantaansa, ja ne kaksi piikaansa, ja yksitoistakymmenta lastansa: ja meni ylitse Jabbokin luotuspaikkaan.	</div>
 
-<div class="versenum">23.</div> Ja otti ne ja vei heidat virran ylitse: ja vei myos ylitse kaikki, mita hanella oli.	
+<div class="theverse"><div class="versenum">23.</div> Ja otti ne ja vei heidat virran ylitse: ja vei myos ylitse kaikki, mita hanella oli.	</div>
 
-<div class="versenum">24.</div> Mutta Jakob jai sille puolelle yksinansa. Silloin paineli yksi mies hanen kanssansa, siihenasti kuin aamurusko nousi.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Jakob jai sille puolelle yksinansa. Silloin paineli yksi mies hanen kanssansa, siihenasti kuin aamurusko nousi.	</div>
 
-<div class="versenum">25.</div> Ja kuin han naki, ettei han voittanut hanta, rupesi han hanen reiteensa, niin etta Jakobin reisiluu horjahtui painellessa hanen kanssansa.	
+<div class="theverse"><div class="versenum">25.</div> Ja kuin han naki, ettei han voittanut hanta, rupesi han hanen reiteensa, niin etta Jakobin reisiluu horjahtui painellessa hanen kanssansa.	</div>
 
-<div class="versenum">26.</div> Ja han sanoi: paasta minua, silla aamurusko nousee. Mutta han vastasi: en mina paasta sinua, jolles siunaa minua.	
+<div class="theverse"><div class="versenum">26.</div> Ja han sanoi: paasta minua, silla aamurusko nousee. Mutta han vastasi: en mina paasta sinua, jolles siunaa minua.	</div>
 
-<div class="versenum">27.</div> Ja han sanoi hanelle: mika sinun nimes on? han vastasi: Jakob.	
+<div class="theverse"><div class="versenum">27.</div> Ja han sanoi hanelle: mika sinun nimes on? han vastasi: Jakob.	</div>
 
-<div class="versenum">28.</div> Ja han sanoi: ei sinua sillen pida kutsuttaman Jakob, vaan IsraEl: silla sina olet taistellut Jumalan ja ihmisten kanssa, ja olet voittanut.	
+<div class="theverse"><div class="versenum">28.</div> Ja han sanoi: ei sinua sillen pida kutsuttaman Jakob, vaan IsraEl: silla sina olet taistellut Jumalan ja ihmisten kanssa, ja olet voittanut.	</div>
 
-<div class="versenum">29.</div> Ja Jakob kysyi hanelta, ja sanoi: sanos nyt sinun nimes. Mutta han sanoi: miksis minun nimeani kysyt? Ja han siunasi hanta siina paikassa.	
+<div class="theverse"><div class="versenum">29.</div> Ja Jakob kysyi hanelta, ja sanoi: sanos nyt sinun nimes. Mutta han sanoi: miksis minun nimeani kysyt? Ja han siunasi hanta siina paikassa.	</div>
 
-<div class="versenum">30.</div> Ja Jakob kutsui sen paikan Pniel: silla mina olen nahnyt Jumalan kasvosta kasvoon, ja minun sieluni on vapahdettu.	
+<div class="theverse"><div class="versenum">30.</div> Ja Jakob kutsui sen paikan Pniel: silla mina olen nahnyt Jumalan kasvosta kasvoon, ja minun sieluni on vapahdettu.	</div>
 
-<div class="versenum">31.</div> Ja aurinko nousi, koska han Pnielin ohitse kavi, ja han ontui reidestansa.	
+<div class="theverse"><div class="versenum">31.</div> Ja aurinko nousi, koska han Pnielin ohitse kavi, ja han ontui reidestansa.	</div>
 
-<div class="versenum">32.</div> Sentahden ei syo Israelin lapset reisisuonta tahan paivaan asti, etta Jakobin reisiluu horjahtui.	
+<div class="theverse"><div class="versenum">32.</div> Sentahden ei syo Israelin lapset reisisuonta tahan paivaan asti, etta Jakobin reisiluu horjahtui.	</div>
 </body>
 </html>

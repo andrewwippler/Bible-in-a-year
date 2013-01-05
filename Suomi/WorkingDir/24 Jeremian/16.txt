@@ -4,46 +4,46 @@
 </head>
 <body><div class="chaptertitle">Jeremian 16	</div>
 	
-<div class="versenum">1.</div> Ja Herran sana tapahtui minulle ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herran sana tapahtui minulle ja sanoi:	</div>
 
-<div class="versenum">2.</div> Ei sinun pida ottaman itselles vaimoa, eika siittaman poikia eli tyttaria tassa paikassa.	
+<div class="theverse"><div class="versenum">2.</div> Ei sinun pida ottaman itselles vaimoa, eika siittaman poikia eli tyttaria tassa paikassa.	</div>
 
-<div class="versenum">3.</div> Silla nain sanoo Herra niista pojista ja tyttarista, jotka tassa paikassa syntyvat, ja aideista, jotka heita synnyttavat, ja heidan isistansa, jotka heita tassa maassa siittavat:	
+<div class="theverse"><div class="versenum">3.</div> Silla nain sanoo Herra niista pojista ja tyttarista, jotka tassa paikassa syntyvat, ja aideista, jotka heita synnyttavat, ja heidan isistansa, jotka heita tassa maassa siittavat:	</div>
 
-<div class="versenum">4.</div> Heidan pitaa kuoleman sairaudessansa, ja ei heita pida itkettaman eli haudattaman, vaan heidan pitaa loaksi kedolle tuleman; ja heidan pitaa viela sitte miekalla ja nalalla hukkuman, ja heidan ruumiinsa pitaa linnuille taivaan alla ja elaimille maassa ruaksi tuleman.	
+<div class="theverse"><div class="versenum">4.</div> Heidan pitaa kuoleman sairaudessansa, ja ei heita pida itkettaman eli haudattaman, vaan heidan pitaa loaksi kedolle tuleman; ja heidan pitaa viela sitte miekalla ja nalalla hukkuman, ja heidan ruumiinsa pitaa linnuille taivaan alla ja elaimille maassa ruaksi tuleman.	</div>
 
-<div class="versenum">5.</div> Silla nain sanoo Herra: ei sinun pida meneman murhehuoneesen, eika meneman itkemaan eli surkuttelemaan heita; silla mina olen ottanut pois minun rauhani talta kansalta, sanoo Herra, ja minun armoni ja laupiuteni;	
+<div class="theverse"><div class="versenum">5.</div> Silla nain sanoo Herra: ei sinun pida meneman murhehuoneesen, eika meneman itkemaan eli surkuttelemaan heita; silla mina olen ottanut pois minun rauhani talta kansalta, sanoo Herra, ja minun armoni ja laupiuteni;	</div>
 
-<div class="versenum">6.</div> Etta seka suuret etta pienet pitaa tassa maassa kuoleman, ja ei haudatuksi tuleman, ja ei yhdenkaan pida itkeman eli repiman itsiansa, eika ajeleman hiuksiansa heidan tahtensa.	
+<div class="theverse"><div class="versenum">6.</div> Etta seka suuret etta pienet pitaa tassa maassa kuoleman, ja ei haudatuksi tuleman, ja ei yhdenkaan pida itkeman eli repiman itsiansa, eika ajeleman hiuksiansa heidan tahtensa.	</div>
 
-<div class="versenum">7.</div> Ja ei myos pida (leipaa) jaettaman murheessa, etta heita lohdutettaisiin kuolleen tahden, eika pida annettaman juoda lohdutusmaljasta isansa tahden ja aitinsa tahden.	
+<div class="theverse"><div class="versenum">7.</div> Ja ei myos pida (leipaa) jaettaman murheessa, etta heita lohdutettaisiin kuolleen tahden, eika pida annettaman juoda lohdutusmaljasta isansa tahden ja aitinsa tahden.	</div>
 
-<div class="versenum">8.</div> Ja ei pida sinun meneman pitohuoneesen, istumaan heidan viereensa, syomaan ja juomaan.	
+<div class="theverse"><div class="versenum">8.</div> Ja ei pida sinun meneman pitohuoneesen, istumaan heidan viereensa, syomaan ja juomaan.	</div>
 
-<div class="versenum">9.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala: katso, mina tahdon ottaa pois tasta siasta, teidan silmainne edesta ja teidan elaissanne, ilon ja riemun aanen, yljan aanen ja morsiamen aanen.	
+<div class="theverse"><div class="versenum">9.</div> Silla nain sanoo Herra Zebaot, Israelin Jumala: katso, mina tahdon ottaa pois tasta siasta, teidan silmainne edesta ja teidan elaissanne, ilon ja riemun aanen, yljan aanen ja morsiamen aanen.	</div>
 
-<div class="versenum">10.</div> Ja kuin sina namat kaikki talle kansalle sanonut olet, ja he sanovat sinulle: miksi Herra uhkaa meille kaikkea tata suurta onnettomuutta? ja mika on meidan pahatekomme ja syntimme, jolla me olemme rikkoneet Herraa, meidan Jumalaamme, vastaan?	
+<div class="theverse"><div class="versenum">10.</div> Ja kuin sina namat kaikki talle kansalle sanonut olet, ja he sanovat sinulle: miksi Herra uhkaa meille kaikkea tata suurta onnettomuutta? ja mika on meidan pahatekomme ja syntimme, jolla me olemme rikkoneet Herraa, meidan Jumalaamme, vastaan?	</div>
 
-<div class="versenum">11.</div> Niin sinun pitaa sanoman heille: etta teidan isanne, sanoo Herra, ovat hyljanneet minun, ja seuranneet muita jumalia, palvelleet niita ja kumartaneet niita; mutta minun ovat he hyljanneet, ja ei pitaneet minun lakiani.	
+<div class="theverse"><div class="versenum">11.</div> Niin sinun pitaa sanoman heille: etta teidan isanne, sanoo Herra, ovat hyljanneet minun, ja seuranneet muita jumalia, palvelleet niita ja kumartaneet niita; mutta minun ovat he hyljanneet, ja ei pitaneet minun lakiani.	</div>
 
-<div class="versenum">12.</div> Ja te teette viela pahemmin kuin teidan isanne; silla katso, kukin elaa oman pahan sydamensa sisun jalkeen, eika yksikaan tottele minua.	
+<div class="theverse"><div class="versenum">12.</div> Ja te teette viela pahemmin kuin teidan isanne; silla katso, kukin elaa oman pahan sydamensa sisun jalkeen, eika yksikaan tottele minua.	</div>
 
-<div class="versenum">13.</div> Sentahden mina tahdon ajaa teidat pois tasta maasta siihen maahan, josta ette te eika teidan isanne mitaan tieda, siella saatte te palvella muita jumalia yli paivaa ja yota, ja en mina tahdo siella armoa nayttaa teille.	
+<div class="theverse"><div class="versenum">13.</div> Sentahden mina tahdon ajaa teidat pois tasta maasta siihen maahan, josta ette te eika teidan isanne mitaan tieda, siella saatte te palvella muita jumalia yli paivaa ja yota, ja en mina tahdo siella armoa nayttaa teille.	</div>
 
-<div class="versenum">14.</div> Sentahden katso, se aika tulee, sanoo Herra, ettei sitte pida enaan sanottaman: niin totta kuin Herra elaa, joka Israelin lapset Egyptin maalta on johdattanut,	
+<div class="theverse"><div class="versenum">14.</div> Sentahden katso, se aika tulee, sanoo Herra, ettei sitte pida enaan sanottaman: niin totta kuin Herra elaa, joka Israelin lapset Egyptin maalta on johdattanut,	</div>
 
-<div class="versenum">15.</div> Vaan, niin totta kuin Herra elaa, joka Israelin lapset on johdattanut pohjan maasta ja kaikista maista, joihin han heita ajanut oli; silla mina tahdon antaa heidan tulla jalleen heidan maahansa, jonka mina heidan isillensa antanut olen.	
+<div class="theverse"><div class="versenum">15.</div> Vaan, niin totta kuin Herra elaa, joka Israelin lapset on johdattanut pohjan maasta ja kaikista maista, joihin han heita ajanut oli; silla mina tahdon antaa heidan tulla jalleen heidan maahansa, jonka mina heidan isillensa antanut olen.	</div>
 
-<div class="versenum">16.</div> Katso, mina lahetan monta kalamiesta, sanoo Herra, heita onkimaan; ja sitte lahetan mina monta metsamiesta, heita kasittamaan kaikilla vuorilla, kaikilla kukkuloilla ja kaikissa kiviraunioissa.	
+<div class="theverse"><div class="versenum">16.</div> Katso, mina lahetan monta kalamiesta, sanoo Herra, heita onkimaan; ja sitte lahetan mina monta metsamiesta, heita kasittamaan kaikilla vuorilla, kaikilla kukkuloilla ja kaikissa kiviraunioissa.	</div>
 
-<div class="versenum">17.</div> Silla minun silmani nakee kaikki heidan tiensa, ja ei ne ole peitetyt minun edessani; ja heidan pahatekonsa on minun silmaini edessa salaamatoin.	
+<div class="theverse"><div class="versenum">17.</div> Silla minun silmani nakee kaikki heidan tiensa, ja ei ne ole peitetyt minun edessani; ja heidan pahatekonsa on minun silmaini edessa salaamatoin.	</div>
 
-<div class="versenum">18.</div> Ensisti pitaa minun kaksinkertaisesti maksaman heidan pahat tekonsa ja syntinsa, etta he ovat saastuttaneet minun maani kauhistustensa raadoilla, ja kauhistuksellansa tayttivat he minun perintoni.	
+<div class="theverse"><div class="versenum">18.</div> Ensisti pitaa minun kaksinkertaisesti maksaman heidan pahat tekonsa ja syntinsa, etta he ovat saastuttaneet minun maani kauhistustensa raadoilla, ja kauhistuksellansa tayttivat he minun perintoni.	</div>
 
-<div class="versenum">19.</div> Herra, sina olet vakevyyteni ja voimani, ja turvani hadassa; pakanat tulevat sinun tykos maailman aarista ja sanovat: meidan isamme ovat tosin pitaneet vaaria ja turhia jumalia, jotka ei mitaan auttaa taida.	
+<div class="theverse"><div class="versenum">19.</div> Herra, sina olet vakevyyteni ja voimani, ja turvani hadassa; pakanat tulevat sinun tykos maailman aarista ja sanovat: meidan isamme ovat tosin pitaneet vaaria ja turhia jumalia, jotka ei mitaan auttaa taida.	</div>
 
-<div class="versenum">20.</div> Kuinka taitaa ihminen tehda hanellensa jumalia, jotka ei kuitenkaan jumalia olekaan?	
+<div class="theverse"><div class="versenum">20.</div> Kuinka taitaa ihminen tehda hanellensa jumalia, jotka ei kuitenkaan jumalia olekaan?	</div>
 
-<div class="versenum">21.</div> Sentahden katso, mina tahdon opettaa heita talla haavalla, ja tehda heille minun kateni ja valtani tiettavaksi; ja heidan pitaa ymmartaman, etta minun nimeni on Herra.	
+<div class="theverse"><div class="versenum">21.</div> Sentahden katso, mina tahdon opettaa heita talla haavalla, ja tehda heille minun kateni ja valtani tiettavaksi; ja heidan pitaa ymmartaman, etta minun nimeni on Herra.	</div>
 </body>
 </html>

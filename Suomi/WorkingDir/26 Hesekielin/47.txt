@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Hesekielin 47	</div>
 	
-<div class="versenum">1.</div> Ja han vei minun jalleen templin oven eteen, ja katso, siella juoksi vesi templin kynnyksen alitse itaan pain; silla templin ovi oli itaan pain; ja vesi juoksi templin oikialta puolelta lounaaseen pain, alttarin ohitse.	
+<div class="theverse"><div class="versenum">1.</div> Ja han vei minun jalleen templin oven eteen, ja katso, siella juoksi vesi templin kynnyksen alitse itaan pain; silla templin ovi oli itaan pain; ja vesi juoksi templin oikialta puolelta lounaaseen pain, alttarin ohitse.	</div>
 
-<div class="versenum">2.</div> Ja han vei minun ulos pohjoista porttia pain, ja vei minun ympari sita tieta ulkoisesta portista itaan pain; ja katso, vesi juoksi oikialta puolelta sielta ulos.	
+<div class="theverse"><div class="versenum">2.</div> Ja han vei minun ulos pohjoista porttia pain, ja vei minun ympari sita tieta ulkoisesta portista itaan pain; ja katso, vesi juoksi oikialta puolelta sielta ulos.	</div>
 
-<div class="versenum">3.</div> Ja mies laksi itaan pain, ja mittanuora oli hanen kadessansa, ja mittasi tuhannen kyynaraa, ja han vei minun veteen minun poytajalkoihini saakka.	
+<div class="theverse"><div class="versenum">3.</div> Ja mies laksi itaan pain, ja mittanuora oli hanen kadessansa, ja mittasi tuhannen kyynaraa, ja han vei minun veteen minun poytajalkoihini saakka.	</div>
 
-<div class="versenum">4.</div> Ja mittasi viela tuhannes kyynaraa, ja vei minun veteen polviini saakka; ja mittasi jalleen tuhannen kyynaraa ja antoi minun menna siihen kupeisiin saakka.	
+<div class="theverse"><div class="versenum">4.</div> Ja mittasi viela tuhannes kyynaraa, ja vei minun veteen polviini saakka; ja mittasi jalleen tuhannen kyynaraa ja antoi minun menna siihen kupeisiin saakka.	</div>
 
-<div class="versenum">5.</div> Niin han mittasi viela tuhannen, etta niin syva tuli, etten mina enaan pohjaan ulottunut; silla vesi oli niin syva, etta siina taytyi uida, ja ei ulottunut pohjaan.	
+<div class="theverse"><div class="versenum">5.</div> Niin han mittasi viela tuhannen, etta niin syva tuli, etten mina enaan pohjaan ulottunut; silla vesi oli niin syva, etta siina taytyi uida, ja ei ulottunut pohjaan.	</div>
 
-<div class="versenum">6.</div> Ja han sanoi minulle: sina ihmisen poika, taman olet sina kylla nahnyt; ja han vei minun jalleen ojan reunalle.	
+<div class="theverse"><div class="versenum">6.</div> Ja han sanoi minulle: sina ihmisen poika, taman olet sina kylla nahnyt; ja han vei minun jalleen ojan reunalle.	</div>
 
-<div class="versenum">7.</div> Ja kuin mina itseni kaansin, katso, siella oli sangen monta puuta rannalla molemmilla puolilla.	
+<div class="theverse"><div class="versenum">7.</div> Ja kuin mina itseni kaansin, katso, siella oli sangen monta puuta rannalla molemmilla puolilla.	</div>
 
-<div class="versenum">8.</div> Ja han sanoi minulle: tama vesi, joka itaan pain juoksee, pitaa juokseman paljaan maan lavitse mereen; ja kuin se tulee mereen, niin sen vedet terveellisiksi tulevat.	
+<div class="theverse"><div class="versenum">8.</div> Ja han sanoi minulle: tama vesi, joka itaan pain juoksee, pitaa juokseman paljaan maan lavitse mereen; ja kuin se tulee mereen, niin sen vedet terveellisiksi tulevat.	</div>
 
-<div class="versenum">9.</div> Ja kaikki, jotka siina elavat ja liikkuvat, kuhunka namat virrat tulevat, niiden pitaa elaman; ja pitaa oleman sangen paljo kaloja; ja kaikki pitaa terveet oleman ja elaman, kuhunka tama virta tulee.	
+<div class="theverse"><div class="versenum">9.</div> Ja kaikki, jotka siina elavat ja liikkuvat, kuhunka namat virrat tulevat, niiden pitaa elaman; ja pitaa oleman sangen paljo kaloja; ja kaikki pitaa terveet oleman ja elaman, kuhunka tama virta tulee.	</div>
 
-<div class="versenum">10.</div> Siina pitaa oleman kalamiehet; Engeddista niin Eneglaimiin asti pitaa verkkoja pantaman; silla siina pitaa oleman lajinsa jalkeen sangen paljo kaloja, niinkuin suuressakin meressa.	
+<div class="theverse"><div class="versenum">10.</div> Siina pitaa oleman kalamiehet; Engeddista niin Eneglaimiin asti pitaa verkkoja pantaman; silla siina pitaa oleman lajinsa jalkeen sangen paljo kaloja, niinkuin suuressakin meressa.	</div>
 
-<div class="versenum">11.</div> Mutta jarvet ja suovedet ei pida oleman terveelliset, mutta suolaiseksi tuleman.	
+<div class="theverse"><div class="versenum">11.</div> Mutta jarvet ja suovedet ei pida oleman terveelliset, mutta suolaiseksi tuleman.	</div>
 
-<div class="versenum">12.</div> Ja molemmin puolin ojan rantoja pitaa kasvaman kaikkinaisia hedelmallisia puita, joiden lehdet ei pida variseman, eika hedelmat mataneman; ja heidan pitaa joka kuu kantaman uuden hedelman; silla heidan vetensa vuotaa pyhasta, heidan hedelmansa kelpaavat ruoaksi, ja heidan lahteensa laakitykseksi.	
+<div class="theverse"><div class="versenum">12.</div> Ja molemmin puolin ojan rantoja pitaa kasvaman kaikkinaisia hedelmallisia puita, joiden lehdet ei pida variseman, eika hedelmat mataneman; ja heidan pitaa joka kuu kantaman uuden hedelman; silla heidan vetensa vuotaa pyhasta, heidan hedelmansa kelpaavat ruoaksi, ja heidan lahteensa laakitykseksi.	</div>
 
-<div class="versenum">13.</div> Nain sanoo Herra, Herra: namat ovat rajat, joiden jalkeen teidan pitaa kahdelletoistakymmenelle Israelin sukukunnalle maan jakaman; mutta kaksi osaa tulee Josephin suvulle.	
+<div class="theverse"><div class="versenum">13.</div> Nain sanoo Herra, Herra: namat ovat rajat, joiden jalkeen teidan pitaa kahdelletoistakymmenelle Israelin sukukunnalle maan jakaman; mutta kaksi osaa tulee Josephin suvulle.	</div>
 
-<div class="versenum">14.</div> Ja teidan pitaa sen yhtalaisesti jakaman, niin yhdelle kuin toisellekin; silla mina olen vannonut sen antaakseni teidan isillenne, ja tama maa pitaa tuleman teille perinnoksi.	
+<div class="theverse"><div class="versenum">14.</div> Ja teidan pitaa sen yhtalaisesti jakaman, niin yhdelle kuin toisellekin; silla mina olen vannonut sen antaakseni teidan isillenne, ja tama maa pitaa tuleman teille perinnoksi.	</div>
 
-<div class="versenum">15.</div> Tama on maan raja: pohjaan pain, isosta meresta, Hetlonin tieta niin aina Zedadiin,	
+<div class="theverse"><div class="versenum">15.</div> Tama on maan raja: pohjaan pain, isosta meresta, Hetlonin tieta niin aina Zedadiin,	</div>
 
-<div class="versenum">16.</div> Hematiin, Berotoon, Sibraimiin, jotka Damaskun ja Hematin rajain valilla ovat, ja HatsarTikoniin, joka Havran rajaan ulottuu.	
+<div class="theverse"><div class="versenum">16.</div> Hematiin, Berotoon, Sibraimiin, jotka Damaskun ja Hematin rajain valilla ovat, ja HatsarTikoniin, joka Havran rajaan ulottuu.	</div>
 
-<div class="versenum">17.</div> Ja raja meresta niin Hatsar-Enoniin on Damaskun raja, ja Zaphon pohjaan pain Hamatin raja: ja se on pohjan puoleinen kulma.	
+<div class="theverse"><div class="versenum">17.</div> Ja raja meresta niin Hatsar-Enoniin on Damaskun raja, ja Zaphon pohjaan pain Hamatin raja: ja se on pohjan puoleinen kulma.	</div>
 
-<div class="versenum">18.</div> Mutta rajan itaan pain pitaa teidan mittaaman Havran ja Damaskun valilta ja Gileadin valilta, ja koko Israelin valilta, Jordanin tykona, rajasta itamereen saakka; se pitaa oleman raja itaan pain.	
+<div class="theverse"><div class="versenum">18.</div> Mutta rajan itaan pain pitaa teidan mittaaman Havran ja Damaskun valilta ja Gileadin valilta, ja koko Israelin valilta, Jordanin tykona, rajasta itamereen saakka; se pitaa oleman raja itaan pain.	</div>
 
-<div class="versenum">19.</div> Mutta raja lounaaseen pain on Tamarista aina Kadekssen riitaveteen saakka, ja virtaan asti suuren meren tykona; sen pitaa oleman rajan lounaasen pain.	
+<div class="theverse"><div class="versenum">19.</div> Mutta raja lounaaseen pain on Tamarista aina Kadekssen riitaveteen saakka, ja virtaan asti suuren meren tykona; sen pitaa oleman rajan lounaasen pain.	</div>
 
-<div class="versenum">20.</div> Ja raja lanteen pain on isosta meresta, rajasta kohdastansa aina Hamatiin; se on raja lanteen pain.	
+<div class="theverse"><div class="versenum">20.</div> Ja raja lanteen pain on isosta meresta, rajasta kohdastansa aina Hamatiin; se on raja lanteen pain.	</div>
 
-<div class="versenum">21.</div> Ja nain teidan pitaa jakaman maan teillenne Israelin sukukunnissa.	
+<div class="theverse"><div class="versenum">21.</div> Ja nain teidan pitaa jakaman maan teillenne Israelin sukukunnissa.	</div>
 
-<div class="versenum">22.</div> Ja kuin te arvan heitatte maata jakaissanne teidan valillanne, niin teidan pitaa muukalaisia pitaman, jotka asuvat teita lasna, ja elavat eli siittavat lapsia teidan seassanne, niinkuin he olisivat Israelin lasten seassa syntyneet lapset.	
+<div class="theverse"><div class="versenum">22.</div> Ja kuin te arvan heitatte maata jakaissanne teidan valillanne, niin teidan pitaa muukalaisia pitaman, jotka asuvat teita lasna, ja elavat eli siittavat lapsia teidan seassanne, niinkuin he olisivat Israelin lasten seassa syntyneet lapset.	</div>
 
-<div class="versenum">23.</div> Ja muukalaisten pitaa saaman osansa maasta, kukin sen suvun seassa, jota lasna han asuu, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">23.</div> Ja muukalaisten pitaa saaman osansa maasta, kukin sen suvun seassa, jota lasna han asuu, sanoo Herra, Herra.	</div>
 </body>
 </html>

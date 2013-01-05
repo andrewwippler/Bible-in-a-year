@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 31	</div>
 	
-<div class="versenum">1.</div> Niin Philistealaiset sotivat Israelia vastaan, ja Israelin miehet pakenivat Philistealaisia ja lankesivat lyotyna Gilboan vuorella.	
+<div class="theverse"><div class="versenum">1.</div> Niin Philistealaiset sotivat Israelia vastaan, ja Israelin miehet pakenivat Philistealaisia ja lankesivat lyotyna Gilboan vuorella.	</div>
 
-<div class="versenum">2.</div> Ja Philistealaiset ajoivat Saulia ja hanen poikiansa takaa, ja Philistealaiset surmasivat Jonatanin, Abinadabin ja Melkisuan, Saulin pojat.	
+<div class="theverse"><div class="versenum">2.</div> Ja Philistealaiset ajoivat Saulia ja hanen poikiansa takaa, ja Philistealaiset surmasivat Jonatanin, Abinadabin ja Melkisuan, Saulin pojat.	</div>
 
-<div class="versenum">3.</div> Ja sota oli ankara Saulia vastaan, ja joutsimiehet kavivat hanen paallensa joutsilla, ja han haavoitettiin pahoin joutsimiehilta.	
+<div class="theverse"><div class="versenum">3.</div> Ja sota oli ankara Saulia vastaan, ja joutsimiehet kavivat hanen paallensa joutsilla, ja han haavoitettiin pahoin joutsimiehilta.	</div>
 
-<div class="versenum">4.</div> Niin sanoi Saul aseensa kantajalle: veda ulos miekkas ja pista silla minua lavitse, ettei namat ymparileikkaamattomat tulisi ja pistaisi minua lavitse, ja pilkkaisi minua. Mutta hanen aseensa kantaja ei tahtonut, silla han pelkasi suuresti. Niin otti Saul miekan ja lankesi siihen.	
+<div class="theverse"><div class="versenum">4.</div> Niin sanoi Saul aseensa kantajalle: veda ulos miekkas ja pista silla minua lavitse, ettei namat ymparileikkaamattomat tulisi ja pistaisi minua lavitse, ja pilkkaisi minua. Mutta hanen aseensa kantaja ei tahtonut, silla han pelkasi suuresti. Niin otti Saul miekan ja lankesi siihen.	</div>
 
-<div class="versenum">5.</div> Kuin hanen aseensa kantaja naki Saulin kuolleeksi, lankesi han myos miekkaansa ja kuoli hanen kanssansa.	
+<div class="theverse"><div class="versenum">5.</div> Kuin hanen aseensa kantaja naki Saulin kuolleeksi, lankesi han myos miekkaansa ja kuoli hanen kanssansa.	</div>
 
-<div class="versenum">6.</div> Ja niin kuoli Saul ja kolme hanen poikaansa, ja hanen aseensa kantaja, ja ynna kaikki hanen miehensa sina paivana.	
+<div class="theverse"><div class="versenum">6.</div> Ja niin kuoli Saul ja kolme hanen poikaansa, ja hanen aseensa kantaja, ja ynna kaikki hanen miehensa sina paivana.	</div>
 
-<div class="versenum">7.</div> Kuin Israelin miehet, jotka olivat toisella puolella laaksoa ja toisella puolella Jordania, nakivat Israelin miehet paenneeksi ja Saulin poikinensa kuolleeksi, jattivat he kaupungit ja pakenivat. Niin tulivat Philistealaiset ja asuivat niissa.	
+<div class="theverse"><div class="versenum">7.</div> Kuin Israelin miehet, jotka olivat toisella puolella laaksoa ja toisella puolella Jordania, nakivat Israelin miehet paenneeksi ja Saulin poikinensa kuolleeksi, jattivat he kaupungit ja pakenivat. Niin tulivat Philistealaiset ja asuivat niissa.	</div>
 
-<div class="versenum">8.</div> Ja toisena paivana tulivat Philistealaiset ryostamaan tapetuita ja loysivat Saulin ja kolme hanen poikaansa makaavan Gilboan vuorella.	
+<div class="theverse"><div class="versenum">8.</div> Ja toisena paivana tulivat Philistealaiset ryostamaan tapetuita ja loysivat Saulin ja kolme hanen poikaansa makaavan Gilboan vuorella.	</div>
 
-<div class="versenum">9.</div> Ja hakkasivat hanen paansa pois, ja ottivat hanelta aseet, ja lahettivat ympari Philistealaisten maakuntaa, ilmoitettaa epajumalainsa huoneissa ja kansan seassa,	
+<div class="theverse"><div class="versenum">9.</div> Ja hakkasivat hanen paansa pois, ja ottivat hanelta aseet, ja lahettivat ympari Philistealaisten maakuntaa, ilmoitettaa epajumalainsa huoneissa ja kansan seassa,	</div>
 
-<div class="versenum">10.</div> Ja panivat hanen aseensa Astarotin huoneesen; mutta hanen ruumiinsa ripustivat he Betsanin muurin paalle.	
+<div class="theverse"><div class="versenum">10.</div> Ja panivat hanen aseensa Astarotin huoneesen; mutta hanen ruumiinsa ripustivat he Betsanin muurin paalle.	</div>
 
-<div class="versenum">11.</div> Kuin Jabeksen asuvaiset Gileadissa kuulivat, mita Philistealaiset Saulille tehneet olivat,	
+<div class="theverse"><div class="versenum">11.</div> Kuin Jabeksen asuvaiset Gileadissa kuulivat, mita Philistealaiset Saulille tehneet olivat,	</div>
 
-<div class="versenum">12.</div> Nousivat kaikki sotaan kelpaavaiset miehet, kavivat kaiken sen yon ja ottivat Saulin ruumiin ja hanen poikainsa ruumiit alas Betsanin muurin paalta, veivat Jabekseen ja polttivat ne siella,	
+<div class="theverse"><div class="versenum">12.</div> Nousivat kaikki sotaan kelpaavaiset miehet, kavivat kaiken sen yon ja ottivat Saulin ruumiin ja hanen poikainsa ruumiit alas Betsanin muurin paalta, veivat Jabekseen ja polttivat ne siella,	</div>
 
-<div class="versenum">13.</div> Ja ottivat heidan luunsa ja hautasivat puun alle Jabekseen, ja paastosivat seitseman paivaa.	
+<div class="theverse"><div class="versenum">13.</div> Ja ottivat heidan luunsa ja hautasivat puun alle Jabekseen, ja paastosivat seitseman paivaa.	</div>
 </body>
 </html>

@@ -4,114 +4,114 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 2	</div>
 	
-<div class="versenum">1.</div> Namat ovat Israelin lapset: Ruben, Simeon, Levi ja Juuda, Isaskar ja Sebulon,	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat Israelin lapset: Ruben, Simeon, Levi ja Juuda, Isaskar ja Sebulon,	</div>
 
-<div class="versenum">2.</div> Dan, Joseph ja Benjamin, Naphtali, Gad ja Asser.	
+<div class="theverse"><div class="versenum">2.</div> Dan, Joseph ja Benjamin, Naphtali, Gad ja Asser.	</div>
 
-<div class="versenum">3.</div> Juudan lapset: Ger, Onan, Sela, ne kolme synnytti hanelle Suan tytar Kanaanealainen. Ja Ger Juudan esikoinen oli paha Herran edessa, sentahden tappoi han hanen.	
+<div class="theverse"><div class="versenum">3.</div> Juudan lapset: Ger, Onan, Sela, ne kolme synnytti hanelle Suan tytar Kanaanealainen. Ja Ger Juudan esikoinen oli paha Herran edessa, sentahden tappoi han hanen.	</div>
 
-<div class="versenum">4.</div> Ja Tamar hanen miniansa synnytti hanelle Peretsen ja Seran, niin etta Juudan lapsia oli kaikkiansa viisi.	
+<div class="theverse"><div class="versenum">4.</div> Ja Tamar hanen miniansa synnytti hanelle Peretsen ja Seran, niin etta Juudan lapsia oli kaikkiansa viisi.	</div>
 
-<div class="versenum">5.</div> Peretsen lapset: Hetsron ja Hamul.	
+<div class="theverse"><div class="versenum">5.</div> Peretsen lapset: Hetsron ja Hamul.	</div>
 
-<div class="versenum">6.</div> Seran lapset: Simri, Etan, Heman, Kalkol ja Dara: ja heita kaikkiansa oli myos viisi.	
+<div class="theverse"><div class="versenum">6.</div> Seran lapset: Simri, Etan, Heman, Kalkol ja Dara: ja heita kaikkiansa oli myos viisi.	</div>
 
-<div class="versenum">7.</div> Karmin lapset: Akar, joka Israelin murheelliseksi saatti, ryhtyissansa kirottuun.	
+<div class="theverse"><div class="versenum">7.</div> Karmin lapset: Akar, joka Israelin murheelliseksi saatti, ryhtyissansa kirottuun.	</div>
 
-<div class="versenum">8.</div> Etanin lapset, Asaria.	
+<div class="theverse"><div class="versenum">8.</div> Etanin lapset, Asaria.	</div>
 
-<div class="versenum">9.</div> Hetsronin lapset, jotka hanelle ovat syntyneet: Jerahmeel, Ram ja Kalubai.	
+<div class="theverse"><div class="versenum">9.</div> Hetsronin lapset, jotka hanelle ovat syntyneet: Jerahmeel, Ram ja Kalubai.	</div>
 
-<div class="versenum">10.</div> Ram siitti Amminadabin; Amminadab siitti Nahessonin, Juudan lasten paamiehen.	
+<div class="theverse"><div class="versenum">10.</div> Ram siitti Amminadabin; Amminadab siitti Nahessonin, Juudan lasten paamiehen.	</div>
 
-<div class="versenum">11.</div> Nahessson siitti Salman; Salma siitti Boaksen.	
+<div class="theverse"><div class="versenum">11.</div> Nahessson siitti Salman; Salma siitti Boaksen.	</div>
 
-<div class="versenum">12.</div> Boas siitti Obedin; Obed siitti Isain.	
+<div class="theverse"><div class="versenum">12.</div> Boas siitti Obedin; Obed siitti Isain.	</div>
 
-<div class="versenum">13.</div> Isai siitti esikoisensa Eliabin, toisen Abinadabin, kolmannen Simean,	
+<div class="theverse"><div class="versenum">13.</div> Isai siitti esikoisensa Eliabin, toisen Abinadabin, kolmannen Simean,	</div>
 
-<div class="versenum">14.</div> Neljannen Netaneelin, viidennen Raddain,	
+<div class="theverse"><div class="versenum">14.</div> Neljannen Netaneelin, viidennen Raddain,	</div>
 
-<div class="versenum">15.</div> Kuudennen Otsemin ja seitsemannen Davidin.	
+<div class="theverse"><div class="versenum">15.</div> Kuudennen Otsemin ja seitsemannen Davidin.	</div>
 
-<div class="versenum">16.</div> Ja heidan sisarensa olivat Seruja ja Abigail. Serujan lapset: Abisai, Joab ja Asael, ne kolme.	
+<div class="theverse"><div class="versenum">16.</div> Ja heidan sisarensa olivat Seruja ja Abigail. Serujan lapset: Abisai, Joab ja Asael, ne kolme.	</div>
 
-<div class="versenum">17.</div> Ja Abigail synnytti Amasan; ja Jeter Ismaelilainen oli Amasan isa.	
+<div class="theverse"><div class="versenum">17.</div> Ja Abigail synnytti Amasan; ja Jeter Ismaelilainen oli Amasan isa.	</div>
 
-<div class="versenum">18.</div> Kaleb Hetsronin poika siitti emantainsa Asuban ja Jerigodin kanssa, namat ovat hanen lapsensa: Jeser, Sobad ja Ardon.	
+<div class="theverse"><div class="versenum">18.</div> Kaleb Hetsronin poika siitti emantainsa Asuban ja Jerigodin kanssa, namat ovat hanen lapsensa: Jeser, Sobad ja Ardon.	</div>
 
-<div class="versenum">19.</div> Ja kuin Asuba kuoli, otti Kaleb itsellensa Ephratin, joka synnytti hanelle Hurin.	
+<div class="theverse"><div class="versenum">19.</div> Ja kuin Asuba kuoli, otti Kaleb itsellensa Ephratin, joka synnytti hanelle Hurin.	</div>
 
-<div class="versenum">20.</div> Hur siitti Urin ja Uri siitti Betsaleelin.	
+<div class="theverse"><div class="versenum">20.</div> Hur siitti Urin ja Uri siitti Betsaleelin.	</div>
 
-<div class="versenum">21.</div> Sitte meni Hetsron Makirin Gileadin isan tyttaren tyko ja nai hanen, kuin han oli kuudenkymmenen ajastaikainen; ja han synnytti hanelle Segubin.	
+<div class="theverse"><div class="versenum">21.</div> Sitte meni Hetsron Makirin Gileadin isan tyttaren tyko ja nai hanen, kuin han oli kuudenkymmenen ajastaikainen; ja han synnytti hanelle Segubin.	</div>
 
-<div class="versenum">22.</div> Ja Segub siitti Jairin; ja hanella oli kolmekolmattakymmenta kaupunkia Gileadin maakunnassa.	
+<div class="theverse"><div class="versenum">22.</div> Ja Segub siitti Jairin; ja hanella oli kolmekolmattakymmenta kaupunkia Gileadin maakunnassa.	</div>
 
-<div class="versenum">23.</div> Mutta Gesur ja Aram saivat heilta Jairin kylat, Kenatin ja hanen tyttarensa, kuusikymmenta kaupunkia: kaikki namat ovat Makirin Gileadin isan lapset.	
+<div class="theverse"><div class="versenum">23.</div> Mutta Gesur ja Aram saivat heilta Jairin kylat, Kenatin ja hanen tyttarensa, kuusikymmenta kaupunkia: kaikki namat ovat Makirin Gileadin isan lapset.	</div>
 
-<div class="versenum">24.</div> Kuin Hetsron oli kuollut Kalebin Ephratassa, niin Hetsronin emanta Abia synnytti hanelle Assurin Tekoan isan.	
+<div class="theverse"><div class="versenum">24.</div> Kuin Hetsron oli kuollut Kalebin Ephratassa, niin Hetsronin emanta Abia synnytti hanelle Assurin Tekoan isan.	</div>
 
-<div class="versenum">25.</div> Ja Jerahmeelilla Hetsronin esikoisella olivat lapset: hanen esikoisensa Ram, ja Buna, Oren, Otsem ja Ahia.	
+<div class="theverse"><div class="versenum">25.</div> Ja Jerahmeelilla Hetsronin esikoisella olivat lapset: hanen esikoisensa Ram, ja Buna, Oren, Otsem ja Ahia.	</div>
 
-<div class="versenum">26.</div> Ja Jerahmeelilla oli viela toinen emanta, hanen nimensa oli Atara, han on Onamin aiti.	
+<div class="theverse"><div class="versenum">26.</div> Ja Jerahmeelilla oli viela toinen emanta, hanen nimensa oli Atara, han on Onamin aiti.	</div>
 
-<div class="versenum">27.</div> Ja Ramin Jerahmeelin esikoisen lapset: Maats, Jamin ja Eker.	
+<div class="theverse"><div class="versenum">27.</div> Ja Ramin Jerahmeelin esikoisen lapset: Maats, Jamin ja Eker.	</div>
 
-<div class="versenum">28.</div> Ja Onamilla olivat lapset: Samai ja Jada; Samain lapset: Nadab ja Abisur.	
+<div class="theverse"><div class="versenum">28.</div> Ja Onamilla olivat lapset: Samai ja Jada; Samain lapset: Nadab ja Abisur.	</div>
 
-<div class="versenum">29.</div> Ja Abisurin emannan nimi oli Abihail, ja han synnytti hanelle Ahbanin ja Molidin.	
+<div class="theverse"><div class="versenum">29.</div> Ja Abisurin emannan nimi oli Abihail, ja han synnytti hanelle Ahbanin ja Molidin.	</div>
 
-<div class="versenum">30.</div> Nadabin lapset: Seled ja Appaim. Ja Seled kuoli lapsetonna.	
+<div class="theverse"><div class="versenum">30.</div> Nadabin lapset: Seled ja Appaim. Ja Seled kuoli lapsetonna.	</div>
 
-<div class="versenum">31.</div> Ja Appaimin lapset: Jisei; ja Jisein lapset: Sesan; Sesanin lapset: Ahlai.	
+<div class="theverse"><div class="versenum">31.</div> Ja Appaimin lapset: Jisei; ja Jisein lapset: Sesan; Sesanin lapset: Ahlai.	</div>
 
-<div class="versenum">32.</div> Ja Jodan Sammain veljen lapset: Jeter ja Jonatan. Ja Jeter kuoli lapsetonna.	
+<div class="theverse"><div class="versenum">32.</div> Ja Jodan Sammain veljen lapset: Jeter ja Jonatan. Ja Jeter kuoli lapsetonna.	</div>
 
-<div class="versenum">33.</div> Ja Jonatanin lapset: Pelet ja Sasa: namat ovat Jerahmeelin lapset.	
+<div class="theverse"><div class="versenum">33.</div> Ja Jonatanin lapset: Pelet ja Sasa: namat ovat Jerahmeelin lapset.	</div>
 
-<div class="versenum">34.</div> Sesanilla ei ollut yhtaan poikaa, vaan tyttaria. Ja Sesanilla oli Egyptilainen palvelia, hanen nimensa oli Jarha.	
+<div class="theverse"><div class="versenum">34.</div> Sesanilla ei ollut yhtaan poikaa, vaan tyttaria. Ja Sesanilla oli Egyptilainen palvelia, hanen nimensa oli Jarha.	</div>
 
-<div class="versenum">35.</div> Ja Sesan antoi Jarhalle palveliallensa tyttarensa emannaksi, han synnytti hanelle Attain.	
+<div class="theverse"><div class="versenum">35.</div> Ja Sesan antoi Jarhalle palveliallensa tyttarensa emannaksi, han synnytti hanelle Attain.	</div>
 
-<div class="versenum">36.</div> Attai siitti Natanin, Natan siitti Sabadin.	
+<div class="theverse"><div class="versenum">36.</div> Attai siitti Natanin, Natan siitti Sabadin.	</div>
 
-<div class="versenum">37.</div> Sabad siitti Ephlalin, Ephlal siitti Obedin.	
+<div class="theverse"><div class="versenum">37.</div> Sabad siitti Ephlalin, Ephlal siitti Obedin.	</div>
 
-<div class="versenum">38.</div> Obed siitti Jehun, Jehu siitti Asarian.	
+<div class="theverse"><div class="versenum">38.</div> Obed siitti Jehun, Jehu siitti Asarian.	</div>
 
-<div class="versenum">39.</div> Asaria siitti Haletsin, ja Halets siitti Elasan.	
+<div class="theverse"><div class="versenum">39.</div> Asaria siitti Haletsin, ja Halets siitti Elasan.	</div>
 
-<div class="versenum">40.</div> Elasa siitti Sismain, ja Sismai siitti Sallumin.	
+<div class="theverse"><div class="versenum">40.</div> Elasa siitti Sismain, ja Sismai siitti Sallumin.	</div>
 
-<div class="versenum">41.</div> Sallum siitti Jekamian, ja Jekamia siitti Elisaman.	
+<div class="theverse"><div class="versenum">41.</div> Sallum siitti Jekamian, ja Jekamia siitti Elisaman.	</div>
 
-<div class="versenum">42.</div> Kalebin Jerahmeelin veljen lapset: Mesa hanen esikoisensa; han on Siphin isa: ja Maresan Hebronin isan lapset.	
+<div class="theverse"><div class="versenum">42.</div> Kalebin Jerahmeelin veljen lapset: Mesa hanen esikoisensa; han on Siphin isa: ja Maresan Hebronin isan lapset.	</div>
 
-<div class="versenum">43.</div> Ja Hebronin lapset: Kora, Tappua, Rekem ja Samma.	
+<div class="theverse"><div class="versenum">43.</div> Ja Hebronin lapset: Kora, Tappua, Rekem ja Samma.	</div>
 
-<div class="versenum">44.</div> Samma siitti Rahamin Jorkamin isan; ja Rekem siitti Sammain.	
+<div class="theverse"><div class="versenum">44.</div> Samma siitti Rahamin Jorkamin isan; ja Rekem siitti Sammain.	</div>
 
-<div class="versenum">45.</div> Ja Sammain poika Maon, ja Maon oli Betsurin isa.	
+<div class="theverse"><div class="versenum">45.</div> Ja Sammain poika Maon, ja Maon oli Betsurin isa.	</div>
 
-<div class="versenum">46.</div> Ja Epha Kalebin vaimo synnytti Haranin, Motsan ja Gaseksen; ja Haran siitti Gaseksen.	
+<div class="theverse"><div class="versenum">46.</div> Ja Epha Kalebin vaimo synnytti Haranin, Motsan ja Gaseksen; ja Haran siitti Gaseksen.	</div>
 
-<div class="versenum">47.</div> Ja Jahdain lapset: Regem, Jotam, Gesan, Pelet, Epha ja Saaph.	
+<div class="theverse"><div class="versenum">47.</div> Ja Jahdain lapset: Regem, Jotam, Gesan, Pelet, Epha ja Saaph.	</div>
 
-<div class="versenum">48.</div> Maeka Kalebin vaimo synnytti Seberin ja Tirhenan.	
+<div class="theverse"><div class="versenum">48.</div> Maeka Kalebin vaimo synnytti Seberin ja Tirhenan.	</div>
 
-<div class="versenum">49.</div> Ja han synnytti myos Saaphin Madmannan isan ja Sjevan Makbenan isan ja Gibean isan. Ja Aksa oli Kalebin tytar.	
+<div class="theverse"><div class="versenum">49.</div> Ja han synnytti myos Saaphin Madmannan isan ja Sjevan Makbenan isan ja Gibean isan. Ja Aksa oli Kalebin tytar.	</div>
 
-<div class="versenum">50.</div> Namat olivat Kalebin lapset Hurin pojan Ephratan esikoisen: Sobal, Kirjatjearimin isa,	
+<div class="theverse"><div class="versenum">50.</div> Namat olivat Kalebin lapset Hurin pojan Ephratan esikoisen: Sobal, Kirjatjearimin isa,	</div>
 
-<div class="versenum">51.</div> Salma Betlehemin isa, Hareph Betgaderin isa.	
+<div class="theverse"><div class="versenum">51.</div> Salma Betlehemin isa, Hareph Betgaderin isa.	</div>
 
-<div class="versenum">52.</div> Ja Sobalilla Kirjatjearimin isalla oli poikia: Haroe, Hatsimenyhot.	
+<div class="theverse"><div class="versenum">52.</div> Ja Sobalilla Kirjatjearimin isalla oli poikia: Haroe, Hatsimenyhot.	</div>
 
-<div class="versenum">53.</div> Ja Kirjatjearimin sukukunnat: Jetrilaiset, Putilaiset, Sumatilaiset ja Misrailaiset. Heista ovat Zorgatilaiset ja Estaolilaiset tulleet.	
+<div class="theverse"><div class="versenum">53.</div> Ja Kirjatjearimin sukukunnat: Jetrilaiset, Putilaiset, Sumatilaiset ja Misrailaiset. Heista ovat Zorgatilaiset ja Estaolilaiset tulleet.	</div>
 
-<div class="versenum">54.</div> Salman lapset, Betlehem ja Netophatilaiset, Joabin huoneen kruunut; ja puoli osaa Manatilaisista ovat Zorgilaiset.	
+<div class="theverse"><div class="versenum">54.</div> Salman lapset, Betlehem ja Netophatilaiset, Joabin huoneen kruunut; ja puoli osaa Manatilaisista ovat Zorgilaiset.	</div>
 
-<div class="versenum">55.</div> Ja kirjoittajain sukukunnat, jotka asuivat Jabeksessa, ovat Tirgatilaiset, Simealaiset, Sukatilaiset. Namat ovat Kinilaiset, jotka ovat tulleet Hammatista Rekabin huoneen isasta.	
+<div class="theverse"><div class="versenum">55.</div> Ja kirjoittajain sukukunnat, jotka asuivat Jabeksessa, ovat Tirgatilaiset, Simealaiset, Sukatilaiset. Namat ovat Kinilaiset, jotka ovat tulleet Hammatista Rekabin huoneen isasta.	</div>
 </body>
 </html>

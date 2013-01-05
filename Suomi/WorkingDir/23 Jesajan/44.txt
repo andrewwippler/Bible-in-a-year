@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">Jesajan 44	</div>
 	
-<div class="versenum">1.</div> Niin kuule nyt, minun palveliani Jakob, ja Israel, jonka mina valitsin.	
+<div class="theverse"><div class="versenum">1.</div> Niin kuule nyt, minun palveliani Jakob, ja Israel, jonka mina valitsin.	</div>
 
-<div class="versenum">2.</div> Nain sanoo Herra, joka sinun tehnyt ja valmistanut on aitis kohdusta, joka sinua auttaa: ala pelkaa, minun palveliani Jakob, ja sina hurskas, jonka mina valitsin.	
+<div class="theverse"><div class="versenum">2.</div> Nain sanoo Herra, joka sinun tehnyt ja valmistanut on aitis kohdusta, joka sinua auttaa: ala pelkaa, minun palveliani Jakob, ja sina hurskas, jonka mina valitsin.	</div>
 
-<div class="versenum">3.</div> Silla mina tahdon vuodattaa vedet janoovaisen paalle, ja virrat kuivan paalle; mina tahdon vuodattaa henkeni sinun siemenes paalle, ja siunaukseni jalkeentulevaistes paalle.	
+<div class="theverse"><div class="versenum">3.</div> Silla mina tahdon vuodattaa vedet janoovaisen paalle, ja virrat kuivan paalle; mina tahdon vuodattaa henkeni sinun siemenes paalle, ja siunaukseni jalkeentulevaistes paalle.	</div>
 
-<div class="versenum">4.</div> Etta he kasvaisivat niinkuin ruoho, ja niinkuin pajut vesivirtain tykona.	
+<div class="theverse"><div class="versenum">4.</div> Etta he kasvaisivat niinkuin ruoho, ja niinkuin pajut vesivirtain tykona.	</div>
 
-<div class="versenum">5.</div> Taman pitaa sanoman: Herran mina olen, ja se pitaa Jakobin nimella kutsuttaman, ja taman pitaa itsensa omalla kadellansa Herralle kirjoittaman, ja pitaa nimitettaman Israelin nimella.	
+<div class="theverse"><div class="versenum">5.</div> Taman pitaa sanoman: Herran mina olen, ja se pitaa Jakobin nimella kutsuttaman, ja taman pitaa itsensa omalla kadellansa Herralle kirjoittaman, ja pitaa nimitettaman Israelin nimella.	</div>
 
-<div class="versenum">6.</div> Nain sanoo Herra Israelin kuningas, ja hanen pelastajansa Herra Zebaot: mina olen ensimainen ja mina olen viimeinen, ja paitsi minua ei ole yhtaan Jumalaa.	
+<div class="theverse"><div class="versenum">6.</div> Nain sanoo Herra Israelin kuningas, ja hanen pelastajansa Herra Zebaot: mina olen ensimainen ja mina olen viimeinen, ja paitsi minua ei ole yhtaan Jumalaa.	</div>
 
-<div class="versenum">7.</div> Ja kuka on minun kaltaiseni, joka kutsuu ja ilmoittaa sen, ja sen minulle valmistaa? mina, joka asetan kansat maailman alusta: anna heidan ilmoittaa merkkeja ja mita tuleva on.	
+<div class="theverse"><div class="versenum">7.</div> Ja kuka on minun kaltaiseni, joka kutsuu ja ilmoittaa sen, ja sen minulle valmistaa? mina, joka asetan kansat maailman alusta: anna heidan ilmoittaa merkkeja ja mita tuleva on.	</div>
 
-<div class="versenum">8.</div> Alkaa peljatko ja alkaat hammastyko. Enko mina silloin antanut kuulla, ja ilmoittaa sita sinulle? Silla te olette minun todistajani. Onko joku Jumala paitsi minua? Ei ole yhtaan turvaa, en mina tieda ketaan.	
+<div class="theverse"><div class="versenum">8.</div> Alkaa peljatko ja alkaat hammastyko. Enko mina silloin antanut kuulla, ja ilmoittaa sita sinulle? Silla te olette minun todistajani. Onko joku Jumala paitsi minua? Ei ole yhtaan turvaa, en mina tieda ketaan.	</div>
 
-<div class="versenum">9.</div> Epajumalain tekiat ovat kaikki turhat, ja joista he paljon pitavat, ei ne ole mitaan tarpeelliset; he ovat heidan todistajansa, ja ei nae mitaan, eika mitaan ymmarra: sentahden pitaa heidan hapiaan tuleman.	
+<div class="theverse"><div class="versenum">9.</div> Epajumalain tekiat ovat kaikki turhat, ja joista he paljon pitavat, ei ne ole mitaan tarpeelliset; he ovat heidan todistajansa, ja ei nae mitaan, eika mitaan ymmarra: sentahden pitaa heidan hapiaan tuleman.	</div>
 
-<div class="versenum">10.</div> Kutka ovat ne, jotka Jumalan tekevat, ja valavat epajumalan, joka ei mihinkaan kelpaa?	
+<div class="theverse"><div class="versenum">10.</div> Kutka ovat ne, jotka Jumalan tekevat, ja valavat epajumalan, joka ei mihinkaan kelpaa?	</div>
 
-<div class="versenum">11.</div> Katso, kaikki heidan kumppaninsa tulevat hapiaan, silla he ovat tekiat ihmisista. Jos he kaikki kokoontuisivat ja astuisivat edes, niin heidan pitaa kuitenkin pelkaaman ja hapiaan tuleman.	
+<div class="theverse"><div class="versenum">11.</div> Katso, kaikki heidan kumppaninsa tulevat hapiaan, silla he ovat tekiat ihmisista. Jos he kaikki kokoontuisivat ja astuisivat edes, niin heidan pitaa kuitenkin pelkaaman ja hapiaan tuleman.	</div>
 
-<div class="versenum">12.</div> Rautaseppa tarttuu rautaan pihdeilla, pitaa sen hiilissa ja valmistaa sen vasaralla, ja takoo sita kaikella kasivartensa vaella; karsii myos nalkaa, siihenasti ettei han enaa voi, eika juo vetta, siihenasti etta han vasyy.	
+<div class="theverse"><div class="versenum">12.</div> Rautaseppa tarttuu rautaan pihdeilla, pitaa sen hiilissa ja valmistaa sen vasaralla, ja takoo sita kaikella kasivartensa vaella; karsii myos nalkaa, siihenasti ettei han enaa voi, eika juo vetta, siihenasti etta han vasyy.	</div>
 
-<div class="versenum">13.</div> Puuseppa veistelee puuta, ja mittaa sita nuoralla, ja arvoittelee sen langalla, ja hakkaa sen, ja piirittaa sen sirkkelilla; ja tekee sen miehen kuvaksi, niinkuin kauniiksi ihmiseksi, jonka pitais asuman huoneessa.	
+<div class="theverse"><div class="versenum">13.</div> Puuseppa veistelee puuta, ja mittaa sita nuoralla, ja arvoittelee sen langalla, ja hakkaa sen, ja piirittaa sen sirkkelilla; ja tekee sen miehen kuvaksi, niinkuin kauniiksi ihmiseksi, jonka pitais asuman huoneessa.	</div>
 
-<div class="versenum">14.</div> Han hakkaa sedripuita, ja ottaa bookia ja tammea, joka metsan puiden seassa vahvistuu, ja sedripuuta , joka istutettu on ja sateesta on kasvanut.	
+<div class="theverse"><div class="versenum">14.</div> Han hakkaa sedripuita, ja ottaa bookia ja tammea, joka metsan puiden seassa vahvistuu, ja sedripuuta , joka istutettu on ja sateesta on kasvanut.	</div>
 
-<div class="versenum">15.</div> Joka kelpaa ihmiselle polttaa, ja josta lammitella saadaan, jonka palamisella myos leipaa kypsennetaan; siita han myos tekee Jumalan, ja palvelee sita; han tekee siita epajumalan ja lankee sen eteen polvillensa.	
+<div class="theverse"><div class="versenum">15.</div> Joka kelpaa ihmiselle polttaa, ja josta lammitella saadaan, jonka palamisella myos leipaa kypsennetaan; siita han myos tekee Jumalan, ja palvelee sita; han tekee siita epajumalan ja lankee sen eteen polvillensa.	</div>
 
-<div class="versenum">16.</div> Puolen polttaa han tulessa, ja toisen puolen tykona syo han lihaa, han paistaa paistin ja ravitsee itsensa, lammittaa myos itsiansa, ja sanoo: hoi! mina olen lammin, etta sain nahda tulen.	
+<div class="theverse"><div class="versenum">16.</div> Puolen polttaa han tulessa, ja toisen puolen tykona syo han lihaa, han paistaa paistin ja ravitsee itsensa, lammittaa myos itsiansa, ja sanoo: hoi! mina olen lammin, etta sain nahda tulen.	</div>
 
-<div class="versenum">17.</div> Mutta mita siita jaa, siita tekee han jumalan epajumalaksensa; sen eteen lankee han polvillensa, ja kumartelee sita, rukoilee ja sanoo: vapahda minua, silla sina olet minun jumalani.	
+<div class="theverse"><div class="versenum">17.</div> Mutta mita siita jaa, siita tekee han jumalan epajumalaksensa; sen eteen lankee han polvillensa, ja kumartelee sita, rukoilee ja sanoo: vapahda minua, silla sina olet minun jumalani.	</div>
 
-<div class="versenum">18.</div> Ei he tieda eika ymmarra mitaan; silla he ovat sovaistut, niin etta heidan silmansa ei nae mitaan, ja heidan sydamensa ei akkaa mitaan.	
+<div class="theverse"><div class="versenum">18.</div> Ei he tieda eika ymmarra mitaan; silla he ovat sovaistut, niin etta heidan silmansa ei nae mitaan, ja heidan sydamensa ei akkaa mitaan.	</div>
 
-<div class="versenum">19.</div> Ja ei he johdata sydameensa, ei ole siina yhtaan tointa eli jarkea, etta he sittenkin ajattelisivat: mina olen puolen polttanut tulessa, ja olen hiililla kypsentanyt leipia, ja paistanut lihaa ja syonyt; pitaisko minun nyt tekeman sen, mika jaanyt on, kauhistukseksi? ja pitaisko minun kumartaman kantoa?	
+<div class="theverse"><div class="versenum">19.</div> Ja ei he johdata sydameensa, ei ole siina yhtaan tointa eli jarkea, etta he sittenkin ajattelisivat: mina olen puolen polttanut tulessa, ja olen hiililla kypsentanyt leipia, ja paistanut lihaa ja syonyt; pitaisko minun nyt tekeman sen, mika jaanyt on, kauhistukseksi? ja pitaisko minun kumartaman kantoa?	</div>
 
-<div class="versenum">20.</div> Han ravitsee itsiansa tuhalla, hanen vimmattu sydamensa pettaa hanen, ettei han taida sieluansa pelastaa, eika ajattele: eiko petos ole minun oikiassa kadessaani?	
+<div class="theverse"><div class="versenum">20.</div> Han ravitsee itsiansa tuhalla, hanen vimmattu sydamensa pettaa hanen, ettei han taida sieluansa pelastaa, eika ajattele: eiko petos ole minun oikiassa kadessaani?	</div>
 
-<div class="versenum">21.</div> Ajattele naita, Jakob ja Israel, silla sina olet minun palveliani; mina olen sinun valmistanut, ettas minun palveliani olisit, Israel, ala minua unohda.	
+<div class="theverse"><div class="versenum">21.</div> Ajattele naita, Jakob ja Israel, silla sina olet minun palveliani; mina olen sinun valmistanut, ettas minun palveliani olisit, Israel, ala minua unohda.	</div>
 
-<div class="versenum">22.</div> Mina pyyhin sinun pahat tekos pois niinkuin pilven, ja sinun syntis niinkuin sumun; kaanna sinuas minun puoleeni, silla mina sinun lunastin.	
+<div class="theverse"><div class="versenum">22.</div> Mina pyyhin sinun pahat tekos pois niinkuin pilven, ja sinun syntis niinkuin sumun; kaanna sinuas minun puoleeni, silla mina sinun lunastin.	</div>
 
-<div class="versenum">23.</div> Iloitkaat te taivaat, silla Herra itse sen teki; riemuitse sina maa taalla alhaalla, paukkukaat te vuoret ihastuksella, metsa ja kaikki hanen puunsa; silla Herra lunasti Jakobin, ja on Israelissa kunniallinen.	
+<div class="theverse"><div class="versenum">23.</div> Iloitkaat te taivaat, silla Herra itse sen teki; riemuitse sina maa taalla alhaalla, paukkukaat te vuoret ihastuksella, metsa ja kaikki hanen puunsa; silla Herra lunasti Jakobin, ja on Israelissa kunniallinen.	</div>
 
-<div class="versenum">24.</div> Naita sanoo Herra sinun lunastajas, joka sinun aitis kohdusta valmistanut on: mina olen Herra joka kaikki teen, joka taivaat yksinani venytan, ja levitan maan ilman apulaista;	
+<div class="theverse"><div class="versenum">24.</div> Naita sanoo Herra sinun lunastajas, joka sinun aitis kohdusta valmistanut on: mina olen Herra joka kaikki teen, joka taivaat yksinani venytan, ja levitan maan ilman apulaista;	</div>
 
-<div class="versenum">25.</div> Joka noitain merkit tyhjaksi teen, ja tietajat teen hulluksi; joka viisaat ajan takaperin, ja heidan taitonsa teen hulluudeksi.	
+<div class="theverse"><div class="versenum">25.</div> Joka noitain merkit tyhjaksi teen, ja tietajat teen hulluksi; joka viisaat ajan takaperin, ja heidan taitonsa teen hulluudeksi.	</div>
 
-<div class="versenum">26.</div> Mutta han vahvistaa palveliansa sanan ja kaskylaistensa neuvon tayttaa. Joka Jerusalemille sanon: ole asuva: ja Juudan kaupungeille: olkaat rakennetut, ja heidan aukionsa mina nostan ylos.	
+<div class="theverse"><div class="versenum">26.</div> Mutta han vahvistaa palveliansa sanan ja kaskylaistensa neuvon tayttaa. Joka Jerusalemille sanon: ole asuva: ja Juudan kaupungeille: olkaat rakennetut, ja heidan aukionsa mina nostan ylos.	</div>
 
-<div class="versenum">27.</div> Joka syvyydelle sanon: tule kuivaksi: mina tahdon sinun virtas kuivata.	
+<div class="theverse"><div class="versenum">27.</div> Joka syvyydelle sanon: tule kuivaksi: mina tahdon sinun virtas kuivata.	</div>
 
-<div class="versenum">28.</div> Joka sanon Korekselle: han on minun paimeneni, ja hanen pitaa kaiken minun tahtoni tayttaman; niin etta Jerusalemille sanotaan: ole rakennettu, ja templille: ole perustettu.	
+<div class="theverse"><div class="versenum">28.</div> Joka sanon Korekselle: han on minun paimeneni, ja hanen pitaa kaiken minun tahtoni tayttaman; niin etta Jerusalemille sanotaan: ole rakennettu, ja templille: ole perustettu.	</div>
 </body>
 </html>

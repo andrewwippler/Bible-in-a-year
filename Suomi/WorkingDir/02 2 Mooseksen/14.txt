@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 14	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Israelin lapsille, etta he palajaisivat ja sioittaisivat heitansa Hiirotin laakson kohdalle, Migdolin ja meren vaiheelle, BaalZephonin eteen ja sen kohdalle sioittaen heitansa meren tyko.	
+<div class="theverse"><div class="versenum">2.</div> Puhu Israelin lapsille, etta he palajaisivat ja sioittaisivat heitansa Hiirotin laakson kohdalle, Migdolin ja meren vaiheelle, BaalZephonin eteen ja sen kohdalle sioittaen heitansa meren tyko.	</div>
 
-<div class="versenum">3.</div> Ja Pharao sanoo Israelin lapsista: he kayvat eksyksissa maalla, korpi on heidat sulkenut.	
+<div class="theverse"><div class="versenum">3.</div> Ja Pharao sanoo Israelin lapsista: he kayvat eksyksissa maalla, korpi on heidat sulkenut.	</div>
 
-<div class="versenum">4.</div> Ja mina paadutan Pharaon sydamen, ja han ajaa heita takaa; ja mina voitan kunnian Pharaosta ja kaikesta hanen sotavaestansa. Ja Egyptilaisten pitaa tietaman, etta mina olen Herra. Ja he tekivat niin.	
+<div class="theverse"><div class="versenum">4.</div> Ja mina paadutan Pharaon sydamen, ja han ajaa heita takaa; ja mina voitan kunnian Pharaosta ja kaikesta hanen sotavaestansa. Ja Egyptilaisten pitaa tietaman, etta mina olen Herra. Ja he tekivat niin.	</div>
 
-<div class="versenum">5.</div> Ja kuin sanottiin Egyptin kuninkaalle, etta kansa pakeni, tuli hanen ja hanen palveliainsa sydan kaannetyksi kansaa vastaan, ja he sanoivat: miksi me olemme niin tehneet, etta me paastimme Israelin palvelemasta meita?	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin sanottiin Egyptin kuninkaalle, etta kansa pakeni, tuli hanen ja hanen palveliainsa sydan kaannetyksi kansaa vastaan, ja he sanoivat: miksi me olemme niin tehneet, etta me paastimme Israelin palvelemasta meita?	</div>
 
-<div class="versenum">6.</div> Ja han valmisti vaununsa, ja otti vakensa myotansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja han valmisti vaununsa, ja otti vakensa myotansa.	</div>
 
-<div class="versenum">7.</div> Ja otti kuusisataa parasta vaunua, niin myos kaikki muut Egyptin vaunut, ja paamiehet niiden kaikkein paalle.	
+<div class="theverse"><div class="versenum">7.</div> Ja otti kuusisataa parasta vaunua, niin myos kaikki muut Egyptin vaunut, ja paamiehet niiden kaikkein paalle.	</div>
 
-<div class="versenum">8.</div> Ja Herra paadutti Pharaon Egyptin kuninkaan sydamen, ja han ajoi takaa Israelin lapsia, jotka kuitenkin olivat korkian kaden kautta lahteneet.	
+<div class="theverse"><div class="versenum">8.</div> Ja Herra paadutti Pharaon Egyptin kuninkaan sydamen, ja han ajoi takaa Israelin lapsia, jotka kuitenkin olivat korkian kaden kautta lahteneet.	</div>
 
-<div class="versenum">9.</div> Niin Egyptilaiset ajoivat heita takaa, ja saavuttivat heidat meren tykona, kussa he itsensa sioittaneet olivat, kaikki Pharaon vaunuhevoset, hanen ratsasmiehensa, ja hanen sotajoukkonsa: Hiirotin laaksossa, BaalZephonin kohdalla.	
+<div class="theverse"><div class="versenum">9.</div> Niin Egyptilaiset ajoivat heita takaa, ja saavuttivat heidat meren tykona, kussa he itsensa sioittaneet olivat, kaikki Pharaon vaunuhevoset, hanen ratsasmiehensa, ja hanen sotajoukkonsa: Hiirotin laaksossa, BaalZephonin kohdalla.	</div>
 
-<div class="versenum">10.</div> Ja kuin Pharao lahestyi heita, nostivat Israelin lapset silmansa, ja katso, Egyptilaiset tulivat heidan perassansa; ja Israelin lapset pejastyivat sangen suuresti, ja huusivat Herran tyko.	
+<div class="theverse"><div class="versenum">10.</div> Ja kuin Pharao lahestyi heita, nostivat Israelin lapset silmansa, ja katso, Egyptilaiset tulivat heidan perassansa; ja Israelin lapset pejastyivat sangen suuresti, ja huusivat Herran tyko.	</div>
 
-<div class="versenum">11.</div> Ja sanoivat Mosekselle: Eiko hautoja ollut Egyptissa, ettas rupesit meita johdattamaan korpeen kuolemaan? Miksis meille niin olet tehnyt: ettas meita johdatit Egyptista?	
+<div class="theverse"><div class="versenum">11.</div> Ja sanoivat Mosekselle: Eiko hautoja ollut Egyptissa, ettas rupesit meita johdattamaan korpeen kuolemaan? Miksis meille niin olet tehnyt: ettas meita johdatit Egyptista?	</div>
 
-<div class="versenum">12.</div> Eiko tama se ole, kuin me puhuimme Egyptissa, sanoen: anna meidan olla, etta me palvelisimme Egyptilaisia; silla meidan olis parempi palvella Egyptilaisia, kuin kuolla korvessa.	
+<div class="theverse"><div class="versenum">12.</div> Eiko tama se ole, kuin me puhuimme Egyptissa, sanoen: anna meidan olla, etta me palvelisimme Egyptilaisia; silla meidan olis parempi palvella Egyptilaisia, kuin kuolla korvessa.	</div>
 
-<div class="versenum">13.</div> Moses sanoi kansalle: alkaat peljatko, seisokaat ja katsokaat minka autuuden Herra tanapana tekee teille; silla naita Egyptilaisia, jotka te tanapana naette, ei teidan pida ikanansa enempi nakeman ijankaikkisesti,	
+<div class="theverse"><div class="versenum">13.</div> Moses sanoi kansalle: alkaat peljatko, seisokaat ja katsokaat minka autuuden Herra tanapana tekee teille; silla naita Egyptilaisia, jotka te tanapana naette, ei teidan pida ikanansa enempi nakeman ijankaikkisesti,	</div>
 
-<div class="versenum">14.</div> Herra sotii teidan puolestanne, ja teidan pitaa alallanne oleman.	
+<div class="theverse"><div class="versenum">14.</div> Herra sotii teidan puolestanne, ja teidan pitaa alallanne oleman.	</div>
 
-<div class="versenum">15.</div> Ja Herra sanoi Mosekselle: mitas huudat minun tykoni? Sano Israelin lapsille, etta he vaeltaisivat.	
+<div class="theverse"><div class="versenum">15.</div> Ja Herra sanoi Mosekselle: mitas huudat minun tykoni? Sano Israelin lapsille, etta he vaeltaisivat.	</div>
 
-<div class="versenum">16.</div> Mutta nosta sina sauvas, ja ojenna kates meren ylitse, ja eroita se yhdesta, etta Israelin lapset kavisivat keskelta merta kuivaa myoten.	
+<div class="theverse"><div class="versenum">16.</div> Mutta nosta sina sauvas, ja ojenna kates meren ylitse, ja eroita se yhdesta, etta Israelin lapset kavisivat keskelta merta kuivaa myoten.	</div>
 
-<div class="versenum">17.</div> Ja katso, mina paadutan Egyptilaisten sydamet, ja he seuraavat teidan jalissanne; niin mina voitan kunnian Pharaosta ja kaikesta hanen sotajoukostansa, hanen vaunuistansa ja ratsasmiehistansa.	
+<div class="theverse"><div class="versenum">17.</div> Ja katso, mina paadutan Egyptilaisten sydamet, ja he seuraavat teidan jalissanne; niin mina voitan kunnian Pharaosta ja kaikesta hanen sotajoukostansa, hanen vaunuistansa ja ratsasmiehistansa.	</div>
 
-<div class="versenum">18.</div> Ja Egyptilaisten pitaa tietaman, etta mina olen Herra, koska mina olen kunnian voittanut Pharaosta, ja hanen vaunuistansa ja ratsasmiehistansa.	
+<div class="theverse"><div class="versenum">18.</div> Ja Egyptilaisten pitaa tietaman, etta mina olen Herra, koska mina olen kunnian voittanut Pharaosta, ja hanen vaunuistansa ja ratsasmiehistansa.	</div>
 
-<div class="versenum">19.</div> Niin Jumalan enkeli nousi, joka Israelin joukon edella kavi, ja meni heidan takansa: ja pilven patsas siirsi itsensa heidan kasvoinsa edesta, ja seisoi heidan takanansa,	
+<div class="theverse"><div class="versenum">19.</div> Niin Jumalan enkeli nousi, joka Israelin joukon edella kavi, ja meni heidan takansa: ja pilven patsas siirsi itsensa heidan kasvoinsa edesta, ja seisoi heidan takanansa,	</div>
 
-<div class="versenum">20.</div> Ja tuli Egyptilaisten ja Israelin joukkoin vaiheelle, ja oli pimia pilvi, ja valaisi (naille) yon: niin ettei he koko yona toinen toistansa taitaneet lahestya.	
+<div class="theverse"><div class="versenum">20.</div> Ja tuli Egyptilaisten ja Israelin joukkoin vaiheelle, ja oli pimia pilvi, ja valaisi (naille) yon: niin ettei he koko yona toinen toistansa taitaneet lahestya.	</div>
 
-<div class="versenum">21.</div> Koska Moses ojensi katensa meren ylitse, antoi Herra vedet juosta pois vahvalla itatuulella koko sen yon; ja teki meren kuiville, ja vedet erkanivat.	
+<div class="theverse"><div class="versenum">21.</div> Koska Moses ojensi katensa meren ylitse, antoi Herra vedet juosta pois vahvalla itatuulella koko sen yon; ja teki meren kuiville, ja vedet erkanivat.	</div>
 
-<div class="versenum">22.</div> Ja Israelin lapset kavivat keskelta merta kuivaa myoten, ja vedet olivat heille niinkuin muuri heidan oikialla ja vasemmalla puolellansa.	
+<div class="theverse"><div class="versenum">22.</div> Ja Israelin lapset kavivat keskelta merta kuivaa myoten, ja vedet olivat heille niinkuin muuri heidan oikialla ja vasemmalla puolellansa.	</div>
 
-<div class="versenum">23.</div> Ja Egyptilaiset ajoivat heita takaa ja seurasivat heidan perassansa, ja kaikki Pharaon hevoset, hanen vaununsa ja ratsasmiehensa keskelle merta.	
+<div class="theverse"><div class="versenum">23.</div> Ja Egyptilaiset ajoivat heita takaa ja seurasivat heidan perassansa, ja kaikki Pharaon hevoset, hanen vaununsa ja ratsasmiehensa keskelle merta.	</div>
 
-<div class="versenum">24.</div> Koska aamuvartio tuli, katsahti Herra Egyptilaisten joukon paalle tulen patsaasta ja pilvesta hukuttaaksensa Egyptilaisten joukon,	
+<div class="theverse"><div class="versenum">24.</div> Koska aamuvartio tuli, katsahti Herra Egyptilaisten joukon paalle tulen patsaasta ja pilvesta hukuttaaksensa Egyptilaisten joukon,	</div>
 
-<div class="versenum">25.</div> Ja han syoksi pyorat erinansa heidan vaunuistansa, niin etta he tyolaasti vetivat niita. Niin sanoivat Egyptilaiset: paetkaamme Israelia, silla Herra sotii heidan puolestansa Egyptilaisia vastaan.	
+<div class="theverse"><div class="versenum">25.</div> Ja han syoksi pyorat erinansa heidan vaunuistansa, niin etta he tyolaasti vetivat niita. Niin sanoivat Egyptilaiset: paetkaamme Israelia, silla Herra sotii heidan puolestansa Egyptilaisia vastaan.	</div>
 
-<div class="versenum">26.</div> Mutta Herra sanoi Mosekselle: ojenna kates meren ylitse, etta vedet juoksisivat Egyptilaisten ylitse, heidan vaunuinsa ja ratsasmiestensa ylitse.	
+<div class="theverse"><div class="versenum">26.</div> Mutta Herra sanoi Mosekselle: ojenna kates meren ylitse, etta vedet juoksisivat Egyptilaisten ylitse, heidan vaunuinsa ja ratsasmiestensa ylitse.	</div>
 
-<div class="versenum">27.</div> Niin ojensi Moses katensa meren ylitse, ja meri palasi ennen huomenta voimaansa. Ja koska Egyptilaiset pakenivat, kohtasi heita vesi, ja Herra syoksi heidat keskelle merta.	
+<div class="theverse"><div class="versenum">27.</div> Niin ojensi Moses katensa meren ylitse, ja meri palasi ennen huomenta voimaansa. Ja koska Egyptilaiset pakenivat, kohtasi heita vesi, ja Herra syoksi heidat keskelle merta.	</div>
 
-<div class="versenum">28.</div> Ja vedet palasivat ja kavivat vaunuin, ja ratsasmiesten, ja koko Pharaon sotajoukon ylitse, jotka heita olivat seuranneet mereen: niin ettei yksikaan heista paassyt.	
+<div class="theverse"><div class="versenum">28.</div> Ja vedet palasivat ja kavivat vaunuin, ja ratsasmiesten, ja koko Pharaon sotajoukon ylitse, jotka heita olivat seuranneet mereen: niin ettei yksikaan heista paassyt.	</div>
 
-<div class="versenum">29.</div> Mutta Israelin lapset kavivat kuivaa myoten keskelta merta, ja vedet olivat heille niinkuin muuri heidan oikialla ja vasemmalla puolellansa.	
+<div class="theverse"><div class="versenum">29.</div> Mutta Israelin lapset kavivat kuivaa myoten keskelta merta, ja vedet olivat heille niinkuin muuri heidan oikialla ja vasemmalla puolellansa.	</div>
 
-<div class="versenum">30.</div> Ja niin Herra vapahti Israelin sina paivana Egyptilaisten kadesta: ja Israel naki Egyptilaiset kuolleina meren reunalla.	
+<div class="theverse"><div class="versenum">30.</div> Ja niin Herra vapahti Israelin sina paivana Egyptilaisten kadesta: ja Israel naki Egyptilaiset kuolleina meren reunalla.	</div>
 
-<div class="versenum">31.</div> Ja Israel naki myos sen suuren voiman, jonka Herra oli osottanut Egyptilaisten paalle. Ja kansa pelkasi Herraa, ja he uskoivat Herran ja hanen palveliansa Moseksen.	
+<div class="theverse"><div class="versenum">31.</div> Ja Israel naki myos sen suuren voiman, jonka Herra oli osottanut Egyptilaisten paalle. Ja kansa pelkasi Herraa, ja he uskoivat Herran ja hanen palveliansa Moseksen.	</div>
 </body>
 </html>

@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Jobin 8	</div>
 	
-<div class="versenum">1.</div> Niin vastasi Bildad Suasta ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Niin vastasi Bildad Suasta ja sanoi:	</div>
 
-<div class="versenum">2.</div> Kuinka kauvan sina tahdot naita puhua? ja sinun suus puheet ovat niinkuin vakeva tuuli?	
+<div class="theverse"><div class="versenum">2.</div> Kuinka kauvan sina tahdot naita puhua? ja sinun suus puheet ovat niinkuin vakeva tuuli?	</div>
 
-<div class="versenum">3.</div> Vaarinko Jumala tuomitsee, eli rikkooko Kaikkivaltias oikeuden?	
+<div class="theverse"><div class="versenum">3.</div> Vaarinko Jumala tuomitsee, eli rikkooko Kaikkivaltias oikeuden?	</div>
 
-<div class="versenum">4.</div> Jos poikas ovat syntia tehneet hanen edessansa, niin han on hyljannyt heita heidan pahain tekoinsa tahden.	
+<div class="theverse"><div class="versenum">4.</div> Jos poikas ovat syntia tehneet hanen edessansa, niin han on hyljannyt heita heidan pahain tekoinsa tahden.	</div>
 
-<div class="versenum">5.</div> Mutta jos sina aikanansa etsit Jumalaa, ja rukoilet Kaikkivaltiasta hartaasti,	
+<div class="theverse"><div class="versenum">5.</div> Mutta jos sina aikanansa etsit Jumalaa, ja rukoilet Kaikkivaltiasta hartaasti,	</div>
 
-<div class="versenum">6.</div> Ja jos sina olet puhdas ja hyva, niin han herattaa sinun, ja taas tekee rauhalliseksi hurskautes majan.	
+<div class="theverse"><div class="versenum">6.</div> Ja jos sina olet puhdas ja hyva, niin han herattaa sinun, ja taas tekee rauhalliseksi hurskautes majan.	</div>
 
-<div class="versenum">7.</div> Ja kussa sinulla oli ennen vaha, pitaa tastedes sinulle sangen paljon lisaantyman.	
+<div class="theverse"><div class="versenum">7.</div> Ja kussa sinulla oli ennen vaha, pitaa tastedes sinulle sangen paljon lisaantyman.	</div>
 
-<div class="versenum">8.</div> Silla kysy nyt entisilta sukukunnilta, ja rupee kysymaan heidan isiltansa.	
+<div class="theverse"><div class="versenum">8.</div> Silla kysy nyt entisilta sukukunnilta, ja rupee kysymaan heidan isiltansa.	</div>
 
-<div class="versenum">9.</div> Silla me olemme niinkuin eilen tulleet, ja emme mitaan tieda: meidan elamamme on niinkuin varjo maan paalla.	
+<div class="theverse"><div class="versenum">9.</div> Silla me olemme niinkuin eilen tulleet, ja emme mitaan tieda: meidan elamamme on niinkuin varjo maan paalla.	</div>
 
-<div class="versenum">10.</div> Heidan pitaa opettaman sinua, ja sanoman sinulle, ja tuoman puheensa edes sydamestansa.	
+<div class="theverse"><div class="versenum">10.</div> Heidan pitaa opettaman sinua, ja sanoman sinulle, ja tuoman puheensa edes sydamestansa.	</div>
 
-<div class="versenum">11.</div> Kasvaako kaisla, ellei seiso loassa? eli kasvaako ruoho ilman vetta?	
+<div class="theverse"><div class="versenum">11.</div> Kasvaako kaisla, ellei seiso loassa? eli kasvaako ruoho ilman vetta?	</div>
 
-<div class="versenum">12.</div> Koska se viela kukoistaa ennenkuin se niitetaan, kuivettuu se ennenkuin heina korjataan.	
+<div class="theverse"><div class="versenum">12.</div> Koska se viela kukoistaa ennenkuin se niitetaan, kuivettuu se ennenkuin heina korjataan.	</div>
 
-<div class="versenum">13.</div> Niin kay kaikkein niiden, jotka Jumalan unhottavat, ja ulkokullattuin toivo katoo.	
+<div class="theverse"><div class="versenum">13.</div> Niin kay kaikkein niiden, jotka Jumalan unhottavat, ja ulkokullattuin toivo katoo.	</div>
 
-<div class="versenum">14.</div> Silla hanen toivonsa tulee tyhjaksi, ja hanen uskalluksensa niinkuin hamahakin verkko.	
+<div class="theverse"><div class="versenum">14.</div> Silla hanen toivonsa tulee tyhjaksi, ja hanen uskalluksensa niinkuin hamahakin verkko.	</div>
 
-<div class="versenum">15.</div> Han luottaa huoneensa paalle, ja ei se pida seisoman; han turvaa siihen, ja ei se pida pysyvainen oleman.	
+<div class="theverse"><div class="versenum">15.</div> Han luottaa huoneensa paalle, ja ei se pida seisoman; han turvaa siihen, ja ei se pida pysyvainen oleman.	</div>
 
-<div class="versenum">16.</div> Se viherioitsee kylla ennen auringon nousemaa, ja sen heikot oksat kasvavat hanen yrttitarhassansa.	
+<div class="theverse"><div class="versenum">16.</div> Se viherioitsee kylla ennen auringon nousemaa, ja sen heikot oksat kasvavat hanen yrttitarhassansa.	</div>
 
-<div class="versenum">17.</div> Hanen juurensa seisoo paksuna lahteen tykona, ja huoneet kivien paalla.	
+<div class="theverse"><div class="versenum">17.</div> Hanen juurensa seisoo paksuna lahteen tykona, ja huoneet kivien paalla.	</div>
 
-<div class="versenum">18.</div> Mutta koska han nielee sen paikastansa, kieltaa han sen, niinkuin ei olis nahnytkaan sita.	
+<div class="theverse"><div class="versenum">18.</div> Mutta koska han nielee sen paikastansa, kieltaa han sen, niinkuin ei olis nahnytkaan sita.	</div>
 
-<div class="versenum">19.</div> Katso, tama on hanen menonsa riemu; ja toiset taas kasvavat tuhasta.	
+<div class="theverse"><div class="versenum">19.</div> Katso, tama on hanen menonsa riemu; ja toiset taas kasvavat tuhasta.	</div>
 
-<div class="versenum">20.</div> Sentahden katso, ei Jumala hyvia hylkaa, eika vahvista pahain katta,	
+<div class="theverse"><div class="versenum">20.</div> Sentahden katso, ei Jumala hyvia hylkaa, eika vahvista pahain katta,	</div>
 
-<div class="versenum">21.</div> Siihen asti etta sinun suus naurulla taytetaan ja huules riemulla.	
+<div class="theverse"><div class="versenum">21.</div> Siihen asti etta sinun suus naurulla taytetaan ja huules riemulla.	</div>
 
-<div class="versenum">22.</div> Mutta ne jotka sinua vihaavat, pitaa hapiaan tuleman; ja jumalattomain asuinsia ei pida pysyvainen oleman.	
+<div class="theverse"><div class="versenum">22.</div> Mutta ne jotka sinua vihaavat, pitaa hapiaan tuleman; ja jumalattomain asuinsia ei pida pysyvainen oleman.	</div>
 </body>
 </html>

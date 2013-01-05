@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Titukselle 2	</div>
 	
-<div class="versenum">1.</div> Mutta puhu sina niita, mitka ovat terveelliseen oppiin soveliaat:	
+<div class="theverse"><div class="versenum">1.</div> Mutta puhu sina niita, mitka ovat terveelliseen oppiin soveliaat:	</div>
 
-<div class="versenum">2.</div> Etta vanhat olisivat raittiit, kunnialliset, siivolliset, lujat uskossa, rakkaudessa ja karsivallisyydessa;	
+<div class="theverse"><div class="versenum">2.</div> Etta vanhat olisivat raittiit, kunnialliset, siivolliset, lujat uskossa, rakkaudessa ja karsivallisyydessa;	</div>
 
-<div class="versenum">3.</div> Vanhat vaimot myos kayttaisivat itsensa niin kuin pyhain sopii, ei panetteliat, eika juomarit, mutta hyvin opettavaiset:	
+<div class="theverse"><div class="versenum">3.</div> Vanhat vaimot myos kayttaisivat itsensa niin kuin pyhain sopii, ei panetteliat, eika juomarit, mutta hyvin opettavaiset:	</div>
 
-<div class="versenum">4.</div> Etta nuoret vaimot heilta hyvia tapoja oppisivat, miehiansa rakastaisivat, lapsensa rakkaina pitaisivat,	
+<div class="theverse"><div class="versenum">4.</div> Etta nuoret vaimot heilta hyvia tapoja oppisivat, miehiansa rakastaisivat, lapsensa rakkaina pitaisivat,	</div>
 
-<div class="versenum">5.</div> Olisivat siviat, puhtaat, kotonansa pysyvaiset, hyvat, miehillensa alamaiset, ettei Jumalan sana pilkatuksi tulisi.	
+<div class="theverse"><div class="versenum">5.</div> Olisivat siviat, puhtaat, kotonansa pysyvaiset, hyvat, miehillensa alamaiset, ettei Jumalan sana pilkatuksi tulisi.	</div>
 
-<div class="versenum">6.</div> Neuvo myos nuoria miehia siviasti olemaan.	
+<div class="theverse"><div class="versenum">6.</div> Neuvo myos nuoria miehia siviasti olemaan.	</div>
 
-<div class="versenum">7.</div> Aseta itses kaikissa hyvain toiden esikuvaksi, vilpittomalla opetuksella ja kunniallisuudella,	
+<div class="theverse"><div class="versenum">7.</div> Aseta itses kaikissa hyvain toiden esikuvaksi, vilpittomalla opetuksella ja kunniallisuudella,	</div>
 
-<div class="versenum">8.</div> Terveellisella ja nuhteettomalla sanalla, etta se, joka itsensa vastaan panee, hapeais eika mitaan loytaisi meista pahoin puhuaksensa.	
+<div class="theverse"><div class="versenum">8.</div> Terveellisella ja nuhteettomalla sanalla, etta se, joka itsensa vastaan panee, hapeais eika mitaan loytaisi meista pahoin puhuaksensa.	</div>
 
-<div class="versenum">9.</div> Neuvo palvelioita isannillensa alamaiset olemaan, ja kaikissa kelvolliseksi, ei vastaan sanojat,	
+<div class="theverse"><div class="versenum">9.</div> Neuvo palvelioita isannillensa alamaiset olemaan, ja kaikissa kelvolliseksi, ei vastaan sanojat,	</div>
 
-<div class="versenum">10.</div> Ei pettavaiset, vaan kaiken hyvan uskollisuuden nayttavaiset, etta he Jumalan meidan Vapahtajamme opin kaikissa kaunistavat.	
+<div class="theverse"><div class="versenum">10.</div> Ei pettavaiset, vaan kaiken hyvan uskollisuuden nayttavaiset, etta he Jumalan meidan Vapahtajamme opin kaikissa kaunistavat.	</div>
 
-<div class="versenum">11.</div> Silla Jumalan armo, kaikille ihmisille terveellinen, on ilmestynyt.	
+<div class="theverse"><div class="versenum">11.</div> Silla Jumalan armo, kaikille ihmisille terveellinen, on ilmestynyt.	</div>
 
-<div class="versenum">12.</div> Joka meidat opettaa kaiken jumalattoman menon hylkaamaan ja maailmalliset himot, ja tassa maailmassa siviasti ja hurskaasti ja jumalisesti elamaan,	
+<div class="theverse"><div class="versenum">12.</div> Joka meidat opettaa kaiken jumalattoman menon hylkaamaan ja maailmalliset himot, ja tassa maailmassa siviasti ja hurskaasti ja jumalisesti elamaan,	</div>
 
-<div class="versenum">13.</div> Ja odottamaan autuaallista toivoa, ja suuren Jumalan ja meidan Lunastajamme Jesuksen Kristuksen ilmestysta,	
+<div class="theverse"><div class="versenum">13.</div> Ja odottamaan autuaallista toivoa, ja suuren Jumalan ja meidan Lunastajamme Jesuksen Kristuksen ilmestysta,	</div>
 
-<div class="versenum">14.</div> Joka itsensa antoi meidan edestamme, etta han meita kaikesta vaaryydesta lunastais ja itsellensa erinomaiseksi kansaksi puhdistais, ahkeraksi hyviin toihin.	
+<div class="theverse"><div class="versenum">14.</div> Joka itsensa antoi meidan edestamme, etta han meita kaikesta vaaryydesta lunastais ja itsellensa erinomaiseksi kansaksi puhdistais, ahkeraksi hyviin toihin.	</div>
 
-<div class="versenum">15.</div> Naita sina puhu ja neuvo, ja kaikella todella nuhtele: ei myos kenenkaan pida sinun katsoman ylon.	
+<div class="theverse"><div class="versenum">15.</div> Naita sina puhu ja neuvo, ja kaikella todella nuhtele: ei myos kenenkaan pida sinun katsoman ylon.	</div>
 </body>
 </html>

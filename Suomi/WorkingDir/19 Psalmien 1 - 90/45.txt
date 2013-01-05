@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Psalmien 45	</div>
 	
-<div class="versenum">1.</div> Morsiamen opetusvirsi kukkasesta Koran lapsilta edellaveisaajalle. (H45:2) Minun sydameni ajattelee kauniin laulun: mina veisaan kuninkaasta, minun kieleni on jalon kirjoittajan kyna.	
+<div class="theverse"><div class="versenum">1.</div> Morsiamen opetusvirsi kukkasesta Koran lapsilta edellaveisaajalle. (H45:2) Minun sydameni ajattelee kauniin laulun: mina veisaan kuninkaasta, minun kieleni on jalon kirjoittajan kyna.	</div>
 
-<div class="versenum">2.</div> Sina olet kaikkein kaunein ihmisten lasten seassa: armo on vuodatettu sinun huulissas; sentahden siunaa Jumala sinua ijankaikkisesti.	
+<div class="theverse"><div class="versenum">2.</div> Sina olet kaikkein kaunein ihmisten lasten seassa: armo on vuodatettu sinun huulissas; sentahden siunaa Jumala sinua ijankaikkisesti.	</div>
 
-<div class="versenum">3.</div> Pane miekkas vyolles, sina sankari, ja kaunista itses kunniallisesti.	
+<div class="theverse"><div class="versenum">3.</div> Pane miekkas vyolles, sina sankari, ja kaunista itses kunniallisesti.	</div>
 
-<div class="versenum">4.</div> Menesty sinun kauneudessas, kiiruhda sinus sanan totuuden, siveyden ja vanhurskauden tahden, niin sinun oikia kates ihmeellisia osoittaa.	
+<div class="theverse"><div class="versenum">4.</div> Menesty sinun kauneudessas, kiiruhda sinus sanan totuuden, siveyden ja vanhurskauden tahden, niin sinun oikia kates ihmeellisia osoittaa.	</div>
 
-<div class="versenum">5.</div> Teravat ovat sinun nuoles, etta kansat lankeevat etees maahan, jotka sydamestansa kuninkaan viholliset ovat.	
+<div class="theverse"><div class="versenum">5.</div> Teravat ovat sinun nuoles, etta kansat lankeevat etees maahan, jotka sydamestansa kuninkaan viholliset ovat.	</div>
 
-<div class="versenum">6.</div> Jumala, sinun istuimes pysyy aina ja ijankaikkisesti; sinun valtakuntas valtikka on oikeuden valtikka.	
+<div class="theverse"><div class="versenum">6.</div> Jumala, sinun istuimes pysyy aina ja ijankaikkisesti; sinun valtakuntas valtikka on oikeuden valtikka.	</div>
 
-<div class="versenum">7.</div> Sina rakastit vanhurskautta, ja vihasit jumalatointa menoa: sentahden, oi Jumala, on sinun Jumalas voidellut sinua ilo-oljylla enempi kuin sinun osaveljes.	
+<div class="theverse"><div class="versenum">7.</div> Sina rakastit vanhurskautta, ja vihasit jumalatointa menoa: sentahden, oi Jumala, on sinun Jumalas voidellut sinua ilo-oljylla enempi kuin sinun osaveljes.	</div>
 
-<div class="versenum">8.</div> Kaikki sinun vaattees ovat sula Mirrham, Aloe ja Ketsia. Kuin sina elephantin luisesta tuvastas lahdet, niin he ilahuttavat sinun.	
+<div class="theverse"><div class="versenum">8.</div> Kaikki sinun vaattees ovat sula Mirrham, Aloe ja Ketsia. Kuin sina elephantin luisesta tuvastas lahdet, niin he ilahuttavat sinun.	</div>
 
-<div class="versenum">9.</div> Sinun kaunistuksessas kayvat kuningasten tyttaret: morsian seisoo oikialla kadellas sulassa kalliimmassa kullassa.	
+<div class="theverse"><div class="versenum">9.</div> Sinun kaunistuksessas kayvat kuningasten tyttaret: morsian seisoo oikialla kadellas sulassa kalliimmassa kullassa.	</div>
 
-<div class="versenum">10.</div> Kuule,tytar, katso, ja kallista korvas: unohda kansas ja isas huone,	
+<div class="theverse"><div class="versenum">10.</div> Kuule,tytar, katso, ja kallista korvas: unohda kansas ja isas huone,	</div>
 
-<div class="versenum">11.</div> Niin kuningas saa halun kauneutees; silla han on sinun herras, ja sinun pitaa hanta kumartaman.	
+<div class="theverse"><div class="versenum">11.</div> Niin kuningas saa halun kauneutees; silla han on sinun herras, ja sinun pitaa hanta kumartaman.	</div>
 
-<div class="versenum">12.</div> Tyron tytar lahjoinensa, rikkaat kansan seassa sinua imartelevat.	
+<div class="theverse"><div class="versenum">12.</div> Tyron tytar lahjoinensa, rikkaat kansan seassa sinua imartelevat.	</div>
 
-<div class="versenum">13.</div> Kuninkaan tytar on kokonansa kunniallinen sisalta: han on kultaisessa vaatteessa puetettu.	
+<div class="theverse"><div class="versenum">13.</div> Kuninkaan tytar on kokonansa kunniallinen sisalta: han on kultaisessa vaatteessa puetettu.	</div>
 
-<div class="versenum">14.</div> Han viedaan monella tavalla kudotuissa vaatteissa kuninkaan tyko: neitseet, hanen ystavansa, jotka hanta seuraavat, tuodaan sinun tykos.	
+<div class="theverse"><div class="versenum">14.</div> Han viedaan monella tavalla kudotuissa vaatteissa kuninkaan tyko: neitseet, hanen ystavansa, jotka hanta seuraavat, tuodaan sinun tykos.	</div>
 
-<div class="versenum">15.</div> Ne viedaan ilolla ja riemulla, ja he menevat kuninkaan tupaan.	
+<div class="theverse"><div class="versenum">15.</div> Ne viedaan ilolla ja riemulla, ja he menevat kuninkaan tupaan.	</div>
 
-<div class="versenum">16.</div> Sinun isais siaan pitaa sinun lapsia saaman, jotka asetat paamiehiksi kaikkeen maailmaan.	
+<div class="theverse"><div class="versenum">16.</div> Sinun isais siaan pitaa sinun lapsia saaman, jotka asetat paamiehiksi kaikkeen maailmaan.	</div>
 
-<div class="versenum">17.</div> Mina tahdon muistaa sinun nimeas sukukunnasta niin sukukuntaan: sentahden pitaa kansat sinua kiittaman aina ja ijankaikkisesti.	
+<div class="theverse"><div class="versenum">17.</div> Mina tahdon muistaa sinun nimeas sukukunnasta niin sukukuntaan: sentahden pitaa kansat sinua kiittaman aina ja ijankaikkisesti.	</div>
 </body>
 </html>

@@ -4,12 +4,12 @@
 </head>
 <body><div class="chaptertitle">Psalmien 123	</div>
 	
-<div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Mina nostan silmani sinun tykos, joka asut taivaissa.	
+<div class="theverse"><div class="versenum">1.</div> Veisu korkeimmassa Kuorissa. Mina nostan silmani sinun tykos, joka asut taivaissa.	</div>
 
-<div class="versenum">2.</div> Katso, niinkuin palveliain silmat katsovat isantansa kasiin, niinkuin piikain silmat katsovat emantainsa kasiin, niin meidankin silmamme katsovat Herraa meidan Jumalaamme, siihenasti etta han meita armahtaa.	
+<div class="theverse"><div class="versenum">2.</div> Katso, niinkuin palveliain silmat katsovat isantansa kasiin, niinkuin piikain silmat katsovat emantainsa kasiin, niin meidankin silmamme katsovat Herraa meidan Jumalaamme, siihenasti etta han meita armahtaa.	</div>
 
-<div class="versenum">3.</div> Ole meille armollinen, Herra, ole meille armollinen! silla me olemme sangen taytetyt ylonkatseesta;	
+<div class="theverse"><div class="versenum">3.</div> Ole meille armollinen, Herra, ole meille armollinen! silla me olemme sangen taytetyt ylonkatseesta;	</div>
 
-<div class="versenum">4.</div> Sangen taynna on meidan sielumme rikasten pilkkaa ja ylpeiden ylonkatsetta.	
+<div class="theverse"><div class="versenum">4.</div> Sangen taynna on meidan sielumme rikasten pilkkaa ja ylpeiden ylonkatsetta.	</div>
 </body>
 </html>

@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Jesajan 23	</div>
 	
-<div class="versenum">1.</div> Tama on Tyron kuorma: valittakaat, te haahdet merella; silla se on kukistettu, niin ettei siella ole yhtaan huonetta, eika sinne mene kenkaan; Kittimin maasta pitaa heidan sen akkaaman.	
+<div class="theverse"><div class="versenum">1.</div> Tama on Tyron kuorma: valittakaat, te haahdet merella; silla se on kukistettu, niin ettei siella ole yhtaan huonetta, eika sinne mene kenkaan; Kittimin maasta pitaa heidan sen akkaaman.	</div>
 
-<div class="versenum">2.</div> Olkaat aaneti, te luotoin asuvaiset: Zidonin kauppamiehet, jotka merella vaelsivat, tayttivat sinun.	
+<div class="theverse"><div class="versenum">2.</div> Olkaat aaneti, te luotoin asuvaiset: Zidonin kauppamiehet, jotka merella vaelsivat, tayttivat sinun.	</div>
 
-<div class="versenum">3.</div> Ja kaikkinainen hedelma, joka Sihorin tykona kasvaa, ja jyvat virran tykona vietiin sinne veden ylitse; ja on pakanain kaupaksi tullut.	
+<div class="theverse"><div class="versenum">3.</div> Ja kaikkinainen hedelma, joka Sihorin tykona kasvaa, ja jyvat virran tykona vietiin sinne veden ylitse; ja on pakanain kaupaksi tullut.	</div>
 
-<div class="versenum">4.</div> Sina mahdat kylla hammastya, Zidon; silla meri lausuu ja vahvin meren tykona sanoo: en mina ole silleen raskas, en mina synnyta, enka myos kasvata yhtaan nuorukaista, enka ruoki neitsytta.	
+<div class="theverse"><div class="versenum">4.</div> Sina mahdat kylla hammastya, Zidon; silla meri lausuu ja vahvin meren tykona sanoo: en mina ole silleen raskas, en mina synnyta, enka myos kasvata yhtaan nuorukaista, enka ruoki neitsytta.	</div>
 
-<div class="versenum">5.</div> Niinkuin kuultaissa Egyptista hammastyttiin, niin pitaa myos hammastyttaman, koska Tyrosta kuullaan.	
+<div class="theverse"><div class="versenum">5.</div> Niinkuin kuultaissa Egyptista hammastyttiin, niin pitaa myos hammastyttaman, koska Tyrosta kuullaan.	</div>
 
-<div class="versenum">6.</div> Menkaat merille, valittakaat, jotka luodoissa asutte.	
+<div class="theverse"><div class="versenum">6.</div> Menkaat merille, valittakaat, jotka luodoissa asutte.	</div>
 
-<div class="versenum">7.</div> Eiko tama ole teidan ilokaupunkinne, joka kerskaa itsiansa vanhuudestansa? Hanen jalkansa pitaa vieman hanen pitkan matkan taa vaeltamaan.	
+<div class="theverse"><div class="versenum">7.</div> Eiko tama ole teidan ilokaupunkinne, joka kerskaa itsiansa vanhuudestansa? Hanen jalkansa pitaa vieman hanen pitkan matkan taa vaeltamaan.	</div>
 
-<div class="versenum">8.</div> Kuka olis sita ajatellut, etta kruunatulle Tyrolle piti niin kayman? etta sen kauppamiehet ovat paaruhtinaat, ja sen kauppiaat ylimmaiset maassa?	
+<div class="theverse"><div class="versenum">8.</div> Kuka olis sita ajatellut, etta kruunatulle Tyrolle piti niin kayman? etta sen kauppamiehet ovat paaruhtinaat, ja sen kauppiaat ylimmaiset maassa?	</div>
 
-<div class="versenum">9.</div> Herra Zebaot on sen niin ajatellut, etta han kaiki hanen kaunistuksensa prameuden heikoksi tekis; ja tekis ylonkatsotuksi kaikki kuuluisat maassa.	
+<div class="theverse"><div class="versenum">9.</div> Herra Zebaot on sen niin ajatellut, etta han kaiki hanen kaunistuksensa prameuden heikoksi tekis; ja tekis ylonkatsotuksi kaikki kuuluisat maassa.	</div>
 
-<div class="versenum">10.</div> Vaella maas lavitse niinkuin virta, sina Tarsiksen tytar; ei siella ole enaan yhtaan vyota.	
+<div class="theverse"><div class="versenum">10.</div> Vaella maas lavitse niinkuin virta, sina Tarsiksen tytar; ei siella ole enaan yhtaan vyota.	</div>
 
-<div class="versenum">11.</div> Han kokottaa katensa meren paalle, ja peljattaa valtakunnat; Herra kaski Kananin havittamaan sen linnat,	
+<div class="theverse"><div class="versenum">11.</div> Han kokottaa katensa meren paalle, ja peljattaa valtakunnat; Herra kaski Kananin havittamaan sen linnat,	</div>
 
-<div class="versenum">12.</div> Ja sanoi: ei sinun pida enaan iloitseman, sina havaisty neitsy Zidonin tytar: nouse ja mene matkaas Kittimiin, ei sinulla pida siellakaan lepoa oleman.	
+<div class="theverse"><div class="versenum">12.</div> Ja sanoi: ei sinun pida enaan iloitseman, sina havaisty neitsy Zidonin tytar: nouse ja mene matkaas Kittimiin, ei sinulla pida siellakaan lepoa oleman.	</div>
 
-<div class="versenum">13.</div> Katso, Kaldealaisten maassa ei yhtaan kansaa ollut, vaan Assur on sen perustanut korven asuvaisille, ja rakentanut hanen linnansa, pannut ylos hanen huoneennsa, ja on kuitenkin pantu kukistettavaksi.	
+<div class="theverse"><div class="versenum">13.</div> Katso, Kaldealaisten maassa ei yhtaan kansaa ollut, vaan Assur on sen perustanut korven asuvaisille, ja rakentanut hanen linnansa, pannut ylos hanen huoneennsa, ja on kuitenkin pantu kukistettavaksi.	</div>
 
-<div class="versenum">14.</div> Surekaat, te haahdet merilla ; silla teidan voimanne on tyhja.	
+<div class="theverse"><div class="versenum">14.</div> Surekaat, te haahdet merilla ; silla teidan voimanne on tyhja.	</div>
 
-<div class="versenum">15.</div> Silloin pitaa Tyro unhotettaman seitsemankymmenta vuotta, niinkauvan kuin yksi kuningas elaa; mutta seitsemankymmenen vuoden perasta kaypi Tyron niinkuin portosta veisataan:	
+<div class="theverse"><div class="versenum">15.</div> Silloin pitaa Tyro unhotettaman seitsemankymmenta vuotta, niinkauvan kuin yksi kuningas elaa; mutta seitsemankymmenen vuoden perasta kaypi Tyron niinkuin portosta veisataan:	</div>
 
-<div class="versenum">16.</div> Ota kantele, mene ympari kaupunkia, sina unhotettu portto: soita vahvasti kantelettas, ja laula lohdullisesti, etta sinua taas muistettaisiin.	
+<div class="theverse"><div class="versenum">16.</div> Ota kantele, mene ympari kaupunkia, sina unhotettu portto: soita vahvasti kantelettas, ja laula lohdullisesti, etta sinua taas muistettaisiin.	</div>
 
-<div class="versenum">17.</div> Silla seitsemankymmenen vuoden perasta on Herra etsiva Tyroa, etta han tulis jalleen porttopalkoillensa, ja huorin tekis kaikkein valtakuntain kanssa maan paalla.	
+<div class="theverse"><div class="versenum">17.</div> Silla seitsemankymmenen vuoden perasta on Herra etsiva Tyroa, etta han tulis jalleen porttopalkoillensa, ja huorin tekis kaikkein valtakuntain kanssa maan paalla.	</div>
 
-<div class="versenum">18.</div> Mutta hanen kauppansa ja porttopalkkansa pitaa oleman pyha Herralle . Ei sita koota tavaraksi, eika salata, vaan jotka asuvat Herran edessa, niilla pitaa hanen kauppakalunsa oleman, siita syoda, ravita ja itsiansa vaatettaa.	
+<div class="theverse"><div class="versenum">18.</div> Mutta hanen kauppansa ja porttopalkkansa pitaa oleman pyha Herralle . Ei sita koota tavaraksi, eika salata, vaan jotka asuvat Herran edessa, niilla pitaa hanen kauppakalunsa oleman, siita syoda, ravita ja itsiansa vaatettaa.	</div>
 </body>
 </html>

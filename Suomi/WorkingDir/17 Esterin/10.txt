@@ -4,10 +4,10 @@
 </head>
 <body><div class="chaptertitle">Esterin 10	</div>
 	
-<div class="versenum">1.</div> Ja kuningas Ahasverus laski veron maan paalle ja luotoin paalle merella.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuningas Ahasverus laski veron maan paalle ja luotoin paalle merella.	</div>
 
-<div class="versenum">2.</div> Mutta kaikki hanen tyonsa, voimansa ja vakevyytensa, ja Mordekain suuri kunnia, kuin kuningas hanen suureksi teki: eiko ne ole kirjoitetut Median ja Persian kuningasten aikakirjassa?	
+<div class="theverse"><div class="versenum">2.</div> Mutta kaikki hanen tyonsa, voimansa ja vakevyytensa, ja Mordekain suuri kunnia, kuin kuningas hanen suureksi teki: eiko ne ole kirjoitetut Median ja Persian kuningasten aikakirjassa?	</div>
 
-<div class="versenum">3.</div> Silla Mordekai, Juudalainen, oli toinen kuningas Ahasveruksesta, ja vakeva Juudalaisten seassa, ja otollinen veljeinsa paljouden keskella, joka etsi kansansa parasta ja puhui parhain pain kaiken siemenensa puolesta.	
+<div class="theverse"><div class="versenum">3.</div> Silla Mordekai, Juudalainen, oli toinen kuningas Ahasveruksesta, ja vakeva Juudalaisten seassa, ja otollinen veljeinsa paljouden keskella, joka etsi kansansa parasta ja puhui parhain pain kaiken siemenensa puolesta.	</div>
 </body>
 </html>

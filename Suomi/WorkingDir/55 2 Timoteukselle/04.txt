@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">2 Timoteukselle 4	</div>
 	
-<div class="versenum">1.</div> Niin mina siis todistan Jumalan ja Herran Jesuksen Kristuksen edessa, joka on tuleva tuomitsemaan elavia ja kuolleita, hanen ilmestyksessansa ja valtakunnassansa:	
+<div class="theverse"><div class="versenum">1.</div> Niin mina siis todistan Jumalan ja Herran Jesuksen Kristuksen edessa, joka on tuleva tuomitsemaan elavia ja kuolleita, hanen ilmestyksessansa ja valtakunnassansa:	</div>
 
-<div class="versenum">2.</div> Saarnaa sanaa, pida paalle seka hyvalla etta sopimattomalla ajalla, rankaise, nuhtele, neuvo kaikella siveydella ja opetuksella;	
+<div class="theverse"><div class="versenum">2.</div> Saarnaa sanaa, pida paalle seka hyvalla etta sopimattomalla ajalla, rankaise, nuhtele, neuvo kaikella siveydella ja opetuksella;	</div>
 
-<div class="versenum">3.</div> Silla aika tulee, jona ei he voi terveellista oppia karsia, vaan omain himoinsa jalkeen kokoovat itsellensa opettajat, etta heidan korvansa syyhyvat,	
+<div class="theverse"><div class="versenum">3.</div> Silla aika tulee, jona ei he voi terveellista oppia karsia, vaan omain himoinsa jalkeen kokoovat itsellensa opettajat, etta heidan korvansa syyhyvat,	</div>
 
-<div class="versenum">4.</div> Ja kaantavat korvansa pois totuudesta, ja turhiin juttuihin poikkeevat.	
+<div class="theverse"><div class="versenum">4.</div> Ja kaantavat korvansa pois totuudesta, ja turhiin juttuihin poikkeevat.	</div>
 
-<div class="versenum">5.</div> Mutta valvo sina kaikissa, karsi ja kesta vaivoissa, tee evankeliumin saarnaajan tyo ja toimita virkas taydellisesti.	
+<div class="theverse"><div class="versenum">5.</div> Mutta valvo sina kaikissa, karsi ja kesta vaivoissa, tee evankeliumin saarnaajan tyo ja toimita virkas taydellisesti.	</div>
 
-<div class="versenum">6.</div> Silla mina jo uhrataan ja minun paasemiseni aika lahestyy.	
+<div class="theverse"><div class="versenum">6.</div> Silla mina jo uhrataan ja minun paasemiseni aika lahestyy.	</div>
 
-<div class="versenum">7.</div> Mina olen hyvan kilvoituksen kilvoitellut, juoksun paattanyt, uskon pitanyt.	
+<div class="theverse"><div class="versenum">7.</div> Mina olen hyvan kilvoituksen kilvoitellut, juoksun paattanyt, uskon pitanyt.	</div>
 
-<div class="versenum">8.</div> Tastedes on minulle tallelle pantu vanhurskauden kruunu, jonka Herra, vanhurskas tuomari, sina paivana minulle antaa, mutta ei ainoastansa minulle, vaan myos kaikille, jotka hanen ilmestystansa rakastavat.	
+<div class="theverse"><div class="versenum">8.</div> Tastedes on minulle tallelle pantu vanhurskauden kruunu, jonka Herra, vanhurskas tuomari, sina paivana minulle antaa, mutta ei ainoastansa minulle, vaan myos kaikille, jotka hanen ilmestystansa rakastavat.	</div>
 
-<div class="versenum">9.</div> Ahkeroitse, ettas pian minun tykoni tulet;	
+<div class="theverse"><div class="versenum">9.</div> Ahkeroitse, ettas pian minun tykoni tulet;	</div>
 
-<div class="versenum">10.</div> Silla Demas antoi minun ylon ja halasi tata maailmaa ja meni Tessalonikaan, Kreskens Galatiaan, Titus Dalmatiaan.	
+<div class="theverse"><div class="versenum">10.</div> Silla Demas antoi minun ylon ja halasi tata maailmaa ja meni Tessalonikaan, Kreskens Galatiaan, Titus Dalmatiaan.	</div>
 
-<div class="versenum">11.</div> Ainoastaan Luukas on minun kanssani. Ota Markus tykos ja tuo hanta kanssas; silla han on sangen tarpeellinen minulle palvelukseen.	
+<div class="theverse"><div class="versenum">11.</div> Ainoastaan Luukas on minun kanssani. Ota Markus tykos ja tuo hanta kanssas; silla han on sangen tarpeellinen minulle palvelukseen.	</div>
 
-<div class="versenum">12.</div> Tykikuksen mina lahetin Ephesoon.	
+<div class="theverse"><div class="versenum">12.</div> Tykikuksen mina lahetin Ephesoon.	</div>
 
-<div class="versenum">13.</div> Se hame, jonka mina Troadassa Karpuksen tyko jatin, tuo tullessas ja kirjat, mutta liiatenkin parmakirjat.	
+<div class="theverse"><div class="versenum">13.</div> Se hame, jonka mina Troadassa Karpuksen tyko jatin, tuo tullessas ja kirjat, mutta liiatenkin parmakirjat.	</div>
 
-<div class="versenum">14.</div> Aleksander vaskiseppa on minulle paljon pahaa tehnyt: Herra maksakoon hanelle hanen tyonsa jalkeen!	
+<div class="theverse"><div class="versenum">14.</div> Aleksander vaskiseppa on minulle paljon pahaa tehnyt: Herra maksakoon hanelle hanen tyonsa jalkeen!	</div>
 
-<div class="versenum">15.</div> Jota sina kavahda; silla han on kovin meidan saarnojamme vastaan ollut.	
+<div class="theverse"><div class="versenum">15.</div> Jota sina kavahda; silla han on kovin meidan saarnojamme vastaan ollut.	</div>
 
-<div class="versenum">16.</div> Minun ensimaisessa edesvastauksessani ei yksikaan minun kanssani ollut, vaan kaikki antoivat ylon minun; (alkoon se heille olko soimattu!)	
+<div class="theverse"><div class="versenum">16.</div> Minun ensimaisessa edesvastauksessani ei yksikaan minun kanssani ollut, vaan kaikki antoivat ylon minun; (alkoon se heille olko soimattu!)	</div>
 
-<div class="versenum">17.</div> Mutta Herra oli minun puolellani ja vahvisti minun, etta saarna minun kauttani piti vahvistettaman, ja kaikki pakanat piti sen kuuleman; ja mina pelastettiin jalopeuran suusta.	
+<div class="theverse"><div class="versenum">17.</div> Mutta Herra oli minun puolellani ja vahvisti minun, etta saarna minun kauttani piti vahvistettaman, ja kaikki pakanat piti sen kuuleman; ja mina pelastettiin jalopeuran suusta.	</div>
 
-<div class="versenum">18.</div> Ja Herra pelastaa minun kaikesta pahasta teosta, ja auttaa taivaalliseen valtakuntaansa, jolle olkoon kunnia ijankaikkisesta ijankaikkiseen, amen!	
+<div class="theverse"><div class="versenum">18.</div> Ja Herra pelastaa minun kaikesta pahasta teosta, ja auttaa taivaalliseen valtakuntaansa, jolle olkoon kunnia ijankaikkisesta ijankaikkiseen, amen!	</div>
 
-<div class="versenum">19.</div> Tervehdi Priskaa ja Akvilaa ja Onesiphorin perhetta.	
+<div class="theverse"><div class="versenum">19.</div> Tervehdi Priskaa ja Akvilaa ja Onesiphorin perhetta.	</div>
 
-<div class="versenum">20.</div> Erastus jai Korintiin, mutta Trophimon mina jatin Miletoon sairastamaan.	
+<div class="theverse"><div class="versenum">20.</div> Erastus jai Korintiin, mutta Trophimon mina jatin Miletoon sairastamaan.	</div>
 
-<div class="versenum">21.</div> Ahkeroitse ennen talvea tulla. Sinua tervehtii Eubulus, ja Pudens, ja Linus, ja Klaudia, ja kaikki veljet.	
+<div class="theverse"><div class="versenum">21.</div> Ahkeroitse ennen talvea tulla. Sinua tervehtii Eubulus, ja Pudens, ja Linus, ja Klaudia, ja kaikki veljet.	</div>
 
-<div class="versenum">22.</div> Herra Jesus Kristus olkoon sinun henkes kanssa! Armo olkoon teidan kanssanne, amen!	
+<div class="theverse"><div class="versenum">22.</div> Herra Jesus Kristus olkoon sinun henkes kanssa! Armo olkoon teidan kanssanne, amen!	</div>
 </body>
 </html>

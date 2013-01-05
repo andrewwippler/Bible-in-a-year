@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Psalmien 86	</div>
 	
-<div class="versenum">1.</div> Davidin rukous. Kallista, Herra, korvas ja kuule minua; silla mina olen raadollinen ja koyha.	
+<div class="theverse"><div class="versenum">1.</div> Davidin rukous. Kallista, Herra, korvas ja kuule minua; silla mina olen raadollinen ja koyha.	</div>
 
-<div class="versenum">2.</div> Katke minun sieluni; silla mina olen pyha. Auta minua, minun Jumalani, palveliaas, joka sinuun luotan.	
+<div class="theverse"><div class="versenum">2.</div> Katke minun sieluni; silla mina olen pyha. Auta minua, minun Jumalani, palveliaas, joka sinuun luotan.	</div>
 
-<div class="versenum">3.</div> Herra, ole minulle armollinen; silla mina huudan ylipaivaa sinua.	
+<div class="theverse"><div class="versenum">3.</div> Herra, ole minulle armollinen; silla mina huudan ylipaivaa sinua.	</div>
 
-<div class="versenum">4.</div> Ilahuta palvelias sielu; silla sinun tykos, Herra, mina ylennan sieluni.	
+<div class="theverse"><div class="versenum">4.</div> Ilahuta palvelias sielu; silla sinun tykos, Herra, mina ylennan sieluni.	</div>
 
-<div class="versenum">5.</div> Silla sina, Herra, olet hyva ja armollinen, sangen laupias kaikille, jotka sinua avuksensa huutavat.	
+<div class="theverse"><div class="versenum">5.</div> Silla sina, Herra, olet hyva ja armollinen, sangen laupias kaikille, jotka sinua avuksensa huutavat.	</div>
 
-<div class="versenum">6.</div> Ota korviis, Herra, minun rukoukseni, ja ota vaari minun rukoukseni aanesta.	
+<div class="theverse"><div class="versenum">6.</div> Ota korviis, Herra, minun rukoukseni, ja ota vaari minun rukoukseni aanesta.	</div>
 
-<div class="versenum">7.</div> Tuskassani mina sinua rukoilen, ettas minun kuulisit.	
+<div class="theverse"><div class="versenum">7.</div> Tuskassani mina sinua rukoilen, ettas minun kuulisit.	</div>
 
-<div class="versenum">8.</div> Herra! ei ole yksikaan jumalista sinun kaltaises, ja ei ole kenkaan, joka niin tehda taitaa kuin sina.	
+<div class="theverse"><div class="versenum">8.</div> Herra! ei ole yksikaan jumalista sinun kaltaises, ja ei ole kenkaan, joka niin tehda taitaa kuin sina.	</div>
 
-<div class="versenum">9.</div> Kaikki pakanat, jotka tehnyt olet, pitaa tuleman ja kumartaman sinua, Herra, ja sinun nimeas kunnioittaman,	
+<div class="theverse"><div class="versenum">9.</div> Kaikki pakanat, jotka tehnyt olet, pitaa tuleman ja kumartaman sinua, Herra, ja sinun nimeas kunnioittaman,	</div>
 
-<div class="versenum">10.</div> Ettas niin suuri olet, ja teet ihmeita; ja sina olet yksinas Jumala.	
+<div class="theverse"><div class="versenum">10.</div> Ettas niin suuri olet, ja teet ihmeita; ja sina olet yksinas Jumala.	</div>
 
-<div class="versenum">11.</div> Osoita minulle, Herra, sinun ties, vaeltaakseni sinun totuudessas: kiinnita minun sydameni siihen yhteen, etta mina sinun nimeas pelkaisin.	
+<div class="theverse"><div class="versenum">11.</div> Osoita minulle, Herra, sinun ties, vaeltaakseni sinun totuudessas: kiinnita minun sydameni siihen yhteen, etta mina sinun nimeas pelkaisin.	</div>
 
-<div class="versenum">12.</div> Mina kiitan sinua, Herra minun Jumalani, kaikesta sydamestani, ja kunnioitan sinun nimeas ijankaikkisesti.	
+<div class="theverse"><div class="versenum">12.</div> Mina kiitan sinua, Herra minun Jumalani, kaikesta sydamestani, ja kunnioitan sinun nimeas ijankaikkisesti.	</div>
 
-<div class="versenum">13.</div> Silla sinun hyvyytes on suuri minussa, ja sina olet pelastanut sieluni syvimmasta helvetista.	
+<div class="theverse"><div class="versenum">13.</div> Silla sinun hyvyytes on suuri minussa, ja sina olet pelastanut sieluni syvimmasta helvetista.	</div>
 
-<div class="versenum">14.</div> Jumala! ylpiat karkaavat minua vastaan, ja julmain joukot vaijyvat minun sieluani, ja ei pida sinua silmainsa edessa.	
+<div class="theverse"><div class="versenum">14.</div> Jumala! ylpiat karkaavat minua vastaan, ja julmain joukot vaijyvat minun sieluani, ja ei pida sinua silmainsa edessa.	</div>
 
-<div class="versenum">15.</div> Mutta sina, Herra Jumala, olet armollinen ja laupias, karsivainen ja sangen hyva ja vakaa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta sina, Herra Jumala, olet armollinen ja laupias, karsivainen ja sangen hyva ja vakaa.	</div>
 
-<div class="versenum">16.</div> Kaanna itses minuun pain, ole minulle armollinen; vahvista palveliaas sinun voimallas, ja auta piikas poikaa.	
+<div class="theverse"><div class="versenum">16.</div> Kaanna itses minuun pain, ole minulle armollinen; vahvista palveliaas sinun voimallas, ja auta piikas poikaa.	</div>
 
-<div class="versenum">17.</div> Tee merkki minun kanssani, etta minulle hyvin kavis, ja he sen nakisivat, jotka minua vihaavat, ja hapeaisivat, etta sina Herra autat ja lohdutat minua.	
+<div class="theverse"><div class="versenum">17.</div> Tee merkki minun kanssani, etta minulle hyvin kavis, ja he sen nakisivat, jotka minua vihaavat, ja hapeaisivat, etta sina Herra autat ja lohdutat minua.	</div>
 </body>
 </html>

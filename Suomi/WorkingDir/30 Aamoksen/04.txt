@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Aamoksen 4	</div>
 	
-<div class="versenum">1.</div> Kuulkaat tata sanaa, te lihavat lehmat, jotka Samarian vuorella olette, ja teette koyhille vaaryytta, ja murennatte vaivaisen, ja sanotte teidan herroillenne: tuos tanne, anna meidan juoda.	
+<div class="theverse"><div class="versenum">1.</div> Kuulkaat tata sanaa, te lihavat lehmat, jotka Samarian vuorella olette, ja teette koyhille vaaryytta, ja murennatte vaivaisen, ja sanotte teidan herroillenne: tuos tanne, anna meidan juoda.	</div>
 
-<div class="versenum">2.</div> Herra, Herra on pyhyytensa kautta vannonut: katso, se aika pitaa tuleman teidan paallenne, etta te temmataan pois orjantappuroilla, ja teidan jalkeentulevaisenne kalain ongella.	
+<div class="theverse"><div class="versenum">2.</div> Herra, Herra on pyhyytensa kautta vannonut: katso, se aika pitaa tuleman teidan paallenne, etta te temmataan pois orjantappuroilla, ja teidan jalkeentulevaisenne kalain ongella.	</div>
 
-<div class="versenum">3.</div> Ja itsekunkin teista pitaa meneman ulos sarjetyn muurin lavitse, ja ylonantamaan huoneensa, sanoo Herra.	
+<div class="theverse"><div class="versenum">3.</div> Ja itsekunkin teista pitaa meneman ulos sarjetyn muurin lavitse, ja ylonantamaan huoneensa, sanoo Herra.	</div>
 
-<div class="versenum">4.</div> Tulkaat Beteliin, ja tehkaat syntia, ja Gilgaliin, etta te syntia lisaisitte; ja tuokaat aamulla teidan uhrinne, ja teidan kymmenyksenne kolmena paivana.	
+<div class="theverse"><div class="versenum">4.</div> Tulkaat Beteliin, ja tehkaat syntia, ja Gilgaliin, etta te syntia lisaisitte; ja tuokaat aamulla teidan uhrinne, ja teidan kymmenyksenne kolmena paivana.	</div>
 
-<div class="versenum">5.</div> Ja suitsuttakaat hapatuksesta kiitosuhriksi, ja kuuluttakaat ja kootkaat vapaaehdon uhreja; silla niin te sen mielellanne pidatte, te Israelin lapset, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">5.</div> Ja suitsuttakaat hapatuksesta kiitosuhriksi, ja kuuluttakaat ja kootkaat vapaaehdon uhreja; silla niin te sen mielellanne pidatte, te Israelin lapset, sanoo Herra, Herra.	</div>
 
-<div class="versenum">6.</div> Sentahden mina myos olen kaikissa kaupungeissa teille joutilaat hampaat antanut, ja leivan puuttumisen jokaisissa teidan paikoissanne; ja ette sittekaan kaantyneet minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">6.</div> Sentahden mina myos olen kaikissa kaupungeissa teille joutilaat hampaat antanut, ja leivan puuttumisen jokaisissa teidan paikoissanne; ja ette sittekaan kaantyneet minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">7.</div> Olen myos mina pidattanyt teilta sateen, kuin viela kolme kuukautta oli elonaikaan, ja mina annoin sataa yhden kaupungin paalle, ja toisen kaupungin paalle en antanutkaan sataa; yhden saran paalle satoi, ja toinen sarka, jonka paalle ei satanut, kuivettui.	
+<div class="theverse"><div class="versenum">7.</div> Olen myos mina pidattanyt teilta sateen, kuin viela kolme kuukautta oli elonaikaan, ja mina annoin sataa yhden kaupungin paalle, ja toisen kaupungin paalle en antanutkaan sataa; yhden saran paalle satoi, ja toinen sarka, jonka paalle ei satanut, kuivettui.	</div>
 
-<div class="versenum">8.</div> Ja kaksi eli kolme kaupunkia meni yhteen kaupunkiin vetta juomaan, ja ei saaneet tarvettansa; ja ette sittekaan kaantyneet minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">8.</div> Ja kaksi eli kolme kaupunkia meni yhteen kaupunkiin vetta juomaan, ja ei saaneet tarvettansa; ja ette sittekaan kaantyneet minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">9.</div> Mina rankaisin teita poudalla ja nokipailla, ja ruohomadot soivat kaikki, mita teidan yrttitarhoissanne, viinamaissanne, fikunapuissanne ja oljypuissanne kasvoi; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">9.</div> Mina rankaisin teita poudalla ja nokipailla, ja ruohomadot soivat kaikki, mita teidan yrttitarhoissanne, viinamaissanne, fikunapuissanne ja oljypuissanne kasvoi; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">10.</div> Mina lahetin ruton teidan sekaanne niinkuin Egyptiin, ja tapoin miekalla teidan nuoret miehenne, ja annoin vieda pois teidan hevosenne vankina; ja annoin haisun teidan leirissanne teidan sieramiinne menna; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">10.</div> Mina lahetin ruton teidan sekaanne niinkuin Egyptiin, ja tapoin miekalla teidan nuoret miehenne, ja annoin vieda pois teidan hevosenne vankina; ja annoin haisun teidan leirissanne teidan sieramiinne menna; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">11.</div> Mina kukistin ylosalaisin muutamat teista, niinkuin Jumala Sodoman ja Gomorran kukisti, ja te olitte niinkuin tulesta otettu kekale; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	
+<div class="theverse"><div class="versenum">11.</div> Mina kukistin ylosalaisin muutamat teista, niinkuin Jumala Sodoman ja Gomorran kukisti, ja te olitte niinkuin tulesta otettu kekale; ette sittekaan kaantyneet minun tykoni, sanoo Herra.	</div>
 
-<div class="versenum">12.</div> Sentahden tahdon mina sinulle nain tehda, Israel; etta mina nyt nain sinulle tehda tahdon, niin valmista sinuas, Israel, ja mene Jumalaas vastaan.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden tahdon mina sinulle nain tehda, Israel; etta mina nyt nain sinulle tehda tahdon, niin valmista sinuas, Israel, ja mene Jumalaas vastaan.	</div>
 
-<div class="versenum">13.</div> Silla katso, han on se, joka on tehnyt vuoret, ja luonut tuulen, ja ilmoittaa ihmiselle, mita hanen puhuman pitaa; han tekee aamuruskon ja pimeyden; han kay maan korkeutten paalla; hanen nimensa on Herra Jumala Zebaot.	
+<div class="theverse"><div class="versenum">13.</div> Silla katso, han on se, joka on tehnyt vuoret, ja luonut tuulen, ja ilmoittaa ihmiselle, mita hanen puhuman pitaa; han tekee aamuruskon ja pimeyden; han kay maan korkeutten paalla; hanen nimensa on Herra Jumala Zebaot.	</div>
 </body>
 </html>

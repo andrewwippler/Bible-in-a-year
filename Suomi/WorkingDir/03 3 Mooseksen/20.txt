@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 20	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle; sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle; sanoen:	</div>
 
-<div class="versenum">2.</div> Sano myos Israelin lapsille: kuka ikanansa Israelin lapsista, eli muukalaisista, joka Israelin lasten seassa asuu, siemenestansa Molekille antaa, sen pitaa totisesti kuoleman: maan kansan pitaa hanta kivittaman kuoliaaksi.	
+<div class="theverse"><div class="versenum">2.</div> Sano myos Israelin lapsille: kuka ikanansa Israelin lapsista, eli muukalaisista, joka Israelin lasten seassa asuu, siemenestansa Molekille antaa, sen pitaa totisesti kuoleman: maan kansan pitaa hanta kivittaman kuoliaaksi.	</div>
 
-<div class="versenum">3.</div> Ja mina asetan minun kasvoni sita ihmista vastaan, ja havitan hanen kansastansa, etta han Molekille siemenestansa antanut ja minun pyhani saastuttanut on, ja minun pyhaa nimeani havaissyt.	
+<div class="theverse"><div class="versenum">3.</div> Ja mina asetan minun kasvoni sita ihmista vastaan, ja havitan hanen kansastansa, etta han Molekille siemenestansa antanut ja minun pyhani saastuttanut on, ja minun pyhaa nimeani havaissyt.	</div>
 
-<div class="versenum">4.</div> Ja jos maan kansa sita ihmista saastaa, joka siemenestansa Molekille antanut on, niin ettei he sita surmaa,	
+<div class="theverse"><div class="versenum">4.</div> Ja jos maan kansa sita ihmista saastaa, joka siemenestansa Molekille antanut on, niin ettei he sita surmaa,	</div>
 
-<div class="versenum">5.</div> Niin mina kuitenkin sita ihmista vastaan minun kasvoni asetan, ja hanen sukuansa vastaan, ja havitan sen ja kaikki jotka hanen perassansa Molekin kanssa huorin tehneet ovat, heidan kansastansa.	
+<div class="theverse"><div class="versenum">5.</div> Niin mina kuitenkin sita ihmista vastaan minun kasvoni asetan, ja hanen sukuansa vastaan, ja havitan sen ja kaikki jotka hanen perassansa Molekin kanssa huorin tehneet ovat, heidan kansastansa.	</div>
 
-<div class="versenum">6.</div> Jos joku sielu hanensa noitain ja tietajain tyko kaantaa, huorin tekemaan heidan kanssansa, niin mina kasvoni asetan sita sielua vastaan, ja havitan sen kansastansa.	
+<div class="theverse"><div class="versenum">6.</div> Jos joku sielu hanensa noitain ja tietajain tyko kaantaa, huorin tekemaan heidan kanssansa, niin mina kasvoni asetan sita sielua vastaan, ja havitan sen kansastansa.	</div>
 
-<div class="versenum">7.</div> Sentahden pyhittakaat teitanne, ja olkaat pyhat; silla mina olen Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">7.</div> Sentahden pyhittakaat teitanne, ja olkaat pyhat; silla mina olen Herra teidan Jumalanne.	</div>
 
-<div class="versenum">8.</div> Ja pitakaat minun saatyni, ja tehkaat niita; silla mina olen Herra, joka teita pyhitan.	
+<div class="theverse"><div class="versenum">8.</div> Ja pitakaat minun saatyni, ja tehkaat niita; silla mina olen Herra, joka teita pyhitan.	</div>
 
-<div class="versenum">9.</div> Kuka ikanansa isaansa ja aitiansa kiroo, sen pitaa totisesti kuoleman, etta han isaansa ja aitiansa kironnut on: hanen verensa olkoon hanen paallansa.	
+<div class="theverse"><div class="versenum">9.</div> Kuka ikanansa isaansa ja aitiansa kiroo, sen pitaa totisesti kuoleman, etta han isaansa ja aitiansa kironnut on: hanen verensa olkoon hanen paallansa.	</div>
 
-<div class="versenum">10.</div> Joka huorin tekee jonkun miehen aviopuolison kanssa, se joka lahimmaisensa emannan kanssa huorin tekee, pitaa totisesti kuoletettaman, seka huorintekia, etta huora.	
+<div class="theverse"><div class="versenum">10.</div> Joka huorin tekee jonkun miehen aviopuolison kanssa, se joka lahimmaisensa emannan kanssa huorin tekee, pitaa totisesti kuoletettaman, seka huorintekia, etta huora.	</div>
 
-<div class="versenum">11.</div> Jos joku isansa emannan tykona makaa, niin etta han isansa havyn paljastanut on, he molemmat pitaa totisesti kuoleman: heidan verensa olkoon heidan paallansa.	
+<div class="theverse"><div class="versenum">11.</div> Jos joku isansa emannan tykona makaa, niin etta han isansa havyn paljastanut on, he molemmat pitaa totisesti kuoleman: heidan verensa olkoon heidan paallansa.	</div>
 
-<div class="versenum">12.</div> Jos joku miniansa tykona makaa, niin he molemmat pitaa totisesti kuoleman; silla he ovat kauhistuksen tehneet: heidan verensa olkoon heidan paallansa.	
+<div class="theverse"><div class="versenum">12.</div> Jos joku miniansa tykona makaa, niin he molemmat pitaa totisesti kuoleman; silla he ovat kauhistuksen tehneet: heidan verensa olkoon heidan paallansa.	</div>
 
-<div class="versenum">13.</div> Jos joku miehenpuolen kanssa makaa, niinkuin jonkun vaimon kanssa, he ovat kauhistuksen tehneet, heidan pitaa molemmat totisesti kuoleman: heidan verensa olkoon heidan paallansa.	
+<div class="theverse"><div class="versenum">13.</div> Jos joku miehenpuolen kanssa makaa, niinkuin jonkun vaimon kanssa, he ovat kauhistuksen tehneet, heidan pitaa molemmat totisesti kuoleman: heidan verensa olkoon heidan paallansa.	</div>
 
-<div class="versenum">14.</div> Jos joku nai vaimon ja sen aidin, han on kauhistuksen tehnyt: se pitaa tulella poltettaman, ja ne ynna molemmat, ettei yhtaan kauhistusta olisi teidan seassanne.	
+<div class="theverse"><div class="versenum">14.</div> Jos joku nai vaimon ja sen aidin, han on kauhistuksen tehnyt: se pitaa tulella poltettaman, ja ne ynna molemmat, ettei yhtaan kauhistusta olisi teidan seassanne.	</div>
 
-<div class="versenum">15.</div> Jos joku elaimen kanssa makaa, sen pitaa totisesti kuoleman, ja se elain pitaa tapettaman.	
+<div class="theverse"><div class="versenum">15.</div> Jos joku elaimen kanssa makaa, sen pitaa totisesti kuoleman, ja se elain pitaa tapettaman.	</div>
 
-<div class="versenum">16.</div> Jos joku vaimo johonkuhun elaimeen ryhtyy, makaamaan sen kanssa, niin sinun pitaa tappaman seka vaimon, etta elaimen; heidan pitaa totisesti kuoleman: heidan verensa olkoon heidan paallansa.	
+<div class="theverse"><div class="versenum">16.</div> Jos joku vaimo johonkuhun elaimeen ryhtyy, makaamaan sen kanssa, niin sinun pitaa tappaman seka vaimon, etta elaimen; heidan pitaa totisesti kuoleman: heidan verensa olkoon heidan paallansa.	</div>
 
-<div class="versenum">17.</div> Jos joku sisarensa nai, isansa eli aitinsa tyttaren, ja hanen hapynsa nakee, ja se nakee hanen hapynsa, se on kauhistus: ne pitaa havitettaman sukunsa kansan edessa: silla han on sisarensa havyn paljastanut, hanen pitaa pahuutensa kantaman.	
+<div class="theverse"><div class="versenum">17.</div> Jos joku sisarensa nai, isansa eli aitinsa tyttaren, ja hanen hapynsa nakee, ja se nakee hanen hapynsa, se on kauhistus: ne pitaa havitettaman sukunsa kansan edessa: silla han on sisarensa havyn paljastanut, hanen pitaa pahuutensa kantaman.	</div>
 
-<div class="versenum">18.</div> Jos joku mies jonkun vaimon tykona makaa hanen sairautensa aikana, ja paljastaa hanen hapynsa, ja avaa hanen lahteensa, ja vaimo paljastaa verensa lahteen: ne molemmat pitaa havitettaman heidan kansastansa.	
+<div class="theverse"><div class="versenum">18.</div> Jos joku mies jonkun vaimon tykona makaa hanen sairautensa aikana, ja paljastaa hanen hapynsa, ja avaa hanen lahteensa, ja vaimo paljastaa verensa lahteen: ne molemmat pitaa havitettaman heidan kansastansa.	</div>
 
-<div class="versenum">19.</div> Sinun aitis sisaren hapya ja sinun isas sisaren hapya ei sinun pida paljastaman; silla se on lahimmaisensa paljastanut, ja ne pitaa pahuutensa kantaman.	
+<div class="theverse"><div class="versenum">19.</div> Sinun aitis sisaren hapya ja sinun isas sisaren hapya ei sinun pida paljastaman; silla se on lahimmaisensa paljastanut, ja ne pitaa pahuutensa kantaman.	</div>
 
-<div class="versenum">20.</div> Jos joku setansa emannan kanssa makaa, han on setansa havyn paljastanut: ne pitaa rikoksensa kantaman. Lapsetonna heidan pitaa kuoleman.	
+<div class="theverse"><div class="versenum">20.</div> Jos joku setansa emannan kanssa makaa, han on setansa havyn paljastanut: ne pitaa rikoksensa kantaman. Lapsetonna heidan pitaa kuoleman.	</div>
 
-<div class="versenum">21.</div> Jos joku veljensa emannan ottaa, se on hapiallinen tyo: heidan pitaa lapsetonna oleman, etta han on veljensa havyn paljastanut.	
+<div class="theverse"><div class="versenum">21.</div> Jos joku veljensa emannan ottaa, se on hapiallinen tyo: heidan pitaa lapsetonna oleman, etta han on veljensa havyn paljastanut.	</div>
 
-<div class="versenum">22.</div> Niin pitakaat nyt kaikki minun saatyni, ja kaikki minun oikeuteni, ja tehkaat ne, ettei maa teita oksentaisi, johon mina teidat vien asumaan.	
+<div class="theverse"><div class="versenum">22.</div> Niin pitakaat nyt kaikki minun saatyni, ja kaikki minun oikeuteni, ja tehkaat ne, ettei maa teita oksentaisi, johon mina teidat vien asumaan.	</div>
 
-<div class="versenum">23.</div> Ja alkaat vaeltako pakanain saadyissa, jotka mina teidan edeltanne olen ajava ulos; silla kaikkia naita he ovat tehneet, ja mina olen kauhistunut heita.	
+<div class="theverse"><div class="versenum">23.</div> Ja alkaat vaeltako pakanain saadyissa, jotka mina teidan edeltanne olen ajava ulos; silla kaikkia naita he ovat tehneet, ja mina olen kauhistunut heita.	</div>
 
-<div class="versenum">24.</div> Mutta teille sanon mina: teidan pitaa omistaman heidan maansa; silla mina annan teille sen perimiseksi, sen maan, jossa rieskaa ja hunajaa vuotaa. Mina olen Herra teidan Jumalanne, joka olen teita eroittanut muista kansoista.	
+<div class="theverse"><div class="versenum">24.</div> Mutta teille sanon mina: teidan pitaa omistaman heidan maansa; silla mina annan teille sen perimiseksi, sen maan, jossa rieskaa ja hunajaa vuotaa. Mina olen Herra teidan Jumalanne, joka olen teita eroittanut muista kansoista.	</div>
 
-<div class="versenum">25.</div> Etta teidan pitaa myos eroittaman puhtaat elaimet saastaisista, ja saastaiset linnut puhtaista, ja ei saastuttaman teidan sielujanne elaimissa, linnuissa ja kaikissa, mitka maalla matelevat, jotka mina teille eroittanut olen, etta ne ovat saastaiset.	
+<div class="theverse"><div class="versenum">25.</div> Etta teidan pitaa myos eroittaman puhtaat elaimet saastaisista, ja saastaiset linnut puhtaista, ja ei saastuttaman teidan sielujanne elaimissa, linnuissa ja kaikissa, mitka maalla matelevat, jotka mina teille eroittanut olen, etta ne ovat saastaiset.	</div>
 
-<div class="versenum">26.</div> Sentahden pitaa teidan oleman minulle pyhat, silla mina Herra olen pyha, ja olen teita eroittanut muista kansoista, etta teidan pitais oleman minun omani.	
+<div class="theverse"><div class="versenum">26.</div> Sentahden pitaa teidan oleman minulle pyhat, silla mina Herra olen pyha, ja olen teita eroittanut muista kansoista, etta teidan pitais oleman minun omani.	</div>
 
-<div class="versenum">27.</div> Jos joku mies eli vaimo noidaksi eli tietajaksi loydetaan, ne pitaa totisesti kuoleman, heidan pitaa ne kivittaman, heidan verensa olkoon heidan paallansa.	
+<div class="theverse"><div class="versenum">27.</div> Jos joku mies eli vaimo noidaksi eli tietajaksi loydetaan, ne pitaa totisesti kuoleman, heidan pitaa ne kivittaman, heidan verensa olkoon heidan paallansa.	</div>
 </body>
 </html>

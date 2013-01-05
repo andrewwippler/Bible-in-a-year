@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 4	</div>
 	
-<div class="versenum">1.</div> Silloin vietiin Jesus hengelta korpeen kiusattaa perkeleelta.	
+<div class="theverse"><div class="versenum">1.</div> Silloin vietiin Jesus hengelta korpeen kiusattaa perkeleelta.	</div>
 
-<div class="versenum">2.</div> Ja kuin han oli paastonnut neljakymmenta paivaa ja neljakymmenta yota, sitte han isosi.	
+<div class="theverse"><div class="versenum">2.</div> Ja kuin han oli paastonnut neljakymmenta paivaa ja neljakymmenta yota, sitte han isosi.	</div>
 
-<div class="versenum">3.</div> Ja kiusaaja tuli hanen tykonsa ja sanoi: jos sina olet Jumalan Poika, niin sano, etta namat kivet leiviksi tulevat.	
+<div class="theverse"><div class="versenum">3.</div> Ja kiusaaja tuli hanen tykonsa ja sanoi: jos sina olet Jumalan Poika, niin sano, etta namat kivet leiviksi tulevat.	</div>
 
-<div class="versenum">4.</div> Mutta han vastasi ja sanoi: kirjoitettu on: ei ihminen ela ainoasti leivasta, mutta jokaisesta sanasta, joka Jumalan suusta lahtee.	
+<div class="theverse"><div class="versenum">4.</div> Mutta han vastasi ja sanoi: kirjoitettu on: ei ihminen ela ainoasti leivasta, mutta jokaisesta sanasta, joka Jumalan suusta lahtee.	</div>
 
-<div class="versenum">5.</div> Silloin otti perkele hanen kanssansa pyhaan kaupunkiin, ja asetti hanen templin harjalle,	
+<div class="theverse"><div class="versenum">5.</div> Silloin otti perkele hanen kanssansa pyhaan kaupunkiin, ja asetti hanen templin harjalle,	</div>
 
-<div class="versenum">6.</div> Ja sanoi hanelle: jos sina olet Jumalan Poika, niin laske sinus alaspain; silla kirjoitettu on: han antaa kaskyn enkeleillensa sinusta, ja he kasissa kantavat sinun, ettet joskus jalkaas kiveen loukkaa.	
+<div class="theverse"><div class="versenum">6.</div> Ja sanoi hanelle: jos sina olet Jumalan Poika, niin laske sinus alaspain; silla kirjoitettu on: han antaa kaskyn enkeleillensa sinusta, ja he kasissa kantavat sinun, ettet joskus jalkaas kiveen loukkaa.	</div>
 
-<div class="versenum">7.</div> Niin Jesus sanoi hanelle: taas on kirjoitettu: ei sinun pida kiusaaman Herraa sinun Jumalaas.	
+<div class="theverse"><div class="versenum">7.</div> Niin Jesus sanoi hanelle: taas on kirjoitettu: ei sinun pida kiusaaman Herraa sinun Jumalaas.	</div>
 
-<div class="versenum">8.</div> Taas vei hanen perkele sangen korkialle vuorelle, ja osoitti hanelle kaikki maailman valtakunnat ja niiden kunnian,	
+<div class="theverse"><div class="versenum">8.</div> Taas vei hanen perkele sangen korkialle vuorelle, ja osoitti hanelle kaikki maailman valtakunnat ja niiden kunnian,	</div>
 
-<div class="versenum">9.</div> Ja sanoi hanelle: namat kaikki mina annan sinulle, jos sina lankeat maahan ja rukoilet minua.	
+<div class="theverse"><div class="versenum">9.</div> Ja sanoi hanelle: namat kaikki mina annan sinulle, jos sina lankeat maahan ja rukoilet minua.	</div>
 
-<div class="versenum">10.</div> Niin sanoi Jesus hanelle: mene pois, saatana! Silla kirjoitettu on: Herraa sinun Jumalaas pitaa sinun kumartaman, ja hanta ainoaa palveleman.	
+<div class="theverse"><div class="versenum">10.</div> Niin sanoi Jesus hanelle: mene pois, saatana! Silla kirjoitettu on: Herraa sinun Jumalaas pitaa sinun kumartaman, ja hanta ainoaa palveleman.	</div>
 
-<div class="versenum">11.</div> Silloin jatti hanen perkele; ja katso, enkelit tulivat ja palvelivat hanta.	
+<div class="theverse"><div class="versenum">11.</div> Silloin jatti hanen perkele; ja katso, enkelit tulivat ja palvelivat hanta.	</div>
 
-<div class="versenum">12.</div> Mutta kuin Jesus kuuli, etta Johannes oli vankiuteen annettu ylon, poikkesi han Galileaan,	
+<div class="theverse"><div class="versenum">12.</div> Mutta kuin Jesus kuuli, etta Johannes oli vankiuteen annettu ylon, poikkesi han Galileaan,	</div>
 
-<div class="versenum">13.</div> Ja jatti Natsaretin, tuli ja asui Kapernaumissa, joka on merikaupunki, Zebulonin ja Naphtalin aarissa;	
+<div class="theverse"><div class="versenum">13.</div> Ja jatti Natsaretin, tuli ja asui Kapernaumissa, joka on merikaupunki, Zebulonin ja Naphtalin aarissa;	</div>
 
-<div class="versenum">14.</div> Etta taytettaisiin se mika sanottu oli Jesaias prophetan kautta, joka sanoo:	
+<div class="theverse"><div class="versenum">14.</div> Etta taytettaisiin se mika sanottu oli Jesaias prophetan kautta, joka sanoo:	</div>
 
-<div class="versenum">15.</div> Zebulonin maa ja Naphtalin maa, lasna meritieta, silla puolella Jordanin, pakanain Galilea,	
+<div class="theverse"><div class="versenum">15.</div> Zebulonin maa ja Naphtalin maa, lasna meritieta, silla puolella Jordanin, pakanain Galilea,	</div>
 
-<div class="versenum">16.</div> Kansa, joka pimiassa istui, naki suuren valkeuden, ja niille, jotka kuoleman maassa ja varjossa istuivat, koitti valkeus.	
+<div class="theverse"><div class="versenum">16.</div> Kansa, joka pimiassa istui, naki suuren valkeuden, ja niille, jotka kuoleman maassa ja varjossa istuivat, koitti valkeus.	</div>
 
-<div class="versenum">17.</div> Siita ajasta rupesi Jesus saarnaamaan ja sanomaan: tehtaat parannus; silla taivaan valtakunta lahestyi.	
+<div class="theverse"><div class="versenum">17.</div> Siita ajasta rupesi Jesus saarnaamaan ja sanomaan: tehtaat parannus; silla taivaan valtakunta lahestyi.	</div>
 
-<div class="versenum">18.</div> Mutta kuin Jesus kaveli Galilean meren tykona, naki han kaksi veljesta, Simonin, joka kutsutaan Pietariksi, ja Andreaksen hanen veljensa, laskevan verkkoa mereen; (Silla he olivat kalamiehet,)	
+<div class="theverse"><div class="versenum">18.</div> Mutta kuin Jesus kaveli Galilean meren tykona, naki han kaksi veljesta, Simonin, joka kutsutaan Pietariksi, ja Andreaksen hanen veljensa, laskevan verkkoa mereen; (Silla he olivat kalamiehet,)	</div>
 
-<div class="versenum">19.</div> Ja sanoi heille: seuratkaat minua, ja mina teen teidat ihmisten kalamiehiksi.	
+<div class="theverse"><div class="versenum">19.</div> Ja sanoi heille: seuratkaat minua, ja mina teen teidat ihmisten kalamiehiksi.	</div>
 
-<div class="versenum">20.</div> Niin he jattivat kohta verkot ja seurasivat hanta.	
+<div class="theverse"><div class="versenum">20.</div> Niin he jattivat kohta verkot ja seurasivat hanta.	</div>
 
-<div class="versenum">21.</div> Ja kuin han sielta edemma kavi, naki han toiset kaksi veljesta, Jakobin Zebedeuksen pojan ja Johanneksen hanen veljensa, venheessa isansa Zebedeuksen kanssa, parantavan verkkojansa; ja han kutsui heita.	
+<div class="theverse"><div class="versenum">21.</div> Ja kuin han sielta edemma kavi, naki han toiset kaksi veljesta, Jakobin Zebedeuksen pojan ja Johanneksen hanen veljensa, venheessa isansa Zebedeuksen kanssa, parantavan verkkojansa; ja han kutsui heita.	</div>
 
-<div class="versenum">22.</div> Niin he kohta jattivat venheen ja isansa, ja seurasivat hanta.	
+<div class="theverse"><div class="versenum">22.</div> Niin he kohta jattivat venheen ja isansa, ja seurasivat hanta.	</div>
 
-<div class="versenum">23.</div> Ja Jesus vaelsi ympari kaiken Galilean, ja opetti heidan synagogissansa, ja saarnasi valtakunnan evankeliumia, ja paransi kaikkinaiset taudit ja kaiken sairauden kansan seassa.	
+<div class="theverse"><div class="versenum">23.</div> Ja Jesus vaelsi ympari kaiken Galilean, ja opetti heidan synagogissansa, ja saarnasi valtakunnan evankeliumia, ja paransi kaikkinaiset taudit ja kaiken sairauden kansan seassa.	</div>
 
-<div class="versenum">24.</div> Ja sanoma kuului hanesta kaikkeen Syrian maahan. Ja he toivat hanen tykonsa kaikkinaisia sairaita, moninaisilla taudeilla ja kivuilla vaivatuita ja piruilta riivatuita, ja kuutaudillisia ja halvatuita; ja han paransi ne.	
+<div class="theverse"><div class="versenum">24.</div> Ja sanoma kuului hanesta kaikkeen Syrian maahan. Ja he toivat hanen tykonsa kaikkinaisia sairaita, moninaisilla taudeilla ja kivuilla vaivatuita ja piruilta riivatuita, ja kuutaudillisia ja halvatuita; ja han paransi ne.	</div>
 
-<div class="versenum">25.</div> Ja hanta seurasi paljo vakea Galileasta ja kymmenesta kaupungista, ja Jerusalemista ja Juudeasta, ja maakunnista silla puolella Jordania.	
+<div class="theverse"><div class="versenum">25.</div> Ja hanta seurasi paljo vakea Galileasta ja kymmenesta kaupungista, ja Jerusalemista ja Juudeasta, ja maakunnista silla puolella Jordania.	</div>
 </body>
 </html>

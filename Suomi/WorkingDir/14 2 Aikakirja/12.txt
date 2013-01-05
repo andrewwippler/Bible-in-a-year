@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 12	</div>
 	
-<div class="versenum">1.</div> Ja kuin Rehabeamin valtakunta tuettu ja han vahvistettu oli, hylkasi han Herran lain, ja kaikki Israel hanen kanssansa.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin Rehabeamin valtakunta tuettu ja han vahvistettu oli, hylkasi han Herran lain, ja kaikki Israel hanen kanssansa.	</div>
 
-<div class="versenum">2.</div> Mutta viidentena kuningas Rehabeamin vuotena meni Sisak Egyptin kuningas ylos Jerusalemiin (silla he olivat rikkoneet Herraa vastaan),	
+<div class="theverse"><div class="versenum">2.</div> Mutta viidentena kuningas Rehabeamin vuotena meni Sisak Egyptin kuningas ylos Jerusalemiin (silla he olivat rikkoneet Herraa vastaan),	</div>
 
-<div class="versenum">3.</div> Tuhannen ja kahdensadan vaunun ja kuudenkymmenen tuhannen hevosmiehen kanssa; ja se kansa oli lukematoin, jotka hanta seurasivat Egyptista, Libiasta, Sukimista ja Etiopiasta.	
+<div class="theverse"><div class="versenum">3.</div> Tuhannen ja kahdensadan vaunun ja kuudenkymmenen tuhannen hevosmiehen kanssa; ja se kansa oli lukematoin, jotka hanta seurasivat Egyptista, Libiasta, Sukimista ja Etiopiasta.	</div>
 
-<div class="versenum">4.</div> Ja han voitti ne vahvat kaupungit Juudassa, ja tuli Jerusalemiin.	
+<div class="theverse"><div class="versenum">4.</div> Ja han voitti ne vahvat kaupungit Juudassa, ja tuli Jerusalemiin.	</div>
 
-<div class="versenum">5.</div> Silloin tuli Semaja propheta Rehabeamin ja paamiesten tyko Juudassa, jotka olivat kokoontuneet Sisakin tahden Jerusalemiin, ja sanoi heille: nain sanoo Herra: te olette hyljanneet minun, sentahden olen mina myos hyljannyt teidat Sisakin kateen.	
+<div class="theverse"><div class="versenum">5.</div> Silloin tuli Semaja propheta Rehabeamin ja paamiesten tyko Juudassa, jotka olivat kokoontuneet Sisakin tahden Jerusalemiin, ja sanoi heille: nain sanoo Herra: te olette hyljanneet minun, sentahden olen mina myos hyljannyt teidat Sisakin kateen.	</div>
 
-<div class="versenum">6.</div> Niin Israelin ylimmaiset noyryyttivat itsensa kuninkaan kanssa ja sanoivat: Herra on vanhurskas.	
+<div class="theverse"><div class="versenum">6.</div> Niin Israelin ylimmaiset noyryyttivat itsensa kuninkaan kanssa ja sanoivat: Herra on vanhurskas.	</div>
 
-<div class="versenum">7.</div> Koska Herra naki heidan noyryyttavan itsensa, tuli Herran sana Semajan tyko ja sanoi: he ovat itsensa noyryyttaneet, sentahden en mina heita kadota, vaan mina annan kohta heille pelastuksen, niin ettei minun vihani vuotais Jerusalemin paalle Sisakin kaden kautta.	
+<div class="theverse"><div class="versenum">7.</div> Koska Herra naki heidan noyryyttavan itsensa, tuli Herran sana Semajan tyko ja sanoi: he ovat itsensa noyryyttaneet, sentahden en mina heita kadota, vaan mina annan kohta heille pelastuksen, niin ettei minun vihani vuotais Jerusalemin paalle Sisakin kaden kautta.	</div>
 
-<div class="versenum">8.</div> Mutta heidan pitaa kuitenkin hanelle alamaiset oleman, etta he tietaisivat, mika se on, palvella minua, ja palvella valtakuntia maan paalla.	
+<div class="theverse"><div class="versenum">8.</div> Mutta heidan pitaa kuitenkin hanelle alamaiset oleman, etta he tietaisivat, mika se on, palvella minua, ja palvella valtakuntia maan paalla.	</div>
 
-<div class="versenum">9.</div> Niin Sisak Egyptin kuningas meni Jerusalemiin ja otti Herran huoneen tavarat ja kuninkaan huoneen tavarat: ne kaikki otti han pois. Ja han otti myos ne kultakilvet, jotka Salomo oli tehda antanut.	
+<div class="theverse"><div class="versenum">9.</div> Niin Sisak Egyptin kuningas meni Jerusalemiin ja otti Herran huoneen tavarat ja kuninkaan huoneen tavarat: ne kaikki otti han pois. Ja han otti myos ne kultakilvet, jotka Salomo oli tehda antanut.	</div>
 
-<div class="versenum">10.</div> Joiden siaan kuningas Rehabeam teetti vaskiset kilvet ja antoi vartiain paamiehille tallelle, jotka kuninkaan huoneen ovea vartioitsivat.	
+<div class="theverse"><div class="versenum">10.</div> Joiden siaan kuningas Rehabeam teetti vaskiset kilvet ja antoi vartiain paamiehille tallelle, jotka kuninkaan huoneen ovea vartioitsivat.	</div>
 
-<div class="versenum">11.</div> Ja niin usein kuin kuningas meni Herran huoneesen, tulivat vartiat ja kantoivat niita, ja veivat ne sitte jalleen vartiain huoneesen.	
+<div class="theverse"><div class="versenum">11.</div> Ja niin usein kuin kuningas meni Herran huoneesen, tulivat vartiat ja kantoivat niita, ja veivat ne sitte jalleen vartiain huoneesen.	</div>
 
-<div class="versenum">12.</div> Ja koska han noyryytti itsensa, sentahden Herran viha kaantyi hanesta pois, niin ettei han perati kadotettu; silla viela jotain hyvaa loydettiin Juudassa.	
+<div class="theverse"><div class="versenum">12.</div> Ja koska han noyryytti itsensa, sentahden Herran viha kaantyi hanesta pois, niin ettei han perati kadotettu; silla viela jotain hyvaa loydettiin Juudassa.	</div>
 
-<div class="versenum">13.</div> Niin kuningas Rehabeam vahvistui Jerusalemissa, ja hallitsi. Ja Rehabeam oli yhden ajastaikainen viidettakymmenta tullessansa kuninkaaksi, ja hallitsi Jerusalemissa seitsemantoistakymmenta ajastaikaa, siina kaupungissa, jonka Herra kaikista Israelin sukukunnista valinnut oli, asettaaksensa siihen nimensa. Ja hanen aitinsa nimi oli Naema Ammonilainen.	
+<div class="theverse"><div class="versenum">13.</div> Niin kuningas Rehabeam vahvistui Jerusalemissa, ja hallitsi. Ja Rehabeam oli yhden ajastaikainen viidettakymmenta tullessansa kuninkaaksi, ja hallitsi Jerusalemissa seitsemantoistakymmenta ajastaikaa, siina kaupungissa, jonka Herra kaikista Israelin sukukunnista valinnut oli, asettaaksensa siihen nimensa. Ja hanen aitinsa nimi oli Naema Ammonilainen.	</div>
 
-<div class="versenum">14.</div> Ja han teki pahoin, ettei han valmistanut sydantansa Herraa etsimaan.	
+<div class="theverse"><div class="versenum">14.</div> Ja han teki pahoin, ettei han valmistanut sydantansa Herraa etsimaan.	</div>
 
-<div class="versenum">15.</div> Ja Rehabeamin teot, ensimaiset ja viimeiset, eiko ne ole kirjoitetut Semajan prophetan ja Iddon nakian sanoissa, joissa kirjoitetaan sukukunnat, niin myos Rehabeamin ja Jerobeamin sodat kaikkina aikoina.	
+<div class="theverse"><div class="versenum">15.</div> Ja Rehabeamin teot, ensimaiset ja viimeiset, eiko ne ole kirjoitetut Semajan prophetan ja Iddon nakian sanoissa, joissa kirjoitetaan sukukunnat, niin myos Rehabeamin ja Jerobeamin sodat kaikkina aikoina.	</div>
 
-<div class="versenum">16.</div> Ja Rehabeam nukkui isainsa kanssa ja haudattiin Davidin kaupunkiin; ja hanen poikansa Abia tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">16.</div> Ja Rehabeam nukkui isainsa kanssa ja haudattiin Davidin kaupunkiin; ja hanen poikansa Abia tuli kuninkaaksi hanen siaansa.	</div>
 </body>
 </html>

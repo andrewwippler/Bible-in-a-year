@@ -4,84 +4,84 @@
 </head>
 <body><div class="chaptertitle">Johanneksen 18	</div>
 	
-<div class="versenum">1.</div> Kuin Jesus namat oli sanonut, meni han ulos opetuslastensa kanssa Kedronin ojan ylitse: siella oli yrttitarha, johon han meni sisalle ja hanen opetuslapsensa.	
+<div class="theverse"><div class="versenum">1.</div> Kuin Jesus namat oli sanonut, meni han ulos opetuslastensa kanssa Kedronin ojan ylitse: siella oli yrttitarha, johon han meni sisalle ja hanen opetuslapsensa.	</div>
 
-<div class="versenum">2.</div> Mutta Juudas, joka hanen petti, tiesi myos sen paikan; silla Jesus tuli sinne usein opetuslastensa kanssa.	
+<div class="theverse"><div class="versenum">2.</div> Mutta Juudas, joka hanen petti, tiesi myos sen paikan; silla Jesus tuli sinne usein opetuslastensa kanssa.	</div>
 
-<div class="versenum">3.</div> Kuin siis Juudas oli joukon kanssansa ottanut ja palveliat ylimmaisilta papeilta ja Pharisealaisilta, tuli han sinne lyhdyilla, tulisoitoilla ja sota-aseilla.	
+<div class="theverse"><div class="versenum">3.</div> Kuin siis Juudas oli joukon kanssansa ottanut ja palveliat ylimmaisilta papeilta ja Pharisealaisilta, tuli han sinne lyhdyilla, tulisoitoilla ja sota-aseilla.	</div>
 
-<div class="versenum">4.</div> Kuin siis Jesus tiesi kaikki, mita hanelle tapahtuman piti, niin han laksi ja sanoi heille: keta etsitte?	
+<div class="theverse"><div class="versenum">4.</div> Kuin siis Jesus tiesi kaikki, mita hanelle tapahtuman piti, niin han laksi ja sanoi heille: keta etsitte?	</div>
 
-<div class="versenum">5.</div> He vastasivat hanta: Jesusta Natsaretilaista. Sanoi Jesus heille: mina olen! Mutta Juudas, jonka hanen petti, seisoi myos heidan kanssansa.	
+<div class="theverse"><div class="versenum">5.</div> He vastasivat hanta: Jesusta Natsaretilaista. Sanoi Jesus heille: mina olen! Mutta Juudas, jonka hanen petti, seisoi myos heidan kanssansa.	</div>
 
-<div class="versenum">6.</div> Kuin siis Jesus sanoi heille: mina olen, astuivat he takaperin ja lankesivat maahan.	
+<div class="theverse"><div class="versenum">6.</div> Kuin siis Jesus sanoi heille: mina olen, astuivat he takaperin ja lankesivat maahan.	</div>
 
-<div class="versenum">7.</div> Niin han taas kysyi heilta: keta te etsitte? Mutta he sanoivat: Jesusta Natsarealaista.	
+<div class="theverse"><div class="versenum">7.</div> Niin han taas kysyi heilta: keta te etsitte? Mutta he sanoivat: Jesusta Natsarealaista.	</div>
 
-<div class="versenum">8.</div> Jesus vastasi: mina sanoin teille, etta mina olen. Jos te siis minua etsitte, niin antakaat naiden menna,	
+<div class="theverse"><div class="versenum">8.</div> Jesus vastasi: mina sanoin teille, etta mina olen. Jos te siis minua etsitte, niin antakaat naiden menna,	</div>
 
-<div class="versenum">9.</div> Etta se puhe taytettaisiin, jonka han oli sanonut: en mina niista yhtaan kadottanut, jotka sina minulle annoit.	
+<div class="theverse"><div class="versenum">9.</div> Etta se puhe taytettaisiin, jonka han oli sanonut: en mina niista yhtaan kadottanut, jotka sina minulle annoit.	</div>
 
-<div class="versenum">10.</div> Niin Simon Pietarilla oli miekka, jonka han veti ulos, ja loi ylimmaisen papin palveliaa ja hakkasi pois hanen oikian korvansa; jonka palvelian nimi oli Malkus.	
+<div class="theverse"><div class="versenum">10.</div> Niin Simon Pietarilla oli miekka, jonka han veti ulos, ja loi ylimmaisen papin palveliaa ja hakkasi pois hanen oikian korvansa; jonka palvelian nimi oli Malkus.	</div>
 
-<div class="versenum">11.</div> Niin Jesus sanoi Pietarille: pista miekkas tuppeen: eiko minun pida juoman sita kalkkia, jonka Isa minulle antoi?	
+<div class="theverse"><div class="versenum">11.</div> Niin Jesus sanoi Pietarille: pista miekkas tuppeen: eiko minun pida juoman sita kalkkia, jonka Isa minulle antoi?	</div>
 
-<div class="versenum">12.</div> Niin joukko ja ylimmainen paamies ja Juudalaisten palveliat ottivat kiinni Jesuksen ja sitoivat hanen,	
+<div class="theverse"><div class="versenum">12.</div> Niin joukko ja ylimmainen paamies ja Juudalaisten palveliat ottivat kiinni Jesuksen ja sitoivat hanen,	</div>
 
-<div class="versenum">13.</div> Ja veivat ensin Hannaksen tyko, silla han oli Kaiphaan appi, joka oli sina vuonna ylimmainen pappi.	
+<div class="theverse"><div class="versenum">13.</div> Ja veivat ensin Hannaksen tyko, silla han oli Kaiphaan appi, joka oli sina vuonna ylimmainen pappi.	</div>
 
-<div class="versenum">14.</div> Ja Kaiphas oli se, joka Juudalaisille oli neuvon antanut, etta yhta ihmista olis tarpeellinen kuolettaa kansan edesta.	
+<div class="theverse"><div class="versenum">14.</div> Ja Kaiphas oli se, joka Juudalaisille oli neuvon antanut, etta yhta ihmista olis tarpeellinen kuolettaa kansan edesta.	</div>
 
-<div class="versenum">15.</div> Ja Simon Pietari seurasi Jesusta, ja toinen opetuslapsi. Mutta se opetuslapsi oli ylimmaisen papin tuttava ja meni sisalle Jesuksen kanssa ylimmaisen papin saliin.	
+<div class="theverse"><div class="versenum">15.</div> Ja Simon Pietari seurasi Jesusta, ja toinen opetuslapsi. Mutta se opetuslapsi oli ylimmaisen papin tuttava ja meni sisalle Jesuksen kanssa ylimmaisen papin saliin.	</div>
 
-<div class="versenum">16.</div> Mutta Pietari jai ulos oven eteen. Niin toinen opetuslapsi, joka ylimmaisen papin tuttava oli, meni ulos ja puhui ovenvartialle, ja toi Pietarin sisalle.	
+<div class="theverse"><div class="versenum">16.</div> Mutta Pietari jai ulos oven eteen. Niin toinen opetuslapsi, joka ylimmaisen papin tuttava oli, meni ulos ja puhui ovenvartialle, ja toi Pietarin sisalle.	</div>
 
-<div class="versenum">17.</div> Niin sanoi ovenvartiapiika Pietarille: etko sinakin olen taman miehen opetuslapsia? Han sanoi: en ole.	
+<div class="theverse"><div class="versenum">17.</div> Niin sanoi ovenvartiapiika Pietarille: etko sinakin olen taman miehen opetuslapsia? Han sanoi: en ole.	</div>
 
-<div class="versenum">18.</div> Mutta palveliat, jotka hiilista olivat tulen tehneet, silla kylma oli, seisoivat ja lammittelivat. Ja Pietari seisoi myos heidan kanssansa ja lammietteli.	
+<div class="theverse"><div class="versenum">18.</div> Mutta palveliat, jotka hiilista olivat tulen tehneet, silla kylma oli, seisoivat ja lammittelivat. Ja Pietari seisoi myos heidan kanssansa ja lammietteli.	</div>
 
-<div class="versenum">19.</div> Niin ylimmainen pappi kysyi Jesukselta hanen opetuslapsestansa ja opetuksestansa.	
+<div class="theverse"><div class="versenum">19.</div> Niin ylimmainen pappi kysyi Jesukselta hanen opetuslapsestansa ja opetuksestansa.	</div>
 
-<div class="versenum">20.</div> Jesus vastasi hanta: mina olen maailman edessa julkisesti puhunut: mina olen synagogassa opettanut ja templissa, johonka Juudalaiset joka paikasta kokoon tulevat, ja en ole mitaan salaisuudessa puhunut.	
+<div class="theverse"><div class="versenum">20.</div> Jesus vastasi hanta: mina olen maailman edessa julkisesti puhunut: mina olen synagogassa opettanut ja templissa, johonka Juudalaiset joka paikasta kokoon tulevat, ja en ole mitaan salaisuudessa puhunut.	</div>
 
-<div class="versenum">21.</div> Mitas minulta kysyt? Kysy niilta, jotka kuulivat, mita mina heille puhunut olen. Katso, ne tietavat, mita mina sanonut olen.	
+<div class="theverse"><div class="versenum">21.</div> Mitas minulta kysyt? Kysy niilta, jotka kuulivat, mita mina heille puhunut olen. Katso, ne tietavat, mita mina sanonut olen.	</div>
 
-<div class="versenum">22.</div> Mutta kuin han naita puhui, antoi yksi niista palvelioita, jotka lasna seisoivat, Jesukselle korvapuustin ja sanoi: niinko sina vastaat ylimmaista pappia!	
+<div class="theverse"><div class="versenum">22.</div> Mutta kuin han naita puhui, antoi yksi niista palvelioita, jotka lasna seisoivat, Jesukselle korvapuustin ja sanoi: niinko sina vastaat ylimmaista pappia!	</div>
 
-<div class="versenum">23.</div> Jesus vastasi hanta: jos mina pahasti puhuin, niin tunnusta se pahaksi, mutta jos mina oikein puhuin, miksis minua lyot?	
+<div class="theverse"><div class="versenum">23.</div> Jesus vastasi hanta: jos mina pahasti puhuin, niin tunnusta se pahaksi, mutta jos mina oikein puhuin, miksis minua lyot?	</div>
 
-<div class="versenum">24.</div> Niin Hannas lahetti hanen sidottuna ylimmaisen papin Kaiphaan tyko.	
+<div class="theverse"><div class="versenum">24.</div> Niin Hannas lahetti hanen sidottuna ylimmaisen papin Kaiphaan tyko.	</div>
 
-<div class="versenum">25.</div> Mutta Simon Pietari seisoi ja lammitteli. Niin he sanoivat hanelle: etko sina ole myos hanen opetuslapsiansa? Han kielsi ja sanoi: en ole.	
+<div class="theverse"><div class="versenum">25.</div> Mutta Simon Pietari seisoi ja lammitteli. Niin he sanoivat hanelle: etko sina ole myos hanen opetuslapsiansa? Han kielsi ja sanoi: en ole.	</div>
 
-<div class="versenum">26.</div> Sanoi hanelle yksi ylimmaisen papin palvelioista, sen lanko, jonka korvan Pietari hakkasi pois: enko mina sinua nahnyt yrttitarhassa hanen kanssansa?	
+<div class="theverse"><div class="versenum">26.</div> Sanoi hanelle yksi ylimmaisen papin palvelioista, sen lanko, jonka korvan Pietari hakkasi pois: enko mina sinua nahnyt yrttitarhassa hanen kanssansa?	</div>
 
-<div class="versenum">27.</div> Niin Pietari taas kielsi, ja kohta kukko lauloi.	
+<div class="theverse"><div class="versenum">27.</div> Niin Pietari taas kielsi, ja kohta kukko lauloi.	</div>
 
-<div class="versenum">28.</div> Niin he veivat Jesuksen Kaiphaan tykoa raastupaan. Mutta se oli aamu, ja ei he menneet raastupaan, ettei he itsiansa saastuttaisi, vaan soisivat paasiaislampaan.	
+<div class="theverse"><div class="versenum">28.</div> Niin he veivat Jesuksen Kaiphaan tykoa raastupaan. Mutta se oli aamu, ja ei he menneet raastupaan, ettei he itsiansa saastuttaisi, vaan soisivat paasiaislampaan.	</div>
 
-<div class="versenum">29.</div> Niin Pilatus meni ulos heidan tykonsa ja sanoi: mita kannetta te tuotte tata miesta vastaan?	
+<div class="theverse"><div class="versenum">29.</div> Niin Pilatus meni ulos heidan tykonsa ja sanoi: mita kannetta te tuotte tata miesta vastaan?	</div>
 
-<div class="versenum">30.</div> He vastasivat ja sanoivat hanelle: ellei han pahantekia olisi, emme olisi hanta sinun haltuus antaneet.	
+<div class="theverse"><div class="versenum">30.</div> He vastasivat ja sanoivat hanelle: ellei han pahantekia olisi, emme olisi hanta sinun haltuus antaneet.	</div>
 
-<div class="versenum">31.</div> Niin Pilatus sanoi heille: ottakaat te hanta ja tuomitkaat hanta teidan lakinne jalkeen. Juudalaiset sanoivat siis hanelle: meidan ei sovi ketaan tappaa;	
+<div class="theverse"><div class="versenum">31.</div> Niin Pilatus sanoi heille: ottakaat te hanta ja tuomitkaat hanta teidan lakinne jalkeen. Juudalaiset sanoivat siis hanelle: meidan ei sovi ketaan tappaa;	</div>
 
-<div class="versenum">32.</div> Etta jesuksen puhe taytettaisiin, kuin han sanoi, merkiten, milla kuolemalla hanen piti kuoleman.	
+<div class="theverse"><div class="versenum">32.</div> Etta jesuksen puhe taytettaisiin, kuin han sanoi, merkiten, milla kuolemalla hanen piti kuoleman.	</div>
 
-<div class="versenum">33.</div> Niin Pilatus taas meni raastupaan, kutsui Jesuksen ja sanoi hanelle: oletkos sina Juudalaisten kuningas?	
+<div class="theverse"><div class="versenum">33.</div> Niin Pilatus taas meni raastupaan, kutsui Jesuksen ja sanoi hanelle: oletkos sina Juudalaisten kuningas?	</div>
 
-<div class="versenum">34.</div> Jesus vastasi hanta: sanotko sina sen itsestas, eli ovatko muut sen minusta sinulle sanoneet?	
+<div class="theverse"><div class="versenum">34.</div> Jesus vastasi hanta: sanotko sina sen itsestas, eli ovatko muut sen minusta sinulle sanoneet?	</div>
 
-<div class="versenum">35.</div> Pilatus vastasi: olenko mina Juudalainen? Sinun kansas ja ylimmaiset papit antoivat ylon sinun minulle: mitas tehnyt olet?	
+<div class="theverse"><div class="versenum">35.</div> Pilatus vastasi: olenko mina Juudalainen? Sinun kansas ja ylimmaiset papit antoivat ylon sinun minulle: mitas tehnyt olet?	</div>
 
-<div class="versenum">36.</div> Jesus vastasi: ei minun valtakuntani ole tasta maailmasta. Jos minun valtakuntani olis tasta maailmasta, niin tosin minun palveliani olisivat sotineet, etten mina olisi tullut annetuksi ylon Juudalaisille; mutta ei minun valtakuntakuntani ole taalta.	
+<div class="theverse"><div class="versenum">36.</div> Jesus vastasi: ei minun valtakuntani ole tasta maailmasta. Jos minun valtakuntani olis tasta maailmasta, niin tosin minun palveliani olisivat sotineet, etten mina olisi tullut annetuksi ylon Juudalaisille; mutta ei minun valtakuntakuntani ole taalta.	</div>
 
-<div class="versenum">37.</div> Niin Pilatus sanoi hanelle: niin sina olet kuningas? Jesus vastasi: sina sen sanot, etta mina olen kuningas. Sita varten olen mina syntynyt ja sita varten maailmaan tullut, etta mina totuden tunnustan. Jokainen, joka on totuudesta, se kuulee minun aaneni.	
+<div class="theverse"><div class="versenum">37.</div> Niin Pilatus sanoi hanelle: niin sina olet kuningas? Jesus vastasi: sina sen sanot, etta mina olen kuningas. Sita varten olen mina syntynyt ja sita varten maailmaan tullut, etta mina totuden tunnustan. Jokainen, joka on totuudesta, se kuulee minun aaneni.	</div>
 
-<div class="versenum">38.</div> Pilatus sanoi hanelle: mina on totuus? Ja kuin han sen sanonut oli, meni han taas ulos Juudalaisten tyko ja sanoi heille: en mina loyda yhtaan syyta hanessa.	
+<div class="theverse"><div class="versenum">38.</div> Pilatus sanoi hanelle: mina on totuus? Ja kuin han sen sanonut oli, meni han taas ulos Juudalaisten tyko ja sanoi heille: en mina loyda yhtaan syyta hanessa.	</div>
 
-<div class="versenum">39.</div> Mutta teilla on tapa, etta minun pitaa teille paastaman yhden paasiaisena: tahdotteko siis, etta mina paastan teille Juudalaisten kuninkaan?	
+<div class="theverse"><div class="versenum">39.</div> Mutta teilla on tapa, etta minun pitaa teille paastaman yhden paasiaisena: tahdotteko siis, etta mina paastan teille Juudalaisten kuninkaan?	</div>
 
-<div class="versenum">40.</div> Niin he huusivat taas kaikki, sanoen: ei tata, vaan Barabbasta. Mutta Barabbas oli ryovari.	
+<div class="theverse"><div class="versenum">40.</div> Niin he huusivat taas kaikki, sanoen: ei tata, vaan Barabbasta. Mutta Barabbas oli ryovari.	</div>
 </body>
 </html>

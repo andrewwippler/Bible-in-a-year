@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Ruutin 2	</div>
 	
-<div class="versenum">1.</div> Oli myos Noomin miehen lanko, jalo, voimallinen mies, EliMelekin suvusta; ja hanen nimensa oli Boas.	
+<div class="theverse"><div class="versenum">1.</div> Oli myos Noomin miehen lanko, jalo, voimallinen mies, EliMelekin suvusta; ja hanen nimensa oli Boas.	</div>
 
-<div class="versenum">2.</div> Ja Ruut Moabilainen sanoi Noomille: salli minun menna pellolle paita noukkimaan sen perassa, jonka edessa mina loydan armon. Sanoi han hanelle: mene, tyttareni.	
+<div class="theverse"><div class="versenum">2.</div> Ja Ruut Moabilainen sanoi Noomille: salli minun menna pellolle paita noukkimaan sen perassa, jonka edessa mina loydan armon. Sanoi han hanelle: mene, tyttareni.	</div>
 
-<div class="versenum">3.</div> Ja han meni ja paasi noukkimaan pellolla elonleikkaajain jalissa, ja se pelto, johon han osaantui, oli Boaksen perintoosa, joka oli EliMelekin suvusta.	
+<div class="theverse"><div class="versenum">3.</div> Ja han meni ja paasi noukkimaan pellolla elonleikkaajain jalissa, ja se pelto, johon han osaantui, oli Boaksen perintoosa, joka oli EliMelekin suvusta.	</div>
 
-<div class="versenum">4.</div> Ja katso, Boas tuli Betlehemista ja sanoi elonleikkaajille: Herra olkoon teidan kanssanne. Ja he sanoivat hanelle: Herra siunatkoon sinua.	
+<div class="theverse"><div class="versenum">4.</div> Ja katso, Boas tuli Betlehemista ja sanoi elonleikkaajille: Herra olkoon teidan kanssanne. Ja he sanoivat hanelle: Herra siunatkoon sinua.	</div>
 
-<div class="versenum">5.</div> Ja Boas sanoi palveliallensa, elonleikkaajain paamiehelle: kenenka tama piika on?	
+<div class="theverse"><div class="versenum">5.</div> Ja Boas sanoi palveliallensa, elonleikkaajain paamiehelle: kenenka tama piika on?	</div>
 
-<div class="versenum">6.</div> Ja palvelia, elonleikkaajain paamies, vastasi ja sanoi: se on Moabilainen piika, joka tuli Noomin kanssa Moabilaisten maalta,	
+<div class="theverse"><div class="versenum">6.</div> Ja palvelia, elonleikkaajain paamies, vastasi ja sanoi: se on Moabilainen piika, joka tuli Noomin kanssa Moabilaisten maalta,	</div>
 
-<div class="versenum">7.</div> Ja han sanoi: anna minun noukkia ja koota lyhdetten valilla elonleikkaajain perassa. Ja han on tullut ja seisonut aamusta niin tahanasti, ja on vaan vahan aikaa huoneessa ollut.	
+<div class="theverse"><div class="versenum">7.</div> Ja han sanoi: anna minun noukkia ja koota lyhdetten valilla elonleikkaajain perassa. Ja han on tullut ja seisonut aamusta niin tahanasti, ja on vaan vahan aikaa huoneessa ollut.	</div>
 
-<div class="versenum">8.</div> Ja Boas sanoi Ruutille: kuules minua, tyttareni! Ala mene muiden pellolle poimimaan, ala myos tasta lahde, mutta ole tassa minun piikaini kanssa.	
+<div class="theverse"><div class="versenum">8.</div> Ja Boas sanoi Ruutille: kuules minua, tyttareni! Ala mene muiden pellolle poimimaan, ala myos tasta lahde, mutta ole tassa minun piikaini kanssa.	</div>
 
-<div class="versenum">9.</div> Katso visusti, milla pellolla he eloa ottavat, ja seuraa heita: mina sanoin palvelioilleni, ettei yksikaan sinua vahingoitse. Ja jos sina janoat, niin mene astiain tyko ja juo siita, mita minun palveliani ovat ammuntaneet.	
+<div class="theverse"><div class="versenum">9.</div> Katso visusti, milla pellolla he eloa ottavat, ja seuraa heita: mina sanoin palvelioilleni, ettei yksikaan sinua vahingoitse. Ja jos sina janoat, niin mene astiain tyko ja juo siita, mita minun palveliani ovat ammuntaneet.	</div>
 
-<div class="versenum">10.</div> Ja han lankesi kasvoillensa ja kumarsi maahan, ja sanoi hanelle: minkatahden olen mina loytanyt armon sinun kasvois edessa, etta tunnet minun, joka kuitenkin olen muukalainen?	
+<div class="theverse"><div class="versenum">10.</div> Ja han lankesi kasvoillensa ja kumarsi maahan, ja sanoi hanelle: minkatahden olen mina loytanyt armon sinun kasvois edessa, etta tunnet minun, joka kuitenkin olen muukalainen?	</div>
 
-<div class="versenum">11.</div> Boas vastasi ja sanoi hanelle: minulle ilmoitettiin kaikki, mitas tehnyt olet anopilles, sittekuin sinun miehes kuoli: ettas jatit isas ja aitis, ja isas maan, ja matkustit kansan tyko, jota et sina ennen tuntenut.	
+<div class="theverse"><div class="versenum">11.</div> Boas vastasi ja sanoi hanelle: minulle ilmoitettiin kaikki, mitas tehnyt olet anopilles, sittekuin sinun miehes kuoli: ettas jatit isas ja aitis, ja isas maan, ja matkustit kansan tyko, jota et sina ennen tuntenut.	</div>
 
-<div class="versenum">12.</div> Herra maksakoon sinulle tyos, ja sinun palkkas olkoon taydellinen Herran Israelin Jumalan tykona, jonka tyko sina olet tullut, turvaamaan hanen siipeinsa alle!	
+<div class="theverse"><div class="versenum">12.</div> Herra maksakoon sinulle tyos, ja sinun palkkas olkoon taydellinen Herran Israelin Jumalan tykona, jonka tyko sina olet tullut, turvaamaan hanen siipeinsa alle!	</div>
 
-<div class="versenum">13.</div> Han sanoi: anna minun loytaa armo sinun kasvois edessa, minun herrani; silla sina olet lohduttanut minua ja olet puhutellut piikaas suloisesti, vaikka en mina ole niinkuin joku sinun piioistas.	
+<div class="theverse"><div class="versenum">13.</div> Han sanoi: anna minun loytaa armo sinun kasvois edessa, minun herrani; silla sina olet lohduttanut minua ja olet puhutellut piikaas suloisesti, vaikka en mina ole niinkuin joku sinun piioistas.	</div>
 
-<div class="versenum">14.</div> Boas sanoi jalleen hanelle: koska ruan aika joutuu, niin tule tanne, syo leipaa ja kasta palas etikkaan. Niin han istui elonleikkaajain viereen, ja han antoi hanelle kuivatuita tahkapaita, han soi ja ravittiin, ja jatti jotakin tahteeksi.	
+<div class="theverse"><div class="versenum">14.</div> Boas sanoi jalleen hanelle: koska ruan aika joutuu, niin tule tanne, syo leipaa ja kasta palas etikkaan. Niin han istui elonleikkaajain viereen, ja han antoi hanelle kuivatuita tahkapaita, han soi ja ravittiin, ja jatti jotakin tahteeksi.	</div>
 
-<div class="versenum">15.</div> Kuin han nousi poimimaan, kaski Boas palvelioitansa ja sanoi: sallikaat hanen poimia lyhdetten keskella ja alkaat hanta havaisko.	
+<div class="theverse"><div class="versenum">15.</div> Kuin han nousi poimimaan, kaski Boas palvelioitansa ja sanoi: sallikaat hanen poimia lyhdetten keskella ja alkaat hanta havaisko.	</div>
 
-<div class="versenum">16.</div> Varistelkaat myos sitomista lapimitten hanelle, ja jattakaat siihen, etta han ne poimis, ja alkaan yksikaan hanta nuhdelko!	
+<div class="theverse"><div class="versenum">16.</div> Varistelkaat myos sitomista lapimitten hanelle, ja jattakaat siihen, etta han ne poimis, ja alkaan yksikaan hanta nuhdelko!	</div>
 
-<div class="versenum">17.</div> Niin poimi han pellolla ehtooseen asti, ja han tappoi ne poimitut; ja oli liki yksi epha ohria.	
+<div class="theverse"><div class="versenum">17.</div> Niin poimi han pellolla ehtooseen asti, ja han tappoi ne poimitut; ja oli liki yksi epha ohria.	</div>
 
-<div class="versenum">18.</div> Ja han kantoi ne ja vei kaupunkiin, ja osoitti anopillensa, mita han oli poiminut. Toi myos ne ruan tahteet, joista han oli itsensa ravinnut ja antoi hanelle.	
+<div class="theverse"><div class="versenum">18.</div> Ja han kantoi ne ja vei kaupunkiin, ja osoitti anopillensa, mita han oli poiminut. Toi myos ne ruan tahteet, joista han oli itsensa ravinnut ja antoi hanelle.	</div>
 
-<div class="versenum">19.</div> Silloin sanoi hanen anoppinsa hanelle: kussas olet poiminut tanapana, ja kussas olet tyota tehnyt? Siunattu olkoon se, joka sinun tuntenut on! Ja han ilmoitti anopillensa, kenenka tykona han tyota teki, sanoen: se mies, jonka tykona mina tanapana tyota tein, kutsutaan Boas.	
+<div class="theverse"><div class="versenum">19.</div> Silloin sanoi hanen anoppinsa hanelle: kussas olet poiminut tanapana, ja kussas olet tyota tehnyt? Siunattu olkoon se, joka sinun tuntenut on! Ja han ilmoitti anopillensa, kenenka tykona han tyota teki, sanoen: se mies, jonka tykona mina tanapana tyota tein, kutsutaan Boas.	</div>
 
-<div class="versenum">20.</div> Noomi sanoi miniallensa: han olkoon siunattu Herralta, joka ei ole ollut armotoin enemmin elavia kuin kuolleitakaan vastaan. Ja Noomi sanoi hanelle: tama mies on meidan lahimmaisemme ja on meidan perillisemme.	
+<div class="theverse"><div class="versenum">20.</div> Noomi sanoi miniallensa: han olkoon siunattu Herralta, joka ei ole ollut armotoin enemmin elavia kuin kuolleitakaan vastaan. Ja Noomi sanoi hanelle: tama mies on meidan lahimmaisemme ja on meidan perillisemme.	</div>
 
-<div class="versenum">21.</div> Ja Ruut Moabilainen sanoi: han sanoi myos minulle: ole minun palvelioitteni kanssa, siihenasti kuin he lopettavat kaiken minun eloni.	
+<div class="theverse"><div class="versenum">21.</div> Ja Ruut Moabilainen sanoi: han sanoi myos minulle: ole minun palvelioitteni kanssa, siihenasti kuin he lopettavat kaiken minun eloni.	</div>
 
-<div class="versenum">22.</div> Noomi sanoi Ruutille miniallensa: minun tyttareni, hyva on sinun menna hanen piikainsa kanssa, ettei joku olisi sinua vastoin toisen pellolla.	
+<div class="theverse"><div class="versenum">22.</div> Noomi sanoi Ruutille miniallensa: minun tyttareni, hyva on sinun menna hanen piikainsa kanssa, ettei joku olisi sinua vastoin toisen pellolla.	</div>
 
-<div class="versenum">23.</div> Ja han viipyi Boaksen piikain tykona ja poimi tahkapaita, siihenasti kuin ohrat ja nisut leikattiin; ja tuli jalleen anoppinsa tyko.	
+<div class="theverse"><div class="versenum">23.</div> Ja han viipyi Boaksen piikain tykona ja poimi tahkapaita, siihenasti kuin ohrat ja nisut leikattiin; ja tuli jalleen anoppinsa tyko.	</div>
 </body>
 </html>

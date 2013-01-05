@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Psalmien 57	</div>
 	
-<div class="versenum">1.</div> Davidin kultainen kappale, edellaveisaajalle, ettei han hukkunut, kuin han Saulin edesta pakeni luolaan. (H57:2) Jumala, ole minulle armollinen, ole minulle armollinen; silla sinuun minun sieluni uskaltaa, ja sinun siipeis varjon alle mina turvaan siihenasti, etta ahdistukset ohitse kayvat.	
+<div class="theverse"><div class="versenum">1.</div> Davidin kultainen kappale, edellaveisaajalle, ettei han hukkunut, kuin han Saulin edesta pakeni luolaan. (H57:2) Jumala, ole minulle armollinen, ole minulle armollinen; silla sinuun minun sieluni uskaltaa, ja sinun siipeis varjon alle mina turvaan siihenasti, etta ahdistukset ohitse kayvat.	</div>
 
-<div class="versenum">2.</div> Mina huudan korkeimman Jumalan tyko, sen Jumalan tyko, joka minun vaivani paalle lopun tekee.	
+<div class="theverse"><div class="versenum">2.</div> Mina huudan korkeimman Jumalan tyko, sen Jumalan tyko, joka minun vaivani paalle lopun tekee.	</div>
 
-<div class="versenum">3.</div> Han lahettaa taivaasta, ja varjelee minua, ja antaa ne hapiaan tulla, jotka minua tahtovat niella ylos, Sela! lahettakoon Jumala armonsa ja totuutensa.	
+<div class="theverse"><div class="versenum">3.</div> Han lahettaa taivaasta, ja varjelee minua, ja antaa ne hapiaan tulla, jotka minua tahtovat niella ylos, Sela! lahettakoon Jumala armonsa ja totuutensa.	</div>
 
-<div class="versenum">4.</div> Minun sieluni makaa jalopeurain keskella, jotka ovat niinkuin tulen liekki; ihmisten lapset, joiden hampaat ovat keihas ja nuolet, ja heidan kielensa terava miekka.	
+<div class="theverse"><div class="versenum">4.</div> Minun sieluni makaa jalopeurain keskella, jotka ovat niinkuin tulen liekki; ihmisten lapset, joiden hampaat ovat keihas ja nuolet, ja heidan kielensa terava miekka.	</div>
 
-<div class="versenum">5.</div> Korota itses, Jumala, taivasten ylitse ja sinun kunnias ylitse kaiken maan.	
+<div class="theverse"><div class="versenum">5.</div> Korota itses, Jumala, taivasten ylitse ja sinun kunnias ylitse kaiken maan.	</div>
 
-<div class="versenum">6.</div> Verkon he virittivat minun kaymiseni eteen, ja minun sieluni valtti: kuopan he kaivoivat minun eteeni, ja siihen he itse lankesivat, Sela!	
+<div class="theverse"><div class="versenum">6.</div> Verkon he virittivat minun kaymiseni eteen, ja minun sieluni valtti: kuopan he kaivoivat minun eteeni, ja siihen he itse lankesivat, Sela!	</div>
 
-<div class="versenum">7.</div> Valmis on sydameni, Jumala, valmis on sydameni veisaamaan ja kiittamaan.	
+<div class="theverse"><div class="versenum">7.</div> Valmis on sydameni, Jumala, valmis on sydameni veisaamaan ja kiittamaan.	</div>
 
-<div class="versenum">8.</div> Heraa kunniani, heraa psaltari ja kantele, varhain mina tahdon herata.	
+<div class="theverse"><div class="versenum">8.</div> Heraa kunniani, heraa psaltari ja kantele, varhain mina tahdon herata.	</div>
 
-<div class="versenum">9.</div> Herra, sinua mina tahdon kiittaa kansain seassa, ja veisata pakanain seassa.	
+<div class="theverse"><div class="versenum">9.</div> Herra, sinua mina tahdon kiittaa kansain seassa, ja veisata pakanain seassa.	</div>
 
-<div class="versenum">10.</div> Silla sinun armos on suuri hamaan taivaisiin asti, ja sinun totuutes pilviin asti.	
+<div class="theverse"><div class="versenum">10.</div> Silla sinun armos on suuri hamaan taivaisiin asti, ja sinun totuutes pilviin asti.	</div>
 
-<div class="versenum">11.</div> Korota itses, Jumala, taivasten ylitse, ja sinun kunnias ylitse kaiken maan.	
+<div class="theverse"><div class="versenum">11.</div> Korota itses, Jumala, taivasten ylitse, ja sinun kunnias ylitse kaiken maan.	</div>
 </body>
 </html>

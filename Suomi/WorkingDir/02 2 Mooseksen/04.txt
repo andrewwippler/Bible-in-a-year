@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 4	</div>
 	
-<div class="versenum">1.</div> Moses vastasi, ja sanoi: katso, ei he usko minua, eika ole kuuliaiset minun aanelleni; vaan sanovat: ei ole Herra nakynyt sinulle.	
+<div class="theverse"><div class="versenum">1.</div> Moses vastasi, ja sanoi: katso, ei he usko minua, eika ole kuuliaiset minun aanelleni; vaan sanovat: ei ole Herra nakynyt sinulle.	</div>
 
-<div class="versenum">2.</div> Herra sanoi hanelle: mika se on sinun kadessas? Han sanoi: sauva.	
+<div class="theverse"><div class="versenum">2.</div> Herra sanoi hanelle: mika se on sinun kadessas? Han sanoi: sauva.	</div>
 
-<div class="versenum">3.</div> Ja han sanoi: heita se maahan, ja han heitti sen maahan, ja se muuttui karmeeksi. Ja Moses pakeni hanta.	
+<div class="theverse"><div class="versenum">3.</div> Ja han sanoi: heita se maahan, ja han heitti sen maahan, ja se muuttui karmeeksi. Ja Moses pakeni hanta.	</div>
 
-<div class="versenum">4.</div> Mutta Herra sanoi Mosekselle: ojenna kates, ja rupee hanen pyrstoonsa. Niin han ojensi katensa ja rupesi haneen, ja se muuttui sauvaksi hanen kadessansa.	
+<div class="theverse"><div class="versenum">4.</div> Mutta Herra sanoi Mosekselle: ojenna kates, ja rupee hanen pyrstoonsa. Niin han ojensi katensa ja rupesi haneen, ja se muuttui sauvaksi hanen kadessansa.	</div>
 
-<div class="versenum">5.</div> Sentahden pitaa heidan uskoman, etta Herra on nakynyt sinulle, heidan isainsa Jumala, Abrahamin Jumala, Isaakin Jumala ja Jakobin Jumala.	
+<div class="theverse"><div class="versenum">5.</div> Sentahden pitaa heidan uskoman, etta Herra on nakynyt sinulle, heidan isainsa Jumala, Abrahamin Jumala, Isaakin Jumala ja Jakobin Jumala.	</div>
 
-<div class="versenum">6.</div> Ja Herra sanoi viela hanelle: pista nyt kates povees. Ja han pisti sen poveensa. Ja koska han veti sen ulos, katso, hanen katensa oli spitalinen niinkuin lumi.	
+<div class="theverse"><div class="versenum">6.</div> Ja Herra sanoi viela hanelle: pista nyt kates povees. Ja han pisti sen poveensa. Ja koska han veti sen ulos, katso, hanen katensa oli spitalinen niinkuin lumi.	</div>
 
-<div class="versenum">7.</div> Ja han sanoi: pista kates jallensa povees, ja han pisti katensa jalleen poveensa, ja veti jallensa sen ulos povestansa, ja katso, se tuli niinkuin hanen ihonsa.	
+<div class="theverse"><div class="versenum">7.</div> Ja han sanoi: pista kates jallensa povees, ja han pisti katensa jalleen poveensa, ja veti jallensa sen ulos povestansa, ja katso, se tuli niinkuin hanen ihonsa.	</div>
 
-<div class="versenum">8.</div> Ja on tapahtuva, jollei he sinua usko, eika ole kuuliaiset sinun aanelles yhden ihmeen tahden, niin he uskovat sinun aanes toisen ihmeen tahden.	
+<div class="theverse"><div class="versenum">8.</div> Ja on tapahtuva, jollei he sinua usko, eika ole kuuliaiset sinun aanelles yhden ihmeen tahden, niin he uskovat sinun aanes toisen ihmeen tahden.	</div>
 
-<div class="versenum">9.</div> Jollei he usko niita kahta ihmetta, eika ole kuuliaiset sinun aanelles, niin ota vetta virrasta, ja kaada kuivalle maalle, niin se vesi, jonkas olet ottanut virrasta, tulee vereksi kuivalla maalla.	
+<div class="theverse"><div class="versenum">9.</div> Jollei he usko niita kahta ihmetta, eika ole kuuliaiset sinun aanelles, niin ota vetta virrasta, ja kaada kuivalle maalle, niin se vesi, jonkas olet ottanut virrasta, tulee vereksi kuivalla maalla.	</div>
 
-<div class="versenum">10.</div> Niin sanoi Moses Herralle: Ah Herra, en ole mina tahan asti puhelias mies ollut, enka myos sitte kuin sina palvelias kanssa puhunut olet; silla minulla on hidas puhe ja kankia kieli.	
+<div class="theverse"><div class="versenum">10.</div> Niin sanoi Moses Herralle: Ah Herra, en ole mina tahan asti puhelias mies ollut, enka myos sitte kuin sina palvelias kanssa puhunut olet; silla minulla on hidas puhe ja kankia kieli.	</div>
 
-<div class="versenum">11.</div> Ja Herra sanoi hanelle: kuka on luonut ihmisen suun? Eli kuka on tehnyt mykan taikka kuuron, eli nakevan taikka sokian? Enko mina Herra (ole niita tehnyt)?	
+<div class="theverse"><div class="versenum">11.</div> Ja Herra sanoi hanelle: kuka on luonut ihmisen suun? Eli kuka on tehnyt mykan taikka kuuron, eli nakevan taikka sokian? Enko mina Herra (ole niita tehnyt)?	</div>
 
-<div class="versenum">12.</div> Mene siis nyt, mina olen sinun suussas, ja opetan sinua, mita sinun puhuman pitaa.	
+<div class="theverse"><div class="versenum">12.</div> Mene siis nyt, mina olen sinun suussas, ja opetan sinua, mita sinun puhuman pitaa.	</div>
 
-<div class="versenum">13.</div> Moses sanoi: Ah Herra, laheta, jonkas tahdot lahettaa.	
+<div class="theverse"><div class="versenum">13.</div> Moses sanoi: Ah Herra, laheta, jonkas tahdot lahettaa.	</div>
 
-<div class="versenum">14.</div> Niin Herra vihastui suuresti Moseksen paalle, ja sanoi: enko mina tunne Aaronia sinun veljeas, Levin suvusta, etta han on puhelias? Ja katso, han tulee sinua vastaan, ja koska han nakee sinun, niin han iloitsee sydamestansa.	
+<div class="theverse"><div class="versenum">14.</div> Niin Herra vihastui suuresti Moseksen paalle, ja sanoi: enko mina tunne Aaronia sinun veljeas, Levin suvusta, etta han on puhelias? Ja katso, han tulee sinua vastaan, ja koska han nakee sinun, niin han iloitsee sydamestansa.	</div>
 
-<div class="versenum">15.</div> Sinun pitaa puhuman hanelle, ja paneman sanat hanen suuhunsa; ja mina olen sinun ja hanen suunsa kanssa, ja opetan teita, mita teidan pitaa tekeman.	
+<div class="theverse"><div class="versenum">15.</div> Sinun pitaa puhuman hanelle, ja paneman sanat hanen suuhunsa; ja mina olen sinun ja hanen suunsa kanssa, ja opetan teita, mita teidan pitaa tekeman.	</div>
 
-<div class="versenum">16.</div> Ja hanen pitaa puhuman sinun puolestas kansalle. Hanen pitaa oleman sinun suunas, ja sinun pitaa oleman hanelle Jumalana.	
+<div class="theverse"><div class="versenum">16.</div> Ja hanen pitaa puhuman sinun puolestas kansalle. Hanen pitaa oleman sinun suunas, ja sinun pitaa oleman hanelle Jumalana.	</div>
 
-<div class="versenum">17.</div> Ja ota tama sauva katees, jolla sinun pitaa tekeman ihmeita.	
+<div class="theverse"><div class="versenum">17.</div> Ja ota tama sauva katees, jolla sinun pitaa tekeman ihmeita.	</div>
 
-<div class="versenum">18.</div> Niin Moses laksi sielta, ja tuli jallensa appensa Jetron tyko, ja sanoi hanelle: annas minun menna, etta mina palajaisin veljeini tyko, jotka ovat Egyptissa, ja nakisin heita, jos he viela elavat. Ja Jetro sanoi Mosekselle: mene rauhassa.	
+<div class="theverse"><div class="versenum">18.</div> Niin Moses laksi sielta, ja tuli jallensa appensa Jetron tyko, ja sanoi hanelle: annas minun menna, etta mina palajaisin veljeini tyko, jotka ovat Egyptissa, ja nakisin heita, jos he viela elavat. Ja Jetro sanoi Mosekselle: mene rauhassa.	</div>
 
-<div class="versenum">19.</div> Ja Herra sanoi Mosekselle Midianissa: mene ja palaja Egyptiin; silla ne kaikki ovat kuolleet, jotka sinun henkes peraan seisoivat.	
+<div class="theverse"><div class="versenum">19.</div> Ja Herra sanoi Mosekselle Midianissa: mene ja palaja Egyptiin; silla ne kaikki ovat kuolleet, jotka sinun henkes peraan seisoivat.	</div>
 
-<div class="versenum">20.</div> Ja Moses otti emantansa ja poikansa, ja pani ne aasin paalle, ja palasi Egyptiin; ja otti Jumalan sauvan kateensa.	
+<div class="theverse"><div class="versenum">20.</div> Ja Moses otti emantansa ja poikansa, ja pani ne aasin paalle, ja palasi Egyptiin; ja otti Jumalan sauvan kateensa.	</div>
 
-<div class="versenum">21.</div> Ja Herra sanoi Mosekselle: katso, koskas tulet Egyptiin jallensa, ettas teet kaikki ne ihmeet Pharaon edessa, jotka mina olen antanut sinun katees. Ja mina paadutan hanen sydamensa, ja ei han paasta kansaa.	
+<div class="theverse"><div class="versenum">21.</div> Ja Herra sanoi Mosekselle: katso, koskas tulet Egyptiin jallensa, ettas teet kaikki ne ihmeet Pharaon edessa, jotka mina olen antanut sinun katees. Ja mina paadutan hanen sydamensa, ja ei han paasta kansaa.	</div>
 
-<div class="versenum">22.</div> Ja sinun pitaa sanoman Pharaolle: nain sanoo Herra: Israel on minun poikani, minun esikoiseni.	
+<div class="theverse"><div class="versenum">22.</div> Ja sinun pitaa sanoman Pharaolle: nain sanoo Herra: Israel on minun poikani, minun esikoiseni.	</div>
 
-<div class="versenum">23.</div> Ja mina kasken sinulle: paasta minun poikani palvelemaan minua, ja jos et sina tahdo hanta paastaa, katso, mina tapan sinun poikas, sinun esikoises.	
+<div class="theverse"><div class="versenum">23.</div> Ja mina kasken sinulle: paasta minun poikani palvelemaan minua, ja jos et sina tahdo hanta paastaa, katso, mina tapan sinun poikas, sinun esikoises.	</div>
 
-<div class="versenum">24.</div> Ja koska han oli tiella majassa, tuli Herra hanta vastaan, ja tahtoi hanen tappaa.	
+<div class="theverse"><div class="versenum">24.</div> Ja koska han oli tiella majassa, tuli Herra hanta vastaan, ja tahtoi hanen tappaa.	</div>
 
-<div class="versenum">25.</div> Niin Zippora otti kiven, ja ymparileikkasi poikansa esinahan, ja rupesi hanen jalkoihinsa, ja sanoi: sina olet minulle veriylka.	
+<div class="theverse"><div class="versenum">25.</div> Niin Zippora otti kiven, ja ymparileikkasi poikansa esinahan, ja rupesi hanen jalkoihinsa, ja sanoi: sina olet minulle veriylka.	</div>
 
-<div class="versenum">26.</div> Niin han luopui hanesta. Mutta sanoi: veriylka ymparileikkauksen tahden.	
+<div class="theverse"><div class="versenum">26.</div> Niin han luopui hanesta. Mutta sanoi: veriylka ymparileikkauksen tahden.	</div>
 
-<div class="versenum">27.</div> Ja Herra sanoi Aaronille: mene Mosesta vastaan korpeen. Ja han meni, ja tuli hanta vastaan Jumalan vuorella, ja antoi hanen suuta.	
+<div class="theverse"><div class="versenum">27.</div> Ja Herra sanoi Aaronille: mene Mosesta vastaan korpeen. Ja han meni, ja tuli hanta vastaan Jumalan vuorella, ja antoi hanen suuta.	</div>
 
-<div class="versenum">28.</div> Ja Moses ilmoitti Aaronille kaikki Herran sanat, jotka hanen lahetti, ja kaikki ihmeet, jotka han hanet kaskenyt oli.	
+<div class="theverse"><div class="versenum">28.</div> Ja Moses ilmoitti Aaronille kaikki Herran sanat, jotka hanen lahetti, ja kaikki ihmeet, jotka han hanet kaskenyt oli.	</div>
 
-<div class="versenum">29.</div> Niin meni Moses ja Aaron, ja kokosivat kaikki Israelin lasten vanhimmat.	
+<div class="theverse"><div class="versenum">29.</div> Niin meni Moses ja Aaron, ja kokosivat kaikki Israelin lasten vanhimmat.	</div>
 
-<div class="versenum">30.</div> Ja Aaron puhui kaikki ne sanat, jotka Herra Mosekselle puhunut oli, ja teki ihmeita kansan edessa.	
+<div class="theverse"><div class="versenum">30.</div> Ja Aaron puhui kaikki ne sanat, jotka Herra Mosekselle puhunut oli, ja teki ihmeita kansan edessa.	</div>
 
-<div class="versenum">31.</div> Ja kansa uskoi. Ja kuin he kuulivat, etta Herra oli etsinyt Israelin lapsia, nahnyt myos heidan ahdistuksensa, lankesivat he maahan ja rukoilivat.	
+<div class="theverse"><div class="versenum">31.</div> Ja kansa uskoi. Ja kuin he kuulivat, etta Herra oli etsinyt Israelin lapsia, nahnyt myos heidan ahdistuksensa, lankesivat he maahan ja rukoilivat.	</div>
 </body>
 </html>

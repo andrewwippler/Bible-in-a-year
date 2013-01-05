@@ -4,28 +4,28 @@
 </head>
 <body><div class="chaptertitle">Psalmien 30	</div>
 	
-<div class="versenum">1.</div> Psalmi, veisattava Davidin huoneen vihkimisessa. (H30:2) Mina ylistan sinua, Herra, silla sina olet korottanut minua: et myos salli viholliseni iloita minusta.	
+<div class="theverse"><div class="versenum">1.</div> Psalmi, veisattava Davidin huoneen vihkimisessa. (H30:2) Mina ylistan sinua, Herra, silla sina olet korottanut minua: et myos salli viholliseni iloita minusta.	</div>
 
-<div class="versenum">2.</div> Herra minun Jumalani, kuin mina huusin sinua, niin sina teit minun terveeksi.	
+<div class="theverse"><div class="versenum">2.</div> Herra minun Jumalani, kuin mina huusin sinua, niin sina teit minun terveeksi.	</div>
 
-<div class="versenum">3.</div> Herra, sina veit sieluni ulos helvetista: sina olet minun elavana pitanyt niiden mennessa kuoppaan.	
+<div class="theverse"><div class="versenum">3.</div> Herra, sina veit sieluni ulos helvetista: sina olet minun elavana pitanyt niiden mennessa kuoppaan.	</div>
 
-<div class="versenum">4.</div> Pyhat, veisatkaat kiitosta Herralle, ja kiittakaat hanen pyhyytensa muistoksi.	
+<div class="theverse"><div class="versenum">4.</div> Pyhat, veisatkaat kiitosta Herralle, ja kiittakaat hanen pyhyytensa muistoksi.	</div>
 
-<div class="versenum">5.</div> Silla hanen vihansa viipyy silmanrapayksen, ja han ihastuu elamasta: ehtoona on itku, mutta aamulla ilo.	
+<div class="theverse"><div class="versenum">5.</div> Silla hanen vihansa viipyy silmanrapayksen, ja han ihastuu elamasta: ehtoona on itku, mutta aamulla ilo.	</div>
 
-<div class="versenum">6.</div> Mutta mina sanoin myotakaymisessani: en mina ikana kukistu.	
+<div class="theverse"><div class="versenum">6.</div> Mutta mina sanoin myotakaymisessani: en mina ikana kukistu.	</div>
 
-<div class="versenum">7.</div> Silla sina, Herra, olet hyvassa tahdossas vuoreni vahvistanut; mutta kuin sina kasvos peitit, niin mina hammastyin.	
+<div class="theverse"><div class="versenum">7.</div> Silla sina, Herra, olet hyvassa tahdossas vuoreni vahvistanut; mutta kuin sina kasvos peitit, niin mina hammastyin.	</div>
 
-<div class="versenum">8.</div> Sinua, Herra, mina huudan, ja Herraa mina rukoilen.	
+<div class="theverse"><div class="versenum">8.</div> Sinua, Herra, mina huudan, ja Herraa mina rukoilen.	</div>
 
-<div class="versenum">9.</div> Mita hyvaa minun veressani on, kuin mina hautaan alas menen? kiittaneeko tomukin sinua, ja ilmoittaneeko se sinun totuuttas?	
+<div class="theverse"><div class="versenum">9.</div> Mita hyvaa minun veressani on, kuin mina hautaan alas menen? kiittaneeko tomukin sinua, ja ilmoittaneeko se sinun totuuttas?	</div>
 
-<div class="versenum">10.</div> Herra, kuule, ja ole minulle armollinen: Herra, ole minun auttajani.	
+<div class="theverse"><div class="versenum">10.</div> Herra, kuule, ja ole minulle armollinen: Herra, ole minun auttajani.	</div>
 
-<div class="versenum">11.</div> Sina olet muuttanut minun valitukseni iloksi: sina olet riisunut minun sakkini, ja vyotit minun riemulla,	
+<div class="theverse"><div class="versenum">11.</div> Sina olet muuttanut minun valitukseni iloksi: sina olet riisunut minun sakkini, ja vyotit minun riemulla,	</div>
 
-<div class="versenum">12.</div> Etta minun kunniani veisais sinulle kiitosta ja ei vaikenisi, Herra minun Jumalani, mina kiitan sinua ijankaikkisesti!	
+<div class="theverse"><div class="versenum">12.</div> Etta minun kunniani veisais sinulle kiitosta ja ei vaikenisi, Herra minun Jumalani, mina kiitan sinua ijankaikkisesti!	</div>
 </body>
 </html>

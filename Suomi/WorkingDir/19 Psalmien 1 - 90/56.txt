@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Psalmien 56	</div>
 	
-<div class="versenum">1.</div> Davidin kultainen kappale mykasta mettisesta muukalaisten seassa, kuin Philistealaiset kasittivat hanen Gatissa. (H56:2) Jumala, ole minulle armollinen; silla ihmiset tahtovat minua niella ylos: joka paiva he sotivat ja ahdistavat minua.	
+<div class="theverse"><div class="versenum">1.</div> Davidin kultainen kappale mykasta mettisesta muukalaisten seassa, kuin Philistealaiset kasittivat hanen Gatissa. (H56:2) Jumala, ole minulle armollinen; silla ihmiset tahtovat minua niella ylos: joka paiva he sotivat ja ahdistavat minua.	</div>
 
-<div class="versenum">2.</div> Minun kadehtiani tahtovat joka paiva minua niella ylos; silla moni sotii ylpiasti minua vastaan.	
+<div class="theverse"><div class="versenum">2.</div> Minun kadehtiani tahtovat joka paiva minua niella ylos; silla moni sotii ylpiasti minua vastaan.	</div>
 
-<div class="versenum">3.</div> Kuin mina pelkaan, niin mina toivon sinuun.	
+<div class="theverse"><div class="versenum">3.</div> Kuin mina pelkaan, niin mina toivon sinuun.	</div>
 
-<div class="versenum">4.</div> Jumalassa mina kerskaan hanen sanaansa: Jumalaan mina toivon, en mina pelkaa: mita liha minun tekis?	
+<div class="theverse"><div class="versenum">4.</div> Jumalassa mina kerskaan hanen sanaansa: Jumalaan mina toivon, en mina pelkaa: mita liha minun tekis?	</div>
 
-<div class="versenum">5.</div> Joka paiva he minun sanojani kaantelevat; kaikki heidan ajatuksensa ovat pahuuteen minua vastaan.	
+<div class="theverse"><div class="versenum">5.</div> Joka paiva he minun sanojani kaantelevat; kaikki heidan ajatuksensa ovat pahuuteen minua vastaan.	</div>
 
-<div class="versenum">6.</div> He pitavat yhta, ja vaijyvat, ja ottavat minun askeleistani vaarin, kuinka he minun sieluni kasittaisivat.	
+<div class="theverse"><div class="versenum">6.</div> He pitavat yhta, ja vaijyvat, ja ottavat minun askeleistani vaarin, kuinka he minun sieluni kasittaisivat.	</div>
 
-<div class="versenum">7.</div> Pitaisko heidan vaaryydestansa paaseman? Syokse, Jumala, se kansa alas vihassas.	
+<div class="theverse"><div class="versenum">7.</div> Pitaisko heidan vaaryydestansa paaseman? Syokse, Jumala, se kansa alas vihassas.	</div>
 
-<div class="versenum">8.</div> Sina olet lukenut minun kulkemukseni: sina panet minun kyyneleeni leiliis: eiko ne ole sinun kirjassas?	
+<div class="theverse"><div class="versenum">8.</div> Sina olet lukenut minun kulkemukseni: sina panet minun kyyneleeni leiliis: eiko ne ole sinun kirjassas?	</div>
 
-<div class="versenum">9.</div> Silloin pitaa viholliseni kaantaman heitansa takaperin, sina paivana, kuin mina huudan: sen mina tiedan, ettas minun Jumalani olet.	
+<div class="theverse"><div class="versenum">9.</div> Silloin pitaa viholliseni kaantaman heitansa takaperin, sina paivana, kuin mina huudan: sen mina tiedan, ettas minun Jumalani olet.	</div>
 
-<div class="versenum">10.</div> Jumalassa mina kerskaan hanen sanaansa: Herrassa mina kerskaan hanen sanaansa.	
+<div class="theverse"><div class="versenum">10.</div> Jumalassa mina kerskaan hanen sanaansa: Herrassa mina kerskaan hanen sanaansa.	</div>
 
-<div class="versenum">11.</div> Jumalaan mina toivon, en mina pelkaa: mita ihminen tekis?	
+<div class="theverse"><div class="versenum">11.</div> Jumalaan mina toivon, en mina pelkaa: mita ihminen tekis?	</div>
 
-<div class="versenum">12.</div> Mina olen sinulle, Jumala, luvannut, mina tahdon sinua kiittaa.	
+<div class="theverse"><div class="versenum">12.</div> Mina olen sinulle, Jumala, luvannut, mina tahdon sinua kiittaa.	</div>
 
-<div class="versenum">13.</div> Silla sina olet pelastanut minun sieluni kuolemasta, minun jalkani lankeemisesta; etta mina vaeltaisin Jumalan edessa elavain valkeudessa.	
+<div class="theverse"><div class="versenum">13.</div> Silla sina olet pelastanut minun sieluni kuolemasta, minun jalkani lankeemisesta; etta mina vaeltaisin Jumalan edessa elavain valkeudessa.	</div>
 </body>
 </html>

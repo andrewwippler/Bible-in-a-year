@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Heprealaisille 8	</div>
 	
-<div class="versenum">1.</div> Mutta tama on paakappale niista, joita me puhumme: meilla on senkaltainen ylimmainen Pappi, joka istuu oikialla kadella majesteetin istumella taivaissa,	
+<div class="theverse"><div class="versenum">1.</div> Mutta tama on paakappale niista, joita me puhumme: meilla on senkaltainen ylimmainen Pappi, joka istuu oikialla kadella majesteetin istumella taivaissa,	</div>
 
-<div class="versenum">2.</div> Ja on pyhain lahjain palvelia, ja sen totisen majan, jonka Jumala asetti ja ei ihminen.	
+<div class="theverse"><div class="versenum">2.</div> Ja on pyhain lahjain palvelia, ja sen totisen majan, jonka Jumala asetti ja ei ihminen.	</div>
 
-<div class="versenum">3.</div> Silla jokainen ylimmainen pappi asetetaan uhraamaan lahjoja ja uhreja: sentahden tarvitaan, etta tallakin olis jotakin uhraamista.	
+<div class="theverse"><div class="versenum">3.</div> Silla jokainen ylimmainen pappi asetetaan uhraamaan lahjoja ja uhreja: sentahden tarvitaan, etta tallakin olis jotakin uhraamista.	</div>
 
-<div class="versenum">4.</div> Silla jos han nyt maan paalla olis, niin ei han olisi pappi; silla papit ovat, jotka lain jalkeen lahjoja uhraavat,	
+<div class="theverse"><div class="versenum">4.</div> Silla jos han nyt maan paalla olis, niin ei han olisi pappi; silla papit ovat, jotka lain jalkeen lahjoja uhraavat,	</div>
 
-<div class="versenum">5.</div> Jotka palvelevat taivaallisten esikuvaa ja varjoa, niinkuin jumalallinen vastaus Mosekselle sanoi, kuin hanen piti majan paattaman: katso, sanoo han, ettas kaikki teet sen kuvan jalkeen, mika sinulle vuorella osoitettu on.	
+<div class="theverse"><div class="versenum">5.</div> Jotka palvelevat taivaallisten esikuvaa ja varjoa, niinkuin jumalallinen vastaus Mosekselle sanoi, kuin hanen piti majan paattaman: katso, sanoo han, ettas kaikki teet sen kuvan jalkeen, mika sinulle vuorella osoitettu on.	</div>
 
-<div class="versenum">6.</div> Mutta nyt on han paremman viran saanut, niinkuin han paremman Testamentinkin valimies on, joka parempain lupausten paalla seisoo.	
+<div class="theverse"><div class="versenum">6.</div> Mutta nyt on han paremman viran saanut, niinkuin han paremman Testamentinkin valimies on, joka parempain lupausten paalla seisoo.	</div>
 
-<div class="versenum">7.</div> Silla jos entinen olis puuttumatoin ollut, niin ei toiselle olisi siaa tehty;	
+<div class="theverse"><div class="versenum">7.</div> Silla jos entinen olis puuttumatoin ollut, niin ei toiselle olisi siaa tehty;	</div>
 
-<div class="versenum">8.</div> Silla han nuhtelee heita ja sanoo: katso, paivat tulevat, sanoo Herra, etta mina Israelin huoneelle ja Juudan huoneelle tahdon Uuden Testamentin paattaa,	
+<div class="theverse"><div class="versenum">8.</div> Silla han nuhtelee heita ja sanoo: katso, paivat tulevat, sanoo Herra, etta mina Israelin huoneelle ja Juudan huoneelle tahdon Uuden Testamentin paattaa,	</div>
 
-<div class="versenum">9.</div> En sen Testamentin jalkeen, jonka mina heidan isillensa sina paivana annoin, kuin mina heidan kateensa rupesin, heita Egyptin maalta johdattaakseni; silla ei he pysyneet minun Testamentissani, niin en minakaan ole heista lukua pitanyt, sanoo Herra.	
+<div class="theverse"><div class="versenum">9.</div> En sen Testamentin jalkeen, jonka mina heidan isillensa sina paivana annoin, kuin mina heidan kateensa rupesin, heita Egyptin maalta johdattaakseni; silla ei he pysyneet minun Testamentissani, niin en minakaan ole heista lukua pitanyt, sanoo Herra.	</div>
 
-<div class="versenum">10.</div> Silla tama on se Testamentti, jonka mina tahdon saataa Israelin huoneelle, niiden paivain jalkeen, sanoo Herra: mina tahdon antaa minun lakini heidan mieleensa, ja tahdon ne kirjoittaa heidan sydamiinsa, ja tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	
+<div class="theverse"><div class="versenum">10.</div> Silla tama on se Testamentti, jonka mina tahdon saataa Israelin huoneelle, niiden paivain jalkeen, sanoo Herra: mina tahdon antaa minun lakini heidan mieleensa, ja tahdon ne kirjoittaa heidan sydamiinsa, ja tahdon olla heidan Jumalansa, ja heidan pitaa oleman minun kansani.	</div>
 
-<div class="versenum">11.</div> Ja ei yhdenkaan pida lahimmaistansa opettaman eika veljeansa, ja sanoman: tunne Herra! silla kaikki pitaa minun tunteman, hamasta pienesta heidan seassansa niin suurimpaan asti.	
+<div class="theverse"><div class="versenum">11.</div> Ja ei yhdenkaan pida lahimmaistansa opettaman eika veljeansa, ja sanoman: tunne Herra! silla kaikki pitaa minun tunteman, hamasta pienesta heidan seassansa niin suurimpaan asti.	</div>
 
-<div class="versenum">12.</div> Silla mina tulen lepytetyksi heidan vaaryydestansa ja heidan synneistansa, ja heidan vaaryyttansa en mina tahdo enempi muistaa.	
+<div class="theverse"><div class="versenum">12.</div> Silla mina tulen lepytetyksi heidan vaaryydestansa ja heidan synneistansa, ja heidan vaaryyttansa en mina tahdo enempi muistaa.	</div>
 
-<div class="versenum">13.</div> Siina kuin han sanoo: uusi, vanhensi han entisen; silla joka vanha ja ijallinen on, se on lasna loppuansa.	
+<div class="theverse"><div class="versenum">13.</div> Siina kuin han sanoo: uusi, vanhensi han entisen; silla joka vanha ja ijallinen on, se on lasna loppuansa.	</div>
 </body>
 </html>

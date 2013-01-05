@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Hoosean 8	</div>
 	
-<div class="versenum">1.</div> Huuda selkiasti niinkuin basuna (ja sano): Han tulee jo Herran huoneen ylitse niinkuin kotka, etta he ovat minun liittoni rikkoneet, ja ovat minun laistani luopuneet.	
+<div class="theverse"><div class="versenum">1.</div> Huuda selkiasti niinkuin basuna (ja sano): Han tulee jo Herran huoneen ylitse niinkuin kotka, etta he ovat minun liittoni rikkoneet, ja ovat minun laistani luopuneet.	</div>
 
-<div class="versenum">2.</div> Niin heidan pitaa minua huutaman: Sina olet minun Jumalani; me Israel tunnemme sinun.	
+<div class="theverse"><div class="versenum">2.</div> Niin heidan pitaa minua huutaman: Sina olet minun Jumalani; me Israel tunnemme sinun.	</div>
 
-<div class="versenum">3.</div> Israel hylkaa hyvan; sentahden pitaa vihollisen heita vaivaaman.	
+<div class="theverse"><div class="versenum">3.</div> Israel hylkaa hyvan; sentahden pitaa vihollisen heita vaivaaman.	</div>
 
-<div class="versenum">4.</div> He asettavat kuninkaita ilman minua, he panevat paamiehia ilman minun tietamattani; hopiastansa ja kullastansa tekevat he epajumalia, etta he juuri nopiasti haviaisivat.	
+<div class="theverse"><div class="versenum">4.</div> He asettavat kuninkaita ilman minua, he panevat paamiehia ilman minun tietamattani; hopiastansa ja kullastansa tekevat he epajumalia, etta he juuri nopiasti haviaisivat.	</div>
 
-<div class="versenum">5.</div> Sinun vasikkas, Samaria, sysaa sinun pois; minun vihani on julmistunut; ei se taida kauvan olla, heita pitaa rangaistaman.	
+<div class="theverse"><div class="versenum">5.</div> Sinun vasikkas, Samaria, sysaa sinun pois; minun vihani on julmistunut; ei se taida kauvan olla, heita pitaa rangaistaman.	</div>
 
-<div class="versenum">6.</div> Silla se on myos tullut Israelista, jonka seppa on tehnyt, ja ei se ole Jumala: Sentahden pitaa Samarian vasikka tomuksi tehtaman.	
+<div class="theverse"><div class="versenum">6.</div> Silla se on myos tullut Israelista, jonka seppa on tehnyt, ja ei se ole Jumala: Sentahden pitaa Samarian vasikka tomuksi tehtaman.	</div>
 
-<div class="versenum">7.</div> Silla he kylvivat tuulen; ja heidan pitaa jalleen tuulispaan niittaman; ei heidan siemenensa pida tuleman ylos, eika hedelmansa jauhoja antaman; ja jos han viela antais, niin muukalaiset pitaa ne syoman.	
+<div class="theverse"><div class="versenum">7.</div> Silla he kylvivat tuulen; ja heidan pitaa jalleen tuulispaan niittaman; ei heidan siemenensa pida tuleman ylos, eika hedelmansa jauhoja antaman; ja jos han viela antais, niin muukalaiset pitaa ne syoman.	</div>
 
-<div class="versenum">8.</div> Israel tulee syodyksi; pakanat pitavat hanen nyt kelvottomana astiana;	
+<div class="theverse"><div class="versenum">8.</div> Israel tulee syodyksi; pakanat pitavat hanen nyt kelvottomana astiana;	</div>
 
-<div class="versenum">9.</div> Etta he juoksivat ylos Assurin tyko, niinkuin yksinainen metsa-aasi: Ephraim palkkaa itsellensa lahjoilla rakastajia.	
+<div class="theverse"><div class="versenum">9.</div> Etta he juoksivat ylos Assurin tyko, niinkuin yksinainen metsa-aasi: Ephraim palkkaa itsellensa lahjoilla rakastajia.	</div>
 
-<div class="versenum">10.</div> Ja etta he lahjoja lahettavat pakanoille, niin tahdon mina nyt heita koota; ja heidan pitaa kuninkaan ja paamiesten kuormaan pian suuttuman.	
+<div class="theverse"><div class="versenum">10.</div> Ja etta he lahjoja lahettavat pakanoille, niin tahdon mina nyt heita koota; ja heidan pitaa kuninkaan ja paamiesten kuormaan pian suuttuman.	</div>
 
-<div class="versenum">11.</div> Silla Ephraim on tehnyt monta alttaria syntia tehdaksensa; niin pitaa myos alttarit hanelle synniksi luettaman.	
+<div class="theverse"><div class="versenum">11.</div> Silla Ephraim on tehnyt monta alttaria syntia tehdaksensa; niin pitaa myos alttarit hanelle synniksi luettaman.	</div>
 
-<div class="versenum">12.</div> Vaikka mina paljon heille minun laistani kirjoitan; niin he lukevat sen kuitenkin muukalaiseksi opiksi.	
+<div class="theverse"><div class="versenum">12.</div> Vaikka mina paljon heille minun laistani kirjoitan; niin he lukevat sen kuitenkin muukalaiseksi opiksi.	</div>
 
-<div class="versenum">13.</div> Ehka he nyt paljon uhraavat, ja lihaa tuovat edes ja syovat, niin ei se kuitenkaan ole Herralle otollinen; mutta han tahtoo muistaa heidan pahuutensa, ja heidan syntinsa etsia, jotka Egyptiin kaantyvat.	
+<div class="theverse"><div class="versenum">13.</div> Ehka he nyt paljon uhraavat, ja lihaa tuovat edes ja syovat, niin ei se kuitenkaan ole Herralle otollinen; mutta han tahtoo muistaa heidan pahuutensa, ja heidan syntinsa etsia, jotka Egyptiin kaantyvat.	</div>
 
-<div class="versenum">14.</div> Israel unhotti Luojansa, ja rakensi templia, ja Juuda teki myos monta vahvaa kaupunkia; mutta mina lasken tulen hanen kaupunkeihinsa, joka hanen huoneensa polttaman pitaa.	
+<div class="theverse"><div class="versenum">14.</div> Israel unhotti Luojansa, ja rakensi templia, ja Juuda teki myos monta vahvaa kaupunkia; mutta mina lasken tulen hanen kaupunkeihinsa, joka hanen huoneensa polttaman pitaa.	</div>
 </body>
 </html>

@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 17	</div>
 	
-<div class="versenum">1.</div> Ja koko Israelin lasten joukko matkusti Sinnin korvesta, vaelluksissansa Herran kaskyn jalkeen, ja sioittivat itsensa Raphidimiin, ja ei ollut vetta kansalle juoda.	
+<div class="theverse"><div class="versenum">1.</div> Ja koko Israelin lasten joukko matkusti Sinnin korvesta, vaelluksissansa Herran kaskyn jalkeen, ja sioittivat itsensa Raphidimiin, ja ei ollut vetta kansalle juoda.	</div>
 
-<div class="versenum">2.</div> Ja kansa riiteli Moseksen kanssa, ja sanoi: antakaat meille vetta juodaksemme. Moses sanoi heille: mita te riitelette minun kanssani? Miksi kiusaatte Herraa?	
+<div class="theverse"><div class="versenum">2.</div> Ja kansa riiteli Moseksen kanssa, ja sanoi: antakaat meille vetta juodaksemme. Moses sanoi heille: mita te riitelette minun kanssani? Miksi kiusaatte Herraa?	</div>
 
-<div class="versenum">3.</div> Ja kansa janosi juoda siella vetta, ja he napisivat Mosesta vastaan, ja sanoivat: mita vasten sina olet meidat johdattanut Egyptista tanne kuolettaakses minua ja minun lapsiani, ja minun elaimiani janolla?	
+<div class="theverse"><div class="versenum">3.</div> Ja kansa janosi juoda siella vetta, ja he napisivat Mosesta vastaan, ja sanoivat: mita vasten sina olet meidat johdattanut Egyptista tanne kuolettaakses minua ja minun lapsiani, ja minun elaimiani janolla?	</div>
 
-<div class="versenum">4.</div> Niin Moses huusi Herran tyko, sanoen: mita mina teen talle kansalle? Vaha puuttuu, ettei he kivita minua.	
+<div class="theverse"><div class="versenum">4.</div> Niin Moses huusi Herran tyko, sanoen: mita mina teen talle kansalle? Vaha puuttuu, ettei he kivita minua.	</div>
 
-<div class="versenum">5.</div> Ja Herra sanoi Mosekselle: mene kansan edella, ja ota kanssas muutamia Israelin vanhimmista, ja sinun sauvas, jolla sina loit virtaa, ota sinun katees ja mene.	
+<div class="theverse"><div class="versenum">5.</div> Ja Herra sanoi Mosekselle: mene kansan edella, ja ota kanssas muutamia Israelin vanhimmista, ja sinun sauvas, jolla sina loit virtaa, ota sinun katees ja mene.	</div>
 
-<div class="versenum">6.</div> Katso, mina seison siella sinun edessas kalliolla Horebissa: ja sinun pitaa lyoman kalliota, ja siina pitaa vedet juokseman, niin etta kansa siita juoda saa. Ja Moses teki niin Israelin vanhimpain edessa.	
+<div class="theverse"><div class="versenum">6.</div> Katso, mina seison siella sinun edessas kalliolla Horebissa: ja sinun pitaa lyoman kalliota, ja siina pitaa vedet juokseman, niin etta kansa siita juoda saa. Ja Moses teki niin Israelin vanhimpain edessa.	</div>
 
-<div class="versenum">7.</div> Ja kutsui sen paikan nimen Massa ja Meriba, Israelin lasten riidan tahden, ja etta he kiusasivat Herraa, sanoen: olleeko Herra meidan seassamme elikka ei?	
+<div class="theverse"><div class="versenum">7.</div> Ja kutsui sen paikan nimen Massa ja Meriba, Israelin lasten riidan tahden, ja etta he kiusasivat Herraa, sanoen: olleeko Herra meidan seassamme elikka ei?	</div>
 
-<div class="versenum">8.</div> Niin Amalek tuli: ja soti Israelia vastaan Raphidimissa.	
+<div class="theverse"><div class="versenum">8.</div> Niin Amalek tuli: ja soti Israelia vastaan Raphidimissa.	</div>
 
-<div class="versenum">9.</div> Ja Moses sanoi Josualle: valitse meille miehia, mene ja sodi Amalekia vastaan: huomenna mina seison maen kukkulalla, ja pidan Jumalan sauvan kadessani.	
+<div class="theverse"><div class="versenum">9.</div> Ja Moses sanoi Josualle: valitse meille miehia, mene ja sodi Amalekia vastaan: huomenna mina seison maen kukkulalla, ja pidan Jumalan sauvan kadessani.	</div>
 
-<div class="versenum">10.</div> Ja Josua teki niinkuin Moses sanoi hanelle, ja soti Amalekia vastaan. Mutta Moses, Aaron ja Hur astuivat maen kukkulalle.	
+<div class="theverse"><div class="versenum">10.</div> Ja Josua teki niinkuin Moses sanoi hanelle, ja soti Amalekia vastaan. Mutta Moses, Aaron ja Hur astuivat maen kukkulalle.	</div>
 
-<div class="versenum">11.</div> Ja tapahtui, etta koska Moses piti katensa ylhaalla, voitti Israel; mutta koska han katensa laski alas, voitti Amalek.	
+<div class="theverse"><div class="versenum">11.</div> Ja tapahtui, etta koska Moses piti katensa ylhaalla, voitti Israel; mutta koska han katensa laski alas, voitti Amalek.	</div>
 
-<div class="versenum">12.</div> Mutta Moseksen kadet olivat raskaat, sentahden ottivat he kiven ja asettivat hanen alansa ja han istui sen paalla; vaan Aaron ja Hur pitivat ylhaalla hanen kasiinsa kumpikin puoleltansa, niin pysyi hanen katensa juuri vahvana auringon laskemaan asti.	
+<div class="theverse"><div class="versenum">12.</div> Mutta Moseksen kadet olivat raskaat, sentahden ottivat he kiven ja asettivat hanen alansa ja han istui sen paalla; vaan Aaron ja Hur pitivat ylhaalla hanen kasiinsa kumpikin puoleltansa, niin pysyi hanen katensa juuri vahvana auringon laskemaan asti.	</div>
 
-<div class="versenum">13.</div> Ja Josua heikonsi Amalekin ja hanen kansansa miekan teralla.	
+<div class="theverse"><div class="versenum">13.</div> Ja Josua heikonsi Amalekin ja hanen kansansa miekan teralla.	</div>
 
-<div class="versenum">14.</div> Ja Herra sanoi Mosekselle: kirjoita tama muistoksi kirjaan, ja muistuta Josuan korvissa; silla mina pyyhin kokonansa pois Amalekin muiston taivaan alta.	
+<div class="theverse"><div class="versenum">14.</div> Ja Herra sanoi Mosekselle: kirjoita tama muistoksi kirjaan, ja muistuta Josuan korvissa; silla mina pyyhin kokonansa pois Amalekin muiston taivaan alta.	</div>
 
-<div class="versenum">15.</div> Ja Moses rakensi alttarin, ja kutsui sen nimen: Herra on minun lippuni.	
+<div class="theverse"><div class="versenum">15.</div> Ja Moses rakensi alttarin, ja kutsui sen nimen: Herra on minun lippuni.	</div>
 
-<div class="versenum">16.</div> Ja han sanoi: koska kasi oli Herran istuinta pain, oli Herralla sota Amalekia vastaan: (niin se on tastakin lahin) suvusta sukuun.	
+<div class="theverse"><div class="versenum">16.</div> Ja han sanoi: koska kasi oli Herran istuinta pain, oli Herralla sota Amalekia vastaan: (niin se on tastakin lahin) suvusta sukuun.	</div>
 </body>
 </html>

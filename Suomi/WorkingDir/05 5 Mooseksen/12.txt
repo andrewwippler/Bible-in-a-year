@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 12	</div>
 	
-<div class="versenum">1.</div> Namat ovat saadyt ja oikeudet, joita teidan pitamaan pitaa, etta te niiden jalkeen tekisitte, silla maalla, jonka Herra sinun isais Jumala antoi sinulle omistaakses; niinkauvan kuin te maan paalla elatte.	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat saadyt ja oikeudet, joita teidan pitamaan pitaa, etta te niiden jalkeen tekisitte, silla maalla, jonka Herra sinun isais Jumala antoi sinulle omistaakses; niinkauvan kuin te maan paalla elatte.	</div>
 
-<div class="versenum">2.</div> Teidan pitaa perati havittaman kaikki ne paikat, joissa pakanat, jotka te omistatte, jumaliansa palvelleet ovat; joko se olis korkeilla vuorilla, taikka mailla, eli kaikkein viheriaisten puiden alla.	
+<div class="theverse"><div class="versenum">2.</div> Teidan pitaa perati havittaman kaikki ne paikat, joissa pakanat, jotka te omistatte, jumaliansa palvelleet ovat; joko se olis korkeilla vuorilla, taikka mailla, eli kaikkein viheriaisten puiden alla.	</div>
 
-<div class="versenum">3.</div> Ja kukistakaat heiden alttarinsa, ja sarkekaat heidan patsaansa, heidan metsistonsa tulella polttakaat, ja heidan epajumalansa kuvat rikki hakatkaat; ja hukuttakaat heidan nimensa siita paikasta.	
+<div class="theverse"><div class="versenum">3.</div> Ja kukistakaat heiden alttarinsa, ja sarkekaat heidan patsaansa, heidan metsistonsa tulella polttakaat, ja heidan epajumalansa kuvat rikki hakatkaat; ja hukuttakaat heidan nimensa siita paikasta.	</div>
 
-<div class="versenum">4.</div> Ei teidan pida niin tekeman Herralle teidan Jumalallenne:	
+<div class="theverse"><div class="versenum">4.</div> Ei teidan pida niin tekeman Herralle teidan Jumalallenne:	</div>
 
-<div class="versenum">5.</div> Vaan siina paikassa, minka Herra teidan Jumalanne valitsee kaikista teidan sukukunnistanne, asettaaksensa siihen nimensa: siina missa han asuu, pitaa teidan etsiman hanta ja sinne pitaa sinun tuleman.	
+<div class="theverse"><div class="versenum">5.</div> Vaan siina paikassa, minka Herra teidan Jumalanne valitsee kaikista teidan sukukunnistanne, asettaaksensa siihen nimensa: siina missa han asuu, pitaa teidan etsiman hanta ja sinne pitaa sinun tuleman.	</div>
 
-<div class="versenum">6.</div> Ja siella pitaa teidan uhraaman polttouhrinne, ja muut uhrinne, ja kymmenyksenne, ja kattenne ylennysuhrin; ja lupauksenne, ja vapaaehtoiset uhrinne, niin myos esikoiset karjastanne ja lampaistanne.	
+<div class="theverse"><div class="versenum">6.</div> Ja siella pitaa teidan uhraaman polttouhrinne, ja muut uhrinne, ja kymmenyksenne, ja kattenne ylennysuhrin; ja lupauksenne, ja vapaaehtoiset uhrinne, niin myos esikoiset karjastanne ja lampaistanne.	</div>
 
-<div class="versenum">7.</div> Ja siella teidan pitaa syoman Herran teidan Jumalanne edessa, ja iloitseman kaikissa, mita te ja teidan huoneenne kannatte edes, joilla Herra sinun Jumalas sinun on siunannut.	
+<div class="theverse"><div class="versenum">7.</div> Ja siella teidan pitaa syoman Herran teidan Jumalanne edessa, ja iloitseman kaikissa, mita te ja teidan huoneenne kannatte edes, joilla Herra sinun Jumalas sinun on siunannut.	</div>
 
-<div class="versenum">8.</div> Ei teidan pida tekeman kaikkein niiden jalkeen, kuin me tassa tanapana teemme, jokainen niinkuin hanelle itse nakyis oikiaksi.	
+<div class="theverse"><div class="versenum">8.</div> Ei teidan pida tekeman kaikkein niiden jalkeen, kuin me tassa tanapana teemme, jokainen niinkuin hanelle itse nakyis oikiaksi.	</div>
 
-<div class="versenum">9.</div> Silla ette viela ole tahanasti tulleet lepoon ja perimykseen, jonka Herra sinun Jumalas sinulle antaa.	
+<div class="theverse"><div class="versenum">9.</div> Silla ette viela ole tahanasti tulleet lepoon ja perimykseen, jonka Herra sinun Jumalas sinulle antaa.	</div>
 
-<div class="versenum">10.</div> Vaan teidan pitaa meneman Jordanin yli, ja asuman siina maassa, jonka Herra teidan Jumalanne antta teidan peria: ja han antaa teille levon kaikilta vihamiehiltanne ympariltanne, teidan pitaa myos turvallisesti asuman.	
+<div class="theverse"><div class="versenum">10.</div> Vaan teidan pitaa meneman Jordanin yli, ja asuman siina maassa, jonka Herra teidan Jumalanne antta teidan peria: ja han antaa teille levon kaikilta vihamiehiltanne ympariltanne, teidan pitaa myos turvallisesti asuman.	</div>
 
-<div class="versenum">11.</div> Ja siina pitaa oleman se paikka, jonka Herra sinun Jumalas valitsee, etta hanen nimensa siina asuis; sinne pitaa teidan vieman kaikki ne mitka mina teille kasken: polttouhrinne, ja muut uhrinne, kymmenyksenne, kattenne ylennysuhrin, ja kaikki vapaat lupauksenne, jotka te Herralle lupaatte.	
+<div class="theverse"><div class="versenum">11.</div> Ja siina pitaa oleman se paikka, jonka Herra sinun Jumalas valitsee, etta hanen nimensa siina asuis; sinne pitaa teidan vieman kaikki ne mitka mina teille kasken: polttouhrinne, ja muut uhrinne, kymmenyksenne, kattenne ylennysuhrin, ja kaikki vapaat lupauksenne, jotka te Herralle lupaatte.	</div>
 
-<div class="versenum">12.</div> Ja teidan pitaa iloitseman Herran teidan Jumalanne edessa, seka te etta poikanne, ja tyttarenne, palvelijan ja piikanne; ja myos Levilaiset, jotka teidan porteissanne ovat: silla ei heilla ole osaa eli perimysta teidan kanssanne.	
+<div class="theverse"><div class="versenum">12.</div> Ja teidan pitaa iloitseman Herran teidan Jumalanne edessa, seka te etta poikanne, ja tyttarenne, palvelijan ja piikanne; ja myos Levilaiset, jotka teidan porteissanne ovat: silla ei heilla ole osaa eli perimysta teidan kanssanne.	</div>
 
-<div class="versenum">13.</div> Karta uhraamasta polttouhrias joka paikassa, minkas naet:	
+<div class="theverse"><div class="versenum">13.</div> Karta uhraamasta polttouhrias joka paikassa, minkas naet:	</div>
 
-<div class="versenum">14.</div> Vaan siina paikassa, jonka Herra valitsee jossakussa sinun sukukunnassas, siella pitaa sinun polttouhris uhraaman; ja tekeman kaikki, mita mina sinulle kasken.	
+<div class="theverse"><div class="versenum">14.</div> Vaan siina paikassa, jonka Herra valitsee jossakussa sinun sukukunnassas, siella pitaa sinun polttouhris uhraaman; ja tekeman kaikki, mita mina sinulle kasken.	</div>
 
-<div class="versenum">15.</div> Kuitenkin teurasta ja syo lihaa kaiken sinun sielus himon jalkeen, Herran sinun Jumalas siunauksen jalkeen, jonka han sinulle on antanut, kaikissa sinun porteissas: seka saastainen etta puhdas siita syokaan, niinkuin metsavuohen ja peuran lihaa.	
+<div class="theverse"><div class="versenum">15.</div> Kuitenkin teurasta ja syo lihaa kaiken sinun sielus himon jalkeen, Herran sinun Jumalas siunauksen jalkeen, jonka han sinulle on antanut, kaikissa sinun porteissas: seka saastainen etta puhdas siita syokaan, niinkuin metsavuohen ja peuran lihaa.	</div>
 
-<div class="versenum">16.</div> Mutta ei teidan pida verta syoman; vaan kaataman sen maahan niinkuin veden.	
+<div class="theverse"><div class="versenum">16.</div> Mutta ei teidan pida verta syoman; vaan kaataman sen maahan niinkuin veden.	</div>
 
-<div class="versenum">17.</div> Et sina saa suinkaan syoda porteissas jyvais, viinas, ja oljys kymmenyksia, eika myos esikoisia karjastas ja lampaistas; taikka yhtakaan lupausuhria, jonka sina luvannut olet, taikka sinun vapaan ehtos uhria, eli kattes ylennysuhria;	
+<div class="theverse"><div class="versenum">17.</div> Et sina saa suinkaan syoda porteissas jyvais, viinas, ja oljys kymmenyksia, eika myos esikoisia karjastas ja lampaistas; taikka yhtakaan lupausuhria, jonka sina luvannut olet, taikka sinun vapaan ehtos uhria, eli kattes ylennysuhria;	</div>
 
-<div class="versenum">18.</div> Vaan Herran sinun Jumalas edessa, pitaa sinun niita syoman siina paikassa, jonka Herra sinun Jumalas valitsee, sina ja poikas, ja tyttares, ja palvelias ja piikas, ja Levilainen joka sinun porteissas on, ja iloitse Herran sinun Jumalas edessa kaikissa, mita sinun kates suo.	
+<div class="theverse"><div class="versenum">18.</div> Vaan Herran sinun Jumalas edessa, pitaa sinun niita syoman siina paikassa, jonka Herra sinun Jumalas valitsee, sina ja poikas, ja tyttares, ja palvelias ja piikas, ja Levilainen joka sinun porteissas on, ja iloitse Herran sinun Jumalas edessa kaikissa, mita sinun kates suo.	</div>
 
-<div class="versenum">19.</div> Ja ota vaari, ettes hyljaa Levilaista, niin kauvan kuin sina elat maan paalla,	
+<div class="theverse"><div class="versenum">19.</div> Ja ota vaari, ettes hyljaa Levilaista, niin kauvan kuin sina elat maan paalla,	</div>
 
-<div class="versenum">20.</div> Kuin Herra sinun Jumalas, levittaa sinun maas rajat, niinkuin han sanoi sinulle, ja sina sanot: mina syon lihaa: etta sinun sielus himoitsee lihaa syoda; niin syo lihaa kaiken sinun sielus himon jalkeen.	
+<div class="theverse"><div class="versenum">20.</div> Kuin Herra sinun Jumalas, levittaa sinun maas rajat, niinkuin han sanoi sinulle, ja sina sanot: mina syon lihaa: etta sinun sielus himoitsee lihaa syoda; niin syo lihaa kaiken sinun sielus himon jalkeen.	</div>
 
-<div class="versenum">21.</div> Jos se sia sinusta kaukana on, jonka Herra sinun Jumalas valitsi, etta han siella antaa nimensa asua, niin teurasta karjastas ja lampaistas, jotka Herra sinulle antanut on, niinkuin mina sinulle kaskin, ja syo porteissas kaiken sinun sielus himon jalkeen.	
+<div class="theverse"><div class="versenum">21.</div> Jos se sia sinusta kaukana on, jonka Herra sinun Jumalas valitsi, etta han siella antaa nimensa asua, niin teurasta karjastas ja lampaistas, jotka Herra sinulle antanut on, niinkuin mina sinulle kaskin, ja syo porteissas kaiken sinun sielus himon jalkeen.	</div>
 
-<div class="versenum">22.</div> Kaiketikin niinkuin metsavuohi ja peura syodaan, niin pitaa sinun sen syoman: seka saastainen etta puhdas siita syokaan.	
+<div class="theverse"><div class="versenum">22.</div> Kaiketikin niinkuin metsavuohi ja peura syodaan, niin pitaa sinun sen syoman: seka saastainen etta puhdas siita syokaan.	</div>
 
-<div class="versenum">23.</div> Vaan ainoasti kavahda, ettes verta syo; silla veri on henki, sentahden ei sinun pida syoman henkea lihan kanssa.	
+<div class="theverse"><div class="versenum">23.</div> Vaan ainoasti kavahda, ettes verta syo; silla veri on henki, sentahden ei sinun pida syoman henkea lihan kanssa.	</div>
 
-<div class="versenum">24.</div> Ei sinun pida sita syoman, mutta kaataman maahan niinkuin veden.	
+<div class="theverse"><div class="versenum">24.</div> Ei sinun pida sita syoman, mutta kaataman maahan niinkuin veden.	</div>
 
-<div class="versenum">25.</div> Ei pida sinun syoman sita, ettas menestyisit, ja sinun lapses sinun jalkees, ettas oikein tehnyt olet Herran edessa.	
+<div class="theverse"><div class="versenum">25.</div> Ei pida sinun syoman sita, ettas menestyisit, ja sinun lapses sinun jalkees, ettas oikein tehnyt olet Herran edessa.	</div>
 
-<div class="versenum">26.</div> Mutta jos sina pyhitat jotain joka sinun omas on, taikka teet lupauksen, niin sinun pitaa sen vieman, ja sinun pitaa tuleman siihen siaan, jonka Herra valinnut on,	
+<div class="theverse"><div class="versenum">26.</div> Mutta jos sina pyhitat jotain joka sinun omas on, taikka teet lupauksen, niin sinun pitaa sen vieman, ja sinun pitaa tuleman siihen siaan, jonka Herra valinnut on,	</div>
 
-<div class="versenum">27.</div> Ja tee siella lihasta ja veresta polttouhris, Herran sinun Jumalas alttarille, ja syo liha.	
+<div class="theverse"><div class="versenum">27.</div> Ja tee siella lihasta ja veresta polttouhris, Herran sinun Jumalas alttarille, ja syo liha.	</div>
 
-<div class="versenum">28.</div> Ota vaari, ja kuule kaikki namat sanat, jotka mina kasken sinulle, ettas menestyisit, ja sinun lapses sinun jalkees ijankaikkisesti, ettas olet oikein ja kelvollisesti Herran sinun Jumalas edessa tehnyt.	
+<div class="theverse"><div class="versenum">28.</div> Ota vaari, ja kuule kaikki namat sanat, jotka mina kasken sinulle, ettas menestyisit, ja sinun lapses sinun jalkees ijankaikkisesti, ettas olet oikein ja kelvollisesti Herran sinun Jumalas edessa tehnyt.	</div>
 
-<div class="versenum">29.</div> Kuin Herra sinun Jumalas havittaa pakanat edestas, kuhunka sina tulet heita omistamaan, ja olet heita omistanut ja asut heidan maallansa,	
+<div class="theverse"><div class="versenum">29.</div> Kuin Herra sinun Jumalas havittaa pakanat edestas, kuhunka sina tulet heita omistamaan, ja olet heita omistanut ja asut heidan maallansa,	</div>
 
-<div class="versenum">30.</div> Niin ota vaari, ettes heidan perassansa paulaan lankee, sittekuin he ovat hukutetut sinun edestas, ja ettes etsisi heidan jumaliansa, sanoen: niinkuin tamakin kansa on palvellut epajumaliansa, niin tahdon myos mina tehda.	
+<div class="theverse"><div class="versenum">30.</div> Niin ota vaari, ettes heidan perassansa paulaan lankee, sittekuin he ovat hukutetut sinun edestas, ja ettes etsisi heidan jumaliansa, sanoen: niinkuin tamakin kansa on palvellut epajumaliansa, niin tahdon myos mina tehda.	</div>
 
-<div class="versenum">31.</div> Ei sinun pida niin tekeman Herralle sinun Jumalalles; silla he ovat tehneet jumalillensa kaikkia niita, mita Herralle kauhistus on, jota han vihaa; silla he ovat poikansakin ja tyttarensa tulella polttaneet jumalillensa.	
+<div class="theverse"><div class="versenum">31.</div> Ei sinun pida niin tekeman Herralle sinun Jumalalles; silla he ovat tehneet jumalillensa kaikkia niita, mita Herralle kauhistus on, jota han vihaa; silla he ovat poikansakin ja tyttarensa tulella polttaneet jumalillensa.	</div>
 
-<div class="versenum">32.</div> Kaikki mita mina kasken teille, pitaa teidan pitaman, tehdaksenne sen jalkeen: ei teidan pida siihen mitaan lisaaman, eika myos siita mitaan vahentaman.	
+<div class="theverse"><div class="versenum">32.</div> Kaikki mita mina kasken teille, pitaa teidan pitaman, tehdaksenne sen jalkeen: ei teidan pida siihen mitaan lisaaman, eika myos siita mitaan vahentaman.	</div>
 </body>
 </html>

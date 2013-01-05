@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Jobin 27	</div>
 	
-<div class="versenum">1.</div> Ja Job puhui viela sananlaskunsa ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Ja Job puhui viela sananlaskunsa ja sanoi:	</div>
 
-<div class="versenum">2.</div> Niin totta kuin Jumala elaa, joka minun oikeuteni kieltaa, ja Kaikkivaltias, joka minun sieluni murheelliseksi saattaa:	
+<div class="theverse"><div class="versenum">2.</div> Niin totta kuin Jumala elaa, joka minun oikeuteni kieltaa, ja Kaikkivaltias, joka minun sieluni murheelliseksi saattaa:	</div>
 
-<div class="versenum">3.</div> Niinkauvan kuin minun henkeni on minussa, ja Jumalalta puhallus minun sieraimissani,	
+<div class="theverse"><div class="versenum">3.</div> Niinkauvan kuin minun henkeni on minussa, ja Jumalalta puhallus minun sieraimissani,	</div>
 
-<div class="versenum">4.</div> Ei pida minun huuleni vaaryytta puhuman, ja minun kieleni ei pida petosta ottaman eteensa.	
+<div class="theverse"><div class="versenum">4.</div> Ei pida minun huuleni vaaryytta puhuman, ja minun kieleni ei pida petosta ottaman eteensa.	</div>
 
-<div class="versenum">5.</div> Pois se minusta, etta mina sanoisin teidat hurskaaksi, siihenasti kuin minun loppuni tulee, en mina luovu jumalisuudestani.	
+<div class="theverse"><div class="versenum">5.</div> Pois se minusta, etta mina sanoisin teidat hurskaaksi, siihenasti kuin minun loppuni tulee, en mina luovu jumalisuudestani.	</div>
 
-<div class="versenum">6.</div> Minun oikeudestani, jonka mina pidan, en mina luovu. Minun omatuntoni ei kalva minua koko elinaikani.	
+<div class="theverse"><div class="versenum">6.</div> Minun oikeudestani, jonka mina pidan, en mina luovu. Minun omatuntoni ei kalva minua koko elinaikani.	</div>
 
-<div class="versenum">7.</div> Mutta minun viholliseni loydetaan jumalattomaksi, ja minun vastahakoiseni vaaraksi.	
+<div class="theverse"><div class="versenum">7.</div> Mutta minun viholliseni loydetaan jumalattomaksi, ja minun vastahakoiseni vaaraksi.	</div>
 
-<div class="versenum">8.</div> Silla mika on ulkokullatun toivo, etta han niin ahne on, koska Jumala ottaa hanen sielunsa pois?	
+<div class="theverse"><div class="versenum">8.</div> Silla mika on ulkokullatun toivo, etta han niin ahne on, koska Jumala ottaa hanen sielunsa pois?	</div>
 
-<div class="versenum">9.</div> Luuletkos Jumalan kuulevan hanen huutoansa, kuin hanelle ahdistus tulee?	
+<div class="theverse"><div class="versenum">9.</div> Luuletkos Jumalan kuulevan hanen huutoansa, kuin hanelle ahdistus tulee?	</div>
 
-<div class="versenum">10.</div> Kuinka hanella taitaa olla ilo Kaikkivaltiaalta? ja rukoilla Jumalaa joka aika?	
+<div class="theverse"><div class="versenum">10.</div> Kuinka hanella taitaa olla ilo Kaikkivaltiaalta? ja rukoilla Jumalaa joka aika?	</div>
 
-<div class="versenum">11.</div> Mina opetan teita Jumalan kadesta, ja mita Kaikkivaltiaalle kelpaa, en mina salaa.	
+<div class="theverse"><div class="versenum">11.</div> Mina opetan teita Jumalan kadesta, ja mita Kaikkivaltiaalle kelpaa, en mina salaa.	</div>
 
-<div class="versenum">12.</div> Katso, te olette kaikki taitavinanne; miksi siis te senkaltaisia turhia asioita otatte eteenne?	
+<div class="theverse"><div class="versenum">12.</div> Katso, te olette kaikki taitavinanne; miksi siis te senkaltaisia turhia asioita otatte eteenne?	</div>
 
-<div class="versenum">13.</div> Tama on Jumalalta jumalattoman palkka, ja tyrannein perimys, jonka he Kaikkivaltiaalta saavat:	
+<div class="theverse"><div class="versenum">13.</div> Tama on Jumalalta jumalattoman palkka, ja tyrannein perimys, jonka he Kaikkivaltiaalta saavat:	</div>
 
-<div class="versenum">14.</div> Jos han saa paljon lapsia, niin ne hukataan miekalla, ja hanen sikiansa ei ravita leivalla.	
+<div class="theverse"><div class="versenum">14.</div> Jos han saa paljon lapsia, niin ne hukataan miekalla, ja hanen sikiansa ei ravita leivalla.	</div>
 
-<div class="versenum">15.</div> Hanen jalkeenjaaneensa pitaa haudattaman kuolemaan, ja hanen leskensa ei pida itkeman.	
+<div class="theverse"><div class="versenum">15.</div> Hanen jalkeenjaaneensa pitaa haudattaman kuolemaan, ja hanen leskensa ei pida itkeman.	</div>
 
-<div class="versenum">16.</div> Jos han kokoo rahaa niinkuin tuhkaa, ja valmistaa hanellensa vaatteita niinkuin lokaa,	
+<div class="theverse"><div class="versenum">16.</div> Jos han kokoo rahaa niinkuin tuhkaa, ja valmistaa hanellensa vaatteita niinkuin lokaa,	</div>
 
-<div class="versenum">17.</div> Niin hanen pitaa kylla valmistaman, mutta hurskas pukee ne yllensa, ja viatoin jakaa rahan.	
+<div class="theverse"><div class="versenum">17.</div> Niin hanen pitaa kylla valmistaman, mutta hurskas pukee ne yllensa, ja viatoin jakaa rahan.	</div>
 
-<div class="versenum">18.</div> Han rakentaa huoneensa niinkuin toukka, ja niinkuin vartia tekee itsellensa lakan.	
+<div class="theverse"><div class="versenum">18.</div> Han rakentaa huoneensa niinkuin toukka, ja niinkuin vartia tekee itsellensa lakan.	</div>
 
-<div class="versenum">19.</div> Rikas kuolee, vaan ei koota: koska joku silmansa avaa, niin ei hanta enaa loydeta.	
+<div class="theverse"><div class="versenum">19.</div> Rikas kuolee, vaan ei koota: koska joku silmansa avaa, niin ei hanta enaa loydeta.	</div>
 
-<div class="versenum">20.</div> Hanen paallensa lankee pelko niinkuin vesi; rajuilma ottaa varkain hanen yolla pois.	
+<div class="theverse"><div class="versenum">20.</div> Hanen paallensa lankee pelko niinkuin vesi; rajuilma ottaa varkain hanen yolla pois.	</div>
 
-<div class="versenum">21.</div> Itatuuli vie hanen pois, etta han hukkuu, ja tuulispaa siirtaa hanen sialtansa.	
+<div class="theverse"><div class="versenum">21.</div> Itatuuli vie hanen pois, etta han hukkuu, ja tuulispaa siirtaa hanen sialtansa.	</div>
 
-<div class="versenum">22.</div> Namat Jumala hanelle lahettaa, ja ei saasta hanta: kaikki pitaa hanen kadestansa puuttuman.	
+<div class="theverse"><div class="versenum">22.</div> Namat Jumala hanelle lahettaa, ja ei saasta hanta: kaikki pitaa hanen kadestansa puuttuman.	</div>
 
-<div class="versenum">23.</div> Hanen tahtensa pitaa kasia paukutettaman ja vihellettaman, kussa han on ollut.	
+<div class="theverse"><div class="versenum">23.</div> Hanen tahtensa pitaa kasia paukutettaman ja vihellettaman, kussa han on ollut.	</div>
 </body>
 </html>

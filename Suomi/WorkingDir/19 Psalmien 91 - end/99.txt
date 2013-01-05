@@ -4,22 +4,22 @@
 </head>
 <body><div class="chaptertitle">Psalmien 99	</div>
 	
-<div class="versenum">1.</div> Herra on Kuningas, kansat kiukuitsevat: han istuu Kerubimin paalla, sentahden liikkuu maailma.	
+<div class="theverse"><div class="versenum">1.</div> Herra on Kuningas, kansat kiukuitsevat: han istuu Kerubimin paalla, sentahden liikkuu maailma.	</div>
 
-<div class="versenum">2.</div> Suuri on Herra Zionissa, ja korkein kaikkein kansain ylitse.	
+<div class="theverse"><div class="versenum">2.</div> Suuri on Herra Zionissa, ja korkein kaikkein kansain ylitse.	</div>
 
-<div class="versenum">3.</div> Kiittakaan he sinun suurta ja ihmeellista nimeas, joka pyha on.	
+<div class="theverse"><div class="versenum">3.</div> Kiittakaan he sinun suurta ja ihmeellista nimeas, joka pyha on.	</div>
 
-<div class="versenum">4.</div> Ja Kuninkaan voima rakastaa oikeutta: sina toimitat oikeuden, sina saatat tuomion ja vanhurskauden Jakobissa.	
+<div class="theverse"><div class="versenum">4.</div> Ja Kuninkaan voima rakastaa oikeutta: sina toimitat oikeuden, sina saatat tuomion ja vanhurskauden Jakobissa.	</div>
 
-<div class="versenum">5.</div> Korottakaat Herraa meidan Jumalaamme, ja kumartakaat hanen astinlautansa juuressa, silla han on pyha.	
+<div class="theverse"><div class="versenum">5.</div> Korottakaat Herraa meidan Jumalaamme, ja kumartakaat hanen astinlautansa juuressa, silla han on pyha.	</div>
 
-<div class="versenum">6.</div> Moses ja Aaron hanen pappeinsa seassa, ja Samuel niiden seassa, jotka hanen nimeansa avuksensa huutavat: he avuksensa huutavat Herraa, ja han kuulee heidan rukouksensa.	
+<div class="theverse"><div class="versenum">6.</div> Moses ja Aaron hanen pappeinsa seassa, ja Samuel niiden seassa, jotka hanen nimeansa avuksensa huutavat: he avuksensa huutavat Herraa, ja han kuulee heidan rukouksensa.	</div>
 
-<div class="versenum">7.</div> Han puhui heille pilven patsaasta: he pitivat hanen todistuksensa ja saatynsa, jonka han heille antoi.	
+<div class="theverse"><div class="versenum">7.</div> Han puhui heille pilven patsaasta: he pitivat hanen todistuksensa ja saatynsa, jonka han heille antoi.	</div>
 
-<div class="versenum">8.</div> Herra, sina olet Jumalamme, sina kuulit heidan rukouksensa: sina, Jumala, annoit heille anteeksi, ja laitit heidan tyonsa.	
+<div class="theverse"><div class="versenum">8.</div> Herra, sina olet Jumalamme, sina kuulit heidan rukouksensa: sina, Jumala, annoit heille anteeksi, ja laitit heidan tyonsa.	</div>
 
-<div class="versenum">9.</div> Korottakaat Herraa meidan Jumalaamme, ja kumartakaat hanen pyhalla vuorellansa; silla Herra meidan Jumalamme on pyha.	
+<div class="theverse"><div class="versenum">9.</div> Korottakaat Herraa meidan Jumalaamme, ja kumartakaat hanen pyhalla vuorellansa; silla Herra meidan Jumalamme on pyha.	</div>
 </body>
 </html>

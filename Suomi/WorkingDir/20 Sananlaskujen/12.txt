@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 12	</div>
 	
-<div class="versenum">1.</div> Joka itsensa mielellansa kurittaa antaa, se tulee toimelliseksi; mutta joka rankaisematta olla tahtoo, se on tyhma.	
+<div class="theverse"><div class="versenum">1.</div> Joka itsensa mielellansa kurittaa antaa, se tulee toimelliseksi; mutta joka rankaisematta olla tahtoo, se on tyhma.	</div>
 
-<div class="versenum">2.</div> Hyva saa lohdutuksen Herralta, mutta haijy mies hyljataan.	
+<div class="theverse"><div class="versenum">2.</div> Hyva saa lohdutuksen Herralta, mutta haijy mies hyljataan.	</div>
 
-<div class="versenum">3.</div> Ei ihminen vahvistu jumalattomuudessa, vaan vanhurskaan juuri on pysyvainen.	
+<div class="theverse"><div class="versenum">3.</div> Ei ihminen vahvistu jumalattomuudessa, vaan vanhurskaan juuri on pysyvainen.	</div>
 
-<div class="versenum">4.</div> Ahkera vaimo on miehensa kruunu, vaan haijy on niinkuin marka hanen luissansa.	
+<div class="theverse"><div class="versenum">4.</div> Ahkera vaimo on miehensa kruunu, vaan haijy on niinkuin marka hanen luissansa.	</div>
 
-<div class="versenum">5.</div> Vanhurskasten ajatukset ovat vilpittomat, vaan jumalattomain aivoitus on petollinen.	
+<div class="theverse"><div class="versenum">5.</div> Vanhurskasten ajatukset ovat vilpittomat, vaan jumalattomain aivoitus on petollinen.	</div>
 
-<div class="versenum">6.</div> Jumalattomain sanat vaijyvat verta, vaan hurskasten suu vapahtaa heita.	
+<div class="theverse"><div class="versenum">6.</div> Jumalattomain sanat vaijyvat verta, vaan hurskasten suu vapahtaa heita.	</div>
 
-<div class="versenum">7.</div> Jumalattomat kaatuvat, ja ei ole sitte enaa, mutta vanhurskasten huone pysyy.	
+<div class="theverse"><div class="versenum">7.</div> Jumalattomat kaatuvat, ja ei ole sitte enaa, mutta vanhurskasten huone pysyy.	</div>
 
-<div class="versenum">8.</div> Toimellinen mies neuvossansa ylistetaan, vaan petollinen tulee katsotuksi ylon.	
+<div class="theverse"><div class="versenum">8.</div> Toimellinen mies neuvossansa ylistetaan, vaan petollinen tulee katsotuksi ylon.	</div>
 
-<div class="versenum">9.</div> Parempi on noyra, joka omansa katsoo, kuin se, joka tahtoo iso olla, ja kuitenkin puuttuu leipaa.	
+<div class="theverse"><div class="versenum">9.</div> Parempi on noyra, joka omansa katsoo, kuin se, joka tahtoo iso olla, ja kuitenkin puuttuu leipaa.	</div>
 
-<div class="versenum">10.</div> Vanhurskas armahtaa juhtaansa, mutta jumalattoman sydan on halutoin.	
+<div class="theverse"><div class="versenum">10.</div> Vanhurskas armahtaa juhtaansa, mutta jumalattoman sydan on halutoin.	</div>
 
-<div class="versenum">11.</div> Joka peltonsa viljelee, se saa leipaa yltakyllaisesti; vaan joka turhia ajelee takaa, se on tyhma.	
+<div class="theverse"><div class="versenum">11.</div> Joka peltonsa viljelee, se saa leipaa yltakyllaisesti; vaan joka turhia ajelee takaa, se on tyhma.	</div>
 
-<div class="versenum">12.</div> Jumalatoin halajaa aina pahaa tehda, mutta vanhurskaan juuri kantaa hedelmaa.	
+<div class="theverse"><div class="versenum">12.</div> Jumalatoin halajaa aina pahaa tehda, mutta vanhurskaan juuri kantaa hedelmaa.	</div>
 
-<div class="versenum">13.</div> Ilkia kasitetaan omissa sanoissansa, vaan vanhurskas paasee hadasta.	
+<div class="theverse"><div class="versenum">13.</div> Ilkia kasitetaan omissa sanoissansa, vaan vanhurskas paasee hadasta.	</div>
 
-<div class="versenum">14.</div> Suun hedelmasta tulee paljon hyvaa; ja niinkuin kukin kasillansa tehnyt on, kostetaan hanelle.	
+<div class="theverse"><div class="versenum">14.</div> Suun hedelmasta tulee paljon hyvaa; ja niinkuin kukin kasillansa tehnyt on, kostetaan hanelle.	</div>
 
-<div class="versenum">15.</div> Tyhmain mielesta on hanen tiensa otollinen, mutta viisas ottaa neuvon.	
+<div class="theverse"><div class="versenum">15.</div> Tyhmain mielesta on hanen tiensa otollinen, mutta viisas ottaa neuvon.	</div>
 
-<div class="versenum">16.</div> Tyhma osoittaa kohta vihansa, vaan joka peittaa vaaryyden, se on kavala.	
+<div class="theverse"><div class="versenum">16.</div> Tyhma osoittaa kohta vihansa, vaan joka peittaa vaaryyden, se on kavala.	</div>
 
-<div class="versenum">17.</div> Joka totuuden puhuu, se vanhurskauden ilmoittaa; mutta joka vaarin todistaa, han pettaa.	
+<div class="theverse"><div class="versenum">17.</div> Joka totuuden puhuu, se vanhurskauden ilmoittaa; mutta joka vaarin todistaa, han pettaa.	</div>
 
-<div class="versenum">18.</div> Joka ajattelematta puhuu, han pistaa niinkuin miekalla; vaan viisasten kieli on terveellinen.	
+<div class="theverse"><div class="versenum">18.</div> Joka ajattelematta puhuu, han pistaa niinkuin miekalla; vaan viisasten kieli on terveellinen.	</div>
 
-<div class="versenum">19.</div> Totinen suu pysyy vahvana ijankaikkisesti, vain vaara kieli ei pysy kauvan.	
+<div class="theverse"><div class="versenum">19.</div> Totinen suu pysyy vahvana ijankaikkisesti, vain vaara kieli ei pysy kauvan.	</div>
 
-<div class="versenum">20.</div> Jotka pahaa ajattelevat, niiden sydamessa on petos; vaan jotka rauhaa neuvovat, niilla on ilo.	
+<div class="theverse"><div class="versenum">20.</div> Jotka pahaa ajattelevat, niiden sydamessa on petos; vaan jotka rauhaa neuvovat, niilla on ilo.	</div>
 
-<div class="versenum">21.</div> Ei vanhurskaalle mitaan vaaraa tapahdu; vaan jumalattomat pahuudella taytetaan.	
+<div class="theverse"><div class="versenum">21.</div> Ei vanhurskaalle mitaan vaaraa tapahdu; vaan jumalattomat pahuudella taytetaan.	</div>
 
-<div class="versenum">22.</div> Petolliset huulet ovat Herralle kauhistus; vaan jotka oikein tekevat, ovat hanelle otolliset.	
+<div class="theverse"><div class="versenum">22.</div> Petolliset huulet ovat Herralle kauhistus; vaan jotka oikein tekevat, ovat hanelle otolliset.	</div>
 
-<div class="versenum">23.</div> Kavala salaa taitonsa, vaan hulluin sydan ilmoittaa hulluutta.	
+<div class="theverse"><div class="versenum">23.</div> Kavala salaa taitonsa, vaan hulluin sydan ilmoittaa hulluutta.	</div>
 
-<div class="versenum">24.</div> Ahkera kasi saa hallita, vaan laiskan taytyy veronalaiseksi tulla.	
+<div class="theverse"><div class="versenum">24.</div> Ahkera kasi saa hallita, vaan laiskan taytyy veronalaiseksi tulla.	</div>
 
-<div class="versenum">25.</div> Sydamellinen murhe kivistelee, vaan lohdullinen sana iloittaa,	
+<div class="theverse"><div class="versenum">25.</div> Sydamellinen murhe kivistelee, vaan lohdullinen sana iloittaa,	</div>
 
-<div class="versenum">26.</div> Vanhurskas on parempi lahimmaistansa, mutta jumalattoman tie viettelee hanen	
+<div class="theverse"><div class="versenum">26.</div> Vanhurskas on parempi lahimmaistansa, mutta jumalattoman tie viettelee hanen	</div>
 
-<div class="versenum">27.</div> Ei petollinen asia menesty, mutta ahkera saa hyvan tavaran.	
+<div class="theverse"><div class="versenum">27.</div> Ei petollinen asia menesty, mutta ahkera saa hyvan tavaran.	</div>
 
-<div class="versenum">28.</div> Vanhurskauden tiella on elama, ja hanen poluillansa ei ole kuolemaa.	
+<div class="theverse"><div class="versenum">28.</div> Vanhurskauden tiella on elama, ja hanen poluillansa ei ole kuolemaa.	</div>
 </body>
 </html>

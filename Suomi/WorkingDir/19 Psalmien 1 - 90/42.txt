@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Psalmien 42	</div>
 	
-<div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H42:2) Niinkuin peura himoitsee tuoretta vetta, niin minun sieluni himoitsee sinua, Jumala.	
+<div class="theverse"><div class="versenum">1.</div> Koran lasten opetus, edellaveisaajalle. (H42:2) Niinkuin peura himoitsee tuoretta vetta, niin minun sieluni himoitsee sinua, Jumala.	</div>
 
-<div class="versenum">2.</div> Minun sieluni janoo Jumalaa, elavaa Jumalaa: koska mina tulen Jumalan kasvoja nakemaan?	
+<div class="theverse"><div class="versenum">2.</div> Minun sieluni janoo Jumalaa, elavaa Jumalaa: koska mina tulen Jumalan kasvoja nakemaan?	</div>
 
-<div class="versenum">3.</div> Minun kyyneleeni ovat minun ruokani paivalla ja yolla, etta joka paiva minulle sanotaan: kussa nyt on Jumalas?	
+<div class="theverse"><div class="versenum">3.</div> Minun kyyneleeni ovat minun ruokani paivalla ja yolla, etta joka paiva minulle sanotaan: kussa nyt on Jumalas?	</div>
 
-<div class="versenum">4.</div> Koska mina naita muistelen, niin mina vuodatan ulos sydameni itsessani; silla mina menisin mielellani joukon kanssa, ja vaeltaisin heidan kanssansa Jumalan huoneeseen: ihastuksella ja kiitoksella joukon seassa, jotka juhlaa pitavat.	
+<div class="theverse"><div class="versenum">4.</div> Koska mina naita muistelen, niin mina vuodatan ulos sydameni itsessani; silla mina menisin mielellani joukon kanssa, ja vaeltaisin heidan kanssansa Jumalan huoneeseen: ihastuksella ja kiitoksella joukon seassa, jotka juhlaa pitavat.	</div>
 
-<div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet niin levotoin minussa? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han minua auttaa kasvoillansa.	
+<div class="theverse"><div class="versenum">5.</div> Mitas murehdit, sieluni, ja olet niin levotoin minussa? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han minua auttaa kasvoillansa.	</div>
 
-<div class="versenum">6.</div> Minun Jumalani! sieluni on murheissansa minussa; sentahden mina muistan sinua Jordanin ja Hermonin maalla, silla vahalla vuorella.	
+<div class="theverse"><div class="versenum">6.</div> Minun Jumalani! sieluni on murheissansa minussa; sentahden mina muistan sinua Jordanin ja Hermonin maalla, silla vahalla vuorella.	</div>
 
-<div class="versenum">7.</div> Sinun virtas pauhaavat kovin, niin etta yksi syvyys pauhaa tassa ja toinen syvyys siella: kaikki sinun vesilainees ja aaltos kayvat minun ylitseni.	
+<div class="theverse"><div class="versenum">7.</div> Sinun virtas pauhaavat kovin, niin etta yksi syvyys pauhaa tassa ja toinen syvyys siella: kaikki sinun vesilainees ja aaltos kayvat minun ylitseni.	</div>
 
-<div class="versenum">8.</div> Paivalla on Herra luvannut hyvyytensa, ja yolla mina hanelle veisaan, ja rukoilen elamani Jumalaa.	
+<div class="theverse"><div class="versenum">8.</div> Paivalla on Herra luvannut hyvyytensa, ja yolla mina hanelle veisaan, ja rukoilen elamani Jumalaa.	</div>
 
-<div class="versenum">9.</div> Mina sanon Jumalalle minun kalliolleni: miksi sina olet minun unohtanut? miksi mina kayn niin murheissani, koska minun viholliseni minua ahdistaa?	
+<div class="theverse"><div class="versenum">9.</div> Mina sanon Jumalalle minun kalliolleni: miksi sina olet minun unohtanut? miksi mina kayn niin murheissani, koska minun viholliseni minua ahdistaa?	</div>
 
-<div class="versenum">10.</div> Se on niinkuin murha minun luissani, etta minun viholliseni hapaisevat minua, koska he jokapaiva sanovat minulle: kussa nyt on Jumalas?	
+<div class="theverse"><div class="versenum">10.</div> Se on niinkuin murha minun luissani, etta minun viholliseni hapaisevat minua, koska he jokapaiva sanovat minulle: kussa nyt on Jumalas?	</div>
 
-<div class="versenum">11.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	
+<div class="theverse"><div class="versenum">11.</div> Mitas murehdit, sieluni, ja olet minussa niin levotoin? Turvaa Jumalaan; silla mina viela nytkin hanta kiitan, etta han on minun kasvoini apu ja minun Jumalani.	</div>
 </body>
 </html>

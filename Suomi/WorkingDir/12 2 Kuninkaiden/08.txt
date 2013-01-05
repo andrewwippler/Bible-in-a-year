@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">2 Kuninkaiden 8	</div>
 	
-<div class="versenum">1.</div> Ja Elisa puhui vaimolle, jonka pojan han oli herattanyt, ja sanoi: nouse ja matkusta pois huoneines, ja ole outona, kussas saat; silla Herra on kutsuva nalan, joka on tuleva maalle seitsemaksi vuodeksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja Elisa puhui vaimolle, jonka pojan han oli herattanyt, ja sanoi: nouse ja matkusta pois huoneines, ja ole outona, kussas saat; silla Herra on kutsuva nalan, joka on tuleva maalle seitsemaksi vuodeksi.	</div>
 
-<div class="versenum">2.</div> Vaimo nousi ja teki niinkuin Jumalan mies sanoi, ja matkusti huoneinensa, ja oli outona Philistealaisten maalla seitseman vuotta.	
+<div class="theverse"><div class="versenum">2.</div> Vaimo nousi ja teki niinkuin Jumalan mies sanoi, ja matkusti huoneinensa, ja oli outona Philistealaisten maalla seitseman vuotta.	</div>
 
-<div class="versenum">3.</div> Ja seitseman vuoden perasta tuli vaimo Philistealaisten maalta jalleen. Ja han meni rukoilemaan kuninkaalta huonettansa ja peltoansa.	
+<div class="theverse"><div class="versenum">3.</div> Ja seitseman vuoden perasta tuli vaimo Philistealaisten maalta jalleen. Ja han meni rukoilemaan kuninkaalta huonettansa ja peltoansa.	</div>
 
-<div class="versenum">4.</div> Silloin puhui kuningas Gehatsin, Jumalan miehen palvelian kanssa ja sanoi: juttele minulle kaikki ne suuret teot, mitka Elisa on tehnyt!	
+<div class="theverse"><div class="versenum">4.</div> Silloin puhui kuningas Gehatsin, Jumalan miehen palvelian kanssa ja sanoi: juttele minulle kaikki ne suuret teot, mitka Elisa on tehnyt!	</div>
 
-<div class="versenum">5.</div> Ja kuin han ilmoitti kuninkaalle, kuinka han oli kuolleen virvoittanut, ja katso, vaimo, jonka pojan han oli kuolleista herattanyt, huusi kuninkaan tyko huoneensa ja peltonsa tahden. Niin sanoi Gehatsi: herrani kuningas, tama on vaimo, ja tama on hanen poikansa, jonka Elisa kuolleista heratti.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin han ilmoitti kuninkaalle, kuinka han oli kuolleen virvoittanut, ja katso, vaimo, jonka pojan han oli kuolleista herattanyt, huusi kuninkaan tyko huoneensa ja peltonsa tahden. Niin sanoi Gehatsi: herrani kuningas, tama on vaimo, ja tama on hanen poikansa, jonka Elisa kuolleista heratti.	</div>
 
-<div class="versenum">6.</div> Ja kuningas kysyi vaimolta, ja han jutteli hanelle sen. Niin kuningas antoi hanelle yhden palvelioistansa ja sanoi: anna hanen saada kaikki, mita hanen omansa on, ja kaikki tulot pelloista, siita paivasta, jona han maan jatti, niin tahan asti.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuningas kysyi vaimolta, ja han jutteli hanelle sen. Niin kuningas antoi hanelle yhden palvelioistansa ja sanoi: anna hanen saada kaikki, mita hanen omansa on, ja kaikki tulot pelloista, siita paivasta, jona han maan jatti, niin tahan asti.	</div>
 
-<div class="versenum">7.</div> Ja Elisa tuli Damaskuun, ja Benhadad Syrian kuningas sairasti, ja hanelle oli ilmoitettu ja sanottu, etta Jumalan mies on tullut tanne.	
+<div class="theverse"><div class="versenum">7.</div> Ja Elisa tuli Damaskuun, ja Benhadad Syrian kuningas sairasti, ja hanelle oli ilmoitettu ja sanottu, etta Jumalan mies on tullut tanne.	</div>
 
-<div class="versenum">8.</div> Niin kuningas sanoi Hasaelille: ota lahjoja myotas ja mene Jumalan miesta vastaan, ja kysy hanen kauttansa neuvoa Herralta ja sano: parantunenko mina tasta taudista?	
+<div class="theverse"><div class="versenum">8.</div> Niin kuningas sanoi Hasaelille: ota lahjoja myotas ja mene Jumalan miesta vastaan, ja kysy hanen kauttansa neuvoa Herralta ja sano: parantunenko mina tasta taudista?	</div>
 
-<div class="versenum">9.</div> Ja Hasael meni hanta vastaan ja otti lahjoja myotansa ja kaikkinaista Damaskun hyvyytta neljakymmenta kamelin kuormaa; ja kuin han tuli, seisoi han hanen edessansa ja sanoi: Benhadad, sinun poikas, Syrian kuningas, lahetti minun sinun tykos ja kaski sinulle sanoa: parantunenko mina tasta taudista?	
+<div class="theverse"><div class="versenum">9.</div> Ja Hasael meni hanta vastaan ja otti lahjoja myotansa ja kaikkinaista Damaskun hyvyytta neljakymmenta kamelin kuormaa; ja kuin han tuli, seisoi han hanen edessansa ja sanoi: Benhadad, sinun poikas, Syrian kuningas, lahetti minun sinun tykos ja kaski sinulle sanoa: parantunenko mina tasta taudista?	</div>
 
-<div class="versenum">10.</div> Elisa sanoi hanelle: mene ja sano hanelle: kylla sina paranisit ; mutta kuitenkin on Herra ilmoittanut minulle, etta hanen pitaa totisesti kuoleman.	
+<div class="theverse"><div class="versenum">10.</div> Elisa sanoi hanelle: mene ja sano hanelle: kylla sina paranisit ; mutta kuitenkin on Herra ilmoittanut minulle, etta hanen pitaa totisesti kuoleman.	</div>
 
-<div class="versenum">11.</div> Ja (Jumalan mies) katsoi teravasti hanen paallensa, siihenasti etta han hapesi, sitte itki Jumalan mies.	
+<div class="theverse"><div class="versenum">11.</div> Ja (Jumalan mies) katsoi teravasti hanen paallensa, siihenasti etta han hapesi, sitte itki Jumalan mies.	</div>
 
-<div class="versenum">12.</div> Niin Hasael sanoi: miksi herrani itkee? Ja han sanoi: mina tiedan, mita pahuutta sinun pitaa tekeman Israelin lapsille: sinun pitaa polttaman heidan vakevat kaupunkinsa tulella, ja heidan nuoret miehensa tappaman miekalla, ja surmaaman heidan lapsensa, ja heidan raskaat vaimonsa halkaiseman.	
+<div class="theverse"><div class="versenum">12.</div> Niin Hasael sanoi: miksi herrani itkee? Ja han sanoi: mina tiedan, mita pahuutta sinun pitaa tekeman Israelin lapsille: sinun pitaa polttaman heidan vakevat kaupunkinsa tulella, ja heidan nuoret miehensa tappaman miekalla, ja surmaaman heidan lapsensa, ja heidan raskaat vaimonsa halkaiseman.	</div>
 
-<div class="versenum">13.</div> Hasael sanoi: mika on sinun palvelias tama koira, etta han niin suuria asioita tekisi? Elisa sanoi: Herra on minulle ilmoittanut sinun tulevan Syrian kuninkaaksi.	
+<div class="theverse"><div class="versenum">13.</div> Hasael sanoi: mika on sinun palvelias tama koira, etta han niin suuria asioita tekisi? Elisa sanoi: Herra on minulle ilmoittanut sinun tulevan Syrian kuninkaaksi.	</div>
 
-<div class="versenum">14.</div> Ja han meni pois Elisan tykoa ja tuli herransa tyko, ja han sanoi hanelle: mita Elisa sanoi sinulle? Han vastasi: han sanoi minulle sinun paranevan.	
+<div class="theverse"><div class="versenum">14.</div> Ja han meni pois Elisan tykoa ja tuli herransa tyko, ja han sanoi hanelle: mita Elisa sanoi sinulle? Han vastasi: han sanoi minulle sinun paranevan.	</div>
 
-<div class="versenum">15.</div> Mutta toisena paivana otti han yhden makausvaatteen ja kasti veteen, ja levitti hanen kasvoinsa paalle, ja han kuoli; ja Hasael tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta toisena paivana otti han yhden makausvaatteen ja kasti veteen, ja levitti hanen kasvoinsa paalle, ja han kuoli; ja Hasael tuli kuninkaaksi hanen siaansa.	</div>
 
-<div class="versenum">16.</div> Joramin Ahabin pojan Israelin kuninkaan viidentena vuonna, ja Josaphatin Juudan kuninkaan (kuolemavuonna) tuli Joram Josaphatin poika Juudan kuninkaaksi.	
+<div class="theverse"><div class="versenum">16.</div> Joramin Ahabin pojan Israelin kuninkaan viidentena vuonna, ja Josaphatin Juudan kuninkaan (kuolemavuonna) tuli Joram Josaphatin poika Juudan kuninkaaksi.	</div>
 
-<div class="versenum">17.</div> Ja han oli kahden ajastajan vanha neljattakymmenta tullessansa kuninkaaksi, ja hallitsi kahdeksan ajastaikaa Jerusalemissa,	
+<div class="theverse"><div class="versenum">17.</div> Ja han oli kahden ajastajan vanha neljattakymmenta tullessansa kuninkaaksi, ja hallitsi kahdeksan ajastaikaa Jerusalemissa,	</div>
 
-<div class="versenum">18.</div> Ja vaelsi Israelin kuningasten teilla, niin kuin Ahabin huone teki: silla Ahabin tytar oli hanen emantansa, ja han teki pahaa Herran edessa.	
+<div class="theverse"><div class="versenum">18.</div> Ja vaelsi Israelin kuningasten teilla, niin kuin Ahabin huone teki: silla Ahabin tytar oli hanen emantansa, ja han teki pahaa Herran edessa.	</div>
 
-<div class="versenum">19.</div> Mutta palveliansa Davidin tahden ei Herra tahtonut havittaa Juudaa, niinkuin han oli hanelle sanonut, etta han oli antava hanelle yhden valkeuden ja hanen lapsillensa joka aika.	
+<div class="theverse"><div class="versenum">19.</div> Mutta palveliansa Davidin tahden ei Herra tahtonut havittaa Juudaa, niinkuin han oli hanelle sanonut, etta han oli antava hanelle yhden valkeuden ja hanen lapsillensa joka aika.	</div>
 
-<div class="versenum">20.</div> Hanen aikanansa luopuivat Edomilaiset Juudasta ja tekivat itsellensa kuninkaan.	
+<div class="theverse"><div class="versenum">20.</div> Hanen aikanansa luopuivat Edomilaiset Juudasta ja tekivat itsellensa kuninkaan.	</div>
 
-<div class="versenum">21.</div> Silla Joram oli matkustanut Zairiin ja kaikki vaunut hanen kanssansa, ja nousi yolla ja loi Edomilaiset, jotka hanen ymparillansa olivat, niin myos vaunuin paamiehet, niin etta kansa pakeni majoihinsa.	
+<div class="theverse"><div class="versenum">21.</div> Silla Joram oli matkustanut Zairiin ja kaikki vaunut hanen kanssansa, ja nousi yolla ja loi Edomilaiset, jotka hanen ymparillansa olivat, niin myos vaunuin paamiehet, niin etta kansa pakeni majoihinsa.	</div>
 
-<div class="versenum">22.</div> Sentahden luopuivat Edomilaiset Juudasta tahan paivaan asti; silloin myos Libna luopui siihen aikaan.	
+<div class="theverse"><div class="versenum">22.</div> Sentahden luopuivat Edomilaiset Juudasta tahan paivaan asti; silloin myos Libna luopui siihen aikaan.	</div>
 
-<div class="versenum">23.</div> Mita enempi Joramista sanomista on ja kaikista niista, mita han tehnyt on: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	
+<div class="theverse"><div class="versenum">23.</div> Mita enempi Joramista sanomista on ja kaikista niista, mita han tehnyt on: eiko se ole kirjoitettu Juudan kuningasten aikakirjassa?	</div>
 
-<div class="versenum">24.</div> Ja Joram nukkui isainsa kanssa ja haudattiin isainsa kanssa Davidin kaupunkiin. Ja Ahasia hanen poikansa tuli kuninkaaksi hanen siaansa.	
+<div class="theverse"><div class="versenum">24.</div> Ja Joram nukkui isainsa kanssa ja haudattiin isainsa kanssa Davidin kaupunkiin. Ja Ahasia hanen poikansa tuli kuninkaaksi hanen siaansa.	</div>
 
-<div class="versenum">25.</div> Joramin Ahabin pojan Israelin kuninkaan toisena vuonna toistakymmenta tuli Ahasia Joramin poika Juudan kuninkaaksi.	
+<div class="theverse"><div class="versenum">25.</div> Joramin Ahabin pojan Israelin kuninkaan toisena vuonna toistakymmenta tuli Ahasia Joramin poika Juudan kuninkaaksi.	</div>
 
-<div class="versenum">26.</div> Ja Ahasia oli kahdenkolmattakymmenta vuoden vanha, koska han tuli kuninkaaksi, ja hallitsi yhden vuoden Jerusalemissa; hanen aitinsa nimi oli Atalia Omrin Israelin kuninkaan tytar.	
+<div class="theverse"><div class="versenum">26.</div> Ja Ahasia oli kahdenkolmattakymmenta vuoden vanha, koska han tuli kuninkaaksi, ja hallitsi yhden vuoden Jerusalemissa; hanen aitinsa nimi oli Atalia Omrin Israelin kuninkaan tytar.	</div>
 
-<div class="versenum">27.</div> Ja han vaelsi Ahabin huoneen teilla ja teki pahaa Herran edessa, niinkuin Ahabin huone; silla han oli Ahabin huoneen vavy.	
+<div class="theverse"><div class="versenum">27.</div> Ja han vaelsi Ahabin huoneen teilla ja teki pahaa Herran edessa, niinkuin Ahabin huone; silla han oli Ahabin huoneen vavy.	</div>
 
-<div class="versenum">28.</div> Ja han meni Joramin Ahabin pojan kanssa sotimaan Hasaelia Syrian kuningasta vastaan, Gileadin Ramotissa; mutta Syrialaiset loivat Joramin.	
+<div class="theverse"><div class="versenum">28.</div> Ja han meni Joramin Ahabin pojan kanssa sotimaan Hasaelia Syrian kuningasta vastaan, Gileadin Ramotissa; mutta Syrialaiset loivat Joramin.	</div>
 
-<div class="versenum">29.</div> Silloin palasi kuningas Joram antamaan parantaa itsensa Jisreelissa niista haavoista, jotka Syrialaiset loivat haneen Ramassa, hanen soteissa Hasaelin Syrian kuninkaan kanssa; ja Ahasia Joramin poika, Juudan kuningas, tuli katsomaan Joramia Ahabin poikaa Jisreeliin; silla han sairasti.	
+<div class="theverse"><div class="versenum">29.</div> Silloin palasi kuningas Joram antamaan parantaa itsensa Jisreelissa niista haavoista, jotka Syrialaiset loivat haneen Ramassa, hanen soteissa Hasaelin Syrian kuninkaan kanssa; ja Ahasia Joramin poika, Juudan kuningas, tuli katsomaan Joramia Ahabin poikaa Jisreeliin; silla han sairasti.	</div>
 </body>
 </html>

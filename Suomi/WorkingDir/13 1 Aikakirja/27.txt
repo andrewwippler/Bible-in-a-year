@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 27	</div>
 	
-<div class="versenum">1.</div> Mutta Israelin lapset heidan lukunsa jalkeen olivat: isain paamiehet, tuhanten ja satain ruhtinaat, ja virkamiehet, jotka ottivat kuninkaasta vaarin, heidan jarjestyksensa jalkeen, vaeltamaan sinne ja tanne jokainen kuukautenansa, joka kuukautena ajastajassa; ja jokaisessa joukossa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">1.</div> Mutta Israelin lapset heidan lukunsa jalkeen olivat: isain paamiehet, tuhanten ja satain ruhtinaat, ja virkamiehet, jotka ottivat kuninkaasta vaarin, heidan jarjestyksensa jalkeen, vaeltamaan sinne ja tanne jokainen kuukautenansa, joka kuukautena ajastajassa; ja jokaisessa joukossa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">2.</div> Ensimaisen joukon paalla ensimaisena kuukautena oli Jasobeam Saddielin poika, ja hanen joukossansa neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">2.</div> Ensimaisen joukon paalla ensimaisena kuukautena oli Jasobeam Saddielin poika, ja hanen joukossansa neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">3.</div> Mutta Peretsin lapsista oli ylimmainen kaikkein sodanpaamiesten paalla, ensimaisena kuukautena.	
+<div class="theverse"><div class="versenum">3.</div> Mutta Peretsin lapsista oli ylimmainen kaikkein sodanpaamiesten paalla, ensimaisena kuukautena.	</div>
 
-<div class="versenum">4.</div> Toisen kuukauden joukon paalla oli Dodai Ahohilainen, ja Miklot paamies hanen joukkonsa paalla, ja hanen joukossansa neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">4.</div> Toisen kuukauden joukon paalla oli Dodai Ahohilainen, ja Miklot paamies hanen joukkonsa paalla, ja hanen joukossansa neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">5.</div> Kolmannen joukon paamies kolmantena kuukautena oli Benaja papin Jojadan poika, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">5.</div> Kolmannen joukon paamies kolmantena kuukautena oli Benaja papin Jojadan poika, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">6.</div> Tama on Benaja vakeva kolmenkymmenen seassa ja kolmenkymmenen paalla, ja hanen joukkonsa oli hanen poikansa Ammisabadin alla.	
+<div class="theverse"><div class="versenum">6.</div> Tama on Benaja vakeva kolmenkymmenen seassa ja kolmenkymmenen paalla, ja hanen joukkonsa oli hanen poikansa Ammisabadin alla.	</div>
 
-<div class="versenum">7.</div> Neljas, neljantena kuukautena, oli Asahel Joabin veli, ja hanen jalkeensa Sebadia hanen poikansa, ja hanen joukossansa neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">7.</div> Neljas, neljantena kuukautena, oli Asahel Joabin veli, ja hanen jalkeensa Sebadia hanen poikansa, ja hanen joukossansa neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">8.</div> Viides, viidentena kuukautena, oli paamies Samehut Jesrahilainen, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">8.</div> Viides, viidentena kuukautena, oli paamies Samehut Jesrahilainen, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">9.</div> Kuudes, kuudentena kuukautena, oli Ira Ikeksen Thekoalaisen poika, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">9.</div> Kuudes, kuudentena kuukautena, oli Ira Ikeksen Thekoalaisen poika, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">10.</div> Seitsemas, seitsemantena kuukautena, oli Heles Pelonilainen Ephraimin lapsia, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">10.</div> Seitsemas, seitsemantena kuukautena, oli Heles Pelonilainen Ephraimin lapsia, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">11.</div> Kahdeksas, kahdeksantena kuukautena, oli Sibbekai Hussatilainen Sarhilaisista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">11.</div> Kahdeksas, kahdeksantena kuukautena, oli Sibbekai Hussatilainen Sarhilaisista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">12.</div> Yhdeksas, yhdeksantena kuukautena, oli Abieser Antotilainen Jeminin lapsista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">12.</div> Yhdeksas, yhdeksantena kuukautena, oli Abieser Antotilainen Jeminin lapsista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">13.</div> Kymmenes, kymmenentena kuukautena, oli Maherai Netophatilainen Sarhilaisista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">13.</div> Kymmenes, kymmenentena kuukautena, oli Maherai Netophatilainen Sarhilaisista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">14.</div> Ensimainentoistakymmenta, ensimaisena kuukautena toistakymmenta, oli Benaja Pirtagonilainen Ephraimin lapsista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">14.</div> Ensimainentoistakymmenta, ensimaisena kuukautena toistakymmenta, oli Benaja Pirtagonilainen Ephraimin lapsista, ja hanen joukossansa oli neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">15.</div> Toinentoistakymmenta, toisena kuukautena toistakymmenta, oli Heldai Netophatilainen Otnielista, ja hanen joukossansa neljakolmattakymmenta tuhatta.	
+<div class="theverse"><div class="versenum">15.</div> Toinentoistakymmenta, toisena kuukautena toistakymmenta, oli Heldai Netophatilainen Otnielista, ja hanen joukossansa neljakolmattakymmenta tuhatta.	</div>
 
-<div class="versenum">16.</div> Israelin sukukuntain paalla: Rubenilaisten paamies oli Elieser Sikrin poika; Simeonilaisten seassa Sephatia Maekan poika;	
+<div class="theverse"><div class="versenum">16.</div> Israelin sukukuntain paalla: Rubenilaisten paamies oli Elieser Sikrin poika; Simeonilaisten seassa Sephatia Maekan poika;	</div>
 
-<div class="versenum">17.</div> Levilaisten seassa, Hasabia Kemuelin poika; Aronilaisten seassa Zadok;	
+<div class="theverse"><div class="versenum">17.</div> Levilaisten seassa, Hasabia Kemuelin poika; Aronilaisten seassa Zadok;	</div>
 
-<div class="versenum">18.</div> Juudan seassa, Elihu Davidin veljista; Isaskarin seassa, Omri Mikaelin poika;	
+<div class="theverse"><div class="versenum">18.</div> Juudan seassa, Elihu Davidin veljista; Isaskarin seassa, Omri Mikaelin poika;	</div>
 
-<div class="versenum">19.</div> Sebulonin seassa, Jismaja Obadian poika; Naphtalin seassa, Jerimot Asrielin poika;	
+<div class="theverse"><div class="versenum">19.</div> Sebulonin seassa, Jismaja Obadian poika; Naphtalin seassa, Jerimot Asrielin poika;	</div>
 
-<div class="versenum">20.</div> Ephraimin lasten seassa, Hosea Asasian poika; puolen Manassen sukukunnan seassa, Joel Pedajan poika;	
+<div class="theverse"><div class="versenum">20.</div> Ephraimin lasten seassa, Hosea Asasian poika; puolen Manassen sukukunnan seassa, Joel Pedajan poika;	</div>
 
-<div class="versenum">21.</div> Puolen Manassen sukukunnan seassa Gileadissa, Jiddo Sakarian poika; BenJaminin seassa, Jaasiel Abnerin poika;	
+<div class="theverse"><div class="versenum">21.</div> Puolen Manassen sukukunnan seassa Gileadissa, Jiddo Sakarian poika; BenJaminin seassa, Jaasiel Abnerin poika;	</div>
 
-<div class="versenum">22.</div> Danin seassa, Asareel Jerohamin poika. Namat ovat Israelin sukukuntain paamiehet.	
+<div class="theverse"><div class="versenum">22.</div> Danin seassa, Asareel Jerohamin poika. Namat ovat Israelin sukukuntain paamiehet.	</div>
 
-<div class="versenum">23.</div> Mutta David ei lukenut niita, jotka kahdenkymmenen vuotiset ja sita nuoremmat olivat; silla Herra oli luvannut enentaa Israelin niinkuin tahdet taivaissa.	
+<div class="theverse"><div class="versenum">23.</div> Mutta David ei lukenut niita, jotka kahdenkymmenen vuotiset ja sita nuoremmat olivat; silla Herra oli luvannut enentaa Israelin niinkuin tahdet taivaissa.	</div>
 
-<div class="versenum">24.</div> Mutta Joab Zerujan poika oli ruvennut lukemaan ja ei sita tayttanyt, ja viha tuli siita Israelin paalle: ja ei se luku tullut kuningas Davidin aikakirjaan.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Joab Zerujan poika oli ruvennut lukemaan ja ei sita tayttanyt, ja viha tuli siita Israelin paalle: ja ei se luku tullut kuningas Davidin aikakirjaan.	</div>
 
-<div class="versenum">25.</div> Kuninkaan tavarain paalla oli Asmavet Adielin poika, ja tavarain paalla, jotka olivat maalla, kaupungeissa, kylissa ja linnoissa, oli Jonatan Ussian poika.	
+<div class="theverse"><div class="versenum">25.</div> Kuninkaan tavarain paalla oli Asmavet Adielin poika, ja tavarain paalla, jotka olivat maalla, kaupungeissa, kylissa ja linnoissa, oli Jonatan Ussian poika.	</div>
 
-<div class="versenum">26.</div> Talonpoikain paalla, jotka maata viljelivat, oli Esri Kelubin poika.	
+<div class="theverse"><div class="versenum">26.</div> Talonpoikain paalla, jotka maata viljelivat, oli Esri Kelubin poika.	</div>
 
-<div class="versenum">27.</div> Viinamakein paalla oli Simei Ramalainen; viinakellarein ja viinatavarain paalla Sabdi Siphmilainen.	
+<div class="theverse"><div class="versenum">27.</div> Viinamakein paalla oli Simei Ramalainen; viinakellarein ja viinatavarain paalla Sabdi Siphmilainen.	</div>
 
-<div class="versenum">28.</div> Oljypuiden ja metsafikunapuiden paalla, jotka olivat laaksossa, oli BaalHanan Gadarilainen; oljytavarain paalla Joas.	
+<div class="theverse"><div class="versenum">28.</div> Oljypuiden ja metsafikunapuiden paalla, jotka olivat laaksossa, oli BaalHanan Gadarilainen; oljytavarain paalla Joas.	</div>
 
-<div class="versenum">29.</div> Laidunharkain paalla Saronissa oli Sitrai Saronilainen; mutta harkain paalla laaksossa Saphat Adlain poika;	
+<div class="theverse"><div class="versenum">29.</div> Laidunharkain paalla Saronissa oli Sitrai Saronilainen; mutta harkain paalla laaksossa Saphat Adlain poika;	</div>
 
-<div class="versenum">30.</div> Kamelein paalla Obil Ismaelilainen; aasein paalla Jehedia Meronotilainen;	
+<div class="theverse"><div class="versenum">30.</div> Kamelein paalla Obil Ismaelilainen; aasein paalla Jehedia Meronotilainen;	</div>
 
-<div class="versenum">31.</div> Lammasten paalla Jasis Hagarilainen: namat kaikki olivat paamiehet kuningas Davidin omaisuuden paalla.	
+<div class="theverse"><div class="versenum">31.</div> Lammasten paalla Jasis Hagarilainen: namat kaikki olivat paamiehet kuningas Davidin omaisuuden paalla.	</div>
 
-<div class="versenum">32.</div> Mutta Davidin seta Jonatan oli neuvonantaja, toimellinen mies ja hyvin oppinut. Jehiel Hakmonin poika oli kuninkaan lasten tykona.	
+<div class="theverse"><div class="versenum">32.</div> Mutta Davidin seta Jonatan oli neuvonantaja, toimellinen mies ja hyvin oppinut. Jehiel Hakmonin poika oli kuninkaan lasten tykona.	</div>
 
-<div class="versenum">33.</div> Ahitophel oli myos kuninkaan neuvonantaja; Husai Arkilainen oli kuninkaan ystava.	
+<div class="theverse"><div class="versenum">33.</div> Ahitophel oli myos kuninkaan neuvonantaja; Husai Arkilainen oli kuninkaan ystava.	</div>
 
-<div class="versenum">34.</div> Ja Ahitophelin jalkeen oli Jojada Benajan poika ja Ebjatar. Mutta Joab oli kuninkaan sodan paamies.	
+<div class="theverse"><div class="versenum">34.</div> Ja Ahitophelin jalkeen oli Jojada Benajan poika ja Ebjatar. Mutta Joab oli kuninkaan sodan paamies.	</div>
 </body>
 </html>

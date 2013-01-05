@@ -4,92 +4,92 @@
 </head>
 <body><div class="chaptertitle">Markuksen 12	</div>
 	
-<div class="versenum">1.</div> Ja han rupesi heille puhumaan vertauksilla: ihminen istutti viinamaen, ja pani aidan sen ymparille, ja kaivoi kuopan, ja rakensi tornin, ja pani sen vuorolle peltomiehille, ja matkusti muille maille,	
+<div class="theverse"><div class="versenum">1.</div> Ja han rupesi heille puhumaan vertauksilla: ihminen istutti viinamaen, ja pani aidan sen ymparille, ja kaivoi kuopan, ja rakensi tornin, ja pani sen vuorolle peltomiehille, ja matkusti muille maille,	</div>
 
-<div class="versenum">2.</div> Ja lahetti ajallansa palveliansa peltomiesten tyko, ottamaan peltomiehilta viinamaen hedelmaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja lahetti ajallansa palveliansa peltomiesten tyko, ottamaan peltomiehilta viinamaen hedelmaa.	</div>
 
-<div class="versenum">3.</div> Mutta he ottivat hanen kiinni, hosuivat hanen ja lahettivat hanen pois tyhjana.	
+<div class="theverse"><div class="versenum">3.</div> Mutta he ottivat hanen kiinni, hosuivat hanen ja lahettivat hanen pois tyhjana.	</div>
 
-<div class="versenum">4.</div> Ja taas lahetti han heidan tykonsa toisen palvelian, ja sen he kivittivat ja paan sarkivat, ja lahettivat hanen pois pilkattuna.	
+<div class="theverse"><div class="versenum">4.</div> Ja taas lahetti han heidan tykonsa toisen palvelian, ja sen he kivittivat ja paan sarkivat, ja lahettivat hanen pois pilkattuna.	</div>
 
-<div class="versenum">5.</div> Ja han lahetti taas toisen; sen he tappoivat: ja monta muuta, muutamat he hosuivat, ja muutamat tappoivat.	
+<div class="theverse"><div class="versenum">5.</div> Ja han lahetti taas toisen; sen he tappoivat: ja monta muuta, muutamat he hosuivat, ja muutamat tappoivat.	</div>
 
-<div class="versenum">6.</div> Niin hanella oli viela rakas ainoa poikansa; han lahetti myos sen viimeiseksi heidan tykonsa, sanoen: he karttavat minun poikaani.	
+<div class="theverse"><div class="versenum">6.</div> Niin hanella oli viela rakas ainoa poikansa; han lahetti myos sen viimeiseksi heidan tykonsa, sanoen: he karttavat minun poikaani.	</div>
 
-<div class="versenum">7.</div> Mutta ne peltomiehet sanoiat keskenansa: tama on perillinen: tulkaat, tappakaamme hanta, niin perinto jaa meille.	
+<div class="theverse"><div class="versenum">7.</div> Mutta ne peltomiehet sanoiat keskenansa: tama on perillinen: tulkaat, tappakaamme hanta, niin perinto jaa meille.	</div>
 
-<div class="versenum">8.</div> Ja he ottivat hanen ja tappoivat, ja heittivat ulos viinamaesta.	
+<div class="theverse"><div class="versenum">8.</div> Ja he ottivat hanen ja tappoivat, ja heittivat ulos viinamaesta.	</div>
 
-<div class="versenum">9.</div> Mitas viinamaen Herra on tekeva? Han tulee ja hukkaa ne peltomiehet, ja antaa viinamaen muille.	
+<div class="theverse"><div class="versenum">9.</div> Mitas viinamaen Herra on tekeva? Han tulee ja hukkaa ne peltomiehet, ja antaa viinamaen muille.	</div>
 
-<div class="versenum">10.</div> Etteko te ole lukeneet tata kirjoitusta: jonka kiven rakentajat hylkasivat, se on tullut nurkkakiveksi.	
+<div class="theverse"><div class="versenum">10.</div> Etteko te ole lukeneet tata kirjoitusta: jonka kiven rakentajat hylkasivat, se on tullut nurkkakiveksi.	</div>
 
-<div class="versenum">11.</div> Herralta on tama tullut, ja on ihmeellinen meidan silmissamme.	
+<div class="theverse"><div class="versenum">11.</div> Herralta on tama tullut, ja on ihmeellinen meidan silmissamme.	</div>
 
-<div class="versenum">12.</div> Ja he etsivat hanta kiinni ottaaksensa, ja pelkasivat kansaa; silla he ymmarsivat, etta han heille taman vertauksen sanonut oli. Ja he jattivat hanen ja menivat pois.	
+<div class="theverse"><div class="versenum">12.</div> Ja he etsivat hanta kiinni ottaaksensa, ja pelkasivat kansaa; silla he ymmarsivat, etta han heille taman vertauksen sanonut oli. Ja he jattivat hanen ja menivat pois.	</div>
 
-<div class="versenum">13.</div> Ja he lahettivat hanen tykonsa muutamat Pharisealaisista ja Herodilaisista, solmeamaan hanta sanoissa.	
+<div class="theverse"><div class="versenum">13.</div> Ja he lahettivat hanen tykonsa muutamat Pharisealaisista ja Herodilaisista, solmeamaan hanta sanoissa.	</div>
 
-<div class="versenum">14.</div> Ja he tulivat ja sanoivat hanelle: Mestari, me tiedamme, ettas olet totinen ja et tottele ketaan; silla et sina katso ihmisten muotoa, mutta opetat Jumalan tien totuudessa. Sopiiko keisarille antaa veron, taikka ei? Pitaako meidan antaman, taikka ei antaman?	
+<div class="theverse"><div class="versenum">14.</div> Ja he tulivat ja sanoivat hanelle: Mestari, me tiedamme, ettas olet totinen ja et tottele ketaan; silla et sina katso ihmisten muotoa, mutta opetat Jumalan tien totuudessa. Sopiiko keisarille antaa veron, taikka ei? Pitaako meidan antaman, taikka ei antaman?	</div>
 
-<div class="versenum">15.</div> Niin han tiesi heidan viekkautensa, ja sanoi heille: mita te kiusaatte minua? Tuokaat minulle raha nahdakseni.	
+<div class="theverse"><div class="versenum">15.</div> Niin han tiesi heidan viekkautensa, ja sanoi heille: mita te kiusaatte minua? Tuokaat minulle raha nahdakseni.	</div>
 
-<div class="versenum">16.</div> Niin he toivat. Ja han sanoi heille: kenenka on tama kuva ja paallekirjoitus? He sanoivat hanelle: keisarin.	
+<div class="theverse"><div class="versenum">16.</div> Niin he toivat. Ja han sanoi heille: kenenka on tama kuva ja paallekirjoitus? He sanoivat hanelle: keisarin.	</div>
 
-<div class="versenum">17.</div> Niin Jesus vastasi ja sanoi heille: antakaat keisarille, kuin keisarin ovat, ja Jumalalle, kuin Jumalan ovat. Ja he ihmettelivat hanta.	
+<div class="theverse"><div class="versenum">17.</div> Niin Jesus vastasi ja sanoi heille: antakaat keisarille, kuin keisarin ovat, ja Jumalalle, kuin Jumalan ovat. Ja he ihmettelivat hanta.	</div>
 
-<div class="versenum">18.</div> Niin hanen tykonsa tulivat Saddukealaiset, jotka sanovat, ettei nousemusta ole, ja kysyivat hanelta sanoen:	
+<div class="theverse"><div class="versenum">18.</div> Niin hanen tykonsa tulivat Saddukealaiset, jotka sanovat, ettei nousemusta ole, ja kysyivat hanelta sanoen:	</div>
 
-<div class="versenum">19.</div> Mestari! Moses kirjoitti meille: jos jonkun veli kuolis, ja jattais vaimon, ja ei lapsia, niin hanen veljensa pitaa ottaman hanen vaimonsa ja herattaman veljellensa siemenen.	
+<div class="theverse"><div class="versenum">19.</div> Mestari! Moses kirjoitti meille: jos jonkun veli kuolis, ja jattais vaimon, ja ei lapsia, niin hanen veljensa pitaa ottaman hanen vaimonsa ja herattaman veljellensa siemenen.	</div>
 
-<div class="versenum">20.</div> Niin oli seitseman veljea. Ja ensimainen otti vaimon, ja ei jattanyt kuoltuansa siementa.	
+<div class="theverse"><div class="versenum">20.</div> Niin oli seitseman veljea. Ja ensimainen otti vaimon, ja ei jattanyt kuoltuansa siementa.	</div>
 
-<div class="versenum">21.</div> Ja toinen otti hanen, ja kuoli, ja ei hankaan jattanyt siementa. Niin myos kolmas.	
+<div class="theverse"><div class="versenum">21.</div> Ja toinen otti hanen, ja kuoli, ja ei hankaan jattanyt siementa. Niin myos kolmas.	</div>
 
-<div class="versenum">22.</div> Ja hanen ottivat ne seitseman, ja ei jattaneet siementa. Kaikkein viimein kuoli vaimo.	
+<div class="theverse"><div class="versenum">22.</div> Ja hanen ottivat ne seitseman, ja ei jattaneet siementa. Kaikkein viimein kuoli vaimo.	</div>
 
-<div class="versenum">23.</div> Sentahden ylosnousemisessa, kuin he nousevat ylos, kenenka heista vaimo pitaa oleman? Silla han oli niille seitsemalle emantana.	
+<div class="theverse"><div class="versenum">23.</div> Sentahden ylosnousemisessa, kuin he nousevat ylos, kenenka heista vaimo pitaa oleman? Silla han oli niille seitsemalle emantana.	</div>
 
-<div class="versenum">24.</div> Ja Jesus vastaten sanoi heille: etteko te sentahden eksy, ettette tieda kirjoituksia, eika Jumalan voimaa?	
+<div class="theverse"><div class="versenum">24.</div> Ja Jesus vastaten sanoi heille: etteko te sentahden eksy, ettette tieda kirjoituksia, eika Jumalan voimaa?	</div>
 
-<div class="versenum">25.</div> Silla kuin he kuolleista nousevat ylos, ei he nai eika huole, mutta ovat niinkuin enkelit, jotka ovat taivaissa.	
+<div class="theverse"><div class="versenum">25.</div> Silla kuin he kuolleista nousevat ylos, ei he nai eika huole, mutta ovat niinkuin enkelit, jotka ovat taivaissa.	</div>
 
-<div class="versenum">26.</div> Mutta kuolleista, etta he nousevat, etteko te ole lukeneet Moseksen Raamatussa, kuinka Jumala pensaassa hanelle puhui, sanoen: mina olen Abrahamin Jumala, ja Isaakin Jumala, ja Jakobin Jumala?	
+<div class="theverse"><div class="versenum">26.</div> Mutta kuolleista, etta he nousevat, etteko te ole lukeneet Moseksen Raamatussa, kuinka Jumala pensaassa hanelle puhui, sanoen: mina olen Abrahamin Jumala, ja Isaakin Jumala, ja Jakobin Jumala?	</div>
 
-<div class="versenum">27.</div> Ei Jumala ole kuolleiden, vaan elavien Jumala: te sentahden suuresti eksytte.	
+<div class="theverse"><div class="versenum">27.</div> Ei Jumala ole kuolleiden, vaan elavien Jumala: te sentahden suuresti eksytte.	</div>
 
-<div class="versenum">28.</div> Ja kuin yksi kirjanoppineista tuli, joka kuuli heidan kamppailevan keskenansa, ja naki, etta han hyvasti vastasi heita, kysyi han hanelta: kuka on kaikkein suurin kasky?	
+<div class="theverse"><div class="versenum">28.</div> Ja kuin yksi kirjanoppineista tuli, joka kuuli heidan kamppailevan keskenansa, ja naki, etta han hyvasti vastasi heita, kysyi han hanelta: kuka on kaikkein suurin kasky?	</div>
 
-<div class="versenum">29.</div> Mutta Jesus vastasi hanta: tama on kaikkein suurin kasky: kuule, Israel, Herra meidan Jumalamme on yksi Herra.	
+<div class="theverse"><div class="versenum">29.</div> Mutta Jesus vastasi hanta: tama on kaikkein suurin kasky: kuule, Israel, Herra meidan Jumalamme on yksi Herra.	</div>
 
-<div class="versenum">30.</div> Ja sinun pitaa rakastaman Herraa sinun Jumalaas kaikesta sydamestas, ja kaikesta sinun sielustas, ja kaikesta sinun mielestas, ja kaikesta sinun voimastas. Tama on suurin kasky.	
+<div class="theverse"><div class="versenum">30.</div> Ja sinun pitaa rakastaman Herraa sinun Jumalaas kaikesta sydamestas, ja kaikesta sinun sielustas, ja kaikesta sinun mielestas, ja kaikesta sinun voimastas. Tama on suurin kasky.	</div>
 
-<div class="versenum">31.</div> Ja toinen senkaltainen on tama: sinun pitaa rakastaman sinun lahimmaistas niinkuin itse sinuas. Ei ole naita suurempaa kaskya.	
+<div class="theverse"><div class="versenum">31.</div> Ja toinen senkaltainen on tama: sinun pitaa rakastaman sinun lahimmaistas niinkuin itse sinuas. Ei ole naita suurempaa kaskya.	</div>
 
-<div class="versenum">32.</div> Ja kirjanoppinut sanoi hanelle: oikein, Mestari, sina sanoit totuuden; silla yksi on Jumala, ja ei ole toista paitsi hanta:	
+<div class="theverse"><div class="versenum">32.</div> Ja kirjanoppinut sanoi hanelle: oikein, Mestari, sina sanoit totuuden; silla yksi on Jumala, ja ei ole toista paitsi hanta:	</div>
 
-<div class="versenum">33.</div> Ja rakastaa hanta kaikesta sydamesta, ja kaikesta ymmarryksesta, ja kaikesta sielusta ja kaikesta vaesta, ja rakastaa lahimmaista niinkuin itsiansa, se on enempi kuin kaikki polttouhrit ja muut uhrit.	
+<div class="theverse"><div class="versenum">33.</div> Ja rakastaa hanta kaikesta sydamesta, ja kaikesta ymmarryksesta, ja kaikesta sielusta ja kaikesta vaesta, ja rakastaa lahimmaista niinkuin itsiansa, se on enempi kuin kaikki polttouhrit ja muut uhrit.	</div>
 
-<div class="versenum">34.</div> Ja koska Jesus naki, etta han toimellisesti vastasi, sanoi han hanelle: et sina ole kaukana Jumalan valtakunnasta. Ja ei tohtinut kenkaan sitte hanelta enempaa kysya.	
+<div class="theverse"><div class="versenum">34.</div> Ja koska Jesus naki, etta han toimellisesti vastasi, sanoi han hanelle: et sina ole kaukana Jumalan valtakunnasta. Ja ei tohtinut kenkaan sitte hanelta enempaa kysya.	</div>
 
-<div class="versenum">35.</div> Ja Jesus vastasi ja sanoi, opettain templissa: kuinka sanovat kirjanoppineet, etta Kristus on Davidin poika?	
+<div class="theverse"><div class="versenum">35.</div> Ja Jesus vastasi ja sanoi, opettain templissa: kuinka sanovat kirjanoppineet, etta Kristus on Davidin poika?	</div>
 
-<div class="versenum">36.</div> Silla David sanoi itse Pyhan Hengen kautta: Herra sanoi minun Herralleni: istu minun oikialle kadelleni siihenasti kuin mina panen sinun vihollises sinun jalkas astinlaudaksi.	
+<div class="theverse"><div class="versenum">36.</div> Silla David sanoi itse Pyhan Hengen kautta: Herra sanoi minun Herralleni: istu minun oikialle kadelleni siihenasti kuin mina panen sinun vihollises sinun jalkas astinlaudaksi.	</div>
 
-<div class="versenum">37.</div> Itse siis David sanoo hanen Herraksi; kuinka han siis on hanen poikansa? Ja paljo kansaa kuuli hanta mielellansa.	
+<div class="theverse"><div class="versenum">37.</div> Itse siis David sanoo hanen Herraksi; kuinka han siis on hanen poikansa? Ja paljo kansaa kuuli hanta mielellansa.	</div>
 
-<div class="versenum">38.</div> Ja han opetti heita ja sanoi heille: kavahtakaat kirjanoppineita, jotka mielellansa pitkissa vaatteissa kayvat, ja antavat itseansa turulla tervehtia,	
+<div class="theverse"><div class="versenum">38.</div> Ja han opetti heita ja sanoi heille: kavahtakaat kirjanoppineita, jotka mielellansa pitkissa vaatteissa kayvat, ja antavat itseansa turulla tervehtia,	</div>
 
-<div class="versenum">39.</div> Ja rakastavat ylimmaisia istuimia kokouksissa ja ensimaisia sijoja ehtoollisissa,	
+<div class="theverse"><div class="versenum">39.</div> Ja rakastavat ylimmaisia istuimia kokouksissa ja ensimaisia sijoja ehtoollisissa,	</div>
 
-<div class="versenum">40.</div> Jotka syovat leskein huoneet, ja muodoksi pitavat pitkat rukoukset. Namat saavat sita raskaamman kadotuksen.	
+<div class="theverse"><div class="versenum">40.</div> Jotka syovat leskein huoneet, ja muodoksi pitavat pitkat rukoukset. Namat saavat sita raskaamman kadotuksen.	</div>
 
-<div class="versenum">41.</div> Ja kuin Jesus istui uhri-arkun kohdalla ja katseli, kuinka kansa pani rahaa uhri-arkkuun, ja monta rikasta pani paljon,	
+<div class="theverse"><div class="versenum">41.</div> Ja kuin Jesus istui uhri-arkun kohdalla ja katseli, kuinka kansa pani rahaa uhri-arkkuun, ja monta rikasta pani paljon,	</div>
 
-<div class="versenum">42.</div> Niin tuli koyha leski, ja pani kaksi ropoa, se on kuusinainen.	
+<div class="theverse"><div class="versenum">42.</div> Niin tuli koyha leski, ja pani kaksi ropoa, se on kuusinainen.	</div>
 
-<div class="versenum">43.</div> Niin han kutsui opetuslapsensa tykonsa, ja sanoi heille: Totisesti sanon mina teille: tama koyha leski pani enemman uhri-arkkuun kuin kaikki ne, jotka siihen panivat.	
+<div class="theverse"><div class="versenum">43.</div> Niin han kutsui opetuslapsensa tykonsa, ja sanoi heille: Totisesti sanon mina teille: tama koyha leski pani enemman uhri-arkkuun kuin kaikki ne, jotka siihen panivat.	</div>
 
-<div class="versenum">44.</div> Silla he ovat kaikki panneet siita, mita heille liiaksi oli; mutta tama koyhyydestansa pani kaiken, mita hanella oli, kaiken tavaransa.	
+<div class="theverse"><div class="versenum">44.</div> Silla he ovat kaikki panneet siita, mita heille liiaksi oli; mutta tama koyhyydestansa pani kaiken, mita hanella oli, kaiken tavaransa.	</div>
 </body>
 </html>

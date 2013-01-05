@@ -4,100 +4,100 @@
 </head>
 <body><div class="chaptertitle">Tuomarien 20	</div>
 	
-<div class="versenum">1.</div> Ja kaikki Israelin lapset laksivat ulos ja kokosivat heitansa joukkoon niinkuin yksi mies, Danista BerSebaan asti, ja Gileadin maasta niin Herran tyko Mitspaan.	
+<div class="theverse"><div class="versenum">1.</div> Ja kaikki Israelin lapset laksivat ulos ja kokosivat heitansa joukkoon niinkuin yksi mies, Danista BerSebaan asti, ja Gileadin maasta niin Herran tyko Mitspaan.	</div>
 
-<div class="versenum">2.</div> Ja kaiken kansan paamiehet, kaikki Israelin sukukunnat seisoivat Jumalan kansan seurakunnassa, neljasataa tuhatta miekan vetavaa jalkamiesta.	
+<div class="theverse"><div class="versenum">2.</div> Ja kaiken kansan paamiehet, kaikki Israelin sukukunnat seisoivat Jumalan kansan seurakunnassa, neljasataa tuhatta miekan vetavaa jalkamiesta.	</div>
 
-<div class="versenum">3.</div> Ja BenJaminin lapset saivat kuulla Israelin lapset menneeksi ylos Mitspaan. Ja Israelin lapset sanoivat: sanokaat, kuinka tama pahateko on tapahtunut?	
+<div class="theverse"><div class="versenum">3.</div> Ja BenJaminin lapset saivat kuulla Israelin lapset menneeksi ylos Mitspaan. Ja Israelin lapset sanoivat: sanokaat, kuinka tama pahateko on tapahtunut?	</div>
 
-<div class="versenum">4.</div> Niin vastasi Levilainen, tapetun vaimon mies, ja sanoi: mina tulin Gibeaan, joka on BenJaminissa, ja minun jalkavaimoni yoksi.	
+<div class="theverse"><div class="versenum">4.</div> Niin vastasi Levilainen, tapetun vaimon mies, ja sanoi: mina tulin Gibeaan, joka on BenJaminissa, ja minun jalkavaimoni yoksi.	</div>
 
-<div class="versenum">5.</div> Ja Gibean asuvaiset nousivat minua vastaan ja piirittivat minun yolla huoneessa, jossa mina olin, ja tahtoivat tappaa minun ja hapaisivat jalkavaimoni, etta han kuoli.	
+<div class="theverse"><div class="versenum">5.</div> Ja Gibean asuvaiset nousivat minua vastaan ja piirittivat minun yolla huoneessa, jossa mina olin, ja tahtoivat tappaa minun ja hapaisivat jalkavaimoni, etta han kuoli.	</div>
 
-<div class="versenum">6.</div> Niin mina otin jalkavaimoni ja jaoin kappaleiksi, ja lahetin ne kaikkiin Israelin maan rajoihin: etta he tekivat hapiallisen ja kauhian tyon Israelissa.	
+<div class="theverse"><div class="versenum">6.</div> Niin mina otin jalkavaimoni ja jaoin kappaleiksi, ja lahetin ne kaikkiin Israelin maan rajoihin: etta he tekivat hapiallisen ja kauhian tyon Israelissa.	</div>
 
-<div class="versenum">7.</div> Katso, te olette kaikki Israelin lapset tassa, pitakaat neuvoa ja tehkaat jotain tahan asiaan.	
+<div class="theverse"><div class="versenum">7.</div> Katso, te olette kaikki Israelin lapset tassa, pitakaat neuvoa ja tehkaat jotain tahan asiaan.	</div>
 
-<div class="versenum">8.</div> Niin kaikki kansa nousi niinkuin yksi mies ja sanoi: alkaan meista yksikaan menko majaansa eika kenkaan poiketko huoneesensa;	
+<div class="theverse"><div class="versenum">8.</div> Niin kaikki kansa nousi niinkuin yksi mies ja sanoi: alkaan meista yksikaan menko majaansa eika kenkaan poiketko huoneesensa;	</div>
 
-<div class="versenum">9.</div> Mutta sen me nyt teemme Gibeaa vastaan, me heitamme arpaa hanta vastaan,	
+<div class="theverse"><div class="versenum">9.</div> Mutta sen me nyt teemme Gibeaa vastaan, me heitamme arpaa hanta vastaan,	</div>
 
-<div class="versenum">10.</div> Ja otamme kymmenen miesta sadasta ja sata tuhannesta ja tuhannen kymmenestatuhannesta, kaikista Israelin sukukunnista, ottamaan kansalle ravintoa, tulemaan ja tekemaan Gibealle, joka BenJaminissa on, kaiken sen hulluuden jalkeen, kuin he ovat tehneet Israelissa.	
+<div class="theverse"><div class="versenum">10.</div> Ja otamme kymmenen miesta sadasta ja sata tuhannesta ja tuhannen kymmenestatuhannesta, kaikista Israelin sukukunnista, ottamaan kansalle ravintoa, tulemaan ja tekemaan Gibealle, joka BenJaminissa on, kaiken sen hulluuden jalkeen, kuin he ovat tehneet Israelissa.	</div>
 
-<div class="versenum">11.</div> Niin kokosivat heitansa kaikki Israelin miehet kaupunkiin, niinkuin yksi mies, ja tekivat liiton keskenansa.	
+<div class="theverse"><div class="versenum">11.</div> Niin kokosivat heitansa kaikki Israelin miehet kaupunkiin, niinkuin yksi mies, ja tekivat liiton keskenansa.	</div>
 
-<div class="versenum">12.</div> Ja Israelin sukukunnat lahettivat miehia kaikkein BenJaminin sukukuntain tyko, ja kaskivat heille sanoa: mika pahateko tama on, joka teidan seassanne on tapahtunut?	
+<div class="theverse"><div class="versenum">12.</div> Ja Israelin sukukunnat lahettivat miehia kaikkein BenJaminin sukukuntain tyko, ja kaskivat heille sanoa: mika pahateko tama on, joka teidan seassanne on tapahtunut?	</div>
 
-<div class="versenum">13.</div> Antakaat siis nyt ne ilkiat miehet Gibeasta, meidan tappaaksemme ja ottaaksemme pahuutta Israelista pois. Mutta BenJaminin lapset ei tahtoneet kuulla veljeinsa Israelin lasten aanta.	
+<div class="theverse"><div class="versenum">13.</div> Antakaat siis nyt ne ilkiat miehet Gibeasta, meidan tappaaksemme ja ottaaksemme pahuutta Israelista pois. Mutta BenJaminin lapset ei tahtoneet kuulla veljeinsa Israelin lasten aanta.	</div>
 
-<div class="versenum">14.</div> Vaan BenJaminin lapset kokosivat heitansa kaupungeista Gibeaan, menemaan ulos sotaan Israelin lapsia vastaan.	
+<div class="theverse"><div class="versenum">14.</div> Vaan BenJaminin lapset kokosivat heitansa kaupungeista Gibeaan, menemaan ulos sotaan Israelin lapsia vastaan.	</div>
 
-<div class="versenum">15.</div> Ja olivat sina paivana luetut BenJaminin lapset kaupungeista kuusikolmattakymmenta tuhatta miesta, jotka miekkaa vetivat ulos, ilman Gibean asuvaisia, joita oli seitsemansataa valittua miesta.	
+<div class="theverse"><div class="versenum">15.</div> Ja olivat sina paivana luetut BenJaminin lapset kaupungeista kuusikolmattakymmenta tuhatta miesta, jotka miekkaa vetivat ulos, ilman Gibean asuvaisia, joita oli seitsemansataa valittua miesta.	</div>
 
-<div class="versenum">16.</div> Ja kaiken sen kansan seassa oli seitsemansataa valittua miesta, jotka olivat vasenkatiset, ja taisivat kaikki namat lingolla osata hiuskarvaan, niin ettei he hairahtuneet.	
+<div class="theverse"><div class="versenum">16.</div> Ja kaiken sen kansan seassa oli seitsemansataa valittua miesta, jotka olivat vasenkatiset, ja taisivat kaikki namat lingolla osata hiuskarvaan, niin ettei he hairahtuneet.	</div>
 
-<div class="versenum">17.</div> Mutta Israelin miehia, ilman BenJaminilaisia oli neljasataa tuhatta, jotka miekkaa vetivat ulos, ja olivat kaikki vahvat sotamiehet.	
+<div class="theverse"><div class="versenum">17.</div> Mutta Israelin miehia, ilman BenJaminilaisia oli neljasataa tuhatta, jotka miekkaa vetivat ulos, ja olivat kaikki vahvat sotamiehet.	</div>
 
-<div class="versenum">18.</div> Ja Israelin lapset nousivat ja menivat Jumalan huoneesen, ja kysyivat Jumalalta, sanoen: kuka menee meidan edellamme alkamaan sotaa BenJaminin lapsia vastaan? Herra sanoi: Juudan pitaa alkaman.	
+<div class="theverse"><div class="versenum">18.</div> Ja Israelin lapset nousivat ja menivat Jumalan huoneesen, ja kysyivat Jumalalta, sanoen: kuka menee meidan edellamme alkamaan sotaa BenJaminin lapsia vastaan? Herra sanoi: Juudan pitaa alkaman.	</div>
 
-<div class="versenum">19.</div> Ja Israelin lapset nousivat aamulla ja sioittivat itsensa Gibean eteen.	
+<div class="theverse"><div class="versenum">19.</div> Ja Israelin lapset nousivat aamulla ja sioittivat itsensa Gibean eteen.	</div>
 
-<div class="versenum">20.</div> Israelin miehet menivat sotaan BenJaminin kanssa, ja Israelin miehet saasivat sodan heita vastaan Gibeassa.	
+<div class="theverse"><div class="versenum">20.</div> Israelin miehet menivat sotaan BenJaminin kanssa, ja Israelin miehet saasivat sodan heita vastaan Gibeassa.	</div>
 
-<div class="versenum">21.</div> Ja BenJaminin lapset laksivat Gibeasta ja loivat sina paivana Israelista kaksikolmattakymmenta tuhatta miesta ketoon.	
+<div class="theverse"><div class="versenum">21.</div> Ja BenJaminin lapset laksivat Gibeasta ja loivat sina paivana Israelista kaksikolmattakymmenta tuhatta miesta ketoon.	</div>
 
-<div class="versenum">22.</div> Ja Israelin kansan miehet vahvistivat heitansa ja valmistivat itsensa taas sotimaan siina paikassa, jossa he olivat ensimmaisenakin paivana valmiit.	
+<div class="theverse"><div class="versenum">22.</div> Ja Israelin kansan miehet vahvistivat heitansa ja valmistivat itsensa taas sotimaan siina paikassa, jossa he olivat ensimmaisenakin paivana valmiit.	</div>
 
-<div class="versenum">23.</div> Ja Israelin lapset menivat ylos ja itkivat Herran edessa ehtoosen asti, ja kysyivat Herralta, sanoen: pitaako meidan viela meneman sotimaan BenJaminin lasten, meidan veljeimme kanssa? Herra sanoi: menkaat heita vastaan.	
+<div class="theverse"><div class="versenum">23.</div> Ja Israelin lapset menivat ylos ja itkivat Herran edessa ehtoosen asti, ja kysyivat Herralta, sanoen: pitaako meidan viela meneman sotimaan BenJaminin lasten, meidan veljeimme kanssa? Herra sanoi: menkaat heita vastaan.	</div>
 
-<div class="versenum">24.</div> Ja Israelin lapset kavivat edes toisena paivana BenJaminin lapsia vastaan;	
+<div class="theverse"><div class="versenum">24.</div> Ja Israelin lapset kavivat edes toisena paivana BenJaminin lapsia vastaan;	</div>
 
-<div class="versenum">25.</div> Ja BenJaminilaiset laksivat Gibeasta toisena paivana heita vastaan ja loivat viela nyt kahdeksantoistakymmenta tuhatta miesta Israelin lapsista maahan, jotka kaikki miekkaa vetivat ulos.	
+<div class="theverse"><div class="versenum">25.</div> Ja BenJaminilaiset laksivat Gibeasta toisena paivana heita vastaan ja loivat viela nyt kahdeksantoistakymmenta tuhatta miesta Israelin lapsista maahan, jotka kaikki miekkaa vetivat ulos.	</div>
 
-<div class="versenum">26.</div> Silloin menivat kaikki Israelin lapset ja kaikki kansa ylos ja tulivat Jumalan huoneesen, itkivat ja oleskelivat siella Herran edessa, ja paastosivat sen paivan ehtoosen asti, ja uhrasivat polttouhria ja kiitosuhria Herran edessa.	
+<div class="theverse"><div class="versenum">26.</div> Silloin menivat kaikki Israelin lapset ja kaikki kansa ylos ja tulivat Jumalan huoneesen, itkivat ja oleskelivat siella Herran edessa, ja paastosivat sen paivan ehtoosen asti, ja uhrasivat polttouhria ja kiitosuhria Herran edessa.	</div>
 
-<div class="versenum">27.</div> Ja Israelin lapset kysyivat Herralta; ja Jumalan liitonarkki oli siihen aikaan siella.	
+<div class="theverse"><div class="versenum">27.</div> Ja Israelin lapset kysyivat Herralta; ja Jumalan liitonarkki oli siihen aikaan siella.	</div>
 
-<div class="versenum">28.</div> Ja Pinehas Eleatsarin poika, Aaronin pojan, seisoi hanen edessansa silla ajalla ja sanoi: pitaako meidan viela meneman sotimaan BenJaminin lapsia meidan veljiamme vastaan, taikka pitaako meidan lakkaaman? Herra sanoi: menkaat sinne, huomenna mina annan heidat teidan kasiinne.	
+<div class="theverse"><div class="versenum">28.</div> Ja Pinehas Eleatsarin poika, Aaronin pojan, seisoi hanen edessansa silla ajalla ja sanoi: pitaako meidan viela meneman sotimaan BenJaminin lapsia meidan veljiamme vastaan, taikka pitaako meidan lakkaaman? Herra sanoi: menkaat sinne, huomenna mina annan heidat teidan kasiinne.	</div>
 
-<div class="versenum">29.</div> Ja Israelin lapset panivat vaijytykset joka taholta Gibean ymparille.	
+<div class="theverse"><div class="versenum">29.</div> Ja Israelin lapset panivat vaijytykset joka taholta Gibean ymparille.	</div>
 
-<div class="versenum">30.</div> Ja Israelin lapset menivat kolmantena paivana BenJaminin lapsia vastaan ja asettivat heitansa Gibeaa vastaan, niinkuin he ennenkin kaksi kertaa tekivat.	
+<div class="theverse"><div class="versenum">30.</div> Ja Israelin lapset menivat kolmantena paivana BenJaminin lapsia vastaan ja asettivat heitansa Gibeaa vastaan, niinkuin he ennenkin kaksi kertaa tekivat.	</div>
 
-<div class="versenum">31.</div> Niin menivat BenJaminin lapset kansaa vastaan, ja erkausivat kaupungista, rupesivat lyomaan ja haavoittamaan monikahtoja kansasta, niinkuin ennenkin niilla kahdella eralla, kedolla kahden tien paalla, joista yksi menee BetEliin ja toinen Gibeaan, liki kolmekymmenta miesta Israelista.	
+<div class="theverse"><div class="versenum">31.</div> Niin menivat BenJaminin lapset kansaa vastaan, ja erkausivat kaupungista, rupesivat lyomaan ja haavoittamaan monikahtoja kansasta, niinkuin ennenkin niilla kahdella eralla, kedolla kahden tien paalla, joista yksi menee BetEliin ja toinen Gibeaan, liki kolmekymmenta miesta Israelista.	</div>
 
-<div class="versenum">32.</div> Niin BenJaminin lapset sanoivat: he ovat lyodyt meidan edessamme niinkuin ennenkin. Vaan Israelin lapset sanoivat: paetkaamme ja houkutelkaamme heita kaupungista ulos teiden paalle.	
+<div class="theverse"><div class="versenum">32.</div> Niin BenJaminin lapset sanoivat: he ovat lyodyt meidan edessamme niinkuin ennenkin. Vaan Israelin lapset sanoivat: paetkaamme ja houkutelkaamme heita kaupungista ulos teiden paalle.	</div>
 
-<div class="versenum">33.</div> Niin nousivat kaikki miehet Israelista, jokainen siastansa, ja asettivat heitansa BaalTamariin; ja Israelin vaijyjat nousivat siastansa Gabaan luolasta.	
+<div class="theverse"><div class="versenum">33.</div> Niin nousivat kaikki miehet Israelista, jokainen siastansa, ja asettivat heitansa BaalTamariin; ja Israelin vaijyjat nousivat siastansa Gabaan luolasta.	</div>
 
-<div class="versenum">34.</div> Ja kymmenentuhatta valittua miesta kaikesta Israelista tuli Gibeaa vastaan, ja sota tuli sangen raskaaksi; mutta ei ne tietaneet onnettomuuden heita lahestyvan.	
+<div class="theverse"><div class="versenum">34.</div> Ja kymmenentuhatta valittua miesta kaikesta Israelista tuli Gibeaa vastaan, ja sota tuli sangen raskaaksi; mutta ei ne tietaneet onnettomuuden heita lahestyvan.	</div>
 
-<div class="versenum">35.</div> Ja Herra loi BenJaminin Israelin edesta, niin etta Israelin lapset sina paivana loivat viisikolmattakymmenta tuhatta ja sata miesta BenJaminista, jotka kaikki miekkaa vetivat ulos.	
+<div class="theverse"><div class="versenum">35.</div> Ja Herra loi BenJaminin Israelin edesta, niin etta Israelin lapset sina paivana loivat viisikolmattakymmenta tuhatta ja sata miesta BenJaminista, jotka kaikki miekkaa vetivat ulos.	</div>
 
-<div class="versenum">36.</div> Mutta kuin BenJaminin lapset nakivat heitansa lyodyksi, antoivat Israelin miehet heille siaa; silla he uskalsivat vaijytyksensa paalle, jotka he olivat asettaneet liki Gibeaa.	
+<div class="theverse"><div class="versenum">36.</div> Mutta kuin BenJaminin lapset nakivat heitansa lyodyksi, antoivat Israelin miehet heille siaa; silla he uskalsivat vaijytyksensa paalle, jotka he olivat asettaneet liki Gibeaa.	</div>
 
-<div class="versenum">37.</div> Ja vaijyjat kiiruhtivat, karkasivat Gibeaan, menivat ja loivat koko kaupungin miekan teralla.	
+<div class="theverse"><div class="versenum">37.</div> Ja vaijyjat kiiruhtivat, karkasivat Gibeaan, menivat ja loivat koko kaupungin miekan teralla.	</div>
 
-<div class="versenum">38.</div> Ja Israelin miehilla oli maaratty aika keskenaan vaijyjain kanssa, lyoda heita miekalla, koska savu nousi kaupungista.	
+<div class="theverse"><div class="versenum">38.</div> Ja Israelin miehilla oli maaratty aika keskenaan vaijyjain kanssa, lyoda heita miekalla, koska savu nousi kaupungista.	</div>
 
-<div class="versenum">39.</div> Kuin Israelin miehet kaansivat itsensa sotaan, ja BenJaminilaiset rupesivat lyomaan ja haavoittamaan Israelia, liki kolmekymmenta miesta, niin he sanoivat: tosin he ovat lyodyt meilta, niinkuin entisessakin tappeluksessa.	
+<div class="theverse"><div class="versenum">39.</div> Kuin Israelin miehet kaansivat itsensa sotaan, ja BenJaminilaiset rupesivat lyomaan ja haavoittamaan Israelia, liki kolmekymmenta miesta, niin he sanoivat: tosin he ovat lyodyt meilta, niinkuin entisessakin tappeluksessa.	</div>
 
-<div class="versenum">40.</div> Niin rupesi savu kaymaan kohdastansa kaupungista ylos ja BenJaminilaiset palasivat takaperin, ja katso, koko kaupungista savu kavi ylos taivasta kohden.	
+<div class="theverse"><div class="versenum">40.</div> Niin rupesi savu kaymaan kohdastansa kaupungista ylos ja BenJaminilaiset palasivat takaperin, ja katso, koko kaupungista savu kavi ylos taivasta kohden.	</div>
 
-<div class="versenum">41.</div> Ja Israelin miehet kaansivat itsensa, ja BenJaminin miehet hammastyivat; silla he nakivat, etta heita onnettomuus lahestyi.	
+<div class="theverse"><div class="versenum">41.</div> Ja Israelin miehet kaansivat itsensa, ja BenJaminin miehet hammastyivat; silla he nakivat, etta heita onnettomuus lahestyi.	</div>
 
-<div class="versenum">42.</div> Ja he kaansivat itsensa Israelin miesten edessa korven tielle; mutta sota saavutti heidat: sitalikin niita jotka kaupungeista olivat, surmasivat he siella.	
+<div class="theverse"><div class="versenum">42.</div> Ja he kaansivat itsensa Israelin miesten edessa korven tielle; mutta sota saavutti heidat: sitalikin niita jotka kaupungeista olivat, surmasivat he siella.	</div>
 
-<div class="versenum">43.</div> Ja ne piirittivat BenJaminin, ja ajoivat takaa Menuaan asti, ja tallasivat niita Gibean kohdalla, auringon ylenemista pain.	
+<div class="theverse"><div class="versenum">43.</div> Ja ne piirittivat BenJaminin, ja ajoivat takaa Menuaan asti, ja tallasivat niita Gibean kohdalla, auringon ylenemista pain.	</div>
 
-<div class="versenum">44.</div> Ja BenJaminista lankesi kahdeksantoistakymmenta tuhatta miesta, jotka kaikki olivat vahvat sotamiehet.	
+<div class="theverse"><div class="versenum">44.</div> Ja BenJaminista lankesi kahdeksantoistakymmenta tuhatta miesta, jotka kaikki olivat vahvat sotamiehet.	</div>
 
-<div class="versenum">45.</div> Niin kaansivat he itsensa ja pakenivat korpeen pain Rimmonin vuorelle, mutta silla tiella loivat he viisituhatta miesta, ja ajoivat heita takaa Gibeoniin asti, ja loivat heista kaksituhatta miesta.	
+<div class="theverse"><div class="versenum">45.</div> Niin kaansivat he itsensa ja pakenivat korpeen pain Rimmonin vuorelle, mutta silla tiella loivat he viisituhatta miesta, ja ajoivat heita takaa Gibeoniin asti, ja loivat heista kaksituhatta miesta.	</div>
 
-<div class="versenum">46.</div> Ja kaikki jotka sina paivana BenJaminista lankesivat, olivat viisikolmattakymmenta tuhatta miesta, jotka miekkaa vetivat ulos, ja olivat kaikki vahvat sotamiehet.	
+<div class="theverse"><div class="versenum">46.</div> Ja kaikki jotka sina paivana BenJaminista lankesivat, olivat viisikolmattakymmenta tuhatta miesta, jotka miekkaa vetivat ulos, ja olivat kaikki vahvat sotamiehet.	</div>
 
-<div class="versenum">47.</div> Ainoasti kuusisataa miesta kaansi itsensa ja pakeni jalleen korpeen Rimmonin vuorelle, ja jaivat Rimmonin vuorelle neljaksi kuukaudeksi.	
+<div class="theverse"><div class="versenum">47.</div> Ainoasti kuusisataa miesta kaansi itsensa ja pakeni jalleen korpeen Rimmonin vuorelle, ja jaivat Rimmonin vuorelle neljaksi kuukaudeksi.	</div>
 
-<div class="versenum">48.</div> Ja Israelin lapset tulivat jallensa BenJaminin lasten tyko ja loivat ne kaupungista miekan teralla, seka kansan etta elaimet, ja kaikki mita he loysivat; ja kaikki kaupungit jotka he loysivat, polttivat he tulella.	
+<div class="theverse"><div class="versenum">48.</div> Ja Israelin lapset tulivat jallensa BenJaminin lasten tyko ja loivat ne kaupungista miekan teralla, seka kansan etta elaimet, ja kaikki mita he loysivat; ja kaikki kaupungit jotka he loysivat, polttivat he tulella.	</div>
 </body>
 </html>

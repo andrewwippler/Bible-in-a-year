@@ -4,90 +4,90 @@
 </head>
 <body><div class="chaptertitle">Joosuan 10	</div>
 	
-<div class="versenum">1.</div> Kuin Jerusalemin kuningas AdoniZedek kuuli Josuan voittaneeksi Ain ja havittaneeksi sen, ja niin tehneeksi Aille ja hanen kuninkaallensa, kuin han teki Jeriholle ja hanen kuninkaallensa, ja etta Gibeonin asuvaiset olivat tehneet rauhan Israelin kanssa ja asuivat heidan seassansa,	
+<div class="theverse"><div class="versenum">1.</div> Kuin Jerusalemin kuningas AdoniZedek kuuli Josuan voittaneeksi Ain ja havittaneeksi sen, ja niin tehneeksi Aille ja hanen kuninkaallensa, kuin han teki Jeriholle ja hanen kuninkaallensa, ja etta Gibeonin asuvaiset olivat tehneet rauhan Israelin kanssa ja asuivat heidan seassansa,	</div>
 
-<div class="versenum">2.</div> Pelkasivat he sangen suuresti; silla Gibeon oli suuri kaupunki, niinkuin joku kuninkaallinen kaupunki ja suurempi kuin Ai, ja kaikki hanen asuvaisensa olivat vahvat sotamiehet.	
+<div class="theverse"><div class="versenum">2.</div> Pelkasivat he sangen suuresti; silla Gibeon oli suuri kaupunki, niinkuin joku kuninkaallinen kaupunki ja suurempi kuin Ai, ja kaikki hanen asuvaisensa olivat vahvat sotamiehet.	</div>
 
-<div class="versenum">3.</div> Niin lahetti AdoniZedek Jerusalemin kuningas Hohamin Hebronin kuninkaan tyko, ja Pireamin Jarmutin kuninkaan tyko, ja Japhian Lakiksen kuninkaan tyko ja Deberin Eglonin kuninkaan tyko, ja sanoi:	
+<div class="theverse"><div class="versenum">3.</div> Niin lahetti AdoniZedek Jerusalemin kuningas Hohamin Hebronin kuninkaan tyko, ja Pireamin Jarmutin kuninkaan tyko, ja Japhian Lakiksen kuninkaan tyko ja Deberin Eglonin kuninkaan tyko, ja sanoi:	</div>
 
-<div class="versenum">4.</div> Tulkaat ylos minun tykoni ja auttakaat minua ja lyokaamme Gibeon; silla he tekivat rauhan Josuan ja Israelin lasten kanssa.	
+<div class="theverse"><div class="versenum">4.</div> Tulkaat ylos minun tykoni ja auttakaat minua ja lyokaamme Gibeon; silla he tekivat rauhan Josuan ja Israelin lasten kanssa.	</div>
 
-<div class="versenum">5.</div> Silloin kokoontuivat ja menivat ylos viisi Amorilaisten kuningasta, Jerusalemin kuningas, Hebronin kuningas, Jarmutin kuningas, Lakiksen kuningas, Eglonin kuningas, he ja kaikki heidan leirinsa ja piirittivat Gibeonin ja sotivat sita vastaan.	
+<div class="theverse"><div class="versenum">5.</div> Silloin kokoontuivat ja menivat ylos viisi Amorilaisten kuningasta, Jerusalemin kuningas, Hebronin kuningas, Jarmutin kuningas, Lakiksen kuningas, Eglonin kuningas, he ja kaikki heidan leirinsa ja piirittivat Gibeonin ja sotivat sita vastaan.	</div>
 
-<div class="versenum">6.</div> Mutta Gibeonin miehet lahettivat Josuan tyko leiriin Gilgaliin, sanoen: ala ota kattas pois palvelioiltas, tule nopiasti ylos meidan tykomme, ja vapahda meita ja auta meita; silla kaikki Amorilaisten kuninkaat, jotka asuvat vuorilla, ovat kokoontuneet meita vastaan.	
+<div class="theverse"><div class="versenum">6.</div> Mutta Gibeonin miehet lahettivat Josuan tyko leiriin Gilgaliin, sanoen: ala ota kattas pois palvelioiltas, tule nopiasti ylos meidan tykomme, ja vapahda meita ja auta meita; silla kaikki Amorilaisten kuninkaat, jotka asuvat vuorilla, ovat kokoontuneet meita vastaan.	</div>
 
-<div class="versenum">7.</div> Ja Josua meni ylos Gilgalista, ja kaikki sotavaki hanen kanssansa, ja kaikki vahvat sotamiehet.	
+<div class="theverse"><div class="versenum">7.</div> Ja Josua meni ylos Gilgalista, ja kaikki sotavaki hanen kanssansa, ja kaikki vahvat sotamiehet.	</div>
 
-<div class="versenum">8.</div> Ja Herra sanoi Josualle: ala heita mitaan pelkaa; silla mina annan heidat sinun kasiis: ei yksikaan heista ole seisovainen sinun edessas.	
+<div class="theverse"><div class="versenum">8.</div> Ja Herra sanoi Josualle: ala heita mitaan pelkaa; silla mina annan heidat sinun kasiis: ei yksikaan heista ole seisovainen sinun edessas.	</div>
 
-<div class="versenum">9.</div> Niin Josua tuli akisti heidan paallensa; silla han matkusti kaiken yota Gilgalista.	
+<div class="theverse"><div class="versenum">9.</div> Niin Josua tuli akisti heidan paallensa; silla han matkusti kaiken yota Gilgalista.	</div>
 
-<div class="versenum">10.</div> Ja Herra peljatti heita Israelin edessa, ja loi heita suurella lyomisella Gibeonissa, ja ajoi heita takaa sita tieta jota ylos BetHoroniin mennaan, ja loi heita Asekaan ja Makkedaan asti.	
+<div class="theverse"><div class="versenum">10.</div> Ja Herra peljatti heita Israelin edessa, ja loi heita suurella lyomisella Gibeonissa, ja ajoi heita takaa sita tieta jota ylos BetHoroniin mennaan, ja loi heita Asekaan ja Makkedaan asti.	</div>
 
-<div class="versenum">11.</div> Ja kuin he Israelin edella pakenivat alas BetHoronin tieta, antoi Herra taivaasta tulla suuret kivet heidan paallensa Asekaan asti, niin etta he kuolivat; ja paljo enempi heista kuoli raekivien kautta, kuin Israelin lapset miekalla loivat.	
+<div class="theverse"><div class="versenum">11.</div> Ja kuin he Israelin edella pakenivat alas BetHoronin tieta, antoi Herra taivaasta tulla suuret kivet heidan paallensa Asekaan asti, niin etta he kuolivat; ja paljo enempi heista kuoli raekivien kautta, kuin Israelin lapset miekalla loivat.	</div>
 
-<div class="versenum">12.</div> Silloin puhui Josua Herralle sina paivana, jona han antoi Amorilaiset Israelin lasten eteen, ja sanoi Israelin lasna ollessa: aurinko, seiso alallas Gibeonissa ja kuu Ajalonin laaksossa.	
+<div class="theverse"><div class="versenum">12.</div> Silloin puhui Josua Herralle sina paivana, jona han antoi Amorilaiset Israelin lasten eteen, ja sanoi Israelin lasna ollessa: aurinko, seiso alallas Gibeonissa ja kuu Ajalonin laaksossa.	</div>
 
-<div class="versenum">13.</div> Ja aurinko ja kuu seisahtivat, siihenasti kuin kansa kosti vihamiehensa. Eiko tama ole kirjoitettu hurskaan kirjassa? Niin seisoi aurinko keskella taivasta ilman laskemata koko paivan.	
+<div class="theverse"><div class="versenum">13.</div> Ja aurinko ja kuu seisahtivat, siihenasti kuin kansa kosti vihamiehensa. Eiko tama ole kirjoitettu hurskaan kirjassa? Niin seisoi aurinko keskella taivasta ilman laskemata koko paivan.	</div>
 
-<div class="versenum">14.</div> Ja ei ole yksikaan paiva ollut senkaltainen ei ennen eika sitte, kuin Herra miehen aanen kuuli; silla Herra soti Israelin puolesta.	
+<div class="theverse"><div class="versenum">14.</div> Ja ei ole yksikaan paiva ollut senkaltainen ei ennen eika sitte, kuin Herra miehen aanen kuuli; silla Herra soti Israelin puolesta.	</div>
 
-<div class="versenum">15.</div> Ja Josua meni jalleen leiriin Gigaliin ja koko Israel hanen kanssansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja Josua meni jalleen leiriin Gigaliin ja koko Israel hanen kanssansa.	</div>
 
-<div class="versenum">16.</div> Mutta ne viisi kuningasta pakenivat ja lymyivat luolaan Makkedassa.	
+<div class="theverse"><div class="versenum">16.</div> Mutta ne viisi kuningasta pakenivat ja lymyivat luolaan Makkedassa.	</div>
 
-<div class="versenum">17.</div> Niin Josualle ilmoitettiin sanoen: ne viisi kuningasta ovat loydetyt, katketyt luolaan Makkedassa.	
+<div class="theverse"><div class="versenum">17.</div> Niin Josualle ilmoitettiin sanoen: ne viisi kuningasta ovat loydetyt, katketyt luolaan Makkedassa.	</div>
 
-<div class="versenum">18.</div> Ja Josua sanoi: vierittakaat suuret kivet luolan suulle ja asettakaat miehet heita vartioitsemaan.	
+<div class="theverse"><div class="versenum">18.</div> Ja Josua sanoi: vierittakaat suuret kivet luolan suulle ja asettakaat miehet heita vartioitsemaan.	</div>
 
-<div class="versenum">19.</div> Mutta alkaat te alallanne seisoko, vaan ajakaat teidan vihamiehianne takaa ja lyokaat heidan viimeisiansa; alkaat salliko heita tulla kaupunkeihinsa, silla Herra teidan Jumalanne on antanut heidat teidan kasiinne.	
+<div class="theverse"><div class="versenum">19.</div> Mutta alkaat te alallanne seisoko, vaan ajakaat teidan vihamiehianne takaa ja lyokaat heidan viimeisiansa; alkaat salliko heita tulla kaupunkeihinsa, silla Herra teidan Jumalanne on antanut heidat teidan kasiinne.	</div>
 
-<div class="versenum">20.</div> Ja kuin Josua ja Israelin lapset lopettivat sen ylen suuren tapon ja perati olivat heidat surmanneet, ja jaaneet paasivat heista ja tulivat vahvoihin kaupunkeihin,	
+<div class="theverse"><div class="versenum">20.</div> Ja kuin Josua ja Israelin lapset lopettivat sen ylen suuren tapon ja perati olivat heidat surmanneet, ja jaaneet paasivat heista ja tulivat vahvoihin kaupunkeihin,	</div>
 
-<div class="versenum">21.</div> Niin tuli kaikki kansa jalleen leiriin Josuan tyko Makkedaan rauhassa, ja ei kenkaan rohjennut Israelin lasten edessa hiiskuakaan.	
+<div class="theverse"><div class="versenum">21.</div> Niin tuli kaikki kansa jalleen leiriin Josuan tyko Makkedaan rauhassa, ja ei kenkaan rohjennut Israelin lasten edessa hiiskuakaan.	</div>
 
-<div class="versenum">22.</div> Mutta Josua sanoi: avatkaat luolan suu ja tuokaat ne viisi kuningasta luolasta minun tykoni.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Josua sanoi: avatkaat luolan suu ja tuokaat ne viisi kuningasta luolasta minun tykoni.	</div>
 
-<div class="versenum">23.</div> He tekivat niin ja toivat ulos ne viisi kuningasta hanen tykonsa luolasta: Jerusalemin kuninkaan, Hebronin kuninkaan, Jarmutin kuninkaan, Lakiksen kuninkaan, Eglonin kuninkaan.	
+<div class="theverse"><div class="versenum">23.</div> He tekivat niin ja toivat ulos ne viisi kuningasta hanen tykonsa luolasta: Jerusalemin kuninkaan, Hebronin kuninkaan, Jarmutin kuninkaan, Lakiksen kuninkaan, Eglonin kuninkaan.	</div>
 
-<div class="versenum">24.</div> Ja kuin namat kuninkaat olivat tuodut Josuan eteen, kutsui Josua kaikki Israelin miehet ja sanoi sotajoukon paamiehille, jotka hanen kanssansa matkustivat: tulkaat tanne ja tallatkaat naiden kuningasten kaulat; ja he tulivat, ja tallasivat heidan kaulansa jaloillansa.	
+<div class="theverse"><div class="versenum">24.</div> Ja kuin namat kuninkaat olivat tuodut Josuan eteen, kutsui Josua kaikki Israelin miehet ja sanoi sotajoukon paamiehille, jotka hanen kanssansa matkustivat: tulkaat tanne ja tallatkaat naiden kuningasten kaulat; ja he tulivat, ja tallasivat heidan kaulansa jaloillansa.	</div>
 
-<div class="versenum">25.</div> Ja Josua sanoi heille: alkaat peljatko, alkaat myos vavisko, vahvistakaat itsenne ja olkaat rohkiat; silla nain tekee Herra kaikille vihamiehillenne, joita vastaan te soditte.	
+<div class="theverse"><div class="versenum">25.</div> Ja Josua sanoi heille: alkaat peljatko, alkaat myos vavisko, vahvistakaat itsenne ja olkaat rohkiat; silla nain tekee Herra kaikille vihamiehillenne, joita vastaan te soditte.	</div>
 
-<div class="versenum">26.</div> Ja Josua loi heidat sitte, ja surmasi heidat, ja ripusti viiteen puuhun; ja he riippuivat puissa hamaan ehtooseen asti.	
+<div class="theverse"><div class="versenum">26.</div> Ja Josua loi heidat sitte, ja surmasi heidat, ja ripusti viiteen puuhun; ja he riippuivat puissa hamaan ehtooseen asti.	</div>
 
-<div class="versenum">27.</div> Ja kuin aurinko laski, kaski Josua heita, ja he ottivat heidat puista alas ja heittivat luolaan, johonka he itsensa lymyttivat, ja panivat suuret kivet luolan suulle, jotka siella viela tanapana ovat.	
+<div class="theverse"><div class="versenum">27.</div> Ja kuin aurinko laski, kaski Josua heita, ja he ottivat heidat puista alas ja heittivat luolaan, johonka he itsensa lymyttivat, ja panivat suuret kivet luolan suulle, jotka siella viela tanapana ovat.	</div>
 
-<div class="versenum">28.</div> Sina paivana voitti myos Josua Makkedan, ja loi sen miekan teralla, ja hanen kuninkaansa tappoi, ja kaikki ne sielut, jotka hanessa olivat, eika yhtakaan jattanyt, ja teki Makkedan kuninkaalle niinkuin han teki Jerihon kuninkaalle.	
+<div class="theverse"><div class="versenum">28.</div> Sina paivana voitti myos Josua Makkedan, ja loi sen miekan teralla, ja hanen kuninkaansa tappoi, ja kaikki ne sielut, jotka hanessa olivat, eika yhtakaan jattanyt, ja teki Makkedan kuninkaalle niinkuin han teki Jerihon kuninkaalle.	</div>
 
-<div class="versenum">29.</div> Niin vaelsi Josua ja koko Israel hanen kanssansa Makkedasta Libnaan ja soti Libnaa vastaan.	
+<div class="theverse"><div class="versenum">29.</div> Niin vaelsi Josua ja koko Israel hanen kanssansa Makkedasta Libnaan ja soti Libnaa vastaan.	</div>
 
-<div class="versenum">30.</div> Ja Herra antoi myos sen Israelin kasiin heidan kuninkaansa kanssa, ja han loi sen miekan teralla ja kaikki ne sielut, jotka siella olivat, eika ketaan elamaan jattanyt, ja teki heidan kuninkaallensa niinkuin han teki Jerihon kuninkaalle.	
+<div class="theverse"><div class="versenum">30.</div> Ja Herra antoi myos sen Israelin kasiin heidan kuninkaansa kanssa, ja han loi sen miekan teralla ja kaikki ne sielut, jotka siella olivat, eika ketaan elamaan jattanyt, ja teki heidan kuninkaallensa niinkuin han teki Jerihon kuninkaalle.	</div>
 
-<div class="versenum">31.</div> Sitte matkusti Josua ja koko Israel hanen kanssansa Libnasta Lakikseen, ja piiritti sen ja soti sita vastaan.	
+<div class="theverse"><div class="versenum">31.</div> Sitte matkusti Josua ja koko Israel hanen kanssansa Libnasta Lakikseen, ja piiritti sen ja soti sita vastaan.	</div>
 
-<div class="versenum">32.</div> Ja Herra antoi myos Lakiksen Israelin kasiin, niin etta han voitti sen toisena paivana ja loi sen miekan teralla ja kaikki ne sielut jotka siina olivat, juuri niinkuin han oli Libnalle tehnyt.	
+<div class="theverse"><div class="versenum">32.</div> Ja Herra antoi myos Lakiksen Israelin kasiin, niin etta han voitti sen toisena paivana ja loi sen miekan teralla ja kaikki ne sielut jotka siina olivat, juuri niinkuin han oli Libnalle tehnyt.	</div>
 
-<div class="versenum">33.</div> Siihen aikaan meni Horam Jeserin kuningas auttamaan Lakista; mutta Josua loi hanen kaiken joukkonsa kanssa, siihenasti ettei yhtakaan jaanyt.	
+<div class="theverse"><div class="versenum">33.</div> Siihen aikaan meni Horam Jeserin kuningas auttamaan Lakista; mutta Josua loi hanen kaiken joukkonsa kanssa, siihenasti ettei yhtakaan jaanyt.	</div>
 
-<div class="versenum">34.</div> Ja Josua meni Lakiksesta ja koko Israel hanen kanssansa Egloniin, ja piirittivat sen ja sotivat sita vastaan,	
+<div class="theverse"><div class="versenum">34.</div> Ja Josua meni Lakiksesta ja koko Israel hanen kanssansa Egloniin, ja piirittivat sen ja sotivat sita vastaan,	</div>
 
-<div class="versenum">35.</div> Ja voittivat sen sina paivana, ja loivat miekan teralla, ja surmasivat kaikki sielut, jotka siella olivat, sina paivana, juuri niinkuin han oli tehnyt Lakikselle.	
+<div class="theverse"><div class="versenum">35.</div> Ja voittivat sen sina paivana, ja loivat miekan teralla, ja surmasivat kaikki sielut, jotka siella olivat, sina paivana, juuri niinkuin han oli tehnyt Lakikselle.	</div>
 
-<div class="versenum">36.</div> Sitte meni Josua ja koko Israel hanen kanssansa Eglonista ylos Hebroniin, ja he sotivat sita vastaan,	
+<div class="theverse"><div class="versenum">36.</div> Sitte meni Josua ja koko Israel hanen kanssansa Eglonista ylos Hebroniin, ja he sotivat sita vastaan,	</div>
 
-<div class="versenum">37.</div> Ja voittivat sen ja loivat sen miekanteralla, ja hanen kuninkaansa kaikkein kaupunkeinsa kanssa ja kaikki sielut, jotka siella olivat, eika yhtakaan jattanyt, juuri niinkuin han oli tehnyt Eglonille; ja tappoi sen ja kaikki sielut, jotka siella olivat.	
+<div class="theverse"><div class="versenum">37.</div> Ja voittivat sen ja loivat sen miekanteralla, ja hanen kuninkaansa kaikkein kaupunkeinsa kanssa ja kaikki sielut, jotka siella olivat, eika yhtakaan jattanyt, juuri niinkuin han oli tehnyt Eglonille; ja tappoi sen ja kaikki sielut, jotka siella olivat.	</div>
 
-<div class="versenum">38.</div> Silloin palasi Josua ja koko Israel hanen kanssansa Debiriin ja soti sita vastaan,	
+<div class="theverse"><div class="versenum">38.</div> Silloin palasi Josua ja koko Israel hanen kanssansa Debiriin ja soti sita vastaan,	</div>
 
-<div class="versenum">39.</div> Ja voitti sen kuninkainensa ja kaikki hanen kaupunkinsa, ja loi ne miekan teralla, ja tappoi kaikki sielut, jotka siella olivat, ja ei ketakaan jattanyt; niinkuin han oli Hebronille tehnyt, niin teki han myos Debirille ja hanen kuninkaallensa, ja niinkuin han oli tehnyt Libnalle ja hanen kuninkaallensa.	
+<div class="theverse"><div class="versenum">39.</div> Ja voitti sen kuninkainensa ja kaikki hanen kaupunkinsa, ja loi ne miekan teralla, ja tappoi kaikki sielut, jotka siella olivat, ja ei ketakaan jattanyt; niinkuin han oli Hebronille tehnyt, niin teki han myos Debirille ja hanen kuninkaallensa, ja niinkuin han oli tehnyt Libnalle ja hanen kuninkaallensa.	</div>
 
-<div class="versenum">40.</div> Niin Josua loi kaikki maan asuvaiset vuorilta, ja lounamaasta, ja laaksoista, ja ojain tykoa, ja kaikki heidan kuninkaansa, eika yhtakaan jattanyt, vaan tappoi kaikki, joilla henki oli, niinkuin Herra Israelin Jumala oli kaskenyt.	
+<div class="theverse"><div class="versenum">40.</div> Niin Josua loi kaikki maan asuvaiset vuorilta, ja lounamaasta, ja laaksoista, ja ojain tykoa, ja kaikki heidan kuninkaansa, eika yhtakaan jattanyt, vaan tappoi kaikki, joilla henki oli, niinkuin Herra Israelin Jumala oli kaskenyt.	</div>
 
-<div class="versenum">41.</div> Ja Josua tappoi heidat, ruveten KadesBarneasta Gasaan asti, ja koko Gosenin maakunnan Gibeoniin asti.	
+<div class="theverse"><div class="versenum">41.</div> Ja Josua tappoi heidat, ruveten KadesBarneasta Gasaan asti, ja koko Gosenin maakunnan Gibeoniin asti.	</div>
 
-<div class="versenum">42.</div> Ja Josua voitti kaikki namat kuninkaat maakuntinensa yhdella rupeemisella; silla Herra Israelin Jumala soti Israelin puolesta.	
+<div class="theverse"><div class="versenum">42.</div> Ja Josua voitti kaikki namat kuninkaat maakuntinensa yhdella rupeemisella; silla Herra Israelin Jumala soti Israelin puolesta.	</div>
 
-<div class="versenum">43.</div> Ja Josua palasi leiriin Gilgaliin ja koko Israel hanen kanssansa.	
+<div class="theverse"><div class="versenum">43.</div> Ja Josua palasi leiriin Gilgaliin ja koko Israel hanen kanssansa.	</div>
 </body>
 </html>

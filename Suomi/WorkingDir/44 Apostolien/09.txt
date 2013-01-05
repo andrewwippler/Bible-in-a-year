@@ -4,90 +4,90 @@
 </head>
 <body><div class="chaptertitle">Apostolien 9	</div>
 	
-<div class="versenum">1.</div> Mutta Saulus puskui viela uhkauksia ja murhaa Herran opetuslapsia vastaan ja meni ylimmaisen papin tyko,	
+<div class="theverse"><div class="versenum">1.</div> Mutta Saulus puskui viela uhkauksia ja murhaa Herran opetuslapsia vastaan ja meni ylimmaisen papin tyko,	</div>
 
-<div class="versenum">2.</div> Ja anoi hanelta kirjaa Damaskuun synagogain tyko, etta kutka ikana han sen tien miehista eli vaimoista loytais, ne han olis vienyt sidottuna Jerusalemiin.	
+<div class="theverse"><div class="versenum">2.</div> Ja anoi hanelta kirjaa Damaskuun synagogain tyko, etta kutka ikana han sen tien miehista eli vaimoista loytais, ne han olis vienyt sidottuna Jerusalemiin.	</div>
 
-<div class="versenum">3.</div> Mutta kuin han matkusti, tapahtui, etta han Damaskua lahestyi, ja akisti leimahti valkeus taivaasta ympari hanta.	
+<div class="theverse"><div class="versenum">3.</div> Mutta kuin han matkusti, tapahtui, etta han Damaskua lahestyi, ja akisti leimahti valkeus taivaasta ympari hanta.	</div>
 
-<div class="versenum">4.</div> Ja han lankesi maahan ja kuuli aanen hanelle sanovan: Saul, Saul, miksi vainoot minua?	
+<div class="theverse"><div class="versenum">4.</div> Ja han lankesi maahan ja kuuli aanen hanelle sanovan: Saul, Saul, miksi vainoot minua?	</div>
 
-<div class="versenum">5.</div> Mutta han sanoi: kuka sina olet, Herra? Ja Herra sanoi: mina olen Jesus, jota sina vainoot: tyolas on sinun potkia tutkainta vastaan.	
+<div class="theverse"><div class="versenum">5.</div> Mutta han sanoi: kuka sina olet, Herra? Ja Herra sanoi: mina olen Jesus, jota sina vainoot: tyolas on sinun potkia tutkainta vastaan.	</div>
 
-<div class="versenum">6.</div> Niin han vapisi, hammastyi ja sanoi: Herra, mitas minua tahdot tekemaan? Ja Herra sanoi hanelle: nouse ja mene kaupunkiin; siella sinulle sanotaan, mita sinun pitaa tekeman.	
+<div class="theverse"><div class="versenum">6.</div> Niin han vapisi, hammastyi ja sanoi: Herra, mitas minua tahdot tekemaan? Ja Herra sanoi hanelle: nouse ja mene kaupunkiin; siella sinulle sanotaan, mita sinun pitaa tekeman.	</div>
 
-<div class="versenum">7.</div> Mutta ne miehet, jotka hanen seurassansa olivat, seisoivat hammastyksissa; he kuulivat tosin aanen, mutta ei he ketaan nahneet.	
+<div class="theverse"><div class="versenum">7.</div> Mutta ne miehet, jotka hanen seurassansa olivat, seisoivat hammastyksissa; he kuulivat tosin aanen, mutta ei he ketaan nahneet.	</div>
 
-<div class="versenum">8.</div> Niin Saulus nousi maasta ja ei nahnyt ketaan avoimilla silmilla; mutta he taluttivat hanta kadesta ja veivat Damaskuun.	
+<div class="theverse"><div class="versenum">8.</div> Niin Saulus nousi maasta ja ei nahnyt ketaan avoimilla silmilla; mutta he taluttivat hanta kadesta ja veivat Damaskuun.	</div>
 
-<div class="versenum">9.</div> Ja han oli kolme paivaa nakematta ja ei syonyt eika juonut.	
+<div class="theverse"><div class="versenum">9.</div> Ja han oli kolme paivaa nakematta ja ei syonyt eika juonut.	</div>
 
-<div class="versenum">10.</div> Niin yksi opetuslapsi oli Damaskussa, Ananias nimelta, jolle Herra sanoi nayssa: Ananias! Han sanoi: Herra, tassa mina olen.	
+<div class="theverse"><div class="versenum">10.</div> Niin yksi opetuslapsi oli Damaskussa, Ananias nimelta, jolle Herra sanoi nayssa: Ananias! Han sanoi: Herra, tassa mina olen.	</div>
 
-<div class="versenum">11.</div> Herra sanoi hanelle: nouse ja mene sille kadulle, joka Oikiaksi kutsutaan, ja kysy Juudan huoneessa sita, joka Saulus Tarsilaiseksi kutsutaan; silla katso, han rukoilee.	
+<div class="theverse"><div class="versenum">11.</div> Herra sanoi hanelle: nouse ja mene sille kadulle, joka Oikiaksi kutsutaan, ja kysy Juudan huoneessa sita, joka Saulus Tarsilaiseksi kutsutaan; silla katso, han rukoilee.	</div>
 
-<div class="versenum">12.</div> Ja han naki nayssa yhden miehen, nimelta Ananias, tulevan sisalle ja panevan katensa hanen paallensa, etta han sais nakonsa jalleen.	
+<div class="theverse"><div class="versenum">12.</div> Ja han naki nayssa yhden miehen, nimelta Ananias, tulevan sisalle ja panevan katensa hanen paallensa, etta han sais nakonsa jalleen.	</div>
 
-<div class="versenum">13.</div> Niin Ananias vastasi: Herra, mina olen kuullut monelta tasta miehesta, kuinka paljon pahaa han sinun pyhilles on tehnyt Jerusalemissa.	
+<div class="theverse"><div class="versenum">13.</div> Niin Ananias vastasi: Herra, mina olen kuullut monelta tasta miehesta, kuinka paljon pahaa han sinun pyhilles on tehnyt Jerusalemissa.	</div>
 
-<div class="versenum">14.</div> Ja hanella on nytkin valta ylimmaisilta papeilta taalla kiinni sitoa kaikki ne, jotka sinun nimeas rukoilevat.	
+<div class="theverse"><div class="versenum">14.</div> Ja hanella on nytkin valta ylimmaisilta papeilta taalla kiinni sitoa kaikki ne, jotka sinun nimeas rukoilevat.	</div>
 
-<div class="versenum">15.</div> Niin sanoi Herra hanelle: mene! silla han on minulle valittu ase, kantamaan minun nimeani pakanain, ja kuningasten, ja Israelin lasten eteen.	
+<div class="theverse"><div class="versenum">15.</div> Niin sanoi Herra hanelle: mene! silla han on minulle valittu ase, kantamaan minun nimeani pakanain, ja kuningasten, ja Israelin lasten eteen.	</div>
 
-<div class="versenum">16.</div> Silla mina tahdon hanelle nayttaa, kuinka paljon hanen pitaa karsiman minun nimeni tahden.	
+<div class="theverse"><div class="versenum">16.</div> Silla mina tahdon hanelle nayttaa, kuinka paljon hanen pitaa karsiman minun nimeni tahden.	</div>
 
-<div class="versenum">17.</div> Niin Ananias meni sinne ja tuli huoneeseen sisalle ja pani katensa hanen paallensa, ja sanoi: rakas veljeni Saul! se Herra lahetti minun, (Jesus, joka sinulle ilmestyi tiella, jotas vaelsit,) etta sina saisit nakos jalleen, ja Pyhalla Hengella taytettaisiin.	
+<div class="theverse"><div class="versenum">17.</div> Niin Ananias meni sinne ja tuli huoneeseen sisalle ja pani katensa hanen paallensa, ja sanoi: rakas veljeni Saul! se Herra lahetti minun, (Jesus, joka sinulle ilmestyi tiella, jotas vaelsit,) etta sina saisit nakos jalleen, ja Pyhalla Hengella taytettaisiin.	</div>
 
-<div class="versenum">18.</div> Ja hanen silmistansa putosivat kohta niinkuin suomukset, ja han sai silla hetkella nakonsa jallensa, nousi ja kastettiin.	
+<div class="theverse"><div class="versenum">18.</div> Ja hanen silmistansa putosivat kohta niinkuin suomukset, ja han sai silla hetkella nakonsa jallensa, nousi ja kastettiin.	</div>
 
-<div class="versenum">19.</div> Ja kuin han otti ruokaa, niin han vahvistui. Ja Saulus oli muutamat paivat opetuslasten kanssa, jotka olivat Damaskussa,	
+<div class="theverse"><div class="versenum">19.</div> Ja kuin han otti ruokaa, niin han vahvistui. Ja Saulus oli muutamat paivat opetuslasten kanssa, jotka olivat Damaskussa,	</div>
 
-<div class="versenum">20.</div> Ja saarnasi kohta synagogassa Kristuksesta, etta han on Jumalan Poika.	
+<div class="theverse"><div class="versenum">20.</div> Ja saarnasi kohta synagogassa Kristuksesta, etta han on Jumalan Poika.	</div>
 
-<div class="versenum">21.</div> Niin kaikki, jotka sen kuulivat, hammastyivat ja sanoivat: eiko tama ole se, joka kaikkia niita havitti Jerusalemissa, jotka sita nimea rukoilivat, ja tuli myos tanne sita varten, etta han ne sidottuna veis ylimmaisille papeille?	
+<div class="theverse"><div class="versenum">21.</div> Niin kaikki, jotka sen kuulivat, hammastyivat ja sanoivat: eiko tama ole se, joka kaikkia niita havitti Jerusalemissa, jotka sita nimea rukoilivat, ja tuli myos tanne sita varten, etta han ne sidottuna veis ylimmaisille papeille?	</div>
 
-<div class="versenum">22.</div> Mutta Saulus tuli aina jalommaksi ja ajoi Juudalaisia takaperin, jotka Damaskussa olivat, taydellisesti vahvistain, etta tama on Kristus.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Saulus tuli aina jalommaksi ja ajoi Juudalaisia takaperin, jotka Damaskussa olivat, taydellisesti vahvistain, etta tama on Kristus.	</div>
 
-<div class="versenum">23.</div> Ja monen paivan perasta pitivat Juudalaiset neuvoa keskenansa tappaaksensa hanta.	
+<div class="theverse"><div class="versenum">23.</div> Ja monen paivan perasta pitivat Juudalaiset neuvoa keskenansa tappaaksensa hanta.	</div>
 
-<div class="versenum">24.</div> Mutta Saulukselle ilmoitettiin heidan vaijymisensa. Ja he vartioitsivat portissa yota ja paivaa tappaaksensa hanta.	
+<div class="theverse"><div class="versenum">24.</div> Mutta Saulukselle ilmoitettiin heidan vaijymisensa. Ja he vartioitsivat portissa yota ja paivaa tappaaksensa hanta.	</div>
 
-<div class="versenum">25.</div> Niin opetuslapset ottivat hanen yolla, paastivat alas ylitse muurin, ja laskivat korissa maahan.	
+<div class="theverse"><div class="versenum">25.</div> Niin opetuslapset ottivat hanen yolla, paastivat alas ylitse muurin, ja laskivat korissa maahan.	</div>
 
-<div class="versenum">26.</div> Mutta kuin Saulus tuli Jerusalemiin, tahtoi han itsiansa antaa opetuslasten sekaan, mutta he pelkasivat kaikki hanta, eika uskoneet hanta opetuslapseksi.	
+<div class="theverse"><div class="versenum">26.</div> Mutta kuin Saulus tuli Jerusalemiin, tahtoi han itsiansa antaa opetuslasten sekaan, mutta he pelkasivat kaikki hanta, eika uskoneet hanta opetuslapseksi.	</div>
 
-<div class="versenum">27.</div> Vaan Barnabas otti hanen ja vei apostolien tyko, ja jutteli heille, kuinka han tiella Herran nahnyt oli, ja etta han oli puhunut hanen kanssansa, ja kuinka han oli rohkiasti Damaskussa Jesuksen nimesta puhunut.	
+<div class="theverse"><div class="versenum">27.</div> Vaan Barnabas otti hanen ja vei apostolien tyko, ja jutteli heille, kuinka han tiella Herran nahnyt oli, ja etta han oli puhunut hanen kanssansa, ja kuinka han oli rohkiasti Damaskussa Jesuksen nimesta puhunut.	</div>
 
-<div class="versenum">28.</div> Ja niin han oli heidan kanssansa Jerusalemissa, kavi sisalle ja ulos, ja saarnasi pelkaamatta Herran Jesuksen nimeen.	
+<div class="theverse"><div class="versenum">28.</div> Ja niin han oli heidan kanssansa Jerusalemissa, kavi sisalle ja ulos, ja saarnasi pelkaamatta Herran Jesuksen nimeen.	</div>
 
-<div class="versenum">29.</div> Han puhui myos ja kamppaili Grekilaisia vastaan; mutta ne pyysivat hanta tappaa.	
+<div class="theverse"><div class="versenum">29.</div> Han puhui myos ja kamppaili Grekilaisia vastaan; mutta ne pyysivat hanta tappaa.	</div>
 
-<div class="versenum">30.</div> Kuin veljet sen ymmarsivat, niin he veivat hanen Kesareaan ja lahettivat Tarsiin.	
+<div class="theverse"><div class="versenum">30.</div> Kuin veljet sen ymmarsivat, niin he veivat hanen Kesareaan ja lahettivat Tarsiin.	</div>
 
-<div class="versenum">31.</div> Ja niin seurakunnilla oli rauha kaikessa Juudeassa, ja Galileassa, ja Samariassa, ja enenivat vaeltain Herran pelvossa, ja taytettiin Pyhan Hengen lohdutuksella.	
+<div class="theverse"><div class="versenum">31.</div> Ja niin seurakunnilla oli rauha kaikessa Juudeassa, ja Galileassa, ja Samariassa, ja enenivat vaeltain Herran pelvossa, ja taytettiin Pyhan Hengen lohdutuksella.	</div>
 
-<div class="versenum">32.</div> Niin tapahtui, kuin Pietari vaelsi joka paikassa, etta han myos tuli pyhain tyko, jotka Lyddassa asuivat.	
+<div class="theverse"><div class="versenum">32.</div> Niin tapahtui, kuin Pietari vaelsi joka paikassa, etta han myos tuli pyhain tyko, jotka Lyddassa asuivat.	</div>
 
-<div class="versenum">33.</div> Niin han loysi siella yhden miehen, Eneas nimelta, joka jo kahdeksan ajastaikaa oli vuoteessa halvattuna maannut.	
+<div class="theverse"><div class="versenum">33.</div> Niin han loysi siella yhden miehen, Eneas nimelta, joka jo kahdeksan ajastaikaa oli vuoteessa halvattuna maannut.	</div>
 
-<div class="versenum">34.</div> Ja Pietari sanoi hanelle: Eneas, Jesus Kristus sinun paratkoon! nouse ja tee itse vuotees; ja han kohta nousi.	
+<div class="theverse"><div class="versenum">34.</div> Ja Pietari sanoi hanelle: Eneas, Jesus Kristus sinun paratkoon! nouse ja tee itse vuotees; ja han kohta nousi.	</div>
 
-<div class="versenum">35.</div> Ja kaikki Lyddan ja Saronin asuvaiset nakivat hanen, jotka tulivat kaannetyksi Herran tyko.	
+<div class="theverse"><div class="versenum">35.</div> Ja kaikki Lyddan ja Saronin asuvaiset nakivat hanen, jotka tulivat kaannetyksi Herran tyko.	</div>
 
-<div class="versenum">36.</div> Mutta Jopessa oli yksi opetuspiika, nimelta Tabita, joka tulkiten on niin paljon sanottu kuin: metsavuohi (a); tama oli taynnansa hyvia toita ja almua, joita han teki.	
+<div class="theverse"><div class="versenum">36.</div> Mutta Jopessa oli yksi opetuspiika, nimelta Tabita, joka tulkiten on niin paljon sanottu kuin: metsavuohi (a); tama oli taynnansa hyvia toita ja almua, joita han teki.	</div>
 
-<div class="versenum">37.</div> Niin tapahtui niina paivina, etta se sairasti ja kuoli; jonka he pesivat ja panivat saliin.	
+<div class="theverse"><div class="versenum">37.</div> Niin tapahtui niina paivina, etta se sairasti ja kuoli; jonka he pesivat ja panivat saliin.	</div>
 
-<div class="versenum">38.</div> Ja etta Lydda oli lasna Joppea, niin opetuslapset, kuin he kuulivat Pietarin siella olevan, lahettivat hanen tykonsa kaksi miesta rukoilemaan, ettei han viivyttelisi heidan tykonsa tulla.	
+<div class="theverse"><div class="versenum">38.</div> Ja etta Lydda oli lasna Joppea, niin opetuslapset, kuin he kuulivat Pietarin siella olevan, lahettivat hanen tykonsa kaksi miesta rukoilemaan, ettei han viivyttelisi heidan tykonsa tulla.	</div>
 
-<div class="versenum">39.</div> Niin Pietari nousi ja tuli heidan kanssansa; ja kuin han sinne tuli, veivat he hanen saliin. Ja hanen ymparillansa seisoivat kaikki lesket, jotka itkivat ja osoittivat hanelle niita hameita ja vaatteita, joita Dorkas heille tehnyt oli, ollessansa heidan kanssansa.	
+<div class="theverse"><div class="versenum">39.</div> Niin Pietari nousi ja tuli heidan kanssansa; ja kuin han sinne tuli, veivat he hanen saliin. Ja hanen ymparillansa seisoivat kaikki lesket, jotka itkivat ja osoittivat hanelle niita hameita ja vaatteita, joita Dorkas heille tehnyt oli, ollessansa heidan kanssansa.	</div>
 
-<div class="versenum">40.</div> Mutta kuin Pietari oli heidat kaikki ajanut ulos, laski han polvillensa ja rukoili, ja kaansi itsensa ruumiin puoleen, ja sanoi: Tabita, nouse ylos! niin se avasi silmansa; ja kuin han Pietarin naki, nousi han istualle.	
+<div class="theverse"><div class="versenum">40.</div> Mutta kuin Pietari oli heidat kaikki ajanut ulos, laski han polvillensa ja rukoili, ja kaansi itsensa ruumiin puoleen, ja sanoi: Tabita, nouse ylos! niin se avasi silmansa; ja kuin han Pietarin naki, nousi han istualle.	</div>
 
-<div class="versenum">41.</div> Ja han antoi hanelle katta ja ojensi hanen, ja kutsui pyhat ja lesket, ja antoi hanen heille elavana.	
+<div class="theverse"><div class="versenum">41.</div> Ja han antoi hanelle katta ja ojensi hanen, ja kutsui pyhat ja lesket, ja antoi hanen heille elavana.	</div>
 
-<div class="versenum">42.</div> Ja se tuli kaikelle Jopelle tiettavaksi; ja moni uskoi Herran paalle.	
+<div class="theverse"><div class="versenum">42.</div> Ja se tuli kaikelle Jopelle tiettavaksi; ja moni uskoi Herran paalle.	</div>
 
-<div class="versenum">43.</div> Ja tapahtui, etta han viipyi Jopessa kauvan aikaa Simon parkkarin tykona.	
+<div class="theverse"><div class="versenum">43.</div> Ja tapahtui, etta han viipyi Jopessa kauvan aikaa Simon parkkarin tykona.	</div>
 </body>
 </html>

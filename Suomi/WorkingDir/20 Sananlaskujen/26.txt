@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 26	</div>
 	
-<div class="versenum">1.</div> Niinkuin lumi suvella ja sede elonaikana, niin ei sovi tyhmalle kunnia.	
+<div class="theverse"><div class="versenum">1.</div> Niinkuin lumi suvella ja sede elonaikana, niin ei sovi tyhmalle kunnia.	</div>
 
-<div class="versenum">2.</div> Niinkuin lintu menee pois, ja paaskynen lentaa, niin ei sovi salvaa kirous ilman syyta.	
+<div class="theverse"><div class="versenum">2.</div> Niinkuin lintu menee pois, ja paaskynen lentaa, niin ei sovi salvaa kirous ilman syyta.	</div>
 
-<div class="versenum">3.</div> Hevoselle ruoska ja aasille ohjat, ja hullulle vitsa selkaan.	
+<div class="theverse"><div class="versenum">3.</div> Hevoselle ruoska ja aasille ohjat, ja hullulle vitsa selkaan.	</div>
 
-<div class="versenum">4.</div> Ala vastaa tyhmaa hanen tyhmyytensa jalkeen, ettes myos sina hanen kaltaiseksensa tulisi.	
+<div class="theverse"><div class="versenum">4.</div> Ala vastaa tyhmaa hanen tyhmyytensa jalkeen, ettes myos sina hanen kaltaiseksensa tulisi.	</div>
 
-<div class="versenum">5.</div> Vastaa tyhmaa hanen tyhmyytensa jalkeen, ettei han nakyisi viisaaksi silmissansa.	
+<div class="theverse"><div class="versenum">5.</div> Vastaa tyhmaa hanen tyhmyytensa jalkeen, ettei han nakyisi viisaaksi silmissansa.	</div>
 
-<div class="versenum">6.</div> Joka tyhmain sanansaattajain kautta asian toimittaa, han on niinkuin rampa jaloista, ja saa vahingon.	
+<div class="theverse"><div class="versenum">6.</div> Joka tyhmain sanansaattajain kautta asian toimittaa, han on niinkuin rampa jaloista, ja saa vahingon.	</div>
 
-<div class="versenum">7.</div> Niinkuin nilkku voi hypata, niin tyhma taitaa puhua viisaudesta.	
+<div class="theverse"><div class="versenum">7.</div> Niinkuin nilkku voi hypata, niin tyhma taitaa puhua viisaudesta.	</div>
 
-<div class="versenum">8.</div> Joka tyhmalle taritsee kunniaa, on niinkuin joku heittaisi kalliin kiven kiviroukkioon.	
+<div class="theverse"><div class="versenum">8.</div> Joka tyhmalle taritsee kunniaa, on niinkuin joku heittaisi kalliin kiven kiviroukkioon.	</div>
 
-<div class="versenum">9.</div> Sananlasku on tyhmain suussa niinkuin orjantappura, joka juopuneen kasiin pistelee.	
+<div class="theverse"><div class="versenum">9.</div> Sananlasku on tyhmain suussa niinkuin orjantappura, joka juopuneen kasiin pistelee.	</div>
 
-<div class="versenum">10.</div> Taitava ihminen tekee kappaleen oikein; vaan joka taitamattoman palkkaa, han sen turmelee.	
+<div class="theverse"><div class="versenum">10.</div> Taitava ihminen tekee kappaleen oikein; vaan joka taitamattoman palkkaa, han sen turmelee.	</div>
 
-<div class="versenum">11.</div> Niinkuin koira syo oksennuksensa, niin on hullu joka hulluutensa kertoo.	
+<div class="theverse"><div class="versenum">11.</div> Niinkuin koira syo oksennuksensa, niin on hullu joka hulluutensa kertoo.	</div>
 
-<div class="versenum">12.</div> Koskas naet jonkun, joka luulee itsensa viisaaksi, enempi on silloin toivoa tyhmasta kuin hanesta.	
+<div class="theverse"><div class="versenum">12.</div> Koskas naet jonkun, joka luulee itsensa viisaaksi, enempi on silloin toivoa tyhmasta kuin hanesta.	</div>
 
-<div class="versenum">13.</div> Laiska sanoo: nuori jalopeura on tiella, ja jalopeura kujalla.	
+<div class="theverse"><div class="versenum">13.</div> Laiska sanoo: nuori jalopeura on tiella, ja jalopeura kujalla.	</div>
 
-<div class="versenum">14.</div> Laiska kaantelee itsiansa vuoteella niinkuin ovi saranassa.	
+<div class="theverse"><div class="versenum">14.</div> Laiska kaantelee itsiansa vuoteella niinkuin ovi saranassa.	</div>
 
-<div class="versenum">15.</div> Laiska panee katensa poveensa: ja se tulee hanelle tyolaaksi saattaa suuhunsa jalleen.	
+<div class="theverse"><div class="versenum">15.</div> Laiska panee katensa poveensa: ja se tulee hanelle tyolaaksi saattaa suuhunsa jalleen.	</div>
 
-<div class="versenum">16.</div> Laiska luulee itsensa viisaammaksi kuin seitseman, jotka hyvia tapoja opettavat.	
+<div class="theverse"><div class="versenum">16.</div> Laiska luulee itsensa viisaammaksi kuin seitseman, jotka hyvia tapoja opettavat.	</div>
 
-<div class="versenum">17.</div> Joka kay ohitse ja sekoittaa itsensa muiden riitoihin, han on senkaltainen, joka koiraa korvista vetaa.	
+<div class="theverse"><div class="versenum">17.</div> Joka kay ohitse ja sekoittaa itsensa muiden riitoihin, han on senkaltainen, joka koiraa korvista vetaa.	</div>
 
-<div class="versenum">18.</div> Niinkuin se, joka salaa ampuu, tarkoittaa joutsella ja tappaa,	
+<div class="theverse"><div class="versenum">18.</div> Niinkuin se, joka salaa ampuu, tarkoittaa joutsella ja tappaa,	</div>
 
-<div class="versenum">19.</div> Niin on petollinen ihminen hanen lahimmaisillensa, ja sanoo: leikilla mina sen tein.	
+<div class="theverse"><div class="versenum">19.</div> Niin on petollinen ihminen hanen lahimmaisillensa, ja sanoo: leikilla mina sen tein.	</div>
 
-<div class="versenum">20.</div> Kuin halot loppuvat, niin tuli sammuu, ja kuin kielikellot pannaan pois, niin riidat lakkaavat.	
+<div class="theverse"><div class="versenum">20.</div> Kuin halot loppuvat, niin tuli sammuu, ja kuin kielikellot pannaan pois, niin riidat lakkaavat.	</div>
 
-<div class="versenum">21.</div> Niinkuin hiilet tuleen, ja puut liekkiin, niin riitainen ihminen saattaa metelin.	
+<div class="theverse"><div class="versenum">21.</div> Niinkuin hiilet tuleen, ja puut liekkiin, niin riitainen ihminen saattaa metelin.	</div>
 
-<div class="versenum">22.</div> Panettelian sanat ovat niinkuin haavat, ja kayvat lapi sydamen.	
+<div class="theverse"><div class="versenum">22.</div> Panettelian sanat ovat niinkuin haavat, ja kayvat lapi sydamen.	</div>
 
-<div class="versenum">23.</div> Viekas kieli ja paha sydan on niinkuin saviastia hopian savulla juotettu.	
+<div class="theverse"><div class="versenum">23.</div> Viekas kieli ja paha sydan on niinkuin saviastia hopian savulla juotettu.	</div>
 
-<div class="versenum">24.</div> Vihamien teeskelee itsensa toisin puheellansa; mutta petos on hanen sydamessansa.	
+<div class="theverse"><div class="versenum">24.</div> Vihamien teeskelee itsensa toisin puheellansa; mutta petos on hanen sydamessansa.	</div>
 
-<div class="versenum">25.</div> Kuin han liehakoitsee makeilla puheillansa, niin ala usko hanta; silla seitseman kauhistusta on hanen sydamessansa.	
+<div class="theverse"><div class="versenum">25.</div> Kuin han liehakoitsee makeilla puheillansa, niin ala usko hanta; silla seitseman kauhistusta on hanen sydamessansa.	</div>
 
-<div class="versenum">26.</div> Joka pitaa salavihaa, tehdaksensa vahinkoa, hanen pahuutensa tulee ilmi kokouksissa.	
+<div class="theverse"><div class="versenum">26.</div> Joka pitaa salavihaa, tehdaksensa vahinkoa, hanen pahuutensa tulee ilmi kokouksissa.	</div>
 
-<div class="versenum">27.</div> Joka kuopan kaivaa, han lankee siihen, ja joka kiven vierittaa, se kierittaa sen itse paallensa.	
+<div class="theverse"><div class="versenum">27.</div> Joka kuopan kaivaa, han lankee siihen, ja joka kiven vierittaa, se kierittaa sen itse paallensa.	</div>
 
-<div class="versenum">28.</div> Petollinen kieli vihaa rangaistusta, ja suu, joka myotakielin puhuu, saattaa kadotukseen.	
+<div class="theverse"><div class="versenum">28.</div> Petollinen kieli vihaa rangaistusta, ja suu, joka myotakielin puhuu, saattaa kadotukseen.	</div>
 </body>
 </html>

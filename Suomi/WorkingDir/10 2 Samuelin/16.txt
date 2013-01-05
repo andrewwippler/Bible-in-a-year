@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">2 Samuelin 16	</div>
 	
-<div class="versenum">1.</div> Ja kuin David oli vaha kaynyt alas vuoren kukkulalta, katso, kohtasi hanen Ziba MephiBosetin palvelia kahdella satuloidulla aasilla, joiden paalla oli kaksisataa leipaa, ja sata rypaletta rusinoita, ja sata rypaletta fikunia ja leili viinaa.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin David oli vaha kaynyt alas vuoren kukkulalta, katso, kohtasi hanen Ziba MephiBosetin palvelia kahdella satuloidulla aasilla, joiden paalla oli kaksisataa leipaa, ja sata rypaletta rusinoita, ja sata rypaletta fikunia ja leili viinaa.	</div>
 
-<div class="versenum">2.</div> Niin sanoi kuningas Ziballe: mitas nailla tahdot tehda? Ziba sanoi: aasit pitaa oleman kuninkaan perheelle, joilla he ajaisivat, leivat ja fikunat palvelioille, joista he soisivat, ja viina heidan juodaksensa, kuin he vasyvat korvessa.	
+<div class="theverse"><div class="versenum">2.</div> Niin sanoi kuningas Ziballe: mitas nailla tahdot tehda? Ziba sanoi: aasit pitaa oleman kuninkaan perheelle, joilla he ajaisivat, leivat ja fikunat palvelioille, joista he soisivat, ja viina heidan juodaksensa, kuin he vasyvat korvessa.	</div>
 
-<div class="versenum">3.</div> Kuningas sanoi: kussa on herras poika? Ziba sanoi kuninkaalle: katso, han jai Jerusalemiin, silla han sanoi: tanapana pitaa Israelin huoneen antaman minulle minun isani valtakunnan.	
+<div class="theverse"><div class="versenum">3.</div> Kuningas sanoi: kussa on herras poika? Ziba sanoi kuninkaalle: katso, han jai Jerusalemiin, silla han sanoi: tanapana pitaa Israelin huoneen antaman minulle minun isani valtakunnan.	</div>
 
-<div class="versenum">4.</div> Kuningas sanoi Ziballe: katso, kaikki mita MephiBosetilla on, pitaa sinun oleman. Ziba sanoi: mina rukoilen noyrasti, anna minun loytaa armo sinun edessas, herrani kuningas.	
+<div class="theverse"><div class="versenum">4.</div> Kuningas sanoi Ziballe: katso, kaikki mita MephiBosetilla on, pitaa sinun oleman. Ziba sanoi: mina rukoilen noyrasti, anna minun loytaa armo sinun edessas, herrani kuningas.	</div>
 
-<div class="versenum">5.</div> Kuin kuningas David tuli Bahurimiin, katso, sielta tuli yksi mies Saulin huoneen suvusta, Simei nimelta, Geran poika, se laksi ulos ja kiroili kaydessansa,	
+<div class="theverse"><div class="versenum">5.</div> Kuin kuningas David tuli Bahurimiin, katso, sielta tuli yksi mies Saulin huoneen suvusta, Simei nimelta, Geran poika, se laksi ulos ja kiroili kaydessansa,	</div>
 
-<div class="versenum">6.</div> Ja paiskeli kivia Davidin puoleen, ja kaikkia kuningas Davidin palvelioita vastaan; silla kaikki kansa ja kaikki vakevat olivat hanen oikialla ja vasemmalla puolellansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja paiskeli kivia Davidin puoleen, ja kaikkia kuningas Davidin palvelioita vastaan; silla kaikki kansa ja kaikki vakevat olivat hanen oikialla ja vasemmalla puolellansa.	</div>
 
-<div class="versenum">7.</div> Ja Simei sanoi nain kiroillessansa hanta: ulos, ulos tanne, sina verikoira, sina Belialin mies!	
+<div class="theverse"><div class="versenum">7.</div> Ja Simei sanoi nain kiroillessansa hanta: ulos, ulos tanne, sina verikoira, sina Belialin mies!	</div>
 
-<div class="versenum">8.</div> Herra on maksanut sinulle kaiken Saulin huoneen veren, ettas olet tullut hanen siaansa kuninkaaksi. Ja Herra on antanut valtakunnan pojalles Absalomille; ja katso, nyt sina olet sinun pahuudessas, silla sina olet verikoira.	
+<div class="theverse"><div class="versenum">8.</div> Herra on maksanut sinulle kaiken Saulin huoneen veren, ettas olet tullut hanen siaansa kuninkaaksi. Ja Herra on antanut valtakunnan pojalles Absalomille; ja katso, nyt sina olet sinun pahuudessas, silla sina olet verikoira.	</div>
 
-<div class="versenum">9.</div> Silloin Abisai ZeruJan poika sanoi kuninkaalle: pitaako taman kuolleen koiran kiroileman herraani kuningasta? Mina menen ja lyon hanelta paan pois.	
+<div class="theverse"><div class="versenum">9.</div> Silloin Abisai ZeruJan poika sanoi kuninkaalle: pitaako taman kuolleen koiran kiroileman herraani kuningasta? Mina menen ja lyon hanelta paan pois.	</div>
 
-<div class="versenum">10.</div> Kuningas sanoi: te ZeruJan pojat, mita minun on teidan kanssanne? Anna hanen kirota; silla Herra on hanelle sanonut: kiroile David. Kuka taitaa nyt sanoa: miksis niin teet?	
+<div class="theverse"><div class="versenum">10.</div> Kuningas sanoi: te ZeruJan pojat, mita minun on teidan kanssanne? Anna hanen kirota; silla Herra on hanelle sanonut: kiroile David. Kuka taitaa nyt sanoa: miksis niin teet?	</div>
 
-<div class="versenum">11.</div> Ja David sanoi Abisaille ja kaikille palvelioillensa: katso, minun poikani, joka minun kupeistani tullut on, seisoo minun henkeni peraan: miksi ei siis pida myos Jeminin pojan? Antakaat hanen kiroilla, silla Herra on hanelle sanonut.	
+<div class="theverse"><div class="versenum">11.</div> Ja David sanoi Abisaille ja kaikille palvelioillensa: katso, minun poikani, joka minun kupeistani tullut on, seisoo minun henkeni peraan: miksi ei siis pida myos Jeminin pojan? Antakaat hanen kiroilla, silla Herra on hanelle sanonut.	</div>
 
-<div class="versenum">12.</div> Mahtaa tapahtua: Herra katsoo minun viheliaisyyttani, ja Herra maksaa minulle hyvalla, sen kun han minua tanapana kiroilee.	
+<div class="theverse"><div class="versenum">12.</div> Mahtaa tapahtua: Herra katsoo minun viheliaisyyttani, ja Herra maksaa minulle hyvalla, sen kun han minua tanapana kiroilee.	</div>
 
-<div class="versenum">13.</div> Ja David meni vakinensa tieta myoten; mutta Simei kavi hanen kohdallansa maen vierta myoten, ja kayden kiroili, lasketti kivia hanen puoleensa ja viskeli multaa.	
+<div class="theverse"><div class="versenum">13.</div> Ja David meni vakinensa tieta myoten; mutta Simei kavi hanen kohdallansa maen vierta myoten, ja kayden kiroili, lasketti kivia hanen puoleensa ja viskeli multaa.	</div>
 
-<div class="versenum">14.</div> Ja kuningas vaelsi, ja kaikki kansa joka oli hanen kanssansa oli vasyksissa; ja han lepasi siina.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuningas vaelsi, ja kaikki kansa joka oli hanen kanssansa oli vasyksissa; ja han lepasi siina.	</div>
 
-<div class="versenum">15.</div> Mutta Absalom ja kaikki kansa, Israelin miehet, tulivat Jerusalemiin; ja Ahitophel hanen kanssansa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta Absalom ja kaikki kansa, Israelin miehet, tulivat Jerusalemiin; ja Ahitophel hanen kanssansa.	</div>
 
-<div class="versenum">16.</div> Kuin Husai Arkilainen Davidin ystava tuli Absalomin tyko, sanoi han Absalomille: kuningas elakoon, kuningas elakoon!	
+<div class="theverse"><div class="versenum">16.</div> Kuin Husai Arkilainen Davidin ystava tuli Absalomin tyko, sanoi han Absalomille: kuningas elakoon, kuningas elakoon!	</div>
 
-<div class="versenum">17.</div> Absalom sanoi Husaille: onko tama sinun laupiutes ystavaas kohtaan? Miksi et mennyt ystavas kanssa?	
+<div class="theverse"><div class="versenum">17.</div> Absalom sanoi Husaille: onko tama sinun laupiutes ystavaas kohtaan? Miksi et mennyt ystavas kanssa?	</div>
 
-<div class="versenum">18.</div> Husai sanoi Absalomille: ei niin; mutta jonka Herra valitsee,ja tama kansa, ja kaikki Israelin miehet, hanen mina olen ja hanen kanssanssa mina pysyn.	
+<div class="theverse"><div class="versenum">18.</div> Husai sanoi Absalomille: ei niin; mutta jonka Herra valitsee,ja tama kansa, ja kaikki Israelin miehet, hanen mina olen ja hanen kanssanssa mina pysyn.	</div>
 
-<div class="versenum">19.</div> Sitalikin, ketasta minun pitais palveleman? eiko hanen poikansa edessa? Niinkuin mina olen palvellut isais edessa, niin mina myos tahdon olla sinun edessas.	
+<div class="theverse"><div class="versenum">19.</div> Sitalikin, ketasta minun pitais palveleman? eiko hanen poikansa edessa? Niinkuin mina olen palvellut isais edessa, niin mina myos tahdon olla sinun edessas.	</div>
 
-<div class="versenum">20.</div> Ja Absalom sanoi Ahitophelille: pitakaat neuvoa, mita meidan pitaa tekeman?	
+<div class="theverse"><div class="versenum">20.</div> Ja Absalom sanoi Ahitophelille: pitakaat neuvoa, mita meidan pitaa tekeman?	</div>
 
-<div class="versenum">21.</div> Ahitophel sanoi Absalomille: makaa isas jalkavaimoin kanssa, jotka han on jattanyt huonetta vartioitsemaan; niin koko Israel saa kuulla sinun tehneeksi isas haisemaan, ja kaikkein kadet vahvistetaan siita, jotka sinun tykonas ovat.	
+<div class="theverse"><div class="versenum">21.</div> Ahitophel sanoi Absalomille: makaa isas jalkavaimoin kanssa, jotka han on jattanyt huonetta vartioitsemaan; niin koko Israel saa kuulla sinun tehneeksi isas haisemaan, ja kaikkein kadet vahvistetaan siita, jotka sinun tykonas ovat.	</div>
 
-<div class="versenum">22.</div> Niin tekivat he Absalomille majan katon paalle; ja Absalom makasi kaikkein isansa jalkavaimoin kanssa, kaiken Israelin nahden.	
+<div class="theverse"><div class="versenum">22.</div> Niin tekivat he Absalomille majan katon paalle; ja Absalom makasi kaikkein isansa jalkavaimoin kanssa, kaiken Israelin nahden.	</div>
 
-<div class="versenum">23.</div> Kuin Ahitophel neuvoa antoi silla ajalla, oli se niinkuin joku olis kysynyt Jumalalta jostakin asiasta: kaikki niin olivat Ahitophelin neuvot niin Davidin kuin Absalominkin tykona.	
+<div class="theverse"><div class="versenum">23.</div> Kuin Ahitophel neuvoa antoi silla ajalla, oli se niinkuin joku olis kysynyt Jumalalta jostakin asiasta: kaikki niin olivat Ahitophelin neuvot niin Davidin kuin Absalominkin tykona.	</div>
 </body>
 </html>

@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 18	</div>
 	
-<div class="versenum">1.</div> Ja Josaphatilla oli suuri rikkaus ja kunnia; ja han teki nuoteutta Ahabin kanssa.	
+<div class="theverse"><div class="versenum">1.</div> Ja Josaphatilla oli suuri rikkaus ja kunnia; ja han teki nuoteutta Ahabin kanssa.	</div>
 
-<div class="versenum">2.</div> Ja jonkun vuoden perasta sen jalkeen meni han Ahabin tyko Samariaan. Ja Ahab antoi teurastaa hanelle ja hanen vaellensa, joka oli hanen kanssansa, monta lammasta ja harkaa; ja han yllytti hanen menemaan ylos Gileadin Ramotiin.	
+<div class="theverse"><div class="versenum">2.</div> Ja jonkun vuoden perasta sen jalkeen meni han Ahabin tyko Samariaan. Ja Ahab antoi teurastaa hanelle ja hanen vaellensa, joka oli hanen kanssansa, monta lammasta ja harkaa; ja han yllytti hanen menemaan ylos Gileadin Ramotiin.	</div>
 
-<div class="versenum">3.</div> Ja Ahab Israelin kuningas sanoi Josaphatille Juudan kuninkaalle: menetkos minun kanssani Gileadin Ramotiin? Han sanoi hanelle: mina olen niinkuin sina, ja minun kansani niinkuin sinun kansas: me tahdomme sinun kanssas sotaan.	
+<div class="theverse"><div class="versenum">3.</div> Ja Ahab Israelin kuningas sanoi Josaphatille Juudan kuninkaalle: menetkos minun kanssani Gileadin Ramotiin? Han sanoi hanelle: mina olen niinkuin sina, ja minun kansani niinkuin sinun kansas: me tahdomme sinun kanssas sotaan.	</div>
 
-<div class="versenum">4.</div> Mutta Josaphat sanoi Israelin kuninkaalle: kyseles tanapana Herran sanaa.	
+<div class="theverse"><div class="versenum">4.</div> Mutta Josaphat sanoi Israelin kuninkaalle: kyseles tanapana Herran sanaa.	</div>
 
-<div class="versenum">5.</div> Ja Israelin kuningas kokosi prophetaita neljasataa miesta ja sanoi heille: menemmeko me sotimaan Gileadin Ramotiin, vai ei? He sanoivat: mene, Jumala antaa heidat kuninkaan kateen.	
+<div class="theverse"><div class="versenum">5.</div> Ja Israelin kuningas kokosi prophetaita neljasataa miesta ja sanoi heille: menemmeko me sotimaan Gileadin Ramotiin, vai ei? He sanoivat: mene, Jumala antaa heidat kuninkaan kateen.	</div>
 
-<div class="versenum">6.</div> Silloin sanoi Josaphat: eiko tassa ole joku Herran propheta, kysyaksemme hanelta?	
+<div class="theverse"><div class="versenum">6.</div> Silloin sanoi Josaphat: eiko tassa ole joku Herran propheta, kysyaksemme hanelta?	</div>
 
-<div class="versenum">7.</div> Israelin kuningas sanoi Josaphatille: tassa on viela yksi mies, jonka kautta taidettaisiin kysella Herraa, vaan mina vihaan hanta; silla ei han ennusta minulle mitaan hyvaa, mutta aina pahaa: se on Miika Jimlan poika. Josaphat sanoi: alkoon kuningas niin puhuko.	
+<div class="theverse"><div class="versenum">7.</div> Israelin kuningas sanoi Josaphatille: tassa on viela yksi mies, jonka kautta taidettaisiin kysella Herraa, vaan mina vihaan hanta; silla ei han ennusta minulle mitaan hyvaa, mutta aina pahaa: se on Miika Jimlan poika. Josaphat sanoi: alkoon kuningas niin puhuko.	</div>
 
-<div class="versenum">8.</div> Ja Israelin kuningas kutsui yhden kamaripalvelioistansa ja sanoi: nouda nopiasti Miika Jimlan poika.	
+<div class="theverse"><div class="versenum">8.</div> Ja Israelin kuningas kutsui yhden kamaripalvelioistansa ja sanoi: nouda nopiasti Miika Jimlan poika.	</div>
 
-<div class="versenum">9.</div> Ja Israelin kuningas ja Josaphat Juudan kuningas istui kumpikin istuimellansa puettuna vaatteisiin Samarian portin lakeudella, ja kaikki prophetat ennustivat heidan edessansa.	
+<div class="theverse"><div class="versenum">9.</div> Ja Israelin kuningas ja Josaphat Juudan kuningas istui kumpikin istuimellansa puettuna vaatteisiin Samarian portin lakeudella, ja kaikki prophetat ennustivat heidan edessansa.	</div>
 
-<div class="versenum">10.</div> Ja Zidkija Kenaanan poika teki itsellensa rautasarvet ja sanoi: nain sanoo Herra: nailla sina pusket Syrialaisia, siihenasti ettas heidat havitat.	
+<div class="theverse"><div class="versenum">10.</div> Ja Zidkija Kenaanan poika teki itsellensa rautasarvet ja sanoi: nain sanoo Herra: nailla sina pusket Syrialaisia, siihenasti ettas heidat havitat.	</div>
 
-<div class="versenum">11.</div> Ja kaikki prophetat ennustivat niin ja sanoivat: mene Gileadin Ramotiin, ja se menestyy sinulle: Herra antaa heidat kuninkaan kateen.	
+<div class="theverse"><div class="versenum">11.</div> Ja kaikki prophetat ennustivat niin ja sanoivat: mene Gileadin Ramotiin, ja se menestyy sinulle: Herra antaa heidat kuninkaan kateen.	</div>
 
-<div class="versenum">12.</div> Ja sanansaattaja, joka oli mennyt kutsumaan Miikaa, puhui hanen kanssansa ja sanoi: katso, prophetain puhe on yksimielisesti hyva kuninkaan edessa: anna sinun sanas olla myos niinkuin heidankin, ja puhu hyvaa.	
+<div class="theverse"><div class="versenum">12.</div> Ja sanansaattaja, joka oli mennyt kutsumaan Miikaa, puhui hanen kanssansa ja sanoi: katso, prophetain puhe on yksimielisesti hyva kuninkaan edessa: anna sinun sanas olla myos niinkuin heidankin, ja puhu hyvaa.	</div>
 
-<div class="versenum">13.</div> Ja Miika sanoi: niin totta kuin Herra elaa, mina puhun, mita minun Jumalani sanoo.	
+<div class="theverse"><div class="versenum">13.</div> Ja Miika sanoi: niin totta kuin Herra elaa, mina puhun, mita minun Jumalani sanoo.	</div>
 
-<div class="versenum">14.</div> Ja kuin han tuli kuninkaan tyko, sanoi kuningas hanelle: Miika, menemmeko me sotimaan Gileadin Ramotia vastaan, eli ei? Han sanoi: menkaat, se menestyy teille, he annetaan teidan kasiinne.	
+<div class="theverse"><div class="versenum">14.</div> Ja kuin han tuli kuninkaan tyko, sanoi kuningas hanelle: Miika, menemmeko me sotimaan Gileadin Ramotia vastaan, eli ei? Han sanoi: menkaat, se menestyy teille, he annetaan teidan kasiinne.	</div>
 
-<div class="versenum">15.</div> Niin kuningas sanoi hanelle: kuinka usein mina vannotan sinua, ettet sina sanois minulle muuta kuin totuutta Herran nimeen?	
+<div class="theverse"><div class="versenum">15.</div> Niin kuningas sanoi hanelle: kuinka usein mina vannotan sinua, ettet sina sanois minulle muuta kuin totuutta Herran nimeen?	</div>
 
-<div class="versenum">16.</div> Niin han sanoi: mina nain kaiken Israelin hajoitettuna vuorella, niinkuin lampaat, joilla ei yhtaan paimenta ole: ja Herra sanoi: eiko nailla ole yhtaan Herraa? palatkaan kukin kotiansa rauhassa.	
+<div class="theverse"><div class="versenum">16.</div> Niin han sanoi: mina nain kaiken Israelin hajoitettuna vuorella, niinkuin lampaat, joilla ei yhtaan paimenta ole: ja Herra sanoi: eiko nailla ole yhtaan Herraa? palatkaan kukin kotiansa rauhassa.	</div>
 
-<div class="versenum">17.</div> Niin sanoi Israelin kuningas Josaphatille: enko mina sanonut sinulle, ettei han minulle ennusta hyvaa vaan pahaa.	
+<div class="theverse"><div class="versenum">17.</div> Niin sanoi Israelin kuningas Josaphatille: enko mina sanonut sinulle, ettei han minulle ennusta hyvaa vaan pahaa.	</div>
 
-<div class="versenum">18.</div> Ja han sanoi: sentahden kuulkaat Herran sanaa; mina nain Herran istuvan istuimellansa, ja koko taivaallisen sotajoukon seisovan hanen oikialla ja vasemmalla puolellansa.	
+<div class="theverse"><div class="versenum">18.</div> Ja han sanoi: sentahden kuulkaat Herran sanaa; mina nain Herran istuvan istuimellansa, ja koko taivaallisen sotajoukon seisovan hanen oikialla ja vasemmalla puolellansa.	</div>
 
-<div class="versenum">19.</div> Ja Herra sanoi: kuka viettelis Ahabin Israelin kuninkaan, etta han menis ylos ja lankeaisi Gileadin Ramotissa? Ja kuin yksi sanoi niin, ja toinen nain,	
+<div class="theverse"><div class="versenum">19.</div> Ja Herra sanoi: kuka viettelis Ahabin Israelin kuninkaan, etta han menis ylos ja lankeaisi Gileadin Ramotissa? Ja kuin yksi sanoi niin, ja toinen nain,	</div>
 
-<div class="versenum">20.</div> Niin tuli yksi henki ja seisoi Herran edessa, ja sanoi: mina viettelen hanen. Ja Herra sanoi hanelle: milla?	
+<div class="theverse"><div class="versenum">20.</div> Niin tuli yksi henki ja seisoi Herran edessa, ja sanoi: mina viettelen hanen. Ja Herra sanoi hanelle: milla?	</div>
 
-<div class="versenum">21.</div> Han sanoi: mina menen ja olen valheen henki kaikkein hanen prophetainsa suussa. Ja han sanoi: viettele hanta ja sina myos taidat: mene ja tee niin.	
+<div class="theverse"><div class="versenum">21.</div> Han sanoi: mina menen ja olen valheen henki kaikkein hanen prophetainsa suussa. Ja han sanoi: viettele hanta ja sina myos taidat: mene ja tee niin.	</div>
 
-<div class="versenum">22.</div> Nyt siis katso, Herra on antanut valheen hengen naiden sinun prophetais suuhun, ja Herra on puhunut pahaa sinua vastaan.	
+<div class="theverse"><div class="versenum">22.</div> Nyt siis katso, Herra on antanut valheen hengen naiden sinun prophetais suuhun, ja Herra on puhunut pahaa sinua vastaan.	</div>
 
-<div class="versenum">23.</div> Niin astui Zidkija Kenaanan poika edes ja loi Miikaa poskelle, ja sanoi: minka tien kautta on Herran henki mennyt minun tykoani pois, sinua puhuttelemaan?	
+<div class="theverse"><div class="versenum">23.</div> Niin astui Zidkija Kenaanan poika edes ja loi Miikaa poskelle, ja sanoi: minka tien kautta on Herran henki mennyt minun tykoani pois, sinua puhuttelemaan?	</div>
 
-<div class="versenum">24.</div> Miika sanoi: katso, sina olet sen nakeva sina paivana, jona kayt majasta majaan, lymytakses.	
+<div class="theverse"><div class="versenum">24.</div> Miika sanoi: katso, sina olet sen nakeva sina paivana, jona kayt majasta majaan, lymytakses.	</div>
 
-<div class="versenum">25.</div> Niin sanoi Israelin kuningas: ottakaat Miika ja viekaat jalleen hanta kaupungin paamiehen Amonin tyko ja Joaksen kuninkaan pojan tyko,	
+<div class="theverse"><div class="versenum">25.</div> Niin sanoi Israelin kuningas: ottakaat Miika ja viekaat jalleen hanta kaupungin paamiehen Amonin tyko ja Joaksen kuninkaan pojan tyko,	</div>
 
-<div class="versenum">26.</div> Ja sanokaat: nain sanoo kuningas: pankaat tama vankihuoneesen, ja ruokkikaat hanta murheen leivalla ja murheen vedella, siihenasti etta mina tulen jalleen rauhassa.	
+<div class="theverse"><div class="versenum">26.</div> Ja sanokaat: nain sanoo kuningas: pankaat tama vankihuoneesen, ja ruokkikaat hanta murheen leivalla ja murheen vedella, siihenasti etta mina tulen jalleen rauhassa.	</div>
 
-<div class="versenum">27.</div> Miika sanoi: jos sina toki palajat rauhassa, niin ei ole Herra puhunut minun kauttani. Ja han sanoi: kuulkaat, kaikki kansat.	
+<div class="theverse"><div class="versenum">27.</div> Miika sanoi: jos sina toki palajat rauhassa, niin ei ole Herra puhunut minun kauttani. Ja han sanoi: kuulkaat, kaikki kansat.	</div>
 
-<div class="versenum">28.</div> Niin meni Israelin kuningas ja Josaphat Juudan kuningas Gileadin Ramotia vastaan.	
+<div class="theverse"><div class="versenum">28.</div> Niin meni Israelin kuningas ja Josaphat Juudan kuningas Gileadin Ramotia vastaan.	</div>
 
-<div class="versenum">29.</div> Ja Israelin kuningas sanoi Josaphatille: mina muutan vaatteeni ja tulen sotaan, mutta pida sina omat vaattees; ja Israelin kuningas muutti vaatteensa, ja he menivat sotaan.	
+<div class="theverse"><div class="versenum">29.</div> Ja Israelin kuningas sanoi Josaphatille: mina muutan vaatteeni ja tulen sotaan, mutta pida sina omat vaattees; ja Israelin kuningas muutti vaatteensa, ja he menivat sotaan.	</div>
 
-<div class="versenum">30.</div> Ja Syrian kuningas kaski vaunuin paamiehille, jotka hanella olivat, ja sanoi: ei teidan pida sotiman pienta eli suurta vastaan, vaan ainoastaan Israelin kuningasta vastaan.	
+<div class="theverse"><div class="versenum">30.</div> Ja Syrian kuningas kaski vaunuin paamiehille, jotka hanella olivat, ja sanoi: ei teidan pida sotiman pienta eli suurta vastaan, vaan ainoastaan Israelin kuningasta vastaan.	</div>
 
-<div class="versenum">31.</div> Ja tapahtui, kuin vaunuin paamiehet nakivat Josaphatin, etta he sanoivat: se on Israelin kuningas; ja he kaansivat itsensa sotimaan hanta vastaan. Ja Josaphat huusi, ja Herra autti hanta, ja Jumala kaansi heidat pois hanesta.	
+<div class="theverse"><div class="versenum">31.</div> Ja tapahtui, kuin vaunuin paamiehet nakivat Josaphatin, etta he sanoivat: se on Israelin kuningas; ja he kaansivat itsensa sotimaan hanta vastaan. Ja Josaphat huusi, ja Herra autti hanta, ja Jumala kaansi heidat pois hanesta.	</div>
 
-<div class="versenum">32.</div> Silla kuin vaunuin paamiehet nakivat, ettei han ollut Israelin kuningas, kaansivat he itsensa pois hanesta.	
+<div class="theverse"><div class="versenum">32.</div> Silla kuin vaunuin paamiehet nakivat, ettei han ollut Israelin kuningas, kaansivat he itsensa pois hanesta.	</div>
 
-<div class="versenum">33.</div> Niin yksi mies jannitti joutsensa yksinkertaisuudessa ja ampui Israelin kuningasta rautapaidan jatkoon. Niin han sanoi vaununsa ajajalle: kaana kates ja vie minua ulos sotavaesta; silla mina olen haavoitettu.	
+<div class="theverse"><div class="versenum">33.</div> Niin yksi mies jannitti joutsensa yksinkertaisuudessa ja ampui Israelin kuningasta rautapaidan jatkoon. Niin han sanoi vaununsa ajajalle: kaana kates ja vie minua ulos sotavaesta; silla mina olen haavoitettu.	</div>
 
-<div class="versenum">34.</div> Ja sota tuli suureksi sina paivana, ja Israelin kuningas seisoi vaunuissa Syrialaisia vastaan ehtoosen asti; ja han kuoli auringon laskeissa.	
+<div class="theverse"><div class="versenum">34.</div> Ja sota tuli suureksi sina paivana, ja Israelin kuningas seisoi vaunuissa Syrialaisia vastaan ehtoosen asti; ja han kuoli auringon laskeissa.	</div>
 </body>
 </html>

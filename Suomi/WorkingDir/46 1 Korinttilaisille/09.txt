@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">1 Korinttilaisille 9	</div>
 	
-<div class="versenum">1.</div> Enko mina ole apostoli? Enko mina vapaa ole? Enko mina meidan Herraa Jesusta Kristusta nahnyt? Etteko te ole minun tyoni Herrassa?	
+<div class="theverse"><div class="versenum">1.</div> Enko mina ole apostoli? Enko mina vapaa ole? Enko mina meidan Herraa Jesusta Kristusta nahnyt? Etteko te ole minun tyoni Herrassa?	</div>
 
-<div class="versenum">2.</div> Ellen mina ole muille apostoli, niin mina tosin teille olen; silla te olette minun apostolivirkani sinetti Herrassa.	
+<div class="theverse"><div class="versenum">2.</div> Ellen mina ole muille apostoli, niin mina tosin teille olen; silla te olette minun apostolivirkani sinetti Herrassa.	</div>
 
-<div class="versenum">3.</div> Niille, jotka minulta kysyvat, on tama minun edesvastaukseni:	
+<div class="theverse"><div class="versenum">3.</div> Niille, jotka minulta kysyvat, on tama minun edesvastaukseni:	</div>
 
-<div class="versenum">4.</div> Eiko meilla ole valta syoda ja juoda?	
+<div class="theverse"><div class="versenum">4.</div> Eiko meilla ole valta syoda ja juoda?	</div>
 
-<div class="versenum">5.</div> Eiko meilla ole valta sisarta vaimona kanssamme ympari vieda, niinkuin muillakin apostoleilla, ja Herran veljilla, ja Kephaalla?	
+<div class="theverse"><div class="versenum">5.</div> Eiko meilla ole valta sisarta vaimona kanssamme ympari vieda, niinkuin muillakin apostoleilla, ja Herran veljilla, ja Kephaalla?	</div>
 
-<div class="versenum">6.</div> Eli minullako yksin ja Barnabaalla ei ole valtaa olla tyota tekematta?	
+<div class="theverse"><div class="versenum">6.</div> Eli minullako yksin ja Barnabaalla ei ole valtaa olla tyota tekematta?	</div>
 
-<div class="versenum">7.</div> Kuka sotii koskaan omalla kulutuksellansa? Kuka istuttaa viinatarhan ja ei syo sen hedelmasta? Eli kuka karjaa kaitsee ja ei syo karjan rieskasta?	
+<div class="theverse"><div class="versenum">7.</div> Kuka sotii koskaan omalla kulutuksellansa? Kuka istuttaa viinatarhan ja ei syo sen hedelmasta? Eli kuka karjaa kaitsee ja ei syo karjan rieskasta?	</div>
 
-<div class="versenum">8.</div> Puhunenko mina naita ihmisten tavalla? Eiko myos laki sita sano?	
+<div class="theverse"><div class="versenum">8.</div> Puhunenko mina naita ihmisten tavalla? Eiko myos laki sita sano?	</div>
 
-<div class="versenum">9.</div> Silla Moseksen laissa on kirjoitettu: Ei sinun pida sitoman kiinni riihta tappavan harjan suuta. Sureneeko Jumala harkia?	
+<div class="theverse"><div class="versenum">9.</div> Silla Moseksen laissa on kirjoitettu: Ei sinun pida sitoman kiinni riihta tappavan harjan suuta. Sureneeko Jumala harkia?	</div>
 
-<div class="versenum">10.</div> Taikka, eiko han sita kaiketi meidan tahtemme sano? silla meidan tahtemme on se kirjoitettu: etta se joka kyntaa, hanen pitaa toivossa kyntaman, ja joka riihta tappaa, hanen pitaa toivossa riihta tappaman, etta han toivostansa osalliseksi tulis.	
+<div class="theverse"><div class="versenum">10.</div> Taikka, eiko han sita kaiketi meidan tahtemme sano? silla meidan tahtemme on se kirjoitettu: etta se joka kyntaa, hanen pitaa toivossa kyntaman, ja joka riihta tappaa, hanen pitaa toivossa riihta tappaman, etta han toivostansa osalliseksi tulis.	</div>
 
-<div class="versenum">11.</div> Jos me olemme teille hengellisia kylvaneet; paljoko se on, jos me teidan ruumiillisianne niitamme?	
+<div class="theverse"><div class="versenum">11.</div> Jos me olemme teille hengellisia kylvaneet; paljoko se on, jos me teidan ruumiillisianne niitamme?	</div>
 
-<div class="versenum">12.</div> Jos muut ovat tassa vallassa osalliset teidan tykonanne, miksi emme siis paljoa enemmin? mutta emmepa me ole sita valtaa pitaneet, vaan me karsimme kaikkinaisia, ettemme Kristuksen evankeliumille mitaan estetta tekisi.	
+<div class="theverse"><div class="versenum">12.</div> Jos muut ovat tassa vallassa osalliset teidan tykonanne, miksi emme siis paljoa enemmin? mutta emmepa me ole sita valtaa pitaneet, vaan me karsimme kaikkinaisia, ettemme Kristuksen evankeliumille mitaan estetta tekisi.	</div>
 
-<div class="versenum">13.</div> Etteko te tieda, etta ne, jotka uhraavat, ne syovat uhrista, ja ne, jotka alttaria valmistavat, ne alttarista osalliseksi tulevat?	
+<div class="theverse"><div class="versenum">13.</div> Etteko te tieda, etta ne, jotka uhraavat, ne syovat uhrista, ja ne, jotka alttaria valmistavat, ne alttarista osalliseksi tulevat?	</div>
 
-<div class="versenum">14.</div> Niin on myos Herra saatanyt, etta ne, jotka evankeliumia ilmoittavat, pitaa evankeliumista elatuksensa saaman.	
+<div class="theverse"><div class="versenum">14.</div> Niin on myos Herra saatanyt, etta ne, jotka evankeliumia ilmoittavat, pitaa evankeliumista elatuksensa saaman.	</div>
 
-<div class="versenum">15.</div> Mutta en mina ole kuitenkaan mitaan naista tehnyt. Vaan en mina sentahden sita kirjoita, etta niin pitais minun kanssani tapahtuman. Parempi olis minun kuolla kuin etta joku minun kerskaamiseni tyhjaksi tekis.	
+<div class="theverse"><div class="versenum">15.</div> Mutta en mina ole kuitenkaan mitaan naista tehnyt. Vaan en mina sentahden sita kirjoita, etta niin pitais minun kanssani tapahtuman. Parempi olis minun kuolla kuin etta joku minun kerskaamiseni tyhjaksi tekis.	</div>
 
-<div class="versenum">16.</div> Mutta etta mina evankeliumia saarnaan, niin ei minun tarvitse siita oykata; silla minun tulee se tehda. Voi minua, ellen mina evankeliumia ilmoita!	
+<div class="theverse"><div class="versenum">16.</div> Mutta etta mina evankeliumia saarnaan, niin ei minun tarvitse siita oykata; silla minun tulee se tehda. Voi minua, ellen mina evankeliumia ilmoita!	</div>
 
-<div class="versenum">17.</div> Silla jos mina sen mielellani teen, niin minulla on palkka; mutta jos mina ylonmielin sen teen, niin on se virka kuitenkin minulle uskottu.	
+<div class="theverse"><div class="versenum">17.</div> Silla jos mina sen mielellani teen, niin minulla on palkka; mutta jos mina ylonmielin sen teen, niin on se virka kuitenkin minulle uskottu.	</div>
 
-<div class="versenum">18.</div> Mitas siis minun palkkani on? etta mina Kristuksen evankeliumia saarnaan, ja teen sen ilman vapauttani evankeliumissa.	
+<div class="theverse"><div class="versenum">18.</div> Mitas siis minun palkkani on? etta mina Kristuksen evankeliumia saarnaan, ja teen sen ilman vapauttani evankeliumissa.	</div>
 
-<div class="versenum">19.</div> Silla ehka mina olen vapaa jokaisesta, niin mina olen kuitenkin minuni tehnyt jokaisen palveliaksi, etta mina sita usiammat voittaisin.	
+<div class="theverse"><div class="versenum">19.</div> Silla ehka mina olen vapaa jokaisesta, niin mina olen kuitenkin minuni tehnyt jokaisen palveliaksi, etta mina sita usiammat voittaisin.	</div>
 
-<div class="versenum">20.</div> Ja olen Juudalaisille tehty niinkuin Juudalainen, etta mina Juudalaiset voittaisin; niille jotka lain alla ovat, niinkuin lain alainen, etta mina ne, jotka lain alla ovat, voittaisin;	
+<div class="theverse"><div class="versenum">20.</div> Ja olen Juudalaisille tehty niinkuin Juudalainen, etta mina Juudalaiset voittaisin; niille jotka lain alla ovat, niinkuin lain alainen, etta mina ne, jotka lain alla ovat, voittaisin;	</div>
 
-<div class="versenum">21.</div> Niille jotka ilman lakia ovat, niinkuin mina ilman lakia olisin, (vaikka en mina ilman lakia Jumalan edessa ole, vaan olen Kristuksen laissa,) etta mina ne, jotka ilman lakia ovat, voittaisin;	
+<div class="theverse"><div class="versenum">21.</div> Niille jotka ilman lakia ovat, niinkuin mina ilman lakia olisin, (vaikka en mina ilman lakia Jumalan edessa ole, vaan olen Kristuksen laissa,) etta mina ne, jotka ilman lakia ovat, voittaisin;	</div>
 
-<div class="versenum">22.</div> Heikoille olen mina tehty niinkuin heikko, etta mina heikot voittaisin. Mina olen kaikille tehty kaikiksi, etta mina kaiketi muutamat autuaaksi saattaisin.	
+<div class="theverse"><div class="versenum">22.</div> Heikoille olen mina tehty niinkuin heikko, etta mina heikot voittaisin. Mina olen kaikille tehty kaikiksi, etta mina kaiketi muutamat autuaaksi saattaisin.	</div>
 
-<div class="versenum">23.</div> Mutta sen mina teen evankeliumin tahden, etta mina siita osalliseksi tulisin.	
+<div class="theverse"><div class="versenum">23.</div> Mutta sen mina teen evankeliumin tahden, etta mina siita osalliseksi tulisin.	</div>
 
-<div class="versenum">24.</div> Etteko te tieda, etta ne, jotka kiistassa juoksevat, kaikki tosin he juoksevat, vaan yksi palkan ennattaa? Juoskaat siis niin, etta te kasittaisitte.	
+<div class="theverse"><div class="versenum">24.</div> Etteko te tieda, etta ne, jotka kiistassa juoksevat, kaikki tosin he juoksevat, vaan yksi palkan ennattaa? Juoskaat siis niin, etta te kasittaisitte.	</div>
 
-<div class="versenum">25.</div> Mutta jokainen joka kilvoittelee, kaikista han itsensa pitaa pois. Ne tosin sita varten, etta he katoovaisen kruunun saisivat; mutta me katoomattoman.	
+<div class="theverse"><div class="versenum">25.</div> Mutta jokainen joka kilvoittelee, kaikista han itsensa pitaa pois. Ne tosin sita varten, etta he katoovaisen kruunun saisivat; mutta me katoomattoman.	</div>
 
-<div class="versenum">26.</div> Mutta en mina niin juokse kuin tietamattoman puoleen, ja mina kilvoittelen, ei niinkuin tuulta pieksain.	
+<div class="theverse"><div class="versenum">26.</div> Mutta en mina niin juokse kuin tietamattoman puoleen, ja mina kilvoittelen, ei niinkuin tuulta pieksain.	</div>
 
-<div class="versenum">27.</div> Vaan mina kuritan ruumistani ja painan sita alas, etten mina, joka muille saarnaan, itse hyljattavaksi tulisi.	
+<div class="theverse"><div class="versenum">27.</div> Vaan mina kuritan ruumistani ja painan sita alas, etten mina, joka muille saarnaan, itse hyljattavaksi tulisi.	</div>
 </body>
 </html>

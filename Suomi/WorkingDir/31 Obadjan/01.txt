@@ -4,46 +4,46 @@
 </head>
 <body><div class="chaptertitle">Obadjan 1	</div>
 	
-<div class="versenum">1.</div> Tama on Obadjan naky. Nain sanoo Herra, Herra Edomista: me olemme Herralta sanoman kuulleet, etta sanansaattaja on pakanain sekaan lahetetty: nouskaat, ja kaykaamme hanta vastaan sotaan!	
+<div class="theverse"><div class="versenum">1.</div> Tama on Obadjan naky. Nain sanoo Herra, Herra Edomista: me olemme Herralta sanoman kuulleet, etta sanansaattaja on pakanain sekaan lahetetty: nouskaat, ja kaykaamme hanta vastaan sotaan!	</div>
 
-<div class="versenum">2.</div> Katso, mina olen sinun alentanut pakanain seassa, ja sangen ylonkatsotuksi tehnyt.	
+<div class="theverse"><div class="versenum">2.</div> Katso, mina olen sinun alentanut pakanain seassa, ja sangen ylonkatsotuksi tehnyt.	</div>
 
-<div class="versenum">3.</div> Sinun sydames ylpeys on sinun vietellyt, ettas vuorten rotkoissa asut, sinun korkeissa linnoissas, ja sanot sydamessas: kuka taitaa minun syosta maahan?	
+<div class="theverse"><div class="versenum">3.</div> Sinun sydames ylpeys on sinun vietellyt, ettas vuorten rotkoissa asut, sinun korkeissa linnoissas, ja sanot sydamessas: kuka taitaa minun syosta maahan?	</div>
 
-<div class="versenum">4.</div> Vaikkas ylos korkialle menisit niinkuin kotka, ja tekisit pesas tahtien keskelle; niin mina kuitenkin syoksen sinun alas sielta, sanoo Herra.	
+<div class="theverse"><div class="versenum">4.</div> Vaikkas ylos korkialle menisit niinkuin kotka, ja tekisit pesas tahtien keskelle; niin mina kuitenkin syoksen sinun alas sielta, sanoo Herra.	</div>
 
-<div class="versenum">5.</div> Jos varkaat eli raateliat tulevat yolla sinun tykos, kuinka sina niin lyoty olet? Eiko he varasta niin paljon, etta heilla kylla on? Jos viinanhakiat tulevat sinun tykos, eiko he jata viinamarjan oksia?	
+<div class="theverse"><div class="versenum">5.</div> Jos varkaat eli raateliat tulevat yolla sinun tykos, kuinka sina niin lyoty olet? Eiko he varasta niin paljon, etta heilla kylla on? Jos viinanhakiat tulevat sinun tykos, eiko he jata viinamarjan oksia?	</div>
 
-<div class="versenum">6.</div> Voi kuinka heidan pitaa Esaun tutkiman, ja hanen katketyt tavaransa etsiman.	
+<div class="theverse"><div class="versenum">6.</div> Voi kuinka heidan pitaa Esaun tutkiman, ja hanen katketyt tavaransa etsiman.	</div>
 
-<div class="versenum">7.</div> Kaikki, jotka sinun kanssas liitossa ovat, pitaa ajaman sinun pois maaltas; miehet, joihin sina turvaat, pettavat sinun, ja voittavat sinun; jotka sinun leipas syovat, pettavat sinun; ei sinulla ole ymmarrysta.	
+<div class="theverse"><div class="versenum">7.</div> Kaikki, jotka sinun kanssas liitossa ovat, pitaa ajaman sinun pois maaltas; miehet, joihin sina turvaat, pettavat sinun, ja voittavat sinun; jotka sinun leipas syovat, pettavat sinun; ei sinulla ole ymmarrysta.	</div>
 
-<div class="versenum">8.</div> Mitamaks, sanoo Herra, mina kadotan silloin Edomin viisaat ja ymmarryksen Esaun vuorelta.	
+<div class="theverse"><div class="versenum">8.</div> Mitamaks, sanoo Herra, mina kadotan silloin Edomin viisaat ja ymmarryksen Esaun vuorelta.	</div>
 
-<div class="versenum">9.</div> Silla sinun vakevas, Teman, pitaa hammastyman, etta heidan kaikkein pitaa murhasta Esaun vuorella hukkuman.	
+<div class="theverse"><div class="versenum">9.</div> Silla sinun vakevas, Teman, pitaa hammastyman, etta heidan kaikkein pitaa murhasta Esaun vuorella hukkuman.	</div>
 
-<div class="versenum">10.</div> Sen vaaryyden tahden, jonka sina veljelles Jakobille tehnyt olet, pitaa sinun hapiaan tuleman, ja ijankaikkisesti havitettaman.	
+<div class="theverse"><div class="versenum">10.</div> Sen vaaryyden tahden, jonka sina veljelles Jakobille tehnyt olet, pitaa sinun hapiaan tuleman, ja ijankaikkisesti havitettaman.	</div>
 
-<div class="versenum">11.</div> Silloin sina seisoit hanta vastaan, kuin muukalaiset hanen sotavakensa veivat pois vangittuna, ja vieraat menivat sisalle hanen porteistansa, ja Jerusalemista arvan heittivat; silloin sina olit niinkuin yksi heista.	
+<div class="theverse"><div class="versenum">11.</div> Silloin sina seisoit hanta vastaan, kuin muukalaiset hanen sotavakensa veivat pois vangittuna, ja vieraat menivat sisalle hanen porteistansa, ja Jerusalemista arvan heittivat; silloin sina olit niinkuin yksi heista.	</div>
 
-<div class="versenum">12.</div> Ei sinun pida mielellas katseleman veljes viheliaisyyden aikaa, eika riemuitseman Juudalaisten surkeuden aikana, ei myos sinun suus pida niin suuria sanoja puhuman heidan tuskansa aikana.	
+<div class="theverse"><div class="versenum">12.</div> Ei sinun pida mielellas katseleman veljes viheliaisyyden aikaa, eika riemuitseman Juudalaisten surkeuden aikana, ei myos sinun suus pida niin suuria sanoja puhuman heidan tuskansa aikana.	</div>
 
-<div class="versenum">13.</div> Ei sinun pida meneman sisalle minun kansani porteista heidan surkeutensa aikana, eika mielellas katseleman heidan onnettomuuttansa heidan vaivansa aikana, eika kattas ojentaman heidan kaluunsa heidan surkeutensa aikana.	
+<div class="theverse"><div class="versenum">13.</div> Ei sinun pida meneman sisalle minun kansani porteista heidan surkeutensa aikana, eika mielellas katseleman heidan onnettomuuttansa heidan vaivansa aikana, eika kattas ojentaman heidan kaluunsa heidan surkeutensa aikana.	</div>
 
-<div class="versenum">14.</div> Ei sinun pida teiden haaroissa seisoman, murhaamassa heidan pakenevaisiansa, ei myos kiinni ottaman heidan jaaneitansa ahdistuksensa aikana.	
+<div class="theverse"><div class="versenum">14.</div> Ei sinun pida teiden haaroissa seisoman, murhaamassa heidan pakenevaisiansa, ei myos kiinni ottaman heidan jaaneitansa ahdistuksensa aikana.	</div>
 
-<div class="versenum">15.</div> Silla Herran paiva on lasna kaikkia pakanoita; niinkuin sina tehnyt olet, niin pitaa sinulle jalleen tapahtuman, ja niinkuin sina ansainnut olet, niin pitaa sinun paas paalle jalleen tuleman.	
+<div class="theverse"><div class="versenum">15.</div> Silla Herran paiva on lasna kaikkia pakanoita; niinkuin sina tehnyt olet, niin pitaa sinulle jalleen tapahtuman, ja niinkuin sina ansainnut olet, niin pitaa sinun paas paalle jalleen tuleman.	</div>
 
-<div class="versenum">16.</div> Silla niinkuin te olette minun pyhalla vuorellani juoneet, niin pitaa kaikki pakanat alati juoman, ryyppaaman ja nieleman, ja oleman niinkuin ei he olleetkaan olisi.	
+<div class="theverse"><div class="versenum">16.</div> Silla niinkuin te olette minun pyhalla vuorellani juoneet, niin pitaa kaikki pakanat alati juoman, ryyppaaman ja nieleman, ja oleman niinkuin ei he olleetkaan olisi.	</div>
 
-<div class="versenum">17.</div> Mutta Zionin vuorella pitaa vapaus oleman, ja heidan pitaa pyhat oleman, ja Jakobin huoneen pitaa perintonsa omistaman.	
+<div class="theverse"><div class="versenum">17.</div> Mutta Zionin vuorella pitaa vapaus oleman, ja heidan pitaa pyhat oleman, ja Jakobin huoneen pitaa perintonsa omistaman.	</div>
 
-<div class="versenum">18.</div> Ja Jakobin huone pitaa tuli oleman, ja Josephin huonen tulen liekki, mutta Esaun huone kortena, jonka heidan pitaa sytyttaman ja kuluttaman, niin ettei Esaun huoneesta pida mitaan jaaman; silla Herra on sen puhunut.	
+<div class="theverse"><div class="versenum">18.</div> Ja Jakobin huone pitaa tuli oleman, ja Josephin huonen tulen liekki, mutta Esaun huone kortena, jonka heidan pitaa sytyttaman ja kuluttaman, niin ettei Esaun huoneesta pida mitaan jaaman; silla Herra on sen puhunut.	</div>
 
-<div class="versenum">19.</div> Ja heidan pitaa periman koko etelanpuolisen maan, ynna Esaun vuoren kanssa, ja lakeuden Philistealaisten kanssa, ja heidan pitaa myos Ephraimin ja Samarian kedon omistaman, ja Benjaminin Gileadin.	
+<div class="theverse"><div class="versenum">19.</div> Ja heidan pitaa periman koko etelanpuolisen maan, ynna Esaun vuoren kanssa, ja lakeuden Philistealaisten kanssa, ja heidan pitaa myos Ephraimin ja Samarian kedon omistaman, ja Benjaminin Gileadin.	</div>
 
-<div class="versenum">20.</div> Ja ne viedyt pois Israelin lasten sotavaesta, jotka Kanaanealaisten seassa hamaan Sarpattiin asti ovat, ja ne viedyt pois Jerusalemin kaupungista, jotka Sepharadissa ovat, pitaa kaupungit etelaan pain omistaman.	
+<div class="theverse"><div class="versenum">20.</div> Ja ne viedyt pois Israelin lasten sotavaesta, jotka Kanaanealaisten seassa hamaan Sarpattiin asti ovat, ja ne viedyt pois Jerusalemin kaupungista, jotka Sepharadissa ovat, pitaa kaupungit etelaan pain omistaman.	</div>
 
-<div class="versenum">21.</div> Ja vapahtajat pitaa Zionin vuorelle tuleman tuomitsemaan Esaun vuorta; ja niin pitaa valtakunta Herran oleman.	
+<div class="theverse"><div class="versenum">21.</div> Ja vapahtajat pitaa Zionin vuorelle tuleman tuomitsemaan Esaun vuorta; ja niin pitaa valtakunta Herran oleman.	</div>
 </body>
 </html>

@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">Psalmien 91	</div>
 	
-<div class="versenum">1.</div> Joka Korkeimman varjeluksessa istuu ja Kaikkivaltiaan varjossa oleskelee,	
+<div class="theverse"><div class="versenum">1.</div> Joka Korkeimman varjeluksessa istuu ja Kaikkivaltiaan varjossa oleskelee,	</div>
 
-<div class="versenum">2.</div> Han sanoo Herralle: minun toivoni ja linnani, minun Jumalani, johon mina uskallan.	
+<div class="theverse"><div class="versenum">2.</div> Han sanoo Herralle: minun toivoni ja linnani, minun Jumalani, johon mina uskallan.	</div>
 
-<div class="versenum">3.</div> Silla han pelastaa sinun vaijyjan paulasta, ja vahingollisesta ruttotaudista.	
+<div class="theverse"><div class="versenum">3.</div> Silla han pelastaa sinun vaijyjan paulasta, ja vahingollisesta ruttotaudista.	</div>
 
-<div class="versenum">4.</div> Han sulillansa sinua varjoo, ja sinun turvas on hanen siipeinsa alla: hanen totuutensa on keihas ja kilpi;	
+<div class="theverse"><div class="versenum">4.</div> Han sulillansa sinua varjoo, ja sinun turvas on hanen siipeinsa alla: hanen totuutensa on keihas ja kilpi;	</div>
 
-<div class="versenum">5.</div> Ettes pelkaisi yon kauhistusta, ja nuolia, jotka paivalla lentavat,	
+<div class="theverse"><div class="versenum">5.</div> Ettes pelkaisi yon kauhistusta, ja nuolia, jotka paivalla lentavat,	</div>
 
-<div class="versenum">6.</div> Sita ruttoa, joka pimeassa liikkuu, ja sairautta, joka puolipaivana turmelee.	
+<div class="theverse"><div class="versenum">6.</div> Sita ruttoa, joka pimeassa liikkuu, ja sairautta, joka puolipaivana turmelee.	</div>
 
-<div class="versenum">7.</div> Vaikka tuhannen lankeisi sivullas, ja kymmenentuhatta sinun oikiallas, niin ei se sinuun satu.	
+<div class="theverse"><div class="versenum">7.</div> Vaikka tuhannen lankeisi sivullas, ja kymmenentuhatta sinun oikiallas, niin ei se sinuun satu.	</div>
 
-<div class="versenum">8.</div> Ja tosin sinun pitaa silmillas nakeman ja katsoman, kuinka jumalattomille kostetaan.	
+<div class="theverse"><div class="versenum">8.</div> Ja tosin sinun pitaa silmillas nakeman ja katsoman, kuinka jumalattomille kostetaan.	</div>
 
-<div class="versenum">9.</div> Silla Herra on sinun toivos, ja Ylimmainen on sinun turvas.	
+<div class="theverse"><div class="versenum">9.</div> Silla Herra on sinun toivos, ja Ylimmainen on sinun turvas.	</div>
 
-<div class="versenum">10.</div> Ei sinua pida mikaan paha kohtaaman, ja ei yhtaan vaivaa pida sinun majaas lahestyman.	
+<div class="theverse"><div class="versenum">10.</div> Ei sinua pida mikaan paha kohtaaman, ja ei yhtaan vaivaa pida sinun majaas lahestyman.	</div>
 
-<div class="versenum">11.</div> Silla han on antanut kaskyn enkeleillensa sinusta, etta he katkevat sinua kaikissa teissas,	
+<div class="theverse"><div class="versenum">11.</div> Silla han on antanut kaskyn enkeleillensa sinusta, etta he katkevat sinua kaikissa teissas,	</div>
 
-<div class="versenum">12.</div> Etta he kantavat sinua kasissa, ettes jalkaas kiveen loukkaisi.	
+<div class="theverse"><div class="versenum">12.</div> Etta he kantavat sinua kasissa, ettes jalkaas kiveen loukkaisi.	</div>
 
-<div class="versenum">13.</div> Sina kayt jalopeuran ja kyykaarmeen paalla, ja tallaat nuoren jalopeuran ja lohikaarmeen.	
+<div class="theverse"><div class="versenum">13.</div> Sina kayt jalopeuran ja kyykaarmeen paalla, ja tallaat nuoren jalopeuran ja lohikaarmeen.	</div>
 
-<div class="versenum">14.</div> Etta han minua halasi, niin mina hanen paastan: han tuntee minun nimeni, sentahden mina varjelen hanta.	
+<div class="theverse"><div class="versenum">14.</div> Etta han minua halasi, niin mina hanen paastan: han tuntee minun nimeni, sentahden mina varjelen hanta.	</div>
 
-<div class="versenum">15.</div> Han avuksihuutaa minua, sentahden mina kuulen hanta; hanen tykonansa olen mina tuskassa; siita mina hanen tempaan pois ja saatan hanen kunniaan.	
+<div class="theverse"><div class="versenum">15.</div> Han avuksihuutaa minua, sentahden mina kuulen hanta; hanen tykonansa olen mina tuskassa; siita mina hanen tempaan pois ja saatan hanen kunniaan.	</div>
 
-<div class="versenum">16.</div> Mina ravitsen hanen pitkalla ijalla, ja osoitan hanelle autuuteni.	
+<div class="theverse"><div class="versenum">16.</div> Mina ravitsen hanen pitkalla ijalla, ja osoitan hanelle autuuteni.	</div>
 </body>
 </html>

@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Esran 3	</div>
 	
-<div class="versenum">1.</div> Kuin seitsemas kuukausi oli tullut ja Israelin lapset olivat kaupungeissansa, tuli kansa kokoon niinkuin yksi mies Jerusalemiin.	
+<div class="theverse"><div class="versenum">1.</div> Kuin seitsemas kuukausi oli tullut ja Israelin lapset olivat kaupungeissansa, tuli kansa kokoon niinkuin yksi mies Jerusalemiin.	</div>
 
-<div class="versenum">2.</div> Niin nousi Jesua Jotsadakin poika, ja papit hanen veljensa, ja Serubbabel Sealtielin poika ja hanen veljensa ja rakensivat Israelin Jumalan alttarin uhrataksensa sen paalla polttouhria, niinkuin kirjoitettu on Moseksen, Jumalan miehen, laissa.	
+<div class="theverse"><div class="versenum">2.</div> Niin nousi Jesua Jotsadakin poika, ja papit hanen veljensa, ja Serubbabel Sealtielin poika ja hanen veljensa ja rakensivat Israelin Jumalan alttarin uhrataksensa sen paalla polttouhria, niinkuin kirjoitettu on Moseksen, Jumalan miehen, laissa.	</div>
 
-<div class="versenum">3.</div> Ja he laskivat alttarin perustuksensa paalle, vaikka he pelkasivat sen maan kansoja; ja he uhrasivat sen paalla Herralle polttouhria aamulla ja ehtoolla.	
+<div class="theverse"><div class="versenum">3.</div> Ja he laskivat alttarin perustuksensa paalle, vaikka he pelkasivat sen maan kansoja; ja he uhrasivat sen paalla Herralle polttouhria aamulla ja ehtoolla.	</div>
 
-<div class="versenum">4.</div> Ja he pitivat lehtimajan juhlaa niinkuin kirjoitettu on, ja tekivat polttouhria joka paiva, sen luvun jalkeen kuin tapa oli, kunkin paivanansa,	
+<div class="theverse"><div class="versenum">4.</div> Ja he pitivat lehtimajan juhlaa niinkuin kirjoitettu on, ja tekivat polttouhria joka paiva, sen luvun jalkeen kuin tapa oli, kunkin paivanansa,	</div>
 
-<div class="versenum">5.</div> Senjalkeen alinomaisia polttouhreja, ja uuden kuun, ja kaikkein Jumalalle pyhitettyin juhlain, ja kaikkinaisia mieliuhreja, joita he hyvalla mielella tekivat Herralle.	
+<div class="theverse"><div class="versenum">5.</div> Senjalkeen alinomaisia polttouhreja, ja uuden kuun, ja kaikkein Jumalalle pyhitettyin juhlain, ja kaikkinaisia mieliuhreja, joita he hyvalla mielella tekivat Herralle.	</div>
 
-<div class="versenum">6.</div> Seitsemannen kuukauden ensimaisena paivana rupesivat he uhraamaan Herralle polttouhria; mutta ei Herran templin perustus ollut viela laskettu.	
+<div class="theverse"><div class="versenum">6.</div> Seitsemannen kuukauden ensimaisena paivana rupesivat he uhraamaan Herralle polttouhria; mutta ei Herran templin perustus ollut viela laskettu.	</div>
 
-<div class="versenum">7.</div> Ja he antoivat kivenhakkaajille ja taitavaille tyovaelle rahaa, ja ruokaa ja juomaa, ja oljya Sidonilaisille ja Tyrolaisille, etta he toisivat heille sedripuita Libanonista Japhoon merta myoten, Koreksen Persian kuninkaan suomasta,	
+<div class="theverse"><div class="versenum">7.</div> Ja he antoivat kivenhakkaajille ja taitavaille tyovaelle rahaa, ja ruokaa ja juomaa, ja oljya Sidonilaisille ja Tyrolaisille, etta he toisivat heille sedripuita Libanonista Japhoon merta myoten, Koreksen Persian kuninkaan suomasta,	</div>
 
-<div class="versenum">8.</div> Mutta toisena vuonna sittekuin he tulivat Jerusalemiin Herran huoneen tyko, toisena kuukautena, rupesi Serubbabel Sealtielin poika, ja Jesua Jotsadakin poika, ja muut heidan jaaneet veljensa, papit ja Levilaiset, ja kaikki, jotka vankeudesta tulivat Jerusalemiin, ja panivat kahdenkymmenen ajastaikaiset ja sita vanhemmat Levilaiset Herran huoneen tyon teettajiksi.	
+<div class="theverse"><div class="versenum">8.</div> Mutta toisena vuonna sittekuin he tulivat Jerusalemiin Herran huoneen tyko, toisena kuukautena, rupesi Serubbabel Sealtielin poika, ja Jesua Jotsadakin poika, ja muut heidan jaaneet veljensa, papit ja Levilaiset, ja kaikki, jotka vankeudesta tulivat Jerusalemiin, ja panivat kahdenkymmenen ajastaikaiset ja sita vanhemmat Levilaiset Herran huoneen tyon teettajiksi.	</div>
 
-<div class="versenum">9.</div> Ja Jesua seisoi poikinensa ja veljinensa, ja Kadmiel poikinensa, ja Juudan lapset, niinkuin yksi mies teettamassa tyovakea Herran huoneessa, Henadadin lapset poikinensa, ja Levilaiset veljinensa.	
+<div class="theverse"><div class="versenum">9.</div> Ja Jesua seisoi poikinensa ja veljinensa, ja Kadmiel poikinensa, ja Juudan lapset, niinkuin yksi mies teettamassa tyovakea Herran huoneessa, Henadadin lapset poikinensa, ja Levilaiset veljinensa.	</div>
 
-<div class="versenum">10.</div> Ja kuin rakentajat laskivat Herran templin perustuksen, asettivat he papit puetettuina, vaskitorvien kanssa, ja Levilaiset Asaphin pojat kanteleilla, kiittamaan Herraa Davidin Israelin kuninkaan sanoilla.	
+<div class="theverse"><div class="versenum">10.</div> Ja kuin rakentajat laskivat Herran templin perustuksen, asettivat he papit puetettuina, vaskitorvien kanssa, ja Levilaiset Asaphin pojat kanteleilla, kiittamaan Herraa Davidin Israelin kuninkaan sanoilla.	</div>
 
-<div class="versenum">11.</div> Ja he veisasivat vuorottain ylistaissansa ja kiittaissansa Herraa, etta han on hyva ja hanen laupiutensa pysyy ijankaikkisesti Israelin ylitse. Ja kaikki kansa huusi korkialla aanella ja kiitti Herraa, etta Herran huoneen perustus oli laskettu.	
+<div class="theverse"><div class="versenum">11.</div> Ja he veisasivat vuorottain ylistaissansa ja kiittaissansa Herraa, etta han on hyva ja hanen laupiutensa pysyy ijankaikkisesti Israelin ylitse. Ja kaikki kansa huusi korkialla aanella ja kiitti Herraa, etta Herran huoneen perustus oli laskettu.	</div>
 
-<div class="versenum">12.</div> Mutta moni vanhoista papeista, ja Levilaisista ja isain paamiehista, jotka olivat nahneet ensimaisen huoneen perustuksellansa, niin myos taman huoneen silmainsa edessa, itkivat suurella aanella; ja moni huusi korkialla aanella ilon tahden;	
+<div class="theverse"><div class="versenum">12.</div> Mutta moni vanhoista papeista, ja Levilaisista ja isain paamiehista, jotka olivat nahneet ensimaisen huoneen perustuksellansa, niin myos taman huoneen silmainsa edessa, itkivat suurella aanella; ja moni huusi korkialla aanella ilon tahden;	</div>
 
-<div class="versenum">13.</div> Etta se huuto oli niin suuri, ettei kansa eroittanut ilon aanta itkun aanesta; silla kansa huusi korkialla aanella, etta se aani kauvas kuului.	
+<div class="theverse"><div class="versenum">13.</div> Etta se huuto oli niin suuri, ettei kansa eroittanut ilon aanta itkun aanesta; silla kansa huusi korkialla aanella, etta se aani kauvas kuului.	</div>
 </body>
 </html>

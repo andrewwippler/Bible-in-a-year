@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Nehemian 1	</div>
 	
-<div class="versenum">1.</div> Namat ovat Nehemian Hakalian pojan teot. Tapahtui Kislevin kuulla, kahdentenakymmenentena vuonna, kuin mina olin Susanin linnassa,	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat Nehemian Hakalian pojan teot. Tapahtui Kislevin kuulla, kahdentenakymmenentena vuonna, kuin mina olin Susanin linnassa,	</div>
 
-<div class="versenum">2.</div> Niin tuli Hanani, yksi veljistani muutamain Juudan miesten kanssa; ja mina kysyin heilta Juudalaisista, jotka vankeudesta jaaneet ja paasseet olivat, ja Jerusalemin menoista.	
+<div class="theverse"><div class="versenum">2.</div> Niin tuli Hanani, yksi veljistani muutamain Juudan miesten kanssa; ja mina kysyin heilta Juudalaisista, jotka vankeudesta jaaneet ja paasseet olivat, ja Jerusalemin menoista.	</div>
 
-<div class="versenum">3.</div> Ja he sanoivat minulle: ne, jotka jaljelle jaaneet ovat vankeudesta, ovat siella maassa suuressa onnettomuudessa ja hapiassa; Jerusalemin muurit ovat jaotetut ja sen portit tulella poltetut.	
+<div class="theverse"><div class="versenum">3.</div> Ja he sanoivat minulle: ne, jotka jaljelle jaaneet ovat vankeudesta, ovat siella maassa suuressa onnettomuudessa ja hapiassa; Jerusalemin muurit ovat jaotetut ja sen portit tulella poltetut.	</div>
 
-<div class="versenum">4.</div> Kuin mina senkaltaiset sanat kuulin, niin mina istuin ja murehdin muutamat paivat, paastosin ja rukoilin taivaan Jumalan edessa,	
+<div class="theverse"><div class="versenum">4.</div> Kuin mina senkaltaiset sanat kuulin, niin mina istuin ja murehdin muutamat paivat, paastosin ja rukoilin taivaan Jumalan edessa,	</div>
 
-<div class="versenum">5.</div> Ja sanoin: Oi Herra, taivaan Jumala, suuri ja peljattava Jumala, joka pidat liiton ja laupiuden niille, jotka sinua rakastavat ja pitavat sinun kaskys!	
+<div class="theverse"><div class="versenum">5.</div> Ja sanoin: Oi Herra, taivaan Jumala, suuri ja peljattava Jumala, joka pidat liiton ja laupiuden niille, jotka sinua rakastavat ja pitavat sinun kaskys!	</div>
 
-<div class="versenum">6.</div> Anna korvas kuulla ja silmas avoinna olla, kuulemaan palvelias rukousta, kuin mina nyt rukoilen sinun edessas yot ja paivat palveliais Israelin lasten edessa; ja mina tunnustan Israelin lasten synnit, jotka me olemme tehneet sinua vastaan; ja mina ja minun isani huone olemme syntia tehneet.	
+<div class="theverse"><div class="versenum">6.</div> Anna korvas kuulla ja silmas avoinna olla, kuulemaan palvelias rukousta, kuin mina nyt rukoilen sinun edessas yot ja paivat palveliais Israelin lasten edessa; ja mina tunnustan Israelin lasten synnit, jotka me olemme tehneet sinua vastaan; ja mina ja minun isani huone olemme syntia tehneet.	</div>
 
-<div class="versenum">7.</div> Me olemme kovin turmelleet itsemme, ettemme ole pitaneet sinun kaskyjas, saatyjas ja oikeuttas, joitas olet palvelialles Mosekselle kaskenyt.	
+<div class="theverse"><div class="versenum">7.</div> Me olemme kovin turmelleet itsemme, ettemme ole pitaneet sinun kaskyjas, saatyjas ja oikeuttas, joitas olet palvelialles Mosekselle kaskenyt.	</div>
 
-<div class="versenum">8.</div> Mutta muista kuitenkin sita sanaa, jonka sina kaskit Mosekselle palvelialles ja sanoit: koska te rikotte, niin mina hajoitan teidat kansain sekaan.	
+<div class="theverse"><div class="versenum">8.</div> Mutta muista kuitenkin sita sanaa, jonka sina kaskit Mosekselle palvelialles ja sanoit: koska te rikotte, niin mina hajoitan teidat kansain sekaan.	</div>
 
-<div class="versenum">9.</div> Mutta jos te palajatte minun tykoni, ja pidatte minun kaskyni ja teette ne: ja jos te ajetaan hamaan taivaan aariin, niin mina sieltakin teidat kokoon ja vien siihen paikkaan, jonka mina olen valinnut nimeni asumasiaksi.	
+<div class="theverse"><div class="versenum">9.</div> Mutta jos te palajatte minun tykoni, ja pidatte minun kaskyni ja teette ne: ja jos te ajetaan hamaan taivaan aariin, niin mina sieltakin teidat kokoon ja vien siihen paikkaan, jonka mina olen valinnut nimeni asumasiaksi.	</div>
 
-<div class="versenum">10.</div> He ovat kuitenkin sinun palvelias ja sinun kansas, jotkas vapahdit suurella voimallas ja vakevalla kadellas.	
+<div class="theverse"><div class="versenum">10.</div> He ovat kuitenkin sinun palvelias ja sinun kansas, jotkas vapahdit suurella voimallas ja vakevalla kadellas.	</div>
 
-<div class="versenum">11.</div> O Herra! olkoon korvas avoinna palvelias rukoukseen ja sinun palveliais rukouksiin, jotka pyytavat peljata sinun nimeas, ja anna palvelias tanapana menestya, ja anna heille armo taman miehen edessa! Silla mina olin kuninkaan juomanlaskia.	
+<div class="theverse"><div class="versenum">11.</div> O Herra! olkoon korvas avoinna palvelias rukoukseen ja sinun palveliais rukouksiin, jotka pyytavat peljata sinun nimeas, ja anna palvelias tanapana menestya, ja anna heille armo taman miehen edessa! Silla mina olin kuninkaan juomanlaskia.	</div>
 </body>
 </html>

@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">1 Johanneksen 3	</div>
 	
-<div class="versenum">1.</div> Katsokaat, minkakaltaisen rakkauden Isa on meille osoittanut, etta me Jumalan lapsiksi nimitetaan. Sentahden ei maailma teita tunne; silla ei han hantakaan tunne.	
+<div class="theverse"><div class="versenum">1.</div> Katsokaat, minkakaltaisen rakkauden Isa on meille osoittanut, etta me Jumalan lapsiksi nimitetaan. Sentahden ei maailma teita tunne; silla ei han hantakaan tunne.	</div>
 
-<div class="versenum">2.</div> Minun rakkaani! nyt me olemme Jumalan lapset, ja ei ole se viela ilmestynyt, miksi me tulemme; mutta me tiedamme, kuin se ilmestyy, niin me hanen kaltaisiksensa tulemme; silla me saamme hanen nahda niinkuin han on.	
+<div class="theverse"><div class="versenum">2.</div> Minun rakkaani! nyt me olemme Jumalan lapset, ja ei ole se viela ilmestynyt, miksi me tulemme; mutta me tiedamme, kuin se ilmestyy, niin me hanen kaltaisiksensa tulemme; silla me saamme hanen nahda niinkuin han on.	</div>
 
-<div class="versenum">3.</div> Ja jokainen, jolla tama toivo on hanen tykonsa, puhdistaa itsensa, niinkuin hankin puhdas on.	
+<div class="theverse"><div class="versenum">3.</div> Ja jokainen, jolla tama toivo on hanen tykonsa, puhdistaa itsensa, niinkuin hankin puhdas on.	</div>
 
-<div class="versenum">4.</div> Jokainen, joka syntia tekee, se myos tekee vaaryytta, ja synti on vaaryys.	
+<div class="theverse"><div class="versenum">4.</div> Jokainen, joka syntia tekee, se myos tekee vaaryytta, ja synti on vaaryys.	</div>
 
-<div class="versenum">5.</div> Ja te tiedatte hanen ilmestyneen, etta han meidan syntimme ottais pois; ja ei hanessa ole syntia.	
+<div class="theverse"><div class="versenum">5.</div> Ja te tiedatte hanen ilmestyneen, etta han meidan syntimme ottais pois; ja ei hanessa ole syntia.	</div>
 
-<div class="versenum">6.</div> Jokainen, joka hanessa pysyy, ei han syntia tee; mutta jokainen, joka syntia tekee, ei se ole hanta nahnyt eika hanta tuntenut.	
+<div class="theverse"><div class="versenum">6.</div> Jokainen, joka hanessa pysyy, ei han syntia tee; mutta jokainen, joka syntia tekee, ei se ole hanta nahnyt eika hanta tuntenut.	</div>
 
-<div class="versenum">7.</div> Lapsukaiset, alkaat antako kenenkaan teitanne vietella. Joka vanhurskautta tekee, se on vanhurskas, niinkuin hankin vanhurskas on.	
+<div class="theverse"><div class="versenum">7.</div> Lapsukaiset, alkaat antako kenenkaan teitanne vietella. Joka vanhurskautta tekee, se on vanhurskas, niinkuin hankin vanhurskas on.	</div>
 
-<div class="versenum">8.</div> Joka syntia tekee, han on perkeleesta; silla perkele tekee syntia alusta. Sita varten Jumalan Poika ilmestyi, etta han perkeleen tyot sarkis.	
+<div class="theverse"><div class="versenum">8.</div> Joka syntia tekee, han on perkeleesta; silla perkele tekee syntia alusta. Sita varten Jumalan Poika ilmestyi, etta han perkeleen tyot sarkis.	</div>
 
-<div class="versenum">9.</div> Jokainen, joka Jumalasta syntynyt on, ei se syntia tee; silla hanen siemenensa pysyy hanessa, ja ei han taida syntia tehda, silla han on Jumalasta syntynyt.	
+<div class="theverse"><div class="versenum">9.</div> Jokainen, joka Jumalasta syntynyt on, ei se syntia tee; silla hanen siemenensa pysyy hanessa, ja ei han taida syntia tehda, silla han on Jumalasta syntynyt.	</div>
 
-<div class="versenum">10.</div> Siita ilmaantuvat Jumalan lapset ja perkeleen lapset. Jokainen, joka ei tee vanhurskautta, ei se ole Jumalasta, ja joka ei rakasta veljeansa.	
+<div class="theverse"><div class="versenum">10.</div> Siita ilmaantuvat Jumalan lapset ja perkeleen lapset. Jokainen, joka ei tee vanhurskautta, ei se ole Jumalasta, ja joka ei rakasta veljeansa.	</div>
 
-<div class="versenum">11.</div> Silla tama on ilmoitus, jonka te alusta kuulitte, etta me toinen toistamme rakastaisimme.	
+<div class="theverse"><div class="versenum">11.</div> Silla tama on ilmoitus, jonka te alusta kuulitte, etta me toinen toistamme rakastaisimme.	</div>
 
-<div class="versenum">12.</div> Ei niinkuin Kain, joka pahasta oli, ja tappoi veljensa; ja minkatahden han tappoi hanen? Silla hanen tyonsa olivat pahat, ja hanen veljensa vanhurskaat.	
+<div class="theverse"><div class="versenum">12.</div> Ei niinkuin Kain, joka pahasta oli, ja tappoi veljensa; ja minkatahden han tappoi hanen? Silla hanen tyonsa olivat pahat, ja hanen veljensa vanhurskaat.	</div>
 
-<div class="versenum">13.</div> Alkaat ihmetelko, minun veljeni, jos teita maailma vihaa.	
+<div class="theverse"><div class="versenum">13.</div> Alkaat ihmetelko, minun veljeni, jos teita maailma vihaa.	</div>
 
-<div class="versenum">14.</div> Me tiedamme, etta me olemme kuolemasta elamaan siirretyt, silla me rakastamme veljia. Joka ei veljeansa rakasta, se pysyy kuolemassa.	
+<div class="theverse"><div class="versenum">14.</div> Me tiedamme, etta me olemme kuolemasta elamaan siirretyt, silla me rakastamme veljia. Joka ei veljeansa rakasta, se pysyy kuolemassa.	</div>
 
-<div class="versenum">15.</div> Jokainen, joka veljeansa vihaa, han on murhaaja; ja te tiedatte, ettei yhdessakaan murhaajassa ole ijankaikkinen elama pysyva.	
+<div class="theverse"><div class="versenum">15.</div> Jokainen, joka veljeansa vihaa, han on murhaaja; ja te tiedatte, ettei yhdessakaan murhaajassa ole ijankaikkinen elama pysyva.	</div>
 
-<div class="versenum">16.</div> Siita me tunsimme rakkauden, etta han on henkensa meidan edestamme pannut; niin pitaa meidan veljeimme edesta henkemme paneman.	
+<div class="theverse"><div class="versenum">16.</div> Siita me tunsimme rakkauden, etta han on henkensa meidan edestamme pannut; niin pitaa meidan veljeimme edesta henkemme paneman.	</div>
 
-<div class="versenum">17.</div> Mutta jos jollakin olis taman maailman hyvyytta, ja nakis veljensa tarvitseman, ja sulkee sydamensa hanelta, kuinkas Jumalan rakkaus pysyy hanessa?	
+<div class="theverse"><div class="versenum">17.</div> Mutta jos jollakin olis taman maailman hyvyytta, ja nakis veljensa tarvitseman, ja sulkee sydamensa hanelta, kuinkas Jumalan rakkaus pysyy hanessa?	</div>
 
-<div class="versenum">18.</div> Lapsukaiseni, alkaamme rakastako sanalla eli kielella, vaan tyolla ja totuudella.	
+<div class="theverse"><div class="versenum">18.</div> Lapsukaiseni, alkaamme rakastako sanalla eli kielella, vaan tyolla ja totuudella.	</div>
 
-<div class="versenum">19.</div> Siita me tiedamme, etta me totuudesta olemme ja taidamme hanen edessansa meidan sydamemme hillita,	
+<div class="theverse"><div class="versenum">19.</div> Siita me tiedamme, etta me totuudesta olemme ja taidamme hanen edessansa meidan sydamemme hillita,	</div>
 
-<div class="versenum">20.</div> Etta jos meidan sydamemme tuomitsee meita, niin on Jumala suurempi kuin meidan sydamemme ja tietaa kaikki.	
+<div class="theverse"><div class="versenum">20.</div> Etta jos meidan sydamemme tuomitsee meita, niin on Jumala suurempi kuin meidan sydamemme ja tietaa kaikki.	</div>
 
-<div class="versenum">21.</div> Te rakkahimmat! jos ei meidan sydamemme tuomitse meita, niin meilla on turva Jumalaan.	
+<div class="theverse"><div class="versenum">21.</div> Te rakkahimmat! jos ei meidan sydamemme tuomitse meita, niin meilla on turva Jumalaan.	</div>
 
-<div class="versenum">22.</div> Ja mita me anomme, niin me saamme hanelta, etta me hanen kaskynsa pidamme ja teemme, mita hanelle kelpaa.	
+<div class="theverse"><div class="versenum">22.</div> Ja mita me anomme, niin me saamme hanelta, etta me hanen kaskynsa pidamme ja teemme, mita hanelle kelpaa.	</div>
 
-<div class="versenum">23.</div> Ja tama on hanen kaskynsa, etta me hanen Poikansa Jesuksen Kristuksen nimen paalle uskoisimme, ja rakastaisimme toinen toistamme, niinkuin han kaskyn meille antoi.	
+<div class="theverse"><div class="versenum">23.</div> Ja tama on hanen kaskynsa, etta me hanen Poikansa Jesuksen Kristuksen nimen paalle uskoisimme, ja rakastaisimme toinen toistamme, niinkuin han kaskyn meille antoi.	</div>
 
-<div class="versenum">24.</div> Ja joka hanen kaskynsa pitaa, se pysyy hanessa ja han siina, ja siita me tiedamme, etta han meissa pysyy, siita Hengesta, jonka han meille antoi.	
+<div class="theverse"><div class="versenum">24.</div> Ja joka hanen kaskynsa pitaa, se pysyy hanessa ja han siina, ja siita me tiedamme, etta han meissa pysyy, siita Hengesta, jonka han meille antoi.	</div>
 </body>
 </html>

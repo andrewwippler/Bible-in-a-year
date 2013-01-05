@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Jesajan 52	</div>
 	
-<div class="versenum">1.</div> Nouse, nouse, Zion, pue vakevyytes paalles, kaunista sinuas jalosti, sina pyha kaupunki Jerusalem; silla ei tastedes yksikaan ymparileikkaamatoin eika saastainen pida sinussa hallitseman.	
+<div class="theverse"><div class="versenum">1.</div> Nouse, nouse, Zion, pue vakevyytes paalles, kaunista sinuas jalosti, sina pyha kaupunki Jerusalem; silla ei tastedes yksikaan ymparileikkaamatoin eika saastainen pida sinussa hallitseman.	</div>
 
-<div class="versenum">2.</div> Puhdista itses tomusta, nouse ja istu Jerusalem; paasta sinuas kahleista, sina vangittu Zionin tytar.	
+<div class="theverse"><div class="versenum">2.</div> Puhdista itses tomusta, nouse ja istu Jerusalem; paasta sinuas kahleista, sina vangittu Zionin tytar.	</div>
 
-<div class="versenum">3.</div> Silla nain sanoo Herra: te olette tyhjaan myydyt, ja ilman rahaa te lunastetaan.	
+<div class="theverse"><div class="versenum">3.</div> Silla nain sanoo Herra: te olette tyhjaan myydyt, ja ilman rahaa te lunastetaan.	</div>
 
-<div class="versenum">4.</div> Silla nain sanoo Herra, Herra: minun kansani meni ensin alas Egyptiin, olemaan siella vieraana; ja Assur on heille vakivaltaa tehnyt ilman syyta.	
+<div class="theverse"><div class="versenum">4.</div> Silla nain sanoo Herra, Herra: minun kansani meni ensin alas Egyptiin, olemaan siella vieraana; ja Assur on heille vakivaltaa tehnyt ilman syyta.	</div>
 
-<div class="versenum">5.</div> Vaan mita nyt minulle taman edesta tehdaan? sanoo Herra; silla minun kansani ilman syyta viedaan pois? etta ne, jotka heita hallitsevat, saattavat heidat itkemaan, sanoo Herra, ja minun nimeani pilkataan paiva paivalta.	
+<div class="theverse"><div class="versenum">5.</div> Vaan mita nyt minulle taman edesta tehdaan? sanoo Herra; silla minun kansani ilman syyta viedaan pois? etta ne, jotka heita hallitsevat, saattavat heidat itkemaan, sanoo Herra, ja minun nimeani pilkataan paiva paivalta.	</div>
 
-<div class="versenum">6.</div> Sentahden pitaa minun kansani sina paivana minun nimeni tunteman, etta mina itse olen se, joka puhun, katso, mina se olen.	
+<div class="theverse"><div class="versenum">6.</div> Sentahden pitaa minun kansani sina paivana minun nimeni tunteman, etta mina itse olen se, joka puhun, katso, mina se olen.	</div>
 
-<div class="versenum">7.</div> O kuinka suloiset ovat evankeliumin saarnaajain jalat vuorilla, jotka rauhaa julistavat, jotka hyvaa saarnaavat, autuuden ilmoittavat, jotka Zionille sanovat: sinun Jumalas on kuningas.	
+<div class="theverse"><div class="versenum">7.</div> O kuinka suloiset ovat evankeliumin saarnaajain jalat vuorilla, jotka rauhaa julistavat, jotka hyvaa saarnaavat, autuuden ilmoittavat, jotka Zionille sanovat: sinun Jumalas on kuningas.	</div>
 
-<div class="versenum">8.</div> Sinun vartias huutavat korkiasti ja iloitsevat ynna, silla se nahdaan ilmeisesti, koska Herra kaantaa Zionin.	
+<div class="theverse"><div class="versenum">8.</div> Sinun vartias huutavat korkiasti ja iloitsevat ynna, silla se nahdaan ilmeisesti, koska Herra kaantaa Zionin.	</div>
 
-<div class="versenum">9.</div> Iloitkaat ja riemuitkaat ynna, te Jerusalemin autiot; silla Herra on kansaansa lohduttanut, ja Jerusalemin paastanyt.	
+<div class="theverse"><div class="versenum">9.</div> Iloitkaat ja riemuitkaat ynna, te Jerusalemin autiot; silla Herra on kansaansa lohduttanut, ja Jerusalemin paastanyt.	</div>
 
-<div class="versenum">10.</div> Herra on ilmoittanut pyhan kasivartensa kaikkein pakanain silmain edessa, niin etta kaikki maailman aaret nakevat meidan Jumalamme autuuden.	
+<div class="theverse"><div class="versenum">10.</div> Herra on ilmoittanut pyhan kasivartensa kaikkein pakanain silmain edessa, niin etta kaikki maailman aaret nakevat meidan Jumalamme autuuden.	</div>
 
-<div class="versenum">11.</div> Paetkaat, paetkaat, lahtekaat sielta, ja alkaat mihinkaan saastaiseen sattuko; menkaat ulos heidan tykoansa, puhdistakaat teitanne, te jotka Herran kalua kannatte.	
+<div class="theverse"><div class="versenum">11.</div> Paetkaat, paetkaat, lahtekaat sielta, ja alkaat mihinkaan saastaiseen sattuko; menkaat ulos heidan tykoansa, puhdistakaat teitanne, te jotka Herran kalua kannatte.	</div>
 
-<div class="versenum">12.</div> Silla ei teidan pida lahteman nopiasti, eli vaeltaman pakenemisella; silla Herra on lahteva teidan edellanne, ja Israelin Jumala on kokoova teita.	
+<div class="theverse"><div class="versenum">12.</div> Silla ei teidan pida lahteman nopiasti, eli vaeltaman pakenemisella; silla Herra on lahteva teidan edellanne, ja Israelin Jumala on kokoova teita.	</div>
 
-<div class="versenum">13.</div> Katso, minun palveliani tekee toimellisesti: han korotetaan, nostetaan ylos, ja tulee sangen korkiaksi.	
+<div class="theverse"><div class="versenum">13.</div> Katso, minun palveliani tekee toimellisesti: han korotetaan, nostetaan ylos, ja tulee sangen korkiaksi.	</div>
 
-<div class="versenum">14.</div> Niin etta moni sinun ylitses hammastyy, etta hanen muotonsa on rumempi muita ihmisia, ja hanen hahmonsa huonompi kuin ihmisten lasten.	
+<div class="theverse"><div class="versenum">14.</div> Niin etta moni sinun ylitses hammastyy, etta hanen muotonsa on rumempi muita ihmisia, ja hanen hahmonsa huonompi kuin ihmisten lasten.	</div>
 
-<div class="versenum">15.</div> Mutta niin on han monta pakanaa priiskottava, etta myos kuningasten taytyy suunsa hanen edessansa tukita; silla joille ei mitaan hanesta ilmoitettu ollut, nekin hanen ilolla nakevat, ja jota ei he kuulleet ole, sen ne ymmartavat.	
+<div class="theverse"><div class="versenum">15.</div> Mutta niin on han monta pakanaa priiskottava, etta myos kuningasten taytyy suunsa hanen edessansa tukita; silla joille ei mitaan hanesta ilmoitettu ollut, nekin hanen ilolla nakevat, ja jota ei he kuulleet ole, sen ne ymmartavat.	</div>
 </body>
 </html>

@@ -4,28 +4,28 @@
 </head>
 <body><div class="chaptertitle">2 Samuelin 4	</div>
 	
-<div class="versenum">1.</div> Kuin Saulin poika kuuli Abnerin kuolleeksi Hebronissa, vasyivat hanen katensa, ja koko Israel hammastyi.	
+<div class="theverse"><div class="versenum">1.</div> Kuin Saulin poika kuuli Abnerin kuolleeksi Hebronissa, vasyivat hanen katensa, ja koko Israel hammastyi.	</div>
 
-<div class="versenum">2.</div> Ja Saulin pojalla oli kaksi sotavaen paamiesta, toisen nimi oli Baana ja toisen Rekab, Rimmonin Berotilaisen pojat, BenJaminin lapsista; silla Berot oli myos luettu BenJaminin sukukuntaan.	
+<div class="theverse"><div class="versenum">2.</div> Ja Saulin pojalla oli kaksi sotavaen paamiesta, toisen nimi oli Baana ja toisen Rekab, Rimmonin Berotilaisen pojat, BenJaminin lapsista; silla Berot oli myos luettu BenJaminin sukukuntaan.	</div>
 
-<div class="versenum">3.</div> Ja Berotilaiset olivat paenneet Gittaimiin, ja olivat siella muukalaisina tahan paivaan asti.	
+<div class="theverse"><div class="versenum">3.</div> Ja Berotilaiset olivat paenneet Gittaimiin, ja olivat siella muukalaisina tahan paivaan asti.	</div>
 
-<div class="versenum">4.</div> Oli myos Jonatanilla Saulin pojalla yksi poika, joka oli saattamatoin jaloista, ja oli jo viiden ajastaikainen, kuin sanoma Saulista ja Jonatanista tuli Jisreelista; ja hanen imettajansa otti hanen ja pakeni. Ja koska han kiiruusti pakeni, lankesi han ja tuli saattamattomaksi, ja hanen nimensa oli MephiBoset.	
+<div class="theverse"><div class="versenum">4.</div> Oli myos Jonatanilla Saulin pojalla yksi poika, joka oli saattamatoin jaloista, ja oli jo viiden ajastaikainen, kuin sanoma Saulista ja Jonatanista tuli Jisreelista; ja hanen imettajansa otti hanen ja pakeni. Ja koska han kiiruusti pakeni, lankesi han ja tuli saattamattomaksi, ja hanen nimensa oli MephiBoset.	</div>
 
-<div class="versenum">5.</div> Niin menivat Berotilaisen Rimmonin pojat Rekab ja Baana, ja tulivat Isbosetin huoneesen, kuin paiva oli palavimmallansa; ja han lepasi vuoteessansa puolipaivan aikana.	
+<div class="theverse"><div class="versenum">5.</div> Niin menivat Berotilaisen Rimmonin pojat Rekab ja Baana, ja tulivat Isbosetin huoneesen, kuin paiva oli palavimmallansa; ja han lepasi vuoteessansa puolipaivan aikana.	</div>
 
-<div class="versenum">6.</div> Ja he tulivat keskelle huonetta nisuja ottamaan ja pistivat hanta vatsaan; ja Rekab ja Baana hanen veljensa pakenivat;	
+<div class="theverse"><div class="versenum">6.</div> Ja he tulivat keskelle huonetta nisuja ottamaan ja pistivat hanta vatsaan; ja Rekab ja Baana hanen veljensa pakenivat;	</div>
 
-<div class="versenum">7.</div> Silla koska he huoneesen tulivat, lepasi han vuoteessansa, makaushuoneessansa. Ja he pistivat hanen kuoliaaksi, ja hakkasivat hanen paansa pois, ja ottivat hanen paansa ja menivat pois lakian kedon tien kautta koko sen yon,	
+<div class="theverse"><div class="versenum">7.</div> Silla koska he huoneesen tulivat, lepasi han vuoteessansa, makaushuoneessansa. Ja he pistivat hanen kuoliaaksi, ja hakkasivat hanen paansa pois, ja ottivat hanen paansa ja menivat pois lakian kedon tien kautta koko sen yon,	</div>
 
-<div class="versenum">8.</div> Ja toivat Isbosetin paan Davidille, joka oli Hebronissa, ja sanoivat kuninkaalle: katso, tassa on Isbosetin Saulin pojan paa, sinun vihollises, joka sinun sielus peraan seisoi: ja Herra on tanapana kostanut Saulille ja hanen siemenellensa herrani kuninkaan puolesta.	
+<div class="theverse"><div class="versenum">8.</div> Ja toivat Isbosetin paan Davidille, joka oli Hebronissa, ja sanoivat kuninkaalle: katso, tassa on Isbosetin Saulin pojan paa, sinun vihollises, joka sinun sielus peraan seisoi: ja Herra on tanapana kostanut Saulille ja hanen siemenellensa herrani kuninkaan puolesta.	</div>
 
-<div class="versenum">9.</div> Niin vastasi David Rekabia ja Baanaa, hanen veljeansa, Rimmnonin Berotilaisen poikia, ja sanoi heille: niin totta kuin Herra elaa, joka minun sieluni on vapahtanut kaikesta surusta;	
+<div class="theverse"><div class="versenum">9.</div> Niin vastasi David Rekabia ja Baanaa, hanen veljeansa, Rimmnonin Berotilaisen poikia, ja sanoi heille: niin totta kuin Herra elaa, joka minun sieluni on vapahtanut kaikesta surusta;	</div>
 
-<div class="versenum">10.</div> Sen joka minulle ilmoitti ja sanoi: Saul on kuollut, ja luuli itsensa hyvaksi sanansaattajaksi, sen mina otin kiinni ja tapoin Ziklagissa, jolle minun piti antaman sanansaattajan palkan;	
+<div class="theverse"><div class="versenum">10.</div> Sen joka minulle ilmoitti ja sanoi: Saul on kuollut, ja luuli itsensa hyvaksi sanansaattajaksi, sen mina otin kiinni ja tapoin Ziklagissa, jolle minun piti antaman sanansaattajan palkan;	</div>
 
-<div class="versenum">11.</div> Ja namat jumalattomat miehet ovat tappaneet hurskaan miehen huoneessansa ja omassa vuoteessansa: eiko siis minun pitaisi nyt vaatiman hanen vertansa teidan kadestanne ja ottaman teita pois maan paalta?	
+<div class="theverse"><div class="versenum">11.</div> Ja namat jumalattomat miehet ovat tappaneet hurskaan miehen huoneessansa ja omassa vuoteessansa: eiko siis minun pitaisi nyt vaatiman hanen vertansa teidan kadestanne ja ottaman teita pois maan paalta?	</div>
 
-<div class="versenum">12.</div> Ja David kaski nuorukaisiansa, ja he tappoivat heidat, ja hakkasivat kadet ja jalat poikki, ja ripustivat heidat lammikon tyko Hebronissa. Mutta Isbosetin paan he ottivat ja hautasivat Abnerin hautaan Hebroniin.	
+<div class="theverse"><div class="versenum">12.</div> Ja David kaski nuorukaisiansa, ja he tappoivat heidat, ja hakkasivat kadet ja jalat poikki, ja ripustivat heidat lammikon tyko Hebronissa. Mutta Isbosetin paan he ottivat ja hautasivat Abnerin hautaan Hebroniin.	</div>
 </body>
 </html>

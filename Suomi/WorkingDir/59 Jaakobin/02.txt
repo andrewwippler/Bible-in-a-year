@@ -4,56 +4,56 @@
 </head>
 <body><div class="chaptertitle">Jaakobin 2	</div>
 	
-<div class="versenum">1.</div> Rakkaat veljeni, alkaat muodonkatsomisessa pitako uskoa kunnian Herran Jesuksen Kristuksen paalle.	
+<div class="theverse"><div class="versenum">1.</div> Rakkaat veljeni, alkaat muodonkatsomisessa pitako uskoa kunnian Herran Jesuksen Kristuksen paalle.	</div>
 
-<div class="versenum">2.</div> Silla jos teidan seurakuntaanne tulis joku mies, kantain kultasormusta, ja kiiltavalla vaatteella puetettu; ja tulis myos koyha ryysylla,	
+<div class="theverse"><div class="versenum">2.</div> Silla jos teidan seurakuntaanne tulis joku mies, kantain kultasormusta, ja kiiltavalla vaatteella puetettu; ja tulis myos koyha ryysylla,	</div>
 
-<div class="versenum">3.</div> Ja te katsoisitte sita, joka kiiltavissa vaatteissa on, ja sanoisitte hanelle: istu tassa hyvasti; ja sille koyhalle sanoisitte: seiso sina siella, taikka istu tassa minun jaloissani:	
+<div class="theverse"><div class="versenum">3.</div> Ja te katsoisitte sita, joka kiiltavissa vaatteissa on, ja sanoisitte hanelle: istu tassa hyvasti; ja sille koyhalle sanoisitte: seiso sina siella, taikka istu tassa minun jaloissani:	</div>
 
-<div class="versenum">4.</div> Niin ette sita oikein ajattele, vaan te tulette tuomariksi ja teette pahan eroituksen.	
+<div class="theverse"><div class="versenum">4.</div> Niin ette sita oikein ajattele, vaan te tulette tuomariksi ja teette pahan eroituksen.	</div>
 
-<div class="versenum">5.</div> Kuulkaat, rakkaat veljeni: eiko Jumala ole taman maailman koyhia valinnut, jotka uskossa rikkaat ja valtakunnan perilliset ovat, jonka han lupasi niille, jotka hanta rakastavat?	
+<div class="theverse"><div class="versenum">5.</div> Kuulkaat, rakkaat veljeni: eiko Jumala ole taman maailman koyhia valinnut, jotka uskossa rikkaat ja valtakunnan perilliset ovat, jonka han lupasi niille, jotka hanta rakastavat?	</div>
 
-<div class="versenum">6.</div> Mutta te olette havaisseet koyhan. Eiko rikkaat ole vakivaltaiset teita polkemaan ja vetamaan teita oikeuden eteen?	
+<div class="theverse"><div class="versenum">6.</div> Mutta te olette havaisseet koyhan. Eiko rikkaat ole vakivaltaiset teita polkemaan ja vetamaan teita oikeuden eteen?	</div>
 
-<div class="versenum">7.</div> Eiko he pilkkaa sita hyvaa nimea, josta te nimitetyt olette?	
+<div class="theverse"><div class="versenum">7.</div> Eiko he pilkkaa sita hyvaa nimea, josta te nimitetyt olette?	</div>
 
-<div class="versenum">8.</div> Jos te kuninkaallisen lain, Raamatun jalkeen, taytatte: rakasta lahimmaistas niinkuin itsias, niin te hyvin teette.	
+<div class="theverse"><div class="versenum">8.</div> Jos te kuninkaallisen lain, Raamatun jalkeen, taytatte: rakasta lahimmaistas niinkuin itsias, niin te hyvin teette.	</div>
 
-<div class="versenum">9.</div> Mutta jos te ihmisten muotoa katsotte, niin te syntia teette ja rangaistaan lailta, niinkuin sen rikkojat.	
+<div class="theverse"><div class="versenum">9.</div> Mutta jos te ihmisten muotoa katsotte, niin te syntia teette ja rangaistaan lailta, niinkuin sen rikkojat.	</div>
 
-<div class="versenum">10.</div> Silla jos joku koko lain pitaa, ja rikkoo yhdessa, han on vikapaa kaikissa.	
+<div class="theverse"><div class="versenum">10.</div> Silla jos joku koko lain pitaa, ja rikkoo yhdessa, han on vikapaa kaikissa.	</div>
 
-<div class="versenum">11.</div> Silla se, joka sanoi: ei sinun pida huorin tekeman, han on myos sanonut: ei sinun pida tappaman. Jos et sina huorin tee, mutta tapat, niin sina olet lainrikkojaksi tullut.	
+<div class="theverse"><div class="versenum">11.</div> Silla se, joka sanoi: ei sinun pida huorin tekeman, han on myos sanonut: ei sinun pida tappaman. Jos et sina huorin tee, mutta tapat, niin sina olet lainrikkojaksi tullut.	</div>
 
-<div class="versenum">12.</div> Nain te puhukaat ja nain te tehkaat, niinkuin ne, jotka vapauden lain kautta pitaa tuomittaman.	
+<div class="theverse"><div class="versenum">12.</div> Nain te puhukaat ja nain te tehkaat, niinkuin ne, jotka vapauden lain kautta pitaa tuomittaman.	</div>
 
-<div class="versenum">13.</div> Silla armotoin tuomio pitaa hanen paallensa tuleman, joka ei laupiutta tehnyt; ja laupius kehuu tuomiota vastaan.	
+<div class="theverse"><div class="versenum">13.</div> Silla armotoin tuomio pitaa hanen paallensa tuleman, joka ei laupiutta tehnyt; ja laupius kehuu tuomiota vastaan.	</div>
 
-<div class="versenum">14.</div> Mita se auttaa, rakkaat veljeni, jos joku sanoo hanellansa uskon olevan, ja ei hanella kuitenkaan ole toita? Taitaako usko hanen autuaaksi saattaa?	
+<div class="theverse"><div class="versenum">14.</div> Mita se auttaa, rakkaat veljeni, jos joku sanoo hanellansa uskon olevan, ja ei hanella kuitenkaan ole toita? Taitaako usko hanen autuaaksi saattaa?	</div>
 
-<div class="versenum">15.</div> Mutta jos veli taikka sisar alasti olis ja puuttuis jokapaivaista ravintoa,	
+<div class="theverse"><div class="versenum">15.</div> Mutta jos veli taikka sisar alasti olis ja puuttuis jokapaivaista ravintoa,	</div>
 
-<div class="versenum">16.</div> Jos joku teista heille sanois: menkaat rauhassa, lammittakaat ja ravitkaat teitanne; ja ette kuitenkaan anna heille mitaan ruumiin tarvetta: mita se heita auttais?	
+<div class="theverse"><div class="versenum">16.</div> Jos joku teista heille sanois: menkaat rauhassa, lammittakaat ja ravitkaat teitanne; ja ette kuitenkaan anna heille mitaan ruumiin tarvetta: mita se heita auttais?	</div>
 
-<div class="versenum">17.</div> Nain myos usko, jos ei hanella toita ole, on kuollut itsessansa.	
+<div class="theverse"><div class="versenum">17.</div> Nain myos usko, jos ei hanella toita ole, on kuollut itsessansa.	</div>
 
-<div class="versenum">18.</div> Mutta sanokaan joku: sinulla on usko, ja minulla on tyot: osoita minulle sinun uskos sinun toillas, niin minakin tahdon minun uskoni osoittaa minun toillani.	
+<div class="theverse"><div class="versenum">18.</div> Mutta sanokaan joku: sinulla on usko, ja minulla on tyot: osoita minulle sinun uskos sinun toillas, niin minakin tahdon minun uskoni osoittaa minun toillani.	</div>
 
-<div class="versenum">19.</div> Sina uskot, etta yksi Jumala on, sen sina oikein teet; perkeleet myos sen uskovat ja vapisevat.	
+<div class="theverse"><div class="versenum">19.</div> Sina uskot, etta yksi Jumala on, sen sina oikein teet; perkeleet myos sen uskovat ja vapisevat.	</div>
 
-<div class="versenum">20.</div> Mutta tahdotkos tietaa, sina turha ihminen, etta usko ilman toita kuollut on?	
+<div class="theverse"><div class="versenum">20.</div> Mutta tahdotkos tietaa, sina turha ihminen, etta usko ilman toita kuollut on?	</div>
 
-<div class="versenum">21.</div> Eiko Abraham, meidan isamme, toiden kautta vanhurskautetuksi osoitettu, kuin han poikansa Isaakin alttarille uhrasi?	
+<div class="theverse"><div class="versenum">21.</div> Eiko Abraham, meidan isamme, toiden kautta vanhurskautetuksi osoitettu, kuin han poikansa Isaakin alttarille uhrasi?	</div>
 
-<div class="versenum">22.</div> Naetkos, etta usko on myos vaikuttanut hanen toissansa, ja etta usko on toissa taydelliseksi tullut?	
+<div class="theverse"><div class="versenum">22.</div> Naetkos, etta usko on myos vaikuttanut hanen toissansa, ja etta usko on toissa taydelliseksi tullut?	</div>
 
-<div class="versenum">23.</div> Ja se Raamattu on taytetty, joka sanoo: Abraham uskoi Jumalan, ja se luettiin hanelle vanhurskaudeksi, ja han kutsuttiin Jumalan ystavaksi.	
+<div class="theverse"><div class="versenum">23.</div> Ja se Raamattu on taytetty, joka sanoo: Abraham uskoi Jumalan, ja se luettiin hanelle vanhurskaudeksi, ja han kutsuttiin Jumalan ystavaksi.	</div>
 
-<div class="versenum">24.</div> Niin te siis naette, etta ihminen toista vanhurskautetuksi osoitetaan ja ei ainoastansa uskosta.	
+<div class="theverse"><div class="versenum">24.</div> Niin te siis naette, etta ihminen toista vanhurskautetuksi osoitetaan ja ei ainoastansa uskosta.	</div>
 
-<div class="versenum">25.</div> Niin myos portto Rahab, eiko han toiden kautta vanhurskautetuksi nahty, koska han korjasi ne vakoojat ja toista tieta heidat paasti ulos?	
+<div class="theverse"><div class="versenum">25.</div> Niin myos portto Rahab, eiko han toiden kautta vanhurskautetuksi nahty, koska han korjasi ne vakoojat ja toista tieta heidat paasti ulos?	</div>
 
-<div class="versenum">26.</div> Silla niinkuin ruumis ilman henkea on kuollut, niin myos usko on ilman toita kuollut.	
+<div class="theverse"><div class="versenum">26.</div> Silla niinkuin ruumis ilman henkea on kuollut, niin myos usko on ilman toita kuollut.	</div>
 </body>
 </html>

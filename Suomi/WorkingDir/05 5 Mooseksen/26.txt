@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 26	</div>
 	
-<div class="versenum">1.</div> Kuin tulet siihen maahan jonka Herra sinun Jumalas sinulle perinnoksi antaa, ja sina sen omistat, ja asut siina,	
+<div class="theverse"><div class="versenum">1.</div> Kuin tulet siihen maahan jonka Herra sinun Jumalas sinulle perinnoksi antaa, ja sina sen omistat, ja asut siina,	</div>
 
-<div class="versenum">2.</div> Niin ota kaikkinaisista sinun maas kasvuista ensimaiset hedelmat, jotka maasta kasvavat, jotka Herra sinun Jumalas sinulle antaa, pane ne koriin, ja mene siihen siaan, jonka Herra sinun Jumalas valitsee nimensa asumasiaksi,	
+<div class="theverse"><div class="versenum">2.</div> Niin ota kaikkinaisista sinun maas kasvuista ensimaiset hedelmat, jotka maasta kasvavat, jotka Herra sinun Jumalas sinulle antaa, pane ne koriin, ja mene siihen siaan, jonka Herra sinun Jumalas valitsee nimensa asumasiaksi,	</div>
 
-<div class="versenum">3.</div> Ja mene papin tyko, joka siihen aikaan on, ja sano hanelle: mina tunnustan tanapana Herran sinun Jumalas edessa, etta mina olen tullut siihen maahan, jonka Herra meidan isillemme vannoi, meille antaaksensa.	
+<div class="theverse"><div class="versenum">3.</div> Ja mene papin tyko, joka siihen aikaan on, ja sano hanelle: mina tunnustan tanapana Herran sinun Jumalas edessa, etta mina olen tullut siihen maahan, jonka Herra meidan isillemme vannoi, meille antaaksensa.	</div>
 
-<div class="versenum">4.</div> Ja pappi ottakoon korin kadestas ja laskekaan sen maahan, Herran sinun Jumalas alttarin eteen.	
+<div class="theverse"><div class="versenum">4.</div> Ja pappi ottakoon korin kadestas ja laskekaan sen maahan, Herran sinun Jumalas alttarin eteen.	</div>
 
-<div class="versenum">5.</div> Niin lausu sina, ja sano Herran sinun Jumalas edessa: minun raadollinen isani oli Syrialainen, ja meni Egyptiin vahalla joukolla, ja oli siella muukalainen, ja han tuli siella suureksi, vakevaksi ja monilukuiseksi kansaksi.	
+<div class="theverse"><div class="versenum">5.</div> Niin lausu sina, ja sano Herran sinun Jumalas edessa: minun raadollinen isani oli Syrialainen, ja meni Egyptiin vahalla joukolla, ja oli siella muukalainen, ja han tuli siella suureksi, vakevaksi ja monilukuiseksi kansaksi.	</div>
 
-<div class="versenum">6.</div> Mutta Egyptilaiset ahdistivat ja vaivasivat meita, ja panivat kovan orjuuden meidan paallemme.	
+<div class="theverse"><div class="versenum">6.</div> Mutta Egyptilaiset ahdistivat ja vaivasivat meita, ja panivat kovan orjuuden meidan paallemme.	</div>
 
-<div class="versenum">7.</div> Niin me huusimme Herran meidan isaimme Jumalan tyko, ja Herra kuuli meidan aanemme, ja katsoi meidan tuskaamme, tyotamme ja ahdistustamme.	
+<div class="theverse"><div class="versenum">7.</div> Niin me huusimme Herran meidan isaimme Jumalan tyko, ja Herra kuuli meidan aanemme, ja katsoi meidan tuskaamme, tyotamme ja ahdistustamme.	</div>
 
-<div class="versenum">8.</div> Ja Herra vei meidat ulos Egyptista voimallisella kadella, ja ojennetulla kasivarrella, suurella peljastyksella, merkeilla ja ihmeilla.	
+<div class="theverse"><div class="versenum">8.</div> Ja Herra vei meidat ulos Egyptista voimallisella kadella, ja ojennetulla kasivarrella, suurella peljastyksella, merkeilla ja ihmeilla.	</div>
 
-<div class="versenum">9.</div> Ja johdatti meidat tahan paikkaan ja antoi meille taman maan, maan, joka rieskaa ja hunajaa vuotaa.	
+<div class="theverse"><div class="versenum">9.</div> Ja johdatti meidat tahan paikkaan ja antoi meille taman maan, maan, joka rieskaa ja hunajaa vuotaa.	</div>
 
-<div class="versenum">10.</div> Ja nyt katso, mina kannan tassa maan ensimaisia hedelmia, jonka sina Herra minulle annoit. Ja niin pane ne Herran sinun Jumalas eteen, ja kumarra Herran sinun Jumalas edessa,	
+<div class="theverse"><div class="versenum">10.</div> Ja nyt katso, mina kannan tassa maan ensimaisia hedelmia, jonka sina Herra minulle annoit. Ja niin pane ne Herran sinun Jumalas eteen, ja kumarra Herran sinun Jumalas edessa,	</div>
 
-<div class="versenum">11.</div> Ja ole iloinen kaikesta hyvyydesta, minka Herra sinun Jumalas sinulle antoi, ja sinun huoneelles: sina ja Levilainen ja muukalainen, joka sinun keskellas on.	
+<div class="theverse"><div class="versenum">11.</div> Ja ole iloinen kaikesta hyvyydesta, minka Herra sinun Jumalas sinulle antoi, ja sinun huoneelles: sina ja Levilainen ja muukalainen, joka sinun keskellas on.	</div>
 
-<div class="versenum">12.</div> Kuin olet koonnut kaikki kymmenykset sinun vuotes kasvusta kolmantena vuonna, joka on kymmenysten vuosi, niin anna Levilaisille, muukalaisille, orvoille ja leskille, etta he soisivat sinun porteissas ja ravittaisiin,	
+<div class="theverse"><div class="versenum">12.</div> Kuin olet koonnut kaikki kymmenykset sinun vuotes kasvusta kolmantena vuonna, joka on kymmenysten vuosi, niin anna Levilaisille, muukalaisille, orvoille ja leskille, etta he soisivat sinun porteissas ja ravittaisiin,	</div>
 
-<div class="versenum">13.</div> Ja sano Herran sinun Jumalas edessa: mina olen tuonut huoneestani sen, mika pyhitetty on, ja annoin Levilaisille, muukalaisille, orvoille ja leskille, kaiken sinun kaskys jalkeen jonka olet minulle kaskenyt: en mina harhaillut sinun kaskyistas, enka niita unhottanut.	
+<div class="theverse"><div class="versenum">13.</div> Ja sano Herran sinun Jumalas edessa: mina olen tuonut huoneestani sen, mika pyhitetty on, ja annoin Levilaisille, muukalaisille, orvoille ja leskille, kaiken sinun kaskys jalkeen jonka olet minulle kaskenyt: en mina harhaillut sinun kaskyistas, enka niita unhottanut.	</div>
 
-<div class="versenum">14.</div> En mina siita ole syonyt minun surussani, enka ottanut siita saastaisuudesta, en myos niista mitaan antanut kuolleille: mina olen ollut Herran minun Jumalani aanelle kuuliainen, ja tehnyt kaiken sen jalkeen, minka sina minulle kaskenyt olet.	
+<div class="theverse"><div class="versenum">14.</div> En mina siita ole syonyt minun surussani, enka ottanut siita saastaisuudesta, en myos niista mitaan antanut kuolleille: mina olen ollut Herran minun Jumalani aanelle kuuliainen, ja tehnyt kaiken sen jalkeen, minka sina minulle kaskenyt olet.	</div>
 
-<div class="versenum">15.</div> Katsahda tanne pyhasta asumasiastas taivaasta, ja siunaa sinun kansaas Israelia ja maata, jonka sina meille antanut olet, niinkuin sina vannoit isillemme, maata, joka rieskaa ja hunajaa vuotaa.	
+<div class="theverse"><div class="versenum">15.</div> Katsahda tanne pyhasta asumasiastas taivaasta, ja siunaa sinun kansaas Israelia ja maata, jonka sina meille antanut olet, niinkuin sina vannoit isillemme, maata, joka rieskaa ja hunajaa vuotaa.	</div>
 
-<div class="versenum">16.</div> Tanapana Herra sinun Jumalas kaskee sinua tekemaan naiden saatyin ja oikeutten jalkeen, niin ettas pidat ne ja teet niiden jalkeen kaikesta sydamestas ja kaikesta sielustas.	
+<div class="theverse"><div class="versenum">16.</div> Tanapana Herra sinun Jumalas kaskee sinua tekemaan naiden saatyin ja oikeutten jalkeen, niin ettas pidat ne ja teet niiden jalkeen kaikesta sydamestas ja kaikesta sielustas.	</div>
 
-<div class="versenum">17.</div> Herran edessa olet sina sen luvannut tanapana, etta han pitaa oleman sinun Jumalas, ja sina tahdot vaeltaa hanen teissansa, ja pitaa hanen saatynsa, kaskynsa ja oikeutensa, ja olla kuuliainen hanen aanellensa.	
+<div class="theverse"><div class="versenum">17.</div> Herran edessa olet sina sen luvannut tanapana, etta han pitaa oleman sinun Jumalas, ja sina tahdot vaeltaa hanen teissansa, ja pitaa hanen saatynsa, kaskynsa ja oikeutensa, ja olla kuuliainen hanen aanellensa.	</div>
 
-<div class="versenum">18.</div> Ja Herra on sinulle tanapana luvannut, etta sinun pitaa oleman hanen kansansa, niinkuin han sinulle on puhunut, etta sinun pitaa kaikki hanen kaskynsa pitaman.	
+<div class="theverse"><div class="versenum">18.</div> Ja Herra on sinulle tanapana luvannut, etta sinun pitaa oleman hanen kansansa, niinkuin han sinulle on puhunut, etta sinun pitaa kaikki hanen kaskynsa pitaman.	</div>
 
-<div class="versenum">19.</div> Ja han korottaa sinua kaikkein kansain ylitse, minka han tekee ylistykseksi, kiitokseksi ja kunniaksi, ettas olisit Herralle sinun Jumalalles pyha kansa, niinkuin han sanonut on.	
+<div class="theverse"><div class="versenum">19.</div> Ja han korottaa sinua kaikkein kansain ylitse, minka han tekee ylistykseksi, kiitokseksi ja kunniaksi, ettas olisit Herralle sinun Jumalalles pyha kansa, niinkuin han sanonut on.	</div>
 </body>
 </html>

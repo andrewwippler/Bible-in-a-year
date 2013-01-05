@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Psalmien 144	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi. Kiitetty olkoon Herra, minun turvani, joka kateni opettaa sotimaan, ja sormeni tappelemaan,	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi. Kiitetty olkoon Herra, minun turvani, joka kateni opettaa sotimaan, ja sormeni tappelemaan,	</div>
 
-<div class="versenum">2.</div> Minun laupiuteni ja minun linnani, minun varjelukseni ja minun vapahtajani, minun kilpeni, johon mina uskallan, joka minun kansani minun alleni vaatii.	
+<div class="theverse"><div class="versenum">2.</div> Minun laupiuteni ja minun linnani, minun varjelukseni ja minun vapahtajani, minun kilpeni, johon mina uskallan, joka minun kansani minun alleni vaatii.	</div>
 
-<div class="versenum">3.</div> Herra, mika on ihminen, ettas hanta korjaat? eli ihmisen poika, ettas hanesta otat vaarin?	
+<div class="theverse"><div class="versenum">3.</div> Herra, mika on ihminen, ettas hanta korjaat? eli ihmisen poika, ettas hanesta otat vaarin?	</div>
 
-<div class="versenum">4.</div> On sittekin ihminen tyhjan verta: hanen aikansa katoo niinkuin varjo.	
+<div class="theverse"><div class="versenum">4.</div> On sittekin ihminen tyhjan verta: hanen aikansa katoo niinkuin varjo.	</div>
 
-<div class="versenum">5.</div> Herra, kallista sinun taivaas, ja astu alas: rupee vuoriin, etta he suitsisivat.	
+<div class="theverse"><div class="versenum">5.</div> Herra, kallista sinun taivaas, ja astu alas: rupee vuoriin, etta he suitsisivat.	</div>
 
-<div class="versenum">6.</div> Anna leimaukset iskea, ja hajoita heita: ammu nuolias ja kauhistuta heita.	
+<div class="theverse"><div class="versenum">6.</div> Anna leimaukset iskea, ja hajoita heita: ammu nuolias ja kauhistuta heita.	</div>
 
-<div class="versenum">7.</div> Laheta kates ylhaalta, ja kirvota minua, ja pelasta minua suurista vesista ja muukalaisten lasten kasista,	
+<div class="theverse"><div class="versenum">7.</div> Laheta kates ylhaalta, ja kirvota minua, ja pelasta minua suurista vesista ja muukalaisten lasten kasista,	</div>
 
-<div class="versenum">8.</div> Joiden suu puhuu valhetta, ja heidan oikia katensa on petollinen oikia kasi.	
+<div class="theverse"><div class="versenum">8.</div> Joiden suu puhuu valhetta, ja heidan oikia katensa on petollinen oikia kasi.	</div>
 
-<div class="versenum">9.</div> Jumala, mina veisaan sinulle uuden virren: mina soitan sinulle kymmenkielisella psaltarilla,	
+<div class="theverse"><div class="versenum">9.</div> Jumala, mina veisaan sinulle uuden virren: mina soitan sinulle kymmenkielisella psaltarilla,	</div>
 
-<div class="versenum">10.</div> Sina joka kuninkaille voiton annat, ja palvelias Davidin vapahdat murhamiekasta.	
+<div class="theverse"><div class="versenum">10.</div> Sina joka kuninkaille voiton annat, ja palvelias Davidin vapahdat murhamiekasta.	</div>
 
-<div class="versenum">11.</div> Paasta myos minua ja pelasta minua muukalaisten kadesta, joiden suu puhuu valhetta, ja heidan oikia katensa on petollinen oikia kasi,	
+<div class="theverse"><div class="versenum">11.</div> Paasta myos minua ja pelasta minua muukalaisten kadesta, joiden suu puhuu valhetta, ja heidan oikia katensa on petollinen oikia kasi,	</div>
 
-<div class="versenum">12.</div> Etta meidan pojat kasvaisivat nuoruudessansa niinkuin vesat, ja meidan tyttaret, niinkuin templin kaunistetut seinat.	
+<div class="theverse"><div class="versenum">12.</div> Etta meidan pojat kasvaisivat nuoruudessansa niinkuin vesat, ja meidan tyttaret, niinkuin templin kaunistetut seinat.	</div>
 
-<div class="versenum">13.</div> Meidan aittamme olkoon taynna, jotka runsaat elatukset antaisivat toinen toisensa perasta, etta meidan lampaamme poikisivat tuhannen, ja sata tuhatta, kylissamme;	
+<div class="theverse"><div class="versenum">13.</div> Meidan aittamme olkoon taynna, jotka runsaat elatukset antaisivat toinen toisensa perasta, etta meidan lampaamme poikisivat tuhannen, ja sata tuhatta, kylissamme;	</div>
 
-<div class="versenum">14.</div> Etta harkamme olisivat vahvat tyohon; ettei yhtaan vahinkoa, eika valitusta eli kannetta olisi kaduillamme.	
+<div class="theverse"><div class="versenum">14.</div> Etta harkamme olisivat vahvat tyohon; ettei yhtaan vahinkoa, eika valitusta eli kannetta olisi kaduillamme.	</div>
 
-<div class="versenum">15.</div> Autuas on se kansa, jolle niin kay; vaan autuas on se kansa, jonka Jumalana Herra on.	
+<div class="theverse"><div class="versenum">15.</div> Autuas on se kansa, jolle niin kay; vaan autuas on se kansa, jonka Jumalana Herra on.	</div>
 </body>
 </html>

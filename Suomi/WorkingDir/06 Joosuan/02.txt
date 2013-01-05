@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">Joosuan 2	</div>
 	
-<div class="versenum">1.</div> Ja Josua Nunin poika lahetti salaisesti kaksi vakoojaa Sittimista, sanoen: menkaat ja katselkaat maata ja Jerihoa. Niin he laksivat matkaan ja tulivat porton huoneeseen, jonka nimi oli Rahab, ja lepasivat siella.	
+<div class="theverse"><div class="versenum">1.</div> Ja Josua Nunin poika lahetti salaisesti kaksi vakoojaa Sittimista, sanoen: menkaat ja katselkaat maata ja Jerihoa. Niin he laksivat matkaan ja tulivat porton huoneeseen, jonka nimi oli Rahab, ja lepasivat siella.	</div>
 
-<div class="versenum">2.</div> Mutta se ilmoitettiin Jerihon kuninkaalle, sanoen: katso, tana yona tulivat tanne miehet Israelin lapsista, vakoomaan maata.	
+<div class="theverse"><div class="versenum">2.</div> Mutta se ilmoitettiin Jerihon kuninkaalle, sanoen: katso, tana yona tulivat tanne miehet Israelin lapsista, vakoomaan maata.	</div>
 
-<div class="versenum">3.</div> Niin lahetti Jerihon kuningas Rahabin tyko, sanoen: tuo ne miehet ulos, jotka sinun tykos, sinun huoneesees tulivat, silla he ovat tulleet vakoomaan kaikkea maata.	
+<div class="theverse"><div class="versenum">3.</div> Niin lahetti Jerihon kuningas Rahabin tyko, sanoen: tuo ne miehet ulos, jotka sinun tykos, sinun huoneesees tulivat, silla he ovat tulleet vakoomaan kaikkea maata.	</div>
 
-<div class="versenum">4.</div> Mutta vaimo otti molemmat miehet ja katki heidat, ja sanoi nain: miehet tulivat minun tykoni, vaan en mina tietanyt, kusta he olivat.	
+<div class="theverse"><div class="versenum">4.</div> Mutta vaimo otti molemmat miehet ja katki heidat, ja sanoi nain: miehet tulivat minun tykoni, vaan en mina tietanyt, kusta he olivat.	</div>
 
-<div class="versenum">5.</div> Ja kuin portti pimeassa pantiin kiinni, niin ne miehet laksivat ulos; enka mina tieda, kuhunka he menivat. Ajakaat nopiasti heita takaa, niin heidat saatte kiinni.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin portti pimeassa pantiin kiinni, niin ne miehet laksivat ulos; enka mina tieda, kuhunka he menivat. Ajakaat nopiasti heita takaa, niin heidat saatte kiinni.	</div>
 
-<div class="versenum">6.</div> Mutta han oli kaskenyt heidan astua katon paalle ja oli peittanyt heidat pellavain varsilla, jotka han oli hajoittanut katolle.	
+<div class="theverse"><div class="versenum">6.</div> Mutta han oli kaskenyt heidan astua katon paalle ja oli peittanyt heidat pellavain varsilla, jotka han oli hajoittanut katolle.	</div>
 
-<div class="versenum">7.</div> Ja miehet ajoivat heita takaa, Jordanin tieta hamaan luotuspaikkaan; ja portti pantiin kiinni, sitte kohta kuin he laksivat, jotka heita ajoivat takaa.	
+<div class="theverse"><div class="versenum">7.</div> Ja miehet ajoivat heita takaa, Jordanin tieta hamaan luotuspaikkaan; ja portti pantiin kiinni, sitte kohta kuin he laksivat, jotka heita ajoivat takaa.	</div>
 
-<div class="versenum">8.</div> Mutta ennen kuin miehet panivat levata, meni han katolle heidan tykonsa,	
+<div class="theverse"><div class="versenum">8.</div> Mutta ennen kuin miehet panivat levata, meni han katolle heidan tykonsa,	</div>
 
-<div class="versenum">9.</div> Ja sanoi miehille: mina tiedan, etta Herra antaa teille taman maan; silla teidan pelkonne on langennut meidan paallemme, ja koko maan asuvaiset ovat hammastyneet teidan kasvoinne edessa.	
+<div class="theverse"><div class="versenum">9.</div> Ja sanoi miehille: mina tiedan, etta Herra antaa teille taman maan; silla teidan pelkonne on langennut meidan paallemme, ja koko maan asuvaiset ovat hammastyneet teidan kasvoinne edessa.	</div>
 
-<div class="versenum">10.</div> Silla me olemme kuulleet, kuinka Herra kuivasi Punaisen meren vedet teidan edestanne lahteissanne Egyptista, ja mita te olette tehneet nille kahdelle Amorilaisten kuninkaalle, jotka olivat tuolla puolella Jordania, Sihonille ja Ogille, jotka te tapoitte.	
+<div class="theverse"><div class="versenum">10.</div> Silla me olemme kuulleet, kuinka Herra kuivasi Punaisen meren vedet teidan edestanne lahteissanne Egyptista, ja mita te olette tehneet nille kahdelle Amorilaisten kuninkaalle, jotka olivat tuolla puolella Jordania, Sihonille ja Ogille, jotka te tapoitte.	</div>
 
-<div class="versenum">11.</div> Kuin me sen kuulimme, niin meidan sydamemme raukesi, ja ei ole yhdellakaan rohkeutta teidan edessanne; silla Herra teidan Jumalanne on Jumala ylhaalla taivaissa ja alhaalla maassa.	
+<div class="theverse"><div class="versenum">11.</div> Kuin me sen kuulimme, niin meidan sydamemme raukesi, ja ei ole yhdellakaan rohkeutta teidan edessanne; silla Herra teidan Jumalanne on Jumala ylhaalla taivaissa ja alhaalla maassa.	</div>
 
-<div class="versenum">12.</div> Niin vannokaat nyt minulle Herran kautta, silla mina tein armon teidan kohtaanne, etta te myos teette armon minun isani huoneelle ja annatte minulle totuuden merkin,	
+<div class="theverse"><div class="versenum">12.</div> Niin vannokaat nyt minulle Herran kautta, silla mina tein armon teidan kohtaanne, etta te myos teette armon minun isani huoneelle ja annatte minulle totuuden merkin,	</div>
 
-<div class="versenum">13.</div> Etta te jatatte elamaan minun isani, ja aitini, ja veljeni, ja sisareni, ja kaikki jotka heidan omansa ovat ja vapahdatte meidan sielumme kuolemasta.	
+<div class="theverse"><div class="versenum">13.</div> Etta te jatatte elamaan minun isani, ja aitini, ja veljeni, ja sisareni, ja kaikki jotka heidan omansa ovat ja vapahdatte meidan sielumme kuolemasta.	</div>
 
-<div class="versenum">14.</div> Ja miehet sanoivat hanelle: meidan sielumme kuolkaan teidan edestanne, jolles vaan peta tata meidan asiaamme, jollemme tee armoa ja totuutta sinua kohtaan, kuin Herra taman maan meille antaa.	
+<div class="theverse"><div class="versenum">14.</div> Ja miehet sanoivat hanelle: meidan sielumme kuolkaan teidan edestanne, jolles vaan peta tata meidan asiaamme, jollemme tee armoa ja totuutta sinua kohtaan, kuin Herra taman maan meille antaa.	</div>
 
-<div class="versenum">15.</div> Ja han laski heidat koydella akkunasta alas; silla hanen huoneensa oli kaupungin muurissa, ja han asui juuri muurissa.	
+<div class="theverse"><div class="versenum">15.</div> Ja han laski heidat koydella akkunasta alas; silla hanen huoneensa oli kaupungin muurissa, ja han asui juuri muurissa.	</div>
 
-<div class="versenum">16.</div> Ja han sanoi heille: menkaat vuorelle, ettei ne teita kohtaisi, jotka ajavat teita takaa, ja olkaat siella lymyssa kolme paivaa, niinkauvan etta takaa-ajajat palajavat, ja menkaat sitte tietanne.	
+<div class="theverse"><div class="versenum">16.</div> Ja han sanoi heille: menkaat vuorelle, ettei ne teita kohtaisi, jotka ajavat teita takaa, ja olkaat siella lymyssa kolme paivaa, niinkauvan etta takaa-ajajat palajavat, ja menkaat sitte tietanne.	</div>
 
-<div class="versenum">17.</div> Ja miehet sanoivat hanelle: vapaat me olemme tasta valastas, jolla meita vannotit.	
+<div class="theverse"><div class="versenum">17.</div> Ja miehet sanoivat hanelle: vapaat me olemme tasta valastas, jolla meita vannotit.	</div>
 
-<div class="versenum">18.</div> Katso, kuin maahan sisalle tulemme, niin sinun pitaa ripustaman taman punaisen koyden akkunaan, josta meidat laskit alas, ja sinun pitaa kokooman tykos huoneesees isas ja aitis ja veljes ja koko isas huoneen.	
+<div class="theverse"><div class="versenum">18.</div> Katso, kuin maahan sisalle tulemme, niin sinun pitaa ripustaman taman punaisen koyden akkunaan, josta meidat laskit alas, ja sinun pitaa kokooman tykos huoneesees isas ja aitis ja veljes ja koko isas huoneen.	</div>
 
-<div class="versenum">19.</div> Mutta jos joku kay huonees ovesta ulos, hanen verensa olkoon oman paansa paalla, ja me olemme viattomat; ja joka ikana sinun kanssas huoneessa on, hanen verensa olkoon meidan paamme paalla, jos jonkun kasi haneen sattuu.	
+<div class="theverse"><div class="versenum">19.</div> Mutta jos joku kay huonees ovesta ulos, hanen verensa olkoon oman paansa paalla, ja me olemme viattomat; ja joka ikana sinun kanssas huoneessa on, hanen verensa olkoon meidan paamme paalla, jos jonkun kasi haneen sattuu.	</div>
 
-<div class="versenum">20.</div> Vaan jos sina petat taman meidan asiamme, niin me olemme vapaat sinun valastas, jolla meita vannottanut olet.	
+<div class="theverse"><div class="versenum">20.</div> Vaan jos sina petat taman meidan asiamme, niin me olemme vapaat sinun valastas, jolla meita vannottanut olet.	</div>
 
-<div class="versenum">21.</div> Han vastasi: olkoon niinkuin te sanotte; ja paasti heidat menemaan, ja he menivat pois; ja han ripusti punaisen koyden akkunaan.	
+<div class="theverse"><div class="versenum">21.</div> Han vastasi: olkoon niinkuin te sanotte; ja paasti heidat menemaan, ja he menivat pois; ja han ripusti punaisen koyden akkunaan.	</div>
 
-<div class="versenum">22.</div> Ja he menivat pois, ja tulivat vuorelle ja olivat siella kolme paivaa, niinkauvan etta ne palasivat, jotka heita ajoivat takaa, jotka etsivat heita kaikilla teilla, ja ei loytaneet.	
+<div class="theverse"><div class="versenum">22.</div> Ja he menivat pois, ja tulivat vuorelle ja olivat siella kolme paivaa, niinkauvan etta ne palasivat, jotka heita ajoivat takaa, jotka etsivat heita kaikilla teilla, ja ei loytaneet.	</div>
 
-<div class="versenum">23.</div> Niin ne molemmat miehet palasivat, sittekuin he olivat astuneet vuorelta alas, menivat ylitse, ja tulivat Josuan Nunin pojan tyko ja juttelivat hanelle kaikki, mita heille tapahtunut oli.	
+<div class="theverse"><div class="versenum">23.</div> Niin ne molemmat miehet palasivat, sittekuin he olivat astuneet vuorelta alas, menivat ylitse, ja tulivat Josuan Nunin pojan tyko ja juttelivat hanelle kaikki, mita heille tapahtunut oli.	</div>
 
-<div class="versenum">24.</div> Ja he sanoivat Josualle: Herra on antanut meidan kasiimme koko maan, silla kaikki maan asuvaiset ovat hammastyneet meidan edessamme.	
+<div class="theverse"><div class="versenum">24.</div> Ja he sanoivat Josualle: Herra on antanut meidan kasiimme koko maan, silla kaikki maan asuvaiset ovat hammastyneet meidan edessamme.	</div>
 </body>
 </html>

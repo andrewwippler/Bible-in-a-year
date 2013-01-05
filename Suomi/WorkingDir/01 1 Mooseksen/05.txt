@@ -4,68 +4,68 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 5	</div>
 	
-<div class="versenum">1.</div> Tama on ihmisen sukukunnan kirja, siihen aikaan, koska Jumala loi ihmisen, ja teki hanen Jumalan muotoiseksi.	
+<div class="theverse"><div class="versenum">1.</div> Tama on ihmisen sukukunnan kirja, siihen aikaan, koska Jumala loi ihmisen, ja teki hanen Jumalan muotoiseksi.	</div>
 
-<div class="versenum">2.</div> Mieheksi ja vaimoksi loi han heidat ja siunasi heita, ja kutsui heidan nimensa ihminen, sina paivana jona he luotiin.	
+<div class="theverse"><div class="versenum">2.</div> Mieheksi ja vaimoksi loi han heidat ja siunasi heita, ja kutsui heidan nimensa ihminen, sina paivana jona he luotiin.	</div>
 
-<div class="versenum">3.</div> Ja Adam oli sadan ja kolmenkymmenen ajastajan vanha, ja siitti pojan, joka hanen kuvansa kaltainen oli, ja kutsui hanen nimensa Set.	
+<div class="theverse"><div class="versenum">3.</div> Ja Adam oli sadan ja kolmenkymmenen ajastajan vanha, ja siitti pojan, joka hanen kuvansa kaltainen oli, ja kutsui hanen nimensa Set.	</div>
 
-<div class="versenum">4.</div> Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">4.</div> Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">5.</div> Ja koko hanen ikansa oli yhdeksansataa ja kolmekymmenta ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">5.</div> Ja koko hanen ikansa oli yhdeksansataa ja kolmekymmenta ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">6.</div> Set oli sadan ja viiden ajastajan vanha, ja siitti Enoksen.	
+<div class="theverse"><div class="versenum">6.</div> Set oli sadan ja viiden ajastajan vanha, ja siitti Enoksen.	</div>
 
-<div class="versenum">7.</div> Ja eli sitte kahdeksansataa ja seitseman ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">7.</div> Ja eli sitte kahdeksansataa ja seitseman ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">8.</div> Ja koko hanen ikansa oli yhdeksansataa ja kaksitoistakymmenta ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">8.</div> Ja koko hanen ikansa oli yhdeksansataa ja kaksitoistakymmenta ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">9.</div> Enos oli yhdeksankymmenen ajastajan vanha, ja siitti Kenanin.	
+<div class="theverse"><div class="versenum">9.</div> Enos oli yhdeksankymmenen ajastajan vanha, ja siitti Kenanin.	</div>
 
-<div class="versenum">10.</div> Ja eli sitte kahdeksansataa ja viisitoistakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">10.</div> Ja eli sitte kahdeksansataa ja viisitoistakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">11.</div> Ja koko hanen ikansa oli yhdeksansataa ja viisi ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">11.</div> Ja koko hanen ikansa oli yhdeksansataa ja viisi ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">12.</div> Kenan oli seitsemankymmenen ajastajan vanha, ja siitti Mahalaleelin.	
+<div class="theverse"><div class="versenum">12.</div> Kenan oli seitsemankymmenen ajastajan vanha, ja siitti Mahalaleelin.	</div>
 
-<div class="versenum">13.</div> Ja eli sitte kahdeksansataa ja neljakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">13.</div> Ja eli sitte kahdeksansataa ja neljakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">14.</div> Ja koko hanen ikansa oli yhdeksansataa ja kymmenen ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">14.</div> Ja koko hanen ikansa oli yhdeksansataa ja kymmenen ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">15.</div> Mahalaleel oli viiden ajastajan seitsemattakymmenta vanha, ja siitti Jaredin.	
+<div class="theverse"><div class="versenum">15.</div> Mahalaleel oli viiden ajastajan seitsemattakymmenta vanha, ja siitti Jaredin.	</div>
 
-<div class="versenum">16.</div> Ja eli sitte kahdeksansataa ja kolmekymmenta ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">16.</div> Ja eli sitte kahdeksansataa ja kolmekymmenta ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">17.</div> Ja koko hanen ikansa oli kahdeksansataa yhdeksankymmenta ja viisi ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">17.</div> Ja koko hanen ikansa oli kahdeksansataa yhdeksankymmenta ja viisi ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">18.</div> Jared oli sadan ja kahdenseitsemattakymmenta ajastajan vanha, ja siitti Henokin.	
+<div class="theverse"><div class="versenum">18.</div> Jared oli sadan ja kahdenseitsemattakymmenta ajastajan vanha, ja siitti Henokin.	</div>
 
-<div class="versenum">19.</div> Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">19.</div> Ja eli sitte kahdeksansataa ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">20.</div> Ja koko hanen ikansa oli yhdeksansataa ja kaksiseitsemattakymmenta ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">20.</div> Ja koko hanen ikansa oli yhdeksansataa ja kaksiseitsemattakymmenta ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">21.</div> Henok oli viidenseitsemattakymmenta ajastajan vanha, ja siitti Metusalan.	
+<div class="theverse"><div class="versenum">21.</div> Henok oli viidenseitsemattakymmenta ajastajan vanha, ja siitti Metusalan.	</div>
 
-<div class="versenum">22.</div> Ja sitte kuin han oli Metusalan siittanyt, pysyi han jumalisessa elamassa kolmesataa ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">22.</div> Ja sitte kuin han oli Metusalan siittanyt, pysyi han jumalisessa elamassa kolmesataa ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">23.</div> Ja koko hanen ikansa oli kolmesataa ja viisiseitsemattakymmenta ajastaikaa.	
+<div class="theverse"><div class="versenum">23.</div> Ja koko hanen ikansa oli kolmesataa ja viisiseitsemattakymmenta ajastaikaa.	</div>
 
-<div class="versenum">24.</div> Ja han eli jumalisesti: ja ei enaa ollut; silla Jumala otti hanen pois.	
+<div class="theverse"><div class="versenum">24.</div> Ja han eli jumalisesti: ja ei enaa ollut; silla Jumala otti hanen pois.	</div>
 
-<div class="versenum">25.</div> Metusala oli sadan ja seitseman ajastajan yhdeksattakymmenta vanha, ja siitti Lamekin.	
+<div class="theverse"><div class="versenum">25.</div> Metusala oli sadan ja seitseman ajastajan yhdeksattakymmenta vanha, ja siitti Lamekin.	</div>
 
-<div class="versenum">26.</div> Ja eli sitte seitsemansataa ja kaksiyhdeksattakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">26.</div> Ja eli sitte seitsemansataa ja kaksiyhdeksattakymmenta ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">27.</div> Ja koko hanen ikansa oli yhdeksansataa ja yhdeksanseitsemattakymmenta ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">27.</div> Ja koko hanen ikansa oli yhdeksansataa ja yhdeksanseitsemattakymmenta ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">28.</div> Lamek oli sadan ja kahden ajastajan yhdeksattakymmenta vanha, ja siitti pojan.	
+<div class="theverse"><div class="versenum">28.</div> Lamek oli sadan ja kahden ajastajan yhdeksattakymmenta vanha, ja siitti pojan.	</div>
 
-<div class="versenum">29.</div> Ja kutsui hanen nimensa Noa, sanoen: tama on lohduttava meita meidan vaivassamme ja toissamme maan paalla, jonka Herra kironnut on.	
+<div class="theverse"><div class="versenum">29.</div> Ja kutsui hanen nimensa Noa, sanoen: tama on lohduttava meita meidan vaivassamme ja toissamme maan paalla, jonka Herra kironnut on.	</div>
 
-<div class="versenum">30.</div> Sitte eli han viisisataa yhdeksankymmenta ja viisi ajastaikaa, ja siitti poikia ja tyttaria.	
+<div class="theverse"><div class="versenum">30.</div> Sitte eli han viisisataa yhdeksankymmenta ja viisi ajastaikaa, ja siitti poikia ja tyttaria.	</div>
 
-<div class="versenum">31.</div> Ja koko hanen ikansa oli seitsemansataa ja seitsemankahdeksattakymmenta ajastaikaa, ja kuoli.	
+<div class="theverse"><div class="versenum">31.</div> Ja koko hanen ikansa oli seitsemansataa ja seitsemankahdeksattakymmenta ajastaikaa, ja kuoli.	</div>
 
-<div class="versenum">32.</div> Noa oli viidensadan ajastajan vanha, ja siitti Semin, Hamin ja Japhetin.	
+<div class="theverse"><div class="versenum">32.</div> Noa oli viidensadan ajastajan vanha, ja siitti Semin, Hamin ja Japhetin.	</div>
 </body>
 </html>

@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 1	</div>
 	
-<div class="versenum">1.</div> Jesuksen Kristuksen Ilmestys, jonka Jumala hanelle antoi, ilmoittaa palvelioillensa niita, mitka pian tapahtuman pitaa, ja on tiettavaksi tehnyt ja lahettanyt enkelinsa kautta palveliallensa Johannekselle.	
+<div class="theverse"><div class="versenum">1.</div> Jesuksen Kristuksen Ilmestys, jonka Jumala hanelle antoi, ilmoittaa palvelioillensa niita, mitka pian tapahtuman pitaa, ja on tiettavaksi tehnyt ja lahettanyt enkelinsa kautta palveliallensa Johannekselle.	</div>
 
-<div class="versenum">2.</div> Joka todisti Jumalan sanaa, ja sen todistuksen Jesuksesta Kristuksesta, ja mita han nahnyt oli.	
+<div class="theverse"><div class="versenum">2.</div> Joka todisti Jumalan sanaa, ja sen todistuksen Jesuksesta Kristuksesta, ja mita han nahnyt oli.	</div>
 
-<div class="versenum">3.</div> Autuas on se, joka lukee, ja ne, jotka kuulevat prophetian sanat ja pitavat ne, mitka siina kirjoitetut ovat; silla aika on lasna.	
+<div class="theverse"><div class="versenum">3.</div> Autuas on se, joka lukee, ja ne, jotka kuulevat prophetian sanat ja pitavat ne, mitka siina kirjoitetut ovat; silla aika on lasna.	</div>
 
-<div class="versenum">4.</div> Johannes seitsemalle Asian seurakunnalle: armo olkoon teille ja rauha silta, joka on, joka oli, ja joka tuleva on, ja seitsemalta hengelta, jotka hanen istuimensa edessa ovat,	
+<div class="theverse"><div class="versenum">4.</div> Johannes seitsemalle Asian seurakunnalle: armo olkoon teille ja rauha silta, joka on, joka oli, ja joka tuleva on, ja seitsemalta hengelta, jotka hanen istuimensa edessa ovat,	</div>
 
-<div class="versenum">5.</div> Ja Jesukselta Kristukselta, joka se uskollinen todistaja on, ja esikoinen kuolleista, ja maan kuningasten Paamies: joka meita rakasti ja on meita verellansa meidan synneistamme pessyt,	
+<div class="theverse"><div class="versenum">5.</div> Ja Jesukselta Kristukselta, joka se uskollinen todistaja on, ja esikoinen kuolleista, ja maan kuningasten Paamies: joka meita rakasti ja on meita verellansa meidan synneistamme pessyt,	</div>
 
-<div class="versenum">6.</div> Ja teki meidat kuninkaiksi ja papeiksi Jumalan ja Isansa edessa: hanelle olkoon kunnia ja valta ijankaikkisesta ijankaikkiseen, amen!	
+<div class="theverse"><div class="versenum">6.</div> Ja teki meidat kuninkaiksi ja papeiksi Jumalan ja Isansa edessa: hanelle olkoon kunnia ja valta ijankaikkisesta ijankaikkiseen, amen!	</div>
 
-<div class="versenum">7.</div> Katso, han tulee pilvien kanssa, ja jokaisen silman pitaa hanen nakeman ja ne, jotka hanta pistaneet ovat ja kaikki maan sukukunnat pitaa parkuman. Niin, amen!	
+<div class="theverse"><div class="versenum">7.</div> Katso, han tulee pilvien kanssa, ja jokaisen silman pitaa hanen nakeman ja ne, jotka hanta pistaneet ovat ja kaikki maan sukukunnat pitaa parkuman. Niin, amen!	</div>
 
-<div class="versenum">8.</div> Mina olen A ja O, alku ja loppu, sanoo Herra, joka on, joka oli, ja joka tuleva on, kaikkivaltias.	
+<div class="theverse"><div class="versenum">8.</div> Mina olen A ja O, alku ja loppu, sanoo Herra, joka on, joka oli, ja joka tuleva on, kaikkivaltias.	</div>
 
-<div class="versenum">9.</div> Mina Johannes, teidan veljenne ja osallinen vaivassa ja valtakunnassa ja karsivallisyydessa, Jesuksessa Kristuksessa, olin luodossa, joka kutsutaan Patmos, Jumalan sanan ja Jesuksen Kristuksen todistuksen tahden.	
+<div class="theverse"><div class="versenum">9.</div> Mina Johannes, teidan veljenne ja osallinen vaivassa ja valtakunnassa ja karsivallisyydessa, Jesuksessa Kristuksessa, olin luodossa, joka kutsutaan Patmos, Jumalan sanan ja Jesuksen Kristuksen todistuksen tahden.	</div>
 
-<div class="versenum">10.</div> Mina olin hengessa yhtena sunnuntaina ja kuulin minun jaljessani suuren aanen, niinkuin basunan,	
+<div class="theverse"><div class="versenum">10.</div> Mina olin hengessa yhtena sunnuntaina ja kuulin minun jaljessani suuren aanen, niinkuin basunan,	</div>
 
-<div class="versenum">11.</div> Sanovan: mina olen A ja O, ensimainen ja viimeinen. Mitas naet, kirjoita kirjaan ja laheta Asian seurakunnille, jotka Ephesossa ovat, ja Smyrnassa, ja Pergamossa, ja Tyatirassa, ja Sardissa, ja Philadelphiassa, ja Laodikeassa.	
+<div class="theverse"><div class="versenum">11.</div> Sanovan: mina olen A ja O, ensimainen ja viimeinen. Mitas naet, kirjoita kirjaan ja laheta Asian seurakunnille, jotka Ephesossa ovat, ja Smyrnassa, ja Pergamossa, ja Tyatirassa, ja Sardissa, ja Philadelphiassa, ja Laodikeassa.	</div>
 
-<div class="versenum">12.</div> Ja mina kaannyin sita aanta katsomaan, joka minun kanssani puhui, ja minun kaantyessani nain mina seitseman kultaista kynttilajalkaa,	
+<div class="theverse"><div class="versenum">12.</div> Ja mina kaannyin sita aanta katsomaan, joka minun kanssani puhui, ja minun kaantyessani nain mina seitseman kultaista kynttilajalkaa,	</div>
 
-<div class="versenum">13.</div> Ja kultaisten kynttilajalkain keskella Ihmisen Pojan muotoisen, vaatetetun pitkalla hameella ja vyotetyn rinnoilta kultaisella vyolla.	
+<div class="theverse"><div class="versenum">13.</div> Ja kultaisten kynttilajalkain keskella Ihmisen Pojan muotoisen, vaatetetun pitkalla hameella ja vyotetyn rinnoilta kultaisella vyolla.	</div>
 
-<div class="versenum">14.</div> Mutta hanen paansa ja hiuksensa olivat valkiat niinkuin valkia villa ja niinkuin lumi, ja hanen silmansa niinkuin tulen liekki,	
+<div class="theverse"><div class="versenum">14.</div> Mutta hanen paansa ja hiuksensa olivat valkiat niinkuin valkia villa ja niinkuin lumi, ja hanen silmansa niinkuin tulen liekki,	</div>
 
-<div class="versenum">15.</div> Ja hanen jalkansa valantovasken kaltaiset, niinkuin patsissa palavaiset, ja hanen aanensa oli niinkuin paljon veden kuohina.	
+<div class="theverse"><div class="versenum">15.</div> Ja hanen jalkansa valantovasken kaltaiset, niinkuin patsissa palavaiset, ja hanen aanensa oli niinkuin paljon veden kuohina.	</div>
 
-<div class="versenum">16.</div> Ja seitseman tahtea oli hanen oikiassa kadessansa, ja hanen suustansa kavi ulos kaksiterainen terava miekka, ja hanen kasvonsa, niinkuin aurinko paistaa voimassansa.	
+<div class="theverse"><div class="versenum">16.</div> Ja seitseman tahtea oli hanen oikiassa kadessansa, ja hanen suustansa kavi ulos kaksiterainen terava miekka, ja hanen kasvonsa, niinkuin aurinko paistaa voimassansa.	</div>
 
-<div class="versenum">17.</div> Ja kuin mina hanen nain, lankesin mina hanen jalkainsa eteen niinkuin kuollut, ja han pani oikian katensa minun paalleni ja sanoi minulle: ala pelkaa, mina olen ensimainen ja viimeinen,	
+<div class="theverse"><div class="versenum">17.</div> Ja kuin mina hanen nain, lankesin mina hanen jalkainsa eteen niinkuin kuollut, ja han pani oikian katensa minun paalleni ja sanoi minulle: ala pelkaa, mina olen ensimainen ja viimeinen,	</div>
 
-<div class="versenum">18.</div> Ja elava, ja olin kuollut, ja katso, mina olen elava ijankaikkisesta ijankaikkiseen, amen! Ja minulla on helvetin ja kuoleman avaimet.	
+<div class="theverse"><div class="versenum">18.</div> Ja elava, ja olin kuollut, ja katso, mina olen elava ijankaikkisesta ijankaikkiseen, amen! Ja minulla on helvetin ja kuoleman avaimet.	</div>
 
-<div class="versenum">19.</div> Kirjoita, mitas nahnyt olet, mita nyt on, ja mita tastalahin tapahtuva on;	
+<div class="theverse"><div class="versenum">19.</div> Kirjoita, mitas nahnyt olet, mita nyt on, ja mita tastalahin tapahtuva on;	</div>
 
-<div class="versenum">20.</div> Se salaisuus niista seitsemasta tahdesta, jotka sina minun oikiassa kadessani nahnyt olet, ja seitseman kultaista kynttilajalkaa. Ne seitseman tahtea ovat seitseman seurakunnan enkelit: ja ne seitseman kynttilajalkaa, jotka sina nahnyt olet, ovat seitseman seurakuntaa.	
+<div class="theverse"><div class="versenum">20.</div> Se salaisuus niista seitsemasta tahdesta, jotka sina minun oikiassa kadessani nahnyt olet, ja seitseman kultaista kynttilajalkaa. Ne seitseman tahtea ovat seitseman seurakunnan enkelit: ja ne seitseman kynttilajalkaa, jotka sina nahnyt olet, ovat seitseman seurakuntaa.	</div>
 </body>
 </html>

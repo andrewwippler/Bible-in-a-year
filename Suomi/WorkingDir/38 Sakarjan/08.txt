@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Sakarjan 8	</div>
 	
-<div class="versenum">1.</div> Ja Herran Zebaotin sana tapahtui (minulle) ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herran Zebaotin sana tapahtui (minulle) ja sanoi:	</div>
 
-<div class="versenum">2.</div> Nain sanoo Herra Zebaot: mina olen Zionin tahden suuresti kiivannut, ja olen suuressa vihassa sentahden kiivannut.	
+<div class="theverse"><div class="versenum">2.</div> Nain sanoo Herra Zebaot: mina olen Zionin tahden suuresti kiivannut, ja olen suuressa vihassa sentahden kiivannut.	</div>
 
-<div class="versenum">3.</div> Nain sanoo Herra: mina kaannyn taas Zionin tyko, ja tahdon asua Jerusalemin keskella; niin etta Jerusalem pitaa totuuden kaupungiksi kutsuttaman, ja Herran Zebaotin vuori pyhyyden vuoreksi.	
+<div class="theverse"><div class="versenum">3.</div> Nain sanoo Herra: mina kaannyn taas Zionin tyko, ja tahdon asua Jerusalemin keskella; niin etta Jerusalem pitaa totuuden kaupungiksi kutsuttaman, ja Herran Zebaotin vuori pyhyyden vuoreksi.	</div>
 
-<div class="versenum">4.</div> Nain sanoo Herra Zebaot: viela nyt pitaa Jerusalemin kaduilla asuman vanhat miehet ja vaimot, jotka sauvan paalle nojaavat vanhuutensa tahden.	
+<div class="theverse"><div class="versenum">4.</div> Nain sanoo Herra Zebaot: viela nyt pitaa Jerusalemin kaduilla asuman vanhat miehet ja vaimot, jotka sauvan paalle nojaavat vanhuutensa tahden.	</div>
 
-<div class="versenum">5.</div> Ja kaupungin kadut pitaa oleman taynna pienia poikia ja piikaisia, jotka sen kaduilla leikitsevat.	
+<div class="theverse"><div class="versenum">5.</div> Ja kaupungin kadut pitaa oleman taynna pienia poikia ja piikaisia, jotka sen kaduilla leikitsevat.	</div>
 
-<div class="versenum">6.</div> Nain sanoo Herra Zebaot: jos tama on ihmeellinen taman jaaneen kansan silmain edessa, pitaisko se sentahden oleman ihmeellinen minun silmaini edessa? sanoo Herra Zebaot.	
+<div class="theverse"><div class="versenum">6.</div> Nain sanoo Herra Zebaot: jos tama on ihmeellinen taman jaaneen kansan silmain edessa, pitaisko se sentahden oleman ihmeellinen minun silmaini edessa? sanoo Herra Zebaot.	</div>
 
-<div class="versenum">7.</div> Nain sanoo Herra Zebaot: katso, mina tahdon lunastaa minun kansani itaiselta maalta ja lansimaalta.	
+<div class="theverse"><div class="versenum">7.</div> Nain sanoo Herra Zebaot: katso, mina tahdon lunastaa minun kansani itaiselta maalta ja lansimaalta.	</div>
 
-<div class="versenum">8.</div> Ja mina tahdon heita saattaa Jerusalemiin asumaan; ja heidan pitaa minun kansani oleman, ja mina tahdon olla heidan Jumalansa totuudessa ja vanhurskaudessa.	
+<div class="theverse"><div class="versenum">8.</div> Ja mina tahdon heita saattaa Jerusalemiin asumaan; ja heidan pitaa minun kansani oleman, ja mina tahdon olla heidan Jumalansa totuudessa ja vanhurskaudessa.	</div>
 
-<div class="versenum">9.</div> Nain sanoo Herra Zebaot: vahvistakaat katenne, te jotka talla ajalla namat sanat kuulette prophetain suun kautta, sina paivana, jona Herran Zebaotin huoneen perustus laskettiin, sen rakennettavaksi.	
+<div class="theverse"><div class="versenum">9.</div> Nain sanoo Herra Zebaot: vahvistakaat katenne, te jotka talla ajalla namat sanat kuulette prophetain suun kautta, sina paivana, jona Herran Zebaotin huoneen perustus laskettiin, sen rakennettavaksi.	</div>
 
-<div class="versenum">10.</div> Silla ennen naita paivia olivat ihmisten tyot turhat, ei juhtain tyo myos mitaan ollut; eika ollut niilla rauhaa vihollisilta, jotka menivat ulos ja sisalle; vaan mina sallin kaikki ihmiset menna, jokaisen lahimmaistansa vastaan.	
+<div class="theverse"><div class="versenum">10.</div> Silla ennen naita paivia olivat ihmisten tyot turhat, ei juhtain tyo myos mitaan ollut; eika ollut niilla rauhaa vihollisilta, jotka menivat ulos ja sisalle; vaan mina sallin kaikki ihmiset menna, jokaisen lahimmaistansa vastaan.	</div>
 
-<div class="versenum">11.</div> Mutta en mina niin tahdo nyt tehda talle jaaneelle kansalle, niinkuin entisina paivina, sanoo Herra Zebaot;	
+<div class="theverse"><div class="versenum">11.</div> Mutta en mina niin tahdo nyt tehda talle jaaneelle kansalle, niinkuin entisina paivina, sanoo Herra Zebaot;	</div>
 
-<div class="versenum">12.</div> Vaan heidan pitaa rauhan siemen oleman: viinapuu pitaa hedelmansa antaman, ja maa kasvunsa, taivas pitaa kasteensa antaman, ja jaaneet minun kansastani pitaa namat kaikki omistaman.	
+<div class="theverse"><div class="versenum">12.</div> Vaan heidan pitaa rauhan siemen oleman: viinapuu pitaa hedelmansa antaman, ja maa kasvunsa, taivas pitaa kasteensa antaman, ja jaaneet minun kansastani pitaa namat kaikki omistaman.	</div>
 
-<div class="versenum">13.</div> Ja pitaa tapahtuman, etta teita, jotka Juudan ja Israelin huoneesta olette olleet kirous pakanain seassa, tahdon mina lunastaa, etta teidan pitaa siunauksen oleman. Niin alkaat siis peljatko, mutta vahvistakaat katenne.	
+<div class="theverse"><div class="versenum">13.</div> Ja pitaa tapahtuman, etta teita, jotka Juudan ja Israelin huoneesta olette olleet kirous pakanain seassa, tahdon mina lunastaa, etta teidan pitaa siunauksen oleman. Niin alkaat siis peljatko, mutta vahvistakaat katenne.	</div>
 
-<div class="versenum">14.</div> Silla nain sanoo Herra Zebaot: niinkuin mina ajattelin teita kadottaa, kuin teidan isanne minun vihoittivat, sanoo Herra Zebaot, ja en sita katunut,	
+<div class="theverse"><div class="versenum">14.</div> Silla nain sanoo Herra Zebaot: niinkuin mina ajattelin teita kadottaa, kuin teidan isanne minun vihoittivat, sanoo Herra Zebaot, ja en sita katunut,	</div>
 
-<div class="versenum">15.</div> Niin mina nyt jalleen ajattelen naina paivina tehda hyvaa Jerusalemille ja Juudan huoneelle. Alkaat peljatko.	
+<div class="theverse"><div class="versenum">15.</div> Niin mina nyt jalleen ajattelen naina paivina tehda hyvaa Jerusalemille ja Juudan huoneelle. Alkaat peljatko.	</div>
 
-<div class="versenum">16.</div> Mutta tama on se, minka teidan tekeman pitaa: jokainen puhukaan totuutta lahimmaisensa kanssa; tuomitkaat oikein ja saattakaat rauha teidan portteihinne.	
+<div class="theverse"><div class="versenum">16.</div> Mutta tama on se, minka teidan tekeman pitaa: jokainen puhukaan totuutta lahimmaisensa kanssa; tuomitkaat oikein ja saattakaat rauha teidan portteihinne.	</div>
 
-<div class="versenum">17.</div> Ja alkaan kenkaan ajatelko pahaa sydamessansa, lahimmaistansa vastaan, ja alkaat rakastako vaaria valoja; silla naita kaikkia mina vihaan, sanoo Herra.	
+<div class="theverse"><div class="versenum">17.</div> Ja alkaan kenkaan ajatelko pahaa sydamessansa, lahimmaistansa vastaan, ja alkaat rakastako vaaria valoja; silla naita kaikkia mina vihaan, sanoo Herra.	</div>
 
-<div class="versenum">18.</div> Ja Herran Zebaotin sana tapahtui minulle ja sanoi:	
+<div class="theverse"><div class="versenum">18.</div> Ja Herran Zebaotin sana tapahtui minulle ja sanoi:	</div>
 
-<div class="versenum">19.</div> Nain sanoo Herra Zebaot: neljannen, viidennen, seitsemannen ja kymmenennen kuukauden paastot pitaa kaantyman Juudan huoneelle iloksi ja riemuksi ja ihanaiseksi vuoden juhlaksi. Rakastakaat ainoasti totuutta ja rauhaa.	
+<div class="theverse"><div class="versenum">19.</div> Nain sanoo Herra Zebaot: neljannen, viidennen, seitsemannen ja kymmenennen kuukauden paastot pitaa kaantyman Juudan huoneelle iloksi ja riemuksi ja ihanaiseksi vuoden juhlaksi. Rakastakaat ainoasti totuutta ja rauhaa.	</div>
 
-<div class="versenum">20.</div> Nain sanoo Herra Zebaot: tastedes pitaa viela paljo kansaa tuleman, ja monen kaupungin asuvaisia.	
+<div class="theverse"><div class="versenum">20.</div> Nain sanoo Herra Zebaot: tastedes pitaa viela paljo kansaa tuleman, ja monen kaupungin asuvaisia.	</div>
 
-<div class="versenum">21.</div> Ja yhden asuvaiset pitaa meneman toisen tyko ja sanoman; kaykaamme vilpittomasti rukoilemaan Herran kasvoin eteen, ja etsimaan Herraa Zebaotia; mina tahdon myos kayda teidan kanssanne.	
+<div class="theverse"><div class="versenum">21.</div> Ja yhden asuvaiset pitaa meneman toisen tyko ja sanoman; kaykaamme vilpittomasti rukoilemaan Herran kasvoin eteen, ja etsimaan Herraa Zebaotia; mina tahdon myos kayda teidan kanssanne.	</div>
 
-<div class="versenum">22.</div> Niin tulee paljo kansaa ja pakanat tulevat joukoin, etsimaan Herraa Zebaotia Jerusalemiin, ja rukoilemaan Herran kasvojen eteen.	
+<div class="theverse"><div class="versenum">22.</div> Niin tulee paljo kansaa ja pakanat tulevat joukoin, etsimaan Herraa Zebaotia Jerusalemiin, ja rukoilemaan Herran kasvojen eteen.	</div>
 
-<div class="versenum">23.</div> Nain sanoo Herra Zebaot: silla ajalla pitaa kymmenen miesta kaikkinaisista pakanain kielista todella tarttuman yhden Juudan miehen vaatteen palteesen, ja sanoman: me tahdomme kaydan teidan kanssanne; silla me kuulimme, etta Jumala on teidan kanssanne.	
+<div class="theverse"><div class="versenum">23.</div> Nain sanoo Herra Zebaot: silla ajalla pitaa kymmenen miesta kaikkinaisista pakanain kielista todella tarttuman yhden Juudan miehen vaatteen palteesen, ja sanoman: me tahdomme kaydan teidan kanssanne; silla me kuulimme, etta Jumala on teidan kanssanne.	</div>
 </body>
 </html>

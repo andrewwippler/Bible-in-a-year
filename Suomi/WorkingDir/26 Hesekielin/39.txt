@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">Hesekielin 39	</div>
 	
-<div class="versenum">1.</div> Ja sina, ihmisen poika, ennusta Gogia vastaan ja sano: nain sanoo Herra, Herra: katso, mina tulen sinun kimppuus, Gog, sina joka olet Mesekin ja Tubalin ylimmainen paamies;	
+<div class="theverse"><div class="versenum">1.</div> Ja sina, ihmisen poika, ennusta Gogia vastaan ja sano: nain sanoo Herra, Herra: katso, mina tulen sinun kimppuus, Gog, sina joka olet Mesekin ja Tubalin ylimmainen paamies;	</div>
 
-<div class="versenum">2.</div> Ja tahdon sinun palauttaa ja houkutella ulos , ja noudan sinun pohjan aarista, ja annan sinun tulla Israelin vuorille:	
+<div class="theverse"><div class="versenum">2.</div> Ja tahdon sinun palauttaa ja houkutella ulos , ja noudan sinun pohjan aarista, ja annan sinun tulla Israelin vuorille:	</div>
 
-<div class="versenum">3.</div> Ja lyon joutsen pois sinun vasemmasta kadestas ja heitan sinun nuoles oikiasta kadestas.	
+<div class="theverse"><div class="versenum">3.</div> Ja lyon joutsen pois sinun vasemmasta kadestas ja heitan sinun nuoles oikiasta kadestas.	</div>
 
-<div class="versenum">4.</div> Israelin vuorilla pitaa sinun kaatuman, kaiken sinun joukkos kanssa ja sen vaen kanssa, joka sinun tykonas on. Mina annan sinun linnuille, kusta ikana he lentavat, ja elaimille ruaksi.	
+<div class="theverse"><div class="versenum">4.</div> Israelin vuorilla pitaa sinun kaatuman, kaiken sinun joukkos kanssa ja sen vaen kanssa, joka sinun tykonas on. Mina annan sinun linnuille, kusta ikana he lentavat, ja elaimille ruaksi.	</div>
 
-<div class="versenum">5.</div> Sinun pitaa lankeeman kedolla; silla mina Herra, Herra olen sen sanonut.	
+<div class="theverse"><div class="versenum">5.</div> Sinun pitaa lankeeman kedolla; silla mina Herra, Herra olen sen sanonut.	</div>
 
-<div class="versenum">6.</div> Ja mina heitan tulen Magogin paalle ja niiden paalle, jotka luodoissa surutoinna asuvat; ja heidan pitaa ymmartaman minun olevan Herran.	
+<div class="theverse"><div class="versenum">6.</div> Ja mina heitan tulen Magogin paalle ja niiden paalle, jotka luodoissa surutoinna asuvat; ja heidan pitaa ymmartaman minun olevan Herran.	</div>
 
-<div class="versenum">7.</div> Ja mina tahdon tehda minun pyhan nimeni tiettavaksi minun kansani Israelin seassa, ja en tahdo enaan antaa minun pyhaa nimeani havaista; vaan pakanain pitaa ymmartaman minun olevan Herran Israelin pyhan.	
+<div class="theverse"><div class="versenum">7.</div> Ja mina tahdon tehda minun pyhan nimeni tiettavaksi minun kansani Israelin seassa, ja en tahdo enaan antaa minun pyhaa nimeani havaista; vaan pakanain pitaa ymmartaman minun olevan Herran Israelin pyhan.	</div>
 
-<div class="versenum">8.</div> Katso, jos se on parhaallaansa tullut ja tapahtunut, sanoo Herra, Herra: se on se paiva, josta mina olen puhunut.	
+<div class="theverse"><div class="versenum">8.</div> Katso, jos se on parhaallaansa tullut ja tapahtunut, sanoo Herra, Herra: se on se paiva, josta mina olen puhunut.	</div>
 
-<div class="versenum">9.</div> Ja Israelin kaupunkien asuvaisten pitaa lahteman ulos, ja tekeman valkian, ja polttaman sota-aseet, kaikellaiset kilvet, nuolet, seipaat ja kanget; jotka kestavat palaa seitseman ajastaikaa.	
+<div class="theverse"><div class="versenum">9.</div> Ja Israelin kaupunkien asuvaisten pitaa lahteman ulos, ja tekeman valkian, ja polttaman sota-aseet, kaikellaiset kilvet, nuolet, seipaat ja kanget; jotka kestavat palaa seitseman ajastaikaa.	</div>
 
-<div class="versenum">10.</div> Niin ettei tarvita hakea puita kedolta, eli pida metsasta hakattaman; silla he polttavat sota-aseita; ja pitaa ryostaman niita, joilta he ovat ryostetyt, ja raateleman niita, joilta he olivat raadellut, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">10.</div> Niin ettei tarvita hakea puita kedolta, eli pida metsasta hakattaman; silla he polttavat sota-aseita; ja pitaa ryostaman niita, joilta he ovat ryostetyt, ja raateleman niita, joilta he olivat raadellut, sanoo Herra, Herra.	</div>
 
-<div class="versenum">11.</div> Ja sen pitaa silloin tapahtuman, etta mina annan Gogille paikan hautaamiseksi Israelissa, sen laakson, josta meren tyko itaan pain mennaan, niin etta ne, jotka siita menevat ohitse, pitaa sieramensa tukitseman; ja heidan pitaa Gogin joukkoinensa siihen hautaaman, ja se pitaa kutsuttaman Gogin joukon laaksoksi.	
+<div class="theverse"><div class="versenum">11.</div> Ja sen pitaa silloin tapahtuman, etta mina annan Gogille paikan hautaamiseksi Israelissa, sen laakson, josta meren tyko itaan pain mennaan, niin etta ne, jotka siita menevat ohitse, pitaa sieramensa tukitseman; ja heidan pitaa Gogin joukkoinensa siihen hautaaman, ja se pitaa kutsuttaman Gogin joukon laaksoksi.	</div>
 
-<div class="versenum">12.</div> Mutta Israelin huoneen pitaa heita hautaaman, etta maa sen kautta pitaa puhdistettaman koko seitseman kuukautta.	
+<div class="theverse"><div class="versenum">12.</div> Mutta Israelin huoneen pitaa heita hautaaman, etta maa sen kautta pitaa puhdistettaman koko seitseman kuukautta.	</div>
 
-<div class="versenum">13.</div> Ja kaikella maakunnan kansalla pitaa tekemista oleman heidan hautaamisessansa, ja pitaa saaman siita kuuluisan nimen; etta mina sina paivana kunnoitetuksi tulen, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">13.</div> Ja kaikella maakunnan kansalla pitaa tekemista oleman heidan hautaamisessansa, ja pitaa saaman siita kuuluisan nimen; etta mina sina paivana kunnoitetuksi tulen, sanoo Herra, Herra.	</div>
 
-<div class="versenum">14.</div> Ja heidan pitaa asettaman miehia kaymaan joka paiva maata ympari, ja heidan kanssansa kuolleiden hautain kaivajat, hautaaman jaaneita maan paalla, etta se puhdistettaisiin; seitseman kuukauden perasta pitaa heidan rupeeman sita tutkistelemaan.	
+<div class="theverse"><div class="versenum">14.</div> Ja heidan pitaa asettaman miehia kaymaan joka paiva maata ympari, ja heidan kanssansa kuolleiden hautain kaivajat, hautaaman jaaneita maan paalla, etta se puhdistettaisiin; seitseman kuukauden perasta pitaa heidan rupeeman sita tutkistelemaan.	</div>
 
-<div class="versenum">15.</div> Ja ne, jotka maata kayvat ympari ja jossakussa paikassa ihmisen luut nakevat, heidan pitaa siihen merkin paneman; siihenasti kuin haudankaivajat ne myos Gogin joukon laaksoon hautaavat.	
+<div class="theverse"><div class="versenum">15.</div> Ja ne, jotka maata kayvat ympari ja jossakussa paikassa ihmisen luut nakevat, heidan pitaa siihen merkin paneman; siihenasti kuin haudankaivajat ne myos Gogin joukon laaksoon hautaavat.	</div>
 
-<div class="versenum">16.</div> Kaupunki myos pitaa siella kutsuttaman Hamonaksi: niin pitaa heidan maan perkaaman.	
+<div class="theverse"><div class="versenum">16.</div> Kaupunki myos pitaa siella kutsuttaman Hamonaksi: niin pitaa heidan maan perkaaman.	</div>
 
-<div class="versenum">17.</div> Nyt sina ihmisen poika, nain sanoo Herra, Herra: sano kaikille linnuille, kusta ikana he lentavat, ja kaikille elaimille kedolla: kokoontukaat ja tulkaat tanne, tulkaat kokoon joka paikasta ymparilta minun teurasuhrilleni, jonka mina teille teurastan suureksi teurasuhriksi Israelin vuorilla, ja syokaat lihaa, ja juokaat verta.	
+<div class="theverse"><div class="versenum">17.</div> Nyt sina ihmisen poika, nain sanoo Herra, Herra: sano kaikille linnuille, kusta ikana he lentavat, ja kaikille elaimille kedolla: kokoontukaat ja tulkaat tanne, tulkaat kokoon joka paikasta ymparilta minun teurasuhrilleni, jonka mina teille teurastan suureksi teurasuhriksi Israelin vuorilla, ja syokaat lihaa, ja juokaat verta.	</div>
 
-<div class="versenum">18.</div> Teidan pitaa syoman vakevain lihaa, ja juoman maan paamiesten verta; oinaisten, karitsain, kauristen, harkain, jotka kaikki lihavat ja hyvin syotetyt ovat.	
+<div class="theverse"><div class="versenum">18.</div> Teidan pitaa syoman vakevain lihaa, ja juoman maan paamiesten verta; oinaisten, karitsain, kauristen, harkain, jotka kaikki lihavat ja hyvin syotetyt ovat.	</div>
 
-<div class="versenum">19.</div> Ja teidan pitaa syoman lihavuutta, niin etta te ravituksi tulette, ja juoman verta, niin etta te juovuksiin tulette, siita teurasuhrista, jonka mina teille teurastan.	
+<div class="theverse"><div class="versenum">19.</div> Ja teidan pitaa syoman lihavuutta, niin etta te ravituksi tulette, ja juoman verta, niin etta te juovuksiin tulette, siita teurasuhrista, jonka mina teille teurastan.	</div>
 
-<div class="versenum">20.</div> Ravitkaat teitanne minun poydallani hevosista ja ratsastajista, vakevista ja kaikkinaisesta sotavaesta, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">20.</div> Ravitkaat teitanne minun poydallani hevosista ja ratsastajista, vakevista ja kaikkinaisesta sotavaesta, sanoo Herra, Herra.	</div>
 
-<div class="versenum">21.</div> Ja mina annan minun kunniani tulla pakanain sekaan, niin etta kaikki pakanat pitaa nakeman minun tuomioni, jonka mina olen tehnyt, ja minun kateni, jonka mina olen pannut heidan paallensa.	
+<div class="theverse"><div class="versenum">21.</div> Ja mina annan minun kunniani tulla pakanain sekaan, niin etta kaikki pakanat pitaa nakeman minun tuomioni, jonka mina olen tehnyt, ja minun kateni, jonka mina olen pannut heidan paallensa.	</div>
 
-<div class="versenum">22.</div> Ja Israelin huoneen pitaa ymmartaman, etta mina Herra olen heidan Jumalansa, siita paivasta ja aina edemma.	
+<div class="theverse"><div class="versenum">22.</div> Ja Israelin huoneen pitaa ymmartaman, etta mina Herra olen heidan Jumalansa, siita paivasta ja aina edemma.	</div>
 
-<div class="versenum">23.</div> Niin myos kaikkein pakanain pitaa ymmartaman Israelin huoneen pahain tekoinsa tahden viedyksi pois, sentahden etta he minua vastaan rikkoneet ovat; ja mina peitin kasvoni heidan edestansa, ja annoin heita vihollistensa kasiin, niin etta heidan kaikkein piti miekan kautta lankeeman.	
+<div class="theverse"><div class="versenum">23.</div> Niin myos kaikkein pakanain pitaa ymmartaman Israelin huoneen pahain tekoinsa tahden viedyksi pois, sentahden etta he minua vastaan rikkoneet ovat; ja mina peitin kasvoni heidan edestansa, ja annoin heita vihollistensa kasiin, niin etta heidan kaikkein piti miekan kautta lankeeman.	</div>
 
-<div class="versenum">24.</div> Niinkuin heidan saastaisuutensa ja pahat tekonsa ansainneet olivat, tein mina heille, ja peitin minun kasvoni heidan edestansa.	
+<div class="theverse"><div class="versenum">24.</div> Niinkuin heidan saastaisuutensa ja pahat tekonsa ansainneet olivat, tein mina heille, ja peitin minun kasvoni heidan edestansa.	</div>
 
-<div class="versenum">25.</div> Sentahden nain sanoo Herra, Herra: nyt mina tahdon pelastaa Jakobin vangit, ja armahtaa koko Israelin huonetta, ja kiivoitella minun pyhan nimeni tahden.	
+<div class="theverse"><div class="versenum">25.</div> Sentahden nain sanoo Herra, Herra: nyt mina tahdon pelastaa Jakobin vangit, ja armahtaa koko Israelin huonetta, ja kiivoitella minun pyhan nimeni tahden.	</div>
 
-<div class="versenum">26.</div> Mutta heidan pitaa kantaman havaistyksensa ja rikoksensa, joilla he ovat rikkoneet minua vastaan, koska he surutoinna maallansa asuvat, niin ettei kenkaan heita peljata.	
+<div class="theverse"><div class="versenum">26.</div> Mutta heidan pitaa kantaman havaistyksensa ja rikoksensa, joilla he ovat rikkoneet minua vastaan, koska he surutoinna maallansa asuvat, niin ettei kenkaan heita peljata.	</div>
 
-<div class="versenum">27.</div> Ja mina olen heidat kansoista jalleen kotia tuonut, ja koonnut heita vihollistensa maalta, ja olen heissa pyhitetyksi tullut monien pakanain silmain edessa.	
+<div class="theverse"><div class="versenum">27.</div> Ja mina olen heidat kansoista jalleen kotia tuonut, ja koonnut heita vihollistensa maalta, ja olen heissa pyhitetyksi tullut monien pakanain silmain edessa.	</div>
 
-<div class="versenum">28.</div> Ja niin pitaa heidan ymmartaman, etta mina Herra olen heidan Jumalansa, joka olen antanut vieda heita pois pakanain sekaan, ja antanut taas koota heita maallensa, ja en antanut yhtakaan heista sinne jaada.	
+<div class="theverse"><div class="versenum">28.</div> Ja niin pitaa heidan ymmartaman, etta mina Herra olen heidan Jumalansa, joka olen antanut vieda heita pois pakanain sekaan, ja antanut taas koota heita maallensa, ja en antanut yhtakaan heista sinne jaada.	</div>
 
-<div class="versenum">29.</div> Ja en mina enaan tahdo peittaa minun kasvojani heidan edestansa; silla mina olen vuodattanut minun henkeni Israelin huoneen paalle, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">29.</div> Ja en mina enaan tahdo peittaa minun kasvojani heidan edestansa; silla mina olen vuodattanut minun henkeni Israelin huoneen paalle, sanoo Herra, Herra.	</div>
 </body>
 </html>

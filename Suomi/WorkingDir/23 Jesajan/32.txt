@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Jesajan 32	</div>
 	
-<div class="versenum">1.</div> Katso, kuningas on hallitseva oikeudella; ja paaruhtinaat vallitsevat, oikeutta pitamaan voimassa.	
+<div class="theverse"><div class="versenum">1.</div> Katso, kuningas on hallitseva oikeudella; ja paaruhtinaat vallitsevat, oikeutta pitamaan voimassa.	</div>
 
-<div class="versenum">2.</div> Etta jokainen on niinkuin joku, joka tuulelta varjeltu on, ja niinkuin joku, joka sadekuurolta on peitetty, niinkuin vesi-ojat kuivassa paikassa, niinkuin suuren vuoren varjo kuivassa maassa.	
+<div class="theverse"><div class="versenum">2.</div> Etta jokainen on niinkuin joku, joka tuulelta varjeltu on, ja niinkuin joku, joka sadekuurolta on peitetty, niinkuin vesi-ojat kuivassa paikassa, niinkuin suuren vuoren varjo kuivassa maassa.	</div>
 
-<div class="versenum">3.</div> Ja nakevaiset silmat ei pida pimeneman; ja kuulevaisten korvat pitaa visun vaarin ottaman.	
+<div class="theverse"><div class="versenum">3.</div> Ja nakevaiset silmat ei pida pimeneman; ja kuulevaisten korvat pitaa visun vaarin ottaman.	</div>
 
-<div class="versenum">4.</div> Ja hulluin pitaa oppiman taitoa, ja sopera kieli pitaa selkeaksi tuleman ja selkeasti puhuman.	
+<div class="theverse"><div class="versenum">4.</div> Ja hulluin pitaa oppiman taitoa, ja sopera kieli pitaa selkeaksi tuleman ja selkeasti puhuman.	</div>
 
-<div class="versenum">5.</div> Ei hullua pida enaa paaruhtinaaksi kutsuttaman, eika ahnetta herraksi.	
+<div class="theverse"><div class="versenum">5.</div> Ei hullua pida enaa paaruhtinaaksi kutsuttaman, eika ahnetta herraksi.	</div>
 
-<div class="versenum">6.</div> Silla tyhma puhuu tyhmyydessa, ja hanen sydamensa on pahuudesssa; etta han olis ulkokullaisuudessa; ja saarnais Herrasta vaarin, etta han silla isoovaiset sielut nalkaan naannyttais, ja kieltais janoovaisilta juoman.	
+<div class="theverse"><div class="versenum">6.</div> Silla tyhma puhuu tyhmyydessa, ja hanen sydamensa on pahuudesssa; etta han olis ulkokullaisuudessa; ja saarnais Herrasta vaarin, etta han silla isoovaiset sielut nalkaan naannyttais, ja kieltais janoovaisilta juoman.	</div>
 
-<div class="versenum">7.</div> Silla ahneen hallitus ei ole muu kuin vahinko; silla han loytaa kavaluuden havittaaksensa raadollisia vaarilla sanoilla, silloinkin kun koyha oikeuttansa puhuu.	
+<div class="theverse"><div class="versenum">7.</div> Silla ahneen hallitus ei ole muu kuin vahinko; silla han loytaa kavaluuden havittaaksensa raadollisia vaarilla sanoilla, silloinkin kun koyha oikeuttansa puhuu.	</div>
 
-<div class="versenum">8.</div> Mutta toimellinen paamies pitaa toimellisia neuvoja; ja toimellisissa menoissa han vahvana pysyy.	
+<div class="theverse"><div class="versenum">8.</div> Mutta toimellinen paamies pitaa toimellisia neuvoja; ja toimellisissa menoissa han vahvana pysyy.	</div>
 
-<div class="versenum">9.</div> Nouskaat, te suruttomat vaimot, kuulkaat minun aantani; te rohkiat tyttaret, ottakaat korviinne minun puheeni.	
+<div class="theverse"><div class="versenum">9.</div> Nouskaat, te suruttomat vaimot, kuulkaat minun aantani; te rohkiat tyttaret, ottakaat korviinne minun puheeni.	</div>
 
-<div class="versenum">10.</div> Ajastajan ja paivan perasta pitaa teidan vapiseman, jotka niin rohkiat olette; silla ei tule yhtaan viinan eloa, eika tule yhtaan kokoomusta.	
+<div class="theverse"><div class="versenum">10.</div> Ajastajan ja paivan perasta pitaa teidan vapiseman, jotka niin rohkiat olette; silla ei tule yhtaan viinan eloa, eika tule yhtaan kokoomusta.	</div>
 
-<div class="versenum">11.</div> Peljastykaat, te suruttomat vaimot, vaviskaat, te rohkiat; te riisutaan, paljastetaan ja kupeista vyotetaan.	
+<div class="theverse"><div class="versenum">11.</div> Peljastykaat, te suruttomat vaimot, vaviskaat, te rohkiat; te riisutaan, paljastetaan ja kupeista vyotetaan.	</div>
 
-<div class="versenum">12.</div> Rinnoille lyodaan valittaen ihanaisista pelloista ja hedelmallisista viinapuista.	
+<div class="theverse"><div class="versenum">12.</div> Rinnoille lyodaan valittaen ihanaisista pelloista ja hedelmallisista viinapuista.	</div>
 
-<div class="versenum">13.</div> Silla minun kansani pellossa pitaa orjantappurat ja ohdakkeet kasvaman; niin myos kaikissa ilohuoneissa, iloisessa kaupungissa.	
+<div class="theverse"><div class="versenum">13.</div> Silla minun kansani pellossa pitaa orjantappurat ja ohdakkeet kasvaman; niin myos kaikissa ilohuoneissa, iloisessa kaupungissa.	</div>
 
-<div class="versenum">14.</div> Silla salit pitaa hyljattaman, ja kansan paljous kaupungissa pitaa vaheneman; niin etta tornit ja linnat pitaa tuleman ijankaikkiseksi luolaksi, ja metsan pedoille iloksi, ja laumoille laitumeksi;	
+<div class="theverse"><div class="versenum">14.</div> Silla salit pitaa hyljattaman, ja kansan paljous kaupungissa pitaa vaheneman; niin etta tornit ja linnat pitaa tuleman ijankaikkiseksi luolaksi, ja metsan pedoille iloksi, ja laumoille laitumeksi;	</div>
 
-<div class="versenum">15.</div> Siihenasti etta Henki korkeudesta vuodatetaan meidan paallemme: silloin tulee korpi peltomaaksi, ja peltomaa luetaan metsaksi.	
+<div class="theverse"><div class="versenum">15.</div> Siihenasti etta Henki korkeudesta vuodatetaan meidan paallemme: silloin tulee korpi peltomaaksi, ja peltomaa luetaan metsaksi.	</div>
 
-<div class="versenum">16.</div> Ja oikeus asuu korvessa, ja vanhurskaus peltomaassas;	
+<div class="theverse"><div class="versenum">16.</div> Ja oikeus asuu korvessa, ja vanhurskaus peltomaassas;	</div>
 
-<div class="versenum">17.</div> Ja vanhurskauden tyo on rauha, ja vanhurskauden hyodytys ijankaikkinen hiljaisuus ja lepo.	
+<div class="theverse"><div class="versenum">17.</div> Ja vanhurskauden tyo on rauha, ja vanhurskauden hyodytys ijankaikkinen hiljaisuus ja lepo.	</div>
 
-<div class="versenum">18.</div> Niin etta minun kansani on asuva rauhan huoneessa, turvallisissa majoissa ja jalossa levossa.	
+<div class="theverse"><div class="versenum">18.</div> Niin etta minun kansani on asuva rauhan huoneessa, turvallisissa majoissa ja jalossa levossa.	</div>
 
-<div class="versenum">19.</div> Mutta rakeet pitaa oleman alhaalla metsissa; ja kaupungin pitaa alhaalla mataloissa paikoissa oleman.	
+<div class="theverse"><div class="versenum">19.</div> Mutta rakeet pitaa oleman alhaalla metsissa; ja kaupungin pitaa alhaalla mataloissa paikoissa oleman.	</div>
 
-<div class="versenum">20.</div> Hyvin teidan menestyy, jotka kylvatte joka paikassa vetten tyko; ja annatte harkain ja aasein kayda jaloillansa niiden paalla.	
+<div class="theverse"><div class="versenum">20.</div> Hyvin teidan menestyy, jotka kylvatte joka paikassa vetten tyko; ja annatte harkain ja aasein kayda jaloillansa niiden paalla.	</div>
 </body>
 </html>

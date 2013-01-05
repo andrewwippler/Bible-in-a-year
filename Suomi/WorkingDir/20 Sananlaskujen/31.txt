@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 31	</div>
 	
-<div class="versenum">1.</div> Kuningas Lemuelin sanat: oppi, jonka hanen aitinsa hanelle opetti:	
+<div class="theverse"><div class="versenum">1.</div> Kuningas Lemuelin sanat: oppi, jonka hanen aitinsa hanelle opetti:	</div>
 
-<div class="versenum">2.</div> Ah minun poikani, ah minun kohtuni poika, ah minun toivottu poikani!	
+<div class="theverse"><div class="versenum">2.</div> Ah minun poikani, ah minun kohtuni poika, ah minun toivottu poikani!	</div>
 
-<div class="versenum">3.</div> Ala anna vaimon saada tavaraas, ja ala kay niilla retkilla, joissa kuninkaat turmeltuvat.	
+<div class="theverse"><div class="versenum">3.</div> Ala anna vaimon saada tavaraas, ja ala kay niilla retkilla, joissa kuninkaat turmeltuvat.	</div>
 
-<div class="versenum">4.</div> Ei kuningasten, o Lemuel, ei sovi kuningasten viinaa juoda, eli ruhtinasten vakevia juotavia,	
+<div class="theverse"><div class="versenum">4.</div> Ei kuningasten, o Lemuel, ei sovi kuningasten viinaa juoda, eli ruhtinasten vakevia juotavia,	</div>
 
-<div class="versenum">5.</div> Ettei he joisi, ja oikeutta unohtaisi, ja vaantelisi koyhain asiaa.	
+<div class="theverse"><div class="versenum">5.</div> Ettei he joisi, ja oikeutta unohtaisi, ja vaantelisi koyhain asiaa.	</div>
 
-<div class="versenum">6.</div> Antakaat vakevia juotavia niille, jotka hukkumallnsa ovat, ja viinaa murheellisille sieluille,	
+<div class="theverse"><div class="versenum">6.</div> Antakaat vakevia juotavia niille, jotka hukkumallnsa ovat, ja viinaa murheellisille sieluille,	</div>
 
-<div class="versenum">7.</div> Etta he joisivat, ja unohtaisivat ahdistuksensa, ja ei enaa johdattaisi mieleensa viheliaisyyttansa.	
+<div class="theverse"><div class="versenum">7.</div> Etta he joisivat, ja unohtaisivat ahdistuksensa, ja ei enaa johdattaisi mieleensa viheliaisyyttansa.	</div>
 
-<div class="versenum">8.</div> Avaa suus mykan edessa, ja auta hyljattyin asiaa.	
+<div class="theverse"><div class="versenum">8.</div> Avaa suus mykan edessa, ja auta hyljattyin asiaa.	</div>
 
-<div class="versenum">9.</div> Avaa suus, ja tuomitse oikein, ja pelasta vaivainen ja koyha.	
+<div class="theverse"><div class="versenum">9.</div> Avaa suus, ja tuomitse oikein, ja pelasta vaivainen ja koyha.	</div>
 
-<div class="versenum">10.</div> Joka toimellisen vaimon loytaa, se on kalliimpi kuin kaikkein kallimmat paarlyt:	
+<div class="theverse"><div class="versenum">10.</div> Joka toimellisen vaimon loytaa, se on kalliimpi kuin kaikkein kallimmat paarlyt:	</div>
 
-<div class="versenum">11.</div> Hanen miehensa sydan uskaltaa haneen: hanen elatuksensa ei puutu hanelta.	
+<div class="theverse"><div class="versenum">11.</div> Hanen miehensa sydan uskaltaa haneen: hanen elatuksensa ei puutu hanelta.	</div>
 
-<div class="versenum">12.</div> Han tekee hanelle hyvaa ja ei pahaa kaikkena elinaikanansa.	
+<div class="theverse"><div class="versenum">12.</div> Han tekee hanelle hyvaa ja ei pahaa kaikkena elinaikanansa.	</div>
 
-<div class="versenum">13.</div> Han harjoittaa itsensa villoissa ja pellavissa, ja tekee mielellansa tyota kasillansa.	
+<div class="theverse"><div class="versenum">13.</div> Han harjoittaa itsensa villoissa ja pellavissa, ja tekee mielellansa tyota kasillansa.	</div>
 
-<div class="versenum">14.</div> Han on niinkuin kauppamiehen haaksi, joka elatuksensa tuo kaukaa.	
+<div class="theverse"><div class="versenum">14.</div> Han on niinkuin kauppamiehen haaksi, joka elatuksensa tuo kaukaa.	</div>
 
-<div class="versenum">15.</div> Han nousee yolla, ja antaa perheellensa ruokaa, ja piioillensa heidan osansa.	
+<div class="theverse"><div class="versenum">15.</div> Han nousee yolla, ja antaa perheellensa ruokaa, ja piioillensa heidan osansa.	</div>
 
-<div class="versenum">16.</div> Han pyytaa peltoa ja saa sen, ja istutaa viinapuita kattensa hedelmasta.	
+<div class="theverse"><div class="versenum">16.</div> Han pyytaa peltoa ja saa sen, ja istutaa viinapuita kattensa hedelmasta.	</div>
 
-<div class="versenum">17.</div> Han vyottaa kupeensa vakevydella, ja vahvistaa kasivartensa.	
+<div class="theverse"><div class="versenum">17.</div> Han vyottaa kupeensa vakevydella, ja vahvistaa kasivartensa.	</div>
 
-<div class="versenum">18.</div> Han nakee askareensa hyodylliseksi: hanen kynttilaansa ei sammuteta yolla.	
+<div class="theverse"><div class="versenum">18.</div> Han nakee askareensa hyodylliseksi: hanen kynttilaansa ei sammuteta yolla.	</div>
 
-<div class="versenum">19.</div> Han ojentaa katensa rukkiin, ja tarttuu sormillansa kehravarteen.	
+<div class="theverse"><div class="versenum">19.</div> Han ojentaa katensa rukkiin, ja tarttuu sormillansa kehravarteen.	</div>
 
-<div class="versenum">20.</div> Han kohottaa katensa koyhille, ja ojentaa katensa tarvitseville.	
+<div class="theverse"><div class="versenum">20.</div> Han kohottaa katensa koyhille, ja ojentaa katensa tarvitseville.	</div>
 
-<div class="versenum">21.</div> Ei han pelkaa lunta huoneessansa; silla kaikella hanen perheellansa ovat kaksinkertaiset vaatteet.	
+<div class="theverse"><div class="versenum">21.</div> Ei han pelkaa lunta huoneessansa; silla kaikella hanen perheellansa ovat kaksinkertaiset vaatteet.	</div>
 
-<div class="versenum">22.</div> Han tekee itsellensa makausvaatteita: valkia kallis liina ja purppura ovat hanen pukunsa.	
+<div class="theverse"><div class="versenum">22.</div> Han tekee itsellensa makausvaatteita: valkia kallis liina ja purppura ovat hanen pukunsa.	</div>
 
-<div class="versenum">23.</div> Hanen miehensa on tuttu porteissa, istuissansa maan vanhimpain tykona.	
+<div class="theverse"><div class="versenum">23.</div> Hanen miehensa on tuttu porteissa, istuissansa maan vanhimpain tykona.	</div>
 
-<div class="versenum">24.</div> Han tekee kallista liinaa ja myy sita, ja antaa vyon kauppaajalle.	
+<div class="theverse"><div class="versenum">24.</div> Han tekee kallista liinaa ja myy sita, ja antaa vyon kauppaajalle.	</div>
 
-<div class="versenum">25.</div> Vakevyys ja kunnia on hanen pukunsa, ja han nauraa seuraavaiselle ajalle.	
+<div class="theverse"><div class="versenum">25.</div> Vakevyys ja kunnia on hanen pukunsa, ja han nauraa seuraavaiselle ajalle.	</div>
 
-<div class="versenum">26.</div> Han avaa suunsa viisaudessa, ja hanen kielensa on suloinen oppi.	
+<div class="theverse"><div class="versenum">26.</div> Han avaa suunsa viisaudessa, ja hanen kielensa on suloinen oppi.	</div>
 
-<div class="versenum">27.</div> Han katselee kurkistellen, kuinka hanen huoneessansa kaikki asiat ovat, ja ei syo laiskuudessa leipaansa.	
+<div class="theverse"><div class="versenum">27.</div> Han katselee kurkistellen, kuinka hanen huoneessansa kaikki asiat ovat, ja ei syo laiskuudessa leipaansa.	</div>
 
-<div class="versenum">28.</div> Hanen poikansa tulevat ja ylistavat hanta autuaaksi: hanen miehensa kiittaa hanta sanoen:	
+<div class="theverse"><div class="versenum">28.</div> Hanen poikansa tulevat ja ylistavat hanta autuaaksi: hanen miehensa kiittaa hanta sanoen:	</div>
 
-<div class="versenum">29.</div> Moni tytar kayttaa itsensa kauniisti; mutta sina kayt ylitse heidan kaikkein.	
+<div class="theverse"><div class="versenum">29.</div> Moni tytar kayttaa itsensa kauniisti; mutta sina kayt ylitse heidan kaikkein.	</div>
 
-<div class="versenum">30.</div> Otollinen olla on petollisuus, ihana olla on turha; vaan vaimo, joka Herraa pelkaa, ylistetaan.	
+<div class="theverse"><div class="versenum">30.</div> Otollinen olla on petollisuus, ihana olla on turha; vaan vaimo, joka Herraa pelkaa, ylistetaan.	</div>
 
-<div class="versenum">31.</div> Antakaat hanelle kattensa hedelmasta, ja hanen kattensa tyot kiittakaan hanta porteissa.	
+<div class="theverse"><div class="versenum">31.</div> Antakaat hanelle kattensa hedelmasta, ja hanen kattensa tyot kiittakaan hanta porteissa.	</div>
 </body>
 </html>

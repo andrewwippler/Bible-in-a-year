@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">Jeremian 8	</div>
 	
-<div class="versenum">1.</div> Siihen aikaan, sanoo Herra, pitaa Juudan kuningasten luut, ja hanen paamiestensa luut, pappein luut, ja prophetain luut, ja Jerusalemissa asuvaisten luut, heitettaman ulos heidan haudoistansa	
+<div class="theverse"><div class="versenum">1.</div> Siihen aikaan, sanoo Herra, pitaa Juudan kuningasten luut, ja hanen paamiestensa luut, pappein luut, ja prophetain luut, ja Jerusalemissa asuvaisten luut, heitettaman ulos heidan haudoistansa	</div>
 
-<div class="versenum">2.</div> Ja ne pitaa hajoitettaman auringon, kuun ja kaiken taivaan sotajoukon alle, joita he rakastaneet, palvelleet, seuranneet, etsineet ja rukoilleet ovat; ei he pida enaan koottaman eika haudattaman, vaan pitaa oleman lokana maassa.	
+<div class="theverse"><div class="versenum">2.</div> Ja ne pitaa hajoitettaman auringon, kuun ja kaiken taivaan sotajoukon alle, joita he rakastaneet, palvelleet, seuranneet, etsineet ja rukoilleet ovat; ei he pida enaan koottaman eika haudattaman, vaan pitaa oleman lokana maassa.	</div>
 
-<div class="versenum">3.</div> Ja kaikki jaaneet tasta pahasta kansasta, missa ikana paikassa he ovat, johon mina heita ajanut olen, pitaa paremmin tahtoman olla kuolleina kuin elavina, sanoo Herra Zebaot.	
+<div class="theverse"><div class="versenum">3.</div> Ja kaikki jaaneet tasta pahasta kansasta, missa ikana paikassa he ovat, johon mina heita ajanut olen, pitaa paremmin tahtoman olla kuolleina kuin elavina, sanoo Herra Zebaot.	</div>
 
-<div class="versenum">4.</div> Ja sinun pitaa heille sanoman: nain sanoo Herra: kussa on joku, jos han lankee, joka ei jalleen mielellansa nouse? kussa on joku, joka kay eksyksissa, eiko han mielellansa jalleen oikialle tielle tule?	
+<div class="theverse"><div class="versenum">4.</div> Ja sinun pitaa heille sanoman: nain sanoo Herra: kussa on joku, jos han lankee, joka ei jalleen mielellansa nouse? kussa on joku, joka kay eksyksissa, eiko han mielellansa jalleen oikialle tielle tule?	</div>
 
-<div class="versenum">5.</div> Miksi siis tama Jerusalemin kansa tahtoo kayda eksyksissa palajamatta? ja riippuvat niin kovin valheessa, ettei he millaan tavalla anna kaantaa itseansa pois?	
+<div class="theverse"><div class="versenum">5.</div> Miksi siis tama Jerusalemin kansa tahtoo kayda eksyksissa palajamatta? ja riippuvat niin kovin valheessa, ettei he millaan tavalla anna kaantaa itseansa pois?	</div>
 
-<div class="versenum">6.</div> Mina havaitsen ja kuulen, ettei he oikein opeta; ei ole yhtaan, joka katuu pahuuttansa ja sanoo: mita mina tein? He juoksevat kaikki juoksuansa niinkuin ankara hevonen sodassa.	
+<div class="theverse"><div class="versenum">6.</div> Mina havaitsen ja kuulen, ettei he oikein opeta; ei ole yhtaan, joka katuu pahuuttansa ja sanoo: mita mina tein? He juoksevat kaikki juoksuansa niinkuin ankara hevonen sodassa.	</div>
 
-<div class="versenum">7.</div> Haikara taivaan alla tietaa aikansa, mettinen, kurki ja paaskynen huomaitsevat aikansa, kuin heidan pitaa tuleman jalleen; vaan minun kansani ei tieda Herran oikeutta.	
+<div class="theverse"><div class="versenum">7.</div> Haikara taivaan alla tietaa aikansa, mettinen, kurki ja paaskynen huomaitsevat aikansa, kuin heidan pitaa tuleman jalleen; vaan minun kansani ei tieda Herran oikeutta.	</div>
 
-<div class="versenum">8.</div> Kuinka te siis taidatte sanoa: me olemme viisaat, ja meilla on Herran laki? Katso, se on totisesti kuitenkin valhe, mita kirjanoppineet kirjoittavat.	
+<div class="theverse"><div class="versenum">8.</div> Kuinka te siis taidatte sanoa: me olemme viisaat, ja meilla on Herran laki? Katso, se on totisesti kuitenkin valhe, mita kirjanoppineet kirjoittavat.	</div>
 
-<div class="versenum">9.</div> Sentahden pitaa senkaltaiset opettajat havaistaman, peljatettaman ja otettaman kiinni: katso, he ovat hyljanneet Herran sanan, mita viisautta pitais heilla oleman?	
+<div class="theverse"><div class="versenum">9.</div> Sentahden pitaa senkaltaiset opettajat havaistaman, peljatettaman ja otettaman kiinni: katso, he ovat hyljanneet Herran sanan, mita viisautta pitais heilla oleman?	</div>
 
-<div class="versenum">10.</div> Sentahden annan mina heidan emantansa muukalaisille ja heidan peltonsa niille, jotka heita karkoittavat; silla he ovat kaikki ahneudelta voitetut, pienimmasta niin suurimpaan, papit ja prophetat opettavat kaikki valhetta.	
+<div class="theverse"><div class="versenum">10.</div> Sentahden annan mina heidan emantansa muukalaisille ja heidan peltonsa niille, jotka heita karkoittavat; silla he ovat kaikki ahneudelta voitetut, pienimmasta niin suurimpaan, papit ja prophetat opettavat kaikki valhetta.	</div>
 
-<div class="versenum">11.</div> Ja rohkaisevat minun kansani tytarta onnettomuudessansa, sita turhana pitamaan, ja sanovat: rauha, rauha, ja rauhaa ei olekaan.	
+<div class="theverse"><div class="versenum">11.</div> Ja rohkaisevat minun kansani tytarta onnettomuudessansa, sita turhana pitamaan, ja sanovat: rauha, rauha, ja rauhaa ei olekaan.	</div>
 
-<div class="versenum">12.</div> Sentahden pitaa heidan hapiaan tuleman, etta he kauhistuksen tekevat; ja vaikka he tahtovat ilman havaistysta olla, eika taida haveta, kuitenkin pitaa heidan lankeeman toinen toisensa paalle, ja kuin mina heita kuritan, silloin pitaa heidan lankeeman, sanoo Herra.	
+<div class="theverse"><div class="versenum">12.</div> Sentahden pitaa heidan hapiaan tuleman, etta he kauhistuksen tekevat; ja vaikka he tahtovat ilman havaistysta olla, eika taida haveta, kuitenkin pitaa heidan lankeeman toinen toisensa paalle, ja kuin mina heita kuritan, silloin pitaa heidan lankeeman, sanoo Herra.	</div>
 
-<div class="versenum">13.</div> Mina tahdon heita niin poimia, sanoo Herra, ettei yhtakaan viinimarjaa pida viinapuussa oleman, eika yhtakaan fiikunapuussa, lehdet pitaa variseman; ja se, minka mina heille antanut olen, pitaa heilta otettaman pois.	
+<div class="theverse"><div class="versenum">13.</div> Mina tahdon heita niin poimia, sanoo Herra, ettei yhtakaan viinimarjaa pida viinapuussa oleman, eika yhtakaan fiikunapuussa, lehdet pitaa variseman; ja se, minka mina heille antanut olen, pitaa heilta otettaman pois.	</div>
 
-<div class="versenum">14.</div> Miksi me niin alallamme istumme? Kootkaat teitanne, kaykaamme vahvoihin kaupunkeihin ja odottakaamme niissa apua: silla Herra meidan Jumalamme on meidan kaskenyt odottaa, ja juottanut meita katkeralla siemenella, etta me niin teimme Herraa vastaan syntia.	
+<div class="theverse"><div class="versenum">14.</div> Miksi me niin alallamme istumme? Kootkaat teitanne, kaykaamme vahvoihin kaupunkeihin ja odottakaamme niissa apua: silla Herra meidan Jumalamme on meidan kaskenyt odottaa, ja juottanut meita katkeralla siemenella, etta me niin teimme Herraa vastaan syntia.	</div>
 
-<div class="versenum">15.</div> Odota rauhaa ja terveyden aikaa, ehkei mitaan hyvaa ole kasissa, ja etta te parannettaisiin, ehkei muuta ole kuin hammastys.	
+<div class="theverse"><div class="versenum">15.</div> Odota rauhaa ja terveyden aikaa, ehkei mitaan hyvaa ole kasissa, ja etta te parannettaisiin, ehkei muuta ole kuin hammastys.	</div>
 
-<div class="versenum">16.</div> Jo nyt kuuluu hamasta Danista hevosten hirnuminen, ja heidan orhiinsa korskuvat, niin etta kaikki maa jarisee. He tulevat ja syovat maan, ja kaikki mita siina on, kaupungin ja sen asuvaiset.	
+<div class="theverse"><div class="versenum">16.</div> Jo nyt kuuluu hamasta Danista hevosten hirnuminen, ja heidan orhiinsa korskuvat, niin etta kaikki maa jarisee. He tulevat ja syovat maan, ja kaikki mita siina on, kaupungin ja sen asuvaiset.	</div>
 
-<div class="versenum">17.</div> Silla katso, mina lahetan karmeet ja basiliskit teidan sekaanne, joita ei auta lumoomaan; vaan niiden pitaa teita pistaman, sanoo Herra.	
+<div class="theverse"><div class="versenum">17.</div> Silla katso, mina lahetan karmeet ja basiliskit teidan sekaanne, joita ei auta lumoomaan; vaan niiden pitaa teita pistaman, sanoo Herra.	</div>
 
-<div class="versenum">18.</div> Minun virvoitukseni on murheella sekoitettu, ja minun sydameni on naantynyt.	
+<div class="theverse"><div class="versenum">18.</div> Minun virvoitukseni on murheella sekoitettu, ja minun sydameni on naantynyt.	</div>
 
-<div class="versenum">19.</div> Katso, minun kansani tyttaren pitaa vieraalta maalta huutaman: eiko Herra tahdo enaan olla Zionissa? eli eiko hanella enaan ole kuningasta? Miksi he vihoittivat minun kuvillansa ja turhalla vieraan jumalan palveluksella?	
+<div class="theverse"><div class="versenum">19.</div> Katso, minun kansani tyttaren pitaa vieraalta maalta huutaman: eiko Herra tahdo enaan olla Zionissa? eli eiko hanella enaan ole kuningasta? Miksi he vihoittivat minun kuvillansa ja turhalla vieraan jumalan palveluksella?	</div>
 
-<div class="versenum">20.</div> Elonaika on mennyt edes, suvi on loppunut, ja ei meille ei ole apua tullut.	
+<div class="theverse"><div class="versenum">20.</div> Elonaika on mennyt edes, suvi on loppunut, ja ei meille ei ole apua tullut.	</div>
 
-<div class="versenum">21.</div> Mina suren suuresti, etta minun kansani tytar, niin turmeltu on; mina surkuttelen ja olen hammastyksissa.	
+<div class="theverse"><div class="versenum">21.</div> Mina suren suuresti, etta minun kansani tytar, niin turmeltu on; mina surkuttelen ja olen hammastyksissa.	</div>
 
-<div class="versenum">22.</div> Eiko Gileadissa ole voidetta, eli eiko siella ole parantajaa? miksi ei minun kansani tytar ole terveeksi tehty?	
+<div class="theverse"><div class="versenum">22.</div> Eiko Gileadissa ole voidetta, eli eiko siella ole parantajaa? miksi ei minun kansani tytar ole terveeksi tehty?	</div>
 </body>
 </html>

@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">1 Korinttilaisille 13	</div>
 	
-<div class="versenum">1.</div> Jos mina ihmisten ja enkelein kielilla puhuisin, ja ei minulla olisi rakkautta, niin mina olisin kuin heliseva vaski tai kiliseva kulkuinen.	
+<div class="theverse"><div class="versenum">1.</div> Jos mina ihmisten ja enkelein kielilla puhuisin, ja ei minulla olisi rakkautta, niin mina olisin kuin heliseva vaski tai kiliseva kulkuinen.	</div>
 
-<div class="versenum">2.</div> Ja jos mina propheteerata taitaisin, ja kaikki salaisuudet tietaisin ja kaiken tiedon, ja minulla olis kaikki usko, niin etta mina vuoret siirtaisin, ja ei olisi minulla rakkautta, niin en mina mitaan olisi.	
+<div class="theverse"><div class="versenum">2.</div> Ja jos mina propheteerata taitaisin, ja kaikki salaisuudet tietaisin ja kaiken tiedon, ja minulla olis kaikki usko, niin etta mina vuoret siirtaisin, ja ei olisi minulla rakkautta, niin en mina mitaan olisi.	</div>
 
-<div class="versenum">3.</div> Ja jos mina kaiken tavarani kuluttaisin koyhain ravinnoksi, ja jos mina antaisin ruumiini poltettaa, ja ei olisi minulla rakkautta, niin ei se olisi minulle mitaan hyodyllinen.	
+<div class="theverse"><div class="versenum">3.</div> Ja jos mina kaiken tavarani kuluttaisin koyhain ravinnoksi, ja jos mina antaisin ruumiini poltettaa, ja ei olisi minulla rakkautta, niin ei se olisi minulle mitaan hyodyllinen.	</div>
 
-<div class="versenum">4.</div> Rakkaus on karsivallinen ja laupias. Ei rakkaus kadehdi, ei rakkaus ole tyly, ei han paisu:	
+<div class="theverse"><div class="versenum">4.</div> Rakkaus on karsivallinen ja laupias. Ei rakkaus kadehdi, ei rakkaus ole tyly, ei han paisu:	</div>
 
-<div class="versenum">5.</div> Ei han kayta itsiansa sopimattomasti, ei omaansa etsi, ei han vihaan syty, ei han pahaa ajattele,	
+<div class="theverse"><div class="versenum">5.</div> Ei han kayta itsiansa sopimattomasti, ei omaansa etsi, ei han vihaan syty, ei han pahaa ajattele,	</div>
 
-<div class="versenum">6.</div> Ei han vaaryydesta iloitse, mutta han iloitsee totuudesta:	
+<div class="theverse"><div class="versenum">6.</div> Ei han vaaryydesta iloitse, mutta han iloitsee totuudesta:	</div>
 
-<div class="versenum">7.</div> Kaikki han peittaa, kaikki han uskoo, kaikki han toivoo, kaikki han karsii.	
+<div class="theverse"><div class="versenum">7.</div> Kaikki han peittaa, kaikki han uskoo, kaikki han toivoo, kaikki han karsii.	</div>
 
-<div class="versenum">8.</div> Ei rakkaus koskaan vasy; vaikka prophetiat lakkaavat, ja kielet vaikenevat, ja tieto katoo.	
+<div class="theverse"><div class="versenum">8.</div> Ei rakkaus koskaan vasy; vaikka prophetiat lakkaavat, ja kielet vaikenevat, ja tieto katoo.	</div>
 
-<div class="versenum">9.</div> Silla me ymmarramme puolittain, ja propheteeraamme puolittain.	
+<div class="theverse"><div class="versenum">9.</div> Silla me ymmarramme puolittain, ja propheteeraamme puolittain.	</div>
 
-<div class="versenum">10.</div> Mutta kuin taydellinen tulee, sitte vajaa lakkaa.	
+<div class="theverse"><div class="versenum">10.</div> Mutta kuin taydellinen tulee, sitte vajaa lakkaa.	</div>
 
-<div class="versenum">11.</div> Kuin mina olin lapsi, niin mina puhuin kuin lapsi, minulla oli lapsen mieli ja ajattelin kuin lapsi; mutta sitte kuin mina mieheksi tulin, niin mina hylkasin lapselliset.	
+<div class="theverse"><div class="versenum">11.</div> Kuin mina olin lapsi, niin mina puhuin kuin lapsi, minulla oli lapsen mieli ja ajattelin kuin lapsi; mutta sitte kuin mina mieheksi tulin, niin mina hylkasin lapselliset.	</div>
 
-<div class="versenum">12.</div> Silla nyt me naemme niinkuin peilista tapauksessa, mutta silloin kasvoista kasvoihin: nyt mina tunnen puolittain, vaan silloin mina tunnen niiinkuin mina tuttu olen.	
+<div class="theverse"><div class="versenum">12.</div> Silla nyt me naemme niinkuin peilista tapauksessa, mutta silloin kasvoista kasvoihin: nyt mina tunnen puolittain, vaan silloin mina tunnen niiinkuin mina tuttu olen.	</div>
 
-<div class="versenum">13.</div> Mutta nyt pysyvat usko, toivo, rakkaus, namat kolme; vaan rakkaus on suurin niista.	
+<div class="theverse"><div class="versenum">13.</div> Mutta nyt pysyvat usko, toivo, rakkaus, namat kolme; vaan rakkaus on suurin niista.	</div>
 </body>
 </html>

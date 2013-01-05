@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 6	</div>
 	
-<div class="versenum">1.</div> Ja mina nain, kuin Karitsa ensimaisen sinetin avasi, ja mina kuulin yhden neljasta elaimesta sanovan, niinkuin pitkaisen jylinan: tule ja katso!	
+<div class="theverse"><div class="versenum">1.</div> Ja mina nain, kuin Karitsa ensimaisen sinetin avasi, ja mina kuulin yhden neljasta elaimesta sanovan, niinkuin pitkaisen jylinan: tule ja katso!	</div>
 
-<div class="versenum">2.</div> Ja mina nain, ja katso, valkia orhi; ja se, joka sen paalla istui, piti joutsea, ja hanelle annettiin kruunu, ja han laksi voittamaan ja saamaan voittoa.	
+<div class="theverse"><div class="versenum">2.</div> Ja mina nain, ja katso, valkia orhi; ja se, joka sen paalla istui, piti joutsea, ja hanelle annettiin kruunu, ja han laksi voittamaan ja saamaan voittoa.	</div>
 
-<div class="versenum">3.</div> Ja kuin han toisen sinetin avasi, kuulin mina toisen elaimen sanovan: tule ja katso!	
+<div class="theverse"><div class="versenum">3.</div> Ja kuin han toisen sinetin avasi, kuulin mina toisen elaimen sanovan: tule ja katso!	</div>
 
-<div class="versenum">4.</div> Ja ruskia orhi meni ulos; ja sille, joka sen paalla istui, annettiin rauha maasta ottaa pois, etta heidan piti keskenansa toinen toisensa tappaman; ja hanelle oli suuri miekka annettu.	
+<div class="theverse"><div class="versenum">4.</div> Ja ruskia orhi meni ulos; ja sille, joka sen paalla istui, annettiin rauha maasta ottaa pois, etta heidan piti keskenansa toinen toisensa tappaman; ja hanelle oli suuri miekka annettu.	</div>
 
-<div class="versenum">5.</div> Ja kuin han kolmannen sinetin avasi, kuulin mina kolmannen elaimen sanovan: tule ja katso! Ja mina nain, ja katso, musta orhi; ja silla, joka sen paalla istui, oli vaaka kadessa.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin han kolmannen sinetin avasi, kuulin mina kolmannen elaimen sanovan: tule ja katso! Ja mina nain, ja katso, musta orhi; ja silla, joka sen paalla istui, oli vaaka kadessa.	</div>
 
-<div class="versenum">6.</div> Ja mina kuulin aanen neljan elaimen keskelta sanovan: mitta nisuja yhteen penninkiin ja kolme mittaa ohria yhteen penninkiin, ja ala viinaa eika oljya vahingoita.	
+<div class="theverse"><div class="versenum">6.</div> Ja mina kuulin aanen neljan elaimen keskelta sanovan: mitta nisuja yhteen penninkiin ja kolme mittaa ohria yhteen penninkiin, ja ala viinaa eika oljya vahingoita.	</div>
 
-<div class="versenum">7.</div> Ja kuin han avasi neljannen sinetin, kuulin mina neljannen elaimen aanen sanovan: tule ja katso!	
+<div class="theverse"><div class="versenum">7.</div> Ja kuin han avasi neljannen sinetin, kuulin mina neljannen elaimen aanen sanovan: tule ja katso!	</div>
 
-<div class="versenum">8.</div> Ja mina nain, ja katso, hiirenkarvainen orhi, ja joka sen paalla istui, sen nimi oli kuolema; ja helvetti noudatti hanta. Ja hanelle annettiin voima tappaa neljatta osaa maan paalta miekalla ja nalalla, ja surmalla ja pedoilla maan paalla.	
+<div class="theverse"><div class="versenum">8.</div> Ja mina nain, ja katso, hiirenkarvainen orhi, ja joka sen paalla istui, sen nimi oli kuolema; ja helvetti noudatti hanta. Ja hanelle annettiin voima tappaa neljatta osaa maan paalta miekalla ja nalalla, ja surmalla ja pedoilla maan paalla.	</div>
 
-<div class="versenum">9.</div> Ja kuin han viidennen sinetin avasi, nain mina alttarin alla niiden sielut, jotka Jumalan sanan tahden tapetut olivat ja sen todistuksen tahden, joka heilla oli.	
+<div class="theverse"><div class="versenum">9.</div> Ja kuin han viidennen sinetin avasi, nain mina alttarin alla niiden sielut, jotka Jumalan sanan tahden tapetut olivat ja sen todistuksen tahden, joka heilla oli.	</div>
 
-<div class="versenum">10.</div> Ja he huusivat suurella aanella sanoen: sina pyha ja totinen Herra! kuinka kauvan et sina tuomitse ja meidan vertamme kosta niille, jotka maan paalla asuvat?	
+<div class="theverse"><div class="versenum">10.</div> Ja he huusivat suurella aanella sanoen: sina pyha ja totinen Herra! kuinka kauvan et sina tuomitse ja meidan vertamme kosta niille, jotka maan paalla asuvat?	</div>
 
-<div class="versenum">11.</div> Ja kullekin heista annettiin valkia vaate ja sanottiin heille, etta heidan piti viela vahan aikaa lepaaman, siihenasti kuin heidan kanssapalveliainsa ja veljeinsa luku taytetyksi tulis, jotka piti tapettaman niinkuin hekin.	
+<div class="theverse"><div class="versenum">11.</div> Ja kullekin heista annettiin valkia vaate ja sanottiin heille, etta heidan piti viela vahan aikaa lepaaman, siihenasti kuin heidan kanssapalveliainsa ja veljeinsa luku taytetyksi tulis, jotka piti tapettaman niinkuin hekin.	</div>
 
-<div class="versenum">12.</div> Ja mina nain, kuin han kuudennen sinetin avasi, katso, niin tapahtui suuri maanjaristys, ja aurinko tuli mustaksi niinkuin karvasakki ja kuu tuli kokonansa niinkuin veri,	
+<div class="theverse"><div class="versenum">12.</div> Ja mina nain, kuin han kuudennen sinetin avasi, katso, niin tapahtui suuri maanjaristys, ja aurinko tuli mustaksi niinkuin karvasakki ja kuu tuli kokonansa niinkuin veri,	</div>
 
-<div class="versenum">13.</div> Ja tahdet putosivat taivaasta maan paalle, niinkuin fikunapuu fikunansa varistaa, kuin han suurelta tuulelta haalytetaan.	
+<div class="theverse"><div class="versenum">13.</div> Ja tahdet putosivat taivaasta maan paalle, niinkuin fikunapuu fikunansa varistaa, kuin han suurelta tuulelta haalytetaan.	</div>
 
-<div class="versenum">14.</div> Ja taivas pakeni niinkuin kamartynyt kirja, ja kaikki vuoret ja luodot siirrettiin sioistansa.	
+<div class="theverse"><div class="versenum">14.</div> Ja taivas pakeni niinkuin kamartynyt kirja, ja kaikki vuoret ja luodot siirrettiin sioistansa.	</div>
 
-<div class="versenum">15.</div> Ja kuninkaat maan paalla, ja ylimaiset, ja rikkaat, ja paamiehet, ja vakevat, ja kaikki orjat, ja kaikki vapaat katkivat itsensa luoliin ja vuorten rotkoihin,	
+<div class="theverse"><div class="versenum">15.</div> Ja kuninkaat maan paalla, ja ylimaiset, ja rikkaat, ja paamiehet, ja vakevat, ja kaikki orjat, ja kaikki vapaat katkivat itsensa luoliin ja vuorten rotkoihin,	</div>
 
-<div class="versenum">16.</div> Ja sanoivat vuorille ja kukkuloille: langetkaat meidan paallemme ja peittakaat meita sen kasvoin edesta, joka istuimella istuu, ja Karitsan vihasta.	
+<div class="theverse"><div class="versenum">16.</div> Ja sanoivat vuorille ja kukkuloille: langetkaat meidan paallemme ja peittakaat meita sen kasvoin edesta, joka istuimella istuu, ja Karitsan vihasta.	</div>
 
-<div class="versenum">17.</div> Silla se suuri hanen vihansa paiva on tullut, ja kuka voi pysya?	
+<div class="theverse"><div class="versenum">17.</div> Silla se suuri hanen vihansa paiva on tullut, ja kuka voi pysya?	</div>
 </body>
 </html>

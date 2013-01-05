@@ -4,76 +4,76 @@
 </head>
 <body><div class="chaptertitle">Nehemian 11	</div>
 	
-<div class="versenum">1.</div> Ja kansan paamiehet asuivat Jerusalemissa; mutta muu kansa heitti arpaa, saattaaksensa yhden kymmenesta asumaan Jerusalemiin, siihen pyhaan kaupunkiin, mutta yhdeksan osaa kaupungeissa.	
+<div class="theverse"><div class="versenum">1.</div> Ja kansan paamiehet asuivat Jerusalemissa; mutta muu kansa heitti arpaa, saattaaksensa yhden kymmenesta asumaan Jerusalemiin, siihen pyhaan kaupunkiin, mutta yhdeksan osaa kaupungeissa.	</div>
 
-<div class="versenum">2.</div> Ja kansa siunasi kaikkia niita miehia, jotka mielistyivat asumaan Jerusalemissa.	
+<div class="theverse"><div class="versenum">2.</div> Ja kansa siunasi kaikkia niita miehia, jotka mielistyivat asumaan Jerusalemissa.	</div>
 
-<div class="versenum">3.</div> Nama ovat maakunnan paamiehet, jotka asuivat Jerusalemissa; mutta Juudan kaupungeissa asui itsekukin omaisuuudessansa kaupungeissansa: Israel, papit, Levilaiset, Netinimit ja Salomon palveliain lapset.	
+<div class="theverse"><div class="versenum">3.</div> Nama ovat maakunnan paamiehet, jotka asuivat Jerusalemissa; mutta Juudan kaupungeissa asui itsekukin omaisuuudessansa kaupungeissansa: Israel, papit, Levilaiset, Netinimit ja Salomon palveliain lapset.	</div>
 
-<div class="versenum">4.</div> Ja Jerusalemissa asuivat muutamat Juudan ja Benjaminin lapsista. Juudan lapsista: Ataja Ussian poika, Sakarian pojan, Amarian pojan, Sephatian pojan, Mahalaleelin pojan, Peretsen lapsista,	
+<div class="theverse"><div class="versenum">4.</div> Ja Jerusalemissa asuivat muutamat Juudan ja Benjaminin lapsista. Juudan lapsista: Ataja Ussian poika, Sakarian pojan, Amarian pojan, Sephatian pojan, Mahalaleelin pojan, Peretsen lapsista,	</div>
 
-<div class="versenum">5.</div> Ja Maeseja Barukin poika, Kolhosen pojan, Hasajan pojan, Adajan pojan, Jojaribin pojan, Sakarian pojan, Silomin pojan,	
+<div class="theverse"><div class="versenum">5.</div> Ja Maeseja Barukin poika, Kolhosen pojan, Hasajan pojan, Adajan pojan, Jojaribin pojan, Sakarian pojan, Silomin pojan,	</div>
 
-<div class="versenum">6.</div> Kaikki Peretsen lapset, jotka asuivat Jerusalemissa, neljasataa ja kahdeksanseitsemattakymmenta vahvaa miesta.	
+<div class="theverse"><div class="versenum">6.</div> Kaikki Peretsen lapset, jotka asuivat Jerusalemissa, neljasataa ja kahdeksanseitsemattakymmenta vahvaa miesta.	</div>
 
-<div class="versenum">7.</div> Namat olivat Benjaminin lapset: Sallu Mesullamin poika, Joedin pojan, Pedajan pojan, Kolajan pojan, Maasejan pojan, Itielin pojan, Jesajan pojan;	
+<div class="theverse"><div class="versenum">7.</div> Namat olivat Benjaminin lapset: Sallu Mesullamin poika, Joedin pojan, Pedajan pojan, Kolajan pojan, Maasejan pojan, Itielin pojan, Jesajan pojan;	</div>
 
-<div class="versenum">8.</div> Ja hanen jalkeensa Gabbai, Sallai, yhdeksansataa ja kahdeksankolmattakymmenta;	
+<div class="theverse"><div class="versenum">8.</div> Ja hanen jalkeensa Gabbai, Sallai, yhdeksansataa ja kahdeksankolmattakymmenta;	</div>
 
-<div class="versenum">9.</div> Ja Joel Sikrin poika oli heidan esimiehensa, ja Juuda Senuan poika oli toisena kaupungin paalla.	
+<div class="theverse"><div class="versenum">9.</div> Ja Joel Sikrin poika oli heidan esimiehensa, ja Juuda Senuan poika oli toisena kaupungin paalla.	</div>
 
-<div class="versenum">10.</div> Papeista, Jedaja Jojaribin poika, Jakin,	
+<div class="theverse"><div class="versenum">10.</div> Papeista, Jedaja Jojaribin poika, Jakin,	</div>
 
-<div class="versenum">11.</div> Seraja Hilkian poika, Mesullamin pojan, Zadokin pojan, Merajotin pojan, Ahitobin pojan, Jumalan huoneen paamies,	
+<div class="theverse"><div class="versenum">11.</div> Seraja Hilkian poika, Mesullamin pojan, Zadokin pojan, Merajotin pojan, Ahitobin pojan, Jumalan huoneen paamies,	</div>
 
-<div class="versenum">12.</div> Ja heidan veljiansa, jotka huoneessa tyota tekivat, oli kahdeksansataa ja kaksikolmattakymmenta; ja Adaja Jerohamin poika, Pelalian pojan, Amsin pojan, Sakarian pojan, Pashurin pojan, Malkian pojan,	
+<div class="theverse"><div class="versenum">12.</div> Ja heidan veljiansa, jotka huoneessa tyota tekivat, oli kahdeksansataa ja kaksikolmattakymmenta; ja Adaja Jerohamin poika, Pelalian pojan, Amsin pojan, Sakarian pojan, Pashurin pojan, Malkian pojan,	</div>
 
-<div class="versenum">13.</div> Ja hanen veljensa isain paamiehet kaksisataa ja kaksiviidettakymmenta; ja Amasia Asareelin poika, Ahasain pojan, Mesillemotin pojan, Immerin pojan,	
+<div class="theverse"><div class="versenum">13.</div> Ja hanen veljensa isain paamiehet kaksisataa ja kaksiviidettakymmenta; ja Amasia Asareelin poika, Ahasain pojan, Mesillemotin pojan, Immerin pojan,	</div>
 
-<div class="versenum">14.</div> Ja heidan veljensa, vakevat miehet, sata ja kahdeksankolmattakymmenta; ja Sabdiel Gedolimin poika oli heidan esimiehensa.	
+<div class="theverse"><div class="versenum">14.</div> Ja heidan veljensa, vakevat miehet, sata ja kahdeksankolmattakymmenta; ja Sabdiel Gedolimin poika oli heidan esimiehensa.	</div>
 
-<div class="versenum">15.</div> Levilaisista: Semaja Hasubin poika, Asrikamin pojan, Hasabian pojan, Bunnin pojan;	
+<div class="theverse"><div class="versenum">15.</div> Levilaisista: Semaja Hasubin poika, Asrikamin pojan, Hasabian pojan, Bunnin pojan;	</div>
 
-<div class="versenum">16.</div> Ja Sabtai ja Josabad, Levilaisten paamiehista, Jumalan huoneen ulkonaisessa tyossa;	
+<div class="theverse"><div class="versenum">16.</div> Ja Sabtai ja Josabad, Levilaisten paamiehista, Jumalan huoneen ulkonaisessa tyossa;	</div>
 
-<div class="versenum">17.</div> Ja Mattania Miikan poika, Sabdin pojan, Asaphin pojan, joka oli ylimmainen kiitosta alkamaan rukouksessa; ja Bakbukia toinen veljeinsa keskella, ja Abda Sammuan poika, Galalin pojan, Jedutunin pojan.	
+<div class="theverse"><div class="versenum">17.</div> Ja Mattania Miikan poika, Sabdin pojan, Asaphin pojan, joka oli ylimmainen kiitosta alkamaan rukouksessa; ja Bakbukia toinen veljeinsa keskella, ja Abda Sammuan poika, Galalin pojan, Jedutunin pojan.	</div>
 
-<div class="versenum">18.</div> Levilaisia oli kaikkiansa pyhassa kaupungissa kaksisataa ja neljayhdeksattakymmenta;	
+<div class="theverse"><div class="versenum">18.</div> Levilaisia oli kaikkiansa pyhassa kaupungissa kaksisataa ja neljayhdeksattakymmenta;	</div>
 
-<div class="versenum">19.</div> Ja ovenvartiat: Akkub, Talmon ja heidan veljensa, jotka porteissa vartioitsivat, sata ja kaksikahdeksattakymmenta.	
+<div class="theverse"><div class="versenum">19.</div> Ja ovenvartiat: Akkub, Talmon ja heidan veljensa, jotka porteissa vartioitsivat, sata ja kaksikahdeksattakymmenta.	</div>
 
-<div class="versenum">20.</div> Mutta muut Israelista, papit ja Levilaiset olivat kaikissa Juudan kaupungeissa, jokainen omassa perinnossansa.	
+<div class="theverse"><div class="versenum">20.</div> Mutta muut Israelista, papit ja Levilaiset olivat kaikissa Juudan kaupungeissa, jokainen omassa perinnossansa.	</div>
 
-<div class="versenum">21.</div> Ja Netinimit asuivat Ophelissa: ja Ziha ja Gispa olivat Netinimein paalla.	
+<div class="theverse"><div class="versenum">21.</div> Ja Netinimit asuivat Ophelissa: ja Ziha ja Gispa olivat Netinimein paalla.	</div>
 
-<div class="versenum">22.</div> Mutta Levilaisten esimies oli Jerusalemissa, Ussi Banin poika, Hasabian pojan, Mattanian pojan, Miikan pojan; veisaajat olivat Asaphin pojista, Jumalan huoneen tyon tykona.	
+<div class="theverse"><div class="versenum">22.</div> Mutta Levilaisten esimies oli Jerusalemissa, Ussi Banin poika, Hasabian pojan, Mattanian pojan, Miikan pojan; veisaajat olivat Asaphin pojista, Jumalan huoneen tyon tykona.	</div>
 
-<div class="versenum">23.</div> Silla se oli kuninkaan kasky heille, etta veisaajille piti oleman paivainen maara.	
+<div class="theverse"><div class="versenum">23.</div> Silla se oli kuninkaan kasky heille, etta veisaajille piti oleman paivainen maara.	</div>
 
-<div class="versenum">24.</div> Ja Petaja Mesesabeelin poika Seran lapsista, Juudan pojan, oli kuninkaan kaskylainen kaikissa asioissa kansan tyko.	
+<div class="theverse"><div class="versenum">24.</div> Ja Petaja Mesesabeelin poika Seran lapsista, Juudan pojan, oli kuninkaan kaskylainen kaikissa asioissa kansan tyko.	</div>
 
-<div class="versenum">25.</div> Ja Juudan lapset, ne jotka ulkona olivat kylissa heidan maassansa; muutamat asuivat Kirjatarbassa ja sen kylissa, ja Dibonissa ja sen kylissa, ja Kabseelissa ja sen kylissa,	
+<div class="theverse"><div class="versenum">25.</div> Ja Juudan lapset, ne jotka ulkona olivat kylissa heidan maassansa; muutamat asuivat Kirjatarbassa ja sen kylissa, ja Dibonissa ja sen kylissa, ja Kabseelissa ja sen kylissa,	</div>
 
-<div class="versenum">26.</div> ja Jesuassa, Moladassa, Betpaletissa,	
+<div class="theverse"><div class="versenum">26.</div> ja Jesuassa, Moladassa, Betpaletissa,	</div>
 
-<div class="versenum">27.</div> Ja Hasarsualissa, Bersebassa ja sen kylissa,	
+<div class="theverse"><div class="versenum">27.</div> Ja Hasarsualissa, Bersebassa ja sen kylissa,	</div>
 
-<div class="versenum">28.</div> Ja Ziklagissa ja Mekonassa ja sen kylissa,	
+<div class="theverse"><div class="versenum">28.</div> Ja Ziklagissa ja Mekonassa ja sen kylissa,	</div>
 
-<div class="versenum">29.</div> Ja Enrimmonissa, Zorgassa, Jarmutissa,	
+<div class="theverse"><div class="versenum">29.</div> Ja Enrimmonissa, Zorgassa, Jarmutissa,	</div>
 
-<div class="versenum">30.</div> Zanoassa, Adullamissa ja sen kylissa, Lakiksessa ja sen kedolla Asekassa ja sen kylissa. Ja he oleskelivat hamasta Bersebasta niin Hinnomin laaksoon asti.	
+<div class="theverse"><div class="versenum">30.</div> Zanoassa, Adullamissa ja sen kylissa, Lakiksessa ja sen kedolla Asekassa ja sen kylissa. Ja he oleskelivat hamasta Bersebasta niin Hinnomin laaksoon asti.	</div>
 
-<div class="versenum">31.</div> Mutta Benjaminin lapset Gabaasta asuivat Mikmassa, Ajassa ja Betelissa ja niiden kylissa,	
+<div class="theverse"><div class="versenum">31.</div> Mutta Benjaminin lapset Gabaasta asuivat Mikmassa, Ajassa ja Betelissa ja niiden kylissa,	</div>
 
-<div class="versenum">32.</div> Anatotissa, Nobissa, Ananiassa,	
+<div class="theverse"><div class="versenum">32.</div> Anatotissa, Nobissa, Ananiassa,	</div>
 
-<div class="versenum">33.</div> Hatsorissa, Ramassa, Gittaimissa,	
+<div class="theverse"><div class="versenum">33.</div> Hatsorissa, Ramassa, Gittaimissa,	</div>
 
-<div class="versenum">34.</div> Hadidissa, Ziboimissa, Neballatissa,	
+<div class="theverse"><div class="versenum">34.</div> Hadidissa, Ziboimissa, Neballatissa,	</div>
 
-<div class="versenum">35.</div> Lodissa ja Onossa, Seppain laaksossa.	
+<div class="theverse"><div class="versenum">35.</div> Lodissa ja Onossa, Seppain laaksossa.	</div>
 
-<div class="versenum">36.</div> Ja muutamat Levilaiset asuivat Juudan ja Benjaminin rajoilla.	
+<div class="theverse"><div class="versenum">36.</div> Ja muutamat Levilaiset asuivat Juudan ja Benjaminin rajoilla.	</div>
 </body>
 </html>

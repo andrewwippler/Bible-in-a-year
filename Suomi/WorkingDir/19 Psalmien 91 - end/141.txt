@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Psalmien 141	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi. Herra, mina avukseni huudan sinua: rienna minun puoleeni: ota korviis minun aaneni, koska mina sinua huudan.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi. Herra, mina avukseni huudan sinua: rienna minun puoleeni: ota korviis minun aaneni, koska mina sinua huudan.	</div>
 
-<div class="versenum">2.</div> Kelvatkoon minun rukoukseni sinun edessas niinkuin savu-uhri, minun katteni ylennys niinkuin ehtoo-uhri.	
+<div class="theverse"><div class="versenum">2.</div> Kelvatkoon minun rukoukseni sinun edessas niinkuin savu-uhri, minun katteni ylennys niinkuin ehtoo-uhri.	</div>
 
-<div class="versenum">3.</div> Herra, varjele minun suuni ja varjele minun huuleni.	
+<div class="theverse"><div class="versenum">3.</div> Herra, varjele minun suuni ja varjele minun huuleni.	</div>
 
-<div class="versenum">4.</div> Ala kallista minun sydantani mihinkaan pahuuteen, pitamaan jumalatointa menoa pahointekiain kanssa, etten mina soisi niita, mitka heille kelpaavat.	
+<div class="theverse"><div class="versenum">4.</div> Ala kallista minun sydantani mihinkaan pahuuteen, pitamaan jumalatointa menoa pahointekiain kanssa, etten mina soisi niita, mitka heille kelpaavat.	</div>
 
-<div class="versenum">5.</div> Vanhurskas lyokaan minua ystavallisesti, ja nuhdelkaan minua, se olkoon niinkuin oljy minun paani paalla; silla mina viela rukoilen heidan pahuuttansa vastaan.	
+<div class="theverse"><div class="versenum">5.</div> Vanhurskas lyokaan minua ystavallisesti, ja nuhdelkaan minua, se olkoon niinkuin oljy minun paani paalla; silla mina viela rukoilen heidan pahuuttansa vastaan.	</div>
 
-<div class="versenum">6.</div> Heidan opettajansa sysattakoon kiveen, niin sitte kuullaan minun opetukseni suloiseksi.	
+<div class="theverse"><div class="versenum">6.</div> Heidan opettajansa sysattakoon kiveen, niin sitte kuullaan minun opetukseni suloiseksi.	</div>
 
-<div class="versenum">7.</div> Meidan luumme ovat hajoitetut haudan reunalle, niinkuin joku maan repis ja kaivais.	
+<div class="theverse"><div class="versenum">7.</div> Meidan luumme ovat hajoitetut haudan reunalle, niinkuin joku maan repis ja kaivais.	</div>
 
-<div class="versenum">8.</div> Silla sinua, Herra, Herra, minun silmani katsovat: mina uskallan sinuun, ala minun sieluani hylkaa.	
+<div class="theverse"><div class="versenum">8.</div> Silla sinua, Herra, Herra, minun silmani katsovat: mina uskallan sinuun, ala minun sieluani hylkaa.	</div>
 
-<div class="versenum">9.</div> Varjele minua siita paulasta, jonka he asettivat eteeni, ja pahointekiain ansasta.	
+<div class="theverse"><div class="versenum">9.</div> Varjele minua siita paulasta, jonka he asettivat eteeni, ja pahointekiain ansasta.	</div>
 
-<div class="versenum">10.</div> Jumalattomat lankeevat toinen toisensa kanssa omiin verkkoihinsa, siihenasti kuin mina paasen ohitse.	
+<div class="theverse"><div class="versenum">10.</div> Jumalattomat lankeevat toinen toisensa kanssa omiin verkkoihinsa, siihenasti kuin mina paasen ohitse.	</div>
 </body>
 </html>

@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 6	</div>
 	
-<div class="versenum">1.</div> Poikani, jos sinaa takaat lahimmaises, niin sina olet kiinnittanyt kates muukalaiseen.	
+<div class="theverse"><div class="versenum">1.</div> Poikani, jos sinaa takaat lahimmaises, niin sina olet kiinnittanyt kates muukalaiseen.	</div>
 
-<div class="versenum">2.</div> Sinun sanoissas olet sina paulaan istunut: sina olet saavutettu puheissas.	
+<div class="theverse"><div class="versenum">2.</div> Sinun sanoissas olet sina paulaan istunut: sina olet saavutettu puheissas.	</div>
 
-<div class="versenum">3.</div> ee siis, poikani, nain: pelasta itses: silla olet tullut lahimmaises kasiin: joudu, noyryyta itses ja vaadi lahimmaistas.	
+<div class="theverse"><div class="versenum">3.</div> ee siis, poikani, nain: pelasta itses: silla olet tullut lahimmaises kasiin: joudu, noyryyta itses ja vaadi lahimmaistas.	</div>
 
-<div class="versenum">4.</div> Ala anna silmilles unta, eika silmalautas torkkua.	
+<div class="theverse"><div class="versenum">4.</div> Ala anna silmilles unta, eika silmalautas torkkua.	</div>
 
-<div class="versenum">5.</div> Kirvoita itses niinkuin metsavuohi pois kasista, niinkuin lintu pyytajansa kasista.	
+<div class="theverse"><div class="versenum">5.</div> Kirvoita itses niinkuin metsavuohi pois kasista, niinkuin lintu pyytajansa kasista.	</div>
 
-<div class="versenum">6.</div> Mene laiska myyriaisen tyko, katso hanen menoansa ja opi.	
+<div class="theverse"><div class="versenum">6.</div> Mene laiska myyriaisen tyko, katso hanen menoansa ja opi.	</div>
 
-<div class="versenum">7.</div> Vaikka ei hanellayhtaan hallitsiaa, teettajaa ja isantaa ole,	
+<div class="theverse"><div class="versenum">7.</div> Vaikka ei hanellayhtaan hallitsiaa, teettajaa ja isantaa ole,	</div>
 
-<div class="versenum">8.</div> Kuitenkin valmistaa han elatuksensa suvella, ja koo ruokansa eloaikana.	
+<div class="theverse"><div class="versenum">8.</div> Kuitenkin valmistaa han elatuksensa suvella, ja koo ruokansa eloaikana.	</div>
 
-<div class="versenum">9.</div> Kuinka kauan sina laiska makaat? koskas nouset unesta?	
+<div class="theverse"><div class="versenum">9.</div> Kuinka kauan sina laiska makaat? koskas nouset unesta?	</div>
 
-<div class="versenum">10.</div> Makaa viela vaha, ota viela unta paahas; laske kates vaha yhteen, ettas viela levata voisit;	
+<div class="theverse"><div class="versenum">10.</div> Makaa viela vaha, ota viela unta paahas; laske kates vaha yhteen, ettas viela levata voisit;	</div>
 
-<div class="versenum">11.</div> Niin koyhyys akisti tulee paalles niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies.	
+<div class="theverse"><div class="versenum">11.</div> Niin koyhyys akisti tulee paalles niinkuin matkamies, ja vaivaisuus niinkuin varustettu mies.	</div>
 
-<div class="versenum">12.</div> Jumalatoin ihminen, vahingollinen mies, kavelee suunsa vaaryydella,	
+<div class="theverse"><div class="versenum">12.</div> Jumalatoin ihminen, vahingollinen mies, kavelee suunsa vaaryydella,	</div>
 
-<div class="versenum">13.</div> Iskee silmaa, nyhtaa jalvoillansa, kokottelee sormillansa.	
+<div class="theverse"><div class="versenum">13.</div> Iskee silmaa, nyhtaa jalvoillansa, kokottelee sormillansa.	</div>
 
-<div class="versenum">14.</div> Vaaryys on hanen sydamessansa, ja aikoo pahaa: han saattaa riidat matkaan.	
+<div class="theverse"><div class="versenum">14.</div> Vaaryys on hanen sydamessansa, ja aikoo pahaa: han saattaa riidat matkaan.	</div>
 
-<div class="versenum">15.</div> Sentahden tulee pikaisesti hanen kadotuksensa, ja han akisti muserretaan rikki, niin ettei hanella yhtaan parannusta ole.	
+<div class="theverse"><div class="versenum">15.</div> Sentahden tulee pikaisesti hanen kadotuksensa, ja han akisti muserretaan rikki, niin ettei hanella yhtaan parannusta ole.	</div>
 
-<div class="versenum">16.</div> Kuusi on, joita Herra vihaa, ja seitsemaa kauhistuu hanen sielunsa:	
+<div class="theverse"><div class="versenum">16.</div> Kuusi on, joita Herra vihaa, ja seitsemaa kauhistuu hanen sielunsa:	</div>
 
-<div class="versenum">17.</div> Ylpiat silmat, petollinen kieli, kadet, jotka vuodattavat viatonta verta;	
+<div class="theverse"><div class="versenum">17.</div> Ylpiat silmat, petollinen kieli, kadet, jotka vuodattavat viatonta verta;	</div>
 
-<div class="versenum">18.</div> Sydan, joka vahingollisia ajattelee, jalat, jotka ovat nopsat pahuuteen juoksemaan;	
+<div class="theverse"><div class="versenum">18.</div> Sydan, joka vahingollisia ajattelee, jalat, jotka ovat nopsat pahuuteen juoksemaan;	</div>
 
-<div class="versenum">19.</div> Vaara todistaja, joka valheita tuottaa, ja se, joka saattaa riidan veljesten valille.	
+<div class="theverse"><div class="versenum">19.</div> Vaara todistaja, joka valheita tuottaa, ja se, joka saattaa riidan veljesten valille.	</div>
 
-<div class="versenum">20.</div> Poikani, pida isas kaskyt, ja ala hylkaa aitis lakia.	
+<div class="theverse"><div class="versenum">20.</div> Poikani, pida isas kaskyt, ja ala hylkaa aitis lakia.	</div>
 
-<div class="versenum">21.</div> Sido ne alati yhteen sydames paalle, ja ripusta ne kaulaas.	
+<div class="theverse"><div class="versenum">21.</div> Sido ne alati yhteen sydames paalle, ja ripusta ne kaulaas.	</div>
 
-<div class="versenum">22.</div> Koskas vaellat, niin ne johdattavat sinua; koskas lepaat, niin he varjelevat sinua; koskas heraat, niin he puhuttelevat sinua.	
+<div class="theverse"><div class="versenum">22.</div> Koskas vaellat, niin ne johdattavat sinua; koskas lepaat, niin he varjelevat sinua; koskas heraat, niin he puhuttelevat sinua.	</div>
 
-<div class="versenum">23.</div> Silla kasky on niinkuin kynttila, ja laki niinkuin valkeus, ja opin kuritus elaman tie,	
+<div class="theverse"><div class="versenum">23.</div> Silla kasky on niinkuin kynttila, ja laki niinkuin valkeus, ja opin kuritus elaman tie,	</div>
 
-<div class="versenum">24.</div> Ettas varjeltaisiin pahasta vaimosta, ja muukalaisen makiasta kielesta.	
+<div class="theverse"><div class="versenum">24.</div> Ettas varjeltaisiin pahasta vaimosta, ja muukalaisen makiasta kielesta.	</div>
 
-<div class="versenum">25.</div> Ala himoitse sydamessas hanen kauneuttansa, ettes vieteltaisi hanen silmainsa kiillosta.	
+<div class="theverse"><div class="versenum">25.</div> Ala himoitse sydamessas hanen kauneuttansa, ettes vieteltaisi hanen silmainsa kiillosta.	</div>
 
-<div class="versenum">26.</div> Silla portto saattaa leivalta pois; mutta aviovaimo saattaa kauniin elaman.	
+<div class="theverse"><div class="versenum">26.</div> Silla portto saattaa leivalta pois; mutta aviovaimo saattaa kauniin elaman.	</div>
 
-<div class="versenum">27.</div> Taitaako joku katkea tulen poveensa, ettei hanen vaattensa pala?	
+<div class="theverse"><div class="versenum">27.</div> Taitaako joku katkea tulen poveensa, ettei hanen vaattensa pala?	</div>
 
-<div class="versenum">28.</div> Eli taitaako joku hiilten paalla kavella, ettei han jalkojansa polta?	
+<div class="theverse"><div class="versenum">28.</div> Eli taitaako joku hiilten paalla kavella, ettei han jalkojansa polta?	</div>
 
-<div class="versenum">29.</div> Niin sille tapahtuu, joka lahimmaisensa vaimoa lahentelee; ei se paase rankaisematta, joka haneen ryhtyy.	
+<div class="theverse"><div class="versenum">29.</div> Niin sille tapahtuu, joka lahimmaisensa vaimoa lahentelee; ei se paase rankaisematta, joka haneen ryhtyy.	</div>
 
-<div class="versenum">30.</div> Ei se ole varkaalle niin suuri hapia, jos han varastaa henkensa piteeksi, koska nalka on:	
+<div class="theverse"><div class="versenum">30.</div> Ei se ole varkaalle niin suuri hapia, jos han varastaa henkensa piteeksi, koska nalka on:	</div>
 
-<div class="versenum">31.</div> Jos han kasitetaan, antaa han sen seitsemankertaisesti jalleen, ja kaiken huoneensa saadun;	
+<div class="theverse"><div class="versenum">31.</div> Jos han kasitetaan, antaa han sen seitsemankertaisesti jalleen, ja kaiken huoneensa saadun;	</div>
 
-<div class="versenum">32.</div> Mutta joka vaimon janssa huoruuteen lankee, se on tyhma, ja joka sielunsa kadottaa tahtoo, se niin tekee.	
+<div class="theverse"><div class="versenum">32.</div> Mutta joka vaimon janssa huoruuteen lankee, se on tyhma, ja joka sielunsa kadottaa tahtoo, se niin tekee.	</div>
 
-<div class="versenum">33.</div> Rangaistus ja hapia tulee hanen paallensa, ja hanen havaistyksensa ei pyyhita pois.	
+<div class="theverse"><div class="versenum">33.</div> Rangaistus ja hapia tulee hanen paallensa, ja hanen havaistyksensa ei pyyhita pois.	</div>
 
-<div class="versenum">34.</div> Silla miehen vihalla on kiivaus: ei han saasta hanta koston paivana:	
+<div class="theverse"><div class="versenum">34.</div> Silla miehen vihalla on kiivaus: ei han saasta hanta koston paivana:	</div>
 
-<div class="versenum">35.</div> Ei han lukua pida sovittajasta, eika ota lahjoja, vaikka paljon antaisit.	
+<div class="theverse"><div class="versenum">35.</div> Ei han lukua pida sovittajasta, eika ota lahjoja, vaikka paljon antaisit.	</div>
 </body>
 </html>

@@ -4,20 +4,20 @@
 </head>
 <body><div class="chaptertitle">Psalmien 12	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kahdeksalla kielella. (H 12:2) Auta, Herra; silla pyhat ovat vahentyneet, ja uskolliset ovat harvat ihmisten lasten seassa.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle, kahdeksalla kielella. (H 12:2) Auta, Herra; silla pyhat ovat vahentyneet, ja uskolliset ovat harvat ihmisten lasten seassa.	</div>
 
-<div class="versenum">2.</div> Jokainen puhuu lahimmaisensa kanssa valhetta: he liehakoitsevat ja opettavat eripuraisuutta sydamista.	
+<div class="theverse"><div class="versenum">2.</div> Jokainen puhuu lahimmaisensa kanssa valhetta: he liehakoitsevat ja opettavat eripuraisuutta sydamista.	</div>
 
-<div class="versenum">3.</div> Katkokoon Herra kaikki ulkokullaiset huulet ja ylpiasti puhuvaiset kielet,	
+<div class="theverse"><div class="versenum">3.</div> Katkokoon Herra kaikki ulkokullaiset huulet ja ylpiasti puhuvaiset kielet,	</div>
 
-<div class="versenum">4.</div> Jotka sanovat: meidan kielemme pitaa voittaman, meidan tulee puhua: kuka meidan herramme on?	
+<div class="theverse"><div class="versenum">4.</div> Jotka sanovat: meidan kielemme pitaa voittaman, meidan tulee puhua: kuka meidan herramme on?	</div>
 
-<div class="versenum">5.</div> Etta koyhat havitetaan ja vaivaiset huokaavat, niin mina nyt nousen, sanoo Herra: mina saatan avun, etta rohkiasti pitaa opetettaman.	
+<div class="theverse"><div class="versenum">5.</div> Etta koyhat havitetaan ja vaivaiset huokaavat, niin mina nyt nousen, sanoo Herra: mina saatan avun, etta rohkiasti pitaa opetettaman.	</div>
 
-<div class="versenum">6.</div> Herran puheet ovat kirkkaat, niinkuin selitetty hopia saviastioissa, seitseman kertaa koeteltu.	
+<div class="theverse"><div class="versenum">6.</div> Herran puheet ovat kirkkaat, niinkuin selitetty hopia saviastioissa, seitseman kertaa koeteltu.	</div>
 
-<div class="versenum">7.</div> Sina Herra, katke ne, ja varjele meita tasta suvusta ijankaikkisesti.	
+<div class="theverse"><div class="versenum">7.</div> Sina Herra, katke ne, ja varjele meita tasta suvusta ijankaikkisesti.	</div>
 
-<div class="versenum">8.</div> Silla joka paikka on jumalattomia taynna, koska huonot ihmisten lasten seassa korotetaan.	
+<div class="theverse"><div class="versenum">8.</div> Silla joka paikka on jumalattomia taynna, koska huonot ihmisten lasten seassa korotetaan.	</div>
 </body>
 </html>

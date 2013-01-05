@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">Apostolien 28	</div>
 	
-<div class="versenum">1.</div> Ja kuin he terveina paasseet olivat, tunsivat he, etta se luoto Meliteksi kutsutaan.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin he terveina paasseet olivat, tunsivat he, etta se luoto Meliteksi kutsutaan.	</div>
 
-<div class="versenum">2.</div> Mutta se kansa osoitti meille ei vahinta rakkauden halua; silla he tekivat meille valkian, ja kaikki ottivat vastaan meidat, sen sateen ja vilun tahden, joka meidan paallemme tuli.	
+<div class="theverse"><div class="versenum">2.</div> Mutta se kansa osoitti meille ei vahinta rakkauden halua; silla he tekivat meille valkian, ja kaikki ottivat vastaan meidat, sen sateen ja vilun tahden, joka meidan paallemme tuli.	</div>
 
-<div class="versenum">3.</div> Mutta kuin Paavali kokosi kasan risuja ja pani valkialle, tuli yksi karme palavuudesta ja karkasi hanen kateensa.	
+<div class="theverse"><div class="versenum">3.</div> Mutta kuin Paavali kokosi kasan risuja ja pani valkialle, tuli yksi karme palavuudesta ja karkasi hanen kateensa.	</div>
 
-<div class="versenum">4.</div> Kuin kansa naki karmeen riippuvan hanen kadessansa, sanoivat he keskenansa: kaiketi tama ihminen on miehentappaja, jota ei koston jumalatar saali elaa, vaikka han on meren hadasta paassyt.	
+<div class="theverse"><div class="versenum">4.</div> Kuin kansa naki karmeen riippuvan hanen kadessansa, sanoivat he keskenansa: kaiketi tama ihminen on miehentappaja, jota ei koston jumalatar saali elaa, vaikka han on meren hadasta paassyt.	</div>
 
-<div class="versenum">5.</div> Mutta han pudisti karmeen tuleen eika mitaan kipua tuntenut.	
+<div class="theverse"><div class="versenum">5.</div> Mutta han pudisti karmeen tuleen eika mitaan kipua tuntenut.	</div>
 
-<div class="versenum">6.</div> Mutta he odottivat hanen ajettuvan eli kohta maahan lankeevan ja kuolevan; vaan kuin he kauvan sita odottivat ja nakivat, ettei hanelle mitaan vahinkoa tapahtunut, saivat he toisen mielen ja sanoivat hanen jumalaksi.	
+<div class="theverse"><div class="versenum">6.</div> Mutta he odottivat hanen ajettuvan eli kohta maahan lankeevan ja kuolevan; vaan kuin he kauvan sita odottivat ja nakivat, ettei hanelle mitaan vahinkoa tapahtunut, saivat he toisen mielen ja sanoivat hanen jumalaksi.	</div>
 
-<div class="versenum">7.</div> Mutta vahan matkan takana siita olivat sen luodon paamiehella, jonka nimi oli Publius, maakartanot, joka meita otti vastaan ja piti meidan kunniallisesti vierainansa kolme paivaa.	
+<div class="theverse"><div class="versenum">7.</div> Mutta vahan matkan takana siita olivat sen luodon paamiehella, jonka nimi oli Publius, maakartanot, joka meita otti vastaan ja piti meidan kunniallisesti vierainansa kolme paivaa.	</div>
 
-<div class="versenum">8.</div> Niin tapahtui, etta Publiuksen isa sairasti vilutautia ja vatsankipua, jonka tyko Paavali meni, rukoili ja pani katensa hanen paallensa, ja paransi hanen.	
+<div class="theverse"><div class="versenum">8.</div> Niin tapahtui, etta Publiuksen isa sairasti vilutautia ja vatsankipua, jonka tyko Paavali meni, rukoili ja pani katensa hanen paallensa, ja paransi hanen.	</div>
 
-<div class="versenum">9.</div> Kuin siis se oli tehty, tulivat myos muut sairaat siita luodosta, ja parannettiin,	
+<div class="theverse"><div class="versenum">9.</div> Kuin siis se oli tehty, tulivat myos muut sairaat siita luodosta, ja parannettiin,	</div>
 
-<div class="versenum">10.</div> Jotka myos meille tekivat paljon kunniaa, ja kuin me sielta purjehdimme, panivat he meidan myotamme, mita me tarvitsimme.	
+<div class="theverse"><div class="versenum">10.</div> Jotka myos meille tekivat paljon kunniaa, ja kuin me sielta purjehdimme, panivat he meidan myotamme, mita me tarvitsimme.	</div>
 
-<div class="versenum">11.</div> Mutta kolmen kuukauden perasta purjehdimme me sielta Aleksandrian haahdessa, joka sen luodon tykona oli talvea pitanyt, jolla oli lipun merkki kaksoinen.	
+<div class="theverse"><div class="versenum">11.</div> Mutta kolmen kuukauden perasta purjehdimme me sielta Aleksandrian haahdessa, joka sen luodon tykona oli talvea pitanyt, jolla oli lipun merkki kaksoinen.	</div>
 
-<div class="versenum">12.</div> Ja kuin me tulimme Syrakusaan, olimme me siella kolme paivaa.	
+<div class="theverse"><div class="versenum">12.</div> Ja kuin me tulimme Syrakusaan, olimme me siella kolme paivaa.	</div>
 
-<div class="versenum">13.</div> Ja kuin me sielta ympari purjehdimme ja tulimme Regioon, ja paivaa jalkeen puhalsi lounatuuli, niin etta me toisena paivana tulimme Puteoliin.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuin me sielta ympari purjehdimme ja tulimme Regioon, ja paivaa jalkeen puhalsi lounatuuli, niin etta me toisena paivana tulimme Puteoliin.	</div>
 
-<div class="versenum">14.</div> Kuin me sielta loysimme veljet, niin meita rukoiltiin olemaan heidan tykonansa seitseman paivaa; ja niin me tulimme Roomiin.	
+<div class="theverse"><div class="versenum">14.</div> Kuin me sielta loysimme veljet, niin meita rukoiltiin olemaan heidan tykonansa seitseman paivaa; ja niin me tulimme Roomiin.	</div>
 
-<div class="versenum">15.</div> Ja kuin siella veljet kuulivat meista, tulivat he meita vastaan hamaan Appiforuun ja Tretaberniin. Kuin Paavali heidat naki, kiitti han Jumalaa ja sai uskalluksen.	
+<div class="theverse"><div class="versenum">15.</div> Ja kuin siella veljet kuulivat meista, tulivat he meita vastaan hamaan Appiforuun ja Tretaberniin. Kuin Paavali heidat naki, kiitti han Jumalaa ja sai uskalluksen.	</div>
 
-<div class="versenum">16.</div> Mutta kuin me Roomiin tulimme, antoi sadanpaamies vangit sodanpaamiehen haltuun. Mutta Paavali sallittiin olevan itsellansa yhden sotamiehen kanssa, joka hanesta otti vaarin.	
+<div class="theverse"><div class="versenum">16.</div> Mutta kuin me Roomiin tulimme, antoi sadanpaamies vangit sodanpaamiehen haltuun. Mutta Paavali sallittiin olevan itsellansa yhden sotamiehen kanssa, joka hanesta otti vaarin.	</div>
 
-<div class="versenum">17.</div> Niin tapahtui kolmen paivan jalkeen, etta Paavali kutsui kokoon ylimmaiset Juudalaisista. Ja kuin he tulivat kokoon, sanoi han heille: miehet, veljet, vaikka en mina ole mitaan tehnyt kansaa eli isain saatyja vastaan, kuitenkin olen mina sidottuna annettu Jerusalemista Roomalaisten kasiin,	
+<div class="theverse"><div class="versenum">17.</div> Niin tapahtui kolmen paivan jalkeen, etta Paavali kutsui kokoon ylimmaiset Juudalaisista. Ja kuin he tulivat kokoon, sanoi han heille: miehet, veljet, vaikka en mina ole mitaan tehnyt kansaa eli isain saatyja vastaan, kuitenkin olen mina sidottuna annettu Jerusalemista Roomalaisten kasiin,	</div>
 
-<div class="versenum">18.</div> Jotka, koska he olivat minun tutkineet, tahtoivat minua paastaa, ettei yhtaan hengen rikosta minussa ole.	
+<div class="theverse"><div class="versenum">18.</div> Jotka, koska he olivat minun tutkineet, tahtoivat minua paastaa, ettei yhtaan hengen rikosta minussa ole.	</div>
 
-<div class="versenum">19.</div> Mutta koska Juudalaiset sita vastaan sanoivat, taytyi minun turvata keisariin, ei niin, etta minulla olis jotakin kantamista minun kansani paalle.	
+<div class="theverse"><div class="versenum">19.</div> Mutta koska Juudalaiset sita vastaan sanoivat, taytyi minun turvata keisariin, ei niin, etta minulla olis jotakin kantamista minun kansani paalle.	</div>
 
-<div class="versenum">20.</div> Taman syyn tahden olen mina kutsunut teita, etta mina saisin teita nahda ja puhutella; silla mina olen Israelin toivon tahden talla kahleella sidottu.	
+<div class="theverse"><div class="versenum">20.</div> Taman syyn tahden olen mina kutsunut teita, etta mina saisin teita nahda ja puhutella; silla mina olen Israelin toivon tahden talla kahleella sidottu.	</div>
 
-<div class="versenum">21.</div> Niin he sanoivat hanelle: emme ole kirjaa saaneet sinusta Juudeasta, ei myos yksikaan veljista ole sielta tullut ja meille ilmoittanut, eika jotakuta pahuutta sinusta puhunut.	
+<div class="theverse"><div class="versenum">21.</div> Niin he sanoivat hanelle: emme ole kirjaa saaneet sinusta Juudeasta, ei myos yksikaan veljista ole sielta tullut ja meille ilmoittanut, eika jotakuta pahuutta sinusta puhunut.	</div>
 
-<div class="versenum">22.</div> Mutta me tahdomme sinulta kuulla, mita sinun mielessas on; silla tasta seurasta on meille tiettava, etta sita vastaan joka paikassa sanotaan.	
+<div class="theverse"><div class="versenum">22.</div> Mutta me tahdomme sinulta kuulla, mita sinun mielessas on; silla tasta seurasta on meille tiettava, etta sita vastaan joka paikassa sanotaan.	</div>
 
-<div class="versenum">23.</div> Ja kuin he olivat hanelle paivan maaranneet, niin tuli monta hanen tykonsa majaan, joille han selitti ja todisti Jumalan valtakunnasta, ja opetti heille Jesuksesta, Moseksen laista ja prophetaista huomenesta ehtoosen asti.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuin he olivat hanelle paivan maaranneet, niin tuli monta hanen tykonsa majaan, joille han selitti ja todisti Jumalan valtakunnasta, ja opetti heille Jesuksesta, Moseksen laista ja prophetaista huomenesta ehtoosen asti.	</div>
 
-<div class="versenum">24.</div> Ja muutamat uskoivat ne, mitka sanottiin, mutta muutamat ei uskoneetkaan.	
+<div class="theverse"><div class="versenum">24.</div> Ja muutamat uskoivat ne, mitka sanottiin, mutta muutamat ei uskoneetkaan.	</div>
 
-<div class="versenum">25.</div> Mutta kuin he tulivat riitaisiksi keskenansa, menivat he matkaansa, etta Paavali oli yhden sanan sanonut: Pyha Henki on oikein meidan isillemme Jesaias prophetan kautta puhunut,	
+<div class="theverse"><div class="versenum">25.</div> Mutta kuin he tulivat riitaisiksi keskenansa, menivat he matkaansa, etta Paavali oli yhden sanan sanonut: Pyha Henki on oikein meidan isillemme Jesaias prophetan kautta puhunut,	</div>
 
-<div class="versenum">26.</div> Sanoen: mene taman kansan tyko ja sano: korvillanne pitaa teidan kuuleman ja ei ymmartaman, ja silmillanne pitaa teidan nakeman ja ei tunteman;	
+<div class="theverse"><div class="versenum">26.</div> Sanoen: mene taman kansan tyko ja sano: korvillanne pitaa teidan kuuleman ja ei ymmartaman, ja silmillanne pitaa teidan nakeman ja ei tunteman;	</div>
 
-<div class="versenum">27.</div> Silla taman kansan sydan on kovettunut, ja he kuulevat raskaasti korvillansa, ja panevat silmansa umpeen, ettei he joskus silmillansa nakisi, eika korvillansa kuulisi, ei myos ymmartaisi sydamellansa, eika kaantaisi heitansa, etta mina heita parantaisin.	
+<div class="theverse"><div class="versenum">27.</div> Silla taman kansan sydan on kovettunut, ja he kuulevat raskaasti korvillansa, ja panevat silmansa umpeen, ettei he joskus silmillansa nakisi, eika korvillansa kuulisi, ei myos ymmartaisi sydamellansa, eika kaantaisi heitansa, etta mina heita parantaisin.	</div>
 
-<div class="versenum">28.</div> Niin olkoon se teille tiettava, etta tama Jumalan autuus on lahetetty pakanoille, ja he myos sen kuulevat.	
+<div class="theverse"><div class="versenum">28.</div> Niin olkoon se teille tiettava, etta tama Jumalan autuus on lahetetty pakanoille, ja he myos sen kuulevat.	</div>
 
-<div class="versenum">29.</div> Ja kuin han naita puhunut oli, laksivat Juudalaiset pois ja riitelivat paljo keskenansa.	
+<div class="theverse"><div class="versenum">29.</div> Ja kuin han naita puhunut oli, laksivat Juudalaiset pois ja riitelivat paljo keskenansa.	</div>
 
-<div class="versenum">30.</div> Mutta Paavali oli taytta kaksi ajastaikaa omassa palkkahuoneessansa ja otti kaikki vastaan, jotka hanen tykonsa tulivat,	
+<div class="theverse"><div class="versenum">30.</div> Mutta Paavali oli taytta kaksi ajastaikaa omassa palkkahuoneessansa ja otti kaikki vastaan, jotka hanen tykonsa tulivat,	</div>
 
-<div class="versenum">31.</div> Ja saarnasi Jumalan valtakunnasta, ja opetti Herrasta Jesuksesta Kristuksesta kaikella uskalluksella, ja ei hanta yksikaan kieltanyt.	
+<div class="theverse"><div class="versenum">31.</div> Ja saarnasi Jumalan valtakunnasta, ja opetti Herrasta Jesuksesta Kristuksesta kaikella uskalluksella, ja ei hanta yksikaan kieltanyt.	</div>
 </body>
 </html>

@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">2 Kuninkaiden 5	</div>
 	
-<div class="versenum">1.</div> Ja Naeman Syrian kuninkaan sodanpaamies oli kuuluisa mies ja suurena pidetty herransa edessa; silla hanen kauttansa oli Herra antanut autuuden Syriaan; ja han oli voimallinen mies, vaan spitalinen.	
+<div class="theverse"><div class="versenum">1.</div> Ja Naeman Syrian kuninkaan sodanpaamies oli kuuluisa mies ja suurena pidetty herransa edessa; silla hanen kauttansa oli Herra antanut autuuden Syriaan; ja han oli voimallinen mies, vaan spitalinen.	</div>
 
-<div class="versenum">2.</div> Ja sotavaki oli Syriasta mennyt ulos joukottaisin, ja olivat vieneet pois Israelin maalta vahan piikaisen, joka palveli Naemanin emantaa.	
+<div class="theverse"><div class="versenum">2.</div> Ja sotavaki oli Syriasta mennyt ulos joukottaisin, ja olivat vieneet pois Israelin maalta vahan piikaisen, joka palveli Naemanin emantaa.	</div>
 
-<div class="versenum">3.</div> Han sanoi emannallensa: o, jos minun herrani olis prophetan tykona, joka on Samariassa, niin han parantais hanen spitalista.	
+<div class="theverse"><div class="versenum">3.</div> Han sanoi emannallensa: o, jos minun herrani olis prophetan tykona, joka on Samariassa, niin han parantais hanen spitalista.	</div>
 
-<div class="versenum">4.</div> Niin han meni ja ilmoitti herrallensa, sanoen: nain ja nain on puhunut Israelin maan piika.	
+<div class="theverse"><div class="versenum">4.</div> Niin han meni ja ilmoitti herrallensa, sanoen: nain ja nain on puhunut Israelin maan piika.	</div>
 
-<div class="versenum">5.</div> Syrian kuningas sanoi: mene sinne, ja mina lahetan kirjan Israelin kuninkaalle. Ja han meni sinne ja otti myotansa kymmenen leiviskaa hopiaa ja kuusituhatta kultapenninkia ja kymmenen vaatekertaa,	
+<div class="theverse"><div class="versenum">5.</div> Syrian kuningas sanoi: mene sinne, ja mina lahetan kirjan Israelin kuninkaalle. Ja han meni sinne ja otti myotansa kymmenen leiviskaa hopiaa ja kuusituhatta kultapenninkia ja kymmenen vaatekertaa,	</div>
 
-<div class="versenum">6.</div> Ja vei kirjan Israelin kuninkaalle nain kirjoitetun: Kuin tama kirja tulee sinulle, katso, mina lahetin palveliani Naemanin sinun tykos, ettas hanen puhdistaisit spitalistansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja vei kirjan Israelin kuninkaalle nain kirjoitetun: Kuin tama kirja tulee sinulle, katso, mina lahetin palveliani Naemanin sinun tykos, ettas hanen puhdistaisit spitalistansa.	</div>
 
-<div class="versenum">7.</div> Kuin Israelin kuningas oli kirjansa lukenut, repaisi han vaatteensa ja sanoi: olenko mina Jumala, etta mina kuolettaisin ja elavaksi tekisin? Silla han lahettaa minun tykoni, etta mina puhdistaisin miehen spitalista. Havaitkaat siis ja katsokaat, kuinka han etsii tilaa minua vastaan.	
+<div class="theverse"><div class="versenum">7.</div> Kuin Israelin kuningas oli kirjansa lukenut, repaisi han vaatteensa ja sanoi: olenko mina Jumala, etta mina kuolettaisin ja elavaksi tekisin? Silla han lahettaa minun tykoni, etta mina puhdistaisin miehen spitalista. Havaitkaat siis ja katsokaat, kuinka han etsii tilaa minua vastaan.	</div>
 
-<div class="versenum">8.</div> Kuin Jumalan mies Elisa kuuli Israelin kuninkaan revaisseeksi vaatteensa, lahetti han kuninkaan tyko ja antoi sanoa hanelle: miksis olet revaissyt vaattees? Tulkaan nyt minun tykoni, etta han tietais prophetan olevan Israelissa.	
+<div class="theverse"><div class="versenum">8.</div> Kuin Jumalan mies Elisa kuuli Israelin kuninkaan revaisseeksi vaatteensa, lahetti han kuninkaan tyko ja antoi sanoa hanelle: miksis olet revaissyt vaattees? Tulkaan nyt minun tykoni, etta han tietais prophetan olevan Israelissa.	</div>
 
-<div class="versenum">9.</div> Niin tuli Naeman hevosillansa ja vaunuillansa, ja seisahti Elisan huoneen oven eteen.	
+<div class="theverse"><div class="versenum">9.</div> Niin tuli Naeman hevosillansa ja vaunuillansa, ja seisahti Elisan huoneen oven eteen.	</div>
 
-<div class="versenum">10.</div> Ja Elisa lahetti sanansaattajan hanen tykonsa, sanoen: mene ja pese itses seitseman kertaa Jordanissa, ja sinun lihas pitaa entisellensa ja puhtaaksi tuleman.	
+<div class="theverse"><div class="versenum">10.</div> Ja Elisa lahetti sanansaattajan hanen tykonsa, sanoen: mene ja pese itses seitseman kertaa Jordanissa, ja sinun lihas pitaa entisellensa ja puhtaaksi tuleman.	</div>
 
-<div class="versenum">11.</div> Niin Naeman vihastui ja meni matkaansa, sanoen: katso, mina luulin hanen kumminkin tulevan ulos minun tykoni, seisovan ja huutavan avuksensa Herran Jumalansa nimea, ja kadellansa pitelevan tata paikkaa, ja niin parantavan spitalin.	
+<div class="theverse"><div class="versenum">11.</div> Niin Naeman vihastui ja meni matkaansa, sanoen: katso, mina luulin hanen kumminkin tulevan ulos minun tykoni, seisovan ja huutavan avuksensa Herran Jumalansa nimea, ja kadellansa pitelevan tata paikkaa, ja niin parantavan spitalin.	</div>
 
-<div class="versenum">12.</div> Eiko Abanan ja Pharpharan virrat Damaskussa ole kaikkia Israelin vesia paremmat, etta mina itseni niissa pesisin ja tulisin puhtaaksi? Ja han palasi ja meni matkaansa vihoissansa.	
+<div class="theverse"><div class="versenum">12.</div> Eiko Abanan ja Pharpharan virrat Damaskussa ole kaikkia Israelin vesia paremmat, etta mina itseni niissa pesisin ja tulisin puhtaaksi? Ja han palasi ja meni matkaansa vihoissansa.	</div>
 
-<div class="versenum">13.</div> Niin hanen palveliansa tulivat hanen tykonsa ja puhuttelivat hanta, ja sanoivat: minun isani! jos propheta olis sanonut sinulle jotakin suurta asiaa, eiko sinun pitanyt sita tekeman? Mita enemmin, etta han sanoi sinulle: pese sinus, ja sina tulet puhtaaksi.	
+<div class="theverse"><div class="versenum">13.</div> Niin hanen palveliansa tulivat hanen tykonsa ja puhuttelivat hanta, ja sanoivat: minun isani! jos propheta olis sanonut sinulle jotakin suurta asiaa, eiko sinun pitanyt sita tekeman? Mita enemmin, etta han sanoi sinulle: pese sinus, ja sina tulet puhtaaksi.	</div>
 
-<div class="versenum">14.</div> Niin han meni ja pesi itsensa Jordanissa seitseman kertaa, niinkuin Jumalan mies kaskenyt oli, ja hanen lihansa tuli entisellensa, niinkuin vahan nuorukaisen liha, ja tuli puhtaaksi.	
+<div class="theverse"><div class="versenum">14.</div> Niin han meni ja pesi itsensa Jordanissa seitseman kertaa, niinkuin Jumalan mies kaskenyt oli, ja hanen lihansa tuli entisellensa, niinkuin vahan nuorukaisen liha, ja tuli puhtaaksi.	</div>
 
-<div class="versenum">15.</div> Ja han palasi Jumalan miehen tyko kaiken joukkonsa kanssa; ja kuin han oli tullut sisalle, seisoi han hanen edessansa ja sanoi: katso, nyt mina tiedan, ettei yhtakaan Jumalaa ole kaikessa maassa, vaan Israelissa: ota siis nyt tama siunaus sinun palvelialtas.	
+<div class="theverse"><div class="versenum">15.</div> Ja han palasi Jumalan miehen tyko kaiken joukkonsa kanssa; ja kuin han oli tullut sisalle, seisoi han hanen edessansa ja sanoi: katso, nyt mina tiedan, ettei yhtakaan Jumalaa ole kaikessa maassa, vaan Israelissa: ota siis nyt tama siunaus sinun palvelialtas.	</div>
 
-<div class="versenum">16.</div> Mutta han sanoi: niin totta kuin Herra elaa, jonka edessa mina seison, en ota mina sita. Ja han vaati hanta ottamaan, mutta han kielsi.	
+<div class="theverse"><div class="versenum">16.</div> Mutta han sanoi: niin totta kuin Herra elaa, jonka edessa mina seison, en ota mina sita. Ja han vaati hanta ottamaan, mutta han kielsi.	</div>
 
-<div class="versenum">17.</div> Niin sanoi Naeman: eiko palvelialles annettaisi kuorma multaa, niin paljo kuin kaksi muulia kantaa? Silla palvelias ei tahdo enaa muukalaisille jumalille uhrata ja polttouhria tehda, vaan Herralle.	
+<div class="theverse"><div class="versenum">17.</div> Niin sanoi Naeman: eiko palvelialles annettaisi kuorma multaa, niin paljo kuin kaksi muulia kantaa? Silla palvelias ei tahdo enaa muukalaisille jumalille uhrata ja polttouhria tehda, vaan Herralle.	</div>
 
-<div class="versenum">18.</div> Tassa asiassa olkoon Herra armias palvelialles! kuin herrani menee Rimmonin huoneesen rukoilemaan, ja nojaa minun kateni paalle, ja mina rukoilen Rimmonin huoneessa; niin olkoon Herra tassa asiassa palvelialles armias mies, etta mina Rimmonin huoneessa rukoilen!	
+<div class="theverse"><div class="versenum">18.</div> Tassa asiassa olkoon Herra armias palvelialles! kuin herrani menee Rimmonin huoneesen rukoilemaan, ja nojaa minun kateni paalle, ja mina rukoilen Rimmonin huoneessa; niin olkoon Herra tassa asiassa palvelialles armias mies, etta mina Rimmonin huoneessa rukoilen!	</div>
 
-<div class="versenum">19.</div> Ja han sanoi hanelle: mene rauhaan. Ja kuin han oli mennyt kappaleen matkaa pois hanen tykoansa kedolle,	
+<div class="theverse"><div class="versenum">19.</div> Ja han sanoi hanelle: mene rauhaan. Ja kuin han oli mennyt kappaleen matkaa pois hanen tykoansa kedolle,	</div>
 
-<div class="versenum">20.</div> Sanoi Gehatsi, Jumalan miehen Elisan palvelia: katso, herrani on saastanyt Naemania, tata Syrialaista, ettei han hanelta ottanut mita han toi; niin totta kuin Herra elaa, mina juoksen hanen perassansa ja otan jotakin hanelta.	
+<div class="theverse"><div class="versenum">20.</div> Sanoi Gehatsi, Jumalan miehen Elisan palvelia: katso, herrani on saastanyt Naemania, tata Syrialaista, ettei han hanelta ottanut mita han toi; niin totta kuin Herra elaa, mina juoksen hanen perassansa ja otan jotakin hanelta.	</div>
 
-<div class="versenum">21.</div> Niin Gehatsi juoksi nopiasti Naemanin jalkeen. Ja kuin Naeman naki hanen juoksevan perassansa, astui han vaunuista ulos hanta vastaan ja sanoi: onko rauha?	
+<div class="theverse"><div class="versenum">21.</div> Niin Gehatsi juoksi nopiasti Naemanin jalkeen. Ja kuin Naeman naki hanen juoksevan perassansa, astui han vaunuista ulos hanta vastaan ja sanoi: onko rauha?	</div>
 
-<div class="versenum">22.</div> Han sanoi: Rauha. Minun herrani lahetti minun, sanoen: katso, juuri nyt ovat tulleet minun tykoni Ephraimin vuorelta kaksi nuorukaista prophetain pojista, anna heille leiviska hopiaa ja kahdet juhlapaivan vaatteet.	
+<div class="theverse"><div class="versenum">22.</div> Han sanoi: Rauha. Minun herrani lahetti minun, sanoen: katso, juuri nyt ovat tulleet minun tykoni Ephraimin vuorelta kaksi nuorukaista prophetain pojista, anna heille leiviska hopiaa ja kahdet juhlapaivan vaatteet.	</div>
 
-<div class="versenum">23.</div> Naeman sanoi: ota kaksi leiviskaa hopiaa; ja han vaati hanen, ja sitoi kaksi leiviskaa hopiaa kahteen sakkiin, ja kahdet juhlapaivan vaatteet, ja antoi ne kahdelle palveliallensa, ja he kantoivat hanen edellansa.	
+<div class="theverse"><div class="versenum">23.</div> Naeman sanoi: ota kaksi leiviskaa hopiaa; ja han vaati hanen, ja sitoi kaksi leiviskaa hopiaa kahteen sakkiin, ja kahdet juhlapaivan vaatteet, ja antoi ne kahdelle palveliallensa, ja he kantoivat hanen edellansa.	</div>
 
-<div class="versenum">24.</div> Ja kuin han tuli Opheliin, otti han ne pois heidan kasistansa, ja katki ne huoneesen, ja paasti miehet, ja he menivat pois.	
+<div class="theverse"><div class="versenum">24.</div> Ja kuin han tuli Opheliin, otti han ne pois heidan kasistansa, ja katki ne huoneesen, ja paasti miehet, ja he menivat pois.	</div>
 
-<div class="versenum">25.</div> Ja han meni sisalle ja seisoi herransa edessa; niin Elisa sanoi hanelle: kustas tulet, Gehatsi? Han vastasi: ei palvelias ole mennyt sinne eli tanne.	
+<div class="theverse"><div class="versenum">25.</div> Ja han meni sisalle ja seisoi herransa edessa; niin Elisa sanoi hanelle: kustas tulet, Gehatsi? Han vastasi: ei palvelias ole mennyt sinne eli tanne.	</div>
 
-<div class="versenum">26.</div> Mutta han sanoi hanelle: eiko minun sydameni vaeltanut miehen palatessa vaunuistansa sinua vastaan? Oliko nyt aika sinun menna ottamaan hopiaa ja ottamaan vaatteita, oljypuita, viinamakia, lampaita, harkia, palvelioita ja piikoja?	
+<div class="theverse"><div class="versenum">26.</div> Mutta han sanoi hanelle: eiko minun sydameni vaeltanut miehen palatessa vaunuistansa sinua vastaan? Oliko nyt aika sinun menna ottamaan hopiaa ja ottamaan vaatteita, oljypuita, viinamakia, lampaita, harkia, palvelioita ja piikoja?	</div>
 
-<div class="versenum">27.</div> Sentahden pitaa Naemanin spitali tarttuman sinuun ja sinun siemenees ijankaikkisesti. Niin han meni pois hanen tykoansa spitalisena niinkuin lumi.	
+<div class="theverse"><div class="versenum">27.</div> Sentahden pitaa Naemanin spitali tarttuman sinuun ja sinun siemenees ijankaikkisesti. Niin han meni pois hanen tykoansa spitalisena niinkuin lumi.	</div>
 </body>
 </html>

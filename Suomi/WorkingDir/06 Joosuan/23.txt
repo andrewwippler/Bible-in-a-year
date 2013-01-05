@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">Joosuan 23	</div>
 	
-<div class="versenum">1.</div> Ja pitkan ajan perasta, kuin Herra oli antanut Israelin tulla lepoon kaikilta vihollisiltansa, jotka heidan ymparillansa olivat, ja Josua jo oli vanha ja hyvaan ikaan joutunut,	
+<div class="theverse"><div class="versenum">1.</div> Ja pitkan ajan perasta, kuin Herra oli antanut Israelin tulla lepoon kaikilta vihollisiltansa, jotka heidan ymparillansa olivat, ja Josua jo oli vanha ja hyvaan ikaan joutunut,	</div>
 
-<div class="versenum">2.</div> Kutsui Josua koko Israelin tykonsa, heidan vanhimpansa, paamiehensa, tuomarinsa ja esimiehensa, sanoen heille: mina olen jo vanha ja hyvaan ikaan tullut.	
+<div class="theverse"><div class="versenum">2.</div> Kutsui Josua koko Israelin tykonsa, heidan vanhimpansa, paamiehensa, tuomarinsa ja esimiehensa, sanoen heille: mina olen jo vanha ja hyvaan ikaan tullut.	</div>
 
-<div class="versenum">3.</div> Ja te olette nahneet kaikki, jotka Herra teidan Jumalanne on tehnyt kaikelle talle kansalle teidan edessanne; silla Herra teidan Jumalanne itse sotii teidan edestanne.	
+<div class="theverse"><div class="versenum">3.</div> Ja te olette nahneet kaikki, jotka Herra teidan Jumalanne on tehnyt kaikelle talle kansalle teidan edessanne; silla Herra teidan Jumalanne itse sotii teidan edestanne.	</div>
 
-<div class="versenum">4.</div> Katsokaat, mina olen jakanut teille ne kansat arvalla, jotka viela jaljella ovat, jokaiselle sukukunnalle oman perintonsa jalkeen, hamasta Jordanista, ja kaiken sen kansan, jonka mina havitin, suureen mereen asti auringon laskemiseen pain.	
+<div class="theverse"><div class="versenum">4.</div> Katsokaat, mina olen jakanut teille ne kansat arvalla, jotka viela jaljella ovat, jokaiselle sukukunnalle oman perintonsa jalkeen, hamasta Jordanista, ja kaiken sen kansan, jonka mina havitin, suureen mereen asti auringon laskemiseen pain.	</div>
 
-<div class="versenum">5.</div> Ja Herra teidan Jumalanne syoksee ulos ne teidan edestanne ja ajaa heidat ulos teidan kasvoinne edesta, niin etta te omistatte heidan maansa, niinkuin Herra teidan Jumalanne teille sanonut oli.	
+<div class="theverse"><div class="versenum">5.</div> Ja Herra teidan Jumalanne syoksee ulos ne teidan edestanne ja ajaa heidat ulos teidan kasvoinne edesta, niin etta te omistatte heidan maansa, niinkuin Herra teidan Jumalanne teille sanonut oli.	</div>
 
-<div class="versenum">6.</div> Niin vahvistukaat jalosti pitamaan ja tekemaan kaikki, mika on kirjoitettu Moseksen lakiraamatussa, niin ettette siita poikkeisi oikialle eli vasemmalle puolelle,	
+<div class="theverse"><div class="versenum">6.</div> Niin vahvistukaat jalosti pitamaan ja tekemaan kaikki, mika on kirjoitettu Moseksen lakiraamatussa, niin ettette siita poikkeisi oikialle eli vasemmalle puolelle,	</div>
 
-<div class="versenum">7.</div> Niin ettette tulisi naiden teidan keskellenne jaaneiden kansain sekaan, ja ettette mieleenne johdattaisi eli vannoisi heidan jumalainsa nimen kautta, etteka myos palvelisi heita elikka kumartaisi heita.	
+<div class="theverse"><div class="versenum">7.</div> Niin ettette tulisi naiden teidan keskellenne jaaneiden kansain sekaan, ja ettette mieleenne johdattaisi eli vannoisi heidan jumalainsa nimen kautta, etteka myos palvelisi heita elikka kumartaisi heita.	</div>
 
-<div class="versenum">8.</div> Mutta riippukaat Herrassa teidan Jumalassanne kiinni, niinkuin te tahan paivaan asti tehneet olette.	
+<div class="theverse"><div class="versenum">8.</div> Mutta riippukaat Herrassa teidan Jumalassanne kiinni, niinkuin te tahan paivaan asti tehneet olette.	</div>
 
-<div class="versenum">9.</div> Ja niin Herra ajaa teidan edestanne suuren ja vakevan kansan ulos, niinkuin ei yksikaan ole kestanyt teidan edessanne tahan paivaan asti.	
+<div class="theverse"><div class="versenum">9.</div> Ja niin Herra ajaa teidan edestanne suuren ja vakevan kansan ulos, niinkuin ei yksikaan ole kestanyt teidan edessanne tahan paivaan asti.	</div>
 
-<div class="versenum">10.</div> Yksi teista ajaa tuhatta takaa; silla Herra teidan Jumalanne itse sotii teidan edestanne, niinkuin han teille sanonut oli.	
+<div class="theverse"><div class="versenum">10.</div> Yksi teista ajaa tuhatta takaa; silla Herra teidan Jumalanne itse sotii teidan edestanne, niinkuin han teille sanonut oli.	</div>
 
-<div class="versenum">11.</div> Sentahden ottakaat visusti vaari teidan sielustanne, etta rakastatte Herraa teidan Jumalaanne.	
+<div class="theverse"><div class="versenum">11.</div> Sentahden ottakaat visusti vaari teidan sielustanne, etta rakastatte Herraa teidan Jumalaanne.	</div>
 
-<div class="versenum">12.</div> Mutta jos te kaannatte teitanne pois ja pidatte teitanne jaaneiden kansain tyko, ja yhdistatte teitanne naimisessa heidan kanssansa, niin etta te tulette heidan ja he teidan sekaanne,	
+<div class="theverse"><div class="versenum">12.</div> Mutta jos te kaannatte teitanne pois ja pidatte teitanne jaaneiden kansain tyko, ja yhdistatte teitanne naimisessa heidan kanssansa, niin etta te tulette heidan ja he teidan sekaanne,	</div>
 
-<div class="versenum">13.</div> Niin teidan pitaa todella tietaman, ettei Herra teidan Jumalanne enaa tata kansaa teidan edestanne aja ulos; mutta he tulevat teille paulaksi ja pahennukseksi ja ruoskaksi teidan kylkenne paalle, ja orjantappuraksi teidan silmillenne, siihenasti etta han teita hukuttaa siita hyvasta maasta, jonka Herra teidan Jumalanne teille antanut on.	
+<div class="theverse"><div class="versenum">13.</div> Niin teidan pitaa todella tietaman, ettei Herra teidan Jumalanne enaa tata kansaa teidan edestanne aja ulos; mutta he tulevat teille paulaksi ja pahennukseksi ja ruoskaksi teidan kylkenne paalle, ja orjantappuraksi teidan silmillenne, siihenasti etta han teita hukuttaa siita hyvasta maasta, jonka Herra teidan Jumalanne teille antanut on.	</div>
 
-<div class="versenum">14.</div> Ja katso, mina vaellan tanapana kaiken maailman tien; ja teidan pitaa tietaman kaikessa teidan sydamessanne ja kaikessa teidan sielussanne, ettei yhtaan sanaa ole jaanyt takaperin kaikesta siita hyvasta, minka Herra teidan Jumalanne teille luvannut on, mutta kaikki on tapahtunut teille, ja ei mitaan jaanyt takaperin.	
+<div class="theverse"><div class="versenum">14.</div> Ja katso, mina vaellan tanapana kaiken maailman tien; ja teidan pitaa tietaman kaikessa teidan sydamessanne ja kaikessa teidan sielussanne, ettei yhtaan sanaa ole jaanyt takaperin kaikesta siita hyvasta, minka Herra teidan Jumalanne teille luvannut on, mutta kaikki on tapahtunut teille, ja ei mitaan jaanyt takaperin.	</div>
 
-<div class="versenum">15.</div> Ja pitaa tapahtuman, etta niinkuin kaikki se hyva on teille tullut, jonka Herra teidan Jumalanne teille sanonut on, niin Herra myos antaa tulla teidan ylitsenne kaikki pahat, siihenasti etta han kadottaa teidat siita hyvasta maasta, jonka Herra teidan Jumalanne teille antanut on.	
+<div class="theverse"><div class="versenum">15.</div> Ja pitaa tapahtuman, etta niinkuin kaikki se hyva on teille tullut, jonka Herra teidan Jumalanne teille sanonut on, niin Herra myos antaa tulla teidan ylitsenne kaikki pahat, siihenasti etta han kadottaa teidat siita hyvasta maasta, jonka Herra teidan Jumalanne teille antanut on.	</div>
 
-<div class="versenum">16.</div> Jos te Herran teidan Jumalanne liiton kaytte ylitse, jonka han teille kaski, ja menette ja palvelette vieraita jumalia, ja heita rukoilette, niin Herran viha julmistuu teidan paallenne, ja te hukutte akisti siita hyvasta maasta, jonka han teille antoi.	
+<div class="theverse"><div class="versenum">16.</div> Jos te Herran teidan Jumalanne liiton kaytte ylitse, jonka han teille kaski, ja menette ja palvelette vieraita jumalia, ja heita rukoilette, niin Herran viha julmistuu teidan paallenne, ja te hukutte akisti siita hyvasta maasta, jonka han teille antoi.	</div>
 </body>
 </html>

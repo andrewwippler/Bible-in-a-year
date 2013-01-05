@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">Jesajan 33	</div>
 	
-<div class="versenum">1.</div> Voi siunas havittaja! luuletkos, ettei sinun pida havitetyksi tuleman? ja sinuas ylonkatsoja! luuletkos, ettei sinua ylonkatsota? Koska sina olet tayttanyt havitykses, niin sinun myos pitaa tuleman havitetyksi; koska sina olet tayttanyt ylonkatsees, niin sinua pitaa jalleen katsottaman ylon.	
+<div class="theverse"><div class="versenum">1.</div> Voi siunas havittaja! luuletkos, ettei sinun pida havitetyksi tuleman? ja sinuas ylonkatsoja! luuletkos, ettei sinua ylonkatsota? Koska sina olet tayttanyt havitykses, niin sinun myos pitaa tuleman havitetyksi; koska sina olet tayttanyt ylonkatsees, niin sinua pitaa jalleen katsottaman ylon.	</div>
 
-<div class="versenum">2.</div> Herra, ole meille armollinen; silla me odotamme sinua: ole heidan kasivartensa varhain, niin myos meidan autuutemme murheen ajalla.	
+<div class="theverse"><div class="versenum">2.</div> Herra, ole meille armollinen; silla me odotamme sinua: ole heidan kasivartensa varhain, niin myos meidan autuutemme murheen ajalla.	</div>
 
-<div class="versenum">3.</div> Kansat pakenevat sita suurta pauhinaa; pakanat hajoitetaan, kuin sina korotetaan.	
+<div class="theverse"><div class="versenum">3.</div> Kansat pakenevat sita suurta pauhinaa; pakanat hajoitetaan, kuin sina korotetaan.	</div>
 
-<div class="versenum">4.</div> Silloin pitaa teidan saalinne korjattaman niinkuin perhonen otetaan, ja niinkuin heinasirkat karkoitetaan, koska heidan paallensa tullaan.	
+<div class="theverse"><div class="versenum">4.</div> Silloin pitaa teidan saalinne korjattaman niinkuin perhonen otetaan, ja niinkuin heinasirkat karkoitetaan, koska heidan paallensa tullaan.	</div>
 
-<div class="versenum">5.</div> Herra on korotettu; silla han asuu korkeudessa: han on tayttanyt Zionin oikeudella ja vanhurskaudella.	
+<div class="theverse"><div class="versenum">5.</div> Herra on korotettu; silla han asuu korkeudessa: han on tayttanyt Zionin oikeudella ja vanhurskaudella.	</div>
 
-<div class="versenum">6.</div> Ja sinun ajallas pitaa oleman usko ja voima, autuus, tieto, toimi, ja Herran pelko pitaa oleman hanen tavaransa.	
+<div class="theverse"><div class="versenum">6.</div> Ja sinun ajallas pitaa oleman usko ja voima, autuus, tieto, toimi, ja Herran pelko pitaa oleman hanen tavaransa.	</div>
 
-<div class="versenum">7.</div> Katso, heidan sanansaattajansa huutavat ulkona: rauhan enkelit itkevat haikiasti.	
+<div class="theverse"><div class="versenum">7.</div> Katso, heidan sanansaattajansa huutavat ulkona: rauhan enkelit itkevat haikiasti.	</div>
 
-<div class="versenum">8.</div> Polut ovat autiot, ei kay yksikaan enaan tiella; ei han pida liittoa, han hylkaa kaupungit, ja ei pida lukua kansasta.	
+<div class="theverse"><div class="versenum">8.</div> Polut ovat autiot, ei kay yksikaan enaan tiella; ei han pida liittoa, han hylkaa kaupungit, ja ei pida lukua kansasta.	</div>
 
-<div class="versenum">9.</div> Han murehtii,ja maa on surkialla muodolla, Libanon on hapialla hakattu; Saron on niinkuin tasainen keto, Basan ja Karmeli ovat havitetyt.	
+<div class="theverse"><div class="versenum">9.</div> Han murehtii,ja maa on surkialla muodolla, Libanon on hapialla hakattu; Saron on niinkuin tasainen keto, Basan ja Karmeli ovat havitetyt.	</div>
 
-<div class="versenum">10.</div> Nyt mina tahdon nousta, sanoo Herra: nyt mina tahdon itseni korottaa, nyt mina tahdon korkiaksi tulla.	
+<div class="theverse"><div class="versenum">10.</div> Nyt mina tahdon nousta, sanoo Herra: nyt mina tahdon itseni korottaa, nyt mina tahdon korkiaksi tulla.	</div>
 
-<div class="versenum">11.</div> Oljista olette te raskaat, korsia te synnytatte; tulen pitaa teita kuluttaman teidan ylpeytene kanssa;	
+<div class="theverse"><div class="versenum">11.</div> Oljista olette te raskaat, korsia te synnytatte; tulen pitaa teita kuluttaman teidan ylpeytene kanssa;	</div>
 
-<div class="versenum">12.</div> Silla kansa pitaa poltettaman kalkiksi, niinkuin hakatut orjantappurat tulelle sytytetaan.	
+<div class="theverse"><div class="versenum">12.</div> Silla kansa pitaa poltettaman kalkiksi, niinkuin hakatut orjantappurat tulelle sytytetaan.	</div>
 
-<div class="versenum">13.</div> Niin kuulkaat nyt te, jotka kaukana olette, mita mina olen tehnyt; ja te, jotka olette lasna, havaitkaat minun vakevyteni.	
+<div class="theverse"><div class="versenum">13.</div> Niin kuulkaat nyt te, jotka kaukana olette, mita mina olen tehnyt; ja te, jotka olette lasna, havaitkaat minun vakevyteni.	</div>
 
-<div class="versenum">14.</div> Syntiset Zionissa ovat peljastyneet, hammastys on tullut ulkokullattuin paalle (ja sanovat): kuka on meidan seassamme, joka taitaa asua kuluttavaisen tulen tykona? kuka on meidan seassamme, joka voi asua ijankaikkisten hiilten tykona?	
+<div class="theverse"><div class="versenum">14.</div> Syntiset Zionissa ovat peljastyneet, hammastys on tullut ulkokullattuin paalle (ja sanovat): kuka on meidan seassamme, joka taitaa asua kuluttavaisen tulen tykona? kuka on meidan seassamme, joka voi asua ijankaikkisten hiilten tykona?	</div>
 
-<div class="versenum">15.</div> Joka vanhurskaudessa vaeltaa ja puhuu oikeutta; joka vaaryytta ja ahneutta vihaa, ja vetaa katensa pois, ettei han ota lahjoja; joka tukitsee korvansa kuulemasta veren vikoja, ja peittaa silmansa nakemasta pahaa:	
+<div class="theverse"><div class="versenum">15.</div> Joka vanhurskaudessa vaeltaa ja puhuu oikeutta; joka vaaryytta ja ahneutta vihaa, ja vetaa katensa pois, ettei han ota lahjoja; joka tukitsee korvansa kuulemasta veren vikoja, ja peittaa silmansa nakemasta pahaa:	</div>
 
-<div class="versenum">16.</div> Han on korkeudessa asuva, ja kalliot ovat hanen linnansa ja tukeensa: hanelle annetaan hanen leipansa, eika han ole epaileva vedestansa.	
+<div class="theverse"><div class="versenum">16.</div> Han on korkeudessa asuva, ja kalliot ovat hanen linnansa ja tukeensa: hanelle annetaan hanen leipansa, eika han ole epaileva vedestansa.	</div>
 
-<div class="versenum">17.</div> Sinun silmas nakevat kuninkaan kunniassansa: ne nakevat maan levitettyna.	
+<div class="theverse"><div class="versenum">17.</div> Sinun silmas nakevat kuninkaan kunniassansa: ne nakevat maan levitettyna.	</div>
 
-<div class="versenum">18.</div> Sinun sydames ihmettelee, (ja sanoo:) kussa nyt ovat kirjanoppineet? kussa ovat neuvonantajat? kussa taman maailman tutkia on?	
+<div class="theverse"><div class="versenum">18.</div> Sinun sydames ihmettelee, (ja sanoo:) kussa nyt ovat kirjanoppineet? kussa ovat neuvonantajat? kussa taman maailman tutkia on?	</div>
 
-<div class="versenum">19.</div> Etka myos sina ole nakeva sita vakevaa kansaa, sita syvakielista kansaa, jota ei ymmarreta, ja oudosta kielesta, jota ei taideta ymartaa.	
+<div class="theverse"><div class="versenum">19.</div> Etka myos sina ole nakeva sita vakevaa kansaa, sita syvakielista kansaa, jota ei ymmarreta, ja oudosta kielesta, jota ei taideta ymartaa.	</div>
 
-<div class="versenum">20.</div> Katso Zionia, juhlakaupunkiamme; sinun silmas on nakeva Jerusalemin kauniin asumuksen, majan, jota ei vieda pois, jonka paanuja ei ikana pida temmattaman ylos, ja jonka koysia ei ikana pida katkottaman.	
+<div class="theverse"><div class="versenum">20.</div> Katso Zionia, juhlakaupunkiamme; sinun silmas on nakeva Jerusalemin kauniin asumuksen, majan, jota ei vieda pois, jonka paanuja ei ikana pida temmattaman ylos, ja jonka koysia ei ikana pida katkottaman.	</div>
 
-<div class="versenum">21.</div> Silla Herra on siella oleva vakeva meidan tykonamme, ja siella pitaa oleman leviat virrat ja ojat; ei venheella taideta menna sielta ylitse, eika laiva taida sinne purjehtia;	
+<div class="theverse"><div class="versenum">21.</div> Silla Herra on siella oleva vakeva meidan tykonamme, ja siella pitaa oleman leviat virrat ja ojat; ei venheella taideta menna sielta ylitse, eika laiva taida sinne purjehtia;	</div>
 
-<div class="versenum">22.</div> Silla Herra on meidan tuomarimme, Herra on meidan opettajamme; Herra on meidan kuninkaamme, han auttaa meita.	
+<div class="theverse"><div class="versenum">22.</div> Silla Herra on meidan tuomarimme, Herra on meidan opettajamme; Herra on meidan kuninkaamme, han auttaa meita.	</div>
 
-<div class="versenum">23.</div> Anna heidan pingoittaa koytensa, ei ne pida kuitenkaan pitaman, niin ei pida myos heidan hajoittaman lippua pielten paalle; silla paljo kalliimpi saalis pitaa jaettaman, niin etta ontuvat myos ryostavat.	
+<div class="theverse"><div class="versenum">23.</div> Anna heidan pingoittaa koytensa, ei ne pida kuitenkaan pitaman, niin ei pida myos heidan hajoittaman lippua pielten paalle; silla paljo kalliimpi saalis pitaa jaettaman, niin etta ontuvat myos ryostavat.	</div>
 
-<div class="versenum">24.</div> Ja ei yhdenkaan asuvaisen pida sanoman: mina olen heikko; etta kansalla, joka siella asuu, pitaa oleman syntein paasto.	
+<div class="theverse"><div class="versenum">24.</div> Ja ei yhdenkaan asuvaisen pida sanoman: mina olen heikko; etta kansalla, joka siella asuu, pitaa oleman syntein paasto.	</div>
 </body>
 </html>

@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">Psalmien 83	</div>
 	
-<div class="versenum">1.</div> Asaphin Psalmi ja veisu. (H83:2) Jumala, ala niin ratki vaikene, ja ala niin aaneti ole: Jumala, ala sita niin karsi.	
+<div class="theverse"><div class="versenum">1.</div> Asaphin Psalmi ja veisu. (H83:2) Jumala, ala niin ratki vaikene, ja ala niin aaneti ole: Jumala, ala sita niin karsi.	</div>
 
-<div class="versenum">2.</div> Silla katso, Sinun vihollises kiukuitsevat, ja jotka sinua vihaavat, ylentavat paansa.	
+<div class="theverse"><div class="versenum">2.</div> Silla katso, Sinun vihollises kiukuitsevat, ja jotka sinua vihaavat, ylentavat paansa.	</div>
 
-<div class="versenum">3.</div> He pitavat kavaloita juonia sinun kansaas vastaan, ja pitavat neuvoa sinun salatuitas vastaan,	
+<div class="theverse"><div class="versenum">3.</div> He pitavat kavaloita juonia sinun kansaas vastaan, ja pitavat neuvoa sinun salatuitas vastaan,	</div>
 
-<div class="versenum">4.</div> Sanoen: tulkaat, havittakaamme heita, niin ettei he ensinkaan kansa olisikaan, ettei Israelin nimea silleen muisteltaisi.	
+<div class="theverse"><div class="versenum">4.</div> Sanoen: tulkaat, havittakaamme heita, niin ettei he ensinkaan kansa olisikaan, ettei Israelin nimea silleen muisteltaisi.	</div>
 
-<div class="versenum">5.</div> Silla he ovat sydamessansa panneet neuvonsa yhteen, ja tehneet liiton sinua vastaan:	
+<div class="theverse"><div class="versenum">5.</div> Silla he ovat sydamessansa panneet neuvonsa yhteen, ja tehneet liiton sinua vastaan:	</div>
 
-<div class="versenum">6.</div> Edomilaiset ja Ismaelilaiset majat, Moabilaiset ja Hagarilaiset,	
+<div class="theverse"><div class="versenum">6.</div> Edomilaiset ja Ismaelilaiset majat, Moabilaiset ja Hagarilaiset,	</div>
 
-<div class="versenum">7.</div> Gebalilaiset, Ammonilaiset ja Amalekilaiset, Philistealaiset ja Tyron asuvaiset.	
+<div class="theverse"><div class="versenum">7.</div> Gebalilaiset, Ammonilaiset ja Amalekilaiset, Philistealaiset ja Tyron asuvaiset.	</div>
 
-<div class="versenum">8.</div> Assur on myos itsensa heihin liittanyt, auttamaan Lotin lapsia, Sela!	
+<div class="theverse"><div class="versenum">8.</div> Assur on myos itsensa heihin liittanyt, auttamaan Lotin lapsia, Sela!	</div>
 
-<div class="versenum">9.</div> Tee niille niinkuin Midianilaisille, niinkuin Siseralle, niinkuin Jabinille Kisonin ojan tykona;	
+<div class="theverse"><div class="versenum">9.</div> Tee niille niinkuin Midianilaisille, niinkuin Siseralle, niinkuin Jabinille Kisonin ojan tykona;	</div>
 
-<div class="versenum">10.</div> Jotka mestattiin Endorin tykona, ja tulivat loaksi maan paalle.	
+<div class="theverse"><div class="versenum">10.</div> Jotka mestattiin Endorin tykona, ja tulivat loaksi maan paalle.	</div>
 
-<div class="versenum">11.</div> Tee heidan paaruhtinaansa niinkuin Orebin ja Seebin, ja kaikki heidan ylimmaisensa niinkuin Seban ja Salmunnan,	
+<div class="theverse"><div class="versenum">11.</div> Tee heidan paaruhtinaansa niinkuin Orebin ja Seebin, ja kaikki heidan ylimmaisensa niinkuin Seban ja Salmunnan,	</div>
 
-<div class="versenum">12.</div> Jotka sanovat: me omistamme meillemme Jumalan huoneet.	
+<div class="theverse"><div class="versenum">12.</div> Jotka sanovat: me omistamme meillemme Jumalan huoneet.	</div>
 
-<div class="versenum">13.</div> Jumala, tee heita niinkuin rattaan, niinkuin korren tuulen edessa.	
+<div class="theverse"><div class="versenum">13.</div> Jumala, tee heita niinkuin rattaan, niinkuin korren tuulen edessa.	</div>
 
-<div class="versenum">14.</div> Niinkuin kulo metsan polttaa, ja niinkuin liekki maet sytyttaa;	
+<div class="theverse"><div class="versenum">14.</div> Niinkuin kulo metsan polttaa, ja niinkuin liekki maet sytyttaa;	</div>
 
-<div class="versenum">15.</div> Vainoo juuri niin heita sinun rajuilmallas, ja hammastyta heita tuulispaallas.	
+<div class="theverse"><div class="versenum">15.</div> Vainoo juuri niin heita sinun rajuilmallas, ja hammastyta heita tuulispaallas.	</div>
 
-<div class="versenum">16.</div> Tayta heidan kasvonsa hapialla, etta he sinun nimeas, Herra, etsisivat.	
+<div class="theverse"><div class="versenum">16.</div> Tayta heidan kasvonsa hapialla, etta he sinun nimeas, Herra, etsisivat.	</div>
 
-<div class="versenum">17.</div> Havetkoon he ja hammastykoon ijankaikkisesti, ja hapiaan tulkoon ja hukkukoon.	
+<div class="theverse"><div class="versenum">17.</div> Havetkoon he ja hammastykoon ijankaikkisesti, ja hapiaan tulkoon ja hukkukoon.	</div>
 
-<div class="versenum">18.</div> Niin he saavat tuta, etta sina, jonka ainoan nimi on Herra, olet ylimmainen kaikessa maailmassa.	
+<div class="theverse"><div class="versenum">18.</div> Niin he saavat tuta, etta sina, jonka ainoan nimi on Herra, olet ylimmainen kaikessa maailmassa.	</div>
 </body>
 </html>

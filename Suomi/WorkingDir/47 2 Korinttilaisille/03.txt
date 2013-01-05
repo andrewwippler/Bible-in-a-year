@@ -4,40 +4,40 @@
 </head>
 <body><div class="chaptertitle">2 Korinttilaisille 3	</div>
 	
-<div class="versenum">1.</div> Rupeemmeko me siis itsiamme taas kehumaan? eli tarvitsemmeko me, niinkuin muutamat, kiitoskirjaa teidan tykonne, eli kiitoskirjaa teilta?	
+<div class="theverse"><div class="versenum">1.</div> Rupeemmeko me siis itsiamme taas kehumaan? eli tarvitsemmeko me, niinkuin muutamat, kiitoskirjaa teidan tykonne, eli kiitoskirjaa teilta?	</div>
 
-<div class="versenum">2.</div> Te olette meidan kirjamme, meidan sydamiimme kirjoitetut, joka kaikilta ihmisilta tunnetaan ja luetaan.	
+<div class="theverse"><div class="versenum">2.</div> Te olette meidan kirjamme, meidan sydamiimme kirjoitetut, joka kaikilta ihmisilta tunnetaan ja luetaan.	</div>
 
-<div class="versenum">3.</div> Ja te olette ilmoitetut, etta te Kristuksen lahetyskirja olette, meidan palveluksemme kautta valmistettu, ei plakilla kirjoitettu, vaan elavan Jumalan hengella, ei kivisiin tauluihin, vaan lihallisiin sydamen tauluihin.	
+<div class="theverse"><div class="versenum">3.</div> Ja te olette ilmoitetut, etta te Kristuksen lahetyskirja olette, meidan palveluksemme kautta valmistettu, ei plakilla kirjoitettu, vaan elavan Jumalan hengella, ei kivisiin tauluihin, vaan lihallisiin sydamen tauluihin.	</div>
 
-<div class="versenum">4.</div> Mutta senkaltainen uskallus on meilla Kristuksen kautta Jumalan puoleen.	
+<div class="theverse"><div class="versenum">4.</div> Mutta senkaltainen uskallus on meilla Kristuksen kautta Jumalan puoleen.	</div>
 
-<div class="versenum">5.</div> Ei niin, etta me olemme itse meistamme soveliaat jotakin ajattelemaan, niinkuin itse meistamme, vaan jos me olemme johonkuhun soveliaat, niin on se Jumalalta,	
+<div class="theverse"><div class="versenum">5.</div> Ei niin, etta me olemme itse meistamme soveliaat jotakin ajattelemaan, niinkuin itse meistamme, vaan jos me olemme johonkuhun soveliaat, niin on se Jumalalta,	</div>
 
-<div class="versenum">6.</div> Joka meita soveliaiksi tehnyt on Uuden Testamentin virkaa pitamaan, ei puustavin, vaan Hengen; silla puustavi kuolettaa, vaan Henki tekee elavaksi.	
+<div class="theverse"><div class="versenum">6.</div> Joka meita soveliaiksi tehnyt on Uuden Testamentin virkaa pitamaan, ei puustavin, vaan Hengen; silla puustavi kuolettaa, vaan Henki tekee elavaksi.	</div>
 
-<div class="versenum">7.</div> Mutta jos silla viralla, joka puustavin kautta kuolettaa ja kiviin kuvattu oli, oli senkaltainen kirkkaus, niin ettei Israelin lapset taitaneet katsoa Moseksen kasvoihin, hanen kasvoinsa kirkkauden tahden, joka kuitenkin katoo:	
+<div class="theverse"><div class="versenum">7.</div> Mutta jos silla viralla, joka puustavin kautta kuolettaa ja kiviin kuvattu oli, oli senkaltainen kirkkaus, niin ettei Israelin lapset taitaneet katsoa Moseksen kasvoihin, hanen kasvoinsa kirkkauden tahden, joka kuitenkin katoo:	</div>
 
-<div class="versenum">8.</div> Miksi ei siis paljoa enemmin silla viralla, joka hengen antaa, pitaisi kirkkaus oleman?	
+<div class="theverse"><div class="versenum">8.</div> Miksi ei siis paljoa enemmin silla viralla, joka hengen antaa, pitaisi kirkkaus oleman?	</div>
 
-<div class="versenum">9.</div> Silla, jos viralla, joka kadotuksesta saarnaa, kirkkaus oli, paljoa enemmin silla viralla, joka vanhurskaudesta saarnaa, on ylonpalttinen kirkkaus;	
+<div class="theverse"><div class="versenum">9.</div> Silla, jos viralla, joka kadotuksesta saarnaa, kirkkaus oli, paljoa enemmin silla viralla, joka vanhurskaudesta saarnaa, on ylonpalttinen kirkkaus;	</div>
 
-<div class="versenum">10.</div> Silla se toinen, joka kirkastettu oli, ei ole ensinkaan kirkkaudeksi luettava, sen ylonpalttisen kirkkauden suhteen.	
+<div class="theverse"><div class="versenum">10.</div> Silla se toinen, joka kirkastettu oli, ei ole ensinkaan kirkkaudeksi luettava, sen ylonpalttisen kirkkauden suhteen.	</div>
 
-<div class="versenum">11.</div> Silla jos silla oli kirkkaus, joka katoo, paljoa enemmin on silla kirkkaus, joka pysyy.	
+<div class="theverse"><div class="versenum">11.</div> Silla jos silla oli kirkkaus, joka katoo, paljoa enemmin on silla kirkkaus, joka pysyy.	</div>
 
-<div class="versenum">12.</div> Etta meilla siis senkaltainen toivo on, niin me puhumme rohkiasti,	
+<div class="theverse"><div class="versenum">12.</div> Etta meilla siis senkaltainen toivo on, niin me puhumme rohkiasti,	</div>
 
-<div class="versenum">13.</div> Ja emme tee niinkuin Moses, joka kasvoillensa peitteen pani, ettei Israelin lapset taitaneet sen loppua katsoa, joka katoo.	
+<div class="theverse"><div class="versenum">13.</div> Ja emme tee niinkuin Moses, joka kasvoillensa peitteen pani, ettei Israelin lapset taitaneet sen loppua katsoa, joka katoo.	</div>
 
-<div class="versenum">14.</div> Vaan heidan taitonsa olivat paatuneet. Silla tahan paivaan asti, kuin vanhaa Testamenttia luetaan, pysyy se peite ottamatta pois, joka Kristuksessa lakkaa.	
+<div class="theverse"><div class="versenum">14.</div> Vaan heidan taitonsa olivat paatuneet. Silla tahan paivaan asti, kuin vanhaa Testamenttia luetaan, pysyy se peite ottamatta pois, joka Kristuksessa lakkaa.	</div>
 
-<div class="versenum">15.</div> Mutta tahan paivaan asti, kuin Mosesta luetaan, riippuu se peite heidan sydamensa edessa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta tahan paivaan asti, kuin Mosesta luetaan, riippuu se peite heidan sydamensa edessa.	</div>
 
-<div class="versenum">16.</div> Mutta kuin he palajavat Herran puoleen, niin peite otetaan pois.	
+<div class="theverse"><div class="versenum">16.</div> Mutta kuin he palajavat Herran puoleen, niin peite otetaan pois.	</div>
 
-<div class="versenum">17.</div> Silla Herra on Henki; mutta kussa Herran Henki on, siina on vapaus.	
+<div class="theverse"><div class="versenum">17.</div> Silla Herra on Henki; mutta kussa Herran Henki on, siina on vapaus.	</div>
 
-<div class="versenum">18.</div> Mutta me kaikki avoimilla kasvoilla Herran kirkkautta katselemme, niinkuin peilissa, ja me muutetaan siihen kuvaan kirkkaudesta niin kirkkauteen niinkuin Herran Hengesta.	
+<div class="theverse"><div class="versenum">18.</div> Mutta me kaikki avoimilla kasvoilla Herran kirkkautta katselemme, niinkuin peilissa, ja me muutetaan siihen kuvaan kirkkaudesta niin kirkkauteen niinkuin Herran Hengesta.	</div>
 </body>
 </html>

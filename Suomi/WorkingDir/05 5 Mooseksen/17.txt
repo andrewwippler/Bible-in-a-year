@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 17	</div>
 	
-<div class="versenum">1.</div> Ala uhraa Herralle sinun Jumalalles mitaan nautaa eli lammasta, jossa joku virhe taikka puutos on: silla se on Herralle sinun Jumalalles kauhistus.	
+<div class="theverse"><div class="versenum">1.</div> Ala uhraa Herralle sinun Jumalalles mitaan nautaa eli lammasta, jossa joku virhe taikka puutos on: silla se on Herralle sinun Jumalalles kauhistus.	</div>
 
-<div class="versenum">2.</div> Jos loydetaan jossakussa sinun porteistas, jotka Herra sinun Jumalas antaa sinulle, joku mies eli vaimo, joka pahaa tekee Herran sinun Jumalas silmain edessa, rikkoen hanen liittonsa,	
+<div class="theverse"><div class="versenum">2.</div> Jos loydetaan jossakussa sinun porteistas, jotka Herra sinun Jumalas antaa sinulle, joku mies eli vaimo, joka pahaa tekee Herran sinun Jumalas silmain edessa, rikkoen hanen liittonsa,	</div>
 
-<div class="versenum">3.</div> Ja menee palvelemaan vieraita jumalia, ja kumartaa niita, aurinkoa, kuuta tahi jotakuta taivaan joukosta, jota en mina kaskenyt ole,	
+<div class="theverse"><div class="versenum">3.</div> Ja menee palvelemaan vieraita jumalia, ja kumartaa niita, aurinkoa, kuuta tahi jotakuta taivaan joukosta, jota en mina kaskenyt ole,	</div>
 
-<div class="versenum">4.</div> Ja se sanotaan sinulle, ja sina kuulet sen, niin tiedustele visusti, ja koskas loydat totiseksi todeksi, etta senkaltainen kauhistus Israelissa tehty on;	
+<div class="theverse"><div class="versenum">4.</div> Ja se sanotaan sinulle, ja sina kuulet sen, niin tiedustele visusti, ja koskas loydat totiseksi todeksi, etta senkaltainen kauhistus Israelissa tehty on;	</div>
 
-<div class="versenum">5.</div> Niin vie se mies tahi vaimo ulos joka senkaltaisen pahuuden on tehnyt, sinun portteihis, ja kivita hanet kuoliaaksi.	
+<div class="theverse"><div class="versenum">5.</div> Niin vie se mies tahi vaimo ulos joka senkaltaisen pahuuden on tehnyt, sinun portteihis, ja kivita hanet kuoliaaksi.	</div>
 
-<div class="versenum">6.</div> Kahden eli kolmen suun todistuksesta pitaa sen kuoleman, joka kuoleman on ansainnut; mutta yhden suun todistuksesta ei pida hanen kuoleman.	
+<div class="theverse"><div class="versenum">6.</div> Kahden eli kolmen suun todistuksesta pitaa sen kuoleman, joka kuoleman on ansainnut; mutta yhden suun todistuksesta ei pida hanen kuoleman.	</div>
 
-<div class="versenum">7.</div> Todistajain kasi pitaa ensin oleman hanen paallensa tappamaan hanta ja sitte kaiken kansan kasi: sinun pitaa eroittaman pahan sinun seastas.	
+<div class="theverse"><div class="versenum">7.</div> Todistajain kasi pitaa ensin oleman hanen paallensa tappamaan hanta ja sitte kaiken kansan kasi: sinun pitaa eroittaman pahan sinun seastas.	</div>
 
-<div class="versenum">8.</div> Jos joku asia tuomiossa nakyy sinulle pimiaksi, veren ja veren valilla, asian ja asian valilla, vahingon ja vahingon valilla, ja kuin eripuraiset asiat ovat sinun porteissas, niin nouse ja mene siihen paikkaan jonka Herra sinun Jumalas valitseva on,	
+<div class="theverse"><div class="versenum">8.</div> Jos joku asia tuomiossa nakyy sinulle pimiaksi, veren ja veren valilla, asian ja asian valilla, vahingon ja vahingon valilla, ja kuin eripuraiset asiat ovat sinun porteissas, niin nouse ja mene siihen paikkaan jonka Herra sinun Jumalas valitseva on,	</div>
 
-<div class="versenum">9.</div> Ja tule pappein, Levilaisten ja tuomarin tyko, jotka siihen aikaan ovat, ja kysy heilta: he sanovat sinulle tuomion sanan,	
+<div class="theverse"><div class="versenum">9.</div> Ja tule pappein, Levilaisten ja tuomarin tyko, jotka siihen aikaan ovat, ja kysy heilta: he sanovat sinulle tuomion sanan,	</div>
 
-<div class="versenum">10.</div> Ja tee sen sanan jalkeen, jonka he sinulle julistavat, siina paikassa minka Herra valitseva on, ja ota vaari, ettas teet kaikki mita he sinulle opettavat.	
+<div class="theverse"><div class="versenum">10.</div> Ja tee sen sanan jalkeen, jonka he sinulle julistavat, siina paikassa minka Herra valitseva on, ja ota vaari, ettas teet kaikki mita he sinulle opettavat.	</div>
 
-<div class="versenum">11.</div> Sen lain jalkeen jonka he opettavat sinulle, ja sen tuomion jalkeen jonka he sanovat sinun etees, pitaa sinun tekeman, niin ettes siita sanasta, kuin he sanovat sinulle, vilpistele et oikialle etka vasemmalle.	
+<div class="theverse"><div class="versenum">11.</div> Sen lain jalkeen jonka he opettavat sinulle, ja sen tuomion jalkeen jonka he sanovat sinun etees, pitaa sinun tekeman, niin ettes siita sanasta, kuin he sanovat sinulle, vilpistele et oikialle etka vasemmalle.	</div>
 
-<div class="versenum">12.</div> Ja jos joku olis ollut ylpia, niin ettei han ole kuuliainen papille, joka siella Herran sinun Jumalas palvelusta tekemassa seisoo, eli tuomarille, hanen pitaa kuoleman: ja ota sina paha Israelista pois,	
+<div class="theverse"><div class="versenum">12.</div> Ja jos joku olis ollut ylpia, niin ettei han ole kuuliainen papille, joka siella Herran sinun Jumalas palvelusta tekemassa seisoo, eli tuomarille, hanen pitaa kuoleman: ja ota sina paha Israelista pois,	</div>
 
-<div class="versenum">13.</div> Etta kaikki kansa sen kuulevat ja pelkaavat, ja ei enaa ylpiasti tee.	
+<div class="theverse"><div class="versenum">13.</div> Etta kaikki kansa sen kuulevat ja pelkaavat, ja ei enaa ylpiasti tee.	</div>
 
-<div class="versenum">14.</div> Koska tulet siihen maahan, kuin Herra sinun Jumalas sinulle antaa, omistaakses sita ja asuakses siina, ja sanot: mina asetan kuninkaan minulleni, niinkuin kaikki kansat jotka minun ymparillani ovat;	
+<div class="theverse"><div class="versenum">14.</div> Koska tulet siihen maahan, kuin Herra sinun Jumalas sinulle antaa, omistaakses sita ja asuakses siina, ja sanot: mina asetan kuninkaan minulleni, niinkuin kaikki kansat jotka minun ymparillani ovat;	</div>
 
-<div class="versenum">15.</div> Niin aseta se kuninkaaksi sinulles, jonka Herra sinun Jumalas valitsee. Aseta veljistas kuningas sinulles: et sina saa muukalaista asettaa sinulles, joka ei sinun veljes ole,	
+<div class="theverse"><div class="versenum">15.</div> Niin aseta se kuninkaaksi sinulles, jonka Herra sinun Jumalas valitsee. Aseta veljistas kuningas sinulles: et sina saa muukalaista asettaa sinulles, joka ei sinun veljes ole,	</div>
 
-<div class="versenum">16.</div> Ainoastaan ettei han pida monta hevosta, ja vie kansaa jalleen Egyptiin niiden monien hevosten tahden, ja etta Herra teille sanoi: ettette enaa tata tieta tule.	
+<div class="theverse"><div class="versenum">16.</div> Ainoastaan ettei han pida monta hevosta, ja vie kansaa jalleen Egyptiin niiden monien hevosten tahden, ja etta Herra teille sanoi: ettette enaa tata tieta tule.	</div>
 
-<div class="versenum">17.</div> Ei hanen myos pida ottaman itsellensa monta emantaa, ettei hanen sydamensa kaantyisi pois, ja ei hanen pida myos itsellensa aivan paljo hopiaa ja kultaa kokooman.	
+<div class="theverse"><div class="versenum">17.</div> Ei hanen myos pida ottaman itsellensa monta emantaa, ettei hanen sydamensa kaantyisi pois, ja ei hanen pida myos itsellensa aivan paljo hopiaa ja kultaa kokooman.	</div>
 
-<div class="versenum">18.</div> Ja kuin han istuu valtakuntansa istuimella, niin ottakaan taman lain papeilta Levilaisilta, ja antakaan kirjoittaa toisen kappaleen siihen kirjaan.	
+<div class="theverse"><div class="versenum">18.</div> Ja kuin han istuu valtakuntansa istuimella, niin ottakaan taman lain papeilta Levilaisilta, ja antakaan kirjoittaa toisen kappaleen siihen kirjaan.	</div>
 
-<div class="versenum">19.</div> Se olkoon hanen tykonansa, ja lukekaan sita kaiken elinaikansa, etta han oppis pelkaamaan Herraa Jumalaansa, ja pitamaan kaiken taman lain sanat ja namat saadyt, ja etta han tekis niiden jalkeen.	
+<div class="theverse"><div class="versenum">19.</div> Se olkoon hanen tykonansa, ja lukekaan sita kaiken elinaikansa, etta han oppis pelkaamaan Herraa Jumalaansa, ja pitamaan kaiken taman lain sanat ja namat saadyt, ja etta han tekis niiden jalkeen.	</div>
 
-<div class="versenum">20.</div> Niin ettei han korottaisi sydantansa veljeinsa ylitse, eika myos kaskyista vilpistelisi, oikialle eika vasemmalle puolelle, etta han paivansa pitentaisi valtakunnassansa, han ja hanen poikansa Israelissa.	
+<div class="theverse"><div class="versenum">20.</div> Niin ettei han korottaisi sydantansa veljeinsa ylitse, eika myos kaskyista vilpistelisi, oikialle eika vasemmalle puolelle, etta han paivansa pitentaisi valtakunnassansa, han ja hanen poikansa Israelissa.	</div>
 </body>
 </html>

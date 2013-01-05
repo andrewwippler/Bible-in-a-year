@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">Psalmien 40	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H40:2) Mina hartaasti odotin Herraa: ja han kallisti itsensa minun tykoni, ja han kuuli minun huutoni.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, edellaveisaajalle. (H40:2) Mina hartaasti odotin Herraa: ja han kallisti itsensa minun tykoni, ja han kuuli minun huutoni.	</div>
 
-<div class="versenum">2.</div> Ja han veti minun ylos hirmuisesta haudasta ja sontaisesta loasta, ja asetti minun jalkani kalliolle, ja hallitsi minun kaymiseni.	
+<div class="theverse"><div class="versenum">2.</div> Ja han veti minun ylos hirmuisesta haudasta ja sontaisesta loasta, ja asetti minun jalkani kalliolle, ja hallitsi minun kaymiseni.	</div>
 
-<div class="versenum">3.</div> Ja han antoi minun suuhuni uuden veisun, kiittamaan meidan Jumalaamme. Sen pitaa monen nakeman, ja pelkaaman Herraa, ja toivoman haneen.	
+<div class="theverse"><div class="versenum">3.</div> Ja han antoi minun suuhuni uuden veisun, kiittamaan meidan Jumalaamme. Sen pitaa monen nakeman, ja pelkaaman Herraa, ja toivoman haneen.	</div>
 
-<div class="versenum">4.</div> Autuas on se ihminen, joka panee uskalluksensa Herraan, ja ei kaanny ylpeiden tyko ja niiden, jotka valheella vaeltavat.	
+<div class="theverse"><div class="versenum">4.</div> Autuas on se ihminen, joka panee uskalluksensa Herraan, ja ei kaanny ylpeiden tyko ja niiden, jotka valheella vaeltavat.	</div>
 
-<div class="versenum">5.</div> Herra, minun Jumalani, suuret ovat sinun ihmees ja ajatukses, jotka sina meille osoitat: ei ole mitaan sinun vertaas; mina ilmoitan niita ja sanon, vaikka ne ovat epalukuiset.	
+<div class="theverse"><div class="versenum">5.</div> Herra, minun Jumalani, suuret ovat sinun ihmees ja ajatukses, jotka sina meille osoitat: ei ole mitaan sinun vertaas; mina ilmoitan niita ja sanon, vaikka ne ovat epalukuiset.	</div>
 
-<div class="versenum">6.</div> Uhri ja ruokauhri ei sinulle kelpaa, vaan korvat sina minulle avasit: et sina tahdo polttouhria eli syntiuhria.	
+<div class="theverse"><div class="versenum">6.</div> Uhri ja ruokauhri ei sinulle kelpaa, vaan korvat sina minulle avasit: et sina tahdo polttouhria eli syntiuhria.	</div>
 
-<div class="versenum">7.</div> Silloin mina sanoin: katso, mina tulen: Raamatussa on minusta kirjoitettu.	
+<div class="theverse"><div class="versenum">7.</div> Silloin mina sanoin: katso, mina tulen: Raamatussa on minusta kirjoitettu.	</div>
 
-<div class="versenum">8.</div> Sinun tahtos, minun Jumalani, teen mina mielellani; ja sinun lakis on minun sydamessani.	
+<div class="theverse"><div class="versenum">8.</div> Sinun tahtos, minun Jumalani, teen mina mielellani; ja sinun lakis on minun sydamessani.	</div>
 
-<div class="versenum">9.</div> Mina saarnaan sinun vanhurskauttas suuressa seurakunnassa: katso, en mina anna tukita suutani; Herra, sina sen tiedat.	
+<div class="theverse"><div class="versenum">9.</div> Mina saarnaan sinun vanhurskauttas suuressa seurakunnassa: katso, en mina anna tukita suutani; Herra, sina sen tiedat.	</div>
 
-<div class="versenum">10.</div> En mina salaa vanhurskauttas sydamessani: mina puhun sinun totuudestas ja autuudestas: en mina peita laupiuttas ja vakuuttas suuressa seurakunnassa.	
+<div class="theverse"><div class="versenum">10.</div> En mina salaa vanhurskauttas sydamessani: mina puhun sinun totuudestas ja autuudestas: en mina peita laupiuttas ja vakuuttas suuressa seurakunnassa.	</div>
 
-<div class="versenum">11.</div> Mutta sina, Herra, ala kaanna laupiuttas minusta pois: sinun laupiutes ja vakuutes aina minua varjelkoon.	
+<div class="theverse"><div class="versenum">11.</div> Mutta sina, Herra, ala kaanna laupiuttas minusta pois: sinun laupiutes ja vakuutes aina minua varjelkoon.	</div>
 
-<div class="versenum">12.</div> Silla lukemattomat vaivat ovat minun piirittaneet: minun syntini ovat minun ottaneet kiinni, niin etten mina nahda taida: ne ovat usiammat kuin hiukset paassani, ja minun sydameni on minussa vaipunut.	
+<div class="theverse"><div class="versenum">12.</div> Silla lukemattomat vaivat ovat minun piirittaneet: minun syntini ovat minun ottaneet kiinni, niin etten mina nahda taida: ne ovat usiammat kuin hiukset paassani, ja minun sydameni on minussa vaipunut.	</div>
 
-<div class="versenum">13.</div> Kelvatkoon se sinulle, Herra, ettas minun vapahdat: rienna, Herra, minua auttamaan!	
+<div class="theverse"><div class="versenum">13.</div> Kelvatkoon se sinulle, Herra, ettas minun vapahdat: rienna, Herra, minua auttamaan!	</div>
 
-<div class="versenum">14.</div> Havetkoon ja kaikki pilkaksi tulkoon, jotka minun sieluani vaijyvat hukataksensa sita: palatkoon takaperin ja hapiaan tulkoon, jotka minulle pahaa suovat.	
+<div class="theverse"><div class="versenum">14.</div> Havetkoon ja kaikki pilkaksi tulkoon, jotka minun sieluani vaijyvat hukataksensa sita: palatkoon takaperin ja hapiaan tulkoon, jotka minulle pahaa suovat.	</div>
 
-<div class="versenum">15.</div> Hammastykoon hapiassansa, jotka minulle sanovat: niin, niin.	
+<div class="theverse"><div class="versenum">15.</div> Hammastykoon hapiassansa, jotka minulle sanovat: niin, niin.	</div>
 
-<div class="versenum">16.</div> Iloitkaan ja riemuitkaan kaikki sinussa, jotka sinua etsivat, ja jotka sinun autuuttas rakastavat, sanokaan aina: Herra olkoon korkiasti ylistetty!	
+<div class="theverse"><div class="versenum">16.</div> Iloitkaan ja riemuitkaan kaikki sinussa, jotka sinua etsivat, ja jotka sinun autuuttas rakastavat, sanokaan aina: Herra olkoon korkiasti ylistetty!	</div>
 
-<div class="versenum">17.</div> Mina olen koyha ja vaivainen, mutta Herra pitaa minusta murheen: sina olet minun auttajani ja vapahtajani: minun Jumalani, ala viivy.	
+<div class="theverse"><div class="versenum">17.</div> Mina olen koyha ja vaivainen, mutta Herra pitaa minusta murheen: sina olet minun auttajani ja vapahtajani: minun Jumalani, ala viivy.	</div>
 </body>
 </html>

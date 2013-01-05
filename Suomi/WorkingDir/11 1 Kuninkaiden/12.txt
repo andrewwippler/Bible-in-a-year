@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 12	</div>
 	
-<div class="versenum">1.</div> Ja Rehabeam meni Sikemiin, silla koko Israel oli silloin tullut Sikemiin, tekemaan hanta kuninkaaksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja Rehabeam meni Sikemiin, silla koko Israel oli silloin tullut Sikemiin, tekemaan hanta kuninkaaksi.	</div>
 
-<div class="versenum">2.</div> Ja Jerobeam Nebatin poika kuuli sen ollessansa Egyptissa, johon han kuningas Salomon edesta paennut oli: (ja Jerobeam viipyi Egyptissa.)	
+<div class="theverse"><div class="versenum">2.</div> Ja Jerobeam Nebatin poika kuuli sen ollessansa Egyptissa, johon han kuningas Salomon edesta paennut oli: (ja Jerobeam viipyi Egyptissa.)	</div>
 
-<div class="versenum">3.</div> Ja he olivat lahettaneet hanta kutsumaan; ja Jerobeam tuli ja koko Israelin joukko, ja he puhuivat Rehabeamille ja sanoivat:	
+<div class="theverse"><div class="versenum">3.</div> Ja he olivat lahettaneet hanta kutsumaan; ja Jerobeam tuli ja koko Israelin joukko, ja he puhuivat Rehabeamille ja sanoivat:	</div>
 
-<div class="versenum">4.</div> Sinun isas on meidan ikeemme raskauttanut: niin huojenna nyt sina isas kova palvelus ja raskas ijes, jonka han meidan paallemme pannut on, niin me palvelemme sinua.	
+<div class="theverse"><div class="versenum">4.</div> Sinun isas on meidan ikeemme raskauttanut: niin huojenna nyt sina isas kova palvelus ja raskas ijes, jonka han meidan paallemme pannut on, niin me palvelemme sinua.	</div>
 
-<div class="versenum">5.</div> Mutta han sanoi heille: menkaat pois kolmanteen paivaan asti ja tulkaat jalleen minun tykoni; ja kansa meni.	
+<div class="theverse"><div class="versenum">5.</div> Mutta han sanoi heille: menkaat pois kolmanteen paivaan asti ja tulkaat jalleen minun tykoni; ja kansa meni.	</div>
 
-<div class="versenum">6.</div> Niin kuningas Rehabeam piti neuvoa vanhempain kanssa, jotka hanen isansa Salomon edessa seisoivat, kuin han viela eli, ja sanoi: kuinka te neuvotte vastaamaan tata kansaa?	
+<div class="theverse"><div class="versenum">6.</div> Niin kuningas Rehabeam piti neuvoa vanhempain kanssa, jotka hanen isansa Salomon edessa seisoivat, kuin han viela eli, ja sanoi: kuinka te neuvotte vastaamaan tata kansaa?	</div>
 
-<div class="versenum">7.</div> He puhuivat hanelle sanoen: jos sina palvelet tanapana tata kansaa ja noudat heidan mielensa, ja vastaat heita ja annat heille hyvia sanoja; niin he ovat sinun palvelias kaiken sinun elinaikas.	
+<div class="theverse"><div class="versenum">7.</div> He puhuivat hanelle sanoen: jos sina palvelet tanapana tata kansaa ja noudat heidan mielensa, ja vastaat heita ja annat heille hyvia sanoja; niin he ovat sinun palvelias kaiken sinun elinaikas.	</div>
 
-<div class="versenum">8.</div> Mutta han hylkasi vanhimpain neuvon, jonka he hanelle antaneet olivat, ja piti neuvoa nuorukaisten kanssa, jotka hanen kanssansa kasvaneet olivat ja hanen edessansa seisoivat.	
+<div class="theverse"><div class="versenum">8.</div> Mutta han hylkasi vanhimpain neuvon, jonka he hanelle antaneet olivat, ja piti neuvoa nuorukaisten kanssa, jotka hanen kanssansa kasvaneet olivat ja hanen edessansa seisoivat.	</div>
 
-<div class="versenum">9.</div> Ja han sanoi niille: mita te neuvotte vastaamaan tata kansaa, joka minulle on puhunut sanoen: Huojenna se ijes, jonka isas meidan paallemme pannut on?	
+<div class="theverse"><div class="versenum">9.</div> Ja han sanoi niille: mita te neuvotte vastaamaan tata kansaa, joka minulle on puhunut sanoen: Huojenna se ijes, jonka isas meidan paallemme pannut on?	</div>
 
-<div class="versenum">10.</div> Ja nuorukaiset, jotka hanen kanssansa kasvaneet olivat, puhuivat hanelle sanoen: nain pitaa sinun sanoman kansalle, joka sinulle sanoo: sinun isas on meidan ikeemme raskauttanut, huojenna se meilta! sille pitaa sinun sanoman: minun pienin sormeni on paksumpi kuin minun isani kupeet.	
+<div class="theverse"><div class="versenum">10.</div> Ja nuorukaiset, jotka hanen kanssansa kasvaneet olivat, puhuivat hanelle sanoen: nain pitaa sinun sanoman kansalle, joka sinulle sanoo: sinun isas on meidan ikeemme raskauttanut, huojenna se meilta! sille pitaa sinun sanoman: minun pienin sormeni on paksumpi kuin minun isani kupeet.	</div>
 
-<div class="versenum">11.</div> Minun isani on teidan ikeenne raskauttanut, mutta mina lisaan viela nyt teidan ikeesenne: minun isani on kurittanut teita ruoskilla, vaan mina kuritan teita skorpioneilla.	
+<div class="theverse"><div class="versenum">11.</div> Minun isani on teidan ikeenne raskauttanut, mutta mina lisaan viela nyt teidan ikeesenne: minun isani on kurittanut teita ruoskilla, vaan mina kuritan teita skorpioneilla.	</div>
 
-<div class="versenum">12.</div> Niin Jerobeam ja kaikki kansa tuli Rehabeamin tyko kolmantena paivana, niinkuin kuningas puhunut ja sanonut oli: tulkaat minun tykoni jalleen kolmantena paivana.	
+<div class="theverse"><div class="versenum">12.</div> Niin Jerobeam ja kaikki kansa tuli Rehabeamin tyko kolmantena paivana, niinkuin kuningas puhunut ja sanonut oli: tulkaat minun tykoni jalleen kolmantena paivana.	</div>
 
-<div class="versenum">13.</div> Ja kuningas vastasi kovin kansaa, ja hylkasi sen neuvon, jonka vanhimmat olivat hanelle antaneet,	
+<div class="theverse"><div class="versenum">13.</div> Ja kuningas vastasi kovin kansaa, ja hylkasi sen neuvon, jonka vanhimmat olivat hanelle antaneet,	</div>
 
-<div class="versenum">14.</div> Ja puhui heille niinkuin nuoret olivat neuvoneet, ja sanoi: minun isani on teidan ikeenne raskauttanut, mutta mina lisaan teidan ikeesenne viela: minun isani on teita kurittanut ruoskilla, vaan mina kuritan teita skorpioneilla.	
+<div class="theverse"><div class="versenum">14.</div> Ja puhui heille niinkuin nuoret olivat neuvoneet, ja sanoi: minun isani on teidan ikeenne raskauttanut, mutta mina lisaan teidan ikeesenne viela: minun isani on teita kurittanut ruoskilla, vaan mina kuritan teita skorpioneilla.	</div>
 
-<div class="versenum">15.</div> Ja ei kuningas kuullut kansaa; silla Herra oli sen niin kaantanyt, vahvistaaksensa sanansa jonka Herra puhui Jerobeamille Nebatin pojalle Ahian kautta Silosta.	
+<div class="theverse"><div class="versenum">15.</div> Ja ei kuningas kuullut kansaa; silla Herra oli sen niin kaantanyt, vahvistaaksensa sanansa jonka Herra puhui Jerobeamille Nebatin pojalle Ahian kautta Silosta.	</div>
 
-<div class="versenum">16.</div> Kuin koko Israel sen naki, ettei kuningas kuullut heita, vastasi kansa kuningasta ja sanoi: mika osa meilla on Davidissa? eli perimys Isain pojassa? Israel, mene majoilles! katso siis sina, David huonettas! Ja Israel meni majoillensa,	
+<div class="theverse"><div class="versenum">16.</div> Kuin koko Israel sen naki, ettei kuningas kuullut heita, vastasi kansa kuningasta ja sanoi: mika osa meilla on Davidissa? eli perimys Isain pojassa? Israel, mene majoilles! katso siis sina, David huonettas! Ja Israel meni majoillensa,	</div>
 
-<div class="versenum">17.</div> Niin etta Rehabeam ainoastansa vallitsi ne Israelin lapset, jotka Juudan kaupungeissa asuivat.	
+<div class="theverse"><div class="versenum">17.</div> Niin etta Rehabeam ainoastansa vallitsi ne Israelin lapset, jotka Juudan kaupungeissa asuivat.	</div>
 
-<div class="versenum">18.</div> Ja kuin kuningas Rehabeam lahetti Adoramin verorahan haltian matkaan, niin koko Israel kivitti hanen, niin etta han kuoli. Mutta kuningas Rehabeam astui nopiasti vaunuihin ja pakeni Jerusalemiin.	
+<div class="theverse"><div class="versenum">18.</div> Ja kuin kuningas Rehabeam lahetti Adoramin verorahan haltian matkaan, niin koko Israel kivitti hanen, niin etta han kuoli. Mutta kuningas Rehabeam astui nopiasti vaunuihin ja pakeni Jerusalemiin.	</div>
 
-<div class="versenum">19.</div> Ja niin erkani Israel Davidin huoneesta, hamaan tahan paivaan asti.	
+<div class="theverse"><div class="versenum">19.</div> Ja niin erkani Israel Davidin huoneesta, hamaan tahan paivaan asti.	</div>
 
-<div class="versenum">20.</div> Kuin koko Israel kuuli Jerobeamin tulleeksi jalleen, lahettivat he ja kaskivat kutsua hanen kansan eteen, ja tekivat hanen kaiken Israelin kuninkaaksi; ja ei yksikaan seurannut Davidin huonetta, vaan Juudan suku ainoastansa.	
+<div class="theverse"><div class="versenum">20.</div> Kuin koko Israel kuuli Jerobeamin tulleeksi jalleen, lahettivat he ja kaskivat kutsua hanen kansan eteen, ja tekivat hanen kaiken Israelin kuninkaaksi; ja ei yksikaan seurannut Davidin huonetta, vaan Juudan suku ainoastansa.	</div>
 
-<div class="versenum">21.</div> Ja kuin Rehabeam tuli Jerusalemiin, kokosi han koko Juudan huoneen ja BenJaminin suvun, sata ja kahdeksankymmenta tuhatta valittua sotamiesta, sotimaan Israelin huonetta vastaan ja omistamaan valtakuntaa Rehabeamille Salomon pojalle jalleen.	
+<div class="theverse"><div class="versenum">21.</div> Ja kuin Rehabeam tuli Jerusalemiin, kokosi han koko Juudan huoneen ja BenJaminin suvun, sata ja kahdeksankymmenta tuhatta valittua sotamiesta, sotimaan Israelin huonetta vastaan ja omistamaan valtakuntaa Rehabeamille Salomon pojalle jalleen.	</div>
 
-<div class="versenum">22.</div> Mutta Jumalan sana tuli sen Jumalan miehen Semajan tyko, sanoen:	
+<div class="theverse"><div class="versenum">22.</div> Mutta Jumalan sana tuli sen Jumalan miehen Semajan tyko, sanoen:	</div>
 
-<div class="versenum">23.</div> Puhu Rehabeamille Salomon pojalle Juudan kuninkaalle ja koko Juudan huoneelle, ja BenJaminille ja jaaneelle kansalle, ja sano:	
+<div class="theverse"><div class="versenum">23.</div> Puhu Rehabeamille Salomon pojalle Juudan kuninkaalle ja koko Juudan huoneelle, ja BenJaminille ja jaaneelle kansalle, ja sano:	</div>
 
-<div class="versenum">24.</div> Nain sanoo Herra: alkaat menko sotimaan teidan veljianne Israelin lapsia vastaan. Palatkaan jokainen kotiansa; silla se on minulta tapahtunut. Ja he kuulivat Herran sanan ja palasivat menemaan Herran sanan jalkeen.	
+<div class="theverse"><div class="versenum">24.</div> Nain sanoo Herra: alkaat menko sotimaan teidan veljianne Israelin lapsia vastaan. Palatkaan jokainen kotiansa; silla se on minulta tapahtunut. Ja he kuulivat Herran sanan ja palasivat menemaan Herran sanan jalkeen.	</div>
 
-<div class="versenum">25.</div> Ja Jerobeam rakensi Sikemin Ephraimin vuorelle ja asui siina, ja laksi sielta ja rakensi Pnuelin.	
+<div class="theverse"><div class="versenum">25.</div> Ja Jerobeam rakensi Sikemin Ephraimin vuorelle ja asui siina, ja laksi sielta ja rakensi Pnuelin.	</div>
 
-<div class="versenum">26.</div> Ja Jerobeam ajatteli sydamessansa: nyt valtakunta tulee Davidin huoneelle jalleen:	
+<div class="theverse"><div class="versenum">26.</div> Ja Jerobeam ajatteli sydamessansa: nyt valtakunta tulee Davidin huoneelle jalleen:	</div>
 
-<div class="versenum">27.</div> Jos tama kansa menee Jerusalemiin uhraamaan Herran huoneesen, ja taman kansan sydan kaantyy jalleen herransa Rehabeamin Juudan kuninkaan puoleen; niin he tappavat minun ja palajavat jalleen Rehabeamin Juudan kuninkaan tyko.	
+<div class="theverse"><div class="versenum">27.</div> Jos tama kansa menee Jerusalemiin uhraamaan Herran huoneesen, ja taman kansan sydan kaantyy jalleen herransa Rehabeamin Juudan kuninkaan puoleen; niin he tappavat minun ja palajavat jalleen Rehabeamin Juudan kuninkaan tyko.	</div>
 
-<div class="versenum">28.</div> Ja kuningas piti neuvon ja teki kaksi kultaista vasikkaa; ja han sanoi heille: teidan on tyolas menna Jerusalemiin, katso, tassa on sinun Jumalas, Israel, joka sinun on johdattanut Egyptin maalta.	
+<div class="theverse"><div class="versenum">28.</div> Ja kuningas piti neuvon ja teki kaksi kultaista vasikkaa; ja han sanoi heille: teidan on tyolas menna Jerusalemiin, katso, tassa on sinun Jumalas, Israel, joka sinun on johdattanut Egyptin maalta.	</div>
 
-<div class="versenum">29.</div> Ja pani niista yhden Beteliin, ja toisen pani han Daniin.	
+<div class="theverse"><div class="versenum">29.</div> Ja pani niista yhden Beteliin, ja toisen pani han Daniin.	</div>
 
-<div class="versenum">30.</div> Ja se asia joutui synniksi; silla kansa meni sen yhden eteen hamaan Daniin.	
+<div class="theverse"><div class="versenum">30.</div> Ja se asia joutui synniksi; silla kansa meni sen yhden eteen hamaan Daniin.	</div>
 
-<div class="versenum">31.</div> Niin teki han myos huoneen kukkulalle ja teki papit halvimmista kansan seasta, jotka ei Levin lapsia olleet.	
+<div class="theverse"><div class="versenum">31.</div> Niin teki han myos huoneen kukkulalle ja teki papit halvimmista kansan seasta, jotka ei Levin lapsia olleet.	</div>
 
-<div class="versenum">32.</div> Ja Jerobeam teki juhlan viidentenatoistakymmenentena paivana, kahdeksantena kuukautena, niin kuin Juudan juhlapaivan, ja uhrasi alttarilla. Niin han myos teki Betelissa, uhraten vasikoille, jotka han tehnyt oli. Ja han toimitti Betelin papit kukkuloille, jotka han tehnyt oli.	
+<div class="theverse"><div class="versenum">32.</div> Ja Jerobeam teki juhlan viidentenatoistakymmenentena paivana, kahdeksantena kuukautena, niin kuin Juudan juhlapaivan, ja uhrasi alttarilla. Niin han myos teki Betelissa, uhraten vasikoille, jotka han tehnyt oli. Ja han toimitti Betelin papit kukkuloille, jotka han tehnyt oli.	</div>
 
-<div class="versenum">33.</div> Ja han uhrasi alttarilla, (jonka han Beteliin tehnyt oli) viidentenatoistakymmenentena paivana kahdeksantena kuukautena, jonka han sydamessansa ajatellut oli. Ja teki Israelin lapsille juhlan, ja uhrasi alttarilla suitsutukseksi.	
+<div class="theverse"><div class="versenum">33.</div> Ja han uhrasi alttarilla, (jonka han Beteliin tehnyt oli) viidentenatoistakymmenentena paivana kahdeksantena kuukautena, jonka han sydamessansa ajatellut oli. Ja teki Israelin lapsille juhlan, ja uhrasi alttarilla suitsutukseksi.	</div>
 </body>
 </html>

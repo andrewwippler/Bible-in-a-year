@@ -4,94 +4,94 @@
 </head>
 <body><div class="chaptertitle">Psalmien 105	</div>
 	
-<div class="versenum">1.</div> Kiittakaat Herraa, ja saarnatkaat hanen nimeansa, julistakaat hanen toitansa kansain seassa!	
+<div class="theverse"><div class="versenum">1.</div> Kiittakaat Herraa, ja saarnatkaat hanen nimeansa, julistakaat hanen toitansa kansain seassa!	</div>
 
-<div class="versenum">2.</div> Veisatkaat hanelle, soittakaat hanelle, puhukaat kaikista hanen ihmeistansa.	
+<div class="theverse"><div class="versenum">2.</div> Veisatkaat hanelle, soittakaat hanelle, puhukaat kaikista hanen ihmeistansa.	</div>
 
-<div class="versenum">3.</div> Ylistakaat hanen pyhaa nimeansa: niiden sydan iloitkaan, jotka etsivat Herraa!	
+<div class="theverse"><div class="versenum">3.</div> Ylistakaat hanen pyhaa nimeansa: niiden sydan iloitkaan, jotka etsivat Herraa!	</div>
 
-<div class="versenum">4.</div> Kysykaat Herraa ja hanen voimaansa, etsikaat alati hanen kasvojansa!	
+<div class="theverse"><div class="versenum">4.</div> Kysykaat Herraa ja hanen voimaansa, etsikaat alati hanen kasvojansa!	</div>
 
-<div class="versenum">5.</div> Muistakaat hanen ihmeellisia toitansa, jotka han tehnyt on, hanen ihmeitansa ja hanen sanojansa.	
+<div class="theverse"><div class="versenum">5.</div> Muistakaat hanen ihmeellisia toitansa, jotka han tehnyt on, hanen ihmeitansa ja hanen sanojansa.	</div>
 
-<div class="versenum">6.</div> Te Abrahamin hanen palveliansa siemen, te Jakobin hanen valittunsa lapset.	
+<div class="theverse"><div class="versenum">6.</div> Te Abrahamin hanen palveliansa siemen, te Jakobin hanen valittunsa lapset.	</div>
 
-<div class="versenum">7.</div> Hanpa on Herra meidan Jumalamme: han tuomitsee kaikessa maailmassa.	
+<div class="theverse"><div class="versenum">7.</div> Hanpa on Herra meidan Jumalamme: han tuomitsee kaikessa maailmassa.	</div>
 
-<div class="versenum">8.</div> Han muistaa liittonsa ijankaikkisesti, sanansa, jonka han on kaskenyt tuhannelle sukukunnalle,	
+<div class="theverse"><div class="versenum">8.</div> Han muistaa liittonsa ijankaikkisesti, sanansa, jonka han on kaskenyt tuhannelle sukukunnalle,	</div>
 
-<div class="versenum">9.</div> Jonka han teki Abrahamin kanssa, ja valansa Isaakin kanssa.	
+<div class="theverse"><div class="versenum">9.</div> Jonka han teki Abrahamin kanssa, ja valansa Isaakin kanssa.	</div>
 
-<div class="versenum">10.</div> Ja pani sen Jakobille saadyksi ja Israelille ijankaikkiseksi liitoksi,	
+<div class="theverse"><div class="versenum">10.</div> Ja pani sen Jakobille saadyksi ja Israelille ijankaikkiseksi liitoksi,	</div>
 
-<div class="versenum">11.</div> Ja sanoi: sinulle mina annan Kanaanin maan, teidan perimisenne arvan.	
+<div class="theverse"><div class="versenum">11.</div> Ja sanoi: sinulle mina annan Kanaanin maan, teidan perimisenne arvan.	</div>
 
-<div class="versenum">12.</div> Koska heita vaha ja harvat olivat, ja he olivat muukalaiset siina,	
+<div class="theverse"><div class="versenum">12.</div> Koska heita vaha ja harvat olivat, ja he olivat muukalaiset siina,	</div>
 
-<div class="versenum">13.</div> Ja vaelsivat kansasta kansaan ja valtakunnasta toiseen kansaan:	
+<div class="theverse"><div class="versenum">13.</div> Ja vaelsivat kansasta kansaan ja valtakunnasta toiseen kansaan:	</div>
 
-<div class="versenum">14.</div> Ei han sallinut yhdenkaan ihmisen heita vahingoittaa, vaan rankaisi kuninkaat heidan tahtensa.	
+<div class="theverse"><div class="versenum">14.</div> Ei han sallinut yhdenkaan ihmisen heita vahingoittaa, vaan rankaisi kuninkaat heidan tahtensa.	</div>
 
-<div class="versenum">15.</div> Alkaat ruvetko minun voideltuihini, ja alkaat tehko pahaa minun prophetailleni.	
+<div class="theverse"><div class="versenum">15.</div> Alkaat ruvetko minun voideltuihini, ja alkaat tehko pahaa minun prophetailleni.	</div>
 
-<div class="versenum">16.</div> Ja han kutsui nalan maan paalle, ja vei kaiken leivan varan pois.	
+<div class="theverse"><div class="versenum">16.</div> Ja han kutsui nalan maan paalle, ja vei kaiken leivan varan pois.	</div>
 
-<div class="versenum">17.</div> Han lahetti miehen heidan eteensa: Joseph myytiin orjaksi.	
+<div class="theverse"><div class="versenum">17.</div> Han lahetti miehen heidan eteensa: Joseph myytiin orjaksi.	</div>
 
-<div class="versenum">18.</div> He ahdistivat hanen jalkansa jalkapuuhun: hanen ruumiinsa taytyi raudoissa maata,	
+<div class="theverse"><div class="versenum">18.</div> He ahdistivat hanen jalkansa jalkapuuhun: hanen ruumiinsa taytyi raudoissa maata,	</div>
 
-<div class="versenum">19.</div> Siihenasti etta hanen sanansa tuli, ja Herran puhe koetteli hanen.	
+<div class="theverse"><div class="versenum">19.</div> Siihenasti etta hanen sanansa tuli, ja Herran puhe koetteli hanen.	</div>
 
-<div class="versenum">20.</div> Niin lahetti kuningas ja paasti hanen: kansain paamies laski hanen vallallensa,	
+<div class="theverse"><div class="versenum">20.</div> Niin lahetti kuningas ja paasti hanen: kansain paamies laski hanen vallallensa,	</div>
 
-<div class="versenum">21.</div> Ja asetti hanen huoneensa herraksi, ja kaiken tavaransa haltiaksi,	
+<div class="theverse"><div class="versenum">21.</div> Ja asetti hanen huoneensa herraksi, ja kaiken tavaransa haltiaksi,	</div>
 
-<div class="versenum">22.</div> Opettamaan paamiehiansa oman tahtonsa jalkeen, ja vanhimmille viisautta.	
+<div class="theverse"><div class="versenum">22.</div> Opettamaan paamiehiansa oman tahtonsa jalkeen, ja vanhimmille viisautta.	</div>
 
-<div class="versenum">23.</div> Ja Israel meni Egyptiin, ja Jakob tuli muukalaiseksi Hamin maalle.	
+<div class="theverse"><div class="versenum">23.</div> Ja Israel meni Egyptiin, ja Jakob tuli muukalaiseksi Hamin maalle.	</div>
 
-<div class="versenum">24.</div> Ja han antoi kansansa sangen suuresti kasvaa, ja teki heita vakevammaksi kuin heidan vihollisensa.	
+<div class="theverse"><div class="versenum">24.</div> Ja han antoi kansansa sangen suuresti kasvaa, ja teki heita vakevammaksi kuin heidan vihollisensa.	</div>
 
-<div class="versenum">25.</div> Han kaansi heidan sydamensa vihaamaan hanen kansaansa, ja hanen palvelioitansa viekkaudella painamaan alas.	
+<div class="theverse"><div class="versenum">25.</div> Han kaansi heidan sydamensa vihaamaan hanen kansaansa, ja hanen palvelioitansa viekkaudella painamaan alas.	</div>
 
-<div class="versenum">26.</div> Han lahetti palveliansa Moseksen, ja Aaronin, jonka han valitsi.	
+<div class="theverse"><div class="versenum">26.</div> Han lahetti palveliansa Moseksen, ja Aaronin, jonka han valitsi.	</div>
 
-<div class="versenum">27.</div> Ne tekivat hanen merkkinsa heidan seassansa, ja hanen ihmeensa Hamin maalla.	
+<div class="theverse"><div class="versenum">27.</div> Ne tekivat hanen merkkinsa heidan seassansa, ja hanen ihmeensa Hamin maalla.	</div>
 
-<div class="versenum">28.</div> Han antoi pimeyden tulla, ja sen pimeytti; ja ei olleet he hanen sanoillensa kuulemattomat.	
+<div class="theverse"><div class="versenum">28.</div> Han antoi pimeyden tulla, ja sen pimeytti; ja ei olleet he hanen sanoillensa kuulemattomat.	</div>
 
-<div class="versenum">29.</div> Han muutti heidan vetensa vereksi ja kuoletti heidan kalansa.	
+<div class="theverse"><div class="versenum">29.</div> Han muutti heidan vetensa vereksi ja kuoletti heidan kalansa.	</div>
 
-<div class="versenum">30.</div> Heidan maansa kuohutti sammakoita, heidan kuningastensa kammioissa.	
+<div class="theverse"><div class="versenum">30.</div> Heidan maansa kuohutti sammakoita, heidan kuningastensa kammioissa.	</div>
 
-<div class="versenum">31.</div> Han sanoi, niin turilaat ja tait tulivat heidan maansa aariin.	
+<div class="theverse"><div class="versenum">31.</div> Han sanoi, niin turilaat ja tait tulivat heidan maansa aariin.	</div>
 
-<div class="versenum">32.</div> Han antoi rakeet heille sateeksi, tulen liekit heidan maallensa,	
+<div class="theverse"><div class="versenum">32.</div> Han antoi rakeet heille sateeksi, tulen liekit heidan maallensa,	</div>
 
-<div class="versenum">33.</div> Ja loi heidan viinapuunsa ja fikunapuunsa, ja sarki puut heidan maansa aarissa.	
+<div class="theverse"><div class="versenum">33.</div> Ja loi heidan viinapuunsa ja fikunapuunsa, ja sarki puut heidan maansa aarissa.	</div>
 
-<div class="versenum">34.</div> Han sanoi, niin tulivat epalukuiset paarmat ja vapsaiset,	
+<div class="theverse"><div class="versenum">34.</div> Han sanoi, niin tulivat epalukuiset paarmat ja vapsaiset,	</div>
 
-<div class="versenum">35.</div> Ja ne soivat kaiken ruohon heidan maaltansa, ja ne soivat heidan maansa hedelman.	
+<div class="theverse"><div class="versenum">35.</div> Ja ne soivat kaiken ruohon heidan maaltansa, ja ne soivat heidan maansa hedelman.	</div>
 
-<div class="versenum">36.</div> Ja han loi kaikki esikoiset heidan maallansa, ensimaiset kaikesta heidan voimastansa,	
+<div class="theverse"><div class="versenum">36.</div> Ja han loi kaikki esikoiset heidan maallansa, ensimaiset kaikesta heidan voimastansa,	</div>
 
-<div class="versenum">37.</div> Ja vei heita hopialla ja kullalla ulos: ja ei ollut heidan sukukunnissansa yksikaan sairas.	
+<div class="theverse"><div class="versenum">37.</div> Ja vei heita hopialla ja kullalla ulos: ja ei ollut heidan sukukunnissansa yksikaan sairas.	</div>
 
-<div class="versenum">38.</div> Egypti iloitsi heidan lahtemisestansa; silla heidan pelkonsa oli tullut heidan paallensa.	
+<div class="theverse"><div class="versenum">38.</div> Egypti iloitsi heidan lahtemisestansa; silla heidan pelkonsa oli tullut heidan paallensa.	</div>
 
-<div class="versenum">39.</div> Han levitti pilven verhoksi ja tulen yota valistamaan.	
+<div class="theverse"><div class="versenum">39.</div> Han levitti pilven verhoksi ja tulen yota valistamaan.	</div>
 
-<div class="versenum">40.</div> He anoivat, niin antoi han metsakanat tulla, ja ravitsi heita taivaan leivalla.	
+<div class="theverse"><div class="versenum">40.</div> He anoivat, niin antoi han metsakanat tulla, ja ravitsi heita taivaan leivalla.	</div>
 
-<div class="versenum">41.</div> Han avasi kallion, niin vesi vuoti, ja virrat juoksivat kuivaa myoten.	
+<div class="theverse"><div class="versenum">41.</div> Han avasi kallion, niin vesi vuoti, ja virrat juoksivat kuivaa myoten.	</div>
 
-<div class="versenum">42.</div> Silla han muisti pyhan sanansa, jonka han palveliallensa Abrahamille puhunut oli,	
+<div class="theverse"><div class="versenum">42.</div> Silla han muisti pyhan sanansa, jonka han palveliallensa Abrahamille puhunut oli,	</div>
 
-<div class="versenum">43.</div> Ja vei kansansa ilolla ulos, ja valittunsa riemulla,	
+<div class="theverse"><div class="versenum">43.</div> Ja vei kansansa ilolla ulos, ja valittunsa riemulla,	</div>
 
-<div class="versenum">44.</div> Ja antoi heille pakanain maan, niin etta he kansain hyvyydet omistivat heillensa.	
+<div class="theverse"><div class="versenum">44.</div> Ja antoi heille pakanain maan, niin etta he kansain hyvyydet omistivat heillensa.	</div>
 
-<div class="versenum">45.</div> Etta he pitaisivat hanen saatynsa, ja hanen lakinsa katkisivat, Halleluja!	
+<div class="theverse"><div class="versenum">45.</div> Etta he pitaisivat hanen saatynsa, ja hanen lakinsa katkisivat, Halleluja!	</div>
 </body>
 </html>

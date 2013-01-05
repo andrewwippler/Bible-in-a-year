@@ -4,50 +4,50 @@
 </head>
 <body><div class="chaptertitle">Hesekielin 14	</div>
 	
-<div class="versenum">1.</div> Ja minun tykoni tuli monikahtoja Israelin vanhimpia ja he istuivat minun tykoni.	
+<div class="theverse"><div class="versenum">1.</div> Ja minun tykoni tuli monikahtoja Israelin vanhimpia ja he istuivat minun tykoni.	</div>
 
-<div class="versenum">2.</div> Niin tapahtui Herran sana minulle ja sanoi:	
+<div class="theverse"><div class="versenum">2.</div> Niin tapahtui Herran sana minulle ja sanoi:	</div>
 
-<div class="versenum">3.</div> Sina ihmisen poika, namat miehet riippuvat sydamellansa epajumalissansa, ja pysyvat lujana vaaryytensa pahennuksessa: pitaisiko heidan ollenkaan minulta kysyman?	
+<div class="theverse"><div class="versenum">3.</div> Sina ihmisen poika, namat miehet riippuvat sydamellansa epajumalissansa, ja pysyvat lujana vaaryytensa pahennuksessa: pitaisiko heidan ollenkaan minulta kysyman?	</div>
 
-<div class="versenum">4.</div> Sentahden puhuttele heita ja sano heille: naita sanoo Herra, Herra: kuka ihminen Israelin huoneesta riippuu sydamellansa epajumalissansa, ja pysyy lujana vaaryytensa pahennuksessa, ja tulee prophetan tyka, niin tahdon mina Herra vastata hanta, niinkuin han ansainnut on suurella epajumalan palveluksellansa,	
+<div class="theverse"><div class="versenum">4.</div> Sentahden puhuttele heita ja sano heille: naita sanoo Herra, Herra: kuka ihminen Israelin huoneesta riippuu sydamellansa epajumalissansa, ja pysyy lujana vaaryytensa pahennuksessa, ja tulee prophetan tyka, niin tahdon mina Herra vastata hanta, niinkuin han ansainnut on suurella epajumalan palveluksellansa,	</div>
 
-<div class="versenum">5.</div> Etta Israelin huone pitaa vietellyksi tuleman sydamissansa: sentahden etta he kaikki ovat minusta luopuneet epajumalainsa kautta.	
+<div class="theverse"><div class="versenum">5.</div> Etta Israelin huone pitaa vietellyksi tuleman sydamissansa: sentahden etta he kaikki ovat minusta luopuneet epajumalainsa kautta.	</div>
 
-<div class="versenum">6.</div> Sentahden pitaa sinun sanoman Israelin huoneelle: naita sanoo Herra, Herra: kaantakaat itsenne ja luopukaat teidan epajumalan palveluksestanne, ja kaantakaat teidan kasvonne kaikesta teidan kauhistuksestanne.	
+<div class="theverse"><div class="versenum">6.</div> Sentahden pitaa sinun sanoman Israelin huoneelle: naita sanoo Herra, Herra: kaantakaat itsenne ja luopukaat teidan epajumalan palveluksestanne, ja kaantakaat teidan kasvonne kaikesta teidan kauhistuksestanne.	</div>
 
-<div class="versenum">7.</div> Silla kuka ihminen Israelin huoneesta, taikka joku muukalainen, joka Israelissa asuu, luopuu minusta ja sydamellansa riippuu epajumalissa, ja lujana pysyy epajumalansa palveluksen pahennuksessa, ja tulee prophetan tyko kysymaan minulta hanen kauttansa, hanelle mina Herra tahdon itse vastata.	
+<div class="theverse"><div class="versenum">7.</div> Silla kuka ihminen Israelin huoneesta, taikka joku muukalainen, joka Israelissa asuu, luopuu minusta ja sydamellansa riippuu epajumalissa, ja lujana pysyy epajumalansa palveluksen pahennuksessa, ja tulee prophetan tyko kysymaan minulta hanen kauttansa, hanelle mina Herra tahdon itse vastata.	</div>
 
-<div class="versenum">8.</div> Ja tahdon asettaa minun kasvoni hanta vastaan, ja tehda hanta autioksi, ihmeeksi ja sananlaskuksi, ja havittaa hanen minun kansastani: ja teidan pitaa ymmartaman, etta mina olen Herra.	
+<div class="theverse"><div class="versenum">8.</div> Ja tahdon asettaa minun kasvoni hanta vastaan, ja tehda hanta autioksi, ihmeeksi ja sananlaskuksi, ja havittaa hanen minun kansastani: ja teidan pitaa ymmartaman, etta mina olen Herra.	</div>
 
-<div class="versenum">9.</div> Mutta jos vietelty propheta jotakin saarnaa, hanen mina Herra annan vietellyksi tulla; ja tahdon ojentaa minun kateni hanen paallensa, ja havittaa hanen minun kansastani Israelista.	
+<div class="theverse"><div class="versenum">9.</div> Mutta jos vietelty propheta jotakin saarnaa, hanen mina Herra annan vietellyksi tulla; ja tahdon ojentaa minun kateni hanen paallensa, ja havittaa hanen minun kansastani Israelista.	</div>
 
-<div class="versenum">10.</div> Ja niin heidan molempain pitaa vaaran tekonsa maksun saaman; niinkuin kysyjan vaara teko, niin pitaa myos prophetan vaara teko oleman,	
+<div class="theverse"><div class="versenum">10.</div> Ja niin heidan molempain pitaa vaaran tekonsa maksun saaman; niinkuin kysyjan vaara teko, niin pitaa myos prophetan vaara teko oleman,	</div>
 
-<div class="versenum">11.</div> Ettei Israelin huone enaan pida erhettyman minua seuraamasta, ja ei enempi saastuttaman itsiansa kaikissa ylitsekaymisissansa; mutta heidan pitaa oleman minun kansani, ja mina tahdon olla heidan Jumalansa, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">11.</div> Ettei Israelin huone enaan pida erhettyman minua seuraamasta, ja ei enempi saastuttaman itsiansa kaikissa ylitsekaymisissansa; mutta heidan pitaa oleman minun kansani, ja mina tahdon olla heidan Jumalansa, sanoo Herra, Herra.	</div>
 
-<div class="versenum">12.</div> Ja Herran sana tapahtui minulle ja sanoi:	
+<div class="theverse"><div class="versenum">12.</div> Ja Herran sana tapahtui minulle ja sanoi:	</div>
 
-<div class="versenum">13.</div> Sina ihmisen poika, kuin maakunta syntia tekee minua vastaan, ja pyrkii edespain synnissa, niin mina tahdon ojentaa minun kateni sen paalle, ja ottaa leivan aineen pois, ja lahettaa nalan sinne, hukuttaakseni siella seka ihmiset etta elaimet.	
+<div class="theverse"><div class="versenum">13.</div> Sina ihmisen poika, kuin maakunta syntia tekee minua vastaan, ja pyrkii edespain synnissa, niin mina tahdon ojentaa minun kateni sen paalle, ja ottaa leivan aineen pois, ja lahettaa nalan sinne, hukuttaakseni siella seka ihmiset etta elaimet.	</div>
 
-<div class="versenum">14.</div> Ja jos viela ne kolme miesta, Noa, Daniel ja Job siella olisivat, niin he ainoastaan pelastaisivat sielunsa vanhurskaudellansa, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">14.</div> Ja jos viela ne kolme miesta, Noa, Daniel ja Job siella olisivat, niin he ainoastaan pelastaisivat sielunsa vanhurskaudellansa, sanoo Herra, Herra.	</div>
 
-<div class="versenum">15.</div> Ja jos mina antaisin tulle pahat pedot maakuntaan, jotka sen tekisivat lapsettomaksi ja havittaisivat, niin ettei yksikaan siella taitaisi vaeltaa petoin tahden;	
+<div class="theverse"><div class="versenum">15.</div> Ja jos mina antaisin tulle pahat pedot maakuntaan, jotka sen tekisivat lapsettomaksi ja havittaisivat, niin ettei yksikaan siella taitaisi vaeltaa petoin tahden;	</div>
 
-<div class="versenum">16.</div> Ja namat kolme miesta olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei pitaisi heidan taitaman vapahtaa poikia eika tyttaria; vaan ainoastaan itse vapahdettaman, ja maa autioksi tuleman.	
+<div class="theverse"><div class="versenum">16.</div> Ja namat kolme miesta olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei pitaisi heidan taitaman vapahtaa poikia eika tyttaria; vaan ainoastaan itse vapahdettaman, ja maa autioksi tuleman.	</div>
 
-<div class="versenum">17.</div> Taikka jos mina antaisin tulla miekan sen maan paalle, ja sanoisin: miekka, kay maan lavitse, ja niin tulisivat seka ihmiset etta elaimet havitetyksi;	
+<div class="theverse"><div class="versenum">17.</div> Taikka jos mina antaisin tulla miekan sen maan paalle, ja sanoisin: miekka, kay maan lavitse, ja niin tulisivat seka ihmiset etta elaimet havitetyksi;	</div>
 
-<div class="versenum">18.</div> Ja ne kolme miesta olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei heidan pitaisi taitaman pelastaa poikia eli tyttaria, vaan ainoastaan he itse tulisivat vapahdetuiksi.	
+<div class="theverse"><div class="versenum">18.</div> Ja ne kolme miesta olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei heidan pitaisi taitaman pelastaa poikia eli tyttaria, vaan ainoastaan he itse tulisivat vapahdetuiksi.	</div>
 
-<div class="versenum">19.</div> Taikka jos mina lahettaisin ruton siihen maakuntaan, ja vuodattaisin minun vihani sen paalle verella, havittamaan sielta ihmisia ja elaimia;	
+<div class="theverse"><div class="versenum">19.</div> Taikka jos mina lahettaisin ruton siihen maakuntaan, ja vuodattaisin minun vihani sen paalle verella, havittamaan sielta ihmisia ja elaimia;	</div>
 
-<div class="versenum">20.</div> Ja Noa, Daniel ja Job olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei heidan pitaisi taitaman auttaa poikia eli tyttaria, vaan ainoasti vanhurskaudellansa pelastamaan omia sielujansa.	
+<div class="theverse"><div class="versenum">20.</div> Ja Noa, Daniel ja Job olisivat siella, niin totta kuin mina elan, sanoo Herra, Herra, ei heidan pitaisi taitaman auttaa poikia eli tyttaria, vaan ainoasti vanhurskaudellansa pelastamaan omia sielujansa.	</div>
 
-<div class="versenum">21.</div> Silla nain sanoo Herra, Herra: kuin mina lahetan ne nelja minun pahaa rangaistustani, miekan, nalan ja pahat pedot, ja ruton Jerusalemiin, havittamaan siella seka ihmiset etta elaimet;	
+<div class="theverse"><div class="versenum">21.</div> Silla nain sanoo Herra, Herra: kuin mina lahetan ne nelja minun pahaa rangaistustani, miekan, nalan ja pahat pedot, ja ruton Jerusalemiin, havittamaan siella seka ihmiset etta elaimet;	</div>
 
-<div class="versenum">22.</div> Ja katsos, niin pitaa muutamia sinne jatetyita kirvoitettaman, poikia ja tyttaria; ja katso, heidan pitaa tuleman tanne teidan tykonne, etta teidan pitaa nakeman, kuinka heidan kay, ja lohduttaman teita sen onnettomuuden tahden, jonka mina Jerusalemille olen antanut tulla, ja kaikkein muiden tahden, jotka mina olen antanut tulla heidan paallensa.	
+<div class="theverse"><div class="versenum">22.</div> Ja katsos, niin pitaa muutamia sinne jatetyita kirvoitettaman, poikia ja tyttaria; ja katso, heidan pitaa tuleman tanne teidan tykonne, etta teidan pitaa nakeman, kuinka heidan kay, ja lohduttaman teita sen onnettomuuden tahden, jonka mina Jerusalemille olen antanut tulla, ja kaikkein muiden tahden, jotka mina olen antanut tulla heidan paallensa.	</div>
 
-<div class="versenum">23.</div> He pitaa oleman teidan lohdutuksenne, kuin te saatte nahda, kuinka heidan kay, ja taidatte ymmartaa, etten mina ilman syyta tehnyt ole kaikkia, mita mina siella tehnyt olen, sanoo Herra, Herra.	
+<div class="theverse"><div class="versenum">23.</div> He pitaa oleman teidan lohdutuksenne, kuin te saatte nahda, kuinka heidan kay, ja taidatte ymmartaa, etten mina ilman syyta tehnyt ole kaikkia, mita mina siella tehnyt olen, sanoo Herra, Herra.	</div>
 </body>
 </html>

@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Psalmien 147	</div>
 	
-<div class="versenum">1.</div> Kiittakaat Herraa! silla Jumalaamme kiittaa on kallis asia: kiitos on suloinen ja kaunis.	
+<div class="theverse"><div class="versenum">1.</div> Kiittakaat Herraa! silla Jumalaamme kiittaa on kallis asia: kiitos on suloinen ja kaunis.	</div>
 
-<div class="versenum">2.</div> Herra rakentaa Jerusalemin, ja kokoo hajoitetut Israelilaiset.	
+<div class="theverse"><div class="versenum">2.</div> Herra rakentaa Jerusalemin, ja kokoo hajoitetut Israelilaiset.	</div>
 
-<div class="versenum">3.</div> Han parantaa murretut sydamet, ja sitoo heidan kipunsa.	
+<div class="theverse"><div class="versenum">3.</div> Han parantaa murretut sydamet, ja sitoo heidan kipunsa.	</div>
 
-<div class="versenum">4.</div> Han lukee tahdet, ja kutsuu heita kaikkia nimeltansa.	
+<div class="theverse"><div class="versenum">4.</div> Han lukee tahdet, ja kutsuu heita kaikkia nimeltansa.	</div>
 
-<div class="versenum">5.</div> Suuri on meidan Herramme, ja suuri hanen voimansa, ja hanen viisautensa on maaratoin.	
+<div class="theverse"><div class="versenum">5.</div> Suuri on meidan Herramme, ja suuri hanen voimansa, ja hanen viisautensa on maaratoin.	</div>
 
-<div class="versenum">6.</div> Herra ojentaa raadolliset, ja jumalattomat maahan paiskaa.	
+<div class="theverse"><div class="versenum">6.</div> Herra ojentaa raadolliset, ja jumalattomat maahan paiskaa.	</div>
 
-<div class="versenum">7.</div> Vuoroin veisatkaat Herralle kiitossanalla, ja veisatkaat meidan Herrallemme kanteleella;	
+<div class="theverse"><div class="versenum">7.</div> Vuoroin veisatkaat Herralle kiitossanalla, ja veisatkaat meidan Herrallemme kanteleella;	</div>
 
-<div class="versenum">8.</div> Joka taivaan pilvilla peittaa ja antaa sateen maan paalle; joka ruohot vuorilla kasvattaa;	
+<div class="theverse"><div class="versenum">8.</div> Joka taivaan pilvilla peittaa ja antaa sateen maan paalle; joka ruohot vuorilla kasvattaa;	</div>
 
-<div class="versenum">9.</div> Joka elaimille antaa heidan ruokansa, ja kaarneen pojille, jotka hanta avuksensa huutavat.	
+<div class="theverse"><div class="versenum">9.</div> Joka elaimille antaa heidan ruokansa, ja kaarneen pojille, jotka hanta avuksensa huutavat.	</div>
 
-<div class="versenum">10.</div> Ei han mielisty hevosten vakevyyteen, eika hanelle kelpaa miehen saariluut.	
+<div class="theverse"><div class="versenum">10.</div> Ei han mielisty hevosten vakevyyteen, eika hanelle kelpaa miehen saariluut.	</div>
 
-<div class="versenum">11.</div> Herralle kelpaavat ne, jotka hanta pelkaavat, ja jotka hanen laupiuteensa uskaltavat.	
+<div class="theverse"><div class="versenum">11.</div> Herralle kelpaavat ne, jotka hanta pelkaavat, ja jotka hanen laupiuteensa uskaltavat.	</div>
 
-<div class="versenum">12.</div> Ylista, Jerusalem, Herraa: kiita, Zion, sinun Jumalaas!	
+<div class="theverse"><div class="versenum">12.</div> Ylista, Jerusalem, Herraa: kiita, Zion, sinun Jumalaas!	</div>
 
-<div class="versenum">13.</div> Silla han vahvistaa sinun porttis salvat, ja siunaa sinussa sinun lapses.	
+<div class="theverse"><div class="versenum">13.</div> Silla han vahvistaa sinun porttis salvat, ja siunaa sinussa sinun lapses.	</div>
 
-<div class="versenum">14.</div> Han saattaa rauhan sinun aariis, ja ravitsee sinua parhailla nisuilla.	
+<div class="theverse"><div class="versenum">14.</div> Han saattaa rauhan sinun aariis, ja ravitsee sinua parhailla nisuilla.	</div>
 
-<div class="versenum">15.</div> Han lahettaa puheensa maan paalle: hanen sanansa nopiasti juoksee.	
+<div class="theverse"><div class="versenum">15.</div> Han lahettaa puheensa maan paalle: hanen sanansa nopiasti juoksee.	</div>
 
-<div class="versenum">16.</div> Han antaa lumen niinkuin villan; han hajoittaa harman niinkuin tuhan.	
+<div class="theverse"><div class="versenum">16.</div> Han antaa lumen niinkuin villan; han hajoittaa harman niinkuin tuhan.	</div>
 
-<div class="versenum">17.</div> Han heittaa rakeensa niinkuin palat; kuka hanen pakkasensa edessa kestaa?	
+<div class="theverse"><div class="versenum">17.</div> Han heittaa rakeensa niinkuin palat; kuka hanen pakkasensa edessa kestaa?	</div>
 
-<div class="versenum">18.</div> Han lahettaa sanansa, ja sulaa ne; han antaa tuulen puhaltaa, niin vedet juoksevat.	
+<div class="theverse"><div class="versenum">18.</div> Han lahettaa sanansa, ja sulaa ne; han antaa tuulen puhaltaa, niin vedet juoksevat.	</div>
 
-<div class="versenum">19.</div> Han ilmoittaa Jakobille sanansa, ja Israelille saatynsa ja oikeutensa.	
+<div class="theverse"><div class="versenum">19.</div> Han ilmoittaa Jakobille sanansa, ja Israelille saatynsa ja oikeutensa.	</div>
 
-<div class="versenum">20.</div> Ei han niin tehnyt kaikille pakanoille; eika he tieda hanen oikeuttansa, Halleluja!	
+<div class="theverse"><div class="versenum">20.</div> Ei han niin tehnyt kaikille pakanoille; eika he tieda hanen oikeuttansa, Halleluja!	</div>
 </body>
 </html>

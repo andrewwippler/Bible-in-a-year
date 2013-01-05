@@ -4,44 +4,44 @@
 </head>
 <body><div class="chaptertitle">Markuksen 16	</div>
 	
-<div class="versenum">1.</div> Ja kuin sabbatti kulunut oli, osti Maria Magdalena ja Maria Jakobin ja Salome hyvanhajullisia voiteita, tullaksensa voitelemaan hanta.	
+<div class="theverse"><div class="versenum">1.</div> Ja kuin sabbatti kulunut oli, osti Maria Magdalena ja Maria Jakobin ja Salome hyvanhajullisia voiteita, tullaksensa voitelemaan hanta.	</div>
 
-<div class="versenum">2.</div> Ja tulivat haudalle ensimaisena sabbatin paivana sangen varhain auringon noustessa.	
+<div class="theverse"><div class="versenum">2.</div> Ja tulivat haudalle ensimaisena sabbatin paivana sangen varhain auringon noustessa.	</div>
 
-<div class="versenum">3.</div> Ja puhuivat keskenansa: kuka meille vierittaa kiven haudan ovelta?	
+<div class="theverse"><div class="versenum">3.</div> Ja puhuivat keskenansa: kuka meille vierittaa kiven haudan ovelta?	</div>
 
-<div class="versenum">4.</div> Ja kuin he katsoivat, nakivat he kiven vieritetyksi; silla se oli sangen suuri.	
+<div class="theverse"><div class="versenum">4.</div> Ja kuin he katsoivat, nakivat he kiven vieritetyksi; silla se oli sangen suuri.	</div>
 
-<div class="versenum">5.</div> Ja kuin he olivat hautaan menneet sisalle, nakivat he yhden nuorukaisen istuvan oikealla puolella, joka oli vaatetettu pitkalla valkialla vaatteella; ja he hammastyivat.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin he olivat hautaan menneet sisalle, nakivat he yhden nuorukaisen istuvan oikealla puolella, joka oli vaatetettu pitkalla valkialla vaatteella; ja he hammastyivat.	</div>
 
-<div class="versenum">6.</div> Mutta han sanoi heille: alkaat hammastyko! te etsitte Jesusta Natsarealaista, joka ristiinnaulittu oli. Han nousi ylos, ei han ole taalla: katso siaa, kuhunka he hanen panivat;	
+<div class="theverse"><div class="versenum">6.</div> Mutta han sanoi heille: alkaat hammastyko! te etsitte Jesusta Natsarealaista, joka ristiinnaulittu oli. Han nousi ylos, ei han ole taalla: katso siaa, kuhunka he hanen panivat;	</div>
 
-<div class="versenum">7.</div> Mutta menkaat ja sanokaat hanen opetuslapsillensa ja Pietarille, etta han kay teidan edellanne Galileaan: siella te hanen naette, niinkuin han sanoi teille.	
+<div class="theverse"><div class="versenum">7.</div> Mutta menkaat ja sanokaat hanen opetuslapsillensa ja Pietarille, etta han kay teidan edellanne Galileaan: siella te hanen naette, niinkuin han sanoi teille.	</div>
 
-<div class="versenum">8.</div> Ja he menivat nopiasti ulos ja pakenivat haudalta; silla vapistus ja suuri hammastys oli heidan paallensa tullut, ei he myos kellenkaan mitaan sanoneet; silla he pelkasivat.	
+<div class="theverse"><div class="versenum">8.</div> Ja he menivat nopiasti ulos ja pakenivat haudalta; silla vapistus ja suuri hammastys oli heidan paallensa tullut, ei he myos kellenkaan mitaan sanoneet; silla he pelkasivat.	</div>
 
-<div class="versenum">9.</div> Mutta kuin Jesus oli varhain ensimaisena sabbatin paivana noussut ylos, ilmestyi han ensin Maria Magdalenalle, josta han seitseman perkeletta oli ajanut ulos.	
+<div class="theverse"><div class="versenum">9.</div> Mutta kuin Jesus oli varhain ensimaisena sabbatin paivana noussut ylos, ilmestyi han ensin Maria Magdalenalle, josta han seitseman perkeletta oli ajanut ulos.	</div>
 
-<div class="versenum">10.</div> Se meni ja ilmoitti niille, jotka hanen kanssansa olleet olivat, jotka murehtivat ja itkivat.	
+<div class="theverse"><div class="versenum">10.</div> Se meni ja ilmoitti niille, jotka hanen kanssansa olleet olivat, jotka murehtivat ja itkivat.	</div>
 
-<div class="versenum">11.</div> Ja kuin he kuulivat hanen elavan, ja etta han hanelta nahty oli, ei he uskoneet.	
+<div class="theverse"><div class="versenum">11.</div> Ja kuin he kuulivat hanen elavan, ja etta han hanelta nahty oli, ei he uskoneet.	</div>
 
-<div class="versenum">12.</div> SItte kuin kaksi heista vaelsi, ilmestyi han heille toisenmuotoisena, kuin he maakylaan menivat.	
+<div class="theverse"><div class="versenum">12.</div> SItte kuin kaksi heista vaelsi, ilmestyi han heille toisenmuotoisena, kuin he maakylaan menivat.	</div>
 
-<div class="versenum">13.</div> Ne myos menivat ja julistivat muille. Ja ei he niitakaan uskoneet.	
+<div class="theverse"><div class="versenum">13.</div> Ne myos menivat ja julistivat muille. Ja ei he niitakaan uskoneet.	</div>
 
-<div class="versenum">14.</div> Viimein, kuin yksitoistakymmenta atrioitsivat, ilmestyi han, ja soimasi heidan epauskoansa ja heidan sydamensa kankiutta, ettei he uskoneet niita, jotka nanen nahneet olivat nousseeksi ylos.	
+<div class="theverse"><div class="versenum">14.</div> Viimein, kuin yksitoistakymmenta atrioitsivat, ilmestyi han, ja soimasi heidan epauskoansa ja heidan sydamensa kankiutta, ettei he uskoneet niita, jotka nanen nahneet olivat nousseeksi ylos.	</div>
 
-<div class="versenum">15.</div> Ja sanoi heille: menkaat kaikkeen maailmaan, ja saarnatkaat evankeliumia kaikille luoduille.	
+<div class="theverse"><div class="versenum">15.</div> Ja sanoi heille: menkaat kaikkeen maailmaan, ja saarnatkaat evankeliumia kaikille luoduille.	</div>
 
-<div class="versenum">16.</div> Joka uskoo ja kastetaan, se tulee autuaaksi; mutta joka ei usko, se kadotetaan.	
+<div class="theverse"><div class="versenum">16.</div> Joka uskoo ja kastetaan, se tulee autuaaksi; mutta joka ei usko, se kadotetaan.	</div>
 
-<div class="versenum">17.</div> Mutta nama ovat ne merkit, jotka niita seuraavat, jotka uskovat: minun nimeni kautta pitaa heidan perkeleet ajaman ulos, uusilla kielilla puhuman,	
+<div class="theverse"><div class="versenum">17.</div> Mutta nama ovat ne merkit, jotka niita seuraavat, jotka uskovat: minun nimeni kautta pitaa heidan perkeleet ajaman ulos, uusilla kielilla puhuman,	</div>
 
-<div class="versenum">18.</div> Kaarmeet ajaman pois, ja jos he jotakin myrkkya juovat, niin ei heille mitaan vahingoita; sairasten paalle pitaa heidan katensa paneman, ja ne paranevat.	
+<div class="theverse"><div class="versenum">18.</div> Kaarmeet ajaman pois, ja jos he jotakin myrkkya juovat, niin ei heille mitaan vahingoita; sairasten paalle pitaa heidan katensa paneman, ja ne paranevat.	</div>
 
-<div class="versenum">19.</div> Ja Herra, sitte kuin han oli heille puhunut, otettiin ylos taivaaseen ja istui Jumalan oikialle kadelle.	
+<div class="theverse"><div class="versenum">19.</div> Ja Herra, sitte kuin han oli heille puhunut, otettiin ylos taivaaseen ja istui Jumalan oikialle kadelle.	</div>
 
-<div class="versenum">20.</div> Mutta he menivat ja saarnasivat joka paikassa, ja Herra vaikutti heidan kanssansa ja vahvisti sanan seuraavaisten merkkien kautta.	
+<div class="theverse"><div class="versenum">20.</div> Mutta he menivat ja saarnasivat joka paikassa, ja Herra vaikutti heidan kanssansa ja vahvisti sanan seuraavaisten merkkien kautta.	</div>
 </body>
 </html>

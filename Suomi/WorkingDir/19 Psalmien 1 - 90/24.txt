@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">Psalmien 24	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi. Herran on maa, ja kaikki mitka siina ovat, maan piiri ja ne jotka sen paalla asuvat.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi. Herran on maa, ja kaikki mitka siina ovat, maan piiri ja ne jotka sen paalla asuvat.	</div>
 
-<div class="versenum">2.</div> Silla han on perustanut sen merten paalle, ja virtain paalle sen vahvistanut.	
+<div class="theverse"><div class="versenum">2.</div> Silla han on perustanut sen merten paalle, ja virtain paalle sen vahvistanut.	</div>
 
-<div class="versenum">3.</div> Kuka astuu Herran vuorelle? ja kuka taitaa seisoa hanen pyhassa siassansa?	
+<div class="theverse"><div class="versenum">3.</div> Kuka astuu Herran vuorelle? ja kuka taitaa seisoa hanen pyhassa siassansa?	</div>
 
-<div class="versenum">4.</div> Jolla viattomat kadet ovat ja on puhdas sydamesta, joka ei halaja turhuutta eika vanno vaarin,	
+<div class="theverse"><div class="versenum">4.</div> Jolla viattomat kadet ovat ja on puhdas sydamesta, joka ei halaja turhuutta eika vanno vaarin,	</div>
 
-<div class="versenum">5.</div> Se saa siunauksen Herralta, ja vanhurskauden autuutensa Jumalalta.	
+<div class="theverse"><div class="versenum">5.</div> Se saa siunauksen Herralta, ja vanhurskauden autuutensa Jumalalta.	</div>
 
-<div class="versenum">6.</div> Tama on se sukukunta, joka hanta etsii, joka kysyy sinun kasvojas, Jakob, Sela!	
+<div class="theverse"><div class="versenum">6.</div> Tama on se sukukunta, joka hanta etsii, joka kysyy sinun kasvojas, Jakob, Sela!	</div>
 
-<div class="versenum">7.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle.	
+<div class="theverse"><div class="versenum">7.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle.	</div>
 
-<div class="versenum">8.</div> Kuka on kunnian Kuningas? se on Herra, vakeva ja voimallinen, Herra voimallinen sodassa.	
+<div class="theverse"><div class="versenum">8.</div> Kuka on kunnian Kuningas? se on Herra, vakeva ja voimallinen, Herra voimallinen sodassa.	</div>
 
-<div class="versenum">9.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle!	
+<div class="theverse"><div class="versenum">9.</div> Tehkaat portit avaraksi ja ovet maailmassa korkiaksi, kunnian Kuninkaan menna sisalle!	</div>
 
-<div class="versenum">10.</div> Kuka on kunnian Kuningas? se on Herra Zebaot, han on kunnian Kuningas, Sela!	
+<div class="theverse"><div class="versenum">10.</div> Kuka on kunnian Kuningas? se on Herra Zebaot, han on kunnian Kuningas, Sela!	</div>
 </body>
 </html>

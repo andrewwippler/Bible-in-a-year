@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 27	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: Jos joku tekee jonkun erinomaisen lupauksen, niin pitaa ne sinun arvios jalkeen oleman Herran omat.	
+<div class="theverse"><div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: Jos joku tekee jonkun erinomaisen lupauksen, niin pitaa ne sinun arvios jalkeen oleman Herran omat.	</div>
 
-<div class="versenum">3.</div> Niin pitaa taman oleman sinun arvios: Kahdenkymmenen vuotisen miehenpuolen kuuteenkymmeneen vuoteen asti, pitaa sinun arvaaman viiteenkymmeneen hopeasikliin, pyhan siklin jalkeen.	
+<div class="theverse"><div class="versenum">3.</div> Niin pitaa taman oleman sinun arvios: Kahdenkymmenen vuotisen miehenpuolen kuuteenkymmeneen vuoteen asti, pitaa sinun arvaaman viiteenkymmeneen hopeasikliin, pyhan siklin jalkeen.	</div>
 
-<div class="versenum">4.</div> Mutta vaimonpuolen pitaa sinun arvaaman kolmeenkymmeneen sikliin.	
+<div class="theverse"><div class="versenum">4.</div> Mutta vaimonpuolen pitaa sinun arvaaman kolmeenkymmeneen sikliin.	</div>
 
-<div class="versenum">5.</div> Mutta viiden vuotisesta kahdenkymmenen vuotiseen asti, jos se on miehenpuoli, niin pitaa sinun arvaaman kahteenkymmeneen sikliin, vaan vaimonpuolen kymmeneen sikliin.	
+<div class="theverse"><div class="versenum">5.</div> Mutta viiden vuotisesta kahdenkymmenen vuotiseen asti, jos se on miehenpuoli, niin pitaa sinun arvaaman kahteenkymmeneen sikliin, vaan vaimonpuolen kymmeneen sikliin.	</div>
 
-<div class="versenum">6.</div> Jos se on kuukautinen viidenteen vuoteen asti, ja on miehenpuoli, pitaa sinun sen arvaaman viiteen hopeasikliin, mutta vaimonpuolen kolmeen hopeasikliin.	
+<div class="theverse"><div class="versenum">6.</div> Jos se on kuukautinen viidenteen vuoteen asti, ja on miehenpuoli, pitaa sinun sen arvaaman viiteen hopeasikliin, mutta vaimonpuolen kolmeen hopeasikliin.	</div>
 
-<div class="versenum">7.</div> Mutta jos se on kuudenkymmenen vuotinen eli sen paalle, ja miehenpuoli, pitaa sinun arvaaman hanen viiteentoistakymmeneen sikliin, mutta vaimonpuolen kymmeneen sikliin.	
+<div class="theverse"><div class="versenum">7.</div> Mutta jos se on kuudenkymmenen vuotinen eli sen paalle, ja miehenpuoli, pitaa sinun arvaaman hanen viiteentoistakymmeneen sikliin, mutta vaimonpuolen kymmeneen sikliin.	</div>
 
-<div class="versenum">8.</div> Ja jos han on ylen koyha senkaltaiseen arvioon, niin pitaa hanen meneman papin eteen, ja papin pitaa arvaaman hanen. Sen jalkeen, kuin se, joka lupauksen tehnyt on, voi matkaan saada, pitaa papin hanen arvaaman.	
+<div class="theverse"><div class="versenum">8.</div> Ja jos han on ylen koyha senkaltaiseen arvioon, niin pitaa hanen meneman papin eteen, ja papin pitaa arvaaman hanen. Sen jalkeen, kuin se, joka lupauksen tehnyt on, voi matkaan saada, pitaa papin hanen arvaaman.	</div>
 
-<div class="versenum">9.</div> Jos se on karjasta, jota Herralle uhrataan, kaikki mita Herralle annetaan, se on pyha.	
+<div class="theverse"><div class="versenum">9.</div> Jos se on karjasta, jota Herralle uhrataan, kaikki mita Herralle annetaan, se on pyha.	</div>
 
-<div class="versenum">10.</div> Ei pida sita vaihetettaman eli muutettaman hyva pahaan, eli paha hyvaan. Jos joku kumminkin vaihettaa yhden elaimen toiseen, niin pitaa he molemmat oleman pyhat.	
+<div class="theverse"><div class="versenum">10.</div> Ei pida sita vaihetettaman eli muutettaman hyva pahaan, eli paha hyvaan. Jos joku kumminkin vaihettaa yhden elaimen toiseen, niin pitaa he molemmat oleman pyhat.	</div>
 
-<div class="versenum">11.</div> Jos se elain on saastainen, jota ei saada uhrata Herralle, niin pitaa se vietaman papin eteen,	
+<div class="theverse"><div class="versenum">11.</div> Jos se elain on saastainen, jota ei saada uhrata Herralle, niin pitaa se vietaman papin eteen,	</div>
 
-<div class="versenum">12.</div> Ja papin pitaa arvaaman sen, jos se on hyva eli paha: sen pitaa pysyman sinun arviossas, joka pappi olet.	
+<div class="theverse"><div class="versenum">12.</div> Ja papin pitaa arvaaman sen, jos se on hyva eli paha: sen pitaa pysyman sinun arviossas, joka pappi olet.	</div>
 
-<div class="versenum">13.</div> Jos joku kuitenkin tahtoo lunastaa sen, hanen pitaa antaman viidennen osan sinun arvios paalle.	
+<div class="theverse"><div class="versenum">13.</div> Jos joku kuitenkin tahtoo lunastaa sen, hanen pitaa antaman viidennen osan sinun arvios paalle.	</div>
 
-<div class="versenum">14.</div> Ja jos joku pyhittaa huoneensa Herralle pyhaksi, niin pitaa papin arvaaman sen, jos se on hyva eli paha: ja papin arviossa pitaa sen pysyman.	
+<div class="theverse"><div class="versenum">14.</div> Ja jos joku pyhittaa huoneensa Herralle pyhaksi, niin pitaa papin arvaaman sen, jos se on hyva eli paha: ja papin arviossa pitaa sen pysyman.	</div>
 
-<div class="versenum">15.</div> Mutta jos pyhittanyt tahtoo lunastaa huoneensa, niin pitaa hanen antaman viidennen osan enemman rahaa, kuin sinun arvios on, ja niin pitaa se hanen oleman.	
+<div class="theverse"><div class="versenum">15.</div> Mutta jos pyhittanyt tahtoo lunastaa huoneensa, niin pitaa hanen antaman viidennen osan enemman rahaa, kuin sinun arvios on, ja niin pitaa se hanen oleman.	</div>
 
-<div class="versenum">16.</div> Jos joku pyhittaa Herralle kappaleen peltoa perintomaastansa, niin pitaa sinun se arvaaman sen jalkeen, kuin siihen kylvetaan; jos siihen kylvetaan homer ohria, niin pitaa sen maksaman viisikymmenta hopeasiklia.	
+<div class="theverse"><div class="versenum">16.</div> Jos joku pyhittaa Herralle kappaleen peltoa perintomaastansa, niin pitaa sinun se arvaaman sen jalkeen, kuin siihen kylvetaan; jos siihen kylvetaan homer ohria, niin pitaa sen maksaman viisikymmenta hopeasiklia.	</div>
 
-<div class="versenum">17.</div> Vaan jos han pyhittaa peltonsa ilovuodesta alkain, niin pitaa sen maksaman sinun arvios jalkeen.	
+<div class="theverse"><div class="versenum">17.</div> Vaan jos han pyhittaa peltonsa ilovuodesta alkain, niin pitaa sen maksaman sinun arvios jalkeen.	</div>
 
-<div class="versenum">18.</div> Jos han on pyhittanyt peltonsa ilovuoden jalkeen, niin papin pitaa lukeman hanelle rahan vuoden luvun jalkeen, kuin takaperin on ilovuoteen asti, ja se pitaa sinun arviostas vahennettaman.	
+<div class="theverse"><div class="versenum">18.</div> Jos han on pyhittanyt peltonsa ilovuoden jalkeen, niin papin pitaa lukeman hanelle rahan vuoden luvun jalkeen, kuin takaperin on ilovuoteen asti, ja se pitaa sinun arviostas vahennettaman.	</div>
 
-<div class="versenum">19.</div> Jos se joka pellon pyhittanyt on, tahtoo sen todella lunastaa jalleen, niin pitaa hanen antaman viidetta osaa enemman rahaa, kuin se sinulta arvattu on, ja niin pitaa se hanen oleman.	
+<div class="theverse"><div class="versenum">19.</div> Jos se joka pellon pyhittanyt on, tahtoo sen todella lunastaa jalleen, niin pitaa hanen antaman viidetta osaa enemman rahaa, kuin se sinulta arvattu on, ja niin pitaa se hanen oleman.	</div>
 
-<div class="versenum">20.</div> Jos ei han tahdo lunastaa peltoa, mutta myy sen toiselle, niin ei pida sita enaa lunastettaman.	
+<div class="theverse"><div class="versenum">20.</div> Jos ei han tahdo lunastaa peltoa, mutta myy sen toiselle, niin ei pida sita enaa lunastettaman.	</div>
 
-<div class="versenum">21.</div> Vaan se pelto, koska se ilovuonna tulee vapaaksi, pitaa oleman pyha Herralle, niinkuin valallisella lupauksella eroitettu pelto, ja pitaa oleman papin perintosaama.	
+<div class="theverse"><div class="versenum">21.</div> Vaan se pelto, koska se ilovuonna tulee vapaaksi, pitaa oleman pyha Herralle, niinkuin valallisella lupauksella eroitettu pelto, ja pitaa oleman papin perintosaama.	</div>
 
-<div class="versenum">22.</div> Jos joku sen pellon, jonka han ostanut on, joka ei ole hanen perintomaansa, pyhittaa Herralle,	
+<div class="theverse"><div class="versenum">22.</div> Jos joku sen pellon, jonka han ostanut on, joka ei ole hanen perintomaansa, pyhittaa Herralle,	</div>
 
-<div class="versenum">23.</div> Niin pitaa papin laskeman hanen edessansa sen hinnan sinun arvios jalkeen, ilovuoteen asti, ja hanen pitaa sen samana paivana antaman ulos, sinun arvios jalkeen, etta se Herralle pyha olis;	
+<div class="theverse"><div class="versenum">23.</div> Niin pitaa papin laskeman hanen edessansa sen hinnan sinun arvios jalkeen, ilovuoteen asti, ja hanen pitaa sen samana paivana antaman ulos, sinun arvios jalkeen, etta se Herralle pyha olis;	</div>
 
-<div class="versenum">24.</div> Mutta ilovuonna pitaa sen tuleman hanen omaksensa jalleen, jolta han sen ostanut on, etta se oli hanen perintosaamansa maalla.	
+<div class="theverse"><div class="versenum">24.</div> Mutta ilovuonna pitaa sen tuleman hanen omaksensa jalleen, jolta han sen ostanut on, etta se oli hanen perintosaamansa maalla.	</div>
 
-<div class="versenum">25.</div> Kaikki sinun arvios pitaa tapahtuman pyhan siklin jalkeen; mutta sikli tekee kaksikymmenta geraa.	
+<div class="theverse"><div class="versenum">25.</div> Kaikki sinun arvios pitaa tapahtuman pyhan siklin jalkeen; mutta sikli tekee kaksikymmenta geraa.	</div>
 
-<div class="versenum">26.</div> Mutta elainten esikoista, joka esikko-oikeuden jalkeen Herran oma muutoinkin on, ei pida kenenkaan pyhittaman, olkoon harka eli lammas; silla se on Herran.	
+<div class="theverse"><div class="versenum">26.</div> Mutta elainten esikoista, joka esikko-oikeuden jalkeen Herran oma muutoinkin on, ei pida kenenkaan pyhittaman, olkoon harka eli lammas; silla se on Herran.	</div>
 
-<div class="versenum">27.</div> Jos jotakin saastaista on elainten seassa, niin se pitaa lunastettaman sinun arvios jalkeen, ja siihen lisaksi annettaman viides osa; jos ei sita lunasteta, niin se myytakaan sinun arvios jalkeen.	
+<div class="theverse"><div class="versenum">27.</div> Jos jotakin saastaista on elainten seassa, niin se pitaa lunastettaman sinun arvios jalkeen, ja siihen lisaksi annettaman viides osa; jos ei sita lunasteta, niin se myytakaan sinun arvios jalkeen.	</div>
 
-<div class="versenum">28.</div> Kuitenkin kaikkea valallisella lupauksella eroitettua, jota joku valallisesti lupaa Herralle kaikesta mita hanella on, joko se olis ihminen, elain eli perintopelto, ei sita pida myytaman eli lunastettaman; silla kaikki valallisellla lupauksella eroitettu on kaikkein pyhin Herralle.	
+<div class="theverse"><div class="versenum">28.</div> Kuitenkin kaikkea valallisella lupauksella eroitettua, jota joku valallisesti lupaa Herralle kaikesta mita hanella on, joko se olis ihminen, elain eli perintopelto, ei sita pida myytaman eli lunastettaman; silla kaikki valallisellla lupauksella eroitettu on kaikkein pyhin Herralle.	</div>
 
-<div class="versenum">29.</div> Kaikkea kirottua, joka kiroukseen annetaan ihmisista, ei pida lunastettaman, vaan han pitaa totisesti kuoletettaman.	
+<div class="theverse"><div class="versenum">29.</div> Kaikkea kirottua, joka kiroukseen annetaan ihmisista, ei pida lunastettaman, vaan han pitaa totisesti kuoletettaman.	</div>
 
-<div class="versenum">30.</div> Kaikki maan kymmenykset, seka maan siemenesta etta puiden hedelmista, ovat Herran, ja pitaa oleman pyhat Herralle.	
+<div class="theverse"><div class="versenum">30.</div> Kaikki maan kymmenykset, seka maan siemenesta etta puiden hedelmista, ovat Herran, ja pitaa oleman pyhat Herralle.	</div>
 
-<div class="versenum">31.</div> Jos joku tahtoo lunastaa kymmenyksensa, hanen pitaa antaman viidennen osan lisaksi.	
+<div class="theverse"><div class="versenum">31.</div> Jos joku tahtoo lunastaa kymmenyksensa, hanen pitaa antaman viidennen osan lisaksi.	</div>
 
-<div class="versenum">32.</div> Ja kaikki kymmenykset karjasta, ja lampaista, ja kaikista kuin vitsan alla kay, ne ovat pyhat kymmenykset Herralle.	
+<div class="theverse"><div class="versenum">32.</div> Ja kaikki kymmenykset karjasta, ja lampaista, ja kaikista kuin vitsan alla kay, ne ovat pyhat kymmenykset Herralle.	</div>
 
-<div class="versenum">33.</div> Ei pida kysyttaman, jos se on hyva eli paha, eika myos pida sita vaihetettaman. Jos joku vaihettaa sen, niin pitaa ne molemmat oleman pyhat, ja ei lunastettaman.	
+<div class="theverse"><div class="versenum">33.</div> Ei pida kysyttaman, jos se on hyva eli paha, eika myos pida sita vaihetettaman. Jos joku vaihettaa sen, niin pitaa ne molemmat oleman pyhat, ja ei lunastettaman.	</div>
 
-<div class="versenum">34.</div> Namat ovat ne kaskyt, jotka Herra antoi Moseksen kautta Israelin lapsille, Sinain vuorella.	
+<div class="theverse"><div class="versenum">34.</div> Namat ovat ne kaskyt, jotka Herra antoi Moseksen kautta Israelin lapsille, Sinain vuorella.	</div>
 </body>
 </html>

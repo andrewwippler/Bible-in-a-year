@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 5	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Kaske Israelin lapset ajaa kaikki spitaliset leirista ulos, ja kaikki, joiden siemen vuotaa, ja kaikki ne, jotka ovat johonkuhun kuolleesen itsensa saastuttaneet.	
+<div class="theverse"><div class="versenum">2.</div> Kaske Israelin lapset ajaa kaikki spitaliset leirista ulos, ja kaikki, joiden siemen vuotaa, ja kaikki ne, jotka ovat johonkuhun kuolleesen itsensa saastuttaneet.	</div>
 
-<div class="versenum">3.</div> Seka miehet etta vaimot pitaa teidan ajaman ulos: leirista ne pitaa teidan ajaman ulos, ettei he leiriansa saastuttaisi, kussa mina heidan keskellansa asun.	
+<div class="theverse"><div class="versenum">3.</div> Seka miehet etta vaimot pitaa teidan ajaman ulos: leirista ne pitaa teidan ajaman ulos, ettei he leiriansa saastuttaisi, kussa mina heidan keskellansa asun.	</div>
 
-<div class="versenum">4.</div> Ja Israelin lapset tekivat niin, ja ajoivat ne leirista ulos: niinkuin Herra oli Mosekselle sanonut, niin he tekivat.	
+<div class="theverse"><div class="versenum">4.</div> Ja Israelin lapset tekivat niin, ja ajoivat ne leirista ulos: niinkuin Herra oli Mosekselle sanonut, niin he tekivat.	</div>
 
-<div class="versenum">5.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">5.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">6.</div> Puhu Israelin lapsille: jos joku mies eli vaimo tekee jotakin syntia ihmista vastaan, niin etta han raskaasti rikkoo Herraa vastaan, se sielu on vianalaiseksi itsensa saattanut.	
+<div class="theverse"><div class="versenum">6.</div> Puhu Israelin lapsille: jos joku mies eli vaimo tekee jotakin syntia ihmista vastaan, niin etta han raskaasti rikkoo Herraa vastaan, se sielu on vianalaiseksi itsensa saattanut.	</div>
 
-<div class="versenum">7.</div> Heidan pitaa tunnustaman rikoksensa, jonka he tehneet ovat, ja pitaa paanansa sovittaman vikansa, ja viela lisaaman viidennen osan, ja antaman sille, jota vastaan he rikkoneet ovat.	
+<div class="theverse"><div class="versenum">7.</div> Heidan pitaa tunnustaman rikoksensa, jonka he tehneet ovat, ja pitaa paanansa sovittaman vikansa, ja viela lisaaman viidennen osan, ja antaman sille, jota vastaan he rikkoneet ovat.	</div>
 
-<div class="versenum">8.</div> Jos ei silla ihmisella ole sita, jolla omaisen oikeus on, jolle se rikos maksettaa taittaisiin, niin pitaa se Herralle annettaman, ja oleman papin oman, paitsi sovinto-oinasta, jolla han sovitetaan.	
+<div class="theverse"><div class="versenum">8.</div> Jos ei silla ihmisella ole sita, jolla omaisen oikeus on, jolle se rikos maksettaa taittaisiin, niin pitaa se Herralle annettaman, ja oleman papin oman, paitsi sovinto-oinasta, jolla han sovitetaan.	</div>
 
-<div class="versenum">9.</div> Niin pitaa myos kaikki ylennys kaikista, minka Israelin lapset pyhittavat ja uhraavat papille, oleman hanen omansa.	
+<div class="theverse"><div class="versenum">9.</div> Niin pitaa myos kaikki ylennys kaikista, minka Israelin lapset pyhittavat ja uhraavat papille, oleman hanen omansa.	</div>
 
-<div class="versenum">10.</div> Jos joku jotain pyhittaa, sen pitaa oleman papin omana, ja mita joku antaa papille, sen pitaa oleman myos hanen omansa.	
+<div class="theverse"><div class="versenum">10.</div> Jos joku jotain pyhittaa, sen pitaa oleman papin omana, ja mita joku antaa papille, sen pitaa oleman myos hanen omansa.	</div>
 
-<div class="versenum">11.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">11.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">12.</div> Puhu Israelin lapsille ja sano heille: jos jonkun miehen vaimo tulee ynsiaksi ja rikkoo kovasti hanta vastaan;	
+<div class="theverse"><div class="versenum">12.</div> Puhu Israelin lapsille ja sano heille: jos jonkun miehen vaimo tulee ynsiaksi ja rikkoo kovasti hanta vastaan;	</div>
 
-<div class="versenum">13.</div> Ja jos joku makaa hanen, ja se on hanen miehensa silmain edesta salattu ja peitetty, etta han on itsensa saastuttanut, ja ei ole todistusta hanta vastaan, eika han ole siina loydetty,	
+<div class="theverse"><div class="versenum">13.</div> Ja jos joku makaa hanen, ja se on hanen miehensa silmain edesta salattu ja peitetty, etta han on itsensa saastuttanut, ja ei ole todistusta hanta vastaan, eika han ole siina loydetty,	</div>
 
-<div class="versenum">14.</div> Ja kiivaushenki kehoittaa hanen, etta han kiivoittelee vaimostansa, etta han on saastuttanut itsensa, eli epaluulon henki on tullut hanen paallensa, etta han on epaluulossa vaimostansa, vaikka ei han ole saastuttanut itsiansa,	
+<div class="theverse"><div class="versenum">14.</div> Ja kiivaushenki kehoittaa hanen, etta han kiivoittelee vaimostansa, etta han on saastuttanut itsensa, eli epaluulon henki on tullut hanen paallensa, etta han on epaluulossa vaimostansa, vaikka ei han ole saastuttanut itsiansa,	</div>
 
-<div class="versenum">15.</div> Niin pitaa miehen vieman vaimonsa papin eteen, ja vieman uhrin hanen edestansa, kymmenennen osan ephaa ohraisia jauhoja, ja ei sen paalle oljya vuodattaman, eika myos pyhaa savua sen paalle paneman; silla se on kiivausuhri ja muistouhri, joka pahan teon muistuttaa.	
+<div class="theverse"><div class="versenum">15.</div> Niin pitaa miehen vieman vaimonsa papin eteen, ja vieman uhrin hanen edestansa, kymmenennen osan ephaa ohraisia jauhoja, ja ei sen paalle oljya vuodattaman, eika myos pyhaa savua sen paalle paneman; silla se on kiivausuhri ja muistouhri, joka pahan teon muistuttaa.	</div>
 
-<div class="versenum">16.</div> Niin pitaa papin tuoman hanen edes, ja asettaman Herran eteen.	
+<div class="theverse"><div class="versenum">16.</div> Niin pitaa papin tuoman hanen edes, ja asettaman Herran eteen.	</div>
 
-<div class="versenum">17.</div> Ja papin pitaa ottaman pyhaa vetta saviastiaan, ja tomua Tabernaklin permannosta pitaa papin myos ottaman ja paneman veteen.	
+<div class="theverse"><div class="versenum">17.</div> Ja papin pitaa ottaman pyhaa vetta saviastiaan, ja tomua Tabernaklin permannosta pitaa papin myos ottaman ja paneman veteen.	</div>
 
-<div class="versenum">18.</div> Ja papin pitaa asettaman vaimon Herran eteen, ja paljastaman vaimon paan, ja paneman sen katten paalle muistouhrin, joka on kiivausuhri, ja papin kadessa pitaa oleman ne katkerat kirousvedet.	
+<div class="theverse"><div class="versenum">18.</div> Ja papin pitaa asettaman vaimon Herran eteen, ja paljastaman vaimon paan, ja paneman sen katten paalle muistouhrin, joka on kiivausuhri, ja papin kadessa pitaa oleman ne katkerat kirousvedet.	</div>
 
-<div class="versenum">19.</div> Ja papin pitaa vannottaman vaimoa, ja sanoman hanelle: jos ei yksikaan mies ole maannut sinun kanssas, ja jos et sina ole poikennut sinun miehes tykoa, niin ettet sina ole itsias saastuttanut, niin sinun pitaa vapaa oleman tasta karvaasta vedesta.	
+<div class="theverse"><div class="versenum">19.</div> Ja papin pitaa vannottaman vaimoa, ja sanoman hanelle: jos ei yksikaan mies ole maannut sinun kanssas, ja jos et sina ole poikennut sinun miehes tykoa, niin ettet sina ole itsias saastuttanut, niin sinun pitaa vapaa oleman tasta karvaasta vedesta.	</div>
 
-<div class="versenum">20.</div> Mutta jos sina olet poikennut miehes tykoa, niin etta sina olet saastuttanut itses, ja joku on sinun maannut, paitsi sinun omaa miestas,	
+<div class="theverse"><div class="versenum">20.</div> Mutta jos sina olet poikennut miehes tykoa, niin etta sina olet saastuttanut itses, ja joku on sinun maannut, paitsi sinun omaa miestas,	</div>
 
-<div class="versenum">21.</div> Niin pitaa papin vannottaman vaimoa kirouksen valalla, ja sanoman hanelle: Herra antakoon sinun kiroukseksi ja sadatukseksi kansas keskelle, niin etta Herra sallii lakastua lantees ja vatsas ajettua.	
+<div class="theverse"><div class="versenum">21.</div> Niin pitaa papin vannottaman vaimoa kirouksen valalla, ja sanoman hanelle: Herra antakoon sinun kiroukseksi ja sadatukseksi kansas keskelle, niin etta Herra sallii lakastua lantees ja vatsas ajettua.	</div>
 
-<div class="versenum">22.</div> Niin menkaan nyt tama kirousvesi sinun sisallyksiis, niin etta sinun vatsas ajettuu, ja sinun lantees lakastuvat. Ja vaimon pitaa sanoman: amen, amen!	
+<div class="theverse"><div class="versenum">22.</div> Niin menkaan nyt tama kirousvesi sinun sisallyksiis, niin etta sinun vatsas ajettuu, ja sinun lantees lakastuvat. Ja vaimon pitaa sanoman: amen, amen!	</div>
 
-<div class="versenum">23.</div> Ja niin pitaa papin kirjoittaman nama kiroukset kirjaan, ja pitaa taas pyyhkiman ne ulos siihen katkeraan veteen,	
+<div class="theverse"><div class="versenum">23.</div> Ja niin pitaa papin kirjoittaman nama kiroukset kirjaan, ja pitaa taas pyyhkiman ne ulos siihen katkeraan veteen,	</div>
 
-<div class="versenum">24.</div> Ja pitaa antaman vaimon juoda siita katkerasta kirousvedesta, ja se kirousvesi pitaa meneman hanen sisallensa katkeruudeksi.	
+<div class="theverse"><div class="versenum">24.</div> Ja pitaa antaman vaimon juoda siita katkerasta kirousvedesta, ja se kirousvesi pitaa meneman hanen sisallensa katkeruudeksi.	</div>
 
-<div class="versenum">25.</div> Ja papin pitaa ottaman kiivausuhrin vaimon kadesta, ja ylentaman sen Herran eteen ruokauhriksi, ja uhraaman sen alttarilla.	
+<div class="theverse"><div class="versenum">25.</div> Ja papin pitaa ottaman kiivausuhrin vaimon kadesta, ja ylentaman sen Herran eteen ruokauhriksi, ja uhraaman sen alttarilla.	</div>
 
-<div class="versenum">26.</div> Ja papin pitaa ottaman pivon tayden ruokauhrista hanen muistouhriksensa, ja polttaman sen alttarilla, ja sitte antaman sita vetta vaimon juoda.	
+<div class="theverse"><div class="versenum">26.</div> Ja papin pitaa ottaman pivon tayden ruokauhrista hanen muistouhriksensa, ja polttaman sen alttarilla, ja sitte antaman sita vetta vaimon juoda.	</div>
 
-<div class="versenum">27.</div> Ja koska han on juottanut hanen silla vedella, niin tapahtuu, jos han on itsensa saastuttanut ja kaiketikin rikkonut miestansa vastaan, etta kirousvesi tulee hanen sisallansa katkeraksi, ja hanen vatsansa ajettuu ja hanen lanteensa lakastuvat: ja sen vaimon pitaa oleman kirotun kansansa seassa.	
+<div class="theverse"><div class="versenum">27.</div> Ja koska han on juottanut hanen silla vedella, niin tapahtuu, jos han on itsensa saastuttanut ja kaiketikin rikkonut miestansa vastaan, etta kirousvesi tulee hanen sisallansa katkeraksi, ja hanen vatsansa ajettuu ja hanen lanteensa lakastuvat: ja sen vaimon pitaa oleman kirotun kansansa seassa.	</div>
 
-<div class="versenum">28.</div> Vaan jos se vaimo ei ole saastuttanut itsiansa, vaan on puhdas, niin ei pida sen mitaan hanelle vahinkoa tekeman, vaan hanen pitaa hedelmalliseksi tuleman.	
+<div class="theverse"><div class="versenum">28.</div> Vaan jos se vaimo ei ole saastuttanut itsiansa, vaan on puhdas, niin ei pida sen mitaan hanelle vahinkoa tekeman, vaan hanen pitaa hedelmalliseksi tuleman.	</div>
 
-<div class="versenum">29.</div> Tama on kiivauslaki: koska joku vaimo poikkee pois miehensa tykoa ja saastuttaa itsensa,	
+<div class="theverse"><div class="versenum">29.</div> Tama on kiivauslaki: koska joku vaimo poikkee pois miehensa tykoa ja saastuttaa itsensa,	</div>
 
-<div class="versenum">30.</div> Eli koska epaluulon henki kehoittaa miehen kiivoittelemaan vaimostansa, etta han asettaa hanen Herran eteen, niin papin pitaa tekeman hanelle kaiken taman lain jalkeen.	
+<div class="theverse"><div class="versenum">30.</div> Eli koska epaluulon henki kehoittaa miehen kiivoittelemaan vaimostansa, etta han asettaa hanen Herran eteen, niin papin pitaa tekeman hanelle kaiken taman lain jalkeen.	</div>
 
-<div class="versenum">31.</div> Ja miehen pitaa oleman viattoman siita pahasta teosta, vaan vaimon pitaa kantaman pahuutensa.	
+<div class="theverse"><div class="versenum">31.</div> Ja miehen pitaa oleman viattoman siita pahasta teosta, vaan vaimon pitaa kantaman pahuutensa.	</div>
 </body>
 </html>

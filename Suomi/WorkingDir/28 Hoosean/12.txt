@@ -4,32 +4,32 @@
 </head>
 <body><div class="chaptertitle">Hoosean 12	</div>
 	
-<div class="versenum">1.</div> (H12:2) Ephraim ruokkii itsensa tuulella, ja samoo itatuulen peraan, ja enentaa joka paiva valhetta ja vahinkoa. He tekevat Assurin kanssa liiton, ja vievat oljya Egyptiin.	
+<div class="theverse"><div class="versenum">1.</div> (H12:2) Ephraim ruokkii itsensa tuulella, ja samoo itatuulen peraan, ja enentaa joka paiva valhetta ja vahinkoa. He tekevat Assurin kanssa liiton, ja vievat oljya Egyptiin.	</div>
 
-<div class="versenum">2.</div> (H12:3) On myos Herralla riita Juudan kanssa, etsia Jakobia hanen menonsa jalkeen, ja kostaa hanelle hanen ansionsa jalkeen.	
+<div class="theverse"><div class="versenum">2.</div> (H12:3) On myos Herralla riita Juudan kanssa, etsia Jakobia hanen menonsa jalkeen, ja kostaa hanelle hanen ansionsa jalkeen.	</div>
 
-<div class="versenum">3.</div> (H12:4) Han on aitinsa kohdussa polkenut alas veljensa, ja kaikella voimallansa Jumalan kanssa taistellut.	
+<div class="theverse"><div class="versenum">3.</div> (H12:4) Han on aitinsa kohdussa polkenut alas veljensa, ja kaikella voimallansa Jumalan kanssa taistellut.	</div>
 
-<div class="versenum">4.</div> (H12:5) Han paineli myos enkelin kanssa ja voitti; han itki ja rukoili hanta; Betelissa loysi han hanen, ja siella han on puhunut meidan kanssamme.	
+<div class="theverse"><div class="versenum">4.</div> (H12:5) Han paineli myos enkelin kanssa ja voitti; han itki ja rukoili hanta; Betelissa loysi han hanen, ja siella han on puhunut meidan kanssamme.	</div>
 
-<div class="versenum">5.</div> (H12:6) Mutta se Herra on Jumala Zebaot, Herra on hanen muistonimensa.	
+<div class="theverse"><div class="versenum">5.</div> (H12:6) Mutta se Herra on Jumala Zebaot, Herra on hanen muistonimensa.	</div>
 
-<div class="versenum">6.</div> (H12:7) Niin kaanny nyt sinun Jumalas tyko; tee laupius ja oikeus, ja turvaa alati sinun Jumalaas.	
+<div class="theverse"><div class="versenum">6.</div> (H12:7) Niin kaanny nyt sinun Jumalas tyko; tee laupius ja oikeus, ja turvaa alati sinun Jumalaas.	</div>
 
-<div class="versenum">7.</div> (H12:8) Mutta kauppamiehella on vaara vaaka kadessa, ja pettaa mielellansa.	
+<div class="theverse"><div class="versenum">7.</div> (H12:8) Mutta kauppamiehella on vaara vaaka kadessa, ja pettaa mielellansa.	</div>
 
-<div class="versenum">8.</div> (H12:9) Ja Ephraim sanoo: Mina olen rikas, minulla on kylla; ei yhdessakaan minun tyossani loydeta pahatekoa, joka synti olis.	
+<div class="theverse"><div class="versenum">8.</div> (H12:9) Ja Ephraim sanoo: Mina olen rikas, minulla on kylla; ei yhdessakaan minun tyossani loydeta pahatekoa, joka synti olis.	</div>
 
-<div class="versenum">9.</div> (H12:10) Mutta mina olen Herra sinun Jumalas hamasta Egyptin maasta; mina annan sinun viela majoissa asua, niinkuin juhlina tapahtuu.	
+<div class="theverse"><div class="versenum">9.</div> (H12:10) Mutta mina olen Herra sinun Jumalas hamasta Egyptin maasta; mina annan sinun viela majoissa asua, niinkuin juhlina tapahtuu.	</div>
 
-<div class="versenum">10.</div> (H12:11) Ja puhun prophetaille, olen myos se, joka niin monet ennustukset annan, ja prophetain kautta minuni julistan.	
+<div class="theverse"><div class="versenum">10.</div> (H12:11) Ja puhun prophetaille, olen myos se, joka niin monet ennustukset annan, ja prophetain kautta minuni julistan.	</div>
 
-<div class="versenum">11.</div> (H12:12) Silla Gileadissa on epajumalan palvelus, ja Gilgalissa he uhraavat harkia hukkaan, ja heilla on niin monta alttaria, kuin kuhilaita on pellolla.	
+<div class="theverse"><div class="versenum">11.</div> (H12:12) Silla Gileadissa on epajumalan palvelus, ja Gilgalissa he uhraavat harkia hukkaan, ja heilla on niin monta alttaria, kuin kuhilaita on pellolla.	</div>
 
-<div class="versenum">12.</div> (H12:13) Jakobin taytyy Syrian maahan paeta, ja Israelin taytyy palvella vaimon tahden; vaimon tahden tosin taytyy hanen karjaa kaita.	
+<div class="theverse"><div class="versenum">12.</div> (H12:13) Jakobin taytyy Syrian maahan paeta, ja Israelin taytyy palvella vaimon tahden; vaimon tahden tosin taytyy hanen karjaa kaita.	</div>
 
-<div class="versenum">13.</div> (H12:14) Mutta sitte vei Herra Israelin Egyptista prophetan kautta, ja antoi prophetan kautta hanta korjata.	
+<div class="theverse"><div class="versenum">13.</div> (H12:14) Mutta sitte vei Herra Israelin Egyptista prophetan kautta, ja antoi prophetan kautta hanta korjata.	</div>
 
-<div class="versenum">14.</div> (H12:15) Vaan Ephraim vihoittaa hanen nyt epajumalillansa; sentahden pitaa heidan verensa tuleman heidan paallensa, ja heidan Herransa on kostava heidan pilkkansa.	
+<div class="theverse"><div class="versenum">14.</div> (H12:15) Vaan Ephraim vihoittaa hanen nyt epajumalillansa; sentahden pitaa heidan verensa tuleman heidan paallensa, ja heidan Herransa on kostava heidan pilkkansa.	</div>
 </body>
 </html>

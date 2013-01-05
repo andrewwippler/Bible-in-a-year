@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Jesajan 61	</div>
 	
-<div class="versenum">1.</div> Herran, Herran henki on minun paallani, sentahden on Herra minua voidellut, saarnaamaan koyhille hyvaa sanomaa; han on minun lahettanyt parantamaan sarjettyja sydamia: saarnaamaan vangeille lunastusta ja sidotuille paasemista;	
+<div class="theverse"><div class="versenum">1.</div> Herran, Herran henki on minun paallani, sentahden on Herra minua voidellut, saarnaamaan koyhille hyvaa sanomaa; han on minun lahettanyt parantamaan sarjettyja sydamia: saarnaamaan vangeille lunastusta ja sidotuille paasemista;	</div>
 
-<div class="versenum">2.</div> Saarnaamaan Herran otollista vuotta, ja meidan Jumalamme kostopaivaa; lohduttamaan kaikkia murheellisia;	
+<div class="theverse"><div class="versenum">2.</div> Saarnaamaan Herran otollista vuotta, ja meidan Jumalamme kostopaivaa; lohduttamaan kaikkia murheellisia;	</div>
 
-<div class="versenum">3.</div> Etta mina saattaisin murheellisille Zionissa kaunistuksen tuhan edesta, ja ilooljyn murheen edesta, ja kauniit vaatteet murheellisen hengen edesta; etta he vanhurskauden puuksi kutsuttaisiin, Herran istuttamisen ylistykseksi.	
+<div class="theverse"><div class="versenum">3.</div> Etta mina saattaisin murheellisille Zionissa kaunistuksen tuhan edesta, ja ilooljyn murheen edesta, ja kauniit vaatteet murheellisen hengen edesta; etta he vanhurskauden puuksi kutsuttaisiin, Herran istuttamisen ylistykseksi.	</div>
 
-<div class="versenum">4.</div> Ja heidan pitaa vanhat autiot paikat rakentaman, ja parantaman mita muinen on havitetty; heidan pitaa autiot kaupungit uudistaman, jotka suvusta sukuun havitettyna olivat.	
+<div class="theverse"><div class="versenum">4.</div> Ja heidan pitaa vanhat autiot paikat rakentaman, ja parantaman mita muinen on havitetty; heidan pitaa autiot kaupungit uudistaman, jotka suvusta sukuun havitettyna olivat.	</div>
 
-<div class="versenum">5.</div> Muukalaiset pitaa seisoman ja teidan laumanne kaitseman; ja vierasten lapset pitaa teidan peltomiehenne ja viinamakenne miehet oleman.	
+<div class="theverse"><div class="versenum">5.</div> Muukalaiset pitaa seisoman ja teidan laumanne kaitseman; ja vierasten lapset pitaa teidan peltomiehenne ja viinamakenne miehet oleman.	</div>
 
-<div class="versenum">6.</div> Mutta teita pitaa Herran papiksi kutsuttaman, ja sanottaman: te olette meidan Jumalamme palveliat, ja teidan pitaa pakanain hyvyyden syoman, ja heidan kunniastansa pitaa teidan kerskaaman.	
+<div class="theverse"><div class="versenum">6.</div> Mutta teita pitaa Herran papiksi kutsuttaman, ja sanottaman: te olette meidan Jumalamme palveliat, ja teidan pitaa pakanain hyvyyden syoman, ja heidan kunniastansa pitaa teidan kerskaaman.	</div>
 
-<div class="versenum">7.</div> Teidan hapianne edesta pitaa teidan kaksinkertaisesti saaman, ja havaistyksen edesta pitaa heidan riemuitseman osassansa: sentahden pitaa heidan kaksinkertaisesti maansa omistaman: heilla pitaa ijankaikkinen riemu oleman.	
+<div class="theverse"><div class="versenum">7.</div> Teidan hapianne edesta pitaa teidan kaksinkertaisesti saaman, ja havaistyksen edesta pitaa heidan riemuitseman osassansa: sentahden pitaa heidan kaksinkertaisesti maansa omistaman: heilla pitaa ijankaikkinen riemu oleman.	</div>
 
-<div class="versenum">8.</div> Silla mina olen Herra, joka oikeutta rakastan, ja vihaan ryovattya polttouhria: ja tahdon saattaa, ettei heidan tyonsa pida turha oleman, ja teen ijankaikkisen liiton heidan kanssansa.	
+<div class="theverse"><div class="versenum">8.</div> Silla mina olen Herra, joka oikeutta rakastan, ja vihaan ryovattya polttouhria: ja tahdon saattaa, ettei heidan tyonsa pida turha oleman, ja teen ijankaikkisen liiton heidan kanssansa.	</div>
 
-<div class="versenum">9.</div> Ja heidan siemenensa pitaa pakanain seassa tunnettaman, ja heidan jalkeentulevaisensa kansain seassa; etta jokainen, joka heidat nakee, pitaa heidat tunteman, etta he ovat siunattu siemen Herralta.	
+<div class="theverse"><div class="versenum">9.</div> Ja heidan siemenensa pitaa pakanain seassa tunnettaman, ja heidan jalkeentulevaisensa kansain seassa; etta jokainen, joka heidat nakee, pitaa heidat tunteman, etta he ovat siunattu siemen Herralta.	</div>
 
-<div class="versenum">10.</div> Mina iloitsen suuresti Herrassa, ja minun sieluni riemuitsee minun Jumalassani; silla han puetti minun autuuden vaatteilla, ja verhoitti minun vanhurskauden hameella: niinkuin ylka kaunistettu papillisella kaunistuksella, ja niinkuin morsian kaunistettu kaunistuksessansa.	
+<div class="theverse"><div class="versenum">10.</div> Mina iloitsen suuresti Herrassa, ja minun sieluni riemuitsee minun Jumalassani; silla han puetti minun autuuden vaatteilla, ja verhoitti minun vanhurskauden hameella: niinkuin ylka kaunistettu papillisella kaunistuksella, ja niinkuin morsian kaunistettu kaunistuksessansa.	</div>
 
-<div class="versenum">11.</div> Silla niinkuin hedelma kasvaa maasta, ja siemen yrttitarhassa putkahtaa, niin antaa Herra, Herra vanhurskauden ja kiitoksen kayda ylos kaikkein pakanain edessa.	
+<div class="theverse"><div class="versenum">11.</div> Silla niinkuin hedelma kasvaa maasta, ja siemen yrttitarhassa putkahtaa, niin antaa Herra, Herra vanhurskauden ja kiitoksen kayda ylos kaikkein pakanain edessa.	</div>
 </body>
 </html>

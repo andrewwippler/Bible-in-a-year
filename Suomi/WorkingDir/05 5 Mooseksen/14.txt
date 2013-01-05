@@ -4,62 +4,62 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 14	</div>
 	
-<div class="versenum">1.</div> Te olette Herran teidan Jumalanne lapset: alkaat piirustelko itsianne, ja alkaat keritko itsianne paljaaksi otsaltanne, jonkun kuolleen tahden.	
+<div class="theverse"><div class="versenum">1.</div> Te olette Herran teidan Jumalanne lapset: alkaat piirustelko itsianne, ja alkaat keritko itsianne paljaaksi otsaltanne, jonkun kuolleen tahden.	</div>
 
-<div class="versenum">2.</div> Silla sina olet pyha kansa Herralle sinun Jumalalles, ja Herra on sinun valinnut erinomaiseksi kansaksi, kaikista kansoista, jotka maan paalla ovat.	
+<div class="theverse"><div class="versenum">2.</div> Silla sina olet pyha kansa Herralle sinun Jumalalles, ja Herra on sinun valinnut erinomaiseksi kansaksi, kaikista kansoista, jotka maan paalla ovat.	</div>
 
-<div class="versenum">3.</div> Ei sinun pida mitakaan kauhistavaista syoman.	
+<div class="theverse"><div class="versenum">3.</div> Ei sinun pida mitakaan kauhistavaista syoman.	</div>
 
-<div class="versenum">4.</div> Mutta namat ovat ne elaimet, joita saatte syoda: harka, lammas, ja vuohi,	
+<div class="theverse"><div class="versenum">4.</div> Mutta namat ovat ne elaimet, joita saatte syoda: harka, lammas, ja vuohi,	</div>
 
-<div class="versenum">5.</div> Peura, metsavuohi, ruskia peura, akko, dison, teo, makikauris.	
+<div class="theverse"><div class="versenum">5.</div> Peura, metsavuohi, ruskia peura, akko, dison, teo, makikauris.	</div>
 
-<div class="versenum">6.</div> Ja kaikkinainen elain, jolla on kaksihaarainen sorkka, hajoitettu kahtia, ja marehtii, niita te saatte syoda.	
+<div class="theverse"><div class="versenum">6.</div> Ja kaikkinainen elain, jolla on kaksihaarainen sorkka, hajoitettu kahtia, ja marehtii, niita te saatte syoda.	</div>
 
-<div class="versenum">7.</div> Ette kuitenkaan saa naita syoda niista, jotka marehtivat, ja halaistun sorkkansa jakavat, kuin on: kameli, janis, kanini; silla he marehtivat, mutta ei ole kuitenkaan kokonansa kaksisorkkaiset: ne pitaa oleman teille saastaiset.	
+<div class="theverse"><div class="versenum">7.</div> Ette kuitenkaan saa naita syoda niista, jotka marehtivat, ja halaistun sorkkansa jakavat, kuin on: kameli, janis, kanini; silla he marehtivat, mutta ei ole kuitenkaan kokonansa kaksisorkkaiset: ne pitaa oleman teille saastaiset.	</div>
 
-<div class="versenum">8.</div> Sika, vaikka hanella on kaksihaaraiset sorkat, ei han kuitenkaan marehdi, se pitaa teille oleman saastainen: hanen lihaansa ei teidan pida syoman, eika sen raatoon sattuman.	
+<div class="theverse"><div class="versenum">8.</div> Sika, vaikka hanella on kaksihaaraiset sorkat, ei han kuitenkaan marehdi, se pitaa teille oleman saastainen: hanen lihaansa ei teidan pida syoman, eika sen raatoon sattuman.	</div>
 
-<div class="versenum">9.</div> Namat ovat ne, joita te saatte syoda kaikista niista jotka vedessa ovat: kaikkinainen, jolla uimus ja suomus on, sita te saatte syoda.	
+<div class="theverse"><div class="versenum">9.</div> Namat ovat ne, joita te saatte syoda kaikista niista jotka vedessa ovat: kaikkinainen, jolla uimus ja suomus on, sita te saatte syoda.	</div>
 
-<div class="versenum">10.</div> Mutta se, jolla ei ole uimuksia eika suomuksia, sita ei teidan pida syoman: se on teille saastainen.	
+<div class="theverse"><div class="versenum">10.</div> Mutta se, jolla ei ole uimuksia eika suomuksia, sita ei teidan pida syoman: se on teille saastainen.	</div>
 
-<div class="versenum">11.</div> Kaikkia puhtaita lintuja syokaat:	
+<div class="theverse"><div class="versenum">11.</div> Kaikkia puhtaita lintuja syokaat:	</div>
 
-<div class="versenum">12.</div> Namat heista ovat ne, joita ei teidan syoman pida: kotka, luukotka ja kalakotka,	
+<div class="theverse"><div class="versenum">12.</div> Namat heista ovat ne, joita ei teidan syoman pida: kotka, luukotka ja kalakotka,	</div>
 
-<div class="versenum">13.</div> Varis, harakka ja kokkolintu lainensa,	
+<div class="theverse"><div class="versenum">13.</div> Varis, harakka ja kokkolintu lainensa,	</div>
 
-<div class="versenum">14.</div> Ja kaikki kaarneet lainensa,	
+<div class="theverse"><div class="versenum">14.</div> Ja kaikki kaarneet lainensa,	</div>
 
-<div class="versenum">15.</div> Strutsi, paaskyinen, louve ja haukka lainensa,	
+<div class="theverse"><div class="versenum">15.</div> Strutsi, paaskyinen, louve ja haukka lainensa,	</div>
 
-<div class="versenum">16.</div> Huhkaja, hyypio, ja yokko,	
+<div class="theverse"><div class="versenum">16.</div> Huhkaja, hyypio, ja yokko,	</div>
 
-<div class="versenum">17.</div> Ruovon paristaja, storkki, merimetsas,	
+<div class="theverse"><div class="versenum">17.</div> Ruovon paristaja, storkki, merimetsas,	</div>
 
-<div class="versenum">18.</div> Haikara, makihaukka lainensa, puputtaja ja nahkasiipi.	
+<div class="theverse"><div class="versenum">18.</div> Haikara, makihaukka lainensa, puputtaja ja nahkasiipi.	</div>
 
-<div class="versenum">19.</div> Ja kaikki, jotka matelevat ja lentavat, pitaa oleman teille saastaiset: ei pida niita syotaman.	
+<div class="theverse"><div class="versenum">19.</div> Ja kaikki, jotka matelevat ja lentavat, pitaa oleman teille saastaiset: ei pida niita syotaman.	</div>
 
-<div class="versenum">20.</div> Kaikkia puhtaita lintuja saatte te syoda.	
+<div class="theverse"><div class="versenum">20.</div> Kaikkia puhtaita lintuja saatte te syoda.	</div>
 
-<div class="versenum">21.</div> Ei teidan pida syoman yhtaan raatoa: muukalaiselle, joka sinun porteissas on, anna sa syoda, eli myy muukalaiselle: silla sina olet pyha kansa Herralle sinun Jumalalles. Ei sinun pida keittaman vohlaa emansa rieskassa.	
+<div class="theverse"><div class="versenum">21.</div> Ei teidan pida syoman yhtaan raatoa: muukalaiselle, joka sinun porteissas on, anna sa syoda, eli myy muukalaiselle: silla sina olet pyha kansa Herralle sinun Jumalalles. Ei sinun pida keittaman vohlaa emansa rieskassa.	</div>
 
-<div class="versenum">22.</div> Sinun pitaa vilpittomasti eroittaman kymmenykset kaikesta sinun jyvatulostas, joka pellostas tulee, vuosi vuodelta.	
+<div class="theverse"><div class="versenum">22.</div> Sinun pitaa vilpittomasti eroittaman kymmenykset kaikesta sinun jyvatulostas, joka pellostas tulee, vuosi vuodelta.	</div>
 
-<div class="versenum">23.</div> Ja sinun pitaa syoman Herran sinun Jumalas edessa, siina paikassa, jonka han valitsee, etta hanen nimensa siina asuis, sinun jyvais, viinas ja oljys kymmenykset, esikoiset karjastas ja lampaistas, etta sina oppisit pelkaamaan Herraa sinun Jumalaas kaikkena elinaikanas.	
+<div class="theverse"><div class="versenum">23.</div> Ja sinun pitaa syoman Herran sinun Jumalas edessa, siina paikassa, jonka han valitsee, etta hanen nimensa siina asuis, sinun jyvais, viinas ja oljys kymmenykset, esikoiset karjastas ja lampaistas, etta sina oppisit pelkaamaan Herraa sinun Jumalaas kaikkena elinaikanas.	</div>
 
-<div class="versenum">24.</div> Mutta jos tie on sinulle ylen pitka, niin ettet sina taida sita vieda sinne, etta se paikka on kaukana sinusta, jonka Herra sinun Jumalas on valinnut, etta hanen nimensa siella asuis; koska Herra sinun Jumalas on siunannut sinun,	
+<div class="theverse"><div class="versenum">24.</div> Mutta jos tie on sinulle ylen pitka, niin ettet sina taida sita vieda sinne, etta se paikka on kaukana sinusta, jonka Herra sinun Jumalas on valinnut, etta hanen nimensa siella asuis; koska Herra sinun Jumalas on siunannut sinun,	</div>
 
-<div class="versenum">25.</div> Niin myy se rahaan, ja ota raha katees, ja mene siihen paikkaan, jonka Herra sinun Jumalas on valinnut.	
+<div class="theverse"><div class="versenum">25.</div> Niin myy se rahaan, ja ota raha katees, ja mene siihen paikkaan, jonka Herra sinun Jumalas on valinnut.	</div>
 
-<div class="versenum">26.</div> Ja osta silla rahalla kaikkia, mita sinun sielus himoitsee, joko se on nauta eli lammas, viina, vakeva juoma, taikka mita ikana sinun sielus himoitsee, ja syo se Herran sinun Jumalas edessa, ja ole iloinen, sina ja sinun huonees.	
+<div class="theverse"><div class="versenum">26.</div> Ja osta silla rahalla kaikkia, mita sinun sielus himoitsee, joko se on nauta eli lammas, viina, vakeva juoma, taikka mita ikana sinun sielus himoitsee, ja syo se Herran sinun Jumalas edessa, ja ole iloinen, sina ja sinun huonees.	</div>
 
-<div class="versenum">27.</div> Ja Levilaista , joka sinun porteissas on, ei sinun pida hylkaaman, silla ei hanella ole osaa eli perimysta sinun kanssas.	
+<div class="theverse"><div class="versenum">27.</div> Ja Levilaista , joka sinun porteissas on, ei sinun pida hylkaaman, silla ei hanella ole osaa eli perimysta sinun kanssas.	</div>
 
-<div class="versenum">28.</div> Joka kolmannen vuoden lopulla pitaa sinun eroittaman kaikki kymmenykset sinun vuotes tulosta sina vuonna, ja vieman sinun portteihis.	
+<div class="theverse"><div class="versenum">28.</div> Joka kolmannen vuoden lopulla pitaa sinun eroittaman kaikki kymmenykset sinun vuotes tulosta sina vuonna, ja vieman sinun portteihis.	</div>
 
-<div class="versenum">29.</div> Niin pitaa Levilaisen tuleman, jolla ei yhtaan osaa eli perimysta ole sinun kanssas, ja muukalainen, ja orpo, ja leski, jotka sinun porteissas ovat, ja heidan pitaa syoman ja ravittaman, etta Herra sinun Jumalas sinua siunais kaikissa sinun kattes toissa, jotka sina teet.	
+<div class="theverse"><div class="versenum">29.</div> Niin pitaa Levilaisen tuleman, jolla ei yhtaan osaa eli perimysta ole sinun kanssas, ja muukalainen, ja orpo, ja leski, jotka sinun porteissas ovat, ja heidan pitaa syoman ja ravittaman, etta Herra sinun Jumalas sinua siunais kaikissa sinun kattes toissa, jotka sina teet.	</div>
 </body>
 </html>

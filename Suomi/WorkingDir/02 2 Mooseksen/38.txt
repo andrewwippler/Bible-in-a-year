@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 38	</div>
 	
-<div class="versenum">1.</div> Ja teki myos polttouhrin alttarin sittimipuusta, viisi kyynaraa pitkan ja viisi kyynaraa levian, juuri nelikulmaiseksi, ja kolme kyynaraa korkiaksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja teki myos polttouhrin alttarin sittimipuusta, viisi kyynaraa pitkan ja viisi kyynaraa levian, juuri nelikulmaiseksi, ja kolme kyynaraa korkiaksi.	</div>
 
-<div class="versenum">2.</div> Ja teki nelja sarvea sen neljan kulman paalle: siita olivat hanen sarvensa; ja silasi sen vaskella.	
+<div class="theverse"><div class="versenum">2.</div> Ja teki nelja sarvea sen neljan kulman paalle: siita olivat hanen sarvensa; ja silasi sen vaskella.	</div>
 
-<div class="versenum">3.</div> Ja teki kaikkinaiset alttarin astiat, tuhka-astiat, lapiot, maljat, hangot, hiiliastiat: kaikki astiat teki han vaskesta.	
+<div class="theverse"><div class="versenum">3.</div> Ja teki kaikkinaiset alttarin astiat, tuhka-astiat, lapiot, maljat, hangot, hiiliastiat: kaikki astiat teki han vaskesta.	</div>
 
-<div class="versenum">4.</div> Ja teki alttarin ymparille vaskihakin niinkuin verkon, maasta niin puolialttariin.	
+<div class="theverse"><div class="versenum">4.</div> Ja teki alttarin ymparille vaskihakin niinkuin verkon, maasta niin puolialttariin.	</div>
 
-<div class="versenum">5.</div> Ja valoi nelja rengasta neljaan vaskihakin kulmiin, etta korennot niihin pistettiin.	
+<div class="theverse"><div class="versenum">5.</div> Ja valoi nelja rengasta neljaan vaskihakin kulmiin, etta korennot niihin pistettiin.	</div>
 
-<div class="versenum">6.</div> Ja teki korennot sittimipuusta, ja silasi ne vaskella,	
+<div class="theverse"><div class="versenum">6.</div> Ja teki korennot sittimipuusta, ja silasi ne vaskella,	</div>
 
-<div class="versenum">7.</div> Ja pani renkaisiin alttarin sivulle, joilla se kannettiin. Ja teki laudoista, avojammaksi sisalta.	
+<div class="theverse"><div class="versenum">7.</div> Ja pani renkaisiin alttarin sivulle, joilla se kannettiin. Ja teki laudoista, avojammaksi sisalta.	</div>
 
-<div class="versenum">8.</div> Ja han teki pesoastian vaskesta, ja sen jalan myos vaskesta, niiden vaimoin peileista, jotka palvelivat seurakunnan majan oven edessa.	
+<div class="theverse"><div class="versenum">8.</div> Ja han teki pesoastian vaskesta, ja sen jalan myos vaskesta, niiden vaimoin peileista, jotka palvelivat seurakunnan majan oven edessa.	</div>
 
-<div class="versenum">9.</div> Ja han teki pihan etelaan pain, ja pihan vaatteet valkiasta kerratusta liinasta, sata kyynaraa pitkaksi,	
+<div class="theverse"><div class="versenum">9.</div> Ja han teki pihan etelaan pain, ja pihan vaatteet valkiasta kerratusta liinasta, sata kyynaraa pitkaksi,	</div>
 
-<div class="versenum">10.</div> Hanen kahdenkymmenen patsastensa ja kahdenkymmenen jalkainsa kanssa vaskesta, mutta heidan koukkunsa ja vyonsa hopiasta.	
+<div class="theverse"><div class="versenum">10.</div> Hanen kahdenkymmenen patsastensa ja kahdenkymmenen jalkainsa kanssa vaskesta, mutta heidan koukkunsa ja vyonsa hopiasta.	</div>
 
-<div class="versenum">11.</div> Niin myos pohjaa pain sata kyynaraa, kahdenkymmenen patsaan ja kahdenkymmenen jalan kanssa vaskesta, mutta heidan koukkunsa ja vyonsa hopiasta.	
+<div class="theverse"><div class="versenum">11.</div> Niin myos pohjaa pain sata kyynaraa, kahdenkymmenen patsaan ja kahdenkymmenen jalan kanssa vaskesta, mutta heidan koukkunsa ja vyonsa hopiasta.	</div>
 
-<div class="versenum">12.</div> Mutta lannen puolella olivat vaatteet viisikymmenta kyynaraa, kymmenen patsaansa ja kymmenen jalkansa kanssa, mutta heidan koukkunsa ja vyonsa hopiasta;	
+<div class="theverse"><div class="versenum">12.</div> Mutta lannen puolella olivat vaatteet viisikymmenta kyynaraa, kymmenen patsaansa ja kymmenen jalkansa kanssa, mutta heidan koukkunsa ja vyonsa hopiasta;	</div>
 
-<div class="versenum">13.</div> Mutta itaa pain viisikymmenta kyynaraa:	
+<div class="theverse"><div class="versenum">13.</div> Mutta itaa pain viisikymmenta kyynaraa:	</div>
 
-<div class="versenum">14.</div> Vaatteet viisitoistakymmenta kyynaraa sivulla: kolmen patsaan ja kolmen jalan kanssa.	
+<div class="theverse"><div class="versenum">14.</div> Vaatteet viisitoistakymmenta kyynaraa sivulla: kolmen patsaan ja kolmen jalan kanssa.	</div>
 
-<div class="versenum">15.</div> Ja toisella sivulla molemmin puolin, pihan lapikaytavan tykona, olivat vaatteet viisitoistakymmenta kyynaraa: heidan kolmen patsaansa ja jalkansa kanssa.	
+<div class="theverse"><div class="versenum">15.</div> Ja toisella sivulla molemmin puolin, pihan lapikaytavan tykona, olivat vaatteet viisitoistakymmenta kyynaraa: heidan kolmen patsaansa ja jalkansa kanssa.	</div>
 
-<div class="versenum">16.</div> Ja kaikki pihan vaatteet ymparinsa olivat valkiasta kerratusta liinasta,	
+<div class="theverse"><div class="versenum">16.</div> Ja kaikki pihan vaatteet ymparinsa olivat valkiasta kerratusta liinasta,	</div>
 
-<div class="versenum">17.</div> Ja patsasten jalat vaskesta, ja heidan koukkunsa ja vyonsa hopiasta, niin etta heidan nuppinsa olivat silatut hopialla: ja kaikki myos ne pihan patsaat olivat vyotetyt hopiavyolla.	
+<div class="theverse"><div class="versenum">17.</div> Ja patsasten jalat vaskesta, ja heidan koukkunsa ja vyonsa hopiasta, niin etta heidan nuppinsa olivat silatut hopialla: ja kaikki myos ne pihan patsaat olivat vyotetyt hopiavyolla.	</div>
 
-<div class="versenum">18.</div> Ja peitevaatteet pihan sisallekaytavaan teki han sinisista ja purpuraisista ja tulipunaisista villoista, ja valkiasta kerratusta liinasta, taitavasti neulotut, kaksikymmenta kyynaraa pitkaksi, ja viisi kyynaraa korkiaksi leveydessa pihan vaatteen kohdalla,	
+<div class="theverse"><div class="versenum">18.</div> Ja peitevaatteet pihan sisallekaytavaan teki han sinisista ja purpuraisista ja tulipunaisista villoista, ja valkiasta kerratusta liinasta, taitavasti neulotut, kaksikymmenta kyynaraa pitkaksi, ja viisi kyynaraa korkiaksi leveydessa pihan vaatteen kohdalla,	</div>
 
-<div class="versenum">19.</div> Niin myos niiden nelja patsasta ja niiden nelja jalkaa vaskesta, ja heidan koukkunsa hopiasta, ja heidan paansa silatut ja vyotetyt hopiavoilla.	
+<div class="theverse"><div class="versenum">19.</div> Niin myos niiden nelja patsasta ja niiden nelja jalkaa vaskesta, ja heidan koukkunsa hopiasta, ja heidan paansa silatut ja vyotetyt hopiavoilla.	</div>
 
-<div class="versenum">20.</div> Ja kaikki vaarnat majassa, ja koko piha ymparinsa, olivat vaskesta.	
+<div class="theverse"><div class="versenum">20.</div> Ja kaikki vaarnat majassa, ja koko piha ymparinsa, olivat vaskesta.	</div>
 
-<div class="versenum">21.</div> Tama on kaluin luku joka todistuksen majaan tarvittiin, jotka ovat luetut Moseksen kaskyn jalkeen: Levilaisten palveluksen kautta, Itamarin papin Aaronin pojan kaden alla.	
+<div class="theverse"><div class="versenum">21.</div> Tama on kaluin luku joka todistuksen majaan tarvittiin, jotka ovat luetut Moseksen kaskyn jalkeen: Levilaisten palveluksen kautta, Itamarin papin Aaronin pojan kaden alla.	</div>
 
-<div class="versenum">22.</div> Ja Betsaleel Urin poika, Hurin pojanpoika Juudan suvusta, teki kaikki kuin Herra Mosekselle oli kaskenyt,	
+<div class="theverse"><div class="versenum">22.</div> Ja Betsaleel Urin poika, Hurin pojanpoika Juudan suvusta, teki kaikki kuin Herra Mosekselle oli kaskenyt,	</div>
 
-<div class="versenum">23.</div> Ja hanen kanssansa Oholiab Ahisamakin poika Danin suvusta; silla han oli taitava ja ymmartavainen neulomaan sinisilla, ja purpuraisilla, ja tulipunaisilla villoilla, ja valkialla liinalla.	
+<div class="theverse"><div class="versenum">23.</div> Ja hanen kanssansa Oholiab Ahisamakin poika Danin suvusta; silla han oli taitava ja ymmartavainen neulomaan sinisilla, ja purpuraisilla, ja tulipunaisilla villoilla, ja valkialla liinalla.	</div>
 
-<div class="versenum">24.</div> Kaikki se kulta mika tehtiin kaiken taman pyhan tarpeeksi, se kuin annettu oli ylennykseksi, oli yhdeksankolmattakymmenta leiviskaa, seitsemansataa ja kolmekymmenta siklia, pyhan siklin jalkeen.	
+<div class="theverse"><div class="versenum">24.</div> Kaikki se kulta mika tehtiin kaiken taman pyhan tarpeeksi, se kuin annettu oli ylennykseksi, oli yhdeksankolmattakymmenta leiviskaa, seitsemansataa ja kolmekymmenta siklia, pyhan siklin jalkeen.	</div>
 
-<div class="versenum">25.</div> Mutta hopia, joka siihen yhteiselta kansalta annettiin, oli sata leiviskaa, tuhannen seitsemansataa viisikahdeksattakymmenta siklia, pyhan siklin jalkeen:	
+<div class="theverse"><div class="versenum">25.</div> Mutta hopia, joka siihen yhteiselta kansalta annettiin, oli sata leiviskaa, tuhannen seitsemansataa viisikahdeksattakymmenta siklia, pyhan siklin jalkeen:	</div>
 
-<div class="versenum">26.</div> Niin monta puolta siklia, kuin monta henkea, pyhan siklin jalkeen: kaikilta niilta, jotka luetut olivat kahdestakymmenesta ajastajasta ja sen ylitse, kuusisataa tuhatta, kolmetuhatta, viisisataa ja viisikymmenta.	
+<div class="theverse"><div class="versenum">26.</div> Niin monta puolta siklia, kuin monta henkea, pyhan siklin jalkeen: kaikilta niilta, jotka luetut olivat kahdestakymmenesta ajastajasta ja sen ylitse, kuusisataa tuhatta, kolmetuhatta, viisisataa ja viisikymmenta.	</div>
 
-<div class="versenum">27.</div> Sadasta leiviskasta hopiaa valettiin pyhat jalat, ja esiripun jalat: sata jalkaa sadasta leiviskasta, leiviska kullekin jalalle.	
+<div class="theverse"><div class="versenum">27.</div> Sadasta leiviskasta hopiaa valettiin pyhat jalat, ja esiripun jalat: sata jalkaa sadasta leiviskasta, leiviska kullekin jalalle.	</div>
 
-<div class="versenum">28.</div> Mutta tuhannesta seitsemastasadasta ja viidestakahdeksattakymmenesta siklista tehtiin koukut patsaisiin: ja heidan paansa silattiin, ja vyolla vyotettiin.	
+<div class="theverse"><div class="versenum">28.</div> Mutta tuhannesta seitsemastasadasta ja viidestakahdeksattakymmenesta siklista tehtiin koukut patsaisiin: ja heidan paansa silattiin, ja vyolla vyotettiin.	</div>
 
-<div class="versenum">29.</div> Mutta vaski, joka annettiin ylennysuhriksi, oli seitsemankymmenta leiviskaa, kaksituhatta ja neljasataa siklia.	
+<div class="theverse"><div class="versenum">29.</div> Mutta vaski, joka annettiin ylennysuhriksi, oli seitsemankymmenta leiviskaa, kaksituhatta ja neljasataa siklia.	</div>
 
-<div class="versenum">30.</div> Siita tehtiin jalat seurakunnan majan oveen, ja vaski-alttari ja vaskihakki kuin siina oli, ja myos kaikki alttarin astiat,	
+<div class="theverse"><div class="versenum">30.</div> Siita tehtiin jalat seurakunnan majan oveen, ja vaski-alttari ja vaskihakki kuin siina oli, ja myos kaikki alttarin astiat,	</div>
 
-<div class="versenum">31.</div> Niin myos jalat ymparinsa pihaa, ja jalat pihan sisallekaytavaan, ja kaikki majan vaarnat, ja kaikki pihan vaarnat ymparinsa.	
+<div class="theverse"><div class="versenum">31.</div> Niin myos jalat ymparinsa pihaa, ja jalat pihan sisallekaytavaan, ja kaikki majan vaarnat, ja kaikki pihan vaarnat ymparinsa.	</div>
 </body>
 </html>

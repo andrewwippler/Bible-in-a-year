@@ -4,22 +4,22 @@
 </head>
 <body><div class="chaptertitle">Psalmien 137	</div>
 	
-<div class="versenum">1.</div> Babelin virtain tykona me istuimme ja itkimme, kuin me Zionin muistimme.	
+<div class="theverse"><div class="versenum">1.</div> Babelin virtain tykona me istuimme ja itkimme, kuin me Zionin muistimme.	</div>
 
-<div class="versenum">2.</div> Kanteleemme me ripustimme pajuihin, jotka siella olivat.	
+<div class="theverse"><div class="versenum">2.</div> Kanteleemme me ripustimme pajuihin, jotka siella olivat.	</div>
 
-<div class="versenum">3.</div> Siella he kaskivat meidan veisata, jotka meita vankina pitivat, ja iloita meidan itkussamme: Veisatkaat meille Zionin virsia.	
+<div class="theverse"><div class="versenum">3.</div> Siella he kaskivat meidan veisata, jotka meita vankina pitivat, ja iloita meidan itkussamme: Veisatkaat meille Zionin virsia.	</div>
 
-<div class="versenum">4.</div> Kuinka me veisaisimme Herran veisun vieraalla maalla?	
+<div class="theverse"><div class="versenum">4.</div> Kuinka me veisaisimme Herran veisun vieraalla maalla?	</div>
 
-<div class="versenum">5.</div> Jos mina unohdan sinua, Jerusalem, niin olkoon oikia kateni unohdettu.	
+<div class="theverse"><div class="versenum">5.</div> Jos mina unohdan sinua, Jerusalem, niin olkoon oikia kateni unohdettu.	</div>
 
-<div class="versenum">6.</div> Tarttukoon kieleni suuni lakeen, ellen mina sinua muista, ellen mina tee Jerusalemia ylimmaiseksi ilokseni.	
+<div class="theverse"><div class="versenum">6.</div> Tarttukoon kieleni suuni lakeen, ellen mina sinua muista, ellen mina tee Jerusalemia ylimmaiseksi ilokseni.	</div>
 
-<div class="versenum">7.</div> Herra, muista Edomin lapsia Jerusalemin paivana, jotka sanovat: repikaat maahan hamaan hanen perustukseensa asti.	
+<div class="theverse"><div class="versenum">7.</div> Herra, muista Edomin lapsia Jerusalemin paivana, jotka sanovat: repikaat maahan hamaan hanen perustukseensa asti.	</div>
 
-<div class="versenum">8.</div> Sina havitetty tytar, Babel; autuas on, se joka sinulle kostaa, niinkuin sina meille tehnyt olet.	
+<div class="theverse"><div class="versenum">8.</div> Sina havitetty tytar, Babel; autuas on, se joka sinulle kostaa, niinkuin sina meille tehnyt olet.	</div>
 
-<div class="versenum">9.</div> Autuas on se, joka piskuiset lapses ottaa ja paiskaa kiviin.	
+<div class="theverse"><div class="versenum">9.</div> Autuas on se, joka piskuiset lapses ottaa ja paiskaa kiviin.	</div>
 </body>
 </html>

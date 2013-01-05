@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">1 Aikakirja 22	</div>
 	
-<div class="versenum">1.</div> Ja David sanoi: tassa pitaa oleman Herran huone, ja tama alttari Israelin polttouhria varten.	
+<div class="theverse"><div class="versenum">1.</div> Ja David sanoi: tassa pitaa oleman Herran huone, ja tama alttari Israelin polttouhria varten.	</div>
 
-<div class="versenum">2.</div> Ja David kaski koota muukalaiset, jotka Israelin maalla olivat: ne asetti han kivien vuoliaksi, vuolemaan kivia Jumalan huoneen rakennukseksi.	
+<div class="theverse"><div class="versenum">2.</div> Ja David kaski koota muukalaiset, jotka Israelin maalla olivat: ne asetti han kivien vuoliaksi, vuolemaan kivia Jumalan huoneen rakennukseksi.	</div>
 
-<div class="versenum">3.</div> Ja David valmisti paljon rautaa porttein ovien nauloiksi, ja mita yhteen naulittaa tarvittiin, ja niin paljo vaskea, ettei se punnittaa taidettu;	
+<div class="theverse"><div class="versenum">3.</div> Ja David valmisti paljon rautaa porttein ovien nauloiksi, ja mita yhteen naulittaa tarvittiin, ja niin paljo vaskea, ettei se punnittaa taidettu;	</div>
 
-<div class="versenum">4.</div> Ja sedripuita epaluvun; silla Sidonilaiset ja Tyrolaiset toivat paljon sedripuita Davidille.	
+<div class="theverse"><div class="versenum">4.</div> Ja sedripuita epaluvun; silla Sidonilaiset ja Tyrolaiset toivat paljon sedripuita Davidille.	</div>
 
-<div class="versenum">5.</div> Ja David ajatteli: minun poikani Salomo on nuori ja heikko, mutta huone, joka pitaa Herralle rakettaman, pitaa niin suuri oleman, etta sen nimi ja kunnia korotetaan kaikissa maissa; sentahden valmistan mina nyt hanelle varaksi. Nain valmisti David paljon ennen kuolemaansa.	
+<div class="theverse"><div class="versenum">5.</div> Ja David ajatteli: minun poikani Salomo on nuori ja heikko, mutta huone, joka pitaa Herralle rakettaman, pitaa niin suuri oleman, etta sen nimi ja kunnia korotetaan kaikissa maissa; sentahden valmistan mina nyt hanelle varaksi. Nain valmisti David paljon ennen kuolemaansa.	</div>
 
-<div class="versenum">6.</div> Ja han kutsui poikansa Salomon ja kaski hanen rakentaa huoneen Herralle Israelin Jumalalle.	
+<div class="theverse"><div class="versenum">6.</div> Ja han kutsui poikansa Salomon ja kaski hanen rakentaa huoneen Herralle Israelin Jumalalle.	</div>
 
-<div class="versenum">7.</div> Ja David sanoi Salomolle: poikani, minun mieleni oli rakentaa Herralle minun Jumalalleni huonetta;	
+<div class="theverse"><div class="versenum">7.</div> Ja David sanoi Salomolle: poikani, minun mieleni oli rakentaa Herralle minun Jumalalleni huonetta;	</div>
 
-<div class="versenum">8.</div> Mutta Herran sana tuli minun tykoni ja sanoi: sina olet paljon verta vuodattanut ja suurta sotaa pitanyt; sentahden ei sinun pida rakentaman minun nimelleni huonetta, ettas niin paljon verta olet vuodattanut maan paalle minun edessani.	
+<div class="theverse"><div class="versenum">8.</div> Mutta Herran sana tuli minun tykoni ja sanoi: sina olet paljon verta vuodattanut ja suurta sotaa pitanyt; sentahden ei sinun pida rakentaman minun nimelleni huonetta, ettas niin paljon verta olet vuodattanut maan paalle minun edessani.	</div>
 
-<div class="versenum">9.</div> Katso, poika, joka sinulle syntyy, on oleva levollinen mies; silla mina annan levon kaikilta vihollisiltansa hanen ymparillansa: sentahden pitaa hanen nimensa oleman Salomo; silla mina annan rauhan ja levon Israelille hanen elinaikanansa.	
+<div class="theverse"><div class="versenum">9.</div> Katso, poika, joka sinulle syntyy, on oleva levollinen mies; silla mina annan levon kaikilta vihollisiltansa hanen ymparillansa: sentahden pitaa hanen nimensa oleman Salomo; silla mina annan rauhan ja levon Israelille hanen elinaikanansa.	</div>
 
-<div class="versenum">10.</div> Hanen pitaa rakentaman minun nimelleni huoneen, hanen pitaa oleman minun poikani, ja mina olen hanen isansa: ja mina vahvistan hanen valtakuntansa istuimen Israelissa ijankaikkisesti.	
+<div class="theverse"><div class="versenum">10.</div> Hanen pitaa rakentaman minun nimelleni huoneen, hanen pitaa oleman minun poikani, ja mina olen hanen isansa: ja mina vahvistan hanen valtakuntansa istuimen Israelissa ijankaikkisesti.	</div>
 
-<div class="versenum">11.</div> Niin on nyt, minun poikani, Herra sinun kanssas: sina menestyt ja rakennat Herralle sinun Jumalalles huoneen, niinkuin han sinusta puhunut on.	
+<div class="theverse"><div class="versenum">11.</div> Niin on nyt, minun poikani, Herra sinun kanssas: sina menestyt ja rakennat Herralle sinun Jumalalles huoneen, niinkuin han sinusta puhunut on.	</div>
 
-<div class="versenum">12.</div> Kuitenkin antakoon Herra sinulle ymmarryksen ja toimen, ja asettakoon sinun Israelia hallitsemaan ja pitamaan Herran sinun Jumalas lain!	
+<div class="theverse"><div class="versenum">12.</div> Kuitenkin antakoon Herra sinulle ymmarryksen ja toimen, ja asettakoon sinun Israelia hallitsemaan ja pitamaan Herran sinun Jumalas lain!	</div>
 
-<div class="versenum">13.</div> Silloin sina menestyt, koskas ahkeroitset pitaa niita saatyja ja oikeuksia, jotka Herra Moseksen kautta on kaskenyt Israelille. Ole vahva ja hyvassa turvassa, ala pelkaa, ala myos vavahdu.	
+<div class="theverse"><div class="versenum">13.</div> Silloin sina menestyt, koskas ahkeroitset pitaa niita saatyja ja oikeuksia, jotka Herra Moseksen kautta on kaskenyt Israelille. Ole vahva ja hyvassa turvassa, ala pelkaa, ala myos vavahdu.	</div>
 
-<div class="versenum">14.</div> Katso, mina olen vaivassani valmistanut Herran huoneesen satatuhatta leiviskaa kultaa ja tuhannen kertaa tuhannen leiviskaa hopiaa, niin myos vaskea ja rautaa maarattomasti (silla niita on ylen paljo): mina olen myos toimittanut hirsia ja kivia, joihin viela lisata taidat.	
+<div class="theverse"><div class="versenum">14.</div> Katso, mina olen vaivassani valmistanut Herran huoneesen satatuhatta leiviskaa kultaa ja tuhannen kertaa tuhannen leiviskaa hopiaa, niin myos vaskea ja rautaa maarattomasti (silla niita on ylen paljo): mina olen myos toimittanut hirsia ja kivia, joihin viela lisata taidat.	</div>
 
-<div class="versenum">15.</div> Niin on sinulla paljo tyontekioita, kivenhakkaajia ja puuseppia, ja kaikkia taitavia kaikkinaisiin toihin.	
+<div class="theverse"><div class="versenum">15.</div> Niin on sinulla paljo tyontekioita, kivenhakkaajia ja puuseppia, ja kaikkia taitavia kaikkinaisiin toihin.	</div>
 
-<div class="versenum">16.</div> Kullalla, hopialla, vaskella ja raudalla ei ole lukua: nouse siis ja tee se, Herra on sinun kanssas.	
+<div class="theverse"><div class="versenum">16.</div> Kullalla, hopialla, vaskella ja raudalla ei ole lukua: nouse siis ja tee se, Herra on sinun kanssas.	</div>
 
-<div class="versenum">17.</div> Ja David kaski kaikkia Israelin ylimmaisia auttamaan poikaansa Salomoa.	
+<div class="theverse"><div class="versenum">17.</div> Ja David kaski kaikkia Israelin ylimmaisia auttamaan poikaansa Salomoa.	</div>
 
-<div class="versenum">18.</div> Eiko Herra teidan Jumalanne ole teidan kanssanne ja ole antanut teille levon joka taholta? Silla han on antanut maan asujamet minun kasiini, ja maa on voitettu Herran ja hanen kansansa edessa.	
+<div class="theverse"><div class="versenum">18.</div> Eiko Herra teidan Jumalanne ole teidan kanssanne ja ole antanut teille levon joka taholta? Silla han on antanut maan asujamet minun kasiini, ja maa on voitettu Herran ja hanen kansansa edessa.	</div>
 
-<div class="versenum">19.</div> Sentahden antakaat sydamenne ja sielunne etsia Herraa teidan Jumalaanne; nouskaat ja rakentakaat Herralle Jumalalle pyha, kannettaa siihen Herran liitonarkki ja pyhat Jumalan astiat huoneesen, joka Herran nimeen rakennetaan.	
+<div class="theverse"><div class="versenum">19.</div> Sentahden antakaat sydamenne ja sielunne etsia Herraa teidan Jumalaanne; nouskaat ja rakentakaat Herralle Jumalalle pyha, kannettaa siihen Herran liitonarkki ja pyhat Jumalan astiat huoneesen, joka Herran nimeen rakennetaan.	</div>
 </body>
 </html>

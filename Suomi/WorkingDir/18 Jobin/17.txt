@@ -4,36 +4,36 @@
 </head>
 <body><div class="chaptertitle">Jobin 17	</div>
 	
-<div class="versenum">1.</div> Minun henkeni on heikko, minun paivani ovat lyhetyt, ja hauta on kasissa.	
+<div class="theverse"><div class="versenum">1.</div> Minun henkeni on heikko, minun paivani ovat lyhetyt, ja hauta on kasissa.	</div>
 
-<div class="versenum">2.</div> En mina ketakaan pettanyt, ja kuitenkin minun silmani taytyy olla murheessa.	
+<div class="theverse"><div class="versenum">2.</div> En mina ketakaan pettanyt, ja kuitenkin minun silmani taytyy olla murheessa.	</div>
 
-<div class="versenum">3.</div> Nyt siis taivuta sinus, ja ole itse minun takaukseni! kukas muu olis, joka minua takais?	
+<div class="theverse"><div class="versenum">3.</div> Nyt siis taivuta sinus, ja ole itse minun takaukseni! kukas muu olis, joka minua takais?	</div>
 
-<div class="versenum">4.</div> Ymmarryksen olet sina heidan sydamistansa katkenyt, sentahden et sina korota heita.	
+<div class="theverse"><div class="versenum">4.</div> Ymmarryksen olet sina heidan sydamistansa katkenyt, sentahden et sina korota heita.	</div>
 
-<div class="versenum">5.</div> Han kerskaa ystavillensa saaliistansa, mutta hanen lastensa silmat pitaa vaipuman.	
+<div class="theverse"><div class="versenum">5.</div> Han kerskaa ystavillensa saaliistansa, mutta hanen lastensa silmat pitaa vaipuman.	</div>
 
-<div class="versenum">6.</div> Han on minun pannut sananlaskuksi kansain sekaan, ja aaniksi heidan keskellensa.	
+<div class="theverse"><div class="versenum">6.</div> Han on minun pannut sananlaskuksi kansain sekaan, ja aaniksi heidan keskellensa.	</div>
 
-<div class="versenum">7.</div> Minun silmani ovat pimenneet minun suruni tahden, ja kaikki minun jaseneni ovat niinkuin varjo.	
+<div class="theverse"><div class="versenum">7.</div> Minun silmani ovat pimenneet minun suruni tahden, ja kaikki minun jaseneni ovat niinkuin varjo.	</div>
 
-<div class="versenum">8.</div> Tasta hurskaat hammastyvat, ja viattomat asettavat heitansa ulkokullatuita vastaan.	
+<div class="theverse"><div class="versenum">8.</div> Tasta hurskaat hammastyvat, ja viattomat asettavat heitansa ulkokullatuita vastaan.	</div>
 
-<div class="versenum">9.</div> Hurskas pysyy tielIansa: ja jolla on puhtaat kadet, se pysyy vahvana.	
+<div class="theverse"><div class="versenum">9.</div> Hurskas pysyy tielIansa: ja jolla on puhtaat kadet, se pysyy vahvana.	</div>
 
-<div class="versenum">10.</div> Kaantakaat siis teitanne kaikki ja tulkaat nyt: en mina kuitenkaan loyda yhtaan taitavaa teidan seassanne.	
+<div class="theverse"><div class="versenum">10.</div> Kaantakaat siis teitanne kaikki ja tulkaat nyt: en mina kuitenkaan loyda yhtaan taitavaa teidan seassanne.	</div>
 
-<div class="versenum">11.</div> Minun paivani ovat kuluneet: minun aivoitukseni ovat hajoitetut, jotka minun sydamessani olivat,	
+<div class="theverse"><div class="versenum">11.</div> Minun paivani ovat kuluneet: minun aivoitukseni ovat hajoitetut, jotka minun sydamessani olivat,	</div>
 
-<div class="versenum">12.</div> Ja ovat yosta paivan, ja valkeuden pimeydesta tehneet.	
+<div class="theverse"><div class="versenum">12.</div> Ja ovat yosta paivan, ja valkeuden pimeydesta tehneet.	</div>
 
-<div class="versenum">13.</div> Ja ehka mina kauvan odottaisin, niin on kuitenkin hauta minun huoneeni, ja mina olen vuoteeni pimeydessa tehnyt.	
+<div class="theverse"><div class="versenum">13.</div> Ja ehka mina kauvan odottaisin, niin on kuitenkin hauta minun huoneeni, ja mina olen vuoteeni pimeydessa tehnyt.	</div>
 
-<div class="versenum">14.</div> Matanemisen mina kutsuin isakseni, ja madot aidikseni ja sisarekseni.	
+<div class="theverse"><div class="versenum">14.</div> Matanemisen mina kutsuin isakseni, ja madot aidikseni ja sisarekseni.	</div>
 
-<div class="versenum">15.</div> Kussa on nyt minun odottamiseni? ja kuka ottaa minun toivostani vaarin?	
+<div class="theverse"><div class="versenum">15.</div> Kussa on nyt minun odottamiseni? ja kuka ottaa minun toivostani vaarin?	</div>
 
-<div class="versenum">16.</div> Hautaan se menee, ja makaa minun kanssani mullassa.	
+<div class="theverse"><div class="versenum">16.</div> Hautaan se menee, ja makaa minun kanssani mullassa.	</div>
 </body>
 </html>

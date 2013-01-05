@@ -4,64 +4,64 @@
 </head>
 <body><div class="chaptertitle">Jobin 22	</div>
 	
-<div class="versenum">1.</div> Silloin vastasi Eliphas Temanilainen, ja sanoi:	
+<div class="theverse"><div class="versenum">1.</div> Silloin vastasi Eliphas Temanilainen, ja sanoi:	</div>
 
-<div class="versenum">2.</div> Mita mies taitaa Jumalalle hyodyllinen olla? vaan itsiansa taitaa ymmartavainen hyodyttaa.	
+<div class="theverse"><div class="versenum">2.</div> Mita mies taitaa Jumalalle hyodyllinen olla? vaan itsiansa taitaa ymmartavainen hyodyttaa.	</div>
 
-<div class="versenum">3.</div> Luuletkos Kaikkivaltiaalle kelpaavan, etta sinus luet hurskaaksi? eli mita se auttais, ehka sinun ties olisivat ilman rikosta?	
+<div class="theverse"><div class="versenum">3.</div> Luuletkos Kaikkivaltiaalle kelpaavan, etta sinus luet hurskaaksi? eli mita se auttais, ehka sinun ties olisivat ilman rikosta?	</div>
 
-<div class="versenum">4.</div> Luuletkos, etta han pelkaa sinua rangaista ja kayda oikeudelle kanssas?	
+<div class="theverse"><div class="versenum">4.</div> Luuletkos, etta han pelkaa sinua rangaista ja kayda oikeudelle kanssas?	</div>
 
-<div class="versenum">5.</div> Eiko sinun pahuutes ole suuri? Ja sinun vaaryydellas ei ole loppua.	
+<div class="theverse"><div class="versenum">5.</div> Eiko sinun pahuutes ole suuri? Ja sinun vaaryydellas ei ole loppua.	</div>
 
-<div class="versenum">6.</div> Sina olet ottanut pantin veljeltas ilman syyta, ja olet riisunut vaatteen alastomalta.	
+<div class="theverse"><div class="versenum">6.</div> Sina olet ottanut pantin veljeltas ilman syyta, ja olet riisunut vaatteen alastomalta.	</div>
 
-<div class="versenum">7.</div> Et sina ole antanut vasyneelle vetta juoda; sina olet kieltanyt isoovaiselta leivan.	
+<div class="theverse"><div class="versenum">7.</div> Et sina ole antanut vasyneelle vetta juoda; sina olet kieltanyt isoovaiselta leivan.	</div>
 
-<div class="versenum">8.</div> Mutta voimallinen sai omistaa maan, ja arvossa pidettava sai siina asua.	
+<div class="theverse"><div class="versenum">8.</div> Mutta voimallinen sai omistaa maan, ja arvossa pidettava sai siina asua.	</div>
 
-<div class="versenum">9.</div> Lesket olet sina laskenut tyhjana, ja taittanut orpoin kasivarret.	
+<div class="theverse"><div class="versenum">9.</div> Lesket olet sina laskenut tyhjana, ja taittanut orpoin kasivarret.	</div>
 
-<div class="versenum">10.</div> Sentahden olet sina kierretty pauloilla, ja hammastys on sinun akisti peljattanyt,	
+<div class="theverse"><div class="versenum">10.</div> Sentahden olet sina kierretty pauloilla, ja hammastys on sinun akisti peljattanyt,	</div>
 
-<div class="versenum">11.</div> Eli pimeys, ettes nakisi; ja vedenpaljous on peittanyt sinun.	
+<div class="theverse"><div class="versenum">11.</div> Eli pimeys, ettes nakisi; ja vedenpaljous on peittanyt sinun.	</div>
 
-<div class="versenum">12.</div> Eiko Jumala ole ylhaalla taivaissa? Ja katsos ylimmaisia tahtia, etta ne korkiat ovat.	
+<div class="theverse"><div class="versenum">12.</div> Eiko Jumala ole ylhaalla taivaissa? Ja katsos ylimmaisia tahtia, etta ne korkiat ovat.	</div>
 
-<div class="versenum">13.</div> Ja sina sanot: mita Jumala tietaa? taitaneeko han tuomita sita, mika pimeydessa on?	
+<div class="theverse"><div class="versenum">13.</div> Ja sina sanot: mita Jumala tietaa? taitaneeko han tuomita sita, mika pimeydessa on?	</div>
 
-<div class="versenum">14.</div> Pilvet peittavat hanen, ettei han nae: han vaeltaa taivaan ymparistolla.	
+<div class="theverse"><div class="versenum">14.</div> Pilvet peittavat hanen, ettei han nae: han vaeltaa taivaan ymparistolla.	</div>
 
-<div class="versenum">15.</div> Tahdotkos tuta maailman polkuja, joita vaarat ihmiset kayneet ovat?	
+<div class="theverse"><div class="versenum">15.</div> Tahdotkos tuta maailman polkuja, joita vaarat ihmiset kayneet ovat?	</div>
 
-<div class="versenum">16.</div> Jotka ennen aikaansa hukkuneet ovat, ja vesi on liottanut heidan perustuksensa.	
+<div class="theverse"><div class="versenum">16.</div> Jotka ennen aikaansa hukkuneet ovat, ja vesi on liottanut heidan perustuksensa.	</div>
 
-<div class="versenum">17.</div> Ne jotka sanovat Jumalalle: mene meista pois! mita Kaikkivaltias taitais heidan tehda.	
+<div class="theverse"><div class="versenum">17.</div> Ne jotka sanovat Jumalalle: mene meista pois! mita Kaikkivaltias taitais heidan tehda.	</div>
 
-<div class="versenum">18.</div> Vaikka han on tayttanyt heidan huoneensa tavaralla; mutta jumalattomain neuvo olkoon kaukana minusta.	
+<div class="theverse"><div class="versenum">18.</div> Vaikka han on tayttanyt heidan huoneensa tavaralla; mutta jumalattomain neuvo olkoon kaukana minusta.	</div>
 
-<div class="versenum">19.</div> Hurskaat nakevat sen ja iloitsevat, ja viatoin pilkkaa heita.	
+<div class="theverse"><div class="versenum">19.</div> Hurskaat nakevat sen ja iloitsevat, ja viatoin pilkkaa heita.	</div>
 
-<div class="versenum">20.</div> Meidan varamme ei pida hukkuman, vaan heidan tahteensa pitaa tulen polttaman.	
+<div class="theverse"><div class="versenum">20.</div> Meidan varamme ei pida hukkuman, vaan heidan tahteensa pitaa tulen polttaman.	</div>
 
-<div class="versenum">21.</div> Niin sovi nyt hanen kanssansa, ja ole rauhallinen; siita saat paljon hyvaa.	
+<div class="theverse"><div class="versenum">21.</div> Niin sovi nyt hanen kanssansa, ja ole rauhallinen; siita saat paljon hyvaa.	</div>
 
-<div class="versenum">22.</div> Kuule lakia hanen suustansa, ja kasita hanen puheensa sinun sydamees.	
+<div class="theverse"><div class="versenum">22.</div> Kuule lakia hanen suustansa, ja kasita hanen puheensa sinun sydamees.	</div>
 
-<div class="versenum">23.</div> Jos sina kaannat sinus Kaikkivaltiaan tyko, niin sina rakennetaan, ja saatat vaaryyden kauvas majastas.	
+<div class="theverse"><div class="versenum">23.</div> Jos sina kaannat sinus Kaikkivaltiaan tyko, niin sina rakennetaan, ja saatat vaaryyden kauvas majastas.	</div>
 
-<div class="versenum">24.</div> Niin sina annat kullan mullasta, ja ojan kivista kalliin kullan.	
+<div class="theverse"><div class="versenum">24.</div> Niin sina annat kullan mullasta, ja ojan kivista kalliin kullan.	</div>
 
-<div class="versenum">25.</div> Kaikkivaltias on sinun kultas, ja hopiaa pitaa sinulla paljo oleman.	
+<div class="theverse"><div class="versenum">25.</div> Kaikkivaltias on sinun kultas, ja hopiaa pitaa sinulla paljo oleman.	</div>
 
-<div class="versenum">26.</div> Silloin sinun ilos pitaa oleman Kaikkivaltiaassa, ja nostaman kasvos Jumalan tyko.	
+<div class="theverse"><div class="versenum">26.</div> Silloin sinun ilos pitaa oleman Kaikkivaltiaassa, ja nostaman kasvos Jumalan tyko.	</div>
 
-<div class="versenum">27.</div> Sina rukoilet hanta, ja han kuulee sinua, ja sina maksat lupaukses.	
+<div class="theverse"><div class="versenum">27.</div> Sina rukoilet hanta, ja han kuulee sinua, ja sina maksat lupaukses.	</div>
 
-<div class="versenum">28.</div> Mita aioit, sen han antaa sinulle menestya; ja valkeus paistaa sinun teillas.	
+<div class="theverse"><div class="versenum">28.</div> Mita aioit, sen han antaa sinulle menestya; ja valkeus paistaa sinun teillas.	</div>
 
-<div class="versenum">29.</div> Silla ne jotka itsensa noyryyttavat, korottaa han, ja se joka silmansa painaa alas, vapautetaan.	
+<div class="theverse"><div class="versenum">29.</div> Silla ne jotka itsensa noyryyttavat, korottaa han, ja se joka silmansa painaa alas, vapautetaan.	</div>
 
-<div class="versenum">30.</div> Sekin, joka ei viatoin ole, autetaan ja pelastetaan sinun kattes puhtauden tahden.	
+<div class="theverse"><div class="versenum">30.</div> Sekin, joka ei viatoin ole, autetaan ja pelastetaan sinun kattes puhtauden tahden.	</div>
 </body>
 </html>

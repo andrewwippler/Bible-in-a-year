@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Tuomarien 17	</div>
 	
-<div class="versenum">1.</div> Ja yksi mies oli Ephraimin vuorelta, nimelta Miika.	
+<div class="theverse"><div class="versenum">1.</div> Ja yksi mies oli Ephraimin vuorelta, nimelta Miika.	</div>
 
-<div class="versenum">2.</div> Han sanoi aidillensa: ne tuhannen ja sata hopiapenninkia, jotka sinulta otettiin, joiden tahden sina kirosit ja puhuit minun korvaini kuullen: katso, ne ovat minun tykonani, mina ne otin. Silloin sanoi hanen aitinsa: siunattu olet sina, minun poikani, Herralle.	
+<div class="theverse"><div class="versenum">2.</div> Han sanoi aidillensa: ne tuhannen ja sata hopiapenninkia, jotka sinulta otettiin, joiden tahden sina kirosit ja puhuit minun korvaini kuullen: katso, ne ovat minun tykonani, mina ne otin. Silloin sanoi hanen aitinsa: siunattu olet sina, minun poikani, Herralle.	</div>
 
-<div class="versenum">3.</div> Niin antoi han aidillensa ne tuhannen ja sata hopiapenninkia jalleen. Ja hanen aitinsa sanoi: mina pyhitin kokonansa sen rahan Herralle minun kadestani poikani edesta, tehda kaivettua ja valettua kuvaa; ja nyt annan mina sinulle sen jallensa.	
+<div class="theverse"><div class="versenum">3.</div> Niin antoi han aidillensa ne tuhannen ja sata hopiapenninkia jalleen. Ja hanen aitinsa sanoi: mina pyhitin kokonansa sen rahan Herralle minun kadestani poikani edesta, tehda kaivettua ja valettua kuvaa; ja nyt annan mina sinulle sen jallensa.	</div>
 
-<div class="versenum">4.</div> Mutta han antoi sen rahan aidillensa jalleen. Ja hanen aitinsa otti kaksisataa hopiapenninkia ja antoi ne hopiasepalle; han teki kaivetun ja valetun kuvan, joka sitte oli Miikan huoneessa.	
+<div class="theverse"><div class="versenum">4.</div> Mutta han antoi sen rahan aidillensa jalleen. Ja hanen aitinsa otti kaksisataa hopiapenninkia ja antoi ne hopiasepalle; han teki kaivetun ja valetun kuvan, joka sitte oli Miikan huoneessa.	</div>
 
-<div class="versenum">5.</div> Ja Miikalla oli Jumalan huone, ja han teki paallisvaatteen ja epajumalan kuvat, ja taytti yhden poikansa kadet, ja han oli hanen pappinsa.	
+<div class="theverse"><div class="versenum">5.</div> Ja Miikalla oli Jumalan huone, ja han teki paallisvaatteen ja epajumalan kuvat, ja taytti yhden poikansa kadet, ja han oli hanen pappinsa.	</div>
 
-<div class="versenum">6.</div> Silloin ei ollut kuningasta Israelissa, ja itsekukin teki niinkuin heille nakyi hyvaksi.	
+<div class="theverse"><div class="versenum">6.</div> Silloin ei ollut kuningasta Israelissa, ja itsekukin teki niinkuin heille nakyi hyvaksi.	</div>
 
-<div class="versenum">7.</div> Mutta nuorukainen oli Juudan Betlehemista, Juudan sukukunnasta, ja se oli Levilainen, joka oli siella muukalaisena.	
+<div class="theverse"><div class="versenum">7.</div> Mutta nuorukainen oli Juudan Betlehemista, Juudan sukukunnasta, ja se oli Levilainen, joka oli siella muukalaisena.	</div>
 
-<div class="versenum">8.</div> Han meni Betlehemista Juudan kaupungista vaeltamaan, kuhunka han joutuis. Ja kuin han tuli Ephraimin vuorelle Miikan huoneesen, vaeltaen,	
+<div class="theverse"><div class="versenum">8.</div> Han meni Betlehemista Juudan kaupungista vaeltamaan, kuhunka han joutuis. Ja kuin han tuli Ephraimin vuorelle Miikan huoneesen, vaeltaen,	</div>
 
-<div class="versenum">9.</div> Kysyi Miika hanelta: kustas tulet? Levilainen vastasi: mina olen Levilainen Betlehemista Juudan maalta, ja vaellan, kuhunka mina parhain taidan.	
+<div class="theverse"><div class="versenum">9.</div> Kysyi Miika hanelta: kustas tulet? Levilainen vastasi: mina olen Levilainen Betlehemista Juudan maalta, ja vaellan, kuhunka mina parhain taidan.	</div>
 
-<div class="versenum">10.</div> Miika sanoi hanelle: olen minun tykonani. Sinun pitaa oleman minun isani ja pappini, ja mina annan sinulle vuosi vuodelta kymmenen hopiapenninkia ja maaratyt vaatteet ja elatukses; ja Levilainen meni hanen kanssansa.	
+<div class="theverse"><div class="versenum">10.</div> Miika sanoi hanelle: olen minun tykonani. Sinun pitaa oleman minun isani ja pappini, ja mina annan sinulle vuosi vuodelta kymmenen hopiapenninkia ja maaratyt vaatteet ja elatukses; ja Levilainen meni hanen kanssansa.	</div>
 
-<div class="versenum">11.</div> Ja Levilainen rupesi olemaan sen miehen tykona, ja han piti sen nuorukaisen niinkuin yhden pojistansa.	
+<div class="theverse"><div class="versenum">11.</div> Ja Levilainen rupesi olemaan sen miehen tykona, ja han piti sen nuorukaisen niinkuin yhden pojistansa.	</div>
 
-<div class="versenum">12.</div> Ja Miika taytti Levilaisen kaden, etta han oli hanen pappinsa, ja han asui Miikan huoneessa.	
+<div class="theverse"><div class="versenum">12.</div> Ja Miika taytti Levilaisen kaden, etta han oli hanen pappinsa, ja han asui Miikan huoneessa.	</div>
 
-<div class="versenum">13.</div> Ja Miika sanoi: nyt mina tiedan Herran minulle hyvaa tekevan, etta minulla on Levilainen pappina.	
+<div class="theverse"><div class="versenum">13.</div> Ja Miika sanoi: nyt mina tiedan Herran minulle hyvaa tekevan, etta minulla on Levilainen pappina.	</div>
 </body>
 </html>

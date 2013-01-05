@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 13	</div>
 	
-<div class="versenum">1.</div> Kuningas Jerobeamin kahdeksantena vuotena toistakymmenta tuli Abia Juudan kuninkaaksi,	
+<div class="theverse"><div class="versenum">1.</div> Kuningas Jerobeamin kahdeksantena vuotena toistakymmenta tuli Abia Juudan kuninkaaksi,	</div>
 
-<div class="versenum">2.</div> Ja hallitsi kolme ajastaikaa Jerusalemissa. Hanen aitinsa nimi oli Mikaja, Urielin tytar Gibeasta. Ja sota nousi Abian ja Jerobeamin valilla.	
+<div class="theverse"><div class="versenum">2.</div> Ja hallitsi kolme ajastaikaa Jerusalemissa. Hanen aitinsa nimi oli Mikaja, Urielin tytar Gibeasta. Ja sota nousi Abian ja Jerobeamin valilla.	</div>
 
-<div class="versenum">3.</div> Ja Abia alkoi sodan neljansadan tuhannen juuri vakevan ja valitun sotamiehen kanssa. Ja Jerobeam valmisti sotaa heita vastaan kahdeksansadan tuhannen valitun ja urhoollisen sotamiehen kanssa.	
+<div class="theverse"><div class="versenum">3.</div> Ja Abia alkoi sodan neljansadan tuhannen juuri vakevan ja valitun sotamiehen kanssa. Ja Jerobeam valmisti sotaa heita vastaan kahdeksansadan tuhannen valitun ja urhoollisen sotamiehen kanssa.	</div>
 
-<div class="versenum">4.</div> Ja Abia nousi ylos Semaraimin vuorelle, joka oli Ephraimin vuorella, ja sanoi: kuulkaat minua, Jerobeam ja koko Israel!	
+<div class="theverse"><div class="versenum">4.</div> Ja Abia nousi ylos Semaraimin vuorelle, joka oli Ephraimin vuorella, ja sanoi: kuulkaat minua, Jerobeam ja koko Israel!	</div>
 
-<div class="versenum">5.</div> Etteko te tieda Herran Israelin Jumalan antaneeksi Davidille kuninkaan valtakuntaa Israelissa ijankaikkisesti, hanelle ja hanen pojillensa suola liitolla?	
+<div class="theverse"><div class="versenum">5.</div> Etteko te tieda Herran Israelin Jumalan antaneeksi Davidille kuninkaan valtakuntaa Israelissa ijankaikkisesti, hanelle ja hanen pojillensa suola liitolla?	</div>
 
-<div class="versenum">6.</div> Mutta Jerobeam Nebatin poika, Salomon Davidin pojan palvelia, nosti kapinan herraansa vastaan,	
+<div class="theverse"><div class="versenum">6.</div> Mutta Jerobeam Nebatin poika, Salomon Davidin pojan palvelia, nosti kapinan herraansa vastaan,	</div>
 
-<div class="versenum">7.</div> Ja hanen tykonsa kokoontui joutilaita miehia ja Belialin lapsia, ja he vahvistivat itsensa Rehabeamia Salomon poikaa vastaan; silla Rehabeam oli nuori ja pehmia sydamesta, niin ettei han voinut vahvistaa itsiansa heita vastaan.	
+<div class="theverse"><div class="versenum">7.</div> Ja hanen tykonsa kokoontui joutilaita miehia ja Belialin lapsia, ja he vahvistivat itsensa Rehabeamia Salomon poikaa vastaan; silla Rehabeam oli nuori ja pehmia sydamesta, niin ettei han voinut vahvistaa itsiansa heita vastaan.	</div>
 
-<div class="versenum">8.</div> Mutta te ajattelette vahvistaa teitanne Herran valtakuntaa vastaan, joka on Davidin poikain kadessa, etta teita on suuri joukko, ja pidatte kultaisia vasikoita, jotka Jerobeam teille jumaliksi tehnyt on.	
+<div class="theverse"><div class="versenum">8.</div> Mutta te ajattelette vahvistaa teitanne Herran valtakuntaa vastaan, joka on Davidin poikain kadessa, etta teita on suuri joukko, ja pidatte kultaisia vasikoita, jotka Jerobeam teille jumaliksi tehnyt on.	</div>
 
-<div class="versenum">9.</div> Etteko te ole ajaneet Herran pappeja Aaronin poikia ja Levilaisia pois, ja olette itse teillenne tehneet pappeja, niinkuin kansat maakunnissa? Jokainen, joka tulee kasiansa tayttamaan nuorella mullilla ja seitsemalla oinaalla, se tulee papiksi niille, jotka ei jumalia ole.	
+<div class="theverse"><div class="versenum">9.</div> Etteko te ole ajaneet Herran pappeja Aaronin poikia ja Levilaisia pois, ja olette itse teillenne tehneet pappeja, niinkuin kansat maakunnissa? Jokainen, joka tulee kasiansa tayttamaan nuorella mullilla ja seitsemalla oinaalla, se tulee papiksi niille, jotka ei jumalia ole.	</div>
 
-<div class="versenum">10.</div> Mutta Herra on meidan Jumalamme, jota emme hylkaa; ja papit, jotka Herraa palvelevat, ovat Aaronin pojat, ja Levilaiset ovat heidan tyossansa,	
+<div class="theverse"><div class="versenum">10.</div> Mutta Herra on meidan Jumalamme, jota emme hylkaa; ja papit, jotka Herraa palvelevat, ovat Aaronin pojat, ja Levilaiset ovat heidan tyossansa,	</div>
 
-<div class="versenum">11.</div> Ja sytyttavat Herralle polttouhrin joka aamuna ja ehtoona, niin myos yrttein suitsutuksen, ja valmistavat leipia puhtaalle poydalle ja kultakynttilanjalan lamppuinensa, niin etta ne joka ehtoo sytytetaan; silla me pidamme Herran meidan Jumalamme vartiota; mutta te olette hanen hyljanneet.	
+<div class="theverse"><div class="versenum">11.</div> Ja sytyttavat Herralle polttouhrin joka aamuna ja ehtoona, niin myos yrttein suitsutuksen, ja valmistavat leipia puhtaalle poydalle ja kultakynttilanjalan lamppuinensa, niin etta ne joka ehtoo sytytetaan; silla me pidamme Herran meidan Jumalamme vartiota; mutta te olette hanen hyljanneet.	</div>
 
-<div class="versenum">12.</div> Ja katso, meidan kanssamme on Jumala esipaassa, ja hanen pappinsa pyhilla torvilla soittamassa teita vastaan. Te Israelin lapset! alkaat sotiko Herraa isainne Jumalaa vastaan; silla se ei menesty.	
+<div class="theverse"><div class="versenum">12.</div> Ja katso, meidan kanssamme on Jumala esipaassa, ja hanen pappinsa pyhilla torvilla soittamassa teita vastaan. Te Israelin lapset! alkaat sotiko Herraa isainne Jumalaa vastaan; silla se ei menesty.	</div>
 
-<div class="versenum">13.</div> Ja Jerobeam asetti vaijytyksen ympari, tullaksensa takaa heidan paallensa, niin etta he olisivat itse Juudan edessa ja vaijytys heidan takanansa.	
+<div class="theverse"><div class="versenum">13.</div> Ja Jerobeam asetti vaijytyksen ympari, tullaksensa takaa heidan paallensa, niin etta he olisivat itse Juudan edessa ja vaijytys heidan takanansa.	</div>
 
-<div class="versenum">14.</div> Kuin Juuda katsoi ymparinsa, katso, niin oli sota seka edessa etta takana. Niin he huusivat Herran tyko, ja papit soittivat vaskitorvilla.	
+<div class="theverse"><div class="versenum">14.</div> Kuin Juuda katsoi ymparinsa, katso, niin oli sota seka edessa etta takana. Niin he huusivat Herran tyko, ja papit soittivat vaskitorvilla.	</div>
 
-<div class="versenum">15.</div> Ja joka mies huusi Juudassa. Ja kuin joka mies niin Juudassa huusi, loi Jumala Jerobeamin ja koko Israelin Abian ja Juudan edessa.	
+<div class="theverse"><div class="versenum">15.</div> Ja joka mies huusi Juudassa. Ja kuin joka mies niin Juudassa huusi, loi Jumala Jerobeamin ja koko Israelin Abian ja Juudan edessa.	</div>
 
-<div class="versenum">16.</div> Ja Israelin lapset pakenivat Juudan edella, ja Jumala antoi heita heidan kasiinsa,	
+<div class="theverse"><div class="versenum">16.</div> Ja Israelin lapset pakenivat Juudan edella, ja Jumala antoi heita heidan kasiinsa,	</div>
 
-<div class="versenum">17.</div> Niin etta Abia loi vakinensa heita suurella lyomisella. Ja Israelissa lankesi lyotyna viisisataa tuhatta valittua sotamiesta.	
+<div class="theverse"><div class="versenum">17.</div> Niin etta Abia loi vakinensa heita suurella lyomisella. Ja Israelissa lankesi lyotyna viisisataa tuhatta valittua sotamiesta.	</div>
 
-<div class="versenum">18.</div> Ja niin Israelin lapset noyryytettiin siihen aikaan, ja Juudan lapset vahvistettiin; silla he turvasivat Herraan isainsa Jumalaan.	
+<div class="theverse"><div class="versenum">18.</div> Ja niin Israelin lapset noyryytettiin siihen aikaan, ja Juudan lapset vahvistettiin; silla he turvasivat Herraan isainsa Jumalaan.	</div>
 
-<div class="versenum">19.</div> Ja Abia ajoi Jerobeamia takaa, ja voitti hanelta kaupungeita; Betelin kylinensa, Jesanan kylinensa ja Ephronin kylinensa;	
+<div class="theverse"><div class="versenum">19.</div> Ja Abia ajoi Jerobeamia takaa, ja voitti hanelta kaupungeita; Betelin kylinensa, Jesanan kylinensa ja Ephronin kylinensa;	</div>
 
-<div class="versenum">20.</div> Niin ettei Jerobeam enaa tullut voimaansa, niinkauvan kuin Abia eli: ja Herra rankaisi hanta, niin etta han kuoli.	
+<div class="theverse"><div class="versenum">20.</div> Niin ettei Jerobeam enaa tullut voimaansa, niinkauvan kuin Abia eli: ja Herra rankaisi hanta, niin etta han kuoli.	</div>
 
-<div class="versenum">21.</div> Kuin Abia vahvistui, otti han neljatoistakymmenta emantaa ja siitti kaksikolmattakymmenta poikaa ja kuusitoista tytarta.	
+<div class="theverse"><div class="versenum">21.</div> Kuin Abia vahvistui, otti han neljatoistakymmenta emantaa ja siitti kaksikolmattakymmenta poikaa ja kuusitoista tytarta.	</div>
 
-<div class="versenum">22.</div> Mita enempi Abiasta sanomista on, ja hanen teistansa ja teoistansa, se on kirjoitettu Iddon prophetan tietokirjassa.	
+<div class="theverse"><div class="versenum">22.</div> Mita enempi Abiasta sanomista on, ja hanen teistansa ja teoistansa, se on kirjoitettu Iddon prophetan tietokirjassa.	</div>
 </body>
 </html>

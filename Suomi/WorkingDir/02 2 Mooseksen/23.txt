@@ -4,70 +4,70 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 23	</div>
 	
-<div class="versenum">1.</div> Ei sinun pida uskoman valheita; ettas auttaisit jumalatointa, ja tulisit vaaraksi todistajaksi.	
+<div class="theverse"><div class="versenum">1.</div> Ei sinun pida uskoman valheita; ettas auttaisit jumalatointa, ja tulisit vaaraksi todistajaksi.	</div>
 
-<div class="versenum">2.</div> Ei sinun pida joukkoa seuraaman pahuuteen, eika myos vastaaman oikeuden edessa niin etta sina poikkeat joukon jalkeen pois oikeutta vaantamaan.	
+<div class="theverse"><div class="versenum">2.</div> Ei sinun pida joukkoa seuraaman pahuuteen, eika myos vastaaman oikeuden edessa niin etta sina poikkeat joukon jalkeen pois oikeutta vaantamaan.	</div>
 
-<div class="versenum">3.</div> Ei sinun pida kaunisteleman koyhaa, hanen asiassansa.	
+<div class="theverse"><div class="versenum">3.</div> Ei sinun pida kaunisteleman koyhaa, hanen asiassansa.	</div>
 
-<div class="versenum">4.</div> Koska sina kohtaat vihollises harjan eli aasin eksyksissa niin sinun pitaa johdattaman sen hanelle jallensa.	
+<div class="theverse"><div class="versenum">4.</div> Koska sina kohtaat vihollises harjan eli aasin eksyksissa niin sinun pitaa johdattaman sen hanelle jallensa.	</div>
 
-<div class="versenum">5.</div> Koskas naet vihollises aasin makaavan kuorman alla, kavahda, ettes hanta jattaisi; vaan sinun pitaa kaiketi auttaman hanta.	
+<div class="theverse"><div class="versenum">5.</div> Koskas naet vihollises aasin makaavan kuorman alla, kavahda, ettes hanta jattaisi; vaan sinun pitaa kaiketi auttaman hanta.	</div>
 
-<div class="versenum">6.</div> Ei sinun pida kaanteleman sinun koyhas oikeutta hanen asiassansa.	
+<div class="theverse"><div class="versenum">6.</div> Ei sinun pida kaanteleman sinun koyhas oikeutta hanen asiassansa.	</div>
 
-<div class="versenum">7.</div> Ja ole kaukana vaarista asioista. Viatointa ja hurskasta ei sinun pida tappaman; silla en mina pida jumalatointa hurskaana.	
+<div class="theverse"><div class="versenum">7.</div> Ja ole kaukana vaarista asioista. Viatointa ja hurskasta ei sinun pida tappaman; silla en mina pida jumalatointa hurskaana.	</div>
 
-<div class="versenum">8.</div> Ei sinun pida lahjoja ottaman; silla lahjat sokaisevat nakevaiset, ja kaantavat hurskasten asiat.	
+<div class="theverse"><div class="versenum">8.</div> Ei sinun pida lahjoja ottaman; silla lahjat sokaisevat nakevaiset, ja kaantavat hurskasten asiat.	</div>
 
-<div class="versenum">9.</div> Ei teidan pida solvaiseman muukalaisia; silla te tiedatte muukalaisen sydamen, etta te myos itse olette olleet muukalaiset Egyptin maalla.	
+<div class="theverse"><div class="versenum">9.</div> Ei teidan pida solvaiseman muukalaisia; silla te tiedatte muukalaisen sydamen, etta te myos itse olette olleet muukalaiset Egyptin maalla.	</div>
 
-<div class="versenum">10.</div> Kuusi vuotta pitaa sinun kylvaman sinun maas, ja kokooman sen tulon.	
+<div class="theverse"><div class="versenum">10.</div> Kuusi vuotta pitaa sinun kylvaman sinun maas, ja kokooman sen tulon.	</div>
 
-<div class="versenum">11.</div> Vaan seitsemantena vuonna pitaa sinun sen levolle jattaman, etta koyhat sinun kansastas siita syoda saisivat. Ja mita jaa, sen metsan pedot syokaan. Niin pitaa myos sinun tekeman viinamakes ja oljymakes kanssa.	
+<div class="theverse"><div class="versenum">11.</div> Vaan seitsemantena vuonna pitaa sinun sen levolle jattaman, etta koyhat sinun kansastas siita syoda saisivat. Ja mita jaa, sen metsan pedot syokaan. Niin pitaa myos sinun tekeman viinamakes ja oljymakes kanssa.	</div>
 
-<div class="versenum">12.</div> Kuusi paivaa pitaa sinun tyotas tekeman, mutta seitsemantena paivana pitaa sinun lepaaman: etta sinun harkas ja aasis saisivat levata, ja sinun piikas poika ja muukalainen sais itsensa virvottaa.	
+<div class="theverse"><div class="versenum">12.</div> Kuusi paivaa pitaa sinun tyotas tekeman, mutta seitsemantena paivana pitaa sinun lepaaman: etta sinun harkas ja aasis saisivat levata, ja sinun piikas poika ja muukalainen sais itsensa virvottaa.	</div>
 
-<div class="versenum">13.</div> Kaikki ne mitka mina olen teille sanonut, pitaa teidan pitaman. Ja vierasten jumalain nimea ei pida teidan muistaman, ja sinun suustas ei pida ne kuuluman.	
+<div class="theverse"><div class="versenum">13.</div> Kaikki ne mitka mina olen teille sanonut, pitaa teidan pitaman. Ja vierasten jumalain nimea ei pida teidan muistaman, ja sinun suustas ei pida ne kuuluman.	</div>
 
-<div class="versenum">14.</div> Kolmasti vuodessa pitaa sinun minulle juhlaa pitaman.	
+<div class="theverse"><div class="versenum">14.</div> Kolmasti vuodessa pitaa sinun minulle juhlaa pitaman.	</div>
 
-<div class="versenum">15.</div> Happamattoman leivan juhlan pitaa sinun pitaman, niin etta sina seitseman paivaa syot happamatointa leipaa, niinkuin mina sinulle kaskenyt olen, maarattyna aikana silla kuulla Abib. Silla etta silla ajalla olet sina lahtenyt Egyptista; mutta ala tule tyhjin kasin minun eteeni.	
+<div class="theverse"><div class="versenum">15.</div> Happamattoman leivan juhlan pitaa sinun pitaman, niin etta sina seitseman paivaa syot happamatointa leipaa, niinkuin mina sinulle kaskenyt olen, maarattyna aikana silla kuulla Abib. Silla etta silla ajalla olet sina lahtenyt Egyptista; mutta ala tule tyhjin kasin minun eteeni.	</div>
 
-<div class="versenum">16.</div> Ja sen juhlan, koskas ensin rupeet pellolta korjaamaan, mitas siihen kylvanyt olet. Ja korjaamisen juhlan, vuoden lopussa, koska sina tyos kedolta korjannut olet.	
+<div class="theverse"><div class="versenum">16.</div> Ja sen juhlan, koskas ensin rupeet pellolta korjaamaan, mitas siihen kylvanyt olet. Ja korjaamisen juhlan, vuoden lopussa, koska sina tyos kedolta korjannut olet.	</div>
 
-<div class="versenum">17.</div> Kolmasti vuodessa pitaa kaikki sinun miesvakes tuleman Herran Jumalan eteen.	
+<div class="theverse"><div class="versenum">17.</div> Kolmasti vuodessa pitaa kaikki sinun miesvakes tuleman Herran Jumalan eteen.	</div>
 
-<div class="versenum">18.</div> Ei sinun pida uhraaman minun uhrini verta happaman taikinan kanssa; ja minun juhlani lihavuus ei pida ylitse yon jaaman huomeneksi.	
+<div class="theverse"><div class="versenum">18.</div> Ei sinun pida uhraaman minun uhrini verta happaman taikinan kanssa; ja minun juhlani lihavuus ei pida ylitse yon jaaman huomeneksi.	</div>
 
-<div class="versenum">19.</div> Uutista ensimaisesta sinun maas hedelmasta pitaa sinun tuoman sinun Herras Jumalas huoneesen. Ei sinun pida keittaman vohlaa emansa rieskassa.	
+<div class="theverse"><div class="versenum">19.</div> Uutista ensimaisesta sinun maas hedelmasta pitaa sinun tuoman sinun Herras Jumalas huoneesen. Ei sinun pida keittaman vohlaa emansa rieskassa.	</div>
 
-<div class="versenum">20.</div> Katso, mina lahetan enkelin sinun edelles varjelemaan sinua tiella, ja johdattamaan sinun siihen paikkaan, jonka mina olen valmistanut.	
+<div class="theverse"><div class="versenum">20.</div> Katso, mina lahetan enkelin sinun edelles varjelemaan sinua tiella, ja johdattamaan sinun siihen paikkaan, jonka mina olen valmistanut.	</div>
 
-<div class="versenum">21.</div> Pida vaari itsestas hanen kasvoinsa edessa ja kuule hanen aanensa, ala hanen mieltansa pahoita; silla ei han jata rankaisemata teidan ylitsekaymistanne: silla minun nimeni on hanessa.	
+<div class="theverse"><div class="versenum">21.</div> Pida vaari itsestas hanen kasvoinsa edessa ja kuule hanen aanensa, ala hanen mieltansa pahoita; silla ei han jata rankaisemata teidan ylitsekaymistanne: silla minun nimeni on hanessa.	</div>
 
-<div class="versenum">22.</div> Vaan jos sina ahkerasti kuulet hanen aanensa, ja teet kaikki mita mina sinulle kasken, niin mina olen sinun vihollistes vihollinen, ja sinun vainoojais vainooja.	
+<div class="theverse"><div class="versenum">22.</div> Vaan jos sina ahkerasti kuulet hanen aanensa, ja teet kaikki mita mina sinulle kasken, niin mina olen sinun vihollistes vihollinen, ja sinun vainoojais vainooja.	</div>
 
-<div class="versenum">23.</div> Silla minun enkelini kay sinun edellas, ja johdattaa sinun Amorilaisten, Hetilaisten, Pheresilaisten, Kanaanealaisten, Hevilaisten, ja Jebusilaisten tyko, ja mina havitan heita.	
+<div class="theverse"><div class="versenum">23.</div> Silla minun enkelini kay sinun edellas, ja johdattaa sinun Amorilaisten, Hetilaisten, Pheresilaisten, Kanaanealaisten, Hevilaisten, ja Jebusilaisten tyko, ja mina havitan heita.	</div>
 
-<div class="versenum">24.</div> Niin ei sinun pida kumartaman heidan jumaliansa, eika myos heita palveleman, eika heidan tekoinsa jalkeen tekeman; mutta sinun pitaa heidan epajumalansa heittaman pois, ja lyoman heidan kuvansa rikki.	
+<div class="theverse"><div class="versenum">24.</div> Niin ei sinun pida kumartaman heidan jumaliansa, eika myos heita palveleman, eika heidan tekoinsa jalkeen tekeman; mutta sinun pitaa heidan epajumalansa heittaman pois, ja lyoman heidan kuvansa rikki.	</div>
 
-<div class="versenum">25.</div> Mutta Herraa teidan Jumalaanne pitaa teidan palveleman, niin han siunaa sinun leipas ja sinun vetes: ja mina otan sinulta pois kaikki sairaudet.	
+<div class="theverse"><div class="versenum">25.</div> Mutta Herraa teidan Jumalaanne pitaa teidan palveleman, niin han siunaa sinun leipas ja sinun vetes: ja mina otan sinulta pois kaikki sairaudet.	</div>
 
-<div class="versenum">26.</div> Ei yksikaan kesken synnyttavainen eika hedelmatoin pida oleman sinun maassas; ja mina tahdon tayttaa sinun paivas luvun.	
+<div class="theverse"><div class="versenum">26.</div> Ei yksikaan kesken synnyttavainen eika hedelmatoin pida oleman sinun maassas; ja mina tahdon tayttaa sinun paivas luvun.	</div>
 
-<div class="versenum">27.</div> Mina lahetan minun pelkoni sinun edelles, ja hukutan kaiken kansan, jonka tyko sina menet: ja saatan kaikki sinun vihollises pakoon sinun edestas.	
+<div class="theverse"><div class="versenum">27.</div> Mina lahetan minun pelkoni sinun edelles, ja hukutan kaiken kansan, jonka tyko sina menet: ja saatan kaikki sinun vihollises pakoon sinun edestas.	</div>
 
-<div class="versenum">28.</div> Mina lahetan horholaiset sinun edelles, jotka pitaa ajaman pois sinun edestas Hevilaiset, Kanaanealaiset ja Hetilaiset.	
+<div class="theverse"><div class="versenum">28.</div> Mina lahetan horholaiset sinun edelles, jotka pitaa ajaman pois sinun edestas Hevilaiset, Kanaanealaiset ja Hetilaiset.	</div>
 
-<div class="versenum">29.</div> En mina heita aja ulos yhtena vuonna sinun edestas, ettei maa autiaksi tulisi, eika metsan pedot enenisi sinua vastaan.	
+<div class="theverse"><div class="versenum">29.</div> En mina heita aja ulos yhtena vuonna sinun edestas, ettei maa autiaksi tulisi, eika metsan pedot enenisi sinua vastaan.	</div>
 
-<div class="versenum">30.</div> Vahittain mina heita ajan ulos sinun edestas, siihenasti ettas kasvat ja omistat maan.	
+<div class="theverse"><div class="versenum">30.</div> Vahittain mina heita ajan ulos sinun edestas, siihenasti ettas kasvat ja omistat maan.	</div>
 
-<div class="versenum">31.</div> Ja mina panen sinun maas rajat Punaisesta meresta niin Philistealaisten mereen asti, ja korvesta niin virtaan asti: silla mina annan maan asuvaiset sinun katees, ajaakses heita ulos edestas.	
+<div class="theverse"><div class="versenum">31.</div> Ja mina panen sinun maas rajat Punaisesta meresta niin Philistealaisten mereen asti, ja korvesta niin virtaan asti: silla mina annan maan asuvaiset sinun katees, ajaakses heita ulos edestas.	</div>
 
-<div class="versenum">32.</div> Ei sinun pida liittoa tekeman heidan kanssansa, eika heidan jumalainsa kanssa.	
+<div class="theverse"><div class="versenum">32.</div> Ei sinun pida liittoa tekeman heidan kanssansa, eika heidan jumalainsa kanssa.	</div>
 
-<div class="versenum">33.</div> Ei heidan pida asuman sinun maassas, ettei he kehoittaisi sinua syntia tekemaan minua vastaan, niin ettas palvelet heidan jumaliansa, silla se on sinulle paulaksi.	
+<div class="theverse"><div class="versenum">33.</div> Ei heidan pida asuman sinun maassas, ettei he kehoittaisi sinua syntia tekemaan minua vastaan, niin ettas palvelet heidan jumaliansa, silla se on sinulle paulaksi.	</div>
 </body>
 </html>

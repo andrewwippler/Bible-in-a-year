@@ -4,86 +4,86 @@
 </head>
 <body><div class="chaptertitle">Apostolien 19	</div>
 	
-<div class="versenum">1.</div> Niin tapahtui, kuin Apollos oli Korintossa, etta Paavali matkusti lavitse ylimaakuntain, ja tuli Ephesoon, ja loysi muutamia opetuslapsia,	
+<div class="theverse"><div class="versenum">1.</div> Niin tapahtui, kuin Apollos oli Korintossa, etta Paavali matkusti lavitse ylimaakuntain, ja tuli Ephesoon, ja loysi muutamia opetuslapsia,	</div>
 
-<div class="versenum">2.</div> Ja sanoi heille: oletteko te saaneet Pyhan Hengen, sittenkuin te uskoitte? He sanoivat hanelle: emme ensinkaan ole kuulleet, josko Pyhaa Henkea lieneekaan.	
+<div class="theverse"><div class="versenum">2.</div> Ja sanoi heille: oletteko te saaneet Pyhan Hengen, sittenkuin te uskoitte? He sanoivat hanelle: emme ensinkaan ole kuulleet, josko Pyhaa Henkea lieneekaan.	</div>
 
-<div class="versenum">3.</div> Ja han sanoi heille: millas te olette kastetut? He sanoivat: Johanneksen kasteella.	
+<div class="theverse"><div class="versenum">3.</div> Ja han sanoi heille: millas te olette kastetut? He sanoivat: Johanneksen kasteella.	</div>
 
-<div class="versenum">4.</div> Niin sanoi Paavali: Johannes tosin kasti parannuksen kasteella, sanoen kansalle, etta heidan piti uskoman sen paalle, joka hanen jalkeensa tuleva oli, se on, Kristuksen Jesuksen paalle.	
+<div class="theverse"><div class="versenum">4.</div> Niin sanoi Paavali: Johannes tosin kasti parannuksen kasteella, sanoen kansalle, etta heidan piti uskoman sen paalle, joka hanen jalkeensa tuleva oli, se on, Kristuksen Jesuksen paalle.	</div>
 
-<div class="versenum">5.</div> Niin ne, jotka sen kuulivat, kastettiin Herran Jesuksen nimeen.	
+<div class="theverse"><div class="versenum">5.</div> Niin ne, jotka sen kuulivat, kastettiin Herran Jesuksen nimeen.	</div>
 
-<div class="versenum">6.</div> Ja kuin Paavali pani katensa heidan paallensa, tuli Pyha Henki heidan paallensa, ja he puhuivat kielilla ja ennustivat.	
+<div class="theverse"><div class="versenum">6.</div> Ja kuin Paavali pani katensa heidan paallensa, tuli Pyha Henki heidan paallensa, ja he puhuivat kielilla ja ennustivat.	</div>
 
-<div class="versenum">7.</div> Ja kaikki ne miehet olivat lahes kaksitoistakymmenta.	
+<div class="theverse"><div class="versenum">7.</div> Ja kaikki ne miehet olivat lahes kaksitoistakymmenta.	</div>
 
-<div class="versenum">8.</div> Niin han meni synagogaan ja saarnasi rohkiasti kolme kuukautta, opetti ja neuvoi heita Jumalan valtakunnasta.	
+<div class="theverse"><div class="versenum">8.</div> Niin han meni synagogaan ja saarnasi rohkiasti kolme kuukautta, opetti ja neuvoi heita Jumalan valtakunnasta.	</div>
 
-<div class="versenum">9.</div> Mutta kuin muutamat heista paatuivat ja ei uskoneet, vaan panettelivat Herran tieta yhteiselle kansalle, meni han pois heidan tykoansa, ja eroitti opetuslapset, ja puhui joka paiva yhden miehen koulussa, joka kutsuttiin Tyrannus.	
+<div class="theverse"><div class="versenum">9.</div> Mutta kuin muutamat heista paatuivat ja ei uskoneet, vaan panettelivat Herran tieta yhteiselle kansalle, meni han pois heidan tykoansa, ja eroitti opetuslapset, ja puhui joka paiva yhden miehen koulussa, joka kutsuttiin Tyrannus.	</div>
 
-<div class="versenum">10.</div> Ja sita tehtiin kaksi ajastaikaa, niin etta kaikki ne, jota Asiassa asuivat, saivat kuulla Herran Jesuksen sanan, seka Juudalaiset etta Grekilaiset.	
+<div class="theverse"><div class="versenum">10.</div> Ja sita tehtiin kaksi ajastaikaa, niin etta kaikki ne, jota Asiassa asuivat, saivat kuulla Herran Jesuksen sanan, seka Juudalaiset etta Grekilaiset.	</div>
 
-<div class="versenum">11.</div> Ja Jumala teki Paavalin katten kautta ei vahia voimallisia toita,	
+<div class="theverse"><div class="versenum">11.</div> Ja Jumala teki Paavalin katten kautta ei vahia voimallisia toita,	</div>
 
-<div class="versenum">12.</div> Niin etta hikiliinat ja esiliinat hanen iholtansa sairasten paalle tuotiin, ja taudit luopuivat heista, ja pahat henget heista laksivat ulos.	
+<div class="theverse"><div class="versenum">12.</div> Niin etta hikiliinat ja esiliinat hanen iholtansa sairasten paalle tuotiin, ja taudit luopuivat heista, ja pahat henget heista laksivat ulos.	</div>
 
-<div class="versenum">13.</div> Niin muutamat Juudalaiset, jotka olivat lumoojat, vaelsivat ympari, ja kiusasivat mainita Herran Jesuksen nimea niiden paalle, joilla pahat henget olivat, ja sanoivat: me vannotamme teita Jesuksen puolesta, jota Paavali saarnaa.	
+<div class="theverse"><div class="versenum">13.</div> Niin muutamat Juudalaiset, jotka olivat lumoojat, vaelsivat ympari, ja kiusasivat mainita Herran Jesuksen nimea niiden paalle, joilla pahat henget olivat, ja sanoivat: me vannotamme teita Jesuksen puolesta, jota Paavali saarnaa.	</div>
 
-<div class="versenum">14.</div> Ja muutamat niiden seassa, jotka tata tekivat, olivat Skevan, Juudalaisten ylimmaisen papin, seitseman poikaa.	
+<div class="theverse"><div class="versenum">14.</div> Ja muutamat niiden seassa, jotka tata tekivat, olivat Skevan, Juudalaisten ylimmaisen papin, seitseman poikaa.	</div>
 
-<div class="versenum">15.</div> Mutta paha henki vastasi ja sanoi: Jesuksen mina tunnen, ja Paavalin mina tiedan, mutta mitka te olette?	
+<div class="theverse"><div class="versenum">15.</div> Mutta paha henki vastasi ja sanoi: Jesuksen mina tunnen, ja Paavalin mina tiedan, mutta mitka te olette?	</div>
 
-<div class="versenum">16.</div> Ja ihminen, jossa paha henki oli, karkasi heidan paallensa, ja voitti heidat ja paiskasi heidat allensa, niin, etta he alasti ja haavoitettuna paasivat siita huoneesta ulos pakenemaan.	
+<div class="theverse"><div class="versenum">16.</div> Ja ihminen, jossa paha henki oli, karkasi heidan paallensa, ja voitti heidat ja paiskasi heidat allensa, niin, etta he alasti ja haavoitettuna paasivat siita huoneesta ulos pakenemaan.	</div>
 
-<div class="versenum">17.</div> Ja tama tuli tiettavaksi seka kaikille Juudalaisille etta Grekilaisille, jotka Ephesossa asuivat, ja pelko tuli kaikkein paalle ja Herran Jesuksen nimi suuresti ylistettiin.	
+<div class="theverse"><div class="versenum">17.</div> Ja tama tuli tiettavaksi seka kaikille Juudalaisille etta Grekilaisille, jotka Ephesossa asuivat, ja pelko tuli kaikkein paalle ja Herran Jesuksen nimi suuresti ylistettiin.	</div>
 
-<div class="versenum">18.</div> Ja tuli myos monta niista, jotka uskoivat, tunnustivat ja ilmoittivat tekonsa.	
+<div class="theverse"><div class="versenum">18.</div> Ja tuli myos monta niista, jotka uskoivat, tunnustivat ja ilmoittivat tekonsa.	</div>
 
-<div class="versenum">19.</div> Ja monta niista, jotka hempeita juonia harjoitelleet olivat, toivat kirjat ja polttivat kaikkein nahden. Ja kuin niiden hinnat laskettu oli, niin loydettiin viisikymmenta tuhatta hopiapenninkia.	
+<div class="theverse"><div class="versenum">19.</div> Ja monta niista, jotka hempeita juonia harjoitelleet olivat, toivat kirjat ja polttivat kaikkein nahden. Ja kuin niiden hinnat laskettu oli, niin loydettiin viisikymmenta tuhatta hopiapenninkia.	</div>
 
-<div class="versenum">20.</div> Niin voimallisesti kasvoi Herran sana ja vahvistui.	
+<div class="theverse"><div class="versenum">20.</div> Niin voimallisesti kasvoi Herran sana ja vahvistui.	</div>
 
-<div class="versenum">21.</div> Kuin namat toimitetut olivat, aikoi Paavali hengessa Makedonian ja Akajan lavitse vaeltaa Jerusalemiin, sanoen: sittekuin mina siella ollut olen, taytyy minun myos Roomiin menna.	
+<div class="theverse"><div class="versenum">21.</div> Kuin namat toimitetut olivat, aikoi Paavali hengessa Makedonian ja Akajan lavitse vaeltaa Jerusalemiin, sanoen: sittekuin mina siella ollut olen, taytyy minun myos Roomiin menna.	</div>
 
-<div class="versenum">22.</div> Niin han lahetti Makedoniaan kaksi niista, jotka hanta palvelivat, Timoteuksen ja Erastuksen, mutta itse han jai hetkeksi aikaa Asiaan.	
+<div class="theverse"><div class="versenum">22.</div> Niin han lahetti Makedoniaan kaksi niista, jotka hanta palvelivat, Timoteuksen ja Erastuksen, mutta itse han jai hetkeksi aikaa Asiaan.	</div>
 
-<div class="versenum">23.</div> Mutta silla ajalla nousi ei vahin kapina siita tiesta.	
+<div class="theverse"><div class="versenum">23.</div> Mutta silla ajalla nousi ei vahin kapina siita tiesta.	</div>
 
-<div class="versenum">24.</div> Silla hopiaseppa, Demetrius nimelta, teki hopiaisia Diana-templia, josta niille, jotka sita ammattia pitivat, oli ei vahin voitto.	
+<div class="theverse"><div class="versenum">24.</div> Silla hopiaseppa, Demetrius nimelta, teki hopiaisia Diana-templia, josta niille, jotka sita ammattia pitivat, oli ei vahin voitto.	</div>
 
-<div class="versenum">25.</div> Ne han kutsui kokoon, ja jotka senkaltaista tyota tekivat, ja sanoi: miehet, te tiedatte, etta meilla on tasta tyosta jalo voitto,	
+<div class="theverse"><div class="versenum">25.</div> Ne han kutsui kokoon, ja jotka senkaltaista tyota tekivat, ja sanoi: miehet, te tiedatte, etta meilla on tasta tyosta jalo voitto,	</div>
 
-<div class="versenum">26.</div> Ja te naette ja kuulette, ettei ainoasti Ephesossa, mutta lahes kaikessa Asiassa on tama Paavali uskottanut ja kaantanyt pois paljon kansaa, sanoen, ettei ne ole jumalat, joita ihmisten kasilla tehdaan,	
+<div class="theverse"><div class="versenum">26.</div> Ja te naette ja kuulette, ettei ainoasti Ephesossa, mutta lahes kaikessa Asiassa on tama Paavali uskottanut ja kaantanyt pois paljon kansaa, sanoen, ettei ne ole jumalat, joita ihmisten kasilla tehdaan,	</div>
 
-<div class="versenum">27.</div> Niin ei ainoasti vaara ole, etta tama meidan elatuksemme hapiaan joutuisi, vaan myos etta suuren naisjumalan Dianan teplia ei minakaan pidettaisi ja hanen korkia kunniansa hukkuisi, jota koko Asia ja kaikki maailma palvelee.	
+<div class="theverse"><div class="versenum">27.</div> Niin ei ainoasti vaara ole, etta tama meidan elatuksemme hapiaan joutuisi, vaan myos etta suuren naisjumalan Dianan teplia ei minakaan pidettaisi ja hanen korkia kunniansa hukkuisi, jota koko Asia ja kaikki maailma palvelee.	</div>
 
-<div class="versenum">28.</div> Mutta kuin he namat kuulivat, tulivat he tayteen vihaa ja huusivat, sanoen: suuri on Ephesilaisten Diana!	
+<div class="theverse"><div class="versenum">28.</div> Mutta kuin he namat kuulivat, tulivat he tayteen vihaa ja huusivat, sanoen: suuri on Ephesilaisten Diana!	</div>
 
-<div class="versenum">29.</div> Ja kaikki kaupunki tuli metelia tayteen, ja he karkasivat yksimielisesti katseluspaikkaan, ja ottivat kiinni Gajuksen ja Aristarkuksen, jotka olivat Makedoniasta Paavalin matkakumppanit.	
+<div class="theverse"><div class="versenum">29.</div> Ja kaikki kaupunki tuli metelia tayteen, ja he karkasivat yksimielisesti katseluspaikkaan, ja ottivat kiinni Gajuksen ja Aristarkuksen, jotka olivat Makedoniasta Paavalin matkakumppanit.	</div>
 
-<div class="versenum">30.</div> Mutta kuin Paavali tahtoi kansan sekaan menna, niin ei opetuslapset hanta laskeneet.	
+<div class="theverse"><div class="versenum">30.</div> Mutta kuin Paavali tahtoi kansan sekaan menna, niin ei opetuslapset hanta laskeneet.	</div>
 
-<div class="versenum">31.</div> Ja muutamat paamiehet Asiasta, jotka hanen ystavansa olivat, lahettivat hanen tykonsa ja rukoilivat, ettei hanen pitanyt katseluspaikkaan itsiansa antaman.	
+<div class="theverse"><div class="versenum">31.</div> Ja muutamat paamiehet Asiasta, jotka hanen ystavansa olivat, lahettivat hanen tykonsa ja rukoilivat, ettei hanen pitanyt katseluspaikkaan itsiansa antaman.	</div>
 
-<div class="versenum">32.</div> Ja muutamat muuta huusivat, niin etta joukko oli perati sekaseuraisin, ja enin osa ei tietanyt, minkatahden he olivat tulleet kokoon.	
+<div class="theverse"><div class="versenum">32.</div> Ja muutamat muuta huusivat, niin etta joukko oli perati sekaseuraisin, ja enin osa ei tietanyt, minkatahden he olivat tulleet kokoon.	</div>
 
-<div class="versenum">33.</div> Niin vakijoukosta vedettiin edes Aleksanteri, jonka Juudalaiset eteen syoksivat. Ja Aleksanteri viittasi kadellansa, ja tahtoi edestansa vastata kansan edessa.	
+<div class="theverse"><div class="versenum">33.</div> Niin vakijoukosta vedettiin edes Aleksanteri, jonka Juudalaiset eteen syoksivat. Ja Aleksanteri viittasi kadellansa, ja tahtoi edestansa vastata kansan edessa.	</div>
 
-<div class="versenum">34.</div> Kuin he siis ymmarsivat, etta han Juudalainen oli, huusivat he kaikki yhteen suuhun, lahes kaksi hetkea, ja sanoivat: suuri on Ephesilaisten Diana!	
+<div class="theverse"><div class="versenum">34.</div> Kuin he siis ymmarsivat, etta han Juudalainen oli, huusivat he kaikki yhteen suuhun, lahes kaksi hetkea, ja sanoivat: suuri on Ephesilaisten Diana!	</div>
 
-<div class="versenum">35.</div> Mutta kuin kansleri oli hillinnyt kansan, sanoi han: Epheson miehet! kuka on se ihminen, joka ei tieda, etta Epheson kaupunki palvelee suurta Dianaa ja taivaista pudonnutta kuvaa?	
+<div class="theverse"><div class="versenum">35.</div> Mutta kuin kansleri oli hillinnyt kansan, sanoi han: Epheson miehet! kuka on se ihminen, joka ei tieda, etta Epheson kaupunki palvelee suurta Dianaa ja taivaista pudonnutta kuvaa?	</div>
 
-<div class="versenum">36.</div> Koska ei siis taideta sanoa sita vastaan, niin asettakaat teitanne ja alkaat mitaan tyhmia tehko.	
+<div class="theverse"><div class="versenum">36.</div> Koska ei siis taideta sanoa sita vastaan, niin asettakaat teitanne ja alkaat mitaan tyhmia tehko.	</div>
 
-<div class="versenum">37.</div> Silla te olette namat miehet vetaneet edes, jotka ei ole kirkon varkaita eika teidan jumalanne pilkkaajia.	
+<div class="theverse"><div class="versenum">37.</div> Silla te olette namat miehet vetaneet edes, jotka ei ole kirkon varkaita eika teidan jumalanne pilkkaajia.	</div>
 
-<div class="versenum">38.</div> Jos siis Demetriuksella ja niilla, jotka hanen kanssansa tyokumppanit ovat, on jonkun kanssa asiaa, niin pidetaan laki ja oikeus; ovat myos maanvanhimmat: kantakaan toinen toisensa paalle.	
+<div class="theverse"><div class="versenum">38.</div> Jos siis Demetriuksella ja niilla, jotka hanen kanssansa tyokumppanit ovat, on jonkun kanssa asiaa, niin pidetaan laki ja oikeus; ovat myos maanvanhimmat: kantakaan toinen toisensa paalle.	</div>
 
-<div class="versenum">39.</div> Mutta jos teilla on riita muista asioista, niin ratkaistakoon asia laillisessa kokouksessa.	
+<div class="theverse"><div class="versenum">39.</div> Mutta jos teilla on riita muista asioista, niin ratkaistakoon asia laillisessa kokouksessa.	</div>
 
-<div class="versenum">40.</div> Silla vaara on, etta me nuhteesen tulemme tamanpaivaisen kapinan tahden, koska ei yhtaan syyta ole, josta me taitaisimme taman metelin tahden tilin tehda.	
+<div class="theverse"><div class="versenum">40.</div> Silla vaara on, etta me nuhteesen tulemme tamanpaivaisen kapinan tahden, koska ei yhtaan syyta ole, josta me taitaisimme taman metelin tahden tilin tehda.	</div>
 
-<div class="versenum">41.</div> (H19:40) Ja kuin han namat sanonut oli, laski han kansan menemaan.	
+<div class="theverse"><div class="versenum">41.</div> (H19:40) Ja kuin han namat sanonut oli, laski han kansan menemaan.	</div>
 </body>
 </html>

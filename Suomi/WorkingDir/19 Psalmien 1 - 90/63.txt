@@ -4,26 +4,26 @@
 </head>
 <body><div class="chaptertitle">Psalmien 63	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi, kuin han oli Juudan korvessa. (H63:2) Jumala, sina olet minun Jumalani! Varhain mina sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetoin on.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi, kuin han oli Juudan korvessa. (H63:2) Jumala, sina olet minun Jumalani! Varhain mina sinua etsin: sinua minun sieluni janoo, minun lihani halaa sinua karkiassa ja kuivassa maassa, joka vedetoin on.	</div>
 
-<div class="versenum">2.</div> Niinkuin mina nain sinun pyhassa, katsellakseni sinun voimaas ja kunniaas;	
+<div class="theverse"><div class="versenum">2.</div> Niinkuin mina nain sinun pyhassa, katsellakseni sinun voimaas ja kunniaas;	</div>
 
-<div class="versenum">3.</div> Silla sinun laupiutes on parempi kuin elama: minun huuleni pitaa sinua kiittaman.	
+<div class="theverse"><div class="versenum">3.</div> Silla sinun laupiutes on parempi kuin elama: minun huuleni pitaa sinua kiittaman.	</div>
 
-<div class="versenum">4.</div> Niin mina tahdon kunnioittaa sinua minun elinaikanani, ja minun kateni nostaa ylos sinun nimees.	
+<div class="theverse"><div class="versenum">4.</div> Niin mina tahdon kunnioittaa sinua minun elinaikanani, ja minun kateni nostaa ylos sinun nimees.	</div>
 
-<div class="versenum">5.</div> Niinkuin lihavuudella ja rasvalla pitaa minun sieluni ravittaman: ja minun suuni pitaa kiittaman iloisilla huulilla.	
+<div class="theverse"><div class="versenum">5.</div> Niinkuin lihavuudella ja rasvalla pitaa minun sieluni ravittaman: ja minun suuni pitaa kiittaman iloisilla huulilla.	</div>
 
-<div class="versenum">6.</div> Kuin mina vuoteeseni lasken, niin mina muistan sinua:kuin mina heraan, niin mina puhun sinusta.	
+<div class="theverse"><div class="versenum">6.</div> Kuin mina vuoteeseni lasken, niin mina muistan sinua:kuin mina heraan, niin mina puhun sinusta.	</div>
 
-<div class="versenum">7.</div> Silla sina olet minun apuni, ja sinun siipeis varjon alla mina kerskaan.	
+<div class="theverse"><div class="versenum">7.</div> Silla sina olet minun apuni, ja sinun siipeis varjon alla mina kerskaan.	</div>
 
-<div class="versenum">8.</div> Minun sieluni riippuu sinussa: sinun oikia kates minun tukee.	
+<div class="theverse"><div class="versenum">8.</div> Minun sieluni riippuu sinussa: sinun oikia kates minun tukee.	</div>
 
-<div class="versenum">9.</div> Mutta he etsivat kadottaaksensa minun sieluni: heidan taytyy maan alle menna.	
+<div class="theverse"><div class="versenum">9.</div> Mutta he etsivat kadottaaksensa minun sieluni: heidan taytyy maan alle menna.	</div>
 
-<div class="versenum">10.</div> Heidan pitaa miekkaan lankeeman, ketuille osaksi tuleman.	
+<div class="theverse"><div class="versenum">10.</div> Heidan pitaa miekkaan lankeeman, ketuille osaksi tuleman.	</div>
 
-<div class="versenum">11.</div> Mutta kuninkaan pitaa iloitseman Jumalassa: joka hanen kauttansa vannoo, se kunnioitetaan; silla valhetteliain suu pitaa tukittaman.	
+<div class="theverse"><div class="versenum">11.</div> Mutta kuninkaan pitaa iloitseman Jumalassa: joka hanen kauttansa vannoo, se kunnioitetaan; silla valhetteliain suu pitaa tukittaman.	</div>
 </body>
 </html>

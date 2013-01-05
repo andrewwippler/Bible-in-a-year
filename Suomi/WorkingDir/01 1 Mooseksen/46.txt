@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">1 Mooseksen 46	</div>
 	
-<div class="versenum">1.</div> Niin laksi Israel kaiken sen kanssa kuin hanella oli, ja koska han tuli BerSabaan, uhrasi han uhria isansa Isaakin Jumalalle.	
+<div class="theverse"><div class="versenum">1.</div> Niin laksi Israel kaiken sen kanssa kuin hanella oli, ja koska han tuli BerSabaan, uhrasi han uhria isansa Isaakin Jumalalle.	</div>
 
-<div class="versenum">2.</div> Ja Jumala puhui yolla nayssa Israelille, sanoen: Jakob, Jakob. Han vastasi: tassa mina olen.	
+<div class="theverse"><div class="versenum">2.</div> Ja Jumala puhui yolla nayssa Israelille, sanoen: Jakob, Jakob. Han vastasi: tassa mina olen.	</div>
 
-<div class="versenum">3.</div> Ja han sanoi: Mina olen Jumala, sinun isas Jumala: ala pelkaa menna Egyptiin: silla mina teen sinun siella suureksi kansaksi.	
+<div class="theverse"><div class="versenum">3.</div> Ja han sanoi: Mina olen Jumala, sinun isas Jumala: ala pelkaa menna Egyptiin: silla mina teen sinun siella suureksi kansaksi.	</div>
 
-<div class="versenum">4.</div> Mina menen Egyptiin sinun kanssas, ja mina jallensa sinun sielta johdatan. Ja Joseph laskee katensa sinun silmais paalle.	
+<div class="theverse"><div class="versenum">4.</div> Mina menen Egyptiin sinun kanssas, ja mina jallensa sinun sielta johdatan. Ja Joseph laskee katensa sinun silmais paalle.	</div>
 
-<div class="versenum">5.</div> Ja Jakob laksi BerSabasta: ja Israelin lapset veivat isansa Jakobin ynna lastensa ja emantainsa kanssa, vaunuissa, jotka Pharao oli hanta tuomaan lahettanyt.	
+<div class="theverse"><div class="versenum">5.</div> Ja Jakob laksi BerSabasta: ja Israelin lapset veivat isansa Jakobin ynna lastensa ja emantainsa kanssa, vaunuissa, jotka Pharao oli hanta tuomaan lahettanyt.	</div>
 
-<div class="versenum">6.</div> Ja he ottivat karjansa ja tavaransa, jotka he olivat koonneet Kanaanin maalla, ja tulivat Egyptiin, Jakob ja kaikki hanen siemenensa hanen kanssansa.	
+<div class="theverse"><div class="versenum">6.</div> Ja he ottivat karjansa ja tavaransa, jotka he olivat koonneet Kanaanin maalla, ja tulivat Egyptiin, Jakob ja kaikki hanen siemenensa hanen kanssansa.	</div>
 
-<div class="versenum">7.</div> Hanen poikansa ja hanen poikainsa pojat hanen kanssansa, hanen tyttarensa ja hanen lastensa tyttaret, ja kaikki hanen siemenensa, vei han kanssansa Egyptiin.	
+<div class="theverse"><div class="versenum">7.</div> Hanen poikansa ja hanen poikainsa pojat hanen kanssansa, hanen tyttarensa ja hanen lastensa tyttaret, ja kaikki hanen siemenensa, vei han kanssansa Egyptiin.	</div>
 
-<div class="versenum">8.</div> Ja namat ovat Israelin lasten nimet, jotka tulivat Egyptiin: Jakob ja hanen poikansa. Jakobin esikoinen Ruben.	
+<div class="theverse"><div class="versenum">8.</div> Ja namat ovat Israelin lasten nimet, jotka tulivat Egyptiin: Jakob ja hanen poikansa. Jakobin esikoinen Ruben.	</div>
 
-<div class="versenum">9.</div> Ja Rubenin lapset: Hanok, Pallu, Hetsron ja Karmi.	
+<div class="theverse"><div class="versenum">9.</div> Ja Rubenin lapset: Hanok, Pallu, Hetsron ja Karmi.	</div>
 
-<div class="versenum">10.</div> Simeonin lapset: Jemuel, Jamin, Ohad, Jakin, Zohar: niin myos Saul, Kananean vaimon poika.	
+<div class="theverse"><div class="versenum">10.</div> Simeonin lapset: Jemuel, Jamin, Ohad, Jakin, Zohar: niin myos Saul, Kananean vaimon poika.	</div>
 
-<div class="versenum">11.</div> Levin lapset: Gerson, Kahat ja Merari.	
+<div class="theverse"><div class="versenum">11.</div> Levin lapset: Gerson, Kahat ja Merari.	</div>
 
-<div class="versenum">12.</div> Juudan lapset: Ger, Onan, Sela, Perets ja Sera. Mutta Ger ja Onan kuolivat Kanaanin maalla. Ja Peretsin pojat olivat: Hetsron ja Hamul.	
+<div class="theverse"><div class="versenum">12.</div> Juudan lapset: Ger, Onan, Sela, Perets ja Sera. Mutta Ger ja Onan kuolivat Kanaanin maalla. Ja Peretsin pojat olivat: Hetsron ja Hamul.	</div>
 
-<div class="versenum">13.</div> Ja Isaskarin lapset: Tola, Phua, Job ja Simron.	
+<div class="theverse"><div class="versenum">13.</div> Ja Isaskarin lapset: Tola, Phua, Job ja Simron.	</div>
 
-<div class="versenum">14.</div> Ja Sebulonin lapset: Sered, Elon ja Jahleel.	
+<div class="theverse"><div class="versenum">14.</div> Ja Sebulonin lapset: Sered, Elon ja Jahleel.	</div>
 
-<div class="versenum">15.</div> Namat ovat Lean lapset, jotka han synnytti Jakobille Mesopotamiassa, ja Dinan hanen tyttarensa. Kaikki hanen poikansa ja tyttarensa olivat kolmeneljattakymmenta henkea.	
+<div class="theverse"><div class="versenum">15.</div> Namat ovat Lean lapset, jotka han synnytti Jakobille Mesopotamiassa, ja Dinan hanen tyttarensa. Kaikki hanen poikansa ja tyttarensa olivat kolmeneljattakymmenta henkea.	</div>
 
-<div class="versenum">16.</div> Gadin lapset: Ziphion, Haggi, Suni, Etsbon, Eri, Arodi ja Areli.	
+<div class="theverse"><div class="versenum">16.</div> Gadin lapset: Ziphion, Haggi, Suni, Etsbon, Eri, Arodi ja Areli.	</div>
 
-<div class="versenum">17.</div> Asserin lapset: Jemna, Jesua, Jesui, Bria ja Sera heidan sisarensa. Mutta Brian lapset: Heber ja Malkiel.	
+<div class="theverse"><div class="versenum">17.</div> Asserin lapset: Jemna, Jesua, Jesui, Bria ja Sera heidan sisarensa. Mutta Brian lapset: Heber ja Malkiel.	</div>
 
-<div class="versenum">18.</div> Namat ovat Silpan lapset, jonka Laban antoi tyttarellensa Lealle, ja han synnytti Jakobille namat kuusitoistakymmenta henkea.	
+<div class="theverse"><div class="versenum">18.</div> Namat ovat Silpan lapset, jonka Laban antoi tyttarellensa Lealle, ja han synnytti Jakobille namat kuusitoistakymmenta henkea.	</div>
 
-<div class="versenum">19.</div> Rakelin Jakobin emannan lapset: Joseph ja BenJamin.	
+<div class="theverse"><div class="versenum">19.</div> Rakelin Jakobin emannan lapset: Joseph ja BenJamin.	</div>
 
-<div class="versenum">20.</div> Ja Josephille olivat syntyneet Egyptin maalla, jotka hanelle synnytti Asnat, Potipheran Onin papin tytar: nimittain Manasse ja Ephraim.	
+<div class="theverse"><div class="versenum">20.</div> Ja Josephille olivat syntyneet Egyptin maalla, jotka hanelle synnytti Asnat, Potipheran Onin papin tytar: nimittain Manasse ja Ephraim.	</div>
 
-<div class="versenum">21.</div> BenJaminin lapset: Bela, Beker, Asbel, Gera, Naaman, Ehi ja Ros; Mupim, Hupim, ja Ard.	
+<div class="theverse"><div class="versenum">21.</div> BenJaminin lapset: Bela, Beker, Asbel, Gera, Naaman, Ehi ja Ros; Mupim, Hupim, ja Ard.	</div>
 
-<div class="versenum">22.</div> Namat ovat Rakelin lapset, jotka ovat Jakobille syntyneet, kaikki yhteen, neljatoistakymmenta henkea.	
+<div class="theverse"><div class="versenum">22.</div> Namat ovat Rakelin lapset, jotka ovat Jakobille syntyneet, kaikki yhteen, neljatoistakymmenta henkea.	</div>
 
-<div class="versenum">23.</div> Danin lapset: Husim.	
+<div class="theverse"><div class="versenum">23.</div> Danin lapset: Husim.	</div>
 
-<div class="versenum">24.</div> Naphtalin lapset: Jahseel, Guni, Jetser ja Sillem.	
+<div class="theverse"><div class="versenum">24.</div> Naphtalin lapset: Jahseel, Guni, Jetser ja Sillem.	</div>
 
-<div class="versenum">25.</div> Namat ovat Bilhan lapset, jonka Laban antoi tyttarellensa Rakelille, ja han synnytti namat Jakobille, kaikki yhteen, seitseman henkea.	
+<div class="theverse"><div class="versenum">25.</div> Namat ovat Bilhan lapset, jonka Laban antoi tyttarellensa Rakelille, ja han synnytti namat Jakobille, kaikki yhteen, seitseman henkea.	</div>
 
-<div class="versenum">26.</div> Kaiki henget, kuin tulivat Jakobin kanssa Egyptiin, jotka olivat tulleet hanen kupeistansa, paitsi Jakobin poikain emantia, ovat kaikki yhteen, kuusiseitsemattakymmenta henkea.	
+<div class="theverse"><div class="versenum">26.</div> Kaiki henget, kuin tulivat Jakobin kanssa Egyptiin, jotka olivat tulleet hanen kupeistansa, paitsi Jakobin poikain emantia, ovat kaikki yhteen, kuusiseitsemattakymmenta henkea.	</div>
 
-<div class="versenum">27.</div> Ja Josephin pojat, jotka hanelle olivat syntyneet Egyptissa, olivat kaksi henkea. Niin etta kaikki henget Jakobin huoneesta, jotka tulivat Egyptiin olivat seitsemankymmenta.	
+<div class="theverse"><div class="versenum">27.</div> Ja Josephin pojat, jotka hanelle olivat syntyneet Egyptissa, olivat kaksi henkea. Niin etta kaikki henget Jakobin huoneesta, jotka tulivat Egyptiin olivat seitsemankymmenta.	</div>
 
-<div class="versenum">28.</div> Ja han lahetti edellansa Juudan Josephin tyko, osoittamaan hanelle tieta Goseniin, ja he tulivat Gosenin maalle.	
+<div class="theverse"><div class="versenum">28.</div> Ja han lahetti edellansa Juudan Josephin tyko, osoittamaan hanelle tieta Goseniin, ja he tulivat Gosenin maalle.	</div>
 
-<div class="versenum">29.</div> Niin valmisti Joseph vaununsa ja meni isaansa Israelia vastaan Goseniin. Ja koska han sai nahda hanen, halasi han hanta kaulasta ja itki hetken aikaa hanen kaulassansa.	
+<div class="theverse"><div class="versenum">29.</div> Niin valmisti Joseph vaununsa ja meni isaansa Israelia vastaan Goseniin. Ja koska han sai nahda hanen, halasi han hanta kaulasta ja itki hetken aikaa hanen kaulassansa.	</div>
 
-<div class="versenum">30.</div> Niin sanoi Israel Josephille: nyt mina mielellani kuolen, etta mina nain sinun kasvos, ja ettas viela elat.	
+<div class="theverse"><div class="versenum">30.</div> Niin sanoi Israel Josephille: nyt mina mielellani kuolen, etta mina nain sinun kasvos, ja ettas viela elat.	</div>
 
-<div class="versenum">31.</div> Ja Joseph sanoi veljillensa, ja isansa huoneelle: mina menen ja ilmoitan Pharaolle, ja sanon hanelle: minun veljeni ja isani huone, jotka olivat Kanaanin maalla, ovat tulleet minun tykoni.	
+<div class="theverse"><div class="versenum">31.</div> Ja Joseph sanoi veljillensa, ja isansa huoneelle: mina menen ja ilmoitan Pharaolle, ja sanon hanelle: minun veljeni ja isani huone, jotka olivat Kanaanin maalla, ovat tulleet minun tykoni.	</div>
 
-<div class="versenum">32.</div> Ja he ovat paimenet, silla he ovat tottuneet karjaa kaitsemaan: niin myos suuret ja pienet karjansa, ja kaikki, mita heilla oli, ovat tuoneet myotansa.	
+<div class="theverse"><div class="versenum">32.</div> Ja he ovat paimenet, silla he ovat tottuneet karjaa kaitsemaan: niin myos suuret ja pienet karjansa, ja kaikki, mita heilla oli, ovat tuoneet myotansa.	</div>
 
-<div class="versenum">33.</div> Koska siis Pharao kutsuu teita ja sanoo: mika teidan virkanne on?	
+<div class="theverse"><div class="versenum">33.</div> Koska siis Pharao kutsuu teita ja sanoo: mika teidan virkanne on?	</div>
 
-<div class="versenum">34.</div> Niin sanokaat: sinun palvelias ovat totuuneet karjaa kaitsemaan, hamasta meidan nuoruudestamme niin tahanasti, seka me etta meidan isamme: etta te saisitte asua Gosenin maalla, silla kaikki paimenet ovat kauhistus Egyptilaisille.	
+<div class="theverse"><div class="versenum">34.</div> Niin sanokaat: sinun palvelias ovat totuuneet karjaa kaitsemaan, hamasta meidan nuoruudestamme niin tahanasti, seka me etta meidan isamme: etta te saisitte asua Gosenin maalla, silla kaikki paimenet ovat kauhistus Egyptilaisille.	</div>
 </body>
 </html>

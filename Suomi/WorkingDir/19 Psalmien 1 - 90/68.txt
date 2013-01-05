@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Psalmien 68	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. (H68:2) Nouskaan Jumala, etta hanen vihollisensa hajoitettaisiin; ja jotka hanta vihaavat, paetkaat hanen edestansa.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi ja veisu, edellaveisaajalle. (H68:2) Nouskaan Jumala, etta hanen vihollisensa hajoitettaisiin; ja jotka hanta vihaavat, paetkaat hanen edestansa.	</div>
 
-<div class="versenum">2.</div> Aja heita pois, niinkuin savu ajetaan pois; niinkuin vedenvaha sulaa tulen edessa, niin hukkukaan jumalattomat Jumalan kasvoin edessa.	
+<div class="theverse"><div class="versenum">2.</div> Aja heita pois, niinkuin savu ajetaan pois; niinkuin vedenvaha sulaa tulen edessa, niin hukkukaan jumalattomat Jumalan kasvoin edessa.	</div>
 
-<div class="versenum">3.</div> Mutta vanhurskaat riemuitkaan ja iloitkaan Jumalan edessa, ja riemuitkaan ilossa.	
+<div class="theverse"><div class="versenum">3.</div> Mutta vanhurskaat riemuitkaan ja iloitkaan Jumalan edessa, ja riemuitkaan ilossa.	</div>
 
-<div class="versenum">4.</div> Veisatkaan Jumalalle, veisatkaat kiitosta hanen nimellensa; tehkaat hanelle tieta, joka istuu ylimmaisten taivasten paalla; hanen nimensa on Herra, ja iloitkaat hanen edessansa.	
+<div class="theverse"><div class="versenum">4.</div> Veisatkaan Jumalalle, veisatkaat kiitosta hanen nimellensa; tehkaat hanelle tieta, joka istuu ylimmaisten taivasten paalla; hanen nimensa on Herra, ja iloitkaat hanen edessansa.	</div>
 
-<div class="versenum">5.</div> Joka on orpoin isa ja leskein tuomari: han on Jumala pyhassa asumisessansa.	
+<div class="theverse"><div class="versenum">5.</div> Joka on orpoin isa ja leskein tuomari: han on Jumala pyhassa asumisessansa.	</div>
 
-<div class="versenum">6.</div> Jumala, joka yksinaisten antaa asua huoneessa, ja vie vangit ulos oikeudella; mutta vastahakoiset asuvat kuivassa.	
+<div class="theverse"><div class="versenum">6.</div> Jumala, joka yksinaisten antaa asua huoneessa, ja vie vangit ulos oikeudella; mutta vastahakoiset asuvat kuivassa.	</div>
 
-<div class="versenum">7.</div> Jumala, koskas kavit kansas edella, koskas vaelsit korvessa, Sela,	
+<div class="theverse"><div class="versenum">7.</div> Jumala, koskas kavit kansas edella, koskas vaelsit korvessa, Sela,	</div>
 
-<div class="versenum">8.</div> Niin maa vapisi ja taivaat tiukkuivat Jumalan edessa: tama Sinai, Jumalan edessa, joka Israelin Jumala on.	
+<div class="theverse"><div class="versenum">8.</div> Niin maa vapisi ja taivaat tiukkuivat Jumalan edessa: tama Sinai, Jumalan edessa, joka Israelin Jumala on.	</div>
 
-<div class="versenum">9.</div> Mutta nyt sina, Jumala, annat armollisen sateen, ja virvoitat perimises, joka vasynyt on.	
+<div class="theverse"><div class="versenum">9.</div> Mutta nyt sina, Jumala, annat armollisen sateen, ja virvoitat perimises, joka vasynyt on.	</div>
 
-<div class="versenum">10.</div> Etta sinun laumas siina asuis: Jumala, sina virvoitat hyvyydellas raadolliset.	
+<div class="theverse"><div class="versenum">10.</div> Etta sinun laumas siina asuis: Jumala, sina virvoitat hyvyydellas raadolliset.	</div>
 
-<div class="versenum">11.</div> Herra antaa sanan suurella evankelistain joukolla.	
+<div class="theverse"><div class="versenum">11.</div> Herra antaa sanan suurella evankelistain joukolla.	</div>
 
-<div class="versenum">12.</div> Sotavaen kuninkaat pakenevat, he pakenevat; ja kotona asuva jakaa saaliit.	
+<div class="theverse"><div class="versenum">12.</div> Sotavaen kuninkaat pakenevat, he pakenevat; ja kotona asuva jakaa saaliit.	</div>
 
-<div class="versenum">13.</div> Kuin te tarhain valissa makaatte, niin mettisen sulat ovat silatut hopialla, ja hanen siipensa ruskialla kullalla.	
+<div class="theverse"><div class="versenum">13.</div> Kuin te tarhain valissa makaatte, niin mettisen sulat ovat silatut hopialla, ja hanen siipensa ruskialla kullalla.	</div>
 
-<div class="versenum">14.</div> Kuin Kaikkivaltias siina joka paikassa kuninkaat levittaa, niin Zalmonissa valaisee kuin lumi.	
+<div class="theverse"><div class="versenum">14.</div> Kuin Kaikkivaltias siina joka paikassa kuninkaat levittaa, niin Zalmonissa valaisee kuin lumi.	</div>
 
-<div class="versenum">15.</div> Jumalan vuori on hedelmallinen vuori: korkia vuori on se hedelmallinen vuori.	
+<div class="theverse"><div class="versenum">15.</div> Jumalan vuori on hedelmallinen vuori: korkia vuori on se hedelmallinen vuori.	</div>
 
-<div class="versenum">16.</div> Miksi te, suuret vuoret, kippaatte? Tama on Jumalan vuori, jossa han mielistyy asumaan; ja Herra asuu siella ijankaikkisesti.	
+<div class="theverse"><div class="versenum">16.</div> Miksi te, suuret vuoret, kippaatte? Tama on Jumalan vuori, jossa han mielistyy asumaan; ja Herra asuu siella ijankaikkisesti.	</div>
 
-<div class="versenum">17.</div> Jumalan rattaita on monta tuhatta kertaa tuhatta: Herra on heissa, pyhassa Sinaissa.	
+<div class="theverse"><div class="versenum">17.</div> Jumalan rattaita on monta tuhatta kertaa tuhatta: Herra on heissa, pyhassa Sinaissa.	</div>
 
-<div class="versenum">18.</div> Sina astuit ylos korkeuteen, ja olet vangiksi ottanut vankeuden. Sina olet lahjoja saanut ihmisille: vastahakoiset myos, etta Herra Jumala siella kumminkin asuu.	
+<div class="theverse"><div class="versenum">18.</div> Sina astuit ylos korkeuteen, ja olet vangiksi ottanut vankeuden. Sina olet lahjoja saanut ihmisille: vastahakoiset myos, etta Herra Jumala siella kumminkin asuu.	</div>
 
-<div class="versenum">19.</div> Kiitetty olkoon Herra joka paiva! Jumala panee kuorman meidan paallemme; mutta han myos auttaa meita, Sela!	
+<div class="theverse"><div class="versenum">19.</div> Kiitetty olkoon Herra joka paiva! Jumala panee kuorman meidan paallemme; mutta han myos auttaa meita, Sela!	</div>
 
-<div class="versenum">20.</div> Meilla on Jumala, Jumala, joka auttaa, ja Herra, Herra, joka kuolemasta vapahtaa.	
+<div class="theverse"><div class="versenum">20.</div> Meilla on Jumala, Jumala, joka auttaa, ja Herra, Herra, joka kuolemasta vapahtaa.	</div>
 
-<div class="versenum">21.</div> Mutta Jumala sarkee vihollistensa paan heidan paanlakeinsa kanssa, jotka pysyvat heidan synneissansa.	
+<div class="theverse"><div class="versenum">21.</div> Mutta Jumala sarkee vihollistensa paan heidan paanlakeinsa kanssa, jotka pysyvat heidan synneissansa.	</div>
 
-<div class="versenum">22.</div> Herra sanoo: mina palautan (muutamat) lihavista; meren syvyydesta mina heita palautan,	
+<div class="theverse"><div class="versenum">22.</div> Herra sanoo: mina palautan (muutamat) lihavista; meren syvyydesta mina heita palautan,	</div>
 
-<div class="versenum">23.</div> Etta sinun jalkas tulis painetuksi veressa, ja koirais kieli sinun vihollisistas.	
+<div class="theverse"><div class="versenum">23.</div> Etta sinun jalkas tulis painetuksi veressa, ja koirais kieli sinun vihollisistas.	</div>
 
-<div class="versenum">24.</div> He nakivat, Jumala, kuinkas vaellat; kuinkas, minun Jumalani ja kuninkaani, pyhassa vaellat:	
+<div class="theverse"><div class="versenum">24.</div> He nakivat, Jumala, kuinkas vaellat; kuinkas, minun Jumalani ja kuninkaani, pyhassa vaellat:	</div>
 
-<div class="versenum">25.</div> Laulajat kayvat edella, ja sitte leikarit piikain seassa, jotka kanteleita soittavat.	
+<div class="theverse"><div class="versenum">25.</div> Laulajat kayvat edella, ja sitte leikarit piikain seassa, jotka kanteleita soittavat.	</div>
 
-<div class="versenum">26.</div> Kiittakaat Herraa Jumalaa seurakunnissa, te Israelin lahteesta.	
+<div class="theverse"><div class="versenum">26.</div> Kiittakaat Herraa Jumalaa seurakunnissa, te Israelin lahteesta.	</div>
 
-<div class="versenum">27.</div> Siella hallitsee heita vaha Benjamin, Juudan paamiehet joukkoinensa, Zebulonin paamiehet, Naphtalin paamiehet.	
+<div class="theverse"><div class="versenum">27.</div> Siella hallitsee heita vaha Benjamin, Juudan paamiehet joukkoinensa, Zebulonin paamiehet, Naphtalin paamiehet.	</div>
 
-<div class="versenum">28.</div> Sinun Jumalas on kaskenyt sinun olla vakevan: vahvista Jumala se, minka sina meissa tehnyt olet.	
+<div class="theverse"><div class="versenum">28.</div> Sinun Jumalas on kaskenyt sinun olla vakevan: vahvista Jumala se, minka sina meissa tehnyt olet.	</div>
 
-<div class="versenum">29.</div> Sinun templis tahden, joka on Jerusalemissa, pitaa kuninkaat sinulle lahjoja vieman.	
+<div class="theverse"><div class="versenum">29.</div> Sinun templis tahden, joka on Jerusalemissa, pitaa kuninkaat sinulle lahjoja vieman.	</div>
 
-<div class="versenum">30.</div> Nuhtele ruovon petoa, harkain laumaa kansain vasikkain kanssa, jotka kumartaen tuovat hopeakankeja: hajoittanut on han kansat, jotka mielellansa sotivat.	
+<div class="theverse"><div class="versenum">30.</div> Nuhtele ruovon petoa, harkain laumaa kansain vasikkain kanssa, jotka kumartaen tuovat hopeakankeja: hajoittanut on han kansat, jotka mielellansa sotivat.	</div>
 
-<div class="versenum">31.</div> Egyptin paamiehet tulevat: Etiopia ojentaa kasiansa Jumalalle.	
+<div class="theverse"><div class="versenum">31.</div> Egyptin paamiehet tulevat: Etiopia ojentaa kasiansa Jumalalle.	</div>
 
-<div class="versenum">32.</div> Te maan valtakunnat, veisatkaat Jumalalle, veisatkaat kiitosta Herralle, Sela!	
+<div class="theverse"><div class="versenum">32.</div> Te maan valtakunnat, veisatkaat Jumalalle, veisatkaat kiitosta Herralle, Sela!	</div>
 
-<div class="versenum">33.</div> Sille joka asuu taivaissa joka paikassa, hamasta alusta: katso, han antaa jylinalle voiman.	
+<div class="theverse"><div class="versenum">33.</div> Sille joka asuu taivaissa joka paikassa, hamasta alusta: katso, han antaa jylinalle voiman.	</div>
 
-<div class="versenum">34.</div> Antakaat Jumalalle voima: hanen herrautensa on Israelissa, ja hanen voimansa pilvissa.	
+<div class="theverse"><div class="versenum">34.</div> Antakaat Jumalalle voima: hanen herrautensa on Israelissa, ja hanen voimansa pilvissa.	</div>
 
-<div class="versenum">35.</div> Jumala on ihmeellinen pyhassansa, han on Israelin Jumala: han antaa kansalle vaen ja voiman: kiitetty olkoon Jumala!	
+<div class="theverse"><div class="versenum">35.</div> Jumala on ihmeellinen pyhassansa, han on Israelin Jumala: han antaa kansalle vaen ja voiman: kiitetty olkoon Jumala!	</div>
 </body>
 </html>

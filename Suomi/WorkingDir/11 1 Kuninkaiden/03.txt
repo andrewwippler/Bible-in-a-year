@@ -4,60 +4,60 @@
 </head>
 <body><div class="chaptertitle">1 Kuninkaiden 3	</div>
 	
-<div class="versenum">1.</div> Ja Salomo tuli Pharaon Egyptin kuninkaan vavyksi, ja otti Pharaon tyttaren ja vei hanen Davidin kaupunkiin, siihen asti kuin han oli paattanyt rakentaa hanellensa huoneen ja Herran huoneen, ja Jerusalemin ymparille muurin.	
+<div class="theverse"><div class="versenum">1.</div> Ja Salomo tuli Pharaon Egyptin kuninkaan vavyksi, ja otti Pharaon tyttaren ja vei hanen Davidin kaupunkiin, siihen asti kuin han oli paattanyt rakentaa hanellensa huoneen ja Herran huoneen, ja Jerusalemin ymparille muurin.	</div>
 
-<div class="versenum">2.</div> Mutta kansa uhrasi silloin viela korkeuksissa; silla ei ollut viela rakennettu huonetta Herran nimelle siihen aikaan asti.	
+<div class="theverse"><div class="versenum">2.</div> Mutta kansa uhrasi silloin viela korkeuksissa; silla ei ollut viela rakennettu huonetta Herran nimelle siihen aikaan asti.	</div>
 
-<div class="versenum">3.</div> Ja Salomo rakasti Herraa ja vaelsi isansa Davidin saadyissa, paitsi etta han uhrasi ja suitsutti korkeuksissa.	
+<div class="theverse"><div class="versenum">3.</div> Ja Salomo rakasti Herraa ja vaelsi isansa Davidin saadyissa, paitsi etta han uhrasi ja suitsutti korkeuksissa.	</div>
 
-<div class="versenum">4.</div> Ja kuningas meni Gibeoniin uhraamaan, silla siella oli jaloin korkeus, ja Salomo uhrasi tuhannen polttouhria silla alttarilla.	
+<div class="theverse"><div class="versenum">4.</div> Ja kuningas meni Gibeoniin uhraamaan, silla siella oli jaloin korkeus, ja Salomo uhrasi tuhannen polttouhria silla alttarilla.	</div>
 
-<div class="versenum">5.</div> Ja Herra ilmaantui Salomolle Gibeonissa yolla unessa; ja Jumala sanoi: anos, mita mina annan sinulle!	
+<div class="theverse"><div class="versenum">5.</div> Ja Herra ilmaantui Salomolle Gibeonissa yolla unessa; ja Jumala sanoi: anos, mita mina annan sinulle!	</div>
 
-<div class="versenum">6.</div> Salomo sanoi: sina olet tehnyt minun isalleni Davidille sinun palvelialles suuren laupiuden, niinkuin han vaelsi sinun edessas totuudessa ja vanhurskaudessa, ja vakaalla sydamella sinun kanssas: ja sina olet pitanyt hanelle suuren laupiuden, ja olet antanut hanelle pojan, joka istuu hanen istuimellansa, niinkuin tanapana tapahtuu.	
+<div class="theverse"><div class="versenum">6.</div> Salomo sanoi: sina olet tehnyt minun isalleni Davidille sinun palvelialles suuren laupiuden, niinkuin han vaelsi sinun edessas totuudessa ja vanhurskaudessa, ja vakaalla sydamella sinun kanssas: ja sina olet pitanyt hanelle suuren laupiuden, ja olet antanut hanelle pojan, joka istuu hanen istuimellansa, niinkuin tanapana tapahtuu.	</div>
 
-<div class="versenum">7.</div> Ja nyt, Herra minun Jumalani, sina olet tehnyt palvelias kuninkaaksi isani Davidin siaan; ja mina olen nuorukainen ja en tieda kayda ulos taikka sisalle;	
+<div class="theverse"><div class="versenum">7.</div> Ja nyt, Herra minun Jumalani, sina olet tehnyt palvelias kuninkaaksi isani Davidin siaan; ja mina olen nuorukainen ja en tieda kayda ulos taikka sisalle;	</div>
 
-<div class="versenum">8.</div> Ja sinun palvelias on sinun kansas keskella, jonka sina olet valinnut, suuren kansan, jota ei kenkaan lukea taikka kirjoittaa taida, paljouden tahden.	
+<div class="theverse"><div class="versenum">8.</div> Ja sinun palvelias on sinun kansas keskella, jonka sina olet valinnut, suuren kansan, jota ei kenkaan lukea taikka kirjoittaa taida, paljouden tahden.	</div>
 
-<div class="versenum">9.</div> Anna sentahden palvelialles ymmartavainen sydan tuomita kansaas ja erottaa pahaa ja hyvaa; silla kuka taitaa tata sinun suurta kansaas tuomita?	
+<div class="theverse"><div class="versenum">9.</div> Anna sentahden palvelialles ymmartavainen sydan tuomita kansaas ja erottaa pahaa ja hyvaa; silla kuka taitaa tata sinun suurta kansaas tuomita?	</div>
 
-<div class="versenum">10.</div> Ja tama puhe kelpasi Herralle, etta Salomo tata anoi.	
+<div class="theverse"><div class="versenum">10.</div> Ja tama puhe kelpasi Herralle, etta Salomo tata anoi.	</div>
 
-<div class="versenum">11.</div> Ja Herra sanoi hanelle: ettas tata anoit, ja et anonut sinulles pitkaa ikaa, etka anonut sinulles rikkautta, ja et anonut vihamiestes sieluja, vaan anoit sinulles tietoa ymmartaa oikeutta;	
+<div class="theverse"><div class="versenum">11.</div> Ja Herra sanoi hanelle: ettas tata anoit, ja et anonut sinulles pitkaa ikaa, etka anonut sinulles rikkautta, ja et anonut vihamiestes sieluja, vaan anoit sinulles tietoa ymmartaa oikeutta;	</div>
 
-<div class="versenum">12.</div> Katso, mina olen tehnyt sinun sanais jalkeen: katso, mina olen antanut sinulle tietavaisen ja ymmartavaisen sydamen, niin ettei sinun vertaistas ollut ole sinun edellas eika myos pida tuleman sinun jalkees.	
+<div class="theverse"><div class="versenum">12.</div> Katso, mina olen tehnyt sinun sanais jalkeen: katso, mina olen antanut sinulle tietavaisen ja ymmartavaisen sydamen, niin ettei sinun vertaistas ollut ole sinun edellas eika myos pida tuleman sinun jalkees.	</div>
 
-<div class="versenum">13.</div> Ja myos sita mita et sina anonut, olen mina antanut sinulle: rikkautta ja kunniaa, niin ettei yhdenkaan pida sinun vertaises oleman kuningasten seassa kaikkena sinun elinaikanas.	
+<div class="theverse"><div class="versenum">13.</div> Ja myos sita mita et sina anonut, olen mina antanut sinulle: rikkautta ja kunniaa, niin ettei yhdenkaan pida sinun vertaises oleman kuningasten seassa kaikkena sinun elinaikanas.	</div>
 
-<div class="versenum">14.</div> Ja jos sina vaellat minun teissani ja pidat saatyni ja kaskyni, niin kuin isas David vaelsi, niin mina teen ikas pitkaksi.	
+<div class="theverse"><div class="versenum">14.</div> Ja jos sina vaellat minun teissani ja pidat saatyni ja kaskyni, niin kuin isas David vaelsi, niin mina teen ikas pitkaksi.	</div>
 
-<div class="versenum">15.</div> Kuin Salomo herasi, niin katso se oli uni; ja han tuli Jerusalemiin ja seisoi Herran liitonarkin edessa, ja uhrasi polttouhria ja valmisti kiitosuhrin, ja teki pidon kaikille palvelioillensa.	
+<div class="theverse"><div class="versenum">15.</div> Kuin Salomo herasi, niin katso se oli uni; ja han tuli Jerusalemiin ja seisoi Herran liitonarkin edessa, ja uhrasi polttouhria ja valmisti kiitosuhrin, ja teki pidon kaikille palvelioillensa.	</div>
 
-<div class="versenum">16.</div> Silloin tuli kaksi porttonaista kuninkaan tyko, ja seisoivat hanen edessansa.	
+<div class="theverse"><div class="versenum">16.</div> Silloin tuli kaksi porttonaista kuninkaan tyko, ja seisoivat hanen edessansa.	</div>
 
-<div class="versenum">17.</div> Ja toinen vaimoista sanoi: herrani! mina ja tama vaimo asuimme yhdessa huoneessa, ja mina synnytin hanen tykonansa siina huoneessa.	
+<div class="theverse"><div class="versenum">17.</div> Ja toinen vaimoista sanoi: herrani! mina ja tama vaimo asuimme yhdessa huoneessa, ja mina synnytin hanen tykonansa siina huoneessa.	</div>
 
-<div class="versenum">18.</div> Ja tapahtui kolmantena paivana sittekuin mina synnytin, synnytti myos tama vaimo: ja me olimme ynna, ja ei yksikaan muukalainen ollut kanssamme siina huoneessa, paitsi meita kahta.	
+<div class="theverse"><div class="versenum">18.</div> Ja tapahtui kolmantena paivana sittekuin mina synnytin, synnytti myos tama vaimo: ja me olimme ynna, ja ei yksikaan muukalainen ollut kanssamme siina huoneessa, paitsi meita kahta.	</div>
 
-<div class="versenum">19.</div> Ja taman vaimon lapsi kuoli yolla; silla han makasi hanen paallansa.	
+<div class="theverse"><div class="versenum">19.</div> Ja taman vaimon lapsi kuoli yolla; silla han makasi hanen paallansa.	</div>
 
-<div class="versenum">20.</div> Niin han nousi puoliyosta ja otti minun lapseni sivustani: ja piikas makasi, ja han pani sen sivuunsa, ja kuolleen lapsensa pani han minun sivuuni.	
+<div class="theverse"><div class="versenum">20.</div> Niin han nousi puoliyosta ja otti minun lapseni sivustani: ja piikas makasi, ja han pani sen sivuunsa, ja kuolleen lapsensa pani han minun sivuuni.	</div>
 
-<div class="versenum">21.</div> Kuin mina aamulla herasin imettamaan lastani, ja katso, se oli kuollut. Niin mina taas katselin visusti paivan koittaissa lapsen, ja katso, ei se ollut minun poikani, jonka mina olin synnyttanyt.	
+<div class="theverse"><div class="versenum">21.</div> Kuin mina aamulla herasin imettamaan lastani, ja katso, se oli kuollut. Niin mina taas katselin visusti paivan koittaissa lapsen, ja katso, ei se ollut minun poikani, jonka mina olin synnyttanyt.	</div>
 
-<div class="versenum">22.</div> Niin toinen vaimo sanoi: ei se niin ole kuin sina sanot, mutta minun lapseni elaa ja sinun lapses on kuollut. Ja tama sanoi: ei, mutta sinun lapses on kuollut ja minun lapseni elaa. Ja nain he puhuivat kuninkaan edessa.	
+<div class="theverse"><div class="versenum">22.</div> Niin toinen vaimo sanoi: ei se niin ole kuin sina sanot, mutta minun lapseni elaa ja sinun lapses on kuollut. Ja tama sanoi: ei, mutta sinun lapses on kuollut ja minun lapseni elaa. Ja nain he puhuivat kuninkaan edessa.	</div>
 
-<div class="versenum">23.</div> Ja kuningas sanoi: tama sanoo: tama minun lapseni elaa ja sinun lapses on kuollut. Ja taas tama toinen sanoo: ei niin, mutta sinun lapses on kuollut ja minun lapseni elaa.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuningas sanoi: tama sanoo: tama minun lapseni elaa ja sinun lapses on kuollut. Ja taas tama toinen sanoo: ei niin, mutta sinun lapses on kuollut ja minun lapseni elaa.	</div>
 
-<div class="versenum">24.</div> Ja kuningas sanoi: tuokaat minulle miekka. Ja miekka tuotiin kuninkaan eteen.	
+<div class="theverse"><div class="versenum">24.</div> Ja kuningas sanoi: tuokaat minulle miekka. Ja miekka tuotiin kuninkaan eteen.	</div>
 
-<div class="versenum">25.</div> Ja kuningas sanoi: jakakaat elava lapsi kahtia, ja antakaat toinen puoli toiselle ja toinen puoli toiselle.	
+<div class="theverse"><div class="versenum">25.</div> Ja kuningas sanoi: jakakaat elava lapsi kahtia, ja antakaat toinen puoli toiselle ja toinen puoli toiselle.	</div>
 
-<div class="versenum">26.</div> Niin sanoi se vaimo kuninkaalle, jonka elava lapsi oli, silla hanen aidillinen sydamensa paloi lapseensa, ja han sanoi: Ah herrani! antakaat hanelle se elava lapsi ja alkaat suinkaan tappako sita. Mutta toinen sanoi: ei minulle eika sinulle pida annettaman, vaan jaettakaan kahdeksi.	
+<div class="theverse"><div class="versenum">26.</div> Niin sanoi se vaimo kuninkaalle, jonka elava lapsi oli, silla hanen aidillinen sydamensa paloi lapseensa, ja han sanoi: Ah herrani! antakaat hanelle se elava lapsi ja alkaat suinkaan tappako sita. Mutta toinen sanoi: ei minulle eika sinulle pida annettaman, vaan jaettakaan kahdeksi.	</div>
 
-<div class="versenum">27.</div> Niin kuningas vastasi ja sanoi: annettakaan hanelle tama elava lapsi, ja ei sita pida suinkaan tapettaman, silla tama on hanen aitinsa.	
+<div class="theverse"><div class="versenum">27.</div> Niin kuningas vastasi ja sanoi: annettakaan hanelle tama elava lapsi, ja ei sita pida suinkaan tapettaman, silla tama on hanen aitinsa.	</div>
 
-<div class="versenum">28.</div> Ja sen tuomion, jonka kuningas sanoi, kuuli kaikki Israel, ja he pelkasivat kuningasta; silla he nakivat, etta Jumalan tieto oli hanessa, toimittaa tuomiota.	
+<div class="theverse"><div class="versenum">28.</div> Ja sen tuomion, jonka kuningas sanoi, kuuli kaikki Israel, ja he pelkasivat kuningasta; silla he nakivat, etta Jumalan tieto oli hanessa, toimittaa tuomiota.	</div>
 </body>
 </html>

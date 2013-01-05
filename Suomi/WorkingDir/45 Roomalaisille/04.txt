@@ -4,54 +4,54 @@
 </head>
 <body><div class="chaptertitle">Roomalaisille 4	</div>
 	
-<div class="versenum">1.</div> Mitas me siis sanomme meidan isamme Abrahamin lihan puolesta loytaneen?	
+<div class="theverse"><div class="versenum">1.</div> Mitas me siis sanomme meidan isamme Abrahamin lihan puolesta loytaneen?	</div>
 
-<div class="versenum">2.</div> Silla jos Abraham on toiden kautta vanhurskaaksi tullut, niin hanella on kerskaamista, vaan ei Jumalan edessa.	
+<div class="theverse"><div class="versenum">2.</div> Silla jos Abraham on toiden kautta vanhurskaaksi tullut, niin hanella on kerskaamista, vaan ei Jumalan edessa.	</div>
 
-<div class="versenum">3.</div> Mutta mita Raamattu sano: Abraham uskoi Jumalan, ja se luettiin hanelle vanhurskaudeksi.	
+<div class="theverse"><div class="versenum">3.</div> Mutta mita Raamattu sano: Abraham uskoi Jumalan, ja se luettiin hanelle vanhurskaudeksi.	</div>
 
-<div class="versenum">4.</div> Mutta sille, joka tyota tekee, ei lueta palkkaa armosta, vaan ansiosta.	
+<div class="theverse"><div class="versenum">4.</div> Mutta sille, joka tyota tekee, ei lueta palkkaa armosta, vaan ansiosta.	</div>
 
-<div class="versenum">5.</div> Mutta joka ei tyota tee, vaan uskoo sen paalle, joka jumalattoman vanhurskaaksi tekee, hanen uskonsa luetaan hanelle vanhurskaudeksi.	
+<div class="theverse"><div class="versenum">5.</div> Mutta joka ei tyota tee, vaan uskoo sen paalle, joka jumalattoman vanhurskaaksi tekee, hanen uskonsa luetaan hanelle vanhurskaudeksi.	</div>
 
-<div class="versenum">6.</div> Niinkuin myos David sanoo: autuus on sen ihmisen, jolle Jumala vanhurskauden lukee ilman toita:	
+<div class="theverse"><div class="versenum">6.</div> Niinkuin myos David sanoo: autuus on sen ihmisen, jolle Jumala vanhurskauden lukee ilman toita:	</div>
 
-<div class="versenum">7.</div> Autuaat ovat ne, joidenka vaaryydet ovat anteeksi annetut, ja joidenka synnit peitetyt ovat.	
+<div class="theverse"><div class="versenum">7.</div> Autuaat ovat ne, joidenka vaaryydet ovat anteeksi annetut, ja joidenka synnit peitetyt ovat.	</div>
 
-<div class="versenum">8.</div> Autuas on se mies, jolle Jumala ei syntia lue.	
+<div class="theverse"><div class="versenum">8.</div> Autuas on se mies, jolle Jumala ei syntia lue.	</div>
 
-<div class="versenum">9.</div> Lieneeko siis tama autuus ainoastaan ymparileikkaukselle tullut, elikka myos esinahalle? Niinpa me sanomme: Abrahamille luettiin usko vanhurskaudeksi.	
+<div class="theverse"><div class="versenum">9.</div> Lieneeko siis tama autuus ainoastaan ymparileikkaukselle tullut, elikka myos esinahalle? Niinpa me sanomme: Abrahamille luettiin usko vanhurskaudeksi.	</div>
 
-<div class="versenum">10.</div> Kuinkas se hanelle luettiin: koska han oli ymparileikkauksessa, eli esinahassa? Ei ymparileikkauksessa, vaan esinahassa,	
+<div class="theverse"><div class="versenum">10.</div> Kuinkas se hanelle luettiin: koska han oli ymparileikkauksessa, eli esinahassa? Ei ymparileikkauksessa, vaan esinahassa,	</div>
 
-<div class="versenum">11.</div> Ja han sai ymparileikkauksen merkin vahvistukseksi, etta han oli uskon kautta vanhurkaaksi tehty, joka hanella esinahassa oli, etta hanen piti oleman kaikkein uskovaisten isa esinahassa, etta se niillekin vanhurskaudeksi luettaisiin,	
+<div class="theverse"><div class="versenum">11.</div> Ja han sai ymparileikkauksen merkin vahvistukseksi, etta han oli uskon kautta vanhurkaaksi tehty, joka hanella esinahassa oli, etta hanen piti oleman kaikkein uskovaisten isa esinahassa, etta se niillekin vanhurskaudeksi luettaisiin,	</div>
 
-<div class="versenum">12.</div> Ja han tulis myos ymparileikkauksen isaksi, ei ainoasti niiden, jotka ymparileikatuista syntyneet ovat, mutta myos niiden, jotka sen uskon jalkia vaeltavat, joka meidan isan Abrahamin esinahassa oli.	
+<div class="theverse"><div class="versenum">12.</div> Ja han tulis myos ymparileikkauksen isaksi, ei ainoasti niiden, jotka ymparileikatuista syntyneet ovat, mutta myos niiden, jotka sen uskon jalkia vaeltavat, joka meidan isan Abrahamin esinahassa oli.	</div>
 
-<div class="versenum">13.</div> Silla se lupaus, etta hanen piti maailman perilliseksi tuleman, ei ole Abrahamille eika hanen siemenellensa lain kautta tapahtunut, vaan uskon vanhurskauden kautta.	
+<div class="theverse"><div class="versenum">13.</div> Silla se lupaus, etta hanen piti maailman perilliseksi tuleman, ei ole Abrahamille eika hanen siemenellensa lain kautta tapahtunut, vaan uskon vanhurskauden kautta.	</div>
 
-<div class="versenum">14.</div> Silla jos ne, jotka laista ovat, ovat perilliset, niin usko on turha ja lupaus on hukkaan tullut.	
+<div class="theverse"><div class="versenum">14.</div> Silla jos ne, jotka laista ovat, ovat perilliset, niin usko on turha ja lupaus on hukkaan tullut.	</div>
 
-<div class="versenum">15.</div> Silla laki kehoittaa vihan; silla kussa ei lakia ole, ei siella ole myos ylitsekaymista.	
+<div class="theverse"><div class="versenum">15.</div> Silla laki kehoittaa vihan; silla kussa ei lakia ole, ei siella ole myos ylitsekaymista.	</div>
 
-<div class="versenum">16.</div> Sentahden tulee se uskosta, etta sen pitaa armosta oleman: etta se lupaus pitaa vahva oleman kaikelle siemenelle, ei sille ainoastaan, joka lain alla on, mutta myos sille, joka Abrahamin uskosta on, joka on meidan kaikkein isamme,	
+<div class="theverse"><div class="versenum">16.</div> Sentahden tulee se uskosta, etta sen pitaa armosta oleman: etta se lupaus pitaa vahva oleman kaikelle siemenelle, ei sille ainoastaan, joka lain alla on, mutta myos sille, joka Abrahamin uskosta on, joka on meidan kaikkein isamme,	</div>
 
-<div class="versenum">17.</div> (Niinkuin kirjoitettu on: mina asetin sinun monen pakanan isaksi) Jumalan edessa, jonka han uskonut on, joka kuolleet elavaksi tekee ja kutsuu ne, jotka ei ole, niinkuin ne olisivat.	
+<div class="theverse"><div class="versenum">17.</div> (Niinkuin kirjoitettu on: mina asetin sinun monen pakanan isaksi) Jumalan edessa, jonka han uskonut on, joka kuolleet elavaksi tekee ja kutsuu ne, jotka ei ole, niinkuin ne olisivat.	</div>
 
-<div class="versenum">18.</div> Ja han uskoo sen toivon, jossa ei toivoa ollut, etta hanen piti oleman monen pakanan isan, sen jalkeen kuin hanelle sanottu oli: niin pitaa sinun siemenes oleman.	
+<div class="theverse"><div class="versenum">18.</div> Ja han uskoo sen toivon, jossa ei toivoa ollut, etta hanen piti oleman monen pakanan isan, sen jalkeen kuin hanelle sanottu oli: niin pitaa sinun siemenes oleman.	</div>
 
-<div class="versenum">19.</div> Ja ei han tullut heikoksi uskossa eika katsonut kuollutta ruumistansa, ehka han jo lahes sadan ajastajan vanha oli, eika Saaran kuollutta kohtua.	
+<div class="theverse"><div class="versenum">19.</div> Ja ei han tullut heikoksi uskossa eika katsonut kuollutta ruumistansa, ehka han jo lahes sadan ajastajan vanha oli, eika Saaran kuollutta kohtua.	</div>
 
-<div class="versenum">20.</div> Mutta ei han epaillyt ensinkaan Jumalan lupauksesta epauskolla, vaan oli vahva uskossa ja antoi Jumalalle kunnian,	
+<div class="theverse"><div class="versenum">20.</div> Mutta ei han epaillyt ensinkaan Jumalan lupauksesta epauskolla, vaan oli vahva uskossa ja antoi Jumalalle kunnian,	</div>
 
-<div class="versenum">21.</div> Ja oli taydellisesti vahva siita, etta mita Jumala lupaa, sen han myos voi tehda.	
+<div class="theverse"><div class="versenum">21.</div> Ja oli taydellisesti vahva siita, etta mita Jumala lupaa, sen han myos voi tehda.	</div>
 
-<div class="versenum">22.</div> Sentahden se on myos hanelle vanhurskaudeksi luettu.	
+<div class="theverse"><div class="versenum">22.</div> Sentahden se on myos hanelle vanhurskaudeksi luettu.	</div>
 
-<div class="versenum">23.</div> Niin ei se ole ainoastaan hanen tahtensa kirjoitettu, etta se hanelle luettu oli,	
+<div class="theverse"><div class="versenum">23.</div> Niin ei se ole ainoastaan hanen tahtensa kirjoitettu, etta se hanelle luettu oli,	</div>
 
-<div class="versenum">24.</div> Vaan myos meidan tahtemme, joille se myos pitaa luettaman, kuin me sen paalle uskomme, joka meidan Herran Jesuksen kuolleista heratti,	
+<div class="theverse"><div class="versenum">24.</div> Vaan myos meidan tahtemme, joille se myos pitaa luettaman, kuin me sen paalle uskomme, joka meidan Herran Jesuksen kuolleista heratti,	</div>
 
-<div class="versenum">25.</div> Joka meidan synteimme tahden on annettu ulos, ja meidan vanhurskauttamisemme tahden heratetty ylos.	
+<div class="theverse"><div class="versenum">25.</div> Joka meidan synteimme tahden on annettu ulos, ja meidan vanhurskauttamisemme tahden heratetty ylos.	</div>
 </body>
 </html>

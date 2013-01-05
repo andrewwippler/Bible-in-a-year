@@ -4,74 +4,74 @@
 </head>
 <body><div class="chaptertitle">Joosuan 8	</div>
 	
-<div class="versenum">1.</div> Ja Herra sanoi Josualle: ala pelkaa, ala myos vapise: ota kanssas kaikki sotavaki, ja nouse ja mene ylos Aihin; katso, mina annan Ain kuninkaan kansoinensa, kaupunkinensa ja mainensa sinun katees.	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra sanoi Josualle: ala pelkaa, ala myos vapise: ota kanssas kaikki sotavaki, ja nouse ja mene ylos Aihin; katso, mina annan Ain kuninkaan kansoinensa, kaupunkinensa ja mainensa sinun katees.	</div>
 
-<div class="versenum">2.</div> Ja sinun pitaa tekeman Aille ja sen kuninkaalle niinkuin sina teit Jeriholle ja sen kuninkaalle; ainoasti hanen saaliinsa ja karjansa jakakaat keskenanne, ja pane vaijyjat kaupungin taa.	
+<div class="theverse"><div class="versenum">2.</div> Ja sinun pitaa tekeman Aille ja sen kuninkaalle niinkuin sina teit Jeriholle ja sen kuninkaalle; ainoasti hanen saaliinsa ja karjansa jakakaat keskenanne, ja pane vaijyjat kaupungin taa.	</div>
 
-<div class="versenum">3.</div> Niin Josua nousi kaiken sotavaen kanssa menemaan ylos Aihin, ja Josua valitsi kolmekymmenta tuhatta vakevaa sotamiesta ja lahetti heidat yolla ulos,	
+<div class="theverse"><div class="versenum">3.</div> Niin Josua nousi kaiken sotavaen kanssa menemaan ylos Aihin, ja Josua valitsi kolmekymmenta tuhatta vakevaa sotamiesta ja lahetti heidat yolla ulos,	</div>
 
-<div class="versenum">4.</div> Ja kaski heita ja sanoi: katsokaat te, jotka vaijytte kaupunkia kaupungin takana, ettette kauvas mene kaupungista, mutta olkaat kaikki valmiit.	
+<div class="theverse"><div class="versenum">4.</div> Ja kaski heita ja sanoi: katsokaat te, jotka vaijytte kaupunkia kaupungin takana, ettette kauvas mene kaupungista, mutta olkaat kaikki valmiit.	</div>
 
-<div class="versenum">5.</div> Ja mina ja kaikki kansa, joka minun kanssani on, lahestymme kaupunkia. Ja kuin he tulevat ulos meita vastaan niinkuin ennenkin, niin me pakenemme heidan edellansa,	
+<div class="theverse"><div class="versenum">5.</div> Ja mina ja kaikki kansa, joka minun kanssani on, lahestymme kaupunkia. Ja kuin he tulevat ulos meita vastaan niinkuin ennenkin, niin me pakenemme heidan edellansa,	</div>
 
-<div class="versenum">6.</div> Etta he tulisivat meidan jalkeemme niinkauvan, etta me saisimme heidat eroitetuksi kaupungista; silla he sanovat: he pakenevat meidan edellamme niinkuin ennenkin; ja me pakenemme heidan edellansa.	
+<div class="theverse"><div class="versenum">6.</div> Etta he tulisivat meidan jalkeemme niinkauvan, etta me saisimme heidat eroitetuksi kaupungista; silla he sanovat: he pakenevat meidan edellamme niinkuin ennenkin; ja me pakenemme heidan edellansa.	</div>
 
-<div class="versenum">7.</div> Silloin te nouskaat vaijymasta ja ottakaat kaupunki; silla Herra teidan Jumalanne antaa sen teidan kateenne.	
+<div class="theverse"><div class="versenum">7.</div> Silloin te nouskaat vaijymasta ja ottakaat kaupunki; silla Herra teidan Jumalanne antaa sen teidan kateenne.	</div>
 
-<div class="versenum">8.</div> Ja kuin te olette saaneet kaupungin, sytyttakaat siihen tuli ja tehkaat Herran sanan jalkeen; katsokaat, mina olen sen kaskenyt teille.	
+<div class="theverse"><div class="versenum">8.</div> Ja kuin te olette saaneet kaupungin, sytyttakaat siihen tuli ja tehkaat Herran sanan jalkeen; katsokaat, mina olen sen kaskenyt teille.	</div>
 
-<div class="versenum">9.</div> Niin Josua lahetti heidat, ja he menivat sinne vaijymaan ja pidattivat BetElin ja Ain valilla, lannen puolella Aista; mutta Josua yotyi kansan keskella.	
+<div class="theverse"><div class="versenum">9.</div> Niin Josua lahetti heidat, ja he menivat sinne vaijymaan ja pidattivat BetElin ja Ain valilla, lannen puolella Aista; mutta Josua yotyi kansan keskella.	</div>
 
-<div class="versenum">10.</div> Ja Josua nousi varhain ja asetti kansan, ja han meni ylos ja Israelin vanhimmat Aihin kansan edella.	
+<div class="theverse"><div class="versenum">10.</div> Ja Josua nousi varhain ja asetti kansan, ja han meni ylos ja Israelin vanhimmat Aihin kansan edella.	</div>
 
-<div class="versenum">11.</div> Ja kaikki sotavaki, jotka hanen tykonansa olivat, menivat, kavivat edes ja tulivat kaupungin kohdalle ja sioittivat itsensa pohjan puolelle Aista; ja laakso oli heidan ja Ain valilla.	
+<div class="theverse"><div class="versenum">11.</div> Ja kaikki sotavaki, jotka hanen tykonansa olivat, menivat, kavivat edes ja tulivat kaupungin kohdalle ja sioittivat itsensa pohjan puolelle Aista; ja laakso oli heidan ja Ain valilla.	</div>
 
-<div class="versenum">12.</div> Mutta han otti liki viisituhatta miesta ja pani ne vaijymaan BetElin ja Ain valilla, lannen puolella kaupunkia.	
+<div class="theverse"><div class="versenum">12.</div> Mutta han otti liki viisituhatta miesta ja pani ne vaijymaan BetElin ja Ain valilla, lannen puolella kaupunkia.	</div>
 
-<div class="versenum">13.</div> Ja he asettivat koko leirin kansan, joka pohjan puolella kaupunkia oli, niin etta ne viimeiset ulottuivat lannen puolelta kaupunkiin; niin Josua meni sina yona keskelle sita laaksoa.	
+<div class="theverse"><div class="versenum">13.</div> Ja he asettivat koko leirin kansan, joka pohjan puolella kaupunkia oli, niin etta ne viimeiset ulottuivat lannen puolelta kaupunkiin; niin Josua meni sina yona keskelle sita laaksoa.	</div>
 
-<div class="versenum">14.</div> Kuin Ain kuningas sen naki, kiiruhti han, ja varhain huomeneltain valmisti itsensa ja kaupungin miehet menivat ulos Israelia vastaan sotaan, kuningas itse kaiken vakensa kanssa, maaratylla ajalla, lakialle kedolle; mutta ei han tietanyt itsiansa vaijyttavan kaupungin takana.	
+<div class="theverse"><div class="versenum">14.</div> Kuin Ain kuningas sen naki, kiiruhti han, ja varhain huomeneltain valmisti itsensa ja kaupungin miehet menivat ulos Israelia vastaan sotaan, kuningas itse kaiken vakensa kanssa, maaratylla ajalla, lakialle kedolle; mutta ei han tietanyt itsiansa vaijyttavan kaupungin takana.	</div>
 
-<div class="versenum">15.</div> Mutta Josua ja kaikki Israel teeskelivat heidan edessansa niinkuin he olisivat lyodyt ja pakenivat tieta myoten korpeen pain.	
+<div class="theverse"><div class="versenum">15.</div> Mutta Josua ja kaikki Israel teeskelivat heidan edessansa niinkuin he olisivat lyodyt ja pakenivat tieta myoten korpeen pain.	</div>
 
-<div class="versenum">16.</div> Niin kaikki kansa, joka kaupungissa oli, huusi etta heita piti ajettaman takaa, ja he myos ajoivat Josuaa takaa ja eroitettiin kaupungista.	
+<div class="theverse"><div class="versenum">16.</div> Niin kaikki kansa, joka kaupungissa oli, huusi etta heita piti ajettaman takaa, ja he myos ajoivat Josuaa takaa ja eroitettiin kaupungista.	</div>
 
-<div class="versenum">17.</div> Niin ettei yhtakaan miesta jaanyt Aihin ja BetEliin, joka ei mennyt ulos Israelin perassa: ja he jattivat kaupungin avoin ja ajoivat Israelia takaa.	
+<div class="theverse"><div class="versenum">17.</div> Niin ettei yhtakaan miesta jaanyt Aihin ja BetEliin, joka ei mennyt ulos Israelin perassa: ja he jattivat kaupungin avoin ja ajoivat Israelia takaa.	</div>
 
-<div class="versenum">18.</div> Niin sanoi Herra Josualle: ojenna keihaas, joka on kadessas Ain puoleen, silla mina annan sen sinun katees. Ja Josua ojensi keihaansa, joka oli hanen kadessansa, kaupungin puoleen.	
+<div class="theverse"><div class="versenum">18.</div> Niin sanoi Herra Josualle: ojenna keihaas, joka on kadessas Ain puoleen, silla mina annan sen sinun katees. Ja Josua ojensi keihaansa, joka oli hanen kadessansa, kaupungin puoleen.	</div>
 
-<div class="versenum">19.</div> Silloin vaijyjat kiiruusti nousivat siastansa ja juoksivat, sittekuin han ojensi katensa, ja tulivat kaupunkiin ja voittivat sen; ja kiiruhtivat heitansa ja sytyttivat kaupungin palamaan.	
+<div class="theverse"><div class="versenum">19.</div> Silloin vaijyjat kiiruusti nousivat siastansa ja juoksivat, sittekuin han ojensi katensa, ja tulivat kaupunkiin ja voittivat sen; ja kiiruhtivat heitansa ja sytyttivat kaupungin palamaan.	</div>
 
-<div class="versenum">20.</div> Ja Ain miehet kaantyivat ja katsoivat taaksensa, ja nakivat savun nousevan kaupungista taivaaseen. Ja ei ollut heilla siaa paeta ei sinne eika tanne; ja se kansa, joka pakeni korpeen pain, palasi niita vastaan, jotka heita takaa ajoivat.	
+<div class="theverse"><div class="versenum">20.</div> Ja Ain miehet kaantyivat ja katsoivat taaksensa, ja nakivat savun nousevan kaupungista taivaaseen. Ja ei ollut heilla siaa paeta ei sinne eika tanne; ja se kansa, joka pakeni korpeen pain, palasi niita vastaan, jotka heita takaa ajoivat.	</div>
 
-<div class="versenum">21.</div> Kuin Josua ja koko Israel nakivat, etta vaijyjat voittivat kaupungin ja etta savu nousi kaupungista, palasivat he ja loivat Ain miehet.	
+<div class="theverse"><div class="versenum">21.</div> Kuin Josua ja koko Israel nakivat, etta vaijyjat voittivat kaupungin ja etta savu nousi kaupungista, palasivat he ja loivat Ain miehet.	</div>
 
-<div class="versenum">22.</div> Ja jotka kaupungissa olivat, menivat ulos heita vastaan, niin he tulivat keskelle Israelia molemmilta puolilta; ja he loivat heita siihenasti ettei yhtaan heista elamaan jaanyt, eika myos paassyt pois.	
+<div class="theverse"><div class="versenum">22.</div> Ja jotka kaupungissa olivat, menivat ulos heita vastaan, niin he tulivat keskelle Israelia molemmilta puolilta; ja he loivat heita siihenasti ettei yhtaan heista elamaan jaanyt, eika myos paassyt pois.	</div>
 
-<div class="versenum">23.</div> Ja Ain kuninkaan ottivat he elavana kiinni ja veivat hanen Josuan tyko.	
+<div class="theverse"><div class="versenum">23.</div> Ja Ain kuninkaan ottivat he elavana kiinni ja veivat hanen Josuan tyko.	</div>
 
-<div class="versenum">24.</div> Ja kuin Israel oli lyonyt kuoliaaksi kaikki Ain asujat kedolla ja korvessa, johonka he heita ajoivat takaa, ja he lankesivat kaikki miekan teralla, siihenasti etta he loppuivat; niin koko Israel palasi Aihin ja loi kaiken sen miekan teralla.	
+<div class="theverse"><div class="versenum">24.</div> Ja kuin Israel oli lyonyt kuoliaaksi kaikki Ain asujat kedolla ja korvessa, johonka he heita ajoivat takaa, ja he lankesivat kaikki miekan teralla, siihenasti etta he loppuivat; niin koko Israel palasi Aihin ja loi kaiken sen miekan teralla.	</div>
 
-<div class="versenum">25.</div> Ja kaikki ne, jotka lankesivat sina paivana seka miehista etta vaimoista, heita oli kaksitoistakymmenta tuhatta, kaikki Ain kansa.	
+<div class="theverse"><div class="versenum">25.</div> Ja kaikki ne, jotka lankesivat sina paivana seka miehista etta vaimoista, heita oli kaksitoistakymmenta tuhatta, kaikki Ain kansa.	</div>
 
-<div class="versenum">26.</div> Ja ei Josua kattansa vetanyt puoleensa, jolla han oli ojentanut keihaan, siihenasti kuin han oli tappanut kaikki Ain asuvaiset.	
+<div class="theverse"><div class="versenum">26.</div> Ja ei Josua kattansa vetanyt puoleensa, jolla han oli ojentanut keihaan, siihenasti kuin han oli tappanut kaikki Ain asuvaiset.	</div>
 
-<div class="versenum">27.</div> Mutta kaupungin karjan ja saaliin jakoi Israel keskenansa, Herran sanan jalkeen, niinkuin han oli kaskenyt Josualle.	
+<div class="theverse"><div class="versenum">27.</div> Mutta kaupungin karjan ja saaliin jakoi Israel keskenansa, Herran sanan jalkeen, niinkuin han oli kaskenyt Josualle.	</div>
 
-<div class="versenum">28.</div> Ja Josua poltti Ain ja teki siita kiviraunion ijankaikkiseksi, joka viela autiona on tahan paivaan asti.	
+<div class="theverse"><div class="versenum">28.</div> Ja Josua poltti Ain ja teki siita kiviraunion ijankaikkiseksi, joka viela autiona on tahan paivaan asti.	</div>
 
-<div class="versenum">29.</div> Ja antoi hirttaa Ain kuninkaan puuhun ehtooseen asti; ja kuin paiva oli laskenut, kaski han ottaa hanen ruumiinsa puusta pois, ja he heittivat sen kaupungin portin eteen ja kokosivat suuren kiviraunion hanen paallensa, joka siella on viela nyt tahan paivaan asti.	
+<div class="theverse"><div class="versenum">29.</div> Ja antoi hirttaa Ain kuninkaan puuhun ehtooseen asti; ja kuin paiva oli laskenut, kaski han ottaa hanen ruumiinsa puusta pois, ja he heittivat sen kaupungin portin eteen ja kokosivat suuren kiviraunion hanen paallensa, joka siella on viela nyt tahan paivaan asti.	</div>
 
-<div class="versenum">30.</div> Silloin rakensi Josua Herralle Israelin Jumalalle alttarin Ebalin vuorella,	
+<div class="theverse"><div class="versenum">30.</div> Silloin rakensi Josua Herralle Israelin Jumalalle alttarin Ebalin vuorella,	</div>
 
-<div class="versenum">31.</div> Niinkuin Moses Herran palvelia Israelin lapsille kaskenyt oli, niinkuin Moseksen lakikirjassa kirjoitettu on: alttarin kokonaisista kivista, joihinka ei ole rauta sattunut. Ja he uhrasivat Herralle sen paalla polttouhria ja kiitosuhria.	
+<div class="theverse"><div class="versenum">31.</div> Niinkuin Moses Herran palvelia Israelin lapsille kaskenyt oli, niinkuin Moseksen lakikirjassa kirjoitettu on: alttarin kokonaisista kivista, joihinka ei ole rauta sattunut. Ja he uhrasivat Herralle sen paalla polttouhria ja kiitosuhria.	</div>
 
-<div class="versenum">32.</div> Ja han kirjoitti siella kiviin sen lain muodon, jonka Moses Israelin lapsille kirjoittanut oli.	
+<div class="theverse"><div class="versenum">32.</div> Ja han kirjoitti siella kiviin sen lain muodon, jonka Moses Israelin lapsille kirjoittanut oli.	</div>
 
-<div class="versenum">33.</div> Ja koko Israel vanhimpainsa, paamiestensa ja tuomareinsa kanssa seisoivat molemmilla puolilla arkkia pappein Levilaisten edessa, jotka kantoivat Herran liitonarkkia, niin muukalaiset kuin kotonakin syntyneet, puoli heita Grisimin vuoren kohdalla ja toinen puoli Ebalin vuoren kohdalla, niinkuin Moses Herran palvelia kaskenyt oli ensisti siunaamaan Israelin kansaa.	
+<div class="theverse"><div class="versenum">33.</div> Ja koko Israel vanhimpainsa, paamiestensa ja tuomareinsa kanssa seisoivat molemmilla puolilla arkkia pappein Levilaisten edessa, jotka kantoivat Herran liitonarkkia, niin muukalaiset kuin kotonakin syntyneet, puoli heita Grisimin vuoren kohdalla ja toinen puoli Ebalin vuoren kohdalla, niinkuin Moses Herran palvelia kaskenyt oli ensisti siunaamaan Israelin kansaa.	</div>
 
-<div class="versenum">34.</div> Sitte kuulutti han kaikki lain sanat, siunauksen ja kirouksen, kaiken sen jalkeen kuin kirjoitettu on lakikirjassa.	
+<div class="theverse"><div class="versenum">34.</div> Sitte kuulutti han kaikki lain sanat, siunauksen ja kirouksen, kaiken sen jalkeen kuin kirjoitettu on lakikirjassa.	</div>
 
-<div class="versenum">35.</div> Ei ollut yhtakaan sanaa kaikista mita Moses kaskenyt oli, jota ei Josua kuuluttanut koko Israelin seurakunnan edessa, vaimoin ja lasten ja muukalaisten, jotka olivat heidan seassansa.	
+<div class="theverse"><div class="versenum">35.</div> Ei ollut yhtakaan sanaa kaikista mita Moses kaskenyt oli, jota ei Josua kuuluttanut koko Israelin seurakunnan edessa, vaimoin ja lasten ja muukalaisten, jotka olivat heidan seassansa.	</div>
 </body>
 </html>

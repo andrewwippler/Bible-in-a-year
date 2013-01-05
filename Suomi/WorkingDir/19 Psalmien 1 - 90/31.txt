@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">Psalmien 31	</div>
 	
-<div class="versenum">1.</div> Davidin Psalmi edellaveisaajalle. (H31:2) Herra, sinuun mina uskallan, etten mina ikana hapiaan tulisi: vapahda minua sinun vanhurskautes kautta.	
+<div class="theverse"><div class="versenum">1.</div> Davidin Psalmi edellaveisaajalle. (H31:2) Herra, sinuun mina uskallan, etten mina ikana hapiaan tulisi: vapahda minua sinun vanhurskautes kautta.	</div>
 
-<div class="versenum">2.</div> Kallista korvas minun puoleeni, auta minua akisti: ole minulle vahva kallio ja linna minua auttamaan;	
+<div class="theverse"><div class="versenum">2.</div> Kallista korvas minun puoleeni, auta minua akisti: ole minulle vahva kallio ja linna minua auttamaan;	</div>
 
-<div class="versenum">3.</div> Silla sina olet minun kallioni ja minun linnani, ettas siis sinun nimes tahden minua taluttaisit ja veisit;	
+<div class="theverse"><div class="versenum">3.</div> Silla sina olet minun kallioni ja minun linnani, ettas siis sinun nimes tahden minua taluttaisit ja veisit;	</div>
 
-<div class="versenum">4.</div> Ettas minun kirvottaisit verkosta, jonka he minun eteeni virittivat; silla sina olet minun vakevyyteni.	
+<div class="theverse"><div class="versenum">4.</div> Ettas minun kirvottaisit verkosta, jonka he minun eteeni virittivat; silla sina olet minun vakevyyteni.	</div>
 
-<div class="versenum">5.</div> Sinun kasiis annan mina henkeni, sina olet minun lunastanut, Herra, sina totinen Jumala.	
+<div class="theverse"><div class="versenum">5.</div> Sinun kasiis annan mina henkeni, sina olet minun lunastanut, Herra, sina totinen Jumala.	</div>
 
-<div class="versenum">6.</div> Mina vihaan niita, jotka pitavat vaaraa oppia; mutta mina uskallan Herraan.	
+<div class="theverse"><div class="versenum">6.</div> Mina vihaan niita, jotka pitavat vaaraa oppia; mutta mina uskallan Herraan.	</div>
 
-<div class="versenum">7.</div> Mina ihastun ja riemuitsen sinun hyvyytes tahden, ettas katsot minun raadollisuuttani, ja tunnet minun sieluni tuskassa.	
+<div class="theverse"><div class="versenum">7.</div> Mina ihastun ja riemuitsen sinun hyvyytes tahden, ettas katsot minun raadollisuuttani, ja tunnet minun sieluni tuskassa.	</div>
 
-<div class="versenum">8.</div> Ja et sina sulje minua vihollisteni kasiin: sina asetat minun avaraan paikkaan.	
+<div class="theverse"><div class="versenum">8.</div> Ja et sina sulje minua vihollisteni kasiin: sina asetat minun avaraan paikkaan.	</div>
 
-<div class="versenum">9.</div> Herra, ole minulle armollinen, silla mina ahdistetaan; minun kasvoni ovat muuttuneet murheesta, niin myos minun sieluni ja vatsani.	
+<div class="theverse"><div class="versenum">9.</div> Herra, ole minulle armollinen, silla mina ahdistetaan; minun kasvoni ovat muuttuneet murheesta, niin myos minun sieluni ja vatsani.	</div>
 
-<div class="versenum">10.</div> Silla minun elamani on kulutettu murheesta, ja minun vuoteni huokauksesta: minun voimani on rauvennut pahain tekoin kautta, ja minun luuni ovat muserretut.	
+<div class="theverse"><div class="versenum">10.</div> Silla minun elamani on kulutettu murheesta, ja minun vuoteni huokauksesta: minun voimani on rauvennut pahain tekoin kautta, ja minun luuni ovat muserretut.	</div>
 
-<div class="versenum">11.</div> Mina olen pilkaksi tullut kaikille vihamiehilleni ja kylallisilleni ylonpalttisesti, ja hammastykseksi tuttavilleni: jotka minun ulkona nakevat, pakenevat minua.	
+<div class="theverse"><div class="versenum">11.</div> Mina olen pilkaksi tullut kaikille vihamiehilleni ja kylallisilleni ylonpalttisesti, ja hammastykseksi tuttavilleni: jotka minun ulkona nakevat, pakenevat minua.	</div>
 
-<div class="versenum">12.</div> Mina olen sydamesta unhotettu niinkuin kuollut: mina olen niinkuin rikottu astia.	
+<div class="theverse"><div class="versenum">12.</div> Mina olen sydamesta unhotettu niinkuin kuollut: mina olen niinkuin rikottu astia.	</div>
 
-<div class="versenum">13.</div> Silla mina kuulen monen havaistyksen, etta jokainen karttaa minua: he pitavat keskenansa neuvoa minusta, ja tahtovat ottaa minun henkeni.	
+<div class="theverse"><div class="versenum">13.</div> Silla mina kuulen monen havaistyksen, etta jokainen karttaa minua: he pitavat keskenansa neuvoa minusta, ja tahtovat ottaa minun henkeni.	</div>
 
-<div class="versenum">14.</div> Mutta mina toivon sinuun, Herra, ja sanon: sina olet minun Jumalani!	
+<div class="theverse"><div class="versenum">14.</div> Mutta mina toivon sinuun, Herra, ja sanon: sina olet minun Jumalani!	</div>
 
-<div class="versenum">15.</div> Minun aikani ovat sinun kasissas: pelasta minua vihollisteni kadesta ja niista, jotka minua vainoovat.	
+<div class="theverse"><div class="versenum">15.</div> Minun aikani ovat sinun kasissas: pelasta minua vihollisteni kadesta ja niista, jotka minua vainoovat.	</div>
 
-<div class="versenum">16.</div> Anna kasvos paistaa palvelias paalle: auta minua laupiutes kautta.	
+<div class="theverse"><div class="versenum">16.</div> Anna kasvos paistaa palvelias paalle: auta minua laupiutes kautta.	</div>
 
-<div class="versenum">17.</div> Herra, ala minun anna hapiaan tulla; silla sinua mina avuksi huudan: jumalattomat tulkoon hapiaan, vaijetkoon helvetissa.	
+<div class="theverse"><div class="versenum">17.</div> Herra, ala minun anna hapiaan tulla; silla sinua mina avuksi huudan: jumalattomat tulkoon hapiaan, vaijetkoon helvetissa.	</div>
 
-<div class="versenum">18.</div> Tulkoon mykaksi vaarat suut, jotka puhuvat vanhurskasta vastaan kovasti ylpeydesta ja ylonkatseesta.	
+<div class="theverse"><div class="versenum">18.</div> Tulkoon mykaksi vaarat suut, jotka puhuvat vanhurskasta vastaan kovasti ylpeydesta ja ylonkatseesta.	</div>
 
-<div class="versenum">19.</div> Kuinka suuri on sinun hyvyytes, jonka panit tallelle niille, jotka sinua pelkaavat! ja jonka niille osoitat, jotka sinuun uskaltavat, ihmisten lasten edessa!	
+<div class="theverse"><div class="versenum">19.</div> Kuinka suuri on sinun hyvyytes, jonka panit tallelle niille, jotka sinua pelkaavat! ja jonka niille osoitat, jotka sinuun uskaltavat, ihmisten lasten edessa!	</div>
 
-<div class="versenum">20.</div> Sina katket heita tykonas salaisesti jokaisen haastosta: sina peitat heita majassas riitelevaisista kielista.	
+<div class="theverse"><div class="versenum">20.</div> Sina katket heita tykonas salaisesti jokaisen haastosta: sina peitat heita majassas riitelevaisista kielista.	</div>
 
-<div class="versenum">21.</div> Herra olkoon kiitetty, etta han on minulle osoittanut ihmeellisen hyvyyden, vahvassa kaupungissa.	
+<div class="theverse"><div class="versenum">21.</div> Herra olkoon kiitetty, etta han on minulle osoittanut ihmeellisen hyvyyden, vahvassa kaupungissa.	</div>
 
-<div class="versenum">22.</div> Silla mina sanoin pikaisuudessani: mina olen sinun silmais edesta sysatty pois: kuitenkin kuulit sina rukoukseni aanen, koska mina sinun tykos huusin.	
+<div class="theverse"><div class="versenum">22.</div> Silla mina sanoin pikaisuudessani: mina olen sinun silmais edesta sysatty pois: kuitenkin kuulit sina rukoukseni aanen, koska mina sinun tykos huusin.	</div>
 
-<div class="versenum">23.</div> Rakastakaat Herraa, kaikki hanen pyhansa; Herra varjelee uskollisia ja runsaasti kostaa niille, jotka ylpeytta harjoittelevat.	
+<div class="theverse"><div class="versenum">23.</div> Rakastakaat Herraa, kaikki hanen pyhansa; Herra varjelee uskollisia ja runsaasti kostaa niille, jotka ylpeytta harjoittelevat.	</div>
 
-<div class="versenum">24.</div> Olkaat hyvassa turvassa, ja han vahvistaa teidan sydamenne, kaikki jotka Herraa odotatte.	
+<div class="theverse"><div class="versenum">24.</div> Olkaat hyvassa turvassa, ja han vahvistaa teidan sydamenne, kaikki jotka Herraa odotatte.	</div>
 </body>
 </html>

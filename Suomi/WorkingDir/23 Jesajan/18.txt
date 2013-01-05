@@ -4,18 +4,18 @@
 </head>
 <body><div class="chaptertitle">Jesajan 18	</div>
 	
-<div class="versenum">1.</div> Voi sita maata, joka vaeltaa siipein varjon alla, talla puolella Etiopian virtoja!	
+<div class="theverse"><div class="versenum">1.</div> Voi sita maata, joka vaeltaa siipein varjon alla, talla puolella Etiopian virtoja!	</div>
 
-<div class="versenum">2.</div> Joka sanansaattajat lahettaa merelle, ja kulkee vedella ruokoisessa haahdessa: menkaat nopiasti matkaan, sanansaattajat, sen kansan tyko, joka revaisty ja ryostetty on, sen kansan tyko, joka julmempi on kuin joku muu, sen kansan tyko, joka siella ja taalla mitattu ja tallattu on, jonka maa virtain hallussa on.	
+<div class="theverse"><div class="versenum">2.</div> Joka sanansaattajat lahettaa merelle, ja kulkee vedella ruokoisessa haahdessa: menkaat nopiasti matkaan, sanansaattajat, sen kansan tyko, joka revaisty ja ryostetty on, sen kansan tyko, joka julmempi on kuin joku muu, sen kansan tyko, joka siella ja taalla mitattu ja tallattu on, jonka maa virtain hallussa on.	</div>
 
-<div class="versenum">3.</div> Te kaikki, jotka asutte maan paalla, ja te, jotka maassa olette, saatte nahda, kuinka lippu nostetaan vuorella, ja kuulla, kuinka vaskitorvella soitetaan.	
+<div class="theverse"><div class="versenum">3.</div> Te kaikki, jotka asutte maan paalla, ja te, jotka maassa olette, saatte nahda, kuinka lippu nostetaan vuorella, ja kuulla, kuinka vaskitorvella soitetaan.	</div>
 
-<div class="versenum">4.</div> Silla nain sanoo Herra minulle: mina olen hiljakseni ja katselen majastani, niinkuin palavuus, joka sateen kuivaa, ja niinkuin kaste elonajan palavuudessa.	
+<div class="theverse"><div class="versenum">4.</div> Silla nain sanoo Herra minulle: mina olen hiljakseni ja katselen majastani, niinkuin palavuus, joka sateen kuivaa, ja niinkuin kaste elonajan palavuudessa.	</div>
 
-<div class="versenum">5.</div> Silla ennen elonaikaa, kuin tulo valmiiksi tulee, ja rohkamarjat kypsentyvat, taytyy oksat leikata sirpilla, ja viinapuut hakata ja heittaa pois:	
+<div class="theverse"><div class="versenum">5.</div> Silla ennen elonaikaa, kuin tulo valmiiksi tulee, ja rohkamarjat kypsentyvat, taytyy oksat leikata sirpilla, ja viinapuut hakata ja heittaa pois:	</div>
 
-<div class="versenum">6.</div> Niin etta ne jatetaan kokonansa linnuille vuorten paalla ja elaimille maassa; niin etta linnut suvella tekevat siihen pesansa, ja kaikkinaiset elaimet makaavat siina talvella.	
+<div class="theverse"><div class="versenum">6.</div> Niin etta ne jatetaan kokonansa linnuille vuorten paalla ja elaimille maassa; niin etta linnut suvella tekevat siihen pesansa, ja kaikkinaiset elaimet makaavat siina talvella.	</div>
 
-<div class="versenum">7.</div> Silloin se revitty ja ryostetty kansa, joka julmempi on kuin joku muu, joka siella ja taalla mitattu on ja tallattu on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle.	
+<div class="theverse"><div class="versenum">7.</div> Silloin se revitty ja ryostetty kansa, joka julmempi on kuin joku muu, joka siella ja taalla mitattu on ja tallattu on, jonka maa virtain hallussa on, tuo Herralle Zebaotille lahjoja siihen paikkaan, jossa Herran Zebaotin nimi on, Zionin vuorelle.	</div>
 </body>
 </html>

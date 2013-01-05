@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">1 Pietarin 3	</div>
 	
-<div class="versenum">1.</div> Niin olkaan vaimot myos miehillensa alamaiset, etta nekin, jotka ei sanaa usko, vaimoin tavoista ilman sanaa voitetuksi tulisivat,	
+<div class="theverse"><div class="versenum">1.</div> Niin olkaan vaimot myos miehillensa alamaiset, etta nekin, jotka ei sanaa usko, vaimoin tavoista ilman sanaa voitetuksi tulisivat,	</div>
 
-<div class="versenum">2.</div> Kuin he teidan puhtaan menonne nakevat pelvossa.	
+<div class="theverse"><div class="versenum">2.</div> Kuin he teidan puhtaan menonne nakevat pelvossa.	</div>
 
-<div class="versenum">3.</div> Joidenka kaunistus ei pida oleman ulkonaisissa hiusten palmikoissa ja kullan ympari-ripustamisessa eli vaatteen puvussa,	
+<div class="theverse"><div class="versenum">3.</div> Joidenka kaunistus ei pida oleman ulkonaisissa hiusten palmikoissa ja kullan ympari-ripustamisessa eli vaatteen puvussa,	</div>
 
-<div class="versenum">4.</div> Vaan salainen ihminen ilman vikaa sydamessa, lakialla ja hiljaisella hengella, se on kallis Jumalan edessa.	
+<div class="theverse"><div class="versenum">4.</div> Vaan salainen ihminen ilman vikaa sydamessa, lakialla ja hiljaisella hengella, se on kallis Jumalan edessa.	</div>
 
-<div class="versenum">5.</div> Silla nain ovat pyhatkin vaimot muinen itsensa kaunistaneet, jotka toivonsa panivat Jumalan paalle ja olivat miehillensa alamaiset,	
+<div class="theverse"><div class="versenum">5.</div> Silla nain ovat pyhatkin vaimot muinen itsensa kaunistaneet, jotka toivonsa panivat Jumalan paalle ja olivat miehillensa alamaiset,	</div>
 
-<div class="versenum">6.</div> Niinkuin Sara oli Abrahamille kuuliainen ja kutsui hanen herraksi, jonka tyttariksi te tulleet olette, jos te hyvin teette ja pelkaamatta olette.	
+<div class="theverse"><div class="versenum">6.</div> Niinkuin Sara oli Abrahamille kuuliainen ja kutsui hanen herraksi, jonka tyttariksi te tulleet olette, jos te hyvin teette ja pelkaamatta olette.	</div>
 
-<div class="versenum">7.</div> Te, miehet, myos asukaat heidan kanssansa taidolla ja antakaat vaimolliselle niinkuin heikommalle astialle hanen kunniansa, niinkuin myos elaman armon kanssaperillisille, ettei teidan rukouksenne estetyiksi tulisi.	
+<div class="theverse"><div class="versenum">7.</div> Te, miehet, myos asukaat heidan kanssansa taidolla ja antakaat vaimolliselle niinkuin heikommalle astialle hanen kunniansa, niinkuin myos elaman armon kanssaperillisille, ettei teidan rukouksenne estetyiksi tulisi.	</div>
 
-<div class="versenum">8.</div> Mutta viimein olkaat kaikki yksimieliset, ynna karsivaiset, pitain veljellista rakkautta keskenanne, laupiaat, ystavalliset,	
+<div class="theverse"><div class="versenum">8.</div> Mutta viimein olkaat kaikki yksimieliset, ynna karsivaiset, pitain veljellista rakkautta keskenanne, laupiaat, ystavalliset,	</div>
 
-<div class="versenum">9.</div> Ei kostain pahaa pahalla, eika kirouksella kirousta, vaan paremmin siunatkaat, tietaen, etta te olette kutsutut siunausta perimaan.	
+<div class="theverse"><div class="versenum">9.</div> Ei kostain pahaa pahalla, eika kirouksella kirousta, vaan paremmin siunatkaat, tietaen, etta te olette kutsutut siunausta perimaan.	</div>
 
-<div class="versenum">10.</div> Silla joka elaa tahtoo ja hyvia paivia nahda, han hillitkaan kielensa pahuudesta ja huulensa vilppia puhumasta,	
+<div class="theverse"><div class="versenum">10.</div> Silla joka elaa tahtoo ja hyvia paivia nahda, han hillitkaan kielensa pahuudesta ja huulensa vilppia puhumasta,	</div>
 
-<div class="versenum">11.</div> Han valttakaan pahaa ja tehkaan hyvaa, etsikaan rauhaa ja noudattamaan sita.	
+<div class="theverse"><div class="versenum">11.</div> Han valttakaan pahaa ja tehkaan hyvaa, etsikaan rauhaa ja noudattamaan sita.	</div>
 
-<div class="versenum">12.</div> Silla Herran silmat ovat vanhurskasten paalle ja hanen korvansa heidan rukouksissansa; mutta Herran kasvot ovat pahointekioita vastaan.	
+<div class="theverse"><div class="versenum">12.</div> Silla Herran silmat ovat vanhurskasten paalle ja hanen korvansa heidan rukouksissansa; mutta Herran kasvot ovat pahointekioita vastaan.	</div>
 
-<div class="versenum">13.</div> Ja kuka on, joka taitaa teita vahingoittaa, jos te hyvaa pyydatte?	
+<div class="theverse"><div class="versenum">13.</div> Ja kuka on, joka taitaa teita vahingoittaa, jos te hyvaa pyydatte?	</div>
 
-<div class="versenum">14.</div> Ja jos te viela oikeudenkin tahden karsisitte, niin te kuitenkin autuaat olette; mutta alkaat peljatko heidan vaatimistansa, alkaat myos heita hammastyko.	
+<div class="theverse"><div class="versenum">14.</div> Ja jos te viela oikeudenkin tahden karsisitte, niin te kuitenkin autuaat olette; mutta alkaat peljatko heidan vaatimistansa, alkaat myos heita hammastyko.	</div>
 
-<div class="versenum">15.</div> Mutta pyhittakaat Herra Jumala teidan sydamissanne. Olkaat myos aina valmiit vastaamaan jokaista, joka teidan toivonne perustusta tutkistelee, joka teissa on, hiljaisuudella ja pelvolla,	
+<div class="theverse"><div class="versenum">15.</div> Mutta pyhittakaat Herra Jumala teidan sydamissanne. Olkaat myos aina valmiit vastaamaan jokaista, joka teidan toivonne perustusta tutkistelee, joka teissa on, hiljaisuudella ja pelvolla,	</div>
 
-<div class="versenum">16.</div> Ja pitakaat hyva omatunto, etta ne, jotka teita panettelevat niinkuin pahantekioita, hapeaisivat, etta he ovat havaisseet teidan hyvan menonne Kristuksessa.	
+<div class="theverse"><div class="versenum">16.</div> Ja pitakaat hyva omatunto, etta ne, jotka teita panettelevat niinkuin pahantekioita, hapeaisivat, etta he ovat havaisseet teidan hyvan menonne Kristuksessa.	</div>
 
-<div class="versenum">17.</div> Silla se on parempi, jos Jumalan tahto niin on, etta te hyvan tyon tahden karsitte kuin pahan.	
+<div class="theverse"><div class="versenum">17.</div> Silla se on parempi, jos Jumalan tahto niin on, etta te hyvan tyon tahden karsitte kuin pahan.	</div>
 
-<div class="versenum">18.</div> Silla Kristus myos kerran karsi meidan synteimme tahden, hurskas vaarain edesta, etta han meita Jumalalle uhrais: lihan kautta tosin kuoletettu, mutta Hengen kautta elavaksi tehty,	
+<div class="theverse"><div class="versenum">18.</div> Silla Kristus myos kerran karsi meidan synteimme tahden, hurskas vaarain edesta, etta han meita Jumalalle uhrais: lihan kautta tosin kuoletettu, mutta Hengen kautta elavaksi tehty,	</div>
 
-<div class="versenum">19.</div> Jossa han myos meni pois ja saarnasi hengille vankeudessa,	
+<div class="theverse"><div class="versenum">19.</div> Jossa han myos meni pois ja saarnasi hengille vankeudessa,	</div>
 
-<div class="versenum">20.</div> Jotka ei muinen uskoneet, kuin Jumala kerran Noan aikana odotti ja karsivainen oli, kuin arkki valmistettiin, jossa harvat (se on: kahdeksan sielua) veden kautta paastetyksi tulivat.	
+<div class="theverse"><div class="versenum">20.</div> Jotka ei muinen uskoneet, kuin Jumala kerran Noan aikana odotti ja karsivainen oli, kuin arkki valmistettiin, jossa harvat (se on: kahdeksan sielua) veden kautta paastetyksi tulivat.	</div>
 
-<div class="versenum">21.</div> Se nyt meitakin kasteessa autuaaksi tekee, joka sita aavisti (ei etta lihan saastaisuudet pannaan pois, vaan etta se on hyvan omantunnon liitto Jumalan tykona) Jesuksen Kristuksen ylosnousemisen kautta,	
+<div class="theverse"><div class="versenum">21.</div> Se nyt meitakin kasteessa autuaaksi tekee, joka sita aavisti (ei etta lihan saastaisuudet pannaan pois, vaan etta se on hyvan omantunnon liitto Jumalan tykona) Jesuksen Kristuksen ylosnousemisen kautta,	</div>
 
-<div class="versenum">22.</div> Joka on Jumalan oikialle kadelle, taivaasen mennyt, ja hanelle ovat enkelit ja vallat ja voimat alamaiset.	
+<div class="theverse"><div class="versenum">22.</div> Joka on Jumalan oikialle kadelle, taivaasen mennyt, ja hanelle ovat enkelit ja vallat ja voimat alamaiset.	</div>
 </body>
 </html>

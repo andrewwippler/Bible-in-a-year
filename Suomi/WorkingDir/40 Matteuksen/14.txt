@@ -4,76 +4,76 @@
 </head>
 <body><div class="chaptertitle">Matteuksen 14	</div>
 	
-<div class="versenum">1.</div> Siihen aikaan kuuli Herodes tetrarka Jesuksen sanoman,	
+<div class="theverse"><div class="versenum">1.</div> Siihen aikaan kuuli Herodes tetrarka Jesuksen sanoman,	</div>
 
-<div class="versenum">2.</div> Ja sanoi palvelioillensa: tama on Johannes Kastaja: han on noussut kuolleista, ja sentahden tekee han senkaltaisia vakevia toita.	
+<div class="theverse"><div class="versenum">2.</div> Ja sanoi palvelioillensa: tama on Johannes Kastaja: han on noussut kuolleista, ja sentahden tekee han senkaltaisia vakevia toita.	</div>
 
-<div class="versenum">3.</div> Silla Herodes oli ottanut Johanneksen kiinni, sitonut ja vankiuteen pannut, Herodiaksen, veljensa Philippuksen emannan tahden.	
+<div class="theverse"><div class="versenum">3.</div> Silla Herodes oli ottanut Johanneksen kiinni, sitonut ja vankiuteen pannut, Herodiaksen, veljensa Philippuksen emannan tahden.	</div>
 
-<div class="versenum">4.</div> Silla Johannes oli hanelle sanonut: ei sinulle ole luvallinen hanta pitaa.	
+<div class="theverse"><div class="versenum">4.</div> Silla Johannes oli hanelle sanonut: ei sinulle ole luvallinen hanta pitaa.	</div>
 
-<div class="versenum">5.</div> Ja kuin han tahtoi hanen tappaa, pelkasi han kansaa; silla he pitivat hanen prophetana.	
+<div class="theverse"><div class="versenum">5.</div> Ja kuin han tahtoi hanen tappaa, pelkasi han kansaa; silla he pitivat hanen prophetana.	</div>
 
-<div class="versenum">6.</div> Mutta kun Herodeksen syntymajuhlaa pidettiin, hyppasi Herodiaksen tytar heidan edessansa; ja se kelpasi Herodekselle.	
+<div class="theverse"><div class="versenum">6.</div> Mutta kun Herodeksen syntymajuhlaa pidettiin, hyppasi Herodiaksen tytar heidan edessansa; ja se kelpasi Herodekselle.	</div>
 
-<div class="versenum">7.</div> Sentahden lupasi han hanelle vannotulla valalla antaa, mita han anois.	
+<div class="theverse"><div class="versenum">7.</div> Sentahden lupasi han hanelle vannotulla valalla antaa, mita han anois.	</div>
 
-<div class="versenum">8.</div> Mutta niinkuin han aidiltansa ennen neuvottu oli, anna minulle, han sanoi, tassa vadissa Johannes Kastajan paa.	
+<div class="theverse"><div class="versenum">8.</div> Mutta niinkuin han aidiltansa ennen neuvottu oli, anna minulle, han sanoi, tassa vadissa Johannes Kastajan paa.	</div>
 
-<div class="versenum">9.</div> Ja kuningas tuli murheelliseksi; mutta kuitenkin valan tahden ja niiden, jotka ynna atrioitsivat, kaski han antaa hanelle,	
+<div class="theverse"><div class="versenum">9.</div> Ja kuningas tuli murheelliseksi; mutta kuitenkin valan tahden ja niiden, jotka ynna atrioitsivat, kaski han antaa hanelle,	</div>
 
-<div class="versenum">10.</div> Ja lahetti leikkaamaan Johanneksen kaulaa tornissa.	
+<div class="theverse"><div class="versenum">10.</div> Ja lahetti leikkaamaan Johanneksen kaulaa tornissa.	</div>
 
-<div class="versenum">11.</div> Ja hanen paansa kannettiin vadissa ja annettiin piialle, ja han vei sen aidillensa.	
+<div class="theverse"><div class="versenum">11.</div> Ja hanen paansa kannettiin vadissa ja annettiin piialle, ja han vei sen aidillensa.	</div>
 
-<div class="versenum">12.</div> Ja hanen opetuslapsensa tulivat, ja ottivat pois hanen ruumiinsa, ja hautasivat sen; ja menivat ja ilmoittivat Jesukselle.	
+<div class="theverse"><div class="versenum">12.</div> Ja hanen opetuslapsensa tulivat, ja ottivat pois hanen ruumiinsa, ja hautasivat sen; ja menivat ja ilmoittivat Jesukselle.	</div>
 
-<div class="versenum">13.</div> Ja kuin Jesus sen kuuli, meni han sielta pois haahdella eramaahan yksinansa. Ja kuin kansa se kuuli, noudattivat he hanta jalkaisin kaupungeista.	
+<div class="theverse"><div class="versenum">13.</div> Ja kuin Jesus sen kuuli, meni han sielta pois haahdella eramaahan yksinansa. Ja kuin kansa se kuuli, noudattivat he hanta jalkaisin kaupungeista.	</div>
 
-<div class="versenum">14.</div> Ja Jesus meni ulos, ja naki paljon kansaa, ja armahti heidan paallensa, ja paransi heidan sairaitansa.	
+<div class="theverse"><div class="versenum">14.</div> Ja Jesus meni ulos, ja naki paljon kansaa, ja armahti heidan paallensa, ja paransi heidan sairaitansa.	</div>
 
-<div class="versenum">15.</div> Mutta kun ehtoo tuli, tulivat hanen opetuslapsensa hanen tykonsa, ja sanoivat: tama on eramaa, ja aika on jo kulunut: laske kansa, etta he menisivat kyliin itsellensa ruokaa ostamaan.	
+<div class="theverse"><div class="versenum">15.</div> Mutta kun ehtoo tuli, tulivat hanen opetuslapsensa hanen tykonsa, ja sanoivat: tama on eramaa, ja aika on jo kulunut: laske kansa, etta he menisivat kyliin itsellensa ruokaa ostamaan.	</div>
 
-<div class="versenum">16.</div> Niin Jesus sanoi heille: ei tarvitse heidan menna pois: antakaat te heidan syoda.	
+<div class="theverse"><div class="versenum">16.</div> Niin Jesus sanoi heille: ei tarvitse heidan menna pois: antakaat te heidan syoda.	</div>
 
-<div class="versenum">17.</div> Mutta he sanoivat hanelle: ei meilla ole tassa enempi kuin viisi leipaa ja kaksi kalaa.	
+<div class="theverse"><div class="versenum">17.</div> Mutta he sanoivat hanelle: ei meilla ole tassa enempi kuin viisi leipaa ja kaksi kalaa.	</div>
 
-<div class="versenum">18.</div> Han sanoi: tuokaat minulle ne tanne.	
+<div class="theverse"><div class="versenum">18.</div> Han sanoi: tuokaat minulle ne tanne.	</div>
 
-<div class="versenum">19.</div> Ja han kaski kansan istua ruoholle, ja otti ne viisi leipaa ja kaksi kalaa, katsahti ylos taivaasen, kiitti, ja mursi, ja antoi leivat opetuslapsille, ja opetuslapset antoivat kansalle.	
+<div class="theverse"><div class="versenum">19.</div> Ja han kaski kansan istua ruoholle, ja otti ne viisi leipaa ja kaksi kalaa, katsahti ylos taivaasen, kiitti, ja mursi, ja antoi leivat opetuslapsille, ja opetuslapset antoivat kansalle.	</div>
 
-<div class="versenum">20.</div> Ja he soivat kaikki, ja ravittiin. Niin he kokosivat tahteista muruja, kaksitoistakymmenta koria tayteen.	
+<div class="theverse"><div class="versenum">20.</div> Ja he soivat kaikki, ja ravittiin. Niin he kokosivat tahteista muruja, kaksitoistakymmenta koria tayteen.	</div>
 
-<div class="versenum">21.</div> Mutta niita, jotka olivat syoneet, oli lahes viisituhatta miesta, ilman vaimoja ja lapsia.	
+<div class="theverse"><div class="versenum">21.</div> Mutta niita, jotka olivat syoneet, oli lahes viisituhatta miesta, ilman vaimoja ja lapsia.	</div>
 
-<div class="versenum">22.</div> Ja kohta vaati Jesus opetuslapsiansa haahteen astumaan, ja menemaan hanen edellaan toiselle rannalle, niinkauvan kuin han kansan olis tykoansa laskenut.	
+<div class="theverse"><div class="versenum">22.</div> Ja kohta vaati Jesus opetuslapsiansa haahteen astumaan, ja menemaan hanen edellaan toiselle rannalle, niinkauvan kuin han kansan olis tykoansa laskenut.	</div>
 
-<div class="versenum">23.</div> Ja kuin han oli kansan laskenut, astui han yksinansa vuorelle rukoilemaan. Ja kuin ehtoo joutui, oli han siella yksinansa.	
+<div class="theverse"><div class="versenum">23.</div> Ja kuin han oli kansan laskenut, astui han yksinansa vuorelle rukoilemaan. Ja kuin ehtoo joutui, oli han siella yksinansa.	</div>
 
-<div class="versenum">24.</div> Mutta haaksi oli jo keskella merta, ja ahdistettiin aalloilta; silla vastatuuli oli.	
+<div class="theverse"><div class="versenum">24.</div> Mutta haaksi oli jo keskella merta, ja ahdistettiin aalloilta; silla vastatuuli oli.	</div>
 
-<div class="versenum">25.</div> Mutta yolla, neljannessa vartiossa, tuli Jesus heidan tykonsa, kayden merella.	
+<div class="theverse"><div class="versenum">25.</div> Mutta yolla, neljannessa vartiossa, tuli Jesus heidan tykonsa, kayden merella.	</div>
 
-<div class="versenum">26.</div> Ja kuin opetuslapset nakivat hanen merella kayvan, peljastyivat he, ja sanoivat: kyopeli se on; ja huusivat pelvon tahden.	
+<div class="theverse"><div class="versenum">26.</div> Ja kuin opetuslapset nakivat hanen merella kayvan, peljastyivat he, ja sanoivat: kyopeli se on; ja huusivat pelvon tahden.	</div>
 
-<div class="versenum">27.</div> Niin Jesus puhui kohta heille ja sanoi: olkaat hyvassa turvassa! mina olen: alkaat peljastyko.	
+<div class="theverse"><div class="versenum">27.</div> Niin Jesus puhui kohta heille ja sanoi: olkaat hyvassa turvassa! mina olen: alkaat peljastyko.	</div>
 
-<div class="versenum">28.</div> Niin vastasi Pietari hanta ja sanoi: Herra, jos sina olet, niin kaske minun tulla tykos vetten paalla.	
+<div class="theverse"><div class="versenum">28.</div> Niin vastasi Pietari hanta ja sanoi: Herra, jos sina olet, niin kaske minun tulla tykos vetten paalla.	</div>
 
-<div class="versenum">29.</div> Niin han sanoi: tule! Ja Pietari astui ulos haahdesta ja kavi vetten paalla, etta han menis Jesuksen tyko.	
+<div class="theverse"><div class="versenum">29.</div> Niin han sanoi: tule! Ja Pietari astui ulos haahdesta ja kavi vetten paalla, etta han menis Jesuksen tyko.	</div>
 
-<div class="versenum">30.</div> Ja kuin han naki ankaran tuulen, niin han peljastyi, ja rupesi vajoomaan, huusi sanoen: Herra, auta minua!	
+<div class="theverse"><div class="versenum">30.</div> Ja kuin han naki ankaran tuulen, niin han peljastyi, ja rupesi vajoomaan, huusi sanoen: Herra, auta minua!	</div>
 
-<div class="versenum">31.</div> Niin Jesus ojensi kohta katensa, ja tarttui haneen, ja sanoi hanelle: oi sina heikko-uskoinen, miksis epailit?	
+<div class="theverse"><div class="versenum">31.</div> Niin Jesus ojensi kohta katensa, ja tarttui haneen, ja sanoi hanelle: oi sina heikko-uskoinen, miksis epailit?	</div>
 
-<div class="versenum">32.</div> Kuin he astuivat haahteen, niin tuuli tyveni.	
+<div class="theverse"><div class="versenum">32.</div> Kuin he astuivat haahteen, niin tuuli tyveni.	</div>
 
-<div class="versenum">33.</div> Mutta ne, jotka olivat haahdessa, tulivat ja kumarsivat hanta, ja sanoivat: totisesti olet sina Jumalan Poika.	
+<div class="theverse"><div class="versenum">33.</div> Mutta ne, jotka olivat haahdessa, tulivat ja kumarsivat hanta, ja sanoivat: totisesti olet sina Jumalan Poika.	</div>
 
-<div class="versenum">34.</div> Ja kuin he olivat menneet ylitse, tulivat he Genesaretin maalle.	
+<div class="theverse"><div class="versenum">34.</div> Ja kuin he olivat menneet ylitse, tulivat he Genesaretin maalle.	</div>
 
-<div class="versenum">35.</div> Ja kuin sen paikan miehet tunsivat hanen, lahettivat he ympari kaikkea sita maata, ja toivat hanen tykonsa kaikkinaisia sairaita,	
+<div class="theverse"><div class="versenum">35.</div> Ja kuin sen paikan miehet tunsivat hanen, lahettivat he ympari kaikkea sita maata, ja toivat hanen tykonsa kaikkinaisia sairaita,	</div>
 
-<div class="versenum">36.</div> Ja rukoilivat hanta, etta he ainoastaan hanen vaatteensa palteeseen saisivat ruveta. Ja kaikki, jotka siihen rupesivat, tulivat terveiksi.	
+<div class="theverse"><div class="versenum">36.</div> Ja rukoilivat hanta, etta he ainoastaan hanen vaatteensa palteeseen saisivat ruveta. Ja kaikki, jotka siihen rupesivat, tulivat terveiksi.	</div>
 </body>
 </html>

@@ -4,72 +4,72 @@
 </head>
 <body><div class="chaptertitle">Jobin 41	</div>
 	
-<div class="versenum">1.</div> (H 40:20) Taidatkos vetaa Leviatanin ongella, ja sitoa hanen kielensa nuoralla?	
+<div class="theverse"><div class="versenum">1.</div> (H 40:20) Taidatkos vetaa Leviatanin ongella, ja sitoa hanen kielensa nuoralla?	</div>
 
-<div class="versenum">2.</div> (H 40:21) Taidatkos panna ongen hanen sierameensa, ja hanen leukaluunsa pistaa naskalilla lavitse?	
+<div class="theverse"><div class="versenum">2.</div> (H 40:21) Taidatkos panna ongen hanen sierameensa, ja hanen leukaluunsa pistaa naskalilla lavitse?	</div>
 
-<div class="versenum">3.</div> (H 40:22) Luuletkos, etta han sinua paljon rukoilee, ja liehakoitsee sinun edessas?	
+<div class="theverse"><div class="versenum">3.</div> (H 40:22) Luuletkos, etta han sinua paljon rukoilee, ja liehakoitsee sinun edessas?	</div>
 
-<div class="versenum">4.</div> (H 40:23) Luuletkos, etta han tekee liiton sinun kanssas, saadakses hanta alinomaiseksi orjakses?	
+<div class="theverse"><div class="versenum">4.</div> (H 40:23) Luuletkos, etta han tekee liiton sinun kanssas, saadakses hanta alinomaiseksi orjakses?	</div>
 
-<div class="versenum">5.</div> (H 40:24) Taidatkos leikita hanen kanssansa niinkuin linnun kanssa, eli sitoa hanen sinun piikais sekaan?	
+<div class="theverse"><div class="versenum">5.</div> (H 40:24) Taidatkos leikita hanen kanssansa niinkuin linnun kanssa, eli sitoa hanen sinun piikais sekaan?	</div>
 
-<div class="versenum">6.</div> (H 40:25) Luuletkos hanen kumppaneilta leikattaman, jaettaa kauppamiehille.	
+<div class="theverse"><div class="versenum">6.</div> (H 40:25) Luuletkos hanen kumppaneilta leikattaman, jaettaa kauppamiehille.	</div>
 
-<div class="versenum">7.</div> (H 40:26) Taidatkos tayttaa koko verkkohuoneen hanen nahallansa, eli kalamiesten kokkoin hanen paallansa.	
+<div class="theverse"><div class="versenum">7.</div> (H 40:26) Taidatkos tayttaa koko verkkohuoneen hanen nahallansa, eli kalamiesten kokkoin hanen paallansa.	</div>
 
-<div class="versenum">8.</div> (H 40:27) Koska sina haneen rupeet kadellas, niin muista, ettas tulet sotaan, josta et sina mitaan voita.	
+<div class="theverse"><div class="versenum">8.</div> (H 40:27) Koska sina haneen rupeet kadellas, niin muista, ettas tulet sotaan, josta et sina mitaan voita.	</div>
 
-<div class="versenum">9.</div> (H 40:28) Katso, hanen toivonsa pettaa hanen; silla koska han hanen nakee, mukeltaneeko han pois?	
+<div class="theverse"><div class="versenum">9.</div> (H 40:28) Katso, hanen toivonsa pettaa hanen; silla koska han hanen nakee, mukeltaneeko han pois?	</div>
 
-<div class="versenum">10.</div> (H 41:1) Ei ole niin rohkiaa, kuin tohtii hanen herattaa: kuka siis seisoo minun edessani?	
+<div class="theverse"><div class="versenum">10.</div> (H 41:1) Ei ole niin rohkiaa, kuin tohtii hanen herattaa: kuka siis seisoo minun edessani?	</div>
 
-<div class="versenum">11.</div> (H 41:2) Kuka on minulle jotakin ennen antanut, etta mina sen hanelle maksaisin? Minun ovat kaikki, mita kaikkein taivasten alla on.	
+<div class="theverse"><div class="versenum">11.</div> (H 41:2) Kuka on minulle jotakin ennen antanut, etta mina sen hanelle maksaisin? Minun ovat kaikki, mita kaikkein taivasten alla on.	</div>
 
-<div class="versenum">12.</div> (H 41:3) Minun taytyy puhua kuinka suuri, kuinka vakeva ja kuinka kaunis han on.	
+<div class="theverse"><div class="versenum">12.</div> (H 41:3) Minun taytyy puhua kuinka suuri, kuinka vakeva ja kuinka kaunis han on.	</div>
 
-<div class="versenum">13.</div> (H 41:4) Kuka riisuu hanen vaatteensa? Kuka tohtii ruveta hanen hampaisiinsa?	
+<div class="theverse"><div class="versenum">13.</div> (H 41:4) Kuka riisuu hanen vaatteensa? Kuka tohtii ruveta hanen hampaisiinsa?	</div>
 
-<div class="versenum">14.</div> (H 41:5) Kuka voi avata hanen leukaluunsa, jotka ovat hirmuiset hanen hammastensa ympari?	
+<div class="theverse"><div class="versenum">14.</div> (H 41:5) Kuka voi avata hanen leukaluunsa, jotka ovat hirmuiset hanen hammastensa ympari?	</div>
 
-<div class="versenum">15.</div> (H 41:6) Hanen suomuksensa ovat pulskiat, kiinnitetyt toinen toiseensa, niinkuin sinetti.	
+<div class="theverse"><div class="versenum">15.</div> (H 41:6) Hanen suomuksensa ovat pulskiat, kiinnitetyt toinen toiseensa, niinkuin sinetti.	</div>
 
-<div class="versenum">16.</div> (H 41:7) Yksi on kiinni toisessa, niin ettei tuuli paase lavitse.	
+<div class="theverse"><div class="versenum">16.</div> (H 41:7) Yksi on kiinni toisessa, niin ettei tuuli paase lavitse.	</div>
 
-<div class="versenum">17.</div> (H 41:8) Ne ovat kiinni toinen toisessansa ja pysyvat yhdessa, ettei heita taideta eroittaa.	
+<div class="theverse"><div class="versenum">17.</div> (H 41:8) Ne ovat kiinni toinen toisessansa ja pysyvat yhdessa, ettei heita taideta eroittaa.	</div>
 
-<div class="versenum">18.</div> (H 41:9) Hanen aivastamisestansa kiiltaa valkeus, ja hanen silmansa ovat niinkuin aamuruskon silmalaudat.	
+<div class="theverse"><div class="versenum">18.</div> (H 41:9) Hanen aivastamisestansa kiiltaa valkeus, ja hanen silmansa ovat niinkuin aamuruskon silmalaudat.	</div>
 
-<div class="versenum">19.</div> (H 41:10) Hanen sunstansa kayvat tulisoitot ulos, ja tuliset kipinat sinkoilevat.	
+<div class="theverse"><div class="versenum">19.</div> (H 41:10) Hanen sunstansa kayvat tulisoitot ulos, ja tuliset kipinat sinkoilevat.	</div>
 
-<div class="versenum">20.</div> (H 41:11) Hanen sieraimistansa kay ulos savu, niinkuin kiehuvasta padasta ja kattilasta.	
+<div class="theverse"><div class="versenum">20.</div> (H 41:11) Hanen sieraimistansa kay ulos savu, niinkuin kiehuvasta padasta ja kattilasta.	</div>
 
-<div class="versenum">21.</div> (H 41:12) Hanen henkensa on niinkuin tulinen hiili, ja hanen suustansa kay liekki ulos.	
+<div class="theverse"><div class="versenum">21.</div> (H 41:12) Hanen henkensa on niinkuin tulinen hiili, ja hanen suustansa kay liekki ulos.	</div>
 
-<div class="versenum">22.</div> (H 41:13) Hanen kaulansa on vahva; ja se on hanen ilonsa, kuin han tekee jotakin vahinkoa.	
+<div class="theverse"><div class="versenum">22.</div> (H 41:13) Hanen kaulansa on vahva; ja se on hanen ilonsa, kuin han tekee jotakin vahinkoa.	</div>
 
-<div class="versenum">23.</div> (H 41:14) Hanen lihansa jasenet ovat kiinni toinen toisessansa, ne ovat hanessa kiinni, ettei han liikuteta.	
+<div class="theverse"><div class="versenum">23.</div> (H 41:14) Hanen lihansa jasenet ovat kiinni toinen toisessansa, ne ovat hanessa kiinni, ettei han liikuteta.	</div>
 
-<div class="versenum">24.</div> (H 41:15) Hanen sydamensa on kova niinkuin kivi, ja niin vahva kuin alimmainen myllyn kivi.	
+<div class="theverse"><div class="versenum">24.</div> (H 41:15) Hanen sydamensa on kova niinkuin kivi, ja niin vahva kuin alimmainen myllyn kivi.	</div>
 
-<div class="versenum">25.</div> (H 41:16) Kuin han korottaa itsensa, niin vakevat peljastyvat; kuin han joutuu edes, niin ei siella armoa ole.	
+<div class="theverse"><div class="versenum">25.</div> (H 41:16) Kuin han korottaa itsensa, niin vakevat peljastyvat; kuin han joutuu edes, niin ei siella armoa ole.	</div>
 
-<div class="versenum">26.</div> (H 41:17) Jos hanen tykonsa mennaan miekalla eli keihaalla, aseilla eli haarniskoilla, niin ei han itsiansa liikuta.	
+<div class="theverse"><div class="versenum">26.</div> (H 41:17) Jos hanen tykonsa mennaan miekalla eli keihaalla, aseilla eli haarniskoilla, niin ei han itsiansa liikuta.	</div>
 
-<div class="versenum">27.</div> (H 41:18) Ei han rautaa tottele enempi kuin kortta, eika vaskea enempi kuin lahopuuta.	
+<div class="theverse"><div class="versenum">27.</div> (H 41:18) Ei han rautaa tottele enempi kuin kortta, eika vaskea enempi kuin lahopuuta.	</div>
 
-<div class="versenum">28.</div> (H 41:19) Ei hanta nuolet karkota, ja linkokivet ovat hanelle niinkuin akanat.	
+<div class="theverse"><div class="versenum">28.</div> (H 41:19) Ei hanta nuolet karkota, ja linkokivet ovat hanelle niinkuin akanat.	</div>
 
-<div class="versenum">29.</div> (H 41:20) Vasara on hanen edssansa niinkuin korsi; han pilkkaa liehuvia keihaita.	
+<div class="theverse"><div class="versenum">29.</div> (H 41:20) Vasara on hanen edssansa niinkuin korsi; han pilkkaa liehuvia keihaita.	</div>
 
-<div class="versenum">30.</div> (H 41:21) Ja han taitaa maata teravalla kivella, han makaa teravalla niinkuin sontatunkiolla.	
+<div class="theverse"><div class="versenum">30.</div> (H 41:21) Ja han taitaa maata teravalla kivella, han makaa teravalla niinkuin sontatunkiolla.	</div>
 
-<div class="versenum">31.</div> (H 41:22) Han saattaa syvan meren kiehumaan niinkuin padan, ja liikuttaa yhteen niinkuin voiteen.	
+<div class="theverse"><div class="versenum">31.</div> (H 41:22) Han saattaa syvan meren kiehumaan niinkuin padan, ja liikuttaa yhteen niinkuin voiteen.	</div>
 
-<div class="versenum">32.</div> (H 41:23) Hanen jalkeensa polku valkenee; han tekee syvyydet sangen harmaaksi.	
+<div class="theverse"><div class="versenum">32.</div> (H 41:23) Hanen jalkeensa polku valkenee; han tekee syvyydet sangen harmaaksi.	</div>
 
-<div class="versenum">33.</div> (H 41:24) Ei ole maalla hanen vertaistansa; han on tehty pelkaamattomaksi.	
+<div class="theverse"><div class="versenum">33.</div> (H 41:24) Ei ole maalla hanen vertaistansa; han on tehty pelkaamattomaksi.	</div>
 
-<div class="versenum">34.</div> (H 41:25) Han katsoo kaikki korkiat ylon; han on kaikkein ylpeiden kuningas.	
+<div class="theverse"><div class="versenum">34.</div> (H 41:25) Han katsoo kaikki korkiat ylon; han on kaikkein ylpeiden kuningas.	</div>
 </body>
 </html>

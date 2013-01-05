@@ -4,24 +4,24 @@
 </head>
 <body><div class="chaptertitle">2 Mooseksen 11	</div>
 	
-<div class="versenum">1.</div> Ja Herra oli sanonut Mosekselle: viela mina annan tulla yhden rangaistuksen Pharaolle ja Egyptiin, sitte han paastaa teidat taalta, ja koska han teidat kokonansa paastaa, niin han ajain ajaa teidat taalta ulos.	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra oli sanonut Mosekselle: viela mina annan tulla yhden rangaistuksen Pharaolle ja Egyptiin, sitte han paastaa teidat taalta, ja koska han teidat kokonansa paastaa, niin han ajain ajaa teidat taalta ulos.	</div>
 
-<div class="versenum">2.</div> Niin sano siis nyt kansalle: etta joka mies anois lahimmaiseltansa, ja jokainen vaimo lahimmaiseltansa, hopia- ja kulta-astioita.	
+<div class="theverse"><div class="versenum">2.</div> Niin sano siis nyt kansalle: etta joka mies anois lahimmaiseltansa, ja jokainen vaimo lahimmaiseltansa, hopia- ja kulta-astioita.	</div>
 
-<div class="versenum">3.</div> Silla Herra oli antanut armon kansalle Egyptilaisten edessa. Ja Moses oli sangen kuuluisa mies Egyptin maalla, Pharaon palveliain ja kansan edessa.	
+<div class="theverse"><div class="versenum">3.</div> Silla Herra oli antanut armon kansalle Egyptilaisten edessa. Ja Moses oli sangen kuuluisa mies Egyptin maalla, Pharaon palveliain ja kansan edessa.	</div>
 
-<div class="versenum">4.</div> Ja Moses sanoi: nain sanoo Herra: puoliyon aikaan mina vaellan Egyptin maan lavitse,	
+<div class="theverse"><div class="versenum">4.</div> Ja Moses sanoi: nain sanoo Herra: puoliyon aikaan mina vaellan Egyptin maan lavitse,	</div>
 
-<div class="versenum">5.</div> Ja jokainen esikoinen Egyptin maalla pitaa kuoleman, Pharaon esikoisesta, joka hanen istuimellansa piti istuman, piian esikoiseen asti, joka myllyssa on, niin myos kaikkein elainten esikoiset.	
+<div class="theverse"><div class="versenum">5.</div> Ja jokainen esikoinen Egyptin maalla pitaa kuoleman, Pharaon esikoisesta, joka hanen istuimellansa piti istuman, piian esikoiseen asti, joka myllyssa on, niin myos kaikkein elainten esikoiset.	</div>
 
-<div class="versenum">6.</div> Ja suuren parun pitaa oleman koko Egyptin maalla, jonkakaltaista ei ole ollut, eika tuleman pida.	
+<div class="theverse"><div class="versenum">6.</div> Ja suuren parun pitaa oleman koko Egyptin maalla, jonkakaltaista ei ole ollut, eika tuleman pida.	</div>
 
-<div class="versenum">7.</div> Mutta kaikkein Israelin lasten seassa ei koirakaan kieltansa varvayttaman pida ihmisia taikka elaimia vastaan: etta te tietaisitte, kuinka Herra eroittaa Egyptin ja Israelin.	
+<div class="theverse"><div class="versenum">7.</div> Mutta kaikkein Israelin lasten seassa ei koirakaan kieltansa varvayttaman pida ihmisia taikka elaimia vastaan: etta te tietaisitte, kuinka Herra eroittaa Egyptin ja Israelin.	</div>
 
-<div class="versenum">8.</div> Silloin kaikki namat sinun palvelias pitaa tuleman minun tykoni, ja kumartaman minua, sanoen: lahde ulos, sina ja kaikki kansa, jotka sinun allas ovat, ja sitte mina lahden. Ja han laksi Pharaon tykoa sangen vihoissansa.	
+<div class="theverse"><div class="versenum">8.</div> Silloin kaikki namat sinun palvelias pitaa tuleman minun tykoni, ja kumartaman minua, sanoen: lahde ulos, sina ja kaikki kansa, jotka sinun allas ovat, ja sitte mina lahden. Ja han laksi Pharaon tykoa sangen vihoissansa.	</div>
 
-<div class="versenum">9.</div> Mutta Herra oli sanonut Mosekselle: ei Pharao kuule teita, etta paljo minun ihmeitani tapahtuis Egyptin maalla.	
+<div class="theverse"><div class="versenum">9.</div> Mutta Herra oli sanonut Mosekselle: ei Pharao kuule teita, etta paljo minun ihmeitani tapahtuis Egyptin maalla.	</div>
 
-<div class="versenum">10.</div> Ja Moses ja Aaron tekivat kaikki nama ihmeet Pharaon edessa, vaan Herra paadutti hanen sydamensa, ja ei han paastanyt Israelin lapsia maaltansa.	
+<div class="theverse"><div class="versenum">10.</div> Ja Moses ja Aaron tekivat kaikki nama ihmeet Pharaon edessa, vaan Herra paadutti hanen sydamensa, ja ei han paastanyt Israelin lapsia maaltansa.	</div>
 </body>
 </html>

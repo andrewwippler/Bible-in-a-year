@@ -4,34 +4,34 @@
 </head>
 <body><div class="chaptertitle">Aamoksen 9	</div>
 	
-<div class="versenum">1.</div> Mina nain Herran seisovan alttarilla; ja han sanoi: lyo oven paalliseen, niin etta pihtipielet varisevat; silla mina tahdon haavoittaa niita kaikkia, jotka heille paana ovat, ja heidan alamaisensa miekalla tappaa. Ei sen pida paaseman, joka paennut on, eika itsiansa pelastaman, jotka valttanyt on.	
+<div class="theverse"><div class="versenum">1.</div> Mina nain Herran seisovan alttarilla; ja han sanoi: lyo oven paalliseen, niin etta pihtipielet varisevat; silla mina tahdon haavoittaa niita kaikkia, jotka heille paana ovat, ja heidan alamaisensa miekalla tappaa. Ei sen pida paaseman, joka paennut on, eika itsiansa pelastaman, jotka valttanyt on.	</div>
 
-<div class="versenum">2.</div> Ja vaikka he itsiansa hamaan helvettiin kaivaisivat, niin minun kateni on kuitenkin heita sieltakin hakeva; ja jos he astuisivat ylos taivaaseen, niin mina kuitenkin tahdon syosta heidat sielta alas.	
+<div class="theverse"><div class="versenum">2.</div> Ja vaikka he itsiansa hamaan helvettiin kaivaisivat, niin minun kateni on kuitenkin heita sieltakin hakeva; ja jos he astuisivat ylos taivaaseen, niin mina kuitenkin tahdon syosta heidat sielta alas.	</div>
 
-<div class="versenum">3.</div> Ja jos he lymyttaisivat itsensa Karmelin kukkulalle, niin mina tahdon heidat sieltakin etsia ja temmata pois; ja jos he itseansa minun silmaini edesta katkisivat meren syvyyteen, niin mina kasken karmetta, etta se heita siella pistais.	
+<div class="theverse"><div class="versenum">3.</div> Ja jos he lymyttaisivat itsensa Karmelin kukkulalle, niin mina tahdon heidat sieltakin etsia ja temmata pois; ja jos he itseansa minun silmaini edesta katkisivat meren syvyyteen, niin mina kasken karmetta, etta se heita siella pistais.	</div>
 
-<div class="versenum">4.</div> Ja jos he vihollisillensa vangiksi tulevat, niin mina sielta kasken miekkaa, etta se heita tappais: silla mina pidan silmani heidan ylitsensa pahaksi ja en hyvaksi;	
+<div class="theverse"><div class="versenum">4.</div> Ja jos he vihollisillensa vangiksi tulevat, niin mina sielta kasken miekkaa, etta se heita tappais: silla mina pidan silmani heidan ylitsensa pahaksi ja en hyvaksi;	</div>
 
-<div class="versenum">5.</div> Silla kuin Herra, Herra Zebaot maahan rupee, niin se sulaa, etta kaikki asuvaiset murehtiman pitaa; ja etta se pitaa nouseman sen paalle niinkuin virta, ja se upotettaman niinkuin Egyptin virralla.	
+<div class="theverse"><div class="versenum">5.</div> Silla kuin Herra, Herra Zebaot maahan rupee, niin se sulaa, etta kaikki asuvaiset murehtiman pitaa; ja etta se pitaa nouseman sen paalle niinkuin virta, ja se upotettaman niinkuin Egyptin virralla.	</div>
 
-<div class="versenum">6.</div> Han on se, joka salinsa taivaasen rakentaa, ja perustaa majansa maan paalle; han kutsuu meren vedet, ja vuodattaa maan paalle: hanen nimensa on Herra.	
+<div class="theverse"><div class="versenum">6.</div> Han on se, joka salinsa taivaasen rakentaa, ja perustaa majansa maan paalle; han kutsuu meren vedet, ja vuodattaa maan paalle: hanen nimensa on Herra.	</div>
 
-<div class="versenum">7.</div> Etteko te, Israelin lapset, minulle ole niinkuin Etiopialaiset? sanoo Herra. Enko mina vienyt Israelia ulos Egyptin maalta, ja Philistealaiset Kaphtorista, ja Syrialaiset Kiirista?	
+<div class="theverse"><div class="versenum">7.</div> Etteko te, Israelin lapset, minulle ole niinkuin Etiopialaiset? sanoo Herra. Enko mina vienyt Israelia ulos Egyptin maalta, ja Philistealaiset Kaphtorista, ja Syrialaiset Kiirista?	</div>
 
-<div class="versenum">8.</div> Katso, Herran, Herran silmat nakevat syntisen valtakunnan, niin etta mina sen juuri maan paalta perati kadotan; vaikka en mina kuitenkaan Jakobin huonetta ratki kadota, sanoo Herra.	
+<div class="theverse"><div class="versenum">8.</div> Katso, Herran, Herran silmat nakevat syntisen valtakunnan, niin etta mina sen juuri maan paalta perati kadotan; vaikka en mina kuitenkaan Jakobin huonetta ratki kadota, sanoo Herra.	</div>
 
-<div class="versenum">9.</div> Silla katso, mina tahdon kaskea, ja antaa Israelin huoneen kaikkein pakanain seassa seulottaa, niinkuin seulalla seulotaan, ja ei jyvankaan pida lankeeman maan paalle.	
+<div class="theverse"><div class="versenum">9.</div> Silla katso, mina tahdon kaskea, ja antaa Israelin huoneen kaikkein pakanain seassa seulottaa, niinkuin seulalla seulotaan, ja ei jyvankaan pida lankeeman maan paalle.	</div>
 
-<div class="versenum">10.</div> Kaikki syntiset minun kanssani pitaa miekalla kuoletettaman, jotka sanovat: ei onnettomuus ole niin lasna, eika kohtaa meita.	
+<div class="theverse"><div class="versenum">10.</div> Kaikki syntiset minun kanssani pitaa miekalla kuoletettaman, jotka sanovat: ei onnettomuus ole niin lasna, eika kohtaa meita.	</div>
 
-<div class="versenum">11.</div> Silla ajalla tahdon mina taas kaatuneen Davidin majan rakentaa, ja hanen reikansa paikata, ja parantaa jalleen mita sarjetty on, ja tahdon sen rakentaa, niinkuin se entisella ajalla tullut on,	
+<div class="theverse"><div class="versenum">11.</div> Silla ajalla tahdon mina taas kaatuneen Davidin majan rakentaa, ja hanen reikansa paikata, ja parantaa jalleen mita sarjetty on, ja tahdon sen rakentaa, niinkuin se entisella ajalla tullut on,	</div>
 
-<div class="versenum">12.</div> Etta he saavat nautita Edomin jaaneet ja kaikki pakanat, joiden seassa minun nimeni pitaa saarnattaman; sanoo Herra, joka naita tekee.	
+<div class="theverse"><div class="versenum">12.</div> Etta he saavat nautita Edomin jaaneet ja kaikki pakanat, joiden seassa minun nimeni pitaa saarnattaman; sanoo Herra, joka naita tekee.	</div>
 
-<div class="versenum">13.</div> Katso, se aika tulee, sanoo Herra, etta yhta haavaa kynnetaan ja niitetaan, ja yhta haavaa viinamarjat sotkutaan ja kylvetaan, ja vuoret makiaa viinaa tiukkuvat, ja kaikki maet ovat hedelmalliset.	
+<div class="theverse"><div class="versenum">13.</div> Katso, se aika tulee, sanoo Herra, etta yhta haavaa kynnetaan ja niitetaan, ja yhta haavaa viinamarjat sotkutaan ja kylvetaan, ja vuoret makiaa viinaa tiukkuvat, ja kaikki maet ovat hedelmalliset.	</div>
 
-<div class="versenum">14.</div> Silla mina kaannan minun kansani Israelin vankiuden, etta he rakentavat autiot kaupungit, ja niissa asuvat; istuttavat viinapuita, ja niista viinaa juovat, tekevat puutarhoja, ja niista hedelmia syovat.	
+<div class="theverse"><div class="versenum">14.</div> Silla mina kaannan minun kansani Israelin vankiuden, etta he rakentavat autiot kaupungit, ja niissa asuvat; istuttavat viinapuita, ja niista viinaa juovat, tekevat puutarhoja, ja niista hedelmia syovat.	</div>
 
-<div class="versenum">15.</div> Ja mina tahdon heita heidan maassansa istuttaa; niin ettei heita enaan temmata pois maastansa, jonka mina heille antanut olen, sanoo Herra sinun Jumalas.	
+<div class="theverse"><div class="versenum">15.</div> Ja mina tahdon heita heidan maassansa istuttaa; niin ettei heita enaan temmata pois maastansa, jonka mina heille antanut olen, sanoo Herra sinun Jumalas.	</div>
 </body>
 </html>

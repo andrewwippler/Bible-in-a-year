@@ -4,92 +4,92 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 25	</div>
 	
-<div class="versenum">1.</div> Ja Samuel kuoli, ja koko Israel kokoontui murehtimaan hanta ja hautasi hanen omaan huoneeseensa Ramaan. Mutta David nousi ja meni alas Paranin korpeen.	
+<div class="theverse"><div class="versenum">1.</div> Ja Samuel kuoli, ja koko Israel kokoontui murehtimaan hanta ja hautasi hanen omaan huoneeseensa Ramaan. Mutta David nousi ja meni alas Paranin korpeen.	</div>
 
-<div class="versenum">2.</div> Ja yksi mies asui Maonissa, jolla myos oli tekemista Karmelissa, ja se mies oli sangen rikas, ja hanella oli kolmetuhatta lammasta ja tuhannen vuohta; ja han keritsi lampaitansa Karmelissa.	
+<div class="theverse"><div class="versenum">2.</div> Ja yksi mies asui Maonissa, jolla myos oli tekemista Karmelissa, ja se mies oli sangen rikas, ja hanella oli kolmetuhatta lammasta ja tuhannen vuohta; ja han keritsi lampaitansa Karmelissa.	</div>
 
-<div class="versenum">3.</div> Ja miehen nimi oli Nabal, ja hanen emantansa nimi Abigail; ja se oli toimellinen vaimo ja kaunis kasvoilta, mutta mies oli sangen kova ja paha toissansa, ja han oli Kalebin sukua.	
+<div class="theverse"><div class="versenum">3.</div> Ja miehen nimi oli Nabal, ja hanen emantansa nimi Abigail; ja se oli toimellinen vaimo ja kaunis kasvoilta, mutta mies oli sangen kova ja paha toissansa, ja han oli Kalebin sukua.	</div>
 
-<div class="versenum">4.</div> Ja kuin David kuuli korvessa Nabalin keritsevan lampaitansa,	
+<div class="theverse"><div class="versenum">4.</div> Ja kuin David kuuli korvessa Nabalin keritsevan lampaitansa,	</div>
 
-<div class="versenum">5.</div> Lahetti han kymmenen nuorukaista ja sanoi heille: menkaat Karmeliin, ja kuin te tulette Nabalin tyko, niin tervehtikaat hanta minun puolestani ystavallisesti,	
+<div class="theverse"><div class="versenum">5.</div> Lahetti han kymmenen nuorukaista ja sanoi heille: menkaat Karmeliin, ja kuin te tulette Nabalin tyko, niin tervehtikaat hanta minun puolestani ystavallisesti,	</div>
 
-<div class="versenum">6.</div> Ja sanokaat: terve! rauha olkoon sinulle, ja rauha huoneelles, ja kaikille mita sinulle on, olkoon rauha!	
+<div class="theverse"><div class="versenum">6.</div> Ja sanokaat: terve! rauha olkoon sinulle, ja rauha huoneelles, ja kaikille mita sinulle on, olkoon rauha!	</div>
 
-<div class="versenum">7.</div> Mina olen nyt saanut kuulla, etta sinulla on lammasten keritsiat: katso, paimenet jotka sinulla on, olivat meidan tykonamme, ja emme heita havaisseet, ja ei heilta mitaan puuttunut niinkauvan kuin he olivat Karmelissa.	
+<div class="theverse"><div class="versenum">7.</div> Mina olen nyt saanut kuulla, etta sinulla on lammasten keritsiat: katso, paimenet jotka sinulla on, olivat meidan tykonamme, ja emme heita havaisseet, ja ei heilta mitaan puuttunut niinkauvan kuin he olivat Karmelissa.	</div>
 
-<div class="versenum">8.</div> Kysy palvelioiltas, he sanovat sinulle. Niin anna siis nuorukaisten loytaa armo sinun kasvois edessa, silla me olemme tulleet hyvaan aikaan: anna siis palvelioilles ja pojalles Davidille, mita sinun kates loytaa!	
+<div class="theverse"><div class="versenum">8.</div> Kysy palvelioiltas, he sanovat sinulle. Niin anna siis nuorukaisten loytaa armo sinun kasvois edessa, silla me olemme tulleet hyvaan aikaan: anna siis palvelioilles ja pojalles Davidille, mita sinun kates loytaa!	</div>
 
-<div class="versenum">9.</div> Kuin Davidin palveliat sinne tulivat ja puhuivat kaikki namat sanat Nabalille Davidin puolesta, niin he vaikenivat.	
+<div class="theverse"><div class="versenum">9.</div> Kuin Davidin palveliat sinne tulivat ja puhuivat kaikki namat sanat Nabalille Davidin puolesta, niin he vaikenivat.	</div>
 
-<div class="versenum">10.</div> Mutta Nabal vastasi Davidin palvelioita ja sanoi: kuka on David? ja kuka on Isain poika? Nyt on monta palveliaa, jotka jattavat isantansa.	
+<div class="theverse"><div class="versenum">10.</div> Mutta Nabal vastasi Davidin palvelioita ja sanoi: kuka on David? ja kuka on Isain poika? Nyt on monta palveliaa, jotka jattavat isantansa.	</div>
 
-<div class="versenum">11.</div> Pitaako minun ottaman leipani, veteni ja teuraani, jonka mina keritsioilleni olen teurastanut, ja antaman miehille, joita en mina tieda, kusta he tulleet ovat?	
+<div class="theverse"><div class="versenum">11.</div> Pitaako minun ottaman leipani, veteni ja teuraani, jonka mina keritsioilleni olen teurastanut, ja antaman miehille, joita en mina tieda, kusta he tulleet ovat?	</div>
 
-<div class="versenum">12.</div> Niin Davidin palveliat palasivat tiellensa, ja tultuansa taas Davidin tyko sanoivat he hanelle kaikki namat sanat.	
+<div class="theverse"><div class="versenum">12.</div> Niin Davidin palveliat palasivat tiellensa, ja tultuansa taas Davidin tyko sanoivat he hanelle kaikki namat sanat.	</div>
 
-<div class="versenum">13.</div> Niin sanoi David miehillensa: vyottakaan kukin miekkansa vyollensa. Niin vyotti jokainen miekkansa vyollensa, ja David vyotti myos miekkansa vyollensa; ja laksi Davidin kanssa liki neljasataa miesta, mutta kaksisataa jai kaluin tyko.	
+<div class="theverse"><div class="versenum">13.</div> Niin sanoi David miehillensa: vyottakaan kukin miekkansa vyollensa. Niin vyotti jokainen miekkansa vyollensa, ja David vyotti myos miekkansa vyollensa; ja laksi Davidin kanssa liki neljasataa miesta, mutta kaksisataa jai kaluin tyko.	</div>
 
-<div class="versenum">14.</div> Mutta yksi palvelioista ilmoitti Abigailille, Nabalin emannalle, sanoen: katso, David on lahettanyt sanansaattajat korvesta siunaamaan isantaamme, mutta han tiuskui heita.	
+<div class="theverse"><div class="versenum">14.</div> Mutta yksi palvelioista ilmoitti Abigailille, Nabalin emannalle, sanoen: katso, David on lahettanyt sanansaattajat korvesta siunaamaan isantaamme, mutta han tiuskui heita.	</div>
 
-<div class="versenum">15.</div> Ja ne miehet olivat meille aivan hyvat ja ei meita pahoin puhutelleet, ja ei meilta mitaan puuttunut niinkauvan kuin me vaelsimme heidan tykonansa kedolla ollessamme.	
+<div class="theverse"><div class="versenum">15.</div> Ja ne miehet olivat meille aivan hyvat ja ei meita pahoin puhutelleet, ja ei meilta mitaan puuttunut niinkauvan kuin me vaelsimme heidan tykonansa kedolla ollessamme.	</div>
 
-<div class="versenum">16.</div> Mutta he ovat olleet meidan turvamme yota ja paivaa, niinkauvan kuin me kaitsimme lampaitamme heidan tykonansa.	
+<div class="theverse"><div class="versenum">16.</div> Mutta he ovat olleet meidan turvamme yota ja paivaa, niinkauvan kuin me kaitsimme lampaitamme heidan tykonansa.	</div>
 
-<div class="versenum">17.</div> Niin ajattele nyt ja katso mitas teet; silla pahuutta on totisesti tarjona meidan isannallemme ja kaikelle hanen huoneellensa, vaan han on tyly mies, jota ei yksikaan tohdi puhutella.	
+<div class="theverse"><div class="versenum">17.</div> Niin ajattele nyt ja katso mitas teet; silla pahuutta on totisesti tarjona meidan isannallemme ja kaikelle hanen huoneellensa, vaan han on tyly mies, jota ei yksikaan tohdi puhutella.	</div>
 
-<div class="versenum">18.</div> Niin Abigail kiiruhti ja otti kaksisataa leipaa, ja kaksi leilia viinaa, ja viisi keitettya lammasta, ja viisi vakkaista tuletettuja jauhoja, ja sata rusinarypaletta, ja kaksisataa rypaletta fikunia, ja pani aasein paalle,	
+<div class="theverse"><div class="versenum">18.</div> Niin Abigail kiiruhti ja otti kaksisataa leipaa, ja kaksi leilia viinaa, ja viisi keitettya lammasta, ja viisi vakkaista tuletettuja jauhoja, ja sata rusinarypaletta, ja kaksisataa rypaletta fikunia, ja pani aasein paalle,	</div>
 
-<div class="versenum">19.</div> Ja sanoi palvelioillensa: menkaat minun edellani, katso, mina tulen perassanne. Ja ei han miehellensa Nabalille sita ilmoittanut.	
+<div class="theverse"><div class="versenum">19.</div> Ja sanoi palvelioillensa: menkaat minun edellani, katso, mina tulen perassanne. Ja ei han miehellensa Nabalille sita ilmoittanut.	</div>
 
-<div class="versenum">20.</div> Ja kuin han ajoi aasilla ja tuli vuoren varjoon, katso, David ja hanen vakensa tulivat vuorilta alas hanta vastaan; ja han kohtasi heita.	
+<div class="theverse"><div class="versenum">20.</div> Ja kuin han ajoi aasilla ja tuli vuoren varjoon, katso, David ja hanen vakensa tulivat vuorilta alas hanta vastaan; ja han kohtasi heita.	</div>
 
-<div class="versenum">21.</div> Mutta David oli sanonut: mina olen turhaan tallella pitanyt kaikki, mita hanella oli korvessa, ja ei ole mitaan puuttunut kaikista mita hanella oli; ja han kostaa minun hyvat tyoni pahalla.	
+<div class="theverse"><div class="versenum">21.</div> Mutta David oli sanonut: mina olen turhaan tallella pitanyt kaikki, mita hanella oli korvessa, ja ei ole mitaan puuttunut kaikista mita hanella oli; ja han kostaa minun hyvat tyoni pahalla.	</div>
 
-<div class="versenum">22.</div> Jumala tehkoon naita Davidin vihamiehille ja viela suurempia, jos mina jatan hanelle huomeneksi kaikista, mita hanella on, jonkun, joka vetensa seinaan heittaa.	
+<div class="theverse"><div class="versenum">22.</div> Jumala tehkoon naita Davidin vihamiehille ja viela suurempia, jos mina jatan hanelle huomeneksi kaikista, mita hanella on, jonkun, joka vetensa seinaan heittaa.	</div>
 
-<div class="versenum">23.</div> Mutta kuin Abigail naki Davidin, kiiruhti han ja astui nopiasti alas aasin paalta, lankesi kasvoillensa Davidin eteen ja kumarsi itsensa maahan,	
+<div class="theverse"><div class="versenum">23.</div> Mutta kuin Abigail naki Davidin, kiiruhti han ja astui nopiasti alas aasin paalta, lankesi kasvoillensa Davidin eteen ja kumarsi itsensa maahan,	</div>
 
-<div class="versenum">24.</div> Ja lankesi hanen jalkainsa juureen ja sanoi: Ah herrani, minun olkoon tama paha teko! ja anna piikas puhua korvais kuullen, ja kuule piikas sanaa:	
+<div class="theverse"><div class="versenum">24.</div> Ja lankesi hanen jalkainsa juureen ja sanoi: Ah herrani, minun olkoon tama paha teko! ja anna piikas puhua korvais kuullen, ja kuule piikas sanaa:	</div>
 
-<div class="versenum">25.</div> Alkaan minun herrani asettako sydantansa tata tylya miesta Nabalia vastaan; silla niinkuin hanen nimensa kuuluu, niin on han: Nabal on hanen nimensa, tyhmyys on hanen kanssansa; mutta mina sinun piikas en ole nahnyt herrani palvelioita, jotka sina olit lahettanyt.	
+<div class="theverse"><div class="versenum">25.</div> Alkaan minun herrani asettako sydantansa tata tylya miesta Nabalia vastaan; silla niinkuin hanen nimensa kuuluu, niin on han: Nabal on hanen nimensa, tyhmyys on hanen kanssansa; mutta mina sinun piikas en ole nahnyt herrani palvelioita, jotka sina olit lahettanyt.	</div>
 
-<div class="versenum">26.</div> Mutta nyt, herrani, niin totta kuin Herra elaa ja niin totta kuin sinun sielus elaa, niin Herra on sinun estanyt, ettet verta vuodattanut eika sinun kates vapahtanut sinua. Mutta nyt olkoon sinun vihamiehes niin kuin Nabal ja kaikki jotka herralleni pahaa suovat.	
+<div class="theverse"><div class="versenum">26.</div> Mutta nyt, herrani, niin totta kuin Herra elaa ja niin totta kuin sinun sielus elaa, niin Herra on sinun estanyt, ettet verta vuodattanut eika sinun kates vapahtanut sinua. Mutta nyt olkoon sinun vihamiehes niin kuin Nabal ja kaikki jotka herralleni pahaa suovat.	</div>
 
-<div class="versenum">27.</div> Tama on se siunaus, jonka sinun piikas minun herralleni tuonut on, annettaa palvelioille, jotka herrani kanssa vaeltavat.	
+<div class="theverse"><div class="versenum">27.</div> Tama on se siunaus, jonka sinun piikas minun herralleni tuonut on, annettaa palvelioille, jotka herrani kanssa vaeltavat.	</div>
 
-<div class="versenum">28.</div> Anna piialles tama rikos anteeksi. Silla Herra tosin tekee minun herralleni vahvan huoneen; silla koska minun herrani sotii Herran sotia, niin ei yhtakaan pahuutta ole loydetty sinun tykoas kaikkena sinun elinaikanas.	
+<div class="theverse"><div class="versenum">28.</div> Anna piialles tama rikos anteeksi. Silla Herra tosin tekee minun herralleni vahvan huoneen; silla koska minun herrani sotii Herran sotia, niin ei yhtakaan pahuutta ole loydetty sinun tykoas kaikkena sinun elinaikanas.	</div>
 
-<div class="versenum">29.</div> Jos joku ihminen asettaa itsensa vainoomaan sinua ja vaijyy sinun sielus jalkeen, niin olkaan herrani sielu sidottu elavain kimppuun Herran sinun Jumalas tykona; mutta sinun vihollistes sielu pitaa lingottaman lingolla.	
+<div class="theverse"><div class="versenum">29.</div> Jos joku ihminen asettaa itsensa vainoomaan sinua ja vaijyy sinun sielus jalkeen, niin olkaan herrani sielu sidottu elavain kimppuun Herran sinun Jumalas tykona; mutta sinun vihollistes sielu pitaa lingottaman lingolla.	</div>
 
-<div class="versenum">30.</div> Ja kuin Herra minun herralleni kaikki namat hyvat tekeva on, niinkuin han sinulle sanonut on, ja kaskee sinun olla Israelin ruhtinaan;	
+<div class="theverse"><div class="versenum">30.</div> Ja kuin Herra minun herralleni kaikki namat hyvat tekeva on, niinkuin han sinulle sanonut on, ja kaskee sinun olla Israelin ruhtinaan;	</div>
 
-<div class="versenum">31.</div> Niin ei pida se oleman sinulle minun herralleni lankeemiseksi ja mielen pahennukseksi, ettet vuodattanut verta ilman syyta ja auttanut itse sinuas; ja Herra on hyvaa tekeva minun herralleni, ja sina muistat piikaas.	
+<div class="theverse"><div class="versenum">31.</div> Niin ei pida se oleman sinulle minun herralleni lankeemiseksi ja mielen pahennukseksi, ettet vuodattanut verta ilman syyta ja auttanut itse sinuas; ja Herra on hyvaa tekeva minun herralleni, ja sina muistat piikaas.	</div>
 
-<div class="versenum">32.</div> Silloin sanoi David Abigailille: kiitetty olkoon Herra Israelin Jumala, joka sinun tanapana on lahettanyt minua vastaan.	
+<div class="theverse"><div class="versenum">32.</div> Silloin sanoi David Abigailille: kiitetty olkoon Herra Israelin Jumala, joka sinun tanapana on lahettanyt minua vastaan.	</div>
 
-<div class="versenum">33.</div> Ja siunattu olkoon sinun toimellinen puhees, ja siunattu olet sina, joka minun tanapana estit verta vuodattamasta ja kostamasta omalla kadellani.	
+<div class="theverse"><div class="versenum">33.</div> Ja siunattu olkoon sinun toimellinen puhees, ja siunattu olet sina, joka minun tanapana estit verta vuodattamasta ja kostamasta omalla kadellani.	</div>
 
-<div class="versenum">34.</div> Totisesti, niin totta kuin Herra Israelin Jumala elaa, se joka minun on tanapana estanyt sinulle pahaa tekemasta, jollet nopiasti olisi tullut minua vastaan, niin ei olisi Nabalille jaanyt huomeneksi yhtakaan seinaan vetensa heittavaa.	
+<div class="theverse"><div class="versenum">34.</div> Totisesti, niin totta kuin Herra Israelin Jumala elaa, se joka minun on tanapana estanyt sinulle pahaa tekemasta, jollet nopiasti olisi tullut minua vastaan, niin ei olisi Nabalille jaanyt huomeneksi yhtakaan seinaan vetensa heittavaa.	</div>
 
-<div class="versenum">35.</div> Niin otti David hanen kadestansa, mita han oli hanelle tuonut, ja sanoi hanelle: mene rauhassa sinun huoneeses, ja katso, mina kuulin sinun aanes ja otin sinun hyvaksi.	
+<div class="theverse"><div class="versenum">35.</div> Niin otti David hanen kadestansa, mita han oli hanelle tuonut, ja sanoi hanelle: mene rauhassa sinun huoneeses, ja katso, mina kuulin sinun aanes ja otin sinun hyvaksi.	</div>
 
-<div class="versenum">36.</div> Kuin Abigail tuli Nabalin tyko, katso, niin hanella oli huoneessansa pito, niinkuin kuninkaallinen pito, ja Nabalin sydan oli iloinen, silla han oli juuri kovin juovuksissa; mutta ei han sanonut hanelle vahaa eli paljoa huomeneen asti.	
+<div class="theverse"><div class="versenum">36.</div> Kuin Abigail tuli Nabalin tyko, katso, niin hanella oli huoneessansa pito, niinkuin kuninkaallinen pito, ja Nabalin sydan oli iloinen, silla han oli juuri kovin juovuksissa; mutta ei han sanonut hanelle vahaa eli paljoa huomeneen asti.	</div>
 
-<div class="versenum">37.</div> Mutta huomeneltain, kuin Nabal oli viinasta kaljennut, sanoi hanen emantansa hanelle kaikki namat; niin hanen sydamensa kuoli hanessa, etta han tuli niinkuin kivi.	
+<div class="theverse"><div class="versenum">37.</div> Mutta huomeneltain, kuin Nabal oli viinasta kaljennut, sanoi hanen emantansa hanelle kaikki namat; niin hanen sydamensa kuoli hanessa, etta han tuli niinkuin kivi.	</div>
 
-<div class="versenum">38.</div> Ja kymmenen paivan perasta loi Herra Nabalin, etta han kuoli.	
+<div class="theverse"><div class="versenum">38.</div> Ja kymmenen paivan perasta loi Herra Nabalin, etta han kuoli.	</div>
 
-<div class="versenum">39.</div> Kuin David kuuli Nabalin kuolleeksi, sanoi han: kiitetty olkoon Herra, joka on kostanut havaistykseni Nabalille ja on varjellut palveliansa pahasta, ja Herra on kaantanyt Nabalin pahuuden hanen paansa paalle. Ja David lahetti ja antoi puhutella Abigailia, ottaaksensa hanta emannaksensa.	
+<div class="theverse"><div class="versenum">39.</div> Kuin David kuuli Nabalin kuolleeksi, sanoi han: kiitetty olkoon Herra, joka on kostanut havaistykseni Nabalille ja on varjellut palveliansa pahasta, ja Herra on kaantanyt Nabalin pahuuden hanen paansa paalle. Ja David lahetti ja antoi puhutella Abigailia, ottaaksensa hanta emannaksensa.	</div>
 
-<div class="versenum">40.</div> Ja kuin Davidin palveliat tulivat Abigailin tyko Karmeliin, puhuttelivat he hanta ja sanoivat: David lahetti meita sinun tykos, etta han ottais sinun emannaksensa.	
+<div class="theverse"><div class="versenum">40.</div> Ja kuin Davidin palveliat tulivat Abigailin tyko Karmeliin, puhuttelivat he hanta ja sanoivat: David lahetti meita sinun tykos, etta han ottais sinun emannaksensa.	</div>
 
-<div class="versenum">41.</div> Han nousi ja lankesi maahan kasvoillensa, sanoen: katso, tassa on sinun piikas palvelemaan ja pesemaan herrani palveliain jalkoja.	
+<div class="theverse"><div class="versenum">41.</div> Han nousi ja lankesi maahan kasvoillensa, sanoen: katso, tassa on sinun piikas palvelemaan ja pesemaan herrani palveliain jalkoja.	</div>
 
-<div class="versenum">42.</div> Ja Abigail kiiruhti itsensa, ja valmisti hanensa, ja ajoi aasilla, ja otti viisi piikaansa kanssansa, jotka kavivat hanen jalissansa; ja han seurasi Davidin sanansaattajia ja tuli hanen emannaksensa.	
+<div class="theverse"><div class="versenum">42.</div> Ja Abigail kiiruhti itsensa, ja valmisti hanensa, ja ajoi aasilla, ja otti viisi piikaansa kanssansa, jotka kavivat hanen jalissansa; ja han seurasi Davidin sanansaattajia ja tuli hanen emannaksensa.	</div>
 
-<div class="versenum">43.</div> David otti myos Ahinoamin Jisreelista; ja olivat ne molemmat hanen emantansa.	
+<div class="theverse"><div class="versenum">43.</div> David otti myos Ahinoamin Jisreelista; ja olivat ne molemmat hanen emantansa.	</div>
 
-<div class="versenum">44.</div> Mutta Saul antoi tyttarensa Mikalin, Davidin emannan, Phaltille Laiksen pojalle Gallimista.	
+<div class="theverse"><div class="versenum">44.</div> Mutta Saul antoi tyttarensa Mikalin, Davidin emannan, Phaltille Laiksen pojalle Gallimista.	</div>
 </body>
 </html>

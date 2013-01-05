@@ -4,38 +4,38 @@
 </head>
 <body><div class="chaptertitle">2 Aikakirja 1	</div>
 	
-<div class="versenum">1.</div> Ja Salomo Davidin poika vahvisti itsensa valtakuntaansa; ja Herra hanen Jumalansa oli hanen kanssansa ja teki hanen aina suuremmaksi.	
+<div class="theverse"><div class="versenum">1.</div> Ja Salomo Davidin poika vahvisti itsensa valtakuntaansa; ja Herra hanen Jumalansa oli hanen kanssansa ja teki hanen aina suuremmaksi.	</div>
 
-<div class="versenum">2.</div> Ja Salomo puhui koko Israelin kanssa tuhanten ja satain paamiesten kanssa, tuomarein ja kaikkien esimiesten kanssa Israelissa, ja ylimmaisten isain kanssa.	
+<div class="theverse"><div class="versenum">2.</div> Ja Salomo puhui koko Israelin kanssa tuhanten ja satain paamiesten kanssa, tuomarein ja kaikkien esimiesten kanssa Israelissa, ja ylimmaisten isain kanssa.	</div>
 
-<div class="versenum">3.</div> Ja he menivat, seka Salomo etta koko joukko korkeudelle, joka oli Gibeonissa; silla siella oli Jumalan seurakunnan maja, jonka Moses Herran palvelia teki korvessa.	
+<div class="theverse"><div class="versenum">3.</div> Ja he menivat, seka Salomo etta koko joukko korkeudelle, joka oli Gibeonissa; silla siella oli Jumalan seurakunnan maja, jonka Moses Herran palvelia teki korvessa.	</div>
 
-<div class="versenum">4.</div> Mutta Jumalan arkin oli David vienyt Kirjatjearimista sinne, johon David oli sille sian valmistanut; silla han oli rakentanut sille majan Jerusalemissa.	
+<div class="theverse"><div class="versenum">4.</div> Mutta Jumalan arkin oli David vienyt Kirjatjearimista sinne, johon David oli sille sian valmistanut; silla han oli rakentanut sille majan Jerusalemissa.	</div>
 
-<div class="versenum">5.</div> Ja vaskialttari, jonka Betsaleel Urin poika Hurin pojan poika rakentanut oli, oli siella Herran asuinsian edessa. Ja Salomo ja koko joukko etsivat sita.	
+<div class="theverse"><div class="versenum">5.</div> Ja vaskialttari, jonka Betsaleel Urin poika Hurin pojan poika rakentanut oli, oli siella Herran asuinsian edessa. Ja Salomo ja koko joukko etsivat sita.	</div>
 
-<div class="versenum">6.</div> Ja Salomo nousi sinne ylos vaskialttarin tyko Herran eteen, joka siella seurakunnan majassa oli, ja uhrasi sen paalla tuhannen polttouhria.	
+<div class="theverse"><div class="versenum">6.</div> Ja Salomo nousi sinne ylos vaskialttarin tyko Herran eteen, joka siella seurakunnan majassa oli, ja uhrasi sen paalla tuhannen polttouhria.	</div>
 
-<div class="versenum">7.</div> Sina yona ilmestyi Jumala Salomolle ja sanoi hanelle: ano, mita mina sinulle antaisin.	
+<div class="theverse"><div class="versenum">7.</div> Sina yona ilmestyi Jumala Salomolle ja sanoi hanelle: ano, mita mina sinulle antaisin.	</div>
 
-<div class="versenum">8.</div> Ja Salomo sanoi Jumalalle: sina olet tehnyt suuren armon isalleni Davidille, ja olet tehnyt minun hanen siaansa kuninkaaksi:	
+<div class="theverse"><div class="versenum">8.</div> Ja Salomo sanoi Jumalalle: sina olet tehnyt suuren armon isalleni Davidille, ja olet tehnyt minun hanen siaansa kuninkaaksi:	</div>
 
-<div class="versenum">9.</div> Olkoon nyt, Herra Jumala, sanas totinen minun isalleni Davidille; silla sina olet tehnyt minun niin paljon kansan kuninkaaksi, kuin tomua on maan paalla;	
+<div class="theverse"><div class="versenum">9.</div> Olkoon nyt, Herra Jumala, sanas totinen minun isalleni Davidille; silla sina olet tehnyt minun niin paljon kansan kuninkaaksi, kuin tomua on maan paalla;	</div>
 
-<div class="versenum">10.</div> Niin anna minulle nyt taito ja ymmarrys, kaydakseni taman kansan edessa ulos ja sisalle; silla kuka voi tuomita tata suurta kansaas?	
+<div class="theverse"><div class="versenum">10.</div> Niin anna minulle nyt taito ja ymmarrys, kaydakseni taman kansan edessa ulos ja sisalle; silla kuka voi tuomita tata suurta kansaas?	</div>
 
-<div class="versenum">11.</div> Niin sanoi Jumala Salomolle: etta se on sinun mielessas, ja et anonut rikkautta, tavaraa eli kunniaa, eli vihamiestes sieluja, etka anonut pitkaa ikaa, vaan anoit taitoa ja ymmarrysta, tuomitakses minun kansaani, joiden kuninkaaksi mina olen sinun pannut;	
+<div class="theverse"><div class="versenum">11.</div> Niin sanoi Jumala Salomolle: etta se on sinun mielessas, ja et anonut rikkautta, tavaraa eli kunniaa, eli vihamiestes sieluja, etka anonut pitkaa ikaa, vaan anoit taitoa ja ymmarrysta, tuomitakses minun kansaani, joiden kuninkaaksi mina olen sinun pannut;	</div>
 
-<div class="versenum">12.</div> Niin olkoon sinulle taito ja ymmarrys annettu: viela sitte annan mina sinulle rikkautta, ja tavaraa ja kunniaa, niin ettei sinun vertaistas kuningasten seassa ennen sinua ole ollut, eika myos sinun jalkees tule.	
+<div class="theverse"><div class="versenum">12.</div> Niin olkoon sinulle taito ja ymmarrys annettu: viela sitte annan mina sinulle rikkautta, ja tavaraa ja kunniaa, niin ettei sinun vertaistas kuningasten seassa ennen sinua ole ollut, eika myos sinun jalkees tule.	</div>
 
-<div class="versenum">13.</div> Ja Salomo tuli korkeudelta, joka oli Gibeonissa, Jerusalemiin, seurakunnan majasta, ja hallitsi Israelia.	
+<div class="theverse"><div class="versenum">13.</div> Ja Salomo tuli korkeudelta, joka oli Gibeonissa, Jerusalemiin, seurakunnan majasta, ja hallitsi Israelia.	</div>
 
-<div class="versenum">14.</div> Ja Salomo kokosi itsellensa rattaita ja hevosmiehia, niin etta hanella oli neljasataa toistatuhatta ratasta ja kaksitoistakymmenta tuhatta hevosmiesta, ja antoi heidan olla rataskaupungeissa ja kuninkaan tykona Jerusalemissa.	
+<div class="theverse"><div class="versenum">14.</div> Ja Salomo kokosi itsellensa rattaita ja hevosmiehia, niin etta hanella oli neljasataa toistatuhatta ratasta ja kaksitoistakymmenta tuhatta hevosmiesta, ja antoi heidan olla rataskaupungeissa ja kuninkaan tykona Jerusalemissa.	</div>
 
-<div class="versenum">15.</div> Ja kuningas toimitti niin etta hopiaa ja kultaa oli Jerusalemissa niin paljo kuin kiviakin, ja sedripuita kuin metsafikunapuitakin laaksoissa.	
+<div class="theverse"><div class="versenum">15.</div> Ja kuningas toimitti niin etta hopiaa ja kultaa oli Jerusalemissa niin paljo kuin kiviakin, ja sedripuita kuin metsafikunapuitakin laaksoissa.	</div>
 
-<div class="versenum">16.</div> Ja Salomolle vietiin hevosia Egyptista ja kudotuskaluja. Ja kuninkaan kauppamiehet ostivat ne kudotuskalut.	
+<div class="theverse"><div class="versenum">16.</div> Ja Salomolle vietiin hevosia Egyptista ja kudotuskaluja. Ja kuninkaan kauppamiehet ostivat ne kudotuskalut.	</div>
 
-<div class="versenum">17.</div> Ja he menivat ylos ja veivat ne Egyptista, ja jokainen ratas maksoi kuusisataa hopiapenninkia, ja hevonen sata ja viisikymmenta. Ja niin vietiin niita myos kaikkein Hetilaisten ja Syrian kuninkaiden tyko heidan kattensa kautta.	
+<div class="theverse"><div class="versenum">17.</div> Ja he menivat ylos ja veivat ne Egyptista, ja jokainen ratas maksoi kuusisataa hopiapenninkia, ja hevonen sata ja viisikymmenta. Ja niin vietiin niita myos kaikkein Hetilaisten ja Syrian kuninkaiden tyko heidan kattensa kautta.	</div>
 </body>
 </html>

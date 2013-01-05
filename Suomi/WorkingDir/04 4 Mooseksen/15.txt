@@ -4,86 +4,86 @@
 </head>
 <body><div class="chaptertitle">4 Mooseksen 15	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: koska te tulette siihen maahan, jossa teidan asuman pitaa, jonka mina teille annan,	
+<div class="theverse"><div class="versenum">2.</div> Puhu Israelin lapsille ja sano heille: koska te tulette siihen maahan, jossa teidan asuman pitaa, jonka mina teille annan,	</div>
 
-<div class="versenum">3.</div> Ja te uhraatte Herralle tuliuhria, polttouhria, elikka erinomaisen lupauksen uhria, eli oman hyvan tahdon, eli teidan juhlanne uhria, tehdaksenne Herralle makiaa hajua karjasta eli lampaista:	
+<div class="theverse"><div class="versenum">3.</div> Ja te uhraatte Herralle tuliuhria, polttouhria, elikka erinomaisen lupauksen uhria, eli oman hyvan tahdon, eli teidan juhlanne uhria, tehdaksenne Herralle makiaa hajua karjasta eli lampaista:	</div>
 
-<div class="versenum">4.</div> Joka siis Herralle tahtoo mieluisesti uhrata lahjansa, hanen pitaa tekeman ruokauhriksi kymmeneksen sampylajauhoja, sekoitettuja neljanneksella hinnia oljya.	
+<div class="theverse"><div class="versenum">4.</div> Joka siis Herralle tahtoo mieluisesti uhrata lahjansa, hanen pitaa tekeman ruokauhriksi kymmeneksen sampylajauhoja, sekoitettuja neljanneksella hinnia oljya.	</div>
 
-<div class="versenum">5.</div> Ja viinaa juomauhriksi myos neljanneksen hinnia: sen pitaa sinun tekeman polttouhriksi eli muuksi uhriksi, koska karitsa uhrataan.	
+<div class="theverse"><div class="versenum">5.</div> Ja viinaa juomauhriksi myos neljanneksen hinnia: sen pitaa sinun tekeman polttouhriksi eli muuksi uhriksi, koska karitsa uhrataan.	</div>
 
-<div class="versenum">6.</div> Eli koska oinas uhrataan, niin pitaa sinun tekeman ruokauhriksi kaksi kymmenesta sampylajauhoja, sekoitettuja kolmanneksella hinnia oljya.	
+<div class="theverse"><div class="versenum">6.</div> Eli koska oinas uhrataan, niin pitaa sinun tekeman ruokauhriksi kaksi kymmenesta sampylajauhoja, sekoitettuja kolmanneksella hinnia oljya.	</div>
 
-<div class="versenum">7.</div> Ja viinaa juomauhriksi myos kolmas osa hinnia: sen sinun pitaa uhraaman Herralle lepytyshajuksi.	
+<div class="theverse"><div class="versenum">7.</div> Ja viinaa juomauhriksi myos kolmas osa hinnia: sen sinun pitaa uhraaman Herralle lepytyshajuksi.	</div>
 
-<div class="versenum">8.</div> Mutta jos sina teet mullin polttouhriksi taikka teurasuhriksi tahi erinomaisen lupauksen uhriksi, tahi kiitosuhriksi Herralle,	
+<div class="theverse"><div class="versenum">8.</div> Mutta jos sina teet mullin polttouhriksi taikka teurasuhriksi tahi erinomaisen lupauksen uhriksi, tahi kiitosuhriksi Herralle,	</div>
 
-<div class="versenum">9.</div> Niin sinun pitaa mullin kanssa tekeman ruokauhriksi kolme kymmenesta sampylajauhoja, sekoitettuja puoleen hinniin oljya,	
+<div class="theverse"><div class="versenum">9.</div> Niin sinun pitaa mullin kanssa tekeman ruokauhriksi kolme kymmenesta sampylajauhoja, sekoitettuja puoleen hinniin oljya,	</div>
 
-<div class="versenum">10.</div> Ja viinaa juomauhriksi myos puoli hinnia: tama on tuliuhri makiaksi hajuksi Herralle.	
+<div class="theverse"><div class="versenum">10.</div> Ja viinaa juomauhriksi myos puoli hinnia: tama on tuliuhri makiaksi hajuksi Herralle.	</div>
 
-<div class="versenum">11.</div> Niin sinun pitaa tekeman kunkin mullin kanssa, oinaan, lampaan, karitsan ja vohlan kanssa.	
+<div class="theverse"><div class="versenum">11.</div> Niin sinun pitaa tekeman kunkin mullin kanssa, oinaan, lampaan, karitsan ja vohlan kanssa.	</div>
 
-<div class="versenum">12.</div> Sen luvun jalkeen kuin te yhdelle teette, niin pitaa teidan tekeman kullekin heidan lukunsa jalkeen.	
+<div class="theverse"><div class="versenum">12.</div> Sen luvun jalkeen kuin te yhdelle teette, niin pitaa teidan tekeman kullekin heidan lukunsa jalkeen.	</div>
 
-<div class="versenum">13.</div> Jokainen omainen pitaa taman nain tekeman, uhrataksensa ne Herralle lepytyshajun tuleksi.	
+<div class="theverse"><div class="versenum">13.</div> Jokainen omainen pitaa taman nain tekeman, uhrataksensa ne Herralle lepytyshajun tuleksi.	</div>
 
-<div class="versenum">14.</div> Ja jos joku muukalainen asuu teidan tykonanne, eli on teidan sukuinne seassa, ja tahtoo tehda Herralle tuliuhria makiaksi hajuksi, han tehkaan niinkuin teidan tekeman pitaa.	
+<div class="theverse"><div class="versenum">14.</div> Ja jos joku muukalainen asuu teidan tykonanne, eli on teidan sukuinne seassa, ja tahtoo tehda Herralle tuliuhria makiaksi hajuksi, han tehkaan niinkuin teidan tekeman pitaa.	</div>
 
-<div class="versenum">15.</div> Kaikella kansalla pitaa oleman yksi saaty, seka teilla etta muukalaisilla. Ijankaikkinen saaty pitaa se oleman teidan sukukunnillenne, niin etta Herran edessa pitaa muukalaisen oleman niinkuin tekin.	
+<div class="theverse"><div class="versenum">15.</div> Kaikella kansalla pitaa oleman yksi saaty, seka teilla etta muukalaisilla. Ijankaikkinen saaty pitaa se oleman teidan sukukunnillenne, niin etta Herran edessa pitaa muukalaisen oleman niinkuin tekin.	</div>
 
-<div class="versenum">16.</div> Yksi laki ja yksi oikeus pitaa oleman teilla ja muukalaisilla, jotka asuvat teidan tykonanne.	
+<div class="theverse"><div class="versenum">16.</div> Yksi laki ja yksi oikeus pitaa oleman teilla ja muukalaisilla, jotka asuvat teidan tykonanne.	</div>
 
-<div class="versenum">17.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">17.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">18.</div> Puhu Israelin lapsille, ja sano heille: tultuanne siihen maahan, johon mina teidat johdatan,	
+<div class="theverse"><div class="versenum">18.</div> Puhu Israelin lapsille, ja sano heille: tultuanne siihen maahan, johon mina teidat johdatan,	</div>
 
-<div class="versenum">19.</div> Ja syotyanne sen maan leipaa, pitaa teidan antaman ylennysuhrin Herralle.	
+<div class="theverse"><div class="versenum">19.</div> Ja syotyanne sen maan leipaa, pitaa teidan antaman ylennysuhrin Herralle.	</div>
 
-<div class="versenum">20.</div> Taikinanne alkeista pitaa teidan antaman yhden kyrsan ylennykseksi: niinkuin te annatte Herralle ylennyksen teidan riihestanne, niin pitaa teidan myos taman ylennyksen tekeman.	
+<div class="theverse"><div class="versenum">20.</div> Taikinanne alkeista pitaa teidan antaman yhden kyrsan ylennykseksi: niinkuin te annatte Herralle ylennyksen teidan riihestanne, niin pitaa teidan myos taman ylennyksen tekeman.	</div>
 
-<div class="versenum">21.</div> Niin pitaa teidan myos antaman Herralle taikinanne alkeista ylennykseksi, teidan sukukunnissanne.	
+<div class="theverse"><div class="versenum">21.</div> Niin pitaa teidan myos antaman Herralle taikinanne alkeista ylennykseksi, teidan sukukunnissanne.	</div>
 
-<div class="versenum">22.</div> Ja jos te tietamatta eksytte, ja ette tee kaikkia naita kaskyja, joita Herra Mosekselle kaskenyt on,	
+<div class="theverse"><div class="versenum">22.</div> Ja jos te tietamatta eksytte, ja ette tee kaikkia naita kaskyja, joita Herra Mosekselle kaskenyt on,	</div>
 
-<div class="versenum">23.</div> Kaikki mita Herra Moseksen kautta teille kaskenyt on, siita paivasta, jona han rupesi kaskemaan, niin teidan lapsiinne asti:	
+<div class="theverse"><div class="versenum">23.</div> Kaikki mita Herra Moseksen kautta teille kaskenyt on, siita paivasta, jona han rupesi kaskemaan, niin teidan lapsiinne asti:	</div>
 
-<div class="versenum">24.</div> Jos siis koko kansa jossakin tietamattomyydesta erehtyy, niin pitaa kaiken kansan tekeman polttouhriksi nuoren mullin karjasta, makiaksi hajuksi Herralle heidan ruokauhrinsa ja juomauhrinsa kanssa, kuin se tulee heidan tehdaksensa, ja yhden kauriin syntiuhriksi.	
+<div class="theverse"><div class="versenum">24.</div> Jos siis koko kansa jossakin tietamattomyydesta erehtyy, niin pitaa kaiken kansan tekeman polttouhriksi nuoren mullin karjasta, makiaksi hajuksi Herralle heidan ruokauhrinsa ja juomauhrinsa kanssa, kuin se tulee heidan tehdaksensa, ja yhden kauriin syntiuhriksi.	</div>
 
-<div class="versenum">25.</div> Ja papin pitaa nain sovittaman koko joukon Israelin lapsista, ja se heille annetaan anteeksi; silla se on tietamattomyys. Ja heidan pitaa kantaman lahjansa tuliuhriksi Herralle, ja syntiuhrinsa Herran eteen tietamattomyytensa tahden,	
+<div class="theverse"><div class="versenum">25.</div> Ja papin pitaa nain sovittaman koko joukon Israelin lapsista, ja se heille annetaan anteeksi; silla se on tietamattomyys. Ja heidan pitaa kantaman lahjansa tuliuhriksi Herralle, ja syntiuhrinsa Herran eteen tietamattomyytensa tahden,	</div>
 
-<div class="versenum">26.</div> Niin se annetaan anteeksi koko Israelin lasten joukolle, niin myos muukalaisille, jotka asuvat heidan seassansa; silla kaikki kansa on siina tietamattomyydessa.	
+<div class="theverse"><div class="versenum">26.</div> Niin se annetaan anteeksi koko Israelin lasten joukolle, niin myos muukalaisille, jotka asuvat heidan seassansa; silla kaikki kansa on siina tietamattomyydessa.	</div>
 
-<div class="versenum">27.</div> Mutta kuin yksi sielu tietamata syntia tekee, hanen pitaa tuoman vuosikuntaisen vuohen syntiuhriksi.	
+<div class="theverse"><div class="versenum">27.</div> Mutta kuin yksi sielu tietamata syntia tekee, hanen pitaa tuoman vuosikuntaisen vuohen syntiuhriksi.	</div>
 
-<div class="versenum">28.</div> Ja papin pitaa eksyneen sielun sovittaman, koska han tietamattomyydesta syntia tekee Herran edessa, niin etta han sovittaa hanen, ja se annetaan hanelle anteeksi.	
+<div class="theverse"><div class="versenum">28.</div> Ja papin pitaa eksyneen sielun sovittaman, koska han tietamattomyydesta syntia tekee Herran edessa, niin etta han sovittaa hanen, ja se annetaan hanelle anteeksi.	</div>
 
-<div class="versenum">29.</div> Ja seka omaisille Israelin lasten seassa etta muukalaisille, jotka heidan seassansa asuvat, pitaa yhden lain oleman kuin teidan pitaa tekeman tietamattomyyden edesta.	
+<div class="theverse"><div class="versenum">29.</div> Ja seka omaisille Israelin lasten seassa etta muukalaisille, jotka heidan seassansa asuvat, pitaa yhden lain oleman kuin teidan pitaa tekeman tietamattomyyden edesta.	</div>
 
-<div class="versenum">30.</div> Mutta jos joku sielu ilkivaltaisuudesta jotakin tekee, olkoon omainen eli muukalainen, se pilkkaa Herraa: ja se sielu pitaa havitettaman kansastansa.	
+<div class="theverse"><div class="versenum">30.</div> Mutta jos joku sielu ilkivaltaisuudesta jotakin tekee, olkoon omainen eli muukalainen, se pilkkaa Herraa: ja se sielu pitaa havitettaman kansastansa.	</div>
 
-<div class="versenum">31.</div> Silla han on Herran sanan katsonut ylon, ja hanen kaskynsa tyhjaksi tehnyt: se sielu pitaa perati havitettaman, ja olkoon oma nuhteensa.	
+<div class="theverse"><div class="versenum">31.</div> Silla han on Herran sanan katsonut ylon, ja hanen kaskynsa tyhjaksi tehnyt: se sielu pitaa perati havitettaman, ja olkoon oma nuhteensa.	</div>
 
-<div class="versenum">32.</div> Ja tapahtui, etta Israelin lapset korvessa ollessansa loysivat miehen puita hakemasta sabbatina.	
+<div class="theverse"><div class="versenum">32.</div> Ja tapahtui, etta Israelin lapset korvessa ollessansa loysivat miehen puita hakemasta sabbatina.	</div>
 
-<div class="versenum">33.</div> Ja ne jotka hanen olivat loytaneet puita hakemasta, veivat hanen Moseksen ja Aaronin eteen, ja kaiken kansan eteen.	
+<div class="theverse"><div class="versenum">33.</div> Ja ne jotka hanen olivat loytaneet puita hakemasta, veivat hanen Moseksen ja Aaronin eteen, ja kaiken kansan eteen.	</div>
 
-<div class="versenum">34.</div> Ja he panivat hanen kiinni; silla ei se ollut viela paatetty, mita hanelle piti tehtaman.	
+<div class="theverse"><div class="versenum">34.</div> Ja he panivat hanen kiinni; silla ei se ollut viela paatetty, mita hanelle piti tehtaman.	</div>
 
-<div class="versenum">35.</div> Mutta Herra sanoi Mosekselle: sen miehen pitaa totisesti kuoleman: kaiken kansan pitaa hanta kivittaman kuoliaaksi, ulkona leirista.	
+<div class="theverse"><div class="versenum">35.</div> Mutta Herra sanoi Mosekselle: sen miehen pitaa totisesti kuoleman: kaiken kansan pitaa hanta kivittaman kuoliaaksi, ulkona leirista.	</div>
 
-<div class="versenum">36.</div> Niin kaikki kansa vei hanen leirista ulos, ja kivitti hanen kuoliaaksi, niinkuin Herra Mosekselle kaskenyt oli.	
+<div class="theverse"><div class="versenum">36.</div> Niin kaikki kansa vei hanen leirista ulos, ja kivitti hanen kuoliaaksi, niinkuin Herra Mosekselle kaskenyt oli.	</div>
 
-<div class="versenum">37.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">37.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">38.</div> Puhu Israelin lapsille, ja sano heille: etta heidan pitaa tekeman tilkoja vaatettensa liepeisiin, sukukunnillensa, ja heidan pitaa paneman sinisen langan niiden tilkain paalle, jotka ovat heidan vaatettensa liepeissa,	
+<div class="theverse"><div class="versenum">38.</div> Puhu Israelin lapsille, ja sano heille: etta heidan pitaa tekeman tilkoja vaatettensa liepeisiin, sukukunnillensa, ja heidan pitaa paneman sinisen langan niiden tilkain paalle, jotka ovat heidan vaatettensa liepeissa,	</div>
 
-<div class="versenum">39.</div> Ja ne tilkat pitaa oleman teille merkiksi, ja katsoissanne niiden paalle pitaa teidan kaikki Herran kaskyt muistaman ja tekeman ne, ettette tekisi teidan sydamenne ajatuksen jalkeen, etteka myos huorin tekisi teidan silmainne nayn jalkeen.	
+<div class="theverse"><div class="versenum">39.</div> Ja ne tilkat pitaa oleman teille merkiksi, ja katsoissanne niiden paalle pitaa teidan kaikki Herran kaskyt muistaman ja tekeman ne, ettette tekisi teidan sydamenne ajatuksen jalkeen, etteka myos huorin tekisi teidan silmainne nayn jalkeen.	</div>
 
-<div class="versenum">40.</div> Sentahden pitaa teidan muistaman ja tekeman kaikki minun kaskyni, ja oleman pyhat teidan Jumalallenne.	
+<div class="theverse"><div class="versenum">40.</div> Sentahden pitaa teidan muistaman ja tekeman kaikki minun kaskyni, ja oleman pyhat teidan Jumalallenne.	</div>
 
-<div class="versenum">41.</div> Mina olen Herra teidan Jumalanne, joka teidat Egyptin maalta ulos johdatin, ollakseni teidan Jumalanne: Mina Herra teidan Jumalanne.	
+<div class="theverse"><div class="versenum">41.</div> Mina olen Herra teidan Jumalanne, joka teidat Egyptin maalta ulos johdatin, ollakseni teidan Jumalanne: Mina Herra teidan Jumalanne.	</div>
 </body>
 </html>

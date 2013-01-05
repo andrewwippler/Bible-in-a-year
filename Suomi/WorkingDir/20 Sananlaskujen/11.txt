@@ -4,66 +4,66 @@
 </head>
 <body><div class="chaptertitle">Sananlaskujen 11	</div>
 	
-<div class="versenum">1.</div> Vaara vaaka on Herralle kauhistus, mutta oikia puntari on hanelle otollinen.	
+<div class="theverse"><div class="versenum">1.</div> Vaara vaaka on Herralle kauhistus, mutta oikia puntari on hanelle otollinen.	</div>
 
-<div class="versenum">2.</div> Kussa ylpeys on, siina on myos ylonkatse; mutta viisaus on noyrain tykona.	
+<div class="theverse"><div class="versenum">2.</div> Kussa ylpeys on, siina on myos ylonkatse; mutta viisaus on noyrain tykona.	</div>
 
-<div class="versenum">3.</div> Viattomuus johdattaa siviat, vaan pahuus kukistaa pilkkaajat.	
+<div class="theverse"><div class="versenum">3.</div> Viattomuus johdattaa siviat, vaan pahuus kukistaa pilkkaajat.	</div>
 
-<div class="versenum">4.</div> Ei rakkaus auta vihan paivana, mutta vanhurskaus vapahtaa kuolemasta.	
+<div class="theverse"><div class="versenum">4.</div> Ei rakkaus auta vihan paivana, mutta vanhurskaus vapahtaa kuolemasta.	</div>
 
-<div class="versenum">5.</div> Viattoman vanhurskaus tekee hanen tiensa tasaiseksi, mutta jumalatoin lankee jumalattomassa menossansa.	
+<div class="theverse"><div class="versenum">5.</div> Viattoman vanhurskaus tekee hanen tiensa tasaiseksi, mutta jumalatoin lankee jumalattomassa menossansa.	</div>
 
-<div class="versenum">6.</div> Jumalisten vanhurskaus pelastaa heita, vaan vaarintekiat kasitetaan viekkaudessansa.	
+<div class="theverse"><div class="versenum">6.</div> Jumalisten vanhurskaus pelastaa heita, vaan vaarintekiat kasitetaan viekkaudessansa.	</div>
 
-<div class="versenum">7.</div> Kuin jumalatoin ihminen kuolee, niin ei ole yhtaan toivoa: ja jota vaarintekiat odottavat, se tulee tyhjaksi.	
+<div class="theverse"><div class="versenum">7.</div> Kuin jumalatoin ihminen kuolee, niin ei ole yhtaan toivoa: ja jota vaarintekiat odottavat, se tulee tyhjaksi.	</div>
 
-<div class="versenum">8.</div> Vanhurskas vapahdetaan vaivasta, ja jumalatoin tuleehanen siaansa.	
+<div class="theverse"><div class="versenum">8.</div> Vanhurskas vapahdetaan vaivasta, ja jumalatoin tuleehanen siaansa.	</div>
 
-<div class="versenum">9.</div> Ulkokullatun ihmisen suun kautta petetaan hanen lahimmaisensa; vaan vanhurskaat ymmartavat sen, ja pelastetaan.	
+<div class="theverse"><div class="versenum">9.</div> Ulkokullatun ihmisen suun kautta petetaan hanen lahimmaisensa; vaan vanhurskaat ymmartavat sen, ja pelastetaan.	</div>
 
-<div class="versenum">10.</div> Kaupunki iloitsee, koska vanhurskaan hyvin kay, ja riemuitsee, koska jumalatoin hukkuu.	
+<div class="theverse"><div class="versenum">10.</div> Kaupunki iloitsee, koska vanhurskaan hyvin kay, ja riemuitsee, koska jumalatoin hukkuu.	</div>
 
-<div class="versenum">11.</div> Vanhurskasten siunauksen kautta kaupunki korotetaan, vaan jumalattoman suun kautta kukistetaan.	
+<div class="theverse"><div class="versenum">11.</div> Vanhurskasten siunauksen kautta kaupunki korotetaan, vaan jumalattoman suun kautta kukistetaan.	</div>
 
-<div class="versenum">12.</div> Joka lahimmaistansa hapaisee, se on hullu, mutta toimellinen mies on vaiti.	
+<div class="theverse"><div class="versenum">12.</div> Joka lahimmaistansa hapaisee, se on hullu, mutta toimellinen mies on vaiti.	</div>
 
-<div class="versenum">13.</div> Panettelia ilmoittaa salaisuuden, vaan jolla on uskollinen sydan, han salaa sen.	
+<div class="theverse"><div class="versenum">13.</div> Panettelia ilmoittaa salaisuuden, vaan jolla on uskollinen sydan, han salaa sen.	</div>
 
-<div class="versenum">14.</div> Jossa ei neuvoa ole, siina kansa hukkuu; vaan jossa monta neuvonantajaa on, siina hyvin kay.	
+<div class="theverse"><div class="versenum">14.</div> Jossa ei neuvoa ole, siina kansa hukkuu; vaan jossa monta neuvonantajaa on, siina hyvin kay.	</div>
 
-<div class="versenum">15.</div> Joka toisen takaa, han tulee vahinkoon; vaan joka siita itsensa pitaa pois, han on murheetoin.	
+<div class="theverse"><div class="versenum">15.</div> Joka toisen takaa, han tulee vahinkoon; vaan joka siita itsensa pitaa pois, han on murheetoin.	</div>
 
-<div class="versenum">16.</div> Vaimo, joka otollinen on, pitaa kunnian; vaan vakevat pitavat rikkauden.	
+<div class="theverse"><div class="versenum">16.</div> Vaimo, joka otollinen on, pitaa kunnian; vaan vakevat pitavat rikkauden.	</div>
 
-<div class="versenum">17.</div> Armias mies tekee ruumiillensa hyvaa; vaan se, joka julma on, saattaa lihansa murheelliseksi.	
+<div class="theverse"><div class="versenum">17.</div> Armias mies tekee ruumiillensa hyvaa; vaan se, joka julma on, saattaa lihansa murheelliseksi.	</div>
 
-<div class="versenum">18.</div> Jumalattoman tyo on turha, vaan joka vanhurskautta kylvaa, silla on hyva palkka.	
+<div class="theverse"><div class="versenum">18.</div> Jumalattoman tyo on turha, vaan joka vanhurskautta kylvaa, silla on hyva palkka.	</div>
 
-<div class="versenum">19.</div> Silla vanhurskaus saattaa elaman, vaan joka pahaa pyytaa, han saattaa kuoleman.	
+<div class="theverse"><div class="versenum">19.</div> Silla vanhurskaus saattaa elaman, vaan joka pahaa pyytaa, han saattaa kuoleman.	</div>
 
-<div class="versenum">20.</div> Petollinen sydan on kauhistus Herralle, Vaan viattoman tie on hanelle otollinen.	
+<div class="theverse"><div class="versenum">20.</div> Petollinen sydan on kauhistus Herralle, Vaan viattoman tie on hanelle otollinen.	</div>
 
-<div class="versenum">21.</div> Ei jumalattoimia auta, vaikka kaikki katensa yhteen pistaisivat, mutta vanhurskaan siemen pelastetaan.	
+<div class="theverse"><div class="versenum">21.</div> Ei jumalattoimia auta, vaikka kaikki katensa yhteen pistaisivat, mutta vanhurskaan siemen pelastetaan.	</div>
 
-<div class="versenum">22.</div> Kaunis vaimo ilman taidota on niinkuin sika, jolla olis kultainen kaady kuonossa.	
+<div class="theverse"><div class="versenum">22.</div> Kaunis vaimo ilman taidota on niinkuin sika, jolla olis kultainen kaady kuonossa.	</div>
 
-<div class="versenum">23.</div> Vanhurskasten himo on ainoastaan hyva, vaan jumalattomain odotus on kiukku.	
+<div class="theverse"><div class="versenum">23.</div> Vanhurskasten himo on ainoastaan hyva, vaan jumalattomain odotus on kiukku.	</div>
 
-<div class="versenum">24.</div> Muutama jakaa omastansa, ja saa enemman; toinen saastaa, jossa ei pitaisi, ja tulee koyhemmaksi.	
+<div class="theverse"><div class="versenum">24.</div> Muutama jakaa omastansa, ja saa enemman; toinen saastaa, jossa ei pitaisi, ja tulee koyhemmaksi.	</div>
 
-<div class="versenum">25.</div> Sielu, joka siunaa, tulee rikkaaksi: ja joka juottaa, se myos juotetaan.	
+<div class="theverse"><div class="versenum">25.</div> Sielu, joka siunaa, tulee rikkaaksi: ja joka juottaa, se myos juotetaan.	</div>
 
-<div class="versenum">26.</div> Joka jyvat salaa, hanta kansa kiroilee; mutta joka myy, hanelle tulee siunaus.	
+<div class="theverse"><div class="versenum">26.</div> Joka jyvat salaa, hanta kansa kiroilee; mutta joka myy, hanelle tulee siunaus.	</div>
 
-<div class="versenum">27.</div> Joka varhain hyvaa etsii, hanelle hyvin menestyy; mutta joka pahaa noudattaa, hanelle pahoin tapahtuu.	
+<div class="theverse"><div class="versenum">27.</div> Joka varhain hyvaa etsii, hanelle hyvin menestyy; mutta joka pahaa noudattaa, hanelle pahoin tapahtuu.	</div>
 
-<div class="versenum">28.</div> Joka rikkauteensa luottaa, han hukkuu, vaan vanhurskaat viherioitsevat niinkuin lehti.	
+<div class="theverse"><div class="versenum">28.</div> Joka rikkauteensa luottaa, han hukkuu, vaan vanhurskaat viherioitsevat niinkuin lehti.	</div>
 
-<div class="versenum">29.</div> Joka huoneensa murheelliseksi tekee, han saa tuulen perinnoksi: ja hullun taytyy viisasta palvella.	
+<div class="theverse"><div class="versenum">29.</div> Joka huoneensa murheelliseksi tekee, han saa tuulen perinnoksi: ja hullun taytyy viisasta palvella.	</div>
 
-<div class="versenum">30.</div> Vanhurskaan hedelma on elaman puu: joka viisas on, han kaantaa sielut.	
+<div class="theverse"><div class="versenum">30.</div> Vanhurskaan hedelma on elaman puu: joka viisas on, han kaantaa sielut.	</div>
 
-<div class="versenum">31.</div> Koska vanhurskas paljon karsii, kuinka paljoa enemmin jumalatoin ja syntinen?	
+<div class="theverse"><div class="versenum">31.</div> Koska vanhurskas paljon karsii, kuinka paljoa enemmin jumalatoin ja syntinen?	</div>
 </body>
 </html>

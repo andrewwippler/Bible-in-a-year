@@ -4,48 +4,48 @@
 </head>
 <body><div class="chaptertitle">1 Samuelin 24	</div>
 	
-<div class="versenum">1.</div> (H24:2) Kuin Saul palasi Philistealaisten tykoa, ilmoitettiin hanelle, sanoen: David on EnGedin korvessa.	
+<div class="theverse"><div class="versenum">1.</div> (H24:2) Kuin Saul palasi Philistealaisten tykoa, ilmoitettiin hanelle, sanoen: David on EnGedin korvessa.	</div>
 
-<div class="versenum">2.</div> (H24:3) Ja Saul otti kolmetuhatta valittua nuorta miesta koko Israelista, ja meni etsimaan Davidia ja hanen miehiansa Metsavuohten kallioille.	
+<div class="theverse"><div class="versenum">2.</div> (H24:3) Ja Saul otti kolmetuhatta valittua nuorta miesta koko Israelista, ja meni etsimaan Davidia ja hanen miehiansa Metsavuohten kallioille.	</div>
 
-<div class="versenum">3.</div> (H24:4) Ja kuin han lahestyi lammasten huonetta tien ohessa, oli siina luola, ja Saul meni siihen peittamaan jalkojansa; mutta David ja hanen miehensa istuivat luolan kulmilla.	
+<div class="theverse"><div class="versenum">3.</div> (H24:4) Ja kuin han lahestyi lammasten huonetta tien ohessa, oli siina luola, ja Saul meni siihen peittamaan jalkojansa; mutta David ja hanen miehensa istuivat luolan kulmilla.	</div>
 
-<div class="versenum">4.</div> (H24:5) Silloin sanoivat Davidin miehet hanelle: katso, tama on se paiva, josta Herra sinulle on sanonut: katso, mina annan sinulle vihamiehes sinun kasiis, ettas tekisit hanen kanssansa niinkuin sinulle kelpaa. Ja David nousi ja leikkasi salaa kappaleen Saulin vaatteen liepeesta.	
+<div class="theverse"><div class="versenum">4.</div> (H24:5) Silloin sanoivat Davidin miehet hanelle: katso, tama on se paiva, josta Herra sinulle on sanonut: katso, mina annan sinulle vihamiehes sinun kasiis, ettas tekisit hanen kanssansa niinkuin sinulle kelpaa. Ja David nousi ja leikkasi salaa kappaleen Saulin vaatteen liepeesta.	</div>
 
-<div class="versenum">5.</div> (H24:6) Sen jalkeen tykytti Davidin sydan, etta han oli leikannut tilkan Saulin hameesta,	
+<div class="theverse"><div class="versenum">5.</div> (H24:6) Sen jalkeen tykytti Davidin sydan, etta han oli leikannut tilkan Saulin hameesta,	</div>
 
-<div class="versenum">6.</div> (H24:7) Ja sanoi miehillensa: Herra antakoon sen kaukana olla minusta, etta mina sen tekisin ja satuttaisin kateni minun herraani, Herran voideltuun, silla han on Herran voideltu.	
+<div class="theverse"><div class="versenum">6.</div> (H24:7) Ja sanoi miehillensa: Herra antakoon sen kaukana olla minusta, etta mina sen tekisin ja satuttaisin kateni minun herraani, Herran voideltuun, silla han on Herran voideltu.	</div>
 
-<div class="versenum">7.</div> (H24:8) Ja David asetti miehensa sanoilla eika sallinut karata Saulin paalle. Niin Saul nousi luolasta ja meni matkaansa.	
+<div class="theverse"><div class="versenum">7.</div> (H24:8) Ja David asetti miehensa sanoilla eika sallinut karata Saulin paalle. Niin Saul nousi luolasta ja meni matkaansa.	</div>
 
-<div class="versenum">8.</div> (H24:9) Senjalkeen nousi myos David ja laksi luolasta, ja huusi Saulin jalkeen ja sanoi: herrani kuningas! Saul katsahti taaksensa, ja David kallisti kasvonsa maahan ja kumarsi.	
+<div class="theverse"><div class="versenum">8.</div> (H24:9) Senjalkeen nousi myos David ja laksi luolasta, ja huusi Saulin jalkeen ja sanoi: herrani kuningas! Saul katsahti taaksensa, ja David kallisti kasvonsa maahan ja kumarsi.	</div>
 
-<div class="versenum">9.</div> (H24:10) Ja David sanoi Saulille: miksis uskot ihmisten sanoja, jotka sanovat: katso, David etsii vahinkoas?	
+<div class="theverse"><div class="versenum">9.</div> (H24:10) Ja David sanoi Saulille: miksis uskot ihmisten sanoja, jotka sanovat: katso, David etsii vahinkoas?	</div>
 
-<div class="versenum">10.</div> (H24:11) Katso, tanapana nakivat sinun silmas, etta Herra oli antanut sinun minun kasiini luolassa, ja sanottiin, etta mina tappaisin sinun, vaan mina armahdin sinua, silla mina sanoin: en mina satuta kattani herraani, silla han on Herran voideltu.	
+<div class="theverse"><div class="versenum">10.</div> (H24:11) Katso, tanapana nakivat sinun silmas, etta Herra oli antanut sinun minun kasiini luolassa, ja sanottiin, etta mina tappaisin sinun, vaan mina armahdin sinua, silla mina sanoin: en mina satuta kattani herraani, silla han on Herran voideltu.	</div>
 
-<div class="versenum">11.</div> (H24:12) Katso, minun isani, katso kuitenkin tata tilkkaa sinun hameestas minun kadessani, etten mina tahtonut tappaa sinua, koska mina sen tilkan leikkasin hameestas. Tunne ja katso, ettei yhtaan pahuutta eli vaaryytta ole minun kadessani, en mina myos ole syntia tehnyt sinua vastaan, ja sina seisot minun henkeni peraan, ottaakses sen pois.	
+<div class="theverse"><div class="versenum">11.</div> (H24:12) Katso, minun isani, katso kuitenkin tata tilkkaa sinun hameestas minun kadessani, etten mina tahtonut tappaa sinua, koska mina sen tilkan leikkasin hameestas. Tunne ja katso, ettei yhtaan pahuutta eli vaaryytta ole minun kadessani, en mina myos ole syntia tehnyt sinua vastaan, ja sina seisot minun henkeni peraan, ottaakses sen pois.	</div>
 
-<div class="versenum">12.</div> (H24:13) Herra tuomitkoon minun ja sinun valillas, ja Herra kostakoon sinulle minun puolestani; vaan minun kateni ei pida sinuun sattuman.	
+<div class="theverse"><div class="versenum">12.</div> (H24:13) Herra tuomitkoon minun ja sinun valillas, ja Herra kostakoon sinulle minun puolestani; vaan minun kateni ei pida sinuun sattuman.	</div>
 
-<div class="versenum">13.</div> (H24:14) Niinkuin vanha sananlasku on: jumalattomasta tulee jumalattomuus; mutta minun kateni ei pida sinuun sattuman.	
+<div class="theverse"><div class="versenum">13.</div> (H24:14) Niinkuin vanha sananlasku on: jumalattomasta tulee jumalattomuus; mutta minun kateni ei pida sinuun sattuman.	</div>
 
-<div class="versenum">14.</div> (H24:15) Kenenka jalkeen Israelin kuningas on lahtenyt? ketas ajat takaa? Kuollutta koiraa ja kirppua.	
+<div class="theverse"><div class="versenum">14.</div> (H24:15) Kenenka jalkeen Israelin kuningas on lahtenyt? ketas ajat takaa? Kuollutta koiraa ja kirppua.	</div>
 
-<div class="versenum">15.</div> (H24:16) Herra olkoon tuomari ja tuomitkoon minun valillani ja sinun: nahkoon ja ratkaiskoon minun asiani, ja vapahtakoon minua sinun kasistas.	
+<div class="theverse"><div class="versenum">15.</div> (H24:16) Herra olkoon tuomari ja tuomitkoon minun valillani ja sinun: nahkoon ja ratkaiskoon minun asiani, ja vapahtakoon minua sinun kasistas.	</div>
 
-<div class="versenum">16.</div> (H24:17) Sittekuin David lakkasi puhumasta Saulille, sanoi Saul: eiko se ole sinun aanes, poikani David? Ja Saul korotti aanensa ja itki,	
+<div class="theverse"><div class="versenum">16.</div> (H24:17) Sittekuin David lakkasi puhumasta Saulille, sanoi Saul: eiko se ole sinun aanes, poikani David? Ja Saul korotti aanensa ja itki,	</div>
 
-<div class="versenum">17.</div> (H24:18) Ja sanoi Davidille: sina olet hurskaampi minua, silla sina olet osoittanut minulle hyvaa, mutta mina sita vastaan olen osoittanut sinulle pahaa.	
+<div class="theverse"><div class="versenum">17.</div> (H24:18) Ja sanoi Davidille: sina olet hurskaampi minua, silla sina olet osoittanut minulle hyvaa, mutta mina sita vastaan olen osoittanut sinulle pahaa.	</div>
 
-<div class="versenum">18.</div> (H24:19) Ja sina olet tanapana minulle ilmoittanut, kuinka hyvin sina olet tehnyt minua kohtaan: etta Herra oli sulkenut minun sinun kasiis, ja et sina minua tappanut.	
+<div class="theverse"><div class="versenum">18.</div> (H24:19) Ja sina olet tanapana minulle ilmoittanut, kuinka hyvin sina olet tehnyt minua kohtaan: etta Herra oli sulkenut minun sinun kasiis, ja et sina minua tappanut.	</div>
 
-<div class="versenum">19.</div> (H24:20) Kuinka joku loytais vihollisensa ja antais hanen menna hyvaa tieta? Herra maksakoon sinulle sita hyvaa, jotas tanapana minulle olet tehnyt.	
+<div class="theverse"><div class="versenum">19.</div> (H24:20) Kuinka joku loytais vihollisensa ja antais hanen menna hyvaa tieta? Herra maksakoon sinulle sita hyvaa, jotas tanapana minulle olet tehnyt.	</div>
 
-<div class="versenum">20.</div> (H24:21) Nyt katso, mina tiedan sinun tulevan kuninkaaksi, ja Israelin valtakunta on sinun kadessas;	
+<div class="theverse"><div class="versenum">20.</div> (H24:21) Nyt katso, mina tiedan sinun tulevan kuninkaaksi, ja Israelin valtakunta on sinun kadessas;	</div>
 
-<div class="versenum">21.</div> (H24:22) Niin vanno siis nyt minulle Herran kautta, ettet havita minun siementani minun jalkeeni ja et kadota minun nimeani minun isani huoneesta.	
+<div class="theverse"><div class="versenum">21.</div> (H24:22) Niin vanno siis nyt minulle Herran kautta, ettet havita minun siementani minun jalkeeni ja et kadota minun nimeani minun isani huoneesta.	</div>
 
-<div class="versenum">22.</div> (H24:23) Ja David vannoi Saulille. Ja Saul meni kotiansa; mutta David ja hanen miehensa menivat linnaan.	
+<div class="theverse"><div class="versenum">22.</div> (H24:23) Ja David vannoi Saulille. Ja Saul meni kotiansa; mutta David ja hanen miehensa menivat linnaan.	</div>
 </body>
 </html>

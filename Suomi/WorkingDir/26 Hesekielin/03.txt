@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Hesekielin 3	</div>
 	
-<div class="versenum">1.</div> Ja han sanoi minulle: sina ihmisen lapsi, syo mita sinun edessas on: syo tama kirja, ja mene ja saarnaa Israelin huoneelle.	
+<div class="theverse"><div class="versenum">1.</div> Ja han sanoi minulle: sina ihmisen lapsi, syo mita sinun edessas on: syo tama kirja, ja mene ja saarnaa Israelin huoneelle.	</div>
 
-<div class="versenum">2.</div> Niin mina avasin suuni, ja han antoi sen kirjan minun syodakseni,	
+<div class="theverse"><div class="versenum">2.</div> Niin mina avasin suuni, ja han antoi sen kirjan minun syodakseni,	</div>
 
-<div class="versenum">3.</div> Ja han sanoi minulle: sina ihmisen lapsi, sinun pitaa taman kirjan, jonka mina annan sinulle, syoman ruumises ja tayttaman silla vatsas. Niin mina soin sen, ja se oli minun suussani niin makia kuin hunaja.	
+<div class="theverse"><div class="versenum">3.</div> Ja han sanoi minulle: sina ihmisen lapsi, sinun pitaa taman kirjan, jonka mina annan sinulle, syoman ruumises ja tayttaman silla vatsas. Niin mina soin sen, ja se oli minun suussani niin makia kuin hunaja.	</div>
 
-<div class="versenum">4.</div> Ja han sanoi minulle: sina ihmisen lapsi, mene Israelin huoneesen ja saarnaa heille minun sanani.	
+<div class="theverse"><div class="versenum">4.</div> Ja han sanoi minulle: sina ihmisen lapsi, mene Israelin huoneesen ja saarnaa heille minun sanani.	</div>
 
-<div class="versenum">5.</div> Silla en mina sinua laheta sen kansan tyko, jolla outo puhe ja vieras kieli on, vaan Israelin huoneesen,	
+<div class="theverse"><div class="versenum">5.</div> Silla en mina sinua laheta sen kansan tyko, jolla outo puhe ja vieras kieli on, vaan Israelin huoneesen,	</div>
 
-<div class="versenum">6.</div> Ja en suuren kansan tyko, joilla outo puhe ja vieras kieli olis, joiden puhetta et sina ymmarra. Ja jos mina viela lahettaisin sinun niiden tyko, niin pitais heidan kuitenkin mielellansa kuuleman sinua.	
+<div class="theverse"><div class="versenum">6.</div> Ja en suuren kansan tyko, joilla outo puhe ja vieras kieli olis, joiden puhetta et sina ymmarra. Ja jos mina viela lahettaisin sinun niiden tyko, niin pitais heidan kuitenkin mielellansa kuuleman sinua.	</div>
 
-<div class="versenum">7.</div> Mutta Israelin huone ei tahdo sinua kuulla, silla ei he tahdo kuulla itse minuakaan; silla koko Israelin huonella on kova otsa ja paatunut sydan.	
+<div class="theverse"><div class="versenum">7.</div> Mutta Israelin huone ei tahdo sinua kuulla, silla ei he tahdo kuulla itse minuakaan; silla koko Israelin huonella on kova otsa ja paatunut sydan.	</div>
 
-<div class="versenum">8.</div> Mutta katso, kuitenkin olen mina tehnyt sinun kasvos lujaksi heidan kasvojansa vastaan ja sinun otsas lujaksi heidan otsaansa vastaan.	
+<div class="theverse"><div class="versenum">8.</div> Mutta katso, kuitenkin olen mina tehnyt sinun kasvos lujaksi heidan kasvojansa vastaan ja sinun otsas lujaksi heidan otsaansa vastaan.	</div>
 
-<div class="versenum">9.</div> Ja mina olen tehnyt sinun otas niin kovaksi kuin timantin, joka kovempi on kuin kallio: ala pelkaa heita, ala myos hammasty heidan edessansa, ehka he ovat tottelematoin huone.	
+<div class="theverse"><div class="versenum">9.</div> Ja mina olen tehnyt sinun otas niin kovaksi kuin timantin, joka kovempi on kuin kallio: ala pelkaa heita, ala myos hammasty heidan edessansa, ehka he ovat tottelematoin huone.	</div>
 
-<div class="versenum">10.</div> Ja han sanoi minulle: sina ihmisen lapsi, kaikki minun sanani, jotka mina sanoin sinulle, ota sinun sydamees ja pane korviis.	
+<div class="theverse"><div class="versenum">10.</div> Ja han sanoi minulle: sina ihmisen lapsi, kaikki minun sanani, jotka mina sanoin sinulle, ota sinun sydamees ja pane korviis.	</div>
 
-<div class="versenum">11.</div> Ja mene pois sinun kansas vankien tyko, ja saarnaa heille, ja sano heille: nain sanoo Herra, Herra: jos he kuulevat sen, taikka katsovat ylon.	
+<div class="theverse"><div class="versenum">11.</div> Ja mene pois sinun kansas vankien tyko, ja saarnaa heille, ja sano heille: nain sanoo Herra, Herra: jos he kuulevat sen, taikka katsovat ylon.	</div>
 
-<div class="versenum">12.</div> Ja henki otti minun ylos, ja mina kuulin jalissani suuren humauksen aanen (sanovan): siunattu olkoon Herran kunnia hanen siassansa!	
+<div class="theverse"><div class="versenum">12.</div> Ja henki otti minun ylos, ja mina kuulin jalissani suuren humauksen aanen (sanovan): siunattu olkoon Herran kunnia hanen siassansa!	</div>
 
-<div class="versenum">13.</div> Ja mina kuulin elainten siipien aanen, jotka loivat toiseensa ja ratasten jyrinan, jotka juuri niiden tykona olivat, ja suuren humauksen aanen.	
+<div class="theverse"><div class="versenum">13.</div> Ja mina kuulin elainten siipien aanen, jotka loivat toiseensa ja ratasten jyrinan, jotka juuri niiden tykona olivat, ja suuren humauksen aanen.	</div>
 
-<div class="versenum">14.</div> Niin henki nosti minut ylos, ja vei minut pois; ja mina menin pois, ja olin suuresti hammastynyt mutta Herran kasi piti minun vahvana.	
+<div class="theverse"><div class="versenum">14.</div> Niin henki nosti minut ylos, ja vei minut pois; ja mina menin pois, ja olin suuresti hammastynyt mutta Herran kasi piti minun vahvana.	</div>
 
-<div class="versenum">15.</div> Ja mina tulin vankien tyko Telabibiin, jotka asuivat Kebarin virran tykona, ja viivyin heidan tykonansa, kussa he istuivat, ja olin siella seitseman paivaa hammastyksissa heidan keskellansa.	
+<div class="theverse"><div class="versenum">15.</div> Ja mina tulin vankien tyko Telabibiin, jotka asuivat Kebarin virran tykona, ja viivyin heidan tykonansa, kussa he istuivat, ja olin siella seitseman paivaa hammastyksissa heidan keskellansa.	</div>
 
-<div class="versenum">16.</div> Ja kuin ne seitseman paivaa olivat kuluneet, tapahtui Herran sana minulle ja sanoi:	
+<div class="theverse"><div class="versenum">16.</div> Ja kuin ne seitseman paivaa olivat kuluneet, tapahtui Herran sana minulle ja sanoi:	</div>
 
-<div class="versenum">17.</div> Sina ihmisen lapsi, mina olen pannut sinun Israelin huoneen vartiaksi; sinun pitaa kuuleman sanan minun suustani, ja varaaman heita minun puolestani.	
+<div class="theverse"><div class="versenum">17.</div> Sina ihmisen lapsi, mina olen pannut sinun Israelin huoneen vartiaksi; sinun pitaa kuuleman sanan minun suustani, ja varaaman heita minun puolestani.	</div>
 
-<div class="versenum">18.</div> Kuin mina sanon jumalattomalle: sinun pitaa totisesti kuoleman, ja et sina varaa hanta etka sano hanelle sita, etta jumalatoin lakkais jumalattomasta menostansa ja sais elaa, niin pitaa sen jumalattoman kuoleman synteinsa tahden; mutta hanen verensa tahdon mina vaatia sinun kadestas.	
+<div class="theverse"><div class="versenum">18.</div> Kuin mina sanon jumalattomalle: sinun pitaa totisesti kuoleman, ja et sina varaa hanta etka sano hanelle sita, etta jumalatoin lakkais jumalattomasta menostansa ja sais elaa, niin pitaa sen jumalattoman kuoleman synteinsa tahden; mutta hanen verensa tahdon mina vaatia sinun kadestas.	</div>
 
-<div class="versenum">19.</div> Mutta jos sina varaat sita jumalatointa, ja ei han kaanny jumalattomuudestansa ja jumalattomasta tiestansa, niin hanen pitaa synteinsa tahden kuoleman; mutta sina olet sielus vapahtanut.	
+<div class="theverse"><div class="versenum">19.</div> Mutta jos sina varaat sita jumalatointa, ja ei han kaanny jumalattomuudestansa ja jumalattomasta tiestansa, niin hanen pitaa synteinsa tahden kuoleman; mutta sina olet sielus vapahtanut.	</div>
 
-<div class="versenum">20.</div> Ja kuin vanhurskas luopuu vanhurskaudestansa ja tekee pahaa, niin mina sallin hanen loukata itsensa, ja hanen pitaa kuoleman; sentahden, ettes ole hanta varannut, pitaa hanen synteinsa tahden kuoleman, ja hanen entista vanhurskauttansa, jonka han tehnyt on, ei pida muistettaman; mutta hanen verensa tahdon mina vaatia sinun kadestas.	
+<div class="theverse"><div class="versenum">20.</div> Ja kuin vanhurskas luopuu vanhurskaudestansa ja tekee pahaa, niin mina sallin hanen loukata itsensa, ja hanen pitaa kuoleman; sentahden, ettes ole hanta varannut, pitaa hanen synteinsa tahden kuoleman, ja hanen entista vanhurskauttansa, jonka han tehnyt on, ei pida muistettaman; mutta hanen verensa tahdon mina vaatia sinun kadestas.	</div>
 
-<div class="versenum">21.</div> Mutta jos sina varaat vanhurskasta, ettei han syntia tekisi, ja ei han myos syntia tee, niin pitaa hanen totisesti elaman, etta han on neuvon ottanut; olet sina myos sielus vapahtanut.	
+<div class="theverse"><div class="versenum">21.</div> Mutta jos sina varaat vanhurskasta, ettei han syntia tekisi, ja ei han myos syntia tee, niin pitaa hanen totisesti elaman, etta han on neuvon ottanut; olet sina myos sielus vapahtanut.	</div>
 
-<div class="versenum">22.</div> Ja siella tuli Herran kasi minun paalleni ja sanoi minulle: nouse ja mene ulos kedolle, siella tahdon mina puhua sinun kanssas.	
+<div class="theverse"><div class="versenum">22.</div> Ja siella tuli Herran kasi minun paalleni ja sanoi minulle: nouse ja mene ulos kedolle, siella tahdon mina puhua sinun kanssas.	</div>
 
-<div class="versenum">23.</div> Ja mina nousin ja menin ulos kedolle, ja katso, siella seisoi Herran kunnia, niinkuin se kunnia, jonka mina Kebarin virran tykona ennen nahnyt olin; ja mina lankesin maahan kasvoilleni,	
+<div class="theverse"><div class="versenum">23.</div> Ja mina nousin ja menin ulos kedolle, ja katso, siella seisoi Herran kunnia, niinkuin se kunnia, jonka mina Kebarin virran tykona ennen nahnyt olin; ja mina lankesin maahan kasvoilleni,	</div>
 
-<div class="versenum">24.</div> Ja tulin virvoitetuksi hengessa, ja han asetti minun jaloilleni, ja puhui minun kanssani, ja sanoi minulle: mene ja sulje itses huoneeses.	
+<div class="theverse"><div class="versenum">24.</div> Ja tulin virvoitetuksi hengessa, ja han asetti minun jaloilleni, ja puhui minun kanssani, ja sanoi minulle: mene ja sulje itses huoneeses.	</div>
 
-<div class="versenum">25.</div> Ja sina ihmisen lapsi, katso, nuorat pitaa pantaman sinun paalles, ja he sitovat sinun niilla, ettei sinun pida paaseman heilta.	
+<div class="theverse"><div class="versenum">25.</div> Ja sina ihmisen lapsi, katso, nuorat pitaa pantaman sinun paalles, ja he sitovat sinun niilla, ettei sinun pida paaseman heilta.	</div>
 
-<div class="versenum">26.</div> Ja mina tahdon sinun kieles antaa tarttua suus lakeen, niin etta sinun pitaa tuleman mykaksi, ja ei enaan taitaman nuhdella heita; silla se on vastahakoinen huone.	
+<div class="theverse"><div class="versenum">26.</div> Ja mina tahdon sinun kieles antaa tarttua suus lakeen, niin etta sinun pitaa tuleman mykaksi, ja ei enaan taitaman nuhdella heita; silla se on vastahakoinen huone.	</div>
 
-<div class="versenum">27.</div> Mutta kuin mina puhun sinun kanssas, niin tahdon mina avata sinun suus, etta sinun heille sanoman pitaa: nain sanoo Herra, Herra: joka kuulee, se kuulkaan, ja joka hylkaa, se hyljatkaan; silla se on tottelematoin huone.	
+<div class="theverse"><div class="versenum">27.</div> Mutta kuin mina puhun sinun kanssas, niin tahdon mina avata sinun suus, etta sinun heille sanoman pitaa: nain sanoo Herra, Herra: joka kuulee, se kuulkaan, ja joka hylkaa, se hyljatkaan; silla se on tottelematoin huone.	</div>
 </body>
 </html>

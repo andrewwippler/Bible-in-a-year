@@ -4,42 +4,42 @@
 </head>
 <body><div class="chaptertitle">5 Mooseksen 25	</div>
 	
-<div class="versenum">1.</div> Jos riita on miesten valilla, niin tulkaan ne oikeuden eteen, ja tuomittakaan niiden valilla: ja tuomittakaan hurskas hurskaaksi, ja jumalatoin jumalattomaksi.	
+<div class="theverse"><div class="versenum">1.</div> Jos riita on miesten valilla, niin tulkaan ne oikeuden eteen, ja tuomittakaan niiden valilla: ja tuomittakaan hurskas hurskaaksi, ja jumalatoin jumalattomaksi.	</div>
 
-<div class="versenum">2.</div> Ja jos jumalatoin on ansainnut haavoja, niin kaskekaan tuomari hanen langeta maahan, ja antakaan nahtensa lyoda hanta, senjalkeen kuin hanen pahatekonsa on, luvun jalkeen.	
+<div class="theverse"><div class="versenum">2.</div> Ja jos jumalatoin on ansainnut haavoja, niin kaskekaan tuomari hanen langeta maahan, ja antakaan nahtensa lyoda hanta, senjalkeen kuin hanen pahatekonsa on, luvun jalkeen.	</div>
 
-<div class="versenum">3.</div> Neljakymmenta kertaa pitaa hanta lyotaman, ja ei enempaa, ettei hanta ylonpalttisesti lyotaisi, ja sinun veljes tulis huonoksi sinun silmais edessa.	
+<div class="theverse"><div class="versenum">3.</div> Neljakymmenta kertaa pitaa hanta lyotaman, ja ei enempaa, ettei hanta ylonpalttisesti lyotaisi, ja sinun veljes tulis huonoksi sinun silmais edessa.	</div>
 
-<div class="versenum">4.</div> Ei sinun pida riihta tappavan harjan suuta sitoman kiinni.	
+<div class="theverse"><div class="versenum">4.</div> Ei sinun pida riihta tappavan harjan suuta sitoman kiinni.	</div>
 
-<div class="versenum">5.</div> Koska veljekset asuvat ynna, ja yksi heista kuolee pojatoinna, niin ei pida kuolleen veljen vaimon ottaman muukalaista miesta toisesta suvusta; mutta hanen miehensa veli menkaan hanen tykonsa, ja ottakaan veljensa siassa hanta avioksensa.	
+<div class="theverse"><div class="versenum">5.</div> Koska veljekset asuvat ynna, ja yksi heista kuolee pojatoinna, niin ei pida kuolleen veljen vaimon ottaman muukalaista miesta toisesta suvusta; mutta hanen miehensa veli menkaan hanen tykonsa, ja ottakaan veljensa siassa hanta avioksensa.	</div>
 
-<div class="versenum">6.</div> Ja ensimainen poika, jonka han synnyttaa, pitaa nimitettaman kuolleen veljen nimelta, ettei hanen nimensa perati havitettaisi Israelista.	
+<div class="theverse"><div class="versenum">6.</div> Ja ensimainen poika, jonka han synnyttaa, pitaa nimitettaman kuolleen veljen nimelta, ettei hanen nimensa perati havitettaisi Israelista.	</div>
 
-<div class="versenum">7.</div> Jos ei mies tahdo ottaa veljensa vaimoa, niin menkaan hanen veljensa vaimo porttiin vanhimpain eteen, ja sanokaan: ei kytyni tahdo herattaa veljellensa nimea Israelissa ja ei tahdo minua kytylain jalkeen naida.	
+<div class="theverse"><div class="versenum">7.</div> Jos ei mies tahdo ottaa veljensa vaimoa, niin menkaan hanen veljensa vaimo porttiin vanhimpain eteen, ja sanokaan: ei kytyni tahdo herattaa veljellensa nimea Israelissa ja ei tahdo minua kytylain jalkeen naida.	</div>
 
-<div class="versenum">8.</div> Niin kaupungin vanhimmat antakaan hanen kutsuttaa edes, ja puhukaan hanen kanssansa. Ja jos han seisoo ja sanoo: en mina tahdo ottaa hanta;	
+<div class="theverse"><div class="versenum">8.</div> Niin kaupungin vanhimmat antakaan hanen kutsuttaa edes, ja puhukaan hanen kanssansa. Ja jos han seisoo ja sanoo: en mina tahdo ottaa hanta;	</div>
 
-<div class="versenum">9.</div> Niin hanen natonsa astukaan hanen tykonsa vanhimpain nahden, ja riisukaan kengan hanen jalastansa, ja sylkekaan hanen kasvoillensa, ja vastatkaan hanta sanoen: nain jokaiselle pitaa tehtaman, joka ei veljensa huonetta rakenna,	
+<div class="theverse"><div class="versenum">9.</div> Niin hanen natonsa astukaan hanen tykonsa vanhimpain nahden, ja riisukaan kengan hanen jalastansa, ja sylkekaan hanen kasvoillensa, ja vastatkaan hanta sanoen: nain jokaiselle pitaa tehtaman, joka ei veljensa huonetta rakenna,	</div>
 
-<div class="versenum">10.</div> Ja hanen nimensa kutsuttakaan Israelissa paljasjalan huoneeksi.	
+<div class="theverse"><div class="versenum">10.</div> Ja hanen nimensa kutsuttakaan Israelissa paljasjalan huoneeksi.	</div>
 
-<div class="versenum">11.</div> Jos kaksi miesta keskenansa tappelevat ja toisen vaimo tulee pelastamaan miestansa sen kadesta joka hanta lyo, ja kurottaa katensa ja tarttuu hanen hapyynsa;	
+<div class="theverse"><div class="versenum">11.</div> Jos kaksi miesta keskenansa tappelevat ja toisen vaimo tulee pelastamaan miestansa sen kadesta joka hanta lyo, ja kurottaa katensa ja tarttuu hanen hapyynsa;	</div>
 
-<div class="versenum">12.</div> Niin hakkaa hanen katensa poikki; sinun silmas ei pida saastaman hanta.	
+<div class="theverse"><div class="versenum">12.</div> Niin hakkaa hanen katensa poikki; sinun silmas ei pida saastaman hanta.	</div>
 
-<div class="versenum">13.</div> Ala pida kahtalaista vaakaa sakissas, suurempaa ja vahempaa.	
+<div class="theverse"><div class="versenum">13.</div> Ala pida kahtalaista vaakaa sakissas, suurempaa ja vahempaa.	</div>
 
-<div class="versenum">14.</div> Eika myos pida huoneessas oleman kahtalainen mitta, suurempi ja vahempi.	
+<div class="theverse"><div class="versenum">14.</div> Eika myos pida huoneessas oleman kahtalainen mitta, suurempi ja vahempi.	</div>
 
-<div class="versenum">15.</div> Mutta sinulla pitaa oleman taysi ja oikia vaaka, ja taysi ja oikia mitta, ettas olisit pitkaijallinen siina maassa, jonka Herra sinun Jumalas sinulle antaa.	
+<div class="theverse"><div class="versenum">15.</div> Mutta sinulla pitaa oleman taysi ja oikia vaaka, ja taysi ja oikia mitta, ettas olisit pitkaijallinen siina maassa, jonka Herra sinun Jumalas sinulle antaa.	</div>
 
-<div class="versenum">16.</div> Silla jokainen, joka naita tekee, on Herralle sinun Jumalalles kauhistus: kaikki jotka vaaryytta tekevat.	
+<div class="theverse"><div class="versenum">16.</div> Silla jokainen, joka naita tekee, on Herralle sinun Jumalalles kauhistus: kaikki jotka vaaryytta tekevat.	</div>
 
-<div class="versenum">17.</div> Muista mita Amalekilaiset tekivat sinua vastaan tiella, kuin Egyptista laksit:	
+<div class="theverse"><div class="versenum">17.</div> Muista mita Amalekilaiset tekivat sinua vastaan tiella, kuin Egyptista laksit:	</div>
 
-<div class="versenum">18.</div> Kuinka he kohtasivat sinua tiella, ja loivat sinun jalkimaises, kaikki ne jotka heikommat olivat ja jalinna kavivat, koskas vasyksissa ja hervotoin olit, ja ei he Jumalaa peljanneet.	
+<div class="theverse"><div class="versenum">18.</div> Kuinka he kohtasivat sinua tiella, ja loivat sinun jalkimaises, kaikki ne jotka heikommat olivat ja jalinna kavivat, koskas vasyksissa ja hervotoin olit, ja ei he Jumalaa peljanneet.	</div>
 
-<div class="versenum">19.</div> Ja pitaa tapahtuman, kuin Herra sinun Jumalas antaa sinun saada levon kaikilta vihamiehiltas, jotka ymparillas ovat siina maassa, jonka Herra sinun Jumalas antaa perinnoksi sinulle, ettas sen omistat, ja sinun pitaa perati havittaman Amalekilaisten muiston taivaan alta. Ala sita unohda.	
+<div class="theverse"><div class="versenum">19.</div> Ja pitaa tapahtuman, kuin Herra sinun Jumalas antaa sinun saada levon kaikilta vihamiehiltas, jotka ymparillas ovat siina maassa, jonka Herra sinun Jumalas antaa perinnoksi sinulle, ettas sen omistat, ja sinun pitaa perati havittaman Amalekilaisten muiston taivaan alta. Ala sita unohda.	</div>
 </body>
 </html>

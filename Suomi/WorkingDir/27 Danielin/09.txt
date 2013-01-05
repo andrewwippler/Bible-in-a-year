@@ -4,58 +4,58 @@
 </head>
 <body><div class="chaptertitle">Danielin 9	</div>
 	
-<div class="versenum">1.</div> Ensimaisena Dariuksen Ahasveruksen pojan vuonna Medilaisten suvusta, joka Kaldean valtakuntaa hallitsi.	
+<div class="theverse"><div class="versenum">1.</div> Ensimaisena Dariuksen Ahasveruksen pojan vuonna Medilaisten suvusta, joka Kaldean valtakuntaa hallitsi.	</div>
 
-<div class="versenum">2.</div> Juuri sina ensimaisena hanen valtakuntansa vuotena, loysin mina Daniel kirjoista vuosiluvun, josta Herra puhunut oli Jeremialle prophetalle, etta Jerusalemin havitys piti taytettaman seitsemantenakymmenentena ajastaikana.	
+<div class="theverse"><div class="versenum">2.</div> Juuri sina ensimaisena hanen valtakuntansa vuotena, loysin mina Daniel kirjoista vuosiluvun, josta Herra puhunut oli Jeremialle prophetalle, etta Jerusalemin havitys piti taytettaman seitsemantenakymmenentena ajastaikana.	</div>
 
-<div class="versenum">3.</div> Ja mina kaansin minuni etsimaan Herraa Jumalaa rukouksella ja anomisella, paastolla sakissa ja tuhassa.	
+<div class="theverse"><div class="versenum">3.</div> Ja mina kaansin minuni etsimaan Herraa Jumalaa rukouksella ja anomisella, paastolla sakissa ja tuhassa.	</div>
 
-<div class="versenum">4.</div> Ja rukoilin Herraa minun Jumalaani, tunnustin ja sanoin: Herra, sina suuri ja hirmuinen Jumala, joka liiton ja armon pidat niille, jotka sinua rakastavat ja sinun kaskys pitavat.	
+<div class="theverse"><div class="versenum">4.</div> Ja rukoilin Herraa minun Jumalaani, tunnustin ja sanoin: Herra, sina suuri ja hirmuinen Jumala, joka liiton ja armon pidat niille, jotka sinua rakastavat ja sinun kaskys pitavat.	</div>
 
-<div class="versenum">5.</div> Me olemme syntia ja vaarin tehneet, jumalattomat ja tottelemattomat olleet. Me olemme sinun kaskyistas ja oikeuksistas poikenneet.	
+<div class="theverse"><div class="versenum">5.</div> Me olemme syntia ja vaarin tehneet, jumalattomat ja tottelemattomat olleet. Me olemme sinun kaskyistas ja oikeuksistas poikenneet.	</div>
 
-<div class="versenum">6.</div> Emme totelleet sinun palvelioitas prophetaita, jotka saarnasivat sinun nimees meidan kuninkaillemme, paamiehillemme ja isillemme ja myos kaikelle kansalle maakunnassa.	
+<div class="theverse"><div class="versenum">6.</div> Emme totelleet sinun palvelioitas prophetaita, jotka saarnasivat sinun nimees meidan kuninkaillemme, paamiehillemme ja isillemme ja myos kaikelle kansalle maakunnassa.	</div>
 
-<div class="versenum">7.</div> Sina Herra olet vanhurskas. Mutta meidan taytyy haveta, niinkuin tanapana tapahtuu Juudan miehille ja Jerusalemin asuvaisille ja kaikelle Israelille, seka niille, jotka lasna etta niille, jotka kaukana ovat kaikissa maakunnissa, kuhunka sina heita hyljannyt olet heidan pahain tekoinsa tahden, joita he ovat tehneet sinua vastaan.	
+<div class="theverse"><div class="versenum">7.</div> Sina Herra olet vanhurskas. Mutta meidan taytyy haveta, niinkuin tanapana tapahtuu Juudan miehille ja Jerusalemin asuvaisille ja kaikelle Israelille, seka niille, jotka lasna etta niille, jotka kaukana ovat kaikissa maakunnissa, kuhunka sina heita hyljannyt olet heidan pahain tekoinsa tahden, joita he ovat tehneet sinua vastaan.	</div>
 
-<div class="versenum">8.</div> Ja Herra; meidan ja meidan kuninkaamme, meidan paamiehemme ja meidan isamme taytyy haveta, etta me olemme syntia tehneet sinua vastaan.	
+<div class="theverse"><div class="versenum">8.</div> Ja Herra; meidan ja meidan kuninkaamme, meidan paamiehemme ja meidan isamme taytyy haveta, etta me olemme syntia tehneet sinua vastaan.	</div>
 
-<div class="versenum">9.</div> Herra meidan Jumalamme on laupius ja anteeksi antamus, vaikka me olemme vastahakoiset olleet.	
+<div class="theverse"><div class="versenum">9.</div> Herra meidan Jumalamme on laupius ja anteeksi antamus, vaikka me olemme vastahakoiset olleet.	</div>
 
-<div class="versenum">10.</div> Ja emme totelleet Herran meidan Jumalamme aanta, etta me vaeltaneet olisimme hanen kaskyissansa, jotka han meille antoi palveliainsa prophetain kautta.	
+<div class="theverse"><div class="versenum">10.</div> Ja emme totelleet Herran meidan Jumalamme aanta, etta me vaeltaneet olisimme hanen kaskyissansa, jotka han meille antoi palveliainsa prophetain kautta.	</div>
 
-<div class="versenum">11.</div> Vaan koko Israel rikkoi sinun lakis ja suuttui kuulemasta sinun aantas. Sentahden on myos se kirous ja vala sattunut meihin, joka kirjoitettu on Moseksen Jumalan palvelian laissa, etta me olemme syntia tehneet hanta vastaan.	
+<div class="theverse"><div class="versenum">11.</div> Vaan koko Israel rikkoi sinun lakis ja suuttui kuulemasta sinun aantas. Sentahden on myos se kirous ja vala sattunut meihin, joka kirjoitettu on Moseksen Jumalan palvelian laissa, etta me olemme syntia tehneet hanta vastaan.	</div>
 
-<div class="versenum">12.</div> Ja han on sanansa pitanyt, jonka han puhunut on meita ja meidan tuomareitamme vastaan, jotka meita tuomitsivat; etta han niin suuren onnettomuuden on antanut tulla meidan paallemme, ettei sen kaltaista kaiken taivaan alla tapahtunut ole kuin Jerusalemissa tapahtunut on.	
+<div class="theverse"><div class="versenum">12.</div> Ja han on sanansa pitanyt, jonka han puhunut on meita ja meidan tuomareitamme vastaan, jotka meita tuomitsivat; etta han niin suuren onnettomuuden on antanut tulla meidan paallemme, ettei sen kaltaista kaiken taivaan alla tapahtunut ole kuin Jerusalemissa tapahtunut on.	</div>
 
-<div class="versenum">13.</div> Niinkuin kirjoitettu on Moseksen laissa, niin on kaikki tama onnettomuus meille tapahtunut. Emme myos rukoilleet Herran meidan Jumalamme edessa, etta me synnista palajaisimme ja sinun totuutes ymmartaisimme.	
+<div class="theverse"><div class="versenum">13.</div> Niinkuin kirjoitettu on Moseksen laissa, niin on kaikki tama onnettomuus meille tapahtunut. Emme myos rukoilleet Herran meidan Jumalamme edessa, etta me synnista palajaisimme ja sinun totuutes ymmartaisimme.	</div>
 
-<div class="versenum">14.</div> Sentahden on myos Herra valvonut tassa onnettomuudessa, ja on sen saattanut meidan paallemme. Silla Herra meidan Jumalamme on hurskas kaikissa toissansa, joita han tekee, koska emme totelleet hanen aantansa.	
+<div class="theverse"><div class="versenum">14.</div> Sentahden on myos Herra valvonut tassa onnettomuudessa, ja on sen saattanut meidan paallemme. Silla Herra meidan Jumalamme on hurskas kaikissa toissansa, joita han tekee, koska emme totelleet hanen aantansa.	</div>
 
-<div class="versenum">15.</div> Ja nyt Herra meidan Jumalamme, joka sinun kansas Egyptista olet johdattanut ulos vakevalla kadella ja tehnyt itselles nimen, niinkuin se tanapana on: Me olemme syntia tehneet, ja jumalattomat olleet.	
+<div class="theverse"><div class="versenum">15.</div> Ja nyt Herra meidan Jumalamme, joka sinun kansas Egyptista olet johdattanut ulos vakevalla kadella ja tehnyt itselles nimen, niinkuin se tanapana on: Me olemme syntia tehneet, ja jumalattomat olleet.	</div>
 
-<div class="versenum">16.</div> Ah Herra! Kaiken sinun vanhurskautes tahden kaantykoon nyt sinun vihas ja hirmuisuutes pois sinun kaupungistas Jerusalemista ja sinun pyhasta vuorestas! Silla meidan syntimme tahden ja meidan isaimme pahain tekoin tahden havaistaan Jerusalem ja sinun kansas kaikkein seassa, jotka meidan ymparillamme ovat.	
+<div class="theverse"><div class="versenum">16.</div> Ah Herra! Kaiken sinun vanhurskautes tahden kaantykoon nyt sinun vihas ja hirmuisuutes pois sinun kaupungistas Jerusalemista ja sinun pyhasta vuorestas! Silla meidan syntimme tahden ja meidan isaimme pahain tekoin tahden havaistaan Jerusalem ja sinun kansas kaikkein seassa, jotka meidan ymparillamme ovat.	</div>
 
-<div class="versenum">17.</div> Ja nyt meidan Jumalamme, kuule palvelias rukous ja anomus, ja katso armollisesti sinun pyhas puoleen, joka kukistettu on, Herran tahden.	
+<div class="theverse"><div class="versenum">17.</div> Ja nyt meidan Jumalamme, kuule palvelias rukous ja anomus, ja katso armollisesti sinun pyhas puoleen, joka kukistettu on, Herran tahden.	</div>
 
-<div class="versenum">18.</div> Kallista korvas, minun Jumalani ja kuule. Ja avaa silmas ja nae, kuinka me havitetyt olemme ja se kaupunki, joka sinun nimellas nimitetty on. Silla emme rukoile sinua meidan omassa vanhurskaudessamme, vaan sinun suuren laupiutes tahden.	
+<div class="theverse"><div class="versenum">18.</div> Kallista korvas, minun Jumalani ja kuule. Ja avaa silmas ja nae, kuinka me havitetyt olemme ja se kaupunki, joka sinun nimellas nimitetty on. Silla emme rukoile sinua meidan omassa vanhurskaudessamme, vaan sinun suuren laupiutes tahden.	</div>
 
-<div class="versenum">19.</div> Oi Herra, kuule. Oi Herra, ole armollinen. Oi Herra, ota vaari ja tee se ja ala viivy itse tahtes, minun Jumalani! Silla sinun kaupunkis ja sinun kansas on sinun nimellas nimitetty.	
+<div class="theverse"><div class="versenum">19.</div> Oi Herra, kuule. Oi Herra, ole armollinen. Oi Herra, ota vaari ja tee se ja ala viivy itse tahtes, minun Jumalani! Silla sinun kaupunkis ja sinun kansas on sinun nimellas nimitetty.	</div>
 
-<div class="versenum">20.</div> Kuin mina viela puhuin ja rukoilin ja minun syntiani ja minun kansani Israelin syntia tunnistin ja olin minun rukouksissani Herran minun Jumalani edessa, minun Jumalani pyhan vuoren tahden;	
+<div class="theverse"><div class="versenum">20.</div> Kuin mina viela puhuin ja rukoilin ja minun syntiani ja minun kansani Israelin syntia tunnistin ja olin minun rukouksissani Herran minun Jumalani edessa, minun Jumalani pyhan vuoren tahden;	</div>
 
-<div class="versenum">21.</div> Juuri silloin, kuin mina nain rukoilin, lensi akisti minun tykoni se mies Gabriel, jonka mina ennen nahnyt olin nayssa, ja rupesi minuun ehtoouhrin ajalla.	
+<div class="theverse"><div class="versenum">21.</div> Juuri silloin, kuin mina nain rukoilin, lensi akisti minun tykoni se mies Gabriel, jonka mina ennen nahnyt olin nayssa, ja rupesi minuun ehtoouhrin ajalla.	</div>
 
-<div class="versenum">22.</div> Ja han neuvoi minua, puhui minun kanssani ja sanoi: Daniel, nyt mina olen lahtenyt sinua neuvomaan, ettas ymmartaisit.	
+<div class="theverse"><div class="versenum">22.</div> Ja han neuvoi minua, puhui minun kanssani ja sanoi: Daniel, nyt mina olen lahtenyt sinua neuvomaan, ettas ymmartaisit.	</div>
 
-<div class="versenum">23.</div> Sinun rukoustes alussa kavi ulos kasky, ja mina tulin sinulle ilmoittamaan, silla sina olet otollinen. Niin ota nyt vaari sanasta, ettas nayn ymmartaisit.	
+<div class="theverse"><div class="versenum">23.</div> Sinun rukoustes alussa kavi ulos kasky, ja mina tulin sinulle ilmoittamaan, silla sina olet otollinen. Niin ota nyt vaari sanasta, ettas nayn ymmartaisit.	</div>
 
-<div class="versenum">24.</div> Seitsemankymmenta viikkoa on maaratty sinun kansalles ja pyhalle kaupungilles, niin ylitse kayminen lopetetaan ja synnit peitetaan ja pahat teot sovitetaan ja ijankaikkinen vanhurskaus tuodaan edes. Ja naky ja ennustus suljetaan ja se kaikkein pyhin voidellaan.	
+<div class="theverse"><div class="versenum">24.</div> Seitsemankymmenta viikkoa on maaratty sinun kansalles ja pyhalle kaupungilles, niin ylitse kayminen lopetetaan ja synnit peitetaan ja pahat teot sovitetaan ja ijankaikkinen vanhurskaus tuodaan edes. Ja naky ja ennustus suljetaan ja se kaikkein pyhin voidellaan.	</div>
 
-<div class="versenum">25.</div> Niin tieda nyt ja ota vaari, etta siita ajasta kuin kasky annetaan ulos, etta heidan pitaa jalleen kotia palajaman ja Jerusalem rakennettaman, paamieheen Kristukseen asti, on seitseman viikkoa. Niin myos kaksiseitsemattakymmenta viikkoa, joina kadut ja muurit jalleen rakennetaan, vaikka surkialla ajalla.	
+<div class="theverse"><div class="versenum">25.</div> Niin tieda nyt ja ota vaari, etta siita ajasta kuin kasky annetaan ulos, etta heidan pitaa jalleen kotia palajaman ja Jerusalem rakennettaman, paamieheen Kristukseen asti, on seitseman viikkoa. Niin myos kaksiseitsemattakymmenta viikkoa, joina kadut ja muurit jalleen rakennetaan, vaikka surkialla ajalla.	</div>
 
-<div class="versenum">26.</div> Ja kahden viikon perasta seitsemattakymmenta surmataan Kristus, ja ei enaa ole. Ja paamiehen kansa tulee ja kukistaa kaupungin ja pyhan, niin etta ne loppuvat, niinkuin virran kautta. Ja sodan loppuun asti pitaa sen havitettyna oleman.	
+<div class="theverse"><div class="versenum">26.</div> Ja kahden viikon perasta seitsemattakymmenta surmataan Kristus, ja ei enaa ole. Ja paamiehen kansa tulee ja kukistaa kaupungin ja pyhan, niin etta ne loppuvat, niinkuin virran kautta. Ja sodan loppuun asti pitaa sen havitettyna oleman.	</div>
 
-<div class="versenum">27.</div> Mutta han monelle liiton vahvistaa yhdessa viikossa. Ja puolessa viikossa lakkauttaa uhrin ja ruokauhrin. Ja siipien tykona seisoo havityksen julmuus. Ja on paatetty, etta se loppuan asti pitaa havitetty oleman.	
+<div class="theverse"><div class="versenum">27.</div> Mutta han monelle liiton vahvistaa yhdessa viikossa. Ja puolessa viikossa lakkauttaa uhrin ja ruokauhrin. Ja siipien tykona seisoo havityksen julmuus. Ja on paatetty, etta se loppuan asti pitaa havitetty oleman.	</div>
 </body>
 </html>

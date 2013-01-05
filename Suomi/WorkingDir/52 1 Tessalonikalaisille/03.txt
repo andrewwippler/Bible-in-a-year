@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">1 Tessalonikalaisille 3	</div>
 	
-<div class="versenum">1.</div> Sentahden emme saaneet sita enempi viivyttaa, vaan olemme mielistyneet jaamaan Atenaan yksinansa,	
+<div class="theverse"><div class="versenum">1.</div> Sentahden emme saaneet sita enempi viivyttaa, vaan olemme mielistyneet jaamaan Atenaan yksinansa,	</div>
 
-<div class="versenum">2.</div> Ja lahetimme Timoteuksen, meidan veljemme, Jumalan palvelian ja meidan apulaisemme Kristuksen evankeliumissa, vahvistamaan ja lohduttamaan teita teidan uskossanne:	
+<div class="theverse"><div class="versenum">2.</div> Ja lahetimme Timoteuksen, meidan veljemme, Jumalan palvelian ja meidan apulaisemme Kristuksen evankeliumissa, vahvistamaan ja lohduttamaan teita teidan uskossanne:	</div>
 
-<div class="versenum">3.</div> Ettei kenkaan naissa vaivoissa murehtisi; silla te tiedatte, etta me olemme sita varten pannut.	
+<div class="theverse"><div class="versenum">3.</div> Ettei kenkaan naissa vaivoissa murehtisi; silla te tiedatte, etta me olemme sita varten pannut.	</div>
 
-<div class="versenum">4.</div> Ja tosin, kuin me olimme teidan tykonanne, niin me sen teille edella sanoimme, etta meidan piti vaivaa karsiman, niinkuin te tapahtuneenkin tiedatte.	
+<div class="theverse"><div class="versenum">4.</div> Ja tosin, kuin me olimme teidan tykonanne, niin me sen teille edella sanoimme, etta meidan piti vaivaa karsiman, niinkuin te tapahtuneenkin tiedatte.	</div>
 
-<div class="versenum">5.</div> Sentahden myos mina en taitanut enaan malttaa itsiani, mutta lahetin tietamaan teidan uskoanne, ettei kiusaaja olisi teita kiusannut, ja niin meidan tyomme turhaksi tullut.	
+<div class="theverse"><div class="versenum">5.</div> Sentahden myos mina en taitanut enaan malttaa itsiani, mutta lahetin tietamaan teidan uskoanne, ettei kiusaaja olisi teita kiusannut, ja niin meidan tyomme turhaksi tullut.	</div>
 
-<div class="versenum">6.</div> Mutta nyt, kuin Timoteus tuli teilta meidan tykomme ja ilmoitti meille teidan uskonne ja rakkautenne, etta te aina meita hyvassa muistossa pidatte ja halajatte meita nahda, niinkuin mekin teita,	
+<div class="theverse"><div class="versenum">6.</div> Mutta nyt, kuin Timoteus tuli teilta meidan tykomme ja ilmoitti meille teidan uskonne ja rakkautenne, etta te aina meita hyvassa muistossa pidatte ja halajatte meita nahda, niinkuin mekin teita,	</div>
 
-<div class="versenum">7.</div> Niin me saimme teista, rakkaat veljet, lohdutuksen kaikessa meidan vaivassamme ja tuskassamme, teidan uskonne tahden;	
+<div class="theverse"><div class="versenum">7.</div> Niin me saimme teista, rakkaat veljet, lohdutuksen kaikessa meidan vaivassamme ja tuskassamme, teidan uskonne tahden;	</div>
 
-<div class="versenum">8.</div> Silla nyt me elamme, jos te Herrassa pysytte.	
+<div class="theverse"><div class="versenum">8.</div> Silla nyt me elamme, jos te Herrassa pysytte.	</div>
 
-<div class="versenum">9.</div> Minka kiitoksen siis me taidamme Jumalalle antaa teidan tahtenne, kaikesta tasta ilosta, jolla me iloitsemme teista meidan Jumalamme edessa?	
+<div class="theverse"><div class="versenum">9.</div> Minka kiitoksen siis me taidamme Jumalalle antaa teidan tahtenne, kaikesta tasta ilosta, jolla me iloitsemme teista meidan Jumalamme edessa?	</div>
 
-<div class="versenum">10.</div> Yota ja paivaa rukoillen ahkerasti, etta me teidan kasvonne nakisimme ja tayttaisimme, mita teidan uskostanne puuttuu.	
+<div class="theverse"><div class="versenum">10.</div> Yota ja paivaa rukoillen ahkerasti, etta me teidan kasvonne nakisimme ja tayttaisimme, mita teidan uskostanne puuttuu.	</div>
 
-<div class="versenum">11.</div> Mutta itse Jumala ja meidan Isamme, ja meidan Herra Jesus Kristus saattakoon meidan tiemme teidan tykonne.	
+<div class="theverse"><div class="versenum">11.</div> Mutta itse Jumala ja meidan Isamme, ja meidan Herra Jesus Kristus saattakoon meidan tiemme teidan tykonne.	</div>
 
-<div class="versenum">12.</div> Mutta Herra lisatkoon teita ja antakoon rakkauden yltakyllaisen olla teidan seassanne ja jokaista kohtaan, niinkuin mekin teille olemme:	
+<div class="theverse"><div class="versenum">12.</div> Mutta Herra lisatkoon teita ja antakoon rakkauden yltakyllaisen olla teidan seassanne ja jokaista kohtaan, niinkuin mekin teille olemme:	</div>
 
-<div class="versenum">13.</div> Etta han teidan laittamattomat sydamenne vahvistais pyhyydessa, Jumalan ja meidan Isamme edessa meidan Herran Jesuksen Kristuksen tulemisessa, kaikkein hanen pyhainsa kanssa.	
+<div class="theverse"><div class="versenum">13.</div> Etta han teidan laittamattomat sydamenne vahvistais pyhyydessa, Jumalan ja meidan Isamme edessa meidan Herran Jesuksen Kristuksen tulemisessa, kaikkein hanen pyhainsa kanssa.	</div>
 </body>
 </html>

@@ -4,52 +4,52 @@
 </head>
 <body><div class="chaptertitle">Ilmestys 18	</div>
 	
-<div class="versenum">1.</div> Ja sitte nain mina toisen enkelin tulevan alas taivaasta, jolla oli suuri voima: ja maa valistui hanen kirkkaudestansa.	
+<div class="theverse"><div class="versenum">1.</div> Ja sitte nain mina toisen enkelin tulevan alas taivaasta, jolla oli suuri voima: ja maa valistui hanen kirkkaudestansa.	</div>
 
-<div class="versenum">2.</div> Ja han huusi vakevasti suurella aanella ja sanoi: lankesi, lankesi suuri Babylon, ja on tullut perkeleitten asumasiaksi, ja kaikkein rietasten henkein katkoksi, ja kaikkein rietasten ja vihattavain lintuin katkoksi.	
+<div class="theverse"><div class="versenum">2.</div> Ja han huusi vakevasti suurella aanella ja sanoi: lankesi, lankesi suuri Babylon, ja on tullut perkeleitten asumasiaksi, ja kaikkein rietasten henkein katkoksi, ja kaikkein rietasten ja vihattavain lintuin katkoksi.	</div>
 
-<div class="versenum">3.</div> Silla hanen huoruutensa vihan viinasta ovat kaikki pakanat juoneet, ja maan kuninkaat hanen kanssansa huorin tehneet, ja kauppamiehet maan paalla ovat rikastuneet hanen herkkuinsa voimasta.	
+<div class="theverse"><div class="versenum">3.</div> Silla hanen huoruutensa vihan viinasta ovat kaikki pakanat juoneet, ja maan kuninkaat hanen kanssansa huorin tehneet, ja kauppamiehet maan paalla ovat rikastuneet hanen herkkuinsa voimasta.	</div>
 
-<div class="versenum">4.</div> Ja mina kuulin toisen aanen taivaasta sanovan: te. minun kansani, lahtekaat ulos hanesta, ettette hanen synneistansa osallisiksi tulisi, ettette myos jotakin hanen vitsauksistansa saisi.	
+<div class="theverse"><div class="versenum">4.</div> Ja mina kuulin toisen aanen taivaasta sanovan: te. minun kansani, lahtekaat ulos hanesta, ettette hanen synneistansa osallisiksi tulisi, ettette myos jotakin hanen vitsauksistansa saisi.	</div>
 
-<div class="versenum">5.</div> Silla hanen syntinsa ovat ulottuneet hamaan taivaasen asti, ja Jumala muisti hanen vaaryytensa.	
+<div class="theverse"><div class="versenum">5.</div> Silla hanen syntinsa ovat ulottuneet hamaan taivaasen asti, ja Jumala muisti hanen vaaryytensa.	</div>
 
-<div class="versenum">6.</div> Maksakaat hanelle niinkuin hankin maksoi teille, ja kertokaat hanelle kaksinkertaisesti hanen toittensa jalkeen; silla juoma-astialla, josta han teille pani sisalle, niin pankaat hanelle kaksinkertaisesti.	
+<div class="theverse"><div class="versenum">6.</div> Maksakaat hanelle niinkuin hankin maksoi teille, ja kertokaat hanelle kaksinkertaisesti hanen toittensa jalkeen; silla juoma-astialla, josta han teille pani sisalle, niin pankaat hanelle kaksinkertaisesti.	</div>
 
-<div class="versenum">7.</div> Niin paljo kuin han itsiansa kunnioitti ja koreili, niin antakaat hanelle niin paljon vaivaa ja itkua; silla han sanoo sydamessansa: mina istun ja olen kuningatar ja en leski, ja ei minun pida itkua nakeman.	
+<div class="theverse"><div class="versenum">7.</div> Niin paljo kuin han itsiansa kunnioitti ja koreili, niin antakaat hanelle niin paljon vaivaa ja itkua; silla han sanoo sydamessansa: mina istun ja olen kuningatar ja en leski, ja ei minun pida itkua nakeman.	</div>
 
-<div class="versenum">8.</div> Sentahden pitaa hanen vitsauksensa yhtena paivana tuleman: kuolema ja itku ja nalka, ja han pitaa tulella poltettaman; silla Herra Jumala on vakeva, joka hanen tuomitsee.	
+<div class="theverse"><div class="versenum">8.</div> Sentahden pitaa hanen vitsauksensa yhtena paivana tuleman: kuolema ja itku ja nalka, ja han pitaa tulella poltettaman; silla Herra Jumala on vakeva, joka hanen tuomitsee.	</div>
 
-<div class="versenum">9.</div> Ja hanta pitaa itkettaman, ja maan kuninkaat parkuvat hanta, jotka hanen kanssansa huorin tekivat ja hekumassa elivat, kuin he hanen palonsa savun nakevat.	
+<div class="theverse"><div class="versenum">9.</div> Ja hanta pitaa itkettaman, ja maan kuninkaat parkuvat hanta, jotka hanen kanssansa huorin tekivat ja hekumassa elivat, kuin he hanen palonsa savun nakevat.	</div>
 
-<div class="versenum">10.</div> Ja pitaa taampana seisoman hanen vaivansa pelvon tahden ja sanoman: voi, voi suurta kaupunkia Babylonia, vakevaa kaupunkia! silla yhdella hetkella tuli sinun tuomios.	
+<div class="theverse"><div class="versenum">10.</div> Ja pitaa taampana seisoman hanen vaivansa pelvon tahden ja sanoman: voi, voi suurta kaupunkia Babylonia, vakevaa kaupunkia! silla yhdella hetkella tuli sinun tuomios.	</div>
 
-<div class="versenum">11.</div> Ja kauppamiehet maan paalla itkevat ja murehtivat hanta, ettei kenkaan enempi heidan kalujansa osta:	
+<div class="theverse"><div class="versenum">11.</div> Ja kauppamiehet maan paalla itkevat ja murehtivat hanta, ettei kenkaan enempi heidan kalujansa osta:	</div>
 
-<div class="versenum">12.</div> Kulta- ja hopiakaluja, ja kalliita kivia ja paarlyja, ja kalliita liinavaatteita, ja purpuraa ja silkkia, ja tulipunaista, ja kaikkinaisia kalliita puita, ja kaikkinaisia astioita elephantin luista, ja kaikkinaisia astioita kalleimmista puista, ja vaskesta, ja raudasta, ja marmorista,	
+<div class="theverse"><div class="versenum">12.</div> Kulta- ja hopiakaluja, ja kalliita kivia ja paarlyja, ja kalliita liinavaatteita, ja purpuraa ja silkkia, ja tulipunaista, ja kaikkinaisia kalliita puita, ja kaikkinaisia astioita elephantin luista, ja kaikkinaisia astioita kalleimmista puista, ja vaskesta, ja raudasta, ja marmorista,	</div>
 
-<div class="versenum">13.</div> Ja kanelia ja hyvanhajullisia, ja voidetta, ja pyhaa savua, ja viinaa, ja oljya, ja sampylia, ja nisuja, ja karjaa, lampaita ja hevosia, rattaita, ja orjia ja ihmisten sieluja.	
+<div class="theverse"><div class="versenum">13.</div> Ja kanelia ja hyvanhajullisia, ja voidetta, ja pyhaa savua, ja viinaa, ja oljya, ja sampylia, ja nisuja, ja karjaa, lampaita ja hevosia, rattaita, ja orjia ja ihmisten sieluja.	</div>
 
-<div class="versenum">14.</div> Ja hedelmat, joita sinun sielus himoitsee, ovat sinulta paenneet pois, ja kaikki, jotka lihavat ja kauniit olivat, ne ovat sinusta oljenneet pois, ja ei sinun pida niita enaa loytaman.	
+<div class="theverse"><div class="versenum">14.</div> Ja hedelmat, joita sinun sielus himoitsee, ovat sinulta paenneet pois, ja kaikki, jotka lihavat ja kauniit olivat, ne ovat sinusta oljenneet pois, ja ei sinun pida niita enaa loytaman.	</div>
 
-<div class="versenum">15.</div> Naiden kaluin kauppamiehet, jotka hanesta rikastuneet ovat, pitaa taampana seisoman hanen vaivansa pelvon tahden, itkeman ja murehtiman.	
+<div class="theverse"><div class="versenum">15.</div> Naiden kaluin kauppamiehet, jotka hanesta rikastuneet ovat, pitaa taampana seisoman hanen vaivansa pelvon tahden, itkeman ja murehtiman.	</div>
 
-<div class="versenum">16.</div> Ja sanoman: voi, voi suurta kaupunkia! joka puetettu oli kalliilla liinalla ja purpuralla, ja tulipunaisella, ja kullalla yltakullattu, ja kalliilla kivilla, ja paarlyilla; yhdella hetkella ovat senkaltaiset rikkaudet havitetyt.	
+<div class="theverse"><div class="versenum">16.</div> Ja sanoman: voi, voi suurta kaupunkia! joka puetettu oli kalliilla liinalla ja purpuralla, ja tulipunaisella, ja kullalla yltakullattu, ja kalliilla kivilla, ja paarlyilla; yhdella hetkella ovat senkaltaiset rikkaudet havitetyt.	</div>
 
-<div class="versenum">17.</div> Ja kaikki haahdenhaltiat, ja kaikki haaksivaki, jotka laivoissa asuvat, ja merimiehet, ja jotka merella vaeltavat, seisoivat taampana,	
+<div class="theverse"><div class="versenum">17.</div> Ja kaikki haahdenhaltiat, ja kaikki haaksivaki, jotka laivoissa asuvat, ja merimiehet, ja jotka merella vaeltavat, seisoivat taampana,	</div>
 
-<div class="versenum">18.</div> Ja huusivat, kuin he savun hanen palostansa nakivat, ja sanoivat: kuka on taman suuren kaupungin verta?	
+<div class="theverse"><div class="versenum">18.</div> Ja huusivat, kuin he savun hanen palostansa nakivat, ja sanoivat: kuka on taman suuren kaupungin verta?	</div>
 
-<div class="versenum">19.</div> Ja he heittivat multaa paittensa paalle, huusivat, itkivat ja murehtivat, sanoen: voi, voi suurta kaupunkia! jossa kaikki rikastuneet ovat, joilla laivat meressa olivat, hanen kalliista kaluistansa; yhdella hetkella on han havitetty.	
+<div class="theverse"><div class="versenum">19.</div> Ja he heittivat multaa paittensa paalle, huusivat, itkivat ja murehtivat, sanoen: voi, voi suurta kaupunkia! jossa kaikki rikastuneet ovat, joilla laivat meressa olivat, hanen kalliista kaluistansa; yhdella hetkella on han havitetty.	</div>
 
-<div class="versenum">20.</div> Ihastu, taivas, hanesta, ja te pyhat apostolit ja prophetat! silla Jumala tuomitsee teidan tuomionne hanen paallensa.	
+<div class="theverse"><div class="versenum">20.</div> Ihastu, taivas, hanesta, ja te pyhat apostolit ja prophetat! silla Jumala tuomitsee teidan tuomionne hanen paallensa.	</div>
 
-<div class="versenum">21.</div> Ja yksi vakeva enkeli nosti ison kiven, niinkuin myllynkiven, ja heitti sen mereen ja sanoi: nain akisti pitaa suuri kaupunki Babylon heitettaman pois, ja ei hanta pida enempi loydettaman.	
+<div class="theverse"><div class="versenum">21.</div> Ja yksi vakeva enkeli nosti ison kiven, niinkuin myllynkiven, ja heitti sen mereen ja sanoi: nain akisti pitaa suuri kaupunki Babylon heitettaman pois, ja ei hanta pida enempi loydettaman.	</div>
 
-<div class="versenum">22.</div> Ja kanteleiden soittajain ja laulajain, ja huiluin ja basunan soittajain aani ei pida enempi sinusta kuuluman, ja ei yhtakaan virkamiesta yhdestakaan virasta pida enempi sinussa loydettaman, ja myllyn aani ei pida enempi sinussa kuuluman;	
+<div class="theverse"><div class="versenum">22.</div> Ja kanteleiden soittajain ja laulajain, ja huiluin ja basunan soittajain aani ei pida enempi sinusta kuuluman, ja ei yhtakaan virkamiesta yhdestakaan virasta pida enempi sinussa loydettaman, ja myllyn aani ei pida enempi sinussa kuuluman;	</div>
 
-<div class="versenum">23.</div> Ja kynttilan valkeus ei pida sinussa enaa valistaman, ja yljan ja morsiamen aani ei pida enaa sinussa kuuluman; silla sinun kauppamiehes olivat maan paamiehet, ja sinun noitumises kautta ovat kaikki pakanat eksyneet.	
+<div class="theverse"><div class="versenum">23.</div> Ja kynttilan valkeus ei pida sinussa enaa valistaman, ja yljan ja morsiamen aani ei pida enaa sinussa kuuluman; silla sinun kauppamiehes olivat maan paamiehet, ja sinun noitumises kautta ovat kaikki pakanat eksyneet.	</div>
 
-<div class="versenum">24.</div> Ja hanessa on prophetain ja pyhain veri loydetty, ja kaikkein niiden, jotka maan paalla tapetut ovat.	
+<div class="theverse"><div class="versenum">24.</div> Ja hanessa on prophetain ja pyhain veri loydetty, ja kaikkein niiden, jotka maan paalla tapetut ovat.	</div>
 </body>
 </html>

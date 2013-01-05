@@ -4,76 +4,76 @@
 </head>
 <body><div class="chaptertitle">Esran 8	</div>
 	
-<div class="versenum">1.</div> Namat ovat niiden isain paamiehet, ja heidan polvilukunsa, jotka laksivat minun kanssani Babelista kuningas Artahsastan hallitessa:	
+<div class="theverse"><div class="versenum">1.</div> Namat ovat niiden isain paamiehet, ja heidan polvilukunsa, jotka laksivat minun kanssani Babelista kuningas Artahsastan hallitessa:	</div>
 
-<div class="versenum">2.</div> Pinehaan pojista, Gersom; Itamarin pojista, Daniel; Davidin pojista, Hattus;	
+<div class="theverse"><div class="versenum">2.</div> Pinehaan pojista, Gersom; Itamarin pojista, Daniel; Davidin pojista, Hattus;	</div>
 
-<div class="versenum">3.</div> Sekanian pojista, Paroksen lapsista, Sakaria, ja hanen kanssansa luettu sata ja viisikymmenta miesta;	
+<div class="theverse"><div class="versenum">3.</div> Sekanian pojista, Paroksen lapsista, Sakaria, ja hanen kanssansa luettu sata ja viisikymmenta miesta;	</div>
 
-<div class="versenum">4.</div> Pahatmoabin pojista, Eljoenai Serahian poika, ja hanen kanssansa kaksisataa miesta;	
+<div class="theverse"><div class="versenum">4.</div> Pahatmoabin pojista, Eljoenai Serahian poika, ja hanen kanssansa kaksisataa miesta;	</div>
 
-<div class="versenum">5.</div> Sekanian pojista, Jehasielin poika, ja hanen kanssansa kolmesataa miesta;	
+<div class="theverse"><div class="versenum">5.</div> Sekanian pojista, Jehasielin poika, ja hanen kanssansa kolmesataa miesta;	</div>
 
-<div class="versenum">6.</div> Adinin pojista, Ebed Jonatanin poika, ja hanen kanssansa viisikymmenta miesta;	
+<div class="theverse"><div class="versenum">6.</div> Adinin pojista, Ebed Jonatanin poika, ja hanen kanssansa viisikymmenta miesta;	</div>
 
-<div class="versenum">7.</div> Elamin pojista, Jesaia Atalian poika, ja hanen kanssansa seitsemankymmenta miesta;	
+<div class="theverse"><div class="versenum">7.</div> Elamin pojista, Jesaia Atalian poika, ja hanen kanssansa seitsemankymmenta miesta;	</div>
 
-<div class="versenum">8.</div> Sephatian pojista, Sebadia Mikaelin poika, ja hanen kanssansa kahdeksankymmenta miesta;	
+<div class="theverse"><div class="versenum">8.</div> Sephatian pojista, Sebadia Mikaelin poika, ja hanen kanssansa kahdeksankymmenta miesta;	</div>
 
-<div class="versenum">9.</div> Joabin pojista, Obadia Jehielin poika ja hanen kanssansa kaksisataa ja kahdeksantoistakymmenta miesta;	
+<div class="theverse"><div class="versenum">9.</div> Joabin pojista, Obadia Jehielin poika ja hanen kanssansa kaksisataa ja kahdeksantoistakymmenta miesta;	</div>
 
-<div class="versenum">10.</div> Selomitin pojista, Josiphian poika, ja hanen kanssansa sata ja kuusikymmenta miesta;	
+<div class="theverse"><div class="versenum">10.</div> Selomitin pojista, Josiphian poika, ja hanen kanssansa sata ja kuusikymmenta miesta;	</div>
 
-<div class="versenum">11.</div> Bebain pojista, Sakaria Bebain poika, ja hanen kanssansa kahdeksankolmattakymmenta miesta;	
+<div class="theverse"><div class="versenum">11.</div> Bebain pojista, Sakaria Bebain poika, ja hanen kanssansa kahdeksankolmattakymmenta miesta;	</div>
 
-<div class="versenum">12.</div> Asgadin pojista, Johanan nuorin poika, ja hanen kanssansa sata ja kymmenen miesta;	
+<div class="theverse"><div class="versenum">12.</div> Asgadin pojista, Johanan nuorin poika, ja hanen kanssansa sata ja kymmenen miesta;	</div>
 
-<div class="versenum">13.</div> Adonikamin viimeisista pojista, joiden nimet ovat: Eliphelet, Jehiel ja Semaja, ja heidan kanssansa kuusikymmenta miesta;	
+<div class="theverse"><div class="versenum">13.</div> Adonikamin viimeisista pojista, joiden nimet ovat: Eliphelet, Jehiel ja Semaja, ja heidan kanssansa kuusikymmenta miesta;	</div>
 
-<div class="versenum">14.</div> Bigvain pojista, Utai ja Sabbud ja heidan kanssansa seitsemankymmenta miesta.	
+<div class="theverse"><div class="versenum">14.</div> Bigvain pojista, Utai ja Sabbud ja heidan kanssansa seitsemankymmenta miesta.	</div>
 
-<div class="versenum">15.</div> Ja mina kokosin heidat sen virran tyko, joka tulee Ahavaan, ja oleskelimme siina kolme paivaa. Ja kuin mina visusti katselin kansan ja papit, en mina loytanyt yhtakaan Levilaista.	
+<div class="theverse"><div class="versenum">15.</div> Ja mina kokosin heidat sen virran tyko, joka tulee Ahavaan, ja oleskelimme siina kolme paivaa. Ja kuin mina visusti katselin kansan ja papit, en mina loytanyt yhtakaan Levilaista.	</div>
 
-<div class="versenum">16.</div> Niin mina lahetin Elieserin, Arielin, Semajan, Elnatanin, Jaribin, Elnatanin, Natanin, Sakarian ja Mesullamin, paamiehet, ja Jojaribin ja Elnatanin, opettajat;	
+<div class="theverse"><div class="versenum">16.</div> Niin mina lahetin Elieserin, Arielin, Semajan, Elnatanin, Jaribin, Elnatanin, Natanin, Sakarian ja Mesullamin, paamiehet, ja Jojaribin ja Elnatanin, opettajat;	</div>
 
-<div class="versenum">17.</div> Ja lahetin ne Iddon tyko, joka oli paamies Kasiphian paikkakunnassa, tuomaan meille palvelioita Jumalamme huoneesen, ja mina panin heidan suuhunsa sanat, mita heidan piti Iddolle puhuman ja hanen veljillensa Netinimeille Kasiphian paikkakunnassa.	
+<div class="theverse"><div class="versenum">17.</div> Ja lahetin ne Iddon tyko, joka oli paamies Kasiphian paikkakunnassa, tuomaan meille palvelioita Jumalamme huoneesen, ja mina panin heidan suuhunsa sanat, mita heidan piti Iddolle puhuman ja hanen veljillensa Netinimeille Kasiphian paikkakunnassa.	</div>
 
-<div class="versenum">18.</div> Ja he toivat meille, Jumalamme hyvan kaden jalkeen meidan ylitsemme, viisaan miehen, Mahelin pojista Levin pojan, Israelin pojan, ja Serebian hanen poikainsa ja veljeinsa kanssa, kahdeksantoistakymmenta;	
+<div class="theverse"><div class="versenum">18.</div> Ja he toivat meille, Jumalamme hyvan kaden jalkeen meidan ylitsemme, viisaan miehen, Mahelin pojista Levin pojan, Israelin pojan, ja Serebian hanen poikainsa ja veljeinsa kanssa, kahdeksantoistakymmenta;	</div>
 
-<div class="versenum">19.</div> Ja Hasabian ja Jesaian hanen kanssansa, Merarin pojista, hanen veljensa ja heidan poikainsa kanssa kaksikymmenta;	
+<div class="theverse"><div class="versenum">19.</div> Ja Hasabian ja Jesaian hanen kanssansa, Merarin pojista, hanen veljensa ja heidan poikainsa kanssa kaksikymmenta;	</div>
 
-<div class="versenum">20.</div> Ja Netinimeista, jotka David ja paamiehet olivat panneet Levilaisia palvelemaan, kaksisataa ja kaksikymmenta Netinimia; kaikki nimeltansa nimitetyt.	
+<div class="theverse"><div class="versenum">20.</div> Ja Netinimeista, jotka David ja paamiehet olivat panneet Levilaisia palvelemaan, kaksisataa ja kaksikymmenta Netinimia; kaikki nimeltansa nimitetyt.	</div>
 
-<div class="versenum">21.</div> Ja mina kuulutin siella paaston Ahavan virran tykona, noyryyttaaksemme mieltamme Jumalamme edessa, ja kysyaksemme hanelta oikiaa tieta meille ja meidan lapsillemme ja kaikille meidan kaluillemme.	
+<div class="theverse"><div class="versenum">21.</div> Ja mina kuulutin siella paaston Ahavan virran tykona, noyryyttaaksemme mieltamme Jumalamme edessa, ja kysyaksemme hanelta oikiaa tieta meille ja meidan lapsillemme ja kaikille meidan kaluillemme.	</div>
 
-<div class="versenum">22.</div> Silla en mina rohjennut anoa kuninkaalta sutavakea ja huovia varjelemaan meita tiella vihollisilta; silla me olimme sanoneet kuninkaalle, etta meidan Jumalamme kasi on hyvaksi kaikkein ylitse, jotka hanta etsivat; mutta hanen vakevyytensa ja vihansa on kaikkein niiden paalla, jotka hanen hylkaavat.	
+<div class="theverse"><div class="versenum">22.</div> Silla en mina rohjennut anoa kuninkaalta sutavakea ja huovia varjelemaan meita tiella vihollisilta; silla me olimme sanoneet kuninkaalle, etta meidan Jumalamme kasi on hyvaksi kaikkein ylitse, jotka hanta etsivat; mutta hanen vakevyytensa ja vihansa on kaikkein niiden paalla, jotka hanen hylkaavat.	</div>
 
-<div class="versenum">23.</div> Niin me paastosimme ja rukoilimme meidan Jumalaamme sen edesta; ja han kuuli meita.	
+<div class="theverse"><div class="versenum">23.</div> Niin me paastosimme ja rukoilimme meidan Jumalaamme sen edesta; ja han kuuli meita.	</div>
 
-<div class="versenum">24.</div> Ja mina valitsin ylimmaisista papeista kaksitoistakymmenta: Serebian ja Hasabian, ja kymmenen heidan veljistansa heidan kanssansa;	
+<div class="theverse"><div class="versenum">24.</div> Ja mina valitsin ylimmaisista papeista kaksitoistakymmenta: Serebian ja Hasabian, ja kymmenen heidan veljistansa heidan kanssansa;	</div>
 
-<div class="versenum">25.</div> Ja mina punnitsin heille hopian ja kullan, ja ylennysastiat meidan Jumalamme huoneesen, mitka kuningas ja hanen neuvonantajansa ja paamiehensa, ja koko Israel, joka saapuvilla oli, olivat antaneet ylennykseksi.	
+<div class="theverse"><div class="versenum">25.</div> Ja mina punnitsin heille hopian ja kullan, ja ylennysastiat meidan Jumalamme huoneesen, mitka kuningas ja hanen neuvonantajansa ja paamiehensa, ja koko Israel, joka saapuvilla oli, olivat antaneet ylennykseksi.	</div>
 
-<div class="versenum">26.</div> Ja punnitsin heidan kateensa hopiaa kuusisataa ja viisikymmenta leiviskaa, ja hopia- astioita sata leiviskaa, ja sata leiviskaa kultaa,	
+<div class="theverse"><div class="versenum">26.</div> Ja punnitsin heidan kateensa hopiaa kuusisataa ja viisikymmenta leiviskaa, ja hopia- astioita sata leiviskaa, ja sata leiviskaa kultaa,	</div>
 
-<div class="versenum">27.</div> Ja kaksikymmenta kultaista maljaa, jotka painoivat tuhannen kultapenninkia, ja kaksi kallista vaskiastiaa, niin kirkasta kuin kulta.	
+<div class="theverse"><div class="versenum">27.</div> Ja kaksikymmenta kultaista maljaa, jotka painoivat tuhannen kultapenninkia, ja kaksi kallista vaskiastiaa, niin kirkasta kuin kulta.	</div>
 
-<div class="versenum">28.</div> Ja mina sanoin heille: te olette pyhat Herralle, niin myos ovat astiat pyhat, ja kulta ja hopia on hyvalla mielella annettu Herralle isainne Jumalalle.	
+<div class="theverse"><div class="versenum">28.</div> Ja mina sanoin heille: te olette pyhat Herralle, niin myos ovat astiat pyhat, ja kulta ja hopia on hyvalla mielella annettu Herralle isainne Jumalalle.	</div>
 
-<div class="versenum">29.</div> Valvokaat siis ja pitakaat ne niinkauvan tallella, etta te ne jalleen punnitsette ulos pappein ja Levilaisten, paamiesten ja Israelin ylimmaisten isain edessa, Jerusalemissa, Herran huoneen arkkuihin.	
+<div class="theverse"><div class="versenum">29.</div> Valvokaat siis ja pitakaat ne niinkauvan tallella, etta te ne jalleen punnitsette ulos pappein ja Levilaisten, paamiesten ja Israelin ylimmaisten isain edessa, Jerusalemissa, Herran huoneen arkkuihin.	</div>
 
-<div class="versenum">30.</div> Niin papit ja Levilaiset ottivat vastaan punnitun hopian ja kullan ja astiat, viedaksensa Jerusalemiin Jumalamme huoneeseen.	
+<div class="theverse"><div class="versenum">30.</div> Niin papit ja Levilaiset ottivat vastaan punnitun hopian ja kullan ja astiat, viedaksensa Jerusalemiin Jumalamme huoneeseen.	</div>
 
-<div class="versenum">31.</div> Ja me laksimme Ahavan virran tykoa, toisena paivana toistakymmenta ensimaista kuuta, menemaan Jerusalemiin. Ja meidan Jumalamme kasi oli meidan paallamme, joka meita pelasti vihollistemme kasista ja vaijymisesta tiella.	
+<div class="theverse"><div class="versenum">31.</div> Ja me laksimme Ahavan virran tykoa, toisena paivana toistakymmenta ensimaista kuuta, menemaan Jerusalemiin. Ja meidan Jumalamme kasi oli meidan paallamme, joka meita pelasti vihollistemme kasista ja vaijymisesta tiella.	</div>
 
-<div class="versenum">32.</div> Ja me tulimme Jerusalemiin ja oleskelimme siella kolme paivaa.	
+<div class="theverse"><div class="versenum">32.</div> Ja me tulimme Jerusalemiin ja oleskelimme siella kolme paivaa.	</div>
 
-<div class="versenum">33.</div> Mutta neljantena paivana punnittiin hopia ja kulta, ja astiat meidan Jumalamme huoneesen, papin Urian pojan Meremotin kaden alla, ja hanen kanssansa oli Eleatsar Pinehaan poika ja heidan kanssansa Josabad Jesuan poika ja Noadia Binnuin poika, Levilaiset.	
+<div class="theverse"><div class="versenum">33.</div> Mutta neljantena paivana punnittiin hopia ja kulta, ja astiat meidan Jumalamme huoneesen, papin Urian pojan Meremotin kaden alla, ja hanen kanssansa oli Eleatsar Pinehaan poika ja heidan kanssansa Josabad Jesuan poika ja Noadia Binnuin poika, Levilaiset.	</div>
 
-<div class="versenum">34.</div> Jokaisen luvun ja painon jalkeen; ja kaikki se paino kirjoitettiin siihen aikaan.	
+<div class="theverse"><div class="versenum">34.</div> Jokaisen luvun ja painon jalkeen; ja kaikki se paino kirjoitettiin siihen aikaan.	</div>
 
-<div class="versenum">35.</div> Ja vankeuden lapset, jotka olivat tulleet vankeudesta, uhrasivat Israelin Jumalalle polttouhria, kaksitoistakymmenta mullia, koko Israelin edesta, yhdeksankymmenta ja kuusi oinasta, seitsemankahdeksattakymmenta karitsaa, kaksitoistakymmenta kaurista syntiuhriksi, kaikki tyynni polttouhriksi Herralle.	
+<div class="theverse"><div class="versenum">35.</div> Ja vankeuden lapset, jotka olivat tulleet vankeudesta, uhrasivat Israelin Jumalalle polttouhria, kaksitoistakymmenta mullia, koko Israelin edesta, yhdeksankymmenta ja kuusi oinasta, seitsemankahdeksattakymmenta karitsaa, kaksitoistakymmenta kaurista syntiuhriksi, kaikki tyynni polttouhriksi Herralle.	</div>
 
-<div class="versenum">36.</div> Ja he antoivat kuninkaan kirjat ja kaskyn kuninkaan maaherroille ja paamiehille talla puolella virtaa, ja korottivat kansan ja Jumalan huoneen.	
+<div class="theverse"><div class="versenum">36.</div> Ja he antoivat kuninkaan kirjat ja kaskyn kuninkaan maaherroille ja paamiehille talla puolella virtaa, ja korottivat kansan ja Jumalan huoneen.	</div>
 </body>
 </html>

@@ -4,118 +4,118 @@
 </head>
 <body><div class="chaptertitle">3 Mooseksen 14	</div>
 	
-<div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	
+<div class="theverse"><div class="versenum">1.</div> Ja Herra puhui Mosekselle, sanoen:	</div>
 
-<div class="versenum">2.</div> Ja tama on spitalisen saaty: koska han puhdistetaan, han pitaa tuotaman papin tyko.	
+<div class="theverse"><div class="versenum">2.</div> Ja tama on spitalisen saaty: koska han puhdistetaan, han pitaa tuotaman papin tyko.	</div>
 
-<div class="versenum">3.</div> Ja papin pitaa kayman ulos leirista, katselemaan hanta, jos spitalin haava on parantunut spitalisesta.	
+<div class="theverse"><div class="versenum">3.</div> Ja papin pitaa kayman ulos leirista, katselemaan hanta, jos spitalin haava on parantunut spitalisesta.	</div>
 
-<div class="versenum">4.</div> Ja pappi kaskekaan sen, joka puhdistetaan, ottaa kaksi elavaa puhdasta lintua, ja sedripuuta, ja tulipunaiseksi painettua villaa, ja isoppia.	
+<div class="theverse"><div class="versenum">4.</div> Ja pappi kaskekaan sen, joka puhdistetaan, ottaa kaksi elavaa puhdasta lintua, ja sedripuuta, ja tulipunaiseksi painettua villaa, ja isoppia.	</div>
 
-<div class="versenum">5.</div> Ja pappi kaskekaan sen teurastaa yhden linnun saviastiassa, vuotavan veden tykona.	
+<div class="theverse"><div class="versenum">5.</div> Ja pappi kaskekaan sen teurastaa yhden linnun saviastiassa, vuotavan veden tykona.	</div>
 
-<div class="versenum">6.</div> Ja ottakaan elavan linnun sedripuun kanssa, tulipunalla painetun villan ja isopin, ja kastakaan tapetun linnun vereen, vuotavan veden tykona.	
+<div class="theverse"><div class="versenum">6.</div> Ja ottakaan elavan linnun sedripuun kanssa, tulipunalla painetun villan ja isopin, ja kastakaan tapetun linnun vereen, vuotavan veden tykona.	</div>
 
-<div class="versenum">7.</div> Ja priiskottakaan spitalista puhdistettavan paalle seitseman kertaa: ja niin puhdistakaan hanen, ja antakaan elavan linnun lentaa kedolle.	
+<div class="theverse"><div class="versenum">7.</div> Ja priiskottakaan spitalista puhdistettavan paalle seitseman kertaa: ja niin puhdistakaan hanen, ja antakaan elavan linnun lentaa kedolle.	</div>
 
-<div class="versenum">8.</div> Mutta puhdistettu peskaan vaatteensa, ja ajelkaan kaikki hiuksensa, ja peskaan itsensa vedessa ja niin on han puhdas. Menkaan sitte leiriin, kuitenkin asukaan ulkona majastansa seitseman paivaa.	
+<div class="theverse"><div class="versenum">8.</div> Mutta puhdistettu peskaan vaatteensa, ja ajelkaan kaikki hiuksensa, ja peskaan itsensa vedessa ja niin on han puhdas. Menkaan sitte leiriin, kuitenkin asukaan ulkona majastansa seitseman paivaa.	</div>
 
-<div class="versenum">9.</div> Ja seitsemantena paivana pitaa hanen ajeleman kaikki hiukset paastansa, ja partansa ja karvat silmakulmistansa, niin etta kaikki karvat ovat ajellut, ja pitaa peseman vaatteensa, ja peseman ihonsa vedella, niin on han puhdas.	
+<div class="theverse"><div class="versenum">9.</div> Ja seitsemantena paivana pitaa hanen ajeleman kaikki hiukset paastansa, ja partansa ja karvat silmakulmistansa, niin etta kaikki karvat ovat ajellut, ja pitaa peseman vaatteensa, ja peseman ihonsa vedella, niin on han puhdas.	</div>
 
-<div class="versenum">10.</div> Ja kahdeksantena paivana pitaa hanen ottaman kaksi virheetointa karitsaa, ja virheettoman vuosikuntaisen lampaan, niin myos kolme kymmenesta sampylajauhoja ruokauhriksi, oljylla sekoitettuja, ja yhden login oljya.	
+<div class="theverse"><div class="versenum">10.</div> Ja kahdeksantena paivana pitaa hanen ottaman kaksi virheetointa karitsaa, ja virheettoman vuosikuntaisen lampaan, niin myos kolme kymmenesta sampylajauhoja ruokauhriksi, oljylla sekoitettuja, ja yhden login oljya.	</div>
 
-<div class="versenum">11.</div> Niin pitaa papin, joka puhdisti, asettaman puhdistetun ja taman kalun, Herran eteen seurakunnan majan oven edessa.	
+<div class="theverse"><div class="versenum">11.</div> Niin pitaa papin, joka puhdisti, asettaman puhdistetun ja taman kalun, Herran eteen seurakunnan majan oven edessa.	</div>
 
-<div class="versenum">12.</div> Ja papin pitaa ottaman yhden karitsan, ja uhraaman vikauhriksi, oljylogin kanssa, ja pitaa ne haalyttamam haalytykseksi Herran edessa.	
+<div class="theverse"><div class="versenum">12.</div> Ja papin pitaa ottaman yhden karitsan, ja uhraaman vikauhriksi, oljylogin kanssa, ja pitaa ne haalyttamam haalytykseksi Herran edessa.	</div>
 
-<div class="versenum">13.</div> Ja sitte teurastaman karitsan silla paikalla, kussa rikosuhri ja polttouhri teurastetaan, pyhassa siassa; silla niinkuin rikosuhri, niin myos vikauhrikin on papin oma; silla se on kaikkein pyhin.	
+<div class="theverse"><div class="versenum">13.</div> Ja sitte teurastaman karitsan silla paikalla, kussa rikosuhri ja polttouhri teurastetaan, pyhassa siassa; silla niinkuin rikosuhri, niin myos vikauhrikin on papin oma; silla se on kaikkein pyhin.	</div>
 
-<div class="versenum">14.</div> Ja papin pitaa ottaman vikauhrin verta ja sivuman puhdistetun oikian korvan lehteen, niin myos oikian kaden peukaloon, ja oikian jalan isoon varpaaseen.	
+<div class="theverse"><div class="versenum">14.</div> Ja papin pitaa ottaman vikauhrin verta ja sivuman puhdistetun oikian korvan lehteen, niin myos oikian kaden peukaloon, ja oikian jalan isoon varpaaseen.	</div>
 
-<div class="versenum">15.</div> Ja papin pitaa ottaman oljylogista ja vuodattaman papin vasempaan kateen.	
+<div class="theverse"><div class="versenum">15.</div> Ja papin pitaa ottaman oljylogista ja vuodattaman papin vasempaan kateen.	</div>
 
-<div class="versenum">16.</div> Ja papin pitaa kastaman oikian katensa sormen oljyyn, joka hanen vasemmassa kadessansa on, ja priiskottaman oljya sormellansa seitseman kertaa Herran edessa.	
+<div class="theverse"><div class="versenum">16.</div> Ja papin pitaa kastaman oikian katensa sormen oljyyn, joka hanen vasemmassa kadessansa on, ja priiskottaman oljya sormellansa seitseman kertaa Herran edessa.	</div>
 
-<div class="versenum">17.</div> Vaan kateensa jaaneesta oljysta pitaa papin paneman puhdistetun oikian korvan lehteen, ja oikiaan peukaloon, ja oikian jalan isoon varpaaseen, vikauhrin veren paalle.	
+<div class="theverse"><div class="versenum">17.</div> Vaan kateensa jaaneesta oljysta pitaa papin paneman puhdistetun oikian korvan lehteen, ja oikiaan peukaloon, ja oikian jalan isoon varpaaseen, vikauhrin veren paalle.	</div>
 
-<div class="versenum">18.</div> Kateensa jaaneen oljyn, pitaa papin paneman puhdistetun paan paalle, ja papin pitaa sovittaman hanta Herran edessa.	
+<div class="theverse"><div class="versenum">18.</div> Kateensa jaaneen oljyn, pitaa papin paneman puhdistetun paan paalle, ja papin pitaa sovittaman hanta Herran edessa.	</div>
 
-<div class="versenum">19.</div> Ja papin pitaa tekeman rikosuhrin, ja sovittaman puhdistetun hanen saastaisuudestansa, ja sen jalkeen teurastaman polttouhrin.	
+<div class="theverse"><div class="versenum">19.</div> Ja papin pitaa tekeman rikosuhrin, ja sovittaman puhdistetun hanen saastaisuudestansa, ja sen jalkeen teurastaman polttouhrin.	</div>
 
-<div class="versenum">20.</div> Ja papin pitaa uhraaman polttouhrin ja ruokauhrin alttarilla, ja papin pitaa sovittaman hanta, niin han on puhdas.	
+<div class="theverse"><div class="versenum">20.</div> Ja papin pitaa uhraaman polttouhrin ja ruokauhrin alttarilla, ja papin pitaa sovittaman hanta, niin han on puhdas.	</div>
 
-<div class="versenum">21.</div> Jos han on koyha eika ole hanella varaa, niin ottakaan karitsan vikauhrinsa edesta haalytykseksi, sovittaakseen hanta, ja yhden kymmeneksen sampylajauhoja, sekoitetun oljylla, ruokauhriksi, ja login oljya,	
+<div class="theverse"><div class="versenum">21.</div> Jos han on koyha eika ole hanella varaa, niin ottakaan karitsan vikauhrinsa edesta haalytykseksi, sovittaakseen hanta, ja yhden kymmeneksen sampylajauhoja, sekoitetun oljylla, ruokauhriksi, ja login oljya,	</div>
 
-<div class="versenum">22.</div> Ja kaksi mettista eli kaksi kyyhkylaisen poikaa, jotka han voi saada: toinen olkoon rikosuhriksi, ja toinen polttouhriksi.	
+<div class="theverse"><div class="versenum">22.</div> Ja kaksi mettista eli kaksi kyyhkylaisen poikaa, jotka han voi saada: toinen olkoon rikosuhriksi, ja toinen polttouhriksi.	</div>
 
-<div class="versenum">23.</div> Ja kantakaan sen papille kahdeksantena paivana puhdistukseksensa, seurakunnan majan oven eteen, Herran edessa.	
+<div class="theverse"><div class="versenum">23.</div> Ja kantakaan sen papille kahdeksantena paivana puhdistukseksensa, seurakunnan majan oven eteen, Herran edessa.	</div>
 
-<div class="versenum">24.</div> Niin pitaa papin ottaman vikauhrin karitsan, ja login oljya, ja papin pitaa ne haalyttaman haalytykseksi Herran edessa,	
+<div class="theverse"><div class="versenum">24.</div> Niin pitaa papin ottaman vikauhrin karitsan, ja login oljya, ja papin pitaa ne haalyttaman haalytykseksi Herran edessa,	</div>
 
-<div class="versenum">25.</div> Ja teurastaman vikauhrin karitsan, ja papin pitaa ottaman vikauhrin verta, ja sivuman puhdistetun oikian korvan lehteen, niin myos oikian kaden peukaloon, ja oikian jalan isoon varpaaseen.	
+<div class="theverse"><div class="versenum">25.</div> Ja teurastaman vikauhrin karitsan, ja papin pitaa ottaman vikauhrin verta, ja sivuman puhdistetun oikian korvan lehteen, niin myos oikian kaden peukaloon, ja oikian jalan isoon varpaaseen.	</div>
 
-<div class="versenum">26.</div> Ja papin pitaa vuodattaman oljya papin vasempaan kateen.	
+<div class="theverse"><div class="versenum">26.</div> Ja papin pitaa vuodattaman oljya papin vasempaan kateen.	</div>
 
-<div class="versenum">27.</div> Ja papin pitaa priiskottaman oikian kaden sormella oljya, joka on hanen vasemmassa kadessansa, seitseman kertaa Herran edessa.	
+<div class="theverse"><div class="versenum">27.</div> Ja papin pitaa priiskottaman oikian kaden sormella oljya, joka on hanen vasemmassa kadessansa, seitseman kertaa Herran edessa.	</div>
 
-<div class="versenum">28.</div> Kateensa jaaneesta oljysta pitaa papin panenman puhdistetun oikian korvan lehteen, ja oikian kaden peukaloon, ja oikian jalan isoon varpaaseen, vikauhrin veren paalle.	
+<div class="theverse"><div class="versenum">28.</div> Kateensa jaaneesta oljysta pitaa papin panenman puhdistetun oikian korvan lehteen, ja oikian kaden peukaloon, ja oikian jalan isoon varpaaseen, vikauhrin veren paalle.	</div>
 
-<div class="versenum">29.</div> Ja kateensa jaaneen oljyn pankaan papin puhdistetun paan paalle, ja sovittakoon hanta Herran edessa.	
+<div class="theverse"><div class="versenum">29.</div> Ja kateensa jaaneen oljyn pankaan papin puhdistetun paan paalle, ja sovittakoon hanta Herran edessa.	</div>
 
-<div class="versenum">30.</div> Ja valmistakaan mettisia, taikka kyhkylaisen poikia, jotka han on voinut saada,	
+<div class="theverse"><div class="versenum">30.</div> Ja valmistakaan mettisia, taikka kyhkylaisen poikia, jotka han on voinut saada,	</div>
 
-<div class="versenum">31.</div> Nimittain niita, joita han on voinut saada: yhden rikosuhriksi ja toisen polttouhriksi, ynna ruokauhrin kanssa; ja niin pitaa papin sovittaman puhdistetun Herran edessa,	
+<div class="theverse"><div class="versenum">31.</div> Nimittain niita, joita han on voinut saada: yhden rikosuhriksi ja toisen polttouhriksi, ynna ruokauhrin kanssa; ja niin pitaa papin sovittaman puhdistetun Herran edessa,	</div>
 
-<div class="versenum">32.</div> Tama on saaty spitalisesta, joka ei voi saada sita, mika hanen puhdistukseensa tarvitaan.	
+<div class="theverse"><div class="versenum">32.</div> Tama on saaty spitalisesta, joka ei voi saada sita, mika hanen puhdistukseensa tarvitaan.	</div>
 
-<div class="versenum">33.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	
+<div class="theverse"><div class="versenum">33.</div> Ja Herra puhui Mosekselle ja Aaronille, sanoen:	</div>
 
-<div class="versenum">34.</div> Koska te tulette Kanaanin maalle, jonka mina annan teille omaisuudeksi, ja mina sen maan huoneesen spitalin haavan annan,	
+<div class="theverse"><div class="versenum">34.</div> Koska te tulette Kanaanin maalle, jonka mina annan teille omaisuudeksi, ja mina sen maan huoneesen spitalin haavan annan,	</div>
 
-<div class="versenum">35.</div> Niin pitaa sen tuleman, jonka huone on, ja ilmoittaman papille, sanoen: minun huoneessani nakyy niinkuin (spitalin) haava;	
+<div class="theverse"><div class="versenum">35.</div> Niin pitaa sen tuleman, jonka huone on, ja ilmoittaman papille, sanoen: minun huoneessani nakyy niinkuin (spitalin) haava;	</div>
 
-<div class="versenum">36.</div> Niin pitaa papin kaskeman heidan lakaista huoneen, ennenkuin pappi siihen menee katsomaan haavaa, ettei kaikki, jotka huoneessa ovat, saastutettaisi: sitte pitaa papin meneman katselemaan huonetta.	
+<div class="theverse"><div class="versenum">36.</div> Niin pitaa papin kaskeman heidan lakaista huoneen, ennenkuin pappi siihen menee katsomaan haavaa, ettei kaikki, jotka huoneessa ovat, saastutettaisi: sitte pitaa papin meneman katselemaan huonetta.	</div>
 
-<div class="versenum">37.</div> Koska han nakee haavan, ja loytaa, etta huoneen seinissa viheriaiset ja punahtavat onnet ovat, ja ovat nahda matalammat muuta seinaa;	
+<div class="theverse"><div class="versenum">37.</div> Koska han nakee haavan, ja loytaa, etta huoneen seinissa viheriaiset ja punahtavat onnet ovat, ja ovat nahda matalammat muuta seinaa;	</div>
 
-<div class="versenum">38.</div> Niin lahtekaan pappi huoneen ovesta, ja sulkekaan huoneen kiinni seitsemaksi paivaksi.	
+<div class="theverse"><div class="versenum">38.</div> Niin lahtekaan pappi huoneen ovesta, ja sulkekaan huoneen kiinni seitsemaksi paivaksi.	</div>
 
-<div class="versenum">39.</div> Ja koska pappi seitsemantena paivana palajaa ja nakee haavan itsensa levittaneeksi huoneen seiniin;	
+<div class="theverse"><div class="versenum">39.</div> Ja koska pappi seitsemantena paivana palajaa ja nakee haavan itsensa levittaneeksi huoneen seiniin;	</div>
 
-<div class="versenum">40.</div> Niin pitaa papin kaskeman heidan kangottaa ulos kivia, joissa haava on, ja heittaa niita kaupungista ulos, saastaiseen paikkaan.	
+<div class="theverse"><div class="versenum">40.</div> Niin pitaa papin kaskeman heidan kangottaa ulos kivia, joissa haava on, ja heittaa niita kaupungista ulos, saastaiseen paikkaan.	</div>
 
-<div class="versenum">41.</div> Ja huone pitaa sisalta kaikki ymparinsa puhtaaksi kaavittaman, ja kaavittu savi heitettaman kaupungista ulos, saastaiseen paikkaan.	
+<div class="theverse"><div class="versenum">41.</div> Ja huone pitaa sisalta kaikki ymparinsa puhtaaksi kaavittaman, ja kaavittu savi heitettaman kaupungista ulos, saastaiseen paikkaan.	</div>
 
-<div class="versenum">42.</div> Ja heidan pitaa ottaman toiset kivet, ja paneman niiden kivein siaan, ja ottaman toisen saven, ja sivuman huoneen.	
+<div class="theverse"><div class="versenum">42.</div> Ja heidan pitaa ottaman toiset kivet, ja paneman niiden kivein siaan, ja ottaman toisen saven, ja sivuman huoneen.	</div>
 
-<div class="versenum">43.</div> Jos siis haava jallensa tulee, ja pakahtuu ulos huoneessa sittekuin kivet ovat kangotetut ulos, ja huone vastuudesta sivuttu;	
+<div class="theverse"><div class="versenum">43.</div> Jos siis haava jallensa tulee, ja pakahtuu ulos huoneessa sittekuin kivet ovat kangotetut ulos, ja huone vastuudesta sivuttu;	</div>
 
-<div class="versenum">44.</div> Niin pitaa papin meneman sen sisalle, ja koska han nakee haavan laskeneeksi itsensa leviammalle huoneessa, niin on tosin kuluttuvainen spitali siina huoneessa, ja se on saastainen.	
+<div class="theverse"><div class="versenum">44.</div> Niin pitaa papin meneman sen sisalle, ja koska han nakee haavan laskeneeksi itsensa leviammalle huoneessa, niin on tosin kuluttuvainen spitali siina huoneessa, ja se on saastainen.	</div>
 
-<div class="versenum">45.</div> Sentahden pitaa se huone sarjettaman, seka kivet etta puut, ja kaikki savi huoneesta, ja vietava kaupungista ulos, saastaiseen paikkaan.	
+<div class="theverse"><div class="versenum">45.</div> Sentahden pitaa se huone sarjettaman, seka kivet etta puut, ja kaikki savi huoneesta, ja vietava kaupungista ulos, saastaiseen paikkaan.	</div>
 
-<div class="versenum">46.</div> Ja se joka kay huoneessa niinkauvan kuin se teljetty on, hanen pitaa oleman saastainen ehtoosen asti.	
+<div class="theverse"><div class="versenum">46.</div> Ja se joka kay huoneessa niinkauvan kuin se teljetty on, hanen pitaa oleman saastainen ehtoosen asti.	</div>
 
-<div class="versenum">47.</div> Ja sen joka siina huoneessa makaa, pitaa vaatteensa peseman, ja se joka syo siina huoneessa, pitaa vaatteensa peseman.	
+<div class="theverse"><div class="versenum">47.</div> Ja sen joka siina huoneessa makaa, pitaa vaatteensa peseman, ja se joka syo siina huoneessa, pitaa vaatteensa peseman.	</div>
 
-<div class="versenum">48.</div> Jos myos pappi menee ja nakee, ettei haava ole laskenut itseansa leviammelle huoneessa, sittekuin se sivuttu on, niin sanokaan sen puhtaaksi; silla haava on parannut.	
+<div class="theverse"><div class="versenum">48.</div> Jos myos pappi menee ja nakee, ettei haava ole laskenut itseansa leviammelle huoneessa, sittekuin se sivuttu on, niin sanokaan sen puhtaaksi; silla haava on parannut.	</div>
 
-<div class="versenum">49.</div> Ja pitaa ottaman huoneen puhdistamiseksi kaksi lintua, niin myos sedripuuta, ja tulipunalla painetuita villoja, ja isoppia,	
+<div class="theverse"><div class="versenum">49.</div> Ja pitaa ottaman huoneen puhdistamiseksi kaksi lintua, niin myos sedripuuta, ja tulipunalla painetuita villoja, ja isoppia,	</div>
 
-<div class="versenum">50.</div> Ja teurastaman toisen linnun savisessa astiassa, vuotavan veden tykona.	
+<div class="theverse"><div class="versenum">50.</div> Ja teurastaman toisen linnun savisessa astiassa, vuotavan veden tykona.	</div>
 
-<div class="versenum">51.</div> Ja pitaa ottaman sedripuun, ja isopin, ja tulipunalla painetuita villoja, ja elavan linnun, ja kastaman ne sen vereen, ja vuotavaan veteen, ja priiskottaman huoneen seitseman kertaa,	
+<div class="theverse"><div class="versenum">51.</div> Ja pitaa ottaman sedripuun, ja isopin, ja tulipunalla painetuita villoja, ja elavan linnun, ja kastaman ne sen vereen, ja vuotavaan veteen, ja priiskottaman huoneen seitseman kertaa,	</div>
 
-<div class="versenum">52.</div> Ja puhdistaman huoneen linnun verella, ja vuotavalla vedella, niin myos elavalla linnulla, sedripuulla, isopilla ja tulipunalla painetulla villalla.	
+<div class="theverse"><div class="versenum">52.</div> Ja puhdistaman huoneen linnun verella, ja vuotavalla vedella, niin myos elavalla linnulla, sedripuulla, isopilla ja tulipunalla painetulla villalla.	</div>
 
-<div class="versenum">53.</div> Ja sitte paastakaan elavan linnun lentamaan kaupungista kedolle, ja sovittakaan huoneen, niin se on puhdas.	
+<div class="theverse"><div class="versenum">53.</div> Ja sitte paastakaan elavan linnun lentamaan kaupungista kedolle, ja sovittakaan huoneen, niin se on puhdas.	</div>
 
-<div class="versenum">54.</div> Tama on kaikkinaisen spitalin ja syhelman haavain saaty:	
+<div class="theverse"><div class="versenum">54.</div> Tama on kaikkinaisen spitalin ja syhelman haavain saaty:	</div>
 
-<div class="versenum">55.</div> Vaatteen ja huoneen spitalin,	
+<div class="theverse"><div class="versenum">55.</div> Vaatteen ja huoneen spitalin,	</div>
 
-<div class="versenum">56.</div> Paisumain, pisamain ja putkenpolttamien,	
+<div class="theverse"><div class="versenum">56.</div> Paisumain, pisamain ja putkenpolttamien,	</div>
 
-<div class="versenum">57.</div> Etta pitaa tiedettaman, mika puhdas eli saastainen kunakin paivana oleman pitaa. Tama on saaty spitalista.	
+<div class="theverse"><div class="versenum">57.</div> Etta pitaa tiedettaman, mika puhdas eli saastainen kunakin paivana oleman pitaa. Tama on saaty spitalista.	</div>
 </body>
 </html>

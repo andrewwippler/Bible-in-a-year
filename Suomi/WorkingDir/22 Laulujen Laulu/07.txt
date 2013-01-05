@@ -4,30 +4,30 @@
 </head>
 <body><div class="chaptertitle">Laulujen Laulu 7	</div>
 	
-<div class="versenum">1.</div> Kuinka ihana on sinun kayntos kengissas, sina paamiehen tytar; sinun molemmat lantees ovat yhtalaiset niinkuin kaksi kaatya, jotka taitavan kadet tehneet ovat.	
+<div class="theverse"><div class="versenum">1.</div> Kuinka ihana on sinun kayntos kengissas, sina paamiehen tytar; sinun molemmat lantees ovat yhtalaiset niinkuin kaksi kaatya, jotka taitavan kadet tehneet ovat.	</div>
 
-<div class="versenum">2.</div> Sinun napas niinkuin ympyriainen malja, josta ei koskaan juoma puutu; sinun vatsas on niinkuin nisulaja, istutettu ympari ruusuilla.	
+<div class="theverse"><div class="versenum">2.</div> Sinun napas niinkuin ympyriainen malja, josta ei koskaan juoma puutu; sinun vatsas on niinkuin nisulaja, istutettu ympari ruusuilla.	</div>
 
-<div class="versenum">3.</div> Sinun molemmat rintas ovat niinkuin kaksi nuorta metsavuohen kaksoista.	
+<div class="theverse"><div class="versenum">3.</div> Sinun molemmat rintas ovat niinkuin kaksi nuorta metsavuohen kaksoista.	</div>
 
-<div class="versenum">4.</div> Sinun kaulas on niinkuin elephantinluinen torni; sinun silmas ovat niinkuin Hesbonin kalalammikot Batrabbimin portissa; sinun nenas on niinkuin Libanonin torni, joka katsoo Damaskuun pain.	
+<div class="theverse"><div class="versenum">4.</div> Sinun kaulas on niinkuin elephantinluinen torni; sinun silmas ovat niinkuin Hesbonin kalalammikot Batrabbimin portissa; sinun nenas on niinkuin Libanonin torni, joka katsoo Damaskuun pain.	</div>
 
-<div class="versenum">5.</div> Sinun paas on niinkuin Karmeli, sinun paas hiukset niinkuin kuninkaan purpura, poimuineen.	
+<div class="theverse"><div class="versenum">5.</div> Sinun paas on niinkuin Karmeli, sinun paas hiukset niinkuin kuninkaan purpura, poimuineen.	</div>
 
-<div class="versenum">6.</div> Kuinka ihana ja suloinen olet sina minun armaani hekumassa.	
+<div class="theverse"><div class="versenum">6.</div> Kuinka ihana ja suloinen olet sina minun armaani hekumassa.	</div>
 
-<div class="versenum">7.</div> Sinun vartes on niinkuin palmupuu, ja sinun rintas ovat viinimarjarypalten kaltaiset.	
+<div class="theverse"><div class="versenum">7.</div> Sinun vartes on niinkuin palmupuu, ja sinun rintas ovat viinimarjarypalten kaltaiset.	</div>
 
-<div class="versenum">8.</div> Mina sanoin: minun taytyy astua palmupuuhun ja ruveta sen oksiin: anna sinun rintas olla niinkuin viinapuun marjarypaleet, sinun sierantes haju on niinkuin omenain (haju),	
+<div class="theverse"><div class="versenum">8.</div> Mina sanoin: minun taytyy astua palmupuuhun ja ruveta sen oksiin: anna sinun rintas olla niinkuin viinapuun marjarypaleet, sinun sierantes haju on niinkuin omenain (haju),	</div>
 
-<div class="versenum">9.</div> Ja sinun suus niinkuin paras viina, joka huokiasti menee ystavaani, ja saattaa uneliasten huulet puhumaan.	
+<div class="theverse"><div class="versenum">9.</div> Ja sinun suus niinkuin paras viina, joka huokiasti menee ystavaani, ja saattaa uneliasten huulet puhumaan.	</div>
 
-<div class="versenum">10.</div> Minun ystavani on minun, ja han himoitsee minua.	
+<div class="theverse"><div class="versenum">10.</div> Minun ystavani on minun, ja han himoitsee minua.	</div>
 
-<div class="versenum">11.</div> Tule, ystavani, kaykaamme tasta kedolle, ja viipykaamme maakylissa.	
+<div class="theverse"><div class="versenum">11.</div> Tule, ystavani, kaykaamme tasta kedolle, ja viipykaamme maakylissa.	</div>
 
-<div class="versenum">12.</div> Etta me nousisimme varhain viinamakeen ja nakisimme, jos viinapuut kukoistavat ja puhkeemaan rupeevat, jos granatomenat ovat tulleet ulos: siella mina annan sinulle minun rakkauteni.	
+<div class="theverse"><div class="versenum">12.</div> Etta me nousisimme varhain viinamakeen ja nakisimme, jos viinapuut kukoistavat ja puhkeemaan rupeevat, jos granatomenat ovat tulleet ulos: siella mina annan sinulle minun rakkauteni.	</div>
 
-<div class="versenum">13.</div> Kukkaset antavat hajunsa, ja meidan ovemme edessa ovat kaikkinaiset hyvat hedelmat: minun ystavani, mina olen sinulle tallelle pannut seka uudet etta vanhat.	
+<div class="theverse"><div class="versenum">13.</div> Kukkaset antavat hajunsa, ja meidan ovemme edessa ovat kaikkinaiset hyvat hedelmat: minun ystavani, mina olen sinulle tallelle pannut seka uudet etta vanhat.	</div>
 </body>
 </html>
