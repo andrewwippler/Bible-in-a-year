@@ -1,6 +1,6 @@
-sed 's/\(.*\)/<html>\n<head>\n<title>\1<\/title>\n<\/head>\n<body><div class="chaptertitle">\1<\/div>/'
-sed -i.bak 's/\([0-9]\{1,3\}[\.]\)/<div class="versenum">\1<\/div>/g' 
-
+sed -i '1 s/\(.*\)/<html>\n<head>\n<title>\1<\/title>\n<\/head>\n<body><div class="chaptertitle">\1<\/div>/'
+sed -i 's/\([0-9]\{1,3\}[\.]\)/<div class="versenum">\1<\/div>/g' 
+sed -i '$ s/\(.*\)/\1<\/body>\n<\/html>/'
 
 echo "2. . 24. 177. 4444." | sed 's/\([0-9]\{1,3\}[\.]\)/he\1he/g' 
 
