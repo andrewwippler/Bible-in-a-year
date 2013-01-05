@@ -1,9 +1,10 @@
 * {
-
+text-align:justify;
 }
 
 .versenum {
 display:inline-block;
+padding-right:10px;
 }
 
 .chaptertitle {
