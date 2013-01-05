@@ -1,0 +1,18 @@
+* {
+
+}
+
+.versenum {
+display:inline-block;
+}
+
+.chaptertitle {
+font-size: 22px;
+font-weight: bold;
+padding:20px;
+text-align: center;
+}
+
+.theverse {
+padding-top: 8px;
+}
