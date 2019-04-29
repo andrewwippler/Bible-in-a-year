@@ -1,0 +1,27 @@
+version: "2"
+services:
+  db:
+    image: mariadb:10
+    volumes:
+      - ./tmp/db:/var/lib/mysql
+      - ./bible_sql:/docker-entrypoint-initdb.d
+    environment:
+      MYSQL_ROOT_PASSWORD: bibleapi
+      MYSQL_DATABASE: bible_databases
+    ports:
+      - 3306:3306
+
+  api:
+    build: api
+    volumes:
+      - ./api/src:/var/www/html
+      - ./api/docker/nginx.conf:/etc/nginx/nginx.conf:ro
+    links:
+      - db
+    environment:
+      - DB_NAME=bible_databases
+      - DB_HOST=db
+      - DB_USER=root
+      - DB_PASSWORD=bibleapi
+    ports:
+      - 8080:80
