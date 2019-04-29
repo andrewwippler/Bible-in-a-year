@@ -25,6 +25,6 @@ cd Bible-in-a-year/McCheyne
 (optional) Use Calibre to convert to another format
 
 # Licenses
-King James Bible - Public Domain
-Pyha Raamattu 1776 - Public Domain
+King James Bible - Public Domain  
+Pyha Raamattu 1776 - Public Domain  
 My Organizations of the text and subsequent work - MIT
