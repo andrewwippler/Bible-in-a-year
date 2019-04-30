@@ -86,12 +86,12 @@ $references = explode(",", $_GET['b']);
             print "<article><header><h3>{$ret->getBook()} {$ret->getChapter()}</h3></header>";
             
             while ($row = $result->fetch_row()) {
-                print "<div class=\"versenum\">${row[6]}</div> <div class=\"versetext\">${row[7]}</div>";
-                if ($_GET['k'] == 1) {
-                    print "<div class=\"clear\"></div>";
-                } else {
-                    print "<br />";
-                }
+                print "<div class=\"verse\"><span class=\"versenum\">${row[6]}</span> <span class=\"versetext\">${row[7]}</span></div>";
+                // if ($_GET['k'] == 1) {
+                //     print "<div class=\"clear\"></div>";
+                // } else {
+                //     print "<br />";
+                // }
             }
             print "</article>";
         } else {

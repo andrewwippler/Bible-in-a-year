@@ -42,12 +42,16 @@ letter-spacing: 0;
 }
 
 .versenum {
-    display: inline-block;
-    float: left;
     vertical-align: super;
-    font-size: 50%;
+    font-size: 60%;
 }
 
+.versetext {
+}
+
+.verse { 
+    padding-bottom: 3px;
+}
 
 
 
