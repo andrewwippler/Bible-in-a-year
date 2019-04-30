@@ -13,13 +13,10 @@ $submitted = $_GET['s'];
 $errors = [];
 
 if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
+    set_time_limit(10*60); // 10 minutes
     try {
         include "bible_to_sql.php";
         $csv = [];
-        var_dump($_POST['kindle-name']);
-        echo " <br />";
-        var_dump($_FILES['uploadedFile']);
-        echo " <br />";
     
         $fp = new SplFileObject($_FILES['uploadedFile']["tmp_name"]);
         $count = 0;
@@ -63,6 +60,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
         // make folder
         $kindle_name = preg_replace('/[^a-zA-Z0-9]/', '', $_POST['kindle-name']);
         $workingPath = __DIR__ ."/output/$kindle_name";
+        exec("rm -rf $workingPath");
         mkdir($workingPath, 0777, true);
 
         // loop 366 times
@@ -94,14 +92,19 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
         file_put_contents("$workingPath/mobi.css", file_get_contents(__DIR__.'/mobi.css'));
         file_put_contents("$workingPath/kf8.css", file_get_contents(__DIR__.'/kf8.css'));
         file_put_contents("$workingPath/styles.css", file_get_contents(__DIR__.'/styles.css'));
-        file_put_contents("$workingPath/$toc.html", file_get_contents(__DIR__.'/toc.html'));
-        file_put_contents("$workingPath/$toc.ncx", file_get_contents(__DIR__.'/toc.ncx'));
+        file_put_contents("$workingPath/toc.html", file_get_contents(__DIR__."/$toc.html"));
+        file_put_contents("$workingPath/toc.ncx", file_get_contents(__DIR__."/$toc.ncx"));
         file_put_contents("$workingPath/cover.jpg", file_get_contents(__DIR__.'/cover.jpg'));
-        file_put_contents("$workingPath/linlibertine_bd-4.1.5ro-webfont.tff", file_get_contents(__DIR__.'/linlibertine_bd-4.1.5ro-webfont.tff'));
+        file_put_contents("$workingPath/linlibertine_bd-4.1.5ro-webfont.ttf", file_get_contents(__DIR__.'/linlibertine_bd-4.1.5ro-webfont.ttf'));
         file_put_contents("$workingPath/linlibertine_re-4.7.5ro-webfont.ttf", file_get_contents(__DIR__.'/linlibertine_re-4.7.5ro-webfont.ttf'));
-        file_put_contents("$workingPath/$kjv", file_get_contents(__DIR__.'/KJVinaYear.opf'));
-        exec("kindlegen $workingPath/KJVinaYear.opf -c2 -verbose -o $workingPath/$kindle_name.mobi");
-        $errors[] = "Download this from <a href='/output/$kindle_name/$kindle_name.mobi'>here</a>";
+        file_put_contents("$workingPath/KJVinaYear.opf", file_get_contents(__DIR__."/$kjv"));
+        $exec = "docker-compose exec api kindlegen $workingPath/KJVinaYear.opf -c2 -verbose -o $kindle_name.mobi";
+        if (empty($returnRes)) {
+            $errors[] = "Done making the file.";
+            $errors[] = "Run from a new terminal: '$exec'";
+        } else {
+            $errors = $output;
+        }
     } catch (Exception $e) {
     }
 } else {

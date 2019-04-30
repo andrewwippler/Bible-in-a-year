@@ -28,9 +28,9 @@ $references = explode(",", $_GET['b']);
 
 ?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <?php if ($_GET['k'] == 1) {
+<?php if ($_GET['k'] == 1) {
     ?> 
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title><?php print $_GET['date']; ?></title>
 <link type="text/css" href="styles.css" rel="Stylesheet"/>
@@ -38,37 +38,36 @@ $references = explode(",", $_GET['b']);
 <link type="text/css" href="mobi.css" media="amzn-mobi" rel="Stylesheet"/>
 </head>
 <body>
-	<h1><?php print $_GET['date']; ?></h1>
-<?php
+    <h1><?php print $_GET['date']; ?></h1>
+    <?php
 } else {
-        ?>
+    ?>
 <html>
 <head>
 <title>Bible Search</title>
 <link type="text/css" href="styles.css" rel="Stylesheet"/>
 </head>
 <body>
-	<?php
-    }
-    if ($_GET['h'] == 1 || $_GET['k'] == 1) {
-    } else {
-        ?>
+    <?php
+}
+if ($_GET['h'] == 1 || $_GET['k'] == 1) {
+} else {
+    ?>
 <header>
-	
+
 <form action="index.php" action="GET">
 <label for="b">Reference(s): </label><input type="text" name="b" value="<?php if ($_GET['b']) {
             echo $_GET['b'];
-        } else {
-            echo $default_text;
-        } ?>" /><input type="submit" value="Search" /><br />
+} else {
+    echo $default_text;
+} ?>" /><input type="submit" value="Search" /><br />
 
 </form>
 
 </header>
 <?php
     } ?>
-<main>
-	<?php 
+<?php 
     //return results
     
     foreach ($references as $r) {
@@ -102,7 +101,6 @@ $references = explode(",", $_GET['b']);
         $stmt->close();
     }
     ?>
-</main>
     <?php if ($_GET['h'] == 1 || $_GET['k'] == 1) {
         print "<div class=\"enddiv\"></div>";
     } else {
