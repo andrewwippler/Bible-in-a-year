@@ -1,6 +1,7 @@
 <?php
 
-function getCrossReferences($id, $database = null) {
+function getCrossReferences($id, $database = null)
+{
     if (!$database) {
         die('you forgot to specify the database in your bible_to_sql call.');
     }
@@ -13,15 +14,14 @@ function getCrossReferences($id, $database = null) {
     $stmt->execute();
     $result = $stmt->get_result();
     if ($row = $result->fetch_array(MYSQLI_NUM)) {
-        $returnArray[] = [  
+        $returnArray[] = [
                             'sv' =>$row[0],
                             'ev' => $row[1]
                         ];
     }
     $stmt->close();
 
-    return implode(', ', $returnArray)
-
+    return implode(', ', $returnArray);
 }
 
 function convertToNumber($book = null, $database = null)
