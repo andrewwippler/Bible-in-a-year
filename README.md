@@ -8,40 +8,15 @@ Read the KJV in a year kindle project.
 
 ## Creating your own reading plan
 
+- Download the linux version of [KindleGen](https://www.amazon.com/gp/feature.html?docId=1000765211)
+- extract the `kindlegen` file and place it in `api/docker/`
 - Bring up the api environment
 
 ```shell
 docker-compose up
 ```
-
-- Curl the api endpoint and format into html
-- Create table of contents
-- Build the kindle version
-- Upload your mobi to kindle
-
-## How to build the kindle version
-
-### Download and install KindleGen
-
-[KindleGen](https://www.amazon.com/gp/feature.html?docId=1000765211)
-
-### Clone the repo
-
-```shell
-git clone git@github.com:andrewwippler/Bible-in-a-year.git
-```
-
-### Navigate to the folder
-
-```shell
-cd Bible-in-a-year/kindle/McCheyne
-```
-
-### Run KindleGen
-
-```shell
-/path/to/kindlegen KJVinaYear.opf -c2 -verbose -o McCheyne.mobi
-```
+Visit http://localhost:8080/kindleGen.php and upload a CSV with a length of 365 or 366 rows.
+Download the generated file and upload it to your kindle.
 
 (optional) Use Calibre to convert to another format
 

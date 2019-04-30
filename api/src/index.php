@@ -95,7 +95,9 @@ $references = explode(",", $_GET['b']);
             }
             print "</article>";
         } else {
-            print "Did not understand your input.";
+            if (!$_GET['k']) {
+                print "Did not understand your input.";
+            } 
         }
         $stmt->close();
     }

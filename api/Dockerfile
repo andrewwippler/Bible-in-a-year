@@ -33,13 +33,18 @@ RUN { \
         echo 'opcache.enable_cli=1'; \
         echo 'upload_max_filesize=5M'; \
         echo 'post_max_size=10M'; \
+        echo 'file_uploads=On'; \
+        echo 'upload_max_filesize=10M'; \
+        echo 'max_file_uploads=5'; \
     } > /usr/local/etc/php/conf.d/opcache-recommended.ini
 
 
 COPY docker/nginx.conf /etc/nginx/nginx.conf
+COPY docker/kindlegen /usr/local/bin/kindlegen
 
 COPY docker/docker-entrypoint.sh /usr/local/bin/
-RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh && \
+    chmod +x /usr/local/bin/kindlegen
 
 WORKDIR /var/www/html
 COPY . .

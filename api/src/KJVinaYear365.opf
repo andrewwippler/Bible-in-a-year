@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
+	<metadata>
+		<dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+			<dc:Title>Bible in a Year</dc:Title>
+			<dc:Language>en</dc:Language>
+			<dc:Creator>God</dc:Creator>
+			<dc:Copyrights></dc:Copyrights>
+			<dc:Publisher>Andrew Wippler</dc:Publisher>
+			<x-metadata>
+				<EmbeddedCover>cover.jpg</EmbeddedCover>
+			</x-metadata>
+		</dc-metadata>
+	</metadata>
+	<manifest>
+		<item id="content" media-type="text/x-oeb1-document" href="toc.html"></item>
+		<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+<item id="January1" media-type="text/x-oeb1-document" href="January1.html"></item>
+<item id="January2" media-type="text/x-oeb1-document" href="January2.html"></item>
+<item id="January3" media-type="text/x-oeb1-document" href="January3.html"></item>
+<item id="January4" media-type="text/x-oeb1-document" href="January4.html"></item>
+<item id="January5" media-type="text/x-oeb1-document" href="January5.html"></item>
+<item id="January6" media-type="text/x-oeb1-document" href="January6.html"></item>
+<item id="January7" media-type="text/x-oeb1-document" href="January7.html"></item>
+<item id="January8" media-type="text/x-oeb1-document" href="January8.html"></item>
+<item id="January9" media-type="text/x-oeb1-document" href="January9.html"></item>
+<item id="January10" media-type="text/x-oeb1-document" href="January10.html"></item>
+<item id="January11" media-type="text/x-oeb1-document" href="January11.html"></item>
+<item id="January12" media-type="text/x-oeb1-document" href="January12.html"></item>
+<item id="January13" media-type="text/x-oeb1-document" href="January13.html"></item>
+<item id="January14" media-type="text/x-oeb1-document" href="January14.html"></item>
+<item id="January15" media-type="text/x-oeb1-document" href="January15.html"></item>
+<item id="January16" media-type="text/x-oeb1-document" href="January16.html"></item>
+<item id="January17" media-type="text/x-oeb1-document" href="January17.html"></item>
+<item id="January18" media-type="text/x-oeb1-document" href="January18.html"></item>
+<item id="January19" media-type="text/x-oeb1-document" href="January19.html"></item>
+<item id="January20" media-type="text/x-oeb1-document" href="January20.html"></item>
+<item id="January21" media-type="text/x-oeb1-document" href="January21.html"></item>
+<item id="January22" media-type="text/x-oeb1-document" href="January22.html"></item>
+<item id="January23" media-type="text/x-oeb1-document" href="January23.html"></item>
+<item id="January24" media-type="text/x-oeb1-document" href="January24.html"></item>
+<item id="January25" media-type="text/x-oeb1-document" href="January25.html"></item>
+<item id="January26" media-type="text/x-oeb1-document" href="January26.html"></item>
+<item id="January27" media-type="text/x-oeb1-document" href="January27.html"></item>
+<item id="January28" media-type="text/x-oeb1-document" href="January28.html"></item>
+<item id="January29" media-type="text/x-oeb1-document" href="January29.html"></item>
+<item id="January30" media-type="text/x-oeb1-document" href="January30.html"></item>
+<item id="January31" media-type="text/x-oeb1-document" href="January31.html"></item>
+<item id="February1" media-type="text/x-oeb1-document" href="February1.html"></item>
+<item id="February2" media-type="text/x-oeb1-document" href="February2.html"></item>
+<item id="February3" media-type="text/x-oeb1-document" href="February3.html"></item>
+<item id="February4" media-type="text/x-oeb1-document" href="February4.html"></item>
+<item id="February5" media-type="text/x-oeb1-document" href="February5.html"></item>
+<item id="February6" media-type="text/x-oeb1-document" href="February6.html"></item>
+<item id="February7" media-type="text/x-oeb1-document" href="February7.html"></item>
+<item id="February8" media-type="text/x-oeb1-document" href="February8.html"></item>
+<item id="February9" media-type="text/x-oeb1-document" href="February9.html"></item>
+<item id="February10" media-type="text/x-oeb1-document" href="February10.html"></item>
+<item id="February11" media-type="text/x-oeb1-document" href="February11.html"></item>
+<item id="February12" media-type="text/x-oeb1-document" href="February12.html"></item>
+<item id="February13" media-type="text/x-oeb1-document" href="February13.html"></item>
+<item id="February14" media-type="text/x-oeb1-document" href="February14.html"></item>
+<item id="February15" media-type="text/x-oeb1-document" href="February15.html"></item>
+<item id="February16" media-type="text/x-oeb1-document" href="February16.html"></item>
+<item id="February17" media-type="text/x-oeb1-document" href="February17.html"></item>
+<item id="February18" media-type="text/x-oeb1-document" href="February18.html"></item>
+<item id="February19" media-type="text/x-oeb1-document" href="February19.html"></item>
+<item id="February20" media-type="text/x-oeb1-document" href="February20.html"></item>
+<item id="February21" media-type="text/x-oeb1-document" href="February21.html"></item>
+<item id="February22" media-type="text/x-oeb1-document" href="February22.html"></item>
+<item id="February23" media-type="text/x-oeb1-document" href="February23.html"></item>
+<item id="February24" media-type="text/x-oeb1-document" href="February24.html"></item>
+<item id="February25" media-type="text/x-oeb1-document" href="February25.html"></item>
+<item id="February26" media-type="text/x-oeb1-document" href="February26.html"></item>
+<item id="February27" media-type="text/x-oeb1-document" href="February27.html"></item>
+<item id="February28" media-type="text/x-oeb1-document" href="February28.html"></item>
+<item id="March1" media-type="text/x-oeb1-document" href="March1.html"></item>
+<item id="March2" media-type="text/x-oeb1-document" href="March2.html"></item>
+<item id="March3" media-type="text/x-oeb1-document" href="March3.html"></item>
+<item id="March4" media-type="text/x-oeb1-document" href="March4.html"></item>
+<item id="March5" media-type="text/x-oeb1-document" href="March5.html"></item>
+<item id="March6" media-type="text/x-oeb1-document" href="March6.html"></item>
+<item id="March7" media-type="text/x-oeb1-document" href="March7.html"></item>
+<item id="March8" media-type="text/x-oeb1-document" href="March8.html"></item>
+<item id="March9" media-type="text/x-oeb1-document" href="March9.html"></item>
+<item id="March10" media-type="text/x-oeb1-document" href="March10.html"></item>
+<item id="March11" media-type="text/x-oeb1-document" href="March11.html"></item>
+<item id="March12" media-type="text/x-oeb1-document" href="March12.html"></item>
+<item id="March13" media-type="text/x-oeb1-document" href="March13.html"></item>
+<item id="March14" media-type="text/x-oeb1-document" href="March14.html"></item>
+<item id="March15" media-type="text/x-oeb1-document" href="March15.html"></item>
+<item id="March16" media-type="text/x-oeb1-document" href="March16.html"></item>
+<item id="March17" media-type="text/x-oeb1-document" href="March17.html"></item>
+<item id="March18" media-type="text/x-oeb1-document" href="March18.html"></item>
+<item id="March19" media-type="text/x-oeb1-document" href="March19.html"></item>
+<item id="March20" media-type="text/x-oeb1-document" href="March20.html"></item>
+<item id="March21" media-type="text/x-oeb1-document" href="March21.html"></item>
+<item id="March22" media-type="text/x-oeb1-document" href="March22.html"></item>
+<item id="March23" media-type="text/x-oeb1-document" href="March23.html"></item>
+<item id="March24" media-type="text/x-oeb1-document" href="March24.html"></item>
+<item id="March25" media-type="text/x-oeb1-document" href="March25.html"></item>
+<item id="March26" media-type="text/x-oeb1-document" href="March26.html"></item>
+<item id="March27" media-type="text/x-oeb1-document" href="March27.html"></item>
+<item id="March28" media-type="text/x-oeb1-document" href="March28.html"></item>
+<item id="March29" media-type="text/x-oeb1-document" href="March29.html"></item>
+<item id="March30" media-type="text/x-oeb1-document" href="March30.html"></item>
+<item id="March31" media-type="text/x-oeb1-document" href="March31.html"></item>
+<item id="April1" media-type="text/x-oeb1-document" href="April1.html"></item>
+<item id="April2" media-type="text/x-oeb1-document" href="April2.html"></item>
+<item id="April3" media-type="text/x-oeb1-document" href="April3.html"></item>
+<item id="April4" media-type="text/x-oeb1-document" href="April4.html"></item>
+<item id="April5" media-type="text/x-oeb1-document" href="April5.html"></item>
+<item id="April6" media-type="text/x-oeb1-document" href="April6.html"></item>
+<item id="April7" media-type="text/x-oeb1-document" href="April7.html"></item>
+<item id="April8" media-type="text/x-oeb1-document" href="April8.html"></item>
+<item id="April9" media-type="text/x-oeb1-document" href="April9.html"></item>
+<item id="April10" media-type="text/x-oeb1-document" href="April10.html"></item>
+<item id="April11" media-type="text/x-oeb1-document" href="April11.html"></item>
+<item id="April12" media-type="text/x-oeb1-document" href="April12.html"></item>
+<item id="April13" media-type="text/x-oeb1-document" href="April13.html"></item>
+<item id="April14" media-type="text/x-oeb1-document" href="April14.html"></item>
+<item id="April15" media-type="text/x-oeb1-document" href="April15.html"></item>
+<item id="April16" media-type="text/x-oeb1-document" href="April16.html"></item>
+<item id="April17" media-type="text/x-oeb1-document" href="April17.html"></item>
+<item id="April18" media-type="text/x-oeb1-document" href="April18.html"></item>
+<item id="April19" media-type="text/x-oeb1-document" href="April19.html"></item>
+<item id="April20" media-type="text/x-oeb1-document" href="April20.html"></item>
+<item id="April21" media-type="text/x-oeb1-document" href="April21.html"></item>
+<item id="April22" media-type="text/x-oeb1-document" href="April22.html"></item>
+<item id="April23" media-type="text/x-oeb1-document" href="April23.html"></item>
+<item id="April24" media-type="text/x-oeb1-document" href="April24.html"></item>
+<item id="April25" media-type="text/x-oeb1-document" href="April25.html"></item>
+<item id="April26" media-type="text/x-oeb1-document" href="April26.html"></item>
+<item id="April27" media-type="text/x-oeb1-document" href="April27.html"></item>
+<item id="April28" media-type="text/x-oeb1-document" href="April28.html"></item>
+<item id="April29" media-type="text/x-oeb1-document" href="April29.html"></item>
+<item id="April30" media-type="text/x-oeb1-document" href="April30.html"></item>
+<item id="May1" media-type="text/x-oeb1-document" href="May1.html"></item>
+<item id="May2" media-type="text/x-oeb1-document" href="May2.html"></item>
+<item id="May3" media-type="text/x-oeb1-document" href="May3.html"></item>
+<item id="May4" media-type="text/x-oeb1-document" href="May4.html"></item>
+<item id="May5" media-type="text/x-oeb1-document" href="May5.html"></item>
+<item id="May6" media-type="text/x-oeb1-document" href="May6.html"></item>
+<item id="May7" media-type="text/x-oeb1-document" href="May7.html"></item>
+<item id="May8" media-type="text/x-oeb1-document" href="May8.html"></item>
+<item id="May9" media-type="text/x-oeb1-document" href="May9.html"></item>
+<item id="May10" media-type="text/x-oeb1-document" href="May10.html"></item>
+<item id="May11" media-type="text/x-oeb1-document" href="May11.html"></item>
+<item id="May12" media-type="text/x-oeb1-document" href="May12.html"></item>
+<item id="May13" media-type="text/x-oeb1-document" href="May13.html"></item>
+<item id="May14" media-type="text/x-oeb1-document" href="May14.html"></item>
+<item id="May15" media-type="text/x-oeb1-document" href="May15.html"></item>
+<item id="May16" media-type="text/x-oeb1-document" href="May16.html"></item>
+<item id="May17" media-type="text/x-oeb1-document" href="May17.html"></item>
+<item id="May18" media-type="text/x-oeb1-document" href="May18.html"></item>
+<item id="May19" media-type="text/x-oeb1-document" href="May19.html"></item>
+<item id="May20" media-type="text/x-oeb1-document" href="May20.html"></item>
+<item id="May21" media-type="text/x-oeb1-document" href="May21.html"></item>
+<item id="May22" media-type="text/x-oeb1-document" href="May22.html"></item>
+<item id="May23" media-type="text/x-oeb1-document" href="May23.html"></item>
+<item id="May24" media-type="text/x-oeb1-document" href="May24.html"></item>
+<item id="May25" media-type="text/x-oeb1-document" href="May25.html"></item>
+<item id="May26" media-type="text/x-oeb1-document" href="May26.html"></item>
+<item id="May27" media-type="text/x-oeb1-document" href="May27.html"></item>
+<item id="May28" media-type="text/x-oeb1-document" href="May28.html"></item>
+<item id="May29" media-type="text/x-oeb1-document" href="May29.html"></item>
+<item id="May30" media-type="text/x-oeb1-document" href="May30.html"></item>
+<item id="May31" media-type="text/x-oeb1-document" href="May31.html"></item>
+<item id="June1" media-type="text/x-oeb1-document" href="June1.html"></item>
+<item id="June2" media-type="text/x-oeb1-document" href="June2.html"></item>
+<item id="June3" media-type="text/x-oeb1-document" href="June3.html"></item>
+<item id="June4" media-type="text/x-oeb1-document" href="June4.html"></item>
+<item id="June5" media-type="text/x-oeb1-document" href="June5.html"></item>
+<item id="June6" media-type="text/x-oeb1-document" href="June6.html"></item>
+<item id="June7" media-type="text/x-oeb1-document" href="June7.html"></item>
+<item id="June8" media-type="text/x-oeb1-document" href="June8.html"></item>
+<item id="June9" media-type="text/x-oeb1-document" href="June9.html"></item>
+<item id="June10" media-type="text/x-oeb1-document" href="June10.html"></item>
+<item id="June11" media-type="text/x-oeb1-document" href="June11.html"></item>
+<item id="June12" media-type="text/x-oeb1-document" href="June12.html"></item>
+<item id="June13" media-type="text/x-oeb1-document" href="June13.html"></item>
+<item id="June14" media-type="text/x-oeb1-document" href="June14.html"></item>
+<item id="June15" media-type="text/x-oeb1-document" href="June15.html"></item>
+<item id="June16" media-type="text/x-oeb1-document" href="June16.html"></item>
+<item id="June17" media-type="text/x-oeb1-document" href="June17.html"></item>
+<item id="June18" media-type="text/x-oeb1-document" href="June18.html"></item>
+<item id="June19" media-type="text/x-oeb1-document" href="June19.html"></item>
+<item id="June20" media-type="text/x-oeb1-document" href="June20.html"></item>
+<item id="June21" media-type="text/x-oeb1-document" href="June21.html"></item>
+<item id="June22" media-type="text/x-oeb1-document" href="June22.html"></item>
+<item id="June23" media-type="text/x-oeb1-document" href="June23.html"></item>
+<item id="June24" media-type="text/x-oeb1-document" href="June24.html"></item>
+<item id="June25" media-type="text/x-oeb1-document" href="June25.html"></item>
+<item id="June26" media-type="text/x-oeb1-document" href="June26.html"></item>
+<item id="June27" media-type="text/x-oeb1-document" href="June27.html"></item>
+<item id="June28" media-type="text/x-oeb1-document" href="June28.html"></item>
+<item id="June29" media-type="text/x-oeb1-document" href="June29.html"></item>
+<item id="June30" media-type="text/x-oeb1-document" href="June30.html"></item>
+<item id="July1" media-type="text/x-oeb1-document" href="July1.html"></item>
+<item id="July2" media-type="text/x-oeb1-document" href="July2.html"></item>
+<item id="July3" media-type="text/x-oeb1-document" href="July3.html"></item>
+<item id="July4" media-type="text/x-oeb1-document" href="July4.html"></item>
+<item id="July5" media-type="text/x-oeb1-document" href="July5.html"></item>
+<item id="July6" media-type="text/x-oeb1-document" href="July6.html"></item>
+<item id="July7" media-type="text/x-oeb1-document" href="July7.html"></item>
+<item id="July8" media-type="text/x-oeb1-document" href="July8.html"></item>
+<item id="July9" media-type="text/x-oeb1-document" href="July9.html"></item>
+<item id="July10" media-type="text/x-oeb1-document" href="July10.html"></item>
+<item id="July11" media-type="text/x-oeb1-document" href="July11.html"></item>
+<item id="July12" media-type="text/x-oeb1-document" href="July12.html"></item>
+<item id="July13" media-type="text/x-oeb1-document" href="July13.html"></item>
+<item id="July14" media-type="text/x-oeb1-document" href="July14.html"></item>
+<item id="July15" media-type="text/x-oeb1-document" href="July15.html"></item>
+<item id="July16" media-type="text/x-oeb1-document" href="July16.html"></item>
+<item id="July17" media-type="text/x-oeb1-document" href="July17.html"></item>
+<item id="July18" media-type="text/x-oeb1-document" href="July18.html"></item>
+<item id="July19" media-type="text/x-oeb1-document" href="July19.html"></item>
+<item id="July20" media-type="text/x-oeb1-document" href="July20.html"></item>
+<item id="July21" media-type="text/x-oeb1-document" href="July21.html"></item>
+<item id="July22" media-type="text/x-oeb1-document" href="July22.html"></item>
+<item id="July23" media-type="text/x-oeb1-document" href="July23.html"></item>
+<item id="July24" media-type="text/x-oeb1-document" href="July24.html"></item>
+<item id="July25" media-type="text/x-oeb1-document" href="July25.html"></item>
+<item id="July26" media-type="text/x-oeb1-document" href="July26.html"></item>
+<item id="July27" media-type="text/x-oeb1-document" href="July27.html"></item>
+<item id="July28" media-type="text/x-oeb1-document" href="July28.html"></item>
+<item id="July29" media-type="text/x-oeb1-document" href="July29.html"></item>
+<item id="July30" media-type="text/x-oeb1-document" href="July30.html"></item>
+<item id="July31" media-type="text/x-oeb1-document" href="July31.html"></item>
+<item id="August1" media-type="text/x-oeb1-document" href="August1.html"></item>
+<item id="August2" media-type="text/x-oeb1-document" href="August2.html"></item>
+<item id="August3" media-type="text/x-oeb1-document" href="August3.html"></item>
+<item id="August4" media-type="text/x-oeb1-document" href="August4.html"></item>
+<item id="August5" media-type="text/x-oeb1-document" href="August5.html"></item>
+<item id="August6" media-type="text/x-oeb1-document" href="August6.html"></item>
+<item id="August7" media-type="text/x-oeb1-document" href="August7.html"></item>
+<item id="August8" media-type="text/x-oeb1-document" href="August8.html"></item>
+<item id="August9" media-type="text/x-oeb1-document" href="August9.html"></item>
+<item id="August10" media-type="text/x-oeb1-document" href="August10.html"></item>
+<item id="August11" media-type="text/x-oeb1-document" href="August11.html"></item>
+<item id="August12" media-type="text/x-oeb1-document" href="August12.html"></item>
+<item id="August13" media-type="text/x-oeb1-document" href="August13.html"></item>
+<item id="August14" media-type="text/x-oeb1-document" href="August14.html"></item>
+<item id="August15" media-type="text/x-oeb1-document" href="August15.html"></item>
+<item id="August16" media-type="text/x-oeb1-document" href="August16.html"></item>
+<item id="August17" media-type="text/x-oeb1-document" href="August17.html"></item>
+<item id="August18" media-type="text/x-oeb1-document" href="August18.html"></item>
+<item id="August19" media-type="text/x-oeb1-document" href="August19.html"></item>
+<item id="August20" media-type="text/x-oeb1-document" href="August20.html"></item>
+<item id="August21" media-type="text/x-oeb1-document" href="August21.html"></item>
+<item id="August22" media-type="text/x-oeb1-document" href="August22.html"></item>
+<item id="August23" media-type="text/x-oeb1-document" href="August23.html"></item>
+<item id="August24" media-type="text/x-oeb1-document" href="August24.html"></item>
+<item id="August25" media-type="text/x-oeb1-document" href="August25.html"></item>
+<item id="August26" media-type="text/x-oeb1-document" href="August26.html"></item>
+<item id="August27" media-type="text/x-oeb1-document" href="August27.html"></item>
+<item id="August28" media-type="text/x-oeb1-document" href="August28.html"></item>
+<item id="August29" media-type="text/x-oeb1-document" href="August29.html"></item>
+<item id="August30" media-type="text/x-oeb1-document" href="August30.html"></item>
+<item id="August31" media-type="text/x-oeb1-document" href="August31.html"></item>
+<item id="September1" media-type="text/x-oeb1-document" href="September1.html"></item>
+<item id="September2" media-type="text/x-oeb1-document" href="September2.html"></item>
+<item id="September3" media-type="text/x-oeb1-document" href="September3.html"></item>
+<item id="September4" media-type="text/x-oeb1-document" href="September4.html"></item>
+<item id="September5" media-type="text/x-oeb1-document" href="September5.html"></item>
+<item id="September6" media-type="text/x-oeb1-document" href="September6.html"></item>
+<item id="September7" media-type="text/x-oeb1-document" href="September7.html"></item>
+<item id="September8" media-type="text/x-oeb1-document" href="September8.html"></item>
+<item id="September9" media-type="text/x-oeb1-document" href="September9.html"></item>
+<item id="September10" media-type="text/x-oeb1-document" href="September10.html"></item>
+<item id="September11" media-type="text/x-oeb1-document" href="September11.html"></item>
+<item id="September12" media-type="text/x-oeb1-document" href="September12.html"></item>
+<item id="September13" media-type="text/x-oeb1-document" href="September13.html"></item>
+<item id="September14" media-type="text/x-oeb1-document" href="September14.html"></item>
+<item id="September15" media-type="text/x-oeb1-document" href="September15.html"></item>
+<item id="September16" media-type="text/x-oeb1-document" href="September16.html"></item>
+<item id="September17" media-type="text/x-oeb1-document" href="September17.html"></item>
+<item id="September18" media-type="text/x-oeb1-document" href="September18.html"></item>
+<item id="September19" media-type="text/x-oeb1-document" href="September19.html"></item>
+<item id="September20" media-type="text/x-oeb1-document" href="September20.html"></item>
+<item id="September21" media-type="text/x-oeb1-document" href="September21.html"></item>
+<item id="September22" media-type="text/x-oeb1-document" href="September22.html"></item>
+<item id="September23" media-type="text/x-oeb1-document" href="September23.html"></item>
+<item id="September24" media-type="text/x-oeb1-document" href="September24.html"></item>
+<item id="September25" media-type="text/x-oeb1-document" href="September25.html"></item>
+<item id="September26" media-type="text/x-oeb1-document" href="September26.html"></item>
+<item id="September27" media-type="text/x-oeb1-document" href="September27.html"></item>
+<item id="September28" media-type="text/x-oeb1-document" href="September28.html"></item>
+<item id="September29" media-type="text/x-oeb1-document" href="September29.html"></item>
+<item id="September30" media-type="text/x-oeb1-document" href="September30.html"></item>
+<item id="October1" media-type="text/x-oeb1-document" href="October1.html"></item>
+<item id="October2" media-type="text/x-oeb1-document" href="October2.html"></item>
+<item id="October3" media-type="text/x-oeb1-document" href="October3.html"></item>
+<item id="October4" media-type="text/x-oeb1-document" href="October4.html"></item>
+<item id="October5" media-type="text/x-oeb1-document" href="October5.html"></item>
+<item id="October6" media-type="text/x-oeb1-document" href="October6.html"></item>
+<item id="October7" media-type="text/x-oeb1-document" href="October7.html"></item>
+<item id="October8" media-type="text/x-oeb1-document" href="October8.html"></item>
+<item id="October9" media-type="text/x-oeb1-document" href="October9.html"></item>
+<item id="October10" media-type="text/x-oeb1-document" href="October10.html"></item>
+<item id="October11" media-type="text/x-oeb1-document" href="October11.html"></item>
+<item id="October12" media-type="text/x-oeb1-document" href="October12.html"></item>
+<item id="October13" media-type="text/x-oeb1-document" href="October13.html"></item>
+<item id="October14" media-type="text/x-oeb1-document" href="October14.html"></item>
+<item id="October15" media-type="text/x-oeb1-document" href="October15.html"></item>
+<item id="October16" media-type="text/x-oeb1-document" href="October16.html"></item>
+<item id="October17" media-type="text/x-oeb1-document" href="October17.html"></item>
+<item id="October18" media-type="text/x-oeb1-document" href="October18.html"></item>
+<item id="October19" media-type="text/x-oeb1-document" href="October19.html"></item>
+<item id="October20" media-type="text/x-oeb1-document" href="October20.html"></item>
+<item id="October21" media-type="text/x-oeb1-document" href="October21.html"></item>
+<item id="October22" media-type="text/x-oeb1-document" href="October22.html"></item>
+<item id="October23" media-type="text/x-oeb1-document" href="October23.html"></item>
+<item id="October24" media-type="text/x-oeb1-document" href="October24.html"></item>
+<item id="October25" media-type="text/x-oeb1-document" href="October25.html"></item>
+<item id="October26" media-type="text/x-oeb1-document" href="October26.html"></item>
+<item id="October27" media-type="text/x-oeb1-document" href="October27.html"></item>
+<item id="October28" media-type="text/x-oeb1-document" href="October28.html"></item>
+<item id="October29" media-type="text/x-oeb1-document" href="October29.html"></item>
+<item id="October30" media-type="text/x-oeb1-document" href="October30.html"></item>
+<item id="October31" media-type="text/x-oeb1-document" href="October31.html"></item>
+<item id="November1" media-type="text/x-oeb1-document" href="November1.html"></item>
+<item id="November2" media-type="text/x-oeb1-document" href="November2.html"></item>
+<item id="November3" media-type="text/x-oeb1-document" href="November3.html"></item>
+<item id="November4" media-type="text/x-oeb1-document" href="November4.html"></item>
+<item id="November5" media-type="text/x-oeb1-document" href="November5.html"></item>
+<item id="November6" media-type="text/x-oeb1-document" href="November6.html"></item>
+<item id="November7" media-type="text/x-oeb1-document" href="November7.html"></item>
+<item id="November8" media-type="text/x-oeb1-document" href="November8.html"></item>
+<item id="November9" media-type="text/x-oeb1-document" href="November9.html"></item>
+<item id="November10" media-type="text/x-oeb1-document" href="November10.html"></item>
+<item id="November11" media-type="text/x-oeb1-document" href="November11.html"></item>
+<item id="November12" media-type="text/x-oeb1-document" href="November12.html"></item>
+<item id="November13" media-type="text/x-oeb1-document" href="November13.html"></item>
+<item id="November14" media-type="text/x-oeb1-document" href="November14.html"></item>
+<item id="November15" media-type="text/x-oeb1-document" href="November15.html"></item>
+<item id="November16" media-type="text/x-oeb1-document" href="November16.html"></item>
+<item id="November17" media-type="text/x-oeb1-document" href="November17.html"></item>
+<item id="November18" media-type="text/x-oeb1-document" href="November18.html"></item>
+<item id="November19" media-type="text/x-oeb1-document" href="November19.html"></item>
+<item id="November20" media-type="text/x-oeb1-document" href="November20.html"></item>
+<item id="November21" media-type="text/x-oeb1-document" href="November21.html"></item>
+<item id="November22" media-type="text/x-oeb1-document" href="November22.html"></item>
+<item id="November23" media-type="text/x-oeb1-document" href="November23.html"></item>
+<item id="November24" media-type="text/x-oeb1-document" href="November24.html"></item>
+<item id="November25" media-type="text/x-oeb1-document" href="November25.html"></item>
+<item id="November26" media-type="text/x-oeb1-document" href="November26.html"></item>
+<item id="November27" media-type="text/x-oeb1-document" href="November27.html"></item>
+<item id="November28" media-type="text/x-oeb1-document" href="November28.html"></item>
+<item id="November29" media-type="text/x-oeb1-document" href="November29.html"></item>
+<item id="November30" media-type="text/x-oeb1-document" href="November30.html"></item>
+<item id="December1" media-type="text/x-oeb1-document" href="December1.html"></item>
+<item id="December2" media-type="text/x-oeb1-document" href="December2.html"></item>
+<item id="December3" media-type="text/x-oeb1-document" href="December3.html"></item>
+<item id="December4" media-type="text/x-oeb1-document" href="December4.html"></item>
+<item id="December5" media-type="text/x-oeb1-document" href="December5.html"></item>
+<item id="December6" media-type="text/x-oeb1-document" href="December6.html"></item>
+<item id="December7" media-type="text/x-oeb1-document" href="December7.html"></item>
+<item id="December8" media-type="text/x-oeb1-document" href="December8.html"></item>
+<item id="December9" media-type="text/x-oeb1-document" href="December9.html"></item>
+<item id="December10" media-type="text/x-oeb1-document" href="December10.html"></item>
+<item id="December11" media-type="text/x-oeb1-document" href="December11.html"></item>
+<item id="December12" media-type="text/x-oeb1-document" href="December12.html"></item>
+<item id="December13" media-type="text/x-oeb1-document" href="December13.html"></item>
+<item id="December14" media-type="text/x-oeb1-document" href="December14.html"></item>
+<item id="December15" media-type="text/x-oeb1-document" href="December15.html"></item>
+<item id="December16" media-type="text/x-oeb1-document" href="December16.html"></item>
+<item id="December17" media-type="text/x-oeb1-document" href="December17.html"></item>
+<item id="December18" media-type="text/x-oeb1-document" href="December18.html"></item>
+<item id="December19" media-type="text/x-oeb1-document" href="December19.html"></item>
+<item id="December20" media-type="text/x-oeb1-document" href="December20.html"></item>
+<item id="December21" media-type="text/x-oeb1-document" href="December21.html"></item>
+<item id="December22" media-type="text/x-oeb1-document" href="December22.html"></item>
+<item id="December23" media-type="text/x-oeb1-document" href="December23.html"></item>
+<item id="December24" media-type="text/x-oeb1-document" href="December24.html"></item>
+<item id="December25" media-type="text/x-oeb1-document" href="December25.html"></item>
+<item id="December26" media-type="text/x-oeb1-document" href="December26.html"></item>
+<item id="December27" media-type="text/x-oeb1-document" href="December27.html"></item>
+<item id="December28" media-type="text/x-oeb1-document" href="December28.html"></item>
+<item id="December29" media-type="text/x-oeb1-document" href="December29.html"></item>
+<item id="December30" media-type="text/x-oeb1-document" href="December30.html"></item>
+<item id="December31" media-type="text/x-oeb1-document" href="December31.html"></item>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="content"/>
+		<itemref idref="January1"/>
+<itemref idref="January2"/>
+<itemref idref="January3"/>
+<itemref idref="January4"/>
+<itemref idref="January5"/>
+<itemref idref="January6"/>
+<itemref idref="January7"/>
+<itemref idref="January8"/>
+<itemref idref="January9"/>
+<itemref idref="January10"/>
+<itemref idref="January11"/>
+<itemref idref="January12"/>
+<itemref idref="January13"/>
+<itemref idref="January14"/>
+<itemref idref="January15"/>
+<itemref idref="January16"/>
+<itemref idref="January17"/>
+<itemref idref="January18"/>
+<itemref idref="January19"/>
+<itemref idref="January20"/>
+<itemref idref="January21"/>
+<itemref idref="January22"/>
+<itemref idref="January23"/>
+<itemref idref="January24"/>
+<itemref idref="January25"/>
+<itemref idref="January26"/>
+<itemref idref="January27"/>
+<itemref idref="January28"/>
+<itemref idref="January29"/>
+<itemref idref="January30"/>
+<itemref idref="January31"/>
+<itemref idref="February1"/>
+<itemref idref="February2"/>
+<itemref idref="February3"/>
+<itemref idref="February4"/>
+<itemref idref="February5"/>
+<itemref idref="February6"/>
+<itemref idref="February7"/>
+<itemref idref="February8"/>
+<itemref idref="February9"/>
+<itemref idref="February10"/>
+<itemref idref="February11"/>
+<itemref idref="February12"/>
+<itemref idref="February13"/>
+<itemref idref="February14"/>
+<itemref idref="February15"/>
+<itemref idref="February16"/>
+<itemref idref="February17"/>
+<itemref idref="February18"/>
+<itemref idref="February19"/>
+<itemref idref="February20"/>
+<itemref idref="February21"/>
+<itemref idref="February22"/>
+<itemref idref="February23"/>
+<itemref idref="February24"/>
+<itemref idref="February25"/>
+<itemref idref="February26"/>
+<itemref idref="February27"/>
+<itemref idref="February28"/>
+<itemref idref="March1"/>
+<itemref idref="March2"/>
+<itemref idref="March3"/>
+<itemref idref="March4"/>
+<itemref idref="March5"/>
+<itemref idref="March6"/>
+<itemref idref="March7"/>
+<itemref idref="March8"/>
+<itemref idref="March9"/>
+<itemref idref="March10"/>
+<itemref idref="March11"/>
+<itemref idref="March12"/>
+<itemref idref="March13"/>
+<itemref idref="March14"/>
+<itemref idref="March15"/>
+<itemref idref="March16"/>
+<itemref idref="March17"/>
+<itemref idref="March18"/>
+<itemref idref="March19"/>
+<itemref idref="March20"/>
+<itemref idref="March21"/>
+<itemref idref="March22"/>
+<itemref idref="March23"/>
+<itemref idref="March24"/>
+<itemref idref="March25"/>
+<itemref idref="March26"/>
+<itemref idref="March27"/>
+<itemref idref="March28"/>
+<itemref idref="March29"/>
+<itemref idref="March30"/>
+<itemref idref="March31"/>
+<itemref idref="April1"/>
+<itemref idref="April2"/>
+<itemref idref="April3"/>
+<itemref idref="April4"/>
+<itemref idref="April5"/>
+<itemref idref="April6"/>
+<itemref idref="April7"/>
+<itemref idref="April8"/>
+<itemref idref="April9"/>
+<itemref idref="April10"/>
+<itemref idref="April11"/>
+<itemref idref="April12"/>
+<itemref idref="April13"/>
+<itemref idref="April14"/>
+<itemref idref="April15"/>
+<itemref idref="April16"/>
+<itemref idref="April17"/>
+<itemref idref="April18"/>
+<itemref idref="April19"/>
+<itemref idref="April20"/>
+<itemref idref="April21"/>
+<itemref idref="April22"/>
+<itemref idref="April23"/>
+<itemref idref="April24"/>
+<itemref idref="April25"/>
+<itemref idref="April26"/>
+<itemref idref="April27"/>
+<itemref idref="April28"/>
+<itemref idref="April29"/>
+<itemref idref="April30"/>
+<itemref idref="May1"/>
+<itemref idref="May2"/>
+<itemref idref="May3"/>
+<itemref idref="May4"/>
+<itemref idref="May5"/>
+<itemref idref="May6"/>
+<itemref idref="May7"/>
+<itemref idref="May8"/>
+<itemref idref="May9"/>
+<itemref idref="May10"/>
+<itemref idref="May11"/>
+<itemref idref="May12"/>
+<itemref idref="May13"/>
+<itemref idref="May14"/>
+<itemref idref="May15"/>
+<itemref idref="May16"/>
+<itemref idref="May17"/>
+<itemref idref="May18"/>
+<itemref idref="May19"/>
+<itemref idref="May20"/>
+<itemref idref="May21"/>
+<itemref idref="May22"/>
+<itemref idref="May23"/>
+<itemref idref="May24"/>
+<itemref idref="May25"/>
+<itemref idref="May26"/>
+<itemref idref="May27"/>
+<itemref idref="May28"/>
+<itemref idref="May29"/>
+<itemref idref="May30"/>
+<itemref idref="May31"/>
+<itemref idref="June1"/>
+<itemref idref="June2"/>
+<itemref idref="June3"/>
+<itemref idref="June4"/>
+<itemref idref="June5"/>
+<itemref idref="June6"/>
+<itemref idref="June7"/>
+<itemref idref="June8"/>
+<itemref idref="June9"/>
+<itemref idref="June10"/>
+<itemref idref="June11"/>
+<itemref idref="June12"/>
+<itemref idref="June13"/>
+<itemref idref="June14"/>
+<itemref idref="June15"/>
+<itemref idref="June16"/>
+<itemref idref="June17"/>
+<itemref idref="June18"/>
+<itemref idref="June19"/>
+<itemref idref="June20"/>
+<itemref idref="June21"/>
+<itemref idref="June22"/>
+<itemref idref="June23"/>
+<itemref idref="June24"/>
+<itemref idref="June25"/>
+<itemref idref="June26"/>
+<itemref idref="June27"/>
+<itemref idref="June28"/>
+<itemref idref="June29"/>
+<itemref idref="June30"/>
+<itemref idref="July1"/>
+<itemref idref="July2"/>
+<itemref idref="July3"/>
+<itemref idref="July4"/>
+<itemref idref="July5"/>
+<itemref idref="July6"/>
+<itemref idref="July7"/>
+<itemref idref="July8"/>
+<itemref idref="July9"/>
+<itemref idref="July10"/>
+<itemref idref="July11"/>
+<itemref idref="July12"/>
+<itemref idref="July13"/>
+<itemref idref="July14"/>
+<itemref idref="July15"/>
+<itemref idref="July16"/>
+<itemref idref="July17"/>
+<itemref idref="July18"/>
+<itemref idref="July19"/>
+<itemref idref="July20"/>
+<itemref idref="July21"/>
+<itemref idref="July22"/>
+<itemref idref="July23"/>
+<itemref idref="July24"/>
+<itemref idref="July25"/>
+<itemref idref="July26"/>
+<itemref idref="July27"/>
+<itemref idref="July28"/>
+<itemref idref="July29"/>
+<itemref idref="July30"/>
+<itemref idref="July31"/>
+<itemref idref="August1"/>
+<itemref idref="August2"/>
+<itemref idref="August3"/>
+<itemref idref="August4"/>
+<itemref idref="August5"/>
+<itemref idref="August6"/>
+<itemref idref="August7"/>
+<itemref idref="August8"/>
+<itemref idref="August9"/>
+<itemref idref="August10"/>
+<itemref idref="August11"/>
+<itemref idref="August12"/>
+<itemref idref="August13"/>
+<itemref idref="August14"/>
+<itemref idref="August15"/>
+<itemref idref="August16"/>
+<itemref idref="August17"/>
+<itemref idref="August18"/>
+<itemref idref="August19"/>
+<itemref idref="August20"/>
+<itemref idref="August21"/>
+<itemref idref="August22"/>
+<itemref idref="August23"/>
+<itemref idref="August24"/>
+<itemref idref="August25"/>
+<itemref idref="August26"/>
+<itemref idref="August27"/>
+<itemref idref="August28"/>
+<itemref idref="August29"/>
+<itemref idref="August30"/>
+<itemref idref="August31"/>
+<itemref idref="September1"/>
+<itemref idref="September2"/>
+<itemref idref="September3"/>
+<itemref idref="September4"/>
+<itemref idref="September5"/>
+<itemref idref="September6"/>
+<itemref idref="September7"/>
+<itemref idref="September8"/>
+<itemref idref="September9"/>
+<itemref idref="September10"/>
+<itemref idref="September11"/>
+<itemref idref="September12"/>
+<itemref idref="September13"/>
+<itemref idref="September14"/>
+<itemref idref="September15"/>
+<itemref idref="September16"/>
+<itemref idref="September17"/>
+<itemref idref="September18"/>
+<itemref idref="September19"/>
+<itemref idref="September20"/>
+<itemref idref="September21"/>
+<itemref idref="September22"/>
+<itemref idref="September23"/>
+<itemref idref="September24"/>
+<itemref idref="September25"/>
+<itemref idref="September26"/>
+<itemref idref="September27"/>
+<itemref idref="September28"/>
+<itemref idref="September29"/>
+<itemref idref="September30"/>
+<itemref idref="October1"/>
+<itemref idref="October2"/>
+<itemref idref="October3"/>
+<itemref idref="October4"/>
+<itemref idref="October5"/>
+<itemref idref="October6"/>
+<itemref idref="October7"/>
+<itemref idref="October8"/>
+<itemref idref="October9"/>
+<itemref idref="October10"/>
+<itemref idref="October11"/>
+<itemref idref="October12"/>
+<itemref idref="October13"/>
+<itemref idref="October14"/>
+<itemref idref="October15"/>
+<itemref idref="October16"/>
+<itemref idref="October17"/>
+<itemref idref="October18"/>
+<itemref idref="October19"/>
+<itemref idref="October20"/>
+<itemref idref="October21"/>
+<itemref idref="October22"/>
+<itemref idref="October23"/>
+<itemref idref="October24"/>
+<itemref idref="October25"/>
+<itemref idref="October26"/>
+<itemref idref="October27"/>
+<itemref idref="October28"/>
+<itemref idref="October29"/>
+<itemref idref="October30"/>
+<itemref idref="October31"/>
+<itemref idref="November1"/>
+<itemref idref="November2"/>
+<itemref idref="November3"/>
+<itemref idref="November4"/>
+<itemref idref="November5"/>
+<itemref idref="November6"/>
+<itemref idref="November7"/>
+<itemref idref="November8"/>
+<itemref idref="November9"/>
+<itemref idref="November10"/>
+<itemref idref="November11"/>
+<itemref idref="November12"/>
+<itemref idref="November13"/>
+<itemref idref="November14"/>
+<itemref idref="November15"/>
+<itemref idref="November16"/>
+<itemref idref="November17"/>
+<itemref idref="November18"/>
+<itemref idref="November19"/>
+<itemref idref="November20"/>
+<itemref idref="November21"/>
+<itemref idref="November22"/>
+<itemref idref="November23"/>
+<itemref idref="November24"/>
+<itemref idref="November25"/>
+<itemref idref="November26"/>
+<itemref idref="November27"/>
+<itemref idref="November28"/>
+<itemref idref="November29"/>
+<itemref idref="November30"/>
+<itemref idref="December1"/>
+<itemref idref="December2"/>
+<itemref idref="December3"/>
+<itemref idref="December4"/>
+<itemref idref="December5"/>
+<itemref idref="December6"/>
+<itemref idref="December7"/>
+<itemref idref="December8"/>
+<itemref idref="December9"/>
+<itemref idref="December10"/>
+<itemref idref="December11"/>
+<itemref idref="December12"/>
+<itemref idref="December13"/>
+<itemref idref="December14"/>
+<itemref idref="December15"/>
+<itemref idref="December16"/>
+<itemref idref="December17"/>
+<itemref idref="December18"/>
+<itemref idref="December19"/>
+<itemref idref="December20"/>
+<itemref idref="December21"/>
+<itemref idref="December22"/>
+<itemref idref="December23"/>
+<itemref idref="December24"/>
+<itemref idref="December25"/>
+<itemref idref="December26"/>
+<itemref idref="December27"/>
+<itemref idref="December28"/>
+<itemref idref="December29"/>
+<itemref idref="December30"/>
+<itemref idref="December31"/>
+	</spine>
+	<guide>
+		<reference type="toc" title="Table of Contents" href="toc.html"/>
+		<reference type="text" title="Book" href="January1.html"/>
+	</guide>
+</package>
