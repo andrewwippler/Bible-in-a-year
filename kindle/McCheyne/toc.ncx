@@ -66,7 +66,7 @@
 <navPoint id="navpoint-56" playOrder="56"><navLabel><text>February 25</text></navLabel><content src="February25.html" /></navPoint>
 <navPoint id="navpoint-57" playOrder="57"><navLabel><text>February 26</text></navLabel><content src="February26.html" /></navPoint>
 <navPoint id="navpoint-58" playOrder="58"><navLabel><text>February 27</text></navLabel><content src="February27.html" /></navPoint>
-<navPoint id="navpoint-59" playOrder="59"><navLabel><text>February 28</text></navLabel><content src="February27.html" /></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>February 28</text></navLabel><content src="February28.html" /></navPoint>
 <navPoint id="navpoint-60" playOrder="60"><navLabel><text>March 1</text></navLabel><content src="March1.html" /></navPoint>
 <navPoint id="navpoint-61" playOrder="61"><navLabel><text>March 2</text></navLabel><content src="March2.html" /></navPoint>
 <navPoint id="navpoint-62" playOrder="62"><navLabel><text>March 3</text></navLabel><content src="March3.html" /></navPoint>

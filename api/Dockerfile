@@ -35,6 +35,7 @@ RUN { \
         echo 'post_max_size=10M'; \
         echo 'file_uploads=On'; \
         echo 'upload_max_filesize=10M'; \
+        echo 'default_charset="iso-8859-1"'; \
         echo 'max_file_uploads=5'; \
     } > /usr/local/etc/php/conf.d/opcache-recommended.ini
 

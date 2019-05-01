@@ -2,7 +2,7 @@
 <package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
 	<metadata>
 		<dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
-			<dc:Title>Bible in a Year - McCheyne</dc:Title>
+			<dc:Title>Bible in a Year</dc:Title>
 			<dc:Language>en</dc:Language>
 			<dc:Creator>God</dc:Creator>
 			<dc:Copyrights></dc:Copyrights>
@@ -441,6 +441,7 @@
 <itemref idref="February25"/>
 <itemref idref="February26"/>
 <itemref idref="February27"/>
+<itemref idref="February28"/>
 <itemref idref="March1"/>
 <itemref idref="March2"/>
 <itemref idref="March3"/>

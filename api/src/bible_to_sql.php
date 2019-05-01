@@ -745,8 +745,7 @@ function getCrossReferences($id, $database = null)
 
     $query = "SELECT sv,ev from bible_databases.cross_reference WHERE vid=? ORDER BY r";
     $returnArray = [];
-    $stmt = $database->stmt_init();
-    $stmt->prepare($query);
+    $stmt = $database->prepare($query);
     $stmt->bind_param("s", $id);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -769,8 +768,7 @@ function convertToNumber($book = null, $database = null)
         
     $query = "SELECT B from bible_databases.key_abbreviations_english WHERE A=?";
     
-    $stmt = $database->stmt_init();
-    $stmt->prepare($query);
+    $stmt = $database->prepare($query);
     $stmt->bind_param("s", $book);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -788,8 +786,7 @@ function convertToBook($number = null, $database = null)
     
     $query = "SELECT n from bible_databases.key_english WHERE b=?";
     
-    $stmt = $database->stmt_init();
-    $stmt->prepare($query);
+    $stmt = $database->prepare($query);
     $stmt->bind_param("s", $number);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -815,7 +812,7 @@ class bible_to_sql
     public function __construct($string = null, $range = false, $database = null)
     {
         
-        //places a . between book name and reference.
+        //places a | between book name and reference.
         //i.e. changes "Song of Solomon 9:6" to "Song of Solomon|9:6"
         $string = preg_replace('/\s(\S*)$/', '|$1', trim($string)); //trim end for sanitization.
                 
