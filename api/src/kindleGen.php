@@ -40,7 +40,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
 
         // get length of uploaded csv
         // if length > 365 continue
-        if ($csvcount < 364) {
+        if ($csvcount < 364 && $csvcount != 66) {
             $errors[] = "CSV files must have more than 364 entries. Saw: $csvcount.";
             throw new Exception("CSV files must have more than 364 entries. Saw: $csvcount.");
         }
@@ -51,10 +51,14 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
             $datesArray = $datesArray365;
             $toc = "toc365";
             $kjv = "KJVinaYear365.opf";
-        } else {
+        } elseif ($csvcount == 366) {
             $datesArray = $datesArray366;
             $toc = "toc366";
             $kjv = "KJVinaYear366.opf";
+        } else {
+            $datesArray = $chaptersArray;
+            $toc = "toc66";
+            $kjv = "KJVinaYear66.opf";
         }
 
         // make folder
@@ -65,7 +69,20 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
 
         // loop 366 times
         for ($i=0; $i < $csvcount; $i++) {
-            $today = $datesArray[$i];
+            if ($csvcount == 66) {
+                $mysql_server = getenv('DB_HOST');
+                $mysql_username = getenv('DB_USER');
+                $mysql_password = getenv('DB_PASSWORD');
+                $mysql_db = getenv('DB_NAME');
+                $mysqli = new mysqli($mysql_server, $mysql_username, $mysql_password, $mysql_db); 
+                if ($mysqli->connect_error) {
+                    die('Connect Error (' . $mysqli->connect_errno . ') ' . $mysqli->connect_error);
+                }
+                $today = convertToBook($i, $mysqli);
+                $mysqli->close();
+            } else {
+                $today = $datesArray[$i];
+            }
             $todayHTML = preg_replace('/\s/', '', $today);
             // create file
             $fp = fopen("$workingPath/$todayHTML.html", "w");
