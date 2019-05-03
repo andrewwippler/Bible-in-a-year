@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+  </head>
+  <docTitle>
+    <text>KJV Bible</text>
+  </docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Genesis</text></navLabel><content src="Genesis.html" /></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Exodus</text></navLabel><content src="Exodus.html" /></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Leviticus</text></navLabel><content src="Leviticus.html" /></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Numbers</text></navLabel><content src="Numbers.html" /></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Deuteronomy</text></navLabel><content src="Deuteronomy.html" /></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Joshua</text></navLabel><content src="Joshua.html" /></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Judges</text></navLabel><content src="Judges.html" /></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Ruth</text></navLabel><content src="Ruth.html" /></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>1 Samuel</text></navLabel><content src="1Samuel.html" /></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>2 Samuel</text></navLabel><content src="2Samuel.html" /></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>1 Kings</text></navLabel><content src="1Kings.html" /></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>2 Kings</text></navLabel><content src="2Kings.html" /></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>1 Chronicles</text></navLabel><content src="1Chronicles.html" /></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>2 Chronicles</text></navLabel><content src="2Chronicles.html" /></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>Ezra</text></navLabel><content src="Ezra.html" /></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>Nehemiah</text></navLabel><content src="Nehemiah.html" /></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>Esther</text></navLabel><content src="Esther.html" /></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>Job</text></navLabel><content src="Job.html" /></navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Psalms</text></navLabel><content src="Psalms.html" /></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>Proverbs</text></navLabel><content src="Proverbs.html" /></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Ecclesiastes</text></navLabel><content src="Ecclesiastes.html" /></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>Song of Solomon</text></navLabel><content src="SongofSolomon.html" /></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>Isaiah</text></navLabel><content src="Isaiah.html" /></navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>Jeremiah</text></navLabel><content src="Jeremiah.html" /></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>Lamentations</text></navLabel><content src="Lamentations.html" /></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>Ezekiel</text></navLabel><content src="Ezekiel.html" /></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>Daniel</text></navLabel><content src="Daniel.html" /></navPoint>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>Hosea</text></navLabel><content src="Hosea.html" /></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>Joel</text></navLabel><content src="Joel.html" /></navPoint>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>Amos</text></navLabel><content src="Amos.html" /></navPoint>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>Obadiah</text></navLabel><content src="Obadiah.html" /></navPoint>
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>Jonah</text></navLabel><content src="Jonah.html" /></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>Micah</text></navLabel><content src="Micah.html" /></navPoint>
+<navPoint id="navpoint-34" playOrder="34"><navLabel><text>Nahum</text></navLabel><content src="Nahum.html" /></navPoint>
+<navPoint id="navpoint-35" playOrder="35"><navLabel><text>Habakkuk</text></navLabel><content src="Habakkuk.html" /></navPoint>
+<navPoint id="navpoint-36" playOrder="36"><navLabel><text>Zephaniah</text></navLabel><content src="Zephaniah.html" /></navPoint>
+<navPoint id="navpoint-37" playOrder="37"><navLabel><text>Haggai</text></navLabel><content src="Haggai.html" /></navPoint>
+<navPoint id="navpoint-38" playOrder="38"><navLabel><text>Zechariah</text></navLabel><content src="Zechariah.html" /></navPoint>
+<navPoint id="navpoint-39" playOrder="39"><navLabel><text>Malachi</text></navLabel><content src="Malachi.html" /></navPoint>
+<navPoint id="navpoint-40" playOrder="40"><navLabel><text>Matthew</text></navLabel><content src="Matthew.html" /></navPoint>
+<navPoint id="navpoint-41" playOrder="41"><navLabel><text>Mark</text></navLabel><content src="Mark.html" /></navPoint>
+<navPoint id="navpoint-42" playOrder="42"><navLabel><text>Luke</text></navLabel><content src="Luke.html" /></navPoint>
+<navPoint id="navpoint-43" playOrder="43"><navLabel><text>John</text></navLabel><content src="John.html" /></navPoint>
+<navPoint id="navpoint-44" playOrder="44"><navLabel><text>Acts</text></navLabel><content src="Acts.html" /></navPoint>
+<navPoint id="navpoint-45" playOrder="45"><navLabel><text>Romans</text></navLabel><content src="Romans.html" /></navPoint>
+<navPoint id="navpoint-46" playOrder="46"><navLabel><text>1 Corinthians</text></navLabel><content src="1Corinthians.html" /></navPoint>
+<navPoint id="navpoint-47" playOrder="47"><navLabel><text>2 Corinthians</text></navLabel><content src="2Corinthians.html" /></navPoint>
+<navPoint id="navpoint-48" playOrder="48"><navLabel><text>Galatians</text></navLabel><content src="Galatians.html" /></navPoint>
+<navPoint id="navpoint-49" playOrder="49"><navLabel><text>Ephesians</text></navLabel><content src="Ephesians.html" /></navPoint>
+<navPoint id="navpoint-50" playOrder="50"><navLabel><text>Philippians</text></navLabel><content src="Philippians.html" /></navPoint>
+<navPoint id="navpoint-51" playOrder="51"><navLabel><text>Colossians</text></navLabel><content src="Colossians.html" /></navPoint>
+<navPoint id="navpoint-52" playOrder="52"><navLabel><text>1 Thessalonians</text></navLabel><content src="1Thessalonians.html" /></navPoint>
+<navPoint id="navpoint-53" playOrder="53"><navLabel><text>2 Thessalonians</text></navLabel><content src="2Thessalonians.html" /></navPoint>
+<navPoint id="navpoint-54" playOrder="54"><navLabel><text>1 Timothy</text></navLabel><content src="1Timothy.html" /></navPoint>
+<navPoint id="navpoint-55" playOrder="55"><navLabel><text>2 Timothy</text></navLabel><content src="2Timothy.html" /></navPoint>
+<navPoint id="navpoint-56" playOrder="56"><navLabel><text>Titus</text></navLabel><content src="Titus.html" /></navPoint>
+<navPoint id="navpoint-57" playOrder="57"><navLabel><text>Philemon</text></navLabel><content src="Philemon.html" /></navPoint>
+<navPoint id="navpoint-58" playOrder="58"><navLabel><text>Hebrews</text></navLabel><content src="Hebrews.html" /></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>James</text></navLabel><content src="James.html" /></navPoint>
+<navPoint id="navpoint-60" playOrder="60"><navLabel><text>1 Peter</text></navLabel><content src="1Peter.html" /></navPoint>
+<navPoint id="navpoint-61" playOrder="61"><navLabel><text>2 Peter</text></navLabel><content src="2Peter.html" /></navPoint>
+<navPoint id="navpoint-62" playOrder="62"><navLabel><text>1 John</text></navLabel><content src="1John.html" /></navPoint>
+<navPoint id="navpoint-63" playOrder="63"><navLabel><text>2 John</text></navLabel><content src="2John.html" /></navPoint>
+<navPoint id="navpoint-64" playOrder="64"><navLabel><text>3 John</text></navLabel><content src="3John.html" /></navPoint>
+<navPoint id="navpoint-65" playOrder="65"><navLabel><text>Jude</text></navLabel><content src="Jude.html" /></navPoint>
+<navPoint id="navpoint-66" playOrder="66"><navLabel><text>Revelation</text></navLabel><content src="Revelation.html" /></navPoint>
+</navMap>
+</ncx>

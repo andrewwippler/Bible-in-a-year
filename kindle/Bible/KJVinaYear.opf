@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<package unique-identifier="uid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:asd="http://www.idpf.org/asdfaf">
+	<metadata>
+		<dc-metadata  xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+			<dc:Title>KJV Bible</dc:Title>
+			<dc:Language>en</dc:Language>
+			<dc:Creator>God</dc:Creator>
+			<dc:Copyrights></dc:Copyrights>
+			<dc:Publisher>Andrew Wippler</dc:Publisher>
+			<x-metadata>
+				<EmbeddedCover>cover.jpg</EmbeddedCover>
+			</x-metadata>
+		</dc-metadata>
+	</metadata>
+	<manifest>
+		<item id="content" media-type="text/x-oeb1-document" href="toc.html"></item>
+		<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+<item id="Genesis" media-type="text/x-oeb1-document" href="Genesis.html"></item>
+<item id="Exodus" media-type="text/x-oeb1-document" href="Exodus.html"></item>
+<item id="Leviticus" media-type="text/x-oeb1-document" href="Leviticus.html"></item>
+<item id="Numbers" media-type="text/x-oeb1-document" href="Numbers.html"></item>
+<item id="Deuteronomy" media-type="text/x-oeb1-document" href="Deuteronomy.html"></item>
+<item id="Joshua" media-type="text/x-oeb1-document" href="Joshua.html"></item>
+<item id="Judges" media-type="text/x-oeb1-document" href="Judges.html"></item>
+<item id="Ruth" media-type="text/x-oeb1-document" href="Ruth.html"></item>
+<item id="1Samuel" media-type="text/x-oeb1-document" href="1Samuel.html"></item>
+<item id="2Samuel" media-type="text/x-oeb1-document" href="2Samuel.html"></item>
+<item id="1Kings" media-type="text/x-oeb1-document" href="1Kings.html"></item>
+<item id="2Kings" media-type="text/x-oeb1-document" href="2Kings.html"></item>
+<item id="1Chronicles" media-type="text/x-oeb1-document" href="1Chronicles.html"></item>
+<item id="2Chronicles" media-type="text/x-oeb1-document" href="2Chronicles.html"></item>
+<item id="Ezra" media-type="text/x-oeb1-document" href="Ezra.html"></item>
+<item id="Nehemiah" media-type="text/x-oeb1-document" href="Nehemiah.html"></item>
+<item id="Esther" media-type="text/x-oeb1-document" href="Esther.html"></item>
+<item id="Job" media-type="text/x-oeb1-document" href="Job.html"></item>
+<item id="Psalms" media-type="text/x-oeb1-document" href="Psalms.html"></item>
+<item id="Proverbs" media-type="text/x-oeb1-document" href="Proverbs.html"></item>
+<item id="Ecclesiastes" media-type="text/x-oeb1-document" href="Ecclesiastes.html"></item>
+<item id="SongofSolomon" media-type="text/x-oeb1-document" href="SongofSolomon.html"></item>
+<item id="Isaiah" media-type="text/x-oeb1-document" href="Isaiah.html"></item>
+<item id="Jeremiah" media-type="text/x-oeb1-document" href="Jeremiah.html"></item>
+<item id="Lamentations" media-type="text/x-oeb1-document" href="Lamentations.html"></item>
+<item id="Ezekiel" media-type="text/x-oeb1-document" href="Ezekiel.html"></item>
+<item id="Daniel" media-type="text/x-oeb1-document" href="Daniel.html"></item>
+<item id="Hosea" media-type="text/x-oeb1-document" href="Hosea.html"></item>
+<item id="Joel" media-type="text/x-oeb1-document" href="Joel.html"></item>
+<item id="Amos" media-type="text/x-oeb1-document" href="Amos.html"></item>
+<item id="Obadiah" media-type="text/x-oeb1-document" href="Obadiah.html"></item>
+<item id="Jonah" media-type="text/x-oeb1-document" href="Jonah.html"></item>
+<item id="Micah" media-type="text/x-oeb1-document" href="Micah.html"></item>
+<item id="Nahum" media-type="text/x-oeb1-document" href="Nahum.html"></item>
+<item id="Habakkuk" media-type="text/x-oeb1-document" href="Habakkuk.html"></item>
+<item id="Zephaniah" media-type="text/x-oeb1-document" href="Zephaniah.html"></item>
+<item id="Haggai" media-type="text/x-oeb1-document" href="Haggai.html"></item>
+<item id="Zechariah" media-type="text/x-oeb1-document" href="Zechariah.html"></item>
+<item id="Malachi" media-type="text/x-oeb1-document" href="Malachi.html"></item>
+<item id="Matthew" media-type="text/x-oeb1-document" href="Matthew.html"></item>
+<item id="Mark" media-type="text/x-oeb1-document" href="Mark.html"></item>
+<item id="Luke" media-type="text/x-oeb1-document" href="Luke.html"></item>
+<item id="John" media-type="text/x-oeb1-document" href="John.html"></item>
+<item id="Acts" media-type="text/x-oeb1-document" href="Acts.html"></item>
+<item id="Romans" media-type="text/x-oeb1-document" href="Romans.html"></item>
+<item id="1Corinthians" media-type="text/x-oeb1-document" href="1Corinthians.html"></item>
+<item id="2Corinthians" media-type="text/x-oeb1-document" href="2Corinthians.html"></item>
+<item id="Galatians" media-type="text/x-oeb1-document" href="Galatians.html"></item>
+<item id="Ephesians" media-type="text/x-oeb1-document" href="Ephesians.html"></item>
+<item id="Philippians" media-type="text/x-oeb1-document" href="Philippians.html"></item>
+<item id="Colossians" media-type="text/x-oeb1-document" href="Colossians.html"></item>
+<item id="1Thessalonians" media-type="text/x-oeb1-document" href="1Thessalonians.html"></item>
+<item id="2Thessalonians" media-type="text/x-oeb1-document" href="2Thessalonians.html"></item>
+<item id="1Timothy" media-type="text/x-oeb1-document" href="1Timothy.html"></item>
+<item id="2Timothy" media-type="text/x-oeb1-document" href="2Timothy.html"></item>
+<item id="Titus" media-type="text/x-oeb1-document" href="Titus.html"></item>
+<item id="Philemon" media-type="text/x-oeb1-document" href="Philemon.html"></item>
+<item id="Hebrews" media-type="text/x-oeb1-document" href="Hebrews.html"></item>
+<item id="James" media-type="text/x-oeb1-document" href="James.html"></item>
+<item id="1Peter" media-type="text/x-oeb1-document" href="1Peter.html"></item>
+<item id="2Peter" media-type="text/x-oeb1-document" href="2Peter.html"></item>
+<item id="1John" media-type="text/x-oeb1-document" href="1John.html"></item>
+<item id="2John" media-type="text/x-oeb1-document" href="2John.html"></item>
+<item id="3John" media-type="text/x-oeb1-document" href="3John.html"></item>
+<item id="Jude" media-type="text/x-oeb1-document" href="Jude.html"></item>
+<item id="Revelation" media-type="text/x-oeb1-document" href="Revelation.html"></item>
+
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="content"/>
+		<itemref idref="Genesis"/>
+		<itemref idref="Exodus"/>
+		<itemref idref="Leviticus"/>
+		<itemref idref="Numbers"/>
+		<itemref idref="Deuteronomy"/>
+		<itemref idref="Joshua"/>
+		<itemref idref="Judges"/>
+		<itemref idref="Ruth"/>
+		<itemref idref="1Samuel"/>
+		<itemref idref="2Samuel"/>
+		<itemref idref="1Kings"/>
+		<itemref idref="2Kings"/>
+		<itemref idref="1Chronicles"/>
+		<itemref idref="2Chronicles"/>
+		<itemref idref="Ezra"/>
+		<itemref idref="Nehemiah"/>
+		<itemref idref="Esther"/>
+		<itemref idref="Job"/>
+		<itemref idref="Psalms"/>
+		<itemref idref="Proverbs"/>
+		<itemref idref="Ecclesiastes"/>
+		<itemref idref="SongofSolomon"/>
+		<itemref idref="Isaiah"/>
+		<itemref idref="Jeremiah"/>
+		<itemref idref="Lamentations"/>
+		<itemref idref="Ezekiel"/>
+		<itemref idref="Daniel"/>
+		<itemref idref="Hosea"/>
+		<itemref idref="Joel"/>
+		<itemref idref="Amos"/>
+		<itemref idref="Obadiah"/>
+		<itemref idref="Jonah"/>
+		<itemref idref="Micah"/>
+		<itemref idref="Nahum"/>
+		<itemref idref="Habakkuk"/>
+		<itemref idref="Zephaniah"/>
+		<itemref idref="Haggai"/>
+		<itemref idref="Zechariah"/>
+		<itemref idref="Malachi"/>
+		<itemref idref="Matthew"/>
+		<itemref idref="Mark"/>
+		<itemref idref="Luke"/>
+		<itemref idref="John"/>
+		<itemref idref="Acts"/>
+		<itemref idref="Romans"/>
+		<itemref idref="1Corinthians"/>
+		<itemref idref="2Corinthians"/>
+		<itemref idref="Galatians"/>
+		<itemref idref="Ephesians"/>
+		<itemref idref="Philippians"/>
+		<itemref idref="Colossians"/>
+		<itemref idref="1Thessalonians"/>
+		<itemref idref="2Thessalonians"/>
+		<itemref idref="1Timothy"/>
+		<itemref idref="2Timothy"/>
+		<itemref idref="Titus"/>
+		<itemref idref="Philemon"/>
+		<itemref idref="Hebrews"/>
+		<itemref idref="James"/>
+		<itemref idref="1Peter"/>
+		<itemref idref="2Peter"/>
+		<itemref idref="1John"/>
+		<itemref idref="2John"/>
+		<itemref idref="3John"/>
+		<itemref idref="Jude"/>
+		<itemref idref="Revelation"/>
+
+	</spine>
+	<guide>
+		<reference type="toc" title="Table of Contents" href="toc.html"/>
+		<reference type="text" title="Book" href="Genesis.html"/>
+	</guide>
+</package>
