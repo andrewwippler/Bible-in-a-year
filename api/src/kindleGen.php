@@ -56,6 +56,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
             $toc = "toc366";
             $kjv = "KJVinaYear366.opf";
         } else {
+            $csvcount = 67;
             $datesArray = $chaptersArray;
             $toc = "toc66";
             $kjv = "KJVinaYear66.opf";
@@ -69,7 +70,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
 
         // loop 366 times
         for ($i=0; $i < $csvcount; $i++) {
-            if ($csvcount == 66) {
+            if ($csvcount == 67) {
                 $mysql_server = getenv('DB_HOST');
                 $mysql_username = getenv('DB_USER');
                 $mysql_password = getenv('DB_PASSWORD');
@@ -78,7 +79,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
                 if ($mysqli->connect_error) {
                     die('Connect Error (' . $mysqli->connect_errno . ') ' . $mysqli->connect_error);
                 }
-                $today = convertToBook($i, $mysqli);
+                $today = convertToBook($i+1, $mysqli);
                 $mysqli->close();
             } else {
                 $today = $datesArray[$i];
@@ -88,7 +89,7 @@ if ($submitted && $_FILES['uploadedFile']['type'] == 'text/csv') {
             $fp = fopen("$workingPath/$todayHTML.html", "w");
 
             // curl api for files // index.php?k=1&date=September%2030&b=1%20Kings%202,Galatians%206,Ezekiel%2033,Psalm%2081,Psalm%2082
-            $curlURL = "http://localhost/index.php?k=1&date=".urlencode($today)."&b=".urlencode($csv[$i]);
+            $curlURL = "http://localhost/index.php?k=1&date=".urlencode($datesArray[$i])."&b=".urlencode($csv[$i]);
             $ch = curl_init();
 
             curl_setopt($ch, CURLOPT_URL, $curlURL);

@@ -17,9 +17,9 @@ require "bible_to_sql.php";
 
 
 //split at commas
-$references = explode(",", $_GET['b']);
-
-
+$ref = str_replace(';', ',', $_GET['b']);
+$references = explode(",", $ref);
+$formattedReferences = getFormattedReferences($references);
 ?>
 <!DOCTYPE html>
 <?php if ($_GET['k'] == 1) {
@@ -66,7 +66,7 @@ if ($_GET['h'] == 1 || $_GET['k'] == 1) {
 <?php 
     //return results
     
-foreach ($references as $r) {
+foreach ($formattedReferences as $r) {
     $ret = new bible_to_sql($r, null, $mysqli);
     //echo "sql query: " . $ret->sql() . "<br />";
     //SELECT * FROM bible.t_kjv WHERE id BETWEEN 01001001 AND 02001005
